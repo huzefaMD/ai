@@ -3,7 +3,9 @@
 ## Your Exercise
 Take this weak prompt and rewrite it using all 5 building blocks
 
-`Give me advice on productivity`
+```
+Give me advice on productivity
+```
 
 Context: I am a founder of small startup which gives online training on Cloud
 
