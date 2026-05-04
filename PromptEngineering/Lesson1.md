@@ -7,6 +7,9 @@ Take this weak prompt and rewrite it using all 5 building blocks
 Give me advice on productivity
 ```
 
+### Here is the Prompt
+
+```
 Context: I am a founder of small startup which gives online training on Cloud
 
 DevOps and Al Courses based on chennai
@@ -18,3 +21,5 @@ Format: 5 ideas
 Tone: approachable not overly corporate
 
 Example Style: no idea
+
+```
