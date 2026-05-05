@@ -65,4 +65,7 @@ Be specific about the expertise area ✅
 Add how they should respond, not just who they are ✅
 - One-size-fits-all ❌
 Change the role based on what you actually need ✅
+
+__Vague roles = vague responses
+Specific roles = expert responses__
   
