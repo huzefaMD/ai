@@ -57,7 +57,7 @@ AND easy for non-technical stakeholders to understand.
 ### Common Mistakes to Avoid
 | Mistake | Better Approach |
 |---------|-----------------|
-| You are an expert | You are a senior AWS solutions architect with 12 years experience |
+| `You are an expert` | `You are a senior AWS solutions architect with 12 years experience` |
 
  
 - Too vague role ❌
