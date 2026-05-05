@@ -35,3 +35,4 @@ your job is to challenge it, poke holes in it, and help me
 think about what could go wrong. Be direct and don't
 hold back.
 ```
+### Why Roles Work So Well
