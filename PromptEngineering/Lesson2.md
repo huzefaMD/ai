@@ -55,3 +55,4 @@ AND easy for non-technical stakeholders to understand.
 **Two roles, one response, double the value**
 
 ### Common Mistakes to Avoid
+**Mistake❌** **Better Approach✅**
