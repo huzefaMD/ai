@@ -37,4 +37,5 @@ hold back.
 ```
 ### Why Roles Work So Well
 When you assign a role, Claude:
+
 **WITHOUT role**
