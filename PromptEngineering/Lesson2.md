@@ -40,3 +40,6 @@ When you assign a role, Claude:
 
 WITHOUT role - 
 Generic answer Surface-level advice Cautious & broad One perspective
+___________________________________________________________________________________
+WITH role -
+Specialist answer Deep domain expertise Confident & specific Expert perspective
