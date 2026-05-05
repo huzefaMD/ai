@@ -28,3 +28,4 @@ high-converting landing pages for SaaS products.
 Write punchy, benefit-focused copy that speaks to
 busy startup founders.
 ```
+### Thinking Partner
