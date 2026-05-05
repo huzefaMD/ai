@@ -53,3 +53,5 @@ and write documentation that is both technically accurate
 AND easy for non-technical stakeholders to understand.
 ```
 **Two roles, one response, double the value**
+
+### Common Mistakes to Avoid
