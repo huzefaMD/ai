@@ -1,3 +1,3 @@
-## Lesson 2
+# Lesson 2
 
-# Real Examples Across Different Fields
+## Real Examples Across Different Fields
