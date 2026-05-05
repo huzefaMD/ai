@@ -42,3 +42,5 @@ When you assign a role, Claude:
 Generic answer Surface-level advice Cautious & broad One perspective
 - WITH role - 
 Specialist answer Deep domain expertise Confident & specific Expert perspective
+
+**The model doesn't change - but the lens it uses to respond completely transforms**
