@@ -36,3 +36,4 @@ think about what could go wrong. Be direct and don't
 hold back.
 ```
 ### Why Roles Work So Well
+When you assign a role, Claude:
