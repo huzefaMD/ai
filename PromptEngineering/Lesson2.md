@@ -21,3 +21,4 @@ complex tech concepts to complete beginners. Use simple
 analogies and everyday examples. Never use jargon without
 explaining it first.
 ```
+### Writing
