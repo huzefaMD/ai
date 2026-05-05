@@ -55,4 +55,5 @@ AND easy for non-technical stakeholders to understand.
 **Two roles, one response, double the value**
 
 ### Common Mistakes to Avoid
-**Mistake❌** **Better Approach✅**
+**Mistake=❌** **Better Approach=✅**
+- You are an expert ❌--> You are a senior AWS solutions architect with 12 years experience ✅
