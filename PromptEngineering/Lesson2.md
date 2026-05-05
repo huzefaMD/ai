@@ -38,7 +38,7 @@ hold back.
 ### Why Roles Work So Well
 When you assign a role, Claude:
 
--WITHOUT role - 
+- WITHOUT role
 Generic answer Surface-level advice Cautious & broad One perspective
--WITH role -
+- WITH role -
 Specialist answer Deep domain expertise Confident & specific Expert perspective
