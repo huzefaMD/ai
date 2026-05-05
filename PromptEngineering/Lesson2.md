@@ -52,3 +52,4 @@ technical writer. Review my AWS architecture diagram
 and write documentation that is both technically accurate
 AND easy for non-technical stakeholders to understand.
 ```
+**Two roles, one response, double the value**
