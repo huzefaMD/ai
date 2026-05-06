@@ -13,3 +13,7 @@ you show them 3 examples and say "do it like this." They get it immediately.
 ### Zero-Shot vs Few-Shot - Side by Side
 Zero-Shot (No Examples):
 ` Write a course description for my AWS Fundamentals course. `
+**Claude's response might be:** 
+``` This comprehensive AWS Fundamentals course covers core
+cloud concepts including EC2, S3, IAM, and VPC. Students will learn to deploy scalable
+applications on Amazon Web Services ... ```
