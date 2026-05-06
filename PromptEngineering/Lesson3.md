@@ -169,3 +169,7 @@ my career trajectory completely!
 
 ## Common Mistakes
 ### Mistake 1: Inconsistent Examples
+
+Example 1: `Formal corporate tone`
+Example 2: `Super casual slang`
+Example 3: `Technical jargon heavy`
