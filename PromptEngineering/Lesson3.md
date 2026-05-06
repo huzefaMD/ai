@@ -23,4 +23,4 @@ applications on Amazon Web Services
 ```
 Generic. Could be from any EdTech platform.
 
-| Few-Shot (With Examples): |
+| Few-Shot (With Examples) |
