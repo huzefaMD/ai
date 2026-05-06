@@ -27,7 +27,9 @@ Generic. Could be from any EdTech platform.
  _Write course descriptions in this style:_
 
 **Example 1**
+
 Course: `Python for Beginners`
+
 Description:
 ```
 No coding experience? No problem. In 6 weeks
