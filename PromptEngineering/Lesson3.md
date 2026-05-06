@@ -187,5 +187,16 @@ One example rarely captures enough pattern. Use 2-3 minimum.
 
 ### Mistake 3: Examples That Don't Match Your Task
 
-`Showing examples of blog posts when you wa ocial media captions. Match examples to
+`Showing examples of blog posts when you wa---ocial media captions. Match examples to
 the actual task`
+
+## Quick Recap
+
+| Concept | Key Point |
+|---------|-----------|
+|`Zero-Shot`|`Ask directly, no examples`|
+|`One-Shot`|`1 example before the task`|
+|`Few-Shot`|`2-5 examples before the task`|
+|`Why it works`|`Claude learns your pattern from examples`|
+|`Best practice`|`Use real examples in your own voice`|
+|`Sweet spot`|`2-3 examples is usually perfect`|
