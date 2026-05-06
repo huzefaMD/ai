@@ -159,6 +159,6 @@ my career trajectory completely!
 ```
 ## 4 Pro Tips for Few-Shot Prompting
 
-| Tip || Why It Matters |
-|-----||----------------|
+| Tip | Why It Matters |
+|-----|----------------|
 
