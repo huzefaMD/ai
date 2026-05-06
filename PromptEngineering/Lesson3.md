@@ -26,3 +26,14 @@ Generic. Could be from any EdTech platform.
 ## Few-Shot (With Examples) 
  _Write course descriptions in this style:_
 
+**Example 1**
+Course: `Python for Beginners`
+Description:
+```
+No coding experience? No problem. In 6 weeks
+you'll go from writing your first line of Python to building
+real automation scripts. Taught by practitioners, not
+professors. Batch starts every Monday.
+```
+
+
