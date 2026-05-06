@@ -175,3 +175,10 @@ Example 1: `Formal corporate tone`
 Example 2: `Super casual slang`
 
 Example 3: `Technical jargon heavy`
+
+Claude gets confused - pick ONE consistent style.
+
+### Mistake 2: Too Few Examples
+
+Example 1: `(only one example)
+Now do 10 more like this`
