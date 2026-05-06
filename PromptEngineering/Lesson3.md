@@ -166,3 +166,6 @@ my career trajectory completely!
 |`Use 2-3 examples minimum`|`1 example is often not enough`|
 |`Label examples clearly`|`Helps Claude identify the pattern`|
 |`Make examples representative`|`Garbage examples = garbage output`|
+
+## Common Mistakes
+### Mistake 1: Inconsistent Examples
