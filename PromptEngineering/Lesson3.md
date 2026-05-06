@@ -23,5 +23,22 @@ applications on Amazon Web Services
 ```
 Generic. Could be from any EdTech platform.
 
-| Few-Shot (With Examples) |
+| Few-Shot (With Examples) 
+Write course descriptions in this style:
+
+Example 1:
+Course: Python for Beginners
+Description: "No coding experience? No problem. In 6 weeks
+you'll go from writing your first line of Python to building
+real automation scripts. Taught by practitioners, not
+professors. Batch starts every Monday."
+
+Example 2:
+Course: Docker & Containers
+Description: "Still manually deploying apps? Join 2,000+
+engineers who switched to containers. Hands-on labs,
+real projects, lifetime access. Your next job wants
+this skill - get it in 4 weeks."
+
+Now write one for: AWS Fundamentals |
 |---------|
