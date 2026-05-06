@@ -136,3 +136,24 @@ Watching you grow from zero to deploying
 on AWS in 5 weeks - that's exactly why
 we do this. Keep building!
 ```
+
+**Example 2:**
+
+Student:
+```
+"Got placed at Infosys after this course!"
+```
+Response: 
+```
+THIS. This is why HuzefAI exists.
+Congratulations - Infosys got themselves
+a rockstar. You did the hard work,
+we just showed you the path.
+```
+
+
+Now respond to: 
+```
+The DevOps course changed
+my career trajectory completely!
+```
