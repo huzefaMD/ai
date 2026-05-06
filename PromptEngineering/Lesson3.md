@@ -52,8 +52,9 @@ Now write one for: AWS Fundamentals
 
 **Claude's response:**
 ```
-Claude's response: "Cloud jobs pay 40% more - and AWS skills are why. In 5 weeks you'll
-go from zero to deploying real infrastructure on Amazon's cloud. Hands-on labs, no fluff, no theory overload. Join 3,500+ engineers who g------d with us."
+Claude's response: "Cloud jobs pay 40% more - and AWS skills are why.
+In 5 weeks you'll go from zero to deploying real infrastructure on Amazon's cloud.
+Hands-on labs, no fluff, no theory overload. Join 3,500+ engineers who g------d with us."
 ```
 
 That sounds like YOUR brand, not a generic course catalog!
