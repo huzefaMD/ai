@@ -58,14 +58,10 @@ AND easy for non-technical stakeholders to understand.
 | Mistake | Better Approach |
 |---------|-----------------|
 | `You are an expert` | `You are a senior AWS solutions architect with 12 years experience` |
-
+| `Too vague role` | `Be specific about the expertise area` |
+| ` Forgetting the behavior ` | `Add how they should respond, not just who they are ` |
+| `One-size-fits-all ` | `Change the role based on what you actually need` |
  
-- Too vague role ❌
-Be specific about the expertise area ✅
-- Forgetting the behavior ❌
-Add how they should respond, not just who they are ✅
-- One-size-fits-all ❌
-Change the role based on what you actually need ✅
 
 _Vague roles = vague responses ,
 Specific roles = expert responses_
