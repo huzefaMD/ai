@@ -70,3 +70,28 @@ That sounds like YOUR brand, not a generic course catalog!
 **Step 4:** ` Then give Claude the actual task `
 
 **Step 5:** ` Claude matches the pattern perfectly `
+
+
+## Real Use Cases for HuzefAI
+
+**Social Media Posts**
+Here are examples of my LinkedIn post style:
+
+Example 1:
+```
+3 years ago I didn't know what Docker was.
+Today I teach it to 500+ engineers.
+The difference? I stopped watching tutorials
+and started breaking things.
+What are you building today?
+```
+Example 2:
+```
+Hot take: You don't need a CS degree to
+get a cloud job.
+You need: AWS certification + 2 real projects
++ LinkedIn that shows your work.
+That's it. Everything else is noise
+```
+Now write 3 LinkedIn posts promoting my new
+AI for DevOps course at HuzefAI.
