@@ -62,7 +62,11 @@ That sounds like YOUR brand, not a generic course catalog!
 
 ## The Few-Shot Formula
 **Step 1:** Show 2-3 examples of what you want
+
 **Step 2:** Label them clearly (Example 1, Example 2 ... )
+
 **Step 3:** Make examples representative of your actual need
+
 **Step 4:** Then give Claude the actual task
+
 **Step 5:** Claude matches the pattern perfectly
