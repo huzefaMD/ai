@@ -161,4 +161,4 @@ my career trajectory completely!
 
 | Tip | Why It Matters |
 |-----|----------------|
-
+|`Use real examples you've written`|`Claude matches YOUR authentic voice`|
