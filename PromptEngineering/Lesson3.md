@@ -108,3 +108,13 @@ Quick reminder - bring your laptop,
 AWS free tier account ready, and
 your hunger to learn. See you at 7PM. - Huzefa
 ```
+
+Example 2:
+```
+[Name], you haven't logged in this week.
+I get it - life gets busy.
+But your batch ends in 10 days.
+Need help catching up? Reply to this email.
+```
+Now write an email for students who
+haven't enrolled yet after a free webinar
