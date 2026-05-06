@@ -100,6 +100,7 @@ AI for DevOps course at HuzefAI.
 ## Email Templates
 
 Here are examples of my email style to students:
+
 Example 1:
 ```
 Hey [Name], your AWS batch starts Monday!
