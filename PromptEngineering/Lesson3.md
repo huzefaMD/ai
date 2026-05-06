@@ -23,6 +23,6 @@ applications on Amazon Web Services
 ```
 Generic. Could be from any EdTech platform.
 
-| Few-Shot (With Examples) 
- Write course descriptions in this style: |
-|---------|
+## Few-Shot (With Examples) 
+ _Write course descriptions in this style:_
+
