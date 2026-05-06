@@ -157,3 +157,8 @@ Now respond to:
 The DevOps course changed
 my career trajectory completely!
 ```
+## 4 Pro Tips for Few-Shot Prompting
+
+|Tip||Why It Matters|
+|--------------------|
+
