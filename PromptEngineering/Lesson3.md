@@ -77,7 +77,7 @@ That sounds like YOUR brand, not a generic course catalog!
 **Social Media Posts**
 Here are examples of my LinkedIn post style:
 
-Example 1:
+**Example 1:**
 ```
 3 years ago I didn't know what Docker was.
 Today I teach it to 500+ engineers.
@@ -85,7 +85,7 @@ The difference? I stopped watching tutorials
 and started breaking things.
 What are you building today?
 ```
-Example 2:
+**Example 2:**
 ```
 Hot take: You don't need a CS degree to
 get a cloud job.
@@ -101,7 +101,7 @@ AI for DevOps course at HuzefAI.
 
 Here are examples of my email style to students:
 
-Example 1:
+**Example 1:**
 ```
 Hey [Name], your AWS batch starts Monday!
 Quick reminder - bring your laptop,
@@ -109,7 +109,7 @@ AWS free tier account ready, and
 your hunger to learn. See you at 7PM. - Huzefa
 ```
 
-Example 2:
+**Example 2:**
 ```
 [Name], you haven't logged in this week.
 I get it - life gets busy.
@@ -118,3 +118,21 @@ Need help catching up? Reply to this email.
 ```
 Now write an email for students who
 haven't enrolled yet after a free webinar
+
+## Student Testimonial Responses
+
+Here's how I respond to student testimonials:
+
+**Example 1:**
+
+Student: 
+```
+Great course, learned a lot!
+```
+Response:
+```
+"This means everything to us!
+Watching you grow from zero to deploying
+on AWS in 5 weeks - that's exactly why
+we do this. Keep building!
+```
