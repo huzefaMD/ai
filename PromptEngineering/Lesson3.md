@@ -21,3 +21,4 @@ This comprehensive AWS Fundamentals course covers core
 cloud concepts including EC2, S3, IAM, and VPC. Students will learn to deploy scalable
 applications on Amazon Web Services
 ```
+Generic. Could be from any EdTech platform.
