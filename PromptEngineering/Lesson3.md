@@ -22,3 +22,5 @@ cloud concepts including EC2, S3, IAM, and VPC. Students will learn to deploy sc
 applications on Amazon Web Services
 ```
 Generic. Could be from any EdTech platform.
+
+| Few-Shot (With Examples): |
