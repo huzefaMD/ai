@@ -15,3 +15,5 @@ Prompt 5 — Low-Water Crop Rotation
 "You are a water resource management expert for drought-prone farming regions in India. My [size]-acre farm in [District, State] receives less than [amount] mm of annual rainfall, and I have drip irrigation installed. Prepare a low-water-use rotational cropping plan that balances profitability and water efficiency. For each crop cycle, include water requirement per acre, cost-benefit analysis, and suitable crop varieties. Recommend rainwater harvesting and soil moisture retention techniques, and list applicable government drought-relief schemes for my state."
 
 
+Prompt 6 — Flood-Prone Area Rotation
+"You are a disaster-resilient agriculture planner. My [size]-acre farm in [State] is in a flood-prone area with waterlogging during heavy rains. Prepare a rotation plan focusing on water-tolerant crops, raised-bed planting techniques, and fast-recovery varieties. Include pre-flood, during-flood, and post-flood planting schedules, along with drainage layout diagrams and an emergency replanting seed list. Mention crop insurance schemes available under PMFBY (Pradhan Mantri Fasal Bima Yojana) and how to apply for them."
