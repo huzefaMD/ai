@@ -17,3 +17,8 @@ Prompt 5 — Low-Water Crop Rotation
 
 Prompt 6 — Flood-Prone Area Rotation
 "You are a disaster-resilient agriculture planner. My [size]-acre farm in [State] is in a flood-prone area with waterlogging during heavy rains. Prepare a rotation plan focusing on water-tolerant crops, raised-bed planting techniques, and fast-recovery varieties. Include pre-flood, during-flood, and post-flood planting schedules, along with drainage layout diagrams and an emergency replanting seed list. Mention crop insurance schemes available under PMFBY (Pradhan Mantri Fasal Bima Yojana) and how to apply for them."
+
+
+Prompt 7 — Smallholder Budget Rotation
+"You are a rural farming development advisor. I am a smallholder with 1.5 acres in [State] and a budget of ₹50,000 for the year. Create a cost-effective crop rotation plan that ensures consistent income with minimal inputs. Include low-cost, high-yield crop combinations, seed sourcing options within 50 km, and an ROI (Return on Investment) projection for each season. Add a labour schedule optimised for family participation without the need for hired workers. Also, suggest one high-value crop that could increase income over the long term."
+
