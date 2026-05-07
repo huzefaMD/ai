@@ -187,7 +187,7 @@ One example rarely captures enough pattern. Use 2-3 minimum.
 
 ### Mistake 3: Examples That Don't Match Your Task
 
-`Showing examples of blog posts when you wa---ocial media captions. Match examples to
+`Showing examples of blog posts when you watch social media captions. Match examples to
 the actual task`
 
 ## Quick Recap
