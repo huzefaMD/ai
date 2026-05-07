@@ -5,4 +5,13 @@ Prompt 1 — 12-Month Profitable Rotation Plan
 Prompt 2 — Market-Driven Crop Rotation
 "You are an agricultural economist specialising in rural market trends and seasonal crop planning. Analyse the last 5 years’ mandi (agriculture wholesale market) prices from [Mandi Name] for the top 10 crops in [State], factoring in demand peaks and off-season pricing. Based on these trends, prepare a 2-year crop rotation plan for my 5-acre clay loam farm with canal irrigation. Include a detailed cost-benefit analysis for each crop cycle, risk factor ratings, and possible export crops. Conclude with a contingency plan for delayed or failed monsoons that covers alternative crop choices and emergency irrigation methods."
 
+Prompt 3 — Pest & Disease Break Rotation
+"You are an integrated pest management (IPM) specialist experienced in crop rotation for pest control. My [size]-acre farm in [District] currently grows [list of crops], but pest pressure is rising. Prepare a 4-season crop rotation strategy that disrupts pest breeding cycles and reduces disease occurrence. Include a rotation chart, list of recommended resistant crop varieties, organic pest control measures, and a monthly farmworker task calendar. Provide 150–200 words explaining why these crop sequences are effective against common pests and how they reduce pesticide dependency."
+
+Prompt 4 — Organic Certification Rotation
+"You are an NPOP (National Programme for Organic Production)-certified farming advisor. I have a 2-acre farm in [State] and wish to achieve organic certification in 3 years. Design a rotation plan that complies fully with NPOP requirements, focusing on soil health regeneration and zero chemical inputs. Include crop sequences, green manure options, soil testing intervals, composting and biofertiliser schedules, and templates for record-keeping during certification audits. End with a section explaining how this rotation plan will enhance yield quality and increase market selling price for organic produce."
+
+Prompt 5 — Low-Water Crop Rotation
+"You are a water resource management expert for drought-prone farming regions in India. My [size]-acre farm in [District, State] receives less than [amount] mm of annual rainfall, and I have drip irrigation installed. Prepare a low-water-use rotational cropping plan that balances profitability and water efficiency. For each crop cycle, include water requirement per acre, cost-benefit analysis, and suitable crop varieties. Recommend rainwater harvesting and soil moisture retention techniques, and list applicable government drought-relief schemes for my state."
+
 
