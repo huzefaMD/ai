@@ -161,3 +161,87 @@ Prompt 25 — Input Supplier Risk Diversification Plan
 
 Weather Forecasting & Pest Management
 
+Prompt 1 — Seasonal Weather & Pest Risk Calendar
+"You are an agricultural climate and pest forecasting expert. Prepare a 12-month weather and pest risk calendar for my 5-acre farm in [District, State] growing paddy, maize, and vegetables. Include average monthly temperatures, rainfall, humidity levels, and likely pest/disease outbreaks for each month based on IMD (India Meteorological Department) data. Suggest preventive measures and treatments for each period, with both organic and chemical options. End with an advisory on extreme weather preparedness for my crops."
+
+Prompt 2 — Real-Time Weather-Linked Pest Alerts
+"You are an agri-tech advisory system designer. Create a real-time pest alert system plan for my 3-acre farm in [State] using mobile weather updates and field sensors. Explain how to integrate IMD weather forecasts, pest life cycle models, and WhatsApp alerts in local language. Provide examples of messages to send before, during, and after high-risk weather events such as unseasonal rain or heat waves."
+
+Prompt 3 — Monsoon Pest Control Strategy
+"You are a Kharif season pest management consultant. My 4-acre paddy field in [District] faces high pest pressure during monsoon. Prepare a weather-synced pest control plan that includes preventive spraying schedules, resistant crop varieties, and natural control agents. Include a cost breakdown for treatments, safety precautions, and how to align spraying days with rainfall forecasts from IMD."
+
+Prompt 4 — Drought-Linked Pest Management Plan
+"You are a drought impact and pest specialist. My farm in [State] has 2 consecutive dry years affecting maize and groundnut crops. Prepare a pest control strategy for drought-stressed plants, focusing on pests that thrive in dry, hot conditions. Recommend resistant crop varieties, early-warning monitoring techniques, and affordable interventions suitable for smallholder farmers."
+
+Prompt 5 — Flood-Related Pest & Disease Response
+"You are a flood recovery agriculture advisor. My 3-acre vegetable farm in [State] was recently waterlogged for 10 days. Prepare a post-flood pest and disease recovery plan that addresses fungal, bacterial, and insect threats common after floods. Include a replanting schedule, soil treatment steps, and a 60-day field monitoring protocol. Suggest fast-maturing crops to replace lost yields."
+
+Prompt 6 — Pest Forecast Integration with Crop Rotation
+"You are an integrated farming systems expert. Create a 3-year crop rotation plan for my 4-acre farm in [District] that is designed specifically to break pest and disease cycles based on seasonal weather patterns. Provide month-by-month planting schedules, pest migration timelines, and preventive treatments that align with local climate data."
+
+Prompt 7 — Weather-Based Spraying Calendar
+"You are an agricultural spraying schedule planner. Prepare a pesticide and bio-pesticide spraying calendar for my 5-acre farm in [State] growing cotton and vegetables. Align all applications with 7-day IMD forecasts to avoid wastage during rains and improve effectiveness. Include dosage rates, safety measures, and pre-harvest intervals for each crop."
+
+Prompt 8 — Low-Cost Pest Monitoring Kit Guide
+"You are a farm pest surveillance advisor. Recommend a low-cost pest monitoring setup for my 2-acre farm in [District], including pheromone traps, sticky boards, and field scouting routines. Provide setup instructions, maintenance schedules, and how to interpret results for weather-linked pest outbreaks. Suggest affordable suppliers and KVK (Krishi Vigyan Kendra) programs that provide free kits."
+
+Prompt 9 — Climate Change Impact Pest Mapping
+"You are a climate risk and pest distribution analyst. Create a 10-year projection for pest pressure changes in [State] due to climate change, focusing on my main crops: rice, pulses, and vegetables. Use IMD projections for temperature and rainfall shifts, and identify emerging pest species likely to move into the region. Recommend adaptive measures in crop selection and pest control methods."
+
+Prompt 10 — Organic Pest Management in Extreme Weather
+"You are an organic pest control advisor. My farm in [District] is certified organic and faces extreme weather swings between heat waves and heavy rains. Prepare a weather-adaptive organic pest control plan for vegetables and fruits. Include approved NPOP (National Programme for Organic Production) inputs, preventive sprays, and companion planting techniques that help reduce pest pressure naturally."
+
+Prompt 11 — Heatwave Pest Risk Preparedness Plan
+"You are a crop protection specialist focusing on high-temperature stress. My 3-acre farm in [District, State] grows tomatoes, okra, and brinjal. Prepare a heatwave-specific pest preparedness plan covering pests like red spider mites and whiteflies that worsen in high heat. Include shade net recommendations, irrigation adjustments, and approved control measures. Align the plan with IMD (India Meteorological Department) early heatwave warnings for proactive action."
+
+Prompt 12 — Mobile App Integration for Pest & Weather Alerts
+"You are an agri-tech solutions consultant. Recommend the top three mobile apps for Indian farmers that integrate real-time weather updates with pest advisories. For my 4-acre farm in [State], explain how to configure alerts in the local language, set crop-specific pest notifications, and sync with IMD forecasts. Provide a cost-benefit analysis for paid vs. free app options."
+
+Prompt 13 — Wind Pattern & Pest Migration Advisory
+"You are an agricultural meteorology expert. Prepare a wind pattern-based pest migration advisory for my 6-acre cotton and soybean farm in [District]. Use seasonal wind data to forecast incoming pest infestations such as bollworms and aphids. Recommend preventive measures 2–3 weeks in advance, aligned with regional IMD reports and historical migration data."
+
+Prompt 14 — AI-Based Pest Prediction Model Setup Guide
+"You are a precision agriculture specialist. Provide a step-by-step guide for setting up an AI-driven pest prediction model for my 5-acre vegetable farm in [State]. Explain how to collect historical pest data, integrate IMD weather feeds, and train a simple model using free or low-cost tools. Include instructions for using the model’s output to adjust pesticide spraying schedules."
+
+Prompt 15 — Integrated Disease & Weather Forecast Plan
+"You are a plant pathology and climate advisor. Prepare a disease prevention plan for my 3-acre paddy and chilli farm in [District] that integrates IMD weather forecasts. Include early detection methods, preventive spraying before high-humidity periods, and crop variety recommendations resistant to local weather-linked diseases like blast or wilt. Provide a 12-month timeline with checkpoints."
+
+Prompt 16 — Custom Pest Forecast WhatsApp Bulletin
+"You are a rural agri-extension communication specialist. Design a weekly WhatsApp pest forecast bulletin for farmers in [Village, District], combining IMD weather predictions with local pest scouting reports. Suggest message formats, colour-coded risk levels, and quick preventive tips. Include an implementation plan for distributing bulletins via local cooperatives and FPOs (Farmer Producer Organisations)."
+
+Prompt 17 — Organic-Compliant Post-Rain Pest Control
+"You are an organic farming advisor certified under NPOP (National Programme for Organic Production). Prepare a post-heavy rainfall pest management plan for my 2-acre vegetable farm in [State]. Focus on controlling fungal infections, root rot, and pest outbreaks while using only NPOP-approved inputs. Include application methods, dosages, and drying intervals to avoid crop damage."
+
+Prompt 18 — Pest Forecast & Labour Scheduling Plan
+"You are a farm operations planner. Create a labour scheduling plan for my 5-acre cotton farm in [District] that aligns pest scouting and spraying activities with weekly weather forecasts. Include team size, task allocation, and timing to avoid working during heavy rains or peak sun hours. Provide cost estimates for labour based on seasonal pest intensity."
+
+Prompt 19 — Solar-Powered Pest Trap Deployment Plan
+"You are a sustainable pest control equipment consultant. Recommend a solar-powered pest trap deployment plan for my 3-acre farm in [State]. Include trap types, installation layout, maintenance schedule, and expected reduction in pest populations. Align the setup with weather data to position traps in optimal locations during different seasons."
+
+Prompt 20 — Region-Specific Pest Outbreak History Analysis
+"You are an agricultural data analyst. Compile a 5-year pest outbreak history for [District, State] using agriculture department and IMD records. Correlate outbreaks with rainfall, temperature, and humidity trends. Provide recommendations on which months are highest risk and suggest crop protection measures to implement before those periods."
+
+Prompt 21 — Drone Spraying Weather Synchronisation Plan
+"You are a drone technology in agriculture consultant. Prepare a drone spraying schedule for my 10-acre paddy farm in [State], ensuring applications are timed with IMD wind and rain forecasts for maximum coverage efficiency. Include dosage rates, flight patterns, safety protocols, and estimated cost savings compared to manual spraying."
+
+Prompt 22 — Weather-Based Fertiliser & Pest Control Integration
+"You are a crop nutrition and pest management advisor. Design a combined fertiliser and pest control plan for my 4-acre maize farm in [District] that adjusts application timing based on IMD forecasts. Provide integrated schedules that avoid nutrient leaching during heavy rains and maximise pest control efficacy."
+
+Prompt 23 — FPO-Led Pest & Weather Advisory Program
+"You are an agricultural cooperative program designer. Develop a pest and weather advisory program for an FPO (Farmer Producer Organisation) of 200 members in [District]. Include weekly group training, SMS alerts, seasonal pest calendars, and procurement of bulk preventive inputs before high-risk weather periods."
+
+Prompt 24 — Village-Level Early Warning System
+"You are a rural agri-extension officer. Design a village-level early warning system for pest outbreaks linked to weather anomalies in [District, State]. Include methods for collecting local pest data, integrating IMD short-term forecasts, and announcing alerts via loudspeaker, WhatsApp, and community meetings. Provide a sustainability plan for running the system year-round."
+
+Prompt 25 — Climate-Smart Pest Management Roadmap
+"You are a climate-smart agriculture strategist. Prepare a 5-year pest management roadmap for my 6-acre farm in [State], incorporating IMD seasonal forecasts, pest-resistant crop varieties, and integrated pest management (IPM) techniques. Provide an annual breakdown of expected pest risks, preventive investments, and cost-benefit analysis of adopting climate-smart methods."
+
+
+Market Pricing & Commodity Trends
+
+Prompt 1 — Annual Commodity Price Forecast Plan
+"You are an agricultural market economist. Prepare a 12-month price forecast for paddy, wheat, and pulses grown in [District, State] using historical mandi (agriculture wholesale market) price data from the past 5 years, MSP (Minimum Support Price) announcements, and seasonal demand trends. Include monthly high–low price ranges, peak selling windows, and risk factors such as monsoon variability. Provide a summary table and a marketing strategy to capture the best prices."
+
+
+
+
