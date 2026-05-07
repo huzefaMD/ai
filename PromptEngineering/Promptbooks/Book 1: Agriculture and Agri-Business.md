@@ -242,6 +242,316 @@ Market Pricing & Commodity Trends
 Prompt 1 — Annual Commodity Price Forecast Plan
 "You are an agricultural market economist. Prepare a 12-month price forecast for paddy, wheat, and pulses grown in [District, State] using historical mandi (agriculture wholesale market) price data from the past 5 years, MSP (Minimum Support Price) announcements, and seasonal demand trends. Include monthly high–low price ranges, peak selling windows, and risk factors such as monsoon variability. Provide a summary table and a marketing strategy to capture the best prices."
 
+Prompt 2 — Festival-Linked Price Opportunity Calendar
+"You are a seasonal agri-marketing strategist. Create a festival-linked commodity pricing calendar for my 4-acre vegetable farm in [State]. Map crops like tomatoes, onions, and leafy greens to high-demand periods such as Diwali, Navratri, and wedding seasons. Include optimal sowing dates to hit peak price windows, expected price spikes, and storage or cold chain options to delay sales until market highs."
+
+Prompt 3 — MSP vs. Market Price Analysis
+"You are a government policy and agri-market advisor. Prepare an MSP vs. average mandi price comparison for my primary crops in [District] over the last 3 years. Highlight cases where MSP rates were higher or lower than average market prices. Recommend whether to sell at MSP procurement centres or in open markets, with a profit difference table for each season."
+
+Prompt 4 — Multi-State Price Comparison for Arbitrage
+"You are a commodity trading consultant. Compare current mandi prices for my main crops (e.g., groundnut, mustard, maize) across three neighbouring states. Identify price gaps that make inter-state selling profitable after transport costs. Provide a logistics cost analysis, risk assessment, and legal compliance steps for selling outside the state."
+
+Prompt 5 — Price Volatility Risk Management Plan
+"You are an agricultural risk management expert. Create a price volatility protection strategy for my 5-acre onion farm in [State], considering seasonal market crashes. Include forward contracts, storage to delay sales, and selling portions through farmer collectives. Provide a simulation showing income stability if the plan is followed."
+
+Prompt 6 — Weekly Market Price Monitoring System
+"You are an agri-market intelligence advisor. Design a weekly price monitoring system for my crops using eNAM (National Agriculture Market), Agmarknet, and local mandi bulletins. Include a template for recording prices, SMS alert setup for price thresholds, and a weekly decision-making checklist on whether to sell, store, or transport."
+
+Prompt 7 — Export Market Price Opportunity Report
+"You are an agri-export pricing analyst. Prepare a domestic vs. export price comparison for crops like turmeric, chilli, and basmati rice from [State]. Include current export prices (FOB – Free on Board), international demand trends, quality requirements, and cost of meeting export compliance. Provide a decision guide for shifting to export sales when profitable."
+
+Prompt 8 — Seasonal Crop Switching Profit Analysis
+"You are a farm economics consultant. Analyse the profitability of seasonal crop switching based on price trends in [District]. For example, compare returns from planting onions vs. potatoes in Rabi season using last 5 years’ mandi data. Provide a recommendation with projected ROI (Return on Investment) and risk levels for each option."
+
+Prompt 9 — Cold Storage-Linked Price Maximisation Plan
+"You are a post-harvest marketing strategist. Create a cold storage utilisation plan for my 6-acre farm in [State] to delay selling onions and potatoes until post-harvest price peaks. Include storage cost calculations, historical price rise timelines, and ROI comparisons between immediate and delayed sales."
+
+Prompt 10 — Price Impact of Weather Anomalies Report
+"You are an agricultural economist with a focus on climate-market links. Analyse how weather anomalies like early rains, droughts, or cyclones impacted my crop prices in [District] over the last 5 years. Use IMD (India Meteorological Department) and mandi price data. Recommend diversification strategies to protect against sudden price crashes."
+
+Prompt 11 — Contract Farming Price Negotiation Plan
+"You are an agri-business negotiation expert. Prepare a price negotiation strategy for entering a contract farming agreement with a food processing company for my 4-acre farm in [State] growing tomatoes. Include methods to benchmark contract rates against average mandi (agriculture wholesale market) prices, clauses to protect against price drops, and payment term negotiations. Provide a sample contract clause ensuring minimum guaranteed pricing."
+
+Prompt 12 — Daily Price Alert SMS Setup Guide
+"You are a digital agriculture advisor. Provide a step-by-step guide to set up daily mandi price alerts for my main crops via Agmarknet, eNAM (National Agriculture Market), and local WhatsApp groups. Include how to choose the right mandi for monitoring, set price thresholds for alerts, and integrate this into my weekly sales decision process."
+
+Prompt 13 — Farmer Producer Organisation Price Advantage Plan
+"You are an FPO (Farmer Producer Organisation) strategy consultant. Create a collective pricing strategy for 50 farmers growing the same crop in [District]. Show how pooling harvests can secure higher prices through bulk selling to institutional buyers, reducing commission charges, and negotiating with wholesalers. Include a comparison table showing price improvement percentages from collective selling."
+
+Prompt 14 — Long-Term Commodity Trend Analysis
+"You are an agricultural market analyst. Prepare a 10-year price trend analysis for my main crop in [State] using Agmarknet and FAOSTAT (Food and Agriculture Organization Statistics) data. Identify long-term cycles, potential demand shifts, and price plateau points. Recommend if I should expand, maintain, or diversify away from this crop."
+
+Prompt 15 — Digital Marketplace Pricing Strategy
+"You are an agri e-commerce marketing consultant. Create a digital marketplace pricing strategy for selling my farm’s produce directly to consumers through platforms like BigBasket, JioMart, and ONDC (Open Network for Digital Commerce). Include price setting methods, commission structures, and promotional pricing during festivals. Provide a sample profit breakdown for a common vegetable."
+
+Prompt 16 — Impact of Import-Export Policies on Prices
+"You are an agricultural trade policy analyst. Explain how recent import and export policy changes for my main crop in [State] have affected market prices in the last 2 years. Use data from DGFT (Directorate General of Foreign Trade) notifications and commodity boards. Recommend how I can adjust my sales strategy in response to these policy shifts."
+
+Prompt 17 — Price Stabilisation Fund Utilisation Plan
+"You are a government scheme utilisation expert. Show how I can access and benefit from the Price Stabilisation Fund (PSF) for my onion crop in [District]. Include eligibility criteria, application process, and examples of how farmers have used PSF to hold produce until prices recover. Provide a step-by-step action plan for registration."
+
+Prompt 18 — High-Value Niche Crop Price Mapping
+"You are a market research consultant. Prepare a price mapping report for niche crops like exotic vegetables, herbs, or microgreens in [City]. Include wholesale vs. retail price comparisons, potential buyers, and seasonal fluctuations. Recommend which niche crops have the highest price stability and profit margins for small-scale production."
+
+Prompt 19 — Social Media-Driven Price Boost Strategy
+"You are an agri-marketing influencer strategist. Create a social media marketing plan to promote my product on Facebook, Instagram, and WhatsApp for direct sales at higher-than-mandi prices. Include target audience selection, festival-based campaigns, and real examples of farmers who have successfully boosted prices through online presence."
+
+Prompt 20 — Forward Contract Price Lock Plan
+"You are a commodity trading advisor. Design a forward contract strategy to lock prices for my upcoming wheat harvest in [District]. Include advantages, risks, and model clauses to avoid disputes. Compare returns from forward contracts vs. spot market sales over the past 3 years."
+
+Prompt 21 — Price Drop Emergency Response Plan
+"You are a crisis market advisor. Create a rapid response plan for sudden price crashes of perishable crops like tomatoes in [State]. Include alternative market channels, processing options (e.g., tomato puree production), and storage solutions. Provide an example cost recovery calculation based on previous price drops."
+
+Prompt 22 — Urban Retail Tie-Up Pricing Guide
+"You are a farm-to-retail partnership consultant. Recommend a pricing and supply agreement plan for selling directly to supermarkets and restaurants in [City]. Include minimum order quantities, weekly price negotiations, and delivery terms. Suggest sample contract clauses that ensure consistent pricing for at least one season."
+
+Prompt 23 — Commodity Price Hedging Education Plan
+"You are a farmer financial literacy trainer. Create a beginner-friendly education module for farmers in my area on hedging against price fluctuations using futures contracts and options trading. Use real examples from NCDEX (National Commodity & Derivatives Exchange) and explain risks in simple terms."
+
+Prompt 24 — Multi-Crop Price Diversification Strategy
+"You are a farm income stability consultant. Design a multi-crop diversification plan for my 5-acre farm in [District] to ensure that if one crop’s price drops, others can cover the loss. Include crop selection based on opposite price trends, planting schedules, and historical price correlation analysis."
+
+Prompt 25 — Annual Price Trend & Profitability Dashboard
+"You are an agri-data dashboard designer. Create a custom price and profit tracking dashboard for my farm using Google Sheets or free software. Include live price feeds from Agmarknet, expense tracking, and automatic profit margin calculations for each crop. Provide a guide for updating and interpreting the dashboard."
 
 
+Farm-to-Consumer Branding & Sales
+
+Prompt 1 — Farm Brand Identity Creation Plan
+"You are a rural brand development consultant with experience in Indian agri-businesses. I run a 5-acre organic vegetable and fruit farm in [District, State], selling directly to urban customers in [City]. Create a complete brand identity plan that includes:
+
+Brand name ideas inspired by local culture & produce (minimum 10 suggestions).
+Logo concept sketches and colour palette recommendations.
+A brand story in 150 words highlighting sustainability and freshness.
+A tagline under 8 words that is memorable.
+Steps to register the brand name & logo under the Indian Trade Marks Act.
+Present the output in 3 sections: Name & visual ideas, brand story, and legal registration steps."
+
+
+Prompt 2 — Direct-to-Consumer (D2C) Sales Strategy
+"You are a senior agri-retail strategist. I own a 5-acre farm in [District, State] producing tomatoes, spinach, and papaya. My buyers are middle-class families in [City] within a 15 km delivery range.
+Prepare a 12-month D2C sales plan covering:
+
+Sales Channels: Compare WhatsApp selling, ONDC, and farmers’ markets with pros, cons, and costs.
+Pricing Model: Table showing farm-gate vs retail prices after packaging, delivery, and commissions.
+Delivery Logistics: Optimal frequency, cost reduction tips, and time slots for freshness.
+Customer Retention: Loyalty rewards, festival hampers, and referral discounts.
+First Month Action Plan: Week-by-week tasks from social media launch to first delivery.
+Output in 3 parts: Overview, comparative channel table, and a 30-day launch checklist."
+
+Prompt 3 — Packaging & Labelling Compliance Guide
+"You are an FSSAI (Food Safety and Standards Authority of India) compliance expert. Create a packaging & labelling guide for my farm’s organic produce (vegetables & herbal teas) sold in [City]. Include:
+
+Mandatory FSSAI label details with examples.
+Eco-friendly, affordable packaging options available in India.
+Design tips for standing out in markets & online stores.
+Shelf-life marking guidelines.
+Steps to get packaging design approved for export readiness.
+Output in 2 sections: Compliance checklist & visual design recommendations."
+
+Prompt 4 — Social Media Content Calendar for Farm Sales
+"You are an agri-social media strategist. Prepare a 90-day content calendar for Instagram, Facebook, and WhatsApp to promote farm produce from [District, State].
+Include:
+
+12 post ideas for harvest updates & seasonal recipes.
+8 video/Reel scripts for farmer stories and cooking demos.
+4 customer testimonial formats.
+Best posting times & relevant hashtags in English + local language.
+Engagement tactics to boost orders via comments & DMs.
+Output in calendar format with post type, caption idea, and CTA (Call to Action) for each day."
+
+Prompt 5 — Customer Database & CRM Setup Plan
+"You are a CRM (Customer Relationship Management) consultant. I have 200 customers buying directly from my farm in [City]. Suggest a low-cost CRM system in Hindi & English that works on smartphones. Include:
+
+Recommended software/tools under ₹500 per month.
+Database fields to track purchase history & preferences.
+Seasonal offer & birthday greeting automation plan.
+WhatsApp/SMS integration steps.
+Output in 2 parts: CRM setup guide & seasonal customer engagement flowchart."
+
+Prompt 6 — Farmer’s Market Sales Pitch Development
+"You are a retail sales coach specialising in farmer’s markets in India. I sell organic vegetables and seasonal fruits from my 5-acre farm in [District, State] at weekly markets in [City]. Create a sales pitch toolkit that includes:
+
+A 1-minute elevator pitch introducing my farm and produce.
+5 customer objection responses (e.g., price too high, quality doubts).
+Trust-building techniques (e.g., showing harvest photos, offering tastings).
+Signage & stall display design ideas to increase walk-ins.
+A closing script to secure repeat buyers.
+Output in 3 parts: Elevator pitch, objection handling table, and stall setup checklist."
+
+Prompt 7 — Farm Website & E-Commerce Store Plan
+"You are a rural e-commerce consultant. Help me create an online sales platform for my farm produce in [City] with a budget under ₹10,000. Include:
+
+Domain name ideas & registration process.
+Recommended platforms (e.g., Shopify, Wix) with cost breakdown.
+Page structure: Home, Products, About Us, Testimonials, Contact.
+Payment integration via UPI (Unified Payments Interface) & cards.
+Mobile optimisation tips for rural customers.
+Provide the plan in step-by-step format with timelines for completion in 30 days."
+
+Prompt 8 — Subscription Box Model for Regular Customers
+"You are a subscription model strategist. I want to launch a weekly vegetable & fruit box service in [City]. Design the plan covering:
+
+Product mix for 3 box sizes (small, medium, large).
+Pricing tiers & payment frequency (weekly/monthly).
+Delivery frequency & route planning for cost savings.
+Loyalty rewards (e.g., free seasonal item every 5th box).
+Marketing ideas for launching via social media & housing societies.
+Output in 2 sections: Subscription plan table & launch marketing roadmap."
+
+Prompt 9 — WhatsApp Sales Campaign Plan
+"You are a digital agriculture marketing expert. I want to run a WhatsApp sales campaign for my farm-to-home delivery service in [City]. Create a plan that includes:
+
+Message templates for product lists, offers, and order confirmation.
+Product image guidelines (lighting, background, captions).
+Steps to create a WhatsApp Broadcast list without spamming.
+A 14-day festive season campaign calendar.
+Metrics to track success (CTR, conversion rate).
+Output in message template format + campaign calendar."
+
+Prompt 10 — Storytelling for Farm Branding
+"You are a brand storytelling coach. Write my farm’s origin story in 3 formats:
+
+A 150-word emotional story for packaging & brochures.
+A 60-second Instagram Reel script.
+A 2-minute speech for farmer’s markets and events.
+The story must highlight my background, commitment to sustainability, and farm-to-table freshness. Include local cultural elements to connect with [City] customers."
+
+Prompt 11 — Influencer Collaboration Strategy
+"You are an influencer marketing consultant for agri-products. Create a collaboration plan with 5 local chefs & food bloggers in [City] to promote my organic produce. Include:
+
+Criteria for selecting influencers.
+Outreach email/DM template.
+Campaign ideas (e.g., recipe videos, farm visit vlogs).
+Budget breakdown for barter & paid deals.
+Method to track ROI (Return on Investment).
+Output in influencer list + outreach plan + campaign calendar."
+
+Prompt 12 — Farm Visit Experience Design
+"You are an agri-tourism consultant. Design a farm visit program for families & school groups in [City]. Include:
+
+Itinerary for 3-hour & 6-hour visits.
+Activities: vegetable picking, cooking sessions, tractor rides.
+Pricing per person & group discounts.
+Safety & hygiene guidelines.
+Sales integration for visitors to buy fresh produce before leaving.
+Output in event brochure format with activity timings & prices."
+
+Prompt 13 — Referral Program Setup
+"You are a customer retention strategist. Create a referral program for my farm produce delivery service in [City] that rewards customers with free vegetables or discounts. Include:
+
+Referral reward structure.
+Simple tracking method via WhatsApp or Google Sheets.
+Sample messages to promote the program.
+Launch plan to get first 50 referrals in 30 days.
+Output in referral flowchart + ready-to-use promotional content."
+
+Prompt 14 — Branding for Multiple Product Lines
+"You are a multi-product brand architecture consultant. My farm sells vegetables, pickles, and herbal teas. Create a branding framework that:
+
+Keeps a consistent visual identity across all product lines.
+Uses sub-brands or product categories without losing the main brand identity.
+Suggests packaging variations for each product type.
+Includes cross-selling ideas to increase order value.
+Output in brand architecture diagram + packaging mockup suggestions."
+
+Prompt 15 — Urban Apartment Tie-Up Plan
+"You are a community-based retail advisor. Design a weekly delivery program for urban apartment complexes in [City]. Include:
+
+Approval process with the society management.
+Pre-order form sample.
+Stall setup ideas for apartment parking areas.
+Payment collection system via UPI.
+Launch event plan to create excitement.
+Output in step-by-step action plan + flyer design brief."
+
+Prompt 16 — Branding for Organic Certification
+"You are an organic product marketing expert. My farm is certified under NPOP (National Programme for Organic Production). Create a marketing plan to showcase this certification. Include:
+
+Placement of certification logo on packaging & digital ads.
+Short customer education content explaining certification benefits.
+Premium pricing strategy linked to certification.
+Stories of quality & safety to share with buyers.
+Output in marketing strategy document + sample customer education post."
+
+Prompt 17 — Digital Payment & Billing System Setup
+"You are a rural retail tech consultant. Recommend a digital billing & payment solution for my farm shop and delivery service. Include:
+
+POS (Point of Sale) machine options under ₹5,000.
+UPI integration steps.
+Receipt printing setup.
+Weekly sales report format.
+Output in setup checklist + training manual for farm workers."
+
+Prompt 18 — Seasonal Festival Sales Strategy
+"You are a seasonal sales strategist. Create a festival product plan for Diwali, Holi, and Raksha Bandhan, offering gift hampers with my farm’s produce & value-added products. Include:
+
+Product mix for each festival.
+Packaging ideas using eco-friendly materials.
+Pricing strategy.
+Marketing timeline starting 4 weeks before each festival.
+Output in festival sales calendar + product packaging mockups."
+
+Prompt 19 — Email Newsletter Campaign for Farm Sales
+"You are a digital communications expert. Create a monthly email newsletter plan for my farm customers. Include:
+
+Content themes (recipes, farm updates, special offers).
+Subject line ideas.
+Template that works on mobile.
+Ways to grow the email list through farm visits & social media.
+Output in newsletter content map + sample email design."
+
+Prompt 20 — Eco-Friendly Packaging Marketing Plan
+"You are a sustainable branding expert. Create a marketing plan that uses eco-friendly packaging as a selling point for my farm. Include:
+
+Supplier suggestions for biodegradable packaging in India.
+Messaging ideas for social media & packaging labels.
+Cost-benefit analysis of eco-friendly packaging.
+Customer engagement ideas (e.g., return & reuse incentives).
+Output in messaging guide + supplier list."
+
+Prompt 21 — Photography & Video Content Plan
+"You are a food photography consultant. Create a content capture plan for my farm produce. Include:
+
+Photo ideas for product listings & social media.
+Lighting & background tips.
+Video formats for Reels, YouTube Shorts, and product tutorials.
+Editing tools recommendations.
+Output in shoot checklist + content calendar."
+
+Prompt 22 — Local Media PR Campaign
+"You are a PR (Public Relations) strategist. Develop a press coverage plan for my farm in local newspapers & radio. Include:
+
+Story angles (e.g., sustainable farming success, women-led farms).
+Press release template.
+Contact list of local media.
+Event tie-ins for coverage (e.g., harvest festivals).
+Output in press kit format."
+
+Prompt 23 — Farm Brand Merchandise Strategy
+"You are a merchandise marketing consultant. Design a branded merchandise plan for my farm (cloth bags, mugs, t-shirts). Include:
+
+Product ideas aligned with eco-friendly farming.
+Supplier recommendations in India.
+Pricing & bundling strategy.
+Sales integration with farm produce orders.
+Output in product catalogue + pricing table."
+
+Prompt 24 — Google My Business Optimisation Plan
+"You are a local SEO (Search Engine Optimisation) consultant. Create a Google My Business optimisation plan for my farm shop. Include:
+
+Accurate listing setup.
+Photo & keyword strategy.
+Customer review generation plan.
+Posting ideas to boost ranking.
+Output in optimisation checklist + content post plan."
+
+Prompt 25 — Multi-City Farm Sales Expansion Plan
+"You are a farm distribution strategist. Design a multi-city sales expansion plan for my farm produce to sell in [City 1], [City 2], and [City 3]. Include:
+
+Logistics arrangement & storage needs.
+Wholesale vs retail price strategies.
+City-specific marketing campaigns.
+Partnership ideas with local retailers.
+Output in market entry plan + cost projection table."
 
