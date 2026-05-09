@@ -566,15 +566,21 @@ Suggest workflow changes to increase throughput without adding resources.
 Output format: Factory floor dashboard layout + process improvement plan."
 
 Prompt 25 — Financial Performance Storytelling for Investors
+
 "You are a Financial Data Storyteller. I have quarterly income statements, balance sheets, and cash flow statements for the past 3 years.
 
 Your task:
 
-Visualise revenue, gross profit, and net profit trends over time.
-Calculate key financial ratios (ROE, ROA, current ratio, debt-to-equity) and explain their meaning.
-Highlight major changes in expenses or revenue sources.
-Provide a year-over-year growth summary.
-Frame findings in a narrative that inspires investor confidence.
+
+1. Visualise revenue, gross profit, and net profit trends over time.
+
+2. Calculate key financial ratios (ROE, ROA, current ratio, debt-to-equity) and explain their meaning.
+
+3. Highlight major changes in expenses or revenue sources.
+
+4. Provide a year-over-year growth summary.
+
+5. Frame findings in a narrative that inspires investor confidence.
 
 Output format: Investor-ready slide deck with visuals, ratio analysis, and growth narrative."
 
