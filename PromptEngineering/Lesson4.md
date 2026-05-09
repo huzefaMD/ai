@@ -37,7 +37,7 @@ These phrases instantly activate step-by-step thinking in Claude:
 
 ## 3 Levels of Chain of Thought
 ###  Level1- Simple CoT
-**Just add ->** 
+**Just add** 
 ```
 "think step by step"
 ```
@@ -60,3 +60,13 @@ Think through this in this order:
 3. `What conversion rate do we need to break even?`
 4. `What's the risk if it doesn't work?`
 5. `Give your final recommendation.`
+
+### Level3-Socratic CoT
+
+Ask Claude to challenge its own thinking:
+
+Should I run paid ads for HuzefAI right now?
+
+_Think step by step. After your recommendation,
+argue the opposite view. Then give your
+final balanced conclusion._
