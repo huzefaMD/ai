@@ -132,3 +132,12 @@ in 6 months.
 3. `Build a month by month execution plan`
 4. `Flag the biggest risks and how to avoid them`
 5. `Give your single most important piece of advice`
+
+**This combines:**
+
+- Role (expert mentor)
+- Context (HuzefAI, 50->500 students)
+- Chain of Thought (5 defined steps)
+- Specific output (month by month plan)
+
+***That's expert-level prompting right there!***
