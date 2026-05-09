@@ -125,3 +125,10 @@ businesses in India.
 
 - I want to grow HuzefAI from 50 to 500 students
 in 6 months.
+
+**Think step by step:**
+1. `Diagnose what's likely holding us back right now`
+2. `Identify the 3 highest leverage growth channels`
+3. `Build a month by month execution plan`
+4. `Flag the biggest risks and how to avoid them`
+5. `Give your single most important piece of advice`
