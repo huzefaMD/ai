@@ -67,6 +67,9 @@ Ask Claude to challenge its own thinking:
 
 Should I run paid ads for HuzefAI right now?
 
-_Think step by step. After your recommendation,
+**Think step by step. After your recommendation,
 argue the opposite view. Then give your
-final balanced conclusion._
+final balanced conclusion.**
+
+_Level 3 is incredibly powerful for important decisions - it forces Claude to see
+both sides before concluding_
