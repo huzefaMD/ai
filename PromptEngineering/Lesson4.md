@@ -21,3 +21,7 @@ Think through this step by step:
 4. `Then consider HuzefAI's current brand stage`
 5. `Finally give your recommendation with easoning`
 
+## The Magic Phrases That Trigger CoT
+
+These phrases instantly activate step-by-step thinking in Claude:
+
