@@ -37,13 +37,13 @@ These phrases instantly activate step-by-step thinking in Claude:
 
 ## 3 Levels of Chain of Thought
 ###  Level1- Simple CoT
-**_Just add_** 
+**Just add** 
 ```
 "think step by step"
 ```
-**_to any prompt:_**
+**to any prompt:**
 
 
-Should I run paid ads for HuzefAI right now?
+_Should I run paid ads for HuzefAI right now?_
 
-Think step by step before answering.
+_Think step by step before answering_
