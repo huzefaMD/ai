@@ -407,66 +407,102 @@ Provide 3 poor visualisation examples and show corrected versions.
 Output format: A 5-page PDF guide with do’s and don’ts + visual examples."
 
 Prompt 12 — Multi-Dataset Integration Workflow
+
 "You are a Data Integration Specialist skilled in ETL (Extract, Transform, Load) processes. I have three datasets:
 
-Customer demographics (Excel)
-Purchase history (CSV)
-Web analytics data (Google Analytics export)
+. Customer demographics (Excel)
+. Purchase history (CSV)
+. Web analytics data (Google Analytics export)
+
 Your task:
 
-Identify common keys for merging datasets.
-Clean and standardise column formats and naming.
-Join datasets into a master table.
-Perform initial descriptive analysis on combined data.
-Suggest 3 insights achievable only after combining data.
+
+1. Identify common keys for merging datasets.
+
+2. Clean and standardise column formats and naming.
+
+3. Join datasets into a master table.
+
+4. Perform initial descriptive analysis on combined data.
+
+5. Suggest 3 insights achievable only after combining data.
+
 Output format: Python Notebook with ETL code + final merged dataset snapshot + insight summary."
 
 Prompt 13 — Interactive Geo-Spatial Sales Mapping
+
 "You are a GIS (Geographic Information Systems) Analyst. I have state-wise sales data for India for the past 12 months.
 
 Your task:
 
-Create an interactive map showing sales density using a colour gradient.
-Add filters for month, product category, and sales rep.
-Display state-level tooltips with key KPIs (revenue, units sold, growth rate).
-Enable comparison mode for two selected states.
-Provide export options (PNG, PDF).
+
+1. Create an interactive map showing sales density using a colour gradient.
+
+2. Add filters for month, product category, and sales rep.
+
+3. Display state-level tooltips with key KPIs (revenue, units sold, growth rate).
+
+4. Enable comparison mode for two selected states.
+
+5. Provide export options (PNG, PDF).
+
 Output format: Dashboard implementation guide + sample data visualisation screenshot."
 
 Prompt 14 — Industry Benchmark Comparison with Gap Analysis
+
 "You are a Market Intelligence Analyst specialising in competitive benchmarking. I have my company’s quarterly performance metrics for revenue, gross margin, and customer acquisition rate, and I have benchmark data for top 5 competitors.
 
 Your task:
 
-Normalise all data for fair comparison (e.g., currency conversion, adjusting for fiscal year differences).
-Create comparative bar charts showing my company vs each competitor for each KPI (Key Performance Indicator).
-Calculate % variance from industry average for each KPI.
-Identify areas where my company is above average and where it’s lagging.
-Provide 5 targeted recommendations to close performance gaps.
+
+1. Normalise all data for fair comparison (e.g., currency conversion, adjusting for fiscal year differences).
+
+2. Create comparative bar charts showing my company vs each competitor for each KPI (Key Performance Indicator).
+
+3. Calculate % variance from industry average for each KPI.
+
+4. Identify areas where my company is above average and where it’s lagging.
+
+5. Provide 5 targeted recommendations to close performance gaps.
+
 Output format: A 2-page PDF competitive report with visual comparisons, an executive summary, and a prioritised action list."
 
 Prompt 15 — Data Pipeline Performance Optimisation Plan
+
 "You are a Data Engineer experienced in optimising ETL (Extract, Transform, Load) pipelines for speed and efficiency. I have a nightly pipeline that ingests sales, inventory, and customer data into a central warehouse.
 
 Your task:
 
-Profile the current pipeline to identify slow queries, inefficient joins, and bottleneck processes.
-Recommend improvements in query optimisation, indexing, and caching.
-Suggest parallelisation or batch processing strategies to reduce runtime.
-Propose monitoring tools to track pipeline health and error rates.
-Provide an example optimised SQL query and ETL script snippet.
+
+1. Profile the current pipeline to identify slow queries, inefficient joins, and bottleneck processes.
+
+2. Recommend improvements in query optimisation, indexing, and caching.
+
+3. Suggest parallelisation or batch processing strategies to reduce runtime.
+
+4. Propose monitoring tools to track pipeline health and error rates.
+
+5. Provide an example optimised SQL query and ETL script snippet.
+
 Output format: A technical optimisation plan with a “before vs after” runtime projection chart and sample code."
 
 Prompt 16 — Social Media Engagement Analytics Dashboard
+
 "You are a Digital Analytics Expert skilled in API integrations and BI dashboarding. I have social media engagement data from Facebook, Instagram, and LinkedIn for the past 12 months.
 
 Your task:
 
-Create a unified dashboard showing platform-wise engagement metrics (likes, comments, shares, saves).
-Add a filter to view engagement by post type (video, carousel, single image, story).
-Highlight top 10 performing posts across all platforms with engagement breakdown.
-Add follower growth trend lines for each platform.
-Include an insights section suggesting which content format drives the highest engagement.
+
+1. Create a unified dashboard showing platform-wise engagement metrics (likes, comments, shares, saves).
+
+2. Add a filter to view engagement by post type (video, carousel, single image, story).
+
+3. Highlight top 10 performing posts across all platforms with engagement breakdown.
+
+4. Add follower growth trend lines for each platform.
+
+5. Include an insights section suggesting which content format drives the highest engagement.
+
 Output format: Dashboard wireframe + API integration guide + engagement insights report."
 
 Prompt 17 — Real Estate Market Analysis with Investment Insights
