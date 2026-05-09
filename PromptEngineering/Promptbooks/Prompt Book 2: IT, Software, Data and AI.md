@@ -271,139 +271,220 @@ Output in technical debt report + phased action plan."
 Data Analysis & Visualization
 
 Prompt 1 — Full Exploratory Data Analysis (EDA) with Actionable Insights
+
 "You are a Senior Data Analyst with expertise in Python (Pandas, NumPy, Matplotlib, Seaborn) and data storytelling. I have a dataset in CSV format containing sales data for an Indian retail chain (2018–2024) with 50,000 rows and 12 columns (date, location, category, units sold, price, discount, etc.).
 
 Your task:
 
-Import and inspect the dataset to understand structure, data types, and column meanings.
-Generate summary statistics for both numerical and categorical columns, highlighting anomalies.
-Detect missing values, quantify them column-wise, and suggest domain-specific imputation or removal strategies.
-Identify outliers using both statistical (Z-score, IQR) and visual (boxplots) methods, explaining potential business causes.
-Create a correlation heatmap for numerical features and explain the top 5 strongest relationships in simple business terms.
-Provide at least 3 actionable business insights and possible next analytical steps.
+
+1. Import and inspect the dataset to understand structure, data types, and column meanings.
+
+2. Generate summary statistics for both numerical and categorical columns, highlighting anomalies.
+
+3. Detect missing values, quantify them column-wise, and suggest domain-specific imputation or removal strategies.
+
+4. Identify outliers using both statistical (Z-score, IQR) and visual (boxplots) methods, explaining potential business causes.
+
+5. Create a correlation heatmap for numerical features and explain the top 5 strongest relationships in simple business terms.
+
+6. Provide at least 3 actionable business insights and possible next analytical steps.
+
 Output format: A Jupyter Notebook with fully commented code, inline plots, and a concluding Markdown section explaining insights in non-technical language."
 
 Prompt 2 — Interactive KPI Dashboard for Decision-Makers
+
 "You are a Business Intelligence (BI) Dashboard Expert skilled in Power BI, Tableau, and Google Data Studio. I have quarterly sales data for multiple product categories in India for the last 5 years.
 
 Your task:
 
-Identify 5–7 key performance indicators (KPIs) relevant to retail business health (e.g., total revenue, gross margin, average order value, conversion rate).
-Design an interactive dashboard layout showing KPIs as cards at the top, trend charts in the middle, and filters (by time, category, location) on the side.
-Include drill-down capability so a user can click on a KPI and view detailed breakdowns by category, region, or month.
-Add a geographic heatmap showing sales distribution across states, with hover tooltips.
-Include an export-to-PDF function for monthly reporting.
+
+1. Identify 5–7 key performance indicators (KPIs) relevant to retail business health (e.g., total revenue, gross margin, average order value, conversion rate).
+
+2. Design an interactive dashboard layout showing KPIs as cards at the top, trend charts in the middle, and filters (by time, category, location) on the side.
+
+3. Include drill-down capability so a user can click on a KPI and view detailed breakdowns by category, region, or month.
+
+4. Add a geographic heatmap showing sales distribution across states, with hover tooltips.
+
+5. Include an export-to-PDF function for monthly reporting.
+
 Output format: Provide a step-by-step dashboard build guide (tool-agnostic), a mockup diagram of the dashboard, and sample formulas for KPI calculations."
 
 Prompt 3 — Predictive Sales Forecasting with Model Comparison
+
 "You are a Data Scientist specialising in forecasting. I have monthly sales data for an e-commerce platform from January 2018 to December 2024.
 
 Your task:
 
-Perform time-series decomposition to analyse trend, seasonality, and residual components.
-Build at least two forecasting models (ARIMA/SARIMA and Facebook Prophet).
-Compare model performance using RMSE (Root Mean Squared Error) and MAPE (Mean Absolute Percentage Error).
-Plot actual vs predicted sales for both models and highlight differences.
-Provide recommendations for which model to deploy, along with a 12-month sales forecast.
+
+1. Perform time-series decomposition to analyse trend, seasonality, and residual components.
+
+2. Build at least two forecasting models (ARIMA/SARIMA and Facebook Prophet).
+
+3. Compare model performance using RMSE (Root Mean Squared Error) and MAPE (Mean Absolute Percentage Error).
+
+4. Plot actual vs predicted sales for both models and highlight differences.
+
+5. Provide recommendations for which model to deploy, along with a 12-month sales forecast.
+
 Output format: A Python Jupyter Notebook with all code, plots, and a Markdown cell comparing models with business-friendly explanations."
 
 Prompt 4 — Automated Data Cleaning and Preprocessing Script
+
 "You are a Data Preprocessing Automation Specialist skilled in Python and Pandas. I have a CSV file containing a mix of numerical, categorical, and datetime fields, with missing values and inconsistent formats.
 
 Your task:
 
-Write a reusable Python script to detect and handle missing values using mean/median/mode or forward-fill/backward-fill depending on the column type.
-Remove duplicate rows and flag near-duplicates for manual review.
-Normalise numerical columns (min-max or z-score scaling) and encode categorical columns (label or one-hot encoding as appropriate).
-Convert date columns to proper datetime format and extract features (day, month, year, day-of-week).
-Save the cleaned dataset to a new CSV file with a timestamped filename.
+
+1. Write a reusable Python script to detect and handle missing values using mean/median/mode or forward-fill/backward-fill depending on the column type.
+
+2. Remove duplicate rows and flag near-duplicates for manual review.
+
+3. Normalise numerical columns (min-max or z-score scaling) and encode categorical columns (label or one-hot encoding as appropriate).
+
+4. Convert date columns to proper datetime format and extract features (day, month, year, day-of-week).
+
+5. Save the cleaned dataset to a new CSV file with a timestamped filename.
+
 Output format: A fully commented Python script that can be reused for different datasets, with clear function definitions."
 
 Prompt 5 — Business Data Storytelling for Stakeholder Reports
+
 "You are a Business Data Storyteller with experience in creating executive summaries from analytical results. I have analysed customer purchase behaviour for my online store and want to present findings to the leadership team.
 
 Your task:
 
-Frame the analysis as a story — starting with the problem, key findings, and implications.
-Select only the 5–7 most impactful visuals from the analysis, ensuring they are simple and easy to understand.
-Explain each chart in 1–2 sentences highlighting what matters for the business.
-Conclude with 3 actionable recommendations, each tied to a business outcome (e.g., revenue growth, cost saving).
-Create a 2-slide PowerPoint layout that can be used in a leadership meeting.
+
+1. Frame the analysis as a story — starting with the problem, key findings, and implications.
+
+2. Select only the 5–7 most impactful visuals from the analysis, ensuring they are simple and easy to understand.
+
+3. Explain each chart in 1–2 sentences highlighting what matters for the business.
+
+4. Conclude with 3 actionable recommendations, each tied to a business outcome (e.g., revenue growth, cost saving).
+
+5. Create a 2-slide PowerPoint layout that can be used in a leadership meeting.
+
 Output format: A concise text storyboard + slide content that a non-technical executive can understand at a glance."
 
 Prompt 6 — Real-Time Data Monitoring and Alerts
+
 "You are a Real-Time Data Monitoring Specialist skilled in tools like Grafana, Kibana, and Power BI Streaming Dataflows. I operate a logistics company with live GPS and delivery data flowing in every 15 seconds.
 
 Your task:
 
-Design a real-time dashboard that displays vehicle location, delivery status, and delays in near real-time.
-Implement colour-coded alerts for deliveries delayed beyond SLA (Service Level Agreement) thresholds.
-Add trend visualisations for daily delivery count, average delivery time, and % on-time rate.
-Integrate automated alerts via email and SMS for key managers when KPIs cross thresholds.
-Ensure the system can handle data spikes (e.g., festival season).
+
+1. Design a real-time dashboard that displays vehicle location, delivery status, and delays in near real-time.
+
+2. Implement colour-coded alerts for deliveries delayed beyond SLA (Service Level Agreement) thresholds.
+
+3. Add trend visualisations for daily delivery count, average delivery time, and % on-time rate.
+
+4. Integrate automated alerts via email and SMS for key managers when KPIs cross thresholds.
+
+5. Ensure the system can handle data spikes (e.g., festival season).
+
 Output format: A visual architecture diagram + tool integration plan + example SQL queries for alert generation."
 
 Prompt 7 — Sentiment Analysis of Customer Feedback
+
 "You are an NLP (Natural Language Processing) Specialist with expertise in Python libraries like NLTK, SpaCy, and Transformers. I have 50,000 customer reviews collected over 2 years.
 
 Your task:
 
-Clean and preprocess the text (remove stopwords, lemmatise, handle emojis).
-Classify sentiment into positive, neutral, and negative categories using a pre-trained BERT model.
-Create visualisations:
-Sentiment distribution pie chart.
-Monthly sentiment trend line chart.
-Word cloud for each sentiment category.
-Identify top 5 positive and top 5 negative themes with example reviews.
-Provide actionable recommendations for product/service improvement based on sentiment patterns.
+
+1. Clean and preprocess the text (remove stopwords, lemmatise, handle emojis).
+
+2. Classify sentiment into positive, neutral, and negative categories using a pre-trained BERT model.
+
+3. Create visualisations:
+
+    1. Sentiment distribution pie chart.
+
+    2. Monthly sentiment trend line chart.
+
+    3. Word cloud for each sentiment category.
+
+5. Identify top 5 positive and top 5 negative themes with example reviews.
+
+6. Provide actionable recommendations for product/service improvement based on sentiment patterns.
+
 Output format: A Jupyter Notebook with code, charts, and a Markdown insights summary."
 
 Prompt 8 — Comparative Category Performance Report
+
 "You are a Business Performance Analyst. I have category-wise sales data for 10 product categories over the last 3 years.
 
 Your task:
 
-Calculate YoY (Year-over-Year) and MoM (Month-over-Month) growth rates for each category.
-Rank categories based on revenue, profit margin, and units sold.
-Create a dashboard view showing category trends side-by-side.
-Highlight top 3 performing categories and bottom 3 lagging categories.
-Suggest category-level actions to boost sales and margins for underperformers.
+
+1. Calculate YoY (Year-over-Year) and MoM (Month-over-Month) growth rates for each category.
+
+2. Rank categories based on revenue, profit margin, and units sold.
+
+3. Create a dashboard view showing category trends side-by-side.
+
+4. Highlight top 3 performing categories and bottom 3 lagging categories.
+
+5. Suggest category-level actions to boost sales and margins for underperformers.
+
 Output format: A comparative analysis table + dashboard layout mockup + 1-page action plan."
 
 Prompt 9 — Correlation and Causation Testing
+
 "You are a Data Scientist with a focus on statistical inference. I have a dataset on marketing spend (TV, social media, influencer, print) and corresponding sales figures.
 
 Your task:
 
-Calculate correlation coefficients for each marketing channel vs sales.
-Perform hypothesis testing to check statistical significance (p-values).
-Run a multiple regression analysis to see which channels predict sales best.
-Visualise results using scatter plots and regression lines.
-Provide a plain-language explanation of findings for non-technical stakeholders.
+
+1. Calculate correlation coefficients for each marketing channel vs sales.
+
+2. Perform hypothesis testing to check statistical significance (p-values).
+
+3. Run a multiple regression analysis to see which channels predict sales best.
+
+4. Visualise results using scatter plots and regression lines.
+
+5. Provide a plain-language explanation of findings for non-technical stakeholders.
+
 Output format: Jupyter Notebook with plots + regression output table + simplified insights brief."
 
 Prompt 10 — Customer Churn Prediction and Retention Strategy
+
 "You are a Customer Analytics Expert specialising in churn modelling. I have SaaS customer data including sign-up date, usage frequency, support tickets, and payment history.
 
 Your task:
 
-Define churn for my business context (e.g., inactive for 60 days).
-Engineer predictive features from usage and payment history.
-Build a classification model (Logistic Regression, Random Forest, or XGBoost) to predict churn probability.
-Evaluate using accuracy, precision, recall, and ROC-AUC.
-Suggest retention strategies for the top 20% at-risk customers.
+
+1. Define churn for my business context (e.g., inactive for 60 days).
+
+2. Engineer predictive features from usage and payment history.
+
+3. Build a classification model (Logistic Regression, Random Forest, or XGBoost) to predict churn probability.
+
+4. Evaluate using accuracy, precision, recall, and ROC-AUC.
+
+5. Suggest retention strategies for the top 20% at-risk customers.
+
 Output format: Python Notebook with code + confusion matrix + strategic retention plan."
 
 Prompt 11 — Data Visualization Best Practices Guide
+
 "You are a Data Visualization Trainer. Prepare a best practices guide for visualising financial performance data for stakeholders.
 
 Your task:
 
-Recommend which chart types to use for time-series, category comparison, and part-to-whole analysis.
-Suggest an accessible, colour-blind-friendly palette.
-Explain how to avoid misleading scales and data distortion.
-Include 3 examples of excellent visualisations and explain why they work.
-Provide 3 poor visualisation examples and show corrected versions.
+
+1. Recommend which chart types to use for time-series, category comparison, and part-to-whole analysis.
+
+2. Suggest an accessible, colour-blind-friendly palette.
+
+3. Explain how to avoid misleading scales and data distortion.
+
+4. Include 3 examples of excellent visualisations and explain why they work.
+
+5. Provide 3 poor visualisation examples and show corrected versions.
+
 Output format: A 5-page PDF guide with do’s and don’ts + visual examples."
 
 Prompt 12 — Multi-Dataset Integration Workflow
