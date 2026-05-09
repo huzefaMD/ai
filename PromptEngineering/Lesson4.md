@@ -27,3 +27,4 @@ These phrases instantly activate step-by-step thinking in Claude:
 
 |Phrase|Use When|
 |------|--------|
+|**"Think step by step"**|`Any complex problem`|
