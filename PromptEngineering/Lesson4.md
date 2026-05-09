@@ -145,4 +145,15 @@ in 6 months.
 ## When NOT to Use CoT
 
 ### CoT is powerful but not always needed:
+|**Use CoT**|**Skip CoT**|
+|-----------|------------|
+|`Complex decisions`|`Simple factual questions`|
+|`Multi-step problems`|`Quick lookups`|
+|`Strategic planning`|`Basic writing tasks`|
+|`Analysis & reasoning`|`Simple formatting`|
+|`When you want to verify logic`|`When speed matters more`|
 
+```
+"What is the capital of France?"
+```
+- Don't need CoT for this!
