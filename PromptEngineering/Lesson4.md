@@ -39,6 +39,6 @@ These phrases instantly activate step-by-step thinking in Claude:
 ###  Level1- Simple CoT
 Just add 
 ```
-think step by step
+"think step by step"
 ```
- to any prompt:
+to any prompt:
