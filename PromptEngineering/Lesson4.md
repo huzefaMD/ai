@@ -141,3 +141,8 @@ in 6 months.
 - Specific output (month by month plan)
 
 ***That's expert-level prompting right there!***
+
+## When NOT to Use CoT
+
+### CoT is powerful but not always needed:
+
