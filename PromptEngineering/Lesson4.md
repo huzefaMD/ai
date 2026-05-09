@@ -9,3 +9,6 @@
 I'd recommend ₹4,999 as it's more accessible for students
 ```
 Shallow. No reasoning. Could be wrong.
+
+## With Chain of Thought:
+
