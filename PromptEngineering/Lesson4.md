@@ -44,4 +44,5 @@ Just add
 to any prompt:
 
 Should I run paid ads for HuzefAI right now?
+
 Think step by step before answering.
