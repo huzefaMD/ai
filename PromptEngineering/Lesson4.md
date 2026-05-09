@@ -88,3 +88,5 @@ course at HuzefAI priced at ₹12,999.
 4. `Evaluate what makes HuzefAI's version unique`
 5. `Assess the effort to build vs revenue potential`
 6. `Give final recommendation with action steps`
+
+## Curriculum Design
