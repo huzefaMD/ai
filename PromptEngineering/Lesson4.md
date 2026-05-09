@@ -73,3 +73,18 @@ final balanced conclusion.**
 
 _(**Level 3 is incredibly powerful** for important decisions - it forces Claude to see
 both sides before concluding)_
+
+## Real Use Cases for HuzefAI
+### Business Decision
+
+I'm thinking of launching a new Generative AI
+course at HuzefAI priced at ₹12,999.
+
+**Before recommending yes or no, think step by step:**
+
+1. `Analyze current market demand for Gen AI in India`
+2. `Identify who would pay ₹12,999 for this`
+3. `Consider what's already available (Coursera, Udemy)`
+4. `Evaluate what makes HuzefAI's version unique`
+5. `Assess the effort to build vs revenue potential`
+6. `Give final recommendation with action steps`
