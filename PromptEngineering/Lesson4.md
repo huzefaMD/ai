@@ -115,3 +115,13 @@ posts get very low engagement.
 3. `Identify quick wins vs long term fixes`
 4. `Prioritize top 3 actions I should take this week`
 5. `Give me a 30-day engagement growth plan`
+
+## CoT + Roles = Unstoppable Combo
+**Remember Roles from Lesson 2? Combine them with CoT for maximum power:**
+
+- You are a senior EdTech growth strategist with
+10 years experience scaling online training
+businesses in India.
+
+- I want to grow HuzefAI from 50 to 500 students
+in 6 months.
