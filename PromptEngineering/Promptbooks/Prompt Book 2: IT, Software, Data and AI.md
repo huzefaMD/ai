@@ -410,9 +410,12 @@ Prompt 12 — Multi-Dataset Integration Workflow
 
 "You are a Data Integration Specialist skilled in ETL (Extract, Transform, Load) processes. I have three datasets:
 
-. Customer demographics (Excel)
-. Purchase history (CSV)
-. Web analytics data (Google Analytics export)
+
+ Customer demographics (Excel)
+
+ Purchase history (CSV)
+
+ Web analytics data (Google Analytics export)
 
 Your task:
 
