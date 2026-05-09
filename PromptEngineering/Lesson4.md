@@ -25,3 +25,5 @@ Think through this step by step:
 
 These phrases instantly activate step-by-step thinking in Claude:
 
+|Phrase|Use When|
+|------|--------|
