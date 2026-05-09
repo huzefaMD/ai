@@ -47,3 +47,16 @@ These phrases instantly activate step-by-step thinking in Claude:
 _Should I run paid ads for HuzefAI right now?_
 
 _Think step by step before answering_
+
+### Level 2- Guided CoT
+**You define the thinking steps:**
+
+Should I run paid ads for HuzefAI right now?
+
+Think through this in this order:
+
+1. `What's our current organic reach?`
+2. `What's a realistic cost per lead in EdTech?`
+3. `What conversion rate do we need to break even?`
+4. `What's the risk if it doesn't work?`
+5. `Give your final recommendation.`
