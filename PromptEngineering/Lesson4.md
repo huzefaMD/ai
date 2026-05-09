@@ -71,5 +71,5 @@ Should I run paid ads for HuzefAI right now?
 argue the opposite view. Then give your
 final balanced conclusion.**
 
-_**Level 3 is incredibly powerful** for important decisions - it forces Claude to see
-both sides before concluding_
+_(**Level 3 is incredibly powerful** for important decisions - it forces Claude to see
+both sides before concluding)_
