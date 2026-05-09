@@ -1,14 +1,21 @@
 Coding & Debugging
 
 Prompt 1 — Code Review & Optimisation Plan
+
 "You are a senior software engineer with expertise in [programming language/framework]. I have a codebase for a [type of application — e.g., e-commerce site, chatbot, mobile app] that works but runs slowly.
 Review the code for:
 
-Inefficient loops or redundant logic.
-Poor memory management.
-Opportunities to replace custom code with standard libraries.
-Security vulnerabilities (SQL injection, XSS).
-Best practices for scalability.
+
+1. Inefficient loops or redundant logic.
+
+2. Poor memory management.
+
+3. Opportunities to replace custom code with standard libraries.
+
+4. Security vulnerabilities (SQL injection, XSS).
+
+5. Best practices for scalability.
+
 Provide output in 2 sections: a table of issues (with line numbers & problem description) and an optimised code snippet for each fix."
 
 Prompt 2 — Bug Reproduction & Fix Documentation
