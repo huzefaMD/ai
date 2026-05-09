@@ -575,6 +575,7 @@ Calculate key financial ratios (ROE, ROA, current ratio, debt-to-equity) and exp
 Highlight major changes in expenses or revenue sources.
 Provide a year-over-year growth summary.
 Frame findings in a narrative that inspires investor confidence.
+
 Output format: Investor-ready slide deck with visuals, ratio analysis, and growth narrative."
 
 
