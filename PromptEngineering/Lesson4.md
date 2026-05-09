@@ -89,4 +89,4 @@ course at HuzefAI priced at ₹12,999.
 5. `Assess the effort to build vs revenue potential`
 6. `Give final recommendation with action steps`
 
-## Curriculum Design
+### Curriculum Design
