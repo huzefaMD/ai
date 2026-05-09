@@ -103,3 +103,15 @@ for complete beginners.
 5. `How should week 6 tie everything together?`
 
 Design the full 6-week curriculum.
+
+## Problem Solving
+
+HuzefAI has 200 LinkedIn followers but our
+posts get very low engagement.
+
+**Think step by step:**
+1. `Diagnose possible reasons for low engagement`
+2. `Analyze what content works in EdTech on LinkedIn`
+3. `Identify quick wins vs long term fixes`
+4. `Prioritize top 3 actions I should take this week`
+5. `Give me a 30-day engagement growth plan`
