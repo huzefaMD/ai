@@ -29,3 +29,8 @@ These phrases instantly activate step-by-step thinking in Claude:
 |------|--------|
 |```"Think step by step"```|`Any complex problem`|
 |```"Walk me through your reasoning"```|`When you want to see the logic`|
+|```"Break this down"```|`Complex topics or decisions`|
+|```"First analyze X, then Y, then Z"```|`When you control the thinking order`|
+|```"Think out loud"```|`When you want full transparency`|
+|```"Before answering, consider ... "```|`When you want Claude to weigh factors`|
+|```"What are the pros and cons first?"```|`Before a recommendation`|
