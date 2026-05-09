@@ -34,3 +34,11 @@ These phrases instantly activate step-by-step thinking in Claude:
 |```"Think out loud"```|`When you want full transparency`|
 |```"Before answering, consider ... "```|`When you want Claude to weigh factors`|
 |```"What are the pros and cons first?"```|`Before a recommendation`|
+
+## 3 Levels of Chain of Thought
+###  Level1- Simple CoT
+Just add 
+```
+think step by step
+```
+ to any prompt:
