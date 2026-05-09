@@ -770,6 +770,157 @@ Output format: Investor-ready slide deck with visuals, ratio analysis, and growt
 
 API Integration & Automation
 
+Prompt 1 — Connecting Multiple APIs for Unified Data
+
+"You are an API Integration Engineer with expertise in REST (Representational State Transfer) and GraphQL APIs. I want to create a single automated workflow that combines data from Google Sheets, Shopify, and Google Analytics APIs.
+
+Your task:
+
+
+1. Authenticate each API using OAuth 2.0 and store tokens securely.
+
+2. Pull product sales data from Shopify, website traffic data from Google Analytics, and inventory data from Google Sheets.
+
+3. Merge the datasets on product ID and date fields for unified reporting.
+
+4. Schedule the workflow to run daily at midnight using a cron job or cloud scheduler.
+
+5. Include logging for errors and success status.
+
+Output format: Python script with step-by-step API calls, merged dataset output as CSV, and instructions for deployment in a cloud environment (AWS Lambda or Google Cloud Functions)."
+
+Prompt 2 — Automating Social Media Posting via API
+
+"You are a Social Media Automation Specialist experienced with the Meta Graph API, LinkedIn API, and Twitter API (now X API). I manage 3 platforms and want to post the same content automatically at scheduled times.
+
+Your task:
+
+
+1. Authenticate all platform APIs and handle rate limits.
+
+2. Create a reusable function that posts text, images, and videos from a single JSON file.
+
+3. Add an option to customise captions per platform for optimal engagement.
+
+4. Schedule posts using a job scheduler (like APScheduler in Python).
+
+5. Log post IDs and engagement metrics for tracking.
+
+Output format: Python automation script + setup instructions + sample JSON template for post content."
+
+Prompt 3 — Automating Data Entry from Web Forms to CRM
+
+"You are a CRM Workflow Automation Engineer skilled in HubSpot, Salesforce, and Zoho CRM APIs. I receive customer leads from a website form and want them automatically added to my CRM with tags for campaign tracking.
+
+Your task:
+
+
+1. Set up a webhook to receive form submissions in real time.
+
+2. Transform form data into the CRM’s required JSON format.
+
+3. Use the CRM API to create a new lead record with appropriate tags (e.g., “WebForm2024”).
+
+4. Send a confirmation email to the lead using the CRM’s email API.
+
+5. Log each successful lead creation in a Google Sheet via API.
+
+Output format: API workflow diagram + example webhook handler code + CRM API call scripts."
+
+Prompt 4 — Email Marketing Automation with API
+
+"You are an Email Marketing Automation Expert familiar with Mailchimp, SendGrid, and ActiveCampaign APIs. I want to send a weekly newsletter automatically using my Google Sheets contact list.
+
+Your task:
+
+
+1. Connect Google Sheets API to read subscriber list.
+
+2. Connect the chosen email service API and authenticate securely.
+
+3. Pull the email template from a stored HTML file.
+
+4. Send emails in batches to avoid exceeding API rate limits.
+
+5. Update the Google Sheet with a “last sent” timestamp for each contact.
+
+Output format: Python/Node.js script + deployment guide + API keys & secrets handling instructions."
+
+Prompt 5 — Automating File Backups to Cloud Storage
+
+"You are a Cloud Automation Engineer skilled in AWS S3, Google Drive, and Dropbox APIs. I have a folder on my local machine containing financial reports that must be backed up daily to all three cloud platforms.
+
+Your task:
+
+
+1. Authenticate with all three cloud APIs.
+
+2. Compress the local folder into a timestamped ZIP file.
+
+3. Upload the ZIP file to each cloud platform.
+
+4. Send an email notification with file URLs after successful upload.
+
+5. Log the backup details in a CSV file for auditing.
+
+Output format: Shell/Python script + setup instructions + automation scheduling plan."
+
+Prompt 6 — Real-Time Stock Price Tracker with Alerts
+
+"You are a Financial Data Automation Specialist experienced in Alpha Vantage, Yahoo Finance, and TradingView APIs. I want to track live stock prices for a watchlist of 10 Indian companies and receive alerts when prices change more than ±3% in a day.
+
+Your task:
+
+
+1. Connect to the stock price API with authentication.
+
+2. Create a script to fetch and store real-time prices every 5 minutes.
+
+3. Compare the current price with the opening price for percentage change.
+
+4. Trigger an email/SMS alert when the ±3% threshold is crossed.
+
+5. Store all intraday data in a CSV for end-of-day analysis.
+
+Output format: Python script + CSV logging + alert system integration plan.
+
+Input Files & Code Section:
+
+
+API Key file (api_keys.json) for Alpha Vantage/Yahoo Finance.
+
+watchlist.csv containing company ticker symbols.
+
+Placeholder for email/SMS sending function."
+
+Prompt 7 — Automating PDF Invoice Creation from Sales Data
+
+"You are a Document Automation Engineer skilled in ReportLab, wkhtmltopdf, and Google Docs API. I have daily sales data in CSV format and need automatically generated PDF invoices sent to customers.
+
+Your task:
+
+
+1. Read the CSV to fetch customer details, products, and prices.
+
+2. Generate a branded PDF invoice for each customer.
+
+3. Save the invoice locally and in Google Drive.
+
+4. Email the invoice to the customer with a personalised message.
+
+5. Log invoice status (sent, pending, failed) in a Google Sheet.
+
+Output format: Python script + invoice PDF template + Google Drive integration guide.
+
+Input Files & Code Section:
+
+
+sales_data.csv with customer and order details.
+
+invoice_template.html for branding.
+
+API credentials for Google Drive and Gmail."
+
 
 
 
