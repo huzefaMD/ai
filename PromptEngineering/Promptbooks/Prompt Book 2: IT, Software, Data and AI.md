@@ -1685,6 +1685,859 @@ clip_timestamps.csv with video ID and time ranges"
 
 Product Documentation & User Guides
 
+Prompt 1 — Creating a Step-by-Step User Guide for a Mobile App
+
+Backstory: Your startup just launched a budgeting mobile app. Many first-time users uninstall it because they can’t figure out how to set up their first budget.
+
+Goal: Create a simple, visual, step-by-step guide that walks new users through account creation, linking bank accounts, and setting their first budget.
+
+Prompt:
+
+"You are a User Experience Documentation Specialist. I need you to create a beginner-friendly setup guide for our budgeting mobile app.
+
+Your task:
+
+
+1. Break the guide into 6–8 clear steps.
+
+2. Include screenshots and captions for each step.
+
+3. Write in simple language for non-technical users.
+
+4. Add a troubleshooting section for common signup issues.
+
+5. Format the final document for PDF and in-app help center.
+
+Output format: Step-by-step guide (with images) in PDF + HTML version for web embedding.
+
+Input Files & Code Section:
+
+
+app_screenshots.zip containing key UI images.
+
+Brand style guide PDF for fonts & colors.
+
+CSV file of common user questions from support tickets."
+
+Prompt 2 — Generating API Documentation for a Developer Portal
+
+Backstory: You’ve built a public API for your food delivery platform, but developers keep asking for examples and request format details because your docs are incomplete.
+
+Goal: Create clear, developer-focused API documentation with examples and authentication instructions.
+
+Prompt:
+
+"You are a Technical API Documentation Expert. I want you to create API docs for our food delivery API.
+
+Your task:
+
+
+1. Describe authentication (OAuth 2.0) process clearly.
+
+2. Document all endpoints with methods, parameters, and sample JSON responses.
+
+3. Provide example code snippets in Python, JavaScript, and cURL.
+
+4. Include rate limits and error codes.
+
+5. Add a “Getting Started” quick guide for first-time developers.
+
+Output format: Markdown-based API documentation + HTML developer portal version.
+
+Input Files & Code Section:
+
+
+OpenAPI/Swagger specification file (api_spec.json).
+
+List of example API requests and responses.
+
+Branding assets for developer portal."
+
+Prompt 3 — Writing Release Notes for a SaaS Platform
+
+Backstory: Your SaaS analytics tool has frequent updates, but customers are unaware of new features and fixes because release notes are dull and overly technical.
+
+Goal: Write engaging, customer-friendly release notes for each product update.
+
+Prompt:
+
+"You are a Product Communications Writer. I want you to create release notes for our SaaS analytics platform that both inform and excite customers.
+
+Your task:
+
+
+1. Summarize new features in plain language.
+
+2. Highlight bug fixes and performance improvements.
+
+3. Add screenshots or GIFs for visual impact.
+
+4. Include “How to use” tips for each new feature.
+
+5. Publish in both email newsletter and in-app notifications format.
+
+Output format: HTML email template + Markdown release notes file.
+
+Input Files & Code Section:
+
+
+Product update changelog CSV.
+
+Screenshots/GIFs folder.
+
+Customer usage analytics to highlight most-requested features."
+
+Prompt 4 — Creating Onboarding Guides for a CRM Tool
+
+Backstory: Your sales team is adopting a new CRM tool, but they’re struggling to switch from spreadsheets to the new system.
+
+Goal: Create a hands-on onboarding manual for new CRM users.
+
+Prompt:
+
+"You are a CRM Onboarding Documentation Specialist. I want an onboarding manual that helps sales reps transition from spreadsheets to our CRM.
+
+Your task:
+
+
+1. Explain CRM login and account setup.
+
+2. Show how to import contacts from CSV.
+
+3. Demonstrate adding leads, deals, and activities.
+
+4. Include best practices for daily CRM usage.
+
+5. Add a printable “Quick Reference” cheatsheet.
+
+Output format: PDF onboarding manual + 1-page cheatsheet.
+
+Input Files & Code Section:
+
+
+CRM system screenshots.
+
+Sample CSV contact file.
+
+Sales workflow diagram."
+
+Prompt 5 — Creating a Knowledge Base Article for a Common Support Issue
+
+Backstory: Customers often contact support because they forget their password and can’t reset it.
+
+Goal: Create a self-service article that reduces these repetitive support requests.
+
+Prompt:
+
+"You are a Knowledge Base Content Specialist. I want you to create a help article for “How to Reset Your Password” for our e-commerce platform.
+
+Your task:
+
+
+1. Write clear, step-by-step instructions.
+
+2. Include desktop and mobile screenshots.
+
+3. Provide tips for strong password creation.
+
+4. Add troubleshooting for common reset errors.
+
+5. Format for search engine optimization (SEO).
+
+Output format: HTML article for help center + PDF version for offline use.
+
+Input Files & Code Section:
+
+
+Screenshot set for password reset flow.
+
+Branding guide for help center articles.
+
+List of top password reset issues from support logs."
+
+Prompt 6 — Creating Interactive Tutorials for a Project Management Tool
+
+Backstory: Your project management SaaS tool has powerful features, but most customers only use the basic ones because they’re unaware of advanced capabilities.
+
+Goal: Build interactive, click-through tutorials inside the app to teach advanced features.
+
+Prompt:
+
+"You are a Product Education Content Developer. I need you to create in-app interactive tutorials for our project management platform.
+
+Your task:
+
+
+1. Select top 5 underused advanced features.
+
+2. Create step-by-step walkthrough scripts for each.
+
+3. Use tooltips, highlights, and click prompts to guide the user.
+
+4. Include progress tracking so users can resume later.
+
+5. Prepare text, screenshots, and instructional videos for each step.
+
+Output format: JSON tutorial script for app integration + video files + image assets.
+
+Input Files & Code Section:
+
+
+Feature usage analytics CSV.
+
+UI screenshot set.
+
+In-app tutorial framework documentation."
+
+Prompt 7 — Writing Compliance & Policy Documentation
+
+Backstory: You’ve launched a fintech app, but regulatory requirements demand that you publish clear compliance policies for users.
+
+Goal: Draft customer-facing compliance documentation that is accurate but easy to understand.
+
+Prompt:
+
+"You are a Regulatory Documentation Specialist. I want you to create compliance and privacy policies for our fintech app.
+
+Your task:
+
+
+1. Review applicable regulations (RBI, GDPR, PCI DSS).
+
+2. Write privacy policy, data handling policy, and terms of service.
+
+3. Ensure language is plain and free of legal jargon where possible.
+
+4. Include diagrams showing data flow and storage locations.
+
+5. Format for both web and PDF publication.
+
+Output format: Policy documents in DOCX, PDF, and HTML formats.
+
+Input Files & Code Section:
+
+
+Current draft compliance notes.
+
+Legal team’s checklist.
+
+Data flow diagrams."
+
+Prompt 8 — Documenting API Integration for Third-Party Partners
+
+Backstory: You offer a payment API that third-party merchants can integrate, but integration requests are delayed due to unclear documentation.
+
+Goal: Create a developer-friendly integration manual.
+
+Prompt:
+
+"You are a Partner Integration Documentation Engineer. I want you to create a full integration manual for our payment API.
+
+Your task:
+
+
+1. Describe authentication, endpoint usage, and required parameters.
+
+2. Provide step-by-step integration example for a sample merchant app.
+
+3. Include common error codes and troubleshooting steps.
+
+4. Add code examples in PHP, Node.js, and Python.
+
+5. Include test environment setup instructions.
+
+Output format: Markdown integration manual + HTML version for partner portal.
+
+Input Files & Code Section:
+
+
+API reference (swagger.yaml).
+
+Sandbox API credentials.
+
+Sample merchant application codebase."
+
+Prompt 9 — Creating Internal Developer Documentation
+
+Backstory: Your dev team has grown quickly, but onboarding new engineers takes weeks because there’s no central engineering guide.
+
+Goal: Document internal codebase, architecture, and workflows.
+
+Prompt:
+
+"You are an Internal Engineering Documentation Specialist. I want a central developer handbook for our engineering team.
+
+Your task:
+
+
+1. Describe project architecture with diagrams.
+
+2. Document coding standards and naming conventions.
+
+3. Include instructions for local environment setup.
+
+4. Explain CI/CD pipeline processes.
+
+5. Maintain this as a living document in the repo.
+
+Output format: Developer handbook in Markdown + PDF export.
+
+Input Files & Code Section:
+
+
+Architecture diagrams.
+
+Existing dev onboarding notes.
+
+Git repository README.md."
+
+Prompt 10 — Writing Feature Comparison Guides
+
+Backstory: Many customers ask how your product compares to competitors, but your sales team doesn’t have a clear document to share.
+
+Goal: Create a side-by-side feature comparison guide.
+
+Prompt:
+
+"You are a Competitive Product Documentation Writer. I want a feature comparison document between our tool and top 3 competitors.
+
+Your task:
+
+
+1. List key features side-by-side in a table.
+
+2. Use simple, customer-friendly language.
+
+3. Highlight where our product is stronger.
+
+4. Include screenshots for visual comparison.
+
+5. Format for both sales decks and website FAQ.
+
+Output format: Comparison PDF + PPT slide deck.
+
+Input Files & Code Section:
+
+
+Competitor feature research spreadsheet.
+
+Product screenshots folder.
+
+Brand guidelines for colors and fonts."
+
+Prompt 11 — Creating Troubleshooting Flowcharts
+
+Backstory: Your tech support team spends hours on calls walking users through fixes for common issues.
+
+Goal: Create self-help troubleshooting flowcharts.
+
+Prompt:
+
+"You are a Technical Troubleshooting Documentation Designer. I want to create visual flowcharts for common problems with our SaaS tool.
+
+Your task:
+
+
+1. Select top 5 recurring issues from support logs.
+
+2. Create clear yes/no flowcharts for each problem.
+
+3. Use icons and colors to make steps easy to follow.
+
+4. Add estimated time for each fix step.
+
+5. Export to PDF for customers and PNG for website.
+
+Output format: Flowchart diagrams in PNG + consolidated PDF booklet.
+
+Input Files & Code Section:
+
+
+Support ticket analysis CSV.
+
+Company color palette file.
+
+Icon set for diagrams."
+
+Prompt 12 — Creating Voice & Tone Guidelines
+
+Backstory: Multiple writers contribute to your help center, but the style is inconsistent.
+
+Goal: Create a unified voice & tone guide for all documentation writers.
+
+Prompt:
+
+"You are a Content Style Guide Specialist. I want a voice & tone guideline document for our documentation team.
+
+Your task:
+
+
+1. Define brand personality in writing.
+
+2. Provide examples of do’s and don’ts.
+
+3. Include guidelines for writing for technical vs. non-technical audiences.
+
+4. Cover accessibility considerations (readability, alt text, etc.).
+
+5. Provide templates for different content types.
+
+Output format: Voice & tone PDF + quick reference card.
+
+Input Files & Code Section:
+
+
+Existing help articles.
+
+Marketing brand guide.
+
+Feedback from customer surveys."
+
+Prompt 13 — Writing Contextual Tooltips for a Web Application
+
+Backstory: Your SaaS dashboard is feature-rich, but many first-time users don’t understand what certain buttons or fields do.
+
+Goal: Create short, contextual tooltips that explain features without overwhelming the user.
+
+Prompt:
+
+"You are a UX Microcopy Documentation Specialist. I want you to create clear, concise tooltips for our SaaS dashboard.
+
+Your task:
+
+
+1. Identify 30 key UI elements needing tooltips.
+
+2. Write short descriptions (max 20 words) in plain language.
+
+3. Ensure consistency in style and tone.
+
+4. Include an internal reference table mapping tooltip text to UI elements.
+
+5. Provide JSON/CSV format for direct integration with the UI codebase.
+
+Output format: Tooltip text table (CSV + JSON) + implementation guide.
+
+Input Files & Code Section:
+
+
+UI element list CSV.
+
+Screenshot set of dashboard UI.
+
+Branding style guide."
+
+Prompt 14 — Creating a Quick Start Guide for a Developer SDK (Software Development Kit)
+
+Backstory: Developers integrating your SDK are struggling because there’s no concise “first steps” documentation.
+
+Goal: Build a quick start guide that allows developers to implement the SDK within 30 minutes.
+
+Prompt:
+
+"You are a Developer Onboarding Documentation Expert. I want a quick start guide for our JavaScript SDK.
+
+Your task:
+
+
+1. Include installation steps via npm/yarn.
+
+2. Show basic initialization code with example API calls.
+
+3. Document common config options and defaults.
+
+4. Provide a working sample app repository link.
+
+5. Add troubleshooting tips for common setup errors.
+
+Output format: Markdown quick start guide + PDF export.
+
+Input Files & Code Section:
+
+
+SDK code sample repository link.
+
+API key for sandbox testing.
+
+Screenshot folder for sample outputs."
+
+Prompt 15 — Documenting Accessibility Features for Users with Disabilities
+
+Backstory: Your platform is accessible, but many users with disabilities don’t know about the available features.
+
+Goal: Create an accessibility guide showcasing these features.
+
+Prompt:
+
+"You are an Accessibility Documentation Specialist. I want an accessibility features guide for our learning platform.
+
+Your task:
+
+
+1. List all accessibility options (keyboard shortcuts, screen reader support, high contrast mode).
+
+2. Provide step-by-step activation instructions for each.
+
+3. Add compatibility notes for different browsers/devices.
+
+4. Include best practices for accessible usage.
+
+5. Format as both web and audio versions for accessibility.
+
+Output format: PDF + HTML + MP3 narration.
+
+Input Files & Code Section:
+
+
+Feature list CSV.
+
+Accessibility testing report.
+
+Screenshots and icon assets."
+
+Prompt 16 — Creating Interactive FAQs with Search Functionality
+
+Backstory: Your current FAQ page is static and users struggle to find relevant answers quickly.
+
+Goal: Build a searchable, interactive FAQ system.
+
+Prompt:
+
+"You are a Help Center Experience Designer. I want to turn our static FAQ page into an interactive, searchable database.
+
+Your task:
+
+
+1. Convert FAQs into a searchable JSON format.
+
+2. Tag each FAQ with categories and keywords.
+
+3. Implement autocomplete for search queries.
+
+4. Include expand/collapse answers for better UX.
+
+5. Provide embed code for website integration.
+
+Output format: FAQ database (JSON) + HTML/CSS/JS embed code.
+
+Input Files & Code Section:
+
+
+Existing FAQ text in CSV.
+
+Website brand style guide.
+
+JavaScript library documentation for search."
+
+Prompt 17 — Writing Maintenance Manuals for Hardware Products
+
+Backstory: Customers often damage devices because they don’t follow maintenance guidelines.
+
+Goal: Write a detailed maintenance and care manual.
+
+Prompt:
+
+"You are a Hardware Technical Writer. I want a maintenance manual for our smart home thermostat.
+
+Your task:
+
+
+1. List cleaning, calibration, and firmware update procedures.
+
+2. Provide do’s and don’ts with illustrations.
+
+3. Include seasonal maintenance reminders.
+
+4. Add troubleshooting section for physical faults.
+
+5. Format for both printed booklet and online PDF.
+
+Output format: Illustrated manual in PDF + printable A5 booklet.
+
+Input Files & Code Section:
+
+
+Product engineering diagrams.
+
+Service checklist from repair team.
+
+Image asset folder."
+
+Prompt 18 — Documenting Multi-Language Product Instructions
+
+Backstory: You sell in multiple countries, but product instructions are only in English.
+
+Goal: Create multilingual product manuals.
+
+Prompt:
+
+"You are a Multilingual Documentation Specialist. I want product instructions for our kitchen appliance in English, Hindi, and Tamil.
+
+Your task:
+
+
+1. Translate existing manual while keeping technical accuracy.
+
+2. Adapt units (metric/imperial) as needed.
+
+3. Include culturally relevant examples.
+
+4. Ensure formatting works for all languages.
+
+5. Provide print-ready and web-ready versions.
+
+Output format: PDF manuals in all 3 languages.
+
+Input Files & Code Section:
+
+
+Current English manual (DOCX).
+
+Brand typography guidelines.
+
+Translation glossary file."
+
+Prompt 19 — Creating How-To Videos for Common Tasks
+
+Backstory: Written guides are available, but some customers prefer video walkthroughs.
+
+Goal: Produce short tutorial videos for key product functions.
+
+Prompt:
+
+"You are a Video Documentation Producer. I want 5 short (under 2 mins each) tutorial videos for our e-learning platform.
+
+Your task:
+
+
+1. Write video scripts for each task.
+
+2. Record screen captures with voiceover.
+
+3. Add captions and callout graphics.
+
+4. Export in MP4 for YouTube and MOV for in-app playback.
+
+5. Provide thumbnail images for each video.
+
+Output format: Video files + scripts + thumbnails.
+
+Input Files & Code Section:
+
+
+Task list CSV.
+
+Brand video intro/outro files.
+
+Voiceover style guide."
+
+Prompt 20 — Creating an API Changelog Page
+
+Backstory: API updates break client integrations because developers aren’t notified in time.
+
+Goal: Publish a public API changelog with versioning details.
+
+Prompt:
+
+"You are an API Documentation Manager. I want a live API changelog page for our developer portal.
+
+Your task:
+
+
+1. Track API version changes with release dates.
+
+2. Add summaries of new/removed/modified endpoints.
+
+3. Highlight breaking changes in red.
+
+4. Provide migration notes for affected endpoints.
+
+5. Update automatically via CI/CD when code changes are merged.
+
+Output format: Markdown changelog + HTML portal page.
+
+Input Files & Code Section:
+
+
+Git commit history.
+
+API spec change diff file.
+
+Developer portal access."
+
+Prompt 21 — Writing Internal Product Playbooks for Support Staff
+
+Backstory: Support staff often escalate tickets unnecessarily because they lack clear product troubleshooting guidelines.
+
+Goal: Create internal product playbooks for the support team.
+
+Prompt:
+
+"You are a Support Operations Documentation Specialist. I want to create internal playbooks for handling common customer issues.
+
+Your task:
+
+
+1. Document step-by-step troubleshooting workflows.
+
+2. Include escalation criteria for each case.
+
+3. Provide scripts for customer communication.
+
+4. Add visual aids where relevant.
+
+5. Store in an internal wiki for easy updates.
+
+Output format: Playbook PDFs + wiki pages.
+
+Input Files & Code Section:
+
+
+Support ticket history CSV.
+
+Current internal notes.
+
+Diagram/image assets."
+
+Prompt 22 — Documenting Integration with Popular Third-Party Tools
+
+Backstory: Customers want to connect your product with tools like Slack, Google Sheets, and Zapier, but don’t know how.
+
+Goal: Create integration guides for top requested tools.
+
+Prompt:
+
+"You are a Third-Party Integration Documentation Specialist. I want guides for integrating our platform with Slack, Google Sheets, and Zapier.
+
+Your task:
+
+
+1. Write step-by-step instructions with screenshots.
+
+2. Show real-life use case examples for each integration.
+
+3. Add troubleshooting tips for API errors.
+
+4. Include estimated setup time for each.
+
+5. Format for help center and PDF export.
+
+Output format: 3 integration guides in PDF + HTML.
+
+Input Files & Code Section:
+
+
+Integration API credentials.
+
+User request survey results.
+
+Screenshot set for each tool."
+
+Prompt 23 — Creating Printable Cheat Sheets for Power Users
+
+Backstory: Advanced users want quick reference material without reading long manuals.
+
+Goal: Create compact, printable cheat sheets.
+
+Prompt:
+
+"You are a Productivity Documentation Designer. I want a one-page quick reference cheat sheet for our desktop productivity app.
+
+Your task:
+
+
+1. Include top keyboard shortcuts.
+
+2. Add quick access menu navigation.
+
+3. Include power user tips.
+
+4. Use icons and color coding for readability.
+
+5. Provide in A4 and Letter size PDFs.
+
+Output format: Cheat sheet PDF in two sizes.
+
+Input Files & Code Section:
+
+
+Shortcut list CSV.
+
+App UI screenshots.
+
+Icon asset folder."
+
+Prompt 24 — Creating User Story-Based Tutorials
+
+Backstory: Customers understand better when tutorials follow real-world scenarios.
+
+Goal: Write tutorials framed as user stories.
+
+Prompt:
+
+"You are a Scenario-Based Learning Documentation Specialist. I want tutorials that walk through tasks using real customer scenarios.
+
+Your task:
+
+
+1. Select top 3 customer use cases.
+
+2. Write tutorials in story format.
+
+3. Include relevant screenshots and tips.
+
+4. End each with key takeaways.
+
+5. Format for blog and PDF.
+
+Output format: 3 story-based tutorials in HTML + PDF.
+
+Input Files & Code Section:
+
+
+Customer interview transcripts.
+
+Screenshot set.
+
+Branding style guide."
+
+Prompt 25 — Creating AI-Assisted Product Guides
+
+Backstory: You want to experiment with AI-generated personalized product guides for new users.
+
+Goal: Create a template that AI can use to generate tailored guides.
+
+Prompt:
+
+"You are an AI-Enhanced Documentation Designer. I want a product guide template that AI can fill with user-specific tips.
+
+Your task:
+
+
+1. Create placeholders for user goals and usage history.
+
+2. Include a modular structure for different product features.
+
+3. Provide instructions for AI prompt generation.
+
+4. Add export options for PDF and HTML.
+
+5. Ensure template is editable in Google Docs.
+
+Output format: Editable DOCX template + JSON structure for AI integration.
+
+Input Files & Code Section:
+
+
+User onboarding questionnaire template.
+
+Feature description database.
+
+AI prompt library file."
+
+
+Cybersecurity & Data Privacy
+
 
 
 
