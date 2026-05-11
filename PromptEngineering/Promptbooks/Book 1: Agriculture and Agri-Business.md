@@ -453,33 +453,53 @@ First Month Action Plan: Week-by-week tasks from social media launch to first de
 Output in 3 parts: Overview, comparative channel table, and a 30-day launch checklist."
 
 Prompt 3 — Packaging & Labelling Compliance Guide
+
 "You are an FSSAI (Food Safety and Standards Authority of India) compliance expert. Create a packaging & labelling guide for my farm’s organic produce (vegetables & herbal teas) sold in [City]. Include:
 
+
 Mandatory FSSAI label details with examples.
+
 Eco-friendly, affordable packaging options available in India.
+
 Design tips for standing out in markets & online stores.
+
 Shelf-life marking guidelines.
+
 Steps to get packaging design approved for export readiness.
+
 Output in 2 sections: Compliance checklist & visual design recommendations."
 
 Prompt 4 — Social Media Content Calendar for Farm Sales
+
 "You are an agri-social media strategist. Prepare a 90-day content calendar for Instagram, Facebook, and WhatsApp to promote farm produce from [District, State].
 Include:
 
+
 12 post ideas for harvest updates & seasonal recipes.
+
 8 video/Reel scripts for farmer stories and cooking demos.
+
 4 customer testimonial formats.
+
 Best posting times & relevant hashtags in English + local language.
+
 Engagement tactics to boost orders via comments & DMs.
+
 Output in calendar format with post type, caption idea, and CTA (Call to Action) for each day."
 
 Prompt 5 — Customer Database & CRM Setup Plan
+
 "You are a CRM (Customer Relationship Management) consultant. I have 200 customers buying directly from my farm in [City]. Suggest a low-cost CRM system in Hindi & English that works on smartphones. Include:
 
+
 Recommended software/tools under ₹500 per month.
+
 Database fields to track purchase history & preferences.
+
 Seasonal offer & birthday greeting automation plan.
+
 WhatsApp/SMS integration steps.
+
 Output in 2 parts: CRM setup guide & seasonal customer engagement flowchart."
 
 Prompt 6 — Farmer’s Market Sales Pitch Development
@@ -503,31 +523,51 @@ Prompt 7 — Farm Website & E-Commerce Store Plan
 
 "You are a rural e-commerce consultant. Help me create an online sales platform for my farm produce in [City] with a budget under ₹10,000. Include:
 
+
 Domain name ideas & registration process.
+
 Recommended platforms (e.g., Shopify, Wix) with cost breakdown.
+
 Page structure: Home, Products, About Us, Testimonials, Contact.
+
 Payment integration via UPI (Unified Payments Interface) & cards.
+
 Mobile optimisation tips for rural customers.
+
 Provide the plan in step-by-step format with timelines for completion in 30 days."
 
 Prompt 8 — Subscription Box Model for Regular Customers
+
 "You are a subscription model strategist. I want to launch a weekly vegetable & fruit box service in [City]. Design the plan covering:
 
+
 Product mix for 3 box sizes (small, medium, large).
+
 Pricing tiers & payment frequency (weekly/monthly).
+
 Delivery frequency & route planning for cost savings.
+
 Loyalty rewards (e.g., free seasonal item every 5th box).
+
 Marketing ideas for launching via social media & housing societies.
+
 Output in 2 sections: Subscription plan table & launch marketing roadmap."
 
 Prompt 9 — WhatsApp Sales Campaign Plan
+
 "You are a digital agriculture marketing expert. I want to run a WhatsApp sales campaign for my farm-to-home delivery service in [City]. Create a plan that includes:
 
+
 Message templates for product lists, offers, and order confirmation.
+
 Product image guidelines (lighting, background, captions).
+
 Steps to create a WhatsApp Broadcast list without spamming.
+
 A 14-day festive season campaign calendar.
+
 Metrics to track success (CTR, conversion rate).
+
 Output in message template format + campaign calendar."
 
 Prompt 10 — Storytelling for Farm Branding
@@ -544,140 +584,233 @@ Prompt 10 — Storytelling for Farm Branding
 The story must highlight my background, commitment to sustainability, and farm-to-table freshness. Include local cultural elements to connect with [City] customers."
 
 Prompt 11 — Influencer Collaboration Strategy
+
 "You are an influencer marketing consultant for agri-products. Create a collaboration plan with 5 local chefs & food bloggers in [City] to promote my organic produce. Include:
 
+
 Criteria for selecting influencers.
+
 Outreach email/DM template.
+
 Campaign ideas (e.g., recipe videos, farm visit vlogs).
+
 Budget breakdown for barter & paid deals.
+
 Method to track ROI (Return on Investment).
+
 Output in influencer list + outreach plan + campaign calendar."
 
 Prompt 12 — Farm Visit Experience Design
+
 "You are an agri-tourism consultant. Design a farm visit program for families & school groups in [City]. Include:
 
+
 Itinerary for 3-hour & 6-hour visits.
+
 Activities: vegetable picking, cooking sessions, tractor rides.
+
 Pricing per person & group discounts.
+
 Safety & hygiene guidelines.
+
 Sales integration for visitors to buy fresh produce before leaving.
+
 Output in event brochure format with activity timings & prices."
 
 Prompt 13 — Referral Program Setup
+
 "You are a customer retention strategist. Create a referral program for my farm produce delivery service in [City] that rewards customers with free vegetables or discounts. Include:
 
+
 Referral reward structure.
+
 Simple tracking method via WhatsApp or Google Sheets.
+
 Sample messages to promote the program.
+
 Launch plan to get first 50 referrals in 30 days.
+
 Output in referral flowchart + ready-to-use promotional content."
 
 Prompt 14 — Branding for Multiple Product Lines
+
 "You are a multi-product brand architecture consultant. My farm sells vegetables, pickles, and herbal teas. Create a branding framework that:
 
+
 Keeps a consistent visual identity across all product lines.
+
 Uses sub-brands or product categories without losing the main brand identity.
+
 Suggests packaging variations for each product type.
+
 Includes cross-selling ideas to increase order value.
+
 Output in brand architecture diagram + packaging mockup suggestions."
 
 Prompt 15 — Urban Apartment Tie-Up Plan
+
 "You are a community-based retail advisor. Design a weekly delivery program for urban apartment complexes in [City]. Include:
 
+
 Approval process with the society management.
+
 Pre-order form sample.
+
 Stall setup ideas for apartment parking areas.
+
 Payment collection system via UPI.
+
 Launch event plan to create excitement.
+
 Output in step-by-step action plan + flyer design brief."
 
 Prompt 16 — Branding for Organic Certification
+
 "You are an organic product marketing expert. My farm is certified under NPOP (National Programme for Organic Production). Create a marketing plan to showcase this certification. Include:
 
+
 Placement of certification logo on packaging & digital ads.
+
 Short customer education content explaining certification benefits.
+
 Premium pricing strategy linked to certification.
+
 Stories of quality & safety to share with buyers.
+
 Output in marketing strategy document + sample customer education post."
 
 Prompt 17 — Digital Payment & Billing System Setup
+
 "You are a rural retail tech consultant. Recommend a digital billing & payment solution for my farm shop and delivery service. Include:
 
+
 POS (Point of Sale) machine options under ₹5,000.
+
 UPI integration steps.
+
 Receipt printing setup.
+
 Weekly sales report format.
+
 Output in setup checklist + training manual for farm workers."
 
 Prompt 18 — Seasonal Festival Sales Strategy
+
 "You are a seasonal sales strategist. Create a festival product plan for Diwali, Holi, and Raksha Bandhan, offering gift hampers with my farm’s produce & value-added products. Include:
 
+
 Product mix for each festival.
+
 Packaging ideas using eco-friendly materials.
+
 Pricing strategy.
+
 Marketing timeline starting 4 weeks before each festival.
+
 Output in festival sales calendar + product packaging mockups."
 
 Prompt 19 — Email Newsletter Campaign for Farm Sales
+
 "You are a digital communications expert. Create a monthly email newsletter plan for my farm customers. Include:
 
+
 Content themes (recipes, farm updates, special offers).
+
 Subject line ideas.
+
 Template that works on mobile.
+
 Ways to grow the email list through farm visits & social media.
+
 Output in newsletter content map + sample email design."
 
 Prompt 20 — Eco-Friendly Packaging Marketing Plan
+
 "You are a sustainable branding expert. Create a marketing plan that uses eco-friendly packaging as a selling point for my farm. Include:
 
+
 Supplier suggestions for biodegradable packaging in India.
+
 Messaging ideas for social media & packaging labels.
+
 Cost-benefit analysis of eco-friendly packaging.
+
 Customer engagement ideas (e.g., return & reuse incentives).
+
 Output in messaging guide + supplier list."
 
 Prompt 21 — Photography & Video Content Plan
+
 "You are a food photography consultant. Create a content capture plan for my farm produce. Include:
 
+
 Photo ideas for product listings & social media.
+
 Lighting & background tips.
+
 Video formats for Reels, YouTube Shorts, and product tutorials.
+
 Editing tools recommendations.
+
 Output in shoot checklist + content calendar."
 
 Prompt 22 — Local Media PR Campaign
+
 "You are a PR (Public Relations) strategist. Develop a press coverage plan for my farm in local newspapers & radio. Include:
 
+
 Story angles (e.g., sustainable farming success, women-led farms).
+
 Press release template.
+
 Contact list of local media.
+
 Event tie-ins for coverage (e.g., harvest festivals).
+
 Output in press kit format."
 
 Prompt 23 — Farm Brand Merchandise Strategy
+
 "You are a merchandise marketing consultant. Design a branded merchandise plan for my farm (cloth bags, mugs, t-shirts). Include:
 
+
 Product ideas aligned with eco-friendly farming.
+
 Supplier recommendations in India.
+
 Pricing & bundling strategy.
+
 Sales integration with farm produce orders.
+
 Output in product catalogue + pricing table."
 
 Prompt 24 — Google My Business Optimisation Plan
+
 "You are a local SEO (Search Engine Optimisation) consultant. Create a Google My Business optimisation plan for my farm shop. Include:
 
+
 Accurate listing setup.
+
 Photo & keyword strategy.
+
 Customer review generation plan.
+
 Posting ideas to boost ranking.
+
 Output in optimisation checklist + content post plan."
 
 Prompt 25 — Multi-City Farm Sales Expansion Plan
+
 "You are a farm distribution strategist. Design a multi-city sales expansion plan for my farm produce to sell in [City 1], [City 2], and [City 3]. Include:
 
+
 Logistics arrangement & storage needs.
+
 Wholesale vs retail price strategies.
+
 City-specific marketing campaigns.
+
 Partnership ideas with local retailers.
+
 Output in market entry plan + cost projection table."
 
