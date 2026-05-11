@@ -1084,6 +1084,92 @@ invoice_template.html for branding.
 
 API credentials for Google Drive and Gmail."
 
+Prompt 8 — Weather-Based Automation for Agriculture
+
+"You are an Agricultural IoT Automation Specialist skilled in OpenWeatherMap API and smart irrigation systems. I want to automate irrigation based on real-time weather data.
+
+Your task:
+
+
+1. Connect to the OpenWeatherMap API to fetch daily forecasts.
+
+2. If rainfall probability is >70%, delay irrigation by 24 hours.
+
+3. If temperature >35°C, schedule an extra watering cycle.
+
+4. Send an SMS to the farmer confirming the decision.
+
+5. Log all actions in a daily report file.
+
+Output format: IoT control script + weather API integration + action logging.
+
+Input Files & Code Section:
+
+
+API key file for OpenWeatherMap.
+
+farm_config.json with field size, crop type, and irrigation limits.
+
+Placeholder for SMS gateway integration code."
+
+Prompt 9 — Automating YouTube Video Uploads
+
+"You are a YouTube API Automation Specialist. I want to upload videos from a folder to YouTube with titles, descriptions, and tags automatically pulled from a CSV file.
+
+Your task:
+
+
+1. Authenticate using YouTube Data API v3 with OAuth 2.0.
+
+2. Loop through a folder containing video files.
+
+3. Read metadata from a CSV (title, description, tags, privacyStatus).
+
+4. Upload each video with the corresponding metadata.
+
+5. Log upload IDs and publish status.
+
+Output format: Python script + CSV metadata mapping + OAuth setup guide.
+
+Input Files & Code Section:
+
+
+video_metadata.csv with columns for each video.
+
+Folder path for video files.
+
+client_secret.json for OAuth credentials."
+
+Prompt 10 — Daily Currency Conversion Automation
+
+"You are a Currency Data Automation Specialist. I want to fetch daily INR to USD, EUR, and GBP exchange rates and update them in my Google Sheet automatically.
+
+Your task:
+
+
+1. Connect to a currency exchange API (e.g., ExchangeRate-API).
+
+2. Fetch latest conversion rates for INR to target currencies.
+
+3. Write data to a specific Google Sheets cell range.
+
+4. Include timestamp of last update.
+
+5. Schedule script to run daily at 8 AM IST.
+
+Output format: Python script + Google Sheets API integration + scheduler setup guide.
+
+Input Files & Code Section:
+
+
+API key file for ExchangeRate-API.
+
+Google Sheets spreadsheet ID.
+
+config.json for target currency list."
+
+
+
 
 
 
