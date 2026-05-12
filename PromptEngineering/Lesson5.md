@@ -35,6 +35,6 @@ headline. Make it punchy and exciting. Something like
 professionals and freshers. Keep it under 10 words.
 ```
 
-Claude has to figure out what's context, what's the task,
-what's the example, and what's the
-constraint. It might mix them up. 
+Claude has to figure out what's context,what's the task,
+
+what's the example, and what's the constraint. It might mix them up. 
