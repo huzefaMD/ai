@@ -59,7 +59,6 @@ utilize, innovative, cutting-edge
 </avoid>
 
 <never>
-
 - Sound like an advertisement
 - Use exclamation marks more than twice
 - End without a call to action or question
