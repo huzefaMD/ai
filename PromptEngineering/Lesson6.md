@@ -36,3 +36,24 @@ This comprehensive course has been designed for
 IT professionals seeking to advance their careers
 in artificial intelligence."
 ```
+### Conversational:
+```
+"Hey! Big news - our AI course is finally dropping
+next week and honestly, we've been working on this
+for months. If you've been waiting to get into AI,
+this is your moment."
+```
+### Urgent:
+```
+"Last chance. Our AI course opens next week and
+we're capping it at 30 students.
+Once it's full, it's full.
+Are you in or out?"
+```
+### Inspirational:
+```
+"Six months from now, you could be the person
+your company calls when AI questions come up.
+It starts next week. It starts with you."
+```
+Same information. Completely different impact.
