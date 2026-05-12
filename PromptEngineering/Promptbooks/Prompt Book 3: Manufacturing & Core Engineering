@@ -1,1 +1,855 @@
+Production Workflow Optimisation
 
+Prompt 1 — Reducing Production Line Bottlenecks
+
+Backstory: You are a production manager in an automotive manufacturing plant facing delays on your assembly line. Management wants faster throughput without compromising quality.
+
+Goal: Create an AI-driven analysis to identify, simulate, and solve bottlenecks.
+
+Prompt:
+
+"You are an AI Manufacturing Workflow Analyst. Analyze my production line process flow chart to identify key bottlenecks.
+
+Your task:
+
+
+1. Map the sequence of steps in the current workflow.
+
+2. Identify steps with the longest cycle times and highest downtime.
+
+3. Simulate possible solutions (e.g., parallel processing, equipment upgrades).
+
+4. Estimate improvement percentages for each solution.
+
+5. Recommend a final plan with cost-benefit analysis.
+
+Output format: PDF improvement report + Gantt chart simulation file.
+
+Input Files & Code Section:
+
+
+Current workflow diagram (Visio/PDF).
+
+Production cycle time logs (Excel).
+
+Machine downtime report (CSV)."
+
+Prompt 2 — Predictive Maintenance Scheduling
+
+Backstory: In your FMCG plant, unexpected equipment breakdowns are causing losses. You want AI to help predict and schedule maintenance.
+
+Goal: Create a preventive maintenance calendar using historical data.
+
+Prompt:
+
+"You are an AI Predictive Maintenance Planner. Use my machine performance and repair history to predict future breakdowns and suggest maintenance dates.
+
+Your task:
+
+
+1. Analyze MTBF (Mean Time Between Failures) for each machine.
+
+2. Identify early warning signs in sensor data.
+
+3. Recommend preventive maintenance windows.
+
+4. Balance downtime with production targets.
+
+5. Export schedule for integration with SAP ERP.
+
+Output format: Excel maintenance schedule + PDF risk report.
+
+Input Files & Code Section:
+
+
+Machine performance logs (CSV).
+
+Maintenance history files.
+
+SAP ERP downtime export."
+
+Prompt 3 — Optimising Raw Material Usage
+
+Backstory: Your factory is over-ordering raw materials, causing excess inventory costs.
+
+Goal: Use AI to forecast optimal raw material requirements.
+
+Prompt:
+
+"You are an AI Inventory Forecasting Expert. Analyze past 12 months’ production and sales data to forecast optimal raw material orders.
+
+Your task:
+
+
+1. Forecast demand for next quarter using time-series models.
+
+2. Suggest order quantities that maintain a lean inventory.
+
+3. Highlight seasonal or demand-driven variations.
+
+4. Include safety stock calculations.
+
+5. Provide supplier order scheduling plan.
+
+Output format: Excel procurement plan + PDF forecasting report.
+
+Input Files & Code Section:
+
+
+Sales data (CSV).
+
+Raw material stock history (Excel).
+
+Supplier lead time chart."
+
+Prompt 4 — Energy Efficiency Improvement Plan
+
+Backstory: Your manufacturing facility’s energy bills are rising, and management wants to reduce energy usage.
+
+Goal: Build an AI-driven energy saving action plan.
+
+Prompt:
+
+"You are an AI Industrial Energy Auditor. Audit my plant’s energy usage and recommend efficiency improvements.
+
+Your task:
+
+
+1. Identify highest energy-consuming machines.
+
+2. Suggest operational changes and retrofits.
+
+3. Estimate ROI for each change.
+
+4. Compare energy savings with government green subsidies.
+
+5. Provide a phased implementation plan.
+
+Output format: PDF audit report + Excel savings forecast.
+
+Input Files & Code Section:
+
+
+Electricity consumption logs.
+
+Machine efficiency ratings.
+
+Government subsidy policy documents."
+
+Prompt 5 — Reducing Product Defects with AI
+
+Backstory: Your quality control (QC) team reports that defect rates are rising. You want AI to help detect root causes.
+
+Goal: Create a defect reduction workflow using AI insights.
+
+Prompt:
+
+"You are an AI Quality Control Analyst. Analyze my production defect data and suggest ways to reduce faulty output.
+
+Your task:
+
+
+1. Classify defects by type, machine, and operator.
+
+2. Detect recurring defect patterns.
+
+3. Recommend process or equipment adjustments.
+
+4. Simulate expected defect reduction after changes.
+
+5. Provide QC monitoring checklist.
+
+Output format: PDF defect analysis + Excel root cause tracker.
+
+Input Files & Code Section:
+
+
+QC defect logs (Excel).
+
+Production shift reports.
+
+Machine maintenance history."
+
+Prompt 6 — Automating Production Line Reporting
+
+Backstory: You currently rely on manual reports from supervisors, which causes delays and data entry errors. You want AI to automate daily production reporting.
+
+Goal: Create a daily production report automatically from machine data and shift logs.
+
+Prompt:
+
+"You are an AI Production Reporting Assistant. Generate daily production performance reports by consolidating shift logs and IoT sensor data.
+
+Your task:
+
+
+1. Extract production counts, downtime, and defect numbers.
+
+2. Compare daily output to target production volumes.
+
+3. Highlight underperforming shifts or machines.
+
+4. Suggest corrective actions for any deviations.
+
+5. Provide an automated template that can be reused daily.
+
+Output format: PDF daily report + Excel raw data table.
+
+Input Files & Code Section:
+
+
+Shift production logs (CSV).
+
+IoT machine data export (JSON).
+
+Target production KPI sheet."
+
+Prompt 7 — Workforce Shift Optimization
+
+Backstory: Labor costs are rising, and you want to optimize worker shift schedules without overworking employees.
+
+Goal: Build an AI-generated shift allocation plan to maximize productivity.
+
+Prompt:
+
+"You are an AI Workforce Scheduling Expert. Optimize worker shifts for the next month to reduce overtime costs while meeting production targets.
+
+Your task:
+
+
+1. Analyze worker skills, machine compatibility, and attendance records.
+
+2. Minimize overtime while ensuring coverage.
+
+3. Ensure compliance with labor laws.
+
+4. Balance workload across shifts.
+
+5. Export in Excel for HR integration.
+
+Output format: Excel shift roster + PDF scheduling policy.
+
+Input Files & Code Section:
+
+
+Worker skills database (Excel).
+
+Attendance logs (CSV).
+
+Labor law compliance checklist."
+
+Prompt 8 — Cycle Time Reduction Plan
+
+Backstory: The average cycle time for your main product is longer than industry benchmarks.
+
+Goal: Reduce cycle time without affecting product quality.
+
+Prompt:
+
+"You are an AI Industrial Process Engineer. Create a cycle time reduction strategy for my [product name] production line.
+
+Your task:
+
+
+1. Map current process steps with time durations.
+
+2. Identify non-value-added steps.
+
+3. Suggest lean manufacturing improvements.
+
+4. Estimate cycle time savings for each change.
+
+5. Provide a before/after comparison chart.
+
+Output format: PDF process improvement plan + Excel cycle time analysis.
+
+Input Files & Code Section:
+
+
+Process time study report.
+
+Production flow diagrams.
+
+Industry benchmark data."
+
+Prompt 9 — Real-Time Production Monitoring Dashboard
+
+Backstory: You want a live dashboard that shows production KPIs in real-time.
+
+Goal: Build an AI-generated Power BI or Tableau dashboard template.
+
+Prompt:
+
+"You are an AI Manufacturing Data Visualization Expert. Create a real-time dashboard showing production output, downtime, and quality metrics.
+
+Your task:
+
+
+1. Pull data from IoT sensors and ERP.
+
+2. Update every 10 minutes.
+
+3. Display KPIs with green/yellow/red status indicators.
+
+4. Allow filtering by machine, product, and shift.
+
+5. Provide setup instructions for my IT team.
+
+Output format: Power BI or Tableau file + setup guide.
+
+Input Files & Code Section:
+
+
+Machine data API access.
+
+ERP database schema.
+
+KPI definition sheet."
+
+Prompt 10 — Lean Six Sigma Implementation Plan
+
+Backstory: Your plant wants to adopt Lean Six Sigma to cut waste and defects.
+
+Goal: Create a step-by-step Lean Six Sigma deployment plan.
+
+Prompt:
+
+"You are an AI Lean Six Sigma Consultant. Develop a 6-month Lean Six Sigma implementation roadmap for my plant.
+
+Your task:
+
+
+1. Identify key waste areas using the 7 wastes framework.
+
+2. Recommend Kaizen events.
+
+3. Suggest training plans for staff.
+
+4. Define measurable KPIs.
+
+5. Include ROI forecast.
+
+Output format: PDF roadmap + Excel KPI tracker.
+
+Input Files & Code Section:
+
+
+Waste audit report.
+
+Current process maps.
+
+Employee training records."
+
+Prompt 11 — Supplier Lead Time Optimization
+
+Backstory: Raw material delays are slowing production.
+
+Goal: Reduce supplier lead times using AI-driven forecasting and negotiation.
+
+Prompt:
+
+"You are an AI Supply Chain Strategist. Analyze supplier performance and suggest ways to reduce lead time.
+
+Your task:
+
+
+1. Identify suppliers with frequent delays.
+
+2. Recommend alternate suppliers or dual sourcing.
+
+3. Suggest buffer stock levels.
+
+4. Provide negotiation strategies based on performance.
+
+5. Forecast potential savings from changes.
+
+Output format: Excel supplier scorecard + PDF strategy report.
+
+Input Files & Code Section:
+
+
+Supplier delivery logs.
+
+Purchase order records.
+
+Historical lead time data."
+
+Prompt 12 — Changeover Time Reduction Plan
+
+Backstory: Changing production from one product to another takes too long.
+
+Goal: Reduce changeover time between product batches.
+
+Prompt:
+
+"You are an AI SMED (Single-Minute Exchange of Die) Specialist. Develop a plan to reduce product changeover time.
+
+Your task:
+
+
+1. Map current changeover steps.
+
+2. Classify steps as internal or external.
+
+3. Suggest modifications to parallelize work.
+
+4. Recommend tool storage improvements.
+
+5. Simulate expected time savings.
+
+Output format: PDF changeover plan + Excel time tracker.
+
+Input Files & Code Section:
+
+
+Changeover time logs.
+
+Equipment setup checklists.
+
+Operator interviews."
+
+Prompt 13 — Defining Digital Twin for Production Line
+
+Backstory: You want to create a digital twin of your production line for simulation purposes.
+
+Goal: Build an AI prompt for designing a production digital twin model.
+
+Prompt:
+
+"You are an AI Digital Twin Designer. Create a simulation-ready digital twin of my production line.
+
+Your task:
+
+
+1. Map equipment and material flows.
+
+2. Include operational parameters.
+
+3. Enable scenario testing for speed and downtime.
+
+4. Integrate with IoT sensor data feeds.
+
+5. Provide step-by-step deployment guide.
+
+Output format: Simulation software project file + PDF user manual.
+
+Input Files & Code Section:
+
+
+Production layout CAD file.
+
+Machine operating specs.
+
+Sensor data mapping."
+
+Prompt 14 — Optimising Packaging Line Efficiency
+
+Backstory: Your packaging line is a bottleneck in your FMCG plant.
+
+Goal: Improve packaging speed and reduce material waste.
+
+Prompt:
+
+"You are an AI Packaging Line Optimization Expert. Improve speed and reduce waste in my packaging process.
+
+Your task:
+
+
+1. Analyze current packaging throughput.
+
+2. Recommend equipment adjustments.
+
+3. Suggest alternative packaging materials.
+
+4. Simulate effect of automated labeling.
+
+5. Provide ROI analysis for changes.
+
+Output format: PDF efficiency plan + Excel ROI sheet.
+
+Input Files & Code Section:
+
+
+Packaging speed logs.
+
+Material waste records.
+
+Equipment maintenance history."
+
+Prompt 15 — Automating Quality Control Image Analysis
+
+Backstory: Your QC team inspects products manually, which is slow and inconsistent.
+
+Goal: Use AI vision models for defect detection.
+
+Prompt:
+
+"You are an AI Quality Vision System Designer. Analyze product images to detect defects automatically.
+
+Your task:
+
+
+1. Train AI on provided defect images.
+
+2. Classify defects with confidence scores.
+
+3. Provide heatmaps showing defect locations.
+
+4. Export results to QC dashboard.
+
+5. Suggest improvements to inspection process.
+
+Output format: AI model files + PDF accuracy report.
+
+Input Files & Code Section:
+
+
+Labeled defect images.
+
+QC inspection criteria.
+
+Current defect logs."
+
+Prompt 16 — Implementing Kanban for Production Flow
+
+Backstory: Your factory floor suffers from work-in-progress (WIP) pile-ups, leading to inefficiency and missed delivery dates.
+
+Goal: Implement a Kanban system for smoother production flow.
+
+Prompt:
+
+"You are an AI Kanban Workflow Designer. Create a Kanban implementation plan for my [industry] production facility.
+
+Your task:
+
+
+1. Define WIP limits for each stage.
+
+2. Design visual boards for physical and digital use.
+
+3. Suggest card color-coding for task priorities.
+
+4. Recommend daily stand-up meeting structure.
+
+5. Provide metrics to track success over time.
+
+Output format: PDF Kanban playbook + Excel WIP tracker.
+
+
+Input Files & Code Section:
+
+
+Current process workflow diagrams.
+
+List of production stages.
+
+Historical WIP inventory data."
+
+Prompt 17 — Inventory Location Optimization
+
+Backstory: Materials are stored in inefficient locations, causing delays when retrieving them for production.
+
+Goal: Reorganize inventory for faster material access.
+
+Prompt:
+
+"You are an AI Warehouse Layout Planner. Optimize the location of materials in my warehouse to reduce retrieval time.
+
+Your task:
+
+
+1. Analyze retrieval frequency and material weight.
+
+2. Position high-frequency items closer to production line.
+
+3. Minimize worker travel distance.
+
+4. Suggest shelf height adjustments for ergonomics.
+
+5. Provide new layout blueprint.
+
+Output format: CAD warehouse layout + PDF efficiency report.
+
+Input Files & Code Section:
+
+
+Warehouse blueprint file.
+
+Material retrieval logs.
+
+Worker safety guidelines."
+
+Prompt 18 — Seasonal Production Planning
+
+Backstory: Demand for your products changes drastically based on seasons, but your plant struggles to adjust schedules accordingly.
+
+Goal: Build a seasonal production forecast plan.
+
+Prompt:
+
+"You are an AI Seasonal Demand Planner. Create a 12-month production schedule aligned with seasonal demand patterns.
+
+Your task:
+
+
+1. Identify high and low demand periods.
+
+2. Adjust production levels to avoid overstocking.
+
+3. Suggest seasonal product variations if needed.
+
+4. Plan raw material procurement in advance.
+
+5. Create a contingency plan for unexpected spikes.
+
+Output format: Excel seasonal forecast + PDF action plan.
+
+Input Files & Code Section:
+
+
+Sales history (3+ years).
+
+Market demand reports.
+
+Supplier lead time data."
+
+Prompt 19 — Scrap Reduction Strategy
+
+Backstory: Your production process generates a high amount of scrap material, increasing costs.
+
+Goal: Create a scrap reduction strategy.
+
+Prompt:
+
+"You are an AI Waste Minimization Consultant. Analyze scrap data and recommend strategies to reduce waste.
+
+Your task:
+
+
+1. Identify the most common scrap types.
+
+2. Suggest process changes or material substitutions.
+
+3. Explore opportunities for recycling or reusing scrap.
+
+4. Calculate cost savings potential.
+
+5. Provide implementation roadmap.
+
+Output format: PDF waste reduction plan + Excel savings tracker.
+
+Input Files & Code Section:
+
+
+Scrap material logs.
+
+Production process maps.
+
+Material supplier specifications."
+
+Prompt 20 — Automated Compliance Documentation
+
+Backstory: Your industry requires regular safety and compliance documentation, but it’s currently a time-consuming manual process.
+
+Goal: Automate compliance reporting.
+
+Prompt:
+
+"You are an AI Compliance Documentation Specialist. Generate safety and compliance reports automatically from production data.
+
+Your task:
+
+
+1. Extract relevant metrics from IoT and QC logs.
+
+2. Format reports according to [industry] regulations.
+
+3. Include visual compliance dashboards.
+
+4. Flag non-compliance areas with corrective actions.
+
+5. Archive reports in PDF and Word formats.
+
+Output format: PDF compliance report + Word editable file.
+
+Input Files & Code Section:
+
+
+Industry compliance checklist.
+
+QC inspection logs.
+
+IoT machine data export."
+
+Prompt 21 — AI-Driven Production Cost Reduction Plan
+
+Backstory: Management has tasked you to reduce operational costs by 15% without reducing output.
+
+Goal: Identify cost-cutting opportunities in the production process.
+
+Prompt:
+
+"You are an AI Cost Optimization Analyst. Analyze my production process and recommend ways to cut costs by 15% or more.
+
+Your task:
+
+
+1. Break down costs into labor, materials, and energy.
+
+2. Identify inefficiencies in each category.
+
+3. Suggest supplier renegotiations or material alternatives.
+
+4. Highlight automation opportunities.
+
+5. Provide ROI forecast for each recommendation.
+
+Output format: PDF cost reduction plan + Excel savings model.
+
+Input Files & Code Section:
+
+
+Production cost breakdown (Excel).
+
+Energy bills.
+
+Supplier contract terms."
+
+Prompt 22 — Employee Training Plan for Process Efficiency
+
+Backstory: Inconsistent worker skills are slowing production and causing errors.
+
+Goal: Build a structured training program to improve process efficiency.
+
+Prompt:
+
+"You are an AI Workforce Training Designer. Create a 3-month training plan for my production staff focused on efficiency and quality.
+
+Your task:
+
+
+1. Assess skill gaps from recent QC and performance data.
+
+2. Recommend training modules for each gap.
+
+3. Include on-the-job and classroom sessions.
+
+4. Provide training materials and quizzes.
+
+5. Suggest KPIs to measure improvement.
+
+Output format: PDF training plan + PowerPoint training slides.
+
+Input Files & Code Section:
+
+
+QC performance reports.
+
+Employee skill assessment survey.
+
+Industry training manuals."
+
+Prompt 23 — AI-Driven Equipment Upgrade Recommendations
+
+Backstory: Your machinery is outdated and slowing production, but you’re unsure which upgrades to prioritize.
+
+Goal: Recommend high-ROI equipment upgrades.
+
+Prompt:
+
+"You are an AI Equipment Investment Advisor. Analyze my machinery and suggest upgrades that offer the best ROI.
+
+Your task:
+
+
+1. Compare current machine performance to industry benchmarks.
+
+2. Estimate time and cost savings for each upgrade.
+
+3. Consider compatibility with existing processes.
+
+4. Provide financing or leasing recommendations.
+
+5. Rank upgrades by ROI and urgency.
+
+Output format: PDF investment proposal + Excel ROI model.
+
+Input Files & Code Section:
+
+
+Machine performance logs.
+
+Industry benchmark database.
+
+Equipment supplier quotes."
+
+Prompt 24 — Multi-Plant Production Coordination
+
+Backstory: Your company operates multiple plants, but production scheduling between them is inefficient.
+
+Goal: Create a coordinated multi-plant production plan.
+
+Prompt:
+
+"You are an AI Multi-Plant Scheduling Expert. Develop a synchronized production plan for my 3 manufacturing plants.
+
+Your task:
+
+
+1. Assign products to plants based on capacity and specialization.
+
+2. Optimize inter-plant transportation.
+
+3. Adjust schedules to avoid bottlenecks.
+
+4. Share resources (machines, manpower) where possible.
+
+5. Provide contingency plans for plant downtime.
+
+Output format: Excel master schedule + PDF coordination report.
+
+Input Files & Code Section:
+
+
+Plant capacity and specialization list.
+
+Transportation cost matrix.
+
+Product demand forecast."
+
+Prompt 25 — AI-Powered Kaizen Suggestion System
+
+Backstory: You want to involve employees in continuous improvement but need a structured system for capturing ideas.
+
+Goal: Build an AI-enhanced Kaizen suggestion workflow.
+
+Prompt:
+
+"You are an AI Continuous Improvement Coordinator. Create a Kaizen idea capture and evaluation system for my plant.
+
+Your task:
+
+
+1. Provide an idea submission form for employees.
+
+2. Categorize ideas by process area and potential impact.
+
+3. Score ideas based on cost, feasibility, and ROI.
+
+4. Generate monthly improvement reports.
+
+5. Reward employees for implemented ideas.
+
+Output format: Excel idea tracker + PDF monthly report.
+
+Input Files & Code Section:
+
+
+Employee list and roles.
+
+Past improvement logs.
+
+ROI calculation template."
+
+
+Quality Control & Inspection Protocols
