@@ -123,3 +123,34 @@ personally writing to a student
 - Must mention Chennai IT market opportunity
 </rules>
 ```
+## Data Analysis:
+
+```
+<context>
+HuzefAI ran 3 courses last quarter.
+</context>
+
+<data>
+Course 1: AWS Fundamentals - 45 students - ₹4,999 -
+4.8 rating - 85% completion
+Course 2: DevOps Bootcamp - 28 students - ₹7,999 -
+4.6 rating - 72% completion
+Course 3: Python for AI - 61 students - ₹3,999 -
+4.9 rating - 91% completion
+</data>
+
+<task>
+Analyze this data and give me business insights.
+</task>
+
+<format>
+1. Best performing course and why
+2. Biggest opportunity I'm missing
+3. Pricing insights
+4. Top 3 recommendations for next quarter
+</format>
+
+<tone>
+Direct, data-driven, no fluff
+</tone>
+```
