@@ -57,3 +57,20 @@ your company calls when AI questions come up.
 It starts next week. It starts with you."
 ```
 Same information. Completely different impact.
+
+
+## PART 2: Controlling FORMAT
+Format is the structure and layout of Claude's response.
+
+### Format Options Reference
+
+| Format Type | When to Use | How to Request |
+|---|---|---|
+| Bullet points | Lists, features, benefits | `"Use bullet points"` |
+| Numbered list | Steps, rankings, sequences | `"Use numbered list"` |
+| Table | Comparisons, data, schedules | `"Present as a table"` |
+| Prose paragraphs | Articles, emails, stories | `"Write in flowing paragraphs"` |
+| Headers + sections | Reports, guides, curricula | `"Use clear headers for each section"` |
+| Bold key points | Scannable content | `"Bold the most important points"` |
+| Code blocks | Technical content | `"Put code in code blocks"` |
+| Q&A format | FAQs, interviews | `"Format as Q&A" `|
