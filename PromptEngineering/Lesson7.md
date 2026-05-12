@@ -88,3 +88,26 @@ HuzefAI's free webinar.
 - Write more than 150 words
 </never>
 ```
+
+### Course Content Creation:
+```
+<task>
+Write an explanation of Kubernetes for
+beginners in HuzefAI's DevOps course.
+</task>
+
+<avoid>
+- Assuming prior knowledge of containers
+- Using acronyms without explaining them first
+- Academic or textbook language
+- Overwhelming with too many concepts at once
+- Passive voice explanations
+</avoid>
+
+<never>
+- Use the phrase "simply put" or "basically"
+- Skip the practical real-world application
+- Make it sound more complex than it is
+- Write more than 300 words for this intro
+</never>
+```
