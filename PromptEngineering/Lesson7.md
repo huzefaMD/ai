@@ -202,6 +202,6 @@ teaching, genuinely excited, not salesy
 | Mistake | Problem | Fix |
 |---|---|---|
 | Too many restrictions | Claude has no room to be creative | Limit to 5-7 key negatives |
-| Contradicting positives | "Be detailed" + "Don't be long" clash | Make sure positives and negatives align |
-| Vague negatives | "Don't be bad" means nothing | Be specific — "Don't use passive voice" |
+| Contradicting positives | `"Be detailed"` + `"Don't be long"` clash | Make sure positives and negatives align |
+| Vague negatives | `"Don't be bad"` means nothing | Be specific — `"Don't use passive voice"` |
 | Forgetting negatives entirely | Claude uses defaults you don't want | Always include at least 3 negatives |
