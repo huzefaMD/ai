@@ -853,3 +853,858 @@ ROI calculation template."
 
 
 Quality Control & Inspection Protocols
+
+Prompt 1 — AI-Assisted Defect Classification System
+
+Backstory: Your factory produces thousands of units daily, but manual defect classification is inconsistent and slow. Management wants a consistent, automated approach.
+
+Goal: Build an AI model that can classify defects accurately based on images.
+
+Prompt:
+
+"You are an AI Quality Inspection Specialist. Analyze product images and classify defects according to severity and category.
+
+Your task:
+
+
+1. Use my provided defect image dataset to train the model.
+
+2. Classify each defect as Minor, Major, or Critical.
+
+3. Provide visual heatmaps highlighting defect locations.
+
+4. Suggest potential root causes based on defect patterns.
+
+5. Export results to an Excel QC dashboard.
+
+Output format: Model prediction results (Excel) + annotated defect images.
+
+Input Files & Code Section:
+
+
+Labeled defect image dataset.
+
+QC category definitions (Excel).
+
+Root cause mapping guide."
+
+Prompt 2 — Automated Incoming Material Inspection
+
+Backstory: Suppliers sometimes send substandard raw materials, causing production defects. Your QC team needs a faster way to screen incoming shipments.
+
+Goal: Automate incoming raw material quality checks using AI.
+
+Prompt:
+
+"You are an AI Material Inspection Analyst. Evaluate incoming material data and flag shipments that fail quality standards.
+
+Your task:
+
+
+1. Compare incoming batch data to quality thresholds.
+
+2. Highlight deviations in moisture content, density, or dimensions.
+
+3. Generate acceptance/rejection decisions.
+
+4. Recommend suppliers with best historical quality performance.
+
+5. Archive all inspection results for compliance purposes.
+
+Output format: PDF acceptance/rejection report + Excel QC log.
+
+Input Files & Code Section:
+
+
+Supplier shipment data (CSV).
+
+Quality parameter thresholds.
+
+Historical supplier performance data."
+
+Prompt 3 — Real-Time Production Line Quality Monitoring
+
+Backstory: Currently, QC checks are only done at the end of production, which means defects are detected too late.
+
+Goal: Create a real-time monitoring system to catch defects as they occur.
+
+Prompt:
+
+"You are an AI Real-Time Quality Monitor. Continuously scan production line data to detect quality deviations early.
+
+Your task:
+
+
+1. Monitor dimensions, weight, and finish quality.
+
+2. Detect anomalies using AI thresholding models.
+
+3. Send instant alerts to supervisors when deviations occur.
+
+4. Track defect trends over time.
+
+5. Integrate with production dashboard.
+
+Output format: Live dashboard + PDF monthly QC summary.
+
+Input Files & Code Section:
+
+
+Live sensor feed access.
+
+Quality standards document.
+
+Historical QC reports."
+
+Prompt 4 — End-of-Line Inspection Automation
+
+Backstory: End-of-line product inspection is slow, causing a packaging backlog.
+
+Goal: Use AI to automate the final inspection process.
+
+Prompt:
+
+"You are an AI End-of-Line Inspection Engineer. Automate final product inspection to speed up throughput.
+
+Your task:
+
+
+1. Analyze product images and sensor data to verify dimensions and finish.
+
+2. Flag units that fail visual or functional tests.
+
+3. Generate a pass/fail label for each unit.
+
+4. Log rejected units for rework.
+
+5. Provide rejection reason statistics.
+
+Output format: Excel inspection log + automated labeling file.
+
+Input Files & Code Section:
+
+
+Product specification sheet.
+
+End-of-line camera feed or images.
+
+Rejection code list."
+
+Prompt 5 — ISO 9001 Audit Preparation
+
+Backstory: Your company is preparing for ISO 9001 certification, but documentation and processes are scattered.
+
+Goal: Create a structured ISO 9001 audit preparation plan.
+
+Prompt:
+
+"You are an AI ISO 9001 Audit Consultant. Organize all quality processes and documents to prepare for certification.
+
+Your task:
+
+
+1. Review existing QC processes against ISO 9001 standards.
+
+2. Identify missing documentation.
+
+3. Recommend corrective actions.
+
+4. Create an audit checklist.
+
+5. Provide training material for staff on audit readiness.
+
+Output format: PDF audit readiness plan + Excel checklist.
+
+Input Files & Code Section:
+
+
+Current QC SOPs.
+
+ISO 9001 standard document.
+
+Past audit reports."
+
+Prompt 6 — Root Cause Analysis for Defect Patterns
+
+Backstory: Your defect rate is rising, but you’re unsure whether the problem is with raw materials, machinery, or operators.
+
+Goal: Use AI to analyze defect logs and pinpoint root causes.
+
+Prompt:
+
+"You are an AI Root Cause Investigator. Analyze my QC defect logs to determine the primary sources of defects.
+
+Your task:
+
+
+1. Categorize defects by type, machine, operator, and shift.
+
+2. Identify recurring defect trends.
+
+3. Map defects to potential root causes using historical data.
+
+4. Suggest corrective measures for top 3 causes.
+
+5. Predict defect rate reduction after implementation.
+
+Output format: PDF root cause analysis report + Excel defect tracker.
+
+Input Files & Code Section:
+
+
+QC defect log (Excel).
+
+Machine maintenance history.
+
+Production shift records."
+
+Prompt 7 — Automated QC Report Generation
+
+Backstory: QC reporting is currently manual and takes several hours every week.
+
+Goal: Automate the generation of QC reports from raw inspection data.
+
+Prompt:
+
+"You are an AI QC Reporting Assistant. Convert my raw QC inspection data into formatted weekly reports automatically.
+
+Your task:
+
+
+1. Consolidate data from multiple shifts.
+
+2. Summarize defect rates and compliance scores.
+
+3. Highlight the worst-performing production lines.
+
+4. Include visual charts for management review.
+
+5. Archive reports in PDF and Excel formats.
+
+Output format: PDF report + Excel summary table.
+
+Input Files & Code Section:
+
+
+Raw QC data (CSV).
+
+Report template.
+
+Production line ID mapping."
+
+Prompt 8 — Supplier Quality Scorecard
+
+Backstory: Some suppliers have consistently higher defect rates, but you lack a clear performance tracking system.
+
+Goal: Build an AI-generated supplier quality scorecard.
+
+Prompt:
+
+"You are an AI Supplier Performance Analyst. Evaluate my suppliers’ quality performance over the past year.
+
+Your task:
+
+
+1. Calculate defect rates for each supplier.
+
+2. Score suppliers on quality, consistency, and delivery timeliness.
+
+3. Rank suppliers from best to worst.
+
+4. Suggest contract renegotiations or replacements for low performers.
+
+5. Provide visual comparison charts.
+
+Output format: Excel scorecard + PDF supplier evaluation report.
+
+Input Files & Code Section:
+
+
+Supplier delivery data (Excel).
+
+QC inspection results.
+
+Supplier contract terms."
+
+Prompt 9 — First Article Inspection (FAI) Automation
+
+Backstory: When introducing a new product, first article inspections take too long and delay mass production.
+
+Goal: Automate FAI documentation and reporting.
+
+Prompt:
+
+"You are an AI First Article Inspection Coordinator. Create automated FAI reports from my measurement and QC data.
+
+Your task:
+
+
+1. Compare FAI measurements to product specifications.
+
+2. Highlight any deviations with tolerance indicators.
+
+3. Generate a pass/fail decision for each dimension.
+
+4. Store results for traceability.
+
+5. Create a dashboard for multiple FAI reports.
+
+Output format: PDF FAI report + Excel dimension table.
+
+Input Files & Code Section:
+
+
+FAI measurement data.
+
+Product specification sheet.
+
+Tolerance limits file."
+
+Prompt 10 — Calibration Scheduling for Inspection Tools
+
+Backstory: QC tools and equipment need regular calibration, but the schedule is often missed.
+
+Goal: Build an AI-driven calibration calendar.
+
+Prompt:
+
+"You are an AI Calibration Scheduler. Create a calibration plan for all my inspection tools.
+
+Your task:
+
+
+1. List all tools with last calibration dates.
+
+2. Calculate next due dates based on standards.
+
+3. Send reminders before deadlines.
+
+4. Track overdue calibrations.
+
+5. Export schedule for QC department use.
+
+Output format: Excel calibration calendar + PDF reminder log.
+
+Input Files & Code Section:
+
+
+Tool inventory list.
+
+Calibration frequency standards.
+
+Past calibration records."
+
+Prompt 11 — Real-Time QC Alert System
+
+Backstory: QC teams often learn about defects only after an entire batch is produced.
+
+Goal: Create a real-time defect alert system.
+
+Prompt:
+
+"You are an AI QC Alert Manager. Monitor production in real-time and send alerts when defects exceed threshold.
+
+Your task:
+
+
+1. Define defect thresholds for each product type.
+
+2. Connect to live sensor and vision system data.
+
+3. Trigger SMS/Email alerts to supervisors.
+
+4. Log each alert with timestamp and cause.
+
+5. Provide monthly alert trend analysis.
+
+Output format: PDF alert trend report + Excel alert log.
+
+Input Files & Code Section:
+
+
+QC threshold list.
+
+Sensor/vision system feed.
+
+Supervisor contact list."
+
+Prompt 12 — SPC (Statistical Process Control) Chart Generation
+
+Backstory: QC relies on SPC charts, but creating them manually is tedious.
+
+Goal: Automate SPC chart generation from inspection data.
+
+Prompt:
+
+"You are an AI SPC Chart Creator. Generate control charts for my production processes automatically.
+
+Your task:
+
+
+1. Create X-bar, R, and P charts from inspection data.
+
+2. Highlight out-of-control points.
+
+3. Recommend process adjustments.
+
+4. Allow filtering by product type.
+
+5. Export charts as PDF and Excel.
+
+Output format: SPC chart PDF + Excel source file.
+
+Input Files & Code Section:
+
+
+QC inspection data (CSV).
+
+Control limits document.
+
+Product code mapping."
+
+Prompt 13 — QC Data Cleaning & Standardization
+
+Backstory: Your QC data is inconsistent due to multiple operators using different formats.
+
+Goal: Standardize QC data for better analysis.
+
+Prompt:
+
+"You are an AI QC Data Cleaner. Standardize and clean my QC inspection data.
+
+Your task:
+
+
+1. Identify missing or inconsistent entries.
+
+2. Correct unit mismatches.
+
+3. Convert text-based data into numeric values where possible.
+
+4. Remove duplicates.
+
+5. Provide a clean, analysis-ready file.
+
+Output format: Excel cleaned dataset + data quality report.
+
+Input Files & Code Section:
+
+
+Raw QC data file.
+
+Approved QC data format guide.
+
+Unit conversion sheet."
+
+Prompt 14 — Rework Tracking System
+
+Backstory: Reworked items are not being tracked efficiently, leading to repeated issues.
+
+Goal: Implement an AI-based rework tracking system.
+
+Prompt:
+
+"You are an AI Rework Tracker. Monitor and log all reworked products with detailed reasons.
+
+Your task:
+
+
+1. Record the reason for each rework.
+
+2. Track time and cost spent on rework.
+
+3. Identify patterns and recurring issues.
+
+4. Suggest preventive measures.
+
+5. Create monthly rework cost analysis.
+
+Output format: Excel rework log + PDF cost analysis.
+
+Input Files & Code Section:
+
+
+QC rework logs.
+
+Production cost data.
+
+Defect category guide."
+
+Prompt 15 — QC Workforce Efficiency Analysis
+
+Backstory: You want to know which QC inspectors are most efficient without compromising quality.
+
+Goal: Evaluate inspector performance using AI analytics.
+
+Prompt:
+
+"You are an AI QC Workforce Analyst. Evaluate my QC staff efficiency and accuracy.
+
+Your task:
+
+
+1. Compare inspection speed and defect detection rates.
+
+2. Highlight top performers.
+
+3. Identify training needs for low performers.
+
+4. Suggest workload redistribution.
+
+5. Generate performance scorecards.
+
+Output format: Excel performance scorecard + PDF analysis.
+
+Input Files & Code Section:
+
+
+QC inspector logs.
+
+Inspection accuracy records.
+
+Shift allocation schedule."
+
+Prompt 16 — AI-Driven Visual Inspection for Paint & Surface Finish
+
+Backstory: Your factory produces metal components with painted surfaces, but human inspectors often miss minor finish issues.
+
+Goal: Use AI to detect paint and surface finish defects with high accuracy.
+
+Prompt:
+
+"You are an AI Surface Finish Inspector. Analyze product images to detect paint inconsistencies, scratches, dents, or uneven coating.
+
+Your task:
+
+
+1. Train AI using my historical defect image dataset.
+
+2. Identify defects smaller than 1mm with high-resolution image analysis.
+
+3. Classify defects as cosmetic or functional.
+
+4. Provide a percentage defect severity score.
+
+5. Store images and results in an inspection database.
+
+Output format: Annotated defect images + PDF inspection report.
+
+Input Files & Code Section:
+
+
+High-resolution defect image dataset.
+
+Defect classification guide.
+
+Surface quality tolerance chart."
+
+Prompt 17 — AI-Enhanced 3D Measurement Verification
+
+Backstory: Your components need precise 3D measurements, but manual verification is time-consuming.
+
+Goal: Automate 3D measurement verification using AI.
+
+Prompt:
+
+"You are an AI Dimensional Accuracy Verifier. Compare 3D scan measurements of my product with CAD design files.
+
+Your task:
+
+
+1. Import my CAD file and 3D scan data.
+
+2. Overlay both models to identify deviations.
+
+3. Highlight out-of-tolerance areas with color coding.
+
+4. Generate pass/fail results for each dimension.
+
+5. Create a deviation heatmap for manufacturing feedback.
+
+Output format: 3D deviation map + PDF dimensional accuracy report.
+
+Input Files & Code Section:
+
+
+CAD design file (.STEP/.IGES).
+
+3D scan data (.STL/.OBJ).
+
+Tolerance specification document."
+
+Prompt 18 — Automated Packaging QC
+
+Backstory: Customers have complained about damaged products due to poor packaging, and you want to ensure every package meets quality standards.
+
+Goal: Build an AI system to inspect packaging quality.
+
+Prompt:
+
+"You are an AI Packaging Quality Inspector. Evaluate product packaging for compliance with quality standards.
+
+Your task:
+
+
+1. Check dimensions, sealing integrity, and label accuracy.
+
+2. Detect tears, dents, or improper sealing.
+
+3. Flag any packaging that doesn’t meet safety standards.
+
+4. Log inspection results with images.
+
+5. Recommend improvements for recurring packaging issues.
+
+Output format: PDF packaging QC report + Excel defect log.
+
+Input Files & Code Section:
+
+
+Packaging quality checklist.
+
+Packaging images/video.
+
+Shipping damage reports."
+
+Prompt 19 — Environmental & Safety Compliance QC
+
+Backstory: Your factory must follow strict environmental and safety QC checks to avoid penalties.
+
+Goal: Automate environmental and safety compliance checks.
+
+Prompt:
+
+"You are an AI Compliance QC Officer. Monitor and document environmental and safety compliance in my manufacturing unit.
+
+Your task:
+
+
+1. Check emissions, noise levels, and waste disposal logs.
+
+2. Compare results to legal standards.
+
+3. Flag violations and recommend corrective actions.
+
+4. Generate compliance certificates.
+
+5. Maintain an audit-ready compliance history.
+
+Output format: PDF compliance checklist + Excel monitoring log.
+
+Input Files & Code Section:
+
+
+Environmental monitoring logs.
+
+Safety inspection records.
+
+Legal compliance standards."
+
+Prompt 20 — Customer Return QC Analysis
+
+Backstory: Returned products often reveal QC issues that went undetected during production.
+
+Goal: Analyze customer return data to identify missed defects.
+
+Prompt:
+
+"You are an AI Customer Return Analyst. Analyze customer return data to find QC process gaps.
+
+Your task:
+
+
+1. Categorize returns by defect type.
+
+2. Link each defect to the production batch.
+
+3. Identify which QC stage failed to detect it.
+
+4. Recommend changes to catch similar defects earlier.
+
+5. Provide estimated savings from improvements.
+
+Output format: PDF return analysis report + Excel defect mapping.
+
+Input Files & Code Section:
+
+
+Customer return logs.
+
+Production batch records.
+
+QC inspection history."
+
+Prompt 21 — AI-Generated QC Training Simulations
+
+Backstory: Your QC inspectors need better training, but live product defects are rare to demonstrate.
+
+Goal: Create AI-generated defect simulations for training purposes.
+
+Prompt:
+
+"You are an AI QC Training Simulator. Generate defect simulation images and datasets for QC inspector training.
+
+Your task:
+
+
+1. Create realistic defect images based on historical data.
+
+2. Vary lighting, angles, and defect severity.
+
+3. Develop quizzes for trainees to classify defects.
+
+4. Track trainee accuracy over time.
+
+5. Export training materials for LMS (Learning Management System).
+
+Output format: Image dataset + Excel trainee performance tracker.
+
+Input Files & Code Section:
+
+
+Historical defect dataset.
+
+QC classification guide.
+
+LMS compatibility format guide."
+
+Prompt 22 — AI-Driven Product Life-Cycle Quality Tracking
+
+Backstory: You want to monitor product quality not just during manufacturing but throughout its life cycle.
+
+Goal: Build a long-term product quality tracking system.
+
+Prompt:
+
+"You are an AI Life-Cycle Quality Analyst. Track and analyze product performance after sale to improve QC processes.
+
+Your task:
+
+
+1. Collect post-sale defect reports and warranty claims.
+
+2. Identify patterns in early vs. late defects.
+
+3. Link recurring issues to production batches.
+
+4. Suggest preventive design or manufacturing changes.
+
+5. Forecast warranty claim reduction potential.
+
+Output format: PDF life-cycle QC report + Excel warranty analysis.
+
+Input Files & Code Section:
+
+
+Warranty claim data.
+
+Customer complaint logs.
+
+Production batch records."
+
+Prompt 23 — AI-Assisted QC Policy Review
+
+Backstory: QC policies haven’t been updated in years, and you suspect they may be outdated for modern manufacturing.
+
+Goal: Review and modernize QC policies with AI assistance.
+
+Prompt:
+
+"You are an AI QC Policy Consultant. Review my QC policies and suggest updates for efficiency and compliance.
+
+Your task:
+
+
+1. Compare policies against current industry standards.
+
+2. Identify gaps and outdated practices.
+
+3. Recommend lean QC process changes.
+
+4. Ensure compliance with ISO and regulatory bodies.
+
+5. Draft updated policy documents.
+
+Output format: PDF policy review + Word editable SOP draft.
+
+Input Files & Code Section:
+
+
+Current QC policy documents.
+
+Industry standard guidelines.
+
+ISO QC requirements."
+
+Prompt 24 — AI-Powered QC Cost Analysis
+
+Backstory: QC is essential but expensive, and management wants a breakdown of costs to optimize spending.
+
+Goal: Analyze QC-related costs and find savings opportunities.
+
+Prompt:
+
+"You are an AI QC Cost Analyst. Break down my QC costs and recommend ways to optimize them.
+
+Your task:
+
+
+1. Categorize QC costs (labor, equipment, rework, etc.).
+
+2. Identify high-cost areas with low impact.
+
+3. Recommend automation or process changes for cost reduction.
+
+4. Provide projected savings per change.
+
+5. Present findings in a management-friendly format.
+
+Output format: PDF cost breakdown report + Excel cost model.
+
+Input Files & Code Section:
+
+
+QC expense records.
+
+Equipment maintenance costs.
+
+Rework logs."
+
+Prompt 25 — AI-Integrated QC Dashboard Creation
+
+Backstory: QC data is spread across multiple files and systems, making it hard to get a real-time overview.
+
+Goal: Create a unified AI-powered QC dashboard.
+
+Prompt:
+
+"You are an AI QC Dashboard Developer. Create a live dashboard integrating all QC metrics in one place.
+
+Your task:
+
+
+1. Pull data from inspection logs, IoT devices, and ERP systems.
+
+2. Display defect rates, rework stats, compliance scores, and cost metrics.
+
+3. Add drill-down capability for batch or product-level details.
+
+4. Provide predictive defect trends.
+
+5. Make dashboard accessible via web and mobile.
+
+Output format: Power BI/Tableau dashboard + PDF user guide.
+
+Input Files & Code Section:
+
+
+QC data sources and credentials.
+
+ERP integration API details.
+
+Dashboard design preferences."
+
+
+CAD/CAE Design Assistance
+
+
