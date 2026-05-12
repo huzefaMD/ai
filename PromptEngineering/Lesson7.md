@@ -117,8 +117,8 @@ beginners in HuzefAI's DevOps course.
 These are universal negatives that improve almost any Claude output:
 
 ### Top 10 Universal Negative Prompts
-1.```
- "Don't start with affirmations like
+```
+ 1. "Don't start with affirmations like
 'Certainly!' or 'Great question!'"
 ```
 ```
