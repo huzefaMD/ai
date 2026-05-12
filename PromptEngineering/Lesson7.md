@@ -64,3 +64,27 @@ utilize, innovative, cutting-edge
 - End without a call to action or question
 </never>
 ```
+### Email Writing:
+
+```
+<task>
+Write a follow-up email to leads who attended
+HuzefAI's free webinar.
+</task>
+
+<avoid>
+- "I hope this email finds you well"
+- "As per our last conversation"
+- "Please do not hesitate to contact us"
+- Passive voice
+- More than 3 paragraphs
+- Listing every course feature
+</avoid>
+
+<never>
+- Sound desperate or pushy
+- Use "URGENT" or "LAST CHANCE" in caps
+- Add more than one call to action
+- Write more than 150 words
+</never>
+```
