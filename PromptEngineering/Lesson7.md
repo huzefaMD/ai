@@ -118,40 +118,40 @@ These are universal negatives that improve almost any Claude output:
 
 ### Top 10 Universal Negative Prompts
 ```
- 1. "Don't start with affirmations like
-'Certainly!' or 'Great question!'"
+ 1. Don't start with affirmations like
+'Certainly!' or 'Great question!'
 ```
 ```
-2. "Never use bullet points - write in
-flowing prose"
+2. Never use bullet points - write in
+flowing prose
 ```
 ```
-3. "Avoid corporate buzzwords: leverage,
-utilize, synergy, innovative"
+3. Avoid corporate buzzwords: leverage,
+utilize, synergy, innovative
 ```
 ```
-4. "Don't add disclaimers or caveats
-unless absolutely necessary"
+4. Don't add disclaimers or caveats
+unless absolutely necessary
 ```
 ```
-5. "Never use passive voice"
+5. Never use passive voice
 ```
 ```
-6. "Don't summarize at the end -
-trust the reader"
+6. Don't summarize at the end -
+trust the reader
 ```
 ```
-7. "Avoid hedging language like 'might',
-'could possibly', 'it may be that'"
+7. Avoid hedging language like 'might',
+'could possibly', 'it may be that'
 ```
 ```
-8. "Never write more than [X] words"
+8. Never write more than [X] words
 ```
 ```
-9. "Don't give generic advice - be
-specific to my situation"
+9. Don't give generic advice - be
+specific to my situation
 ```
 ```
-10. "Avoid starting consecutive sentences
-with the same word"
+10. Avoid starting consecutive sentences
+with the same word
 ```
