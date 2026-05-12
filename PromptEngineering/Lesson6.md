@@ -90,3 +90,13 @@ Benefits of HuzefAI AWS Course:
 - Small batches - max 30 students
 ```
 ### Table:
+
+| Feature        | What You Get                 |
+| -------------- | ---------------------------- |
+| Learning style | Hands-on labs, real projects |
+| Certification  | Full AWS exam guidance       |
+| Support        | Placement assistance         |
+| Access         | Lifetime recording access    |
+| Batch size     | Max 30 students              |
+
+
