@@ -5,10 +5,10 @@
 
 ## The Tone Spectrum
 
-FORMAL ----------> CASUAL
-  |                  |
-Corporate          Friendly
-Professional       Conversational
-Academic           Playful 
-Authoritative      Warm 
+|FORMAL| CASUAL|
+|------|-------|
+|Corporate|          Friendly|
+|Professional|       Conversational|
+|Academic|           Playful|
+|Authoritative|      Warm|
 
