@@ -99,4 +99,12 @@ Benefits of HuzefAI AWS Course:
 | Access         | Lifetime recording access    |
 | Batch size     | Max 30 students              |
 
+### Prose:
+```
+"At HuzefAI, we believe learning happens by doing.
+That's why every AWS session puts you directly in
+the console - no slides, no theory overload. You'1l
+get full certification guidance, placement support,
+and lifetime access to every recording."
+```
 
