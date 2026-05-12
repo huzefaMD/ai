@@ -40,3 +40,28 @@ Hard rules that must never be broken
 Specific tones or styles to stay away from
 </tone_avoid>
 ```
+
+### Social Media Content:
+```
+<task>
+Write LinkedIn content for HuzefAI about
+our AWS certification course.
+</task>
+
+<avoid>
+- Starting with "Excited to announce"
+- Using hashtag spam (max 3 hashtags)
+- Bullet point lists
+- Corporate buzzwords: leverage, synergy,
+utilize, innovative, cutting-edge
+- Humble bragging
+- Generic advice anyone could give
+</avoid>
+
+<never>
+
+- Sound like an advertisement
+- Use exclamation marks more than twice
+- End without a call to action or question
+</never>
+```
