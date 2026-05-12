@@ -69,3 +69,18 @@ Good headline style: "Launch Your Cloud Career in 6 Weeks"
 ```
 Claude now knows exactly what each part me---
 Output will be precise every time.
+
+## Most Useful XML Tags for You
+
+|Tag|What It's For|
+|---|-------------|
+|`<context>`|Background info, who you are|
+|`<task>`|What you want Claude to do|
+|`<format>`|How to structure the output|
+|`<tone>`|Style and voice|
+|`<example>`|Sample of good output|
+|`<rules>`|Constraints and limitations|
+|`<data>`|Raw data for Claude to analyze|
+|`<question>`|The specific question to answer|
+|`<goal>`|The end objective|
+|`<audience>`|Who the output is for|
