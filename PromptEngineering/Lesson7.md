@@ -26,3 +26,17 @@ ALWAYS:
 - Write like a real person talking to a friend
 - End with a question that invites comments
 ```
+### The Negative Prompting Framework
+```
+<avoid>
+List everything Claude should NOT do
+</avoid>
+
+<never>
+Hard rules that must never be broken
+</never>
+
+<tone_avoid>
+Specific tones or styles to stay away from
+</tone_avoid>
+```
