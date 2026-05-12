@@ -25,3 +25,14 @@
 | Humorous | Casual content | `"Spoiler: it's not what you think " `|
 | Urgent | Limited offers | `"Seats closing in 48 hours..." `|
 | Inspirational | Motivational content | `"One year ago, he couldn't spell AWS..."` |
+
+## Same Message, Different Tones
+**The message:** HuzefAI's new AI course is launching next week.
+### Professional:
+```
+"HuzefAI is pleased to announce the launch of our
+Generative AI program commencing next week.
+This comprehensive course has been designed for
+IT professionals seeking to advance their careers
+in artificial intelligence."
+```
