@@ -84,3 +84,42 @@ Output will be precise every time.
 |`<question>`|The specific question to answer|
 |`<goal>`|The end objective|
 |`<audience>`|Who the output is for|
+
+## Email Campaign:
+
+```
+<context>
+HuzefAI is a Chennai-based online training company
+teaching Cloud, DevOps, and AI. We just launched
+a new Generative AI course priced at t9,999.
+</context>
+
+<audience>
+IT professionals aged 25-35 who attended our
+free webinar but haven't enrolled yet.
+</audience>
+
+<task>
+Write a launch email for our new Generative AI course.
+</task>
+
+<format>
+- Subject line
+- Opening hook (2 sentences)
+- Course benefits (3 bullet points)
+- Social proof (1 sentence)
+- Call to action
+- Sign off as Huzefa, Founder HuzefAI
+</format>
+
+<tone>
+Warm, personal, excited - like a founder
+personally writing to a student
+</tone>
+
+<rules>
+- No corporate jargon
+- No more than 200 words total
+- Must mention Chennai IT market opportunity
+</rules>
+```
