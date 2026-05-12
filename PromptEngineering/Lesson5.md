@@ -23,3 +23,14 @@ The style and voice to use
 A sample of what good output looks like
 </example>
 ```
+###  Without Tags vs With Tags
+
+**Without XML Tags:**
+
+```
+I run HuzefAI an online training company in Chennai
+teaching Cloud DevOps and AI. Write me a landing page
+headline. Make it punchy and exciting. Something like
+"Launch your cloud career in 6 weeks." For IT
+professionals and freshers. Keep it under 10 words.
+```
