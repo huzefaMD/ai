@@ -2,9 +2,9 @@
 
 ## Prompt 1 — 12-Month Profitable Rotation Plan
 
-```
+`
 "You are a senior agricultural consultant with expertise in Indian smallholder farming and seasonal crop rotation. I own a 3-acre farm in [District, State] with [Soil Type] soil, an annual rainfall of [rainfall level] mm, and access to drip irrigation. My annual budget is [amount], and my goal is to maximise net profit while maintaining soil health. Prepare a 12-month rotational cropping plan in a table format showing crop name, seed variety (locally available), sowing date, harvesting date, input cost per acre, expected yield, average mandi (agriculture wholesale market) price from the last 3 years, and net profit per crop. End with a 200–300 word explanation of how this sequence improves soil nutrients and breaks pest cycles."
-```
+`
 
 
 Prompt 2 — Market-Driven Crop Rotation
