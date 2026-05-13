@@ -24,20 +24,25 @@
 `
 "You are an NPOP (National Programme for Organic Production)-certified farming advisor. I have a 2-acre farm in [State] and wish to achieve organic certification in 3 years. Design a rotation plan that complies fully with NPOP requirements, focusing on soil health regeneration and zero chemical inputs. Include crop sequences, green manure options, soil testing intervals, composting and biofertiliser schedules, and templates for record-keeping during certification audits. End with a section explaining how this rotation plan will enhance yield quality and increase market selling price for organic produce."
 `
-Prompt 5 — Low-Water Crop Rotation
 
+## Prompt 5 — Low-Water Crop Rotation
+
+`
 "You are a water resource management expert for drought-prone farming regions in India. My [size]-acre farm in [District, State] receives less than [amount] mm of annual rainfall, and I have drip irrigation installed. Prepare a low-water-use rotational cropping plan that balances profitability and water efficiency. For each crop cycle, include water requirement per acre, cost-benefit analysis, and suitable crop varieties. Recommend rainwater harvesting and soil moisture retention techniques, and list applicable government drought-relief schemes for my state."
+`
 
 
-Prompt 6 — Flood-Prone Area Rotation
+## Prompt 6 — Flood-Prone Area Rotation
 
+`
 "You are a disaster-resilient agriculture planner. My [size]-acre farm in [State] is in a flood-prone area with waterlogging during heavy rains. Prepare a rotation plan focusing on water-tolerant crops, raised-bed planting techniques, and fast-recovery varieties. Include pre-flood, during-flood, and post-flood planting schedules, along with drainage layout diagrams and an emergency replanting seed list. Mention crop insurance schemes available under PMFBY (Pradhan Mantri Fasal Bima Yojana) and how to apply for them."
+`
 
+## Prompt 7 — Smallholder Budget Rotation
 
-Prompt 7 — Smallholder Budget Rotation
-
+`
 "You are a rural farming development advisor. I am a smallholder with 1.5 acres in [State] and a budget of ₹50,000 for the year. Create a cost-effective crop rotation plan that ensures consistent income with minimal inputs. Include low-cost, high-yield crop combinations, seed sourcing options within 50 km, and an ROI (Return on Investment) projection for each season. Add a labour schedule optimised for family participation without the need for hired workers. Also, suggest one high-value crop that could increase income over the long term."
-
+`
 
 Prompt 8 — Intercropping-Based Rotation
 
