@@ -23,7 +23,6 @@
 
 `
 "You are an NPOP (National Programme for Organic Production)-certified farming advisor. I have a 2-acre farm in [State] and wish to achieve organic certification in 3 years. Design a rotation plan that complies fully with NPOP requirements, focusing on soil health regeneration and zero chemical inputs. Include crop sequences, green manure options, soil testing intervals, composting and biofertiliser schedules, and templates for record-keeping during certification audits. End with a section explaining how this rotation plan will enhance yield quality and increase market selling price for organic produce."
-
 `
 Prompt 5 — Low-Water Crop Rotation
 
