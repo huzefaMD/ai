@@ -13,9 +13,11 @@
 "You are an agricultural economist specialising in rural market trends and seasonal crop planning. Analyse the last 5 years’ mandi (agriculture wholesale market) prices from [Mandi Name] for the top 10 crops in [State], factoring in demand peaks and off-season pricing. Based on these trends, prepare a 2-year crop rotation plan for my 5-acre clay loam farm with canal irrigation. Include a detailed cost-benefit analysis for each crop cycle, risk factor ratings, and possible export crops. Conclude with a contingency plan for delayed or failed monsoons that covers alternative crop choices and emergency irrigation methods."
 `
 
-Prompt 3 — Pest & Disease Break Rotation
+## Prompt 3 — Pest & Disease Break Rotation
 
+`
 "You are an integrated pest management (IPM) specialist experienced in crop rotation for pest control. My [size]-acre farm in [District] currently grows [list of crops], but pest pressure is rising. Prepare a 4-season crop rotation strategy that disrupts pest breeding cycles and reduces disease occurrence. Include a rotation chart, list of recommended resistant crop varieties, organic pest control measures, and a monthly farmworker task calendar. Provide 150–200 words explaining why these crop sequences are effective against common pests and how they reduce pesticide dependency."
+`
 
 Prompt 4 — Organic Certification Rotation
 
