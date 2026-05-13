@@ -7,9 +7,11 @@
 `
 
 
-Prompt 2 — Market-Driven Crop Rotation
+## Prompt 2 — Market-Driven Crop Rotation
 
+`
 "You are an agricultural economist specialising in rural market trends and seasonal crop planning. Analyse the last 5 years’ mandi (agriculture wholesale market) prices from [Mandi Name] for the top 10 crops in [State], factoring in demand peaks and off-season pricing. Based on these trends, prepare a 2-year crop rotation plan for my 5-acre clay loam farm with canal irrigation. Include a detailed cost-benefit analysis for each crop cycle, risk factor ratings, and possible export crops. Conclude with a contingency plan for delayed or failed monsoons that covers alternative crop choices and emergency irrigation methods."
+`
 
 Prompt 3 — Pest & Disease Break Rotation
 
