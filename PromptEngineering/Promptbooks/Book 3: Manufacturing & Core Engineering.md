@@ -1707,4 +1707,346 @@ Dashboard design preferences."
 
 CAD/CAE Design Assistance
 
+Prompt 1 — AI-Assisted 3D CAD Part Design from Specifications
+
+Backstory: You have a product concept with detailed specifications but no CAD model yet. Normally, creating it from scratch takes days.
+
+Goal: Use AI to generate a fully functional CAD part design from provided dimensions and requirements.
+
+Prompt:
+
+"You are an AI CAD Design Engineer. Using the provided product specifications, create a 3D CAD model ready for manufacturing.
+
+Your task:
+
+
+1. Interpret my dimension sheet and functional requirements.
+
+2. Select the most suitable material based on usage and stress analysis.
+
+3. Generate a parametric CAD model (compatible with SolidWorks, AutoCAD, or Fusion 360).
+
+4. Export the design in .STEP and .IGES formats.
+
+5. Provide a technical drawing with tolerances.
+
+Output format: CAD file (.STEP & .IGES) + 2D technical drawing (PDF).
+
+Input Files & Code Section:
+
+
+Dimension sheet (Excel).
+
+Product usage description.
+
+Material preference or constraints."
+
+Prompt 2 — Convert 2D Drawings into 3D CAD Models
+
+Backstory: Many suppliers still provide 2D blueprints, but you need 3D CAD files for simulation and CAM programming.
+
+Goal: Convert old 2D drawings into 3D CAD models.
+
+Prompt:
+
+"You are an AI CAD Converter. Transform my 2D technical drawings into accurate 3D CAD models.
+
+Your task:
+
+
+1. Interpret all views (top, front, side) from the 2D file.
+
+2. Ensure dimensions match original design intent.
+
+3. Include material properties in the CAD file.
+
+4. Create assembly-ready files if the part has multiple components.
+
+5. Provide a 3D render for visual review.
+
+Output format: 3D CAD file (.STEP & .IGES) + rendered image (PNG/JPEG).
+
+Input Files & Code Section:
+
+
+2D technical drawings (PDF/DWG).
+
+Material specification sheet.
+
+Assembly notes if applicable."
+
+Prompt 3 — Parametric CAD Model Optimization for Weight Reduction
+
+Backstory: Your current CAD design meets all functional requirements but is unnecessarily heavy, increasing production costs.
+
+Goal: Optimize the model to reduce weight while maintaining strength.
+
+Prompt:
+
+"You are an AI CAD Optimization Specialist. Modify my parametric CAD model to minimize weight without compromising safety or performance.
+
+Your task:
+
+
+1. Import my existing CAD file.
+
+2. Perform topology optimization for weight reduction.
+
+3. Maintain structural integrity based on load data.
+
+4. Suggest alternative materials if beneficial.
+
+5. Provide a side-by-side comparison of weight, strength, and cost before and after optimization.
+
+Output format: Optimized CAD file + weight reduction analysis (PDF).
+
+Input Files & Code Section:
+
+
+Original CAD file.
+
+Load & stress data.
+
+Material database (optional)."
+
+Prompt 4 — CAD Assembly Design from Individual Components
+
+Backstory: You have separate CAD models for parts but no complete assembly model to visualize fit and function.
+
+Goal: Build a fully functional CAD assembly from individual part files.
+
+Prompt:
+
+"You are an AI CAD Assembly Engineer. Create a full assembly from my provided part CAD files.
+
+Your task:
+
+
+1. Import individual part CAD files.
+
+2. Apply correct mating and alignment constraints.
+
+3. Detect any interference or collisions.
+
+4. Suggest tolerance adjustments for better fit.
+
+5. Provide an exploded assembly view for manufacturing reference.
+
+Output format: CAD assembly file (.ASM/.STEP) + exploded view PDF.
+
+Input Files & Code Section:
+
+
+Individual part CAD files.
+
+Assembly instructions (if available).
+
+Tolerance and fit specifications."
+
+Prompt 5 — Reverse Engineering from 3D Scan Data
+
+Backstory: You have a physical product but no CAD model. Using 3D scanning, you want to recreate its design.
+
+Goal: Reverse engineer a CAD model from scan data.
+
+Prompt:
+
+"You are an AI Reverse Engineering Specialist. Generate a fully editable CAD model from my 3D scan data.
+
+Your task:
+
+
+1. Import 3D scan file (.STL/.OBJ).
+
+2. Clean up mesh and remove noise.
+
+3. Convert mesh to parametric CAD surfaces.
+
+4. Match original dimensions and tolerances.
+
+5. Export final model for manufacturing use.
+
+Output format: Parametric CAD file (.STEP) + cleaned mesh file (.STL).
+
+Input Files & Code Section:
+
+
+3D scan file.
+
+Original part specifications (if available).
+
+Material details."
+
+Prompt 6 — CAE Simulation Setup for Stress Analysis
+
+Backstory: You’ve designed a part but need to verify its ability to withstand real-world loads before manufacturing.
+
+Goal: Set up a CAE (Computer-Aided Engineering) simulation for stress analysis.
+
+Prompt:
+
+"You are an AI CAE Simulation Expert. Prepare and run a structural stress analysis on my CAD model.
+
+Your task:
+
+
+1. Import my CAD file and material properties.
+
+2. Apply specified loads, constraints, and boundary conditions.
+
+3. Run Finite Element Analysis (FEA) to find stress distribution.
+
+4. Highlight areas exceeding allowable limits.
+
+5. Recommend design changes to improve strength.
+
+Output format: Stress analysis PDF report + color-coded CAD model.
+
+Input Files & Code Section:
+
+
+CAD file (.STEP).
+
+Material property sheet.
+
+Load & constraint specifications."
+
+Prompt 7 — Fluid Flow Simulation for Product Optimization
+
+Backstory: Your product involves fluid movement (like a pump or pipe) and needs flow optimization.
+
+Goal: Run a CFD (Computational Fluid Dynamics) simulation to optimize fluid flow.
+
+Prompt:
+
+"You are an AI CFD Simulation Specialist. Simulate and analyze fluid flow in my CAD model.
+
+Your task:
+
+
+1. Import my CAD file and fluid properties.
+
+2. Apply inlet and outlet flow conditions.
+
+3. Identify turbulence, pressure drops, and flow inefficiencies.
+
+4. Suggest design improvements for optimal flow.
+
+5. Provide side-by-side pre- and post-optimization results.
+
+Output format: CFD report (PDF) + annotated CAD flow visualization.
+
+Input Files & Code Section:
+
+
+CAD file (.STEP).
+
+Fluid property data.
+
+Flow rate and pressure conditions."
+
+Prompt 8 — Thermal Simulation for Heat Management
+
+Backstory: The component you designed experiences high temperatures and you want to ensure it doesn’t overheat.
+
+Goal: Run a thermal analysis to identify heat concentration areas.
+
+Prompt:
+
+"You are an AI Thermal Analysis Engineer. Evaluate and optimize my product for heat dissipation.
+
+Your task:
+
+
+1. Import CAD model and material thermal properties.
+
+2. Apply heat sources and cooling boundaries.
+
+3. Identify high-temperature zones.
+
+4. Suggest material or design modifications for better cooling.
+
+5. Provide a visual heat map.
+
+Output format: Thermal simulation PDF + CAD heat map.
+
+Input Files & Code Section:
+
+
+CAD file (.STEP).
+
+Heat source specifications.
+
+Cooling method details."
+
+Prompt 9 — Motion Simulation for Moving Assemblies
+
+Backstory: Your assembly involves moving parts, and you want to ensure smooth operation without collisions.
+
+Goal: Simulate motion and identify mechanical interference.
+
+Prompt:
+
+"You are an AI Motion Simulation Specialist. Test my CAD assembly for motion efficiency.
+
+Your task:
+
+
+1. Import the CAD assembly.
+
+2. Define motion paths and constraints.
+
+3. Detect interference or collisions.
+
+4. Optimize movement for reduced wear.
+
+5. Provide a motion animation video.
+
+Output format: Motion simulation video + PDF report.
+
+Input Files & Code Section:
+
+
+CAD assembly file.
+
+Motion constraint details.
+
+Performance requirements."
+
+Prompt 10 — Design for Manufacturing (DFM) Review
+
+Backstory: Your design is ready, but you want to ensure it can be manufactured cost-effectively.
+
+Goal: Review CAD model for manufacturing feasibility.
+
+Prompt:
+
+"You are an AI DFM Specialist. Review my CAD design for manufacturability issues.
+
+Your task:
+
+
+1. Check tolerances and complexity for CNC machining or 3D printing.
+
+2. Identify features that increase production cost.
+
+3. Suggest geometry simplifications.
+
+4. Recommend optimal manufacturing processes.
+
+5. Provide estimated cost savings from changes.
+
+Output format: DFM analysis PDF + annotated CAD file.
+
+Input Files & Code Section:
+
+
+CAD file.
+
+Preferred manufacturing method.
+
+Material constraints."
+
+
+
 
