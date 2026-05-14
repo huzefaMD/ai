@@ -739,101 +739,174 @@ Engagement tactics to boost orders via comments & DMs.
 Output in calendar format with post type, caption idea, and CTA (Call to Action) for each day."
 `
 
-Prompt 5 — Customer Database & CRM Setup Plan
+## Prompt 5 — Customer Database & CRM Setup Plan
 
+`
 "You are a CRM (Customer Relationship Management) consultant. I have 200 customers buying directly from my farm in [City]. Suggest a low-cost CRM system in Hindi & English that works on smartphones. Include:
+`
 
-
+`
 Recommended software/tools under ₹500 per month.
+`
 
+`
 Database fields to track purchase history & preferences.
+`
 
+`
 Seasonal offer & birthday greeting automation plan.
+`
 
+`
 WhatsApp/SMS integration steps.
+`
 
+`
 Output in 2 parts: CRM setup guide & seasonal customer engagement flowchart."
+`
 
-Prompt 6 — Farmer’s Market Sales Pitch Development
+## Prompt 6 — Farmer’s Market Sales Pitch Development
 
+`
 "You are a retail sales coach specialising in farmer’s markets in India. I sell organic vegetables and seasonal fruits from my 5-acre farm in [District, State] at weekly markets in [City]. Create a sales pitch toolkit that includes:
+`
 
+`
+A 1-minute elevator pitch introducing my farm and produce.
+`
 
-1. A 1-minute elevator pitch introducing my farm and produce.
+`
+5 customer objection responses (e.g., price too high, quality doubts).
+`
 
-2. 5 customer objection responses (e.g., price too high, quality doubts).
+`
+Trust-building techniques (e.g., showing harvest photos, offering tastings).
+`
 
-3. Trust-building techniques (e.g., showing harvest photos, offering tastings).
+`
+Signage & stall display design ideas to increase walk-ins.
+`
 
-4. Signage & stall display design ideas to increase walk-ins.
+`
+A closing script to secure repeat buyers.
+`
 
-5. A closing script to secure repeat buyers.
-
+`
 Output in 3 parts: Elevator pitch, objection handling table, and stall setup checklist."
+`
+## Prompt 7 — Farm Website & E-Commerce Store Plan
 
-Prompt 7 — Farm Website & E-Commerce Store Plan
-
+`
 "You are a rural e-commerce consultant. Help me create an online sales platform for my farm produce in [City] with a budget under ₹10,000. Include:
+`
 
-
+`
 Domain name ideas & registration process.
+`
 
+`
 Recommended platforms (e.g., Shopify, Wix) with cost breakdown.
+`
 
+`
 Page structure: Home, Products, About Us, Testimonials, Contact.
+`
 
+`
 Payment integration via UPI (Unified Payments Interface) & cards.
+`
 
+`
 Mobile optimisation tips for rural customers.
+`
 
+`
 Provide the plan in step-by-step format with timelines for completion in 30 days."
+`
 
+`
 Prompt 8 — Subscription Box Model for Regular Customers
+`
 
+`
 "You are a subscription model strategist. I want to launch a weekly vegetable & fruit box service in [City]. Design the plan covering:
+`
 
-
+`
 Product mix for 3 box sizes (small, medium, large).
+`
 
+`
 Pricing tiers & payment frequency (weekly/monthly).
+`
 
+`
 Delivery frequency & route planning for cost savings.
+`
 
+`
 Loyalty rewards (e.g., free seasonal item every 5th box).
+`
 
+`
 Marketing ideas for launching via social media & housing societies.
+`
 
+`
 Output in 2 sections: Subscription plan table & launch marketing roadmap."
+`
 
-Prompt 9 — WhatsApp Sales Campaign Plan
+## Prompt 9 — WhatsApp Sales Campaign Plan
 
+`
 "You are a digital agriculture marketing expert. I want to run a WhatsApp sales campaign for my farm-to-home delivery service in [City]. Create a plan that includes:
+`
 
-
+`
 Message templates for product lists, offers, and order confirmation.
+`
 
+`
 Product image guidelines (lighting, background, captions).
+`
 
+`
 Steps to create a WhatsApp Broadcast list without spamming.
+`
 
+`
 A 14-day festive season campaign calendar.
+`
 
+`
 Metrics to track success (CTR, conversion rate).
+`
 
+`
 Output in message template format + campaign calendar."
+`
 
-Prompt 10 — Storytelling for Farm Branding
+## Prompt 10 — Storytelling for Farm Branding
 
+`
 "You are a brand storytelling coach. Write my farm’s origin story in 3 formats:
+`
 
+`
+A 150-word emotional story for packaging & brochures.
+`
 
-1. A 150-word emotional story for packaging & brochures.
+`
+A 60-second Instagram Reel script.
+`
 
-2. A 60-second Instagram Reel script.
+`
+A 2-minute speech for farmer’s markets and events.
+`
 
-3. A 2-minute speech for farmer’s markets and events.
-
+`
 The story must highlight my background, commitment to sustainability, and farm-to-table freshness. Include local cultural elements to connect with [City] customers."
+`
 
 Prompt 11 — Influencer Collaboration Strategy
 
