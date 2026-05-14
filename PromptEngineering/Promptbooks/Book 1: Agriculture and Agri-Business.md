@@ -680,13 +680,17 @@ Output in 3 parts: Overview, comparative channel table, and a 30-day launch chec
 
 `
 Mandatory FSSAI label details with examples.
-
+`
+`
 Eco-friendly, affordable packaging options available in India.
-
+`
+`
 Design tips for standing out in markets & online stores.
-
+`
+`
 Shelf-life marking guidelines.
-
+`
+`
 Steps to get packaging design approved for export readiness.
 `
 
