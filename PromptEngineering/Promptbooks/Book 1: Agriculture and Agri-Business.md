@@ -155,35 +155,49 @@
 # Agri-Input Sourcing
 
 
-Prompt 1 — Annual Fertiliser Procurement Plan
+## Prompt 1 — Annual Fertiliser Procurement Plan
 
+`
 "You are an agricultural supply chain specialist. Prepare a 12-month fertiliser procurement plan for my 5-acre farm in [District, State] growing paddy, wheat, and pulses. Include quantities needed per season, preferred fertiliser types (both chemical and organic), estimated costs based on current market rates, and approved local suppliers within 50 km. Mention relevant subsidy schemes under the Department of Agriculture & Farmers Welfare. Provide a month-wise delivery schedule to avoid stockouts."
+`
 
-Prompt 2 — Organic Input Sourcing Guide
+## Prompt 2 — Organic Input Sourcing Guide
 
+`
 "You are an NPOP (National Programme for Organic Production)-certified organic farming advisor. Create a sourcing plan for organic fertilisers, bio-pesticides, and composting materials for a 3-acre farm in [State]. List certified suppliers, pricing, and lead times. Include verification steps for organic certification, methods to test input quality, and storage guidelines to maintain effectiveness."
+`
 
-Prompt 3 — Certified Seed Procurement Plan
+## Prompt 3 — Certified Seed Procurement Plan
 
+`
 "You are a seed quality assurance expert. Prepare a certified seed procurement strategy for my 4-acre farm in [District] growing vegetables and cereals. Include recommended high-yield and pest-resistant varieties, authorised dealers approved by ICAR (Indian Council of Agricultural Research), expected costs per kg, and planting timelines. Suggest verification methods for seed authenticity and germination rate testing."
+`
 
-Prompt 4 — Farm Equipment Purchase & Leasing Plan
+## Prompt 4 — Farm Equipment Purchase & Leasing Plan
 
+`
 "You are a farm mechanisation consultant. My 6-acre farm in [State] needs essential equipment like a power tiller, seed drill, and mini harvester. Create a buy vs. lease plan with cost comparisons, vendor recommendations, and seasonal availability. Suggest options for accessing equipment through CHCs (Custom Hiring Centres) and FPOs (Farmer Producer Organisations) to reduce upfront investment."
+`
 
-Prompt 5 — Bulk Input Price Negotiation Strategy
+## Prompt 5 — Bulk Input Price Negotiation Strategy
 
+`
 "You are an agri-business procurement manager. Design a bulk purchasing negotiation plan for fertilisers, seeds, and irrigation equipment for a cluster of 10 farmers pooling 25 acres in [District]. Include supplier shortlisting criteria, price benchmarking methods, negotiation tactics, and quality assurance measures. Recommend how to document supplier agreements for future reference."
+`
 
-Prompt 6 — Fertiliser Storage & Shelf-Life Management
+## Prompt 6 — Fertiliser Storage & Shelf-Life Management
 
+`
 "You are an agricultural warehouse management specialist. Create a fertiliser storage plan for my 4-acre farm in [State] to maintain product quality and shelf life. Include warehouse layout, ventilation requirements, moisture control methods, and FIFO (First In, First Out) stock rotation policies. Suggest low-cost monitoring tools to detect spoilage or contamination."
+`
 
-Prompt 7 — Locally Sourced Input Planning
+## Prompt 7 — Locally Sourced Input Planning
 
+`
 "You are a rural supply chain optimisation expert. Prepare a locally sourced agri-input plan for a 3-acre farm in [State], prioritising inputs like compost, seeds, and irrigation tools from within 30 km to reduce transport costs. Include supplier mapping, cost comparisons, and environmental benefits of local sourcing."
+`
 
-Prompt 8 — Government Scheme-Linked Procurement
+## Prompt 8 — Government Scheme-Linked Procurement
 
 "You are a government agriculture subsidy advisor. Prepare an input sourcing plan that maximises benefits from PM-Kisan (Pradhan Mantri Kisan Samman Nidhi), SMAM (Sub-Mission on Agricultural Mechanisation), and state fertiliser subsidy schemes. Align procurement timelines with application deadlines, documentation requirements, and reimbursement cycles."
 
