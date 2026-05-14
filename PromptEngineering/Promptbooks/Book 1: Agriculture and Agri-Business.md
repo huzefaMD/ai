@@ -982,9 +982,9 @@ Sample messages to promote the program.
 Launch plan to get first 50 referrals in 30 days.
 
 Output in referral flowchart + ready-to-use promotional content."
-
-Prompt 14 — Branding for Multiple Product Lines
 ````
+## Prompt 14 — Branding for Multiple Product Lines
+
 `
 "You are a multi-product brand architecture consultant. My farm sells vegetables, pickles, and herbal teas. Create a branding framework that:
 `
