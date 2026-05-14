@@ -638,7 +638,7 @@ Prepare a 12-month D2C sales plan covering:
 `
 
 `````
--Sales Channels: Compare WhatsApp selling, ONDC, and farmers’ markets with pros, cons, and costs.
+_Sales Channels: Compare WhatsApp selling, ONDC, and farmers’ markets with pros, cons, and costs.
 
 -Pricing Model: Table showing farm-gate vs retail prices after packaging, delivery, and commissions.
 
