@@ -616,31 +616,14 @@
 ## Prompt 1 — Farm Brand Identity Creation Plan
 
 `
-"You are a rural brand development consultant with experience in Indian agri-businesses. I run a 5-acre organic vegetable and fruit farm in [District, State], selling directly to urban customers in [City]. Create a complete brand identity plan that includes:
-`
+"You are a rural brand development consultant with experience in Indian agri-businesses. I run a 5-acre organic vegetable and fruit farm in [District, State], selling directly to urban customers in [City]. Create a complete brand identity plan that includes
 
-`
-Brand name ideas inspired by local culture & produce (minimum 10 suggestions).
-`
-
-`
-Logo concept sketches and colour palette recommendations.
-`
-
-`
-A brand story in 150 words highlighting sustainability and freshness.
-`
-
-`
-A tagline under 8 words that is memorable.
-`
-
-`
-Steps to register the brand name & logo under the Indian Trade Marks Act.
-`
-
-`
-Present the output in 3 sections: Name & visual ideas, brand story, and legal registration steps."
+- Brand name ideas inspired by local culture & produce (minimum 10 suggestions).
+- Logo concept sketches and colour palette recommendations.
+- A brand story in 150 words highlighting sustainability and freshness.
+- A tagline under 8 words that is memorable.
+- Steps to register the brand name & logo under the Indian Trade Marks Act.
+- Present the output in 3 sections: Name & visual ideas, brand story, and legal registration steps."
 `
 
 
