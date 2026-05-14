@@ -617,7 +617,9 @@
 
 `
 "You are a rural brand development consultant with experience in Indian agri-businesses. I run a 5-acre organic vegetable and fruit farm in [District, State], selling directly to urban customers in [City]. Create a complete brand identity plan that includes:
+
 `
+
 `
 1. Brand name ideas inspired by local culture & produce (minimum 10 suggestions).
 `
