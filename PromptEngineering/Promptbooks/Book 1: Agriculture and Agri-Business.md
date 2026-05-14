@@ -689,6 +689,7 @@ Shelf-life marking guidelines.
 
 Steps to get packaging design approved for export readiness.
 `
+
 `
 Output in 2 sections: Compliance checklist & visual design recommendations."
 `
@@ -698,7 +699,7 @@ Output in 2 sections: Compliance checklist & visual design recommendations."
 `
 "You are an agri-social media strategist. Prepare a 90-day content calendar for Instagram, Facebook, and WhatsApp to promote farm produce from [District, State].
 Include:
-
+`
 
 12 post ideas for harvest updates & seasonal recipes.
 
@@ -710,6 +711,7 @@ Best posting times & relevant hashtags in English + local language.
 
 Engagement tactics to boost orders via comments & DMs.
 
+`
 Output in calendar format with post type, caption idea, and CTA (Call to Action) for each day."
 `
 
