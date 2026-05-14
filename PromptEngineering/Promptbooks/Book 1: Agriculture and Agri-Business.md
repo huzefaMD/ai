@@ -659,13 +659,16 @@ Sales Channels: Compare WhatsApp selling, ONDC, and farmers’ markets with pros
 
 `
 Pricing Model: Table showing farm-gate vs retail prices after packaging, delivery, and commissions.
+`
 
 `
 Delivery Logistics: Optimal frequency, cost reduction tips, and time slots for freshness.
 `
+
 `
 Customer Retention: Loyalty rewards, festival hampers, and referral discounts.
 `
+
 `
 First Month Action Plan: Week-by-week tasks from social media launch to first delivery.
 `
@@ -712,15 +715,25 @@ Output in 2 sections: Compliance checklist & visual design recommendations."
 Include:
 `
 
+`
 12 post ideas for harvest updates & seasonal recipes.
+`
 
+`
 8 video/Reel scripts for farmer stories and cooking demos.
+`
 
+`
 4 customer testimonial formats.
+`
 
+`
 Best posting times & relevant hashtags in English + local language.
+`
 
+`
 Engagement tactics to boost orders via comments & DMs.
+`
 
 `
 Output in calendar format with post type, caption idea, and CTA (Call to Action) for each day."
