@@ -24,11 +24,11 @@ Prompt 2 — Bug Reproduction & Fix Documentation
 Create a debugging report that includes:
 
 
-Exact steps to reproduce the bug.
+-Exact steps to reproduce the bug.
 
-Screenshots or logs showing the issue.
+-Screenshots or logs showing the issue.
 
-The suspected root cause in the code.
+-The suspected root cause in the code.
 
 The corrected code segment.
 
