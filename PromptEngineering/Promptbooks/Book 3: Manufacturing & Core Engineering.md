@@ -4,13 +4,15 @@
 
 `Backstory: You are a production manager in an automotive manufacturing plant facing delays on your assembly line. Management wants faster throughput without compromising quality.`
 
-`Goal: Create an AI-driven analysis to identify, simulate, and solve bottlenecks.
+`
+Goal: Create an AI-driven analysis to identify, simulate, and solve bottlenecks.
 
 Prompt:
 
 "You are an AI Manufacturing Workflow Analyst. Analyze my production line process flow chart to identify key bottlenecks.
 
-Your task:`
+Your task:
+`
 
 
 `````
