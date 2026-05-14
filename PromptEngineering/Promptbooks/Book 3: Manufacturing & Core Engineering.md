@@ -1,8 +1,8 @@
 `Production Workflow Optimisation`
 
-``Prompt 1 — Reducing Production Line Bottlenecks
+`Prompt 1 — Reducing Production Line Bottlenecks`
 
-Backstory: You are a production manager in an automotive manufacturing plant facing delays on your assembly line. Management wants faster throughput without compromising quality.``
+`Backstory: You are a production manager in an automotive manufacturing plant facing delays on your assembly line. Management wants faster throughput without compromising quality.`
 
 Goal: Create an AI-driven analysis to identify, simulate, and solve bottlenecks.
 
@@ -13,16 +13,11 @@ Prompt:
 Your task:
 
 
-1. Map the sequence of steps in the current workflow.
-
+`````1. Map the sequence of steps in the current workflow.
 2. Identify steps with the longest cycle times and highest downtime.
-
 3. Simulate possible solutions (e.g., parallel processing, equipment upgrades).
-
 4. Estimate improvement percentages for each solution.
-
-5. Recommend a final plan with cost-benefit analysis.
-
+5. Recommend a final plan with cost-benefit analysis.`````
 Output format: PDF improvement report + Gantt chart simulation file.
 
 Input Files & Code Section:
