@@ -2598,3 +2598,378 @@ Plant layout diagram.
 
 Current safety policies (if any)."
 
+Prompt 2 — Fire Safety & Evacuation Plan According to NFPA Standards
+
+Backstory: You want to ensure your manufacturing plant has a fire safety plan that meets NFPA (National Fire Protection Association) requirements.
+
+Goal: Develop a plant-specific fire safety plan with evacuation routes.
+
+Prompt:
+
+"You are a Fire Safety Compliance Expert. Create an NFPA-compliant fire safety and evacuation plan for my manufacturing facility.
+
+Your task:
+
+
+1. Map emergency exits and fire extinguisher locations.
+
+2. Specify fire alarm and sprinkler system maintenance schedules.
+
+3. Include employee fire drill procedures.
+
+4. Provide a floor plan diagram with marked evacuation routes.
+
+5. Recommend training modules for staff.
+
+Output format: Fire Safety Plan (PDF) + Evacuation Route Map (PNG) + Drill Checklist.
+
+Input Files & Code Section:
+
+
+Plant floor plan (CAD/PDF).
+
+Current fire safety equipment list.
+
+Building occupancy capacity."
+
+Prompt 3 — Hazardous Materials Handling Protocol (HAZMAT)
+
+Backstory: Your facility uses chemicals and other hazardous materials, requiring safe storage, handling, and disposal guidelines.
+
+Goal: Develop a HAZMAT safety protocol aligned with GHS (Globally Harmonized System) and local laws.
+
+Prompt:
+
+"You are a Hazardous Materials Safety Officer. Develop a hazardous materials handling protocol for my manufacturing unit.
+
+Your task:
+
+
+1. Categorize materials by hazard class (flammable, corrosive, toxic).
+
+2. Specify labeling requirements according to GHS.
+
+3. Provide safe handling and storage guidelines.
+
+4. Outline emergency spill cleanup procedures.
+
+5. Include disposal methods that meet environmental regulations.
+
+Output format: HAZMAT Protocol Document (PDF) + Safety Labels Template (PNG).
+
+Input Files & Code Section:
+
+
+List of hazardous materials used.
+
+Current storage arrangements.
+
+Local disposal regulations."
+
+Prompt 4 — Machine-Specific Lockout/Tagout (LOTO) Procedures
+
+Backstory: Your facility operates heavy machinery that must be locked out during maintenance to prevent accidents.
+
+Goal: Create machine-specific LOTO procedures in compliance with OSHA standard 1910.147.
+
+Prompt:
+
+"You are a LOTO Procedure Specialist. Create lockout/tagout instructions for each machine in my facility.
+
+Your task:
+
+
+1. Document step-by-step shutdown procedures for each machine.
+
+2. Specify the lockout devices required.
+
+3. Include visual diagrams for lockout points.
+
+4. Provide employee training checklist.
+
+5. Align procedures with OSHA 1910.147 standard.
+
+Output format: Machine-specific LOTO PDF Sheets + Training Checklist.
+
+Input Files & Code Section:
+
+
+Machine inventory list.
+
+Manufacturer manuals.
+
+Maintenance schedule."
+
+Prompt 5 — Workplace Safety Audit Template
+
+Backstory: You want to regularly assess safety compliance in your facility without hiring external auditors each time.
+
+Goal: Create a self-audit checklist for safety compliance.
+
+Prompt:
+
+"You are a Workplace Safety Auditor. Design a safety audit template for my manufacturing facility.
+
+Your task:
+
+
+1. Include checks for PPE usage, machine guards, fire safety, HAZMAT storage, and first aid availability.
+
+2. Use a scoring system to highlight high-risk areas.
+
+3. Align the audit with OSHA, NFPA, and local labor laws.
+
+4. Make it usable for both digital and paper formats.
+
+5. Provide guidelines for corrective action follow-up.
+
+Output format: Safety Audit Checklist (Excel/PDF) + Corrective Action Template.
+
+Input Files & Code Section:
+
+
+Existing safety policies.
+
+Factory layout diagram.
+
+Regulatory compliance list."
+
+Prompt 6 — Personal Protective Equipment (PPE) Compliance Tracker
+
+Backstory: Ensuring that all workers use the correct PPE daily can be challenging without a tracking system.
+
+Goal: Develop a PPE compliance tracking and reporting system.
+
+Prompt:
+
+"You are a PPE Compliance Officer. Create a PPE compliance tracking document for my manufacturing facility.
+
+Your task:
+
+
+1. Define PPE requirements for each job role.
+
+2. Create a daily compliance log for supervisors.
+
+3. Include fields for PPE condition checks.
+
+4. Develop a monthly compliance summary report.
+
+5. Recommend signage for PPE zones.
+
+Output format: PPE Compliance Tracker (Excel) + Signage Templates (PNG).
+
+Input Files & Code Section:
+
+
+Job role descriptions.
+
+Current PPE inventory.
+
+PPE brand/model details."
+
+Prompt 7 — Incident Reporting & Investigation Template
+
+Backstory: A proper incident reporting system ensures every workplace accident is documented and investigated.
+
+Goal: Create a standardized incident reporting and investigation process.
+
+Prompt:
+
+"You are a Workplace Incident Investigator. Develop an incident reporting and root cause analysis template.
+
+Your task:
+
+
+1. Include sections for incident description, witnesses, and immediate actions taken.
+
+2. Add root cause analysis tools (5 Whys, Fishbone Diagram).
+
+3. Suggest preventive measures to avoid recurrence.
+
+4. Align with OSHA and ISO 45001 requirements.
+
+5. Provide both a printable and fillable PDF version.
+
+Output format: Incident Report Form (PDF) + Root Cause Analysis Sheet (Excel).
+
+Input Files & Code Section:
+
+
+List of common workplace incidents.
+
+Previous accident records (if available).
+
+Applicable safety standards."
+
+Prompt 8 — ISO 45001 Health & Safety Management System Documentation
+
+Backstory: Your company wants ISO 45001 certification for occupational health and safety.
+
+Goal: Develop the documentation required for ISO 45001 compliance.
+
+Prompt:
+
+"You are an ISO 45001 Documentation Specialist. Prepare the necessary documents for my manufacturing unit.
+
+Your task:
+
+
+1. Create the OHS (Occupational Health & Safety) policy.
+
+2. Document risk assessment and control measures.
+
+3. Define safety objectives and performance indicators.
+
+4. Include internal audit checklist.
+
+5. Provide a certification readiness roadmap.
+
+Output format: ISO 45001 Documentation Pack (Word/PDF) + Audit Checklist (Excel).
+
+Input Files & Code Section:
+
+
+Company profile.
+
+Existing safety procedures.
+
+Risk assessment reports."
+
+Prompt 9 — Chemical Safety Data Sheet (SDS) Creation
+
+Backstory: You need Safety Data Sheets for all chemicals used, as per GHS standards.
+
+Goal: Create compliant SDS for chemicals in use.
+
+Prompt:
+
+"You are a Chemical Safety Documentation Expert. Prepare GHS-compliant Safety Data Sheets for my chemicals.
+
+Your task:
+
+
+1. Include sections for identification, hazards, composition, and handling.
+
+2. Specify first aid measures for exposure.
+
+3. Include storage and disposal guidelines.
+
+4. Align with GHS and OSHA HazCom standards.
+
+5. Create a digital SDS library for easy access.
+
+Output format: SDS Documents (PDF) + Digital SDS Library (Excel).
+
+Input Files & Code Section:
+
+
+List of chemicals with MSDS (if available).
+
+Supplier safety data.
+
+Workplace usage details."
+
+Prompt 10 — Workplace Noise Compliance Report
+
+Backstory: Your facility is noisy, and you must comply with occupational noise exposure limits.
+
+Goal: Assess workplace noise and create compliance reports.
+
+Prompt:
+
+"You are a Noise Compliance Engineer. Prepare a workplace noise compliance assessment report.
+
+Your task:
+
+
+1. Identify high-noise areas and equipment.
+
+2. Compare decibel levels with OSHA and ISO 9612 limits.
+
+3. Recommend noise control measures.
+
+4. Provide hearing conservation program guidelines.
+
+5. Include pre/post-control measurement results.
+
+Output format: Noise Compliance Report (PDF) + Noise Map Diagram (PNG).
+
+Input Files & Code Section:
+
+
+Noise measurement data.
+
+Plant layout.
+
+Equipment list."
+
+Prompt 11 — Electrical Safety Compliance Checklist
+
+Backstory: Electrical hazards can cause severe accidents; you want to ensure compliance with standards.
+
+Goal: Create an electrical safety audit checklist.
+
+Prompt:
+
+"You are an Electrical Safety Auditor. Design a compliance checklist for my manufacturing plant.
+
+Your task:
+
+
+1. Include checks for grounding, insulation, and circuit protection.
+
+2. Add inspection frequency guidelines.
+
+3. Align with NFPA 70E and OSHA requirements.
+
+4. Provide hazard labeling recommendations.
+
+5. Include a corrective action section.
+
+Output format: Electrical Safety Audit Checklist (Excel/PDF) + Label Templates (PNG).
+
+Input Files & Code Section:
+
+
+Electrical layout.
+
+Equipment list.
+
+Safety inspection history."
+
+Prompt 12 — First Aid & Emergency Medical Response Plan
+
+Backstory: Your facility needs a ready-to-use emergency medical plan for workplace accidents.
+
+Goal: Create a first aid and emergency medical response plan.
+
+Prompt:
+
+"You are a First Aid Response Planner. Develop a medical response plan for my factory.
+
+Your task:
+
+
+1. Define emergency response team roles.
+
+2. Include treatment steps for common workplace injuries.
+
+3. List local hospitals and emergency contacts.
+
+4. Provide training schedule for first aid drills.
+
+5. Include a first aid kit inventory checklist.
+
+Output format: Emergency Medical Plan (PDF) + First Aid Kit Checklist (Excel).
+
+Input Files & Code Section:
+
+
+Workplace injury history.
+
+Employee roster.
+
+Local hospital contact list."
+
+
