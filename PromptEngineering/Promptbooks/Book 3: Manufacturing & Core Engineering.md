@@ -15,10 +15,15 @@ Your task:
 
 `````
 1. Map the sequence of steps in the current workflow.
+
 2. Identify steps with the longest cycle times and highest downtime.
+
 3. Simulate possible solutions (e.g., parallel processing, equipment upgrades).
+
 4. Estimate improvement percentages for each solution.
-5. Recommend a final plan with cost-benefit analysis.`````
+
+5. Recommend a final plan with cost-benefit analysis.
+`````
 Output format: PDF improvement report + Gantt chart simulation file.
 
 Input Files & Code Section:
