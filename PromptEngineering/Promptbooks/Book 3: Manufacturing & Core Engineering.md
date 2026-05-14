@@ -2051,6 +2051,550 @@ Preferred manufacturing method.
 
 Material constraints."
 
+Prompt 11 — CAD File Format Conversion
+
+Backstory: Your supplier uses different CAD software, and file formats aren’t compatible.
+
+Goal: Convert files without losing design integrity.
+
+Prompt:
+
+"You are an AI CAD Converter. Convert my CAD files into the required format while preserving features.
+
+Your task:
 
 
+1. Import existing CAD file.
+
+2. Maintain parametric features during conversion.
+
+3. Ensure assembly constraints remain intact.
+
+4. Check for geometry errors post-conversion.
+
+5. Provide final files in requested formats.
+
+Output format: Converted CAD file + integrity check report.
+
+Input Files & Code Section:
+
+
+Original CAD file.
+
+Target software format requirements.
+
+Assembly reference files (if any)."
+
+Prompt 12 — Design Variants for Product Customization
+
+Backstory: You want to offer multiple versions of a product with slight design variations.
+
+Goal: Generate design variants from a base CAD model.
+
+Prompt:
+
+"You are an AI CAD Variant Generator. Create multiple product variants from my base design.
+
+Your task:
+
+
+1. Modify dimensions, features, and materials as per requirements.
+
+2. Maintain overall functionality across variants.
+
+3. Provide clear labeling for each version.
+
+4. Generate renders for marketing use.
+
+5. Package all CAD files in one folder.
+
+Output format: Multiple CAD files + labeled renders.
+
+Input Files & Code Section:
+
+
+Base CAD file.
+
+Variant specification list.
+
+Material options."
+
+Prompt 13 — CAD Rendering for Marketing & Visualization
+
+Backstory: You need realistic images of your design for client presentations and marketing materials.
+
+Goal: Create high-quality renders from CAD models.
+
+Prompt:
+
+"You are an AI CAD Renderer. Produce photorealistic images from my CAD model.
+
+Your task:
+
+
+1. Apply realistic materials and textures.
+
+2. Add environment lighting for accurate visuals.
+
+3. Provide multiple view angles.
+
+4. Export images in high resolution.
+
+5. Provide layered PSD for further editing.
+
+Output format: High-res PNG/JPEG images + PSD file.
+
+Input Files & Code Section:
+
+
+CAD file.
+
+Material and color preferences.
+
+Branding guidelines."
+
+Prompt 14 — CAE Optimization for Energy Efficiency
+
+Backstory: Your product consumes energy in operation, and you want to make it more efficient.
+
+Goal: Run simulations to reduce energy consumption.
+
+Prompt:
+
+"You are an AI Energy Efficiency Optimizer. Analyze my CAD/CAE model for energy-saving opportunities.
+
+Your task:
+
+
+1. Simulate operating conditions.
+
+2. Identify design elements causing energy loss.
+
+3. Suggest geometry or material changes.
+
+4. Re-run simulation to compare improvements.
+
+5. Provide projected energy savings.
+
+Output format: Energy optimization report (PDF) + updated CAD file.
+
+Input Files & Code Section:
+
+
+CAD model.
+
+Operational load data.
+
+Energy consumption logs."
+
+Prompt 15 — CAD Automation for Batch Design Generation
+
+Backstory: You produce similar designs with small variations for different clients.
+
+Goal: Automate batch CAD model generation.
+
+Prompt:
+
+"You are an AI CAD Automation Developer. Create multiple design variations automatically from a base model.
+
+Your task:
+
+
+1. Import base CAD file.
+
+2. Apply parameter changes from Excel/CSV.
+
+3. Export each variation as a separate CAD file.
+
+4. Generate a render for each version.
+
+5. Package files for delivery.
+
+Output format: Multiple CAD files + render images.
+
+Input Files & Code Section:
+
+
+Base CAD file.
+
+Excel/CSV with parameter changes.
+
+Rendering preferences."
+
+Prompt 16 — AI-Assisted GD&T (Geometric Dimensioning & Tolerancing) Application
+
+Backstory: Your design is ready, but you need to apply proper GD&T symbols for manufacturing and inspection accuracy.
+
+Goal: Add GD&T to your CAD drawings based on functional requirements.
+
+Prompt:
+
+"You are an AI GD&T Expert. Apply accurate GD&T annotations to my CAD drawing.
+
+Your task:
+
+
+1. Analyze part functionality and assembly requirements.
+
+2. Determine appropriate datum references.
+
+3. Apply feature control frames for size, form, orientation, and location tolerances.
+
+4. Ensure compliance with ASME Y14.5 or ISO standards.
+
+5. Provide a training sheet explaining the applied GD&T.
+
+Output format: Updated CAD drawing (PDF/DWG) + GD&T explanation guide.
+
+Input Files & Code Section:
+
+
+CAD drawing file.
+
+Functional and assembly requirements.
+
+Applicable standard (ASME/ISO)."
+
+Prompt 17 — Lightweight CAD Model for VR/AR Applications
+
+Backstory: Your detailed CAD models are too heavy for VR/AR use, making them slow to load.
+
+Goal: Optimize CAD models for lightweight AR/VR deployment.
+
+Prompt:
+
+"You are an AI CAD Model Optimizer. Simplify my CAD model for VR/AR applications without losing essential details.
+
+Your task:
+
+
+1. Reduce polygon count while preserving critical geometry.
+
+2. Compress textures and materials for real-time rendering.
+
+3. Export in VR/AR-friendly formats (.FBX, .GLTF).
+
+4. Test for performance on common AR/VR devices.
+
+5. Provide a performance improvement summary.
+
+Output format: Lightweight CAD file (.FBX/.GLTF) + optimization report.
+
+Input Files & Code Section:
+
+
+Original CAD file.
+
+VR/AR platform details.
+
+Performance targets."
+
+Prompt 18 — AI-Generated Fixture & Jig Design
+
+Backstory: You need custom jigs and fixtures for production but lack time for detailed design work.
+
+Goal: Create CAD designs for jigs and fixtures based on part geometry.
+
+Prompt:
+
+"You are an AI Fixture Design Engineer. Design jigs and fixtures for my part to assist in manufacturing or inspection.
+
+Your task:
+
+
+1. Import my part CAD file.
+
+2. Determine holding and clamping requirements.
+
+3. Design fixture geometry for optimal stability.
+
+4. Ensure compatibility with CNC/assembly stations.
+
+5. Provide technical drawings for fabrication.
+
+Output format: CAD fixture file (.STEP) + 2D technical drawings (PDF).
+
+Input Files & Code Section:
+
+
+Part CAD file.
+
+Fixture usage purpose.
+
+Machine/tool dimensions."
+
+Prompt 19 — Assembly Animation for Client Presentation
+
+Backstory: You want to impress a client by showing how your product is assembled step-by-step.
+
+Goal: Create a realistic assembly animation from CAD files.
+
+Prompt:
+
+"You are an AI CAD Animator. Produce an assembly sequence animation for my product.
+
+Your task:
+
+
+1. Import CAD assembly files.
+
+2. Animate each step of the assembly process.
+
+3. Add labels for key components.
+
+4. Export in MP4 and GIF formats.
+
+5. Provide a script for voiceover narration.
+
+Output format: Assembly animation video (MP4/GIF) + narration script (Word).
+
+Input Files & Code Section:
+
+
+CAD assembly files.
+
+Assembly instructions.
+
+Branding/logo assets."
+
+Prompt 20 — AI-Driven Bill of Materials (BOM) Extraction
+
+Backstory: You have a CAD assembly but no detailed BOM for procurement.
+
+Goal: Generate a full BOM from CAD data.
+
+Prompt:
+
+"You are an AI BOM Generator. Extract a complete Bill of Materials from my CAD assembly.
+
+Your task:
+
+
+1. Identify all components in the assembly.
+
+2. List part numbers, materials, and quantities.
+
+3. Group items into assemblies and sub-assemblies.
+
+4. Flag any missing data.
+
+5. Export in Excel and PDF formats.
+
+Output format: BOM (Excel/PDF) + missing data report.
+
+Input Files & Code Section:
+
+
+CAD assembly file.
+
+Material database (if available).
+
+Part numbering system."
+
+Prompt 21 — AI-Based Ergonomic Design Review
+
+Backstory: Your product interacts with human users, so ergonomic design is critical.
+
+Goal: Review and optimize design for ergonomics.
+
+Prompt:
+
+"You are an AI Ergonomic Design Specialist. Evaluate my CAD design for ergonomic efficiency.
+
+Your task:
+
+
+1. Simulate human interaction using anthropometric data.
+
+2. Identify areas causing discomfort or strain.
+
+3. Suggest modifications for better usability.
+
+4. Provide compliance check with ergonomic standards.
+
+5. Supply before-and-after renders.
+
+Output format: Ergonomic analysis PDF + updated CAD model.
+
+Input Files & Code Section:
+
+
+CAD file.
+
+Target user profile data.
+
+Ergonomic standard references."
+
+Prompt 22 — AI-Assisted Tolerance Stack-Up Analysis
+
+Backstory: You want to ensure that manufacturing tolerances won’t cause assembly issues.
+
+Goal: Perform tolerance stack-up analysis on assembly.
+
+Prompt:
+
+"You are an AI Tolerance Analysis Expert. Conduct a stack-up analysis for my CAD assembly.
+
+Your task:
+
+
+1. Import CAD assembly and tolerance data.
+
+2. Simulate worst-case and statistical scenarios.
+
+3. Highlight risk areas causing interference or looseness.
+
+4. Suggest tolerance adjustments.
+
+5. Provide updated drawings.
+
+Output format: Tolerance stack-up report (PDF) + revised CAD file.
+
+Input Files & Code Section:
+
+
+CAD assembly file.
+
+Tolerance table.
+
+Manufacturing process capabilities."
+
+Prompt 23 — 3D Printing-Ready CAD Preparation
+
+Backstory: You want to produce a prototype via 3D printing but need to prepare the CAD file.
+
+Goal: Make CAD model ready for 3D printing.
+
+Prompt:
+
+"You are an AI 3D Printing Prep Engineer. Prepare my CAD design for successful 3D printing.
+
+Your task:
+
+
+1. Check wall thickness and overhangs.
+
+2. Add necessary supports.
+
+3. Repair geometry errors.
+
+4. Slice the model with optimal settings.
+
+5. Provide STL and G-code files.
+
+Output format: Printable STL + G-code + PDF prep report.
+
+Input Files & Code Section:
+
+
+CAD file.
+
+Printer specifications.
+
+Material choice."
+
+Prompt 24 — AI-Powered Design Compliance Check
+
+Backstory: Your design must meet industry-specific compliance standards.
+
+Goal: Verify CAD design against compliance requirements.
+
+Prompt:
+
+"You are an AI Compliance Engineer. Review my CAD design for compliance with industry standards.
+
+Your task:
+
+
+1. Compare design with provided regulations.
+
+2. Identify non-compliance areas.
+
+3. Suggest corrective changes.
+
+4. Provide a compliance certificate draft.
+
+5. Highlight benefits of compliance for market approval.
+
+Output format: Compliance review report (PDF) + annotated CAD file.
+
+Input Files & Code Section:
+
+
+CAD file.
+
+Compliance standard documents.
+
+Product application details."
+
+Prompt 25 — AI-Driven Concept-to-Prototype Workflow
+
+Backstory: You have an idea but need to go from concept sketches to a prototype quickly.
+
+Goal: Complete concept-to-prototype CAD workflow.
+
+Prompt:
+
+"You are an AI Concept-to-Prototype Designer. Turn my idea into a working CAD model ready for prototyping.
+
+Your task:
+
+
+1. Interpret my sketches and design notes.
+
+2. Create a parametric CAD model.
+
+3. Run basic CAE checks.
+
+4. Prepare model for CNC or 3D printing.
+
+5. Provide cost and time estimation for prototype.
+
+Output format: CAD file (.STEP), STL for printing, PDF prototype cost sheet.
+
+Input Files & Code Section:
+
+
+Sketches/images.
+
+Material preferences.
+
+Prototype method choice."
+
+
+# Safety & Compliance Documentation
+
+Prompt 1 — Create OSHA-Compliant Safety Manual for Manufacturing Plant
+
+Backstory: Your manufacturing facility needs a safety manual that complies with OSHA (Occupational Safety and Health Administration) standards to ensure worker safety and legal compliance.
+
+Goal: Generate a complete safety manual covering equipment operation, PPE (Personal Protective Equipment), and emergency procedures.
+
+Prompt:
+
+"You are a Manufacturing Safety Compliance Officer. Create a comprehensive OSHA-compliant safety manual for my facility.
+
+Your task:
+
+
+1. Include sections for PPE requirements, equipment operation safety, emergency evacuation procedures, and hazard reporting.
+
+2. Align guidelines with OSHA manufacturing industry standards.
+
+3. Provide visual safety signage recommendations.
+
+4. Create both a long-form PDF manual and a 1-page quick-reference guide.
+
+5. Include an inspection checklist for managers.
+
+Output format: PDF Safety Manual + Quick Reference Sheet + Inspection Checklist (Excel).
+
+Input Files & Code Section:
+
+
+Factory equipment list.
+
+Plant layout diagram.
+
+Current safety policies (if any)."
 
