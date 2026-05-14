@@ -824,9 +824,7 @@ Mobile optimisation tips for rural customers.
 Provide the plan in step-by-step format with timelines for completion in 30 days."
 `
 
-`
-Prompt 8 — Subscription Box Model for Regular Customers
-`
+## Prompt 8 — Subscription Box Model for Regular Customers
 
 `
 "You are a subscription model strategist. I want to launch a weekly vegetable & fruit box service in [City]. Design the plan covering:
@@ -908,41 +906,67 @@ A 2-minute speech for farmer’s markets and events.
 The story must highlight my background, commitment to sustainability, and farm-to-table freshness. Include local cultural elements to connect with [City] customers."
 `
 
-Prompt 11 — Influencer Collaboration Strategy
+## Prompt 11 — Influencer Collaboration Strategy
 
+`
 "You are an influencer marketing consultant for agri-products. Create a collaboration plan with 5 local chefs & food bloggers in [City] to promote my organic produce. Include:
+`
 
-
+`
 Criteria for selecting influencers.
+`
 
+`
 Outreach email/DM template.
+`
 
+`
 Campaign ideas (e.g., recipe videos, farm visit vlogs).
+`
 
+`
 Budget breakdown for barter & paid deals.
+`
 
+`
 Method to track ROI (Return on Investment).
+`
 
+`
 Output in influencer list + outreach plan + campaign calendar."
+`
 
-Prompt 12 — Farm Visit Experience Design
+## Prompt 12 — Farm Visit Experience Design
 
+`
 "You are an agri-tourism consultant. Design a farm visit program for families & school groups in [City]. Include:
+`
 
-
+`
 Itinerary for 3-hour & 6-hour visits.
+`
 
+`
 Activities: vegetable picking, cooking sessions, tractor rides.
+`
 
+`
 Pricing per person & group discounts.
+`
 
+`
 Safety & hygiene guidelines.
+`
 
+`
 Sales integration for visitors to buy fresh produce before leaving.
+`
 
+`
 Output in event brochure format with activity timings & prices."
+`
 
-Prompt 13 — Referral Program Setup
+## Prompt 13 — Referral Program Setup
 
 "You are a customer retention strategist. Create a referral program for my farm produce delivery service in [City] that rewards customers with free vegetables or discounts. Include:
 
