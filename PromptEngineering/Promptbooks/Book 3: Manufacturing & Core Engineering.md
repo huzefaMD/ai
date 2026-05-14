@@ -1,8 +1,8 @@
 `Production Workflow Optimisation`
 
-Prompt 1 — Reducing Production Line Bottlenecks
+``Prompt 1 — Reducing Production Line Bottlenecks
 
-Backstory: You are a production manager in an automotive manufacturing plant facing delays on your assembly line. Management wants faster throughput without compromising quality.
+Backstory: You are a production manager in an automotive manufacturing plant facing delays on your assembly line. Management wants faster throughput without compromising quality.``
 
 Goal: Create an AI-driven analysis to identify, simulate, and solve bottlenecks.
 
