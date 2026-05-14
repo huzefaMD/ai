@@ -683,24 +683,16 @@ Include:
 `
 
 `
-12 post ideas for harvest updates & seasonal recipes.
-`
+-12 post ideas for harvest updates & seasonal recipes.
 
-`
-8 video/Reel scripts for farmer stories and cooking demos.
-`
+-8 video/Reel scripts for farmer stories and cooking demos.
 
-`
-4 customer testimonial formats.
-`
+-4 customer testimonial formats.
 
-`
-Best posting times & relevant hashtags in English + local language.
-`
+-Best posting times & relevant hashtags in English + local language.
 
-`
-Engagement tactics to boost orders via comments & DMs.
-`
+-Engagement tactics to boost orders via comments & DMs.
+
 
 `
 Output in calendar format with post type, caption idea, and CTA (Call to Action) for each day."
