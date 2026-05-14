@@ -68,7 +68,3 @@ You don't need ALL sections every time - use what's relevant. But for high-stake
 important outputs - use them all.
 
 
-
-- Bullet
-- list 
-1. number
