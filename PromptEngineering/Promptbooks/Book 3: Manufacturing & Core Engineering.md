@@ -10,7 +10,8 @@ Prompt:
 
 "You are an AI Manufacturing Workflow Analyst. Analyze my production line process flow chart to identify key bottlenecks.
 ``
-`````Your task:
+`````
+Your task:
 
 
 1. Map the sequence of steps in the current workflow.
