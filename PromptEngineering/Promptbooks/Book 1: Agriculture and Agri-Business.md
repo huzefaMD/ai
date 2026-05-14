@@ -619,6 +619,7 @@
 "You are a rural brand development consultant with experience in Indian agri-businesses. I run a 5-acre organic vegetable and fruit farm in [District, State], selling directly to urban customers in [City]. Create a complete brand identity plan that includes:
 `
 
+
 `
 1. Brand name ideas inspired by local culture & produce (minimum 10 suggestions).
 `
@@ -656,12 +657,20 @@ Prepare a 12-month D2C sales plan covering:
 `
 - Sales Channels: Compare WhatsApp selling, ONDC, and farmers’ markets with pros, cons, and costs.
 `
+
+`
 - Pricing Model: Table showing farm-gate vs retail prices after packaging, delivery, and commissions.
+`
 
+`
 - Delivery Logistics: Optimal frequency, cost reduction tips, and time slots for freshness.
+`
 
+`
 - Customer Retention: Loyalty rewards, festival hampers, and referral discounts.
+`
 
+`
 - First Month Action Plan: Week-by-week tasks from social media launch to first delivery.
 `
 
