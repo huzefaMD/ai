@@ -968,9 +968,11 @@ Output in event brochure format with activity timings & prices."
 
 ## Prompt 13 — Referral Program Setup
 
+`
 "You are a customer retention strategist. Create a referral program for my farm produce delivery service in [City] that rewards customers with free vegetables or discounts. Include:
+`
 
-
+````
 Referral reward structure.
 
 Simple tracking method via WhatsApp or Google Sheets.
@@ -982,9 +984,10 @@ Launch plan to get first 50 referrals in 30 days.
 Output in referral flowchart + ready-to-use promotional content."
 
 Prompt 14 — Branding for Multiple Product Lines
-
+````
+`
 "You are a multi-product brand architecture consultant. My farm sells vegetables, pickles, and herbal teas. Create a branding framework that:
-
+`
 
 Keeps a consistent visual identity across all product lines.
 
