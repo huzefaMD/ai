@@ -46,6 +46,7 @@ Prompt:
 
 "You are an AI Predictive Maintenance Planner. Use my machine performance and repair history to predict future breakdowns and suggest maintenance dates.
 
+``````
 Your task:
 
 
@@ -58,6 +59,7 @@ Your task:
 4. Balance downtime with production targets.
 
 5. Export schedule for integration with SAP ERP.
+``````
 
 Output format: Excel maintenance schedule + PDF risk report.
 
