@@ -491,91 +491,131 @@
 "You are an agricultural risk management expert. Create a price volatility protection strategy for my 5-acre onion farm in [State], considering seasonal market crashes. Include forward contracts, storage to delay sales, and selling portions through farmer collectives. Provide a simulation showing income stability if the plan is followed."
 `
 
-Prompt 6 — Weekly Market Price Monitoring System
+## Prompt 6 — Weekly Market Price Monitoring System
 
+`
 "You are an agri-market intelligence advisor. Design a weekly price monitoring system for my crops using eNAM (National Agriculture Market), Agmarknet, and local mandi bulletins. Include a template for recording prices, SMS alert setup for price thresholds, and a weekly decision-making checklist on whether to sell, store, or transport."
+`
 
-Prompt 7 — Export Market Price Opportunity Report
+## Prompt 7 — Export Market Price Opportunity Report
 
+`
 "You are an agri-export pricing analyst. Prepare a domestic vs. export price comparison for crops like turmeric, chilli, and basmati rice from [State]. Include current export prices (FOB – Free on Board), international demand trends, quality requirements, and cost of meeting export compliance. Provide a decision guide for shifting to export sales when profitable."
+`
 
-Prompt 8 — Seasonal Crop Switching Profit Analysis
+## Prompt 8 — Seasonal Crop Switching Profit Analysis
 
+`
 "You are a farm economics consultant. Analyse the profitability of seasonal crop switching based on price trends in [District]. For example, compare returns from planting onions vs. potatoes in Rabi season using last 5 years’ mandi data. Provide a recommendation with projected ROI (Return on Investment) and risk levels for each option."
+`
 
-Prompt 9 — Cold Storage-Linked Price Maximisation Plan
+## Prompt 9 — Cold Storage-Linked Price Maximisation Plan
 
+`
 "You are a post-harvest marketing strategist. Create a cold storage utilisation plan for my 6-acre farm in [State] to delay selling onions and potatoes until post-harvest price peaks. Include storage cost calculations, historical price rise timelines, and ROI comparisons between immediate and delayed sales."
+`
 
-Prompt 10 — Price Impact of Weather Anomalies Report
+## Prompt 10 — Price Impact of Weather Anomalies Report
 
+`
 "You are an agricultural economist with a focus on climate-market links. Analyse how weather anomalies like early rains, droughts, or cyclones impacted my crop prices in [District] over the last 5 years. Use IMD (India Meteorological Department) and mandi price data. Recommend diversification strategies to protect against sudden price crashes."
+`
 
-Prompt 11 — Contract Farming Price Negotiation Plan
+## Prompt 11 — Contract Farming Price Negotiation Plan
 
+`
 "You are an agri-business negotiation expert. Prepare a price negotiation strategy for entering a contract farming agreement with a food processing company for my 4-acre farm in [State] growing tomatoes. Include methods to benchmark contract rates against average mandi (agriculture wholesale market) prices, clauses to protect against price drops, and payment term negotiations. Provide a sample contract clause ensuring minimum guaranteed pricing."
+`
 
-Prompt 12 — Daily Price Alert SMS Setup Guide
+## Prompt 12 — Daily Price Alert SMS Setup Guide
 
+`
 "You are a digital agriculture advisor. Provide a step-by-step guide to set up daily mandi price alerts for my main crops via Agmarknet, eNAM (National Agriculture Market), and local WhatsApp groups. Include how to choose the right mandi for monitoring, set price thresholds for alerts, and integrate this into my weekly sales decision process."
+`
 
-Prompt 13 — Farmer Producer Organisation Price Advantage Plan
+## Prompt 13 — Farmer Producer Organisation Price Advantage Plan
 
+`
 "You are an FPO (Farmer Producer Organisation) strategy consultant. Create a collective pricing strategy for 50 farmers growing the same crop in [District]. Show how pooling harvests can secure higher prices through bulk selling to institutional buyers, reducing commission charges, and negotiating with wholesalers. Include a comparison table showing price improvement percentages from collective selling."
+`
 
-Prompt 14 — Long-Term Commodity Trend Analysis
+## Prompt 14 — Long-Term Commodity Trend Analysis
 
+`
 "You are an agricultural market analyst. Prepare a 10-year price trend analysis for my main crop in [State] using Agmarknet and FAOSTAT (Food and Agriculture Organization Statistics) data. Identify long-term cycles, potential demand shifts, and price plateau points. Recommend if I should expand, maintain, or diversify away from this crop."
+`
 
-Prompt 15 — Digital Marketplace Pricing Strategy
+## Prompt 15 — Digital Marketplace Pricing Strategy
 
+`
 "You are an agri e-commerce marketing consultant. Create a digital marketplace pricing strategy for selling my farm’s produce directly to consumers through platforms like BigBasket, JioMart, and ONDC (Open Network for Digital Commerce). Include price setting methods, commission structures, and promotional pricing during festivals. Provide a sample profit breakdown for a common vegetable."
+`
 
-Prompt 16 — Impact of Import-Export Policies on Prices
+## Prompt 16 — Impact of Import-Export Policies on Prices
 
+`
 "You are an agricultural trade policy analyst. Explain how recent import and export policy changes for my main crop in [State] have affected market prices in the last 2 years. Use data from DGFT (Directorate General of Foreign Trade) notifications and commodity boards. Recommend how I can adjust my sales strategy in response to these policy shifts."
+`
 
-Prompt 17 — Price Stabilisation Fund Utilisation Plan
+## Prompt 17 — Price Stabilisation Fund Utilisation Plan
 
+`
 "You are a government scheme utilisation expert. Show how I can access and benefit from the Price Stabilisation Fund (PSF) for my onion crop in [District]. Include eligibility criteria, application process, and examples of how farmers have used PSF to hold produce until prices recover. Provide a step-by-step action plan for registration."
+`
 
-Prompt 18 — High-Value Niche Crop Price Mapping
+## Prompt 18 — High-Value Niche Crop Price Mapping
 
+`
 "You are a market research consultant. Prepare a price mapping report for niche crops like exotic vegetables, herbs, or microgreens in [City]. Include wholesale vs. retail price comparisons, potential buyers, and seasonal fluctuations. Recommend which niche crops have the highest price stability and profit margins for small-scale production."
+`
 
-Prompt 19 — Social Media-Driven Price Boost Strategy
+## Prompt 19 — Social Media-Driven Price Boost Strategy
 
+`
 "You are an agri-marketing influencer strategist. Create a social media marketing plan to promote my product on Facebook, Instagram, and WhatsApp for direct sales at higher-than-mandi prices. Include target audience selection, festival-based campaigns, and real examples of farmers who have successfully boosted prices through online presence."
+`
 
-Prompt 20 — Forward Contract Price Lock Plan
+## Prompt 20 — Forward Contract Price Lock Plan
 
+`
 "You are a commodity trading advisor. Design a forward contract strategy to lock prices for my upcoming wheat harvest in [District]. Include advantages, risks, and model clauses to avoid disputes. Compare returns from forward contracts vs. spot market sales over the past 3 years."
+`
 
-Prompt 21 — Price Drop Emergency Response Plan
+## Prompt 21 — Price Drop Emergency Response Plan
 
+`
 "You are a crisis market advisor. Create a rapid response plan for sudden price crashes of perishable crops like tomatoes in [State]. Include alternative market channels, processing options (e.g., tomato puree production), and storage solutions. Provide an example cost recovery calculation based on previous price drops."
+`
 
-Prompt 22 — Urban Retail Tie-Up Pricing Guide
+## Prompt 22 — Urban Retail Tie-Up Pricing Guide
 
+`
 "You are a farm-to-retail partnership consultant. Recommend a pricing and supply agreement plan for selling directly to supermarkets and restaurants in [City]. Include minimum order quantities, weekly price negotiations, and delivery terms. Suggest sample contract clauses that ensure consistent pricing for at least one season."
+`
 
-Prompt 23 — Commodity Price Hedging Education Plan
+## Prompt 23 — Commodity Price Hedging Education Plan
 
+`
 "You are a farmer financial literacy trainer. Create a beginner-friendly education module for farmers in my area on hedging against price fluctuations using futures contracts and options trading. Use real examples from NCDEX (National Commodity & Derivatives Exchange) and explain risks in simple terms."
+`
 
-Prompt 24 — Multi-Crop Price Diversification Strategy
+## Prompt 24 — Multi-Crop Price Diversification Strategy
 
+`
 "You are a farm income stability consultant. Design a multi-crop diversification plan for my 5-acre farm in [District] to ensure that if one crop’s price drops, others can cover the loss. Include crop selection based on opposite price trends, planting schedules, and historical price correlation analysis."
+`
 
-Prompt 25 — Annual Price Trend & Profitability Dashboard
+## Prompt 25 — Annual Price Trend & Profitability Dashboard
 
+`
 "You are an agri-data dashboard designer. Create a custom price and profit tracking dashboard for my farm using Google Sheets or free software. Include live price feeds from Agmarknet, expense tracking, and automatic profit margin calculations for each crop. Provide a guide for updating and interpreting the dashboard."
+`
 
+# Farm-to-Consumer Branding & Sales
 
-Farm-to-Consumer Branding & Sales
+## Prompt 1 — Farm Brand Identity Creation Plan
 
-Prompt 1 — Farm Brand Identity Creation Plan
-
+`
 "You are a rural brand development consultant with experience in Indian agri-businesses. I run a 5-acre organic vegetable and fruit farm in [District, State], selling directly to urban customers in [City]. Create a complete brand identity plan that includes:
 
 
@@ -590,10 +630,12 @@ Prompt 1 — Farm Brand Identity Creation Plan
 5. Steps to register the brand name & logo under the Indian Trade Marks Act.
 
 Present the output in 3 sections: Name & visual ideas, brand story, and legal registration steps."
+`
 
 
-Prompt 2 — Direct-to-Consumer (D2C) Sales Strategy
+## Prompt 2 — Direct-to-Consumer (D2C) Sales Strategy
 
+`
 "You are a senior agri-retail strategist. I own a 5-acre farm in [District, State] producing tomatoes, spinach, and papaya. My buyers are middle-class families in [City] within a 15 km delivery range.
 Prepare a 12-month D2C sales plan covering:
 
@@ -608,9 +650,11 @@ Customer Retention: Loyalty rewards, festival hampers, and referral discounts.
 First Month Action Plan: Week-by-week tasks from social media launch to first delivery.
 
 Output in 3 parts: Overview, comparative channel table, and a 30-day launch checklist."
+`
 
-Prompt 3 — Packaging & Labelling Compliance Guide
+## Prompt 3 — Packaging & Labelling Compliance Guide
 
+`
 "You are an FSSAI (Food Safety and Standards Authority of India) compliance expert. Create a packaging & labelling guide for my farm’s organic produce (vegetables & herbal teas) sold in [City]. Include:
 
 
@@ -625,9 +669,11 @@ Shelf-life marking guidelines.
 Steps to get packaging design approved for export readiness.
 
 Output in 2 sections: Compliance checklist & visual design recommendations."
+`
 
-Prompt 4 — Social Media Content Calendar for Farm Sales
+## Prompt 4 — Social Media Content Calendar for Farm Sales
 
+`
 "You are an agri-social media strategist. Prepare a 90-day content calendar for Instagram, Facebook, and WhatsApp to promote farm produce from [District, State].
 Include:
 
@@ -643,6 +689,7 @@ Best posting times & relevant hashtags in English + local language.
 Engagement tactics to boost orders via comments & DMs.
 
 Output in calendar format with post type, caption idea, and CTA (Call to Action) for each day."
+`
 
 Prompt 5 — Customer Database & CRM Setup Plan
 
