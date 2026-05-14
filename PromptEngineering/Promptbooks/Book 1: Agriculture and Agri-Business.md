@@ -630,6 +630,7 @@
 5. Steps to register the brand name & logo under the Indian Trade Marks Act.
 
 Present the output in 3 sections: Name & visual ideas, brand story, and legal registration steps."
+
 `
 
 
