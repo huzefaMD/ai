@@ -199,83 +199,120 @@
 
 ## Prompt 8 — Government Scheme-Linked Procurement
 
+`
 "You are a government agriculture subsidy advisor. Prepare an input sourcing plan that maximises benefits from PM-Kisan (Pradhan Mantri Kisan Samman Nidhi), SMAM (Sub-Mission on Agricultural Mechanisation), and state fertiliser subsidy schemes. Align procurement timelines with application deadlines, documentation requirements, and reimbursement cycles."
+`
 
-Prompt 9 — Sustainable Irrigation Equipment Sourcing
+## Prompt 9 — Sustainable Irrigation Equipment Sourcing
 
+`
 "You are a water resource management consultant. Recommend drip and sprinkler irrigation systems for a 5-acre farm in [District] growing fruits and vegetables. Include supplier recommendations, cost breakdowns, installation timelines, and subsidies under PMKSY (Pradhan Mantri Krishi Sinchai Yojana). Suggest maintenance schedules to ensure long-term performance."
+`
 
-Prompt 10 — Off-Season Seed Storage Plan
+## Prompt 10 — Off-Season Seed Storage Plan
 
+`
 "You are a post-harvest and seed preservation specialist. Create a storage and viability plan for surplus seeds to be used in the next season. Include drying techniques, packaging materials, ideal temperature and humidity levels, and germination testing before planting. Suggest low-cost rural storage solutions that meet quality standards."
+`
 
-Prompt 11 — Cooperative-Based Input Procurement
+## Prompt 11 — Cooperative-Based Input Procurement
 
+`
 "You are a cooperative farming consultant. Prepare a collective input procurement plan for 15 farmers in [District] managing 40 acres together. Include strategies for joint purchase of seeds, fertilisers, and equipment to secure bulk discounts, shared storage facilities, and quality control protocols. Outline how to formalise the group as an FPO (Farmer Producer Organisation) to access government procurement schemes and low-interest credit lines."
+`
 
-Prompt 12 — Crop-Specific Input Requirement Chart
+## Prompt 12 — Crop-Specific Input Requirement Chart
 
+`
 "You are an agricultural planning expert. Create a season-wise input requirement chart for my 5-acre farm in [State] growing paddy in Kharif season and wheat in Rabi season. For each crop, list the type and quantity of fertilisers, pesticides, seeds, and equipment needed. Include supplier references, cost estimates, and procurement timelines to ensure all materials are available before planting."
+`
 
-Prompt 13 — Quality Verification for Inputs
+## Prompt 13 — Quality Verification for Inputs
 
+`
 "You are an agri-input quality control specialist. Prepare a quality verification checklist for seeds, fertilisers, and agrochemicals purchased for my 3-acre farm in [District]. Include methods for checking seed purity and germination, fertiliser nutrient content, and pesticide expiry dates. Suggest low-cost field testing kits and lab testing options available through Krishi Vigyan Kendras (KVKs)."
+`
 
-Prompt 14 — Online Marketplace Sourcing Strategy
+## Prompt 14 — Online Marketplace Sourcing Strategy
 
+`
 "You are an agri-tech marketplace consultant. Recommend a procurement strategy for buying farm inputs online through platforms like AgroStar, BigHaat, and KisanMandi. Include cost comparisons with local dealers, delivery timelines, and return/replacement policies. Suggest steps to verify seller authenticity and maintain digital purchase records for accounting and subsidy claims."
+`
 
-Prompt 15 — Multi-Crop Fertiliser Scheduling Plan
+## Prompt 15 — Multi-Crop Fertiliser Scheduling Plan
 
+`
 "You are a soil fertility management specialist. Prepare a multi-crop fertiliser application schedule for a 6-acre farm in [State] growing vegetables, pulses, and oilseeds in rotation. For each crop, specify nutrient requirements, recommended fertiliser brands, and application timing. Include both chemical and organic options, with cost estimates and expected yield benefits."
+`
 
-Prompt 16 — Agri-Input Cost Reduction Plan
+## Prompt 16 — Agri-Input Cost Reduction Plan
 
+`
 "You are a farm economics consultant. Design a cost optimisation strategy for annual purchase of seeds, fertilisers, and farm equipment for my 4-acre farm in [District]. Include methods like early-bird ordering, off-season discounts, second-hand equipment sourcing, and bulk buying through cooperatives. Provide an annual savings estimate in percentage terms."
+`
 
-Prompt 17 — Subsidy-Eligible Equipment Procurement Plan
+## Prompt 17 — Subsidy-Eligible Equipment Procurement Plan
 
+`
 "You are an agricultural mechanisation advisor. Recommend farm equipment procurement options for my 5-acre farm in [State] that are eligible for subsidies under SMAM (Sub-Mission on Agricultural Mechanisation). Include available equipment types, brands, subsidy percentages, and application processes. Provide a suggested procurement calendar to align with subsidy approval timelines."
+`
 
-Prompt 18 — Integrated Pest Management Input Plan
+## Prompt 18 — Integrated Pest Management Input Plan
 
+`
 "You are an integrated pest management (IPM) specialist. Prepare an IPM input procurement list for my 3-acre farm in [District] growing vegetables. Include bio-pesticides, pheromone traps, sticky traps, and natural pest repellents with supplier references. Specify quantities needed per season, shelf life, and safe storage practices to maintain efficacy."
+`
 
-Prompt 19 — High-Yield Hybrid Seed Procurement
+## Prompt 19 — High-Yield Hybrid Seed Procurement
 
+`
 "You are a seed technology expert. Recommend high-yield hybrid seed varieties for my 4-acre farm in [State] producing maize, sunflower, and chilli. Include seed suppliers certified by ICAR (Indian Council of Agricultural Research), expected yield per acre, disease resistance traits, and cost per kg. Suggest storage methods to maintain seed viability until planting."
+`
 
-Prompt 20 — Equipment Maintenance and Spare Parts Sourcing
+## Prompt 20 — Equipment Maintenance and Spare Parts Sourcing
 
+`
 "You are a farm machinery maintenance consultant. Create a spare parts sourcing plan for my tractor, seed drill, and water pump. Include a list of essential spare parts, authorised dealers within 50 km, seasonal maintenance schedules, and cost estimates. Recommend stocking levels for critical parts to avoid downtime during peak seasons."
+`
 
-Prompt 21 — Regional Input Price Monitoring System
+## Prompt 21 — Regional Input Price Monitoring System
 
+`
 "You are a market intelligence advisor. Design a monthly price monitoring plan for fertilisers, seeds, and agrochemicals in [District]. Include steps to track prices from local markets, online platforms, and cooperative stores. Provide a simple Excel or Google Sheets template for recording and comparing prices, highlighting cost-saving purchase periods."
+`
 
-Prompt 22 — Environmentally Friendly Input Sourcing
+## Prompt 22 — Environmentally Friendly Input Sourcing
 
+`
 "You are a sustainable farming consultant. Prepare an eco-friendly input sourcing strategy for my 3-acre farm in [State] focused on biodegradable packaging, renewable energy-powered equipment, and organic soil amendments. Include supplier contacts, cost implications, and potential eco-certifications to improve marketability of produce."
+`
 
-Prompt 23 — Seasonal Bulk Buying Calendar
+## Prompt 23 — Seasonal Bulk Buying Calendar
 
+`
 "You are a procurement scheduling specialist. Create a seasonal bulk input buying calendar for my 5-acre farm in [District]. For each quarter, list inputs like seeds, fertilisers, pesticides, and irrigation accessories, along with recommended purchase months for best prices and availability. Highlight seasonal discounts and government distribution windows."
+`
 
-Prompt 24 — Input Inventory Tracking System
+## Prompt 24 — Input Inventory Tracking System
 
+`
 "You are a farm management software consultant. Design an input inventory tracking system for seeds, fertilisers, and chemicals to prevent over-purchasing and wastage. Include manual logbook formats and free mobile app recommendations in Hindi and English. Suggest monthly stock audits and reorder level alerts."
+`
 
-Prompt 25 — Input Supplier Risk Diversification Plan
+## Prompt 25 — Input Supplier Risk Diversification Plan
 
+`
 "You are a risk management advisor for farm procurement. Prepare a supplier diversification strategy for my 4-acre farm in [State] to avoid dependency on a single vendor. Include a shortlist of at least 3 suppliers per input type, backup ordering processes, and criteria for switching suppliers during price spikes or stock shortages."
+`
+
+# Weather Forecasting & Pest Management
 
 
-Weather Forecasting & Pest Management
+## Prompt 1 — Seasonal Weather & Pest Risk Calendar
 
-Prompt 1 — Seasonal Weather & Pest Risk Calendar
-
+`
 "You are an agricultural climate and pest forecasting expert. Prepare a 12-month weather and pest risk calendar for my 5-acre farm in [District, State] growing paddy, maize, and vegetables. Include average monthly temperatures, rainfall, humidity levels, and likely pest/disease outbreaks for each month based on IMD (India Meteorological Department) data. Suggest preventive measures and treatments for each period, with both organic and chemical options. End with an advisory on extreme weather preparedness for my crops."
-
+`
 Prompt 2 — Real-Time Weather-Linked Pest Alerts
 
 "You are an agri-tech advisory system designer. Create a real-time pest alert system plan for my 3-acre farm in [State] using mobile weather updates and field sensors. Explain how to integrate IMD weather forecasts, pest life cycle models, and WhatsApp alerts in local language. Provide examples of messages to send before, during, and after high-risk weather events such as unseasonal rain or heat waves."
