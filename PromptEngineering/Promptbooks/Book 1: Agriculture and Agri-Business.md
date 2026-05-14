@@ -635,6 +635,7 @@ Present the output in 3 sections: Name & visual ideas, brand story, and legal re
 
 ## Prompt 2 — Direct-to-Consumer (D2C) Sales Strategy
 
+
 `
 "You are a senior agri-retail strategist. I own a 5-acre farm in [District, State] producing tomatoes, spinach, and papaya. My buyers are middle-class families in [City] within a 15 km delivery range.
 Prepare a 12-month D2C sales plan covering:
