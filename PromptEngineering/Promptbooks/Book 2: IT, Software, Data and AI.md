@@ -633,7 +633,7 @@ Output in technical debt report + phased action plan."
 Your task:
 `
 
-``````
+`````
 1. Import and inspect the dataset to understand structure, data types, and column meanings.
 
 2. Generate summary statistics for both numerical and categorical columns, highlighting anomalies.
@@ -645,7 +645,7 @@ Your task:
 5. Create a correlation heatmap for numerical features and explain the top 5 strongest relationships in simple business terms.
 
 6. Provide at least 3 actionable business insights and possible next analytical steps.
-``````
+`````
 
 `
 Output format: A Jupyter Notebook with fully commented code, inline plots, and a concluding Markdown section explaining insights in non-technical language."
