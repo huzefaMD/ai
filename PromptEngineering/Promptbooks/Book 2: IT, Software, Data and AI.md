@@ -72,11 +72,16 @@ Output in side-by-side original vs converted code format."
 
 ## Prompt 4 — Algorithm Efficiency Upgrade
 
+`
 "You are a competitive programming expert. My current [sorting/searching/matching/etc.] algorithm in [language] works but is slow on large datasets.
+`
+
+`
 Optimise it by:
+`
 
-
-Suggesting a faster algorithm (e.g., replacing bubble sort with merge sort).
+````
+-Suggesting a faster algorithm (e.g., replacing bubble sort with merge sort).
 
 Explaining time & space complexity differences.
 
