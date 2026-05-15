@@ -345,127 +345,182 @@ Output in rate limit handling guide + updated code."
 
 ## Prompt 15 — Deployment Bug Fix Checklist
 
+`
 "You are a deployment engineer. My application works locally but fails in production.
+`
+
+`
 Include:
+`
 
+`````
+1. Environment variable checks.
 
-Environment variable checks.
+2. Dependency version mismatches.
 
-Dependency version mismatches.
+3. Server configuration issues.
 
-Server configuration issues.
+4. Build process verification.
 
-Build process verification.
+5. Automated rollback setup.
+`````
 
-Automated rollback setup.
-
+`
 Output in deployment debugging checklist format."
+`
 
-Prompt 16 — Version Control Conflict Resolution
+## Prompt 16 — Version Control Conflict Resolution
 
+`
 "You are a Git (Version Control) expert. Resolve merge conflicts in my [repository name] while ensuring no functionality loss.
+`
+
+`
 Include:
+`
 
+````
+1. Step-by-step conflict resolution process.
 
-Step-by-step conflict resolution process.
+2. Commit best practices to avoid future issues.
 
-Commit best practices to avoid future issues.
+3. Branch management guidelines.
 
-Branch management guidelines.
+4. Git command examples for common scenarios.
+````
 
-Git command examples for common scenarios.
-
+`
 Output in merge resolution guide with Git commands."
+`
 
-Prompt 17 — Security Vulnerability Patch Plan
+## Prompt 17 — Security Vulnerability Patch Plan
 
+`
 "You are a cybersecurity code auditor. Review my [language/framework] code for vulnerabilities like SQL injection, XSS, and CSRF.
+`
+
+`
 Include:
+`
 
+````
+1. Vulnerability list with risk levels.
 
-Vulnerability list with risk levels.
+2. Code patches with secure alternatives.
 
-Code patches with secure alternatives.
+3. OWASP (Open Web Application Security Project) best practice checklist.
 
-OWASP (Open Web Application Security Project) best practice checklist.
+4. Security testing tools list.
+````
 
-Security testing tools list.
-
+`
 Output in vulnerability report + patched code samples."
+`
 
-Prompt 18 — Cloud Function Debugging Guide
+## Prompt 18 — Cloud Function Debugging Guide
 
+`
 "You are a cloud application developer. Debug my [AWS Lambda / Google Cloud Function / Azure Function] which is failing intermittently.
+`
+
+`
 Include:
+`
 
+`````
+1. Log analysis methods.
 
-Log analysis methods.
+2. Error pattern detection.
 
-Error pattern detection.
+3. Code changes for reliability.
 
-Code changes for reliability.
+4. Testing with local emulators.
 
-Testing with local emulators.
+5. Deployment steps after fix.
+`````
 
-Deployment steps after fix.
-
+`
 Output in debugging flowchart + corrected function code."
+`
 
-Prompt 19 — Mobile App Crash Analysis
+## Prompt 19 — Mobile App Crash Analysis
 
+`
 "You are a mobile app debugging expert. Analyse my [Android/iOS] app for crash reports related to [feature/function].
+`
+`
 Include:
+`
 
+`````
+1. Crash log interpretation.
 
-Crash log interpretation.
+2. Root cause identification.
 
-Root cause identification.
+3. Code corrections.
 
-Code corrections.
+4. Device-specific fixes.
 
-Device-specific fixes.
+5. Testing plan for all OS versions.
+`````
 
-Testing plan for all OS versions.
-
+`
 Output in crash report + updated code block."
+`
 
-Prompt 20 — Real-Time Error Monitoring Setup
+## Prompt 20 — Real-Time Error Monitoring Setup
 
+`
 "You are a site reliability engineer. Set up a real-time error tracking system for my [language/framework] app.
+`
+
+`
 Include:
+`
 
+`````
+1. Recommended monitoring tools (Sentry, New Relic, Datadog).
 
-Recommended monitoring tools (Sentry, New Relic, Datadog).
+2. Setup steps for integration.
 
-Setup steps for integration.
+3. Error categorisation for alerts.
 
-Error categorisation for alerts.
+4. Dashboard layout suggestions.
 
-Dashboard layout suggestions.
+5. Weekly reporting format.
+`````
 
-Weekly reporting format.
-
+`
 Output in tool setup guide + dashboard screenshot mockup."
+`
 
-Prompt 21 — Data Processing Script Debugging
+## Prompt 21 — Data Processing Script Debugging
 
+`
 "You are a data engineer. My Python ETL (Extract, Transform, Load) script fails at the transformation stage.
+`
+
+`
 Include:
+`
 
+`````
+1. Step-by-step debugging for data type mismatches.
 
-Step-by-step debugging for data type mismatches.
+2. Handling null values & schema changes.
 
-Handling null values & schema changes.
+3. Logging setup for error tracking.
 
-Logging setup for error tracking.
+4. Optimised data transformation logic.
 
-Optimised data transformation logic.
+5. Unit tests for validation.
+`````
 
-Unit tests for validation.
-
+`
 Output in debugging report + corrected script."
+`
 
-Prompt 22 — Infinite Loop Prevention in Code
+## Prompt 22 — Infinite Loop Prevention in Code
 
 "You are a software safety expert. Analyse my [language] code for infinite loop risks and fix them.
 Include:
