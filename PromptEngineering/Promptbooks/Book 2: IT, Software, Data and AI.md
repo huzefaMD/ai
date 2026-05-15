@@ -81,88 +81,118 @@ Optimise it by:
 `
 
 ````
--Suggesting a faster algorithm (e.g., replacing bubble sort with merge sort).
+1. Suggesting a faster algorithm (e.g., replacing bubble sort with merge sort).
 
-Explaining time & space complexity differences.
+2. Explaining time & space complexity differences.
 
-Providing optimised code.
+3. Providing optimised code.
 
-Writing performance benchmarks comparing both versions.
+4. Writing performance benchmarks comparing both versions.
+````
 
+`
 Output in comparative performance report format."
+`
 
-Prompt 5 — Debugging API Integration Issues
+## Prompt 5 — Debugging API Integration Issues
 
+`
 "You are an API integration specialist. My app in [language/framework] fails to fetch data from [API name] correctly.
 Diagnose the problem by:
+`
 
+`````
+1. Reviewing my API request code.
 
-Reviewing my API request code.
+2. Checking authentication & endpoint issues.
 
-Checking authentication & endpoint issues.
+3. Suggesting correct request format with example.
 
-Suggesting correct request format with example.
+4. Adding error handling for network failures.
 
-Adding error handling for network failures.
+5. Writing a test function to validate the fix.
+`````
 
-Writing a test function to validate the fix.
-
+`
 Output in debugging log + corrected code block."
+`
 
-Prompt 6 — Code Refactoring for Readability & Maintainability
+## Prompt 6 — Code Refactoring for Readability & Maintainability
 
+`
 "You are a senior code architect. Refactor my [language/framework] code for [feature/function] so it is:
+`
 
+`````
+1. Easier to read with proper indentation & naming conventions.
 
-Easier to read with proper indentation & naming conventions.
+2. Modularised into reusable functions or classes.
 
-Modularised into reusable functions or classes.
+3. Documented with meaningful comments.
 
-Documented with meaningful comments.
+4. Compliant with [specific coding standard, e.g., PEP8 for Python].
 
-Compliant with [specific coding standard, e.g., PEP8 for Python].
+5. Unit tested to ensure functionality remains unchanged.
+`````
 
-Unit tested to ensure functionality remains unchanged.
-
+`
 Output in before/after code comparison format with a change log."
+`
 
-Prompt 7 — Legacy Code Modernisation Plan
+## Prompt 7 — Legacy Code Modernisation Plan
 
+`
 "You are a legacy systems upgrade specialist. My [old programming language or framework] code needs to be upgraded to [modern equivalent] while preserving functionality.
+`
+
+`
 Include:
+`
 
+`````
+1. Identification of outdated functions/libraries.
 
-Identification of outdated functions/libraries.
+2. Recommended replacements & modern equivalents.
 
-Recommended replacements & modern equivalents.
+3. Compatibility concerns with the new environment.
 
-Compatibility concerns with the new environment.
+4. Performance benefits after modernisation.
 
-Performance benefits after modernisation.
+5. Step-by-step migration plan with testing checkpoints.
+`
 
-Step-by-step migration plan with testing checkpoints.
-
+`
 Output in legacy-to-modern migration report format."
+`
 
-Prompt 8 — Continuous Integration (CI) Debugging Setup
+## Prompt 8 — Continuous Integration (CI) Debugging Setup
 
+`
 "You are a DevOps engineer. Configure a CI pipeline for my [language/framework] project to automatically run code linting, unit tests, and integration tests whenever code is pushed.
+`
+
+`
 Include:
+`
 
+`````
+1. Recommended CI tool (GitHub Actions, Jenkins, GitLab CI).
 
-Recommended CI tool (GitHub Actions, Jenkins, GitLab CI).
+2. Pipeline configuration script.
 
-Pipeline configuration script.
+3. Test coverage reporting setup.
 
-Test coverage reporting setup.
+4. Common CI errors & how to fix them.
 
-Common CI errors & how to fix them.
+5. Notification integration (Slack/Email) for failed builds.
+`````
 
-Notification integration (Slack/Email) for failed builds.
-
+`
 Output in pipeline YAML file + setup guide."
+`
 
-Prompt 9 — Memory Leak Detection & Fix
+## Prompt 9 — Memory Leak Detection & Fix
+
 
 "You are a performance optimisation engineer. Analyse my [language/framework] application for memory leaks and:
 
