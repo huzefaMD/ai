@@ -1097,7 +1097,7 @@ Output in product catalogue + pricing table."
 "You are a local SEO (Search Engine Optimisation) consultant. Create a Google My Business optimisation plan for my farm shop. Include:
 `
 
-`````
+````
 1. Accurate listing setup.
 
 2. Photo & keyword strategy.
