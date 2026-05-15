@@ -1033,76 +1033,100 @@ Output in messaging guide + supplier list."
 
 ## Prompt 21 — Photography & Video Content Plan
 
+`
 "You are a food photography consultant. Create a content capture plan for my farm produce. Include:
+`
 
+````
+1. Photo ideas for product listings & social media.
 
-Photo ideas for product listings & social media.
+2. Lighting & background tips.
 
-Lighting & background tips.
+3. Video formats for Reels, YouTube Shorts, and product tutorials.
 
-Video formats for Reels, YouTube Shorts, and product tutorials.
+4. Editing tools recommendations.
+````
 
-Editing tools recommendations.
-
+`
 Output in shoot checklist + content calendar."
+`
 
-Prompt 22 — Local Media PR Campaign
+## Prompt 22 — Local Media PR Campaign
 
+`
 "You are a PR (Public Relations) strategist. Develop a press coverage plan for my farm in local newspapers & radio. Include:
+`
 
+````
+1. Story angles (e.g., sustainable farming success, women-led farms).
 
-Story angles (e.g., sustainable farming success, women-led farms).
+2. Press release template.
 
-Press release template.
+3. Contact list of local media.
 
-Contact list of local media.
+4. Event tie-ins for coverage (e.g., harvest festivals).
+````
 
-Event tie-ins for coverage (e.g., harvest festivals).
-
+`
 Output in press kit format."
+`
 
-Prompt 23 — Farm Brand Merchandise Strategy
+## Prompt 23 — Farm Brand Merchandise Strategy
 
+`
 "You are a merchandise marketing consultant. Design a branded merchandise plan for my farm (cloth bags, mugs, t-shirts). Include:
+`
 
+````
+1. Product ideas aligned with eco-friendly farming.
 
-Product ideas aligned with eco-friendly farming.
+2. Supplier recommendations in India.
 
-Supplier recommendations in India.
+3. Pricing & bundling strategy.
 
-Pricing & bundling strategy.
+4. Sales integration with farm produce orders.
+````
 
-Sales integration with farm produce orders.
-
+`
 Output in product catalogue + pricing table."
+`
 
-Prompt 24 — Google My Business Optimisation Plan
+## Prompt 24 — Google My Business Optimisation Plan
 
+`
 "You are a local SEO (Search Engine Optimisation) consultant. Create a Google My Business optimisation plan for my farm shop. Include:
+`
 
+`````
+1. Accurate listing setup.
 
-Accurate listing setup.
+2. Photo & keyword strategy.
 
-Photo & keyword strategy.
+3. Customer review generation plan.
 
-Customer review generation plan.
+4. Posting ideas to boost ranking.
+````
 
-Posting ideas to boost ranking.
-
+`
 Output in optimisation checklist + content post plan."
+`
 
-Prompt 25 — Multi-City Farm Sales Expansion Plan
+## Prompt 25 — Multi-City Farm Sales Expansion Plan
 
+`
 "You are a farm distribution strategist. Design a multi-city sales expansion plan for my farm produce to sell in [City 1], [City 2], and [City 3]. Include:
+`
 
+````
+1. Logistics arrangement & storage needs.
 
-Logistics arrangement & storage needs.
+2. Wholesale vs retail price strategies.
 
-Wholesale vs retail price strategies.
+3. City-specific marketing campaigns.
 
-City-specific marketing campaigns.
+4. Partnership ideas with local retailers.
+````
 
-Partnership ideas with local retailers.
-
+`
 Output in market entry plan + cost projection table."
-
+`
