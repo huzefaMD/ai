@@ -448,6 +448,7 @@ Output in debugging flowchart + corrected function code."
 `
 "You are a mobile app debugging expert. Analyse my [Android/iOS] app for crash reports related to [feature/function].
 `
+
 `
 Include:
 `
@@ -522,79 +523,113 @@ Output in debugging report + corrected script."
 
 ## Prompt 22 — Infinite Loop Prevention in Code
 
+`
 "You are a software safety expert. Analyse my [language] code for infinite loop risks and fix them.
+`
+
+`
 Include:
+`
 
+````
+1. Detection of loops without termination conditions.
 
-Detection of loops without termination conditions.
+2. Corrected loop conditions.
 
-Corrected loop conditions.
+3. Safeguards to prevent reoccurrence.
 
-Safeguards to prevent reoccurrence.
+4. Performance benchmarks after fix.
+````
 
-Performance benchmarks after fix.
-
+`
 Output in before/after code format."
+`
 
-Prompt 23 — Automated Code Documentation Generator
+## Prompt 23 — Automated Code Documentation Generator
 
+`
 "You are a documentation automation consultant. Set up an auto-documentation system for my [language/framework] project.
+`
+
+`
 Include:
+`
 
+````
+1. Recommended tools (e.g., JSDoc, Sphinx).
 
-Recommended tools (e.g., JSDoc, Sphinx).
+2. Integration into CI/CD pipeline.
 
-Integration into CI/CD pipeline.
+3. Style guide for consistent doc formatting.
 
-Style guide for consistent doc formatting.
+4. Sample generated documentation.
+````
 
-Sample generated documentation.
-
+`
 Output in documentation setup guide + example output."
+`
 
-Prompt 24 — Debugging Scheduler & Cron Job Failures
+## Prompt 24 — Debugging Scheduler & Cron Job Failures
 
+`
 "You are a backend engineer. My scheduled tasks in [language/framework] fail intermittently.
+`
+
+`
 Include:
+`
 
+`````
+1. Log analysis to find failure points.
 
-Log analysis to find failure points.
+2. Corrected cron expressions.
 
-Corrected cron expressions.
+3. Error handling logic.
 
-Error handling logic.
+4. Monitoring alerts setup.
 
-Monitoring alerts setup.
+5. Retry mechanism.
+`````
 
-Retry mechanism.
-
+`
 Output in debugging report + fixed scheduling script."
+`
 
-Prompt 25 — Codebase Technical Debt Reduction Plan
+## Prompt 25 — Codebase Technical Debt Reduction Plan
 
+`
 "You are a senior software architect. Analyse my [language/framework] codebase for technical debt and create a 3-month cleanup roadmap.
+`
+
+`
 Include:
+`
 
+`````
+1. List of outdated dependencies.
 
-List of outdated dependencies.
+2. Code smells & fixes.
 
-Code smells & fixes.
+3. Testing coverage improvement.
 
-Testing coverage improvement.
+4. Refactoring priorities.
 
-Refactoring priorities.
+5. Risk mitigation plan.
+`````
 
-Risk mitigation plan.
-
+`
 Output in technical debt report + phased action plan."
+`
 
+# Data Analysis & Visualization
 
-Data Analysis & Visualization
+## Prompt 1 — Full Exploratory Data Analysis (EDA) with Actionable Insights
 
-Prompt 1 — Full Exploratory Data Analysis (EDA) with Actionable Insights
-
+`
 "You are a Senior Data Analyst with expertise in Python (Pandas, NumPy, Matplotlib, Seaborn) and data storytelling. I have a dataset in CSV format containing sales data for an Indian retail chain (2018–2024) with 50,000 rows and 12 columns (date, location, category, units sold, price, discount, etc.).
+`
 
+```````
 Your task:
 
 
@@ -609,10 +644,13 @@ Your task:
 5. Create a correlation heatmap for numerical features and explain the top 5 strongest relationships in simple business terms.
 
 6. Provide at least 3 actionable business insights and possible next analytical steps.
+```````
 
+`
 Output format: A Jupyter Notebook with fully commented code, inline plots, and a concluding Markdown section explaining insights in non-technical language."
+`
 
-Prompt 2 — Interactive KPI Dashboard for Decision-Makers
+## Prompt 2 — Interactive KPI Dashboard for Decision-Makers
 
 "You are a Business Intelligence (BI) Dashboard Expert skilled in Power BI, Tableau, and Google Data Studio. I have quarterly sales data for multiple product categories in India for the last 5 years.
 
