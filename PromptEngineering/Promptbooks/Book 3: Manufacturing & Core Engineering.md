@@ -3244,4 +3244,213 @@ Health risk assessment data.
 
 Local health regulations."
 
+Prompt 21 — Safety Incentive & Rewards Program
+
+Backstory: You want to encourage employees to follow safety rules through incentives.
+
+Goal: Create a structured safety rewards program.
+
+Prompt:
+
+"You are a Safety Engagement Consultant. Design a safety incentive program for my workers.
+
+Your task:
+
+
+1. Define measurable safety behaviors.
+
+2. Create a points-based reward system.
+
+3. Suggest both monetary and non-monetary rewards.
+
+4. Include monthly recognition events.
+
+5. Align the program with safety KPIs.
+
+Output format: Rewards Program Guide (PDF) + Tracking Sheet (Excel).
+
+Input Files & Code Section:
+
+
+Employee list.
+
+Current safety KPIs.
+
+Available reward budget."
+
+Prompt 22 — Accident Claim Documentation Kit
+
+Backstory: After workplace accidents, proper documentation helps in insurance and legal claims.
+
+Goal: Prepare an accident claim documentation kit.
+
+Prompt:
+
+"You are a Workplace Accident Claims Advisor. Create a documentation kit for accident claims.
+
+Your task:
+
+
+1. Include accident report forms.
+
+2. Provide medical certification templates.
+
+3. Add photo and witness statement logs.
+
+4. Align with labor insurance claim requirements.
+
+5. Provide a checklist for claim submission.
+
+Output format: Claims Documentation Kit (Word/PDF) + Checklist (Excel).
+
+Input Files & Code Section:
+
+
+Local labor insurance policy details.
+
+Past claim examples.
+
+HR guidelines."
+
+Prompt 23 — Legal Compliance Calendar for Safety Regulations
+
+Backstory: Missing safety-related legal deadlines can result in penalties.
+
+Goal: Create a compliance calendar with all mandatory safety deadlines.
+
+Prompt:
+
+"You are a Safety Compliance Scheduler. Prepare a legal compliance calendar for my manufacturing unit.
+
+Your task:
+
+
+1. List all legal safety obligations (audits, inspections, certifications).
+
+2. Add due dates and renewal periods.
+
+3. Include responsible person/department for each task.
+
+4. Provide both yearly and monthly views.
+
+5. Make it Excel and Google Calendar compatible.
+
+Output format: Compliance Calendar (Excel) + Google Calendar Import File (.ics).
+
+Input Files & Code Section:
+
+
+Applicable laws and regulations.
+
+Current compliance records.
+
+Safety department contact list."
+
+Prompt 24 — AI-Powered Safety Violation Detection Guide
+
+Backstory: You want to use AI and cameras to detect safety violations in real-time.
+
+Goal: Create a guide for setting up AI-based safety monitoring.
+
+Prompt:
+
+"You are an AI Safety Tech Advisor. Prepare a guide for deploying AI-based safety violation detection.
+
+Your task:
+
+
+1. Define use cases (PPE detection, unsafe behavior).
+
+2. Suggest hardware and camera placement.
+
+3. Recommend AI software or APIs.
+
+4. Provide integration plan with existing systems.
+
+5. Include legal considerations for surveillance.
+
+Output format: AI Safety Detection Guide (PDF) + Equipment List (Excel).
+
+Input Files & Code Section:
+
+
+Factory layout.
+
+Current surveillance setup.
+
+IT infrastructure details."
+
+Prompt 25 — Multi-Language Safety Documentation Pack
+
+Backstory: Workers in your facility speak different languages, requiring multilingual safety documents.
+
+Goal: Create a multilingual safety documentation kit.
+
+Prompt:
+
+"You are a Safety Communication Specialist. Translate and adapt safety documents into multiple languages for my workforce.
+
+Your task:
+
+
+1. Translate into Hindi, English, and regional languages (as required).
+
+2. Ensure cultural appropriateness of visuals and examples.
+
+3. Provide both print and audio versions.
+
+4. Create QR codes linking to audio safety instructions.
+
+5. Maintain a master version for updates.
+
+Output format: Multilingual Safety Pack (PDF/MP3) + QR Code Directory (Excel).
+
+Input Files & Code Section:
+
+
+Existing safety manuals.
+
+List of required languages.
+
+Workforce demographics."
+
+
+# Supply Chain Coordination
+
+Prompt 1 — End-to-End Supply Chain Visibility Dashboard
+
+Backstory: Your manufacturing company faces delays due to a lack of real-time visibility into supply chain operations.
+
+Goal: Build a dashboard that tracks raw materials, production stages, shipping status, and delivery timelines in real-time.
+
+Prompt:
+
+"You are a Supply Chain Data Analyst. Create a blueprint for an end-to-end supply chain visibility dashboard.
+
+Your task:
+
+
+1. Integrate procurement, warehouse, and shipping data sources.
+
+2. Display KPIs like lead time, on-time delivery rate, and inventory turnover.
+
+3. Add alerts for potential bottlenecks and delays.
+
+4. Include both desktop and mobile-friendly versions.
+
+5. Suggest the tech stack (BI tools, APIs, databases) for implementation.
+
+Output format: Dashboard Wireframe (Figma/PNG) + Data Integration Plan (Excel).
+
+Input Files & Code Section:
+
+
+Sample order and shipment data.
+
+Current ERP/Inventory system details.
+
+Supplier contact list."
+
+
+
 
