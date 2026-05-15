@@ -159,7 +159,7 @@ Include:
 4. Performance benefits after modernisation.
 
 5. Step-by-step migration plan with testing checkpoints.
-`
+`````
 
 `
 Output in legacy-to-modern migration report format."
@@ -193,113 +193,157 @@ Output in pipeline YAML file + setup guide."
 
 ## Prompt 9 — Memory Leak Detection & Fix
 
-
+`
 "You are a performance optimisation engineer. Analyse my [language/framework] application for memory leaks and:
+`
 
+`````
+1. Identify possible causes from code structure.
 
-Identify possible causes from code structure.
+2. Suggest profiling tools (Valgrind, Perf, Chrome DevTools).
 
-Suggest profiling tools (Valgrind, Perf, Chrome DevTools).
+3. Provide a step-by-step method to reproduce memory growth.
 
-Provide a step-by-step method to reproduce memory growth.
+4. Fix the leak with corrected code examples.
 
-Fix the leak with corrected code examples.
+5. Suggest long-term prevention strategies.
+`````
 
-Suggest long-term prevention strategies.
-
+`
 Output in diagnostic report + corrected code samples."
+`
 
-Prompt 10 — Multi-Threading Bug Resolution
+## Prompt 10 — Multi-Threading Bug Resolution
 
+`
 "You are a concurrency programming specialist. My [language/framework] application faces race conditions and deadlocks.
+`
+
+`
 Include:
+`
 
+`````
+1. Detailed explanation of the issue.
 
-Detailed explanation of the issue.
+2. Steps to identify which thread is causing the block.
 
-Steps to identify which thread is causing the block.
+3. Corrected thread-safe code.
 
-Corrected thread-safe code.
+4. Recommended locking or async patterns.
 
-Recommended locking or async patterns.
+5. Performance benchmarks after fix.
+`````
 
-Performance benchmarks after fix.
-
+`
 Output in bug analysis + updated code format."
+`
 
-Prompt 11 — Automated Unit Test Generation
+## Prompt 11 — Automated Unit Test Generation
 
+`
 "You are a test automation engineer. Write automated unit test scripts for my [language/framework] code covering [feature/function].
+`
+
+`
 Include:
+`
 
+`````
+1. Test cases for normal, boundary, and error conditions.
 
-Test cases for normal, boundary, and error conditions.
+2. Assertions for expected output.
 
-Assertions for expected output.
+3. Mock data creation.
 
-Mock data creation.
+4. Code coverage percentage target (e.g., >80%).
 
-Code coverage percentage target (e.g., >80%).
+5. How to run tests in CI/CD pipeline.
+`````
 
-How to run tests in CI/CD pipeline.
-
+`
 Output in ready-to-run test script format."
+`
 
-Prompt 12 — SQL Query Debugging & Optimisation
+## Prompt 12 — SQL Query Debugging & Optimisation
 
+`
 "You are a database performance engineer. Optimise my slow SQL queries for [database type: MySQL, PostgreSQL, etc.].
+`
+
+`
 Include:
+`
 
+`````
+1. Query execution plan analysis.
 
-Query execution plan analysis.
+2. Indexing strategy.
 
-Indexing strategy.
+3. Query rewriting for speed.
 
-Query rewriting for speed.
+4. Caching recommendations.
 
-Caching recommendations.
+5. Before/after execution time comparison.
+`````
 
-Before/after execution time comparison.
-
+`
 Output in query optimisation report with revised SQL statements."
+`
 
-Prompt 13 — Cross-Browser Bug Fix Plan
+## Prompt 13 — Cross-Browser Bug Fix Plan
 
+`
 "You are a front-end debugging expert. My web app works on Chrome but fails in Firefox & Safari.
+`
+
+`
 Include:
+`
 
+`````
+1. List of browser compatibility issues.
 
-List of browser compatibility issues.
+2. Code fixes using cross-browser safe APIs.
 
-Code fixes using cross-browser safe APIs.
+3. CSS vendor prefixing guide.
 
-CSS vendor prefixing guide.
+4. Polyfill recommendations for unsupported features.
 
-Polyfill recommendations for unsupported features.
+5. Testing checklist for all major browsers.
+`````
 
-Testing checklist for all major browsers.
-
+`
 Output in browser compatibility report + fixed code snippets."
+`
 
-Prompt 14 — API Rate Limit Error Resolution
+## Prompt 14 — API Rate Limit Error Resolution
 
+`
 "You are an API performance consultant. My app hits rate limits when fetching data from [API name].
+`
+
+`
 Include:
+`
 
+`````
+1. How to detect rate limit headers.
 
-How to detect rate limit headers.
+2. Backoff strategies & caching techniques.
 
-Backoff strategies & caching techniques.
+3. Batch request examples.
 
-Batch request examples.
+4. Code modifications for retry logic.
 
-Code modifications for retry logic.
+5. Test scenarios to confirm the fix.
+`````
 
-Test scenarios to confirm the fix.
-
+`
 Output in rate limit handling guide + updated code."
+`
 
-Prompt 15 — Deployment Bug Fix Checklist
+## Prompt 15 — Deployment Bug Fix Checklist
 
 "You are a deployment engineer. My application works locally but fails in production.
 Include:
