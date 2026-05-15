@@ -2972,4 +2972,276 @@ Employee roster.
 
 Local hospital contact list."
 
+Prompt 13 — Safety Signage Design for Manufacturing Facility
+
+Backstory: You want consistent, standard-compliant safety signs across your plant.
+
+Goal: Design safety signage according to ISO 7010 standards.
+
+Prompt:
+
+"You are a Safety Signage Designer. Create standard-compliant safety signs for my factory.
+
+Your task:
+
+
+1. Identify signage needs (mandatory, prohibition, hazard, emergency).
+
+2. Use ISO 7010 color codes and symbols.
+
+3. Provide printable vector files.
+
+4. Include placement guide for each sign.
+
+5. Provide a digital library for reuse.
+
+Output format: Safety Signage Pack (SVG/PDF) + Placement Guide (Word).
+
+Input Files & Code Section:
+
+
+Plant layout.
+
+List of hazards.
+
+Brand color guidelines (if any)."
+
+Prompt 14 — Contractor Safety Compliance Agreement
+
+Backstory: Contractors working at your site must follow your safety rules.
+
+Goal: Develop a contractor safety agreement document.
+
+Prompt:
+
+"You are a Contractor Safety Compliance Manager. Draft a safety compliance agreement for contractors.
+
+Your task:
+
+
+1. Include safety obligations and PPE requirements.
+
+2. Specify training and orientation rules.
+
+3. Outline penalty clauses for violations.
+
+4. Include acknowledgment and signature sections.
+
+5. Make it bilingual (English + Hindi).
+
+Output format: Contractor Safety Agreement (Word/PDF) + Orientation Checklist (Excel).
+
+Input Files & Code Section:
+
+
+List of contractor roles.
+
+Current site safety policies.
+
+Legal requirements."
+
+Prompt 15 — Daily Safety Briefing Template
+
+Backstory: You want supervisors to conduct daily safety briefings to reinforce safety culture.
+
+Goal: Create a structured safety briefing format.
+
+Prompt:
+
+"You are a Safety Communication Specialist. Create a daily safety briefing template for my supervisors.
+
+Your task:
+
+
+1. Include a section for incident updates.
+
+2. Provide daily hazard reminders.
+
+3. Include a worker Q&A segment.
+
+4. Add motivational safety quotes.
+
+5. Make it printable and mobile-friendly.
+
+Output format: Safety Briefing Template (Word/PDF) + Mobile Version (HTML).
+
+Input Files & Code Section:
+
+
+Common hazards list.
+
+Past incident summaries.
+
+Company branding guidelines."
+
+Prompt 16 — Workplace Hazard Risk Assessment Report
+
+Backstory: Your factory must regularly identify, assess, and rank potential hazards to prevent incidents.
+
+Goal: Create a hazard risk assessment report aligned with ISO 31000.
+
+Prompt:
+
+"You are a Risk Assessment Specialist. Prepare a workplace hazard risk assessment report for my manufacturing facility.
+
+Your task:
+
+
+1. Identify physical, chemical, biological, and ergonomic hazards.
+
+2. Rank them using a probability–impact risk matrix.
+
+3. Suggest control measures following the hierarchy of controls.
+
+4. Include monitoring and review schedules.
+
+5. Provide an executive summary for management.
+
+Output format: Risk Assessment Report (PDF) + Risk Matrix Chart (PNG).
+
+Input Files & Code Section:
+
+
+Plant layout.
+
+List of machinery and processes.
+
+Past incident records."
+
+Prompt 17 — Safety Compliance Digital Dashboard Design
+
+Backstory: You want a centralized digital platform to monitor all safety compliance activities in real time.
+
+Goal: Design a safety compliance dashboard layout.
+
+Prompt:
+
+"You are a Safety Data Visualization Expert. Create a real-time safety compliance dashboard design.
+
+Your task:
+
+
+1. Include PPE compliance rate, incident trends, and inspection schedules.
+
+2. Add visual indicators for overdue safety tasks.
+
+3. Integrate data from Excel/ERP systems.
+
+4. Provide mobile-friendly mockups.
+
+5. Suggest KPIs for continuous improvement.
+
+Output format: Dashboard Mockup (Figma/PNG) + KPI List (Excel).
+
+Input Files & Code Section:
+
+
+Sample compliance data.
+
+Company branding guidelines.
+
+Safety performance KPIs."
+
+Prompt 18 — Annual Safety Training Program Plan
+
+Backstory: Your company must train employees on safety throughout the year, covering multiple topics.
+
+Goal: Develop a year-round safety training calendar.
+
+Prompt:
+
+"You are a Safety Training Coordinator. Create an annual safety training program plan for my factory.
+
+Your task:
+
+
+1. Define monthly training themes (fire safety, PPE, first aid, ergonomics, etc.).
+
+2. Include both theoretical and practical sessions.
+
+3. Suggest trainers and resources.
+
+4. Include evaluation and feedback forms.
+
+5. Provide both English and Hindi versions.
+
+Output format: Training Program Calendar (Excel/PDF) + Feedback Form (Word).
+
+Input Files & Code Section:
+
+
+List of training topics.
+
+Employee count and job roles.
+
+Available training budget."
+
+Prompt 19 — Factory Emergency Response Simulation Plan
+
+Backstory: You want to test your plant’s readiness for emergencies through realistic drills.
+
+Goal: Create a simulation plan for various emergency scenarios.
+
+Prompt:
+
+"You are an Emergency Drill Planner. Develop a plant-specific emergency response simulation plan.
+
+Your task:
+
+
+1. Include fire, chemical spill, and equipment failure scenarios.
+
+2. Define roles and responsibilities for each participant.
+
+3. Create timing and sequence flowcharts.
+
+4. Provide post-drill evaluation templates.
+
+5. Suggest improvement strategies based on drill results.
+
+Output format: Simulation Plan (PDF) + Drill Evaluation Sheet (Excel).
+
+Input Files & Code Section:
+
+
+Plant floor plan.
+
+Emergency contact list.
+
+List of past emergency incidents."
+
+Prompt 20 — Workplace Health Monitoring Program
+
+Backstory: Workers in certain areas are exposed to dust, noise, or chemicals, requiring regular health checks.
+
+Goal: Design a workplace health monitoring program.
+
+Prompt:
+
+"You are a Workplace Health Specialist. Create a health monitoring plan for my manufacturing unit.
+
+Your task:
+
+
+1. Identify health risks by department.
+
+2. Define medical tests required for each job role.
+
+3. Schedule periodic check-ups.
+
+4. Maintain confidential medical records.
+
+5. Include a wellness program for preventive care.
+
+Output format: Health Monitoring Plan (Word/PDF) + Medical Test Tracker (Excel).
+
+Input Files & Code Section:
+
+
+Job role descriptions.
+
+Health risk assessment data.
+
+Local health regulations."
+
 
