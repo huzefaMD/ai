@@ -1,6 +1,6 @@
-`Production Workflow Optimisation`
+# Production Workflow Optimisation
 
-`Prompt 1 — Reducing Production Line Bottlenecks`
+## Prompt 1 — Reducing Production Line Bottlenecks
 
 `Backstory: You are a production manager in an automotive manufacturing plant facing delays on your assembly line. Management wants faster throughput without compromising quality.`
 
@@ -25,12 +25,12 @@ Your task:
 5. Recommend a final plan with cost-benefit analysis.
 ``````
 
-Output format: PDF improvement report + Gantt chart simulation file.
+` Output format: PDF improvement report + Gantt chart simulation file. `
 
-Input Files & Code Section:
+`Input Files & Code Section:`
 
 
-Current workflow diagram (Visio/PDF).
+-Current workflow diagram (Visio/PDF).
 
 Production cycle time logs (Excel).
 
