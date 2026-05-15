@@ -679,11 +679,15 @@ Output format: Provide a step-by-step dashboard build guide (tool-agnostic), a m
 
 ## Prompt 3 — Predictive Sales Forecasting with Model Comparison
 
+`
 "You are a Data Scientist specialising in forecasting. I have monthly sales data for an e-commerce platform from January 2018 to December 2024.
+`
 
+`
 Your task:
+`
 
-
+`````
 1. Perform time-series decomposition to analyse trend, seasonality, and residual components.
 
 2. Build at least two forecasting models (ARIMA/SARIMA and Facebook Prophet).
@@ -693,10 +697,13 @@ Your task:
 4. Plot actual vs predicted sales for both models and highlight differences.
 
 5. Provide recommendations for which model to deploy, along with a 12-month sales forecast.
+`````
 
+`
 Output format: A Python Jupyter Notebook with all code, plots, and a Markdown cell comparing models with business-friendly explanations."
+`
 
-Prompt 4 — Automated Data Cleaning and Preprocessing Script
+## Prompt 4 — Automated Data Cleaning and Preprocessing Script
 
 "You are a Data Preprocessing Automation Specialist skilled in Python and Pandas. I have a CSV file containing a mix of numerical, categorical, and datetime fields, with missing values and inconsistent formats.
 
