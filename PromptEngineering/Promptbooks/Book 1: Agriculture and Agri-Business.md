@@ -1111,6 +1111,7 @@ Output in product catalogue + pricing table."
 Output in optimisation checklist + content post plan."
 `
 
+
 ## Prompt 25 — Multi-City Farm Sales Expansion Plan
 
 `
