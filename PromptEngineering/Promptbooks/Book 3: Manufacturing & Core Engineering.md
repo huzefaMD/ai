@@ -3995,5 +3995,277 @@ Public financial and compliance reports.
 
 Country risk index dataset."
 
+Prompt 18 — Vendor-Managed Inventory (VMI) Agreement Framework
+
+Backstory: Your suppliers often deliver late or in excess because they don’t have accurate visibility of your stock levels. This leads to either production halts or overstocking. Vendor-Managed Inventory allows suppliers to monitor and replenish stock themselves — but it requires a clear agreement.
+
+Goal: Create a legally compliant and operationally clear VMI framework.
+
+Prompt:
+
+"You are a VMI Implementation Consultant. Create a vendor-managed inventory (VMI) agreement framework for my business.
+
+Your task:
+
+
+1. Define VMI roles and responsibilities for both buyer and supplier.
+
+2. Outline data sharing requirements (inventory levels, sales trends).
+
+3. Set performance metrics (fill rate, stockout frequency).
+
+4. Include dispute resolution and penalty clauses.
+
+5. Provide templates for weekly replenishment schedules.
+
+Output format: VMI Agreement Template (Word) + Replenishment Tracker (Excel).
+
+Input Files & Code Section:
+
+
+Current supplier list.
+
+Inventory turnover reports.
+
+ERP integration capabilities."
+
+Prompt 19 — Supply Chain Crisis Communication Protocol
+
+Backstory: When a shipment delay or raw material shortage happens, your team scrambles to inform customers, suppliers, and internal departments. The lack of a structured communication protocol causes confusion and customer dissatisfaction.
+
+Goal: Develop a step-by-step crisis communication plan for supply chain disruptions.
+
+Prompt:
+
+"You are a Crisis Communication Strategist. Create a supply chain disruption communication protocol for my manufacturing business.
+
+Your task:
+
+
+1. Define who is responsible for communication at each stage of a crisis.
+
+2. Create templates for supplier updates, customer notifications, and internal alerts.
+
+3. Suggest channels for urgent communication (email, WhatsApp, SMS, ERP alerts).
+
+4. Include a timeline for escalation and resolution updates.
+
+5. Provide a feedback mechanism to improve future responses.
+
+Output format: Crisis Communication SOP (PDF) + Notification Templates (Word).
+
+Input Files & Code Section:
+
+
+List of key customers and suppliers.
+
+Sample past incident reports.
+
+Existing communication tools in use."
+
+Prompt 20 — AI Route Optimization for Deliveries
+
+Backstory: Your transport fleet wastes fuel and time due to inefficient routing, especially for multi-stop deliveries. Changing demand patterns make manual planning ineffective.
+
+Goal: Use AI to optimize delivery routes for cost, time, and sustainability.
+
+Prompt:
+
+"You are a Transport Optimization AI Engineer. Design an AI-powered route optimization solution for my delivery fleet.
+
+Your task:
+
+
+1. Analyze current delivery routes and travel times.
+
+2. Incorporate live traffic data, road restrictions, and delivery time windows.
+
+3. Optimize for minimal fuel consumption and maximum on-time deliveries.
+
+4. Suggest hardware/software requirements for implementation.
+
+5. Provide a KPI dashboard to monitor improvement.
+
+Output format: Route Optimization Plan (Word) + Sample AI Algorithm Code (Python).
+
+Input Files & Code Section:
+
+
+Current delivery routes (Excel/CSV).
+
+Fleet capacity details.
+
+Delivery location data."
+
+Prompt 21 — Supplier Diversity & Inclusion Policy
+
+Backstory: Your company wants to work with a broader range of suppliers, including women-owned, minority-owned, and small enterprises, to meet corporate social responsibility goals.
+
+Goal: Create a supplier diversity and inclusion policy.
+
+Prompt:
+
+"You are a CSR Supply Chain Consultant. Develop a supplier diversity and inclusion policy for my manufacturing supply chain.
+
+Your task:
+
+
+1. Define eligibility and certification requirements for diverse suppliers.
+
+2. Set annual diversity spend targets.
+
+3. Include outreach strategies to attract diverse suppliers.
+
+4. Create reporting templates for tracking progress.
+
+5. Align with global CSR frameworks (UN SDGs, ISO 26000).
+
+Output format: Supplier Diversity Policy (PDF) + Reporting Template (Excel).
+
+Input Files & Code Section:
+
+
+Current supplier demographic data.
+
+CSR annual report.
+
+Procurement guidelines."
+
+Prompt 22 — Collaborative Planning, Forecasting & Replenishment (CPFR) Framework
+
+Backstory: Your supply chain operates in silos, with suppliers, distributors, and your company forecasting independently, leading to mismatches.
+
+Goal: Build a CPFR framework to synchronize the entire supply network.
+
+Prompt:
+
+"You are a Supply Chain Collaboration Specialist. Create a CPFR framework for my manufacturing business.
+
+Your task:
+
+
+1. Define shared forecasting methods.
+
+2. Create a joint replenishment process with suppliers and distributors.
+
+3. Specify shared KPIs (forecast accuracy, service level).
+
+4. Suggest collaboration tools for real-time updates.
+
+5. Include governance rules for data sharing.
+
+Output format: CPFR Guide (Word) + Collaboration Workflow Diagram (PNG).
+
+Input Files & Code Section:
+
+
+Historical sales data.
+
+Supplier and distributor contact list.
+
+Current forecasting method details."
+
+Prompt 23 — Supply Chain Cybersecurity Audit Plan
+
+Backstory: Your ERP, supplier portals, and logistics software are all connected, but you haven’t audited their cybersecurity in years. This makes your supply chain vulnerable to ransomware or data theft.
+
+Goal: Create a cybersecurity audit plan for the supply chain.
+
+Prompt:
+
+"You are a Supply Chain Cybersecurity Auditor. Develop a cybersecurity audit plan for all digital systems used in procurement, inventory, and logistics.
+
+Your task:
+
+
+1. Identify all systems and third-party connections.
+
+2. Assess risks like phishing, ransomware, and unauthorized data access.
+
+3. Suggest encryption and access control policies.
+
+4. Include compliance with relevant data protection laws (GDPR, India DPDP Act).
+
+5. Provide a yearly audit schedule.
+
+Output format: Cybersecurity Audit Plan (PDF) + Risk Register (Excel).
+
+Input Files & Code Section:
+
+
+List of all supply chain software and integrations.
+
+IT security policy.
+
+Incident history."
+
+Prompt 24 — AI-Powered Supply Chain Simulation Tool Plan
+
+Backstory: You want to test “what-if” scenarios in your supply chain, like a 20% demand surge or a supplier shutdown, without disrupting operations.
+
+Goal: Create a plan for an AI simulation tool that models different supply chain scenarios.
+
+Prompt:
+
+"You are a Supply Chain Simulation Expert. Design a plan for an AI-based simulation tool.
+
+Your task:
+
+
+1. Define the key variables (lead times, capacity, demand, costs).
+
+2. Include scenario testing (supplier loss, demand spike, transportation delay).
+
+3. Suggest AI/ML algorithms for predictive analytics.
+
+4. Provide dashboard design for visualization.
+
+5. Include integration with ERP and BI systems.
+
+Output format: Simulation Tool Plan (Word) + Sample Dashboard Layout (PNG).
+
+Input Files & Code Section:
+
+
+Current supply chain data.
+
+Historical disruption records.
+
+ERP integration capabilities."
+
+Prompt 25 — Carbon Footprint Tracking in Supply Chain
+
+Backstory: Customers and regulators are pushing for sustainability reporting, and you want to measure the carbon footprint of every stage of your supply chain.
+
+Goal: Create a carbon tracking system for supply chain activities.
+
+Prompt:
+
+"You are a Sustainable Supply Chain Analyst. Create a carbon footprint tracking plan for my manufacturing supply chain.
+
+Your task:
+
+
+1. Map CO₂ emissions from raw material sourcing to final delivery.
+
+2. Include emissions from transport, packaging, and warehousing.
+
+3. Suggest emission calculation methods and tools.
+
+4. Provide a quarterly carbon reduction target plan.
+
+5. Align reporting with GHG Protocol standards.
+
+Output format: Carbon Tracking Plan (PDF) + CO₂ Emission Calculator (Excel).
+
+Input Files & Code Section:
+
+
+Transport and energy consumption data.
+
+Supplier sustainability reports.
+
+Product packaging details."
+
 
 
