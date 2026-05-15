@@ -632,11 +632,11 @@ Present the output in 3 sections: Name & visual ideas, brand story, and legal re
 
 ## Prompt 2 — Direct-to-Consumer (D2C) Sales Strategy
 
-`
+``````
 "You are a senior agri-retail strategist. I own a 5-acre farm in [District, State] producing tomatoes, spinach, and papaya. My buyers are middle-class families in [City] within a 15 km delivery range.
 Prepare a 12-month D2C sales plan covering:
 
--Sales Channels: Compare WhatsApp selling, ONDC, and farmers’ markets with pros, cons, and costs.
+Sales Channels: Compare WhatsApp selling, ONDC, and farmers’ markets with pros, cons, and costs.
 
 Pricing Model: Table showing farm-gate vs retail prices after packaging, delivery, and commissions.
 
@@ -646,11 +646,8 @@ Customer Retention: Loyalty rewards, festival hampers, and referral discounts.
 
 First Month Action Plan: Week-by-week tasks from social media launch to first delivery.
 
-
-
-`
 Output in 3 parts: Overview, comparative channel table, and a 30-day launch checklist."
-`
+``````
 
 ## Prompt 3 — Packaging & Labelling Compliance Guide
 
