@@ -30,7 +30,7 @@ Your task:
 `Input Files & Code Section:`
 
 
--Current workflow diagram (Visio/PDF).
+Current workflow diagram (Visio/PDF).
 
 Production cycle time logs (Excel).
 
