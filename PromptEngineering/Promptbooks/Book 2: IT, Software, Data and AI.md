@@ -629,7 +629,7 @@ Output in technical debt report + phased action plan."
 "You are a Senior Data Analyst with expertise in Python (Pandas, NumPy, Matplotlib, Seaborn) and data storytelling. I have a dataset in CSV format containing sales data for an Indian retail chain (2018–2024) with 50,000 rows and 12 columns (date, location, category, units sold, price, discount, etc.).
 `
 
-```````
+`````
 Your task:
 
 1. Import and inspect the dataset to understand structure, data types, and column meanings.
@@ -643,7 +643,7 @@ Your task:
 5. Create a correlation heatmap for numerical features and explain the top 5 strongest relationships in simple business terms.
 
 6. Provide at least 3 actionable business insights and possible next analytical steps.
-``````
+`````
 
 `
 Output format: A Jupyter Notebook with fully commented code, inline plots, and a concluding Markdown section explaining insights in non-technical language."
