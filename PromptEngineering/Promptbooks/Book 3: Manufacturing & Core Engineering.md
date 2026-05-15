@@ -3451,6 +3451,243 @@ Current ERP/Inventory system details.
 
 Supplier contact list."
 
+Prompt 2 — Supplier Performance Evaluation System
+
+Backstory: Your production suffers from inconsistent supplier quality and late deliveries.
+
+Goal: Create a supplier evaluation and ranking system to improve procurement decisions.
+
+Prompt:
+
+"You are a Supplier Relationship Manager. Develop a supplier performance evaluation model for my manufacturing unit.
+
+Your task:
+
+
+1. Define evaluation metrics (quality score, on-time delivery rate, cost competitiveness).
+
+2. Create a scoring formula to rank suppliers.
+
+3. Suggest methods for continuous supplier improvement.
+
+4. Include a quarterly performance report template.
+
+5. Align the process with ISO 9001 requirements.
+
+Output format: Supplier Evaluation Template (Excel) + Performance Report (PDF).
+
+Input Files & Code Section:
+
+
+Supplier list with past order data.
+
+Quality inspection reports.
+
+Procurement policy."
+
+Prompt 3 — Just-in-Time (JIT) Inventory Planning
+
+Backstory: Excess inventory is tying up capital, while shortages sometimes halt production.
+
+Goal: Implement a Just-in-Time (JIT) inventory strategy to balance efficiency and availability.
+
+Prompt:
+
+"You are an Inventory Optimization Expert. Create a JIT inventory plan for my manufacturing plant.
+
+Your task:
+
+
+1. Analyze historical demand and lead times.
+
+2. Define minimum stock levels and reorder points.
+
+3. Create supplier coordination guidelines for JIT deliveries.
+
+4. Suggest inventory tracking tools (IoT, RFID).
+
+5. Provide a contingency plan for supply disruptions.
+
+Output format: JIT Inventory Plan (Excel/PDF) + Supplier Coordination Guide (Word).
+
+Input Files & Code Section:
+
+
+Sales and production data.
+
+Supplier lead times.
+
+Current inventory levels."
+
+Prompt 4 — AI-Driven Demand Forecasting Model
+
+Backstory: Inaccurate demand forecasts are causing overproduction and stockouts.
+
+Goal: Develop an AI-based demand forecasting system using historical data and market trends.
+
+Prompt:
+
+"You are a Demand Planning Data Scientist. Create an AI-powered demand forecasting plan for my supply chain.
+
+Your task:
+
+
+1. Use machine learning to analyze sales, seasonality, and market trends.
+
+2. Include external data like economic indicators and competitor activity.
+
+3. Provide daily, weekly, and monthly forecast outputs.
+
+4. Include confidence intervals for predictions.
+
+5. Recommend a deployment strategy for ongoing updates.
+
+Output format: Forecast Model Documentation (Word) + Model Output Sample (Excel).
+
+Input Files & Code Section:
+
+
+Historical sales data.
+
+Market trend reports.
+
+Economic indicator data."
+
+Prompt 5 — Multi-Modal Transport Optimization Plan
+
+Backstory: Your company ships goods via multiple transportation modes but lacks an optimized routing strategy.
+
+Goal: Create a cost-efficient, time-optimized multi-modal transportation plan.
+
+Prompt:
+
+"You are a Transport Logistics Planner. Develop a multi-modal transport optimization strategy for my supply chain.
+
+Your task:
+
+
+1. Map existing transport routes (road, rail, air, sea).
+
+2. Optimize based on cost, delivery speed, and environmental impact.
+
+3. Suggest partnerships with logistics providers.
+
+4. Include seasonal and weather-based adjustments.
+
+5. Provide a risk management strategy for delays.
+
+Output format: Transport Optimization Report (PDF) + Route Map (PNG).
+
+Input Files & Code Section:
+
+
+Current transportation routes and costs.
+
+Delivery timelines.
+
+Seasonal demand patterns."
+
+Prompt 6 — Supplier Collaboration Portal Blueprint
+
+Backstory: You want a centralized online platform for real-time supplier collaboration to reduce communication delays.
+
+Goal: Design the layout and workflow for a supplier collaboration portal.
+
+Prompt:
+
+"You are a Supplier Collaboration Architect. Create a blueprint for a cloud-based supplier collaboration portal.
+
+Your task:
+
+
+1. Include modules for purchase orders, shipment tracking, and quality issue reporting.
+
+2. Enable document sharing (contracts, certifications).
+
+3. Add a supplier feedback and dispute resolution section.
+
+4. Provide mobile app integration.
+
+5. Suggest secure login and role-based access.
+
+Output format: Portal Wireframe (Figma/PNG) + Functional Specification Document (Word).
+
+Input Files & Code Section:
+
+
+List of supplier interactions.
+
+Existing procurement system details.
+
+Security compliance requirements."
+
+Prompt 7 — Inventory Reconciliation Automation Script
+
+Backstory: Manual inventory reconciliation is slow and error-prone.
+
+Goal: Create an automated process to reconcile physical and digital inventory records.
+
+Prompt:
+
+"You are an Inventory Automation Specialist. Develop a script or workflow to automate inventory reconciliation.
+
+Your task:
+
+
+1. Compare warehouse counts with ERP records.
+
+2. Highlight discrepancies and auto-generate correction tasks.
+
+3. Integrate barcode/RFID scanning data.
+
+4. Schedule automatic reconciliation runs.
+
+5. Provide audit logs for compliance.
+
+Output format: Automation Script (Python/Excel Macro) + Reconciliation Report Template (Excel).
+
+Input Files & Code Section:
+
+
+Sample ERP inventory data.
+
+Physical stock count file.
+
+Warehouse location mapping."
+
+Prompt 8 — Reverse Logistics Management Plan
+
+Backstory: Your company needs a structured process for handling returns, repairs, and recycling.
+
+Goal: Create an efficient reverse logistics process.
+
+Prompt:
+
+"You are a Reverse Logistics Planner. Develop a reverse logistics process for returned or defective goods.
+
+Your task:
+
+
+1. Classify returned items (repair, resale, recycle, disposal).
+
+2. Design return shipment procedures.
+
+3. Partner with recycling vendors.
+
+4. Track return rates and causes.
+
+5. Suggest ways to minimize returns in the first place.
+
+Output format: Reverse Logistics SOP (Word/PDF) + Vendor List (Excel).
+
+Input Files & Code Section:
+
+
+List of returnable products.
+
+Historical return data.
+
+Vendor capabilities."
 
 
 
