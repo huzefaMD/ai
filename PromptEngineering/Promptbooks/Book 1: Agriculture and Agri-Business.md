@@ -634,6 +634,7 @@ Present the output in 3 sections: Name & visual ideas, brand story, and legal re
 
 `
 "You are a senior agri-retail strategist. I own a 5-acre farm in [District, State] producing tomatoes, spinach, and papaya. My buyers are middle-class families in [City] within a 15 km delivery range.
+
 Prepare a 12-month D2C sales plan covering:
 `
 
@@ -660,15 +661,15 @@ Output in 3 parts: Overview, comparative channel table, and a 30-day launch chec
 `
 
 `````
--Mandatory FSSAI label details with examples.
+1. Mandatory FSSAI label details with examples.
 
--Eco-friendly, affordable packaging options available in India.
+2. Eco-friendly, affordable packaging options available in India.
 
--Design tips for standing out in markets & online stores.
+3. Design tips for standing out in markets & online stores.
 
--Shelf-life marking guidelines.
+4. Shelf-life marking guidelines.
 
--Steps to get packaging design approved for export readiness.
+5. Steps to get packaging design approved for export readiness.
 `````
 
 `
@@ -682,17 +683,17 @@ Output in 2 sections: Compliance checklist & visual design recommendations."
 Include:
 `
 
-`
-12 post ideas for harvest updates & seasonal recipes.
+`````
+1. 12 post ideas for harvest updates & seasonal recipes.
 
-8 video/Reel scripts for farmer stories and cooking demos.
+2. 8 video/Reel scripts for farmer stories and cooking demos.
 
-4 customer testimonial formats.
+3. 4 customer testimonial formats.
 
-Best posting times & relevant hashtags in English + local language.
+4. Best posting times & relevant hashtags in English + local language.
 
-Engagement tactics to boost orders via comments & DMs.
-
+5. Engagement tactics to boost orders via comments & DMs.
+`````
 
 `
 Output in calendar format with post type, caption idea, and CTA (Call to Action) for each day."
@@ -704,21 +705,15 @@ Output in calendar format with post type, caption idea, and CTA (Call to Action)
 "You are a CRM (Customer Relationship Management) consultant. I have 200 customers buying directly from my farm in [City]. Suggest a low-cost CRM system in Hindi & English that works on smartphones. Include:
 `
 
-`
-Recommended software/tools under ₹500 per month.
-`
+`````
+1. Recommended software/tools under ₹500 per month.
 
-`
-Database fields to track purchase history & preferences.
-`
+2. Database fields to track purchase history & preferences.
 
-`
-Seasonal offer & birthday greeting automation plan.
-`
+3. Seasonal offer & birthday greeting automation plan.
 
-`
-WhatsApp/SMS integration steps.
-`
+4. WhatsApp/SMS integration steps.
+`````
 
 `
 Output in 2 parts: CRM setup guide & seasonal customer engagement flowchart."
@@ -730,25 +725,17 @@ Output in 2 parts: CRM setup guide & seasonal customer engagement flowchart."
 "You are a retail sales coach specialising in farmer’s markets in India. I sell organic vegetables and seasonal fruits from my 5-acre farm in [District, State] at weekly markets in [City]. Create a sales pitch toolkit that includes:
 `
 
-`
-A 1-minute elevator pitch introducing my farm and produce.
-`
+`````
+1. A 1-minute elevator pitch introducing my farm and produce.
 
-`
-5 customer objection responses (e.g., price too high, quality doubts).
-`
+2. 5 customer objection responses (e.g., price too high, quality doubts).
 
-`
-Trust-building techniques (e.g., showing harvest photos, offering tastings).
-`
+3. Trust-building techniques (e.g., showing harvest photos, offering tastings).
 
-`
-Signage & stall display design ideas to increase walk-ins.
-`
+4. Signage & stall display design ideas to increase walk-ins.
 
-`
-A closing script to secure repeat buyers.
-`
+5. A closing script to secure repeat buyers.
+`````
 
 `
 Output in 3 parts: Elevator pitch, objection handling table, and stall setup checklist."
@@ -759,25 +746,17 @@ Output in 3 parts: Elevator pitch, objection handling table, and stall setup che
 "You are a rural e-commerce consultant. Help me create an online sales platform for my farm produce in [City] with a budget under ₹10,000. Include:
 `
 
-`
-Domain name ideas & registration process.
-`
+`````
+1. Domain name ideas & registration process.
 
-`
-Recommended platforms (e.g., Shopify, Wix) with cost breakdown.
-`
+2. Recommended platforms (e.g., Shopify, Wix) with cost breakdown.
 
-`
-Page structure: Home, Products, About Us, Testimonials, Contact.
-`
+3. Page structure: Home, Products, About Us, Testimonials, Contact.
 
-`
-Payment integration via UPI (Unified Payments Interface) & cards.
-`
+4. Payment integration via UPI (Unified Payments Interface) & cards.
 
-`
-Mobile optimisation tips for rural customers.
-`
+5. Mobile optimisation tips for rural customers.
+`````
 
 `
 Provide the plan in step-by-step format with timelines for completion in 30 days."
@@ -789,25 +768,17 @@ Provide the plan in step-by-step format with timelines for completion in 30 days
 "You are a subscription model strategist. I want to launch a weekly vegetable & fruit box service in [City]. Design the plan covering:
 `
 
-`
-Product mix for 3 box sizes (small, medium, large).
-`
+`````
+1. Product mix for 3 box sizes (small, medium, large).
 
-`
-Pricing tiers & payment frequency (weekly/monthly).
-`
+2. Pricing tiers & payment frequency (weekly/monthly).
 
-`
-Delivery frequency & route planning for cost savings.
-`
+3. Delivery frequency & route planning for cost savings.
 
-`
-Loyalty rewards (e.g., free seasonal item every 5th box).
-`
+4. Loyalty rewards (e.g., free seasonal item every 5th box).
 
-`
-Marketing ideas for launching via social media & housing societies.
-`
+5. Marketing ideas for launching via social media & housing societies.
+`````
 
 `
 Output in 2 sections: Subscription plan table & launch marketing roadmap."
@@ -819,25 +790,17 @@ Output in 2 sections: Subscription plan table & launch marketing roadmap."
 "You are a digital agriculture marketing expert. I want to run a WhatsApp sales campaign for my farm-to-home delivery service in [City]. Create a plan that includes:
 `
 
-`
-Message templates for product lists, offers, and order confirmation.
-`
+`````
+1. Message templates for product lists, offers, and order confirmation.
 
-`
-Product image guidelines (lighting, background, captions).
-`
+2. Product image guidelines (lighting, background, captions).
 
-`
-Steps to create a WhatsApp Broadcast list without spamming.
-`
+3. Steps to create a WhatsApp Broadcast list without spamming.
 
-`
-A 14-day festive season campaign calendar.
-`
+4. A 14-day festive season campaign calendar.
 
-`
-Metrics to track success (CTR, conversion rate).
-`
+5. Metrics to track success (CTR, conversion rate).
+`````
 
 `
 Output in message template format + campaign calendar."
@@ -849,17 +812,13 @@ Output in message template format + campaign calendar."
 "You are a brand storytelling coach. Write my farm’s origin story in 3 formats:
 `
 
-`
-A 150-word emotional story for packaging & brochures.
-`
+```
+1. A 150-word emotional story for packaging & brochures.
 
-`
-A 60-second Instagram Reel script.
-`
+2. A 60-second Instagram Reel script.
 
-`
-A 2-minute speech for farmer’s markets and events.
-`
+3. A 2-minute speech for farmer’s markets and events.
+```
 
 `
 The story must highlight my background, commitment to sustainability, and farm-to-table freshness. Include local cultural elements to connect with [City] customers."
