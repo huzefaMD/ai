@@ -653,11 +653,15 @@ Output format: A Jupyter Notebook with fully commented code, inline plots, and a
 
 ## Prompt 2 — Interactive KPI Dashboard for Decision-Makers
 
+`
 "You are a Business Intelligence (BI) Dashboard Expert skilled in Power BI, Tableau, and Google Data Studio. I have quarterly sales data for multiple product categories in India for the last 5 years.
+`
 
+`
 Your task:
+`
 
-
+`````
 1. Identify 5–7 key performance indicators (KPIs) relevant to retail business health (e.g., total revenue, gross margin, average order value, conversion rate).
 
 2. Design an interactive dashboard layout showing KPIs as cards at the top, trend charts in the middle, and filters (by time, category, location) on the side.
@@ -667,10 +671,13 @@ Your task:
 4. Add a geographic heatmap showing sales distribution across states, with hover tooltips.
 
 5. Include an export-to-PDF function for monthly reporting.
+`````
 
+`
 Output format: Provide a step-by-step dashboard build guide (tool-agnostic), a mockup diagram of the dashboard, and sample formulas for KPI calculations."
+`
 
-Prompt 3 — Predictive Sales Forecasting with Model Comparison
+## Prompt 3 — Predictive Sales Forecasting with Model Comparison
 
 "You are a Data Scientist specialising in forecasting. I have monthly sales data for an e-commerce platform from January 2018 to December 2024.
 
