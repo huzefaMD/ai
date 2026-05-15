@@ -1,11 +1,13 @@
-Coding & Debugging
+# Coding & Debugging
 
-Prompt 1 — Code Review & Optimisation Plan
+## Prompt 1 — Code Review & Optimisation Plan
 
+`
 "You are a senior software engineer with expertise in [programming language/framework]. I have a codebase for a [type of application — e.g., e-commerce site, chatbot, mobile app] that works but runs slowly.
 Review the code for:
+`
 
-
+`````
 1. Inefficient loops or redundant logic.
 
 2. Poor memory management.
@@ -15,45 +17,60 @@ Review the code for:
 4. Security vulnerabilities (SQL injection, XSS).
 
 5. Best practices for scalability.
+`````
 
+`
 Provide output in 2 sections: a table of issues (with line numbers & problem description) and an optimised code snippet for each fix."
+`
 
-Prompt 2 — Bug Reproduction & Fix Documentation
+## Prompt 2 — Bug Reproduction & Fix Documentation
 
+`
 "You are a QA (Quality Assurance) automation tester and developer. I have a bug where [describe bug behaviour] in my [framework/app type].
+`
+
+`
 Create a debugging report that includes:
+`
 
+`````
+1. Exact steps to reproduce the bug.
 
--Exact steps to reproduce the bug.
+2. Screenshots or logs showing the issue.
 
--Screenshots or logs showing the issue.
+3. The suspected root cause in the code.
 
--The suspected root cause in the code.
+4. The corrected code segment.
 
-The corrected code segment.
-
-Unit test cases to ensure the bug doesn’t reappear.
-
+5. Unit test cases to ensure the bug doesn’t reappear.
+`````
+`
 Output in debugging report format with code blocks."
+`
 
-Prompt 3 — Multi-Language Code Conversion
+## Prompt 3 — Multi-Language Code Conversion
 
+`
 "You are a cross-platform developer. Convert my [programming language] code for [feature/function] into [target language], ensuring:
+`
 
+`````
+1. Exact feature parity.
 
-Exact feature parity.
+2. Proper syntax & library usage in the target language.
 
-Proper syntax & library usage in the target language.
+3. Equivalent performance or better.
 
-Equivalent performance or better.
+4. Inline comments explaining logic.
 
-Inline comments explaining logic.
+5. A quick performance test script in the target language.
+`````
 
-A quick performance test script in the target language.
-
+`
 Output in side-by-side original vs converted code format."
+`
 
-Prompt 4 — Algorithm Efficiency Upgrade
+## Prompt 4 — Algorithm Efficiency Upgrade
 
 "You are a competitive programming expert. My current [sorting/searching/matching/etc.] algorithm in [language] works but is slow on large datasets.
 Optimise it by:
