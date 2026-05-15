@@ -3689,5 +3689,311 @@ Historical return data.
 
 Vendor capabilities."
 
+Prompt 9 — Emergency Supply Chain Contingency Plan
+
+Backstory: A sudden raw material shortage can halt your operations.
+
+Goal: Create a contingency plan for supply chain disruptions.
+
+Prompt:
+
+"You are a Supply Chain Risk Manager. Create a contingency plan for raw material shortages.
+
+Your task:
+
+
+1. Identify critical materials and alternate suppliers.
+
+2. Develop emergency procurement procedures.
+
+3. Include safety stock guidelines.
+
+4. Provide a communication plan for stakeholders.
+
+5. Add a rapid decision-making escalation chart.
+
+Output format: Contingency Plan Document (Word/PDF) + Alternate Supplier Directory (Excel).
+
+Input Files & Code Section:
+
+
+List of critical materials.
+
+Supplier database.
+
+Risk assessment data."
+
+Prompt 10 — Procurement Cost Optimization Strategy
+
+Backstory: Procurement costs are eating into profit margins.
+
+Goal: Identify cost-saving opportunities in procurement.
+
+Prompt:
+
+"You are a Procurement Strategy Consultant. Create a cost optimization strategy for my manufacturing supply chain.
+
+Your task:
+
+
+1. Analyze historical purchasing data.
+
+2. Identify high-cost materials and suppliers.
+
+3. Suggest bulk purchase and long-term contract savings.
+
+4. Explore group buying with other companies.
+
+5. Include vendor negotiation tactics.
+
+Output format: Cost Optimization Report (PDF) + Supplier Negotiation Checklist (Word).
+
+Input Files & Code Section:
+
+
+Purchase history.
+
+Supplier pricing lists.
+
+Demand forecasts."
+
+Prompt 11 — Blockchain-Based Supply Chain Transparency Plan
+
+Backstory: Customers want proof of ethical sourcing and authenticity.
+
+Goal: Create a blockchain integration plan for supply chain transparency.
+
+Prompt:
+
+"You are a Blockchain Supply Chain Expert. Design a blockchain system for transparent supply tracking.
+
+Your task:
+
+
+1. Define data points to be recorded at each stage.
+
+2. Suggest blockchain platforms (Hyperledger, Ethereum, etc.).
+
+3. Ensure traceability from raw material to finished product.
+
+4. Include consumer-facing verification options (QR codes).
+
+5. Provide a cost-benefit analysis.
+
+Output format: Blockchain Integration Plan (PDF) + Data Flow Diagram (PNG).
+
+Input Files & Code Section:
+
+
+Supply chain process map.
+
+Product certification requirements.
+
+IT infrastructure details."
+
+Prompt 12 — Supplier Onboarding Kit
+
+Backstory: New suppliers often take weeks to align with your standards.
+
+Goal: Create a standardized onboarding kit for suppliers.
+
+Prompt:
+
+"You are a Supplier Enablement Specialist. Prepare an onboarding kit to train suppliers quickly.
+
+Your task:
+
+
+1. Include company policies and quality requirements.
+
+2. Provide EDI/API integration guidelines.
+
+3. Add product packaging and labeling instructions.
+
+4. Include contact directory for support.
+
+5. Make it downloadable and printable.
+
+Output format: Supplier Onboarding Pack (PDF) + API Integration Guide (Word).
+
+Input Files & Code Section:
+
+
+Company policies.
+
+API documentation.
+
+Quality standards manual."
+
+Prompt 13 — Seasonal Demand Supply Alignment Plan
+
+Backstory: Demand fluctuations cause overstock in off-season and shortages in peak season.
+
+Goal: Align production and supply with seasonal demand.
+
+Prompt:
+
+"You are a Seasonal Supply Chain Planner. Create a seasonal alignment plan for production and distribution.
+
+Your task:
+
+
+1. Forecast seasonal demand for each product.
+
+2. Adjust procurement and production schedules accordingly.
+
+3. Plan warehouse space utilization.
+
+4. Arrange temporary logistics contracts.
+
+5. Include post-season stock clearance strategies.
+
+Output format: Seasonal Supply Plan (Excel) + Post-Season Strategy Report (PDF).
+
+Input Files & Code Section:
+
+
+Seasonal sales data.
+
+Warehouse capacity details.
+
+Supplier lead times."
+
+Prompt 14 — Automated Purchase Order (PO) System Blueprint
+
+Backstory: Manual purchase orders slow down procurement.
+
+Goal: Automate the PO process from request to approval.
+
+Prompt:
+
+"You are a Procurement Process Automation Expert. Create a blueprint for an automated purchase order system.
+
+Your task:
+
+
+1. Define workflow from requisition to payment.
+
+2. Add approval hierarchy.
+
+3. Integrate with ERP and supplier systems.
+
+4. Include fraud detection mechanisms.
+
+5. Make it mobile-accessible.
+
+Output format: PO Automation Workflow Diagram (PNG) + System Requirement Document (Word).
+
+Input Files & Code Section:
+
+
+Current PO forms.
+
+ERP system details.
+
+Approval matrix."
+
+Prompt 15 — Green Supply Chain Strategy
+
+Backstory: Your company wants to reduce carbon footprint in the supply chain.
+
+Goal: Develop an environmentally sustainable supply chain plan.
+
+Prompt:
+
+"You are a Sustainable Logistics Consultant. Create a green supply chain strategy for my manufacturing operations.
+
+Your task:
+
+
+1. Optimize routes for fuel efficiency.
+
+2. Switch to eco-friendly packaging.
+
+3. Partner with green-certified suppliers.
+
+4. Track carbon emissions.
+
+5. Provide annual sustainability reports.
+
+Output format: Green Supply Chain Plan (Word) + Carbon Tracking Sheet (Excel).
+
+Input Files & Code Section:
+
+
+Supplier environmental certifications.
+
+Transportation data.
+
+Packaging material specs."
+
+Prompt 16 — Cross-Border Trade Compliance Manual
+
+Backstory: Your company is expanding to international markets, but customs clearance delays are costing time and money. Many suppliers and internal teams are unfamiliar with export-import documentation, tariffs, and compliance procedures for different countries. Without a clear manual, mistakes in paperwork or classification codes can lead to shipments being held at ports for weeks.
+
+Goal: Develop a detailed cross-border trade compliance manual tailored to your industry.
+
+Prompt:
+
+"You are an International Trade Compliance Specialist. Create a comprehensive manual for managing cross-border trade for my manufacturing business.
+
+Your task:
+
+
+1. Outline required export-import documentation (invoice, packing list, bill of lading, certificate of origin, etc.).
+
+2. Include HS code classification rules for my product category.
+
+3. Explain duties, tariffs, and free trade agreements that apply to my target markets.
+
+4. Provide a checklist for customs clearance in India and top export countries.
+
+5. Suggest internal SOPs to ensure compliance across procurement, production, and logistics.
+
+Output format: Cross-Border Trade Manual (PDF) + Country-wise Customs Checklist (Excel).
+
+Input Files & Code Section:
+
+
+Product descriptions and specs.
+
+List of countries we ship to.
+
+Past customs clearance issues."
+
+Prompt 17 — AI-Based Supplier Risk Scoring Model
+
+Backstory: Some suppliers are financially unstable or have inconsistent quality, which poses a risk to production continuity. Your current supplier selection process doesn’t factor in long-term risk indicators like financial health, geopolitical stability, or compliance history.
+
+Goal: Build an AI-driven scoring model to proactively identify high-risk suppliers.
+
+Prompt:
+
+"You are a Supply Chain Risk Data Scientist. Develop an AI model to score suppliers based on risk factors.
+
+Your task:
+
+
+1. Identify key risk indicators (financial stability, delivery performance, compliance record, geopolitical location risk).
+
+2. Assign weightages to each risk factor.
+
+3. Train a scoring algorithm using historical supplier performance data.
+
+4. Generate an automated risk score for each supplier.
+
+5. Provide recommendations for mitigating high-risk partnerships.
+
+Output format: Risk Scoring Model Documentation (Word) + Supplier Risk Dashboard (Excel/Tableau).
+
+Input Files & Code Section:
+
+
+Historical supplier data.
+
+Public financial and compliance reports.
+
+Country risk index dataset."
+
 
 
