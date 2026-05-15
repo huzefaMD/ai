@@ -637,16 +637,17 @@ Present the output in 3 sections: Name & visual ideas, brand story, and legal re
 Prepare a 12-month D2C sales plan covering:
 `
 
+`````
+1. Sales Channels: Compare WhatsApp selling, ONDC, and farmers’ markets with pros, cons, and costs.
 
--Sales Channels: Compare WhatsApp selling, ONDC, and farmers’ markets with pros, cons, and costs.
+2. Pricing Model: Table showing farm-gate vs retail prices after packaging, delivery, and commissions.
 
--Pricing Model: Table showing farm-gate vs retail prices after packaging, delivery, and commissions.
+3. Delivery Logistics: Optimal frequency, cost reduction tips, and time slots for freshness.
 
--Delivery Logistics: Optimal frequency, cost reduction tips, and time slots for freshness.
+4. Customer Retention: Loyalty rewards, festival hampers, and referral discounts.
 
--Customer Retention: Loyalty rewards, festival hampers, and referral discounts.
-
--First Month Action Plan: Week-by-week tasks from social media launch to first delivery.
+5. First Month Action Plan: Week-by-week tasks from social media launch to first delivery.
+`````
 
 `
 Output in 3 parts: Overview, comparative channel table, and a 30-day launch checklist."
