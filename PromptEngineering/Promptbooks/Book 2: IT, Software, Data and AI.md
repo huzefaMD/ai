@@ -632,7 +632,6 @@ Output in technical debt report + phased action plan."
 ```````
 Your task:
 
-
 1. Import and inspect the dataset to understand structure, data types, and column meanings.
 
 2. Generate summary statistics for both numerical and categorical columns, highlighting anomalies.
