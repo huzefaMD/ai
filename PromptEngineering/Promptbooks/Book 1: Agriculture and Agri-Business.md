@@ -953,65 +953,85 @@ Output in marketing strategy document + sample customer education post."
 
 ## Prompt 17 — Digital Payment & Billing System Setup
 
+`
 "You are a rural retail tech consultant. Recommend a digital billing & payment solution for my farm shop and delivery service. Include:
+`
 
+````
+1. POS (Point of Sale) machine options under ₹5,000.
 
-POS (Point of Sale) machine options under ₹5,000.
+2. UPI integration steps.
 
-UPI integration steps.
+3. Receipt printing setup.
 
-Receipt printing setup.
+4. Weekly sales report format.
+````
 
-Weekly sales report format.
-
+`
 Output in setup checklist + training manual for farm workers."
+`
 
-Prompt 18 — Seasonal Festival Sales Strategy
+## Prompt 18 — Seasonal Festival Sales Strategy
 
+`
 "You are a seasonal sales strategist. Create a festival product plan for Diwali, Holi, and Raksha Bandhan, offering gift hampers with my farm’s produce & value-added products. Include:
+`
 
+````
+1. Product mix for each festival.
 
-Product mix for each festival.
+2. Packaging ideas using eco-friendly materials.
 
-Packaging ideas using eco-friendly materials.
+3. Pricing strategy.
 
-Pricing strategy.
+4. Marketing timeline starting 4 weeks before each festival.
+````
 
-Marketing timeline starting 4 weeks before each festival.
-
+`
 Output in festival sales calendar + product packaging mockups."
+`
 
-Prompt 19 — Email Newsletter Campaign for Farm Sales
+## Prompt 19 — Email Newsletter Campaign for Farm Sales
 
+`
 "You are a digital communications expert. Create a monthly email newsletter plan for my farm customers. Include:
+`
 
+````
+1. Content themes (recipes, farm updates, special offers).
 
-Content themes (recipes, farm updates, special offers).
+2. Subject line ideas.
 
-Subject line ideas.
+3. Template that works on mobile.
 
-Template that works on mobile.
+4. Ways to grow the email list through farm visits & social media.
+````
 
-Ways to grow the email list through farm visits & social media.
-
+`
 Output in newsletter content map + sample email design."
+`
 
-Prompt 20 — Eco-Friendly Packaging Marketing Plan
+## Prompt 20 — Eco-Friendly Packaging Marketing Plan
 
+`
 "You are a sustainable branding expert. Create a marketing plan that uses eco-friendly packaging as a selling point for my farm. Include:
+`
 
+````
+1. Supplier suggestions for biodegradable packaging in India.
 
-Supplier suggestions for biodegradable packaging in India.
+2. Messaging ideas for social media & packaging labels.
 
-Messaging ideas for social media & packaging labels.
+3. Cost-benefit analysis of eco-friendly packaging.
 
-Cost-benefit analysis of eco-friendly packaging.
+4. Customer engagement ideas (e.g., return & reuse incentives).
+````
 
-Customer engagement ideas (e.g., return & reuse incentives).
-
+`
 Output in messaging guide + supplier list."
+`
 
-Prompt 21 — Photography & Video Content Plan
+## Prompt 21 — Photography & Video Content Plan
 
 "You are a food photography consultant. Create a content capture plan for my farm produce. Include:
 
