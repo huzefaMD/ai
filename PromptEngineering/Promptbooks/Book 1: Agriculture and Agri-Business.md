@@ -634,7 +634,8 @@ Present the output in 3 sections: Name & visual ideas, brand story, and legal re
 
 `
 "You are a senior agri-retail strategist. I own a 5-acre farm in [District, State] producing tomatoes, spinach, and papaya. My buyers are middle-class families in [City] within a 15 km delivery range.
-
+`
+`
 Prepare a 12-month D2C sales plan covering:
 `
 
@@ -830,25 +831,17 @@ The story must highlight my background, commitment to sustainability, and farm-t
 "You are an influencer marketing consultant for agri-products. Create a collaboration plan with 5 local chefs & food bloggers in [City] to promote my organic produce. Include:
 `
 
-`
-Criteria for selecting influencers.
-`
+`````
+1. Criteria for selecting influencers.
 
-`
-Outreach email/DM template.
-`
+2. Outreach email/DM template.
 
-`
-Campaign ideas (e.g., recipe videos, farm visit vlogs).
-`
+3. Campaign ideas (e.g., recipe videos, farm visit vlogs).
 
-`
-Budget breakdown for barter & paid deals.
-`
+4. Budget breakdown for barter & paid deals.
 
-`
-Method to track ROI (Return on Investment).
-`
+5. Method to track ROI (Return on Investment).
+`````
 
 `
 Output in influencer list + outreach plan + campaign calendar."
@@ -860,25 +853,17 @@ Output in influencer list + outreach plan + campaign calendar."
 "You are an agri-tourism consultant. Design a farm visit program for families & school groups in [City]. Include:
 `
 
-`
-Itinerary for 3-hour & 6-hour visits.
-`
+`````
+1. Itinerary for 3-hour & 6-hour visits.
 
-`
-Activities: vegetable picking, cooking sessions, tractor rides.
-`
+2. Activities: vegetable picking, cooking sessions, tractor rides.
 
-`
-Pricing per person & group discounts.
-`
+3. Pricing per person & group discounts.
 
-`
-Safety & hygiene guidelines.
-`
+4. Safety & hygiene guidelines.
 
-`
-Sales integration for visitors to buy fresh produce before leaving.
-`
+5. Sales integration for visitors to buy fresh produce before leaving.
+`````
 
 `
 Output in event brochure format with activity timings & prices."
@@ -891,65 +876,81 @@ Output in event brochure format with activity timings & prices."
 `
 
 ````
-Referral reward structure.
+1. Referral reward structure.
 
-Simple tracking method via WhatsApp or Google Sheets.
+2. Simple tracking method via WhatsApp or Google Sheets.
 
-Sample messages to promote the program.
+3. Sample messages to promote the program.
 
-Launch plan to get first 50 referrals in 30 days.
-
-Output in referral flowchart + ready-to-use promotional content."
+4. Launch plan to get first 50 referrals in 30 days.
 ````
+
+`
+Output in referral flowchart + ready-to-use promotional content."
+`
 ## Prompt 14 — Branding for Multiple Product Lines
 
 `
 "You are a multi-product brand architecture consultant. My farm sells vegetables, pickles, and herbal teas. Create a branding framework that:
 `
 
-Keeps a consistent visual identity across all product lines.
+````
+1. Keeps a consistent visual identity across all product lines.
 
-Uses sub-brands or product categories without losing the main brand identity.
+2. Uses sub-brands or product categories without losing the main brand identity.
 
-Suggests packaging variations for each product type.
+3. Suggests packaging variations for each product type.
 
-Includes cross-selling ideas to increase order value.
+4. Includes cross-selling ideas to increase order value.
+````
 
+`
 Output in brand architecture diagram + packaging mockup suggestions."
+`
 
-Prompt 15 — Urban Apartment Tie-Up Plan
+## Prompt 15 — Urban Apartment Tie-Up Plan
 
+`
 "You are a community-based retail advisor. Design a weekly delivery program for urban apartment complexes in [City]. Include:
+`
 
+`````
+1. Approval process with the society management.
 
-Approval process with the society management.
+2. Pre-order form sample.
 
-Pre-order form sample.
+3. Stall setup ideas for apartment parking areas.
 
-Stall setup ideas for apartment parking areas.
+4. Payment collection system via UPI.
 
-Payment collection system via UPI.
+5. Launch event plan to create excitement.
+`````
 
-Launch event plan to create excitement.
-
+`
 Output in step-by-step action plan + flyer design brief."
+`
 
-Prompt 16 — Branding for Organic Certification
+## Prompt 16 — Branding for Organic Certification
 
+`
 "You are an organic product marketing expert. My farm is certified under NPOP (National Programme for Organic Production). Create a marketing plan to showcase this certification. Include:
+`
 
+````
+1. Placement of certification logo on packaging & digital ads.
 
-Placement of certification logo on packaging & digital ads.
+2. Short customer education content explaining certification benefits.
 
-Short customer education content explaining certification benefits.
+3. Premium pricing strategy linked to certification.
 
-Premium pricing strategy linked to certification.
+4. Stories of quality & safety to share with buyers.
+````
 
-Stories of quality & safety to share with buyers.
-
+`
 Output in marketing strategy document + sample customer education post."
+`
 
-Prompt 17 — Digital Payment & Billing System Setup
+## Prompt 17 — Digital Payment & Billing System Setup
 
 "You are a rural retail tech consultant. Recommend a digital billing & payment solution for my farm shop and delivery service. Include:
 
