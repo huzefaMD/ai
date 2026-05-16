@@ -2080,6 +2080,7 @@ Prompt:
 `
 "You are a Content Automation Engineer. I want an automation that listens for new podcast episodes, transcribes them, and publishes to my WordPress blog.
 `
+
 `
 Your task:
 `
@@ -2114,17 +2115,27 @@ WordPress API credentials"
 
 ## Prompt 21 — Automating Business KPI Dashboard Updates
 
+`
 Backstory: You manage a startup and track sales, expenses, and customer data. You want your KPI dashboard updated automatically every morning.
+`
 
+`
 Goal: Build an API workflow that pulls data from CRM, accounting software, and marketing tools into a BI dashboard.
+`
 
+`
 Prompt:
+`
 
+`
 "You are a Business Intelligence Automation Specialist. I want an automated data pipeline feeding my Power BI dashboard daily.
+`
 
+`
 Your task:
+`
 
-
+`````
 1. Fetch sales data from CRM API (HubSpot or Salesforce).
 
 2. Fetch expenses from accounting API (QuickBooks or Zoho Books).
@@ -2134,33 +2145,49 @@ Your task:
 4. Push all data to a Power BI dataset via REST API.
 
 5. Refresh dashboard daily at 7 AM IST.
+`````
 
+`
 Output format: ETL (Extract, Transform, Load) script + Power BI dataset refresh automation.
+`
 
+`
 Input Files & Code Section:
+`
 
+````
+1. CRM API credentials
 
-CRM API credentials
+2. Accounting API credentials
 
-Accounting API credentials
+3. Google Ads API credentials
 
-Google Ads API credentials
+4. Power BI API token"
+````
 
-Power BI API token"
+## Prompt 22 — Automating Legal Document Generation
 
-Prompt 22 — Automating Legal Document Generation
-
+`
 Backstory: You’re a lawyer preparing NDAs, contracts, and agreements for clients. Filling them manually is slow.
+`
 
+`
 Goal: Build an API automation that fills in legal document templates from client data.
+`
 
+`
 Prompt:
+`
 
+`
 "You are a Legal Tech Automation Specialist. I want an API-based system that populates legal document templates from a client database.
+`
 
+`
 Your task:
+`
 
-
+`````
 1. Store client details (name, address, contract terms) in a Google Sheet or database.
 
 2. Pull data via API and inject into pre-defined Word/PDF templates.
@@ -2170,31 +2197,47 @@ Your task:
 4. Track sent documents in a log sheet.
 
 5. Allow re-generation if client data changes.
+`````
 
+`
 Output format: Document automation script + legal template folder + logging sheet.
+`
 
+`
 Input Files & Code Section:
+`
 
+```
+1. Document templates (Word/PDF)
 
-Document templates (Word/PDF)
-
-Google Sheets API credentials
+2. Google Sheets API credentials
 
 Google Drive & Gmail API credentials"
+```
 
-Prompt 23 — Automating Food Delivery Order Processing
+## Prompt 23 — Automating Food Delivery Order Processing
 
+`
 Backstory: You run a cloud kitchen. Orders from Zomato, Swiggy, and your own website come separately, causing delays.
+`
 
+`
 Goal: Build an API integration that merges all orders into one system.
+`
 
+`
 Prompt:
+`
 
+`
 "You are a Food Tech API Integration Specialist. I want a centralised order management system pulling data from Zomato, Swiggy, and my website.
+`
 
+`
 Your task:
+`
 
-
+`````
 1. Connect to all order APIs with authentication.
 
 2. Merge incoming orders into one dashboard view.
@@ -2204,31 +2247,47 @@ Your task:
 4. Trigger kitchen ticket printing via printer API.
 
 5. Store all order data for monthly analysis.
+`````
 
+`
 Output format: Order aggregation script + kitchen display dashboard + SMS integration.
+`
 
+`
 Input Files & Code Section:
+`
 
+```
+1. API keys for Zomato, Swiggy, website
 
-API keys for Zomato, Swiggy, website
-
-SMS API credentials
+2. SMS API credentials
 
 Database connection for order storage"
+```
 
-Prompt 24 — Automating Social Media Comment Replies
+## Prompt 24 — Automating Social Media Comment Replies
 
+`
 Backstory: You run a brand page with thousands of comments daily. Replying manually takes too long.
+`
 
+`
 Goal: Build a system that auto-replies to comments based on sentiment and keywords.
+`
 
+`
 Prompt:
+`
 
+`
 "You are a Social Media Engagement Automation Engineer. I want to use Instagram Graph API and NLP to auto-reply to comments.
+`
 
+`
 Your task:
+`
 
-
+`````
 1. Fetch new comments via Instagram API.
 
 2. Run keyword & sentiment analysis to classify the comment.
@@ -2238,31 +2297,46 @@ Your task:
 4. Post the reply via API.
 
 5. Log all replied comments in Google Sheets.
+`````
 
+`
 Output format: Comment reply automation script + sentiment keyword mapping + logging sheet.
+`
 
+`
 Input Files & Code Section:
+`
 
+```
+1. Instagram Graph API credentials
 
-Instagram Graph API credentials
+2. Keyword mapping CSV
 
-Keyword mapping CSV
+3. Google Sheets API credentials"
+```
 
-Google Sheets API credentials"
+## Prompt 25 — Automating YouTube to Instagram Clip Conversion
 
-Prompt 25 — Automating YouTube to Instagram Clip Conversion
-
+`
 Backstory: You want to post highlights of your YouTube videos on Instagram Reels automatically.
+`
 
+`
 Goal: Build an API workflow that trims, captions, and uploads clips from YouTube to Instagram.
-
+`
+`
 Prompt:
+`
 
+`
 "You are a Video Content Automation Specialist. I want to pull my latest YouTube videos, create 60-second highlights, auto-caption them, and upload to Instagram.
+`
 
+`
 Your task:
+`
 
-
+`````
 1. Fetch video from YouTube Data API.
 
 2. Trim to highlight section based on timestamps from a CSV.
@@ -2272,22 +2346,27 @@ Your task:
 4. Upload to Instagram via Instagram Graph API.
 
 5. Store uploaded video link in a Google Sheet.
+`````
 
+`
 Output format: Video processing script + Instagram upload automation + logging system.
+`
 
+`
 Input Files & Code Section:
+`
 
+```
+1. YouTube API credentials
 
-YouTube API credentials
+2. Instagram Graph API credentials
 
-Instagram Graph API credentials
+3. clip_timestamps.csv with video ID and time ranges"
+```
 
-clip_timestamps.csv with video ID and time ranges"
+# Product Documentation & User Guides
 
-
-Product Documentation & User Guides
-
-Prompt 1 — Creating a Step-by-Step User Guide for a Mobile App
+## Prompt 1 — Creating a Step-by-Step User Guide for a Mobile App
 
 Backstory: Your startup just launched a budgeting mobile app. Many first-time users uninstall it because they can’t figure out how to set up their first budget.
 
