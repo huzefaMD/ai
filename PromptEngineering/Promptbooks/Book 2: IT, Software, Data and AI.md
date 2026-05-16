@@ -2065,17 +2065,26 @@ Input Files & Code Section:
 
 ## Prompt 20 — Automating Podcast Transcription and Upload
 
+`
 Backstory: You run a podcast and need transcripts for SEO and accessibility. Doing it manually takes hours.
+`
 
+`
 Goal: Use APIs to transcribe each new episode and upload the text to your blog automatically.
+`
 
+`
 Prompt:
+`
 
+`
 "You are a Content Automation Engineer. I want an automation that listens for new podcast episodes, transcribes them, and publishes to my WordPress blog.
-
+`
+`
 Your task:
+`
 
-
+`````
 1. Monitor an RSS feed for new podcast episodes.
 
 2. Download the audio file.
@@ -2085,19 +2094,25 @@ Your task:
 4. Format the transcript into a blog-friendly HTML format.
 
 5. Upload it as a new blog post via WordPress REST API.
+`````
 
+`
 Output format: End-to-end transcription and upload script + blog post HTML template.
+`
 
+`
 Input Files & Code Section:
+`
 
+```
+1. Podcast RSS feed URL
 
-Podcast RSS feed URL
-
-Transcription API key
+2. Transcription API key
 
 WordPress API credentials"
+```
 
-Prompt 21 — Automating Business KPI Dashboard Updates
+## Prompt 21 — Automating Business KPI Dashboard Updates
 
 Backstory: You manage a startup and track sales, expenses, and customer data. You want your KPI dashboard updated automatically every morning.
 
