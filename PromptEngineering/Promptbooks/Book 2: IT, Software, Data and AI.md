@@ -2519,17 +2519,27 @@ Input Files & Code Section:
 
 ## Prompt 4 — Creating Onboarding Guides for a CRM Tool
 
+`
 Backstory: Your sales team is adopting a new CRM tool, but they’re struggling to switch from spreadsheets to the new system.
+`
 
+`
 Goal: Create a hands-on onboarding manual for new CRM users.
+`
 
+`
 Prompt:
+`
 
+`
 "You are a CRM Onboarding Documentation Specialist. I want an onboarding manual that helps sales reps transition from spreadsheets to our CRM.
+`
 
+`
 Your task:
+`
 
-
+`````
 1. Explain CRM login and account setup.
 
 2. Show how to import contacts from CSV.
@@ -2539,31 +2549,47 @@ Your task:
 4. Include best practices for daily CRM usage.
 
 5. Add a printable “Quick Reference” cheatsheet.
+`````
 
+`
 Output format: PDF onboarding manual + 1-page cheatsheet.
+`
 
+`
 Input Files & Code Section:
+`
 
+```
+1. CRM system screenshots.
 
-CRM system screenshots.
+2. Sample CSV contact file.
 
-Sample CSV contact file.
+3. Sales workflow diagram."
+```
 
-Sales workflow diagram."
+## Prompt 5 — Creating a Knowledge Base Article for a Common Support Issue
 
-Prompt 5 — Creating a Knowledge Base Article for a Common Support Issue
-
+`
 Backstory: Customers often contact support because they forget their password and can’t reset it.
+`
 
+`
 Goal: Create a self-service article that reduces these repetitive support requests.
+`
 
+`
 Prompt:
+`
 
+`
 "You are a Knowledge Base Content Specialist. I want you to create a help article for “How to Reset Your Password” for our e-commerce platform.
+`
 
+`
 Your task:
+`
 
-
+`````
 1. Write clear, step-by-step instructions.
 
 2. Include desktop and mobile screenshots.
@@ -2573,22 +2599,30 @@ Your task:
 4. Add troubleshooting for common reset errors.
 
 5. Format for search engine optimization (SEO).
+`````
 
+`
 Output format: HTML article for help center + PDF version for offline use.
+`
 
+`
 Input Files & Code Section:
+`
 
+```
+1. Screenshot set for password reset flow.
 
-Screenshot set for password reset flow.
+2. Branding guide for help center articles.
 
-Branding guide for help center articles.
+3. List of top password reset issues from support logs."
+```
 
-List of top password reset issues from support logs."
+## Prompt 6 — Creating Interactive Tutorials for a Project Management Tool
 
-Prompt 6 — Creating Interactive Tutorials for a Project Management Tool
-
+`
 Backstory: Your project management SaaS tool has powerful features, but most customers only use the basic ones because they’re unaware of advanced capabilities.
-
+`
+`
 Goal: Build interactive, click-through tutorials inside the app to teach advanced features.
 
 Prompt:
