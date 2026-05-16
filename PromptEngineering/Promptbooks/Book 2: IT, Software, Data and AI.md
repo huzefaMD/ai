@@ -1083,11 +1083,15 @@ Output format: A PDF market report with heatmaps, trend charts, and a 1-page “
 
 ## Prompt 18 — Healthcare Operational Efficiency Analysis
 
+`
 "You are a Healthcare Data Analyst working on hospital efficiency improvement. I have anonymised patient visit data, bed occupancy records, and treatment timelines for the past 2 years.
+`
 
+`
 Your task:
+`
 
-
+`````
 1. Calculate average patient wait time, treatment time, and discharge time.
 
 2. Create bed occupancy rate visualisations by department.
@@ -1097,16 +1101,23 @@ Your task:
 4. Suggest scheduling optimisations to reduce bottlenecks.
 
 5. Recommend operational changes to improve patient throughput without compromising care quality.
+`````
 
+`
 Output format: A dashboard layout plan + operational improvement report."
+`
 
-Prompt 19 — Sales Funnel Drop-off Analysis
+## Prompt 19 — Sales Funnel Drop-off Analysis
 
+`
 "You are a Marketing Data Analyst focused on conversion rate optimisation. I have e-commerce funnel data for the last quarter showing visits, product views, add-to-cart events, checkout starts, and purchases.
+`
 
+`
 Your task:
+`
 
-
+`````
 1. Calculate conversion rates for each funnel stage.
 
 2. Identify the stage with the highest drop-off rate and quantify the loss in potential revenue.
@@ -1116,16 +1127,23 @@ Your task:
 4. Suggest at least 5 tactics to improve conversions at the weakest stage.
 
 5. Provide a visual funnel chart showing current vs projected performance if improvements are implemented.
+`````
 
+`
 Output format: A funnel analysis dashboard + improvement recommendation document."
+`
 
-Prompt 20 — Education Performance Dashboard for Institutions
+## Prompt 20 — Education Performance Dashboard for Institutions
 
+`
 "You are an Education Analytics Specialist. I have school-level student performance data for grades, attendance, and extracurricular participation across multiple branches.
+`
 
+`
 Your task:
+`
 
-
+`````
 1. Create visualisations showing average performance by subject and grade level.
 
 2. Add attendance heatmaps highlighting periods of low attendance.
@@ -1135,16 +1153,23 @@ Your task:
 4. Highlight top 5 branches in overall performance and bottom 5 for improvement focus.
 
 5. Recommend targeted interventions for low-performing schools.
+`````
 
+`
 Output format: Dashboard wireframe + insights brief for school management."
+`
 
-Prompt 21 — Energy Consumption Pattern Analysis for Cost Saving
+## Prompt 21 — Energy Consumption Pattern Analysis for Cost Saving
 
+`
 "You are an Energy Data Analyst. I have hourly electricity consumption data for a manufacturing facility over 24 months.
+`
 
+`
 Your task:
+`
 
-
+`````
 1. Identify peak and off-peak consumption periods.
 
 2. Analyse seasonal patterns in energy usage.
@@ -1154,16 +1179,23 @@ Your task:
 4. Suggest renewable energy integration opportunities.
 
 5. Create a projection model for energy cost savings over the next 12 months.
+`````
 
+`
 Output format: PDF energy audit report + visual trend charts + savings projection table."
+`
 
-Prompt 22 — Market Basket Analysis for Cross-Selling
+## Prompt 22 — Market Basket Analysis for Cross-Selling
 
+`
 "You are a Retail Data Mining Specialist. I have point-of-sale transaction data with item-level details for the past 12 months.
+`
 
+`
 Your task:
+`
 
-
+`````
 1. Use association rule mining (Apriori or FP-Growth) to identify frequent item combinations.
 
 2. Calculate support, confidence, and lift for each rule.
@@ -1173,16 +1205,23 @@ Your task:
 4. Suggest bundle offers based on analysis.
 
 5. Project potential revenue increase from implementing top 3 bundles.
+`````
 
+`
 Output format: Association rules table + actionable cross-sell strategy document."
+`
 
-Prompt 23 — Website Traffic and Conversion Analytics
+## Prompt 23 — Website Traffic and Conversion Analytics
 
+`
 "You are a Web Analytics Consultant. I have Google Analytics data for my e-commerce site over the past 6 months.
+`
 
+`
 Your task:
+`
 
-
+`````
 1. Identify top 5 traffic sources and their respective conversion rates.
 
 2. Analyse bounce rate, average session duration, and pages per session.
@@ -1192,16 +1231,23 @@ Your task:
 4. Highlight underperforming landing pages and suggest optimisation strategies.
 
 5. Provide projected improvement metrics if changes are implemented.
+`````
 
+`
 Output format: Data Studio dashboard layout + optimisation recommendations report."
+`
 
-Prompt 24 — Manufacturing Process Efficiency Visualisation
+## Prompt 24 — Manufacturing Process Efficiency Visualisation
 
+`
 "You are a Manufacturing Data Engineer. I have IoT sensor data for multiple machines in a production line over the past year.
+`
 
+`
 Your task:
+`
 
-
+`````
 1. Visualise machine uptime/downtime as a Gantt chart.
 
 2. Identify bottlenecks in production flow.
@@ -1211,16 +1257,23 @@ Your task:
 4. Recommend preventive maintenance schedules.
 
 5. Suggest workflow changes to increase throughput without adding resources.
+`````
 
+`
 Output format: Factory floor dashboard layout + process improvement plan."
+`
 
-Prompt 25 — Financial Performance Storytelling for Investors
+## Prompt 25 — Financial Performance Storytelling for Investors
 
+`
 "You are a Financial Data Storyteller. I have quarterly income statements, balance sheets, and cash flow statements for the past 3 years.
+`
 
+`
 Your task:
+`
 
-
+`````
 1. Visualise revenue, gross profit, and net profit trends over time.
 
 2. Calculate key financial ratios (ROE, ROA, current ratio, debt-to-equity) and explain their meaning.
@@ -1230,13 +1283,15 @@ Your task:
 4. Provide a year-over-year growth summary.
 
 5. Frame findings in a narrative that inspires investor confidence.
+`````
 
+`
 Output format: Investor-ready slide deck with visuals, ratio analysis, and growth narrative."
+`
 
+# API Integration & Automation
 
-API Integration & Automation
-
-Prompt 1 — Connecting Multiple APIs for Unified Data
+## Prompt 1 — Connecting Multiple APIs for Unified Data
 
 "You are an API Integration Engineer with expertise in REST (Representational State Transfer) and GraphQL APIs. I want to create a single automated workflow that combines data from Google Sheets, Shopify, and Google Analytics APIs.
 
