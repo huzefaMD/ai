@@ -3676,6 +3676,7 @@ Goal: Automate daily backups to cloud storage with strong encryption.
 `
 Prompt:
 `
+
 `
 "You are a Data Security Engineer. I want an automated backup system that encrypts files before uploading them to cloud storage (AWS S3, Google Drive).
 `
