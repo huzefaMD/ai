@@ -3068,17 +3068,27 @@ Input Files & Code Section:
 
 ## Prompt 15 — Documenting Accessibility Features for Users with Disabilities
 
+`
 Backstory: Your platform is accessible, but many users with disabilities don’t know about the available features.
+`
 
+`
 Goal: Create an accessibility guide showcasing these features.
+`
 
+`
 Prompt:
+`
 
+`
 "You are an Accessibility Documentation Specialist. I want an accessibility features guide for our learning platform.
+`
 
+`
 Your task:
+`
 
-
+`````
 1. List all accessibility options (keyboard shortcuts, screen reader support, high contrast mode).
 
 2. Provide step-by-step activation instructions for each.
@@ -3088,31 +3098,47 @@ Your task:
 4. Include best practices for accessible usage.
 
 5. Format as both web and audio versions for accessibility.
+`````
 
+`
 Output format: PDF + HTML + MP3 narration.
+`
 
+`
 Input Files & Code Section:
+`
 
+```
+1. Feature list CSV.
 
-Feature list CSV.
-
-Accessibility testing report.
+2. Accessibility testing report.
 
 Screenshots and icon assets."
+```
 
-Prompt 16 — Creating Interactive FAQs with Search Functionality
+## Prompt 16 — Creating Interactive FAQs with Search Functionality
 
+`
 Backstory: Your current FAQ page is static and users struggle to find relevant answers quickly.
+`
 
+`
 Goal: Build a searchable, interactive FAQ system.
+`
 
+`
 Prompt:
+`
 
+`
 "You are a Help Center Experience Designer. I want to turn our static FAQ page into an interactive, searchable database.
+`
 
+`
 Your task:
+`
 
-
+`````
 1. Convert FAQs into a searchable JSON format.
 
 2. Tag each FAQ with categories and keywords.
@@ -3122,31 +3148,47 @@ Your task:
 4. Include expand/collapse answers for better UX.
 
 5. Provide embed code for website integration.
+`````
 
+`
 Output format: FAQ database (JSON) + HTML/CSS/JS embed code.
+`
 
+`
 Input Files & Code Section:
+`
 
+```
+1. Existing FAQ text in CSV.
 
-Existing FAQ text in CSV.
-
-Website brand style guide.
+2. Website brand style guide.
 
 JavaScript library documentation for search."
+```
 
-Prompt 17 — Writing Maintenance Manuals for Hardware Products
+## Prompt 17 — Writing Maintenance Manuals for Hardware Products
 
+`
 Backstory: Customers often damage devices because they don’t follow maintenance guidelines.
+`
 
+`
 Goal: Write a detailed maintenance and care manual.
+`
 
+`
 Prompt:
+`
 
+`
 "You are a Hardware Technical Writer. I want a maintenance manual for our smart home thermostat.
+`
 
+`
 Your task:
+`
 
-
+`````
 1. List cleaning, calibration, and firmware update procedures.
 
 2. Provide do’s and don’ts with illustrations.
@@ -3156,31 +3198,47 @@ Your task:
 4. Add troubleshooting section for physical faults.
 
 5. Format for both printed booklet and online PDF.
+`````
 
+`
 Output format: Illustrated manual in PDF + printable A5 booklet.
+`
 
+`
 Input Files & Code Section:
+`
 
+```
+1. Product engineering diagrams.
 
-Product engineering diagrams.
+2. Service checklist from repair team.
 
-Service checklist from repair team.
+3. Image asset folder."
+```
 
-Image asset folder."
+## Prompt 18 — Documenting Multi-Language Product Instructions
 
-Prompt 18 — Documenting Multi-Language Product Instructions
-
+`
 Backstory: You sell in multiple countries, but product instructions are only in English.
+`
 
+`
 Goal: Create multilingual product manuals.
+`
 
+`
 Prompt:
+`
 
+`
 "You are a Multilingual Documentation Specialist. I want product instructions for our kitchen appliance in English, Hindi, and Tamil.
+`
 
+`
 Your task:
+`
 
-
+`````
 1. Translate existing manual while keeping technical accuracy.
 
 2. Adapt units (metric/imperial) as needed.
@@ -3190,19 +3248,25 @@ Your task:
 4. Ensure formatting works for all languages.
 
 5. Provide print-ready and web-ready versions.
+`````
 
+`
 Output format: PDF manuals in all 3 languages.
+`
 
+`
 Input Files & Code Section:
+`
 
+```
+1. Current English manual (DOCX).
 
-Current English manual (DOCX).
-
-Brand typography guidelines.
+2. Brand typography guidelines.
 
 Translation glossary file."
+```
 
-Prompt 19 — Creating How-To Videos for Common Tasks
+## Prompt 19 — Creating How-To Videos for Common Tasks
 
 Backstory: Written guides are available, but some customers prefer video walkthroughs.
 
