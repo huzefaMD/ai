@@ -3616,17 +3616,27 @@ Input Files & Code Section:
 
 ## Prompt 1 — Automating Security Log Monitoring
 
+`
 Backstory: You’re an IT administrator for a mid-sized company. Your security logs are massive, and manually scanning them for threats is impossible. Last year, you missed a brute-force attack because it got buried in the logs.
+`
 
+`
 Goal: Create an automated pipeline that monitors security logs, flags suspicious activity, and sends real-time alerts.
+`
 
+`
 Prompt:
+`
 
+`
 "You are a Cybersecurity Automation Engineer. I want a script that scans server logs in real time and alerts me of suspicious activity such as failed login attempts, unusual IP addresses, or data spikes.
+`
 
+`
 Your task:
+`
 
-
+`````
 1. Connect to the server log files via API or secure SSH.
 
 2. Parse log entries and match against predefined threat patterns (failed logins >5 in 1 minute, foreign IP access, large file downloads).
@@ -3636,31 +3646,45 @@ Your task:
 4. Store flagged events in a database for future analysis.
 
 5. Generate a daily security summary report.
+`````
 
+`
 Output format: Security monitoring script + threat pattern list + alert notification system.
+`
 
+`
 Input Files & Code Section:
+`
 
+```
+1. Path to log files or log API endpoint
 
-Path to log files or log API endpoint
+2. Threat detection rules CSV
 
-Threat detection rules CSV
+3. Email/SMS API credentials"
+```
+## Prompt 2 — Automating Data Backup with Encryption
 
-Email/SMS API credentials"
-
-Prompt 2 — Automating Data Backup with Encryption
-
+`
 Backstory: You manage sensitive medical records for a clinic. If your system crashes or is hacked, you can’t risk losing unencrypted patient data.
+`
 
+`
 Goal: Automate daily backups to cloud storage with strong encryption.
+`
 
+`
 Prompt:
-
+`
+`
 "You are a Data Security Engineer. I want an automated backup system that encrypts files before uploading them to cloud storage (AWS S3, Google Drive).
+`
 
+`
 Your task:
+`
 
-
+`````
 1. Identify sensitive folders for backup.
 
 2. Compress and encrypt files using AES-256 encryption.
@@ -3670,19 +3694,24 @@ Your task:
 4. Store encryption keys securely in a password vault.
 
 5. Maintain a backup log with timestamps and checksum hashes.
+`````
 
+`
 Output format: Encrypted backup script + cloud upload integration + key storage instructions.
+`
 
+`
 Input Files & Code Section:
+`
 
+```
+1. Encryption key file (secure vault reference)
 
-Encryption key file (secure vault reference)
+2. Cloud API credentials
 
-Cloud API credentials
-
-List of file/folder paths for backup"
-
-Prompt 3 — Automating Phishing Email Detection
+3. List of file/folder paths for backup"
+```
+## Prompt 3 — Automating Phishing Email Detection
 
 Backstory: Your employees keep falling for phishing emails, leading to security risks. Manual awareness training isn’t enough.
 
