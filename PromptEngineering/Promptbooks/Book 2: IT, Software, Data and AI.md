@@ -919,18 +919,23 @@ Output format: A 5-page PDF guide with do’s and don’ts + visual examples."
 
 ## Prompt 12 — Multi-Dataset Integration Workflow
 
+`
 "You are a Data Integration Specialist skilled in ETL (Extract, Transform, Load) processes. I have three datasets:
+`
 
+```
+- Customer demographics (Excel)
 
- Customer demographics (Excel)
+- Purchase history (CSV)
 
- Purchase history (CSV)
+- Web analytics data (Google Analytics export)
+```
 
- Web analytics data (Google Analytics export)
-
+`
 Your task:
+`
 
-
+`````
 1. Identify common keys for merging datasets.
 
 2. Clean and standardise column formats and naming.
@@ -940,10 +945,13 @@ Your task:
 4. Perform initial descriptive analysis on combined data.
 
 5. Suggest 3 insights achievable only after combining data.
+`````
 
+`
 Output format: Python Notebook with ETL code + final merged dataset snapshot + insight summary."
+`
 
-Prompt 13 — Interactive Geo-Spatial Sales Mapping
+## Prompt 13 — Interactive Geo-Spatial Sales Mapping
 
 "You are a GIS (Geographic Information Systems) Analyst. I have state-wise sales data for India for the past 12 months.
 
