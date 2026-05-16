@@ -1621,11 +1621,11 @@ Backstory: You’re a 28-year-old marketing professional applying to multiple co
 Goal: Build an automation that pulls application data from job portals (LinkedIn, Naukri.com) and updates it into a single Google Sheet dashboard daily.
 `
 
-`
+``
 Prompt:
 
 "You are a Job Search Workflow Automation Engineer. I want an automated job application tracker that consolidates applications from LinkedIn Jobs and Naukri.com using their APIs/webhooks.
-`
+``
 
 `
 Your task:
