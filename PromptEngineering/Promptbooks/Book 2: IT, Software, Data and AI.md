@@ -705,11 +705,15 @@ Output format: A Python Jupyter Notebook with all code, plots, and a Markdown ce
 
 ## Prompt 4 — Automated Data Cleaning and Preprocessing Script
 
+`
 "You are a Data Preprocessing Automation Specialist skilled in Python and Pandas. I have a CSV file containing a mix of numerical, categorical, and datetime fields, with missing values and inconsistent formats.
+`
 
+`
 Your task:
+`
 
-
+`````
 1. Write a reusable Python script to detect and handle missing values using mean/median/mode or forward-fill/backward-fill depending on the column type.
 
 2. Remove duplicate rows and flag near-duplicates for manual review.
@@ -719,16 +723,23 @@ Your task:
 4. Convert date columns to proper datetime format and extract features (day, month, year, day-of-week).
 
 5. Save the cleaned dataset to a new CSV file with a timestamped filename.
+`````
 
+`
 Output format: A fully commented Python script that can be reused for different datasets, with clear function definitions."
+`
 
-Prompt 5 — Business Data Storytelling for Stakeholder Reports
+## Prompt 5 — Business Data Storytelling for Stakeholder Reports
 
+`
 "You are a Business Data Storyteller with experience in creating executive summaries from analytical results. I have analysed customer purchase behaviour for my online store and want to present findings to the leadership team.
+`
 
+`
 Your task:
+`
 
-
+`````
 1. Frame the analysis as a story — starting with the problem, key findings, and implications.
 
 2. Select only the 5–7 most impactful visuals from the analysis, ensuring they are simple and easy to understand.
@@ -738,16 +749,23 @@ Your task:
 4. Conclude with 3 actionable recommendations, each tied to a business outcome (e.g., revenue growth, cost saving).
 
 5. Create a 2-slide PowerPoint layout that can be used in a leadership meeting.
+`````
 
+`
 Output format: A concise text storyboard + slide content that a non-technical executive can understand at a glance."
+`
 
-Prompt 6 — Real-Time Data Monitoring and Alerts
+## Prompt 6 — Real-Time Data Monitoring and Alerts
 
+`
 "You are a Real-Time Data Monitoring Specialist skilled in tools like Grafana, Kibana, and Power BI Streaming Dataflows. I operate a logistics company with live GPS and delivery data flowing in every 15 seconds.
+`
 
+`
 Your task:
+`
 
-
+`````
 1. Design a real-time dashboard that displays vehicle location, delivery status, and delays in near real-time.
 
 2. Implement colour-coded alerts for deliveries delayed beyond SLA (Service Level Agreement) thresholds.
@@ -757,16 +775,23 @@ Your task:
 4. Integrate automated alerts via email and SMS for key managers when KPIs cross thresholds.
 
 5. Ensure the system can handle data spikes (e.g., festival season).
+`````
 
+`
 Output format: A visual architecture diagram + tool integration plan + example SQL queries for alert generation."
+`
 
-Prompt 7 — Sentiment Analysis of Customer Feedback
+## Prompt 7 — Sentiment Analysis of Customer Feedback
 
+`
 "You are an NLP (Natural Language Processing) Specialist with expertise in Python libraries like NLTK, SpaCy, and Transformers. I have 50,000 customer reviews collected over 2 years.
+`
 
+`
 Your task:
+`
 
-
+`````````
 1. Clean and preprocess the text (remove stopwords, lemmatise, handle emojis).
 
 2. Classify sentiment into positive, neutral, and negative categories using a pre-trained BERT model.
@@ -782,16 +807,23 @@ Your task:
 5. Identify top 5 positive and top 5 negative themes with example reviews.
 
 6. Provide actionable recommendations for product/service improvement based on sentiment patterns.
+`````````
 
+`
 Output format: A Jupyter Notebook with code, charts, and a Markdown insights summary."
+`
 
-Prompt 8 — Comparative Category Performance Report
+## Prompt 8 — Comparative Category Performance Report
 
+`
 "You are a Business Performance Analyst. I have category-wise sales data for 10 product categories over the last 3 years.
+`
 
+`
 Your task:
+`
 
-
+`````
 1. Calculate YoY (Year-over-Year) and MoM (Month-over-Month) growth rates for each category.
 
 2. Rank categories based on revenue, profit margin, and units sold.
@@ -801,16 +833,23 @@ Your task:
 4. Highlight top 3 performing categories and bottom 3 lagging categories.
 
 5. Suggest category-level actions to boost sales and margins for underperformers.
+`````
 
+`
 Output format: A comparative analysis table + dashboard layout mockup + 1-page action plan."
+`
 
-Prompt 9 — Correlation and Causation Testing
+## Prompt 9 — Correlation and Causation Testing
 
+`
 "You are a Data Scientist with a focus on statistical inference. I have a dataset on marketing spend (TV, social media, influencer, print) and corresponding sales figures.
+`
 
+`
 Your task:
+`
 
-
+`````
 1. Calculate correlation coefficients for each marketing channel vs sales.
 
 2. Perform hypothesis testing to check statistical significance (p-values).
@@ -820,16 +859,23 @@ Your task:
 4. Visualise results using scatter plots and regression lines.
 
 5. Provide a plain-language explanation of findings for non-technical stakeholders.
+`````
 
+`
 Output format: Jupyter Notebook with plots + regression output table + simplified insights brief."
+`
 
-Prompt 10 — Customer Churn Prediction and Retention Strategy
+## Prompt 10 — Customer Churn Prediction and Retention Strategy
 
+`
 "You are a Customer Analytics Expert specialising in churn modelling. I have SaaS customer data including sign-up date, usage frequency, support tickets, and payment history.
+`
 
+`
 Your task:
+`
 
-
+`````
 1. Define churn for my business context (e.g., inactive for 60 days).
 
 2. Engineer predictive features from usage and payment history.
@@ -839,16 +885,23 @@ Your task:
 4. Evaluate using accuracy, precision, recall, and ROC-AUC.
 
 5. Suggest retention strategies for the top 20% at-risk customers.
+`````
 
+`
 Output format: Python Notebook with code + confusion matrix + strategic retention plan."
+`
 
-Prompt 11 — Data Visualization Best Practices Guide
+## Prompt 11 — Data Visualization Best Practices Guide
 
+`
 "You are a Data Visualization Trainer. Prepare a best practices guide for visualising financial performance data for stakeholders.
+`
 
+`
 Your task:
+`
 
-
+`````
 1. Recommend which chart types to use for time-series, category comparison, and part-to-whole analysis.
 
 2. Suggest an accessible, colour-blind-friendly palette.
@@ -858,10 +911,13 @@ Your task:
 4. Include 3 examples of excellent visualisations and explain why they work.
 
 5. Provide 3 poor visualisation examples and show corrected versions.
+`````
 
+`
 Output format: A 5-page PDF guide with do’s and don’ts + visual examples."
+`
 
-Prompt 12 — Multi-Dataset Integration Workflow
+## Prompt 12 — Multi-Dataset Integration Workflow
 
 "You are a Data Integration Specialist skilled in ETL (Extract, Transform, Load) processes. I have three datasets:
 
