@@ -1613,17 +1613,25 @@ config.json for target currency list."
 
 ## Prompt 11 — Automating Job Application Tracking
 
+`
 Backstory: You’re a 28-year-old marketing professional applying to multiple companies at once. Keeping track of applications manually is messy — you often forget where you applied, the status, or the interview schedule. You want AI and APIs to track everything automatically.
+`
 
+`
 Goal: Build an automation that pulls application data from job portals (LinkedIn, Naukri.com) and updates it into a single Google Sheet dashboard daily.
+`
 
+`
 Prompt:
 
 "You are a Job Search Workflow Automation Engineer. I want an automated job application tracker that consolidates applications from LinkedIn Jobs and Naukri.com using their APIs/webhooks.
+`
 
+`
 Your task:
+`
 
-
+`````
 1. Authenticate with LinkedIn API and Naukri.com’s developer API (or scrape data if no API exists).
 
 2. Fetch job title, company name, date applied, status (applied, shortlisted, interview scheduled), and job link.
@@ -1633,19 +1641,25 @@ Your task:
 4. Highlight rows where the application has been idle for >14 days.
 
 5. Send me a daily email digest of new application updates.
+`````
 
+`
 Output format: Google Sheet dashboard + email digest example + API scripts.
+`
 
+`
 Input Files & Code Section:
+`
 
+```
+1. API credentials for LinkedIn and Naukri.com
 
-API credentials for LinkedIn and Naukri.com
+2. Google Sheet ID and credentials JSON
 
-Google Sheet ID and credentials JSON
+3. Email SMTP settings for sending daily digest"
+```
 
-Email SMTP settings for sending daily digest"
-
-Prompt 12 — Automating Property Price Tracking for Investment
+## Prompt 12 — Automating Property Price Tracking for Investment
 
 Backstory: You’re a 35-year-old professional looking to invest in property in Bangalore. Prices change fast and manual tracking is too slow. You want a tool that automatically fetches and compares prices across multiple real estate portals.
 
