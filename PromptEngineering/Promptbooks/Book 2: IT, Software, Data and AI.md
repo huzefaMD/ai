@@ -924,11 +924,11 @@ Output format: A 5-page PDF guide with do’s and don’ts + visual examples."
 `
 
 ```
-- Customer demographics (Excel)
+1. Customer demographics (Excel)
 
-- Purchase history (CSV)
+2. Purchase history (CSV)
 
-- Web analytics data (Google Analytics export)
+3. Web analytics data (Google Analytics export)
 ```
 
 `
@@ -953,11 +953,15 @@ Output format: Python Notebook with ETL code + final merged dataset snapshot + i
 
 ## Prompt 13 — Interactive Geo-Spatial Sales Mapping
 
+`
 "You are a GIS (Geographic Information Systems) Analyst. I have state-wise sales data for India for the past 12 months.
+`
 
+`
 Your task:
+`
 
-
+`````
 1. Create an interactive map showing sales density using a colour gradient.
 
 2. Add filters for month, product category, and sales rep.
@@ -967,16 +971,23 @@ Your task:
 4. Enable comparison mode for two selected states.
 
 5. Provide export options (PNG, PDF).
+`````
 
+`
 Output format: Dashboard implementation guide + sample data visualisation screenshot."
+`
 
-Prompt 14 — Industry Benchmark Comparison with Gap Analysis
+## Prompt 14 — Industry Benchmark Comparison with Gap Analysis
 
+`
 "You are a Market Intelligence Analyst specialising in competitive benchmarking. I have my company’s quarterly performance metrics for revenue, gross margin, and customer acquisition rate, and I have benchmark data for top 5 competitors.
+`
 
+`
 Your task:
+`
 
-
+`````
 1. Normalise all data for fair comparison (e.g., currency conversion, adjusting for fiscal year differences).
 
 2. Create comparative bar charts showing my company vs each competitor for each KPI (Key Performance Indicator).
@@ -986,16 +997,23 @@ Your task:
 4. Identify areas where my company is above average and where it’s lagging.
 
 5. Provide 5 targeted recommendations to close performance gaps.
+`````
 
+`
 Output format: A 2-page PDF competitive report with visual comparisons, an executive summary, and a prioritised action list."
+`
 
-Prompt 15 — Data Pipeline Performance Optimisation Plan
+## Prompt 15 — Data Pipeline Performance Optimisation Plan
 
+`
 "You are a Data Engineer experienced in optimising ETL (Extract, Transform, Load) pipelines for speed and efficiency. I have a nightly pipeline that ingests sales, inventory, and customer data into a central warehouse.
+`
 
+`
 Your task:
+`
 
-
+`````
 1. Profile the current pipeline to identify slow queries, inefficient joins, and bottleneck processes.
 
 2. Recommend improvements in query optimisation, indexing, and caching.
@@ -1005,16 +1023,23 @@ Your task:
 4. Propose monitoring tools to track pipeline health and error rates.
 
 5. Provide an example optimised SQL query and ETL script snippet.
+`````
 
+`
 Output format: A technical optimisation plan with a “before vs after” runtime projection chart and sample code."
+`
 
-Prompt 16 — Social Media Engagement Analytics Dashboard
+## Prompt 16 — Social Media Engagement Analytics Dashboard
 
+`
 "You are a Digital Analytics Expert skilled in API integrations and BI dashboarding. I have social media engagement data from Facebook, Instagram, and LinkedIn for the past 12 months.
+`
 
+`
 Your task:
+`
 
-
+`````
 1. Create a unified dashboard showing platform-wise engagement metrics (likes, comments, shares, saves).
 
 2. Add a filter to view engagement by post type (video, carousel, single image, story).
@@ -1024,16 +1049,23 @@ Your task:
 4. Add follower growth trend lines for each platform.
 
 5. Include an insights section suggesting which content format drives the highest engagement.
+`````
 
+`
 Output format: Dashboard wireframe + API integration guide + engagement insights report."
+`
 
-Prompt 17 — Real Estate Market Analysis with Investment Insights
+## Prompt 17 — Real Estate Market Analysis with Investment Insights
 
+`
 "You are a Real Estate Data Analyst with expertise in property market trends. I have a dataset of property sales in [city] for the last 5 years with columns for location, property type, size, sale price, and date.
+`
 
+`
 Your task:
+`
 
-
+`````
 1. Analyse price trends by property type (apartment, villa, plot).
 
 2. Map high-growth neighbourhoods using price appreciation over time.
@@ -1043,10 +1075,13 @@ Your task:
 4. Calculate ROI projections for top 5 emerging areas.
 
 5. Provide investment recommendations for buyers targeting high rental yield vs capital appreciation.
+`````
 
+`
 Output format: A PDF market report with heatmaps, trend charts, and a 1-page “Investor Recommendations” summary."
+`
 
-Prompt 18 — Healthcare Operational Efficiency Analysis
+## Prompt 18 — Healthcare Operational Efficiency Analysis
 
 "You are a Healthcare Data Analyst working on hospital efficiency improvement. I have anonymised patient visit data, bed occupancy records, and treatment timelines for the past 2 years.
 
