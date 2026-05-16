@@ -1371,11 +1371,15 @@ Output format: API workflow diagram + example webhook handler code + CRM API cal
 
 ## Prompt 4 — Email Marketing Automation with API
 
+`
 "You are an Email Marketing Automation Expert familiar with Mailchimp, SendGrid, and ActiveCampaign APIs. I want to send a weekly newsletter automatically using my Google Sheets contact list.
+`
 
+`
 Your task:
+`
 
-
+`````
 1. Connect Google Sheets API to read subscriber list.
 
 2. Connect the chosen email service API and authenticate securely.
@@ -1385,16 +1389,23 @@ Your task:
 4. Send emails in batches to avoid exceeding API rate limits.
 
 5. Update the Google Sheet with a “last sent” timestamp for each contact.
+`````
 
+`
 Output format: Python/Node.js script + deployment guide + API keys & secrets handling instructions."
+`
 
-Prompt 5 — Automating File Backups to Cloud Storage
+## Prompt 5 — Automating File Backups to Cloud Storage
 
+`
 "You are a Cloud Automation Engineer skilled in AWS S3, Google Drive, and Dropbox APIs. I have a folder on my local machine containing financial reports that must be backed up daily to all three cloud platforms.
+`
 
+`
 Your task:
+`
 
-
+`````
 1. Authenticate with all three cloud APIs.
 
 2. Compress the local folder into a timestamped ZIP file.
@@ -1404,16 +1415,23 @@ Your task:
 4. Send an email notification with file URLs after successful upload.
 
 5. Log the backup details in a CSV file for auditing.
+`````
 
+`
 Output format: Shell/Python script + setup instructions + automation scheduling plan."
+`
 
-Prompt 6 — Real-Time Stock Price Tracker with Alerts
+## Prompt 6 — Real-Time Stock Price Tracker with Alerts
 
+`
 "You are a Financial Data Automation Specialist experienced in Alpha Vantage, Yahoo Finance, and TradingView APIs. I want to track live stock prices for a watchlist of 10 Indian companies and receive alerts when prices change more than ±3% in a day.
+`
 
+`
 Your task:
+`
 
-
+`````
 1. Connect to the stock price API with authentication.
 
 2. Create a script to fetch and store real-time prices every 5 minutes.
@@ -1423,19 +1441,25 @@ Your task:
 4. Trigger an email/SMS alert when the ±3% threshold is crossed.
 
 5. Store all intraday data in a CSV for end-of-day analysis.
+`````
 
+`
 Output format: Python script + CSV logging + alert system integration plan.
+`
 
+`
 Input Files & Code Section:
+`
 
+```
+1. API Key file (api_keys.json) for Alpha Vantage/Yahoo Finance.
 
-API Key file (api_keys.json) for Alpha Vantage/Yahoo Finance.
+2. watchlist.csv containing company ticker symbols.
 
-watchlist.csv containing company ticker symbols.
+3. Placeholder for email/SMS sending function."
+```
 
-Placeholder for email/SMS sending function."
-
-Prompt 7 — Automating PDF Invoice Creation from Sales Data
+## Prompt 7 — Automating PDF Invoice Creation from Sales Data
 
 "You are a Document Automation Engineer skilled in ReportLab, wkhtmltopdf, and Google Docs API. I have daily sales data in CSV format and need automatically generated PDF invoices sent to customers.
 
