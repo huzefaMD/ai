@@ -1293,11 +1293,15 @@ Output format: Investor-ready slide deck with visuals, ratio analysis, and growt
 
 ## Prompt 1 — Connecting Multiple APIs for Unified Data
 
+`
 "You are an API Integration Engineer with expertise in REST (Representational State Transfer) and GraphQL APIs. I want to create a single automated workflow that combines data from Google Sheets, Shopify, and Google Analytics APIs.
+`
 
+`
 Your task:
+`
 
-
+`````
 1. Authenticate each API using OAuth 2.0 and store tokens securely.
 
 2. Pull product sales data from Shopify, website traffic data from Google Analytics, and inventory data from Google Sheets.
@@ -1307,16 +1311,23 @@ Your task:
 4. Schedule the workflow to run daily at midnight using a cron job or cloud scheduler.
 
 5. Include logging for errors and success status.
+`````
 
+`
 Output format: Python script with step-by-step API calls, merged dataset output as CSV, and instructions for deployment in a cloud environment (AWS Lambda or Google Cloud Functions)."
+`
 
-Prompt 2 — Automating Social Media Posting via API
+## Prompt 2 — Automating Social Media Posting via API
 
+`
 "You are a Social Media Automation Specialist experienced with the Meta Graph API, LinkedIn API, and Twitter API (now X API). I manage 3 platforms and want to post the same content automatically at scheduled times.
+`
 
+`
 Your task:
+`
 
-
+`````
 1. Authenticate all platform APIs and handle rate limits.
 
 2. Create a reusable function that posts text, images, and videos from a single JSON file.
@@ -1326,16 +1337,23 @@ Your task:
 4. Schedule posts using a job scheduler (like APScheduler in Python).
 
 5. Log post IDs and engagement metrics for tracking.
+`````
 
+`
 Output format: Python automation script + setup instructions + sample JSON template for post content."
+`
 
-Prompt 3 — Automating Data Entry from Web Forms to CRM
+## Prompt 3 — Automating Data Entry from Web Forms to CRM
 
+`
 "You are a CRM Workflow Automation Engineer skilled in HubSpot, Salesforce, and Zoho CRM APIs. I receive customer leads from a website form and want them automatically added to my CRM with tags for campaign tracking.
+`
 
+`
 Your task:
+`
 
-
+`````
 1. Set up a webhook to receive form submissions in real time.
 
 2. Transform form data into the CRM’s required JSON format.
@@ -1345,10 +1363,13 @@ Your task:
 4. Send a confirmation email to the lead using the CRM’s email API.
 
 5. Log each successful lead creation in a Google Sheet via API.
+`````
 
+`
 Output format: API workflow diagram + example webhook handler code + CRM API call scripts."
+`
 
-Prompt 4 — Email Marketing Automation with API
+## Prompt 4 — Email Marketing Automation with API
 
 "You are an Email Marketing Automation Expert familiar with Mailchimp, SendGrid, and ActiveCampaign APIs. I want to send a weekly newsletter automatically using my Google Sheets contact list.
 
