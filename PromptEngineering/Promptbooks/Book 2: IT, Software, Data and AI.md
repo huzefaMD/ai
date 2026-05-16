@@ -1567,11 +1567,11 @@ Output format: Python script + CSV metadata mapping + OAuth setup guide.
 Input Files & Code Section:
 `
 
-`
+``
 1. video_metadata.csv with columns for each video.
 
 2. Folder path for video files.
-`
+``
 
 `
 client_secret.json for OAuth credentials."
