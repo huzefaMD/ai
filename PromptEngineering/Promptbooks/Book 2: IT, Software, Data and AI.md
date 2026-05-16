@@ -3268,17 +3268,27 @@ Translation glossary file."
 
 ## Prompt 19 — Creating How-To Videos for Common Tasks
 
+`
 Backstory: Written guides are available, but some customers prefer video walkthroughs.
+`
 
+`
 Goal: Produce short tutorial videos for key product functions.
+`
 
+`
 Prompt:
+`
 
+`
 "You are a Video Documentation Producer. I want 5 short (under 2 mins each) tutorial videos for our e-learning platform.
+`
 
+`
 Your task:
+`
 
-
+`````
 1. Write video scripts for each task.
 
 2. Record screen captures with voiceover.
@@ -3288,31 +3298,47 @@ Your task:
 4. Export in MP4 for YouTube and MOV for in-app playback.
 
 5. Provide thumbnail images for each video.
+`````
 
+`
 Output format: Video files + scripts + thumbnails.
+`
 
+`
 Input Files & Code Section:
+`
 
+```
+1. Task list CSV.
 
-Task list CSV.
-
-Brand video intro/outro files.
+2. Brand video intro/outro files.
 
 Voiceover style guide."
+```
 
-Prompt 20 — Creating an API Changelog Page
+## Prompt 20 — Creating an API Changelog Page
 
+`
 Backstory: API updates break client integrations because developers aren’t notified in time.
+`
 
+`
 Goal: Publish a public API changelog with versioning details.
+`
 
+`
 Prompt:
+`
 
+`
 "You are an API Documentation Manager. I want a live API changelog page for our developer portal.
+`
 
+`
 Your task:
+`
 
-
+`````
 1. Track API version changes with release dates.
 
 2. Add summaries of new/removed/modified endpoints.
@@ -3322,31 +3348,47 @@ Your task:
 4. Provide migration notes for affected endpoints.
 
 5. Update automatically via CI/CD when code changes are merged.
+`````
 
+`
 Output format: Markdown changelog + HTML portal page.
+`
 
+`
 Input Files & Code Section:
+`
 
+```
+1. Git commit history.
 
-Git commit history.
+2. API spec change diff file.
 
-API spec change diff file.
+3. Developer portal access."
+```
 
-Developer portal access."
+## Prompt 21 — Writing Internal Product Playbooks for Support Staff
 
-Prompt 21 — Writing Internal Product Playbooks for Support Staff
-
+`
 Backstory: Support staff often escalate tickets unnecessarily because they lack clear product troubleshooting guidelines.
+`
 
+`
 Goal: Create internal product playbooks for the support team.
+`
 
+`
 Prompt:
+`
 
+`
 "You are a Support Operations Documentation Specialist. I want to create internal playbooks for handling common customer issues.
+`
 
+`
 Your task:
+`
 
-
+`````
 1. Document step-by-step troubleshooting workflows.
 
 2. Include escalation criteria for each case.
@@ -3356,19 +3398,24 @@ Your task:
 4. Add visual aids where relevant.
 
 5. Store in an internal wiki for easy updates.
+`````
 
+`
 Output format: Playbook PDFs + wiki pages.
+`
 
+`
 Input Files & Code Section:
+`
 
+```
+1. Support ticket history CSV.
 
-Support ticket history CSV.
-
-Current internal notes.
+2. Current internal notes.
 
 Diagram/image assets."
-
-Prompt 22 — Documenting Integration with Popular Third-Party Tools
+```
+## Prompt 22 — Documenting Integration with Popular Third-Party Tools
 
 Backstory: Customers want to connect your product with tools like Slack, Google Sheets, and Zapier, but don’t know how.
 
