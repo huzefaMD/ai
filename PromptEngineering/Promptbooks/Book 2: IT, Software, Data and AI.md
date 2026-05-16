@@ -2818,17 +2818,27 @@ Git repository README.md."
 
 ## Prompt 10 — Writing Feature Comparison Guides
 
+`
 Backstory: Many customers ask how your product compares to competitors, but your sales team doesn’t have a clear document to share.
+`
 
+`
 Goal: Create a side-by-side feature comparison guide.
+`
 
+`
 Prompt:
+`
 
+`
 "You are a Competitive Product Documentation Writer. I want a feature comparison document between our tool and top 3 competitors.
+`
 
+`
 Your task:
+`
 
-
+`````
 1. List key features side-by-side in a table.
 
 2. Use simple, customer-friendly language.
@@ -2838,31 +2848,47 @@ Your task:
 4. Include screenshots for visual comparison.
 
 5. Format for both sales decks and website FAQ.
+`````
 
+`
 Output format: Comparison PDF + PPT slide deck.
+`
 
+`
 Input Files & Code Section:
+`
 
+```
+1. Competitor feature research spreadsheet.
 
-Competitor feature research spreadsheet.
-
-Product screenshots folder.
+2. Product screenshots folder.
 
 Brand guidelines for colors and fonts."
+```
 
-Prompt 11 — Creating Troubleshooting Flowcharts
+## Prompt 11 — Creating Troubleshooting Flowcharts
 
+`
 Backstory: Your tech support team spends hours on calls walking users through fixes for common issues.
+`
 
+`
 Goal: Create self-help troubleshooting flowcharts.
+`
 
+`
 Prompt:
+`
 
+`
 "You are a Technical Troubleshooting Documentation Designer. I want to create visual flowcharts for common problems with our SaaS tool.
+`
 
+`
 Your task:
+`
 
-
+`````
 1. Select top 5 recurring issues from support logs.
 
 2. Create clear yes/no flowcharts for each problem.
@@ -2872,31 +2898,47 @@ Your task:
 4. Add estimated time for each fix step.
 
 5. Export to PDF for customers and PNG for website.
+`````
 
+`
 Output format: Flowchart diagrams in PNG + consolidated PDF booklet.
+`
 
+`
 Input Files & Code Section:
+`
 
+```
+1. Support ticket analysis CSV.
 
-Support ticket analysis CSV.
+2. Company color palette file.
 
-Company color palette file.
+3. Icon set for diagrams."
+```
 
-Icon set for diagrams."
+## Prompt 12 — Creating Voice & Tone Guidelines
 
-Prompt 12 — Creating Voice & Tone Guidelines
-
+`
 Backstory: Multiple writers contribute to your help center, but the style is inconsistent.
+`
 
+`
 Goal: Create a unified voice & tone guide for all documentation writers.
+`
 
+`
 Prompt:
+`
 
+`
 "You are a Content Style Guide Specialist. I want a voice & tone guideline document for our documentation team.
+`
 
+`
 Your task:
+`
 
-
+`````
 1. Define brand personality in writing.
 
 2. Provide examples of do’s and don’ts.
@@ -2906,31 +2948,47 @@ Your task:
 4. Cover accessibility considerations (readability, alt text, etc.).
 
 5. Provide templates for different content types.
+`````
 
+`
 Output format: Voice & tone PDF + quick reference card.
+`
 
+`
 Input Files & Code Section:
+`
 
+```
+1. Existing help articles.
 
-Existing help articles.
+2. Marketing brand guide.
 
-Marketing brand guide.
+3. Feedback from customer surveys."
+```
 
-Feedback from customer surveys."
+## Prompt 13 — Writing Contextual Tooltips for a Web Application
 
-Prompt 13 — Writing Contextual Tooltips for a Web Application
-
+`
 Backstory: Your SaaS dashboard is feature-rich, but many first-time users don’t understand what certain buttons or fields do.
+`
 
+`
 Goal: Create short, contextual tooltips that explain features without overwhelming the user.
+`
 
+`
 Prompt:
+`
 
+`
 "You are a UX Microcopy Documentation Specialist. I want you to create clear, concise tooltips for our SaaS dashboard.
+`
 
+`
 Your task:
+`
 
-
+`````
 1. Identify 30 key UI elements needing tooltips.
 
 2. Write short descriptions (max 20 words) in plain language.
@@ -2940,31 +2998,47 @@ Your task:
 4. Include an internal reference table mapping tooltip text to UI elements.
 
 5. Provide JSON/CSV format for direct integration with the UI codebase.
+`````
 
+`
 Output format: Tooltip text table (CSV + JSON) + implementation guide.
+`
 
+`
 Input Files & Code Section:
+`
 
+```
+1. UI element list CSV.
 
-UI element list CSV.
+2. Screenshot set of dashboard UI.
 
-Screenshot set of dashboard UI.
+3. Branding style guide."
+```
 
-Branding style guide."
+## Prompt 14 — Creating a Quick Start Guide for a Developer SDK (Software Development Kit)
 
-Prompt 14 — Creating a Quick Start Guide for a Developer SDK (Software Development Kit)
-
+`
 Backstory: Developers integrating your SDK are struggling because there’s no concise “first steps” documentation.
+`
 
+`
 Goal: Build a quick start guide that allows developers to implement the SDK within 30 minutes.
+`
 
+`
 Prompt:
+`
 
+`
 "You are a Developer Onboarding Documentation Expert. I want a quick start guide for our JavaScript SDK.
+`
 
+`
 Your task:
+`
 
-
+`````
 1. Include installation steps via npm/yarn.
 
 2. Show basic initialization code with example API calls.
@@ -2974,19 +3048,25 @@ Your task:
 4. Provide a working sample app repository link.
 
 5. Add troubleshooting tips for common setup errors.
+`````
 
+`
 Output format: Markdown quick start guide + PDF export.
+`
 
+`
 Input Files & Code Section:
+`
 
+```
+1. SDK code sample repository link.
 
-SDK code sample repository link.
+2. API key for sandbox testing.
 
-API key for sandbox testing.
+3. Screenshot folder for sample outputs."
+```
 
-Screenshot folder for sample outputs."
-
-Prompt 15 — Documenting Accessibility Features for Users with Disabilities
+## Prompt 15 — Documenting Accessibility Features for Users with Disabilities
 
 Backstory: Your platform is accessible, but many users with disabilities don’t know about the available features.
 
