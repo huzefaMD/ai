@@ -1527,15 +1527,13 @@ Output format: IoT control script + weather API integration + action logging.
 Input Files & Code Section:
 `
 
-``
+```
 1. API key file for OpenWeatherMap.
 
 2. farm_config.json with field size, crop type, and irrigation limits.
-``
 
-`
 Placeholder for SMS gateway integration code."
-`
+```
 
 ## Prompt 9 — Automating YouTube Video Uploads
 
@@ -1567,15 +1565,13 @@ Output format: Python script + CSV metadata mapping + OAuth setup guide.
 Input Files & Code Section:
 `
 
-``
+```
 1. video_metadata.csv with columns for each video.
 
 2. Folder path for video files.
-``
-
-`
+   
 client_secret.json for OAuth credentials."
-`
+```
 
 ## Prompt 10 — Daily Currency Conversion Automation
 
@@ -1607,15 +1603,13 @@ Output format: Python script + Google Sheets API integration + scheduler setup g
 Input Files & Code Section:
 `
 
-``
+```
 1. API key file for ExchangeRate-API.
 
 2. Google Sheets spreadsheet ID.
-``
 
-`
 config.json for target currency list."
-`
+```
 
 ## Prompt 11 — Automating Job Application Tracking
 
