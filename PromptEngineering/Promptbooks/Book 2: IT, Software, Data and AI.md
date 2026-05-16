@@ -1663,17 +1663,27 @@ Input Files & Code Section:
 
 ## Prompt 12 — Automating Property Price Tracking for Investment
 
+`
 Backstory: You’re a 35-year-old professional looking to invest in property in Bangalore. Prices change fast and manual tracking is too slow. You want a tool that automatically fetches and compares prices across multiple real estate portals.
+`
 
+`
 Goal: Build a daily property price tracker with alerts for deals under your budget.
+`
 
+`
 Prompt:
+`
 
+`
 "You are a Real Estate Data Automation Specialist skilled in integrating housing.com, magicbricks.com, and 99acres.com APIs.
+`
 
+`
 Your task:
+`
 
-
+`````
 1. Fetch property listings for specified locations (e.g., Whitefield, Indiranagar) within a budget range.
 
 2. Extract details — price, size (sqft), price per sqft, location link.
@@ -1683,31 +1693,47 @@ Your task:
 4. Trigger an SMS alert when a property price drops more than 5% from last week.
 
 5. Generate a weekly PDF market trend report.
+`````
 
+`
 Output format: Google Sheet tracker + automated PDF report + SMS alert script.
+`
 
+`
 Input Files & Code Section:
+`
 
+```
+1. API credentials or scraping script for property portals
 
-API credentials or scraping script for property portals
-
-property_config.json with budget, preferred locations, size range
+2. property_config.json with budget, preferred locations, size range
 
 Google Sheets & Twilio SMS API credentials"
+```
 
-Prompt 13 — Automating Invoice Payment Reminders
+## Prompt 13 — Automating Invoice Payment Reminders
 
+`
 Backstory: You run a small design agency. Clients often delay payments, and manually sending reminders eats up your evenings. You want an automated reminder system that sends polite follow-ups.
+`
 
+`
 Goal: Build an API-based automation that sends reminders at 7, 14, and 21 days after invoice due date.
+`
 
+`
 Prompt:
+`
 
+`
 "You are a Business Workflow Automation Specialist. I want to automate client payment reminders using QuickBooks API and Gmail API.
+`
 
+`
 Your task:
+`
 
-
+`````
 1. Pull unpaid invoice data from QuickBooks API with due dates.
 
 2. Identify invoices past due by 7, 14, or 21 days.
@@ -1717,31 +1743,47 @@ Your task:
 4. Log all sent reminders in a Google Sheet.
 
 5. Mark the invoice in QuickBooks with “reminder sent” status.
+`````
 
+`
 Output format: Automated reminder script + email template files + logging spreadsheet.
+`
 
+`
 Input Files & Code Section:
+`
 
+```
+1. QuickBooks API credentials
 
-QuickBooks API credentials
-
-Google API credentials for Gmail & Sheets
+2. Google API credentials for Gmail & Sheets
 
 email_templates/ folder with HTML templates for 7, 14, 21 days"
+```
 
-Prompt 14 — Automating Resume Screening for Recruitment
+## Prompt 14 — Automating Resume Screening for Recruitment
 
+`
 Backstory: You’re an HR manager for a startup. Hundreds of resumes arrive daily. Manually screening them for skills is impossible. You need an API workflow that filters CVs based on required skills.
+`
 
+`
 Goal: Automatically screen resumes and send shortlisted profiles to a hiring manager’s email.
+`
 
+`
 Prompt:
+`
 
+`
 "You are a Recruitment Automation Specialist. I want to integrate Google Drive API and an NLP model to process incoming resumes.
+`
 
+`
 Your task:
+`
 
-
+`````
 1. Monitor a Google Drive folder for new resumes.
 
 2. Extract text from PDFs/DOCs using an OCR/NLP API.
@@ -1751,31 +1793,47 @@ Your task:
 4. Move shortlisted resumes to a “Shortlisted” folder.
 
 5. Email a daily summary to the hiring manager with names and matched skills.
+`````
 
+`
 Output format: Resume screening script + summary email template + candidate matching report.
+`
 
+`
 Input Files & Code Section:
+`
 
+```
+1. Google Drive API credentials
 
-Google Drive API credentials
+2. Job description text file
 
-Job description text file
+3. API key for NLP/OCR service (e.g., Google Cloud Vision, OpenAI)"
+```
 
-API key for NLP/OCR service (e.g., Google Cloud Vision, OpenAI)"
+## Prompt 15 — Automating YouTube Comment Sentiment Analysis
 
-Prompt 15 — Automating YouTube Comment Sentiment Analysis
-
+`
 Backstory: You’re a content creator with 500K subscribers. It’s impossible to read every comment and spot trends in audience sentiment.
+`
 
+`
 Goal: Build an API workflow that pulls all new comments, runs sentiment analysis, and gives you a weekly trend report.
+`
 
+`
 Prompt:
+`
 
+`
 "You are a Social Media Analytics Automation Engineer. I want a system that fetches my YouTube video comments weekly, analyses sentiment, and creates a dashboard.
+`
 
+`
 Your task:
+`
 
-
+`````
 1. Connect to YouTube Data API to fetch comments for all videos from the last 7 days.
 
 2. Run sentiment analysis using a pre-trained model (e.g., VADER, BERT).
@@ -1785,31 +1843,47 @@ Your task:
 4. Create visualisations showing weekly sentiment trends.
 
 5. Generate a PDF report and store it in Google Drive.
+`````
 
+`
 Output format: Sentiment analysis notebook + dashboard + weekly PDF.
+`
 
+`
 Input Files & Code Section:
+`
 
+```
+1. YouTube API credentials
 
-YouTube API credentials
+2. Sentiment analysis model file or package requirements
 
-Sentiment analysis model file or package requirements
+3. Google Drive API credentials"
+```
 
-Google Drive API credentials"
+## Prompt 16 — Automating E-commerce Inventory Updates Across Platforms
 
-Prompt 16 — Automating E-commerce Inventory Updates Across Platforms
-
+`
 Backstory: You sell products on Amazon, Flipkart, and your own Shopify store. Inventory changes fast, but updating each platform manually wastes hours and risks overselling.
+`
 
+`
 Goal: Build an API automation that updates inventory levels across all platforms from a single source.
+`
 
+`
 Prompt:
+`
 
+`
 "You are an E-commerce API Integration Specialist. I want a single source of truth for my inventory, updated across Amazon, Flipkart, and Shopify in real time.
+`
 
+`
 Your task:
+`
 
-
+`````
 1. Connect to all three platform APIs using secure authentication (API keys or OAuth).
 
 2. Fetch the latest inventory count from my central warehouse database or Google Sheet.
@@ -1819,19 +1893,25 @@ Your task:
 4. Send me an email if a product’s stock falls below a reorder threshold.
 
 5. Log all updates with timestamp, product ID, and before/after quantities.
+`````
 
+`
 Output format: Inventory sync script + alert email template + update log file.
+`
 
+`
 Input Files & Code Section:
+`
 
+```
+1. API credentials for Amazon, Flipkart, and Shopify
 
-API credentials for Amazon, Flipkart, and Shopify
-
-inventory.csv or database connection details
+2. inventory.csv or database connection details
 
 Email SMTP settings for low-stock alerts"
+```
 
-Prompt 17 — Automating Customer Support Ticket Categorisation
+## Prompt 17 — Automating Customer Support Ticket Categorisation
 
 Backstory: Your startup gets 200+ support emails daily. Agents waste time reading and assigning tickets manually.
 
