@@ -3417,17 +3417,27 @@ Diagram/image assets."
 ```
 ## Prompt 22 — Documenting Integration with Popular Third-Party Tools
 
+`
 Backstory: Customers want to connect your product with tools like Slack, Google Sheets, and Zapier, but don’t know how.
+`
 
+`
 Goal: Create integration guides for top requested tools.
+`
 
+`
 Prompt:
+`
 
+`
 "You are a Third-Party Integration Documentation Specialist. I want guides for integrating our platform with Slack, Google Sheets, and Zapier.
+`
 
+`
 Your task:
+`
 
-
+`````
 1. Write step-by-step instructions with screenshots.
 
 2. Show real-life use case examples for each integration.
@@ -3437,31 +3447,46 @@ Your task:
 4. Include estimated setup time for each.
 
 5. Format for help center and PDF export.
+`````
 
+`
 Output format: 3 integration guides in PDF + HTML.
+`
 
+`
 Input Files & Code Section:
+`
 
+```
+1. Integration API credentials.
 
-Integration API credentials.
-
-User request survey results.
+2. User request survey results.
 
 Screenshot set for each tool."
+```
+## Prompt 23 — Creating Printable Cheat Sheets for Power Users
 
-Prompt 23 — Creating Printable Cheat Sheets for Power Users
-
+`
 Backstory: Advanced users want quick reference material without reading long manuals.
+`
 
+`
 Goal: Create compact, printable cheat sheets.
+`
 
+`
 Prompt:
+`
 
+`
 "You are a Productivity Documentation Designer. I want a one-page quick reference cheat sheet for our desktop productivity app.
+`
 
+`
 Your task:
+`
 
-
+`````
 1. Include top keyboard shortcuts.
 
 2. Add quick access menu navigation.
@@ -3471,31 +3496,46 @@ Your task:
 4. Use icons and color coding for readability.
 
 5. Provide in A4 and Letter size PDFs.
+`````
 
+`
 Output format: Cheat sheet PDF in two sizes.
+`
 
+`
 Input Files & Code Section:
+`
 
+```
+1. Shortcut list CSV.
 
-Shortcut list CSV.
+2. App UI screenshots.
 
-App UI screenshots.
+3. Icon asset folder."
+```
+## Prompt 24 — Creating User Story-Based Tutorials
 
-Icon asset folder."
-
-Prompt 24 — Creating User Story-Based Tutorials
-
+`
 Backstory: Customers understand better when tutorials follow real-world scenarios.
+`
 
+`
 Goal: Write tutorials framed as user stories.
+`
 
+`
 Prompt:
+`
 
+`
 "You are a Scenario-Based Learning Documentation Specialist. I want tutorials that walk through tasks using real customer scenarios.
+`
 
+`
 Your task:
+`
 
-
+`````
 1. Select top 3 customer use cases.
 
 2. Write tutorials in story format.
@@ -3505,31 +3545,46 @@ Your task:
 4. End each with key takeaways.
 
 5. Format for blog and PDF.
+`````
 
+`
 Output format: 3 story-based tutorials in HTML + PDF.
+`
 
+`
 Input Files & Code Section:
+`
 
+```
+1. Customer interview transcripts.
 
-Customer interview transcripts.
-
-Screenshot set.
+2. Screenshot set.
 
 Branding style guide."
+```
+## Prompt 25 — Creating AI-Assisted Product Guides
 
-Prompt 25 — Creating AI-Assisted Product Guides
-
+`
 Backstory: You want to experiment with AI-generated personalized product guides for new users.
+`
 
+`
 Goal: Create a template that AI can use to generate tailored guides.
+`
 
+`
 Prompt:
+`
 
+`
 "You are an AI-Enhanced Documentation Designer. I want a product guide template that AI can fill with user-specific tips.
+`
 
+`
 Your task:
+`
 
-
+`````
 1. Create placeholders for user goals and usage history.
 
 2. Include a modular structure for different product features.
@@ -3539,22 +3594,27 @@ Your task:
 4. Add export options for PDF and HTML.
 
 5. Ensure template is editable in Google Docs.
+`````
 
+`
 Output format: Editable DOCX template + JSON structure for AI integration.
+`
 
+`
 Input Files & Code Section:
+`
 
+```
+1. User onboarding questionnaire template.
 
-User onboarding questionnaire template.
+2. Feature description database.
 
-Feature description database.
+3. AI prompt library file."
+```
 
-AI prompt library file."
+# Cybersecurity & Data Privacy
 
-
-Cybersecurity & Data Privacy
-
-Prompt 1 — Automating Security Log Monitoring
+## Prompt 1 — Automating Security Log Monitoring
 
 Backstory: You’re an IT administrator for a mid-sized company. Your security logs are massive, and manually scanning them for threats is impossible. Last year, you missed a brute-force attack because it got buried in the logs.
 
