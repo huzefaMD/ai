@@ -2324,6 +2324,7 @@ Backstory: You want to post highlights of your YouTube videos on Instagram Reels
 `
 Goal: Build an API workflow that trims, captions, and uploads clips from YouTube to Instagram.
 `
+
 `
 Prompt:
 `
@@ -2368,17 +2369,27 @@ Input Files & Code Section:
 
 ## Prompt 1 — Creating a Step-by-Step User Guide for a Mobile App
 
+`
 Backstory: Your startup just launched a budgeting mobile app. Many first-time users uninstall it because they can’t figure out how to set up their first budget.
+`
 
+`
 Goal: Create a simple, visual, step-by-step guide that walks new users through account creation, linking bank accounts, and setting their first budget.
+`
 
+`
 Prompt:
+`
 
+`
 "You are a User Experience Documentation Specialist. I need you to create a beginner-friendly setup guide for our budgeting mobile app.
+`
 
+`
 Your task:
+`
 
-
+`````
 1. Break the guide into 6–8 clear steps.
 
 2. Include screenshots and captions for each step.
@@ -2388,31 +2399,47 @@ Your task:
 4. Add a troubleshooting section for common signup issues.
 
 5. Format the final document for PDF and in-app help center.
+`````
 
+`
 Output format: Step-by-step guide (with images) in PDF + HTML version for web embedding.
+`
 
+`
 Input Files & Code Section:
+`
 
+```
+1. app_screenshots.zip containing key UI images.
 
-app_screenshots.zip containing key UI images.
-
-Brand style guide PDF for fonts & colors.
+2. Brand style guide PDF for fonts & colors.
 
 CSV file of common user questions from support tickets."
+```
 
-Prompt 2 — Generating API Documentation for a Developer Portal
+## Prompt 2 — Generating API Documentation for a Developer Portal
 
+`
 Backstory: You’ve built a public API for your food delivery platform, but developers keep asking for examples and request format details because your docs are incomplete.
+`
 
+`
 Goal: Create clear, developer-focused API documentation with examples and authentication instructions.
+`
 
+`
 Prompt:
+`
 
+`
 "You are a Technical API Documentation Expert. I want you to create API docs for our food delivery API.
+`
 
+`
 Your task:
+`
 
-
+`````
 1. Describe authentication (OAuth 2.0) process clearly.
 
 2. Document all endpoints with methods, parameters, and sample JSON responses.
@@ -2422,31 +2449,47 @@ Your task:
 4. Include rate limits and error codes.
 
 5. Add a “Getting Started” quick guide for first-time developers.
+`````
 
+`
 Output format: Markdown-based API documentation + HTML developer portal version.
+`
 
+`
 Input Files & Code Section:
+`
 
+```
+1. OpenAPI/Swagger specification file (api_spec.json).
 
-OpenAPI/Swagger specification file (api_spec.json).
-
-List of example API requests and responses.
+2. List of example API requests and responses.
 
 Branding assets for developer portal."
+```
 
-Prompt 3 — Writing Release Notes for a SaaS Platform
+## Prompt 3 — Writing Release Notes for a SaaS Platform
 
+`
 Backstory: Your SaaS analytics tool has frequent updates, but customers are unaware of new features and fixes because release notes are dull and overly technical.
+`
 
+`
 Goal: Write engaging, customer-friendly release notes for each product update.
+`
 
+`
 Prompt:
+`
 
+`
 "You are a Product Communications Writer. I want you to create release notes for our SaaS analytics platform that both inform and excite customers.
+`
 
+`
 Your task:
+`
 
-
+`````
 1. Summarize new features in plain language.
 
 2. Highlight bug fixes and performance improvements.
@@ -2456,19 +2499,25 @@ Your task:
 4. Include “How to use” tips for each new feature.
 
 5. Publish in both email newsletter and in-app notifications format.
+`````
 
+`
 Output format: HTML email template + Markdown release notes file.
+`
 
+`
 Input Files & Code Section:
+`
 
+```
+1. Product update changelog CSV.
 
-Product update changelog CSV.
+2. Screenshots/GIFs folder.
 
-Screenshots/GIFs folder.
+3. Customer usage analytics to highlight most-requested features."
+```
 
-Customer usage analytics to highlight most-requested features."
-
-Prompt 4 — Creating Onboarding Guides for a CRM Tool
+## Prompt 4 — Creating Onboarding Guides for a CRM Tool
 
 Backstory: Your sales team is adopting a new CRM tool, but they’re struggling to switch from spreadsheets to the new system.
 
