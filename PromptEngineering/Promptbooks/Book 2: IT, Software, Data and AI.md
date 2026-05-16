@@ -1461,11 +1461,15 @@ Input Files & Code Section:
 
 ## Prompt 7 — Automating PDF Invoice Creation from Sales Data
 
+`
 "You are a Document Automation Engineer skilled in ReportLab, wkhtmltopdf, and Google Docs API. I have daily sales data in CSV format and need automatically generated PDF invoices sent to customers.
+`
 
+`
 Your task:
+`
 
-
+`````
 1. Read the CSV to fetch customer details, products, and prices.
 
 2. Generate a branded PDF invoice for each customer.
@@ -1475,25 +1479,35 @@ Your task:
 4. Email the invoice to the customer with a personalised message.
 
 5. Log invoice status (sent, pending, failed) in a Google Sheet.
+`````
 
+`
 Output format: Python script + invoice PDF template + Google Drive integration guide.
+`
 
+`
 Input Files & Code Section:
+`
 
+```
+1. sales_data.csv with customer and order details.
 
-sales_data.csv with customer and order details.
+2. invoice_template.html for branding.
 
-invoice_template.html for branding.
+3. API credentials for Google Drive and Gmail."
+```
 
-API credentials for Google Drive and Gmail."
+## Prompt 8 — Weather-Based Automation for Agriculture
 
-Prompt 8 — Weather-Based Automation for Agriculture
-
+`
 "You are an Agricultural IoT Automation Specialist skilled in OpenWeatherMap API and smart irrigation systems. I want to automate irrigation based on real-time weather data.
+`
 
+`
 Your task:
+`
 
-
+`````
 1. Connect to the OpenWeatherMap API to fetch daily forecasts.
 
 2. If rainfall probability is >70%, delay irrigation by 24 hours.
@@ -1503,25 +1517,37 @@ Your task:
 4. Send an SMS to the farmer confirming the decision.
 
 5. Log all actions in a daily report file.
+`````
 
+`
 Output format: IoT control script + weather API integration + action logging.
+`
 
+`
 Input Files & Code Section:
+`
 
+``
+1. API key file for OpenWeatherMap.
 
-API key file for OpenWeatherMap.
+2. farm_config.json with field size, crop type, and irrigation limits.
+``
 
-farm_config.json with field size, crop type, and irrigation limits.
-
+`
 Placeholder for SMS gateway integration code."
+`
 
-Prompt 9 — Automating YouTube Video Uploads
+## Prompt 9 — Automating YouTube Video Uploads
 
+`
 "You are a YouTube API Automation Specialist. I want to upload videos from a folder to YouTube with titles, descriptions, and tags automatically pulled from a CSV file.
+`
 
+`
 Your task:
+`
 
-
+`````
 1. Authenticate using YouTube Data API v3 with OAuth 2.0.
 
 2. Loop through a folder containing video files.
@@ -1531,25 +1557,37 @@ Your task:
 4. Upload each video with the corresponding metadata.
 
 5. Log upload IDs and publish status.
+`````
 
+`
 Output format: Python script + CSV metadata mapping + OAuth setup guide.
+`
 
+`
 Input Files & Code Section:
+`
 
+`
+1. video_metadata.csv with columns for each video.
 
-video_metadata.csv with columns for each video.
+2. Folder path for video files.
+`
 
-Folder path for video files.
-
+`
 client_secret.json for OAuth credentials."
+`
 
-Prompt 10 — Daily Currency Conversion Automation
+## Prompt 10 — Daily Currency Conversion Automation
 
+`
 "You are a Currency Data Automation Specialist. I want to fetch daily INR to USD, EUR, and GBP exchange rates and update them in my Google Sheet automatically.
+`
 
+`
 Your task:
+`
 
-
+`````
 1. Connect to a currency exchange API (e.g., ExchangeRate-API).
 
 2. Fetch latest conversion rates for INR to target currencies.
@@ -1559,19 +1597,27 @@ Your task:
 4. Include timestamp of last update.
 
 5. Schedule script to run daily at 8 AM IST.
+`````
 
+`
 Output format: Python script + Google Sheets API integration + scheduler setup guide.
+`
 
+`
 Input Files & Code Section:
+`
 
+``
+1. API key file for ExchangeRate-API.
 
-API key file for ExchangeRate-API.
+2. Google Sheets spreadsheet ID.
+``
 
-Google Sheets spreadsheet ID.
-
+`
 config.json for target currency list."
+`
 
-Prompt 11 — Automating Job Application Tracking
+## Prompt 11 — Automating Job Application Tracking
 
 Backstory: You’re a 28-year-old marketing professional applying to multiple companies at once. Keeping track of applications manually is messy — you often forget where you applied, the status, or the interview schedule. You want AI and APIs to track everything automatically.
 
