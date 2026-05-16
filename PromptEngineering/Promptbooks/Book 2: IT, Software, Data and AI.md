@@ -2622,16 +2622,24 @@ Input Files & Code Section:
 `
 Backstory: Your project management SaaS tool has powerful features, but most customers only use the basic ones because they’re unaware of advanced capabilities.
 `
+
 `
 Goal: Build interactive, click-through tutorials inside the app to teach advanced features.
+`
 
+`
 Prompt:
+`
 
+`
 "You are a Product Education Content Developer. I need you to create in-app interactive tutorials for our project management platform.
+`
 
+`
 Your task:
+`
 
-
+`````
 1. Select top 5 underused advanced features.
 
 2. Create step-by-step walkthrough scripts for each.
@@ -2641,19 +2649,25 @@ Your task:
 4. Include progress tracking so users can resume later.
 
 5. Prepare text, screenshots, and instructional videos for each step.
+`````
 
+`
 Output format: JSON tutorial script for app integration + video files + image assets.
+`
 
+`
 Input Files & Code Section:
+`
 
+```
+1. Feature usage analytics CSV.
 
-Feature usage analytics CSV.
+2. UI screenshot set.
 
-UI screenshot set.
+3. In-app tutorial framework documentation."
+```
 
-In-app tutorial framework documentation."
-
-Prompt 7 — Writing Compliance & Policy Documentation
+## Prompt 7 — Writing Compliance & Policy Documentation
 
 Backstory: You’ve launched a fintech app, but regulatory requirements demand that you publish clear compliance policies for users.
 
