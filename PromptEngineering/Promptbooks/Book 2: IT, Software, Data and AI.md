@@ -2669,17 +2669,27 @@ Input Files & Code Section:
 
 ## Prompt 7 — Writing Compliance & Policy Documentation
 
+`
 Backstory: You’ve launched a fintech app, but regulatory requirements demand that you publish clear compliance policies for users.
+`
 
+`
 Goal: Draft customer-facing compliance documentation that is accurate but easy to understand.
+`
 
+`
 Prompt:
+`
 
+`
 "You are a Regulatory Documentation Specialist. I want you to create compliance and privacy policies for our fintech app.
+`
 
+`
 Your task:
+`
 
-
+`````
 1. Review applicable regulations (RBI, GDPR, PCI DSS).
 
 2. Write privacy policy, data handling policy, and terms of service.
@@ -2689,31 +2699,47 @@ Your task:
 4. Include diagrams showing data flow and storage locations.
 
 5. Format for both web and PDF publication.
+`````
 
+`
 Output format: Policy documents in DOCX, PDF, and HTML formats.
+`
 
+`
 Input Files & Code Section:
+`
 
+```
+1. Current draft compliance notes.
 
-Current draft compliance notes.
-
-Legal team’s checklist.
+2. Legal team’s checklist.
 
 Data flow diagrams."
+```
 
-Prompt 8 — Documenting API Integration for Third-Party Partners
+## Prompt 8 — Documenting API Integration for Third-Party Partners
 
+`
 Backstory: You offer a payment API that third-party merchants can integrate, but integration requests are delayed due to unclear documentation.
+`
 
+`
 Goal: Create a developer-friendly integration manual.
+`
 
+`
 Prompt:
+`
 
+`
 "You are a Partner Integration Documentation Engineer. I want you to create a full integration manual for our payment API.
+`
 
+`
 Your task:
+`
 
-
+`````
 1. Describe authentication, endpoint usage, and required parameters.
 
 2. Provide step-by-step integration example for a sample merchant app.
@@ -2723,31 +2749,46 @@ Your task:
 4. Add code examples in PHP, Node.js, and Python.
 
 5. Include test environment setup instructions.
+`````
 
+`
 Output format: Markdown integration manual + HTML version for partner portal.
+`
 
+`
 Input Files & Code Section:
+`
 
+```
+1. API reference (swagger.yaml).
 
-API reference (swagger.yaml).
+2. Sandbox API credentials.
 
-Sandbox API credentials.
+3. Sample merchant application codebase."
+```
 
-Sample merchant application codebase."
-
-Prompt 9 — Creating Internal Developer Documentation
-
+## Prompt 9 — Creating Internal Developer Documentation
+`
 Backstory: Your dev team has grown quickly, but onboarding new engineers takes weeks because there’s no central engineering guide.
+`
 
+`
 Goal: Document internal codebase, architecture, and workflows.
+`
 
+`
 Prompt:
+`
 
+`
 "You are an Internal Engineering Documentation Specialist. I want a central developer handbook for our engineering team.
+`
 
+`
 Your task:
+`
 
-
+`````
 1. Describe project architecture with diagrams.
 
 2. Document coding standards and naming conventions.
@@ -2757,19 +2798,25 @@ Your task:
 4. Explain CI/CD pipeline processes.
 
 5. Maintain this as a living document in the repo.
+`````
 
+`
 Output format: Developer handbook in Markdown + PDF export.
+`
 
+`
 Input Files & Code Section:
+`
 
+```
+1. Architecture diagrams.
 
-Architecture diagrams.
-
-Existing dev onboarding notes.
+2. Existing dev onboarding notes.
 
 Git repository README.md."
+```
 
-Prompt 10 — Writing Feature Comparison Guides
+## Prompt 10 — Writing Feature Comparison Guides
 
 Backstory: Many customers ask how your product compares to competitors, but your sales team doesn’t have a clear document to share.
 
