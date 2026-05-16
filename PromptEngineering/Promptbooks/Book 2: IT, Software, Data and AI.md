@@ -1913,17 +1913,27 @@ Email SMTP settings for low-stock alerts"
 
 ## Prompt 17 — Automating Customer Support Ticket Categorisation
 
+`
 Backstory: Your startup gets 200+ support emails daily. Agents waste time reading and assigning tickets manually.
+`
 
+`
 Goal: Use APIs and AI to automatically categorise tickets and assign them to the right team.
+`
 
+`
 Prompt:
+`
 
+`
 "You are a Customer Service Workflow Automation Engineer. I want to integrate Gmail API, NLP (Natural Language Processing), and a ticketing system API (like Zendesk).
+`
 
+`
 Your task:
+`
 
-
+`````
 1. Fetch new support emails via Gmail API.
 
 2. Run NLP classification to detect category (Billing, Technical Issue, General Query, Complaint).
@@ -1933,31 +1943,47 @@ Your task:
 4. Assign tickets to the relevant department queue.
 
 5. Send an auto-response email to the customer with an estimated resolution time.
+`````
 
+`
 Output format: Categorisation script + Zendesk integration + auto-reply email templates.
+`
 
+`
 Input Files & Code Section:
+`
 
+```
+1. Gmail API credentials
 
-Gmail API credentials
+2. NLP model or keyword mapping file
 
-NLP model or keyword mapping file
+3. Zendesk API credentials"
+```
 
-Zendesk API credentials"
+## Prompt 18 — Automating Daily Stock Market Newsletter
 
-Prompt 18 — Automating Daily Stock Market Newsletter
-
+`
 Backstory: You run a Telegram channel for stock market updates. Manually collecting news, stock prices, and analysis every morning is slow.
+`
 
+`
 Goal: Generate and send a daily market summary via email and Telegram using APIs.
+`
 
+`
 Prompt:
+`
 
+`
 "You are a Financial Automation Developer. I want a daily 7:30 AM IST newsletter combining stock prices, market news, and a short AI-generated analysis.
+`
 
+`
 Your task:
+`
 
-
+`````
 1. Connect to Yahoo Finance API for NIFTY 50, SENSEX, and top 10 stocks data.
 
 2. Pull top 5 market news headlines from News API.
@@ -1967,33 +1993,49 @@ Your task:
 4. Send the report via Gmail API and post to a Telegram channel via Telegram Bot API.
 
 5. Store all reports in a Google Drive folder for archiving.
+`````
 
+`
 Output format: Automated newsletter script + Telegram bot setup + daily report template.
+`
 
+`
 Input Files & Code Section:
+`
 
+````
+1. Yahoo Finance API key
 
-Yahoo Finance API key
+2. News API key
 
-News API key
-
-OpenAI GPT API key
+3. OpenAI GPT API key
 
 Gmail API and Telegram Bot credentials"
+````
 
-Prompt 19 — Automating Attendance Tracking with Face Recognition
+## Prompt 19 — Automating Attendance Tracking with Face Recognition
 
+`
 Backstory: Your office wants to replace manual attendance sheets with automated facial recognition connected to HR software.
+`
 
+`
 Goal: Build a system that captures attendance via webcam and updates HR records automatically.
+`
 
+`
 Prompt:
+`
 
+`
 "You are an AI-Driven HR Automation Specialist. I want a face recognition attendance tracker that integrates with Zoho People API.
+`
 
+`
 Your task:
+`
 
-
+`````
 1. Connect a webcam to capture employee images at check-in/check-out.
 
 2. Run face recognition using an API like AWS Rekognition or OpenCV.
@@ -2003,19 +2045,25 @@ Your task:
 4. Update attendance in Zoho People API.
 
 5. Send a daily attendance summary to HR.
+`````
 
+`
 Output format: Attendance capture script + Zoho API integration + HR report template.
+`
 
+`
 Input Files & Code Section:
+`
 
+```
+1. Zoho People API credentials
 
-Zoho People API credentials
+2. Employee ID to face mapping database
 
-Employee ID to face mapping database
+3. Webcam access permissions and recognition API credentials"
+```
 
-Webcam access permissions and recognition API credentials"
-
-Prompt 20 — Automating Podcast Transcription and Upload
+## Prompt 20 — Automating Podcast Transcription and Upload
 
 Backstory: You run a podcast and need transcripts for SEO and accessibility. Doing it manually takes hours.
 
