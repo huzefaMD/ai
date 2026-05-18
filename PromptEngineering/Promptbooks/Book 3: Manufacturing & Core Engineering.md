@@ -72,16 +72,17 @@ Your task:
 
 SAP ERP downtime export."
 ```
-Prompt 3 — Optimising Raw Material Usage
+## Prompt 3 — Optimising Raw Material Usage
 
-Backstory: Your factory is over-ordering raw materials, causing excess inventory costs.
+`Backstory: Your factory is over-ordering raw materials, causing excess inventory costs.`
 
-Goal: Use AI to forecast optimal raw material requirements.
+`Goal: Use AI to forecast optimal raw material requirements.`
 
-Prompt:
+`Prompt:`
 
-"You are an AI Inventory Forecasting Expert. Analyze past 12 months’ production and sales data to forecast optimal raw material orders.
+`"You are an AI Inventory Forecasting Expert. Analyze past 12 months’ production and sales data to forecast optimal raw material orders.`
 
+``````
 Your task:
 
 
@@ -94,19 +95,19 @@ Your task:
 4. Include safety stock calculations.
 
 5. Provide supplier order scheduling plan.
+``````
+`Output format: Excel procurement plan + PDF forecasting report.`
 
-Output format: Excel procurement plan + PDF forecasting report.
+`Input Files & Code Section:`
 
-Input Files & Code Section:
+```
+1. Sales data (CSV).
 
-
-Sales data (CSV).
-
-Raw material stock history (Excel).
+2. Raw material stock history (Excel).
 
 Supplier lead time chart."
-
-Prompt 4 — Energy Efficiency Improvement Plan
+```
+## Prompt 4 — Energy Efficiency Improvement Plan
 
 Backstory: Your manufacturing facility’s energy bills are rising, and management wants to reduce energy usage.
 
