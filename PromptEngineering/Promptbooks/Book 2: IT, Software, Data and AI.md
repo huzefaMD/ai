@@ -1272,11 +1272,10 @@ Output format: Investor-ready slide deck with visuals, ratio analysis, and growt
 "You are an API Integration Engineer with expertise in REST (Representational State Transfer) and GraphQL APIs. I want to create a single automated workflow that combines data from Google Sheets, Shopify, and Google Analytics APIs.
 `
 
-`
+``````
 Your task:
-`
 
-`````
+
 1. Authenticate each API using OAuth 2.0 and store tokens securely.
 
 2. Pull product sales data from Shopify, website traffic data from Google Analytics, and inventory data from Google Sheets.
@@ -1286,7 +1285,7 @@ Your task:
 4. Schedule the workflow to run daily at midnight using a cron job or cloud scheduler.
 
 5. Include logging for errors and success status.
-`````
+``````
 
 `
 Output format: Python script with step-by-step API calls, merged dataset output as CSV, and instructions for deployment in a cloud environment (AWS Lambda or Google Cloud Functions)."
@@ -1298,11 +1297,10 @@ Output format: Python script with step-by-step API calls, merged dataset output 
 "You are a Social Media Automation Specialist experienced with the Meta Graph API, LinkedIn API, and Twitter API (now X API). I manage 3 platforms and want to post the same content automatically at scheduled times.
 `
 
-`
+``````
 Your task:
-`
 
-`````
+
 1. Authenticate all platform APIs and handle rate limits.
 
 2. Create a reusable function that posts text, images, and videos from a single JSON file.
@@ -1312,7 +1310,7 @@ Your task:
 4. Schedule posts using a job scheduler (like APScheduler in Python).
 
 5. Log post IDs and engagement metrics for tracking.
-`````
+``````
 
 `
 Output format: Python automation script + setup instructions + sample JSON template for post content."
@@ -1324,11 +1322,10 @@ Output format: Python automation script + setup instructions + sample JSON templ
 "You are a CRM Workflow Automation Engineer skilled in HubSpot, Salesforce, and Zoho CRM APIs. I receive customer leads from a website form and want them automatically added to my CRM with tags for campaign tracking.
 `
 
-`
+``````
 Your task:
-`
 
-`````
+
 1. Set up a webhook to receive form submissions in real time.
 
 2. Transform form data into the CRM’s required JSON format.
@@ -1338,7 +1335,7 @@ Your task:
 4. Send a confirmation email to the lead using the CRM’s email API.
 
 5. Log each successful lead creation in a Google Sheet via API.
-`````
+``````
 
 `
 Output format: API workflow diagram + example webhook handler code + CRM API call scripts."
@@ -1350,11 +1347,10 @@ Output format: API workflow diagram + example webhook handler code + CRM API cal
 "You are an Email Marketing Automation Expert familiar with Mailchimp, SendGrid, and ActiveCampaign APIs. I want to send a weekly newsletter automatically using my Google Sheets contact list.
 `
 
-`
+``````
 Your task:
-`
 
-`````
+
 1. Connect Google Sheets API to read subscriber list.
 
 2. Connect the chosen email service API and authenticate securely.
@@ -1364,7 +1360,7 @@ Your task:
 4. Send emails in batches to avoid exceeding API rate limits.
 
 5. Update the Google Sheet with a “last sent” timestamp for each contact.
-`````
+``````
 
 `
 Output format: Python/Node.js script + deployment guide + API keys & secrets handling instructions."
@@ -1376,11 +1372,10 @@ Output format: Python/Node.js script + deployment guide + API keys & secrets han
 "You are a Cloud Automation Engineer skilled in AWS S3, Google Drive, and Dropbox APIs. I have a folder on my local machine containing financial reports that must be backed up daily to all three cloud platforms.
 `
 
-`
+``````
 Your task:
-`
 
-`````
+
 1. Authenticate with all three cloud APIs.
 
 2. Compress the local folder into a timestamped ZIP file.
@@ -1390,7 +1385,7 @@ Your task:
 4. Send an email notification with file URLs after successful upload.
 
 5. Log the backup details in a CSV file for auditing.
-`````
+``````
 
 `
 Output format: Shell/Python script + setup instructions + automation scheduling plan."
@@ -1402,11 +1397,10 @@ Output format: Shell/Python script + setup instructions + automation scheduling 
 "You are a Financial Data Automation Specialist experienced in Alpha Vantage, Yahoo Finance, and TradingView APIs. I want to track live stock prices for a watchlist of 10 Indian companies and receive alerts when prices change more than ±3% in a day.
 `
 
-`
+``````
 Your task:
-`
 
-`````
+
 1. Connect to the stock price API with authentication.
 
 2. Create a script to fetch and store real-time prices every 5 minutes.
@@ -1416,7 +1410,7 @@ Your task:
 4. Trigger an email/SMS alert when the ±3% threshold is crossed.
 
 5. Store all intraday data in a CSV for end-of-day analysis.
-`````
+``````
 
 `
 Output format: Python script + CSV logging + alert system integration plan.
@@ -1440,11 +1434,10 @@ Input Files & Code Section:
 "You are a Document Automation Engineer skilled in ReportLab, wkhtmltopdf, and Google Docs API. I have daily sales data in CSV format and need automatically generated PDF invoices sent to customers.
 `
 
-`
+``````
 Your task:
-`
 
-`````
+
 1. Read the CSV to fetch customer details, products, and prices.
 
 2. Generate a branded PDF invoice for each customer.
@@ -1454,7 +1447,7 @@ Your task:
 4. Email the invoice to the customer with a personalised message.
 
 5. Log invoice status (sent, pending, failed) in a Google Sheet.
-`````
+``````
 
 `
 Output format: Python script + invoice PDF template + Google Drive integration guide.
@@ -1478,11 +1471,10 @@ Input Files & Code Section:
 "You are an Agricultural IoT Automation Specialist skilled in OpenWeatherMap API and smart irrigation systems. I want to automate irrigation based on real-time weather data.
 `
 
-`
+``````
 Your task:
-`
 
-`````
+
 1. Connect to the OpenWeatherMap API to fetch daily forecasts.
 
 2. If rainfall probability is >70%, delay irrigation by 24 hours.
@@ -1492,7 +1484,7 @@ Your task:
 4. Send an SMS to the farmer confirming the decision.
 
 5. Log all actions in a daily report file.
-`````
+``````
 
 `
 Output format: IoT control script + weather API integration + action logging.
@@ -1516,11 +1508,10 @@ Placeholder for SMS gateway integration code."
 "You are a YouTube API Automation Specialist. I want to upload videos from a folder to YouTube with titles, descriptions, and tags automatically pulled from a CSV file.
 `
 
-`
+``````
 Your task:
-`
 
-`````
+
 1. Authenticate using YouTube Data API v3 with OAuth 2.0.
 
 2. Loop through a folder containing video files.
@@ -1530,7 +1521,7 @@ Your task:
 4. Upload each video with the corresponding metadata.
 
 5. Log upload IDs and publish status.
-`````
+``````
 
 `
 Output format: Python script + CSV metadata mapping + OAuth setup guide.
@@ -1554,11 +1545,10 @@ client_secret.json for OAuth credentials."
 "You are a Currency Data Automation Specialist. I want to fetch daily INR to USD, EUR, and GBP exchange rates and update them in my Google Sheet automatically.
 `
 
-`
+``````
 Your task:
-`
 
-`````
+
 1. Connect to a currency exchange API (e.g., ExchangeRate-API).
 
 2. Fetch latest conversion rates for INR to target currencies.
@@ -1568,7 +1558,7 @@ Your task:
 4. Include timestamp of last update.
 
 5. Schedule script to run daily at 8 AM IST.
-`````
+``````
 
 `
 Output format: Python script + Google Sheets API integration + scheduler setup guide.
@@ -1604,11 +1594,10 @@ Prompt:
 "You are a Job Search Workflow Automation Engineer. I want an automated job application tracker that consolidates applications from LinkedIn Jobs and Naukri.com using their APIs/webhooks.
 `
 
-`
+``````
 Your task:
-`
 
-`````
+
 1. Authenticate with LinkedIn API and Naukri.com’s developer API (or scrape data if no API exists).
 
 2. Fetch job title, company name, date applied, status (applied, shortlisted, interview scheduled), and job link.
@@ -1618,7 +1607,7 @@ Your task:
 4. Highlight rows where the application has been idle for >14 days.
 
 5. Send me a daily email digest of new application updates.
-`````
+``````
 
 `
 Output format: Google Sheet dashboard + email digest example + API scripts.
@@ -1654,11 +1643,10 @@ Prompt:
 "You are a Real Estate Data Automation Specialist skilled in integrating housing.com, magicbricks.com, and 99acres.com APIs.
 `
 
-`
+``````
 Your task:
-`
 
-`````
+
 1. Fetch property listings for specified locations (e.g., Whitefield, Indiranagar) within a budget range.
 
 2. Extract details — price, size (sqft), price per sqft, location link.
@@ -1668,7 +1656,7 @@ Your task:
 4. Trigger an SMS alert when a property price drops more than 5% from last week.
 
 5. Generate a weekly PDF market trend report.
-`````
+``````
 
 `
 Output format: Google Sheet tracker + automated PDF report + SMS alert script.
@@ -1704,11 +1692,10 @@ Prompt:
 "You are a Business Workflow Automation Specialist. I want to automate client payment reminders using QuickBooks API and Gmail API.
 `
 
-`
+``````
 Your task:
-`
 
-`````
+
 1. Pull unpaid invoice data from QuickBooks API with due dates.
 
 2. Identify invoices past due by 7, 14, or 21 days.
@@ -1718,7 +1705,7 @@ Your task:
 4. Log all sent reminders in a Google Sheet.
 
 5. Mark the invoice in QuickBooks with “reminder sent” status.
-`````
+``````
 
 `
 Output format: Automated reminder script + email template files + logging spreadsheet.
@@ -1754,11 +1741,10 @@ Prompt:
 "You are a Recruitment Automation Specialist. I want to integrate Google Drive API and an NLP model to process incoming resumes.
 `
 
-`
+``````
 Your task:
-`
 
-`````
+
 1. Monitor a Google Drive folder for new resumes.
 
 2. Extract text from PDFs/DOCs using an OCR/NLP API.
@@ -1768,7 +1754,7 @@ Your task:
 4. Move shortlisted resumes to a “Shortlisted” folder.
 
 5. Email a daily summary to the hiring manager with names and matched skills.
-`````
+``````
 
 `
 Output format: Resume screening script + summary email template + candidate matching report.
@@ -1804,11 +1790,10 @@ Prompt:
 "You are a Social Media Analytics Automation Engineer. I want a system that fetches my YouTube video comments weekly, analyses sentiment, and creates a dashboard.
 `
 
-`
+``````
 Your task:
-`
 
-`````
+
 1. Connect to YouTube Data API to fetch comments for all videos from the last 7 days.
 
 2. Run sentiment analysis using a pre-trained model (e.g., VADER, BERT).
@@ -1818,7 +1803,7 @@ Your task:
 4. Create visualisations showing weekly sentiment trends.
 
 5. Generate a PDF report and store it in Google Drive.
-`````
+``````
 
 `
 Output format: Sentiment analysis notebook + dashboard + weekly PDF.
@@ -1854,11 +1839,10 @@ Prompt:
 "You are an E-commerce API Integration Specialist. I want a single source of truth for my inventory, updated across Amazon, Flipkart, and Shopify in real time.
 `
 
-`
+``````
 Your task:
-`
 
-`````
+
 1. Connect to all three platform APIs using secure authentication (API keys or OAuth).
 
 2. Fetch the latest inventory count from my central warehouse database or Google Sheet.
@@ -1868,7 +1852,7 @@ Your task:
 4. Send me an email if a product’s stock falls below a reorder threshold.
 
 5. Log all updates with timestamp, product ID, and before/after quantities.
-`````
+``````
 
 `
 Output format: Inventory sync script + alert email template + update log file.
@@ -1904,11 +1888,10 @@ Prompt:
 "You are a Customer Service Workflow Automation Engineer. I want to integrate Gmail API, NLP (Natural Language Processing), and a ticketing system API (like Zendesk).
 `
 
-`
+``````
 Your task:
-`
 
-`````
+
 1. Fetch new support emails via Gmail API.
 
 2. Run NLP classification to detect category (Billing, Technical Issue, General Query, Complaint).
@@ -1918,7 +1901,7 @@ Your task:
 4. Assign tickets to the relevant department queue.
 
 5. Send an auto-response email to the customer with an estimated resolution time.
-`````
+``````
 
 `
 Output format: Categorisation script + Zendesk integration + auto-reply email templates.
@@ -1954,11 +1937,10 @@ Prompt:
 "You are a Financial Automation Developer. I want a daily 7:30 AM IST newsletter combining stock prices, market news, and a short AI-generated analysis.
 `
 
-`
+``````
 Your task:
-`
 
-`````
+
 1. Connect to Yahoo Finance API for NIFTY 50, SENSEX, and top 10 stocks data.
 
 2. Pull top 5 market news headlines from News API.
@@ -1968,7 +1950,7 @@ Your task:
 4. Send the report via Gmail API and post to a Telegram channel via Telegram Bot API.
 
 5. Store all reports in a Google Drive folder for archiving.
-`````
+``````
 
 `
 Output format: Automated newsletter script + Telegram bot setup + daily report template.
@@ -2006,11 +1988,10 @@ Prompt:
 "You are an AI-Driven HR Automation Specialist. I want a face recognition attendance tracker that integrates with Zoho People API.
 `
 
-`
+``````
 Your task:
-`
 
-`````
+
 1. Connect a webcam to capture employee images at check-in/check-out.
 
 2. Run face recognition using an API like AWS Rekognition or OpenCV.
@@ -2020,7 +2001,7 @@ Your task:
 4. Update attendance in Zoho People API.
 
 5. Send a daily attendance summary to HR.
-`````
+``````
 
 `
 Output format: Attendance capture script + Zoho API integration + HR report template.
@@ -2056,11 +2037,10 @@ Prompt:
 "You are a Content Automation Engineer. I want an automation that listens for new podcast episodes, transcribes them, and publishes to my WordPress blog.
 `
 
-`
+``````
 Your task:
-`
 
-`````
+
 1. Monitor an RSS feed for new podcast episodes.
 
 2. Download the audio file.
@@ -2070,7 +2050,7 @@ Your task:
 4. Format the transcript into a blog-friendly HTML format.
 
 5. Upload it as a new blog post via WordPress REST API.
-`````
+``````
 
 `
 Output format: End-to-end transcription and upload script + blog post HTML template.
@@ -2106,11 +2086,10 @@ Prompt:
 "You are a Business Intelligence Automation Specialist. I want an automated data pipeline feeding my Power BI dashboard daily.
 `
 
-`
+``````
 Your task:
-`
 
-`````
+
 1. Fetch sales data from CRM API (HubSpot or Salesforce).
 
 2. Fetch expenses from accounting API (QuickBooks or Zoho Books).
@@ -2120,7 +2099,7 @@ Your task:
 4. Push all data to a Power BI dataset via REST API.
 
 5. Refresh dashboard daily at 7 AM IST.
-`````
+``````
 
 `
 Output format: ETL (Extract, Transform, Load) script + Power BI dataset refresh automation.
@@ -2158,11 +2137,10 @@ Prompt:
 "You are a Legal Tech Automation Specialist. I want an API-based system that populates legal document templates from a client database.
 `
 
-`
+``````
 Your task:
-`
 
-`````
+
 1. Store client details (name, address, contract terms) in a Google Sheet or database.
 
 2. Pull data via API and inject into pre-defined Word/PDF templates.
@@ -2172,7 +2150,7 @@ Your task:
 4. Track sent documents in a log sheet.
 
 5. Allow re-generation if client data changes.
-`````
+``````
 
 `
 Output format: Document automation script + legal template folder + logging sheet.
@@ -2208,11 +2186,10 @@ Prompt:
 "You are a Food Tech API Integration Specialist. I want a centralised order management system pulling data from Zomato, Swiggy, and my website.
 `
 
-`
+``````
 Your task:
-`
 
-`````
+
 1. Connect to all order APIs with authentication.
 
 2. Merge incoming orders into one dashboard view.
@@ -2222,7 +2199,7 @@ Your task:
 4. Trigger kitchen ticket printing via printer API.
 
 5. Store all order data for monthly analysis.
-`````
+``````
 
 `
 Output format: Order aggregation script + kitchen display dashboard + SMS integration.
@@ -2258,11 +2235,10 @@ Prompt:
 "You are a Social Media Engagement Automation Engineer. I want to use Instagram Graph API and NLP to auto-reply to comments.
 `
 
-`
+``````
 Your task:
-`
 
-`````
+
 1. Fetch new comments via Instagram API.
 
 2. Run keyword & sentiment analysis to classify the comment.
@@ -2272,7 +2248,7 @@ Your task:
 4. Post the reply via API.
 
 5. Log all replied comments in Google Sheets.
-`````
+``````
 
 `
 Output format: Comment reply automation script + sentiment keyword mapping + logging sheet.
@@ -2308,11 +2284,10 @@ Prompt:
 "You are a Video Content Automation Specialist. I want to pull my latest YouTube videos, create 60-second highlights, auto-caption them, and upload to Instagram.
 `
 
-`
+``````
 Your task:
-`
 
-`````
+
 1. Fetch video from YouTube Data API.
 
 2. Trim to highlight section based on timestamps from a CSV.
@@ -2322,7 +2297,7 @@ Your task:
 4. Upload to Instagram via Instagram Graph API.
 
 5. Store uploaded video link in a Google Sheet.
-`````
+``````
 
 `
 Output format: Video processing script + Instagram upload automation + logging system.
