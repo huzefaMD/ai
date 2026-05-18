@@ -4333,7 +4333,7 @@ Your task:
 4. Track who changes passwords after reminders.
 
 5. Generate a monthly compliance report.
-`
+`````
 
 `
 Output format: Reminder script + email template + compliance tracking sheet.
@@ -4350,17 +4350,27 @@ Input Files & Code Section:
 ``
 ## Prompt 16 — Automating Encrypted File Sharing
 
+`
 Backstory: Your legal team frequently shares confidential documents with clients, but sending via regular email is risky.
+`
 
+`
 Goal: Create a secure encrypted file-sharing automation.
+`
 
+`
 Prompt:
+`
 
+`
 "You are a Secure File Transfer Automation Expert. I want to encrypt files and send them via a secure download link that expires after 48 hours.
+`
 
+`
 Your task:
+`
 
-
+`````
 1. Accept file upload from the legal team.
 
 2. Encrypt the file using AES-256.
@@ -4370,29 +4380,44 @@ Your task:
 4. Generate a time-limited download link.
 
 5. Email the link to the client with a decryption key sent separately.
+`````
 
+`
 Output format: Secure sharing script + encryption guide + link expiration setup.
+`
 
+`
 Input Files & Code Section:
+`
 
+``
+1. Encryption key management file
 
-Encryption key management file
+2. Cloud storage API credentials"
+``
+## Prompt 17 — Automating Insider Threat Detection
 
-Cloud storage API credentials"
-
-Prompt 17 — Automating Insider Threat Detection
-
+`
 Backstory: A recently resigned employee downloaded large volumes of data before leaving.
+`
 
+`
 Goal: Detect unusual internal data access patterns.
+`
 
+`
 Prompt:
+`
 
+`
 "You are an Insider Threat Monitoring Specialist. I want a system that flags abnormal access activity by employees.
+`
 
+`
 Your task:
+`
 
-
+`````
 1. Collect access logs from file servers, databases, and cloud storage.
 
 2. Identify sudden spikes in file downloads or sensitive data access.
@@ -4402,31 +4427,46 @@ Your task:
 4. Flag anomalies and send alerts to security admins.
 
 5. Log all incidents for investigation.
+`````
 
+`
 Output format: Threat detection script + anomaly detection rules + alert system.
+`
 
+`
 Input Files & Code Section:
+`
 
+```
+1. Access log API endpoints
 
-Access log API endpoints
+2. User activity baseline data CSV
 
-User activity baseline data CSV
+3. Email/SMS API credentials"
+```
+## Prompt 18 — Automating Compliance Document Management
 
-Email/SMS API credentials"
-
-Prompt 18 — Automating Compliance Document Management
-
+`
 Backstory: You must submit ISO 27001 compliance reports annually, but collecting required documents is messy.
+`
 
+`
 Goal: Automate collection and organisation of compliance evidence.
+`
 
+`
 Prompt:
+`
 
+`
 "You are a Compliance Automation Specialist. I want a system that fetches logs, audit reports, and policy documents from multiple systems into one folder.
+`
 
+`
 Your task:
+`
 
-
+`````
 1. Connect to APIs for security tools, HR systems, and monitoring platforms.
 
 2. Download latest compliance-related files.
@@ -4436,29 +4476,44 @@ Your task:
 4. Generate a manifest listing all collected documents.
 
 5. Zip and archive the folder.
+`````
 
+`
 Output format: Document collection script + manifest file + folder structure template.
+`
 
+`
 Input Files & Code Section:
+`
 
-
-API credentials for each system
+``
+1. API credentials for each system
 
 Compliance checklist JSON"
+``
+## Prompt 19 — Automating Ransomware Simulation Drills
 
-Prompt 19 — Automating Ransomware Simulation Drills
-
+`
 Backstory: You want your IT team prepared for ransomware attacks, but training is irregular.
+`
 
+`
 Goal: Automate simulated ransomware drills.
+`
 
+`
 Prompt:
+`
 
+`
 "You are a Cybersecurity Training Automation Engineer. I want a script that simulates a ransomware infection without actually encrypting files.
+`
 
+`
 Your task:
+`
 
-
+`````
 1. Rename and lock sample files in a sandbox environment.
 
 2. Display a mock ransom note.
@@ -4468,29 +4523,44 @@ Your task:
 4. Record time taken to respond.
 
 5. Generate a performance report.
+`````
 
+`
 Output format: Simulation script + ransom note template + performance report.
+`
 
+`
 Input Files & Code Section:
+`
 
+``
+1. Sandbox environment setup file
 
-Sandbox environment setup file
+2. Sample file set"
+``
+## Prompt 20 — Automating API Security Testing
 
-Sample file set"
-
-Prompt 20 — Automating API Security Testing
-
+`
 Backstory: Your company’s APIs are public-facing, and you want to test them regularly for vulnerabilities.
+`
 
+`
 Goal: Create an automated API penetration testing tool.
+`
 
+`
 Prompt:
+`
 
+`
 "You are an API Security Testing Specialist. I want a script that runs OWASP API Security Top 10 checks on all company APIs.
+`
 
+`
 Your task:
+`
 
-
+`````
 1. Load list of API endpoints from a file.
 
 2. Run tests for authentication flaws, excessive data exposure, and injection attacks.
@@ -4500,17 +4570,22 @@ Your task:
 4. Notify developers of high-risk vulnerabilities.
 
 5. Store results for trend analysis.
+`````
 
+`
 Output format: API security scan script + vulnerability report + notification system.
+`
 
+`
 Input Files & Code Section:
+`
 
+``
+1. API endpoint list CSV
 
-API endpoint list CSV
-
-API security rules JSON"
-
-Prompt 21 — Automating Cloud Security Policy Enforcement
+2. API security rules JSON"
+``
+## Prompt 21 — Automating Cloud Security Policy Enforcement
 
 Backstory: Your cloud storage contains sensitive client contracts, but some employees make files public by mistake.
 
@@ -4538,7 +4613,7 @@ Output format: Permission scan script + remediation log + owner notification ema
 Input Files & Code Section:
 
 
-Cloud storage API credentials
+-Cloud storage API credentials
 
 Approved user list CSV
 
