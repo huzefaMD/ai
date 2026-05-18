@@ -3814,17 +3814,27 @@ Input Files & Code Section:
 
 ## Prompt 5 — Automating Vulnerability Scans
 
+`
 Backstory: You’re a security analyst at a SaaS startup. You run vulnerability scans manually once a month, but threats change daily.
+`
 
+`
 Goal: Schedule automated vulnerability scans for all production servers.
+`
 
+`
 Prompt:
+`
 
+`
 "You are a Security Scan Automation Engineer. I want to run daily vulnerability scans and generate reports automatically.
+`
 
+`
 Your task:
+`
 
-
+`````
 1. Integrate with a vulnerability scanning tool API (e.g., Nessus, OpenVAS).
 
 2. Schedule scans for all server IPs.
@@ -3834,31 +3844,47 @@ Your task:
 4. Send a daily email summary with high-risk vulnerabilities.
 
 5. Track vulnerability history in a Google Sheet.
+`````
 
+`
 Output format: Scheduled scan automation + PDF reporting script + risk tracking spreadsheet.
+`
 
+`
 Input Files & Code Section:
+`
 
+```
+1. Vulnerability scanner API credentials
 
-Vulnerability scanner API credentials
+2. Server IP list CSV
 
-Server IP list CSV
+3. Google Sheets API credentials"
+```
 
-Google Sheets API credentials"
+## Prompt 6 — Automating Two-Factor Authentication (2FA) Setup for All Users
 
-Prompt 6 — Automating Two-Factor Authentication (2FA) Setup for All Users
-
+`
 Backstory: You’re a system admin at a mid-sized company. Many employees still use only passwords to log in, making the company vulnerable to credential theft.
+`
 
+`
 Goal: Enforce and automate 2FA setup across all employee accounts using APIs.
+`
 
+`
 Prompt:
+`
 
+`
 "You are an Identity & Access Management Automation Specialist. I want to roll out mandatory Two-Factor Authentication for all company accounts in Google Workspace.
+`
 
+`
 Your task:
+`
 
-
+`````
 1. Use Google Admin SDK API to identify accounts without 2FA enabled.
 
 2. Send automated emails prompting users to enable 2FA.
@@ -3868,31 +3894,46 @@ Your task:
 4. Disable accounts not compliant after 7 days.
 
 5. Generate a compliance report for management.
+`````
 
+`
 Output format: 2FA enforcement script + email template + compliance report spreadsheet.
+`
 
+`
 Input Files & Code Section:
+`
 
+```
+1. Google Admin SDK API credentials
 
-Google Admin SDK API credentials
-
-Email template file
+2. Email template file
 
 Compliance tracking CSV"
+```
+## Prompt 7 — Automating Data Breach Monitoring with Dark Web Scans
 
-Prompt 7 — Automating Data Breach Monitoring with Dark Web Scans
-
+`
 Backstory: A client’s credentials were leaked on the dark web, and you only found out weeks later. You want to monitor this proactively.
+`
 
+`
 Goal: Create an automation that scans the dark web for stolen company credentials.
+`
 
+`
 Prompt:
+`
 
+`
 "You are a Threat Intelligence Automation Engineer. I want to integrate HaveIBeenPwned API and a dark web monitoring API to scan for leaked email/password combinations.
+`
 
+`
 Your task:
+`
 
-
+`````
 1. Fetch employee email list from HR database.
 
 2. Query APIs for data breaches linked to these emails.
@@ -3902,31 +3943,46 @@ Your task:
 4. The store results in an encrypted database.
 
 5. Send a monthly summary to the security team.
+`````
 
+`
 Output format: Breach monitoring script + notification template + encrypted breach database.
+`
 
+`
 Input Files & Code Section:
+`
 
+```
+1. API keys for HaveIBeenPwned and dark web monitoring tool
 
-API keys for HaveIBeenPwned and dark web monitoring tool
-
-Employee email list CSV
+2. Employee email list CSV
 
 Email SMTP settings for alerts"
+```
+## Prompt 8 — Automating Role-Based Access Control (RBAC) Updates
 
-Prompt 8 — Automating Role-Based Access Control (RBAC) Updates
-
+`
 Backstory: Employees change departments often, but their access permissions stay the same, leaving old data vulnerable.
+`
 
+`
 Goal: Automate RBAC updates based on HR records.
+`
 
+`
 Prompt:
+`
 
+`
 "You are an Access Control Automation Expert. I want an integration between our HR system and internal application APIs to update user permissions automatically.
+`
 
+`
 Your task:
+`
 
-
+`````
 1. Fetch updated employee roles from HR system API.
 
 2. Compare current permissions in application API.
@@ -3936,31 +3992,46 @@ Your task:
 4. Log all changes with timestamps.
 
 5. Notify IT admin for high-privilege changes.
+`````
 
+`
 Output format: RBAC sync script + permissions change log + alert email template.
+`
 
+`
 Input Files & Code Section:
+`
 
+```
+1. HR system API credentials
 
-HR system API credentials
-
-Application API credentials
+2. Application API credentials
 
 Role-to-permission mapping JSON"
+```
+## Prompt 9 — Automating Security Awareness Quizzes
 
-Prompt 9 — Automating Security Awareness Quizzes
-
+`
 Backstory: Employees forget cybersecurity best practices unless reminded regularly.
+`
 
+`
 Goal: Send automated monthly security quizzes to employees via email.
+`
 
+`
 Prompt:
+`
 
+`
 "You are a Security Training Automation Specialist. I want a system that emails a short quiz to employees each month and records their scores.
+`
 
+`
 Your task:
+`
 
-
+`````
 1. Store quiz questions in a Google Sheet or database.
 
 2. Send quiz links via Gmail API.
@@ -3970,31 +4041,46 @@ Your task:
 4. Calculate scores and store in a results sheet.
 
 5. Flag employees who score below 70% for follow-up training.
+`````
 
+`
 Output format: Quiz automation script + question bank file + results dashboard.
+`
 
+`
 Input Files & Code Section:
+`
 
+```
+1. Google Sheets API credentials
 
-Google Sheets API credentials
-
-Gmail API credentials
+2. Gmail API credentials
 
 Quiz question CSV or database file"
+```
+## Prompt 10 — Automating SSL Certificate Expiry Alerts
 
-Prompt 10 — Automating SSL Certificate Expiry Alerts
-
+`
 Backstory: One of your client websites went down because the SSL certificate expired — and nobody noticed in time.
+`
 
+`
 Goal: Monitor SSL expiry dates and send alerts before expiration.
+`
 
+`
 Prompt:
+`
 
+`
 "You are a Web Security Automation Engineer. I want a system that checks SSL certificate expiry dates for a list of domains.
+`
 
+`
 Your task:
+`
 
-
+`````
 1. Fetch SSL certificate details for each domain.
 
 2. Identify expiry dates within the next 30 days.
@@ -4004,31 +4090,46 @@ Your task:
 4. Update a tracking sheet with expiry status.
 
 5. Repeat the check daily.
+`````
 
+`
 Output format: SSL monitoring script + expiry alert template + tracking spreadsheet.
+`
 
+`
 Input Files & Code Section:
+`
 
+```
+1. Domain list CSV
 
-Domain list CSV
+2. Email SMTP settings
 
-Email SMTP settings
+3. Google Sheets API credentials"
+```
+## Prompt 11 — Automating Endpoint Device Compliance Checks
 
-Google Sheets API credentials"
-
-Prompt 11 — Automating Endpoint Device Compliance Checks
-
+`
 Backstory: Your company has a Bring Your Own Device (BYOD) policy, but many employees connect with outdated or unpatched devices, creating security gaps.
+`
 
+`
 Goal: Automatically check if employee devices meet compliance requirements before allowing network access.
+`
 
+`
 Prompt:
+`
 
+`
 "You are an Endpoint Security Automation Engineer. I want a system that verifies employee device compliance (OS version, antivirus status, firewall enabled) every time they connect to the company network.
+`
 
+`
 Your task:
+`
 
-
+`````
 1. Integrate with an endpoint management API (e.g., Microsoft Intune, Jamf).
 
 2. Collect device compliance data in real time.
@@ -4038,31 +4139,46 @@ Your task:
 4. Notify the employee with steps to fix compliance issues.
 
 5. Log all non-compliant devices for security audits.
+`````
 
+`
 Output format: Compliance check script + access control API integration + remediation email template.
+`
 
+`
 Input Files & Code Section:
+`
 
+```
+1. Endpoint management API credentials
 
-Endpoint management API credentials
+2. Compliance rule configuration file (JSON)
 
-Compliance rule configuration file (JSON)
+3. Network access control API credentials"
+```
+## Prompt 12 — Automating Sensitive File Access Alerts
 
-Network access control API credentials"
-
-Prompt 12 — Automating Sensitive File Access Alerts
-
+`
 Backstory: You store financial reports in a shared drive, and last quarter a contractor downloaded files they weren’t supposed to access.
+`
 
+`
 Goal: Set up real-time alerts for access to sensitive files.
+`
 
+`
 Prompt:
+`
 
+`
 "You are a File Access Monitoring Specialist. I want an automation that detects and alerts whenever certain high-security files are accessed.
+`
 
+`
 Your task:
+`
 
-
+`````
 1. Connect to Google Drive API or internal file server API.
 
 2. Monitor access logs for the target file/folder.
@@ -4072,22 +4188,28 @@ Your task:
 4. Record details: user ID, timestamp, IP address.
 
 5. Send an incident report to the security team.
+`````
 
+`
 Output format: File access monitoring script + alerting system + incident report format.
+`
 
+`
 Input Files & Code Section:
+`
 
+```
+1. File/folder ID list CSV
 
-File/folder ID list CSV
-
-Approved user list CSV
+2. Approved user list CSV
 
 Email/SMS API credentials"
+```
+## Prompt 13 — Automating Database Security Audits
 
-Prompt 13 — Automating Database Security Audits
-
+`
 Backstory: Your customer database holds personal information, but monthly manual security audits take too much time and miss critical misconfigurations.
-
+`
 Goal: Automate periodic database security audits and reporting.
 
 Prompt:
