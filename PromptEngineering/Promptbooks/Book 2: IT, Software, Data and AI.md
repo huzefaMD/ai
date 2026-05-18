@@ -3714,17 +3714,27 @@ Input Files & Code Section:
 ```
 ## Prompt 3 — Automating Phishing Email Detection
 
+`
 Backstory: Your employees keep falling for phishing emails, leading to security risks. Manual awareness training isn’t enough.
+`
 
+`
 Goal: Build an API-based system that scans incoming emails and flags potential phishing attempts.
+`
 
+`
 Prompt:
+`
 
+`
 "You are an Email Security Automation Specialist. I want to integrate Gmail API with an AI phishing detection model.
+`
 
+`
 Your task:
+`
 
-
+`````
 1. Fetch incoming emails via Gmail API.
 
 2. Scan sender domains, suspicious keywords, and link redirections.
@@ -3734,19 +3744,25 @@ Your task:
 4. Move high-risk emails to a “Quarantine” folder.
 
 5. Send a weekly phishing report to the security team.
+`````
 
+`
 Output format: Email scanning script + risk scoring system + quarantine folder setup.
+`
 
-Input Files & Code Section:
+`
+### Input Files & Code Section:
+`
 
+```
+1. Gmail API credentials
 
-Gmail API credentials
+2. Keyword/risk pattern JSON file
 
-Keyword/risk pattern JSON file
+3. AI phishing detection model file"
+```
 
-AI phishing detection model file"
-
-Prompt 4 — Automating GDPR Data Deletion Requests
+## Prompt 4 — Automating GDPR Data Deletion Requests
 
 Backstory: Your European customers often request data deletion under GDPR laws. Handling requests manually is time-consuming and error-prone.
 
