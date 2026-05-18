@@ -4587,17 +4587,27 @@ Input Files & Code Section:
 ``
 ## Prompt 21 — Automating Cloud Security Policy Enforcement
 
+`
 Backstory: Your cloud storage contains sensitive client contracts, but some employees make files public by mistake.
+`
 
+`
 Goal: Automatically detect and fix misconfigured cloud permissions.
+`
 
+`
 Prompt:
+`
 
+`
 "You are a Cloud Security Automation Specialist. I want a system that scans all files in Google Drive/AWS S3 for public access and restricts them to approved users only.
+`
 
+`
 Your task:
+`
 
-
+`````
 1. Connect to the cloud storage API.
 
 2. Identify files/folders with public sharing enabled.
@@ -4607,31 +4617,46 @@ Your task:
 4. Notify the file owner about the change.
 
 5. Log all permission changes for audits.
+`````
 
+`
 Output format: Permission scan script + remediation log + owner notification email template.
+`
 
+`
 Input Files & Code Section:
+`
 
+```
+1. Cloud storage API credentials
 
--Cloud storage API credentials
+2. Approved user list CSV
 
-Approved user list CSV
+3. Notification email template"
+```
+## Prompt 22 — Automating Incident Response Playbook Execution
 
-Notification email template"
-
-Prompt 22 — Automating Incident Response Playbook Execution
-
+`
 Backstory: In case of a security breach, your IT team follows a manual checklist, which delays containment.
+`
 
+`
 Goal: Automate the first 10 minutes of incident response.
+`
 
+`
 Prompt:
+`
 
+`
 "You are a Security Incident Automation Engineer. I want a system that executes predefined playbook actions when a breach is detected.
+`
 
+`
 Your task:
+`
 
-
+`````
 1. Receive breach alert from SIEM (Security Information and Event Management) tool.
 
 2. Isolate affected servers from the network.
@@ -4641,31 +4666,46 @@ Your task:
 4. Notify the security team and management.
 
 5. Update the incident tracking system.
+`````
 
+`
 Output format: Incident response script + action log + notification system.
+`
 
+`
 Input Files & Code Section:
+`
 
+```
+1. SIEM API credentials
 
-SIEM API credentials
+2. Server isolation commands script
 
-Server isolation commands script
+3. Incident tracking tool API key"
+```
+## Prompt 23 — Automating Encrypted Chat for Sensitive Communications
 
-Incident tracking tool API key"
-
-Prompt 23 — Automating Encrypted Chat for Sensitive Communications
-
+`
 Backstory: Your legal team sometimes needs to chat securely with external lawyers, but regular Slack channels are not safe enough.
+`
 
+`
 Goal: Provide an automated, temporary encrypted chat channel.
+`
 
+`
 Prompt:
+`
 
+`
 "You are a Secure Communications Automation Specialist. I want a tool that creates an encrypted chat room that expires after 24 hours.
+`
 
+`
 Your task:
+`
 
-
+`````
 1. Generate a secure chat room via API (e.g., Matrix, Rocket.Chat).
 
 2. Require password-protected entry.
@@ -4675,29 +4715,44 @@ Your task:
 4. Automatically delete the chat room and logs after expiry.
 
 5. Email participants the join link and password.
+`````
 
+`
 Output format: Chat room creation script + deletion automation + participant email template.
+`
 
+`
 Input Files & Code Section:
+`
 
-
-Secure chat API credentials
+``
+1. Secure chat API credentials
 
 Participant email list CSV"
+``
+## Prompt 24 — Automating Malware File Scanning for Uploads
 
-Prompt 24 — Automating Malware File Scanning for Uploads
-
+`
 Backstory: Your website allows file uploads for client documents, but there’s a risk of malicious files being uploaded.
+`
 
+`
 Goal: Automatically scan all uploaded files for malware.
+`
 
+`
 Prompt:
+`
 
+`
 "You are a File Security Automation Engineer. I want an integration that scans each uploaded file with a malware detection API before it’s stored.
+`
 
+`
 Your task:
+`
 
-
+`````
 1. Intercept file uploads via the web application backend.
 
 2. Scan files using VirusTotal or ClamAV API.
@@ -4707,31 +4762,46 @@ Your task:
 4. Notify the uploader about rejection.
 
 5. Log scan results for audits.
+`````
 
+`
 Output format: File scanning script + quarantine folder setup + log file format.
+`
 
+`
 Input Files & Code Section:
+`
 
+```
+1. Malware scanning API credentials
 
-Malware scanning API credentials
+2. File storage path configuration
 
-File storage path configuration
+3. Notification email template"
+```
+## Prompt 25 — Automating Security Patch Deployment
 
-Notification email template"
-
-Prompt 25 — Automating Security Patch Deployment
-
+`
 Backstory: A zero-day vulnerability was discovered last month, but patching all systems took your team over a week.
+`
 
+`
 Goal: Deploy security patches automatically across all servers.
+`
 
+`
 Prompt:
+`
 
+`
 "You are a Patch Management Automation Specialist. I want a script that applies critical security patches across all systems as soon as they’re available.
+`
 
+`
 Your task:
+`
 
-
+`````
 1. Check vendor API or repositories for new patches.
 
 2. Download and install patches automatically.
@@ -4741,18 +4811,23 @@ Your task:
 4. Notify admins of patch completion.
 
 5. Maintain a patch history log.
+`````
 
+`
 Output format: Patch automation script + reboot schedule + patch log.
+`
 
+`
 Input Files & Code Section:
+`
 
+```
+1. Server list CSV
 
-Server list CSV
+2. Patch repository URLs
 
-Patch repository URLs
-
-Admin email list"
-
+3. Admin email list"
+```
 
 
 
