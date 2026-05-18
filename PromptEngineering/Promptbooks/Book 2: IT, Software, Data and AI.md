@@ -657,11 +657,10 @@ Output format: A Jupyter Notebook with fully commented code, inline plots, and a
 "You are a Business Intelligence (BI) Dashboard Expert skilled in Power BI, Tableau, and Google Data Studio. I have quarterly sales data for multiple product categories in India for the last 5 years.
 `
 
-`
+``````
 Your task:
-`
 
-`````
+
 1. Identify 5–7 key performance indicators (KPIs) relevant to retail business health (e.g., total revenue, gross margin, average order value, conversion rate).
 
 2. Design an interactive dashboard layout showing KPIs as cards at the top, trend charts in the middle, and filters (by time, category, location) on the side.
@@ -671,7 +670,7 @@ Your task:
 4. Add a geographic heatmap showing sales distribution across states, with hover tooltips.
 
 5. Include an export-to-PDF function for monthly reporting.
-`````
+``````
 
 `
 Output format: Provide a step-by-step dashboard build guide (tool-agnostic), a mockup diagram of the dashboard, and sample formulas for KPI calculations."
@@ -683,11 +682,10 @@ Output format: Provide a step-by-step dashboard build guide (tool-agnostic), a m
 "You are a Data Scientist specialising in forecasting. I have monthly sales data for an e-commerce platform from January 2018 to December 2024.
 `
 
-`
+``````
 Your task:
-`
 
-`````
+
 1. Perform time-series decomposition to analyse trend, seasonality, and residual components.
 
 2. Build at least two forecasting models (ARIMA/SARIMA and Facebook Prophet).
@@ -697,7 +695,7 @@ Your task:
 4. Plot actual vs predicted sales for both models and highlight differences.
 
 5. Provide recommendations for which model to deploy, along with a 12-month sales forecast.
-`````
+``````
 
 `
 Output format: A Python Jupyter Notebook with all code, plots, and a Markdown cell comparing models with business-friendly explanations."
@@ -709,11 +707,10 @@ Output format: A Python Jupyter Notebook with all code, plots, and a Markdown ce
 "You are a Data Preprocessing Automation Specialist skilled in Python and Pandas. I have a CSV file containing a mix of numerical, categorical, and datetime fields, with missing values and inconsistent formats.
 `
 
-`
+``````
 Your task:
-`
 
-`````
+
 1. Write a reusable Python script to detect and handle missing values using mean/median/mode or forward-fill/backward-fill depending on the column type.
 
 2. Remove duplicate rows and flag near-duplicates for manual review.
@@ -723,7 +720,7 @@ Your task:
 4. Convert date columns to proper datetime format and extract features (day, month, year, day-of-week).
 
 5. Save the cleaned dataset to a new CSV file with a timestamped filename.
-`````
+``````
 
 `
 Output format: A fully commented Python script that can be reused for different datasets, with clear function definitions."
@@ -735,11 +732,10 @@ Output format: A fully commented Python script that can be reused for different 
 "You are a Business Data Storyteller with experience in creating executive summaries from analytical results. I have analysed customer purchase behaviour for my online store and want to present findings to the leadership team.
 `
 
-`
+``````
 Your task:
-`
 
-`````
+
 1. Frame the analysis as a story — starting with the problem, key findings, and implications.
 
 2. Select only the 5–7 most impactful visuals from the analysis, ensuring they are simple and easy to understand.
@@ -749,7 +745,7 @@ Your task:
 4. Conclude with 3 actionable recommendations, each tied to a business outcome (e.g., revenue growth, cost saving).
 
 5. Create a 2-slide PowerPoint layout that can be used in a leadership meeting.
-`````
+``````
 
 `
 Output format: A concise text storyboard + slide content that a non-technical executive can understand at a glance."
@@ -761,11 +757,10 @@ Output format: A concise text storyboard + slide content that a non-technical ex
 "You are a Real-Time Data Monitoring Specialist skilled in tools like Grafana, Kibana, and Power BI Streaming Dataflows. I operate a logistics company with live GPS and delivery data flowing in every 15 seconds.
 `
 
-`
+``````
 Your task:
-`
 
-`````
+
 1. Design a real-time dashboard that displays vehicle location, delivery status, and delays in near real-time.
 
 2. Implement colour-coded alerts for deliveries delayed beyond SLA (Service Level Agreement) thresholds.
@@ -787,11 +782,10 @@ Output format: A visual architecture diagram + tool integration plan + example S
 "You are an NLP (Natural Language Processing) Specialist with expertise in Python libraries like NLTK, SpaCy, and Transformers. I have 50,000 customer reviews collected over 2 years.
 `
 
-`
+``````
 Your task:
-`
 
-`````````
+
 1. Clean and preprocess the text (remove stopwords, lemmatise, handle emojis).
 
 2. Classify sentiment into positive, neutral, and negative categories using a pre-trained BERT model.
@@ -807,7 +801,7 @@ Your task:
 5. Identify top 5 positive and top 5 negative themes with example reviews.
 
 6. Provide actionable recommendations for product/service improvement based on sentiment patterns.
-`````````
+``````````
 
 `
 Output format: A Jupyter Notebook with code, charts, and a Markdown insights summary."
@@ -819,11 +813,10 @@ Output format: A Jupyter Notebook with code, charts, and a Markdown insights sum
 "You are a Business Performance Analyst. I have category-wise sales data for 10 product categories over the last 3 years.
 `
 
-`
+``````
 Your task:
-`
 
-`````
+
 1. Calculate YoY (Year-over-Year) and MoM (Month-over-Month) growth rates for each category.
 
 2. Rank categories based on revenue, profit margin, and units sold.
@@ -833,7 +826,7 @@ Your task:
 4. Highlight top 3 performing categories and bottom 3 lagging categories.
 
 5. Suggest category-level actions to boost sales and margins for underperformers.
-`````
+``````
 
 `
 Output format: A comparative analysis table + dashboard layout mockup + 1-page action plan."
