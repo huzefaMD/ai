@@ -3557,11 +3557,10 @@ Prompt:
 "You are a Cybersecurity Automation Engineer. I want a script that scans server logs in real time and alerts me of suspicious activity such as failed login attempts, unusual IP addresses, or data spikes.
 `
 
-`
+``````
 Your task:
-`
 
-`````
+
 1. Connect to the server log files via API or secure SSH.
 
 2. Parse log entries and match against predefined threat patterns (failed logins >5 in 1 minute, foreign IP access, large file downloads).
@@ -3571,7 +3570,7 @@ Your task:
 4. Store flagged events in a database for future analysis.
 
 5. Generate a daily security summary report.
-`````
+``````
 
 `
 Output format: Security monitoring script + threat pattern list + alert notification system.
@@ -3606,11 +3605,10 @@ Prompt:
 "You are a Data Security Engineer. I want an automated backup system that encrypts files before uploading them to cloud storage (AWS S3, Google Drive).
 `
 
-`
+``````
 Your task:
-`
 
-`````
+
 1. Identify sensitive folders for backup.
 
 2. Compress and encrypt files using AES-256 encryption.
@@ -3620,7 +3618,7 @@ Your task:
 4. Store encryption keys securely in a password vault.
 
 5. Maintain a backup log with timestamps and checksum hashes.
-`````
+``````
 
 `
 Output format: Encrypted backup script + cloud upload integration + key storage instructions.
@@ -3655,11 +3653,10 @@ Prompt:
 "You are an Email Security Automation Specialist. I want to integrate Gmail API with an AI phishing detection model.
 `
 
-`
+``````
 Your task:
-`
 
-`````
+
 1. Fetch incoming emails via Gmail API.
 
 2. Scan sender domains, suspicious keywords, and link redirections.
@@ -3669,7 +3666,7 @@ Your task:
 4. Move high-risk emails to a “Quarantine” folder.
 
 5. Send a weekly phishing report to the security team.
-`````
+``````
 
 `
 Output format: Email scanning script + risk scoring system + quarantine folder setup.
@@ -3705,11 +3702,10 @@ Prompt:
 "You are a Privacy Compliance Automation Expert. I want a workflow that processes GDPR deletion requests automatically.
 `
 
-`
+``````
 Your task:
-`
 
-`````
+
 1. Receive requests via a secure web form.
 
 2. Authenticate the requester’s identity via email verification.
@@ -3719,7 +3715,7 @@ Your task:
 4. Delete or anonymise the data as per GDPR guidelines.
 
 5. Send a confirmation email and store a compliance log.
-`````
+``````
 
 `
 Output format: Deletion automation script + compliance report template + GDPR checklist.
@@ -3755,11 +3751,10 @@ Prompt:
 "You are a Security Scan Automation Engineer. I want to run daily vulnerability scans and generate reports automatically.
 `
 
-`
+``````
 Your task:
-`
 
-`````
+
 1. Integrate with a vulnerability scanning tool API (e.g., Nessus, OpenVAS).
 
 2. Schedule scans for all server IPs.
@@ -3769,7 +3764,7 @@ Your task:
 4. Send a daily email summary with high-risk vulnerabilities.
 
 5. Track vulnerability history in a Google Sheet.
-`````
+``````
 
 `
 Output format: Scheduled scan automation + PDF reporting script + risk tracking spreadsheet.
@@ -3805,11 +3800,10 @@ Prompt:
 "You are an Identity & Access Management Automation Specialist. I want to roll out mandatory Two-Factor Authentication for all company accounts in Google Workspace.
 `
 
-`
+``````
 Your task:
-`
 
-`````
+
 1. Use Google Admin SDK API to identify accounts without 2FA enabled.
 
 2. Send automated emails prompting users to enable 2FA.
@@ -3819,7 +3813,7 @@ Your task:
 4. Disable accounts not compliant after 7 days.
 
 5. Generate a compliance report for management.
-`````
+``````
 
 `
 Output format: 2FA enforcement script + email template + compliance report spreadsheet.
@@ -3854,11 +3848,10 @@ Prompt:
 "You are a Threat Intelligence Automation Engineer. I want to integrate HaveIBeenPwned API and a dark web monitoring API to scan for leaked email/password combinations.
 `
 
-`
+``````
 Your task:
-`
 
-`````
+
 1. Fetch employee email list from HR database.
 
 2. Query APIs for data breaches linked to these emails.
@@ -3868,7 +3861,7 @@ Your task:
 4. The store results in an encrypted database.
 
 5. Send a monthly summary to the security team.
-`````
+``````
 
 `
 Output format: Breach monitoring script + notification template + encrypted breach database.
@@ -3903,11 +3896,10 @@ Prompt:
 "You are an Access Control Automation Expert. I want an integration between our HR system and internal application APIs to update user permissions automatically.
 `
 
-`
+``````
 Your task:
-`
 
-`````
+
 1. Fetch updated employee roles from HR system API.
 
 2. Compare current permissions in application API.
@@ -3917,7 +3909,7 @@ Your task:
 4. Log all changes with timestamps.
 
 5. Notify IT admin for high-privilege changes.
-`````
+``````
 
 `
 Output format: RBAC sync script + permissions change log + alert email template.
@@ -3952,11 +3944,10 @@ Prompt:
 "You are a Security Training Automation Specialist. I want a system that emails a short quiz to employees each month and records their scores.
 `
 
-`
+``````
 Your task:
-`
 
-`````
+
 1. Store quiz questions in a Google Sheet or database.
 
 2. Send quiz links via Gmail API.
@@ -3966,7 +3957,7 @@ Your task:
 4. Calculate scores and store in a results sheet.
 
 5. Flag employees who score below 70% for follow-up training.
-`````
+``````
 
 `
 Output format: Quiz automation script + question bank file + results dashboard.
@@ -4001,11 +3992,10 @@ Prompt:
 "You are a Web Security Automation Engineer. I want a system that checks SSL certificate expiry dates for a list of domains.
 `
 
-`
+``````
 Your task:
-`
 
-`````
+
 1. Fetch SSL certificate details for each domain.
 
 2. Identify expiry dates within the next 30 days.
@@ -4015,7 +4005,7 @@ Your task:
 4. Update a tracking sheet with expiry status.
 
 5. Repeat the check daily.
-`````
+``````
 
 `
 Output format: SSL monitoring script + expiry alert template + tracking spreadsheet.
@@ -4050,11 +4040,10 @@ Prompt:
 "You are an Endpoint Security Automation Engineer. I want a system that verifies employee device compliance (OS version, antivirus status, firewall enabled) every time they connect to the company network.
 `
 
-`
+``````
 Your task:
-`
 
-`````
+
 1. Integrate with an endpoint management API (e.g., Microsoft Intune, Jamf).
 
 2. Collect device compliance data in real time.
@@ -4064,7 +4053,7 @@ Your task:
 4. Notify the employee with steps to fix compliance issues.
 
 5. Log all non-compliant devices for security audits.
-`````
+``````
 
 `
 Output format: Compliance check script + access control API integration + remediation email template.
@@ -4099,11 +4088,10 @@ Prompt:
 "You are a File Access Monitoring Specialist. I want an automation that detects and alerts whenever certain high-security files are accessed.
 `
 
-`
+``````
 Your task:
-`
 
-`````
+
 1. Connect to Google Drive API or internal file server API.
 
 2. Monitor access logs for the target file/folder.
@@ -4113,7 +4101,7 @@ Your task:
 4. Record details: user ID, timestamp, IP address.
 
 5. Send an incident report to the security team.
-`````
+``````
 
 `
 Output format: File access monitoring script + alerting system + incident report format.
@@ -4148,11 +4136,10 @@ Prompt:
 "You are a Database Security Automation Expert. I want a script that scans for vulnerabilities in our MySQL/PostgreSQL databases and generates a security report.
 `
 
-`
+``````
 Your task:
-`
 
-`````
+
 1. Connect to the database securely.
 
 2. Check for weak passwords, outdated versions, excessive user privileges.
@@ -4162,7 +4149,7 @@ Your task:
 4. Generate a PDF report with recommendations.
 
 5. Email the report to the database administrator.
-`````
+``````
 
 `
 Output format: Database audit script + PDF report template + email delivery function.
@@ -4197,11 +4184,10 @@ Prompt:
 "You are an Endpoint Device Control Automation Specialist. I want a system that blocks all USB devices except approved company drives.
 `
 
-`
+``````
 Your task:
-`
 
-`````
+
 1. Detect when a USB device is connected.
 
 2. Compare its serial number against the approved list.
@@ -4211,7 +4197,7 @@ Your task:
 4. Send an alert to the IT security team.
 
 5. Log all USB connection attempts.
-`````
+``````
 
 `
 Output format: USB restriction script + approved device list + alert and log system.
@@ -4244,11 +4230,10 @@ Prompt:
 "You are an Account Security Automation Specialist. I want to integrate with Active Directory (AD) to send reminders before password expiry.
 `
 
-`
+``````
 Your task:
-`
 
-`````
+
 1. Connect to AD via API or LDAP.
 
 2. Fetch users whose passwords expire within 10 days.
@@ -4258,7 +4243,7 @@ Your task:
 4. Track who changes passwords after reminders.
 
 5. Generate a monthly compliance report.
-`````
+``````
 
 `
 Output format: Reminder script + email template + compliance tracking sheet.
@@ -4268,11 +4253,11 @@ Output format: Reminder script + email template + compliance tracking sheet.
 Input Files & Code Section:
 `
 
-``
+```
 1. AD connection details
 
 2. Email SMTP credentials"
-``
+```
 
 ## Prompt 16 — Automating Encrypted File Sharing
 
@@ -4292,11 +4277,10 @@ Prompt:
 "You are a Secure File Transfer Automation Expert. I want to encrypt files and send them via a secure download link that expires after 48 hours.
 `
 
-`
+``````
 Your task:
-`
 
-`````
+
 1. Accept file upload from the legal team.
 
 2. Encrypt the file using AES-256.
@@ -4306,7 +4290,7 @@ Your task:
 4. Generate a time-limited download link.
 
 5. Email the link to the client with a decryption key sent separately.
-`````
+``````
 
 `
 Output format: Secure sharing script + encryption guide + link expiration setup.
@@ -4316,11 +4300,11 @@ Output format: Secure sharing script + encryption guide + link expiration setup.
 Input Files & Code Section:
 `
 
-``
+```
 1. Encryption key management file
 
 2. Cloud storage API credentials"
-``
+```
 ## Prompt 17 — Automating Insider Threat Detection
 
 `
@@ -4339,11 +4323,10 @@ Prompt:
 "You are an Insider Threat Monitoring Specialist. I want a system that flags abnormal access activity by employees.
 `
 
-`
+``````
 Your task:
-`
 
-`````
+
 1. Collect access logs from file servers, databases, and cloud storage.
 
 2. Identify sudden spikes in file downloads or sensitive data access.
@@ -4353,7 +4336,7 @@ Your task:
 4. Flag anomalies and send alerts to security admins.
 
 5. Log all incidents for investigation.
-`````
+``````
 
 `
 Output format: Threat detection script + anomaly detection rules + alert system.
@@ -4388,11 +4371,10 @@ Prompt:
 "You are a Compliance Automation Specialist. I want a system that fetches logs, audit reports, and policy documents from multiple systems into one folder.
 `
 
-`
+``````
 Your task:
-`
 
-`````
+
 1. Connect to APIs for security tools, HR systems, and monitoring platforms.
 
 2. Download latest compliance-related files.
@@ -4402,7 +4384,7 @@ Your task:
 4. Generate a manifest listing all collected documents.
 
 5. Zip and archive the folder.
-`````
+``````
 
 `
 Output format: Document collection script + manifest file + folder structure template.
@@ -4412,11 +4394,11 @@ Output format: Document collection script + manifest file + folder structure tem
 Input Files & Code Section:
 `
 
-``
+```
 1. API credentials for each system
 
 Compliance checklist JSON"
-``
+```
 ## Prompt 19 — Automating Ransomware Simulation Drills
 
 `
@@ -4435,11 +4417,10 @@ Prompt:
 "You are a Cybersecurity Training Automation Engineer. I want a script that simulates a ransomware infection without actually encrypting files.
 `
 
-`
+``````
 Your task:
-`
 
-`````
+
 1. Rename and lock sample files in a sandbox environment.
 
 2. Display a mock ransom note.
@@ -4449,7 +4430,7 @@ Your task:
 4. Record time taken to respond.
 
 5. Generate a performance report.
-`````
+``````
 
 `
 Output format: Simulation script + ransom note template + performance report.
@@ -4459,11 +4440,11 @@ Output format: Simulation script + ransom note template + performance report.
 Input Files & Code Section:
 `
 
-``
+```
 1. Sandbox environment setup file
 
 2. Sample file set"
-``
+```
 ## Prompt 20 — Automating API Security Testing
 
 `
@@ -4482,11 +4463,10 @@ Prompt:
 "You are an API Security Testing Specialist. I want a script that runs OWASP API Security Top 10 checks on all company APIs.
 `
 
-`
+``````
 Your task:
-`
 
-`````
+
 1. Load list of API endpoints from a file.
 
 2. Run tests for authentication flaws, excessive data exposure, and injection attacks.
@@ -4496,7 +4476,7 @@ Your task:
 4. Notify developers of high-risk vulnerabilities.
 
 5. Store results for trend analysis.
-`````
+``````
 
 `
 Output format: API security scan script + vulnerability report + notification system.
@@ -4506,11 +4486,11 @@ Output format: API security scan script + vulnerability report + notification sy
 Input Files & Code Section:
 `
 
-``
+```
 1. API endpoint list CSV
 
 2. API security rules JSON"
-``
+```
 ## Prompt 21 — Automating Cloud Security Policy Enforcement
 
 `
@@ -4529,11 +4509,10 @@ Prompt:
 "You are a Cloud Security Automation Specialist. I want a system that scans all files in Google Drive/AWS S3 for public access and restricts them to approved users only.
 `
 
-`
+``````
 Your task:
-`
 
-`````
+
 1. Connect to the cloud storage API.
 
 2. Identify files/folders with public sharing enabled.
@@ -4543,7 +4522,7 @@ Your task:
 4. Notify the file owner about the change.
 
 5. Log all permission changes for audits.
-`````
+``````
 
 `
 Output format: Permission scan script + remediation log + owner notification email template.
@@ -4578,11 +4557,10 @@ Prompt:
 "You are a Security Incident Automation Engineer. I want a system that executes predefined playbook actions when a breach is detected.
 `
 
-`
+``````
 Your task:
-`
 
-`````
+
 1. Receive breach alert from SIEM (Security Information and Event Management) tool.
 
 2. Isolate affected servers from the network.
@@ -4592,7 +4570,7 @@ Your task:
 4. Notify the security team and management.
 
 5. Update the incident tracking system.
-`````
+``````
 
 `
 Output format: Incident response script + action log + notification system.
@@ -4627,11 +4605,10 @@ Prompt:
 "You are a Secure Communications Automation Specialist. I want a tool that creates an encrypted chat room that expires after 24 hours.
 `
 
-`
+``````
 Your task:
-`
 
-`````
+
 1. Generate a secure chat room via API (e.g., Matrix, Rocket.Chat).
 
 2. Require password-protected entry.
@@ -4641,7 +4618,7 @@ Your task:
 4. Automatically delete the chat room and logs after expiry.
 
 5. Email participants the join link and password.
-`````
+``````
 
 `
 Output format: Chat room creation script + deletion automation + participant email template.
@@ -4651,11 +4628,11 @@ Output format: Chat room creation script + deletion automation + participant ema
 Input Files & Code Section:
 `
 
-``
+```
 1. Secure chat API credentials
 
 Participant email list CSV"
-``
+```
 
 ## Prompt 24 — Automating Malware File Scanning for Uploads
 
@@ -4675,11 +4652,10 @@ Prompt:
 "You are a File Security Automation Engineer. I want an integration that scans each uploaded file with a malware detection API before it’s stored.
 `
 
-`
+``````
 Your task:
-`
 
-`````
+
 1. Intercept file uploads via the web application backend.
 
 2. Scan files using VirusTotal or ClamAV API.
@@ -4689,7 +4665,7 @@ Your task:
 4. Notify the uploader about rejection.
 
 5. Log scan results for audits.
-`````
+``````
 
 `
 Output format: File scanning script + quarantine folder setup + log file format.
@@ -4724,11 +4700,10 @@ Prompt:
 "You are a Patch Management Automation Specialist. I want a script that applies critical security patches across all systems as soon as they’re available.
 `
 
-`
+``````
 Your task:
-`
 
-`````
+
 1. Check vendor API or repositories for new patches.
 
 2. Download and install patches automatically.
@@ -4738,7 +4713,7 @@ Your task:
 4. Notify admins of patch completion.
 
 5. Maintain a patch history log.
-`````
+``````
 
 `
 Output format: Patch automation script + reboot schedule + patch log.
