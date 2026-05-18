@@ -4210,15 +4210,24 @@ Email/SMS API credentials"
 `
 Backstory: Your customer database holds personal information, but monthly manual security audits take too much time and miss critical misconfigurations.
 `
+
+`
 Goal: Automate periodic database security audits and reporting.
+`
 
+`
 Prompt:
+`
 
+`
 "You are a Database Security Automation Expert. I want a script that scans for vulnerabilities in our MySQL/PostgreSQL databases and generates a security report.
+`
 
+`
 Your task:
+`
 
-
+`````
 1. Connect to the database securely.
 
 2. Check for weak passwords, outdated versions, excessive user privileges.
@@ -4228,31 +4237,46 @@ Your task:
 4. Generate a PDF report with recommendations.
 
 5. Email the report to the database administrator.
+`````
 
+`
 Output format: Database audit script + PDF report template + email delivery function.
+`
 
+`
 Input Files & Code Section:
+`
 
+```
+1. Database connection credentials (secured)
 
-Database connection credentials (secured)
+2. Vulnerability scan checklist JSON
 
-Vulnerability scan checklist JSON
+3. Email SMTP settings"
+```
+## Prompt 14 — Automating USB Device Restrictions
 
-Email SMTP settings"
-
-Prompt 14 — Automating USB Device Restrictions
-
+`
 Backstory: An employee once copied sensitive data onto a personal USB drive without permission.
+`
 
+`
 Goal: Automatically detect and block unapproved USB devices.
+`
 
+`
 Prompt:
+`
 
+`
 "You are an Endpoint Device Control Automation Specialist. I want a system that blocks all USB devices except approved company drives.
+`
 
+`
 Your task:
+`
 
-
+`````
 1. Detect when a USB device is connected.
 
 2. Compare its serial number against the approved list.
@@ -4262,29 +4286,44 @@ Your task:
 4. Send an alert to the IT security team.
 
 5. Log all USB connection attempts.
+`````
 
+`
 Output format: USB restriction script + approved device list + alert and log system.
+`
 
+`
 Input Files & Code Section:
+`
 
+``
+1. Approved USB device serial number list CSV
 
-Approved USB device serial number list CSV
+2. Endpoint monitoring API credentials"
+``
+## Prompt 15 — Automating Password Expiry Reminders
 
-Endpoint monitoring API credentials"
-
-Prompt 15 — Automating Password Expiry Reminders
-
+`
 Backstory: Employees often forget to change passwords on time, leading to expired accounts and downtime.
+`
 
+`
 Goal: Send automated password change reminders.
+`
 
+`
 Prompt:
+`
 
+`
 "You are an Account Security Automation Specialist. I want to integrate with Active Directory (AD) to send reminders before password expiry.
+`
 
+`
 Your task:
+`
 
-
+`````
 1. Connect to AD via API or LDAP.
 
 2. Fetch users whose passwords expire within 10 days.
@@ -4294,17 +4333,22 @@ Your task:
 4. Track who changes passwords after reminders.
 
 5. Generate a monthly compliance report.
+`
 
+`
 Output format: Reminder script + email template + compliance tracking sheet.
+`
 
+`
 Input Files & Code Section:
+`
 
+``
+1. AD connection details
 
-AD connection details
-
-Email SMTP credentials"
-
-Prompt 16 — Automating Encrypted File Sharing
+2. Email SMTP credentials"
+``
+## Prompt 16 — Automating Encrypted File Sharing
 
 Backstory: Your legal team frequently shares confidential documents with clients, but sending via regular email is risky.
 
