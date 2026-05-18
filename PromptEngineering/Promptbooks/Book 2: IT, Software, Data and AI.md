@@ -3751,7 +3751,7 @@ Output format: Email scanning script + risk scoring system + quarantine folder s
 `
 
 `
-### Input Files & Code Section:
+Input Files & Code Section:
 `
 
 ```
@@ -3764,17 +3764,27 @@ Output format: Email scanning script + risk scoring system + quarantine folder s
 
 ## Prompt 4 — Automating GDPR Data Deletion Requests
 
+`
 Backstory: Your European customers often request data deletion under GDPR laws. Handling requests manually is time-consuming and error-prone.
+`
 
+`
 Goal: Automate GDPR “Right to be Forgotten” requests.
+`
 
+`
 Prompt:
+`
 
+`
 "You are a Privacy Compliance Automation Expert. I want a workflow that processes GDPR deletion requests automatically.
+`
 
+`
 Your task:
+`
 
-
+`````
 1. Receive requests via a secure web form.
 
 2. Authenticate the requester’s identity via email verification.
@@ -3784,19 +3794,25 @@ Your task:
 4. Delete or anonymise the data as per GDPR guidelines.
 
 5. Send a confirmation email and store a compliance log.
+`````
 
+`
 Output format: Deletion automation script + compliance report template + GDPR checklist.
+`
 
+`
 Input Files & Code Section:
+`
 
+```
+1. Database connection details
 
-Database connection details
+2. Web form API endpoint
 
-Web form API endpoint
+3. Email verification script"
+```
 
-Email verification script"
-
-Prompt 5 — Automating Vulnerability Scans
+## Prompt 5 — Automating Vulnerability Scans
 
 Backstory: You’re a security analyst at a SaaS startup. You run vulnerability scans manually once a month, but threats change daily.
 
