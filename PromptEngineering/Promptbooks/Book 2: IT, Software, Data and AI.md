@@ -3,8 +3,9 @@
 ## Prompt 1 — Code Review & Optimisation Plan
 
 `
-"You are a senior software engineer with expertise in [programming language/framework]. I have a codebase for a [type of application — e.g., e-commerce site, chatbot, mobile app] that works but runs slowly.
-Review the code for:
+"You are a senior software engineer with expertise in [programming language/framework]. I have a codebase for a [type of application — e.g., e-commerce site, chatbot, mobile app] that works but runs slowly.`
+
+`Review the code for:
 `
 
 `````
