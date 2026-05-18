@@ -770,7 +770,7 @@ Your task:
 4. Integrate automated alerts via email and SMS for key managers when KPIs cross thresholds.
 
 5. Ensure the system can handle data spikes (e.g., festival season).
-`````
+``````
 
 `
 Output format: A visual architecture diagram + tool integration plan + example SQL queries for alert generation."
@@ -782,7 +782,7 @@ Output format: A visual architecture diagram + tool integration plan + example S
 "You are an NLP (Natural Language Processing) Specialist with expertise in Python libraries like NLTK, SpaCy, and Transformers. I have 50,000 customer reviews collected over 2 years.
 `
 
-``````
+```````
 Your task:
 
 
@@ -801,7 +801,7 @@ Your task:
 5. Identify top 5 positive and top 5 negative themes with example reviews.
 
 6. Provide actionable recommendations for product/service improvement based on sentiment patterns.
-``````````
+```````
 
 `
 Output format: A Jupyter Notebook with code, charts, and a Markdown insights summary."
