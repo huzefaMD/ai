@@ -2335,11 +2335,10 @@ Prompt:
 "You are a User Experience Documentation Specialist. I need you to create a beginner-friendly setup guide for our budgeting mobile app.
 `
 
-`
+``````
 Your task:
-`
 
-`````
+
 1. Break the guide into 6–8 clear steps.
 
 2. Include screenshots and captions for each step.
@@ -2349,7 +2348,7 @@ Your task:
 4. Add a troubleshooting section for common signup issues.
 
 5. Format the final document for PDF and in-app help center.
-`````
+``````
 
 `
 Output format: Step-by-step guide (with images) in PDF + HTML version for web embedding.
@@ -2385,11 +2384,10 @@ Prompt:
 "You are a Technical API Documentation Expert. I want you to create API docs for our food delivery API.
 `
 
-`
+``````
 Your task:
-`
 
-`````
+
 1. Describe authentication (OAuth 2.0) process clearly.
 
 2. Document all endpoints with methods, parameters, and sample JSON responses.
@@ -2399,7 +2397,7 @@ Your task:
 4. Include rate limits and error codes.
 
 5. Add a “Getting Started” quick guide for first-time developers.
-`````
+``````
 
 `
 Output format: Markdown-based API documentation + HTML developer portal version.
@@ -2435,11 +2433,10 @@ Prompt:
 "You are a Product Communications Writer. I want you to create release notes for our SaaS analytics platform that both inform and excite customers.
 `
 
-`
+``````
 Your task:
-`
 
-`````
+
 1. Summarize new features in plain language.
 
 2. Highlight bug fixes and performance improvements.
@@ -2449,7 +2446,7 @@ Your task:
 4. Include “How to use” tips for each new feature.
 
 5. Publish in both email newsletter and in-app notifications format.
-`````
+``````
 
 `
 Output format: HTML email template + Markdown release notes file.
@@ -2485,11 +2482,10 @@ Prompt:
 "You are a CRM Onboarding Documentation Specialist. I want an onboarding manual that helps sales reps transition from spreadsheets to our CRM.
 `
 
-`
+``````
 Your task:
-`
 
-`````
+
 1. Explain CRM login and account setup.
 
 2. Show how to import contacts from CSV.
@@ -2499,7 +2495,7 @@ Your task:
 4. Include best practices for daily CRM usage.
 
 5. Add a printable “Quick Reference” cheatsheet.
-`````
+``````
 
 `
 Output format: PDF onboarding manual + 1-page cheatsheet.
@@ -2535,11 +2531,10 @@ Prompt:
 "You are a Knowledge Base Content Specialist. I want you to create a help article for “How to Reset Your Password” for our e-commerce platform.
 `
 
-`
+``````
 Your task:
-`
 
-`````
+
 1. Write clear, step-by-step instructions.
 
 2. Include desktop and mobile screenshots.
@@ -2549,7 +2544,7 @@ Your task:
 4. Add troubleshooting for common reset errors.
 
 5. Format for search engine optimization (SEO).
-`````
+``````
 
 `
 Output format: HTML article for help center + PDF version for offline use.
@@ -2585,11 +2580,10 @@ Prompt:
 "You are a Product Education Content Developer. I need you to create in-app interactive tutorials for our project management platform.
 `
 
-`
+``````
 Your task:
-`
 
-`````
+
 1. Select top 5 underused advanced features.
 
 2. Create step-by-step walkthrough scripts for each.
@@ -2599,7 +2593,7 @@ Your task:
 4. Include progress tracking so users can resume later.
 
 5. Prepare text, screenshots, and instructional videos for each step.
-`````
+``````
 
 `
 Output format: JSON tutorial script for app integration + video files + image assets.
@@ -2635,11 +2629,10 @@ Prompt:
 "You are a Regulatory Documentation Specialist. I want you to create compliance and privacy policies for our fintech app.
 `
 
-`
+``````
 Your task:
-`
 
-`````
+
 1. Review applicable regulations (RBI, GDPR, PCI DSS).
 
 2. Write privacy policy, data handling policy, and terms of service.
@@ -2649,7 +2642,7 @@ Your task:
 4. Include diagrams showing data flow and storage locations.
 
 5. Format for both web and PDF publication.
-`````
+``````
 
 `
 Output format: Policy documents in DOCX, PDF, and HTML formats.
@@ -2685,11 +2678,10 @@ Prompt:
 "You are a Partner Integration Documentation Engineer. I want you to create a full integration manual for our payment API.
 `
 
-`
+``````
 Your task:
-`
 
-`````
+
 1. Describe authentication, endpoint usage, and required parameters.
 
 2. Provide step-by-step integration example for a sample merchant app.
@@ -2699,7 +2691,7 @@ Your task:
 4. Add code examples in PHP, Node.js, and Python.
 
 5. Include test environment setup instructions.
-`````
+``````
 
 `
 Output format: Markdown integration manual + HTML version for partner portal.
@@ -2734,11 +2726,10 @@ Prompt:
 "You are an Internal Engineering Documentation Specialist. I want a central developer handbook for our engineering team.
 `
 
-`
+``````
 Your task:
-`
 
-`````
+
 1. Describe project architecture with diagrams.
 
 2. Document coding standards and naming conventions.
@@ -2748,7 +2739,7 @@ Your task:
 4. Explain CI/CD pipeline processes.
 
 5. Maintain this as a living document in the repo.
-`````
+``````
 
 `
 Output format: Developer handbook in Markdown + PDF export.
@@ -2784,11 +2775,10 @@ Prompt:
 "You are a Competitive Product Documentation Writer. I want a feature comparison document between our tool and top 3 competitors.
 `
 
-`
+``````
 Your task:
-`
 
-`````
+
 1. List key features side-by-side in a table.
 
 2. Use simple, customer-friendly language.
@@ -2798,7 +2788,7 @@ Your task:
 4. Include screenshots for visual comparison.
 
 5. Format for both sales decks and website FAQ.
-`````
+``````
 
 `
 Output format: Comparison PDF + PPT slide deck.
@@ -2834,11 +2824,10 @@ Prompt:
 "You are a Technical Troubleshooting Documentation Designer. I want to create visual flowcharts for common problems with our SaaS tool.
 `
 
-`
+``````
 Your task:
-`
 
-`````
+
 1. Select top 5 recurring issues from support logs.
 
 2. Create clear yes/no flowcharts for each problem.
@@ -2848,7 +2837,7 @@ Your task:
 4. Add estimated time for each fix step.
 
 5. Export to PDF for customers and PNG for website.
-`````
+``````
 
 `
 Output format: Flowchart diagrams in PNG + consolidated PDF booklet.
@@ -2884,11 +2873,10 @@ Prompt:
 "You are a Content Style Guide Specialist. I want a voice & tone guideline document for our documentation team.
 `
 
-`
+``````
 Your task:
-`
 
-`````
+
 1. Define brand personality in writing.
 
 2. Provide examples of do’s and don’ts.
@@ -2898,7 +2886,7 @@ Your task:
 4. Cover accessibility considerations (readability, alt text, etc.).
 
 5. Provide templates for different content types.
-`````
+``````
 
 `
 Output format: Voice & tone PDF + quick reference card.
@@ -2934,11 +2922,10 @@ Prompt:
 "You are a UX Microcopy Documentation Specialist. I want you to create clear, concise tooltips for our SaaS dashboard.
 `
 
-`
+``````
 Your task:
-`
 
-`````
+
 1. Identify 30 key UI elements needing tooltips.
 
 2. Write short descriptions (max 20 words) in plain language.
@@ -2948,7 +2935,7 @@ Your task:
 4. Include an internal reference table mapping tooltip text to UI elements.
 
 5. Provide JSON/CSV format for direct integration with the UI codebase.
-`````
+``````
 
 `
 Output format: Tooltip text table (CSV + JSON) + implementation guide.
@@ -2984,11 +2971,10 @@ Prompt:
 "You are a Developer Onboarding Documentation Expert. I want a quick start guide for our JavaScript SDK.
 `
 
-`
+``````
 Your task:
-`
 
-`````
+
 1. Include installation steps via npm/yarn.
 
 2. Show basic initialization code with example API calls.
@@ -2998,7 +2984,7 @@ Your task:
 4. Provide a working sample app repository link.
 
 5. Add troubleshooting tips for common setup errors.
-`````
+``````
 
 `
 Output format: Markdown quick start guide + PDF export.
@@ -3034,11 +3020,10 @@ Prompt:
 "You are an Accessibility Documentation Specialist. I want an accessibility features guide for our learning platform.
 `
 
-`
+``````
 Your task:
-`
 
-`````
+
 1. List all accessibility options (keyboard shortcuts, screen reader support, high contrast mode).
 
 2. Provide step-by-step activation instructions for each.
@@ -3048,7 +3033,7 @@ Your task:
 4. Include best practices for accessible usage.
 
 5. Format as both web and audio versions for accessibility.
-`````
+``````
 
 `
 Output format: PDF + HTML + MP3 narration.
@@ -3084,11 +3069,10 @@ Prompt:
 "You are a Help Center Experience Designer. I want to turn our static FAQ page into an interactive, searchable database.
 `
 
-`
+``````
 Your task:
-`
 
-`````
+
 1. Convert FAQs into a searchable JSON format.
 
 2. Tag each FAQ with categories and keywords.
@@ -3098,7 +3082,7 @@ Your task:
 4. Include expand/collapse answers for better UX.
 
 5. Provide embed code for website integration.
-`````
+``````
 
 `
 Output format: FAQ database (JSON) + HTML/CSS/JS embed code.
@@ -3134,11 +3118,10 @@ Prompt:
 "You are a Hardware Technical Writer. I want a maintenance manual for our smart home thermostat.
 `
 
-`
+``````
 Your task:
-`
 
-`````
+
 1. List cleaning, calibration, and firmware update procedures.
 
 2. Provide do’s and don’ts with illustrations.
@@ -3148,7 +3131,7 @@ Your task:
 4. Add troubleshooting section for physical faults.
 
 5. Format for both printed booklet and online PDF.
-`````
+``````
 
 `
 Output format: Illustrated manual in PDF + printable A5 booklet.
@@ -3184,11 +3167,10 @@ Prompt:
 "You are a Multilingual Documentation Specialist. I want product instructions for our kitchen appliance in English, Hindi, and Tamil.
 `
 
-`
+``````
 Your task:
-`
 
-`````
+
 1. Translate existing manual while keeping technical accuracy.
 
 2. Adapt units (metric/imperial) as needed.
@@ -3198,7 +3180,7 @@ Your task:
 4. Ensure formatting works for all languages.
 
 5. Provide print-ready and web-ready versions.
-`````
+``````
 
 `
 Output format: PDF manuals in all 3 languages.
@@ -3234,11 +3216,10 @@ Prompt:
 "You are a Video Documentation Producer. I want 5 short (under 2 mins each) tutorial videos for our e-learning platform.
 `
 
-`
+``````
 Your task:
-`
 
-`````
+
 1. Write video scripts for each task.
 
 2. Record screen captures with voiceover.
@@ -3248,7 +3229,7 @@ Your task:
 4. Export in MP4 for YouTube and MOV for in-app playback.
 
 5. Provide thumbnail images for each video.
-`````
+``````
 
 `
 Output format: Video files + scripts + thumbnails.
@@ -3284,11 +3265,10 @@ Prompt:
 "You are an API Documentation Manager. I want a live API changelog page for our developer portal.
 `
 
-`
+``````
 Your task:
-`
 
-`````
+
 1. Track API version changes with release dates.
 
 2. Add summaries of new/removed/modified endpoints.
@@ -3298,7 +3278,7 @@ Your task:
 4. Provide migration notes for affected endpoints.
 
 5. Update automatically via CI/CD when code changes are merged.
-`````
+``````
 
 `
 Output format: Markdown changelog + HTML portal page.
@@ -3334,11 +3314,10 @@ Prompt:
 "You are a Support Operations Documentation Specialist. I want to create internal playbooks for handling common customer issues.
 `
 
-`
+``````
 Your task:
-`
 
-`````
+
 1. Document step-by-step troubleshooting workflows.
 
 2. Include escalation criteria for each case.
@@ -3348,7 +3327,7 @@ Your task:
 4. Add visual aids where relevant.
 
 5. Store in an internal wiki for easy updates.
-`````
+``````
 
 `
 Output format: Playbook PDFs + wiki pages.
@@ -3383,11 +3362,10 @@ Prompt:
 "You are a Third-Party Integration Documentation Specialist. I want guides for integrating our platform with Slack, Google Sheets, and Zapier.
 `
 
-`
+``````
 Your task:
-`
 
-`````
+
 1. Write step-by-step instructions with screenshots.
 
 2. Show real-life use case examples for each integration.
@@ -3397,7 +3375,7 @@ Your task:
 4. Include estimated setup time for each.
 
 5. Format for help center and PDF export.
-`````
+``````
 
 `
 Output format: 3 integration guides in PDF + HTML.
@@ -3432,11 +3410,10 @@ Prompt:
 "You are a Productivity Documentation Designer. I want a one-page quick reference cheat sheet for our desktop productivity app.
 `
 
-`
+``````
 Your task:
-`
 
-`````
+
 1. Include top keyboard shortcuts.
 
 2. Add quick access menu navigation.
@@ -3446,7 +3423,7 @@ Your task:
 4. Use icons and color coding for readability.
 
 5. Provide in A4 and Letter size PDFs.
-`````
+``````
 
 `
 Output format: Cheat sheet PDF in two sizes.
@@ -3481,11 +3458,10 @@ Prompt:
 "You are a Scenario-Based Learning Documentation Specialist. I want tutorials that walk through tasks using real customer scenarios.
 `
 
-`
+``````
 Your task:
-`
 
-`````
+
 1. Select top 3 customer use cases.
 
 2. Write tutorials in story format.
@@ -3495,7 +3471,7 @@ Your task:
 4. End each with key takeaways.
 
 5. Format for blog and PDF.
-`````
+``````
 
 `
 Output format: 3 story-based tutorials in HTML + PDF.
@@ -3530,11 +3506,10 @@ Prompt:
 "You are an AI-Enhanced Documentation Designer. I want a product guide template that AI can fill with user-specific tips.
 `
 
-`
+``````
 Your task:
-`
 
-`````
+
 1. Create placeholders for user goals and usage history.
 
 2. Include a modular structure for different product features.
@@ -3544,7 +3519,7 @@ Your task:
 4. Add export options for PDF and HTML.
 
 5. Ensure template is editable in Google Docs.
-`````
+``````
 
 `
 Output format: Editable DOCX template + JSON structure for AI integration.
