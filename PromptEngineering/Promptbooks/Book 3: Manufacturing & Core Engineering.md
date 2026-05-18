@@ -29,22 +29,22 @@ Your task:
 
 `Input Files & Code Section:`
 
+```
+1. Current workflow diagram (Visio/PDF).
 
-Current workflow diagram (Visio/PDF).
+2. Production cycle time logs (Excel).
 
-Production cycle time logs (Excel).
+3. Machine downtime report (CSV)."
+```
+## Prompt 2 — Predictive Maintenance Scheduling
 
-Machine downtime report (CSV)."
+`Backstory: In your FMCG plant, unexpected equipment breakdowns are causing losses. You want AI to help predict and schedule maintenance.`
 
-Prompt 2 — Predictive Maintenance Scheduling
+`Goal: Create a preventive maintenance calendar using historical data.`
 
-Backstory: In your FMCG plant, unexpected equipment breakdowns are causing losses. You want AI to help predict and schedule maintenance.
+`Prompt:`
 
-Goal: Create a preventive maintenance calendar using historical data.
-
-Prompt:
-
-"You are an AI Predictive Maintenance Planner. Use my machine performance and repair history to predict future breakdowns and suggest maintenance dates.
+`"You are an AI Predictive Maintenance Planner. Use my machine performance and repair history to predict future breakdowns and suggest maintenance dates.`
 
 ``````
 Your task:
@@ -61,17 +61,17 @@ Your task:
 5. Export schedule for integration with SAP ERP.
 ``````
 
-Output format: Excel maintenance schedule + PDF risk report.
+`Output format: Excel maintenance schedule + PDF risk report.`
 
-Input Files & Code Section:
+`Input Files & Code Section:`
 
+```
+1. Machine performance logs (CSV).
 
-Machine performance logs (CSV).
-
-Maintenance history files.
+2. Maintenance history files.
 
 SAP ERP downtime export."
-
+```
 Prompt 3 — Optimising Raw Material Usage
 
 Backstory: Your factory is over-ordering raw materials, causing excess inventory costs.
