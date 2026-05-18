@@ -838,11 +838,10 @@ Output format: A comparative analysis table + dashboard layout mockup + 1-page a
 "You are a Data Scientist with a focus on statistical inference. I have a dataset on marketing spend (TV, social media, influencer, print) and corresponding sales figures.
 `
 
-`
+``````
 Your task:
-`
 
-`````
+
 1. Calculate correlation coefficients for each marketing channel vs sales.
 
 2. Perform hypothesis testing to check statistical significance (p-values).
@@ -852,7 +851,7 @@ Your task:
 4. Visualise results using scatter plots and regression lines.
 
 5. Provide a plain-language explanation of findings for non-technical stakeholders.
-`````
+``````
 
 `
 Output format: Jupyter Notebook with plots + regression output table + simplified insights brief."
@@ -864,11 +863,10 @@ Output format: Jupyter Notebook with plots + regression output table + simplifie
 "You are a Customer Analytics Expert specialising in churn modelling. I have SaaS customer data including sign-up date, usage frequency, support tickets, and payment history.
 `
 
-`
+``````
 Your task:
-`
 
-`````
+
 1. Define churn for my business context (e.g., inactive for 60 days).
 
 2. Engineer predictive features from usage and payment history.
@@ -878,7 +876,7 @@ Your task:
 4. Evaluate using accuracy, precision, recall, and ROC-AUC.
 
 5. Suggest retention strategies for the top 20% at-risk customers.
-`````
+``````
 
 `
 Output format: Python Notebook with code + confusion matrix + strategic retention plan."
@@ -890,11 +888,10 @@ Output format: Python Notebook with code + confusion matrix + strategic retentio
 "You are a Data Visualization Trainer. Prepare a best practices guide for visualising financial performance data for stakeholders.
 `
 
-`
+``````
 Your task:
-`
 
-`````
+
 1. Recommend which chart types to use for time-series, category comparison, and part-to-whole analysis.
 
 2. Suggest an accessible, colour-blind-friendly palette.
@@ -904,7 +901,7 @@ Your task:
 4. Include 3 examples of excellent visualisations and explain why they work.
 
 5. Provide 3 poor visualisation examples and show corrected versions.
-`````
+``````
 
 `
 Output format: A 5-page PDF guide with do’s and don’ts + visual examples."
@@ -924,11 +921,10 @@ Output format: A 5-page PDF guide with do’s and don’ts + visual examples."
 3. Web analytics data (Google Analytics export)
 ```
 
-`
+``````
 Your task:
-`
 
-`````
+
 1. Identify common keys for merging datasets.
 
 2. Clean and standardise column formats and naming.
@@ -938,7 +934,7 @@ Your task:
 4. Perform initial descriptive analysis on combined data.
 
 5. Suggest 3 insights achievable only after combining data.
-`````
+``````
 
 `
 Output format: Python Notebook with ETL code + final merged dataset snapshot + insight summary."
@@ -950,11 +946,10 @@ Output format: Python Notebook with ETL code + final merged dataset snapshot + i
 "You are a GIS (Geographic Information Systems) Analyst. I have state-wise sales data for India for the past 12 months.
 `
 
-`
+``````
 Your task:
-`
 
-`````
+
 1. Create an interactive map showing sales density using a colour gradient.
 
 2. Add filters for month, product category, and sales rep.
@@ -964,7 +959,7 @@ Your task:
 4. Enable comparison mode for two selected states.
 
 5. Provide export options (PNG, PDF).
-`````
+``````
 
 `
 Output format: Dashboard implementation guide + sample data visualisation screenshot."
@@ -976,11 +971,10 @@ Output format: Dashboard implementation guide + sample data visualisation screen
 "You are a Market Intelligence Analyst specialising in competitive benchmarking. I have my company’s quarterly performance metrics for revenue, gross margin, and customer acquisition rate, and I have benchmark data for top 5 competitors.
 `
 
-`
+``````
 Your task:
-`
 
-`````
+
 1. Normalise all data for fair comparison (e.g., currency conversion, adjusting for fiscal year differences).
 
 2. Create comparative bar charts showing my company vs each competitor for each KPI (Key Performance Indicator).
@@ -990,7 +984,7 @@ Your task:
 4. Identify areas where my company is above average and where it’s lagging.
 
 5. Provide 5 targeted recommendations to close performance gaps.
-`````
+``````
 
 `
 Output format: A 2-page PDF competitive report with visual comparisons, an executive summary, and a prioritised action list."
@@ -1002,11 +996,10 @@ Output format: A 2-page PDF competitive report with visual comparisons, an execu
 "You are a Data Engineer experienced in optimising ETL (Extract, Transform, Load) pipelines for speed and efficiency. I have a nightly pipeline that ingests sales, inventory, and customer data into a central warehouse.
 `
 
-`
+``````
 Your task:
-`
 
-`````
+
 1. Profile the current pipeline to identify slow queries, inefficient joins, and bottleneck processes.
 
 2. Recommend improvements in query optimisation, indexing, and caching.
@@ -1016,7 +1009,7 @@ Your task:
 4. Propose monitoring tools to track pipeline health and error rates.
 
 5. Provide an example optimised SQL query and ETL script snippet.
-`````
+``````
 
 `
 Output format: A technical optimisation plan with a “before vs after” runtime projection chart and sample code."
@@ -1028,11 +1021,10 @@ Output format: A technical optimisation plan with a “before vs after” runtim
 "You are a Digital Analytics Expert skilled in API integrations and BI dashboarding. I have social media engagement data from Facebook, Instagram, and LinkedIn for the past 12 months.
 `
 
-`
+``````
 Your task:
-`
 
-`````
+
 1. Create a unified dashboard showing platform-wise engagement metrics (likes, comments, shares, saves).
 
 2. Add a filter to view engagement by post type (video, carousel, single image, story).
@@ -1042,7 +1034,7 @@ Your task:
 4. Add follower growth trend lines for each platform.
 
 5. Include an insights section suggesting which content format drives the highest engagement.
-`````
+``````
 
 `
 Output format: Dashboard wireframe + API integration guide + engagement insights report."
@@ -1054,11 +1046,10 @@ Output format: Dashboard wireframe + API integration guide + engagement insights
 "You are a Real Estate Data Analyst with expertise in property market trends. I have a dataset of property sales in [city] for the last 5 years with columns for location, property type, size, sale price, and date.
 `
 
-`
+``````
 Your task:
-`
 
-`````
+
 1. Analyse price trends by property type (apartment, villa, plot).
 
 2. Map high-growth neighbourhoods using price appreciation over time.
@@ -1068,7 +1059,7 @@ Your task:
 4. Calculate ROI projections for top 5 emerging areas.
 
 5. Provide investment recommendations for buyers targeting high rental yield vs capital appreciation.
-`````
+``````
 
 `
 Output format: A PDF market report with heatmaps, trend charts, and a 1-page “Investor Recommendations” summary."
@@ -1080,11 +1071,10 @@ Output format: A PDF market report with heatmaps, trend charts, and a 1-page “
 "You are a Healthcare Data Analyst working on hospital efficiency improvement. I have anonymised patient visit data, bed occupancy records, and treatment timelines for the past 2 years.
 `
 
-`
+``````
 Your task:
-`
 
-`````
+
 1. Calculate average patient wait time, treatment time, and discharge time.
 
 2. Create bed occupancy rate visualisations by department.
@@ -1094,7 +1084,7 @@ Your task:
 4. Suggest scheduling optimisations to reduce bottlenecks.
 
 5. Recommend operational changes to improve patient throughput without compromising care quality.
-`````
+``````
 
 `
 Output format: A dashboard layout plan + operational improvement report."
@@ -1106,11 +1096,10 @@ Output format: A dashboard layout plan + operational improvement report."
 "You are a Marketing Data Analyst focused on conversion rate optimisation. I have e-commerce funnel data for the last quarter showing visits, product views, add-to-cart events, checkout starts, and purchases.
 `
 
-`
+``````
 Your task:
-`
 
-`````
+
 1. Calculate conversion rates for each funnel stage.
 
 2. Identify the stage with the highest drop-off rate and quantify the loss in potential revenue.
@@ -1120,7 +1109,7 @@ Your task:
 4. Suggest at least 5 tactics to improve conversions at the weakest stage.
 
 5. Provide a visual funnel chart showing current vs projected performance if improvements are implemented.
-`````
+``````
 
 `
 Output format: A funnel analysis dashboard + improvement recommendation document."
@@ -1132,11 +1121,10 @@ Output format: A funnel analysis dashboard + improvement recommendation document
 "You are an Education Analytics Specialist. I have school-level student performance data for grades, attendance, and extracurricular participation across multiple branches.
 `
 
-`
+``````
 Your task:
-`
 
-`````
+
 1. Create visualisations showing average performance by subject and grade level.
 
 2. Add attendance heatmaps highlighting periods of low attendance.
@@ -1146,7 +1134,7 @@ Your task:
 4. Highlight top 5 branches in overall performance and bottom 5 for improvement focus.
 
 5. Recommend targeted interventions for low-performing schools.
-`````
+``````
 
 `
 Output format: Dashboard wireframe + insights brief for school management."
@@ -1158,11 +1146,10 @@ Output format: Dashboard wireframe + insights brief for school management."
 "You are an Energy Data Analyst. I have hourly electricity consumption data for a manufacturing facility over 24 months.
 `
 
-`
+``````
 Your task:
-`
 
-`````
+
 1. Identify peak and off-peak consumption periods.
 
 2. Analyse seasonal patterns in energy usage.
@@ -1172,7 +1159,7 @@ Your task:
 4. Suggest renewable energy integration opportunities.
 
 5. Create a projection model for energy cost savings over the next 12 months.
-`````
+``````
 
 `
 Output format: PDF energy audit report + visual trend charts + savings projection table."
@@ -1184,11 +1171,10 @@ Output format: PDF energy audit report + visual trend charts + savings projectio
 "You are a Retail Data Mining Specialist. I have point-of-sale transaction data with item-level details for the past 12 months.
 `
 
-`
+``````
 Your task:
-`
 
-`````
+
 1. Use association rule mining (Apriori or FP-Growth) to identify frequent item combinations.
 
 2. Calculate support, confidence, and lift for each rule.
@@ -1198,7 +1184,7 @@ Your task:
 4. Suggest bundle offers based on analysis.
 
 5. Project potential revenue increase from implementing top 3 bundles.
-`````
+``````
 
 `
 Output format: Association rules table + actionable cross-sell strategy document."
@@ -1210,11 +1196,10 @@ Output format: Association rules table + actionable cross-sell strategy document
 "You are a Web Analytics Consultant. I have Google Analytics data for my e-commerce site over the past 6 months.
 `
 
-`
+``````
 Your task:
-`
 
-`````
+
 1. Identify top 5 traffic sources and their respective conversion rates.
 
 2. Analyse bounce rate, average session duration, and pages per session.
@@ -1224,7 +1209,7 @@ Your task:
 4. Highlight underperforming landing pages and suggest optimisation strategies.
 
 5. Provide projected improvement metrics if changes are implemented.
-`````
+``````
 
 `
 Output format: Data Studio dashboard layout + optimisation recommendations report."
@@ -1236,11 +1221,10 @@ Output format: Data Studio dashboard layout + optimisation recommendations repor
 "You are a Manufacturing Data Engineer. I have IoT sensor data for multiple machines in a production line over the past year.
 `
 
-`
+``````
 Your task:
-`
 
-`````
+
 1. Visualise machine uptime/downtime as a Gantt chart.
 
 2. Identify bottlenecks in production flow.
@@ -1250,7 +1234,7 @@ Your task:
 4. Recommend preventive maintenance schedules.
 
 5. Suggest workflow changes to increase throughput without adding resources.
-`````
+``````
 
 `
 Output format: Factory floor dashboard layout + process improvement plan."
