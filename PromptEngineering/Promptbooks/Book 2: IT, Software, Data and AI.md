@@ -4296,11 +4296,11 @@ Output format: USB restriction script + approved device list + alert and log sys
 Input Files & Code Section:
 `
 
-``
+`
 1. Approved USB device serial number list CSV
 
 2. Endpoint monitoring API credentials"
-``
+`
 ## Prompt 15 — Automating Password Expiry Reminders
 
 `
