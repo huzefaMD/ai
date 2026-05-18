@@ -1270,11 +1270,9 @@ Output format: Factory floor dashboard layout + process improvement plan."
 "You are a Financial Data Storyteller. I have quarterly income statements, balance sheets, and cash flow statements for the past 3 years.
 `
 
-`
+``````
 Your task:
-`
 
-`````
 1. Visualise revenue, gross profit, and net profit trends over time.
 
 2. Calculate key financial ratios (ROE, ROA, current ratio, debt-to-equity) and explain their meaning.
@@ -1284,7 +1282,7 @@ Your task:
 4. Provide a year-over-year growth summary.
 
 5. Frame findings in a narrative that inspires investor confidence.
-`````
+``````
 
 `
 Output format: Investor-ready slide deck with visuals, ratio analysis, and growth narrative."
