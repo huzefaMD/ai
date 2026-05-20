@@ -136,12 +136,12 @@ Your task:
 
 `Input Files & Code Section:`
 
+```
+1. Electricity consumption logs.
 
-`Electricity consumption logs.`
+2. Machine efficiency ratings.
 
-`Machine efficiency ratings.`
-
-`Government subsidy policy documents."`
+Government subsidy policy documents."```
 
 ## Prompt 5 — Reducing Product Defects with AI
 
