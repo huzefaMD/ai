@@ -273,9 +273,9 @@ Output format: PDF process improvement plan + Excel cycle time analysis.
 Input Files & Code Section:
 
 
-Process time study report.
+- Process time study report.
 
-Production flow diagrams.
+- Production flow diagrams.
 
 Industry benchmark data."
 
@@ -307,11 +307,11 @@ Output format: Power BI or Tableau file + setup guide.
 Input Files & Code Section:
 
 
-Machine data API access.
+- Machine data API access.
 
-ERP database schema.
+- ERP database schema.
 
-KPI definition sheet."
+- KPI definition sheet."
 
 Prompt 10 — Lean Six Sigma Implementation Plan
 
@@ -341,9 +341,9 @@ Output format: PDF roadmap + Excel KPI tracker.
 Input Files & Code Section:
 
 
-Waste audit report.
+- Waste audit report.
 
-Current process maps.
+- Current process maps.
 
 Employee training records."
 
@@ -375,9 +375,9 @@ Output format: Excel supplier scorecard + PDF strategy report.
 Input Files & Code Section:
 
 
-Supplier delivery logs.
+- Supplier delivery logs.
 
-Purchase order records.
+- Purchase order records.
 
 Historical lead time data."
 
@@ -409,11 +409,11 @@ Output format: PDF changeover plan + Excel time tracker.
 Input Files & Code Section:
 
 
-Changeover time logs.
+- Changeover time logs.
 
-Equipment setup checklists.
+- Equipment setup checklists.
 
-Operator interviews."
+- Operator interviews."
 
 Prompt 13 — Defining Digital Twin for Production Line
 
@@ -443,9 +443,9 @@ Output format: Simulation software project file + PDF user manual.
 Input Files & Code Section:
 
 
-Production layout CAD file.
+- Production layout CAD file.
 
-Machine operating specs.
+- Machine operating specs.
 
 Sensor data mapping."
 
@@ -477,11 +477,11 @@ Output format: PDF efficiency plan + Excel ROI sheet.
 Input Files & Code Section:
 
 
-Packaging speed logs.
+- Packaging speed logs.
 
-Material waste records.
+- Material waste records.
 
-Equipment maintenance history."
+- Equipment maintenance history."
 
 Prompt 15 — Automating Quality Control Image Analysis
 
@@ -511,11 +511,11 @@ Output format: AI model files + PDF accuracy report.
 Input Files & Code Section:
 
 
-Labeled defect images.
+- Labeled defect images.
 
-QC inspection criteria.
+- QC inspection criteria.
 
-Current defect logs."
+- Current defect logs."
 
 Prompt 16 — Implementing Kanban for Production Flow
 
