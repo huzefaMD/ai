@@ -1093,11 +1093,11 @@ Output format: PDF report + Excel summary table.
 Input Files & Code Section:
 
 
-Raw QC data (CSV).
+- Raw QC data (CSV).
 
-Report template.
+- Report template.
 
-Production line ID mapping."
+- Production line ID mapping."
 
 Prompt 8 — Supplier Quality Scorecard
 
@@ -1127,11 +1127,11 @@ Output format: Excel scorecard + PDF supplier evaluation report.
 Input Files & Code Section:
 
 
-Supplier delivery data (Excel).
+- Supplier delivery data (Excel).
 
-QC inspection results.
+- QC inspection results.
 
-Supplier contract terms."
+- Supplier contract terms."
 
 Prompt 9 — First Article Inspection (FAI) Automation
 
@@ -1161,11 +1161,11 @@ Output format: PDF FAI report + Excel dimension table.
 Input Files & Code Section:
 
 
-FAI measurement data.
+- FAI measurement data.
 
-Product specification sheet.
+- Product specification sheet.
 
-Tolerance limits file."
+- Tolerance limits file."
 
 Prompt 10 — Calibration Scheduling for Inspection Tools
 
@@ -1195,11 +1195,11 @@ Output format: Excel calibration calendar + PDF reminder log.
 Input Files & Code Section:
 
 
-Tool inventory list.
+- Tool inventory list.
 
-Calibration frequency standards.
+- Calibration frequency standards.
 
-Past calibration records."
+- Past calibration records."
 
 Prompt 11 — Real-Time QC Alert System
 
@@ -1229,9 +1229,9 @@ Output format: PDF alert trend report + Excel alert log.
 Input Files & Code Section:
 
 
-QC threshold list.
+- QC threshold list.
 
-Sensor/vision system feed.
+- Sensor/vision system feed.
 
 Supervisor contact list."
 
@@ -1263,11 +1263,11 @@ Output format: SPC chart PDF + Excel source file.
 Input Files & Code Section:
 
 
-QC inspection data (CSV).
+- QC inspection data (CSV).
 
-Control limits document.
+- Control limits document.
 
-Product code mapping."
+- Product code mapping."
 
 Prompt 13 — QC Data Cleaning & Standardization
 
@@ -1297,11 +1297,11 @@ Output format: Excel cleaned dataset + data quality report.
 Input Files & Code Section:
 
 
-Raw QC data file.
+- Raw QC data file.
 
-Approved QC data format guide.
+- Approved QC data format guide.
 
-Unit conversion sheet."
+- Unit conversion sheet."
 
 Prompt 14 — Rework Tracking System
 
@@ -1331,11 +1331,11 @@ Output format: Excel rework log + PDF cost analysis.
 Input Files & Code Section:
 
 
-QC rework logs.
+- QC rework logs.
 
-Production cost data.
+- Production cost data.
 
-Defect category guide."
+- Defect category guide."
 
 Prompt 15 — QC Workforce Efficiency Analysis
 
@@ -1365,11 +1365,11 @@ Output format: Excel performance scorecard + PDF analysis.
 Input Files & Code Section:
 
 
-QC inspector logs.
+- QC inspector logs.
 
-Inspection accuracy records.
+- Inspection accuracy records.
 
-Shift allocation schedule."
+- Shift allocation schedule."
 
 Prompt 16 — AI-Driven Visual Inspection for Paint & Surface Finish
 
@@ -1399,11 +1399,11 @@ Output format: Annotated defect images + PDF inspection report.
 Input Files & Code Section:
 
 
-High-resolution defect image dataset.
+- High-resolution defect image dataset.
 
-Defect classification guide.
+- Defect classification guide.
 
-Surface quality tolerance chart."
+- Surface quality tolerance chart."
 
 Prompt 17 — AI-Enhanced 3D Measurement Verification
 
