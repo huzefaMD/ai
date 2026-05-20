@@ -1742,11 +1742,11 @@ Output format: CAD file (.STEP & .IGES) + 2D technical drawing (PDF).
 Input Files & Code Section:
 
 
-Dimension sheet (Excel).
+- Dimension sheet (Excel).
 
-Product usage description.
+- Product usage description.
 
-Material preference or constraints."
+- Material preference or constraints."
 
 Prompt 2 — Convert 2D Drawings into 3D CAD Models
 
@@ -1776,11 +1776,11 @@ Output format: 3D CAD file (.STEP & .IGES) + rendered image (PNG/JPEG).
 Input Files & Code Section:
 
 
-2D technical drawings (PDF/DWG).
+- 2D technical drawings (PDF/DWG).
 
-Material specification sheet.
+- Material specification sheet.
 
-Assembly notes if applicable."
+- Assembly notes if applicable."
 
 Prompt 3 — Parametric CAD Model Optimization for Weight Reduction
 
@@ -1810,11 +1810,11 @@ Output format: Optimized CAD file + weight reduction analysis (PDF).
 Input Files & Code Section:
 
 
-Original CAD file.
+- Original CAD file.
 
-Load & stress data.
+- Load & stress data.
 
-Material database (optional)."
+- Material database (optional)."
 
 Prompt 4 — CAD Assembly Design from Individual Components
 
@@ -1844,11 +1844,11 @@ Output format: CAD assembly file (.ASM/.STEP) + exploded view PDF.
 Input Files & Code Section:
 
 
-Individual part CAD files.
+- Individual part CAD files.
 
-Assembly instructions (if available).
+- Assembly instructions (if available).
 
-Tolerance and fit specifications."
+- Tolerance and fit specifications."
 
 Prompt 5 — Reverse Engineering from 3D Scan Data
 
@@ -1878,11 +1878,11 @@ Output format: Parametric CAD file (.STEP) + cleaned mesh file (.STL).
 Input Files & Code Section:
 
 
-3D scan file.
+- 3D scan file.
 
-Original part specifications (if available).
+- Original part specifications (if available).
 
-Material details."
+- Material details."
 
 Prompt 6 — CAE Simulation Setup for Stress Analysis
 
@@ -1912,11 +1912,11 @@ Output format: Stress analysis PDF report + color-coded CAD model.
 Input Files & Code Section:
 
 
-CAD file (.STEP).
+- CAD file (.STEP).
 
-Material property sheet.
+- Material property sheet.
 
-Load & constraint specifications."
+- Load & constraint specifications."
 
 Prompt 7 — Fluid Flow Simulation for Product Optimization
 
@@ -1946,9 +1946,9 @@ Output format: CFD report (PDF) + annotated CAD flow visualization.
 Input Files & Code Section:
 
 
-CAD file (.STEP).
+- CAD file (.STEP).
 
-Fluid property data.
+- Fluid property data.
 
 Flow rate and pressure conditions."
 
@@ -1980,11 +1980,11 @@ Output format: Thermal simulation PDF + CAD heat map.
 Input Files & Code Section:
 
 
-CAD file (.STEP).
+- CAD file (.STEP).
 
-Heat source specifications.
+- Heat source specifications.
 
-Cooling method details."
+- Cooling method details."
 
 Prompt 9 — Motion Simulation for Moving Assemblies
 
@@ -2014,11 +2014,11 @@ Output format: Motion simulation video + PDF report.
 Input Files & Code Section:
 
 
-CAD assembly file.
+- CAD assembly file.
 
-Motion constraint details.
+- Motion constraint details.
 
-Performance requirements."
+- Performance requirements."
 
 Prompt 10 — Design for Manufacturing (DFM) Review
 
@@ -2048,11 +2048,11 @@ Output format: DFM analysis PDF + annotated CAD file.
 Input Files & Code Section:
 
 
-CAD file.
+- CAD file.
 
-Preferred manufacturing method.
+- Preferred manufacturing method.
 
-Material constraints."
+- Material constraints."
 
 Prompt 11 — CAD File Format Conversion
 
@@ -2082,11 +2082,11 @@ Output format: Converted CAD file + integrity check report.
 Input Files & Code Section:
 
 
-Original CAD file.
+- Original CAD file.
 
-Target software format requirements.
+- Target software format requirements.
 
-Assembly reference files (if any)."
+- Assembly reference files (if any)."
 
 Prompt 12 — Design Variants for Product Customization
 
@@ -2116,11 +2116,11 @@ Output format: Multiple CAD files + labeled renders.
 Input Files & Code Section:
 
 
-Base CAD file.
+- Base CAD file.
 
-Variant specification list.
+- Variant specification list.
 
-Material options."
+- Material options."
 
 Prompt 13 — CAD Rendering for Marketing & Visualization
 
@@ -2150,11 +2150,11 @@ Output format: High-res PNG/JPEG images + PSD file.
 Input Files & Code Section:
 
 
-CAD file.
+- CAD file.
 
-Material and color preferences.
+- Material and color preferences.
 
-Branding guidelines."
+- Branding guidelines."
 
 Prompt 14 — CAE Optimization for Energy Efficiency
 
@@ -2184,11 +2184,11 @@ Output format: Energy optimization report (PDF) + updated CAD file.
 Input Files & Code Section:
 
 
-CAD model.
+- CAD model.
 
-Operational load data.
+- Operational load data.
 
-Energy consumption logs."
+- Energy consumption logs."
 
 Prompt 15 — CAD Automation for Batch Design Generation
 
@@ -2218,11 +2218,11 @@ Output format: Multiple CAD files + render images.
 Input Files & Code Section:
 
 
-Base CAD file.
+- Base CAD file.
 
-Excel/CSV with parameter changes.
+- Excel/CSV with parameter changes.
 
-Rendering preferences."
+- Rendering preferences."
 
 Prompt 16 — AI-Assisted GD&T (Geometric Dimensioning & Tolerancing) Application
 
@@ -2252,11 +2252,11 @@ Output format: Updated CAD drawing (PDF/DWG) + GD&T explanation guide.
 Input Files & Code Section:
 
 
-CAD drawing file.
+- CAD drawing file.
 
-Functional and assembly requirements.
+- Functional and assembly requirements.
 
-Applicable standard (ASME/ISO)."
+- Applicable standard (ASME/ISO)."
 
 Prompt 17 — Lightweight CAD Model for VR/AR Applications
 
@@ -2286,11 +2286,11 @@ Output format: Lightweight CAD file (.FBX/.GLTF) + optimization report.
 Input Files & Code Section:
 
 
-Original CAD file.
+- Original CAD file.
 
-VR/AR platform details.
+- VR/AR platform details.
 
-Performance targets."
+- Performance targets."
 
 Prompt 18 — AI-Generated Fixture & Jig Design
 
@@ -2320,11 +2320,11 @@ Output format: CAD fixture file (.STEP) + 2D technical drawings (PDF).
 Input Files & Code Section:
 
 
-Part CAD file.
+- Part CAD file.
 
-Fixture usage purpose.
+- Fixture usage purpose.
 
-Machine/tool dimensions."
+- Machine/tool dimensions."
 
 Prompt 19 — Assembly Animation for Client Presentation
 
@@ -2354,11 +2354,11 @@ Output format: Assembly animation video (MP4/GIF) + narration script (Word).
 Input Files & Code Section:
 
 
-CAD assembly files.
+- CAD assembly files.
 
-Assembly instructions.
+- Assembly instructions.
 
-Branding/logo assets."
+- Branding/logo assets."
 
 Prompt 20 — AI-Driven Bill of Materials (BOM) Extraction
 
@@ -2388,11 +2388,11 @@ Output format: BOM (Excel/PDF) + missing data report.
 Input Files & Code Section:
 
 
-CAD assembly file.
+- CAD assembly file.
 
-Material database (if available).
+- Material database (if available).
 
-Part numbering system."
+- Part numbering system."
 
 Prompt 21 — AI-Based Ergonomic Design Review
 
@@ -2422,11 +2422,11 @@ Output format: Ergonomic analysis PDF + updated CAD model.
 Input Files & Code Section:
 
 
-CAD file.
+- CAD file.
 
-Target user profile data.
+- Target user profile data.
 
-Ergonomic standard references."
+- Ergonomic standard references."
 
 Prompt 22 — AI-Assisted Tolerance Stack-Up Analysis
 
@@ -2456,11 +2456,11 @@ Output format: Tolerance stack-up report (PDF) + revised CAD file.
 Input Files & Code Section:
 
 
-CAD assembly file.
+- CAD assembly file.
 
-Tolerance table.
+- Tolerance table.
 
-Manufacturing process capabilities."
+- Manufacturing process capabilities."
 
 Prompt 23 — 3D Printing-Ready CAD Preparation
 
@@ -2490,11 +2490,11 @@ Output format: Printable STL + G-code + PDF prep report.
 Input Files & Code Section:
 
 
-CAD file.
+- CAD file.
 
-Printer specifications.
+- Printer specifications.
 
-Material choice."
+- Material choice."
 
 Prompt 24 — AI-Powered Design Compliance Check
 
@@ -2524,11 +2524,11 @@ Output format: Compliance review report (PDF) + annotated CAD file.
 Input Files & Code Section:
 
 
-CAD file.
+- CAD file.
 
-Compliance standard documents.
+- Compliance standard documents.
 
-Product application details."
+- Product application details."
 
 Prompt 25 — AI-Driven Concept-to-Prototype Workflow
 
@@ -2558,11 +2558,11 @@ Output format: CAD file (.STEP), STL for printing, PDF prototype cost sheet.
 Input Files & Code Section:
 
 
-Sketches/images.
+- Sketches/images.
 
-Material preferences.
+- Material preferences.
 
-Prototype method choice."
+- Prototype method choice."
 
 
 # Safety & Compliance Documentation
