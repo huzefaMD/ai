@@ -171,9 +171,9 @@ Output format: PDF defect analysis + Excel root cause tracker.
 Input Files & Code Section:
 
 
-1. QC defect logs (Excel).
+- QC defect logs (Excel).
 
-2. Production shift reports.
+- Production shift reports.
 
 - Machine maintenance history."
 
