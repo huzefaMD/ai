@@ -109,9 +109,9 @@ Supplier lead time chart."
 ```
 ## Prompt 4 — Energy Efficiency Improvement Plan
 
-``Backstory: Your manufacturing facility’s energy bills are rising, and management wants to reduce energy usage.
+`Backstory: Your manufacturing facility’s energy bills are rising, and management wants to reduce energy usage.`
 
-Goal: Build an AI-driven energy saving action plan.``
+`Goal: Build an AI-driven energy saving action plan.`
 
 `Prompt:`
 
