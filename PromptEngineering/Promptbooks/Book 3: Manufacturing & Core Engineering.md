@@ -889,9 +889,9 @@ Output format: Model prediction results (Excel) + annotated defect images.
 Input Files & Code Section:
 
 
-Labeled defect image dataset.
+- Labeled defect image dataset.
 
-QC category definitions (Excel).
+- QC category definitions (Excel).
 
 Root cause mapping guide."
 
@@ -923,11 +923,11 @@ Output format: PDF acceptance/rejection report + Excel QC log.
 Input Files & Code Section:
 
 
-Supplier shipment data (CSV).
+- Supplier shipment data (CSV).
 
-Quality parameter thresholds.
+- Quality parameter thresholds.
 
-Historical supplier performance data."
+- Historical supplier performance data."
 
 Prompt 3 — Real-Time Production Line Quality Monitoring
 
@@ -957,11 +957,11 @@ Output format: Live dashboard + PDF monthly QC summary.
 Input Files & Code Section:
 
 
-Live sensor feed access.
+- Live sensor feed access.
 
-Quality standards document.
+- Quality standards document.
 
-Historical QC reports."
+- Historical QC reports."
 
 Prompt 4 — End-of-Line Inspection Automation
 
@@ -991,11 +991,11 @@ Output format: Excel inspection log + automated labeling file.
 Input Files & Code Section:
 
 
-Product specification sheet.
+- Product specification sheet.
 
-End-of-line camera feed or images.
+- End-of-line camera feed or images.
 
-Rejection code list."
+- Rejection code list."
 
 Prompt 5 — ISO 9001 Audit Preparation
 
@@ -1025,11 +1025,11 @@ Output format: PDF audit readiness plan + Excel checklist.
 Input Files & Code Section:
 
 
-Current QC SOPs.
+- Current QC SOPs.
 
-ISO 9001 standard document.
+- ISO 9001 standard document.
 
-Past audit reports."
+- Past audit reports."
 
 Prompt 6 — Root Cause Analysis for Defect Patterns
 
@@ -1059,11 +1059,11 @@ Output format: PDF root cause analysis report + Excel defect tracker.
 Input Files & Code Section:
 
 
-QC defect log (Excel).
+- QC defect log (Excel).
 
-Machine maintenance history.
+- Machine maintenance history.
 
-Production shift records."
+- Production shift records."
 
 Prompt 7 — Automated QC Report Generation
 
