@@ -141,8 +141,8 @@ Your task:
 
 2. Machine efficiency ratings.
 
-Government subsidy policy documents."```
-
+Government subsidy policy documents."
+```
 ## Prompt 5 — Reducing Product Defects with AI
 
 Backstory: Your quality control (QC) team reports that defect rates are rising. You want AI to help detect root causes.
