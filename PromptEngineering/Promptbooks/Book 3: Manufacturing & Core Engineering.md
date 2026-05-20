@@ -30,11 +30,11 @@ Your task:
 `Input Files & Code Section:`
 
 ```
-1. Current workflow diagram (Visio/PDF).
+-  Current workflow diagram (Visio/PDF).
 
-2. Production cycle time logs (Excel).
+-  Production cycle time logs (Excel).
 
-3. Machine downtime report (CSV)."
+-  Machine downtime report (CSV)."
 ```
 ## Prompt 2 — Predictive Maintenance Scheduling
 
