@@ -1433,11 +1433,11 @@ Output format: 3D deviation map + PDF dimensional accuracy report.
 Input Files & Code Section:
 
 
-CAD design file (.STEP/.IGES).
+- CAD design file (.STEP/.IGES).
 
-3D scan data (.STL/.OBJ).
+- 3D scan data (.STL/.OBJ).
 
-Tolerance specification document."
+- Tolerance specification document."
 
 Prompt 18 — Automated Packaging QC
 
@@ -1467,11 +1467,11 @@ Output format: PDF packaging QC report + Excel defect log.
 Input Files & Code Section:
 
 
-Packaging quality checklist.
+- Packaging quality checklist.
 
-Packaging images/video.
+- Packaging images/video.
 
-Shipping damage reports."
+- Shipping damage reports."
 
 Prompt 19 — Environmental & Safety Compliance QC
 
@@ -1501,11 +1501,11 @@ Output format: PDF compliance checklist + Excel monitoring log.
 Input Files & Code Section:
 
 
-Environmental monitoring logs.
+- Environmental monitoring logs.
 
-Safety inspection records.
+- Safety inspection records.
 
-Legal compliance standards."
+- Legal compliance standards."
 
 Prompt 20 — Customer Return QC Analysis
 
@@ -1535,11 +1535,11 @@ Output format: PDF return analysis report + Excel defect mapping.
 Input Files & Code Section:
 
 
-Customer return logs.
+- Customer return logs.
 
-Production batch records.
+- Production batch records.
 
-QC inspection history."
+- QC inspection history."
 
 Prompt 21 — AI-Generated QC Training Simulations
 
@@ -1569,11 +1569,11 @@ Output format: Image dataset + Excel trainee performance tracker.
 Input Files & Code Section:
 
 
-Historical defect dataset.
+- Historical defect dataset.
 
-QC classification guide.
+- QC classification guide.
 
-LMS compatibility format guide."
+- LMS compatibility format guide."
 
 Prompt 22 — AI-Driven Product Life-Cycle Quality Tracking
 
@@ -1603,11 +1603,11 @@ Output format: PDF life-cycle QC report + Excel warranty analysis.
 Input Files & Code Section:
 
 
-Warranty claim data.
+- Warranty claim data.
 
-Customer complaint logs.
+- Customer complaint logs.
 
-Production batch records."
+- Production batch records."
 
 Prompt 23 — AI-Assisted QC Policy Review
 
@@ -1637,11 +1637,11 @@ Output format: PDF policy review + Word editable SOP draft.
 Input Files & Code Section:
 
 
-Current QC policy documents.
+- Current QC policy documents.
 
-Industry standard guidelines.
+- Industry standard guidelines.
 
-ISO QC requirements."
+- ISO QC requirements."
 
 Prompt 24 — AI-Powered QC Cost Analysis
 
@@ -1671,9 +1671,9 @@ Output format: PDF cost breakdown report + Excel cost model.
 Input Files & Code Section:
 
 
-QC expense records.
+- QC expense records.
 
-Equipment maintenance costs.
+- Equipment maintenance costs.
 
 Rework logs."
 
@@ -1705,11 +1705,11 @@ Output format: Power BI/Tableau dashboard + PDF user guide.
 Input Files & Code Section:
 
 
-QC data sources and credentials.
+- QC data sources and credentials.
 
-ERP integration API details.
+- ERP integration API details.
 
-Dashboard design preferences."
+- Dashboard design preferences."
 
 
 CAD/CAE Design Assistance
