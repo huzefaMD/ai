@@ -205,11 +205,11 @@ Output format: PDF daily report + Excel raw data table.
 Input Files & Code Section:
 
 
-Shift production logs (CSV).
+- Shift production logs (CSV).
 
-IoT machine data export (JSON).
+- IoT machine data export (JSON).
 
-Target production KPI sheet."
+- Target production KPI sheet."
 
 Prompt 7 — Workforce Shift Optimization
 
@@ -239,11 +239,11 @@ Output format: Excel shift roster + PDF scheduling policy.
 Input Files & Code Section:
 
 
-Worker skills database (Excel).
+- Worker skills database (Excel).
 
-Attendance logs (CSV).
+- Attendance logs (CSV).
 
-Labor law compliance checklist."
+- Labor law compliance checklist."
 
 Prompt 8 — Cycle Time Reduction Plan
 
