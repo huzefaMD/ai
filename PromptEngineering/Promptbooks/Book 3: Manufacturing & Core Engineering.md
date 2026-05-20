@@ -109,14 +109,15 @@ Supplier lead time chart."
 ```
 ## Prompt 4 — Energy Efficiency Improvement Plan
 
-Backstory: Your manufacturing facility’s energy bills are rising, and management wants to reduce energy usage.
+`Backstory: Your manufacturing facility’s energy bills are rising, and management wants to reduce energy usage.
 
-Goal: Build an AI-driven energy saving action plan.
+Goal: Build an AI-driven energy saving action plan.`
 
-Prompt:
+`Prompt:`
 
-"You are an AI Industrial Energy Auditor. Audit my plant’s energy usage and recommend efficiency improvements.
+`"You are an AI Industrial Energy Auditor. Audit my plant’s energy usage and recommend efficiency improvements.`
 
+`````
 Your task:
 
 
@@ -129,19 +130,20 @@ Your task:
 4. Compare energy savings with government green subsidies.
 
 5. Provide a phased implementation plan.
+`````
 
-Output format: PDF audit report + Excel savings forecast.
+`Output format: PDF audit report + Excel savings forecast.`
 
-Input Files & Code Section:
+`Input Files & Code Section:`
 
 
-Electricity consumption logs.
+`Electricity consumption logs.`
 
-Machine efficiency ratings.
+`Machine efficiency ratings.`
 
-Government subsidy policy documents."
+`Government subsidy policy documents."`
 
-Prompt 5 — Reducing Product Defects with AI
+##Prompt 5 — Reducing Product Defects with AI
 
 Backstory: Your quality control (QC) team reports that defect rates are rising. You want AI to help detect root causes.
 
