@@ -546,11 +546,11 @@ Output format: PDF Kanban playbook + Excel WIP tracker.
 Input Files & Code Section:
 
 
-Current process workflow diagrams.
+- Current process workflow diagrams.
 
-List of production stages.
+- List of production stages.
 
-Historical WIP inventory data."
+- Historical WIP inventory data."
 
 Prompt 17 — Inventory Location Optimization
 
@@ -580,11 +580,11 @@ Output format: CAD warehouse layout + PDF efficiency report.
 Input Files & Code Section:
 
 
-Warehouse blueprint file.
+- Warehouse blueprint file.
 
-Material retrieval logs.
+- Material retrieval logs.
 
-Worker safety guidelines."
+- Worker safety guidelines."
 
 Prompt 18 — Seasonal Production Planning
 
@@ -614,11 +614,11 @@ Output format: Excel seasonal forecast + PDF action plan.
 Input Files & Code Section:
 
 
-Sales history (3+ years).
+- Sales history (3+ years).
 
-Market demand reports.
+- Market demand reports.
 
-Supplier lead time data."
+- Supplier lead time data."
 
 Prompt 19 — Scrap Reduction Strategy
 
@@ -648,9 +648,9 @@ Output format: PDF waste reduction plan + Excel savings tracker.
 Input Files & Code Section:
 
 
-Scrap material logs.
+- Scrap material logs.
 
-Production process maps.
+- Production process maps.
 
 Material supplier specifications."
 
@@ -682,11 +682,11 @@ Output format: PDF compliance report + Word editable file.
 Input Files & Code Section:
 
 
-Industry compliance checklist.
+- Industry compliance checklist.
 
-QC inspection logs.
+- QC inspection logs.
 
-IoT machine data export."
+- IoT machine data export."
 
 Prompt 21 — AI-Driven Production Cost Reduction Plan
 
@@ -716,11 +716,11 @@ Output format: PDF cost reduction plan + Excel savings model.
 Input Files & Code Section:
 
 
-Production cost breakdown (Excel).
+- Production cost breakdown (Excel).
 
-Energy bills.
+- Energy bills.
 
-Supplier contract terms."
+- Supplier contract terms."
 
 Prompt 22 — Employee Training Plan for Process Efficiency
 
@@ -750,11 +750,11 @@ Output format: PDF training plan + PowerPoint training slides.
 Input Files & Code Section:
 
 
-QC performance reports.
+- QC performance reports.
 
-Employee skill assessment survey.
+- Employee skill assessment survey.
 
-Industry training manuals."
+- Industry training manuals."
 
 Prompt 23 — AI-Driven Equipment Upgrade Recommendations
 
@@ -784,11 +784,11 @@ Output format: PDF investment proposal + Excel ROI model.
 Input Files & Code Section:
 
 
-Machine performance logs.
+- Machine performance logs.
 
-Industry benchmark database.
+- Industry benchmark database.
 
-Equipment supplier quotes."
+- Equipment supplier quotes."
 
 Prompt 24 — Multi-Plant Production Coordination
 
@@ -818,11 +818,11 @@ Output format: Excel master schedule + PDF coordination report.
 Input Files & Code Section:
 
 
-Plant capacity and specialization list.
+- Plant capacity and specialization list.
 
-Transportation cost matrix.
+- Transportation cost matrix.
 
-Product demand forecast."
+- Product demand forecast."
 
 Prompt 25 — AI-Powered Kaizen Suggestion System
 
@@ -852,11 +852,11 @@ Output format: Excel idea tracker + PDF monthly report.
 Input Files & Code Section:
 
 
-Employee list and roles.
+- Employee list and roles.
 
-Past improvement logs.
+- Past improvement logs.
 
-ROI calculation template."
+- ROI calculation template."
 
 
 Quality Control & Inspection Protocols
