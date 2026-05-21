@@ -422,16 +422,17 @@ Your task:
 
 3. Operator interviews."
 ````
-Prompt 13 — Defining Digital Twin for Production Line
+## Prompt 13 — Defining Digital Twin for Production Line
 
-Backstory: You want to create a digital twin of your production line for simulation purposes.
+`Backstory: You want to create a digital twin of your production line for simulation purposes.`
 
-Goal: Build an AI prompt for designing a production digital twin model.
+`Goal: Build an AI prompt for designing a production digital twin model.`
 
-Prompt:
+`Prompt:`
 
-"You are an AI Digital Twin Designer. Create a simulation-ready digital twin of my production line.
+`"You are an AI Digital Twin Designer. Create a simulation-ready digital twin of my production line.`
 
+``````
 Your task:
 
 
@@ -444,17 +445,17 @@ Your task:
 4. Integrate with IoT sensor data feeds.
 
 5. Provide step-by-step deployment guide.
+``````
+`Output format: Simulation software project file + PDF user manual.`
 
-Output format: Simulation software project file + PDF user manual.
+`Input Files & Code Section:`
+```
 
-Input Files & Code Section:
+1. Production layout CAD file.
 
-
-- Production layout CAD file.
-
-- Machine operating specs.
-
-Sensor data mapping."
+2. Machine operating specs.
+```
+`Sensor data mapping."`
 
 Prompt 14 — Optimising Packaging Line Efficiency
 
