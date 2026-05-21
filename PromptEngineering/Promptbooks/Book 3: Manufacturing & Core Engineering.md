@@ -1476,16 +1476,17 @@ Your task:
 
 3.Tolerance specification document."
 ````
-Prompt 18 — Automated Packaging QC
+## Prompt 18 — Automated Packaging QC
 
-Backstory: Customers have complained about damaged products due to poor packaging, and you want to ensure every package meets quality standards.
+`Backstory: Customers have complained about damaged products due to poor packaging, and you want to ensure every package meets quality standards.`
 
-Goal: Build an AI system to inspect packaging quality.
+`Goal: Build an AI system to inspect packaging quality.`
 
-Prompt:
+`Prompt:`
 
-"You are an AI Packaging Quality Inspector. Evaluate product packaging for compliance with quality standards.
+`"You are an AI Packaging Quality Inspector. Evaluate product packaging for compliance with quality standards.`
 
+``````
 Your task:
 
 
@@ -1498,18 +1499,18 @@ Your task:
 4. Log inspection results with images.
 
 5. Recommend improvements for recurring packaging issues.
+``````
+`Output format: PDF packaging QC report + Excel defect log.`
 
-Output format: PDF packaging QC report + Excel defect log.
+`Input Files & Code Section:`
+````
 
-Input Files & Code Section:
+1.Packaging quality checklist.
 
+2.Packaging images/video.
 
-- Packaging quality checklist.
-
-- Packaging images/video.
-
-- Shipping damage reports."
-
+3.Shipping damage reports."
+````
 Prompt 19 — Environmental & Safety Compliance QC
 
 Backstory: Your factory must follow strict environmental and safety QC checks to avoid penalties.
