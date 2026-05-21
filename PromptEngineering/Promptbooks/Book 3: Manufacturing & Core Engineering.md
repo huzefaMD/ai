@@ -492,16 +492,17 @@ Your task:
 
 3. Equipment maintenance history."
 ```
-Prompt 15 — Automating Quality Control Image Analysis
+## Prompt 15 — Automating Quality Control Image Analysis
 
-Backstory: Your QC team inspects products manually, which is slow and inconsistent.
+`Backstory: Your QC team inspects products manually, which is slow and inconsistent.`
 
-Goal: Use AI vision models for defect detection.
+`Goal: Use AI vision models for defect detection.`
 
-Prompt:
+`Prompt:`
 
-"You are an AI Quality Vision System Designer. Analyze product images to detect defects automatically.
+`"You are an AI Quality Vision System Designer. Analyze product images to detect defects automatically.`
 
+``````
 Your task:
 
 
@@ -514,18 +515,18 @@ Your task:
 4. Export results to QC dashboard.
 
 5. Suggest improvements to inspection process.
+``````
+`Output format: AI model files + PDF accuracy report.`
 
-Output format: AI model files + PDF accuracy report.
+`Input Files & Code Section:`
+````
 
-Input Files & Code Section:
+1. Labeled defect images.
 
+2.QC inspection criteria.
 
-- Labeled defect images.
-
-- QC inspection criteria.
-
-- Current defect logs."
-
+3.Current defect logs."
+````
 Prompt 16 — Implementing Kanban for Production Flow
 
 Backstory: Your factory floor suffers from work-in-progress (WIP) pile-ups, leading to inefficiency and missed delivery dates.
