@@ -1284,3 +1284,205 @@ Input Files Required:
 1. Product images
 
 2. Flash sale details."
+
+Prompt 13 — Influencer Collaboration Ad Copy Brief
+
+Backstory: A skincare brand is partnering with Instagram influencers to promote a new night cream.
+
+Goal: Create an ad copy brief influencers can use while posting content.
+
+Prompt:
+
+"You are an Influencer Campaign Copy Strategist. Write an ad copy brief for Instagram influencers promoting a night cream.
+
+Tasks:
+
+1. Provide brand story and product benefits.
+
+2. Suggest 3 key talking points for influencers.
+
+3. Provide hashtag recommendations.
+
+4. Include swipe-up or link-in-bio CTA examples.
+
+5. Maintain compliance with influencer advertising guidelines.
+
+Output format:
+
+1. Influencer Copy Brief (DOCX)
+
+Input Files Required:
+
+1. Product details
+
+2. Influencer list."
+
+Prompt 14 — Pinterest Ads Copy for Home Décor E-commerce Store
+
+Backstory: A home décor brand wants to use Pinterest ads to drive traffic to its store’s "Festive Decor Ideas" collection.
+
+Goal: Write Pinterest ad copy and suggest pin designs.
+
+Prompt:
+
+"You are a Pinterest E-commerce Ads Specialist. Write ad copy for a home décor store’s festive collection.
+
+Tasks:
+
+1. Create 5 ad headlines (max 30 characters).
+
+2. Write 3 ad descriptions (max 100 characters).
+
+3. Suggest 5 pin design concepts.
+
+4. Include festive-related keywords for Pinterest SEO.
+
+5. Recommend CTA text for pins.
+
+Output format:
+
+1. Pinterest Ad Copy Pack (DOCX)
+
+2. Pin Design Ideas (Excel)
+
+Input Files Required:
+
+1. Collection images
+
+2. Brand style guide."
+
+Prompt 15 — Multi-Language Ad Copy Creation (Hindi, English, Hinglish)
+
+Backstory: A D2C snack brand wants ads in Hindi, English, and Hinglish to reach Tier 1–3 cities.
+
+Goal: Create culturally adapted ad copy for different languages.
+
+Prompt:
+
+"You are a Multi-Language Ad Copy Expert. Write ads for a D2C snack brand in Hindi, English, and Hinglish.
+
+Tasks:
+
+1. Create 5 headlines and 3 descriptions for each language.
+
+2. Maintain cultural relevance and tone in each version.
+
+3. Include region-specific keywords.
+
+4. Ensure translations are idiomatic, not literal.
+
+5. Provide phonetic Hindi spellings for Hinglish ads.
+
+Output format:
+
+1. Multi-Language Ad Copy Pack (DOCX)
+
+Input Files Required:
+
+1. Product details
+
+2. Brand tone guidelines."
+
+Prompt 16 — Ad Copy for Subscription-Based Product Campaign
+
+Backstory: Your D2C brand sells cold brew coffee concentrate and wants to push a monthly subscription plan to urban millennials who drink coffee daily.
+
+Goal: Write ad copy that promotes the subscription over one-time purchase.
+
+Prompt:
+
+"You are an E-commerce Subscription Marketing Specialist. Create ad copy promoting a coffee subscription service.
+
+Tasks:
+
+1. Write 5 headlines (max 40 characters) with recurring benefits (never run out, save money).
+
+2. Write 3 body copy options (max 120 characters) focusing on convenience and savings.
+
+3. Include a unique offer (first month 50% off).
+
+4. Suggest subscription imagery (coffee at doorstep, morning ritual).
+
+5. Provide 2 CTA variations (Subscribe Now, Start Your Plan).
+
+Output format:
+
+1. Subscription Ad Copy Pack (DOCX)
+
+2. Image Concepts (Excel)
+
+Input Files Required:
+
+1. Subscription details
+
+2. Pricing breakdown."
+
+Prompt 17 — Remarketing Campaign for Price Drop Notifications
+
+Backstory: Customers have wishlisted wireless earbuds but haven’t purchased. You’re running a price drop campaign.
+
+Goal: Create remarketing ads that notify users about the price cut.
+
+Prompt:
+
+"You are an E-commerce Remarketing Copywriter. Write price drop remarketing ads for wireless earbuds.
+
+Tasks:
+
+1. Write 5 urgency-driven headlines (max 40 characters).
+
+2. Create 3 copy variations highlighting discount amount.
+
+3. Use urgency and scarcity triggers.
+
+4. Suggest images showing before-after pricing.
+
+5. Recommend retargeting strategy for both Facebook and Google Display.
+
+Output format:
+
+1. Price Drop Ad Copy Pack (DOCX)
+
+2. Visual Suggestions (Excel)
+
+Input Files Required:
+
+1. Product price history
+
+2. Discount details."
+
+Prompt 18 — LinkedIn Ad Copy for B2B E-commerce Sales
+
+Backstory: You sell bulk corporate gifting items like engraved pens and desk organisers. Your target audience is HR heads and corporate buyers.
+
+Goal: Write LinkedIn ads to drive inquiries.
+
+Prompt:
+
+"You are a B2B LinkedIn Ads Specialist. Write ad copy for bulk corporate gifting products.
+
+Tasks:
+
+1. Write 3 professional headlines (max 35 characters).
+
+2. Create 3 ad body variations (max 120 characters).
+
+3. Include call-to-action for bulk order inquiries.
+
+4. Suggest ad images showing gifting in a corporate context.
+
+5. Recommend targeting by job title, industry, and company size.
+
+Output format:
+
+1. LinkedIn Ad Copy Pack (DOCX)
+
+2. Targeting Sheet (Excel)
+
+Input Files Required:
+
+1. Product catalogue
+
+2. Corporate buyer personas."
+
+
