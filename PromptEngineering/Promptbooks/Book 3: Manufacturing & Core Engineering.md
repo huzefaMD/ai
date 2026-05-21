@@ -1254,8 +1254,8 @@ Your task:
 4. Log each alert with timestamp and cause.
 
 5. Provide monthly alert trend analysis.
-``````
-``Output format: PDF alert trend report + Excel alert log.`
+```````
+`Output format: PDF alert trend report + Excel alert log.`
 
 `Input Files & Code Section:`
 ```
@@ -1263,7 +1263,7 @@ Your task:
 1. QC threshold list.
 
 2.Sensor/vision system feed.
-```
+
 `Supervisor contact list."`
 
 Prompt 12 — SPC (Statistical Process Control) Chart Generation
