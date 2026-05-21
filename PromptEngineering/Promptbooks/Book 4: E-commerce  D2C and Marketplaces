@@ -83,20 +83,27 @@ Prompt:
 Tasks:
 
 1. Focus on key benefits (brightening, anti-aging, hydration).
+
 2. Incorporate relevant keywords naturally.
+
 3. Include sensory and emotional triggers (radiant glow, youthful skin).
+
 4. Keep each bullet between 150–200 characters.
+
 5. Follow Amazon’s style guide for bullet formatting.
 
 Output format:
 
 1. Amazon Bullet Points (DOCX)
+
 2. Keyword mapping sheet
 
 Input Files Required:
 
 1. Product benefits and ingredients list
+
 2. Competitor bullet point examples
+
 SEO keyword research."
 
 Prompt 4 — Lifestyle Image Caption Optimisation
@@ -112,9 +119,13 @@ Prompt:
 Tasks:
 
 1. Use persuasive language to describe the scene and benefits.
+
 2. Add relevant keywords naturally.
+
 3. Keep captions under 15 words for quick readability.
+
 4. Match tone to brand’s voice (calm, inspiring, health-focused).
+
 5. Include one call-to-action in each caption.
 
 Output format:
@@ -124,7 +135,9 @@ Output format:
 Input Files Required:
 
 1. Lifestyle images
+
 2. Brand tone guidelines
+
 3. Keyword list."
 
 Prompt 5 — Flipkart/Amazon Backend Search Term Optimisation
@@ -139,21 +152,29 @@ Prompt:
 
 Tasks:
 
+
 1. Use a mix of high-traffic and long-tail keywords.
+
 2. Avoid repetition of words already in title/bullets.
+
 3. Include common spelling mistakes and regional variations.
+
 4. Keep within Amazon’s 250-character backend limit.
+
 5. Focus on buyer intent keywords (weight loss tea, detox tea).
 
 Output format:
 
 1. Backend Keyword List (CSV)
+
 2. Keyword Search Volume Report (Excel)
 
 Input Files Required:
 
 1. Existing product title & bullets
+
 2. Keyword research data
+
 3. Competitor backend keyword analysis."
 
 Prompt 6 — Competitor Gap Analysis for Amazon Listing Improvement
@@ -169,20 +190,27 @@ Prompt:
 Tasks:
 
 1. Identify top 5 competitor listings using the same keyword set.
+
 2. Analyse their titles, bullets, descriptions, images, and reviews.
+
 3. Highlight missing features or benefits in my listing.
+
 4. Recommend new keywords and content improvements.
+
 5. Provide a priority action plan with high ROI suggestions.
 
 Output format:
 
 1. Competitor Gap Analysis Table (Excel)
+
 2. Improvement Action Plan (PDF)
 
 Input Files Required:
 
 1. My current product listing
+
 2. Competitor listing URLs
+
 3. Keyword research report."
 
 Prompt 7 — Amazon A+ Content Strategy & Draft
@@ -198,20 +226,27 @@ Prompt:
 Tasks:
 
 1. Recommend optimal A+ modules based on competitors and category norms.
+
 2. Suggest a storytelling flow — brand intro, product benefits, usage scenarios, care tips.
+
 3. Draft placeholder text for each section.
+
 4. Suggest 6–8 lifestyle and product images for visual impact.
+
 5. Optimise all copy with SEO keywords without overstuffing.
 
 Output format:
 
 1. A+ Content Strategy Document (DOCX)
+
 2. Image/Asset List (Excel)
 
 Input Files Required:
 
 1. Product specs
+
 2. Brand guidelines
+
 Keyword list."
 
 Prompt 8 — Flipkart Product Q&A Optimisation
@@ -226,10 +261,15 @@ Prompt:
 
 Tasks:
 
+
 1. Analyse existing buyer questions.
+
 2. Identify the top 10 concerns affecting buying decisions.
+
 3. Write clear, concise answers in under 100 words each.
+
 4. Add product benefits where relevant.
+
 5. Ensure tone is helpful and brand-consistent.
 
 Output format:
@@ -239,7 +279,9 @@ Output format:
 Input Files Required:
 
 1. Current buyer questions
+
 2. Product details and manuals
+
 3. Brand tone guidelines."
 
 Prompt 9 — Seasonal Keyword Refresh for Product Listings
@@ -255,20 +297,27 @@ Prompt:
 Tasks:
 
 1. Identify trending festival-related keywords in the home décor category.
+
 2. Suggest how to integrate them into titles, bullets, and descriptions.
+
 3. Ensure compliance with Amazon keyword rules.
+
 4. Provide both Hindi and English keyword variations for Indian shoppers.
+
 5. Recommend removal date for seasonal terms to avoid off-season irrelevance.
 
 Output format:
 
 1. Seasonal Keyword List (Excel)
+
 2. Updated Title/Bullets Draft (DOCX)
 
 Input Files Required:
 
 1. Current product listings
+
 2. Seasonal keyword trend report
+
 3. Festival marketing plan."
 
 Prompt 10 — Enhanced Mobile-First Listing Optimisation
@@ -284,19 +333,25 @@ Prompt:
 Tasks:
 
 1. Check how the listing appears on Flipkart mobile app.
+
 2. Rewrite the title to front-load key features.
+
 3. Adjust bullet point lengths for mobile visibility.
+
 4. Ensure first 3 images convey USP clearly without zoom.
+
 5. Recommend short-form description version for mobile screens.
 
 Output format:
 
 1. Mobile-Optimised Listing Draft (DOCX)
+
 2. Before/After Comparison Table (Excel)
 
 Input Files Required:
 
 1. Current product listing screenshots from mobile
+
 2. Product features list."
 
 Prompt 11 — Amazon India Cultural Localisation Review
@@ -312,19 +367,25 @@ Prompt:
 Tasks:
 
 1. Replace unfamiliar terms with India-relevant language.
+
 2. Add features relevant to local needs (e.g., pollution levels, electricity consumption).
+
 3. Use metric units (sq. meters, kg).
+
 4. Suggest pricing psychology changes for Indian shoppers.
+
 5. Recommend imagery reflecting Indian homes.
 
 Output format:
 
 1. Localised Listing Copy (DOCX)
+
 2. Image Suggestions (Excel)
 
 Input Files Required:
 
 1. Original US listing copy
+
 Indian market research report."
 
 Prompt 12 — Image-to-Text Feature Extraction for Listings
@@ -340,19 +401,25 @@ Prompt:
 Tasks:
 
 1. Identify all embedded text in provided images.
+
 2. Organise extracted text into specs, benefits, and care instructions.
+
 3. Integrate relevant SEO keywords.
+
 4. Ensure clarity and avoid redundancy.
+
 5. Format for Amazon’s HTML-safe description box.
 
 Output format:
 
 1. Extracted Text (DOCX)
+
 2. HTML-Formatted Description (TXT)
 
 Input Files Required:
 
 1. Product image files
+
 2. SEO keyword list."
 
 Prompt 13 — Negative Review Analysis for Listing Optimisation
@@ -368,19 +435,25 @@ Prompt:
 Tasks:
 
 1. Categorise complaints (battery life, speed, durability, etc.).
+
 2. Suggest changes to product listing copy to address concerns.
+
 3. Recommend images/videos that counter negative perceptions.
+
 4. Create a positive framing FAQ section.
+
 5. Draft a proactive buyer reassurance statement.
 
 Output format:
 
 1. Review Analysis Table (Excel)
+
 2. Updated Listing Copy Draft (DOCX)
 
 Input Files Required:
 
 1. All product reviews
+
 2. Product specs and warranty details."
 
 Prompt 14 — Multi-Language Listing Copy for Tier-2/Tier-3 Cities
@@ -396,20 +469,27 @@ Prompt:
 Tasks:
 
 1. Write English + Hindi versions of title, bullets, and description.
+
 2. Keep tone simple, conversational, and benefit-driven.
+
 3. Include regional festival/occasion references where relevant.
+
 4. Maintain Amazon’s keyword integration rules.
+
 5. Suggest keywords in Hindi for backend search terms.
 
 Output format:
 
 1. English + Hindi Listing Copy (DOCX)
+
 2. Hindi Keyword List (Excel)
 
 Input Files Required:
 
 1. Current English listing
+
 2. Regional keyword list
+
 Cultural event calendar."
 
 Prompt 15 — Bundle Offer Listing Optimisation
@@ -425,18 +505,25 @@ Prompt:
 Tasks:
 
 1. Create an SEO title that clearly states both products.
+
 2. Highlight the cost savings and value in the first bullet.
+
 3. Add bundle-specific lifestyle images.
+
 4. Include compatibility and usage scenarios.
+
 5. Create a “Why buy the bundle” section in the description.
 
 Output format:
 
 1. Bundle Listing Draft (DOCX)
+
 2. Image/Graphic Suggestions (Excel)
 
 Input Files Required:
 
 1. Individual product listings
+
 2. Bundle pricing details
+
 3. High-res product images."
