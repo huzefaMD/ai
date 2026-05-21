@@ -2039,16 +2039,17 @@ Your task:
 
 3.Cooling method details."
 ````
-Prompt 9 — Motion Simulation for Moving Assemblies
+## Prompt 9 — Motion Simulation for Moving Assemblies
 
-Backstory: Your assembly involves moving parts, and you want to ensure smooth operation without collisions.
+`Backstory: Your assembly involves moving parts, and you want to ensure smooth operation without collisions.`
 
-Goal: Simulate motion and identify mechanical interference.
+`Goal: Simulate motion and identify mechanical interference.`
 
-Prompt:
+`Prompt:`
 
-"You are an AI Motion Simulation Specialist. Test my CAD assembly for motion efficiency.
+`"You are an AI Motion Simulation Specialist. Test my CAD assembly for motion efficiency.`
 
+``````
 Your task:
 
 
@@ -2061,18 +2062,18 @@ Your task:
 4. Optimize movement for reduced wear.
 
 5. Provide a motion animation video.
+``````
+`Output format: Motion simulation video + PDF report.`
 
-Output format: Motion simulation video + PDF report.
+`Input Files & Code Section:`
+````
 
-Input Files & Code Section:
+1.CAD assembly file.
 
+2.Motion constraint details.
 
-- CAD assembly file.
-
-- Motion constraint details.
-
-- Performance requirements."
-
+3.Performance requirements."
+````
 Prompt 10 — Design for Manufacturing (DFM) Review
 
 Backstory: Your design is ready, but you want to ensure it can be manufactured cost-effectively.
