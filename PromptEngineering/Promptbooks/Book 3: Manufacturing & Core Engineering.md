@@ -459,7 +459,7 @@ Your task:
 
 ## Prompt 14 — Optimising Packaging Line Efficiency
 
-`Backstory: Your packaging line is a bottleneck in your FMCG plant.``
+`Backstory: Your packaging line is a bottleneck in your FMCG plant.`
 
 `Goal: Improve packaging speed and reduce material waste.`
 
