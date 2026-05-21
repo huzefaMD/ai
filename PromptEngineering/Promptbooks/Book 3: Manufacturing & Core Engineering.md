@@ -1303,14 +1303,15 @@ Your task:
 ````
 ## Prompt 13 — QC Data Cleaning & Standardization
 
-Backstory: Your QC data is inconsistent due to multiple operators using different formats.
+`Backstory: Your QC data is inconsistent due to multiple operators using different formats.`
 
-Goal: Standardize QC data for better analysis.
+`Goal: Standardize QC data for better analysis.`
 
-Prompt:
+`Prompt:`
 
-"You are an AI QC Data Cleaner. Standardize and clean my QC inspection data.
+`"You are an AI QC Data Cleaner. Standardize and clean my QC inspection data.`
 
+``````
 Your task:
 
 
@@ -1323,18 +1324,18 @@ Your task:
 4. Remove duplicates.
 
 5. Provide a clean, analysis-ready file.
+``````
+`Output format: Excel cleaned dataset + data quality report.`
 
-Output format: Excel cleaned dataset + data quality report.
+`Input Files & Code Section:`
+````
 
-Input Files & Code Section:
+1. Raw QC data file.
 
+2.Approved QC data format guide.
 
-- Raw QC data file.
-
-- Approved QC data format guide.
-
-- Unit conversion sheet."
-
+3.Unit conversion sheet."
+````
 Prompt 14 — Rework Tracking System
 
 Backstory: Reworked items are not being tracked efficiently, leading to repeated issues.
