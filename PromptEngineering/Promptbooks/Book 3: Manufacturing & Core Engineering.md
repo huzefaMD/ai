@@ -633,16 +633,17 @@ Your task:
 
 3.Supplier lead time data."
 ````
-Prompt 19 — Scrap Reduction Strategy
+## Prompt 19 — Scrap Reduction Strategy
 
-Backstory: Your production process generates a high amount of scrap material, increasing costs.
+`Backstory: Your production process generates a high amount of scrap material, increasing costs.`
 
-Goal: Create a scrap reduction strategy.
+`Goal: Create a scrap reduction strategy.`
 
-Prompt:
+`Prompt:`
 
-"You are an AI Waste Minimization Consultant. Analyze scrap data and recommend strategies to reduce waste.
+`"You are an AI Waste Minimization Consultant. Analyze scrap data and recommend strategies to reduce waste.`
 
+``````
 Your task:
 
 
@@ -655,17 +656,17 @@ Your task:
 4. Calculate cost savings potential.
 
 5. Provide implementation roadmap.
+``````
+`Output format: PDF waste reduction plan + Excel savings tracker.`
 
-Output format: PDF waste reduction plan + Excel savings tracker.
+`Input Files & Code Section:`
+```
 
-Input Files & Code Section:
+1. Scrap material logs.
 
-
-- Scrap material logs.
-
-- Production process maps.
-
-Material supplier specifications."
+2. Production process maps.
+```
+`Material supplier specifications."`
 
 Prompt 20 — Automated Compliance Documentation
 
