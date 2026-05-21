@@ -457,16 +457,17 @@ Your task:
 ```
 `Sensor data mapping."`
 
-Prompt 14 — Optimising Packaging Line Efficiency
+## Prompt 14 — Optimising Packaging Line Efficiency
 
-Backstory: Your packaging line is a bottleneck in your FMCG plant.
+`Backstory: Your packaging line is a bottleneck in your FMCG plant.``
 
-Goal: Improve packaging speed and reduce material waste.
+`Goal: Improve packaging speed and reduce material waste.`
 
-Prompt:
+`Prompt:`
 
-"You are an AI Packaging Line Optimization Expert. Improve speed and reduce waste in my packaging process.
+`"You are an AI Packaging Line Optimization Expert. Improve speed and reduce waste in my packaging process.`
 
+``````
 Your task:
 
 
@@ -479,18 +480,18 @@ Your task:
 4. Simulate effect of automated labeling.
 
 5. Provide ROI analysis for changes.
+``````
+`Output format: PDF efficiency plan + Excel ROI sheet.`
 
-Output format: PDF efficiency plan + Excel ROI sheet.
+`Input Files & Code Section:`
+```
 
-Input Files & Code Section:
+1. Packaging speed logs.
 
+2. Material waste records.
 
-- Packaging speed logs.
-
-- Material waste records.
-
-- Equipment maintenance history."
-
+3. Equipment maintenance history."
+```
 Prompt 15 — Automating Quality Control Image Analysis
 
 Backstory: Your QC team inspects products manually, which is slow and inconsistent.
