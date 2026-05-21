@@ -1266,16 +1266,17 @@ Your task:
 
 `Supervisor contact list."`
 
-Prompt 12 — SPC (Statistical Process Control) Chart Generation
+## Prompt 12 — SPC (Statistical Process Control) Chart Generation
 
-Backstory: QC relies on SPC charts, but creating them manually is tedious.
+`Backstory: QC relies on SPC charts, but creating them manually is tedious.`
 
-Goal: Automate SPC chart generation from inspection data.
+`Goal: Automate SPC chart generation from inspection data.`
 
-Prompt:
+`Prompt:`
 
-"You are an AI SPC Chart Creator. Generate control charts for my production processes automatically.
+`"You are an AI SPC Chart Creator. Generate control charts for my production processes automatically.`
 
+``````
 Your task:
 
 
@@ -1288,18 +1289,18 @@ Your task:
 4. Allow filtering by product type.
 
 5. Export charts as PDF and Excel.
+``````
+`Output format: SPC chart PDF + Excel source file.`
 
-Output format: SPC chart PDF + Excel source file.
+`Input Files & Code Section:`
+````
 
-Input Files & Code Section:
+1. QC inspection data (CSV).
 
+2.Control limits document.
 
-- QC inspection data (CSV).
-
-- Control limits document.
-
-- Product code mapping."
-
+3. Product code mapping."
+````
 Prompt 13 — QC Data Cleaning & Standardization
 
 Backstory: Your QC data is inconsistent due to multiple operators using different formats.
