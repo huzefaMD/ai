@@ -1196,16 +1196,17 @@ Your task:
 
 3.Tolerance limits file."
 ````
-Prompt 10 — Calibration Scheduling for Inspection Tools
+## Prompt 10 — Calibration Scheduling for Inspection Tools
 
-Backstory: QC tools and equipment need regular calibration, but the schedule is often missed.
+`Backstory: QC tools and equipment need regular calibration, but the schedule is often missed.`
 
-Goal: Build an AI-driven calibration calendar.
+`Goal: Build an AI-driven calibration calendar.`
 
-Prompt:
+`Prompt:`
 
-"You are an AI Calibration Scheduler. Create a calibration plan for all my inspection tools.
+`"You are an AI Calibration Scheduler. Create a calibration plan for all my inspection tools.`
 
+``````
 Your task:
 
 
@@ -1218,18 +1219,18 @@ Your task:
 4. Track overdue calibrations.
 
 5. Export schedule for QC department use.
+``````
+`Output format: Excel calibration calendar + PDF reminder log.`
 
-Output format: Excel calibration calendar + PDF reminder log.
+`Input Files & Code Section:`
+````
 
-Input Files & Code Section:
+1. Tool inventory list.
 
+2.Calibration frequency standards.
 
-- Tool inventory list.
-
-- Calibration frequency standards.
-
-- Past calibration records."
-
+3.Past calibration records."
+````
 Prompt 11 — Real-Time QC Alert System
 
 Backstory: QC teams often learn about defects only after an entire batch is produced.
