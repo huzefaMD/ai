@@ -285,3 +285,145 @@ Input Files Required:
 
 1. Current product listing screenshots from mobile
 2. Product features list."
+
+Prompt 11 — Amazon India Cultural Localisation Review
+
+Backstory: A global electronics brand is launching a smart air purifier in India. The current listing copy is adapted from the US version but may not resonate with Indian shoppers.
+
+Goal: Localise product listing for Indian market cultural and linguistic nuances.
+
+Prompt:
+
+"You are an E-commerce Localisation Specialist. Adapt a smart air purifier Amazon listing for India.
+
+Tasks:
+
+1. Replace unfamiliar terms with India-relevant language.
+2. Add features relevant to local needs (e.g., pollution levels, electricity consumption).
+3. Use metric units (sq. meters, kg).
+4. Suggest pricing psychology changes for Indian shoppers.
+5. Recommend imagery reflecting Indian homes.
+
+Output format:
+
+1. Localised Listing Copy (DOCX)
+2. Image Suggestions (Excel)
+
+Input Files Required:
+
+1. Original US listing copy
+Indian market research report."
+
+Prompt 12 — Image-to-Text Feature Extraction for Listings
+
+Backstory: A clothing brand has product images with embedded text about fabric care and size charts. This information isn’t searchable in Amazon SEO.
+
+Goal: Extract embedded text and repurpose it for listing copy.
+
+Prompt:
+
+"You are an E-commerce Content Extraction Expert. Extract and repurpose embedded text from product images for a kurta listing.
+
+Tasks:
+
+1. Identify all embedded text in provided images.
+2. Organise extracted text into specs, benefits, and care instructions.
+3. Integrate relevant SEO keywords.
+4. Ensure clarity and avoid redundancy.
+5. Format for Amazon’s HTML-safe description box.
+
+Output format:
+
+1. Extracted Text (DOCX)
+2. HTML-Formatted Description (TXT)
+
+Input Files Required:
+
+1. Product image files
+2. SEO keyword list."
+
+Prompt 13 — Negative Review Analysis for Listing Optimisation
+
+Backstory: Your portable blender on Amazon has multiple 1–3 star reviews mentioning battery issues. This is impacting conversion rates.
+
+Goal: Analyse negative reviews and create content adjustments to pre-empt buyer doubts.
+
+Prompt:
+
+"You are an E-commerce Reputation Optimiser. Analyse negative reviews for a portable blender.
+
+Tasks:
+
+1. Categorise complaints (battery life, speed, durability, etc.).
+2. Suggest changes to product listing copy to address concerns.
+3. Recommend images/videos that counter negative perceptions.
+4. Create a positive framing FAQ section.
+5. Draft a proactive buyer reassurance statement.
+
+Output format:
+
+1. Review Analysis Table (Excel)
+2. Updated Listing Copy Draft (DOCX)
+
+Input Files Required:
+
+1. All product reviews
+2. Product specs and warranty details."
+
+Prompt 14 — Multi-Language Listing Copy for Tier-2/Tier-3 Cities
+
+Backstory: Your pressure cooker sells well in metro cities but struggles in Tier-2 and Tier-3 cities where Hindi and regional language familiarity is higher.
+
+Goal: Create bilingual product listings to improve reach.
+
+Prompt:
+
+"You are a Regional E-commerce Copywriter. Create bilingual product copy for a pressure cooker listing.
+
+Tasks:
+
+1. Write English + Hindi versions of title, bullets, and description.
+2. Keep tone simple, conversational, and benefit-driven.
+3. Include regional festival/occasion references where relevant.
+4. Maintain Amazon’s keyword integration rules.
+5. Suggest keywords in Hindi for backend search terms.
+
+Output format:
+
+1. English + Hindi Listing Copy (DOCX)
+2. Hindi Keyword List (Excel)
+
+Input Files Required:
+
+1. Current English listing
+2. Regional keyword list
+Cultural event calendar."
+
+Prompt 15 — Bundle Offer Listing Optimisation
+
+Backstory: You want to sell a smart LED bulb + Wi-Fi plug bundle during Amazon’s Great Indian Festival. Bundles can rank well but need clear value communication.
+
+Goal: Optimise bundle listing for conversions.
+
+Prompt:
+
+"You are an Amazon Bundle Listing Specialist. Optimise a smart LED bulb + Wi-Fi plug bundle listing.
+
+Tasks:
+
+1. Create an SEO title that clearly states both products.
+2. Highlight the cost savings and value in the first bullet.
+3. Add bundle-specific lifestyle images.
+4. Include compatibility and usage scenarios.
+5. Create a “Why buy the bundle” section in the description.
+
+Output format:
+
+1. Bundle Listing Draft (DOCX)
+2. Image/Graphic Suggestions (Excel)
+
+Input Files Required:
+
+1. Individual product listings
+2. Bundle pricing details
+3. High-res product images."
