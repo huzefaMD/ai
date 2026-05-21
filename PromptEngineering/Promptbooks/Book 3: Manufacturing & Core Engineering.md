@@ -773,16 +773,17 @@ Your task:
 
 3.Industry training manuals."
 ````
-Prompt 23 — AI-Driven Equipment Upgrade Recommendations
+## Prompt 23 — AI-Driven Equipment Upgrade Recommendations
 
-Backstory: Your machinery is outdated and slowing production, but you’re unsure which upgrades to prioritize.
+`Backstory: Your machinery is outdated and slowing production, but you’re unsure which upgrades to prioritize.`
+`
+`Goal: Recommend high-ROI equipment upgrades.`
 
-Goal: Recommend high-ROI equipment upgrades.
+`Prompt:`
 
-Prompt:
+`"You are an AI Equipment Investment Advisor. Analyze my machinery and suggest upgrades that offer the best ROI.`
 
-"You are an AI Equipment Investment Advisor. Analyze my machinery and suggest upgrades that offer the best ROI.
-
+``````
 Your task:
 
 
@@ -795,18 +796,18 @@ Your task:
 4. Provide financing or leasing recommendations.
 
 5. Rank upgrades by ROI and urgency.
+``````
+`Output format: PDF investment proposal + Excel ROI model.`
 
-Output format: PDF investment proposal + Excel ROI model.
+`Input Files & Code Section:`
+````
 
-Input Files & Code Section:
+1. Machine performance logs.
 
+2.Industry benchmark database.
 
-- Machine performance logs.
-
-- Industry benchmark database.
-
-- Equipment supplier quotes."
-
+3. Equipment supplier quotes."
+````
 Prompt 24 — Multi-Plant Production Coordination
 
 Backstory: Your company operates multiple plants, but production scheduling between them is inefficient.
