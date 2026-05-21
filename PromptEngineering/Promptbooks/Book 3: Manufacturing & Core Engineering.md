@@ -213,16 +213,17 @@ Your task:
 
 3. Target production KPI sheet."
 ````
-Prompt 7 — Workforce Shift Optimization
+## Prompt 7 — Workforce Shift Optimization
 
-Backstory: Labor costs are rising, and you want to optimize worker shift schedules without overworking employees.
+`Backstory: Labor costs are rising, and you want to optimize worker shift schedules without overworking employees.`
 
-Goal: Build an AI-generated shift allocation plan to maximize productivity.
+`Goal: Build an AI-generated shift allocation plan to maximize productivity.`
 
-Prompt:
+`Prompt:`
 
-"You are an AI Workforce Scheduling Expert. Optimize worker shifts for the next month to reduce overtime costs while meeting production targets.
+`"You are an AI Workforce Scheduling Expert. Optimize worker shifts for the next month to reduce overtime costs while meeting production targets.`
 
+``````
 Your task:
 
 
@@ -235,18 +236,17 @@ Your task:
 4. Balance workload across shifts.
 
 5. Export in Excel for HR integration.
+``````
+`Output format: Excel shift roster + PDF scheduling policy.`
 
-Output format: Excel shift roster + PDF scheduling policy.
+`Input Files & Code Section:`
+````
+1. Worker skills database (Excel).
 
-Input Files & Code Section:
+2. Attendance logs (CSV).
 
-
-- Worker skills database (Excel).
-
-- Attendance logs (CSV).
-
-- Labor law compliance checklist."
-
+3. Labor law compliance checklist."
+````
 Prompt 8 — Cycle Time Reduction Plan
 
 Backstory: The average cycle time for your main product is longer than industry benchmarks.
