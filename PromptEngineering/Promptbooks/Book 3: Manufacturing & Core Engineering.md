@@ -1441,16 +1441,17 @@ Your task:
 
 3.Surface quality tolerance chart."
 ````
-Prompt 17 — AI-Enhanced 3D Measurement Verification
+## Prompt 17 — AI-Enhanced 3D Measurement Verification
 
-Backstory: Your components need precise 3D measurements, but manual verification is time-consuming.
+`Backstory: Your components need precise 3D measurements, but manual verification is time-consuming.`
 
-Goal: Automate 3D measurement verification using AI.
+`Goal: Automate 3D measurement verification using AI.`
 
-Prompt:
+`Prompt:`
 
-"You are an AI Dimensional Accuracy Verifier. Compare 3D scan measurements of my product with CAD design files.
+`"You are an AI Dimensional Accuracy Verifier. Compare 3D scan measurements of my product with CAD design files.`
 
+``````
 Your task:
 
 
@@ -1463,18 +1464,18 @@ Your task:
 4. Generate pass/fail results for each dimension.
 
 5. Create a deviation heatmap for manufacturing feedback.
+``````
+`Output format: 3D deviation map + PDF dimensional accuracy report.`
 
-Output format: 3D deviation map + PDF dimensional accuracy report.
+`Input Files & Code Section:`
+````
 
-Input Files & Code Section:
+1.CAD design file (.STEP/.IGES).
 
+2.3D scan data (.STL/.OBJ).
 
-- CAD design file (.STEP/.IGES).
-
-- 3D scan data (.STL/.OBJ).
-
-- Tolerance specification document."
-
+3.Tolerance specification document."
+````
 Prompt 18 — Automated Packaging QC
 
 Backstory: Customers have complained about damaged products due to poor packaging, and you want to ensure every package meets quality standards.
