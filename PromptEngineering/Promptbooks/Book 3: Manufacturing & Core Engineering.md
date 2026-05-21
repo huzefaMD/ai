@@ -1616,16 +1616,17 @@ Your task:
 
 3.LMS compatibility format guide."
 ````
-Prompt 22 — AI-Driven Product Life-Cycle Quality Tracking
+## Prompt 22 — AI-Driven Product Life-Cycle Quality Tracking
 
-Backstory: You want to monitor product quality not just during manufacturing but throughout its life cycle.
+`Backstory: You want to monitor product quality not just during manufacturing but throughout its life cycle.`
 
-Goal: Build a long-term product quality tracking system.
+`Goal: Build a long-term product quality tracking system.`
 
-Prompt:
+`Prompt:`
 
-"You are an AI Life-Cycle Quality Analyst. Track and analyze product performance after sale to improve QC processes.
+`"You are an AI Life-Cycle Quality Analyst. Track and analyze product performance after sale to improve QC processes.`
 
+``````
 Your task:
 
 
@@ -1638,18 +1639,18 @@ Your task:
 4. Suggest preventive design or manufacturing changes.
 
 5. Forecast warranty claim reduction potential.
+``````
+`Output format: PDF life-cycle QC report + Excel warranty analysis.`
 
-Output format: PDF life-cycle QC report + Excel warranty analysis.
+`Input Files & Code Section:`
+````
 
-Input Files & Code Section:
+1. Warranty claim data.
 
+2.Customer complaint logs.
 
-- Warranty claim data.
-
-- Customer complaint logs.
-
-- Production batch records."
-
+3.Production batch records."
+````
 Prompt 23 — AI-Assisted QC Policy Review
 
 Backstory: QC policies haven’t been updated in years, and you suspect they may be outdated for modern manufacturing.
