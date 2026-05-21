@@ -2144,16 +2144,17 @@ Your task:
 
 3.Assembly reference files (if any)."
 ````
-Prompt 12 — Design Variants for Product Customization
+## Prompt 12 — Design Variants for Product Customization
 
-Backstory: You want to offer multiple versions of a product with slight design variations.
+`Backstory: You want to offer multiple versions of a product with slight design variations.`
 
-Goal: Generate design variants from a base CAD model.
+`Goal: Generate design variants from a base CAD model.`
 
-Prompt:
+`Prompt:`
 
-"You are an AI CAD Variant Generator. Create multiple product variants from my base design.
+`"You are an AI CAD Variant Generator. Create multiple product variants from my base design.`
 
+``````
 Your task:
 
 
@@ -2166,18 +2167,18 @@ Your task:
 4. Generate renders for marketing use.
 
 5. Package all CAD files in one folder.
+``````
+`Output format: Multiple CAD files + labeled renders.`
 
-Output format: Multiple CAD files + labeled renders.
+`Input Files & Code Section:`
+````
 
-Input Files & Code Section:
+1. Base CAD file.
 
+2.Variant specification list.
 
-- Base CAD file.
-
-- Variant specification list.
-
-- Material options."
-
+3.Material options."
+````
 Prompt 13 — CAD Rendering for Marketing & Visualization
 
 Backstory: You need realistic images of your design for client presentations and marketing materials.
