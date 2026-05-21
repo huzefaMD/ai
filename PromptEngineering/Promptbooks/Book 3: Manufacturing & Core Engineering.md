@@ -527,16 +527,17 @@ Your task:
 
 3.Current defect logs."
 ````
-Prompt 16 — Implementing Kanban for Production Flow
+## Prompt 16 — Implementing Kanban for Production Flow
 
-Backstory: Your factory floor suffers from work-in-progress (WIP) pile-ups, leading to inefficiency and missed delivery dates.
+`Backstory: Your factory floor suffers from work-in-progress (WIP) pile-ups, leading to inefficiency and missed delivery dates.`
 
-Goal: Implement a Kanban system for smoother production flow.
+`Goal: Implement a Kanban system for smoother production flow.`
 
-Prompt:
+`Prompt:`
 
-"You are an AI Kanban Workflow Designer. Create a Kanban implementation plan for my [industry] production facility.
+`"You are an AI Kanban Workflow Designer. Create a Kanban implementation plan for my [industry] production facility.`
 
+``````
 Your task:
 
 
@@ -549,19 +550,19 @@ Your task:
 4. Recommend daily stand-up meeting structure.
 
 5. Provide metrics to track success over time.
-
-Output format: PDF Kanban playbook + Excel WIP tracker.
-
-
-Input Files & Code Section:
+``````
+`Output format: PDF Kanban playbook + Excel WIP tracker.`
 
 
-- Current process workflow diagrams.
+`Input Files & Code Section:`
+````
 
-- List of production stages.
+1. Current process workflow diagrams.
 
-- Historical WIP inventory data."
+2. List of production stages.
 
+3.Historical WIP inventory data."
+````
 Prompt 17 — Inventory Location Optimization
 
 Backstory: Materials are stored in inefficient locations, causing delays when retrieving them for production.
