@@ -1050,25 +1050,237 @@ Input Files Required:
 2. Audience insights report."
 
 Prompt 6 — Seasonal Sale Campaign Ad Copy (Big Billion Days / Great Indian Festival)
+
 Backstory: You’re selling budget smartphones during India’s two largest online sales events — Flipkart’s Big Billion Days and Amazon’s Great Indian Festival. The competition is fierce, and you need copy that creates urgency.
 
 Goal: Create festival-specific ad copy that stands out in the flood of promotions.
 
 Prompt:
+
 "You are an E-commerce Seasonal Campaign Copywriter. Write ad copy for budget smartphones during Big Billion Days and Great Indian Festival.
 
 Tasks:
 
-Create 5 headlines (max 45 characters) with urgency and scarcity.
-Write 3 ad descriptions (max 150 characters) highlighting discounts, EMI offers, and free delivery.
-Use festival-specific themes and keywords.
-Suggest banner text options for mobile and desktop views.
-Include CTA variations like “Grab Yours Now” and “Deal Ends Soon.”
+1. Create 5 headlines (max 45 characters) with urgency and scarcity.
+
+2. Write 3 ad descriptions (max 150 characters) highlighting discounts, EMI offers, and free delivery.
+
+3. Use festival-specific themes and keywords.
+
+4. Suggest banner text options for mobile and desktop views.
+
+5. Include CTA variations like “Grab Yours Now” and “Deal Ends Soon.”
+
 Output format:
 
-Ad Copy Variations (DOCX)
-Banner Text Ideas (Excel)
+1. Ad Copy Variations (DOCX)
+
+2. Banner Text Ideas (Excel)
+
 Input Files Required:
 
-Smartphone specs & offers
-Festival sale guidelines from Amazon/Flipkart."
+1. Smartphone specs & offers
+
+2. Festival sale guidelines from Amazon/Flipkart."
+
+Prompt 7 — Brand Awareness Campaign for a New D2C Startup
+
+Backstory: A sustainable footwear startup has just launched in India. The goal is to drive awareness rather than direct sales in the first phase.
+
+Goal: Create ad copy that builds brand story and awareness for Instagram, Facebook, and Google Display Network.
+
+Prompt:
+
+"You are a Brand Story Ad Strategist. Develop awareness-focused ad copy for a sustainable footwear startup.
+
+Tasks:
+
+1. Create 3 ad headlines (max 40 characters) that convey the brand’s eco-mission.
+
+2. Write 3 body copy options (max 120 characters) highlighting sustainability and comfort.
+
+3. Suggest 3 brand imagery ideas for ads.
+
+4. Provide targeting recommendations for urban millennial audiences.
+
+5. Suggest a call-to-action that is non-salesy (e.g., “Discover Our Story”).
+
+Output format:
+
+1. Awareness Ad Copy Pack (DOCX)
+
+2. Image Recommendations (Excel)
+
+Input Files Required:
+
+1. Brand story document
+
+2. Product photos."
+
+Prompt 8 — YouTube Pre-Roll Ad Script for E-commerce
+
+Backstory: An online furniture store wants to run 6-second skippable YouTube pre-roll ads targeting metro cities.
+
+Goal: Write short, high-impact scripts that stop viewers from skipping.
+
+Prompt:
+
+"You are a YouTube E-commerce Ad Script Writer. Write 3 variations of 6-second pre-roll ads for an online furniture store.
+
+Tasks:
+
+1. Create a hook in the first 2 seconds.
+
+2. Showcase one hero product visually.
+
+3. End with a strong CTA (“Shop Now with Free Delivery”).
+
+4. Keep total word count under 20 words per script.
+
+5. Suggest 3 visual storyboard ideas.
+
+Output format:
+
+1. 3 Video Scripts (DOCX)
+
+2. Storyboard Concepts (PDF)
+
+Input Files Required:
+
+1. Product images/videos
+
+2. Brand tone guidelines."
+
+Prompt 9 — Ad Copy for Clearance Sale Campaign
+
+Backstory: A D2C electronics store has overstock of Bluetooth earphones from last season. They want to clear stock with heavy discounts.
+
+Goal: Create urgency-driven clearance sale ads for Facebook, Instagram, and Google Display.
+
+Prompt:
+
+"You are an E-commerce Clearance Campaign Specialist. Write ad copy for Bluetooth earphones clearance sale.
+
+Tasks:
+
+1. Write 5 urgency-focused headlines (max 40 characters).
+
+2. Create 3 discount-centric ad descriptions (max 120 characters).
+
+3. Suggest 2 bundle deal offers in copy.
+
+4. Add a “while stocks last” tone.
+
+5. Recommend targeting past website visitors and cart abandoners.
+
+Output format:
+
+1. Clearance Ad Copy Pack (DOCX)
+
+2. Audience Targeting Suggestions (Excel)
+
+Input Files Required:
+
+1. Product details
+
+2. Inventory levels."
+
+Prompt 10 — Retargeting Ad Copy for Cross-Sell Offers
+
+Backstory: Customers who bought gaming laptops from your store could be interested in buying gaming chairs, headphones, or mousepads.
+
+Goal: Create retargeting ads that cross-sell related products.
+
+Prompt:
+
+"You are an E-commerce Cross-Sell Retargeting Expert. Create ad copy targeting past buyers of gaming laptops.
+
+Tasks:
+
+1. Suggest 3 cross-sell product bundles.
+
+2. Write 5 ad copy variations highlighting benefits.
+
+3. Include discount or free shipping as incentive.
+
+4. Suggest hero image concepts for each ad.
+
+5. Recommend platform-specific copy tweaks for Facebook and Google Display.
+
+Output format:
+
+1. Cross-Sell Ad Copy Pack (DOCX)
+
+2. Image Suggestions (Excel)
+
+Input Files Required:
+
+1. Past purchase data
+
+2. Product bundle details."
+
+Prompt 11 — Amazon Sponsored Brand Video Ad Script
+
+Backstory: A premium coffee brand wants to showcase its new range through Amazon’s Sponsored Brand Video Ads.
+
+Goal: Write a short video ad script optimised for Amazon shoppers.
+
+Prompt:
+
+"You are an Amazon Video Ads Specialist. Write a 15-second video script for a premium coffee brand.
+
+Tasks:
+
+1. Hook viewers in first 3 seconds with a relatable scene.
+
+2. Show product benefits and brewing process.
+
+3. Use emotional triggers (morning ritual, aroma, freshness).
+
+4. End with CTA (“Shop Now on Amazon”).
+
+5. Suggest captions for silent viewers.
+
+Output format:
+
+1. Video Script (DOCX)
+
+2. Caption List (Excel)
+
+Input Files Required:
+
+1. Coffee product details
+
+2. Brand tone guide."
+
+Prompt 12 — WhatsApp Marketing Ad Copy for E-commerce Flash Sale
+
+Backstory: A D2C clothing store runs 24-hour flash sales exclusively for WhatsApp subscribers.
+
+Goal: Create short, urgency-based WhatsApp ad messages that drive instant clicks.
+
+Prompt:
+
+"You are a WhatsApp E-commerce Campaign Copywriter. Write ad messages for a clothing brand’s 24-hour flash sale.
+
+Tasks:
+
+1. Write 5 short ad messages (max 120 characters each).
+
+2. Use emojis strategically.
+
+3. Add clear call-to-action with product link.
+
+4. Create 3 variations of sale headlines.
+
+5. Suggest timing for sending messages to boost CTR.
+
+Output format:
+
+1. WhatsApp Ad Messages Pack (DOCX)
+
+Input Files Required:
+
+1. Product images
+
+2. Flash sale details."
