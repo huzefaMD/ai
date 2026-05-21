@@ -1686,16 +1686,17 @@ Your task:
 
 3.ISO QC requirements."
 ````
-Prompt 24 — AI-Powered QC Cost Analysis
+## Prompt 24 — AI-Powered QC Cost Analysis
 
-Backstory: QC is essential but expensive, and management wants a breakdown of costs to optimize spending.
+`Backstory: QC is essential but expensive, and management wants a breakdown of costs to optimize spending.`
 
-Goal: Analyze QC-related costs and find savings opportunities.
+`Goal: Analyze QC-related costs and find savings opportunities.`
 
-Prompt:
+`Prompt:`
 
-"You are an AI QC Cost Analyst. Break down my QC costs and recommend ways to optimize them.
+`"You are an AI QC Cost Analyst. Break down my QC costs and recommend ways to optimize them.`
 
+``````
 Your task:
 
 
@@ -1708,17 +1709,17 @@ Your task:
 4. Provide projected savings per change.
 
 5. Present findings in a management-friendly format.
+``````
+`Output format: PDF cost breakdown report + Excel cost model.`
 
-Output format: PDF cost breakdown report + Excel cost model.
+`Input Files & Code Section:`
+```
 
-Input Files & Code Section:
+1.QC expense records.
 
-
-- QC expense records.
-
-- Equipment maintenance costs.
-
-Rework logs."
+2.Equipment maintenance costs.
+```
+`Rework logs."`
 
 Prompt 25 — AI-Integrated QC Dashboard Creation
 
