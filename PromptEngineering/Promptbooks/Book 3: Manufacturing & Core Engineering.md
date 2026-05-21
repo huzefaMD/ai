@@ -1829,16 +1829,17 @@ Your task:
 
 3.Assembly notes if applicable."
 ```
-Prompt 3 — Parametric CAD Model Optimization for Weight Reduction
+## Prompt 3 — Parametric CAD Model Optimization for Weight Reduction
 
-Backstory: Your current CAD design meets all functional requirements but is unnecessarily heavy, increasing production costs.
+`Backstory: Your current CAD design meets all functional requirements but is unnecessarily heavy, increasing production costs.`
 
-Goal: Optimize the model to reduce weight while maintaining strength.
+`Goal: Optimize the model to reduce weight while maintaining strength.`
 
-Prompt:
+`Prompt:`
 
-"You are an AI CAD Optimization Specialist. Modify my parametric CAD model to minimize weight without compromising safety or performance.
+`"You are an AI CAD Optimization Specialist. Modify my parametric CAD model to minimize weight without compromising safety or performance.`
 
+``````
 Your task:
 
 
@@ -1851,18 +1852,18 @@ Your task:
 4. Suggest alternative materials if beneficial.
 
 5. Provide a side-by-side comparison of weight, strength, and cost before and after optimization.
+``````
+`Output format: Optimized CAD file + weight reduction analysis (PDF).`
 
-Output format: Optimized CAD file + weight reduction analysis (PDF).
+`Input Files & Code Section:`
+````
 
-Input Files & Code Section:
+1. Original CAD file.
 
+2.Load & stress data.
 
-- Original CAD file.
-
-- Load & stress data.
-
-- Material database (optional)."
-
+3.Material database (optional)."
+````
 Prompt 4 — CAD Assembly Design from Individual Components
 
 Backstory: You have separate CAD models for parts but no complete assembly model to visualize fit and function.
