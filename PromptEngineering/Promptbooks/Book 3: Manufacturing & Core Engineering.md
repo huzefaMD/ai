@@ -1021,16 +1021,17 @@ Your task:
 
 3.Rejection code list."
 ````
-Prompt 5 — ISO 9001 Audit Preparation
+## Prompt 5 — ISO 9001 Audit Preparation
 
-Backstory: Your company is preparing for ISO 9001 certification, but documentation and processes are scattered.
+`Backstory: Your company is preparing for ISO 9001 certification, but documentation and processes are scattered.`
 
-Goal: Create a structured ISO 9001 audit preparation plan.
+`Goal: Create a structured ISO 9001 audit preparation plan.`
 
-Prompt:
+`Prompt:`
 
-"You are an AI ISO 9001 Audit Consultant. Organize all quality processes and documents to prepare for certification.
+`"You are an AI ISO 9001 Audit Consultant. Organize all quality processes and documents to prepare for certification.`
 
+``````
 Your task:
 
 
@@ -1043,18 +1044,18 @@ Your task:
 4. Create an audit checklist.
 
 5. Provide training material for staff on audit readiness.
+``````
+`Output format: PDF audit readiness plan + Excel checklist.`
 
-Output format: PDF audit readiness plan + Excel checklist.
+`Input Files & Code Section:`
+````
 
-Input Files & Code Section:
+1. Current QC SOPs.
 
+2.ISO 9001 standard document.
 
-- Current QC SOPs.
-
-- ISO 9001 standard document.
-
-- Past audit reports."
-
+3.Past audit reports."
+````
 Prompt 6 — Root Cause Analysis for Defect Patterns
 
 Backstory: Your defect rate is rising, but you’re unsure whether the problem is with raw materials, machinery, or operators.
