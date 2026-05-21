@@ -2004,16 +2004,17 @@ Your task:
 ```
 `Flow rate and pressure conditions."`
 
-Prompt 8 — Thermal Simulation for Heat Management
+## Prompt 8 — Thermal Simulation for Heat Management
 
-Backstory: The component you designed experiences high temperatures and you want to ensure it doesn’t overheat.
+`Backstory: The component you designed experiences high temperatures and you want to ensure it doesn’t overheat.`
 
-Goal: Run a thermal analysis to identify heat concentration areas.
+`Goal: Run a thermal analysis to identify heat concentration areas.`
 
-Prompt:
+`Prompt:`
 
-"You are an AI Thermal Analysis Engineer. Evaluate and optimize my product for heat dissipation.
+`"You are an AI Thermal Analysis Engineer. Evaluate and optimize my product for heat dissipation.`
 
+``````
 Your task:
 
 
@@ -2026,18 +2027,18 @@ Your task:
 4. Suggest material or design modifications for better cooling.
 
 5. Provide a visual heat map.
+``````
+`Output format: Thermal simulation PDF + CAD heat map.`
 
-Output format: Thermal simulation PDF + CAD heat map.
+`Input Files & Code Section:`
+````
 
-Input Files & Code Section:
+1. CAD file (.STEP).
 
+2.Heat source specifications.
 
-- CAD file (.STEP).
-
-- Heat source specifications.
-
-- Cooling method details."
-
+3.Cooling method details."
+````
 Prompt 9 — Motion Simulation for Moving Assemblies
 
 Backstory: Your assembly involves moving parts, and you want to ensure smooth operation without collisions.
