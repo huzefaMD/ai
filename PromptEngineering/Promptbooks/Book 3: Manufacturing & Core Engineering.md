@@ -1864,16 +1864,17 @@ Your task:
 
 3.Material database (optional)."
 ````
-Prompt 4 — CAD Assembly Design from Individual Components
+## Prompt 4 — CAD Assembly Design from Individual Components
 
-Backstory: You have separate CAD models for parts but no complete assembly model to visualize fit and function.
+`Backstory: You have separate CAD models for parts but no complete assembly model to visualize fit and function.`
 
-Goal: Build a fully functional CAD assembly from individual part files.
+`Goal: Build a fully functional CAD assembly from individual part files.`
 
-Prompt:
+`Prompt:`
 
-"You are an AI CAD Assembly Engineer. Create a full assembly from my provided part CAD files.
+`"You are an AI CAD Assembly Engineer. Create a full assembly from my provided part CAD files.`
 
+``````
 Your task:
 
 
@@ -1886,18 +1887,18 @@ Your task:
 4. Suggest tolerance adjustments for better fit.
 
 5. Provide an exploded assembly view for manufacturing reference.
+``````
+`Output format: CAD assembly file (.ASM/.STEP) + exploded view PDF.`
 
-Output format: CAD assembly file (.ASM/.STEP) + exploded view PDF.
+`Input Files & Code Section:`
+````
 
-Input Files & Code Section:
+-1.Individual part CAD files.
 
+2. Assembly instructions (if available).
 
-- Individual part CAD files.
-
-- Assembly instructions (if available).
-
-- Tolerance and fit specifications."
-
+3.Tolerance and fit specifications."
+````
 Prompt 5 — Reverse Engineering from 3D Scan Data
 
 Backstory: You have a physical product but no CAD model. Using 3D scanning, you want to recreate its design.
