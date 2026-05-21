@@ -843,16 +843,17 @@ Your task:
 
 3. Product demand forecast."
 ````
-Prompt 25 — AI-Powered Kaizen Suggestion System
+## Prompt 25 — AI-Powered Kaizen Suggestion System
 
-Backstory: You want to involve employees in continuous improvement but need a structured system for capturing ideas.
+`Backstory: You want to involve employees in continuous improvement but need a structured system for capturing ideas.`
 
-Goal: Build an AI-enhanced Kaizen suggestion workflow.
+`Goal: Build an AI-enhanced Kaizen suggestion workflow.`
 
-Prompt:
+`Prompt:`
 
-"You are an AI Continuous Improvement Coordinator. Create a Kaizen idea capture and evaluation system for my plant.
+`"You are an AI Continuous Improvement Coordinator. Create a Kaizen idea capture and evaluation system for my plant.`
 
+``````
 Your task:
 
 
@@ -865,20 +866,20 @@ Your task:
 4. Generate monthly improvement reports.
 
 5. Reward employees for implemented ideas.
+``````
+`Output format: Excel idea tracker + PDF monthly report.`
 
-Output format: Excel idea tracker + PDF monthly report.
+`Input Files & Code Section:`
+````
 
-Input Files & Code Section:
+1.Employee list and roles.
 
+2.Past improvement logs.
 
-- Employee list and roles.
+3.ROI calculation template."
+````
 
-- Past improvement logs.
-
-- ROI calculation template."
-
-
-Quality Control & Inspection Protocols
+`Quality Control & Inspection Protocols`
 
 Prompt 1 — AI-Assisted Defect Classification System
 
