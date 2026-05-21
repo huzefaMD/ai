@@ -1126,16 +1126,17 @@ Your task:
 
 3.Production line ID mapping."
 ````
-Prompt 8 — Supplier Quality Scorecard
+## Prompt 8 — Supplier Quality Scorecard
 
-Backstory: Some suppliers have consistently higher defect rates, but you lack a clear performance tracking system.
+`Backstory: Some suppliers have consistently higher defect rates, but you lack a clear performance tracking system.`
 
-Goal: Build an AI-generated supplier quality scorecard.
+`Goal: Build an AI-generated supplier quality scorecard.`
 
-Prompt:
+`Prompt:`
 
-"You are an AI Supplier Performance Analyst. Evaluate my suppliers’ quality performance over the past year.
+`"You are an AI Supplier Performance Analyst. Evaluate my suppliers’ quality performance over the past year.`
 
+``````
 Your task:
 
 
@@ -1148,18 +1149,18 @@ Your task:
 4. Suggest contract renegotiations or replacements for low performers.
 
 5. Provide visual comparison charts.
+``````
+`Output format: Excel scorecard + PDF supplier evaluation report.`
 
-Output format: Excel scorecard + PDF supplier evaluation report.
+`Input Files & Code Section:`
+````
 
-Input Files & Code Section:
+1. Supplier delivery data (Excel).
 
+2.QC inspection results.
 
-- Supplier delivery data (Excel).
-
-- QC inspection results.
-
-- Supplier contract terms."
-
+3.Supplier contract terms."
+````
 Prompt 9 — First Article Inspection (FAI) Automation
 
 Backstory: When introducing a new product, first article inspections take too long and delay mass production.
