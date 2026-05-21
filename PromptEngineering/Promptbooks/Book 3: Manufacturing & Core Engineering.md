@@ -776,7 +776,7 @@ Your task:
 ## Prompt 23 — AI-Driven Equipment Upgrade Recommendations
 
 `Backstory: Your machinery is outdated and slowing production, but you’re unsure which upgrades to prioritize.`
-`
+
 `Goal: Recommend high-ROI equipment upgrades.`
 
 `Prompt:`
