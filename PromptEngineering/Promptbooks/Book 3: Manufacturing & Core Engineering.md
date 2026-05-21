@@ -986,16 +986,17 @@ Your task:
 
 3.Historical QC reports."
 ````
-Prompt 4 — End-of-Line Inspection Automation
+## Prompt 4 — End-of-Line Inspection Automation
 
-Backstory: End-of-line product inspection is slow, causing a packaging backlog.
+`Backstory: End-of-line product inspection is slow, causing a packaging backlog.`
 
-Goal: Use AI to automate the final inspection process.
+`Goal: Use AI to automate the final inspection process.`
 
-Prompt:
+`Prompt:`
 
-"You are an AI End-of-Line Inspection Engineer. Automate final product inspection to speed up throughput.
+`"You are an AI End-of-Line Inspection Engineer. Automate final product inspection to speed up throughput.`
 
+``````
 Your task:
 
 
@@ -1008,18 +1009,18 @@ Your task:
 4. Log rejected units for rework.
 
 5. Provide rejection reason statistics.
+``````
+`Output format: Excel inspection log + automated labeling file.`
 
-Output format: Excel inspection log + automated labeling file.
+`Input Files & Code Section:`
+````
 
-Input Files & Code Section:
+1. Product specification sheet.
 
+2.End-of-line camera feed or images.
 
-- Product specification sheet.
-
-- End-of-line camera feed or images.
-
-- Rejection code list."
-
+3.Rejection code list."
+````
 Prompt 5 — ISO 9001 Audit Preparation
 
 Backstory: Your company is preparing for ISO 9001 certification, but documentation and processes are scattered.
