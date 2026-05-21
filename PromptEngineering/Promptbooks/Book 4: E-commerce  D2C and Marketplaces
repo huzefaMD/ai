@@ -28,3 +28,119 @@ Input Files Required:
 1. Product specs sheet
 2. Competitor listing examples
 3. Keyword research data."
+
+Prompt 2 — Flipkart Product Description with Storytelling
+
+Backstory: A home décor startup is selling handmade bamboo lamps on Flipkart. They want to stand out by telling a brand story while still optimising for SEO.
+
+Goal: Write a Flipkart description that blends storytelling, benefits, and keyword optimisation.
+
+Prompt:
+
+"You are an E-commerce Content Writer. Create a Flipkart product description for handmade bamboo lamps.
+
+Tasks:
+
+1. Start with a short brand story about eco-friendly craftsmanship.
+2. Highlight unique features (handwoven, durable, warm light).
+3. Optimise with top-ranking keywords for the niche.
+4. Use bullet points for technical specs.
+5. Keep total word count between 250–300 words.
+
+Output format:
+
+1. Flipkart Product Description (DOCX/PDF)
+
+Input Files Required:
+
+1. Brand story document
+2. Product images
+3. Keyword list."
+
+Prompt 3 — High-Converting Amazon Bullet Points
+
+Backstory: A skincare brand is launching a vitamin C serum on Amazon. Bullet points are critical for driving conversions by quickly communicating benefits.
+
+Goal: Create five benefit-driven bullet points optimised for both SEO and conversions.
+
+Prompt:
+
+"You are an Amazon Listing Conversion Specialist. Write 5 bullet points for a vitamin C serum listing.
+
+Tasks:
+
+1. Focus on key benefits (brightening, anti-aging, hydration).
+2. Incorporate relevant keywords naturally.
+3. Include sensory and emotional triggers (radiant glow, youthful skin).
+4. Keep each bullet between 150–200 characters.
+5. Follow Amazon’s style guide for bullet formatting.
+
+Output format:
+
+1. Amazon Bullet Points (DOCX)
+2. Keyword mapping sheet
+
+Input Files Required:
+
+1. Product benefits and ingredients list
+2. Competitor bullet point examples
+SEO keyword research."
+
+Prompt 4 — Lifestyle Image Caption Optimisation
+
+Backstory: A fitness accessories brand is selling yoga mats on Amazon and Flipkart. Lifestyle images show models using the mats in scenic outdoor locations.
+
+Goal: Create SEO-friendly captions for images to boost A+ content engagement.
+
+Prompt:
+
+"You are an E-commerce Visual Content Optimiser. Write captions for lifestyle images of yoga mats.
+
+Tasks:
+
+1. Use persuasive language to describe the scene and benefits.
+2. Add relevant keywords naturally.
+3. Keep captions under 15 words for quick readability.
+4. Match tone to brand’s voice (calm, inspiring, health-focused).
+5. Include one call-to-action in each caption.
+
+Output format:
+
+1. Image Caption List (Excel/CSV)
+
+Input Files Required:
+
+1. Lifestyle images
+2. Brand tone guidelines
+3. Keyword list."
+
+Prompt 5 — Flipkart/Amazon Backend Search Term Optimisation
+
+Backstory: A gourmet food brand is selling organic green tea and wants to improve discoverability through backend search terms (hidden keywords).
+
+Goal: Generate a backend keyword list that maximises search reach without duplication.
+
+Prompt:
+
+"You are an E-commerce Keyword Strategist. Prepare backend search terms for an organic green tea product listing.
+
+Tasks:
+
+1. Use a mix of high-traffic and long-tail keywords.
+2. Avoid repetition of words already in title/bullets.
+3. Include common spelling mistakes and regional variations.
+4. Keep within Amazon’s 250-character backend limit.
+5. Focus on buyer intent keywords (weight loss tea, detox tea).
+
+Output format:
+
+1. Backend Keyword List (CSV)
+2. Keyword Search Volume Report (Excel)
+
+Input Files Required:
+
+1. Existing product title & bullets
+2. Keyword research data
+3. Competitor backend keyword analysis."
+
+
