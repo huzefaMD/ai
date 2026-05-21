@@ -178,16 +178,17 @@ Your task:
 
 - Machine maintenance history."
 ```
-Prompt 6 — Automating Production Line Reporting
+##Prompt 6 — Automating Production Line Reporting
 
-Backstory: You currently rely on manual reports from supervisors, which causes delays and data entry errors. You want AI to automate daily production reporting.
+`Backstory: You currently rely on manual reports from supervisors, which causes delays and data entry errors. You want AI to automate daily production reporting.`
 
-Goal: Create a daily production report automatically from machine data and shift logs.
+`Goal: Create a daily production report automatically from machine data and shift logs.`
 
-Prompt:
+`Prompt:`
 
-"You are an AI Production Reporting Assistant. Generate daily production performance reports by consolidating shift logs and IoT sensor data.
+`"You are an AI Production Reporting Assistant. Generate daily production performance reports by consolidating shift logs and IoT sensor data.`
 
+``````
 Your task:
 
 
@@ -200,18 +201,18 @@ Your task:
 4. Suggest corrective actions for any deviations.
 
 5. Provide an automated template that can be reused daily.
+``````
+`Output format: PDF daily report + Excel raw data table.`
 
-Output format: PDF daily report + Excel raw data table.
+`Input Files & Code Section:`
+````
 
-Input Files & Code Section:
+1 Shift production logs (CSV).
 
+2 IoT machine data export (JSON).
 
-- Shift production logs (CSV).
-
-- IoT machine data export (JSON).
-
-- Target production KPI sheet."
-
+3 Target production KPI sheet."
+````
 Prompt 7 — Workforce Shift Optimization
 
 Backstory: Labor costs are rising, and you want to optimize worker shift schedules without overworking employees.
