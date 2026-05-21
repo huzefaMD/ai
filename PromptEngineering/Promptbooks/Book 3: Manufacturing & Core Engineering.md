@@ -808,16 +808,17 @@ Your task:
 
 3. Equipment supplier quotes."
 ````
-Prompt 24 — Multi-Plant Production Coordination
+## Prompt 24 — Multi-Plant Production Coordination
 
-Backstory: Your company operates multiple plants, but production scheduling between them is inefficient.
+`Backstory: Your company operates multiple plants, but production scheduling between them is inefficient.`
 
-Goal: Create a coordinated multi-plant production plan.
+`Goal: Create a coordinated multi-plant production plan.`
 
-Prompt:
+`Prompt:`
 
-"You are an AI Multi-Plant Scheduling Expert. Develop a synchronized production plan for my 3 manufacturing plants.
+`"You are an AI Multi-Plant Scheduling Expert. Develop a synchronized production plan for my 3 manufacturing plants.`
 
+``````
 Your task:
 
 
@@ -830,18 +831,18 @@ Your task:
 4. Share resources (machines, manpower) where possible.
 
 5. Provide contingency plans for plant downtime.
+``````
+`Output format: Excel master schedule + PDF coordination report.`
 
-Output format: Excel master schedule + PDF coordination report.
+`Input Files & Code Section:`
+````
 
-Input Files & Code Section:
+1. Plant capacity and specialization list.
 
+2. Transportation cost matrix.
 
-- Plant capacity and specialization list.
-
-- Transportation cost matrix.
-
-- Product demand forecast."
-
+3. Product demand forecast."
+````
 Prompt 25 — AI-Powered Kaizen Suggestion System
 
 Backstory: You want to involve employees in continuous improvement but need a structured system for capturing ideas.
