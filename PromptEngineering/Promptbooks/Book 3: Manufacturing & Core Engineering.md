@@ -1651,16 +1651,17 @@ Your task:
 
 3.Production batch records."
 ````
-Prompt 23 — AI-Assisted QC Policy Review
+## Prompt 23 — AI-Assisted QC Policy Review
 
-Backstory: QC policies haven’t been updated in years, and you suspect they may be outdated for modern manufacturing.
+`Backstory: QC policies haven’t been updated in years, and you suspect they may be outdated for modern manufacturing.`
 
-Goal: Review and modernize QC policies with AI assistance.
+`Goal: Review and modernize QC policies with AI assistance.`
 
-Prompt:
+`Prompt:`
 
-"You are an AI QC Policy Consultant. Review my QC policies and suggest updates for efficiency and compliance.
+`"You are an AI QC Policy Consultant. Review my QC policies and suggest updates for efficiency and compliance.`
 
+``````
 Your task:
 
 
@@ -1673,18 +1674,18 @@ Your task:
 4. Ensure compliance with ISO and regulatory bodies.
 
 5. Draft updated policy documents.
+``````
+`Output format: PDF policy review + Word editable SOP draft.`
 
-Output format: PDF policy review + Word editable SOP draft.
+`Input Files & Code Section:`
+````
 
-Input Files & Code Section:
+1. Current QC policy documents.
 
+2. Industry standard guidelines.
 
-- Current QC policy documents.
-
-- Industry standard guidelines.
-
-- ISO QC requirements."
-
+3.ISO QC requirements."
+````
 Prompt 24 — AI-Powered QC Cost Analysis
 
 Backstory: QC is essential but expensive, and management wants a breakdown of costs to optimize spending.
