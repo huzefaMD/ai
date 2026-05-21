@@ -668,16 +668,17 @@ Your task:
 ```
 `Material supplier specifications."`
 
-Prompt 20 — Automated Compliance Documentation
+## Prompt 20 — Automated Compliance Documentation
 
-Backstory: Your industry requires regular safety and compliance documentation, but it’s currently a time-consuming manual process.
+`Backstory: Your industry requires regular safety and compliance documentation, but it’s currently a time-consuming manual process.`
 
-Goal: Automate compliance reporting.
+`Goal: Automate compliance reporting.`
 
-Prompt:
+`Prompt:`
 
-"You are an AI Compliance Documentation Specialist. Generate safety and compliance reports automatically from production data.
+`"You are an AI Compliance Documentation Specialist. Generate safety and compliance reports automatically from production data.`
 
+``````
 Your task:
 
 
@@ -690,18 +691,18 @@ Your task:
 4. Flag non-compliance areas with corrective actions.
 
 5. Archive reports in PDF and Word formats.
+``````
+`Output format: PDF compliance report + Word editable file.`
 
-Output format: PDF compliance report + Word editable file.
+`Input Files & Code Section:`
+````
 
-Input Files & Code Section:
+1. Industry compliance checklist.
 
+2. QC inspection logs.
 
-- Industry compliance checklist.
-
-- QC inspection logs.
-
-- IoT machine data export."
-
+3.IoT machine data export."
+````
 Prompt 21 — AI-Driven Production Cost Reduction Plan
 
 Backstory: Management has tasked you to reduce operational costs by 15% without reducing output.
