@@ -1091,16 +1091,17 @@ Your task:
 
 3.Production shift records."
 ````
-Prompt 7 — Automated QC Report Generation
+## Prompt 7 — Automated QC Report Generation
 
-Backstory: QC reporting is currently manual and takes several hours every week.
+`Backstory: QC reporting is currently manual and takes several hours every week.`
 
-Goal: Automate the generation of QC reports from raw inspection data.
+`Goal: Automate the generation of QC reports from raw inspection data.`
 
-Prompt:
+`Prompt:`
 
-"You are an AI QC Reporting Assistant. Convert my raw QC inspection data into formatted weekly reports automatically.
+`"You are an AI QC Reporting Assistant. Convert my raw QC inspection data into formatted weekly reports automatically.`
 
+``````
 Your task:
 
 
@@ -1113,18 +1114,18 @@ Your task:
 4. Include visual charts for management review.
 
 5. Archive reports in PDF and Excel formats.
+``````
+`Output format: PDF report + Excel summary table.`
 
-Output format: PDF report + Excel summary table.
+`Input Files & Code Section:`
+````
 
-Input Files & Code Section:
+1. Raw QC data (CSV).
 
+2.Report template.
 
-- Raw QC data (CSV).
-
-- Report template.
-
-- Production line ID mapping."
-
+3.Production line ID mapping."
+````
 Prompt 8 — Supplier Quality Scorecard
 
 Backstory: Some suppliers have consistently higher defect rates, but you lack a clear performance tracking system.
