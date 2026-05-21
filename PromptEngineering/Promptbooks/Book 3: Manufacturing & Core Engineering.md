@@ -951,16 +951,17 @@ Your task:
 
 3.Historical supplier performance data."
 ````
-Prompt 3 — Real-Time Production Line Quality Monitoring
+## Prompt 3 — Real-Time Production Line Quality Monitoring
 
-Backstory: Currently, QC checks are only done at the end of production, which means defects are detected too late.
+`Backstory: Currently, QC checks are only done at the end of production, which means defects are detected too late.`
 
-Goal: Create a real-time monitoring system to catch defects as they occur.
+`Goal: Create a real-time monitoring system to catch defects as they occur.`
 
-Prompt:
+`Prompt:`
 
-"You are an AI Real-Time Quality Monitor. Continuously scan production line data to detect quality deviations early.
+`"You are an AI Real-Time Quality Monitor. Continuously scan production line data to detect quality deviations early.`
 
+``````
 Your task:
 
 
@@ -973,18 +974,18 @@ Your task:
 4. Track defect trends over time.
 
 5. Integrate with production dashboard.
+``````
+`Output format: Live dashboard + PDF monthly QC summary.`
 
-Output format: Live dashboard + PDF monthly QC summary.
+`Input Files & Code Section:`
+````
 
-Input Files & Code Section:
+1. Live sensor feed access.
 
+2.Quality standards document.
 
-- Live sensor feed access.
-
-- Quality standards document.
-
-- Historical QC reports."
-
+3.Historical QC reports."
+````
 Prompt 4 — End-of-Line Inspection Automation
 
 Backstory: End-of-line product inspection is slow, causing a packaging backlog.
