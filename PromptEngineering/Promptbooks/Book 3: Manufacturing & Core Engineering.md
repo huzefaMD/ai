@@ -1934,16 +1934,17 @@ Your task:
 
 3.Material details."
 ````
-Prompt 6 — CAE Simulation Setup for Stress Analysis
+## Prompt 6 — CAE Simulation Setup for Stress Analysis
 
-Backstory: You’ve designed a part but need to verify its ability to withstand real-world loads before manufacturing.
+`Backstory: You’ve designed a part but need to verify its ability to withstand real-world loads before manufacturing.`
 
-Goal: Set up a CAE (Computer-Aided Engineering) simulation for stress analysis.
+`Goal: Set up a CAE (Computer-Aided Engineering) simulation for stress analysis.`
 
-Prompt:
+`Prompt:`
 
-"You are an AI CAE Simulation Expert. Prepare and run a structural stress analysis on my CAD model.
+`"You are an AI CAE Simulation Expert. Prepare and run a structural stress analysis on my CAD model.`
 
+``````
 Your task:
 
 
@@ -1956,18 +1957,18 @@ Your task:
 4. Highlight areas exceeding allowable limits.
 
 5. Recommend design changes to improve strength.
+``````
+`Output format: Stress analysis PDF report + color-coded CAD model.`
 
-Output format: Stress analysis PDF report + color-coded CAD model.
+`Input Files & Code Section:`
+````
 
-Input Files & Code Section:
+1. CAD file (.STEP).
 
+2.Material property sheet.
 
-- CAD file (.STEP).
-
-- Material property sheet.
-
-- Load & constraint specifications."
-
+3.Load & constraint specifications."
+````
 Prompt 7 — Fluid Flow Simulation for Product Optimization
 
 Backstory: Your product involves fluid movement (like a pump or pipe) and needs flow optimization.
