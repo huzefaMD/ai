@@ -1406,16 +1406,17 @@ Your task:
 
 3.Shift allocation schedule."
 ````
- Prompt 16 — AI-Driven Visual Inspection for Paint & Surface Finish
+## Prompt 16 — AI-Driven Visual Inspection for Paint & Surface Finish
 
-Backstory: Your factory produces metal components with painted surfaces, but human inspectors often miss minor finish issues.
+`Backstory: Your factory produces metal components with painted surfaces, but human inspectors often miss minor finish issues.`
 
-Goal: Use AI to detect paint and surface finish defects with high accuracy.
+`Goal: Use AI to detect paint and surface finish defects with high accuracy.`
 
-Prompt:
+`Prompt:`
 
-"You are an AI Surface Finish Inspector. Analyze product images to detect paint inconsistencies, scratches, dents, or uneven coating.
+`"You are an AI Surface Finish Inspector. Analyze product images to detect paint inconsistencies, scratches, dents, or uneven coating.`
 
+``````
 Your task:
 
 
@@ -1428,18 +1429,18 @@ Your task:
 4. Provide a percentage defect severity score.
 
 5. Store images and results in an inspection database.
+``````
+`Output format: Annotated defect images + PDF inspection report.`
 
-Output format: Annotated defect images + PDF inspection report.
+`Input Files & Code Section:`
+````
 
-Input Files & Code Section:
+1. High-resolution defect image dataset.
 
+2.Defect classification guide.
 
-- High-resolution defect image dataset.
-
-- Defect classification guide.
-
-- Surface quality tolerance chart."
-
+3.Surface quality tolerance chart."
+````
 Prompt 17 — AI-Enhanced 3D Measurement Verification
 
 Backstory: Your components need precise 3D measurements, but manual verification is time-consuming.
