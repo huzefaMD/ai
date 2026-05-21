@@ -13,20 +13,27 @@ Prompt:
 Tasks:
 
 1. Research top-performing keywords in the category.
+
 2. Place high-priority keywords in the first 80 characters.
+
 3. Keep the title within Amazon’s 200-character limit.
+
 4. Highlight key USPs (battery life, waterproof, Bluetooth version).
+
 5. Maintain readability and avoid keyword stuffing.
 
 Output format:
 
 1. Amazon SEO Title (200 characters max)
+
 2. List of included keywords
 
 Input Files Required:
 
 1. Product specs sheet
+
 2. Competitor listing examples
+
 3. Keyword research data."
 
 Prompt 2 — Flipkart Product Description with Storytelling
@@ -42,9 +49,13 @@ Prompt:
 Tasks:
 
 1. Start with a short brand story about eco-friendly craftsmanship.
+
 2. Highlight unique features (handwoven, durable, warm light).
+
 3. Optimise with top-ranking keywords for the niche.
+
 4. Use bullet points for technical specs.
+
 5. Keep total word count between 250–300 words.
 
 Output format:
@@ -54,7 +65,9 @@ Output format:
 Input Files Required:
 
 1. Brand story document
+
 2. Product images
+
 3. Keyword list."
 
 Prompt 3 — High-Converting Amazon Bullet Points
