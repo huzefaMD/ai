@@ -738,16 +738,17 @@ Your task:
 
 3. Supplier contract terms."
 ````
-Prompt 22 — Employee Training Plan for Process Efficiency
+## Prompt 22 — Employee Training Plan for Process Efficiency
 
-Backstory: Inconsistent worker skills are slowing production and causing errors.
+`Backstory: Inconsistent worker skills are slowing production and causing errors.`
 
-Goal: Build a structured training program to improve process efficiency.
+`Goal: Build a structured training program to improve process efficiency.`
 
-Prompt:
+`Prompt:`
 
-"You are an AI Workforce Training Designer. Create a 3-month training plan for my production staff focused on efficiency and quality.
+`"You are an AI Workforce Training Designer. Create a 3-month training plan for my production staff focused on efficiency and quality.`
 
+``````
 Your task:
 
 
@@ -760,18 +761,18 @@ Your task:
 4. Provide training materials and quizzes.
 
 5. Suggest KPIs to measure improvement.
+``````
+`Output format: PDF training plan + PowerPoint training slides.`
 
-Output format: PDF training plan + PowerPoint training slides.
+`Input Files & Code Section:`
+````
 
-Input Files & Code Section:
+1. QC performance reports.
 
+2.Employee skill assessment survey.
 
-- QC performance reports.
-
-- Employee skill assessment survey.
-
-- Industry training manuals."
-
+3.Industry training manuals."
+````
 Prompt 23 — AI-Driven Equipment Upgrade Recommendations
 
 Backstory: Your machinery is outdated and slowing production, but you’re unsure which upgrades to prioritize.
