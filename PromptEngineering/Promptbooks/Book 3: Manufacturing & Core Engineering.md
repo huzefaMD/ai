@@ -1759,16 +1759,17 @@ Your task:
 
 `CAD/CAE Design Assistance`
 
-Prompt 1 — AI-Assisted 3D CAD Part Design from Specifications
+## Prompt 1 — AI-Assisted 3D CAD Part Design from Specifications
 
-Backstory: You have a product concept with detailed specifications but no CAD model yet. Normally, creating it from scratch takes days.
+`Backstory: You have a product concept with detailed specifications but no CAD model yet. Normally, creating it from scratch takes days.`
 
-Goal: Use AI to generate a fully functional CAD part design from provided dimensions and requirements.
+`Goal: Use AI to generate a fully functional CAD part design from provided dimensions and requirements.`
 
-Prompt:
+`Prompt:`
 
-"You are an AI CAD Design Engineer. Using the provided product specifications, create a 3D CAD model ready for manufacturing.
+`"You are an AI CAD Design Engineer. Using the provided product specifications, create a 3D CAD model ready for manufacturing.`
 
+``````
 Your task:
 
 
@@ -1781,18 +1782,18 @@ Your task:
 4. Export the design in .STEP and .IGES formats.
 
 5. Provide a technical drawing with tolerances.
+``````
+`Output format: CAD file (.STEP & .IGES) + 2D technical drawing (PDF).`
 
-Output format: CAD file (.STEP & .IGES) + 2D technical drawing (PDF).
+`Input Files & Code Section:`
+````
 
-Input Files & Code Section:
+1.Dimension sheet (Excel).
 
+2.Product usage description.
 
-- Dimension sheet (Excel).
-
-- Product usage description.
-
-- Material preference or constraints."
-
+3. Material preference or constraints."
+````
 Prompt 2 — Convert 2D Drawings into 3D CAD Models
 
 Backstory: Many suppliers still provide 2D blueprints, but you need 3D CAD files for simulation and CAM programming.
