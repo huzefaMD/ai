@@ -563,16 +563,17 @@ Your task:
 
 3.Historical WIP inventory data."
 ````
-Prompt 17 — Inventory Location Optimization
+## Prompt 17 — Inventory Location Optimization
 
-Backstory: Materials are stored in inefficient locations, causing delays when retrieving them for production.
+`Backstory: Materials are stored in inefficient locations, causing delays when retrieving them for production.`
 
-Goal: Reorganize inventory for faster material access.
+`Goal: Reorganize inventory for faster material access.`
 
-Prompt:
+`Prompt:`
 
-"You are an AI Warehouse Layout Planner. Optimize the location of materials in my warehouse to reduce retrieval time.
+`"You are an AI Warehouse Layout Planner. Optimize the location of materials in my warehouse to reduce retrieval time.`
 
+``````
 Your task:
 
 
@@ -585,18 +586,18 @@ Your task:
 4. Suggest shelf height adjustments for ergonomics.
 
 5. Provide new layout blueprint.
+``````
+`Output format: CAD warehouse layout + PDF efficiency report.`
 
-Output format: CAD warehouse layout + PDF efficiency report.
+`Input Files & Code Section:`
+````
 
-Input Files & Code Section:
+1. Warehouse blueprint file.
 
+2. Material retrieval logs.
 
-- Warehouse blueprint file.
-
-- Material retrieval logs.
-
-- Worker safety guidelines."
-
+3. Worker safety guidelines."
+````
 Prompt 18 — Seasonal Production Planning
 
 Backstory: Demand for your products changes drastically based on seasons, but your plant struggles to adjust schedules accordingly.
