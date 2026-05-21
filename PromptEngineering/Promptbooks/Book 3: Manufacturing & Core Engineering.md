@@ -1511,16 +1511,17 @@ Your task:
 
 3.Shipping damage reports."
 ````
-Prompt 19 — Environmental & Safety Compliance QC
+## Prompt 19 — Environmental & Safety Compliance QC
 
-Backstory: Your factory must follow strict environmental and safety QC checks to avoid penalties.
+`Backstory: Your factory must follow strict environmental and safety QC checks to avoid penalties.`
 
-Goal: Automate environmental and safety compliance checks.
+`Goal: Automate environmental and safety compliance checks.`
 
-Prompt:
+`Prompt:`
 
-"You are an AI Compliance QC Officer. Monitor and document environmental and safety compliance in my manufacturing unit.
+`"You are an AI Compliance QC Officer. Monitor and document environmental and safety compliance in my manufacturing unit.`
 
+``````
 Your task:
 
 
@@ -1533,18 +1534,18 @@ Your task:
 4. Generate compliance certificates.
 
 5. Maintain an audit-ready compliance history.
+``````
+`Output format: PDF compliance checklist + Excel monitoring log.`
 
-Output format: PDF compliance checklist + Excel monitoring log.
+`Input Files & Code Section:`
+````
 
-Input Files & Code Section:
+1. Environmental monitoring logs.
 
+2. Safety inspection records.
 
-- Environmental monitoring logs.
-
-- Safety inspection records.
-
-- Legal compliance standards."
-
+3.Legal compliance standards."
+````
 Prompt 20 — Customer Return QC Analysis
 
 Backstory: Returned products often reveal QC issues that went undetected during production.
