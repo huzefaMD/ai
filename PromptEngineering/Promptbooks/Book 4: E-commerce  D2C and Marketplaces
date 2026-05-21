@@ -228,3 +228,60 @@ Input Files Required:
 1. Current buyer questions
 2. Product details and manuals
 3. Brand tone guidelines."
+
+Prompt 9 — Seasonal Keyword Refresh for Product Listings
+
+Backstory: A home furnishing brand sells bedsheets on Amazon year-round. During festival seasons like Diwali or Raksha Bandhan, they want to adjust keywords to capture seasonal demand.
+
+Goal: Refresh product listing keywords for maximum seasonal visibility.
+
+Prompt:
+
+"You are an E-commerce Seasonal Keyword Planner. Refresh listing keywords for Diwali season.
+
+Tasks:
+
+1. Identify trending festival-related keywords in the home décor category.
+2. Suggest how to integrate them into titles, bullets, and descriptions.
+3. Ensure compliance with Amazon keyword rules.
+4. Provide both Hindi and English keyword variations for Indian shoppers.
+5. Recommend removal date for seasonal terms to avoid off-season irrelevance.
+
+Output format:
+
+1. Seasonal Keyword List (Excel)
+2. Updated Title/Bullets Draft (DOCX)
+
+Input Files Required:
+
+1. Current product listings
+2. Seasonal keyword trend report
+3. Festival marketing plan."
+
+Prompt 10 — Enhanced Mobile-First Listing Optimisation
+
+Backstory: In India, over 70% of e-commerce traffic is mobile-first. Your Flipkart listing for wireless earbuds looks great on desktop but key details get cut off on mobile.
+
+Goal: Optimise listing content for mobile users.
+
+Prompt:
+
+"You are a Mobile E-commerce UX Optimiser. Improve mobile readability for a wireless earbuds listing.
+
+Tasks:
+
+1. Check how the listing appears on Flipkart mobile app.
+2. Rewrite the title to front-load key features.
+3. Adjust bullet point lengths for mobile visibility.
+4. Ensure first 3 images convey USP clearly without zoom.
+5. Recommend short-form description version for mobile screens.
+
+Output format:
+
+1. Mobile-Optimised Listing Draft (DOCX)
+2. Before/After Comparison Table (Excel)
+
+Input Files Required:
+
+1. Current product listing screenshots from mobile
+2. Product features list."
