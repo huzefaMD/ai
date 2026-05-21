@@ -1336,16 +1336,17 @@ Your task:
 
 3.Unit conversion sheet."
 ````
-Prompt 14 — Rework Tracking System
+## Prompt 14 — Rework Tracking System
 
-Backstory: Reworked items are not being tracked efficiently, leading to repeated issues.
+`Backstory: Reworked items are not being tracked efficiently, leading to repeated issues.`
 
-Goal: Implement an AI-based rework tracking system.
+`Goal: Implement an AI-based rework tracking system.`
 
-Prompt:
+`Prompt:`
 
-"You are an AI Rework Tracker. Monitor and log all reworked products with detailed reasons.
+`"You are an AI Rework Tracker. Monitor and log all reworked products with detailed reasons.`
 
+``````
 Your task:
 
 
@@ -1358,18 +1359,18 @@ Your task:
 4. Suggest preventive measures.
 
 5. Create monthly rework cost analysis.
+``````
+`Output format: Excel rework log + PDF cost analysis.`
 
-Output format: Excel rework log + PDF cost analysis.
+`Input Files & Code Section:`
+````
 
-Input Files & Code Section:
+1. QC rework logs.
 
+2. Production cost data.
 
-- QC rework logs.
-
-- Production cost data.
-
-- Defect category guide."
-
+3.Defect category guide."
+````
 Prompt 15 — QC Workforce Efficiency Analysis
 
 Backstory: You want to know which QC inspectors are most efficient without compromising quality.
