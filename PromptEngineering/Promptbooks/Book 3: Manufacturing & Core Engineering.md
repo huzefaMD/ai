@@ -352,16 +352,17 @@ Your task:
 ```
 `Employee training records."`
 
-Prompt 11 — Supplier Lead Time Optimization
+## Prompt 11 — Supplier Lead Time Optimization
 
-Backstory: Raw material delays are slowing production.
+`Backstory: Raw material delays are slowing production.`
 
-Goal: Reduce supplier lead times using AI-driven forecasting and negotiation.
+`Goal: Reduce supplier lead times using AI-driven forecasting and negotiation.`
 
-Prompt:
+`Prompt:`
 
-"You are an AI Supply Chain Strategist. Analyze supplier performance and suggest ways to reduce lead time.
+`"You are an AI Supply Chain Strategist. Analyze supplier performance and suggest ways to reduce lead time.`
 
+``````
 Your task:
 
 
@@ -374,17 +375,17 @@ Your task:
 4. Provide negotiation strategies based on performance.
 
 5. Forecast potential savings from changes.
+``````
+`Output format: Excel supplier scorecard + PDF strategy report.`
 
-Output format: Excel supplier scorecard + PDF strategy report.
+`Input Files & Code Section:`
+```
 
-Input Files & Code Section:
+1. Supplier delivery logs.
 
-
-- Supplier delivery logs.
-
-- Purchase order records.
-
-Historical lead time data."
+2. Purchase order records.
+```
+`Historical lead time data."`
 
 Prompt 12 — Changeover Time Reduction Plan
 
