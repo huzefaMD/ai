@@ -1231,16 +1231,17 @@ Your task:
 
 3.Past calibration records."
 ````
-Prompt 11 — Real-Time QC Alert System
+## Prompt 11 — Real-Time QC Alert System
 
-Backstory: QC teams often learn about defects only after an entire batch is produced.
+`Backstory: QC teams often learn about defects only after an entire batch is produced.`
 
-Goal: Create a real-time defect alert system.
+`Goal: Create a real-time defect alert system.`
 
-Prompt:
+`Prompt:`
 
-"You are an AI QC Alert Manager. Monitor production in real-time and send alerts when defects exceed threshold.
+`"You are an AI QC Alert Manager. Monitor production in real-time and send alerts when defects exceed threshold.`
 
+``````
 Your task:
 
 
@@ -1253,17 +1254,17 @@ Your task:
 4. Log each alert with timestamp and cause.
 
 5. Provide monthly alert trend analysis.
+``````
+``Output format: PDF alert trend report + Excel alert log.`
 
-Output format: PDF alert trend report + Excel alert log.
+`Input Files & Code Section:`
+```
 
-Input Files & Code Section:
+1. QC threshold list.
 
-
-- QC threshold list.
-
-- Sensor/vision system feed.
-
-Supervisor contact list."
+2.Sensor/vision system feed.
+```
+`Supervisor contact list."`
 
 Prompt 12 — SPC (Statistical Process Control) Chart Generation
 
