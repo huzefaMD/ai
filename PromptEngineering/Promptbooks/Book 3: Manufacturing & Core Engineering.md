@@ -2109,16 +2109,17 @@ Your task:
 
 3. Material constraints."
 ````
-Prompt 11 — CAD File Format Conversion
+## Prompt 11 — CAD File Format Conversion
 
-Backstory: Your supplier uses different CAD software, and file formats aren’t compatible.
+`Backstory: Your supplier uses different CAD software, and file formats aren’t compatible.`
 
-Goal: Convert files without losing design integrity.
+`Goal: Convert files without losing design integrity.`
 
-Prompt:
+`Prompt:`
 
-"You are an AI CAD Converter. Convert my CAD files into the required format while preserving features.
+`"You are an AI CAD Converter. Convert my CAD files into the required format while preserving features.`
 
+```````
 Your task:
 
 
@@ -2131,18 +2132,18 @@ Your task:
 4. Check for geometry errors post-conversion.
 
 5. Provide final files in requested formats.
+``````
+`Output format: Converted CAD file + integrity check report.`
 
-Output format: Converted CAD file + integrity check report.
+`Input Files & Code Section:`
+````
 
-Input Files & Code Section:
+1.Original CAD file.
 
+2.Target software format requirements.
 
-- Original CAD file.
-
-- Target software format requirements.
-
-- Assembly reference files (if any)."
-
+3.Assembly reference files (if any)."
+````
 Prompt 12 — Design Variants for Product Customization
 
 Backstory: You want to offer multiple versions of a product with slight design variations.
