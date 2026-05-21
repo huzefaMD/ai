@@ -2074,16 +2074,17 @@ Your task:
 
 3.Performance requirements."
 ````
-Prompt 10 — Design for Manufacturing (DFM) Review
+## Prompt 10 — Design for Manufacturing (DFM) Review
 
-Backstory: Your design is ready, but you want to ensure it can be manufactured cost-effectively.
+`Backstory: Your design is ready, but you want to ensure it can be manufactured cost-effectively.`
 
-Goal: Review CAD model for manufacturing feasibility.
+`Goal: Review CAD model for manufacturing feasibility.`
 
-Prompt:
+`rompt:`
 
-"You are an AI DFM Specialist. Review my CAD design for manufacturability issues.
+`"You are an AI DFM Specialist. Review my CAD design for manufacturability issues.`
 
+``````
 Your task:
 
 
@@ -2096,18 +2097,18 @@ Your task:
 4. Recommend optimal manufacturing processes.
 
 5. Provide estimated cost savings from changes.
+``````
+`Output format: DFM analysis PDF + annotated CAD file.`
 
-Output format: DFM analysis PDF + annotated CAD file.
+`Input Files & Code Section:`
+````
 
-Input Files & Code Section:
+1. CAD file.
 
+2.Preferred manufacturing method.
 
-- CAD file.
-
-- Preferred manufacturing method.
-
-- Material constraints."
-
+3. Material constraints."
+````
 Prompt 11 — CAD File Format Conversion
 
 Backstory: Your supplier uses different CAD software, and file formats aren’t compatible.
