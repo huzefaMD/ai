@@ -282,7 +282,7 @@ Your task:
 ```
 `Industry benchmark data."`
 
-##Prompt 9 — Real-Time Production Monitoring Dashboard
+## Prompt 9 — Real-Time Production Monitoring Dashboard
 
 `Backstory: You want a live dashboard that shows production KPIs in real-time.`
 
