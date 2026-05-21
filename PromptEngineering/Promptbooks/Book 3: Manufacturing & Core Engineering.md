@@ -1371,16 +1371,17 @@ Your task:
 
 3.Defect category guide."
 ````
-Prompt 15 — QC Workforce Efficiency Analysis
+## Prompt 15 — QC Workforce Efficiency Analysis
 
-Backstory: You want to know which QC inspectors are most efficient without compromising quality.
+`Backstory: You want to know which QC inspectors are most efficient without compromising quality.`
 
-Goal: Evaluate inspector performance using AI analytics.
+`Goal: Evaluate inspector performance using AI analytics.`
 
-Prompt:
+`Prompt:`
 
-"You are an AI QC Workforce Analyst. Evaluate my QC staff efficiency and accuracy.
+`"You are an AI QC Workforce Analyst. Evaluate my QC staff efficiency and accuracy.`
 
+``````
 Your task:
 
 
@@ -1393,19 +1394,19 @@ Your task:
 4. Suggest workload redistribution.
 
 5. Generate performance scorecards.
+``````
+`Output format: Excel performance scorecard + PDF analysis.`
 
-Output format: Excel performance scorecard + PDF analysis.
+`Input Files & Code Section:`
+````
 
-Input Files & Code Section:
+1. QC inspector logs.
 
+2.Inspection accuracy records.
 
-- QC inspector logs.
-
-- Inspection accuracy records.
-
-- Shift allocation schedule."
-
-Prompt 16 — AI-Driven Visual Inspection for Paint & Surface Finish
+3.Shift allocation schedule."
+````
+ Prompt 16 — AI-Driven Visual Inspection for Paint & Surface Finish
 
 Backstory: Your factory produces metal components with painted surfaces, but human inspectors often miss minor finish issues.
 
