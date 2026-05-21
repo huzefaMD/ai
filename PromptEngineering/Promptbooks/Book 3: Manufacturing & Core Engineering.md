@@ -598,16 +598,17 @@ Your task:
 
 3. Worker safety guidelines."
 ````
-Prompt 18 — Seasonal Production Planning
+## Prompt 18 — Seasonal Production Planning
 
-Backstory: Demand for your products changes drastically based on seasons, but your plant struggles to adjust schedules accordingly.
+`Backstory: Demand for your products changes drastically based on seasons, but your plant struggles to adjust schedules accordingly.`
 
-Goal: Build a seasonal production forecast plan.
+`Goal: Build a seasonal production forecast plan.`
 
-Prompt:
+`Prompt:`
 
-"You are an AI Seasonal Demand Planner. Create a 12-month production schedule aligned with seasonal demand patterns.
+`"You are an AI Seasonal Demand Planner. Create a 12-month production schedule aligned with seasonal demand patterns.`
 
+``````
 Your task:
 
 
@@ -620,18 +621,18 @@ Your task:
 4. Plan raw material procurement in advance.
 
 5. Create a contingency plan for unexpected spikes.
+``````
+`Output format: Excel seasonal forecast + PDF action plan.`
 
-Output format: Excel seasonal forecast + PDF action plan.
+`Input Files & Code Section:`
+````
 
-Input Files & Code Section:
+1.Sales history (3+ years).
 
+2.Market demand reports.
 
-- Sales history (3+ years).
-
-- Market demand reports.
-
-- Supplier lead time data."
-
+3.Supplier lead time data."
+````
 Prompt 19 — Scrap Reduction Strategy
 
 Backstory: Your production process generates a high amount of scrap material, increasing costs.
