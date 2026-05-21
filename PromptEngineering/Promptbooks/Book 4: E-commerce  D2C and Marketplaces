@@ -1485,4 +1485,244 @@ Input Files Required:
 
 2. Corporate buyer personas."
 
+Prompt 19 — TikTok/Reels Short-Form Video Ad Script
+
+Backstory: Your D2C fitness apparel brand wants 15-second TikTok and Instagram Reels ads targeting Gen Z.
+
+Goal: Write engaging short-form scripts with viral potential.
+
+Prompt:
+
+"You are a Short-Form Video Ad Scriptwriter. Create 3 viral-style ad scripts for fitness apparel.
+
+Tasks:
+
+1. Start with an eye-catching visual hook.
+
+2. Show transformation before/after wearing the product.
+
+3. Include trending audio recommendations.
+
+4. Add CTA in last 3 seconds.
+
+5. Suggest hashtags to boost discoverability.
+
+Output format:
+
+1. Video Scripts (DOCX)
+
+2. Hashtag List (Excel)
+
+Input Files Required:
+
+1. Product videos/images
+
+Target audience profile."
+
+Prompt 20 — A/B Testing Ad Copy Variations
+
+Backstory: You want to run A/B tests for organic pet food ads to see which copy converts better.
+
+Goal: Generate multiple ad copy variations for split testing.
+
+Prompt:
+
+"You are an E-commerce A/B Testing Specialist. Write 10 ad copy variations for organic pet food.
+
+Tasks:
+
+1. Create 5 emotional appeal variations (happy pets, healthy life).
+
+2. Create 5 rational appeal variations (ingredients, vet-approved).
+
+3. Keep character limits platform-specific (Google, Facebook).
+
+4. Suggest images for each version.
+
+5. Provide A/B test setup guide.
+
+Output format:
+
+1. Ad Copy Variations Sheet (Excel)
+
+2. Test Setup Guide (DOCX)
+
+Input Files Required:
+
+1. Brand tone guide
+
+Product USPs."
+
+Prompt 21 — Geo-Targeted Ad Copy for Regional Markets
+
+Backstory: You sell wedding invitation cards online and want ads customised for South India vs North India.
+
+Goal: Create region-specific ad copy that feels localised.
+
+Prompt:
+
+"You are a Geo-Targeted Ad Copy Expert. Write ads for wedding invitation cards tailored to different Indian regions.
+
+Tasks:
+
+1. Write 3 headlines and 2 descriptions per region.
+
+2. Use culturally relevant terms and wedding traditions.
+
+3. Suggest imagery per region.
+
+4. Maintain brand consistency across all versions.
+
+5. Include region-specific call-to-action phrasing.
+
+Output format:
+
+1. Regional Ad Copy Pack (DOCX)
+
+2. Image Suggestions (Excel)
+
+Input Files Required:
+
+1. Regional keyword research
+
+2. Cultural reference guide."
+
+Prompt 22 — Ad Copy for Limited Edition Product Launch
+
+Backstory: You’re launching a limited edition cricket bat signed by a popular Indian player.
+
+Goal: Create exclusivity-focused ad copy that sells out fast.
+
+Prompt:
+
+"You are an Exclusive Product Launch Copywriter. Write ad copy for a limited edition cricket bat.
+
+Tasks:
+
+1. Write 5 headlines with exclusivity triggers (Only 100 Made!).
+
+2. Create 3 urgency-focused descriptions.
+
+3. Suggest hero image concept with celebrity endorsement.
+
+4. Provide 2 CTA options (“Own a Piece of History”).
+
+5. Recommend ad targeting for cricket fans in India.
+
+Output format:
+
+1. Limited Edition Ad Copy Pack (DOCX)
+
+2. Targeting Sheet (Excel)
+
+Input Files Required:
+
+1. Product details
+
+Celebrity rights usage terms."
+
+Prompt 23 — Voice Search Optimised Ad Copy
+
+Backstory: You want to target customers using Alexa and Google Assistant for home cleaning services.
+
+Goal: Create voice search-friendly ad copy.
+
+Prompt:
+
+"You are a Voice Search Ad Specialist. Create ad copy optimised for voice searches.
+
+Tasks:
+
+1. Write conversational headlines and descriptions.
+
+2. Include long-tail keywords in natural phrases.
+
+3. Suggest voice ad script variations for Alexa Skills.
+
+4. Recommend call-to-action phrasing for voice commands.
+
+5. Provide targeting tips for smart device owners.
+
+Output format:
+
+1. Voice Search Ad Copy Pack (DOCX)
+
+2. Voice Script Sheet (Excel)
+
+Input Files Required:
+
+1. Service details
+
+2. Keyword research."
+
+Prompt 24 — Retargeting Ad Copy for Upsell Offers
+
+Backstory: Customers who bought basic gym memberships could be upgraded to a premium plan.
+
+Goal: Create upsell retargeting ads for social media and Google Display.
+
+Prompt:
+
+"You are an Upsell Retargeting Specialist. Write ad copy for upgrading gym memberships.
+
+Tasks:
+
+1. Write 3 benefit-driven headlines.
+
+2. Create 2 urgency-focused descriptions.
+
+3. Suggest upgrade incentive (first month free).
+
+4. Recommend targeting based on membership start date.
+
+5. Provide copy for both static and video ads.
+
+Output format:
+
+1. Upsell Ad Copy Pack (DOCX)
+
+2. Incentive Strategy Sheet (Excel)
+
+Input Files Required:
+
+1. Customer data
+
+2. Premium plan features."
+
+Prompt 25 — Cross-Platform Campaign Copy Consistency Guide
+
+Backstory: A D2C home appliances brand wants consistent ad messaging across Facebook, Google, Instagram, and Pinterest.
+
+Goal: Create a guide for cross-platform ad copy consistency.
+
+Prompt:
+
+"You are an E-commerce Ad Copy Consistency Expert. Write a guide ensuring campaign messaging remains consistent across platforms.
+
+Tasks:
+
+1. Create one master campaign message.
+
+2. Adapt it for each platform’s character limits and tone.
+
+3. Suggest image/video formats per platform.
+
+4. Provide a checklist for reviewing ad copy.
+
+5. Include example copy for each platform.
+
+Output format:
+
+1. Consistency Guide (DOCX)
+
+2. Platform Adaptation Sheet (Excel)
+
+Input Files Required:
+
+1. Brand tone guidelines
+
+2. Campaign goals."
+
+Customer Service Scripts
+
 
