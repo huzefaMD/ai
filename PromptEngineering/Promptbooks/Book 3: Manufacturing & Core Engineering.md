@@ -1056,16 +1056,17 @@ Your task:
 
 3.Past audit reports."
 ````
-Prompt 6 — Root Cause Analysis for Defect Patterns
+## Prompt 6 — Root Cause Analysis for Defect Patterns
 
-Backstory: Your defect rate is rising, but you’re unsure whether the problem is with raw materials, machinery, or operators.
+`Backstory: Your defect rate is rising, but you’re unsure whether the problem is with raw materials, machinery, or operators.`
 
-Goal: Use AI to analyze defect logs and pinpoint root causes.
+`Goal: Use AI to analyze defect logs and pinpoint root causes.`
 
-Prompt:
+`Prompt:`
 
-"You are an AI Root Cause Investigator. Analyze my QC defect logs to determine the primary sources of defects.
+`"You are an AI Root Cause Investigator. Analyze my QC defect logs to determine the primary sources of defects.`
 
+``````
 Your task:
 
 
@@ -1078,18 +1079,18 @@ Your task:
 4. Suggest corrective measures for top 3 causes.
 
 5. Predict defect rate reduction after implementation.
+``````
+`Output format: PDF root cause analysis report + Excel defect tracker.`
 
-Output format: PDF root cause analysis report + Excel defect tracker.
+`Input Files & Code Section:`
+````
 
-Input Files & Code Section:
+1. QC defect log (Excel).
 
+2.Machine maintenance history.
 
-- QC defect log (Excel).
-
-- Machine maintenance history.
-
-- Production shift records."
-
+3.Production shift records."
+````
 Prompt 7 — Automated QC Report Generation
 
 Backstory: QC reporting is currently manual and takes several hours every week.
