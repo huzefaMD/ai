@@ -916,16 +916,17 @@ Your task:
 ```
 `Root cause mapping guide."`
 
-Prompt 2 — Automated Incoming Material Inspection
+## Prompt 2 — Automated Incoming Material Inspection
 
-Backstory: Suppliers sometimes send substandard raw materials, causing production defects. Your QC team needs a faster way to screen incoming shipments.
+`Backstory: Suppliers sometimes send substandard raw materials, causing production defects. Your QC team needs a faster way to screen incoming shipments.`
 
-Goal: Automate incoming raw material quality checks using AI.
+`Goal: Automate incoming raw material quality checks using AI.`
 
-Prompt:
+`Prompt:`
 
-"You are an AI Material Inspection Analyst. Evaluate incoming material data and flag shipments that fail quality standards.
+`"You are an AI Material Inspection Analyst. Evaluate incoming material data and flag shipments that fail quality standards.`
 
+``````
 Your task:
 
 
@@ -938,18 +939,18 @@ Your task:
 4. Recommend suppliers with best historical quality performance.
 
 5. Archive all inspection results for compliance purposes.
+``````
+`Output format: PDF acceptance/rejection report + Excel QC log.`
 
-Output format: PDF acceptance/rejection report + Excel QC log.
+`Input Files & Code Section:`
+````
 
-Input Files & Code Section:
+1. Supplier shipment data (CSV).
 
+2.Quality parameter thresholds.
 
-- Supplier shipment data (CSV).
-
-- Quality parameter thresholds.
-
-- Historical supplier performance data."
-
+3.Historical supplier performance data."
+````
 Prompt 3 — Real-Time Production Line Quality Monitoring
 
 Backstory: Currently, QC checks are only done at the end of production, which means defects are detected too late.
