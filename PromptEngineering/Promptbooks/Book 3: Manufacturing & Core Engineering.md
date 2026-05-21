@@ -1721,17 +1721,18 @@ Your task:
 ```
 `Rework logs."`
 
-Prompt 25 — AI-Integrated QC Dashboard Creation
+## Prompt 25 — AI-Integrated QC Dashboard Creation
 
-Backstory: QC data is spread across multiple files and systems, making it hard to get a real-time overview.
+`Backstory: QC data is spread across multiple files and systems, making it hard to get a real-time overview.`
 
-Goal: Create a unified AI-powered QC dashboard.
+`Goal: Create a unified AI-powered QC dashboard.`
 
-Prompt:
+`Prompt:`
 
-"You are an AI QC Dashboard Developer. Create a live dashboard integrating all QC metrics in one place.
+`"You are an AI QC Dashboard Developer. Create a live dashboard integrating all QC metrics in one place.`
 
-Your task:
+``````
+`Your task:
 
 
 1. Pull data from inspection logs, IoT devices, and ERP systems.
@@ -1743,20 +1744,20 @@ Your task:
 4. Provide predictive defect trends.
 
 5. Make dashboard accessible via web and mobile.
+``````
+`Output format: Power BI/Tableau dashboard + PDF user guide.`
 
-Output format: Power BI/Tableau dashboard + PDF user guide.
+`Input Files & Code Section:`
+````
 
-Input Files & Code Section:
+1.QC data sources and credentials.
 
+2.ERP integration API details.
 
-- QC data sources and credentials.
+3. Dashboard design preferences."
+````
 
-- ERP integration API details.
-
-- Dashboard design preferences."
-
-
-CAD/CAE Design Assistance
+`CAD/CAE Design Assistance`
 
 Prompt 1 — AI-Assisted 3D CAD Part Design from Specifications
 
