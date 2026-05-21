@@ -766,3 +766,107 @@ Input Files Required:
 
 1.Current product description."
 
+Prompt 23 — E-commerce Pricing Psychology Copywriting
+
+Backstory: You’re selling Bluetooth speakers priced at ₹2,999. You want to frame the price in a way that feels like a great deal without heavy discounting.
+
+Goal: Apply pricing psychology in listing copy.
+
+Prompt:
+
+"You are an E-commerce Pricing Copywriter. Optimise listing copy for pricing appeal.
+
+Tasks:
+
+1. Frame price as a value-for-money decision.
+
+2. Use comparison to higher-priced alternatives.
+
+3. Highlight features that justify the price.
+
+4. Add urgency (limited stock) ethically.
+
+5. Suggest alternative pricing formats (e.g., ₹2,999 instead of ₹3,000).
+
+Output format:
+
+1. Updated Pricing Copy (DOCX)
+
+2. Price Comparison Table (Excel)
+
+Input Files Required:
+
+1. Current listing copy
+
+2. Competitor price list."
+
+Prompt 24 — Regional Festival-Specific Listing Adaptation
+
+Backstory: A D2C home fragrance brand wants to adapt product listings for Pongal, Onam, and Diwali.
+
+Goal: Create culturally relevant versions for regional festivals.
+
+Prompt:
+
+"You are a Cultural Marketing Copywriter. Adapt a home fragrance listing for 3 regional festivals.
+
+Tasks:
+
+1. Include festival-specific imagery suggestions.
+
+2. Add festival-related keywords to copy.
+
+3. Highlight gifting suitability.
+
+4. Maintain consistent brand tone.
+
+5. Suggest backend keyword changes per festival.
+
+Output format:
+
+1. 3 Festival Listing Versions (DOCX)
+
+2. Keyword Lists (Excel)
+
+Input Files Required:
+
+1. Current listing copy
+
+2. Festival keyword research."
+
+Prompt 25 — Amazon Voice Search Optimisation
+
+Backstory: With the rise of Alexa shopping, your non-stick cookware set needs to be optimised for voice search.
+
+Goal: Optimise listing so Alexa can easily find it through spoken queries.
+
+Prompt:
+
+"You are an E-commerce Voice Search Optimisation Specialist. Adapt a non-stick cookware set listing for voice queries.
+
+Tasks:
+
+1. Identify conversational keyword phrases buyers might say.
+
+2. Integrate them into title and bullets naturally.
+
+3. Simplify backend keywords for speech recognition.
+
+4. Ensure product name is easy to pronounce.
+
+5. Create 10 sample Alexa commands that should return this listing.
+
+Output format:
+
+1. Voice Search Keyword List (Excel)
+
+2. Updated Listing Copy (DOCX)
+
+Input Files Required:
+
+1. Current listing copy
+
+2. Keyword research focused on voice search."
+
+
+
