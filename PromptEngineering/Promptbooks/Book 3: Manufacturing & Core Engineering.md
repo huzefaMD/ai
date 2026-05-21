@@ -2629,9 +2629,9 @@ Output format: Fire Safety Plan (PDF) + Evacuation Route Map (PNG) + Drill Check
 Input Files & Code Section:
 
 
-Plant floor plan (CAD/PDF).
+- Plant floor plan (CAD/PDF).
 
-Current fire safety equipment list.
+- Current fire safety equipment list.
 
 Building occupancy capacity."
 
@@ -2663,11 +2663,11 @@ Output format: HAZMAT Protocol Document (PDF) + Safety Labels Template (PNG).
 Input Files & Code Section:
 
 
-List of hazardous materials used.
+- List of hazardous materials used.
 
-Current storage arrangements.
+- Current storage arrangements.
 
-Local disposal regulations."
+- Local disposal regulations."
 
 Prompt 4 — Machine-Specific Lockout/Tagout (LOTO) Procedures
 
@@ -2697,11 +2697,11 @@ Output format: Machine-specific LOTO PDF Sheets + Training Checklist.
 Input Files & Code Section:
 
 
-Machine inventory list.
+- Machine inventory list.
 
-Manufacturer manuals.
+- Manufacturer manuals.
 
-Maintenance schedule."
+- Maintenance schedule."
 
 Prompt 5 — Workplace Safety Audit Template
 
@@ -2731,11 +2731,11 @@ Output format: Safety Audit Checklist (Excel/PDF) + Corrective Action Template.
 Input Files & Code Section:
 
 
-Existing safety policies.
+- Existing safety policies.
 
-Factory layout diagram.
+- Factory layout diagram.
 
-Regulatory compliance list."
+- Regulatory compliance list."
 
 Prompt 6 — Personal Protective Equipment (PPE) Compliance Tracker
 
@@ -2765,11 +2765,11 @@ Output format: PPE Compliance Tracker (Excel) + Signage Templates (PNG).
 Input Files & Code Section:
 
 
-Job role descriptions.
+- Job role descriptions.
 
-Current PPE inventory.
+- Current PPE inventory.
 
-PPE brand/model details."
+- PPE brand/model details."
 
 Prompt 7 — Incident Reporting & Investigation Template
 
@@ -2799,11 +2799,11 @@ Output format: Incident Report Form (PDF) + Root Cause Analysis Sheet (Excel).
 Input Files & Code Section:
 
 
-List of common workplace incidents.
+- List of common workplace incidents.
 
-Previous accident records (if available).
+- Previous accident records (if available).
 
-Applicable safety standards."
+- Applicable safety standards."
 
 Prompt 8 — ISO 45001 Health & Safety Management System Documentation
 
@@ -2833,9 +2833,9 @@ Output format: ISO 45001 Documentation Pack (Word/PDF) + Audit Checklist (Excel)
 Input Files & Code Section:
 
 
-Company profile.
+- Company profile.
 
-Existing safety procedures.
+- Existing safety procedures.
 
 Risk assessment reports."
 
@@ -2867,11 +2867,11 @@ Output format: SDS Documents (PDF) + Digital SDS Library (Excel).
 Input Files & Code Section:
 
 
-List of chemicals with MSDS (if available).
+- List of chemicals with MSDS (if available).
 
-Supplier safety data.
+- Supplier safety data.
 
-Workplace usage details."
+- Workplace usage details."
 
 Prompt 10 — Workplace Noise Compliance Report
 
@@ -2901,9 +2901,9 @@ Output format: Noise Compliance Report (PDF) + Noise Map Diagram (PNG).
 Input Files & Code Section:
 
 
-Noise measurement data.
+- Noise measurement data.
 
-Plant layout.
+- Plant layout.
 
 Equipment list."
 
@@ -2935,9 +2935,9 @@ Output format: Electrical Safety Audit Checklist (Excel/PDF) + Label Templates (
 Input Files & Code Section:
 
 
-Electrical layout.
+- Electrical layout.
 
-Equipment list.
+- Equipment list.
 
 Safety inspection history."
 
@@ -2969,11 +2969,11 @@ Output format: Emergency Medical Plan (PDF) + First Aid Kit Checklist (Excel).
 Input Files & Code Section:
 
 
-Workplace injury history.
+- Workplace injury history.
 
-Employee roster.
+- Employee roster.
 
-Local hospital contact list."
+- Local hospital contact list."
 
 Prompt 13 — Safety Signage Design for Manufacturing Facility
 
@@ -3003,11 +3003,11 @@ Output format: Safety Signage Pack (SVG/PDF) + Placement Guide (Word).
 Input Files & Code Section:
 
 
-Plant layout.
+- Plant layout.
 
-List of hazards.
+- List of hazards.
 
-Brand color guidelines (if any)."
+- Brand color guidelines (if any)."
 
 Prompt 14 — Contractor Safety Compliance Agreement
 
@@ -3037,11 +3037,11 @@ Output format: Contractor Safety Agreement (Word/PDF) + Orientation Checklist (E
 Input Files & Code Section:
 
 
-List of contractor roles.
+- List of contractor roles.
 
-Current site safety policies.
+- Current site safety policies.
 
-Legal requirements."
+- Legal requirements."
 
 Prompt 15 — Daily Safety Briefing Template
 
@@ -3071,11 +3071,11 @@ Output format: Safety Briefing Template (Word/PDF) + Mobile Version (HTML).
 Input Files & Code Section:
 
 
-Common hazards list.
+- Common hazards list.
 
-Past incident summaries.
+- Past incident summaries.
 
-Company branding guidelines."
+- Company branding guidelines."
 
 Prompt 16 — Workplace Hazard Risk Assessment Report
 
@@ -3105,11 +3105,11 @@ Output format: Risk Assessment Report (PDF) + Risk Matrix Chart (PNG).
 Input Files & Code Section:
 
 
-Plant layout.
+- Plant layout.
 
-List of machinery and processes.
+- List of machinery and processes.
 
-Past incident records."
+- Past incident records."
 
 Prompt 17 — Safety Compliance Digital Dashboard Design
 
@@ -3139,11 +3139,11 @@ Output format: Dashboard Mockup (Figma/PNG) + KPI List (Excel).
 Input Files & Code Section:
 
 
-Sample compliance data.
+- Sample compliance data.
 
-Company branding guidelines.
+- Company branding guidelines.
 
-Safety performance KPIs."
+- Safety performance KPIs."
 
 Prompt 18 — Annual Safety Training Program Plan
 
@@ -3173,11 +3173,11 @@ Output format: Training Program Calendar (Excel/PDF) + Feedback Form (Word).
 Input Files & Code Section:
 
 
-List of training topics.
+- List of training topics.
 
-Employee count and job roles.
+- Employee count and job roles.
 
-Available training budget."
+- Available training budget."
 
 Prompt 19 — Factory Emergency Response Simulation Plan
 
@@ -3207,11 +3207,11 @@ Output format: Simulation Plan (PDF) + Drill Evaluation Sheet (Excel).
 Input Files & Code Section:
 
 
-Plant floor plan.
+- Plant floor plan.
 
-Emergency contact list.
+- Emergency contact list.
 
-List of past emergency incidents."
+- List of past emergency incidents."
 
 Prompt 20 — Workplace Health Monitoring Program
 
@@ -3241,11 +3241,11 @@ Output format: Health Monitoring Plan (Word/PDF) + Medical Test Tracker (Excel).
 Input Files & Code Section:
 
 
-Job role descriptions.
+- Job role descriptions.
 
-Health risk assessment data.
+- Health risk assessment data.
 
-Local health regulations."
+- Local health regulations."
 
 Prompt 21 — Safety Incentive & Rewards Program
 
@@ -3275,11 +3275,11 @@ Output format: Rewards Program Guide (PDF) + Tracking Sheet (Excel).
 Input Files & Code Section:
 
 
-Employee list.
+- Employee list.
 
-Current safety KPIs.
+- Current safety KPIs.
 
-Available reward budget."
+- Available reward budget."
 
 Prompt 22 — Accident Claim Documentation Kit
 
@@ -3309,11 +3309,11 @@ Output format: Claims Documentation Kit (Word/PDF) + Checklist (Excel).
 Input Files & Code Section:
 
 
-Local labor insurance policy details.
+- Local labor insurance policy details.
 
-Past claim examples.
+- Past claim examples.
 
-HR guidelines."
+- HR guidelines."
 
 Prompt 23 — Legal Compliance Calendar for Safety Regulations
 
@@ -3343,11 +3343,11 @@ Output format: Compliance Calendar (Excel) + Google Calendar Import File (.ics).
 Input Files & Code Section:
 
 
-Applicable laws and regulations.
+- Applicable laws and regulations.
 
-Current compliance records.
+- Current compliance records.
 
-Safety department contact list."
+- Safety department contact list."
 
 Prompt 24 — AI-Powered Safety Violation Detection Guide
 
@@ -3377,11 +3377,11 @@ Output format: AI Safety Detection Guide (PDF) + Equipment List (Excel).
 Input Files & Code Section:
 
 
-Factory layout.
+- Factory layout.
 
-Current surveillance setup.
+- Current surveillance setup.
 
-IT infrastructure details."
+- IT infrastructure details."
 
 Prompt 25 — Multi-Language Safety Documentation Pack
 
@@ -3411,11 +3411,11 @@ Output format: Multilingual Safety Pack (PDF/MP3) + QR Code Directory (Excel).
 Input Files & Code Section:
 
 
-Existing safety manuals.
+- Existing safety manuals.
 
-List of required languages.
+- List of required languages.
 
-Workforce demographics."
+- Workforce demographics."
 
 
 # Supply Chain Coordination
