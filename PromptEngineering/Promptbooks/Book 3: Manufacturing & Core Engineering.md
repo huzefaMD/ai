@@ -886,7 +886,7 @@ Your task:
 `Backstory: Your factory produces thousands of units daily, but manual defect classification is inconsistent and slow. Management wants a consistent, automated approach.`
 
 `Goal: Build an AI model that can classify defects accurately based on images.`
-`
+
 `Prompt:`
 
 `"You are an AI Quality Inspection Specialist. Analyze product images and classify defects according to severity and category.`
