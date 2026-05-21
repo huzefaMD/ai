@@ -1899,16 +1899,17 @@ Your task:
 
 3.Tolerance and fit specifications."
 ````
-Prompt 5 — Reverse Engineering from 3D Scan Data
+## Prompt 5 — Reverse Engineering from 3D Scan Data
 
-Backstory: You have a physical product but no CAD model. Using 3D scanning, you want to recreate its design.
+`Backstory: You have a physical product but no CAD model. Using 3D scanning, you want to recreate its design.`
 
-Goal: Reverse engineer a CAD model from scan data.
+`Goal: Reverse engineer a CAD model from scan data.`
 
-Prompt:
+`Prompt:`
 
-"You are an AI Reverse Engineering Specialist. Generate a fully editable CAD model from my 3D scan data.
+`"You are an AI Reverse Engineering Specialist. Generate a fully editable CAD model from my 3D scan data.`
 
+``````
 Your task:
 
 
@@ -1921,18 +1922,18 @@ Your task:
 4. Match original dimensions and tolerances.
 
 5. Export final model for manufacturing use.
+``````
+`Output format: Parametric CAD file (.STEP) + cleaned mesh file (.STL).`
 
-Output format: Parametric CAD file (.STEP) + cleaned mesh file (.STL).
+`Input Files & Code Section:`
+````
 
-Input Files & Code Section:
+1. 3D scan file.
 
+2.Original part specifications (if available).
 
-- 3D scan file.
-
-- Original part specifications (if available).
-
-- Material details."
-
+3.Material details."
+````
 Prompt 6 — CAE Simulation Setup for Stress Analysis
 
 Backstory: You’ve designed a part but need to verify its ability to withstand real-world loads before manufacturing.
