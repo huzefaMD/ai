@@ -1969,16 +1969,17 @@ Your task:
 
 3.Load & constraint specifications."
 ````
-Prompt 7 — Fluid Flow Simulation for Product Optimization
+## Prompt 7 — Fluid Flow Simulation for Product Optimization
 
-Backstory: Your product involves fluid movement (like a pump or pipe) and needs flow optimization.
+`Backstory: Your product involves fluid movement (like a pump or pipe) and needs flow optimization.`
 
-Goal: Run a CFD (Computational Fluid Dynamics) simulation to optimize fluid flow.
+`Goal: Run a CFD (Computational Fluid Dynamics) simulation to optimize fluid flow.`
 
-Prompt:
+`Prompt:`
 
-"You are an AI CFD Simulation Specialist. Simulate and analyze fluid flow in my CAD model.
+`"You are an AI CFD Simulation Specialist. Simulate and analyze fluid flow in my CAD model.`
 
+``````
 Your task:
 
 
@@ -1991,17 +1992,17 @@ Your task:
 4. Suggest design improvements for optimal flow.
 
 5. Provide side-by-side pre- and post-optimization results.
+``````
+`Output format: CFD report (PDF) + annotated CAD flow visualization.`
 
-Output format: CFD report (PDF) + annotated CAD flow visualization.
+`Input Files & Code Section:`
+```
 
-Input Files & Code Section:
+1.CAD file (.STEP).
 
-
-- CAD file (.STEP).
-
-- Fluid property data.
-
-Flow rate and pressure conditions."
+2.Fluid property data.
+```
+`Flow rate and pressure conditions."`
 
 Prompt 8 — Thermal Simulation for Heat Management
 
