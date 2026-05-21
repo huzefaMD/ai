@@ -1581,16 +1581,17 @@ Your task:
 
 3.QC inspection history."
 ````
-Prompt 21 — AI-Generated QC Training Simulations
+## Prompt 21 — AI-Generated QC Training Simulations
 
-Backstory: Your QC inspectors need better training, but live product defects are rare to demonstrate.
+`Backstory: Your QC inspectors need better training, but live product defects are rare to demonstrate.`
 
-Goal: Create AI-generated defect simulations for training purposes.
+`Goal: Create AI-generated defect simulations for training purposes.`
 
-Prompt:
+`Prompt:`
 
-"You are an AI QC Training Simulator. Generate defect simulation images and datasets for QC inspector training.
+`"You are an AI QC Training Simulator. Generate defect simulation images and datasets for QC inspector training.`
 
+``````
 Your task:
 
 
@@ -1603,18 +1604,18 @@ Your task:
 4. Track trainee accuracy over time.
 
 5. Export training materials for LMS (Learning Management System).
+``````
+`Output format: Image dataset + Excel trainee performance tracker.`
 
-Output format: Image dataset + Excel trainee performance tracker.
+`Input Files & Code Section:`
+````
 
-Input Files & Code Section:
+1. Historical defect dataset.
 
+2.QC classification guide.
 
-- Historical defect dataset.
-
-- QC classification guide.
-
-- LMS compatibility format guide."
-
+3.LMS compatibility format guide."
+````
 Prompt 22 — AI-Driven Product Life-Cycle Quality Tracking
 
 Backstory: You want to monitor product quality not just during manufacturing but throughout its life cycle.
