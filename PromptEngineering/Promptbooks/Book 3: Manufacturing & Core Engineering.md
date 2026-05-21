@@ -387,16 +387,17 @@ Your task:
 ```
 `Historical lead time data."`
 
-Prompt 12 — Changeover Time Reduction Plan
+## Prompt 12 — Changeover Time Reduction Plan
 
-Backstory: Changing production from one product to another takes too long.
+`Backstory: Changing production from one product to another takes too long.`
 
-Goal: Reduce changeover time between product batches.
+`Goal: Reduce changeover time between product batches.`
 
-Prompt:
+`Prompt:`
 
-"You are an AI SMED (Single-Minute Exchange of Die) Specialist. Develop a plan to reduce product changeover time.
+`"You are an AI SMED (Single-Minute Exchange of Die) Specialist. Develop a plan to reduce product changeover time.`
 
+``````
 Your task:
 
 
@@ -409,18 +410,18 @@ Your task:
 4. Recommend tool storage improvements.
 
 5. Simulate expected time savings.
+``````
+`Output format: PDF changeover plan + Excel time tracker.`
 
-Output format: PDF changeover plan + Excel time tracker.
+`Input Files & Code Section:`
+````
 
-Input Files & Code Section:
+1.Changeover time logs.
 
+2.Equipment setup checklists.
 
-- Changeover time logs.
-
-- Equipment setup checklists.
-
-- Operator interviews."
-
+3. Operator interviews."
+````
 Prompt 13 — Defining Digital Twin for Production Line
 
 Backstory: You want to create a digital twin of your production line for simulation purposes.
