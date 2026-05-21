@@ -1546,16 +1546,17 @@ Your task:
 
 3.Legal compliance standards."
 ````
-Prompt 20 — Customer Return QC Analysis
+## Prompt 20 — Customer Return QC Analysis
 
-Backstory: Returned products often reveal QC issues that went undetected during production.
+`Backstory: Returned products often reveal QC issues that went undetected during production.`
 
-Goal: Analyze customer return data to identify missed defects.
+`Goal: Analyze customer return data to identify missed defects.`
 
-Prompt:
+`Prompt:`
 
-"You are an AI Customer Return Analyst. Analyze customer return data to find QC process gaps.
+`"You are an AI Customer Return Analyst. Analyze customer return data to find QC process gaps.`
 
+``````
 Your task:
 
 
@@ -1568,18 +1569,18 @@ Your task:
 4. Recommend changes to catch similar defects earlier.
 
 5. Provide estimated savings from improvements.
+``````
+`Output format: PDF return analysis report + Excel defect mapping.`
 
-Output format: PDF return analysis report + Excel defect mapping.
+`Input Files & Code Section:`
+````
 
-Input Files & Code Section:
+1.Customer return logs.
 
+2.Production batch records.
 
-- Customer return logs.
-
-- Production batch records.
-
-- QC inspection history."
-
+3.QC inspection history."
+````
 Prompt 21 — AI-Generated QC Training Simulations
 
 Backstory: Your QC inspectors need better training, but live product defects are rare to demonstrate.
