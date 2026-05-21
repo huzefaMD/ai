@@ -1263,7 +1263,7 @@ Your task:
 1. QC threshold list.
 
 2.Sensor/vision system feed.
-
+```
 `Supervisor contact list."`
 
 ## Prompt 12 — SPC (Statistical Process Control) Chart Generation
@@ -1301,7 +1301,7 @@ Your task:
 
 3. Product code mapping."
 ````
-Prompt 13 — QC Data Cleaning & Standardization
+## Prompt 13 — QC Data Cleaning & Standardization
 
 Backstory: Your QC data is inconsistent due to multiple operators using different formats.
 
