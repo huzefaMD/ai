@@ -1161,16 +1161,17 @@ Your task:
 
 3.Supplier contract terms."
 ````
-Prompt 9 — First Article Inspection (FAI) Automation
+## Prompt 9 — First Article Inspection (FAI) Automation
 
-Backstory: When introducing a new product, first article inspections take too long and delay mass production.
+`Backstory: When introducing a new product, first article inspections take too long and delay mass production.`
 
-Goal: Automate FAI documentation and reporting.
+`Goal: Automate FAI documentation and reporting.`
 
-Prompt:
+`Prompt:`
 
-"You are an AI First Article Inspection Coordinator. Create automated FAI reports from my measurement and QC data.
+`"You are an AI First Article Inspection Coordinator. Create automated FAI reports from my measurement and QC data.`
 
+``````
 Your task:
 
 
@@ -1183,18 +1184,18 @@ Your task:
 4. Store results for traceability.
 
 5. Create a dashboard for multiple FAI reports.
+``````
+`Output format: PDF FAI report + Excel dimension table.`
 
-Output format: PDF FAI report + Excel dimension table.
+`Input Files & Code Section:`
+````
 
-Input Files & Code Section:
+1.FAI measurement data.
 
+2.Product specification sheet.
 
-- FAI measurement data.
-
-- Product specification sheet.
-
-- Tolerance limits file."
-
+3.Tolerance limits file."
+````
 Prompt 10 — Calibration Scheduling for Inspection Tools
 
 Backstory: QC tools and equipment need regular calibration, but the schedule is often missed.
