@@ -703,16 +703,17 @@ Your task:
 
 3.IoT machine data export."
 ````
-Prompt 21 — AI-Driven Production Cost Reduction Plan
+## Prompt 21 — AI-Driven Production Cost Reduction Plan
 
-Backstory: Management has tasked you to reduce operational costs by 15% without reducing output.
+`Backstory: Management has tasked you to reduce operational costs by 15% without reducing output.`
 
-Goal: Identify cost-cutting opportunities in the production process.
+`Goal: Identify cost-cutting opportunities in the production process.`
 
-Prompt:
+`Prompt:`
 
-"You are an AI Cost Optimization Analyst. Analyze my production process and recommend ways to cut costs by 15% or more.
+`"You are an AI Cost Optimization Analyst. Analyze my production process and recommend ways to cut costs by 15% or more.`
 
+``````
 Your task:
 
 
@@ -725,18 +726,18 @@ Your task:
 4. Highlight automation opportunities.
 
 5. Provide ROI forecast for each recommendation.
+``````
+`Output format: PDF cost reduction plan + Excel savings model.`
 
-Output format: PDF cost reduction plan + Excel savings model.
+`Input Files & Code Section:`
+````
 
-Input Files & Code Section:
+1. Production cost breakdown (Excel).
 
+2. Energy bills.
 
-- Production cost breakdown (Excel).
-
-- Energy bills.
-
-- Supplier contract terms."
-
+3. Supplier contract terms."
+````
 Prompt 22 — Employee Training Plan for Process Efficiency
 
 Backstory: Inconsistent worker skills are slowing production and causing errors.
