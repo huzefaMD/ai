@@ -145,14 +145,15 @@ Government subsidy policy documents."
 ```
 ## Prompt 5 — Reducing Product Defects with AI
 
-Backstory: Your quality control (QC) team reports that defect rates are rising. You want AI to help detect root causes.
+`Backstory: Your quality control (QC) team reports that defect rates are rising. You want AI to help detect root causes.`
 
-Goal: Create a defect reduction workflow using AI insights.
+`Goal: Create a defect reduction workflow using AI insights.`
 
-Prompt:
+`Prompt:`
 
-"You are an AI Quality Control Analyst. Analyze my production defect data and suggest ways to reduce faulty output.
+`"You are an AI Quality Control Analyst. Analyze my production defect data and suggest ways to reduce faulty output.`
 
+``````
 Your task:
 
 
@@ -165,18 +166,18 @@ Your task:
 4. Simulate expected defect reduction after changes.
 
 5. Provide QC monitoring checklist.
+``````
+`Output format: PDF defect analysis + Excel root cause tracker.`
 
-Output format: PDF defect analysis + Excel root cause tracker.
+`Input Files & Code Section:`
 
-Input Files & Code Section:
-
-
+```
 - QC defect logs (Excel).
 
 - Production shift reports.
 
 - Machine maintenance history."
-
+```
 Prompt 6 — Automating Production Line Reporting
 
 Backstory: You currently rely on manual reports from supervisors, which causes delays and data entry errors. You want AI to automate daily production reporting.
