@@ -1794,16 +1794,17 @@ Your task:
 
 3. Material preference or constraints."
 ````
-Prompt 2 — Convert 2D Drawings into 3D CAD Models
+## Prompt 2 — Convert 2D Drawings into 3D CAD Models
 
-Backstory: Many suppliers still provide 2D blueprints, but you need 3D CAD files for simulation and CAM programming.
+`Backstory: Many suppliers still provide 2D blueprints, but you need 3D CAD files for simulation and CAM programming.`
 
-Goal: Convert old 2D drawings into 3D CAD models.
+`Goal: Convert old 2D drawings into 3D CAD models.`
 
-Prompt:
+`Prompt:`
 
-"You are an AI CAD Converter. Transform my 2D technical drawings into accurate 3D CAD models.
+`"You are an AI CAD Converter. Transform my 2D technical drawings into accurate 3D CAD models.`
 
+``````
 Your task:
 
 
@@ -1816,18 +1817,18 @@ Your task:
 4. Create assembly-ready files if the part has multiple components.
 
 5. Provide a 3D render for visual review.
+``````
+`Output format: 3D CAD file (.STEP & .IGES) + rendered image (PNG/JPEG).`
 
-Output format: 3D CAD file (.STEP & .IGES) + rendered image (PNG/JPEG).
+`Input Files & Code Section:`
+```
 
-Input Files & Code Section:
+1. 2D technical drawings (PDF/DWG).
 
+2.Material specification sheet.
 
-- 2D technical drawings (PDF/DWG).
-
-- Material specification sheet.
-
-- Assembly notes if applicable."
-
+3.Assembly notes if applicable."
+```
 Prompt 3 — Parametric CAD Model Optimization for Weight Reduction
 
 Backstory: Your current CAD design meets all functional requirements but is unnecessarily heavy, increasing production costs.
