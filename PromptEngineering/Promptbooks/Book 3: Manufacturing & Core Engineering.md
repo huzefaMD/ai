@@ -881,16 +881,17 @@ Your task:
 
 `Quality Control & Inspection Protocols`
 
-Prompt 1 — AI-Assisted Defect Classification System
+## Prompt 1 — AI-Assisted Defect Classification System
 
-Backstory: Your factory produces thousands of units daily, but manual defect classification is inconsistent and slow. Management wants a consistent, automated approach.
+`Backstory: Your factory produces thousands of units daily, but manual defect classification is inconsistent and slow. Management wants a consistent, automated approach.`
 
-Goal: Build an AI model that can classify defects accurately based on images.
+`Goal: Build an AI model that can classify defects accurately based on images.`
+`
+`Prompt:`
 
-Prompt:
+`"You are an AI Quality Inspection Specialist. Analyze product images and classify defects according to severity and category.`
 
-"You are an AI Quality Inspection Specialist. Analyze product images and classify defects according to severity and category.
-
+``````
 Your task:
 
 
@@ -903,17 +904,17 @@ Your task:
 4. Suggest potential root causes based on defect patterns.
 
 5. Export results to an Excel QC dashboard.
+``````
+`Output format: Model prediction results (Excel) + annotated defect images.`
 
-Output format: Model prediction results (Excel) + annotated defect images.
+`Input Files & Code Section:`
+```
 
-Input Files & Code Section:
+1. Labeled defect image dataset.
 
-
-- Labeled defect image dataset.
-
-- QC category definitions (Excel).
-
-Root cause mapping guide."
+2. QC category definitions (Excel).
+```
+`Root cause mapping guide."`
 
 Prompt 2 — Automated Incoming Material Inspection
 
