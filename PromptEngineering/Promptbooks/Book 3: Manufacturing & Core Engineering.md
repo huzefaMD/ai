@@ -247,16 +247,17 @@ Your task:
 
 3. Labor law compliance checklist."
 ````
-Prompt 8 — Cycle Time Reduction Plan
+## Prompt 8 — Cycle Time Reduction Plan
 
-Backstory: The average cycle time for your main product is longer than industry benchmarks.
+`Backstory: The average cycle time for your main product is longer than industry benchmarks.`
 
-Goal: Reduce cycle time without affecting product quality.
+`Goal: Reduce cycle time without affecting product quality.`
 
-Prompt:
+`Prompt:`
 
-"You are an AI Industrial Process Engineer. Create a cycle time reduction strategy for my [product name] production line.
+`"You are an AI Industrial Process Engineer. Create a cycle time reduction strategy for my [product name] production line.`
 
+``````
 Your task:
 
 
@@ -269,17 +270,17 @@ Your task:
 4. Estimate cycle time savings for each change.
 
 5. Provide a before/after comparison chart.
+``````
+`Output format: PDF process improvement plan + Excel cycle time analysis.`
 
-Output format: PDF process improvement plan + Excel cycle time analysis.
+`Input Files & Code Section:`
+```
 
-Input Files & Code Section:
+1. Process time study report.
 
-
-- Process time study report.
-
-- Production flow diagrams.
-
-Industry benchmark data."
+2. Production flow diagrams.
+```
+`Industry benchmark data."`
 
 Prompt 9 — Real-Time Production Monitoring Dashboard
 
