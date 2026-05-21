@@ -317,16 +317,17 @@ Your task:
 
 3. KPI definition sheet."
 ````
-Prompt 10 — Lean Six Sigma Implementation Plan
+## Prompt 10 — Lean Six Sigma Implementation Plan
 
-Backstory: Your plant wants to adopt Lean Six Sigma to cut waste and defects.
+`Backstory: Your plant wants to adopt Lean Six Sigma to cut waste and defects.`
 
-Goal: Create a step-by-step Lean Six Sigma deployment plan.
+`Goal: Create a step-by-step Lean Six Sigma deployment plan.`
 
-Prompt:
+`Prompt:`
 
-"You are an AI Lean Six Sigma Consultant. Develop a 6-month Lean Six Sigma implementation roadmap for my plant.
+`"You are an AI Lean Six Sigma Consultant. Develop a 6-month Lean Six Sigma implementation roadmap for my plant.`
 
+``````
 Your task:
 
 
@@ -339,17 +340,17 @@ Your task:
 4. Define measurable KPIs.
 
 5. Include ROI forecast.
+``````
+`Output format: PDF roadmap + Excel KPI tracker.`
 
-Output format: PDF roadmap + Excel KPI tracker.
+`Input Files & Code Section:`
+```
 
-Input Files & Code Section:
+1. Waste audit report.
 
-
-- Waste audit report.
-
-- Current process maps.
-
-Employee training records."
+2. Current process maps.
+```
+`Employee training records."`
 
 Prompt 11 — Supplier Lead Time Optimization
 
