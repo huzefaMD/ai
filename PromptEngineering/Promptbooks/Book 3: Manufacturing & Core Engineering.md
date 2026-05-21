@@ -2595,9 +2595,9 @@ Output format: PDF Safety Manual + Quick Reference Sheet + Inspection Checklist 
 Input Files & Code Section:
 
 
-Factory equipment list.
+- Factory equipment list.
 
-Plant layout diagram.
+- Plant layout diagram.
 
 Current safety policies (if any)."
 
