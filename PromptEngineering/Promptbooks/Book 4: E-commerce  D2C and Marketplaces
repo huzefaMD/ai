@@ -869,4 +869,206 @@ Input Files Required:
 2. Keyword research focused on voice search."
 
 
+Ad Copywriting & Campaign Setup
 
+Prompt 1 — High-CTR Sponsored Product Ad Copy for Amazon India
+
+Backstory: You are launching a vegan protein powder on Amazon India. Your competitors dominate the category with aggressive ad placements. Your goal is to create sponsored product ad copy that stands out and drives click-through rates (CTR).
+
+Goal: Write persuasive ad copy that maximises clicks while complying with Amazon ad policies.
+
+Prompt:
+
+"You are an E-commerce Ad Copywriting Specialist. Write high-CTR sponsored product ad copy for a vegan protein powder targeted at Indian urban fitness enthusiasts.
+
+Tasks:
+
+1. Create 5 headline variations (max 50 characters each) optimised for CTR.
+
+2. Create 3 ad descriptions (max 150 characters each) highlighting USPs like plant-based protein, digestive enzymes, and no added sugar.
+
+3. Integrate at least 3 high-volume keywords naturally.
+
+4. Ensure compliance with Amazon ad guidelines (no misleading claims).
+
+5. Suggest 3 hero images that align with the ad messaging.
+
+Output format:
+
+1. Ad Copy Variations (DOCX)
+
+2. Image Suggestions List (Excel)
+
+Input Files Required:
+
+1. Product specs
+
+2. Competitor ad examples
+
+Keyword research report."
+
+Prompt 2 — Facebook & Instagram Carousel Ad Campaign Plan for a D2C Brand
+
+Backstory: A D2C handmade jewellery brand wants to run a festive-season campaign targeting 25–35-year-old women in India. They will use Facebook & Instagram carousel ads to showcase product collections.
+
+Goal: Create a full campaign plan, from copy to visual themes.
+
+Prompt:
+
+"You are a Social Media E-commerce Campaign Strategist. Create a Facebook & Instagram carousel ad campaign plan for a handmade jewellery brand.
+
+Tasks:
+
+1. Define campaign objective (sales/conversions).
+
+2. Suggest 5 carousel themes (festive wear, office wear, gifting, etc.).
+
+3. Write headline & description copy for each carousel image.
+
+4. Recommend hashtags and CTA buttons.
+
+5. Suggest targeting criteria for maximum ROI.
+
+Output format:
+
+1. Campaign Plan (DOCX)
+
+2. Targeting Sheet (Excel)
+
+Input Files Required:
+
+1. Product catalogue
+
+2. Festive season calendar
+
+3. Audience persona details."
+
+Prompt 3 — Google Shopping Ads Copywriting for a D2C Electronics Brand
+
+Backstory: Your D2C brand is launching a smart table lamp with wireless charging. You want Google Shopping Ads to appear at the top of search results for keywords like "wireless charging lamp India".
+
+Goal: Create optimised Google Shopping Ads with high CTR.
+
+Prompt:
+
+"You are a Google Ads Copywriting Specialist. Create Google Shopping Ads for a smart table lamp with wireless charging.
+
+Tasks:
+
+1. Write 5 product titles (max 70 characters each) optimised for Google Shopping SEO.
+
+2. Write 3 product descriptions (max 150 characters) highlighting the key benefits.
+
+3. Include primary and secondary keywords naturally.
+
+4. Suggest optimal pricing strategy for high CTR.
+
+5. Recommend product images that boost ad performance.
+
+Output format:
+
+1. Ad Titles & Descriptions (DOCX)
+
+2. Image Suggestions (Excel)
+
+Input Files Required:
+
+1. Product details
+
+2. Keyword research data
+
+3. Competitor ad screenshots."
+
+Prompt 4 — Marketplace Launch Ad Campaign Strategy (Flipkart & Amazon)
+
+Backstory: A new home appliances brand is launching on both Flipkart and Amazon simultaneously. They want to run a coordinated ad campaign for maximum visibility in the first 30 days.
+
+Goal: Plan a launch campaign strategy that leverages both marketplaces effectively.
+
+Prompt:
+
+"You are an E-commerce Launch Campaign Planner. Create a coordinated ad campaign strategy for a home appliances brand launching on Flipkart & Amazon.
+
+Tasks:
+
+1. Allocate budget split between platforms.
+
+2. Suggest ad types (sponsored products, banners, display ads).
+
+3. Recommend launch offers to drive early reviews.
+
+4. Create ad copy examples for each platform.
+
+5. Suggest campaign timeline for the first 30 days.
+
+Output format:
+
+1. Campaign Strategy Document (DOCX)
+
+2. Budget Allocation Sheet (Excel)
+
+Input Files Required:
+
+1. Product range details
+
+2. Budget
+
+3. Competitor analysis."
+
+Prompt 5 — Retargeting Ad Copy for Abandoned Carts (E-commerce D2C Store)
+
+Backstory: Your Shopify store sells organic skincare products. Cart abandonment rate is high, and you want to run Facebook and Instagram retargeting ads to bring customers back.
+
+Goal: Write persuasive retargeting ad copy that converts abandoned carts into sales.
+
+Prompt:
+
+"You are an E-commerce Retargeting Specialist. Write Facebook & Instagram retargeting ad copy for abandoned carts in an organic skincare store.
+
+Tasks:
+
+1. Create 5 ad copy variations with urgency (limited stock, free shipping).
+
+2. Use emotional triggers like FOMO and exclusivity.
+
+3. Suggest hero images for each copy.
+
+4. Include 3 CTA options per ad.
+
+5. Recommend targeting criteria for high conversion.
+
+Output format:
+
+1. Retargeting Ad Copy Pack (DOCX)
+
+2. Image Suggestions Sheet (Excel)
+
+Input Files Required:
+
+1. Abandoned cart product list
+
+2. Audience insights report."
+
+Prompt 6 — Seasonal Sale Campaign Ad Copy (Big Billion Days / Great Indian Festival)
+Backstory: You’re selling budget smartphones during India’s two largest online sales events — Flipkart’s Big Billion Days and Amazon’s Great Indian Festival. The competition is fierce, and you need copy that creates urgency.
+
+Goal: Create festival-specific ad copy that stands out in the flood of promotions.
+
+Prompt:
+"You are an E-commerce Seasonal Campaign Copywriter. Write ad copy for budget smartphones during Big Billion Days and Great Indian Festival.
+
+Tasks:
+
+Create 5 headlines (max 45 characters) with urgency and scarcity.
+Write 3 ad descriptions (max 150 characters) highlighting discounts, EMI offers, and free delivery.
+Use festival-specific themes and keywords.
+Suggest banner text options for mobile and desktop views.
+Include CTA variations like “Grab Yours Now” and “Deal Ends Soon.”
+Output format:
+
+Ad Copy Variations (DOCX)
+Banner Text Ideas (Excel)
+Input Files Required:
+
+Smartphone specs & offers
+Festival sale guidelines from Amazon/Flipkart."
