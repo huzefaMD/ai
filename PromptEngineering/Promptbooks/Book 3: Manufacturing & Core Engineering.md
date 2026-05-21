@@ -282,16 +282,17 @@ Your task:
 ```
 `Industry benchmark data."`
 
-Prompt 9 — Real-Time Production Monitoring Dashboard
+##Prompt 9 — Real-Time Production Monitoring Dashboard
 
-Backstory: You want a live dashboard that shows production KPIs in real-time.
+`Backstory: You want a live dashboard that shows production KPIs in real-time.`
 
-Goal: Build an AI-generated Power BI or Tableau dashboard template.
+`Goal: Build an AI-generated Power BI or Tableau dashboard template.`
 
-Prompt:
+`Prompt:`
 
-"You are an AI Manufacturing Data Visualization Expert. Create a real-time dashboard showing production output, downtime, and quality metrics.
+`"You are an AI Manufacturing Data Visualization Expert. Create a real-time dashboard showing production output, downtime, and quality metrics.`
 
+``````
 Your task:
 
 
@@ -304,18 +305,18 @@ Your task:
 4. Allow filtering by machine, product, and shift.
 
 5. Provide setup instructions for my IT team.
+``````
+`Output format: Power BI or Tableau file + setup guide.`
 
-Output format: Power BI or Tableau file + setup guide.
+`Input Files & Code Section:`
+````
 
-Input Files & Code Section:
+1. Machine data API access.
 
+2. ERP database schema.
 
-- Machine data API access.
-
-- ERP database schema.
-
-- KPI definition sheet."
-
+3. KPI definition sheet."
+````
 Prompt 10 — Lean Six Sigma Implementation Plan
 
 Backstory: Your plant wants to adopt Lean Six Sigma to cut waste and defects.
