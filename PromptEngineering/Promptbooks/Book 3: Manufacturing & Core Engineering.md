@@ -178,7 +178,7 @@ Your task:
 
 - Machine maintenance history."
 ```
-##Prompt 6 — Automating Production Line Reporting
+## Prompt 6 — Automating Production Line Reporting
 
 `Backstory: You currently rely on manual reports from supervisors, which causes delays and data entry errors. You want AI to automate daily production reporting.`
 
@@ -207,11 +207,11 @@ Your task:
 `Input Files & Code Section:`
 ````
 
-1 Shift production logs (CSV).
+1. Shift production logs (CSV).
 
-2 IoT machine data export (JSON).
+2. IoT machine data export (JSON).
 
-3 Target production KPI sheet."
+3. Target production KPI sheet."
 ````
 Prompt 7 — Workforce Shift Optimization
 
