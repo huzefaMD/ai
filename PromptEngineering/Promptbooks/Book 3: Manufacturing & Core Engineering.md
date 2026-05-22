@@ -3093,16 +3093,17 @@ Your task:
 
 3. Brand color guidelines (if any)."
 ```
-Prompt 14 — Contractor Safety Compliance Agreement
+## Prompt 14 — Contractor Safety Compliance Agreement
 
-Backstory: Contractors working at your site must follow your safety rules.
+`Backstory: Contractors working at your site must follow your safety rules.`
 
-Goal: Develop a contractor safety agreement document.
+`Goal: Develop a contractor safety agreement document.`
 
-Prompt:
+`Prompt:`
 
-"You are a Contractor Safety Compliance Manager. Draft a safety compliance agreement for contractors.
+`"You are a Contractor Safety Compliance Manager. Draft a safety compliance agreement for contractors.`
 
+```
 Your task:
 
 
@@ -3115,18 +3116,18 @@ Your task:
 4. Include acknowledgment and signature sections.
 
 5. Make it bilingual (English + Hindi).
+```
+`Output format: Contractor Safety Agreement (Word/PDF) + Orientation Checklist (Excel).`
 
-Output format: Contractor Safety Agreement (Word/PDF) + Orientation Checklist (Excel).
+`Input Files & Code Section:`
+```
 
-Input Files & Code Section:
+1. List of contractor roles.
 
+2.Current site safety policies.
 
-- List of contractor roles.
-
-- Current site safety policies.
-
-- Legal requirements."
-
+3.Legal requirements."
+```
 Prompt 15 — Daily Safety Briefing Template
 
 Backstory: You want supervisors to conduct daily safety briefings to reinforce safety culture.
