@@ -2565,16 +2565,17 @@ Your task:
 
 3.Material choice."
 ```
-Prompt 24 — AI-Powered Design Compliance Check
+## Prompt 24 — AI-Powered Design Compliance Check
 
-Backstory: Your design must meet industry-specific compliance standards.
+`Backstory: Your design must meet industry-specific compliance standards.`
 
-Goal: Verify CAD design against compliance requirements.
+`Goal: Verify CAD design against compliance requirements.`
 
-Prompt:
+`Prompt:`
 
-"You are an AI Compliance Engineer. Review my CAD design for compliance with industry standards.
+`"You are an AI Compliance Engineer. Review my CAD design for compliance with industry standards.`
 
+```
 Your task:
 
 
@@ -2587,18 +2588,18 @@ Your task:
 4. Provide a compliance certificate draft.
 
 5. Highlight benefits of compliance for market approval.
+```
+`Output format: Compliance review report (PDF) + annotated CAD file.`
 
-Output format: Compliance review report (PDF) + annotated CAD file.
+`Input Files & Code Section:`
+```
 
-Input Files & Code Section:
+1. CAD file.
 
+2.Compliance standard documents.
 
-- CAD file.
-
-- Compliance standard documents.
-
-- Product application details."
-
+3.Product application details."
+```
 Prompt 25 — AI-Driven Concept-to-Prototype Workflow
 
 Backstory: You have an idea but need to go from concept sketches to a prototype quickly.
