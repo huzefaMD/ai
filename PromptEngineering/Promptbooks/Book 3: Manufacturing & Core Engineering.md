@@ -2743,16 +2743,17 @@ Your task:
 
 3.Local disposal regulations."
 ```
-Prompt 4 — Machine-Specific Lockout/Tagout (LOTO) Procedures
+## Prompt 4 — Machine-Specific Lockout/Tagout (LOTO) Procedures
 
-Backstory: Your facility operates heavy machinery that must be locked out during maintenance to prevent accidents.
+`Backstory: Your facility operates heavy machinery that must be locked out during maintenance to prevent accidents.`
 
-Goal: Create machine-specific LOTO procedures in compliance with OSHA standard 1910.147.
+`Goal: Create machine-specific LOTO procedures in compliance with OSHA standard 1910.147.`
 
-Prompt:
+`Prompt:`
 
-"You are a LOTO Procedure Specialist. Create lockout/tagout instructions for each machine in my facility.
+`"You are a LOTO Procedure Specialist. Create lockout/tagout instructions for each machine in my facility.`
 
+```
 Your task:
 
 
@@ -2765,18 +2766,18 @@ Your task:
 4. Provide employee training checklist.
 
 5. Align procedures with OSHA 1910.147 standard.
+```
+`Output format: Machine-specific LOTO PDF Sheets + Training Checklist.`
 
-Output format: Machine-specific LOTO PDF Sheets + Training Checklist.
+`Input Files & Code Section:`
+```
 
-Input Files & Code Section:
+1. Machine inventory list.
 
+2.Manufacturer manuals.
 
-- Machine inventory list.
-
-- Manufacturer manuals.
-
-- Maintenance schedule."
-
+3.Maintenance schedule."
+```
 Prompt 5 — Workplace Safety Audit Template
 
 Backstory: You want to regularly assess safety compliance in your facility without hiring external auditors each time.
