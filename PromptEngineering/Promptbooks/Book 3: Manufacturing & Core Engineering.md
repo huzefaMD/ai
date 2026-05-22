@@ -3656,16 +3656,17 @@ Your task:
 
 3.Economic indicator data."
 ```
-Prompt 5 — Multi-Modal Transport Optimization Plan
+## Prompt 5 — Multi-Modal Transport Optimization Plan
 
-Backstory: Your company ships goods via multiple transportation modes but lacks an optimized routing strategy.
+`Backstory: Your company ships goods via multiple transportation modes but lacks an optimized routing strategy.`
 
-Goal: Create a cost-efficient, time-optimized multi-modal transportation plan.
+`Goal: Create a cost-efficient, time-optimized multi-modal transportation plan.`
 
-Prompt:
+`Prompt:`
 
-"You are a Transport Logistics Planner. Develop a multi-modal transport optimization strategy for my supply chain.
+`"You are a Transport Logistics Planner. Develop a multi-modal transport optimization strategy for my supply chain.`
 
+```
 Your task:
 
 
@@ -3678,18 +3679,18 @@ Your task:
 4. Include seasonal and weather-based adjustments.
 
 5. Provide a risk management strategy for delays.
+```
+`Output format: Transport Optimization Report (PDF) + Route Map (PNG).`
 
-Output format: Transport Optimization Report (PDF) + Route Map (PNG).
+`Input Files & Code Section:`
+```
 
-Input Files & Code Section:
+1.Current transportation routes and costs.
 
+2.Delivery timelines.
 
-Current transportation routes and costs.
-
-Delivery timelines.
-
-Seasonal demand patterns."
-
+3.Seasonal demand patterns."
+```
 Prompt 6 — Supplier Collaboration Portal Blueprint
 
 Backstory: You want a centralized online platform for real-time supplier collaboration to reduce communication delays.
