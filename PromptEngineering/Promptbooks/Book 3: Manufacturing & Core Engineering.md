@@ -3586,16 +3586,17 @@ Your task:
 
 3.Procurement policy."
 ```
-Prompt 3 — Just-in-Time (JIT) Inventory Planning
+## Prompt 3 — Just-in-Time (JIT) Inventory Planning
 
-Backstory: Excess inventory is tying up capital, while shortages sometimes halt production.
+`Backstory: Excess inventory is tying up capital, while shortages sometimes halt production.`
 
-Goal: Implement a Just-in-Time (JIT) inventory strategy to balance efficiency and availability.
+`Goal: Implement a Just-in-Time (JIT) inventory strategy to balance efficiency and availability.`
 
-Prompt:
+`Prompt:`
 
-"You are an Inventory Optimization Expert. Create a JIT inventory plan for my manufacturing plant.
+`"You are an Inventory Optimization Expert. Create a JIT inventory plan for my manufacturing plant.`
 
+```
 Your task:
 
 
@@ -3608,18 +3609,18 @@ Your task:
 4. Suggest inventory tracking tools (IoT, RFID).
 
 5. Provide a contingency plan for supply disruptions.
+```
+`Output format: JIT Inventory Plan (Excel/PDF) + Supplier Coordination Guide (Word).`
 
-Output format: JIT Inventory Plan (Excel/PDF) + Supplier Coordination Guide (Word).
+`Input Files & Code Section:`
+```
 
-Input Files & Code Section:
+1.Sales and production data.
 
+2.Supplier lead times.
 
-Sales and production data.
-
-Supplier lead times.
-
-Current inventory levels."
-
+3.Current inventory levels."
+```
 Prompt 4 — AI-Driven Demand Forecasting Model
 
 Backstory: Inaccurate demand forecasts are causing overproduction and stockouts.
