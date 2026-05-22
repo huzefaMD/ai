@@ -4181,16 +4181,17 @@ Your task:
 
 3.Existing communication tools in use."
 ```
-Prompt 20 — AI Route Optimization for Deliveries
+## Prompt 20 — AI Route Optimization for Deliveries
 
-Backstory: Your transport fleet wastes fuel and time due to inefficient routing, especially for multi-stop deliveries. Changing demand patterns make manual planning ineffective.
+`Backstory: Your transport fleet wastes fuel and time due to inefficient routing, especially for multi-stop deliveries. Changing demand patterns make manual planning ineffective.`
 
-Goal: Use AI to optimize delivery routes for cost, time, and sustainability.
+`Goal: Use AI to optimize delivery routes for cost, time, and sustainability.`
 
-Prompt:
+`Prompt:`
 
-"You are a Transport Optimization AI Engineer. Design an AI-powered route optimization solution for my delivery fleet.
+`"You are a Transport Optimization AI Engineer. Design an AI-powered route optimization solution for my delivery fleet.`
 
+```
 Your task:
 
 
@@ -4203,28 +4204,29 @@ Your task:
 4. Suggest hardware/software requirements for implementation.
 
 5. Provide a KPI dashboard to monitor improvement.
+```
+`Output format: Route Optimization Plan (Word) + Sample AI Algorithm Code (Python).`
 
-Output format: Route Optimization Plan (Word) + Sample AI Algorithm Code (Python).
+`Input Files & Code Section:`
+```
 
-Input Files & Code Section:
+1.Current delivery routes (Excel/CSV).
 
+2.Fleet capacity details.
 
-Current delivery routes (Excel/CSV).
+3.Delivery location data."
+```
+## Prompt 21 — Supplier Diversity & Inclusion Policy
 
-Fleet capacity details.
+`Backstory: Your company wants to work with a broader range of suppliers, including women-owned, minority-owned, and small enterprises, to meet corporate social responsibility goals.`
 
-Delivery location data."
+`Goal: Create a supplier diversity and inclusion policy.`
 
-Prompt 21 — Supplier Diversity & Inclusion Policy
+`Prompt:`
 
-Backstory: Your company wants to work with a broader range of suppliers, including women-owned, minority-owned, and small enterprises, to meet corporate social responsibility goals.
+`"You are a CSR Supply Chain Consultant. Develop a supplier diversity and inclusion policy for my manufacturing supply chain.`
 
-Goal: Create a supplier diversity and inclusion policy.
-
-Prompt:
-
-"You are a CSR Supply Chain Consultant. Develop a supplier diversity and inclusion policy for my manufacturing supply chain.
-
+```
 Your task:
 
 
@@ -4237,28 +4239,29 @@ Your task:
 4. Create reporting templates for tracking progress.
 
 5. Align with global CSR frameworks (UN SDGs, ISO 26000).
+```
+`Output format: Supplier Diversity Policy (PDF) + Reporting Template (Excel).`
 
-Output format: Supplier Diversity Policy (PDF) + Reporting Template (Excel).
+`Input Files & Code Section:`
+```
 
-Input Files & Code Section:
+1.Current supplier demographic data.
 
+2.CSR annual report.
+```
+`Procurement guidelines."`
 
-Current supplier demographic data.
+## Prompt 22 — Collaborative Planning, Forecasting & Replenishment (CPFR) Framework
 
-CSR annual report.
+`Backstory: Your supply chain operates in silos, with suppliers, distributors, and your company forecasting independently, leading to mismatches.`
 
-Procurement guidelines."
+`Goal: Build a CPFR framework to synchronize the entire supply network.`
 
-Prompt 22 — Collaborative Planning, Forecasting & Replenishment (CPFR) Framework
+`Prompt:`
 
-Backstory: Your supply chain operates in silos, with suppliers, distributors, and your company forecasting independently, leading to mismatches.
+`"You are a Supply Chain Collaboration Specialist. Create a CPFR framework for my manufacturing business.`
 
-Goal: Build a CPFR framework to synchronize the entire supply network.
-
-Prompt:
-
-"You are a Supply Chain Collaboration Specialist. Create a CPFR framework for my manufacturing business.
-
+```
 Your task:
 
 
@@ -4271,28 +4274,29 @@ Your task:
 4. Suggest collaboration tools for real-time updates.
 
 5. Include governance rules for data sharing.
+```
+`Output format: CPFR Guide (Word) + Collaboration Workflow Diagram (PNG).`
 
-Output format: CPFR Guide (Word) + Collaboration Workflow Diagram (PNG).
+`Input Files & Code Section:`
+```
 
-Input Files & Code Section:
+1.Historical sales data.
 
+2.Supplier and distributor contact list.
 
-Historical sales data.
+3.Current forecasting method details."
+```
+## Prompt 23 — Supply Chain Cybersecurity Audit Plan
 
-Supplier and distributor contact list.
+`Backstory: Your ERP, supplier portals, and logistics software are all connected, but you haven’t audited their cybersecurity in years. This makes your supply chain vulnerable to ransomware or data theft.`
 
-Current forecasting method details."
+`Goal: Create a cybersecurity audit plan for the supply chain.`
 
-Prompt 23 — Supply Chain Cybersecurity Audit Plan
+`Prompt:`
 
-Backstory: Your ERP, supplier portals, and logistics software are all connected, but you haven’t audited their cybersecurity in years. This makes your supply chain vulnerable to ransomware or data theft.
+`"You are a Supply Chain Cybersecurity Auditor. Develop a cybersecurity audit plan for all digital systems used in procurement, inventory, and logistics.`
 
-Goal: Create a cybersecurity audit plan for the supply chain.
-
-Prompt:
-
-"You are a Supply Chain Cybersecurity Auditor. Develop a cybersecurity audit plan for all digital systems used in procurement, inventory, and logistics.
-
+```
 Your task:
 
 
@@ -4305,28 +4309,29 @@ Your task:
 4. Include compliance with relevant data protection laws (GDPR, India DPDP Act).
 
 5. Provide a yearly audit schedule.
+```
+`Output format: Cybersecurity Audit Plan (PDF) + Risk Register (Excel).`
 
-Output format: Cybersecurity Audit Plan (PDF) + Risk Register (Excel).
+`Input Files & Code Section:`
+```
 
-Input Files & Code Section:
+1.List of all supply chain software and integrations.
 
+2.IT security policy.
 
-List of all supply chain software and integrations.
+3.Incident history."
+```
+## Prompt 24 — AI-Powered Supply Chain Simulation Tool Plan
 
-IT security policy.
+`Backstory: You want to test “what-if” scenarios in your supply chain, like a 20% demand surge or a supplier shutdown, without disrupting operations.`
 
-Incident history."
+`Goal: Create a plan for an AI simulation tool that models different supply chain scenarios.`
 
-Prompt 24 — AI-Powered Supply Chain Simulation Tool Plan
+`Prompt:`
 
-Backstory: You want to test “what-if” scenarios in your supply chain, like a 20% demand surge or a supplier shutdown, without disrupting operations.
+`"You are a Supply Chain Simulation Expert. Design a plan for an AI-based simulation tool.`
 
-Goal: Create a plan for an AI simulation tool that models different supply chain scenarios.
-
-Prompt:
-
-"You are a Supply Chain Simulation Expert. Design a plan for an AI-based simulation tool.
-
+```
 Your task:
 
 
@@ -4339,28 +4344,29 @@ Your task:
 4. Provide dashboard design for visualization.
 
 5. Include integration with ERP and BI systems.
+```
+`Output format: Simulation Tool Plan (Word) + Sample Dashboard Layout (PNG).
 
-Output format: Simulation Tool Plan (Word) + Sample Dashboard Layout (PNG).
+`Input Files & Code Section:`
+```
 
-Input Files & Code Section:
+1.Current supply chain data.
 
+2.Historical disruption records.
 
-Current supply chain data.
+3.ERP integration capabilities."
+```
+## Prompt 25 — Carbon Footprint Tracking in Supply Chain
 
-Historical disruption records.
+`Backstory: Customers and regulators are pushing for sustainability reporting, and you want to measure the carbon footprint of every stage of your supply chain.`
 
-ERP integration capabilities."
+`Goal: Create a carbon tracking system for supply chain activities.`
 
-Prompt 25 — Carbon Footprint Tracking in Supply Chain
+`Prompt:`
 
-Backstory: Customers and regulators are pushing for sustainability reporting, and you want to measure the carbon footprint of every stage of your supply chain.
+`"You are a Sustainable Supply Chain Analyst. Create a carbon footprint tracking plan for my manufacturing supply chain.`
 
-Goal: Create a carbon tracking system for supply chain activities.
-
-Prompt:
-
-"You are a Sustainable Supply Chain Analyst. Create a carbon footprint tracking plan for my manufacturing supply chain.
-
+```
 Your task:
 
 
@@ -4373,17 +4379,17 @@ Your task:
 4. Provide a quarterly carbon reduction target plan.
 
 5. Align reporting with GHG Protocol standards.
+```
+`Output format: Carbon Tracking Plan (PDF) + CO₂ Emission Calculator (Excel).`
 
-Output format: Carbon Tracking Plan (PDF) + CO₂ Emission Calculator (Excel).
+`Input Files & Code Section:`
+```
 
-Input Files & Code Section:
+1.Transport and energy consumption data.
 
+2.Supplier sustainability reports.
 
-Transport and energy consumption data.
-
-Supplier sustainability reports.
-
-Product packaging details."
-
+3.Product packaging details."
+```
 
 
