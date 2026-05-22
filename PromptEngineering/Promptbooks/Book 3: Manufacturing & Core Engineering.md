@@ -2600,16 +2600,17 @@ Your task:
 
 3.Product application details."
 ```
-Prompt 25 — AI-Driven Concept-to-Prototype Workflow
+## Prompt 25 — AI-Driven Concept-to-Prototype Workflow
 
-Backstory: You have an idea but need to go from concept sketches to a prototype quickly.
+`Backstory: You have an idea but need to go from concept sketches to a prototype quickly.`
 
-Goal: Complete concept-to-prototype CAD workflow.
+`Goal: Complete concept-to-prototype CAD workflow.`
 
-Prompt:
+`Prompt:`
 
-"You are an AI Concept-to-Prototype Designer. Turn my idea into a working CAD model ready for prototyping.
+`"You are an AI Concept-to-Prototype Designer. Turn my idea into a working CAD model ready for prototyping.`
 
+```
 Your task:
 
 
@@ -2622,18 +2623,18 @@ Your task:
 4. Prepare model for CNC or 3D printing.
 
 5. Provide cost and time estimation for prototype.
+```
+`Output format: CAD file (.STEP), STL for printing, PDF prototype cost sheet.`
 
-Output format: CAD file (.STEP), STL for printing, PDF prototype cost sheet.
+`Input Files & Code Section:`
+```
 
-Input Files & Code Section:
+1. Sketches/images.
 
+2.Material preferences.
 
-- Sketches/images.
-
-- Material preferences.
-
-- Prototype method choice."
-
+3.Prototype method choice."
+```
 
 # Safety & Compliance Documentation
 
