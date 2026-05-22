@@ -2425,16 +2425,17 @@ Your task:
 
 3.Branding/logo assets."
 ```
-Prompt 20 — AI-Driven Bill of Materials (BOM) Extraction
+## Prompt 20 — AI-Driven Bill of Materials (BOM) Extraction
 
-Backstory: You have a CAD assembly but no detailed BOM for procurement.
+`Backstory: You have a CAD assembly but no detailed BOM for procurement.`
 
-Goal: Generate a full BOM from CAD data.
+`Goal: Generate a full BOM from CAD data.`
 
-Prompt:
+`Prompt:`
 
-"You are an AI BOM Generator. Extract a complete Bill of Materials from my CAD assembly.
+`"You are an AI BOM Generator. Extract a complete Bill of Materials from my CAD assembly.`
 
+```
 Your task:
 
 
@@ -2447,18 +2448,18 @@ Your task:
 4. Flag any missing data.
 
 5. Export in Excel and PDF formats.
+```
+`Output format: BOM (Excel/PDF) + missing data report.`
 
-Output format: BOM (Excel/PDF) + missing data report.
+`Input Files & Code Section:`
+```
 
-Input Files & Code Section:
+1. CAD assembly file.
 
+2.Material database (if available).
 
-- CAD assembly file.
-
-- Material database (if available).
-
-- Part numbering system."
-
+3.Part numbering system."
+```
 Prompt 21 — AI-Based Ergonomic Design Review
 
 Backstory: Your product interacts with human users, so ergonomic design is critical.
