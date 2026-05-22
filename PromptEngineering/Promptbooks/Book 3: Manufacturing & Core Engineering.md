@@ -2638,16 +2638,17 @@ Your task:
 
 # Safety & Compliance Documentation
 
-Prompt 1 — Create OSHA-Compliant Safety Manual for Manufacturing Plant
+## Prompt 1 — Create OSHA-Compliant Safety Manual for Manufacturing Plant
 
-Backstory: Your manufacturing facility needs a safety manual that complies with OSHA (Occupational Safety and Health Administration) standards to ensure worker safety and legal compliance.
+`Backstory: Your manufacturing facility needs a safety manual that complies with OSHA (Occupational Safety and Health Administration) standards to ensure worker safety and legal compliance.`
 
-Goal: Generate a complete safety manual covering equipment operation, PPE (Personal Protective Equipment), and emergency procedures.
+`Goal: Generate a complete safety manual covering equipment operation, PPE (Personal Protective Equipment), and emergency procedures.`
 
-Prompt:
+`Prompt:`
 
-"You are a Manufacturing Safety Compliance Officer. Create a comprehensive OSHA-compliant safety manual for my facility.
+`"You are a Manufacturing Safety Compliance Officer. Create a comprehensive OSHA-compliant safety manual for my facility.`
 
+```
 Your task:
 
 
@@ -2660,18 +2661,18 @@ Your task:
 4. Create both a long-form PDF manual and a 1-page quick-reference guide.
 
 5. Include an inspection checklist for managers.
+```
+`Output format: PDF Safety Manual + Quick Reference Sheet + Inspection Checklist (Excel).`
 
-Output format: PDF Safety Manual + Quick Reference Sheet + Inspection Checklist (Excel).
+`Input Files & Code Section:`
+```
 
-Input Files & Code Section:
+1.Factory equipment list.
 
+2.Plant layout diagram.
 
-- Factory equipment list.
-
-- Plant layout diagram.
-
-Current safety policies (if any)."
-
+`Current safety policies (if any)."`
+```
 Prompt 2 — Fire Safety & Evacuation Plan According to NFPA Standards
 
 Backstory: You want to ensure your manufacturing plant has a fire safety plan that meets NFPA (National Fire Protection Association) requirements.
