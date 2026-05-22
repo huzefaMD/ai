@@ -2390,16 +2390,17 @@ Your task:
 
 3.Machine/tool dimensions."
 ```
-Prompt 19 — Assembly Animation for Client Presentation
+## Prompt 19 — Assembly Animation for Client Presentation
 
-Backstory: You want to impress a client by showing how your product is assembled step-by-step.
+`Backstory: You want to impress a client by showing how your product is assembled step-by-step.`
 
-Goal: Create a realistic assembly animation from CAD files.
+`Goal: Create a realistic assembly animation from CAD files.`
 
-Prompt:
+`Prompt:`
 
-"You are an AI CAD Animator. Produce an assembly sequence animation for my product.
+`"You are an AI CAD Animator. Produce an assembly sequence animation for my product.`
 
+```
 Your task:
 
 
@@ -2412,18 +2413,18 @@ Your task:
 4. Export in MP4 and GIF formats.
 
 5. Provide a script for voiceover narration.
+```
+`Output format: Assembly animation video (MP4/GIF) + narration script (Word).`
 
-Output format: Assembly animation video (MP4/GIF) + narration script (Word).
+`Input Files & Code Section:`
+```
 
-Input Files & Code Section:
+1.CAD assembly files.
 
+2.Assembly instructions.
 
-- CAD assembly files.
-
-- Assembly instructions.
-
-- Branding/logo assets."
-
+3.Branding/logo assets."
+```
 Prompt 20 — AI-Driven Bill of Materials (BOM) Extraction
 
 Backstory: You have a CAD assembly but no detailed BOM for procurement.
