@@ -2848,16 +2848,17 @@ Your task:
 
 3.PPE brand/model details."
 ```
-Prompt 7 — Incident Reporting & Investigation Template
+## Prompt 7 — Incident Reporting & Investigation Template
 
-Backstory: A proper incident reporting system ensures every workplace accident is documented and investigated.
+`Backstory: A proper incident reporting system ensures every workplace accident is documented and investigated.`
 
-Goal: Create a standardized incident reporting and investigation process.
+`Goal: Create a standardized incident reporting and investigation process.`
 
-Prompt:
+`Prompt:`
 
-"You are a Workplace Incident Investigator. Develop an incident reporting and root cause analysis template.
+`"You are a Workplace Incident Investigator. Develop an incident reporting and root cause analysis template.`
 
+```
 Your task:
 
 
@@ -2870,18 +2871,18 @@ Your task:
 4. Align with OSHA and ISO 45001 requirements.
 
 5. Provide both a printable and fillable PDF version.
+```
+`Output format: Incident Report Form (PDF) + Root Cause Analysis Sheet (Excel).`
 
-Output format: Incident Report Form (PDF) + Root Cause Analysis Sheet (Excel).
+`Input Files & Code Section:`
+```
 
-Input Files & Code Section:
+1. List of common workplace incidents.
 
+2.Previous accident records (if available).`
 
-- List of common workplace incidents.
-
-- Previous accident records (if available).
-
-- Applicable safety standards."
-
+3.Applicable safety standards."
+```
 Prompt 8 — ISO 45001 Health & Safety Management System Documentation
 
 Backstory: Your company wants ISO 45001 certification for occupational health and safety.
