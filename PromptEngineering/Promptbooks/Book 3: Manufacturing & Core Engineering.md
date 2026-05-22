@@ -3373,16 +3373,17 @@ Your task:
 
 3. Available reward budget."
 ```
-Prompt 22 — Accident Claim Documentation Kit
+## Prompt 22 — Accident Claim Documentation Kit
 
-Backstory: After workplace accidents, proper documentation helps in insurance and legal claims.
+`Backstory: After workplace accidents, proper documentation helps in insurance and legal claims.`
 
-Goal: Prepare an accident claim documentation kit.
+`Goal: Prepare an accident claim documentation kit.`
 
-Prompt:
+`Prompt:`
 
-"You are a Workplace Accident Claims Advisor. Create a documentation kit for accident claims.
+`"You are a Workplace Accident Claims Advisor. Create a documentation kit for accident claims.`
 
+```
 Your task:
 
 
@@ -3395,18 +3396,18 @@ Your task:
 4. Align with labor insurance claim requirements.
 
 5. Provide a checklist for claim submission.
+```
+`Output format: Claims Documentation Kit (Word/PDF) + Checklist (Excel).`
 
-Output format: Claims Documentation Kit (Word/PDF) + Checklist (Excel).
+`Input Files & Code Section:`
+```
 
-Input Files & Code Section:
+1. Local labor insurance policy details.
 
+2. Past claim examples.
 
-- Local labor insurance policy details.
-
-- Past claim examples.
-
-- HR guidelines."
-
+3. HR guidelines."
+```
 Prompt 23 — Legal Compliance Calendar for Safety Regulations
 
 Backstory: Missing safety-related legal deadlines can result in penalties.
