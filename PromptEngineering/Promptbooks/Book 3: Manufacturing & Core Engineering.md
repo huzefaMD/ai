@@ -3516,16 +3516,17 @@ Your task:
 
 # Supply Chain Coordination
 
-Prompt 1 — End-to-End Supply Chain Visibility Dashboard
+## Prompt 1 — End-to-End Supply Chain Visibility Dashboard
 
-Backstory: Your manufacturing company faces delays due to a lack of real-time visibility into supply chain operations.
+`Backstory: Your manufacturing company faces delays due to a lack of real-time visibility into supply chain operations.`
 
-Goal: Build a dashboard that tracks raw materials, production stages, shipping status, and delivery timelines in real-time.
+`Goal: Build a dashboard that tracks raw materials, production stages, shipping status, and delivery timelines in real-time.`
 
-Prompt:
+`Prompt:`
 
-"You are a Supply Chain Data Analyst. Create a blueprint for an end-to-end supply chain visibility dashboard.
+`"You are a Supply Chain Data Analyst. Create a blueprint for an end-to-end supply chain visibility dashboard.`
 
+```
 Your task:
 
 
@@ -3538,18 +3539,18 @@ Your task:
 4. Include both desktop and mobile-friendly versions.
 
 5. Suggest the tech stack (BI tools, APIs, databases) for implementation.
+```
+`Output format: Dashboard Wireframe (Figma/PNG) + Data Integration Plan (Excel).`
 
-Output format: Dashboard Wireframe (Figma/PNG) + Data Integration Plan (Excel).
+`Input Files & Code Section:`
+```
 
-Input Files & Code Section:
+1.Sample order and shipment data.
 
+2.Current ERP/Inventory system details.
 
-Sample order and shipment data.
-
-Current ERP/Inventory system details.
-
-Supplier contact list."
-
+3.Supplier contact list."
+```
 Prompt 2 — Supplier Performance Evaluation System
 
 Backstory: Your production suffers from inconsistent supplier quality and late deliveries.
