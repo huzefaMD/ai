@@ -4146,16 +4146,17 @@ Your task:
 
 3.ERP integration capabilities."
 ```
-Prompt 19 — Supply Chain Crisis Communication Protocol
+## Prompt 19 — Supply Chain Crisis Communication Protocol
 
-Backstory: When a shipment delay or raw material shortage happens, your team scrambles to inform customers, suppliers, and internal departments. The lack of a structured communication protocol causes confusion and customer dissatisfaction.
+`Backstory: When a shipment delay or raw material shortage happens, your team scrambles to inform customers, suppliers, and internal departments. The lack of a structured communication protocol causes confusion and customer dissatisfaction.`
 
-Goal: Develop a step-by-step crisis communication plan for supply chain disruptions.
+`Goal: Develop a step-by-step crisis communication plan for supply chain disruptions.`
 
-Prompt:
+`Prompt:`
 
-"You are a Crisis Communication Strategist. Create a supply chain disruption communication protocol for my manufacturing business.
+`"You are a Crisis Communication Strategist. Create a supply chain disruption communication protocol for my manufacturing business.`
 
+```
 Your task:
 
 
@@ -4168,18 +4169,18 @@ Your task:
 4. Include a timeline for escalation and resolution updates.
 
 5. Provide a feedback mechanism to improve future responses.
+```
+`Output format: Crisis Communication SOP (PDF) + Notification Templates (Word).`
 
-Output format: Crisis Communication SOP (PDF) + Notification Templates (Word).
+`Input Files & Code Section:`
+```
 
-Input Files & Code Section:
+1.List of key customers and suppliers.
 
+2.Sample past incident reports.
 
-List of key customers and suppliers.
-
-Sample past incident reports.
-
-Existing communication tools in use."
-
+3.Existing communication tools in use."
+```
 Prompt 20 — AI Route Optimization for Deliveries
 
 Backstory: Your transport fleet wastes fuel and time due to inefficient routing, especially for multi-stop deliveries. Changing demand patterns make manual planning ineffective.
