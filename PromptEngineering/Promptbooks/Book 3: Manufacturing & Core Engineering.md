@@ -3303,16 +3303,17 @@ Your task:
 
 3.List of past emergency incidents."
 ```
-Prompt 20 — Workplace Health Monitoring Program
+## Prompt 20 — Workplace Health Monitoring Program
 
-Backstory: Workers in certain areas are exposed to dust, noise, or chemicals, requiring regular health checks.
+`Backstory: Workers in certain areas are exposed to dust, noise, or chemicals, requiring regular health checks.`
 
-Goal: Design a workplace health monitoring program.
+`Goal: Design a workplace health monitoring program.`
 
-Prompt:
+`Prompt:`
 
-"You are a Workplace Health Specialist. Create a health monitoring plan for my manufacturing unit.
+`"You are a Workplace Health Specialist. Create a health monitoring plan for my manufacturing unit.`
 
+```
 Your task:
 
 
@@ -3325,18 +3326,18 @@ Your task:
 4. Maintain confidential medical records.
 
 5. Include a wellness program for preventive care.
+```
+`Output format: Health Monitoring Plan (Word/PDF) + Medical Test Tracker (Excel).`
 
-Output format: Health Monitoring Plan (Word/PDF) + Medical Test Tracker (Excel).
+`Input Files & Code Section:`
+```
 
-Input Files & Code Section:
+1.Job role descriptions.
 
+2.Health risk assessment data.
 
-- Job role descriptions.
-
-- Health risk assessment data.
-
-- Local health regulations."
-
+3. Local health regulations."
+```
 Prompt 21 — Safety Incentive & Rewards Program
 
 Backstory: You want to encourage employees to follow safety rules through incentives.
