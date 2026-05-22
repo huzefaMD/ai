@@ -2673,16 +2673,17 @@ Your task:
 
 `Current safety policies (if any)."`
 ```
-Prompt 2 — Fire Safety & Evacuation Plan According to NFPA Standards
+## Prompt 2 — Fire Safety & Evacuation Plan According to NFPA Standards
 
-Backstory: You want to ensure your manufacturing plant has a fire safety plan that meets NFPA (National Fire Protection Association) requirements.
+`Backstory: You want to ensure your manufacturing plant has a fire safety plan that meets NFPA (National Fire Protection Association) requirements.`
 
-Goal: Develop a plant-specific fire safety plan with evacuation routes.
+`Goal: Develop a plant-specific fire safety plan with evacuation routes.`
 
-Prompt:
+`Prompt:`
 
-"You are a Fire Safety Compliance Expert. Create an NFPA-compliant fire safety and evacuation plan for my manufacturing facility.
+`"You are a Fire Safety Compliance Expert. Create an NFPA-compliant fire safety and evacuation plan for my manufacturing facility.`
 
+```
 Your task:
 
 
@@ -2695,17 +2696,17 @@ Your task:
 4. Provide a floor plan diagram with marked evacuation routes.
 
 5. Recommend training modules for staff.
+```
+`Output format: Fire Safety Plan (PDF) + Evacuation Route Map (PNG) + Drill Checklist.`
 
-Output format: Fire Safety Plan (PDF) + Evacuation Route Map (PNG) + Drill Checklist.
+`Input Files & Code Section:`
+```
 
-Input Files & Code Section:
+1. Plant floor plan (CAD/PDF).
 
-
-- Plant floor plan (CAD/PDF).
-
-- Current fire safety equipment list.
-
-Building occupancy capacity."
+2.Current fire safety equipment list.
+```
+`Building occupancy capacity."`
 
 Prompt 3 — Hazardous Materials Handling Protocol (HAZMAT)
 
