@@ -3163,16 +3163,17 @@ Your task:
 
 3.Company branding guidelines."
 ```
-Prompt 16 — Workplace Hazard Risk Assessment Report
+## Prompt 16 — Workplace Hazard Risk Assessment Report
 
-Backstory: Your factory must regularly identify, assess, and rank potential hazards to prevent incidents.
+`Backstory: Your factory must regularly identify, assess, and rank potential hazards to prevent incidents.`
 
-Goal: Create a hazard risk assessment report aligned with ISO 31000.
+`Goal: Create a hazard risk assessment report aligned with ISO 31000.`
 
-Prompt:
+`Prompt:`
 
-"You are a Risk Assessment Specialist. Prepare a workplace hazard risk assessment report for my manufacturing facility.
+`"You are a Risk Assessment Specialist. Prepare a workplace hazard risk assessment report for my manufacturing facility.`
 
+```
 Your task:
 
 
@@ -3185,18 +3186,18 @@ Your task:
 4. Include monitoring and review schedules.
 
 5. Provide an executive summary for management.
+```
+`Output format: Risk Assessment Report (PDF) + Risk Matrix Chart (PNG).`
 
-Output format: Risk Assessment Report (PDF) + Risk Matrix Chart (PNG).
+`Input Files & Code Section:`
+```
 
-Input Files & Code Section:
+1.Plant layout.
 
+2.List of machinery and processes.
 
-- Plant layout.
-
-- List of machinery and processes.
-
-- Past incident records."
-
+3. Past incident records."
+```
 Prompt 17 — Safety Compliance Digital Dashboard Design
 
 Backstory: You want a centralized digital platform to monitor all safety compliance activities in real time.
