@@ -3551,16 +3551,17 @@ Your task:
 
 3.Supplier contact list."
 ```
-Prompt 2 — Supplier Performance Evaluation System
+## Prompt 2 — Supplier Performance Evaluation System
 
-Backstory: Your production suffers from inconsistent supplier quality and late deliveries.
+`Backstory: Your production suffers from inconsistent supplier quality and late deliveries.`
 
-Goal: Create a supplier evaluation and ranking system to improve procurement decisions.
+`Goal: Create a supplier evaluation and ranking system to improve procurement decisions.`
 
-Prompt:
+`Prompt:`
 
-"You are a Supplier Relationship Manager. Develop a supplier performance evaluation model for my manufacturing unit.
+`"You are a Supplier Relationship Manager. Develop a supplier performance evaluation model for my manufacturing unit.`
 
+```
 Your task:
 
 
@@ -3573,18 +3574,18 @@ Your task:
 4. Include a quarterly performance report template.
 
 5. Align the process with ISO 9001 requirements.
+```
+`Output format: Supplier Evaluation Template (Excel) + Performance Report (PDF).`
 
-Output format: Supplier Evaluation Template (Excel) + Performance Report (PDF).
+`Input Files & Code Section:`
+```
 
-Input Files & Code Section:
+1.Supplier list with past order data.
 
+2.Quality inspection reports.
 
-Supplier list with past order data.
-
-Quality inspection reports.
-
-Procurement policy."
-
+3.Procurement policy."
+```
 Prompt 3 — Just-in-Time (JIT) Inventory Planning
 
 Backstory: Excess inventory is tying up capital, while shortages sometimes halt production.
