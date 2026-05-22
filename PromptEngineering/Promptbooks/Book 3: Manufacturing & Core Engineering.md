@@ -3443,16 +3443,17 @@ Your task:
 
 3.Safety department contact list."
 ```
-Prompt 24 — AI-Powered Safety Violation Detection Guide
+## Prompt 24 — AI-Powered Safety Violation Detection Guide
 
-Backstory: You want to use AI and cameras to detect safety violations in real-time.
+`Backstory: You want to use AI and cameras to detect safety violations in real-time.`
 
-Goal: Create a guide for setting up AI-based safety monitoring.
+`Goal: Create a guide for setting up AI-based safety monitoring.`
 
-Prompt:
+`Prompt:`
 
-"You are an AI Safety Tech Advisor. Prepare a guide for deploying AI-based safety violation detection.
+`"You are an AI Safety Tech Advisor. Prepare a guide for deploying AI-based safety violation detection.`
 
+```
 Your task:
 
 
@@ -3465,18 +3466,18 @@ Your task:
 4. Provide integration plan with existing systems.
 
 5. Include legal considerations for surveillance.
+```
+`Output format: AI Safety Detection Guide (PDF) + Equipment List (Excel).`
 
-Output format: AI Safety Detection Guide (PDF) + Equipment List (Excel).
+`Input Files & Code Section:`
+```
 
-Input Files & Code Section:
+1. Factory layout.
 
+2.Current surveillance setup.
 
-- Factory layout.
-
-- Current surveillance setup.
-
-- IT infrastructure details."
-
+3.IT infrastructure details."
+```
 Prompt 25 — Multi-Language Safety Documentation Pack
 
 Backstory: Workers in your facility speak different languages, requiring multilingual safety documents.
