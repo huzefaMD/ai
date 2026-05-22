@@ -4006,16 +4006,17 @@ Your task:
 
 3.Approval matrix."
 ```
-Prompt 15 — Green Supply Chain Strategy
+## Prompt 15 — Green Supply Chain Strategy
 
-Backstory: Your company wants to reduce carbon footprint in the supply chain.
+`Backstory: Your company wants to reduce carbon footprint in the supply chain.`
 
-Goal: Develop an environmentally sustainable supply chain plan.
+`Goal: Develop an environmentally sustainable supply chain plan.`
 
-Prompt:
+`Prompt:`
 
-"You are a Sustainable Logistics Consultant. Create a green supply chain strategy for my manufacturing operations.
+`"You are a Sustainable Logistics Consultant. Create a green supply chain strategy for my manufacturing operations.`
 
+```
 Your task:
 
 
@@ -4028,28 +4029,29 @@ Your task:
 4. Track carbon emissions.
 
 5. Provide annual sustainability reports.
+```
+`Output format: Green Supply Chain Plan (Word) + Carbon Tracking Sheet (Excel).`
 
-Output format: Green Supply Chain Plan (Word) + Carbon Tracking Sheet (Excel).
+`Input Files & Code Section:`
+```
 
-Input Files & Code Section:
+1.Supplier environmental certifications.
 
+2.Transportation data.
 
-Supplier environmental certifications.
+3.Packaging material specs."
+```
+## Prompt 16 — Cross-Border Trade Compliance Manual
 
-Transportation data.
+`Backstory: Your company is expanding to international markets, but customs clearance delays are costing time and money. Many suppliers and internal teams are unfamiliar with export-import documentation, tariffs, and compliance procedures for different countries. Without a clear manual, mistakes in paperwork or classification codes can lead to shipments being held at ports for weeks.`
 
-Packaging material specs."
+`Goal: Develop a detailed cross-border trade compliance manual tailored to your industry.`
 
-Prompt 16 — Cross-Border Trade Compliance Manual
+`Prompt:`
 
-Backstory: Your company is expanding to international markets, but customs clearance delays are costing time and money. Many suppliers and internal teams are unfamiliar with export-import documentation, tariffs, and compliance procedures for different countries. Without a clear manual, mistakes in paperwork or classification codes can lead to shipments being held at ports for weeks.
+`"You are an International Trade Compliance Specialist. Create a comprehensive manual for managing cross-border trade for my manufacturing business.`
 
-Goal: Develop a detailed cross-border trade compliance manual tailored to your industry.
-
-Prompt:
-
-"You are an International Trade Compliance Specialist. Create a comprehensive manual for managing cross-border trade for my manufacturing business.
-
+```
 Your task:
 
 
@@ -4062,28 +4064,29 @@ Your task:
 4. Provide a checklist for customs clearance in India and top export countries.
 
 5. Suggest internal SOPs to ensure compliance across procurement, production, and logistics.
+```
+`Output format: Cross-Border Trade Manual (PDF) + Country-wise Customs Checklist (Excel).`
 
-Output format: Cross-Border Trade Manual (PDF) + Country-wise Customs Checklist (Excel).
+`Input Files & Code Section:`
+```
 
-Input Files & Code Section:
+1.Product descriptions and specs.
 
+2.List of countries we ship to.
 
-Product descriptions and specs.
+3.Past customs clearance issues."
+```
+## Prompt 17 — AI-Based Supplier Risk Scoring Model
 
-List of countries we ship to.
+`Backstory: Some suppliers are financially unstable or have inconsistent quality, which poses a risk to production continuity. Your current supplier selection process doesn’t factor in long-term risk indicators like financial health, geopolitical stability, or compliance history.`
 
-Past customs clearance issues."
+`Goal: Build an AI-driven scoring model to proactively identify high-risk suppliers.`
 
-Prompt 17 — AI-Based Supplier Risk Scoring Model
+`Prompt:`
 
-Backstory: Some suppliers are financially unstable or have inconsistent quality, which poses a risk to production continuity. Your current supplier selection process doesn’t factor in long-term risk indicators like financial health, geopolitical stability, or compliance history.
+`"You are a Supply Chain Risk Data Scientist. Develop an AI model to score suppliers based on risk factors.`
 
-Goal: Build an AI-driven scoring model to proactively identify high-risk suppliers.
-
-Prompt:
-
-"You are a Supply Chain Risk Data Scientist. Develop an AI model to score suppliers based on risk factors.
-
+```
 Your task:
 
 
@@ -4096,28 +4099,29 @@ Your task:
 4. Generate an automated risk score for each supplier.
 
 5. Provide recommendations for mitigating high-risk partnerships.
+```
+`Output format: Risk Scoring Model Documentation (Word) + Supplier Risk Dashboard (Excel/Tableau).`
 
-Output format: Risk Scoring Model Documentation (Word) + Supplier Risk Dashboard (Excel/Tableau).
+`Input Files & Code Section:`
+```
 
-Input Files & Code Section:
+1.Historical supplier data.
 
+2.Public financial and compliance reports.
 
-Historical supplier data.
+3.Country risk index dataset."
+```
+## Prompt 18 — Vendor-Managed Inventory (VMI) Agreement Framework
 
-Public financial and compliance reports.
+`Backstory: Your suppliers often deliver late or in excess because they don’t have accurate visibility of your stock levels. This leads to either production halts or overstocking. Vendor-Managed Inventory allows suppliers to monitor and replenish stock themselves — but it requires a clear agreement.`
 
-Country risk index dataset."
+`Goal: Create a legally compliant and operationally clear VMI framework.`
 
-Prompt 18 — Vendor-Managed Inventory (VMI) Agreement Framework
+`Prompt:`
 
-Backstory: Your suppliers often deliver late or in excess because they don’t have accurate visibility of your stock levels. This leads to either production halts or overstocking. Vendor-Managed Inventory allows suppliers to monitor and replenish stock themselves — but it requires a clear agreement.
+`"You are a VMI Implementation Consultant. Create a vendor-managed inventory (VMI) agreement framework for my business.`
 
-Goal: Create a legally compliant and operationally clear VMI framework.
-
-Prompt:
-
-"You are a VMI Implementation Consultant. Create a vendor-managed inventory (VMI) agreement framework for my business.
-
+```
 Your task:
 
 
@@ -4130,18 +4134,18 @@ Your task:
 4. Include dispute resolution and penalty clauses.
 
 5. Provide templates for weekly replenishment schedules.
+```
+`Output format: VMI Agreement Template (Word) + Replenishment Tracker (Excel).`
 
-Output format: VMI Agreement Template (Word) + Replenishment Tracker (Excel).
+`Input Files & Code Section:`
+```
 
-Input Files & Code Section:
+1.Current supplier list.
 
+2.Inventory turnover reports.
 
-Current supplier list.
-
-Inventory turnover reports.
-
-ERP integration capabilities."
-
+3.ERP integration capabilities."
+```
 Prompt 19 — Supply Chain Crisis Communication Protocol
 
 Backstory: When a shipment delay or raw material shortage happens, your team scrambles to inform customers, suppliers, and internal departments. The lack of a structured communication protocol causes confusion and customer dissatisfaction.
