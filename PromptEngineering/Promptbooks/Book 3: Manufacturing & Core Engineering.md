@@ -3866,16 +3866,17 @@ Your task:
 
 3.Demand forecasts."
 ```
-Prompt 11 — Blockchain-Based Supply Chain Transparency Plan
+## Prompt 11 — Blockchain-Based Supply Chain Transparency Plan
 
-Backstory: Customers want proof of ethical sourcing and authenticity.
+`Backstory: Customers want proof of ethical sourcing and authenticity.`
 
-Goal: Create a blockchain integration plan for supply chain transparency.
+`Goal: Create a blockchain integration plan for supply chain transparency.`
 
-Prompt:
+`Prompt:`
 
-"You are a Blockchain Supply Chain Expert. Design a blockchain system for transparent supply tracking.
+`"You are a Blockchain Supply Chain Expert. Design a blockchain system for transparent supply tracking.`
 
+```
 Your task:
 
 
@@ -3888,18 +3889,18 @@ Your task:
 4. Include consumer-facing verification options (QR codes).
 
 5. Provide a cost-benefit analysis.
+```
+`Output format: Blockchain Integration Plan (PDF) + Data Flow Diagram (PNG).`
 
-Output format: Blockchain Integration Plan (PDF) + Data Flow Diagram (PNG).
+`Input Files & Code Section:`
+```
 
-Input Files & Code Section:
+1.Supply chain process map.
 
+2.Product certification requirements.
 
-Supply chain process map.
-
-Product certification requirements.
-
-IT infrastructure details."
-
+3.IT infrastructure details."
+```
 Prompt 12 — Supplier Onboarding Kit
 
 Backstory: New suppliers often take weeks to align with your standards.
