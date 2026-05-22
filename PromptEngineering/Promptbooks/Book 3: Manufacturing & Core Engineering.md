@@ -2883,16 +2883,17 @@ Your task:
 
 3.Applicable safety standards."
 ```
-Prompt 8 — ISO 45001 Health & Safety Management System Documentation
+## Prompt 8 — ISO 45001 Health & Safety Management System Documentation
 
-Backstory: Your company wants ISO 45001 certification for occupational health and safety.
+`Backstory: Your company wants ISO 45001 certification for occupational health and safety.`
 
-Goal: Develop the documentation required for ISO 45001 compliance.
+`Goal: Develop the documentation required for ISO 45001 compliance.`
 
-Prompt:
+`Prompt:`
 
-"You are an ISO 45001 Documentation Specialist. Prepare the necessary documents for my manufacturing unit.
+`"You are an ISO 45001 Documentation Specialist. Prepare the necessary documents for my manufacturing unit.`
 
+```
 Your task:
 
 
@@ -2905,17 +2906,17 @@ Your task:
 4. Include internal audit checklist.
 
 5. Provide a certification readiness roadmap.
+```
+`Output format: ISO 45001 Documentation Pack (Word/PDF) + Audit Checklist (Excel).`
 
-Output format: ISO 45001 Documentation Pack (Word/PDF) + Audit Checklist (Excel).
+`Input Files & Code Section:`
+```
 
-Input Files & Code Section:
+1. Company profile.
 
-
-- Company profile.
-
-- Existing safety procedures.
-
-Risk assessment reports."
+2. Existing safety procedures.
+```
+`Risk assessment reports."`
 
 Prompt 9 — Chemical Safety Data Sheet (SDS) Creation
 
