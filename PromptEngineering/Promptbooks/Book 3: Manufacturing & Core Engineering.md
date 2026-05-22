@@ -1719,7 +1719,7 @@ Your task:
 
 2.Equipment maintenance costs.
 ```
-`Rework logs."`
+# Rework logs."
 
 ## Prompt 25 — AI-Integrated QC Dashboard Creation
 
