@@ -3831,16 +3831,17 @@ Your task:
 
 3.Risk assessment data."
 ```
-Prompt 10 — Procurement Cost Optimization Strategy
+## Prompt 10 — Procurement Cost Optimization Strategy
 
-Backstory: Procurement costs are eating into profit margins.
+`Backstory: Procurement costs are eating into profit margins.`
 
-Goal: Identify cost-saving opportunities in procurement.
+`Goal: Identify cost-saving opportunities in procurement.`
 
-Prompt:
+`Prompt:`
 
-"You are a Procurement Strategy Consultant. Create a cost optimization strategy for my manufacturing supply chain.
+`"You are a Procurement Strategy Consultant. Create a cost optimization strategy for my manufacturing supply chain.`
 
+```
 Your task:
 
 
@@ -3853,18 +3854,18 @@ Your task:
 4. Explore group buying with other companies.
 
 5. Include vendor negotiation tactics.
+```
+`Output format: Cost Optimization Report (PDF) + Supplier Negotiation Checklist (Word).`
 
-Output format: Cost Optimization Report (PDF) + Supplier Negotiation Checklist (Word).
+`Input Files & Code Section:`
+```
 
-Input Files & Code Section:
+1.Purchase history.
 
+2.Supplier pricing lists.
 
-Purchase history.
-
-Supplier pricing lists.
-
-Demand forecasts."
-
+3.Demand forecasts."
+```
 Prompt 11 — Blockchain-Based Supply Chain Transparency Plan
 
 Backstory: Customers want proof of ethical sourcing and authenticity.
