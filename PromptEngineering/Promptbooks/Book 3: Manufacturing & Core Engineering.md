@@ -2778,16 +2778,17 @@ Your task:
 
 3.Maintenance schedule."
 ```
-Prompt 5 — Workplace Safety Audit Template
+## Prompt 5 — Workplace Safety Audit Template
 
-Backstory: You want to regularly assess safety compliance in your facility without hiring external auditors each time.
+`Backstory: You want to regularly assess safety compliance in your facility without hiring external auditors each time.`
 
-Goal: Create a self-audit checklist for safety compliance.
+`Goal: Create a self-audit checklist for safety compliance.`
 
-Prompt:
+`Prompt:`
 
-"You are a Workplace Safety Auditor. Design a safety audit template for my manufacturing facility.
+`"You are a Workplace Safety Auditor. Design a safety audit template for my manufacturing facility.`
 
+```
 Your task:
 
 
@@ -2800,18 +2801,18 @@ Your task:
 4. Make it usable for both digital and paper formats.
 
 5. Provide guidelines for corrective action follow-up.
+```
+`Output format: Safety Audit Checklist (Excel/PDF) + Corrective Action Template.`
 
-Output format: Safety Audit Checklist (Excel/PDF) + Corrective Action Template.
+`Input Files & Code Section:`
+```
 
-Input Files & Code Section:
+1. Existing safety policies.
 
+2.Factory layout diagram.
 
-- Existing safety policies.
-
-- Factory layout diagram.
-
-- Regulatory compliance list."
-
+3.Regulatory compliance list."
+```
 Prompt 6 — Personal Protective Equipment (PPE) Compliance Tracker
 
 Backstory: Ensuring that all workers use the correct PPE daily can be challenging without a tracking system.
