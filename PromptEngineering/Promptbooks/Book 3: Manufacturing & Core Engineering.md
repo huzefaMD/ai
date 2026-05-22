@@ -2495,16 +2495,17 @@ Your task:
 
 3.Ergonomic standard references."
 ```
-Prompt 22 — AI-Assisted Tolerance Stack-Up Analysis
+## Prompt 22 — AI-Assisted Tolerance Stack-Up Analysis
 
-Backstory: You want to ensure that manufacturing tolerances won’t cause assembly issues.
+`Backstory: You want to ensure that manufacturing tolerances won’t cause assembly issues.`
 
-Goal: Perform tolerance stack-up analysis on assembly.
+`Goal: Perform tolerance stack-up analysis on assembly.`
 
-Prompt:
+`Prompt:`
 
-"You are an AI Tolerance Analysis Expert. Conduct a stack-up analysis for my CAD assembly.
+`"You are an AI Tolerance Analysis Expert. Conduct a stack-up analysis for my CAD assembly.`
 
+```
 Your task:
 
 
@@ -2517,18 +2518,18 @@ Your task:
 4. Suggest tolerance adjustments.
 
 5. Provide updated drawings.
+```
+`Output format: Tolerance stack-up report (PDF) + revised CAD file.`
 
-Output format: Tolerance stack-up report (PDF) + revised CAD file.
+`Input Files & Code Section:`
+```
 
-Input Files & Code Section:
+1. CAD assembly file.
 
+2.Tolerance table.
 
-- CAD assembly file.
-
-- Tolerance table.
-
-- Manufacturing process capabilities."
-
+3. Manufacturing process capabilities."
+```
 Prompt 23 — 3D Printing-Ready CAD Preparation
 
 Backstory: You want to produce a prototype via 3D printing but need to prepare the CAD file.
