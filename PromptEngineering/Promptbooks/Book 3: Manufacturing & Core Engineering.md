@@ -3478,16 +3478,17 @@ Your task:
 
 3.IT infrastructure details."
 ```
-Prompt 25 — Multi-Language Safety Documentation Pack
+## Prompt 25 — Multi-Language Safety Documentation Pack
 
-Backstory: Workers in your facility speak different languages, requiring multilingual safety documents.
+`Backstory: Workers in your facility speak different languages, requiring multilingual safety documents.`
 
-Goal: Create a multilingual safety documentation kit.
+`Goal: Create a multilingual safety documentation kit.`
 
-Prompt:
+`Prompt:`
 
-"You are a Safety Communication Specialist. Translate and adapt safety documents into multiple languages for my workforce.
+`"You are a Safety Communication Specialist. Translate and adapt safety documents into multiple languages for my workforce.`
 
+```
 Your task:
 
 
@@ -3500,18 +3501,18 @@ Your task:
 4. Create QR codes linking to audio safety instructions.
 
 5. Maintain a master version for updates.
+```
+`Output format: Multilingual Safety Pack (PDF/MP3) + QR Code Directory (Excel).`
 
-Output format: Multilingual Safety Pack (PDF/MP3) + QR Code Directory (Excel).
+`Input Files & Code Section:`
+```
 
-Input Files & Code Section:
+1. Existing safety manuals.
 
+2.List of required languages.
 
-- Existing safety manuals.
-
-- List of required languages.
-
-- Workforce demographics."
-
+3.Workforce demographics."
+```
 
 # Supply Chain Coordination
 
