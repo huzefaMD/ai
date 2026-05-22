@@ -2215,18 +2215,18 @@ Your task:
 
 3. Branding guidelines."
 ````
-Prompt 14 — CAE Optimization for Energy Efficiency
+## Prompt 14 — CAE Optimization for Energy Efficiency
 
-Backstory: Your product consumes energy in operation, and you want to make it more efficient.
+`Backstory: Your product consumes energy in operation, and you want to make it more efficient.`
 
-Goal: Run simulations to reduce energy consumption.
+`Goal: Run simulations to reduce energy consumption.`
 
-Prompt:
+`Prompt:`
 
-"You are an AI Energy Efficiency Optimizer. Analyze my CAD/CAE model for energy-saving opportunities.
+`"You are an AI Energy Efficiency Optimizer. Analyze my CAD/CAE model for energy-saving opportunities.`
 
+```
 Your task:
-
 
 1. Simulate operating conditions.
 
@@ -2237,6 +2237,7 @@ Your task:
 4. Re-run simulation to compare improvements.
 
 5. Provide projected energy savings.
+```
 
 Output format: Energy optimization report (PDF) + updated CAD file.
 
