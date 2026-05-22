@@ -3340,129 +3340,194 @@ Inputs Needed:
 3. Warehouse access logs."
 
 Prompt 21 — Inventory Replenishment Budget Planner
+
 Backstory: Your finance team needs a clear picture of monthly cash flow for stock purchases without overstocking.
+
 Goal: Build an AI-assisted replenishment budget planner.
 
 Prompt:
+
 "You are an Inventory Finance Planner. Create a replenishment budgeting tool.
 
 Tasks:
 
-Forecast replenishment needs by SKU.
-Allocate budget based on profitability and seasonality.
-Suggest reorder frequency based on lead time and demand.
-Include a buffer for emergency stock buys.
-Generate monthly budget forecast reports.
+1. Forecast replenishment needs by SKU.
+
+2. Allocate budget based on profitability and seasonality.
+
+3. Suggest reorder frequency based on lead time and demand.
+
+4. Include a buffer for emergency stock buys.
+
+5. Generate monthly budget forecast reports.
+
 Output Format:
 
-Budget Planning Tool (Excel)
-Replenishment Calendar (Excel)
-Monthly Forecast Report (DOCX)
+1. Budget Planning Tool (Excel)
+
+2. Replenishment Calendar (Excel)
+
+3. Monthly Forecast Report (DOCX)
+
 Inputs Needed:
 
-SKU cost and profit margin
-Sales forecasts
-Lead time data."
+1. SKU cost and profit margin
+
+2. Sales forecasts
+
+3. Lead time data."
 
 Prompt 22 — Backorder Management System
+
 Backstory: Your customized furniture business often gets orders for items not in stock yet, leading to customer dissatisfaction.
+
 Goal: Create a transparent backorder management process.
 
 Prompt:
+
 "You are an E-commerce Order Flow Specialist. Build a backorder management system.
 
 Tasks:
 
-Define clear customer communication templates for backorders.
-Suggest automation to update backorder statuses in CRM.
-Create alerts for when backordered items are back in stock.
-Provide alternative product suggestions to customers.
-Include metrics to track backorder fulfillment rate.
+1. Define clear customer communication templates for backorders.
+
+2. Suggest automation to update backorder statuses in CRM.
+
+3. Create alerts for when backordered items are back in stock.
+
+4. Provide alternative product suggestions to customers.
+
+5. Include metrics to track backorder fulfillment rate.
+
 Output Format:
 
-Backorder SOP (DOCX)
-CRM Integration Workflow (PDF)
-Communication Templates (Excel)
+1. Backorder SOP (DOCX)
+
+2. CRM Integration Workflow (PDF)
+
+3. Communication Templates (Excel)
+
 Inputs Needed:
 
-Production timelines
-CRM API access
-Product substitution list."
+1. Production timelines
+
+2. CRM API access
+
+3. Product substitution list."
 
 Prompt 23 — Cross-Docking Workflow
+
 Backstory: You want to move fast-moving SKUs directly from supplier trucks to delivery vans without storing them in warehouses.
+
 Goal: Implement a cross-docking process for speed and cost savings.
 
 Prompt:
+
 "You are a Logistics Process Designer. Create a cross-docking SOP.
 
 Tasks:
 
-Define product eligibility criteria for cross-docking.
-Map supplier-to-dispatch timing alignment.
-Suggest scanning & verification process to avoid errors.
-Provide contingency plans for supplier delays.
-Recommend performance KPIs for cross-docking efficiency.
+1. Define product eligibility criteria for cross-docking.
+
+2. Map supplier-to-dispatch timing alignment.
+
+3. Suggest scanning & verification process to avoid errors.
+
+4. Provide contingency plans for supplier delays.
+
+5. Recommend performance KPIs for cross-docking efficiency.
+
 Output Format:
 
-Cross-Docking SOP (DOCX)
-Process Flow Diagram (PDF)
-Supplier Scheduling Template (Excel)
+1. Cross-Docking SOP (DOCX)
+
+2. Process Flow Diagram (PDF)
+
+3. Supplier Scheduling Template (Excel)
+
 Inputs Needed:
 
-Supplier delivery schedules
-SKU velocity data
-Dispatch capacity details."
+1. Supplier delivery schedules
+
+2. SKU velocity data
+
+3. Dispatch capacity details."
 
 Prompt 24 — Returns-Driven Inventory Planning
+
 Backstory: Your fashion store sees 15% returns on average due to size/fit issues, which affects replenishment planning.
+
 Goal: Build a replenishment system that factors in returns data.
 
 Prompt:
+
 "You are an E-commerce Returns Data Analyst. Create a returns-driven inventory planning model.
 
 Tasks:
 
-Analyze returns by SKU to identify patterns.
-Adjust reorder quantities based on net sales after returns.
-Suggest product design changes to reduce returns.
-Recommend return-specific promotions to clear returned stock.
-Provide a dashboard for tracking return-adjusted stock levels.
+1. Analyze returns by SKU to identify patterns.
+
+2. Adjust reorder quantities based on net sales after returns.
+
+3. Suggest product design changes to reduce returns.
+
+4. Recommend return-specific promotions to clear returned stock.
+
+5. Provide a dashboard for tracking return-adjusted stock levels.
+
 Output Format:
 
-Returns Analysis Report (Excel)
-Planning Model Script (Python/Excel)
-Dashboard Mockup (PDF)
+1. Returns Analysis Report (Excel)
+
+2. Planning Model Script (Python/Excel)
+
+3. Dashboard Mockup (PDF)
+
 Inputs Needed:
 
-SKU-level return data
-Sales data
-Product feedback reports."
+1. SKU-level return data
+
+2. Sales data
+
+3. Product feedback reports."
 
 Prompt 25 — Inventory KPI Tracking & Reporting
+
 Backstory: Your CEO wants a monthly one-page inventory health report to track performance.
+
 Goal: Build a KPI tracking system for inventory management.
 
 Prompt:
+
 "You are an Inventory Performance Analyst. Create a KPI dashboard and reporting workflow.
 
 Tasks:
 
-Define core KPIs: Stock Turnover, Fill Rate, Aging Stock %, Stockout Rate.
-Suggest data sources and automation tools for collection.
-Create a one-page management report template.
-Include traffic light (RAG) indicators for performance.
-Recommend monthly review process.
+1. Define core KPIs: Stock Turnover, Fill Rate, Aging Stock %, Stockout Rate.
+
+2. Suggest data sources and automation tools for collection.
+
+3. Create a one-page management report template.
+
+4. Include traffic light (RAG) indicators for performance.
+
+5. Recommend monthly review process.
+
 Output Format:
 
-KPI Dashboard (Power BI/Excel)
-Report Template (DOCX)
-Review Meeting Agenda (PDF)
+1. KPI Dashboard (Power BI/Excel)
+
+2. Report Template (DOCX)
+
+3. Review Meeting Agenda (PDF)
+
 Inputs Needed:
 
-Inventory system data
-Sales data
-KPI benchmarks."
+1. Inventory system data
+
+2. Sales data
+
+3. KPI benchmarks."
 
 
 Seasonal Sale Strategies
