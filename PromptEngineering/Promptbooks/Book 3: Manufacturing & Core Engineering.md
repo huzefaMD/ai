@@ -3268,16 +3268,17 @@ Your task:
 
 3. Available training budget."
 ```
-Prompt 19 — Factory Emergency Response Simulation Plan
+## Prompt 19 — Factory Emergency Response Simulation Plan
 
-Backstory: You want to test your plant’s readiness for emergencies through realistic drills.
+`Backstory: You want to test your plant’s readiness for emergencies through realistic drills.`
 
-Goal: Create a simulation plan for various emergency scenarios.
+`Goal: Create a simulation plan for various emergency scenarios.`
 
-Prompt:
+`Prompt:`
 
-"You are an Emergency Drill Planner. Develop a plant-specific emergency response simulation plan.
+`"You are an Emergency Drill Planner. Develop a plant-specific emergency response simulation plan.`
 
+```
 Your task:
 
 
@@ -3290,18 +3291,18 @@ Your task:
 4. Provide post-drill evaluation templates.
 
 5. Suggest improvement strategies based on drill results.
+```
+`Output format: Simulation Plan (PDF) + Drill Evaluation Sheet (Excel).`
 
-Output format: Simulation Plan (PDF) + Drill Evaluation Sheet (Excel).
+`Input Files & Code Section:`
+```
 
-Input Files & Code Section:
+1. Plant floor plan.
 
+2.Emergency contact list.
 
-- Plant floor plan.
-
-- Emergency contact list.
-
-- List of past emergency incidents."
-
+3.List of past emergency incidents."
+```
 Prompt 20 — Workplace Health Monitoring Program
 
 Backstory: Workers in certain areas are exposed to dust, noise, or chemicals, requiring regular health checks.
