@@ -2236,24 +2236,194 @@ Input Files Required:
 2. Bonus content library."
 
 Prompt 16 — Scripts for Refund Processing Updates
+
 Backstory: A customer returned a Bluetooth speaker and is waiting for their refund. It’s been 7 days and they’re anxious, fearing they’ve been scammed.
+
 Goal: Provide transparent and reassuring updates during refund processing.
 
 Prompt:
+
 "You are an E-commerce Refund Communication Specialist. Write scripts to update customers on refund status.
 
 Tasks:
 
-Create 3 proactive updates via email/SMS at key refund stages (received, processing, completed).
-Provide 2 reactive scripts for incoming refund inquiries.
-Suggest phrases for reinforcing trust and policy compliance.
-Include placeholders for transaction ID, amount, and expected date.
-Maintain friendly yet professional tone to reduce anxiety.
+1. Create 3 proactive updates via email/SMS at key refund stages (received, processing, completed).
+
+2. Provide 2 reactive scripts for incoming refund inquiries.
+
+3. Suggest phrases for reinforcing trust and policy compliance.
+
+4. Include placeholders for transaction ID, amount, and expected date.
+
+5. Maintain friendly yet professional tone to reduce anxiety.
+
 Output format:
 
-Refund Update Script Pack (DOCX)
-Refund Timeline Template (Excel)
+1. Refund Update Script Pack (DOCX)
+
+2. Refund Timeline Template (Excel)
+
 Input Files Required:
 
-Refund policy document
+1. Refund policy document
+
 Payment gateway processing times."
+
+Prompt 17 — Educating Customers About Loyalty Program Benefits
+
+Backstory: A customer regularly purchases from your organic food brand but has never joined the loyalty program.
+
+Goal: Create scripts to explain benefits and encourage sign-ups without sounding pushy.
+
+Prompt:
+
+"You are a Loyalty Program Promotion Specialist. Write scripts to educate and convert customers into members.
+
+Tasks:
+
+1. Create 3 explainer scripts for chat/email introducing the program.
+
+2. Highlight 3 key benefits (discounts, early access, bonus gifts).
+
+3. Provide scripts for following up if customer shows interest but doesn’t sign up.
+
+4. Add placeholders for referral links and membership codes.
+
+5. Maintain an engaging, value-focused tone.
+
+Output format:
+
+1. Loyalty Program Script Pack (DOCX)
+
+2. Benefit Highlights Sheet (Excel)
+
+Input Files Required:
+
+1. Loyalty program policy
+
+2. Rewards structure."
+
+Prompt 18 — Scripts for Handling Bulk Order Inquiries
+
+Backstory: A corporate client wants to order 500 custom mugs for an event. They need quick cost estimates and delivery timelines.
+
+Goal: Provide bulk order scripts that are professional and fast to convert.
+
+Prompt:
+
+"You are an E-commerce Bulk Order Specialist. Write scripts for handling bulk purchase inquiries.
+
+Tasks:
+
+1. Create 3 quick-response templates for email/chat acknowledging the request.
+
+2. Provide 2 scripts offering bulk discount breakdown.
+
+3. Suggest phrases for confirming design specifications.
+
+4. Include placeholders for unit cost, delivery date, and payment terms.
+
+5. Maintain a tone that is professional yet accommodating.
+
+Output format:
+
+1. Bulk Order Script Pack (DOCX)
+
+2. Quotation Template (Excel)
+
+Input Files Required:
+
+1. Bulk order pricing sheet
+
+2. Supplier lead times."
+
+Prompt 19 — Addressing Negative Reviews Proactively
+
+Backstory: A customer left a 1-star review for a kitchen mixer grinder due to noise level. They didn’t contact customer service before posting.
+
+Goal: Create scripts for reaching out to unhappy reviewers and offering solutions.
+
+Prompt:
+
+"You are an E-commerce Reputation Management Specialist. Write scripts for addressing negative reviews.
+
+Tasks:
+
+1. Write 3 outreach scripts for email/chat offering assistance.
+
+2. Provide 2 templates for posting public replies to negative reviews.
+
+3. Suggest phrases for inviting customers to revise their review after resolution.
+
+4. Include placeholders for product name, review link, and resolution offer.
+
+5. Maintain a tone of humility and accountability.
+
+Output format:
+
+1. Review Response Script Pack (DOCX)
+
+2. Review Follow-Up Tracker (Excel)
+
+Input Files Required:
+
+1. Review monitoring dashboard
+
+Customer service history."
+
+Prompt 20 — Scripts for Educating Customers on Shipping Cut-Off Times
+
+Backstory: A customer wants same-day delivery for a gift hamper, but places the order after the cut-off time.
+
+Goal: Clearly communicate cut-off policies and suggest alternatives.
+
+Prompt:
+
+"You are a Shipping Policy Communication Expert. Write scripts for explaining order cut-off times.
+
+Tasks:
+
+1. Create 3 chat/email templates explaining missed cut-off politely.
+
+2. Suggest alternative delivery options (next-day, express).
+
+3. Provide proactive scripts to prevent missed cut-offs in future.
+
+4. Include placeholders for cut-off time and delivery availability.
+
+5. Maintain helpful, non-blaming tone.
+
+Output format:
+
+1. Cut-Off Communication Script Pack (DOCX)
+
+2. Delivery Options Chart (Excel)
+
+Input Files Required:
+
+1. Delivery partner timelines
+
+2. Cut-off policy document."
+
+Prompt 21 — Scripts for Product Availability Notifications
+Backstory: A customer requested a notification for restock of a sold-out skincare serum.
+Goal: Create scripts that inform customers when the product is available again.
+
+Prompt:
+"You are an E-commerce Customer Engagement Specialist. Write scripts for product availability notifications.
+
+Tasks:
+
+Create 3 restock announcement scripts for email/SMS.
+Include urgency elements like “limited stock” or “exclusive access.”
+Suggest upsell products to include in the notification.
+Include placeholders for product link and availability date.
+Maintain tone that encourages immediate purchase.
+Output format:
+
+Restock Notification Script Pack (DOCX)
+Upsell Product List (Excel)
+Input Files Required:
+
+Restock dates
+Related product catalog."
