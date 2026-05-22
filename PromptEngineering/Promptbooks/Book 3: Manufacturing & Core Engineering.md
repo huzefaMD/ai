@@ -879,7 +879,7 @@ Your task:
 3.ROI calculation template."
 ````
 
-`Quality Control & Inspection Protocols`
+# Quality Control & Inspection Protocols
 
 ## Prompt 1 — AI-Assisted Defect Classification System
 
