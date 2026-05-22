@@ -2460,16 +2460,17 @@ Your task:
 
 3.Part numbering system."
 ```
-Prompt 21 — AI-Based Ergonomic Design Review
+## Prompt 21 — AI-Based Ergonomic Design Review
 
-Backstory: Your product interacts with human users, so ergonomic design is critical.
+`Backstory: Your product interacts with human users, so ergonomic design is critical.`
 
-Goal: Review and optimize design for ergonomics.
+`Goal: Review and optimize design for ergonomics.`
 
-Prompt:
+`Prompt:`
 
-"You are an AI Ergonomic Design Specialist. Evaluate my CAD design for ergonomic efficiency.
+`"You are an AI Ergonomic Design Specialist. Evaluate my CAD design for ergonomic efficiency.`
 
+```
 Your task:
 
 
@@ -2482,18 +2483,18 @@ Your task:
 4. Provide compliance check with ergonomic standards.
 
 5. Supply before-and-after renders.
+```
+`Output format: Ergonomic analysis PDF + updated CAD model.`
 
-Output format: Ergonomic analysis PDF + updated CAD model.
+`Input Files & Code Section:`
+```
 
-Input Files & Code Section:
+1.CAD file.
 
+2.Target user profile data.
 
-- CAD file.
-
-- Target user profile data.
-
-- Ergonomic standard references."
-
+3.Ergonomic standard references."
+```
 Prompt 22 — AI-Assisted Tolerance Stack-Up Analysis
 
 Backstory: You want to ensure that manufacturing tolerances won’t cause assembly issues.
