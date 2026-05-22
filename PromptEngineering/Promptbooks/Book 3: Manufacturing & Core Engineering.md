@@ -3128,16 +3128,17 @@ Your task:
 
 3.Legal requirements."
 ```
-Prompt 15 — Daily Safety Briefing Template
+## Prompt 15 — Daily Safety Briefing Template
 
-Backstory: You want supervisors to conduct daily safety briefings to reinforce safety culture.
+`Backstory: You want supervisors to conduct daily safety briefings to reinforce safety culture.`
 
-Goal: Create a structured safety briefing format.
+`Goal: Create a structured safety briefing format.`
 
-Prompt:
+`Prompt:`
 
-"You are a Safety Communication Specialist. Create a daily safety briefing template for my supervisors.
+`"You are a Safety Communication Specialist. Create a daily safety briefing template for my supervisors.`
 
+```
 Your task:
 
 
@@ -3150,18 +3151,18 @@ Your task:
 4. Add motivational safety quotes.
 
 5. Make it printable and mobile-friendly.
+```
+`Output format: Safety Briefing Template (Word/PDF) + Mobile Version (HTML).`
 
-Output format: Safety Briefing Template (Word/PDF) + Mobile Version (HTML).
+`Input Files & Code Section:`
+```
 
-Input Files & Code Section:
+1. Common hazards list.
 
+2.Past incident summaries.
 
-- Common hazards list.
-
-- Past incident summaries.
-
-- Company branding guidelines."
-
+3.Company branding guidelines."
+```
 Prompt 16 — Workplace Hazard Risk Assessment Report
 
 Backstory: Your factory must regularly identify, assess, and rank potential hazards to prevent incidents.
