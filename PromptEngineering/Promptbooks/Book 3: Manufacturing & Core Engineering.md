@@ -3023,16 +3023,17 @@ Your task:
 ```
 `Safety inspection history."`
 
-Prompt 12 — First Aid & Emergency Medical Response Plan
+## Prompt 12 — First Aid & Emergency Medical Response Plan
 
-Backstory: Your facility needs a ready-to-use emergency medical plan for workplace accidents.
+`Backstory: Your facility needs a ready-to-use emergency medical plan for workplace accidents.`
 
-Goal: Create a first aid and emergency medical response plan.
+`Goal: Create a first aid and emergency medical response plan.`
 
-Prompt:
+`Prompt:`
 
-"You are a First Aid Response Planner. Develop a medical response plan for my factory.
+`"You are a First Aid Response Planner. Develop a medical response plan for my factory.`
 
+```
 Your task:
 
 
@@ -3045,18 +3046,18 @@ Your task:
 4. Provide training schedule for first aid drills.
 
 5. Include a first aid kit inventory checklist.
+```
+`Output format: Emergency Medical Plan (PDF) + First Aid Kit Checklist (Excel).`
 
-Output format: Emergency Medical Plan (PDF) + First Aid Kit Checklist (Excel).
+`Input Files & Code Section:`
+```
 
-Input Files & Code Section:
+1. Workplace injury history.
 
+2.Employee roster.
 
-- Workplace injury history.
-
-- Employee roster.
-
-- Local hospital contact list."
-
+3.Local hospital contact list."
+```
 Prompt 13 — Safety Signage Design for Manufacturing Facility
 
 Backstory: You want consistent, standard-compliant safety signs across your plant.
