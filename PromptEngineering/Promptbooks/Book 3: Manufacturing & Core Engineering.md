@@ -2708,16 +2708,17 @@ Your task:
 ```
 `Building occupancy capacity."`
 
-Prompt 3 — Hazardous Materials Handling Protocol (HAZMAT)
+## Prompt 3 — Hazardous Materials Handling Protocol (HAZMAT)
 
-Backstory: Your facility uses chemicals and other hazardous materials, requiring safe storage, handling, and disposal guidelines.
+`Backstory: Your facility uses chemicals and other hazardous materials, requiring safe storage, handling, and disposal guidelines.`
 
-Goal: Develop a HAZMAT safety protocol aligned with GHS (Globally Harmonized System) and local laws.
+`Goal: Develop a HAZMAT safety protocol aligned with GHS (Globally Harmonized System) and local laws.`
 
-Prompt:
+`Prompt:`
 
-"You are a Hazardous Materials Safety Officer. Develop a hazardous materials handling protocol for my manufacturing unit.
+`"You are a Hazardous Materials Safety Officer. Develop a hazardous materials handling protocol for my manufacturing unit.`
 
+```
 Your task:
 
 
@@ -2730,18 +2731,18 @@ Your task:
 4. Outline emergency spill cleanup procedures.
 
 5. Include disposal methods that meet environmental regulations.
+```
+`Output format: HAZMAT Protocol Document (PDF) + Safety Labels Template (PNG).`
 
-Output format: HAZMAT Protocol Document (PDF) + Safety Labels Template (PNG).
+`Input Files & Code Section:`
+```
 
-Input Files & Code Section:
+1. List of hazardous materials used.
 
+2.Current storage arrangements.
 
-- List of hazardous materials used.
-
-- Current storage arrangements.
-
-- Local disposal regulations."
-
+3.Local disposal regulations."
+```
 Prompt 4 — Machine-Specific Lockout/Tagout (LOTO) Procedures
 
 Backstory: Your facility operates heavy machinery that must be locked out during maintenance to prevent accidents.
