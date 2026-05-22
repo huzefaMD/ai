@@ -2320,16 +2320,17 @@ Your task:
 
 3. Applicable standard (ASME/ISO)."
 ```
-Prompt 17 — Lightweight CAD Model for VR/AR Applications
+## Prompt 17 — Lightweight CAD Model for VR/AR Applications
 
-Backstory: Your detailed CAD models are too heavy for VR/AR use, making them slow to load.
+`Backstory: Your detailed CAD models are too heavy for VR/AR use, making them slow to load.`
 
-Goal: Optimize CAD models for lightweight AR/VR deployment.
+`Goal: Optimize CAD models for lightweight AR/VR deployment.`
 
-Prompt:
+`Prompt:`
 
-"You are an AI CAD Model Optimizer. Simplify my CAD model for VR/AR applications without losing essential details.
+`"You are an AI CAD Model Optimizer. Simplify my CAD model for VR/AR applications without losing essential details.`
 
+```
 Your task:
 
 
@@ -2342,18 +2343,18 @@ Your task:
 4. Test for performance on common AR/VR devices.
 
 5. Provide a performance improvement summary.
+```
+`Output format: Lightweight CAD file (.FBX/.GLTF) + optimization report.`
 
-Output format: Lightweight CAD file (.FBX/.GLTF) + optimization report.
+`Input Files & Code Section:`
+```
 
-Input Files & Code Section:
+1. Original CAD file.
 
+2.VR/AR platform details.
 
-- Original CAD file.
-
-- VR/AR platform details.
-
-- Performance targets."
-
+3.Performance targets."
+```
 Prompt 18 — AI-Generated Fixture & Jig Design
 
 Backstory: You need custom jigs and fixtures for production but lack time for detailed design work.
