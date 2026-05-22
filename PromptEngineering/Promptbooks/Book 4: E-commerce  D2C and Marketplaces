@@ -2959,4 +2959,217 @@ Inputs Needed:
 
 3. Forecasted demand per SKU."
 
+Prompt 11 — Returns & Restocking Automation
 
+Backstory: Your store receives hundreds of product returns each month, but restocking updates take days to reflect in inventory, delaying resale opportunities.
+
+Goal: Create an AI-driven return inspection and restocking process.
+
+Prompt:
+
+"You are an E-commerce Returns Process Optimizer. Automate returns inspection and restocking.
+
+Tasks:
+
+1. Design a decision flow for whether returned items can be restocked, refurbished, or discarded.
+
+2. Automate status updates in the inventory system.
+
+3. Suggest return-to-stock prioritization for high-demand items.
+
+4. Include fraud detection flags for suspicious returns.
+
+5. Create a visual workflow chart.
+
+Output Format:
+
+1. Returns Automation SOP (DOCX)
+
+2. Decision Flow Diagram (PDF)
+
+3. Restocking Priority List (Excel)
+
+Inputs Needed:
+
+1. Return reason codes
+
+2. Quality inspection checklist
+
+Inventory system API access."
+
+Prompt 12 — Vendor Performance Scorecard
+
+Backstory: Your brand works with 15 suppliers, but some consistently deliver late or ship defective items.
+
+Goal: Create a vendor performance tracking system for better decision-making.
+
+Prompt:
+
+"You are a Vendor Relationship Analyst. Build a vendor performance scorecard.
+
+Tasks:
+
+1. Define KPIs like on-time delivery, defect rate, and cost variance.
+
+2. Automate monthly scorecard generation from procurement data.
+
+3. Suggest improvement plans for underperforming vendors.
+
+4. Provide a ranking table of vendors.
+
+5. Include visual performance trend charts.
+
+Output Format:
+
+1. Vendor Scorecard (Excel)
+
+2. Performance Trend Dashboard (Power BI)
+
+3. Improvement Recommendations Report (DOCX)
+
+Inputs Needed:
+
+1. Delivery logs
+
+2. Defect reports
+
+Supplier contract SLAs."
+
+Prompt 13 — Emergency Stock Transfer Protocol
+
+Backstory: Your Mumbai warehouse runs out of a best-selling Bluetooth headset mid-week, but your Delhi warehouse has surplus stock.
+
+Goal: Build a rapid stock transfer system to balance inventory without waiting for supplier replenishment.
+
+Prompt:
+
+"You are an E-commerce Stock Transfer Specialist. Design an emergency stock transfer protocol.
+
+Tasks:
+
+1. Set triggers for initiating stock transfers.
+
+2. Define transfer request format for warehouse managers.
+
+3. Include logistics partner selection criteria for speed and cost efficiency.
+
+4. Suggest a tracking process for in-transit stock.
+
+5. Provide sample internal communication templates.
+
+Output Format:
+
+1. Transfer SOP (DOCX)
+
+2. Transfer Request Form (Excel)
+
+3. Logistics Partner Comparison Sheet (Excel)
+
+Inputs Needed:
+
+1. Warehouse inventory reports
+
+2. Logistics partner SLAs
+
+3. Stock transfer cost data."
+
+Prompt 14 — Overstock Liquidation Strategy
+
+Backstory: Your apparel store has 2,000 units of last season’s jeans taking up valuable warehouse space.
+
+Goal: Build a clearance strategy to liquidate slow-moving inventory without damaging brand perception.
+
+Prompt:
+
+"You are an E-commerce Clearance Planning Expert. Create a profitable overstock liquidation plan.
+
+Tasks:
+
+1. Suggest discount levels based on aging and demand.
+
+2. Recommend clearance channels (website flash sale, B2B bulk, marketplaces).
+
+3. Create promotional campaign scripts for clearance events.
+
+4. Suggest metrics for clearance campaign success.
+
+5. Include risk mitigation strategies to avoid customer devaluation.
+
+Output Format:
+
+1. Clearance Plan Document (DOCX)
+
+2. Promotional Campaign Templates (Excel)
+
+3. Post-Campaign Analysis Sheet (Excel)
+
+Inputs Needed:
+
+1. Current stock report
+
+2. Sales history for the SKU
+
+Marketing budget."
+
+Prompt 15 — Damaged Stock Claim Management
+
+Backstory: Several pallets of glassware arrived broken from the supplier. Claim processes are slow and undocumented, delaying recovery of losses.
+
+Goal: Create a streamlined claims management system.
+
+Prompt:
+
+"You are an E-commerce Claims Process Specialist. Build a damaged stock claims SOP.
+
+Tasks:
+
+1. Create a standard claim form with mandatory photo evidence.
+
+2. Suggest automated claim submission to suppliers.
+
+3. Recommend escalation steps if claims are ignored.
+
+4. Define a tracking dashboard for claim statuses.
+
+5. Include a template for claim settlement confirmation.
+
+Output Format:
+
+1. Claims SOP (DOCX)
+
+2. Claim Form Template (Excel)
+
+3. Claims Tracking Dashboard (Power BI)
+
+Inputs Needed:
+
+1. Supplier claim policies
+
+2. Warehouse damage logs
+
+3. Insurance coverage details."
+
+Prompt 16 — Split Shipments Management
+Backstory: Your customer orders a laptop + laptop sleeve + wireless mouse. The laptop is in your Delhi warehouse, but the other items are in Bengaluru. If shipped together, delivery will take 7 days; if shipped separately, you can get the laptop to the customer in 2 days.
+Goal: Create a split shipment decision-making framework that balances customer experience with logistics costs.
+
+Prompt:
+"You are an E-commerce Logistics Optimization Specialist. Design a split shipment management strategy.
+
+Tasks:
+
+Define criteria for when to split shipments (cost vs. delivery speed trade-off).
+Create scripts for informing customers about multiple deliveries without causing confusion.
+Suggest warehouse coordination protocols for partial fulfillment.
+Provide automation workflows for splitting shipments in the OMS (Order Management System).
+Recommend metrics to evaluate split shipment efficiency.
+Output Format:
+
+Split Shipment SOP (DOCX)
+Customer Communication Templates (Excel)
+Cost vs. Speed Decision Matrix (Excel)
+Inputs Needed:
+
+Shipping cost per warehouse
+Customer delivery SLA commitments
+OMS integration capabilities."
