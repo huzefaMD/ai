@@ -3408,16 +3408,17 @@ Your task:
 
 3. HR guidelines."
 ```
-Prompt 23 — Legal Compliance Calendar for Safety Regulations
+## Prompt 23 — Legal Compliance Calendar for Safety Regulations
 
-Backstory: Missing safety-related legal deadlines can result in penalties.
+`Backstory: Missing safety-related legal deadlines can result in penalties.`
 
-Goal: Create a compliance calendar with all mandatory safety deadlines.
+`Goal: Create a compliance calendar with all mandatory safety deadlines.`
 
-Prompt:
+`Prompt:`
 
-"You are a Safety Compliance Scheduler. Prepare a legal compliance calendar for my manufacturing unit.
+`"You are a Safety Compliance Scheduler. Prepare a legal compliance calendar for my manufacturing unit.`
 
+```
 Your task:
 
 
@@ -3430,18 +3431,18 @@ Your task:
 4. Provide both yearly and monthly views.
 
 5. Make it Excel and Google Calendar compatible.
+```
+`Output format: Compliance Calendar (Excel) + Google Calendar Import File (.ics).`
 
-Output format: Compliance Calendar (Excel) + Google Calendar Import File (.ics).
+`Input Files & Code Section:`
+```
 
-Input Files & Code Section:
+1. Applicable laws and regulations.
 
+2. Current compliance records.
 
-- Applicable laws and regulations.
-
-- Current compliance records.
-
-- Safety department contact list."
-
+3.Safety department contact list."
+```
 Prompt 24 — AI-Powered Safety Violation Detection Guide
 
 Backstory: You want to use AI and cameras to detect safety violations in real-time.
