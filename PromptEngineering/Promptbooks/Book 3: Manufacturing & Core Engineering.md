@@ -3901,16 +3901,17 @@ Your task:
 
 3.IT infrastructure details."
 ```
-Prompt 12 — Supplier Onboarding Kit
+## Prompt 12 — Supplier Onboarding Kit
 
-Backstory: New suppliers often take weeks to align with your standards.
+`Backstory: New suppliers often take weeks to align with your standards.`
 
-Goal: Create a standardized onboarding kit for suppliers.
+`Goal: Create a standardized onboarding kit for suppliers.`
 
-Prompt:
+`Prompt:`
 
-"You are a Supplier Enablement Specialist. Prepare an onboarding kit to train suppliers quickly.
+`"You are a Supplier Enablement Specialist. Prepare an onboarding kit to train suppliers quickly.`
 
+```
 Your task:
 
 
@@ -3923,18 +3924,18 @@ Your task:
 4. Include contact directory for support.
 
 5. Make it downloadable and printable.
+```
+`Output format: Supplier Onboarding Pack (PDF) + API Integration Guide (Word).`
 
-Output format: Supplier Onboarding Pack (PDF) + API Integration Guide (Word).
+`Input Files & Code Section:`
+```
 
-Input Files & Code Section:
+1.Company policies.
 
+2.API documentation.
 
-Company policies.
-
-API documentation.
-
-Quality standards manual."
-
+3.Quality standards manual."
+```
 Prompt 13 — Seasonal Demand Supply Alignment Plan
 
 Backstory: Demand fluctuations cause overstock in off-season and shortages in peak season.
