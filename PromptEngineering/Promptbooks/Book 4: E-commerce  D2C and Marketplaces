@@ -3150,26 +3150,319 @@ Inputs Needed:
 3. Insurance coverage details."
 
 Prompt 16 — Split Shipments Management
+
 Backstory: Your customer orders a laptop + laptop sleeve + wireless mouse. The laptop is in your Delhi warehouse, but the other items are in Bengaluru. If shipped together, delivery will take 7 days; if shipped separately, you can get the laptop to the customer in 2 days.
+
 Goal: Create a split shipment decision-making framework that balances customer experience with logistics costs.
 
 Prompt:
+
 "You are an E-commerce Logistics Optimization Specialist. Design a split shipment management strategy.
 
 Tasks:
 
-Define criteria for when to split shipments (cost vs. delivery speed trade-off).
-Create scripts for informing customers about multiple deliveries without causing confusion.
-Suggest warehouse coordination protocols for partial fulfillment.
-Provide automation workflows for splitting shipments in the OMS (Order Management System).
-Recommend metrics to evaluate split shipment efficiency.
+1. Define criteria for when to split shipments (cost vs. delivery speed trade-off).
+
+2. Create scripts for informing customers about multiple deliveries without causing confusion.
+
+3. Suggest warehouse coordination protocols for partial fulfillment.
+
+4. Provide automation workflows for splitting shipments in the OMS (Order Management System).
+
+5. Recommend metrics to evaluate split shipment efficiency.
+
 Output Format:
 
-Split Shipment SOP (DOCX)
-Customer Communication Templates (Excel)
-Cost vs. Speed Decision Matrix (Excel)
+1. Split Shipment SOP (DOCX)
+
+2. Customer Communication Templates (Excel)
+
+3. Cost vs. Speed Decision Matrix (Excel)
+
 Inputs Needed:
 
-Shipping cost per warehouse
-Customer delivery SLA commitments
+1. Shipping cost per warehouse
+
+2. Customer delivery SLA commitments
+
 OMS integration capabilities."
+
+Prompt 17 — ABC Inventory Classification
+
+Backstory: You manage 2,000 SKUs but don’t know which ones to prioritize for monitoring, restocking, and promotions. An ABC inventory system can help classify products into categories based on value and demand.
+
+Goal: Build a data-driven ABC classification for better inventory control.
+
+Prompt:
+
+"You are an Inventory Control Analyst. Create an ABC classification system for all SKUs.
+
+Tasks:
+
+1. Analyze SKUs by annual consumption value.
+
+2. Classify SKUs into “A” (high value), “B” (medium value), and “C” (low value).
+
+3. Suggest restocking frequency for each category.
+
+4. Recommend stock safety margins for each category.
+
+5. Provide a visual dashboard for category distribution.
+
+Output Format:
+
+1. ABC Classification Report (Excel)
+
+2. Restocking Schedule (Excel)
+
+3. Dashboard Mockup (PDF)
+
+Inputs Needed:
+
+1. Annual sales data per SKU
+
+2. SKU unit cost
+
+Lead time per SKU."
+
+Prompt 18 — FIFO (First In, First Out) Process Implementation
+
+Backstory: Your food & beverage store faces expiry-related losses because newer batches are sold before older ones.
+
+Goal: Implement a FIFO picking process to minimize wastage.
+
+Prompt:
+
+"You are an Inventory Process Engineer. Design a FIFO implementation plan.
+
+Tasks:
+
+1. Create warehouse floor labeling for batch identification.
+
+2. Recommend barcode or RFID scanning procedures to enforce FIFO.
+
+3. Provide training material for warehouse staff.
+
+4. Suggest KPIs to monitor FIFO compliance.
+
+5. Include automation suggestions to flag violations.
+
+Output Format:
+
+1. FIFO SOP (DOCX)
+
+2. Warehouse Floor Plan (PDF)
+
+3. Training Slides (PPT)
+
+Inputs Needed:
+
+1. Batch tracking data
+
+2. Warehouse layout
+
+Product shelf-life data."
+
+Prompt 19 — Multi-Channel Order Prioritization
+
+Backstory: During peak sale days, you get 1,000+ orders daily from your website, Amazon, and Flipkart. Limited warehouse capacity means you must prioritize orders smartly.
+
+Goal: Create an order prioritization logic for multi-channel fulfillment.
+
+Prompt:
+
+"You are an E-commerce Fulfillment Strategist. Develop a multi-channel order prioritization system.
+
+Tasks:
+
+1. Define rules for priority (e.g., Prime orders, high-ticket orders, VIP customers).
+
+2. Create automation rules in the OMS to sort and assign orders.
+
+3. Suggest contingency plans for delayed high-priority orders.
+
+4. Provide communication scripts for delayed low-priority orders.
+
+5. Recommend performance metrics for the prioritization process.
+
+Output Format:
+
+1. Prioritization Logic Document (DOCX)
+
+2. OMS Automation Script (TXT)
+
+3. Communication Templates (Excel)
+
+Inputs Needed:
+
+1. OMS access
+
+2. Channel SLAs
+
+3. Order category definitions."
+
+Prompt 20 — Inventory Shrinkage Detection
+
+Backstory: Your monthly stock audits show a 2% shrinkage (missing or stolen inventory) but you can’t identify the cause.
+
+Goal: Use AI to detect shrinkage patterns and potential fraud.
+
+Prompt:
+
+"You are an Inventory Loss Prevention Analyst. Create a shrinkage detection system.
+
+Tasks:
+
+1. Analyze inventory movement logs for anomalies.
+
+2. Cross-check sales vs. stock adjustments.
+
+3. Flag suspicious patterns like repeated SKU losses.
+
+4. Suggest fraud prevention protocols.
+
+5. Provide a shrinkage trend report for management.
+
+Output Format:
+
+1. Shrinkage Detection Report (Excel)
+
+2. Loss Prevention SOP (DOCX)
+
+3. Suspicious Activity Alert Template (Excel)
+
+Inputs Needed:
+
+1. Stock movement logs
+
+2. Sales data
+
+3. Warehouse access logs."
+
+Prompt 21 — Inventory Replenishment Budget Planner
+Backstory: Your finance team needs a clear picture of monthly cash flow for stock purchases without overstocking.
+Goal: Build an AI-assisted replenishment budget planner.
+
+Prompt:
+"You are an Inventory Finance Planner. Create a replenishment budgeting tool.
+
+Tasks:
+
+Forecast replenishment needs by SKU.
+Allocate budget based on profitability and seasonality.
+Suggest reorder frequency based on lead time and demand.
+Include a buffer for emergency stock buys.
+Generate monthly budget forecast reports.
+Output Format:
+
+Budget Planning Tool (Excel)
+Replenishment Calendar (Excel)
+Monthly Forecast Report (DOCX)
+Inputs Needed:
+
+SKU cost and profit margin
+Sales forecasts
+Lead time data."
+
+Prompt 22 — Backorder Management System
+Backstory: Your customized furniture business often gets orders for items not in stock yet, leading to customer dissatisfaction.
+Goal: Create a transparent backorder management process.
+
+Prompt:
+"You are an E-commerce Order Flow Specialist. Build a backorder management system.
+
+Tasks:
+
+Define clear customer communication templates for backorders.
+Suggest automation to update backorder statuses in CRM.
+Create alerts for when backordered items are back in stock.
+Provide alternative product suggestions to customers.
+Include metrics to track backorder fulfillment rate.
+Output Format:
+
+Backorder SOP (DOCX)
+CRM Integration Workflow (PDF)
+Communication Templates (Excel)
+Inputs Needed:
+
+Production timelines
+CRM API access
+Product substitution list."
+
+Prompt 23 — Cross-Docking Workflow
+Backstory: You want to move fast-moving SKUs directly from supplier trucks to delivery vans without storing them in warehouses.
+Goal: Implement a cross-docking process for speed and cost savings.
+
+Prompt:
+"You are a Logistics Process Designer. Create a cross-docking SOP.
+
+Tasks:
+
+Define product eligibility criteria for cross-docking.
+Map supplier-to-dispatch timing alignment.
+Suggest scanning & verification process to avoid errors.
+Provide contingency plans for supplier delays.
+Recommend performance KPIs for cross-docking efficiency.
+Output Format:
+
+Cross-Docking SOP (DOCX)
+Process Flow Diagram (PDF)
+Supplier Scheduling Template (Excel)
+Inputs Needed:
+
+Supplier delivery schedules
+SKU velocity data
+Dispatch capacity details."
+
+Prompt 24 — Returns-Driven Inventory Planning
+Backstory: Your fashion store sees 15% returns on average due to size/fit issues, which affects replenishment planning.
+Goal: Build a replenishment system that factors in returns data.
+
+Prompt:
+"You are an E-commerce Returns Data Analyst. Create a returns-driven inventory planning model.
+
+Tasks:
+
+Analyze returns by SKU to identify patterns.
+Adjust reorder quantities based on net sales after returns.
+Suggest product design changes to reduce returns.
+Recommend return-specific promotions to clear returned stock.
+Provide a dashboard for tracking return-adjusted stock levels.
+Output Format:
+
+Returns Analysis Report (Excel)
+Planning Model Script (Python/Excel)
+Dashboard Mockup (PDF)
+Inputs Needed:
+
+SKU-level return data
+Sales data
+Product feedback reports."
+
+Prompt 25 — Inventory KPI Tracking & Reporting
+Backstory: Your CEO wants a monthly one-page inventory health report to track performance.
+Goal: Build a KPI tracking system for inventory management.
+
+Prompt:
+"You are an Inventory Performance Analyst. Create a KPI dashboard and reporting workflow.
+
+Tasks:
+
+Define core KPIs: Stock Turnover, Fill Rate, Aging Stock %, Stockout Rate.
+Suggest data sources and automation tools for collection.
+Create a one-page management report template.
+Include traffic light (RAG) indicators for performance.
+Recommend monthly review process.
+Output Format:
+
+KPI Dashboard (Power BI/Excel)
+Report Template (DOCX)
+Review Meeting Agenda (PDF)
+Inputs Needed:
+
+Inventory system data
+Sales data
+KPI benchmarks."
+
+
+Seasonal Sale Strategies
