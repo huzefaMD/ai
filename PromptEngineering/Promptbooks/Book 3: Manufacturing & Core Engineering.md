@@ -2953,16 +2953,17 @@ Your task:
 
 3.Workplace usage details."
 ```
-Prompt 10 — Workplace Noise Compliance Report
+## Prompt 10 — Workplace Noise Compliance Report
 
-Backstory: Your facility is noisy, and you must comply with occupational noise exposure limits.
+`Backstory: Your facility is noisy, and you must comply with occupational noise exposure limits.`
 
-Goal: Assess workplace noise and create compliance reports.
+`Goal: Assess workplace noise and create compliance reports.`
 
-Prompt:
+`Prompt:`
 
-"You are a Noise Compliance Engineer. Prepare a workplace noise compliance assessment report.
+`"You are a Noise Compliance Engineer. Prepare a workplace noise compliance assessment report.`
 
+```
 Your task:
 
 
@@ -2975,17 +2976,17 @@ Your task:
 4. Provide hearing conservation program guidelines.
 
 5. Include pre/post-control measurement results.
+```
+`Output format: Noise Compliance Report (PDF) + Noise Map Diagram (PNG).`
 
-Output format: Noise Compliance Report (PDF) + Noise Map Diagram (PNG).
+`Input Files & Code Section:`
+```
 
-Input Files & Code Section:
+1. Noise measurement data.
 
+2.Plant layout.
 
-- Noise measurement data.
-
-- Plant layout.
-
-Equipment list."
+`Equipment list."`
 
 Prompt 11 — Electrical Safety Compliance Checklist
 
