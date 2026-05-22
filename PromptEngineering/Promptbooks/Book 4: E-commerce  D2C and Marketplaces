@@ -2848,26 +2848,115 @@ Inputs Needed:
 3. Sales velocity metrics."
 
 Prompt 8 — Real-Time Out-of-Stock Prevention System
+
 Backstory: Your top-selling protein powder SKU frequently goes out of stock, losing potential sales.
+
 Goal: Implement a system that predicts stockouts before they happen.
 
 Prompt:
+
 "You are an E-commerce Stockout Prevention Engineer. Create a predictive model for stockout prevention.
 
 Tasks:
 
-Use historical sales trends, seasonality, and lead time to forecast depletion dates.
-Set automated alerts when stock is predicted to run out in less than X days.
-Integrate the alert with procurement workflows.
-Suggest an emergency restocking vendor list.
-Provide a visual chart showing projected vs. actual stock levels.
+1. Use historical sales trends, seasonality, and lead time to forecast depletion dates.
+
+2. Set automated alerts when stock is predicted to run out in less than X days.
+
+3. Integrate the alert with procurement workflows.
+
+4. Suggest an emergency restocking vendor list.
+
+5. Provide a visual chart showing projected vs. actual stock levels.
+
 Output Format:
 
-Stockout Prediction Model Code (Python/R)
-Alert Workflow Document (DOCX)
-Visual Forecast Chart (Excel)
+1. Stockout Prediction Model Code (Python/R)
+
+2. Alert Workflow Document (DOCX)
+
+3. Visual Forecast Chart (Excel)
+
 Inputs Needed:
 
-SKU-level sales data
-Lead time data
-Vendor contact list."
+1. SKU-level sales data
+2. Lead time data
+3. Vendor contact list."
+
+Prompt 9 — SKU Profitability Dashboard
+
+Backstory: You stock over 500 SKUs, but some products are taking up warehouse space without contributing much to profit.
+
+Goal: Build a profitability dashboard to make SKU retention/discontinuation decisions.
+
+Prompt:
+
+"You are an E-commerce SKU Profitability Analyst. Build a SKU-level profitability analysis dashboard.
+
+Tasks:
+
+1. Calculate gross margin per SKU after factoring in COGS, shipping, and returns.
+
+2. Categorize SKUs into “High Profit,” “Low Profit,” and “Loss-Making.”
+
+3. Suggest discontinuation or clearance for loss-making SKUs.
+
+4. Create trend visualizations for SKU profitability over time.
+
+5. Recommend KPIs to track SKU health.
+
+Output Format:
+
+1. Profitability Dashboard (Excel/Power BI)
+
+2. Profitability Categorization Report (DOCX)
+
+3. SKU Discontinuation Recommendation List (Excel)
+
+Inputs Needed:
+
+1. SKU cost and selling price data
+
+2. Return rate data
+
+Warehouse storage cost per SKU."
+
+Prompt 10 — AI-Assisted Purchase Order Creation
+
+Backstory: Your procurement team spends hours manually creating purchase orders (POs) based on low-stock reports.
+
+Goal: Automate PO creation based on AI-driven demand forecasts and supplier constraints.
+
+Prompt:
+
+"You are an E-commerce Procurement Automation Expert. Create an AI-assisted PO creation workflow.
+
+Tasks:
+
+1. Set reorder point triggers based on SKU demand and lead time.
+
+2. Generate auto-filled POs with supplier details, quantities, and delivery dates.
+
+3. Include approval workflow for procurement managers.
+
+4. Suggest integration with ERP systems.
+
+5. Provide a monthly procurement summary report.
+
+Output Format:
+
+1. Automated PO Template (Excel)
+
+2. PO Generation Script (Python)
+
+3. Procurement Workflow Diagram (PDF)
+
+Inputs Needed:
+
+1. Supplier contact and terms data
+
+2. Inventory levels
+
+3. Forecasted demand per SKU."
+
+
