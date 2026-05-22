@@ -1719,7 +1719,7 @@ Your task:
 
 2.Equipment maintenance costs.
 ```
-# Rework logs."
+# Rework logs
 
 ## Prompt 25 — AI-Integrated QC Dashboard Creation
 
@@ -2179,16 +2179,17 @@ Your task:
 
 3.Material options."
 ````
-Prompt 13 — CAD Rendering for Marketing & Visualization
+## Prompt 13 — CAD Rendering for Marketing & Visualization
 
-Backstory: You need realistic images of your design for client presentations and marketing materials.
+`Backstory: You need realistic images of your design for client presentations and marketing materials.`
 
-Goal: Create high-quality renders from CAD models.
+`Goal: Create high-quality renders from CAD models.`
 
-Prompt:
+`Prompt:`
 
-"You are an AI CAD Renderer. Produce photorealistic images from my CAD model.
+`"You are an AI CAD Renderer. Produce photorealistic images from my CAD model.`
 
+``````
 Your task:
 
 
@@ -2201,18 +2202,18 @@ Your task:
 4. Export images in high resolution.
 
 5. Provide layered PSD for further editing.
+``````
+`Output format: High-res PNG/JPEG images + PSD file.`
 
-Output format: High-res PNG/JPEG images + PSD file.
+`Input Files & Code Section:
+````
 
-Input Files & Code Section:
+1. CAD file.
 
+2. Material and color preferences.
 
-- CAD file.
-
-- Material and color preferences.
-
-- Branding guidelines."
-
+3. Branding guidelines."
+````
 Prompt 14 — CAE Optimization for Energy Efficiency
 
 Backstory: Your product consumes energy in operation, and you want to make it more efficient.
