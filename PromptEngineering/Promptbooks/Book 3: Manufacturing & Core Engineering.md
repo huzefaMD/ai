@@ -2355,16 +2355,17 @@ Your task:
 
 3.Performance targets."
 ```
-Prompt 18 — AI-Generated Fixture & Jig Design
+## Prompt 18 — AI-Generated Fixture & Jig Design
 
-Backstory: You need custom jigs and fixtures for production but lack time for detailed design work.
+`Backstory: You need custom jigs and fixtures for production but lack time for detailed design work.`
 
-Goal: Create CAD designs for jigs and fixtures based on part geometry.
+`Goal: Create CAD designs for jigs and fixtures based on part geometry.`
 
-Prompt:
+`Prompt:`
 
-"You are an AI Fixture Design Engineer. Design jigs and fixtures for my part to assist in manufacturing or inspection.
+`"You are an AI Fixture Design Engineer. Design jigs and fixtures for my part to assist in manufacturing or inspection.`
 
+```
 Your task:
 
 
@@ -2377,18 +2378,18 @@ Your task:
 4. Ensure compatibility with CNC/assembly stations.
 
 5. Provide technical drawings for fabrication.
+```
+`Output format: CAD fixture file (.STEP) + 2D technical drawings (PDF).`
 
-Output format: CAD fixture file (.STEP) + 2D technical drawings (PDF).
+`Input Files & Code Section:`
+```
 
-Input Files & Code Section:
+1. Part CAD file.
 
+2.Fixture usage purpose.
 
-- Part CAD file.
-
-- Fixture usage purpose.
-
-- Machine/tool dimensions."
-
+3.Machine/tool dimensions."
+```
 Prompt 19 — Assembly Animation for Client Presentation
 
 Backstory: You want to impress a client by showing how your product is assembled step-by-step.
