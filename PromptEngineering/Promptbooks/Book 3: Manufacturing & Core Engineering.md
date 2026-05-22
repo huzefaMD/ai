@@ -3971,16 +3971,17 @@ Your task:
 
 3.Supplier lead times."
 ```
-Prompt 14 — Automated Purchase Order (PO) System Blueprint
+## Prompt 14 — Automated Purchase Order (PO) System Blueprint
 
-Backstory: Manual purchase orders slow down procurement.
+`Backstory: Manual purchase orders slow down procurement.`
 
-Goal: Automate the PO process from request to approval.
+`Goal: Automate the PO process from request to approval.`
 
-Prompt:
+`Prompt:`
 
-"You are a Procurement Process Automation Expert. Create a blueprint for an automated purchase order system.
+`"You are a Procurement Process Automation Expert. Create a blueprint for an automated purchase order system.`
 
+```
 Your task:
 
 
@@ -3993,18 +3994,18 @@ Your task:
 4. Include fraud detection mechanisms.
 
 5. Make it mobile-accessible.
+```
+`Output format: PO Automation Workflow Diagram (PNG) + System Requirement Document (Word).`
 
-Output format: PO Automation Workflow Diagram (PNG) + System Requirement Document (Word).
+`Input Files & Code Section:`
+```
 
-Input Files & Code Section:
+1.Current PO forms.
 
+2.ERP system details.
 
-Current PO forms.
-
-ERP system details.
-
-Approval matrix."
-
+3.Approval matrix."
+```
 Prompt 15 — Green Supply Chain Strategy
 
 Backstory: Your company wants to reduce carbon footprint in the supply chain.
