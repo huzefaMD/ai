@@ -3761,16 +3761,17 @@ Your task:
 
 3.Warehouse location mapping."
 ```
-Prompt 8 — Reverse Logistics Management Plan
+## Prompt 8 — Reverse Logistics Management Plan
 
-Backstory: Your company needs a structured process for handling returns, repairs, and recycling.
+`Backstory: Your company needs a structured process for handling returns, repairs, and recycling.`
 
-Goal: Create an efficient reverse logistics process.
+`Goal: Create an efficient reverse logistics process.`
 
-Prompt:
+`Prompt:`
 
-"You are a Reverse Logistics Planner. Develop a reverse logistics process for returned or defective goods.
+`"You are a Reverse Logistics Planner. Develop a reverse logistics process for returned or defective goods.`
 
+```
 Your task:
 
 
@@ -3783,18 +3784,18 @@ Your task:
 4. Track return rates and causes.
 
 5. Suggest ways to minimize returns in the first place.
+```
+`Output format: Reverse Logistics SOP (Word/PDF) + Vendor List (Excel).`
 
-Output format: Reverse Logistics SOP (Word/PDF) + Vendor List (Excel).
+`Input Files & Code Section:`
+```
 
-Input Files & Code Section:
+1.List of returnable products.
 
+2.Historical return data.
 
-List of returnable products.
-
-Historical return data.
-
-Vendor capabilities."
-
+3.Vendor capabilities."
+```
 Prompt 9 — Emergency Supply Chain Contingency Plan
 
 Backstory: A sudden raw material shortage can halt your operations.
