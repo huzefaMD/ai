@@ -2813,16 +2813,17 @@ Your task:
 
 3.Regulatory compliance list."
 ```
-Prompt 6 — Personal Protective Equipment (PPE) Compliance Tracker
+## Prompt 6 — Personal Protective Equipment (PPE) Compliance Tracker
 
-Backstory: Ensuring that all workers use the correct PPE daily can be challenging without a tracking system.
+`Backstory: Ensuring that all workers use the correct PPE daily can be challenging without a tracking system.`
 
-Goal: Develop a PPE compliance tracking and reporting system.
+`Goal: Develop a PPE compliance tracking and reporting system.`
 
-Prompt:
+`Prompt:`
 
-"You are a PPE Compliance Officer. Create a PPE compliance tracking document for my manufacturing facility.
+`"You are a PPE Compliance Officer. Create a PPE compliance tracking document for my manufacturing facility.`
 
+```
 Your task:
 
 
@@ -2835,18 +2836,18 @@ Your task:
 4. Develop a monthly compliance summary report.
 
 5. Recommend signage for PPE zones.
+```
+`Output format: PPE Compliance Tracker (Excel) + Signage Templates (PNG).`
 
-Output format: PPE Compliance Tracker (Excel) + Signage Templates (PNG).
+`Input Files & Code Section:
+```
 
-Input Files & Code Section:
+1.Job role descriptions.
 
+2.Current PPE inventory.
 
-- Job role descriptions.
-
-- Current PPE inventory.
-
-- PPE brand/model details."
-
+3.PPE brand/model details."
+```
 Prompt 7 — Incident Reporting & Investigation Template
 
 Backstory: A proper incident reporting system ensures every workplace accident is documented and investigated.
