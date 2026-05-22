@@ -2285,16 +2285,17 @@ Your task:
 
 3. Rendering preferences."
 ```
-Prompt 16 — AI-Assisted GD&T (Geometric Dimensioning & Tolerancing) Application
+## Prompt 16 — AI-Assisted GD&T (Geometric Dimensioning & Tolerancing) Application
 
-Backstory: Your design is ready, but you need to apply proper GD&T symbols for manufacturing and inspection accuracy.
+`Backstory: Your design is ready, but you need to apply proper GD&T symbols for manufacturing and inspection accuracy.`
 
-Goal: Add GD&T to your CAD drawings based on functional requirements.
+`Goal: Add GD&T to your CAD drawings based on functional requirements.`
 
-Prompt:
+`Prompt:`
 
-"You are an AI GD&T Expert. Apply accurate GD&T annotations to my CAD drawing.
+`"You are an AI GD&T Expert. Apply accurate GD&T annotations to my CAD drawing.`
 
+```
 Your task:
 
 
@@ -2307,18 +2308,18 @@ Your task:
 4. Ensure compliance with ASME Y14.5 or ISO standards.
 
 5. Provide a training sheet explaining the applied GD&T.
+```
+`Output format: Updated CAD drawing (PDF/DWG) + GD&T explanation guide.`
 
-Output format: Updated CAD drawing (PDF/DWG) + GD&T explanation guide.
+`Input Files & Code Section:`
+```
 
-Input Files & Code Section:
+1. CAD drawing file.
 
+2.Functional and assembly requirements.
 
-- CAD drawing file.
-
-- Functional and assembly requirements.
-
-- Applicable standard (ASME/ISO)."
-
+3. Applicable standard (ASME/ISO)."
+```
 Prompt 17 — Lightweight CAD Model for VR/AR Applications
 
 Backstory: Your detailed CAD models are too heavy for VR/AR use, making them slow to load.
