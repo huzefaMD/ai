@@ -3621,16 +3621,17 @@ Your task:
 
 3.Current inventory levels."
 ```
-Prompt 4 — AI-Driven Demand Forecasting Model
+## Prompt 4 — AI-Driven Demand Forecasting Model
 
-Backstory: Inaccurate demand forecasts are causing overproduction and stockouts.
+`Backstory: Inaccurate demand forecasts are causing overproduction and stockouts.`
 
-Goal: Develop an AI-based demand forecasting system using historical data and market trends.
+`Goal: Develop an AI-based demand forecasting system using historical data and market trends.`
 
-Prompt:
+`Prompt:`
 
-"You are a Demand Planning Data Scientist. Create an AI-powered demand forecasting plan for my supply chain.
+`"You are a Demand Planning Data Scientist. Create an AI-powered demand forecasting plan for my supply chain.`
 
+```
 Your task:
 
 
@@ -3643,18 +3644,18 @@ Your task:
 4. Include confidence intervals for predictions.
 
 5. Recommend a deployment strategy for ongoing updates.
+```
+`Output format: Forecast Model Documentation (Word) + Model Output Sample (Excel).`
 
-Output format: Forecast Model Documentation (Word) + Model Output Sample (Excel).
+`Input Files & Code Section:`
+```
 
-Input Files & Code Section:
+1.Historical sales data.
 
+2.Market trend reports.
 
-Historical sales data.
-
-Market trend reports.
-
-Economic indicator data."
-
+3.Economic indicator data."
+```
 Prompt 5 — Multi-Modal Transport Optimization Plan
 
 Backstory: Your company ships goods via multiple transportation modes but lacks an optimized routing strategy.
