@@ -2250,16 +2250,17 @@ Your task:
 
 3.Energy consumption logs."
 ```
-Prompt 15 — CAD Automation for Batch Design Generation
+## Prompt 15 — CAD Automation for Batch Design Generation
 
-Backstory: You produce similar designs with small variations for different clients.
+`Backstory: You produce similar designs with small variations for different clients.`
 
-Goal: Automate batch CAD model generation.
+`Goal: Automate batch CAD model generation.`
 
-Prompt:
+`Prompt:`
 
-"You are an AI CAD Automation Developer. Create multiple design variations automatically from a base model.
+`"You are an AI CAD Automation Developer. Create multiple design variations automatically from a base model.`
 
+```
 Your task:
 
 
@@ -2272,18 +2273,18 @@ Your task:
 4. Generate a render for each version.
 
 5. Package files for delivery.
+```
+`Output format: Multiple CAD files + render images.`
 
-Output format: Multiple CAD files + render images.
+`Input Files & Code Section:`
+```
 
-Input Files & Code Section:
+1. Base CAD file.
 
+2. Excel/CSV with parameter changes.
 
-- Base CAD file.
-
-- Excel/CSV with parameter changes.
-
-- Rendering preferences."
-
+3. Rendering preferences."
+```
 Prompt 16 — AI-Assisted GD&T (Geometric Dimensioning & Tolerancing) Application
 
 Backstory: Your design is ready, but you need to apply proper GD&T symbols for manufacturing and inspection accuracy.
