@@ -3936,16 +3936,17 @@ Your task:
 
 3.Quality standards manual."
 ```
-Prompt 13 — Seasonal Demand Supply Alignment Plan
+## Prompt 13 — Seasonal Demand Supply Alignment Plan
 
-Backstory: Demand fluctuations cause overstock in off-season and shortages in peak season.
+`Backstory: Demand fluctuations cause overstock in off-season and shortages in peak season.`
 
-Goal: Align production and supply with seasonal demand.
+`Goal: Align production and supply with seasonal demand.`
 
-Prompt:
+`Prompt:`
 
-"You are a Seasonal Supply Chain Planner. Create a seasonal alignment plan for production and distribution.
+`"You are a Seasonal Supply Chain Planner. Create a seasonal alignment plan for production and distribution.`
 
+```
 Your task:
 
 
@@ -3958,18 +3959,18 @@ Your task:
 4. Arrange temporary logistics contracts.
 
 5. Include post-season stock clearance strategies.
+```
+`Output format: Seasonal Supply Plan (Excel) + Post-Season Strategy Report (PDF).`
 
-Output format: Seasonal Supply Plan (Excel) + Post-Season Strategy Report (PDF).
+`Input Files & Code Section:`
+```
 
-Input Files & Code Section:
+1.Seasonal sales data.
 
+2.Warehouse capacity details.
 
-Seasonal sales data.
-
-Warehouse capacity details.
-
-Supplier lead times."
-
+3.Supplier lead times."
+```
 Prompt 14 — Automated Purchase Order (PO) System Blueprint
 
 Backstory: Manual purchase orders slow down procurement.
