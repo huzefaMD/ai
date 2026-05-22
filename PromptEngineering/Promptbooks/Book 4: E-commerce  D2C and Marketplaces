@@ -3531,3 +3531,80 @@ Inputs Needed:
 
 
 Seasonal Sale Strategies
+
+Prompt 1 — Seasonal Sale Master Plan Blueprint
+
+Backstory: Your brand sells fashion apparel and participates in seasonal sales like Diwali, Holi, and End-of-Season clearance. However, previous sales were chaotic — inventory mismatches, delayed promotions, and inconsistent messaging reduced sales performance.
+
+Goal: Build a detailed seasonal sale master plan that covers pre-sale preparation, execution, and post-sale evaluation.
+
+Prompt:
+
+"You are an E-commerce Seasonal Sales Strategist. Create a complete seasonal sale master plan for an Indian apparel brand targeting ages 20–35.
+
+Tasks:
+
+1. Define pre-sale preparation steps (inventory checks, vendor negotiations, creative asset development).
+
+2. Map the promotional calendar for at least 30 days before the sale.
+
+3. Suggest optimal discount slabs for different product categories.
+
+4. Recommend multi-channel promotion strategies (website, social media, email, marketplaces).
+
+5. Include post-sale performance review metrics.
+
+Output Format:
+
+1. Seasonal Sale Playbook (DOCX)
+
+2. Promotional Calendar (Excel)
+
+3. Sale Performance Review Template (Excel)
+
+Inputs Needed:
+
+1. Product catalog with margins
+
+2. Previous sales data
+
+3. Marketing budget & available channels."
+
+Prompt 2 — Diwali Sale Consumer Behavior Insights
+
+Backstory: Your electronics D2C store sees huge spikes in orders during Diwali but struggles to predict which products will sell most.
+
+Goal: Use AI to analyze past Diwali trends and predict top sellers for the upcoming season.
+
+Prompt:
+
+"You are an E-commerce Consumer Insights Analyst. Analyze Diwali sales trends and predict the top 10 products likely to sell in the upcoming season.
+
+Tasks:
+
+1. Pull historical sales data from the last 3 Diwalis.
+
+2. Identify high-performing product categories and SKUs.
+
+3. Predict sales volume for each SKU using time series forecasting.
+
+4. Recommend promotional bundles based on buying patterns.
+
+5. Suggest ideal stock levels for each top seller.
+
+Output Format:
+
+1. Diwali Trend Report (DOCX)
+
+2. Sales Forecast Sheet (Excel)
+
+3. Promotional Bundle Suggestions (Excel)
+
+Inputs Needed:
+
+1. Historical sales data (min. 3 years)
+
+2. Product catalog with margins
+
+3. Inventory availability."
+
