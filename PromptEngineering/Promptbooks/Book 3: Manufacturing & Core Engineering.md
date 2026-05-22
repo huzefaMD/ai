@@ -3198,16 +3198,17 @@ Your task:
 
 3. Past incident records."
 ```
-Prompt 17 — Safety Compliance Digital Dashboard Design
+## Prompt 17 — Safety Compliance Digital Dashboard Design
 
-Backstory: You want a centralized digital platform to monitor all safety compliance activities in real time.
+`Backstory: You want a centralized digital platform to monitor all safety compliance activities in real time.`
 
-Goal: Design a safety compliance dashboard layout.
+`Goal: Design a safety compliance dashboard layout.`
 
-Prompt:
+`Prompt:`
 
-"You are a Safety Data Visualization Expert. Create a real-time safety compliance dashboard design.
+`"You are a Safety Data Visualization Expert. Create a real-time safety compliance dashboard design.`
 
+```
 Your task:
 
 
@@ -3220,18 +3221,18 @@ Your task:
 4. Provide mobile-friendly mockups.
 
 5. Suggest KPIs for continuous improvement.
+```
+`Output format: Dashboard Mockup (Figma/PNG) + KPI List (Excel).`
 
-Output format: Dashboard Mockup (Figma/PNG) + KPI List (Excel).
+`Input Files & Code Section:`
+```
 
-Input Files & Code Section:
+1. Sample compliance data.
 
+2.Company branding guidelines.
 
-- Sample compliance data.
-
-- Company branding guidelines.
-
-- Safety performance KPIs."
-
+3.Safety performance KPIs."
+```
 Prompt 18 — Annual Safety Training Program Plan
 
 Backstory: Your company must train employees on safety throughout the year, covering multiple topics.
