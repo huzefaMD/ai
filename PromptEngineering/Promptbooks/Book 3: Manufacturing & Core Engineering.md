@@ -2530,16 +2530,17 @@ Your task:
 
 3. Manufacturing process capabilities."
 ```
-Prompt 23 — 3D Printing-Ready CAD Preparation
+## Prompt 23 — 3D Printing-Ready CAD Preparation
 
-Backstory: You want to produce a prototype via 3D printing but need to prepare the CAD file.
+`Backstory: You want to produce a prototype via 3D printing but need to prepare the CAD file.`
 
-Goal: Make CAD model ready for 3D printing.
+`Goal: Make CAD model ready for 3D printing.`
 
-Prompt:
+`rompt:`
 
-"You are an AI 3D Printing Prep Engineer. Prepare my CAD design for successful 3D printing.
+`"You are an AI 3D Printing Prep Engineer. Prepare my CAD design for successful 3D printing.`
 
+ ```   
 Your task:
 
 
@@ -2552,18 +2553,18 @@ Your task:
 4. Slice the model with optimal settings.
 
 5. Provide STL and G-code files.
+```
+`Output format: Printable STL + G-code + PDF prep report.`
 
-Output format: Printable STL + G-code + PDF prep report.
+`Input Files & Code Section:`
+```
 
-Input Files & Code Section:
+1.CAD file.
 
+2.Printer specifications.
 
-- CAD file.
-
-- Printer specifications.
-
-- Material choice."
-
+3.Material choice."
+```
 Prompt 24 — AI-Powered Design Compliance Check
 
 Backstory: Your design must meet industry-specific compliance standards.
