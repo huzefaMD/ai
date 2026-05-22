@@ -3691,16 +3691,17 @@ Your task:
 
 3.Seasonal demand patterns."
 ```
-Prompt 6 — Supplier Collaboration Portal Blueprint
+## Prompt 6 — Supplier Collaboration Portal Blueprint
 
-Backstory: You want a centralized online platform for real-time supplier collaboration to reduce communication delays.
+`Backstory: You want a centralized online platform for real-time supplier collaboration to reduce communication delays.`
 
-Goal: Design the layout and workflow for a supplier collaboration portal.
+`Goal: Design the layout and workflow for a supplier collaboration portal.`
 
-Prompt:
+`Prompt:`
 
-"You are a Supplier Collaboration Architect. Create a blueprint for a cloud-based supplier collaboration portal.
+`"You are a Supplier Collaboration Architect. Create a blueprint for a cloud-based supplier collaboration portal.`
 
+```
 Your task:
 
 
@@ -3713,18 +3714,18 @@ Your task:
 4. Provide mobile app integration.
 
 5. Suggest secure login and role-based access.
+```
+`Output format: Portal Wireframe (Figma/PNG) + Functional Specification Document (Word).`
 
-Output format: Portal Wireframe (Figma/PNG) + Functional Specification Document (Word).
+`Input Files & Code Section:`
+```
 
-Input Files & Code Section:
+1.List of supplier interactions.
 
+2.Existing procurement system details.
 
-List of supplier interactions.
-
-Existing procurement system details.
-
-Security compliance requirements."
-
+3.Security compliance requirements."
+```
 Prompt 7 — Inventory Reconciliation Automation Script
 
 Backstory: Manual inventory reconciliation is slow and error-prone.
