@@ -3726,16 +3726,17 @@ Your task:
 
 3.Security compliance requirements."
 ```
-Prompt 7 — Inventory Reconciliation Automation Script
+## Prompt 7 — Inventory Reconciliation Automation Script
 
-Backstory: Manual inventory reconciliation is slow and error-prone.
+`Backstory: Manual inventory reconciliation is slow and error-prone.`
 
-Goal: Create an automated process to reconcile physical and digital inventory records.
+`Goal: Create an automated process to reconcile physical and digital inventory records.`
 
-Prompt:
+`Prompt:`
 
-"You are an Inventory Automation Specialist. Develop a script or workflow to automate inventory reconciliation.
+`"You are an Inventory Automation Specialist. Develop a script or workflow to automate inventory reconciliation.`
 
+```
 Your task:
 
 
@@ -3748,18 +3749,18 @@ Your task:
 4. Schedule automatic reconciliation runs.
 
 5. Provide audit logs for compliance.
+```
+`Output format: Automation Script (Python/Excel Macro) + Reconciliation Report Template (Excel).`
 
-Output format: Automation Script (Python/Excel Macro) + Reconciliation Report Template (Excel).
+`Input Files & Code Section:`
+```
 
-Input Files & Code Section:
+1.Sample ERP inventory data.
 
+2.Physical stock count file.
 
-Sample ERP inventory data.
-
-Physical stock count file.
-
-Warehouse location mapping."
-
+3.Warehouse location mapping."
+```
 Prompt 8 — Reverse Logistics Management Plan
 
 Backstory: Your company needs a structured process for handling returns, repairs, and recycling.
