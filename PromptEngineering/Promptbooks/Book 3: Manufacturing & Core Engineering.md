@@ -2206,7 +2206,7 @@ Your task:
 ``````
 `Output format: High-res PNG/JPEG images + PSD file.`
 
-`Input Files & Code Section:
+`Input Files & Code Section:`
 ````
 
 1. CAD file.
