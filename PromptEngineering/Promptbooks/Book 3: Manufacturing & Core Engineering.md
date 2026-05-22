@@ -2988,16 +2988,17 @@ Your task:
 
 `Equipment list."`
 
-Prompt 11 — Electrical Safety Compliance Checklist
+## Prompt 11 — Electrical Safety Compliance Checklist
 
-Backstory: Electrical hazards can cause severe accidents; you want to ensure compliance with standards.
+`Backstory: Electrical hazards can cause severe accidents; you want to ensure compliance with standards.`
 
-Goal: Create an electrical safety audit checklist.
+`Goal: Create an electrical safety audit checklist.`
 
-Prompt:
+`Prompt:`
 
-"You are an Electrical Safety Auditor. Design a compliance checklist for my manufacturing plant.
+`"You are an Electrical Safety Auditor. Design a compliance checklist for my manufacturing plant.`
 
+```
 Your task:
 
 
@@ -3010,17 +3011,17 @@ Your task:
 4. Provide hazard labeling recommendations.
 
 5. Include a corrective action section.
+```
+`Output format: Electrical Safety Audit Checklist (Excel/PDF) + Label Templates (PNG).`
 
-Output format: Electrical Safety Audit Checklist (Excel/PDF) + Label Templates (PNG).
+`Input Files & Code Section:`
+```
 
-Input Files & Code Section:
+1. Electrical layout.
 
-
-- Electrical layout.
-
-- Equipment list.
-
-Safety inspection history."
+2.Equipment list.
+```
+`Safety inspection history."`
 
 Prompt 12 — First Aid & Emergency Medical Response Plan
 
