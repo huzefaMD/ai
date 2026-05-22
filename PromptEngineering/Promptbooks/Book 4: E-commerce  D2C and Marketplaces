@@ -2406,24 +2406,174 @@ Input Files Required:
 2. Cut-off policy document."
 
 Prompt 21 — Scripts for Product Availability Notifications
+
 Backstory: A customer requested a notification for restock of a sold-out skincare serum.
+
 Goal: Create scripts that inform customers when the product is available again.
 
 Prompt:
+
 "You are an E-commerce Customer Engagement Specialist. Write scripts for product availability notifications.
 
 Tasks:
 
-Create 3 restock announcement scripts for email/SMS.
-Include urgency elements like “limited stock” or “exclusive access.”
-Suggest upsell products to include in the notification.
-Include placeholders for product link and availability date.
-Maintain tone that encourages immediate purchase.
+1. Create 3 restock announcement scripts for email/SMS.
+
+2. Include urgency elements like “limited stock” or “exclusive access.”
+
+3. Suggest upsell products to include in the notification.
+
+4. Include placeholders for product link and availability date.
+
+5. Maintain tone that encourages immediate purchase.
+
 Output format:
 
-Restock Notification Script Pack (DOCX)
-Upsell Product List (Excel)
+1. Restock Notification Script Pack (DOCX)
+
+2. Upsell Product List (Excel)
+
 Input Files Required:
 
-Restock dates
-Related product catalog."
+1. Restock dates
+
+2. Related product catalog."
+
+Prompt 22 — Scripts for Guiding Gift Purchasers
+
+Backstory: A customer is buying a watch as a birthday gift and wants gift wrap and a personalised message.
+
+Goal: Guide customers smoothly through gift customisation options.
+
+Prompt:
+
+"You are a Gift Experience Script Writer. Write scripts for guiding gift purchases.
+
+Tasks:
+
+1. Create 3 chat/email templates explaining gift wrap and message options.
+
+2. Provide upsell phrases for premium wrapping and accessories.
+
+3. Suggest follow-up scripts for confirming final gift presentation.
+
+4. Include placeholders for message text and delivery date.
+
+5. Maintain tone that enhances excitement for gifting.
+
+Output format:
+
+1. Gift Purchase Script Pack (DOCX)
+
+2. Gift Customisation Checklist (Excel)
+
+Input Files Required:
+
+1. Gift wrap options list
+
+Delivery timelines."
+
+Prompt 23 — Scripts for Subscription Renewal Reminders
+
+Backstory: A customer’s monthly coffee subscription is about to expire.
+
+Goal: Encourage timely renewal through friendly reminders.
+
+Prompt:
+
+"You are a Subscription Renewal Script Specialist. Write scripts for reminding customers about upcoming renewals.
+
+Tasks:
+
+1. Create 3 reminder scripts for email/SMS.
+
+2. Offer renewal incentives (discounts, free gift).
+
+3. Provide follow-up scripts for non-responders.
+
+4. Include placeholders for renewal link and expiration date.
+
+5. Maintain a warm, value-driven tone.
+
+Output format:
+
+1. Renewal Reminder Script Pack (DOCX)
+
+2. Renewal Tracking Sheet (Excel)
+
+Input Files Required:
+
+1. Subscription terms
+
+Renewal incentive list."
+
+Prompt 24 — Scripts for Handling Multi-Language Customer Queries
+
+Backstory: Your e-commerce store caters to customers across India, and a buyer from Tamil Nadu contacts customer service in Tamil.
+
+Goal: Offer scripts that can be localised for regional languages.
+
+Prompt:
+
+"You are a Multi-Language Customer Service Specialist. Write scripts for handling regional language queries.
+
+Tasks:
+
+1. Create standard responses in English, then provide translatable placeholders.
+
+2. Suggest language selection prompts for chatbots.
+
+3. Include tips for tone adaptation in different cultures.
+
+4. Provide 3 examples in Hindi, Tamil, and Bengali.
+
+5. Maintain clarity while respecting linguistic nuances.
+
+Output format:
+
+1. Multi-Language Script Pack (DOCX)
+
+2. Translation Placeholder Sheet (Excel)
+
+Input Files Required:
+
+1. Customer location data
+
+Translation service API access."
+
+Prompt 25 — Scripts for Holiday Season Overload Management
+
+Backstory: During Diwali, customer service receives triple the normal volume of queries. Customers expect quick replies despite the overload.
+
+Goal: Create scalable, time-saving scripts for high-volume periods.
+
+Prompt:
+
+"You are an E-commerce Holiday Operations Specialist. Write scripts for handling peak season queries efficiently.
+
+Tasks:
+
+1. Create 3 “delay acknowledgment” templates for email/chat.
+
+2. Provide proactive updates for shipping times and stock levels.
+
+3. Suggest automation-ready short replies for FAQs.
+
+4. Include placeholders for expected delay time and delivery estimates.
+
+5. Maintain festive yet professional tone to match the season.
+
+Output format:
+
+1. Holiday Season Script Pack (DOCX)
+
+2. FAQ Automation Sheet (Excel)
+
+Input Files Required:
+
+1. Holiday season order data
+
+2. Standard FAQ list."
+
+
+Inventory & Order Management
