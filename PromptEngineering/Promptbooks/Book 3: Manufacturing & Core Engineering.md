@@ -3233,16 +3233,17 @@ Your task:
 
 3.Safety performance KPIs."
 ```
-Prompt 18 — Annual Safety Training Program Plan
+## Prompt 18 — Annual Safety Training Program Plan
 
-Backstory: Your company must train employees on safety throughout the year, covering multiple topics.
+`Backstory: Your company must train employees on safety throughout the year, covering multiple topics.`
 
-Goal: Develop a year-round safety training calendar.
+`Goal: Develop a year-round safety training calendar.`
 
-Prompt:
+`Prompt:`
 
-"You are a Safety Training Coordinator. Create an annual safety training program plan for my factory.
+`"You are a Safety Training Coordinator. Create an annual safety training program plan for my factory.`
 
+```
 Your task:
 
 
@@ -3255,18 +3256,18 @@ Your task:
 4. Include evaluation and feedback forms.
 
 5. Provide both English and Hindi versions.
+```
+`Output format: Training Program Calendar (Excel/PDF) + Feedback Form (Word).`
 
-Output format: Training Program Calendar (Excel/PDF) + Feedback Form (Word).
+`Input Files & Code Section:`
+```
 
-Input Files & Code Section:
+1. List of training topics.
 
+2.Employee count and job roles.
 
-- List of training topics.
-
-- Employee count and job roles.
-
-- Available training budget."
-
+3. Available training budget."
+```
 Prompt 19 — Factory Emergency Response Simulation Plan
 
 Backstory: You want to test your plant’s readiness for emergencies through realistic drills.
