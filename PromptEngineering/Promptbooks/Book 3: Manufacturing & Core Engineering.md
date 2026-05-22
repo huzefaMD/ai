@@ -3796,16 +3796,17 @@ Your task:
 
 3.Vendor capabilities."
 ```
-Prompt 9 — Emergency Supply Chain Contingency Plan
+## Prompt 9 — Emergency Supply Chain Contingency Plan
 
-Backstory: A sudden raw material shortage can halt your operations.
+`Backstory: A sudden raw material shortage can halt your operations.`
 
-Goal: Create a contingency plan for supply chain disruptions.
+`oal: Create a contingency plan for supply chain disruptions.`
 
-Prompt:
+`Prompt:`
 
-"You are a Supply Chain Risk Manager. Create a contingency plan for raw material shortages.
+`"You are a Supply Chain Risk Manager. Create a contingency plan for raw material shortages.`
 
+```
 Your task:
 
 
@@ -3818,18 +3819,18 @@ Your task:
 4. Provide a communication plan for stakeholders.
 
 5. Add a rapid decision-making escalation chart.
+```
+`Output format: Contingency Plan Document (Word/PDF) + Alternate Supplier Directory (Excel).`
 
-Output format: Contingency Plan Document (Word/PDF) + Alternate Supplier Directory (Excel).
+`Input Files & Code Section:`
+```
 
-Input Files & Code Section:
+1.List of critical materials.
 
+2.Supplier database.
 
-List of critical materials.
-
-Supplier database.
-
-Risk assessment data."
-
+3.Risk assessment data."
+```
 Prompt 10 — Procurement Cost Optimization Strategy
 
 Backstory: Procurement costs are eating into profit margins.
