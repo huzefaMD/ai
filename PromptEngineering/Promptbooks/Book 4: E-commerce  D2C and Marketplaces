@@ -2099,3 +2099,161 @@ Input Files Required:
 
 2. Security guidelines."
 
+Prompt 12 — Addressing “Item Missing from Order” Complaints
+
+Backstory: A customer ordered a gift hamper with 5 items, but one snack pack was missing.
+
+Goal: Resolve missing item issues promptly while maintaining customer trust.
+
+Prompt:
+
+"You are an Order Fulfilment Issue Specialist. Write scripts for missing item complaints.
+
+Tasks:
+
+1. Write 3 apology scripts for email/chat.
+
+2. Suggest immediate solutions (send missing item, offer voucher).
+
+3. Provide follow-up confirmation scripts once resolved.
+
+4. Include investigation notes for warehouse team.
+
+5. Add placeholders for order ID and missing item name.
+
+Output format:
+
+1. Missing Item Resolution Script Pack (DOCX)
+
+2. Warehouse Investigation Sheet (Excel)
+
+Input Files Required:
+
+1. Packing SOP
+
+2. Order history logs."
+
+Prompt 13 — Explaining Delivery Delays Due to Weather/Natural Events
+
+Backstory: A customer’s frozen dessert order is delayed due to severe rains affecting logistics.
+
+Goal: Communicate delays clearly, offer reassurance, and maintain goodwill.
+
+Prompt:
+
+"You are a Delivery Delay Communication Specialist. Write scripts for weather-related delays.
+
+Tasks:
+
+1. Write 3 proactive notification messages.
+
+2. Create 3 reactive apology scripts for incoming complaints.
+
+3. Suggest alternative delivery dates/options.
+
+4. Include placeholders for weather event and revised ETA.
+
+5. Maintain empathy and transparency in tone.
+
+Output format:
+
+1. Delay Communication Script Pack (DOCX)
+
+2. Weather Delay Template (Excel)
+
+Input Files Required:
+
+1. Logistics partner updates
+
+2. Weather reports."
+
+Prompt 14 — Handling Warranty Claim Requests
+
+Backstory: A customer’s electric blender stopped working within the warranty period.
+
+Goal: Streamline warranty claims and keep customers informed.
+
+Prompt:
+
+"You are a Warranty Claim Support Script Creator. Write scripts for handling warranty claims.
+
+Tasks:
+
+1. Write 3 initial acknowledgement scripts.
+
+2. Create step-by-step claim submission instructions.
+
+3. Provide follow-up scripts for status updates.
+
+4. Include placeholders for claim number and repair/replacement ETA.
+
+5. Maintain professional yet reassuring tone.
+
+Output format:
+
+1. Warranty Claim Script Pack (DOCX)
+
+2. Claim Tracking Sheet (Excel)
+
+Input Files Required:
+
+1. Warranty terms
+
+Service partner contacts."
+
+Prompt 15 — Educating Customers About Pre-Order Fulfilment Timelines
+
+Backstory: A customer pre-ordered a gaming console that will ship in 3 months but is worried about the delay.
+
+Goal: Set realistic expectations and keep customers excited while they wait.
+
+Prompt:
+
+"You are a Pre-Order Communication Specialist. Write scripts for managing pre-order expectations.
+
+Tasks:
+
+1. Write welcome/thank-you messages for pre-order confirmation.
+
+2. Create monthly update templates to maintain excitement.
+
+3. Provide escalation scripts for customers requesting refunds.
+
+4. Suggest placeholders for estimated ship date and bonus offers.
+
+5. Include engagement tips like sneak peeks or behind-the-scenes updates.
+
+Output format:
+
+1. Pre-Order Communication Script Pack (DOCX)
+
+2. Update Calendar (Excel)
+
+Input Files Required:
+
+1. Pre-order schedule
+
+2. Bonus content library."
+
+Prompt 16 — Scripts for Refund Processing Updates
+Backstory: A customer returned a Bluetooth speaker and is waiting for their refund. It’s been 7 days and they’re anxious, fearing they’ve been scammed.
+Goal: Provide transparent and reassuring updates during refund processing.
+
+Prompt:
+"You are an E-commerce Refund Communication Specialist. Write scripts to update customers on refund status.
+
+Tasks:
+
+Create 3 proactive updates via email/SMS at key refund stages (received, processing, completed).
+Provide 2 reactive scripts for incoming refund inquiries.
+Suggest phrases for reinforcing trust and policy compliance.
+Include placeholders for transaction ID, amount, and expected date.
+Maintain friendly yet professional tone to reduce anxiety.
+Output format:
+
+Refund Update Script Pack (DOCX)
+Refund Timeline Template (Excel)
+Input Files Required:
+
+Refund policy document
+Payment gateway processing times."
