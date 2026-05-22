@@ -2239,17 +2239,17 @@ Your task:
 5. Provide projected energy savings.
 ```
 
-Output format: Energy optimization report (PDF) + updated CAD file.
+`Output format: Energy optimization report (PDF) + updated CAD file.`
 
-Input Files & Code Section:
+`Input Files & Code Section:`
+```
 
+1. CAD model.
 
-- CAD model.
+2.Operational load data.
 
-- Operational load data.
-
-- Energy consumption logs."
-
+3.Energy consumption logs."
+```
 Prompt 15 — CAD Automation for Batch Design Generation
 
 Backstory: You produce similar designs with small variations for different clients.
