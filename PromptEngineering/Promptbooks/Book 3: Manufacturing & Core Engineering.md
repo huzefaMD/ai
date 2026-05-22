@@ -2918,16 +2918,17 @@ Your task:
 ```
 `Risk assessment reports."`
 
-Prompt 9 — Chemical Safety Data Sheet (SDS) Creation
+## Prompt 9 — Chemical Safety Data Sheet (SDS) Creation
 
-Backstory: You need Safety Data Sheets for all chemicals used, as per GHS standards.
+`Backstory: You need Safety Data Sheets for all chemicals used, as per GHS standards.`
 
-Goal: Create compliant SDS for chemicals in use.
+`Goal: Create compliant SDS for chemicals in use.`
 
-Prompt:
+`Prompt:`
 
-"You are a Chemical Safety Documentation Expert. Prepare GHS-compliant Safety Data Sheets for my chemicals.
+`"You are a Chemical Safety Documentation Expert. Prepare GHS-compliant Safety Data Sheets for my chemicals.`
 
+```
 Your task:
 
 
@@ -2940,18 +2941,18 @@ Your task:
 4. Align with GHS and OSHA HazCom standards.
 
 5. Create a digital SDS library for easy access.
+```
+`Output format: SDS Documents (PDF) + Digital SDS Library (Excel).`
 
-Output format: SDS Documents (PDF) + Digital SDS Library (Excel).
+`Input Files & Code Section:`
+```
 
-Input Files & Code Section:
+1. List of chemicals with MSDS (if available).
 
+2.Supplier safety data.
 
-- List of chemicals with MSDS (if available).
-
-- Supplier safety data.
-
-- Workplace usage details."
-
+3.Workplace usage details."
+```
 Prompt 10 — Workplace Noise Compliance Report
 
 Backstory: Your facility is noisy, and you must comply with occupational noise exposure limits.
