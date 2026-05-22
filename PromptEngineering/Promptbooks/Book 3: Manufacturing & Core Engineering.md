@@ -3058,16 +3058,17 @@ Your task:
 
 3.Local hospital contact list."
 ```
-Prompt 13 — Safety Signage Design for Manufacturing Facility
+## Prompt 13 — Safety Signage Design for Manufacturing Facility
 
-Backstory: You want consistent, standard-compliant safety signs across your plant.
+`Backstory: You want consistent, standard-compliant safety signs across your plant.`
 
-Goal: Design safety signage according to ISO 7010 standards.
+`Goal: Design safety signage according to ISO 7010 standards.`
 
-Prompt:
+`Prompt:`
 
-"You are a Safety Signage Designer. Create standard-compliant safety signs for my factory.
+`"You are a Safety Signage Designer. Create standard-compliant safety signs for my factory.`
 
+```
 Your task:
 
 
@@ -3080,18 +3081,18 @@ Your task:
 4. Include placement guide for each sign.
 
 5. Provide a digital library for reuse.
+```
+`Output format: Safety Signage Pack (SVG/PDF) + Placement Guide (Word).`
 
-Output format: Safety Signage Pack (SVG/PDF) + Placement Guide (Word).
+`Input Files & Code Section:`
+```
 
-Input Files & Code Section:
+1. Plant layout.
 
+2.List of hazards.
 
-- Plant layout.
-
-- List of hazards.
-
-- Brand color guidelines (if any)."
-
+3. Brand color guidelines (if any)."
+```
 Prompt 14 — Contractor Safety Compliance Agreement
 
 Backstory: Contractors working at your site must follow your safety rules.
