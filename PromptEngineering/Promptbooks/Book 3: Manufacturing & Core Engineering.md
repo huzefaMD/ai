@@ -3338,16 +3338,17 @@ Your task:
 
 3. Local health regulations."
 ```
-Prompt 21 — Safety Incentive & Rewards Program
+## Prompt 21 — Safety Incentive & Rewards Program
 
-Backstory: You want to encourage employees to follow safety rules through incentives.
+`Backstory: You want to encourage employees to follow safety rules through incentives.`
 
-Goal: Create a structured safety rewards program.
+`Goal: Create a structured safety rewards program.`
 
-Prompt:
+`Prompt:`
 
-"You are a Safety Engagement Consultant. Design a safety incentive program for my workers.
+`"You are a Safety Engagement Consultant. Design a safety incentive program for my workers.`
 
+```
 Your task:
 
 
@@ -3360,18 +3361,18 @@ Your task:
 4. Include monthly recognition events.
 
 5. Align the program with safety KPIs.
+```
+`Output format: Rewards Program Guide (PDF) + Tracking Sheet (Excel).`
 
-Output format: Rewards Program Guide (PDF) + Tracking Sheet (Excel).
+`Input Files & Code Section:`
+```
 
-Input Files & Code Section:
+1. Employee list.
 
+2.Current safety KPIs.
 
-- Employee list.
-
-- Current safety KPIs.
-
-- Available reward budget."
-
+3. Available reward budget."
+```
 Prompt 22 — Accident Claim Documentation Kit
 
 Backstory: After workplace accidents, proper documentation helps in insurance and legal claims.
