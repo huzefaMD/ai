@@ -2963,7 +2963,7 @@ Your task:
 
 `"You are a Noise Compliance Engineer. Prepare a workplace noise compliance assessment report.`
 
-```
+``````
 Your task:
 
 
@@ -2976,7 +2976,7 @@ Your task:
 4. Provide hearing conservation program guidelines.
 
 5. Include pre/post-control measurement results.
-```
+``````
 `Output format: Noise Compliance Report (PDF) + Noise Map Diagram (PNG).`
 
 `Input Files & Code Section:`
@@ -2985,7 +2985,7 @@ Your task:
 1. Noise measurement data.
 
 2.Plant layout.
-
+```
 `Equipment list."`
 
 ## Prompt 11 — Electrical Safety Compliance Checklist
