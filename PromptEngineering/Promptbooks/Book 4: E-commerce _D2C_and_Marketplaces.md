@@ -790,14 +790,15 @@ Tasks:
 ```
 ## Prompt 23 — E-commerce Pricing Psychology Copywriting
 
-Backstory: You’re selling Bluetooth speakers priced at ₹2,999. You want to frame the price in a way that feels like a great deal without heavy discounting.
+`Backstory: You’re selling Bluetooth speakers priced at ₹2,999. You want to frame the price in a way that feels like a great deal without heavy discounting.`
 
-Goal: Apply pricing psychology in listing copy.
+`Goal: Apply pricing psychology in listing copy.`
 
-Prompt:
+`Prompt:`
 
-"You are an E-commerce Pricing Copywriter. Optimise listing copy for pricing appeal.
+`"You are an E-commerce Pricing Copywriter. Optimise listing copy for pricing appeal.`
 
+```
 Tasks:
 
 1. Frame price as a value-for-money decision.
@@ -809,29 +810,30 @@ Tasks:
 4. Add urgency (limited stock) ethically.
 
 5. Suggest alternative pricing formats (e.g., ₹2,999 instead of ₹3,000).
-
-Output format:
-
+```
+`Output format:`
+```
 1. Updated Pricing Copy (DOCX)
 
 2. Price Comparison Table (Excel)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Current listing copy
 
 2. Competitor price list."
+```
+## Prompt 24 — Regional Festival-Specific Listing Adaptation
 
-Prompt 24 — Regional Festival-Specific Listing Adaptation
+`Backstory: A D2C home fragrance brand wants to adapt product listings for Pongal, Onam, and Diwali.`
 
-Backstory: A D2C home fragrance brand wants to adapt product listings for Pongal, Onam, and Diwali.
+`Goal: Create culturally relevant versions for regional festivals.`
 
-Goal: Create culturally relevant versions for regional festivals.
+`Prompt:`
 
-Prompt:
+`"You are a Cultural Marketing Copywriter. Adapt a home fragrance listing for 3 regional festivals.`
 
-"You are a Cultural Marketing Copywriter. Adapt a home fragrance listing for 3 regional festivals.
-
+```
 Tasks:
 
 1. Include festival-specific imagery suggestions.
@@ -843,19 +845,19 @@ Tasks:
 4. Maintain consistent brand tone.
 
 5. Suggest backend keyword changes per festival.
-
-Output format:
-
+```
+`Output format:``
+```
 1. 3 Festival Listing Versions (DOCX)
 
 2. Keyword Lists (Excel)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Current listing copy
 
 2. Festival keyword research."
-
+```
 Prompt 25 — Amazon Voice Search Optimisation
 
 Backstory: With the rise of Alexa shopping, your non-stick cookware set needs to be optimised for voice search.
