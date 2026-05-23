@@ -1,15 +1,16 @@
-Product Listing Optimisation (Amazon, Flipkart, Meesho)
+# Product Listing Optimisation (Amazon, Flipkart, Meesho)
 
-Prompt 1 — Amazon SEO-Optimised Product Title Creation
+## Prompt 1 — Amazon SEO-Optimised Product Title Creation
 
-Backstory: You’re launching a new Bluetooth neckband headset under your D2C brand on Amazon India. Competition is high, and you need an SEO-optimised title that boosts discoverability and conversions.
+`Backstory: You’re launching a new Bluetooth neckband headset under your D2C brand on Amazon India. Competition is high, and you need an SEO-optimised title that boosts discoverability and conversions.`
 
-Goal: Generate a keyword-rich yet user-friendly product title that follows Amazon’s guidelines.
+`Goal: Generate a keyword-rich yet user-friendly product title that follows Amazon’s guidelines.`
 
-Prompt:
+`Prompt:`
 
-"You are an E-commerce SEO Specialist. Write an Amazon product title for a Bluetooth neckband headset targeting young Indian consumers.
+`"You are an E-commerce SEO Specialist. Write an Amazon product title for a Bluetooth neckband headset targeting young Indian consumers.`
 
+```
 Tasks:
 
 1. Research top-performing keywords in the category.
@@ -21,21 +22,21 @@ Tasks:
 4. Highlight key USPs (battery life, waterproof, Bluetooth version).
 
 5. Maintain readability and avoid keyword stuffing.
-
-Output format:
-
+```
+`Output format:`
+```
 1. Amazon SEO Title (200 characters max)
 
 2. List of included keywords
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Product specs sheet
 
 2. Competitor listing examples
 
 3. Keyword research data."
-
+```
 Prompt 2 — Flipkart Product Description with Storytelling
 
 Backstory: A home décor startup is selling handmade bamboo lamps on Flipkart. They want to stand out by telling a brand story while still optimising for SEO.
