@@ -37,16 +37,17 @@ Tasks:
 
 3. Keyword research data."
 ```
-Prompt 2 — Flipkart Product Description with Storytelling
+## Prompt 2 — Flipkart Product Description with Storytelling
 
-Backstory: A home décor startup is selling handmade bamboo lamps on Flipkart. They want to stand out by telling a brand story while still optimising for SEO.
+`Backstory: A home décor startup is selling handmade bamboo lamps on Flipkart. They want to stand out by telling a brand story while still optimising for SEO.`
 
-Goal: Write a Flipkart description that blends storytelling, benefits, and keyword optimisation.
+`Goal: Write a Flipkart description that blends storytelling, benefits, and keyword optimisation.`
 
-Prompt:
+`Prompt:`
 
-"You are an E-commerce Content Writer. Create a Flipkart product description for handmade bamboo lamps.
+`"You are an E-commerce Content Writer. Create a Flipkart product description for handmade bamboo lamps.`
 
+```
 Tasks:
 
 1. Start with a short brand story about eco-friendly craftsmanship.
@@ -58,19 +59,19 @@ Tasks:
 4. Use bullet points for technical specs.
 
 5. Keep total word count between 250–300 words.
-
-Output format:
-
+```
+`Output format:`
+```
 1. Flipkart Product Description (DOCX/PDF)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Brand story document
 
 2. Product images
 
 3. Keyword list."
-
+```
 Prompt 3 — High-Converting Amazon Bullet Points
 
 Backstory: A skincare brand is launching a vitamin C serum on Amazon. Bullet points are critical for driving conversions by quickly communicating benefits.
