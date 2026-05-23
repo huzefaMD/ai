@@ -608,3 +608,316 @@ Input Files & Code Section:
 
 3. Electrical grid connection details."
 
+Prompt 20 — Oil & Gas Refinery BOQ
+
+Backstory: An oil refinery in Gujarat is adding a new processing unit. The BOQ must detail specialized piping, storage tanks, and high-pressure systems.
+
+Goal: Prepare a BOQ for refinery expansion works.
+
+Prompt:
+
+"You are a Petrochemical Plant Estimator. Prepare a BOQ for an oil refinery expansion project.
+
+Your task:
+
+1. Include foundation and structural steel works.
+
+2. Add specialized piping, storage tanks, and high-pressure systems.
+
+3. Include safety and fire suppression systems.
+
+4. Provide estimates for process control systems.
+
+5. Ensure compliance with Oil Industry Safety Directorate (OISD) standards.
+
+Output format: BOQ Spreadsheet (Excel) + Piping Material Take-Off List (PDF).
+
+Input Files & Code Section:
+
+1. Refinery process layout.
+
+2. Piping and instrumentation diagrams (P&ID).
+
+3. OISD standards."
+
+Prompt 21 — IT Park BOQ
+
+Backstory: A tech company is developing a 1 million sq ft IT park in Bengaluru with multiple towers and a central amenities block. The BOQ must balance premium finishes with energy-efficient systems.
+
+Goal: Prepare a BOQ for a large commercial IT park.
+
+Prompt:
+
+"You are a Commercial Real Estate Estimator. Prepare a BOQ for a multi-tower IT park in Bengaluru.
+
+Your task:
+
+1. Include civil, architectural, and landscaping works.
+
+2. Add MEP systems with energy-efficient designs.
+
+3. Include smart building automation systems.
+
+4. Provide separate BOQs for core and shell, and fit-outs.
+
+5. Follow IGBC (Indian Green Building Council) certification requirements.
+
+Output format: BOQ Spreadsheet (Excel) + Sustainability Compliance Report (PDF).
+
+Input Files & Code Section:
+
+1. IT park master plan.
+
+2. Building automation specifications.
+
+3. IGBC green building checklist."
+
+Prompt 22 — Cold Storage Facility BOQ
+
+Backstory: A food processing company is constructing a temperature-controlled cold storage facility. The BOQ must consider insulated panels, refrigeration systems, and backup power.
+
+Goal: Prepare a BOQ for a cold storage warehouse.
+
+Prompt:
+
+"You are a Cold Chain Infrastructure Estimator. Prepare a BOQ for a temperature-controlled cold storage facility.
+
+Your task:
+
+1. Include insulated wall and roof panels.
+
+2. Add refrigeration systems and humidity control.
+
+3. Include backup generators and control panels.
+
+4. Provide estimates for loading docks and material handling equipment.
+
+5. Follow FSSAI (Food Safety and Standards Authority of India) guidelines.
+
+Output format: BOQ Spreadsheet (Excel) + Cold Storage System Layout (PDF).
+
+Input Files & Code Section:
+
+1. Cold storage layout.
+
+2. Refrigeration equipment specifications.
+
+3. FSSAI compliance documents."
+
+Prompt 23 — Wind Farm BOQ
+
+Backstory: A renewable energy firm is developing a 100 MW wind farm in Tamil Nadu. The BOQ must include civil works, turbine installation, and grid connection.
+
+Goal: Prepare a BOQ for a wind energy project.
+
+Prompt:
+
+"You are a Wind Energy Project Estimator. Prepare a BOQ for a 100 MW wind farm.
+
+Your task:
+
+1. Include turbine foundation works.
+
+2. Add turbine assembly and erection costs.
+
+3. Include access roads and transmission line installation.
+
+4. Add O&M (Operations & Maintenance) facility costs.
+
+5. Ensure compliance with MNRE wind project guidelines.
+
+Output format: BOQ Spreadsheet (Excel) + Wind Farm Material Take-Off List (PDF).
+
+Input Files & Code Section:
+
+1. Wind farm layout.
+
+2. Turbine specifications.
+
+3. Electrical grid connection details."
+
+Prompt 24 — Port Terminal BOQ
+
+Backstory: A coastal port is adding a new cargo handling terminal. The BOQ must detail marine works, loading cranes, and bulk storage areas.
+
+Goal: Prepare a BOQ for a port cargo terminal.
+
+Prompt:
+
+"You are a Marine Infrastructure Estimator. Prepare a BOQ for a new port cargo terminal.
+
+Your task:
+
+1. Include dredging, quay wall, and jetty construction.
+
+2. Add loading cranes and conveyor systems.
+
+3. Include bulk storage silos and warehouses.
+
+4. Add customs and inspection facilities.
+
+5. Follow Indian Ports Association construction standards.
+
+Output format: BOQ Spreadsheet (Excel) + Marine Works Specification Sheet (PDF).
+
+Input Files & Code Section:
+
+1. Port terminal master plan.
+
+2. Equipment vendor quotations.
+
+3. Marine engineering guidelines."
+
+Prompt 25 — Smart City Infrastructure BOQ
+
+Backstory: A city under the Smart Cities Mission is upgrading its core infrastructure. The BOQ must include roads, smart lighting, CCTV surveillance, and Wi-Fi networks.
+
+Goal: Prepare a BOQ for integrated smart city infrastructure.
+
+Prompt:
+
+"You are a Smart City Infrastructure Estimator. Prepare a BOQ for integrated infrastructure upgrades under the Smart Cities Mission.
+
+Your task:
+
+1. Include civil works for roads and footpaths.
+
+2. Add smart lighting and IoT-based traffic signals.
+
+3. Include city-wide CCTV and public Wi-Fi networks.
+
+4. Provide costs for central command center setup.
+
+5. Ensure compliance with Smart Cities Mission guidelines.
+
+Output format: BOQ Spreadsheet (Excel) + IoT Device List (PDF).
+
+Input Files & Code Section:
+
+1. Smart city master plan.
+
+2. IoT device specifications.
+
+3. Smart Cities Mission compliance checklist."
+
+
+Project scheduling & tracking
+
+Prompt 1 — High-Rise Building Construction Schedule
+
+Backstory: You are managing the construction of a 25-storey residential tower in Mumbai. The project involves multiple contractors, each responsible for specific trades, and delays have significant financial penalties. You need a schedule that keeps all teams aligned and ensures no bottlenecks.
+
+Goal: Create a realistic and coordinated project schedule for the high-rise construction.
+
+Prompt:
+
+"You are a Construction Project Scheduler. Prepare a detailed Gantt chart for a 25-storey residential tower in Mumbai.
+
+Your task:
+
+1. Break down the project into clear phases — site prep, foundation, superstructure, MEP, interiors, and handover.
+
+2. Assign timelines for each phase considering monsoon-related delays.
+
+3. Map dependencies between contractors and trades.
+
+4. Include milestones for inspection and compliance checks.
+
+5. Highlight critical paths that could impact delivery date.
+
+Output format: Project Gantt Chart (MS Project / Excel) + Critical Path Analysis Report (PDF).
+
+Input Files & Code Section:
+
+1. Approved architectural drawings.
+
+2. Contractor work allocation list.
+
+3. Local authority inspection schedule."
+
+Prompt 2 — Metro Rail Viaduct Construction Timeline
+
+Backstory: You are overseeing the construction of an elevated metro viaduct for a 5 km stretch in Pune. The work needs to be synchronized with traffic management plans and local festival periods to avoid disruptions.
+
+Goal: Prepare a construction schedule that balances work efficiency and minimal public disruption.
+
+Prompt:
+
+"You are a Public Infrastructure Scheduler. Prepare a detailed construction timeline for a 5 km elevated metro viaduct in Pune.
+
+Your task:
+
+1. Break down construction into pile, pier, segment casting, and launching phases.
+
+2. Align schedules with traffic diversions and public holidays.
+
+3. Allocate resources for night shifts in high-traffic zones.
+
+4. Build in buffers for unforeseen weather delays.
+
+5. Highlight milestone approvals from the metro authority.
+
+Output format: Timeline Gantt Chart (Excel) + Traffic Management Integration Plan (PDF).
+
+Input Files & Code Section:
+
+1. Metro alignment drawings.
+
+2. Traffic diversion plan.
+
+3. Local holiday/festival calendar."
+
+Prompt 3 — Interior Fit-Out Scheduling for Corporate Office
+
+Backstory: A corporate office in Bengaluru is undergoing a complete interior fit-out across 4 floors. The client wants to move in within 90 days, requiring careful sequencing of civil, electrical, and furniture installation works.
+
+Goal: Create a fit-out schedule that ensures all work is completed in 3 months without trade overlaps.
+
+Prompt:
+
+"You are an Interior Fit-Out Project Scheduler. Prepare a detailed schedule for a 4-floor corporate office fit-out in Bengaluru.
+
+Your task:
+
+1. Sequence civil, false ceiling, MEP, and furniture installation logically.
+
+2. Minimize downtime between trades by overlapping non-dependent tasks.
+
+3. Include procurement timelines for custom furniture and fixtures.
+
+4. Highlight weekly progress review milestones.
+
+5. Include contingency plans for late deliveries.
+
+Output format: Fit-Out Schedule (Excel) + Weekly Progress Review Template (PDF).
+
+Input Files & Code Section:
+
+1. Interior design drawings.
+
+2. Furniture supplier delivery timelines.
+
+3. MEP installation plans."
+
+Prompt 4 — Hospital Expansion Schedule
+Backstory: A hospital in Hyderabad is expanding its facilities while remaining operational. This requires careful planning to avoid disruption to patient services, especially for critical departments like ICUs and OTs.
+
+Goal: Create a phased construction schedule that allows medical operations to continue.
+
+Prompt:
+"You are a Healthcare Facility Project Scheduler. Create a phased construction schedule for a hospital expansion in Hyderabad.
+
+Your task: 
+
+Plan construction works in sections to keep critical areas operational. 
+Schedule noisy/dusty activities during off-peak hospital hours. 
+Include timelines for medical equipment relocation. 
+Coordinate with hospital infection control teams. 
+Build in extra time for health authority approvals.
+Output format: Phased Construction Plan (Excel) + Hospital Operations Impact Report (PDF).
+
+Input Files & Code Section: 
+
+Existing hospital floor plans. 
+Expansion design drawings.
+Hospital department operation schedules."
