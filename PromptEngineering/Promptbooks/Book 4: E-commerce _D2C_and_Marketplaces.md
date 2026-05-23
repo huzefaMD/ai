@@ -258,7 +258,7 @@ Tasks:
 
 ## Prompt 8 — Flipkart Product Q&A Optimisation
 
-Backstory: Your Flipkart listing for a gaming chair is getting repeated customer questions about assembly and warranty. This is affecting conversion rates as potential buyers leave without answers.`
+`Backstory: Your Flipkart listing for a gaming chair is getting repeated customer questions about assembly and warranty. This is affecting conversion rates as potential buyers leave without answers.`
 
 `Goal: Create a ready-to-upload Q&A section to proactively address buyer doubts.`
 
