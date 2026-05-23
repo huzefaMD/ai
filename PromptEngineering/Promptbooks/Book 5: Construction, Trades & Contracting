@@ -1,1 +1,120 @@
+BOQ preparation & estimation
 
+Prompt 1 — Residential Building BOQ Preparation
+
+Backstory: You are bidding for a mid-sized residential apartment construction project in Pune. The client has provided architectural drawings, but there’s no BOQ. You need to create a detailed BOQ covering civil works, electrical, plumbing, and finishing. Accuracy is critical because overestimation will lose you the contract, and underestimation will cause losses during execution.
+
+Goal: Prepare a complete BOQ for a G+4 residential building project.
+
+Prompt:
+
+"You are a Construction Quantity Surveyor. Prepare a complete Bill of Quantities (BOQ) for a 5-storey residential building in Pune based on the provided architectural and structural drawings.
+
+Your task:
+
+1. Break down BOQ into major work categories (Earthwork, Foundation, RCC Structure, Masonry, Plastering, Flooring, Electrical, Plumbing, Painting).
+
+2. Use standard units (m², m³, kg, etc.) and follow IS codes for measurement.
+
+3. Include quantities, unit rates, and total cost for each item.
+
+4. Add 5% contingency allowance.
+
+5. Provide a final summary table for total project cost.
+
+Output format: BOQ Spreadsheet (Excel) + Summary Report (PDF).
+
+Input Files & Code Section:
+
+1. Architectural and structural drawings (PDF/DWG).
+
+2. Local material and labor rate sheet.
+
+3. Site location details."
+
+Prompt 2 — Commercial Interior Fit-Out Estimation
+
+Backstory: You are working on an office interior project for a 20,000 sq ft IT company. The client needs a cost breakdown before approving the design. You have layout plans but no finalized BOQ.
+
+Goal: Estimate material and labor requirements with unit costs for commercial interior work.
+
+Prompt:
+
+"You are an Interior Fit-Out Estimator. Create a BOQ for the interior fit-out of a 20,000 sq ft IT office space.
+
+Your task:
+
+1. Break down the BOQ into partitions, ceilings, flooring, furniture, electrical, HVAC, and networking.
+
+2. Include material specifications and brands where applicable.
+
+3. Add installation labor costs.
+
+4. Apply GST and other applicable taxes.
+
+5. Present a total project estimate with payment milestones.
+
+Output format: BOQ Spreadsheet (Excel) + Cost Estimate Report (PDF).
+
+Input Files & Code Section:
+
+1. Office layout drawings (AutoCAD/PDF).
+
+2. Design material specifications.
+
+3. Local contractor rate sheet."
+
+Prompt 3 — Road Construction BOQ with Layer Specifications
+
+Backstory: Your company is bidding for a 5 km rural road construction under the PMGSY (Pradhan Mantri Gram Sadak Yojana). You need to submit a BOQ that matches the tender’s technical specifications.
+
+Goal: Prepare a BOQ with granular detail on each road construction layer.
+
+Prompt:
+
+"You are a Highway Quantity Estimator. Create a BOQ for a 5 km rural bituminous road as per PMGSY standards.
+
+Your task:
+
+1. Break down into site clearance, subgrade preparation, granular sub-base, wet mix macadam, bituminous layers, and road marking.
+
+2. Include material quantities for each layer based on thickness and area.
+
+3. Use MORTH (Ministry of Road Transport & Highways) specifications.
+
+4. Add costs for machinery usage.
+
+5. Provide a project timeline cost flow chart.
+
+Output format: BOQ Spreadsheet (Excel) + Layer Specification Sheet (PDF).
+
+Input Files & Code Section:
+
+1. Road alignment drawings.
+
+2. MORTH specification document.
+
+3. Local road construction rates."
+
+Prompt 4 — High-Rise Steel Structure BOQ
+Backstory: You have been assigned to prepare a BOQ for a 15-storey commercial steel frame structure in Mumbai. Steel rates fluctuate heavily, so the BOQ must include a price adjustment clause.
+
+Goal: Accurately calculate steel tonnage and related construction items for cost estimation.
+
+Prompt:
+"You are a Structural Estimation Expert. Prepare a BOQ for a 15-storey steel structure commercial building in Mumbai.
+
+Your task:
+
+Calculate structural steel tonnage from drawings.
+Include fabrication, transportation, and erection costs.
+Add painting/coating for corrosion protection.
+Include connection bolts, welds, and other consumables.
+Add a steel price fluctuation adjustment clause in the estimate.
+Output format: BOQ Spreadsheet (Excel) + Steel Price Adjustment Clause (Word).
+
+Input Files & Code Section:
+
+Structural steel drawings.
+Local steel supplier rate sheet.
+Project location details."
