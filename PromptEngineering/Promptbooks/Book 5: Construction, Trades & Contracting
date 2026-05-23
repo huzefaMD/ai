@@ -1156,24 +1156,193 @@ Input Files & Code Section:
 3. Safety inspection checklist."
 
 Prompt 12 — Data Center Build-Out Schedule
+
 Backstory: A tech company in Hyderabad is building a data center. The schedule must integrate civil, electrical, HVAC, and IT infrastructure works seamlessly.
 
 Goal: Create a build-out schedule that ensures readiness for server installation on time.
 
 Prompt:
+
 "You are a Data Center Project Scheduler. Prepare a build-out schedule for a Tier-4 data center in Hyderabad.
 
 Your task:
 
-Sequence civil, raised flooring, and MEP works.
-Integrate precision cooling and UPS installation.
-Include IT rack setup timelines.
-Build in redundancy checks before commissioning.
-Align schedule with client’s go-live date.
+1. Sequence civil, raised flooring, and MEP works.
+
+2. Integrate precision cooling and UPS installation.
+
+3. Include IT rack setup timelines.
+
+4. Build in redundancy checks before commissioning.
+
+5. Align schedule with client’s go-live date.
+
 Output format: Build-Out Schedule (Excel) + Commissioning Checklist (PDF).
 
 Input Files & Code Section:
 
-Data center design drawings.
-IT equipment delivery schedules.
-HVAC system specs."
+1. Data center design drawings.
+
+2. IT equipment delivery schedules.
+
+3. HVAC system specs."
+
+Prompt 13 — Dam Construction Schedule
+
+Backstory: A large dam project in Madhya Pradesh must be completed in 4 years, with strict seasonal work restrictions due to monsoon.
+
+Goal: Create a seasonal work schedule for dam construction.
+
+Prompt:
+
+"You are a Hydraulic Structure Scheduler. Prepare a 4-year construction schedule for a large dam project.
+
+Your task:
+
+1. Sequence excavation, RCC, and spillway works around monsoon.
+
+2. Include timelines for turbine and gate installations.
+
+3. Allocate workforce to match seasonal productivity.
+
+4. Build in environmental clearance milestones.
+
+5. Provide an annual progress review schedule.
+
+Output format: Multi-Year Construction Schedule (Excel) + Seasonal Work Plan (PDF).
+
+Input Files & Code Section:
+
+1. Dam design drawings.
+
+2. Seasonal rainfall data.
+
+3. Environmental clearance conditions."
+
+Prompt 14 — Wind Turbine Installation Schedule
+
+Backstory: A wind farm in Gujarat requires 50 turbines to be installed before the next fiscal year for subsidy eligibility.
+
+Goal: Create an installation schedule that ensures all turbines are operational before the deadline.
+
+Prompt:
+
+"You are a Renewable Energy Project Scheduler. Prepare a turbine installation schedule for a wind farm in Gujarat.
+
+Your task:
+
+1. Sequence foundation works, tower erection, and blade installation.
+
+2. Allocate cranes and specialized equipment efficiently.
+
+3. Build in electrical connection timelines.
+
+4. Include quality inspection milestones.
+
+5. Ensure project readiness before subsidy deadline.
+
+Output format: Installation Schedule (Excel) + Equipment Allocation Plan (PDF).
+
+Input Files & Code Section:
+
+1. Wind farm site layout.
+
+2. Turbine delivery schedule.
+
+3. Electrical connection plan."
+
+Prompt 15 — Urban Metro Tunnel Boring Schedule
+
+Backstory: A metro tunnel project in Kolkata requires synchronized boring machine operations with station excavation works.
+
+Goal: Create a schedule that optimizes TBM (Tunnel Boring Machine) usage and minimizes idle time.
+
+Prompt:
+
+"You are an Urban Metro Scheduler. Create a tunnel boring schedule for the Kolkata metro project.
+
+Your task:
+
+1. Plan TBM operation timelines with daily progress targets.
+
+2. Integrate station excavation milestones.
+
+3. Allocate maintenance breaks for TBM.
+
+4. Build in contingency for ground condition delays.
+
+5. Provide an equipment utilization report.
+
+Output format: TBM Schedule (Excel) + Progress Tracking Template (PDF).
+
+Input Files & Code Section:
+
+1. Metro tunnel alignment drawings.
+
+2. TBM performance data.
+
+3. Station excavation plans."
+
+Prompt 16 — Airport Terminal Expansion Schedule
+
+Backstory: A major airport in Delhi is expanding its terminal to handle increased passenger capacity. The project must be completed without disrupting existing flights and passenger services.
+
+Goal: Develop a phased expansion schedule that ensures uninterrupted airport operations.
+
+Prompt:
+
+"You are an Airport Infrastructure Scheduler. Create a phased construction schedule for the expansion of a passenger terminal in Delhi Airport.
+
+Your task:
+
+1. Sequence works to ensure uninterrupted flight operations.
+
+2. Integrate passenger flow changes during construction.
+
+3. Schedule structural, MEP, and finishing works logically.
+
+4. Include aviation security clearances for each milestone.
+
+5. Build in testing and commissioning phases before handover.
+
+Output format: Terminal Expansion Gantt Chart (Excel) + Passenger Flow Adjustment Plan (PDF).
+
+Input Files & Code Section:
+
+1. Expansion design drawings.
+
+2. Current terminal operation schedules.
+
+3. Aviation security protocols."
+
+Prompt 17 — Luxury Residential Township Schedule
+
+Backstory: A real estate developer in Bengaluru is building a luxury township with villas, apartments, and a clubhouse. The marketing launch date is fixed, so construction must align with sales milestones.
+
+Goal: Create a township schedule linked with marketing and sales timelines.
+
+Prompt:
+
+"You are a Real Estate Project Scheduler. Prepare a construction schedule for a luxury township in Bengaluru.
+
+Your task:
+
+1. Sequence villa and apartment construction in phases.
+
+2. Align sample villa completion with marketing events.
+
+3. Include landscaping and amenity completion before handover.
+
+4. Build in buyer inspection milestones.
+
+5. Provide a payment-linked construction schedule.
+
+Output format: Township Gantt Chart (Excel) + Sales-Linked Construction Plan (PDF).
+
+Input Files & Code Section:
+
+1. Master plan layout.
+
+2. Sales and marketing calendar.
+
+3. Villa/apartment design drawings."
