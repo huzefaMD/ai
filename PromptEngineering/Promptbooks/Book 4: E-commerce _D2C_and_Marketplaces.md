@@ -4103,4 +4103,115 @@ Inputs Needed:
 
 3. Prize budget."
 
-   
+Prompt 16 — Real-Time Price Adjustment Plan
+
+Backstory: Competitors often slash prices mid-sale, causing your products to look overpriced.
+
+Goal: Build a real-time price adjustment system for seasonal sales.
+
+Prompt:
+
+"You are an E-commerce Pricing Analyst. Create a real-time seasonal sale price adjustment strategy.
+
+Tasks:
+
+1. Monitor competitor pricing across marketplaces.
+
+2. Create rules for auto-adjustment (e.g., match or undercut by ₹50).
+
+3. Set minimum margin thresholds.
+
+4. Suggest alert systems for manual review before major changes.
+
+5. Track impact of price changes on conversion rate.
+
+Output Format:
+
+1. Price Adjustment Rules Document (DOCX)
+
+2. Competitor Monitoring Sheet (Excel)
+
+3. Alert Workflow Diagram (PDF)
+
+Inputs Needed:
+
+1. Competitor list & product matches
+
+2. Marketplace API access
+
+3. Minimum margin data."   
+
+Prompt 17 — Midnight Sale Strategy
+
+Backstory: Young shoppers (20–28) often shop late at night, especially for flash deals.
+
+Goal: Launch a midnight-only sale event to attract night-time shoppers.
+
+Prompt:
+
+"You are an E-commerce Event Planner. Design a midnight sale campaign for a 2-day period within the festive season.
+
+Tasks:
+
+1. Select products with high appeal for young demographics.
+
+2. Schedule deals between 12 AM and 2 AM only.
+
+3. Plan push notifications at 11:45 PM as reminders.
+
+4. Add limited stock counters for urgency.
+
+5. Measure lift in night-time orders vs. normal days.
+
+Output Format:
+
+1. Midnight Sale Product List (Excel)
+
+2. Notification Copy (DOCX)
+
+3. Performance Report Template (Excel)
+
+Inputs Needed:
+
+1. Product catalog
+
+2. Audience segmentation data
+
+Notification tool access."
+
+Prompt 18 — Festival-Specific Ad Creatives
+
+Backstory: Your generic sale ads look out of place during culturally rich festivals.
+
+Goal: Create ad creatives themed around the specific festival while keeping brand identity intact.
+
+Prompt:
+
+"You are a Creative Director for E-commerce Ads. Develop festival-themed ad creatives for 3 seasonal campaigns.
+
+Tasks:
+
+1. Define visual style, color palette, and imagery aligned to each festival.
+
+2. Adapt copywriting to match cultural sentiments.
+
+3. Create separate variations for Instagram, Facebook, and YouTube.
+
+4. Suggest A/B testing for creative elements.
+
+5. Maintain brand consistency in all creatives.
+
+Output Format:
+
+1. Creative Mood Board (PDF)
+
+2. Copywriting Templates (DOCX)
+
+3. Ad Variations List (Excel)
+
+Inputs Needed:
+
+1. Brand style guide
+2. Festival cultural research
+3. Ad placement specs."
+
