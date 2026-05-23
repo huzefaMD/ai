@@ -364,16 +364,17 @@ Tasks:
 
 2. Product features list."
 ```
-Prompt 11 — Amazon India Cultural Localisation Review
+## Prompt 11 — Amazon India Cultural Localisation Review
 
-Backstory: A global electronics brand is launching a smart air purifier in India. The current listing copy is adapted from the US version but may not resonate with Indian shoppers.
+`Backstory: A global electronics brand is launching a smart air purifier in India. The current listing copy is adapted from the US version but may not resonate with Indian shoppers.`
 
-Goal: Localise product listing for Indian market cultural and linguistic nuances.
+`Goal: Localise product listing for Indian market cultural and linguistic nuances.`
 
-Prompt:
+`Prompt:`
 
-"You are an E-commerce Localisation Specialist. Adapt a smart air purifier Amazon listing for India.
+`"You are an E-commerce Localisation Specialist. Adapt a smart air purifier Amazon listing for India.`
 
+```
 Tasks:
 
 1. Replace unfamiliar terms with India-relevant language.
@@ -385,29 +386,30 @@ Tasks:
 4. Suggest pricing psychology changes for Indian shoppers.
 
 5. Recommend imagery reflecting Indian homes.
-
-Output format:
-
+```
+`Output format:`
+```
 1. Localised Listing Copy (DOCX)
 
 2. Image Suggestions (Excel)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Original US listing copy
+```
+`Indian market research report."`
 
-Indian market research report."
+## Prompt 12 — Image-to-Text Feature Extraction for Listings
 
-Prompt 12 — Image-to-Text Feature Extraction for Listings
+`Backstory: A clothing brand has product images with embedded text about fabric care and size charts. This information isn’t searchable in Amazon SEO.`
 
-Backstory: A clothing brand has product images with embedded text about fabric care and size charts. This information isn’t searchable in Amazon SEO.
+`Goal: Extract embedded text and repurpose it for listing copy.`
 
-Goal: Extract embedded text and repurpose it for listing copy.
+`Prompt:`
 
-Prompt:
+`"You are an E-commerce Content Extraction Expert. Extract and repurpose embedded text from product images for a kurta listing.`
 
-"You are an E-commerce Content Extraction Expert. Extract and repurpose embedded text from product images for a kurta listing.
-
+```
 Tasks:
 
 1. Identify all embedded text in provided images.
@@ -419,29 +421,30 @@ Tasks:
 4. Ensure clarity and avoid redundancy.
 
 5. Format for Amazon’s HTML-safe description box.
-
-Output format:
-
+```
+`Output format:`
+```
 1. Extracted Text (DOCX)
 
 2. HTML-Formatted Description (TXT)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Product image files
 
 2. SEO keyword list."
+```
+## Prompt 13 — Negative Review Analysis for Listing Optimisation
 
-Prompt 13 — Negative Review Analysis for Listing Optimisation
+`Backstory: Your portable blender on Amazon has multiple 1–3 star reviews mentioning battery issues. This is impacting conversion rates.`
 
-Backstory: Your portable blender on Amazon has multiple 1–3 star reviews mentioning battery issues. This is impacting conversion rates.
+`Goal: Analyse negative reviews and create content adjustments to pre-empt buyer doubts.`
 
-Goal: Analyse negative reviews and create content adjustments to pre-empt buyer doubts.
+`Prompt:`
 
-Prompt:
+`"You are an E-commerce Reputation Optimiser. Analyse negative reviews for a portable blender.`
 
-"You are an E-commerce Reputation Optimiser. Analyse negative reviews for a portable blender.
-
+```
 Tasks:
 
 1. Categorise complaints (battery life, speed, durability, etc.).
@@ -453,29 +456,30 @@ Tasks:
 4. Create a positive framing FAQ section.
 
 5. Draft a proactive buyer reassurance statement.
-
-Output format:
-
+```
+`Output format:`
+```
 1. Review Analysis Table (Excel)
 
 2. Updated Listing Copy Draft (DOCX)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. All product reviews
 
 2. Product specs and warranty details."
+```
+## Prompt 14 — Multi-Language Listing Copy for Tier-2/Tier-3 Cities
 
-Prompt 14 — Multi-Language Listing Copy for Tier-2/Tier-3 Cities
+`Backstory: Your pressure cooker sells well in metro cities but struggles in Tier-2 and Tier-3 cities where Hindi and regional language familiarity is higher.`
 
-Backstory: Your pressure cooker sells well in metro cities but struggles in Tier-2 and Tier-3 cities where Hindi and regional language familiarity is higher.
+`Goal: Create bilingual product listings to improve reach.`
 
-Goal: Create bilingual product listings to improve reach.
+`Prompt:`
 
-Prompt:
+`"You are a Regional E-commerce Copywriter. Create bilingual product copy for a pressure cooker listing.`
 
-"You are a Regional E-commerce Copywriter. Create bilingual product copy for a pressure cooker listing.
-
+```
 Tasks:
 
 1. Write English + Hindi versions of title, bullets, and description.
@@ -487,31 +491,32 @@ Tasks:
 4. Maintain Amazon’s keyword integration rules.
 
 5. Suggest keywords in Hindi for backend search terms.
-
-Output format:
-
+```
+`Output format:`
+```
 1. English + Hindi Listing Copy (DOCX)
 
 2. Hindi Keyword List (Excel)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Current English listing
 
 2. Regional keyword list
+```
+`Cultural event calendar."`
 
-Cultural event calendar."
+## Prompt 15 — Bundle Offer Listing Optimisation
 
-Prompt 15 — Bundle Offer Listing Optimisation
+`Backstory: You want to sell a smart LED bulb + Wi-Fi plug bundle during Amazon’s Great Indian Festival. Bundles can rank well but need clear value communication.`
 
-Backstory: You want to sell a smart LED bulb + Wi-Fi plug bundle during Amazon’s Great Indian Festival. Bundles can rank well but need clear value communication.
+`Goal: Optimise bundle listing for conversions.`
 
-Goal: Optimise bundle listing for conversions.
+`Prompt:`
 
-Prompt:
+`"You are an Amazon Bundle Listing Specialist. Optimise a smart LED bulb + Wi-Fi plug bundle listing.`
 
-"You are an Amazon Bundle Listing Specialist. Optimise a smart LED bulb + Wi-Fi plug bundle listing.
-
+```
 Tasks:
 
 1. Create an SEO title that clearly states both products.
@@ -523,31 +528,32 @@ Tasks:
 4. Include compatibility and usage scenarios.
 
 5. Create a “Why buy the bundle” section in the description.
-
-Output format:
-
+```
+`Output format:`
+```
 1. Bundle Listing Draft (DOCX)
 
 2. Image/Graphic Suggestions (Excel)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Individual product listings
 
 2. Bundle pricing details
 
 3. High-res product images."
+```
+## Prompt 16 — Amazon Video Script for Product Page
 
-Prompt 16 — Amazon Video Script for Product Page
+`Backstory: A D2C organic honey brand wants to add a 30–60 second product video on Amazon to boost trust and conversions. The script must balance storytelling and product benefits.`
 
-Backstory: A D2C organic honey brand wants to add a 30–60 second product video on Amazon to boost trust and conversions. The script must balance storytelling and product benefits.
+`Goal: Write a high-converting video script for the product listing.`
 
-Goal: Write a high-converting video script for the product listing.
+`Prompt:`
 
-Prompt:
+`"You are an E-commerce Video Content Creator. Write a 60-second Amazon product video script for an organic honey brand targeting urban health-conscious Indian consumers.`
 
-"You are an E-commerce Video Content Creator. Write a 60-second Amazon product video script for an organic honey brand targeting urban health-conscious Indian consumers.
-
+```
 Tasks:
 
 1. Open with a problem hook (fake/adulterated honey in the market).
@@ -559,31 +565,32 @@ Tasks:
 4. End with a call to action (Buy Now).
 
 5. Keep it under 150 words for 60-second voiceover.
-
-Output format:
-
+```
+`Output format:`
+```
 1. Video Script (DOCX)
 
 2. Suggested Shot List (Excel)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Brand story document
 
 2. Product photos/videos
 
 3. Key USPs and certifications."
+```
+## Prompt 17 — AI-Powered Title Split Testing Plan
 
-Prompt 17 — AI-Powered Title Split Testing Plan
+`Backstory: Your wireless keyboard listing on Amazon has low CTR. You want to A/B test titles to find the most clickable one.`
 
-Backstory: Your wireless keyboard listing on Amazon has low CTR. You want to A/B test titles to find the most clickable one.
+`Goal: Plan an AI-driven title split test strategy.`
 
-Goal: Plan an AI-driven title split test strategy.
+`Prompt:`
 
-Prompt:
+`"You are an Amazon Split Testing Strategist. Create a title A/B testing plan for a wireless keyboard.`
 
-"You are an Amazon Split Testing Strategist. Create a title A/B testing plan for a wireless keyboard.
-
+```
 Tasks:
 
 1. Suggest 5 alternative titles with varied keyword placement.
@@ -595,29 +602,30 @@ Tasks:
 4. Provide a test result tracking template.
 
 5. Suggest which metrics to monitor beyond CTR (conversion, sales).
-
-Output format:
-
+```
+`Output format:`
+```
 1. Title Options List (DOCX)
 
 2. Test Tracking Sheet (Excel)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Current title
 2. Keyword research
 3. Competitor titles."
+```
+## Prompt 18 — Amazon Image Sequence Storytelling
 
-Prompt 18 — Amazon Image Sequence Storytelling
+`Backstory: A heritage saree brand wants its product images to tell a complete story — from weaving to final drape — to differentiate in a crowded market.`
 
-Backstory: A heritage saree brand wants its product images to tell a complete story — from weaving to final drape — to differentiate in a crowded market.
+`Goal: Create an image sequence strategy for higher engagement.`
 
-Goal: Create an image sequence strategy for higher engagement.
+`Prompt:`
 
-Prompt:
+`"You are an E-commerce Visual Storytelling Expert. Plan an Amazon image sequence for a heritage saree.`
 
-"You are an E-commerce Visual Storytelling Expert. Plan an Amazon image sequence for a heritage saree.
-
+```
 Tasks:
 
 1. Define 7-image sequence: story intro → process → product details → lifestyle use → value → care tips → call to action.
@@ -629,29 +637,30 @@ Tasks:
 4. Include space for text overlay ideas.
 
 5. Ensure cultural authenticity.
-
-Output format:
-
+```
+`Output format:`
+```
 1. Image Sequence Plan (DOCX)
 
 2. Caption List (Excel)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Brand story
 
 2. Saree images and weaving process photos."
+```
+## Prompt 19 — Marketplace-Specific Listing Adaptation
 
-Prompt 19 — Marketplace-Specific Listing Adaptation
+`Backstory: Your smart watch sells well on Amazon but you’re expanding to Flipkart and Meesho. Each marketplace has different formatting rules and audience behaviours.`
 
-Backstory: Your smart watch sells well on Amazon but you’re expanding to Flipkart and Meesho. Each marketplace has different formatting rules and audience behaviours.
+`Goal: Adapt listing for multiple marketplaces while maintaining brand tone.`
 
-Goal: Adapt listing for multiple marketplaces while maintaining brand tone.
+`Prompt:`
 
-Prompt:
+`"You are a Multi-Marketplace Listing Specialist. Adapt a smartwatch listing for Amazon, Flipkart, and Meesho.`
 
-"You are a Multi-Marketplace Listing Specialist. Adapt a smartwatch listing for Amazon, Flipkart, and Meesho.
-
+```
 Tasks:
 
 1. Optimise titles, bullets, and descriptions per marketplace rules.
@@ -663,29 +672,30 @@ Tasks:
 4. Include backend keyword recommendations for each.
 
 5. Create a side-by-side listing comparison.
-
-Output format:
-
+```
+`Output format:`
+```
 1. Multi-Marketplace Listing Pack (DOCX)
 
 2. Backend Keyword Sheets (Excel)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Original Amazon listing
+```
+`Marketplace seller guidelines."`
 
-Marketplace seller guidelines."
+## Prompt 20 — Amazon Listing Audit with Conversion Diagnosis
 
-Prompt 20 — Amazon Listing Audit with Conversion Diagnosis
+`Backstory: Your protein powder has high traffic but low sales. You suspect the listing is not converting due to weak copy or visuals.`
 
-Backstory: Your protein powder has high traffic but low sales. You suspect the listing is not converting due to weak copy or visuals.
+`Goal: Audit and fix listing for higher conversion rates.`
 
-Goal: Audit and fix listing for higher conversion rates.
+`Prompt:`
 
-Prompt:
+`"You are an E-commerce Conversion Rate Optimisation (CRO) Specialist. Audit a protein powder listing.`
 
-"You are an E-commerce Conversion Rate Optimisation (CRO) Specialist. Audit a protein powder listing.
-
+```
 Tasks:
 
 1. Analyse title, bullets, description, images, and reviews.
@@ -697,29 +707,30 @@ Tasks:
 4. Suggest A/B test ideas.
 
 5. Provide a before-after copy example.
-
-Output format:
-
+```
+`Output format:`
+```
 1. CRO Audit Report (PDF)
 
 2. Updated Listing Draft (DOCX)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Current listing link
 2. Review summary
 3. Sales analytics."
+```
+## Prompt 21 — Flipkart Brand Store Landing Page Optimisation
 
-Prompt 21 — Flipkart Brand Store Landing Page Optimisation
+`Backstory: Your Flipkart brand store gets high visits but low clicks to products. The landing page needs better navigation and content.`
 
-Backstory: Your Flipkart brand store gets high visits but low clicks to products. The landing page needs better navigation and content.
+`Goal: Optimise Flipkart brand store for higher product discovery.`
 
-Goal: Optimise Flipkart brand store for higher product discovery.
+`Prompt:`
 
-Prompt:
+`"You are an E-commerce Brand Store Designer. Optimise a Flipkart brand store landing page.`
 
-"You are an E-commerce Brand Store Designer. Optimise a Flipkart brand store landing page.
-
+```
 Tasks:
 
 1. Analyse layout and recommend better category organisation.
@@ -731,29 +742,30 @@ Tasks:
 4. Recommend mobile-first design changes.
 
 5. Provide content placement mock-up.
-
-Output format:
-
+```
+`Output format:``
+```
 1. Store Optimisation Plan (DOCX)
 
 2. Wireframe Mock-up (PNG)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Current brand store screenshots
+```
+`Brand guidelines."`
+```
+## Prompt 22 — Amazon HTML Description Formatting
 
-Brand guidelines."
+`Backstory: Your camping tent listing has a plain-text description that looks dull and is hard to read.`
 
-Prompt 22 — Amazon HTML Description Formatting
+`Goal: Make it visually appealing with HTML formatting while keeping it Amazon-compliant.`
 
-Backstory: Your camping tent listing has a plain-text description that looks dull and is hard to read.
+`Prompt:`
 
-Goal: Make it visually appealing with HTML formatting while keeping it Amazon-compliant.
+`"You are an Amazon HTML Content Formatter. Format a camping tent product description.`
 
-Prompt:
-
-"You are an Amazon HTML Content Formatter. Format a camping tent product description.
-
+```
 Tasks:
 
 1. Add headings, bold text, bullet points, and spacing.
@@ -765,18 +777,18 @@ Tasks:
 4. Add subtle keyword integration.
 
 5. Provide both HTML code and preview.
-
-Output format:
-
+```
+`Output format:`
+```
 1. HTML-Formatted Description (TXT)
 
 2. Preview Screenshot (PNG)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1.Current product description."
-
-Prompt 23 — E-commerce Pricing Psychology Copywriting
+```
+#Prompt 23 — E-commerce Pricing Psychology Copywriting
 
 Backstory: You’re selling Bluetooth speakers priced at ₹2,999. You want to frame the price in a way that feels like a great deal without heavy discounting.
 
