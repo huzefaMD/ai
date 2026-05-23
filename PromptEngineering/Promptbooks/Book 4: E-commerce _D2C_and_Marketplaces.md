@@ -743,7 +743,7 @@ Tasks:
 
 5. Provide content placement mock-up.
 ```
-`Output format:``
+`Output format:`
 ```
 1. Store Optimisation Plan (DOCX)
 
@@ -788,7 +788,7 @@ Tasks:
 ```
 1.Current product description."
 ```
-#Prompt 23 — E-commerce Pricing Psychology Copywriting
+Prompt 23 — E-commerce Pricing Psychology Copywriting
 
 Backstory: You’re selling Bluetooth speakers priced at ₹2,999. You want to frame the price in a way that feels like a great deal without heavy discounting.
 
