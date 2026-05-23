@@ -755,17 +755,16 @@ Tasks:
 ```
 `Brand guidelines."`
 ```
-## Prompt 22 — Amazon HTML Description Formatting
+ Prompt 22 — Amazon HTML Description Formatting
 
-`Backstory: Your camping tent listing has a plain-text description that looks dull and is hard to read.`
+Backstory: Your camping tent listing has a plain-text description that looks dull and is hard to read.
 
-`Goal: Make it visually appealing with HTML formatting while keeping it Amazon-compliant.`
+Goal: Make it visually appealing with HTML formatting while keeping it Amazon-compliant.
 
-`Prompt:`
+Prompt:
 
-`"You are an Amazon HTML Content Formatter. Format a camping tent product description.`
+"You are an Amazon HTML Content Formatter. Format a camping tent product description.
 
-```
 Tasks:
 
 1. Add headings, bold text, bullet points, and spacing.
@@ -777,17 +776,17 @@ Tasks:
 4. Add subtle keyword integration.
 
 5. Provide both HTML code and preview.
-```
-`Output format:`
-```
+
+Output format:
+
 1. HTML-Formatted Description (TXT)
 
 2. Preview Screenshot (PNG)
-```
-`Input Files Required:`
-```
+
+Input Files Required:
+
 1.Current product description."
-```
+
 Prompt 23 — E-commerce Pricing Psychology Copywriting
 
 Backstory: You’re selling Bluetooth speakers priced at ₹2,999. You want to frame the price in a way that feels like a great deal without heavy discounting.
