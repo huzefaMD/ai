@@ -72,16 +72,17 @@ Tasks:
 
 3. Keyword list."
 ```
-Prompt 3 — High-Converting Amazon Bullet Points
+## Prompt 3 — High-Converting Amazon Bullet Points
 
-Backstory: A skincare brand is launching a vitamin C serum on Amazon. Bullet points are critical for driving conversions by quickly communicating benefits.
+`Backstory: A skincare brand is launching a vitamin C serum on Amazon. Bullet points are critical for driving conversions by quickly communicating benefits.`
 
-Goal: Create five benefit-driven bullet points optimised for both SEO and conversions.
+`Goal: Create five benefit-driven bullet points optimised for both SEO and conversions.`
 
-Prompt:
+`Prompt:`
 
-"You are an Amazon Listing Conversion Specialist. Write 5 bullet points for a vitamin C serum listing.
+`"You are an Amazon Listing Conversion Specialist. Write 5 bullet points for a vitamin C serum listing.`
 
+```
 Tasks:
 
 1. Focus on key benefits (brightening, anti-aging, hydration).
@@ -93,31 +94,32 @@ Tasks:
 4. Keep each bullet between 150–200 characters.
 
 5. Follow Amazon’s style guide for bullet formatting.
-
-Output format:
-
+```
+`Output format:`
+```
 1. Amazon Bullet Points (DOCX)
 
 2. Keyword mapping sheet
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Product benefits and ingredients list
 
 2. Competitor bullet point examples
+```
+`SEO keyword research."`
 
-SEO keyword research."
+## Prompt 4 — Lifestyle Image Caption Optimisation
 
-Prompt 4 — Lifestyle Image Caption Optimisation
+`Backstory: A fitness accessories brand is selling yoga mats on Amazon and Flipkart. Lifestyle images show models using the mats in scenic outdoor locations.`
 
-Backstory: A fitness accessories brand is selling yoga mats on Amazon and Flipkart. Lifestyle images show models using the mats in scenic outdoor locations.
+`Goal: Create SEO-friendly captions for images to boost A+ content engagement.`
 
-Goal: Create SEO-friendly captions for images to boost A+ content engagement.
+`Prompt:`
 
-Prompt:
+`"You are an E-commerce Visual Content Optimiser. Write captions for lifestyle images of yoga mats.`
 
-"You are an E-commerce Visual Content Optimiser. Write captions for lifestyle images of yoga mats.
-
+```
 Tasks:
 
 1. Use persuasive language to describe the scene and benefits.
@@ -129,19 +131,19 @@ Tasks:
 4. Match tone to brand’s voice (calm, inspiring, health-focused).
 
 5. Include one call-to-action in each caption.
-
-Output format:
-
+```
+`Output format:`
+```
 1. Image Caption List (Excel/CSV)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Lifestyle images
 
 2. Brand tone guidelines
 
 3. Keyword list."
-
+```
 Prompt 5 — Flipkart/Amazon Backend Search Term Optimisation
 
 Backstory: A gourmet food brand is selling organic green tea and wants to improve discoverability through backend search terms (hidden keywords).
