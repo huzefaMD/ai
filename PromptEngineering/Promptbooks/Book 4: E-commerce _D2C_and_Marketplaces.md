@@ -3608,3 +3608,30 @@ Inputs Needed:
 
 3. Inventory availability."
 
+Prompt 3 — Festive Email Marketing Sequences
+
+Backstory: Your brand’s email campaigns are inconsistent during sales, leading to missed engagement opportunities.
+
+Goal: Design a 10-email sequence that builds anticipation, drives conversions, and encourages repeat purchases during festive sales.
+
+Prompt:
+
+"You are an Email Marketing Automation Specialist. Create a 10-email festive sale campaign for an Indian D2C brand.
+
+Tasks:
+
+Plan email sequence from 30 days before to 7 days after the sale.
+Include pre-launch teasers, early access invitations, sale reminders, and post-sale thank-yous.
+Write subject lines optimized for high open rates in India.
+Include A/B test suggestions for email content.
+Recommend timing for sending each email.
+Output Format:
+
+Email Sequence Calendar (Excel)
+Email Copy Drafts (DOCX)
+A/B Test Plan (Excel)
+Inputs Needed:
+
+Target customer segments
+Branding guidelines
+Email platform access."
