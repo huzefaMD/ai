@@ -144,16 +144,17 @@ Tasks:
 
 3. Keyword list."
 ```
-Prompt 5 — Flipkart/Amazon Backend Search Term Optimisation
+## Prompt 5 — Flipkart/Amazon Backend Search Term Optimisation
 
-Backstory: A gourmet food brand is selling organic green tea and wants to improve discoverability through backend search terms (hidden keywords).
+`Backstory: A gourmet food brand is selling organic green tea and wants to improve discoverability through backend search terms (hidden keywords).`
 
-Goal: Generate a backend keyword list that maximises search reach without duplication.
+`Goal: Generate a backend keyword list that maximises search reach without duplication.`
 
-Prompt:
+`Prompt:`
 
-"You are an E-commerce Keyword Strategist. Prepare backend search terms for an organic green tea product listing.
+`"You are an E-commerce Keyword Strategist. Prepare backend search terms for an organic green tea product listing.`
 
+```
 Tasks:
 
 
@@ -166,31 +167,32 @@ Tasks:
 4. Keep within Amazon’s 250-character backend limit.
 
 5. Focus on buyer intent keywords (weight loss tea, detox tea).
-
-Output format:
-
+```
+`Output format:`
+```
 1. Backend Keyword List (CSV)
 
 2. Keyword Search Volume Report (Excel)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Existing product title & bullets
 
 2. Keyword research data
 
 3. Competitor backend keyword analysis."
+```
+## Prompt 6 — Competitor Gap Analysis for Amazon Listing Improvement
 
-Prompt 6 — Competitor Gap Analysis for Amazon Listing Improvement
+`Backstory: You’re selling a portable electric juicer on Amazon India, but sales are stagnant. Competitors are outranking you in search results and have more customer reviews. You want to find content and feature gaps in their listings to upgrade yours.`
 
-Backstory: You’re selling a portable electric juicer on Amazon India, but sales are stagnant. Competitors are outranking you in search results and have more customer reviews. You want to find content and feature gaps in their listings to upgrade yours.
+`Goal: Identify weaknesses in top competitor listings and create actionable improvements for your own listing.`
 
-Goal: Identify weaknesses in top competitor listings and create actionable improvements for your own listing.
+`Prompt:`
 
-Prompt:
+`"You are an Amazon Competitor Analysis Expert. Conduct a gap analysis for a portable electric juicer.`
 
-"You are an Amazon Competitor Analysis Expert. Conduct a gap analysis for a portable electric juicer.
-
+```
 Tasks:
 
 1. Identify top 5 competitor listings using the same keyword set.
@@ -202,31 +204,32 @@ Tasks:
 4. Recommend new keywords and content improvements.
 
 5. Provide a priority action plan with high ROI suggestions.
-
-Output format:
-
+```
+`Output format:`
+```
 1. Competitor Gap Analysis Table (Excel)
 
 2. Improvement Action Plan (PDF)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. My current product listing
 
 2. Competitor listing URLs
 
 3. Keyword research report."
+```
+## Prompt 7 — Amazon A+ Content Strategy & Draft
 
-Prompt 7 — Amazon A+ Content Strategy & Draft
+`Backstory: A D2C cookware brand is launching a tri-ply stainless steel frying pan. You want to leverage Amazon’s A+ content to visually and textually communicate its superior quality.`
 
-Backstory: A D2C cookware brand is launching a tri-ply stainless steel frying pan. You want to leverage Amazon’s A+ content to visually and textually communicate its superior quality.
+`Goal: Plan and create A+ content that maximises engagement and conversion.`
 
-Goal: Plan and create A+ content that maximises engagement and conversion.
+`Prompt:`
 
-Prompt:
+`"You are an Amazon A+ Content Specialist. Create an A+ content strategy for a tri-ply stainless steel frying pan.`
 
-"You are an Amazon A+ Content Specialist. Create an A+ content strategy for a tri-ply stainless steel frying pan.
-
+```
 Tasks:
 
 1. Recommend optimal A+ modules based on competitors and category norms.
@@ -238,31 +241,32 @@ Tasks:
 4. Suggest 6–8 lifestyle and product images for visual impact.
 
 5. Optimise all copy with SEO keywords without overstuffing.
-
-Output format:
-
+```
+`Output format:`
+```
 1. A+ Content Strategy Document (DOCX)
 
 2. Image/Asset List (Excel)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Product specs
 
 2. Brand guidelines
+```
+`Keyword list."`
 
-Keyword list."
+## Prompt 8 — Flipkart Product Q&A Optimisation
 
-Prompt 8 — Flipkart Product Q&A Optimisation
+Backstory: Your Flipkart listing for a gaming chair is getting repeated customer questions about assembly and warranty. This is affecting conversion rates as potential buyers leave without answers.`
 
-Backstory: Your Flipkart listing for a gaming chair is getting repeated customer questions about assembly and warranty. This is affecting conversion rates as potential buyers leave without answers.
+`Goal: Create a ready-to-upload Q&A section to proactively address buyer doubts.`
 
-Goal: Create a ready-to-upload Q&A section to proactively address buyer doubts.
+`Prompt:`
 
-Prompt:
+`"You are an E-commerce Buyer Communication Expert. Optimise the Q&A section for a gaming chair listing.`
 
-"You are an E-commerce Buyer Communication Expert. Optimise the Q&A section for a gaming chair listing.
-
+```
 Tasks:
 
 
@@ -275,29 +279,30 @@ Tasks:
 4. Add product benefits where relevant.
 
 5. Ensure tone is helpful and brand-consistent.
-
-Output format:
-
+```
+`Output format:`
+```
 1. Flipkart Q&A List (Excel)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Current buyer questions
 
 2. Product details and manuals
 
 3. Brand tone guidelines."
+```
+## Prompt 9 — Seasonal Keyword Refresh for Product Listings
 
-Prompt 9 — Seasonal Keyword Refresh for Product Listings
+`Backstory: A home furnishing brand sells bedsheets on Amazon year-round. During festival seasons like Diwali or Raksha Bandhan, they want to adjust keywords to capture seasonal demand.`
 
-Backstory: A home furnishing brand sells bedsheets on Amazon year-round. During festival seasons like Diwali or Raksha Bandhan, they want to adjust keywords to capture seasonal demand.
+`Goal: Refresh product listing keywords for maximum seasonal visibility.`
 
-Goal: Refresh product listing keywords for maximum seasonal visibility.
+`Prompt:`
 
-Prompt:
+`"You are an E-commerce Seasonal Keyword Planner. Refresh listing keywords for Diwali season.`
 
-"You are an E-commerce Seasonal Keyword Planner. Refresh listing keywords for Diwali season.
-
+```
 Tasks:
 
 1. Identify trending festival-related keywords in the home décor category.
@@ -309,31 +314,32 @@ Tasks:
 4. Provide both Hindi and English keyword variations for Indian shoppers.
 
 5. Recommend removal date for seasonal terms to avoid off-season irrelevance.
-
-Output format:
-
+```
+`Output format:`
+```
 1. Seasonal Keyword List (Excel)
 
 2. Updated Title/Bullets Draft (DOCX)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Current product listings
 
 2. Seasonal keyword trend report
 
 3. Festival marketing plan."
+```
+## Prompt 10 — Enhanced Mobile-First Listing Optimisation
 
-Prompt 10 — Enhanced Mobile-First Listing Optimisation
+`Backstory: In India, over 70% of e-commerce traffic is mobile-first. Your Flipkart listing for wireless earbuds looks great on desktop but key details get cut off on mobile.`
 
-Backstory: In India, over 70% of e-commerce traffic is mobile-first. Your Flipkart listing for wireless earbuds looks great on desktop but key details get cut off on mobile.
+`Goal: Optimise listing content for mobile users.`
 
-Goal: Optimise listing content for mobile users.
+`Prompt:`
 
-Prompt:
+`"You are a Mobile E-commerce UX Optimiser. Improve mobile readability for a wireless earbuds listing.`
 
-"You are a Mobile E-commerce UX Optimiser. Improve mobile readability for a wireless earbuds listing.
-
+```
 Tasks:
 
 1. Check how the listing appears on Flipkart mobile app.
@@ -345,19 +351,19 @@ Tasks:
 4. Ensure first 3 images convey USP clearly without zoom.
 
 5. Recommend short-form description version for mobile screens.
-
-Output format:
-
+```
+`Output format:`
+```
 1. Mobile-Optimised Listing Draft (DOCX)
 
 2. Before/After Comparison Table (Excel)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Current product listing screenshots from mobile
 
 2. Product features list."
-
+```
 Prompt 11 — Amazon India Cultural Localisation Review
 
 Backstory: A global electronics brand is launching a smart air purifier in India. The current listing copy is adapted from the US version but may not resonate with Indian shoppers.
