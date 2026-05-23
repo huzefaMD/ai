@@ -97,24 +97,131 @@ Input Files & Code Section:
 3. Local road construction rates."
 
 Prompt 4 — High-Rise Steel Structure BOQ
+
 Backstory: You have been assigned to prepare a BOQ for a 15-storey commercial steel frame structure in Mumbai. Steel rates fluctuate heavily, so the BOQ must include a price adjustment clause.
 
 Goal: Accurately calculate steel tonnage and related construction items for cost estimation.
 
 Prompt:
+
 "You are a Structural Estimation Expert. Prepare a BOQ for a 15-storey steel structure commercial building in Mumbai.
 
 Your task:
 
-Calculate structural steel tonnage from drawings.
-Include fabrication, transportation, and erection costs.
-Add painting/coating for corrosion protection.
-Include connection bolts, welds, and other consumables.
-Add a steel price fluctuation adjustment clause in the estimate.
+1. Calculate structural steel tonnage from drawings.
+
+2. Include fabrication, transportation, and erection costs.
+
+3. Add painting/coating for corrosion protection.
+
+4. Include connection bolts, welds, and other consumables.
+
+5. Add a steel price fluctuation adjustment clause in the estimate.
+
 Output format: BOQ Spreadsheet (Excel) + Steel Price Adjustment Clause (Word).
 
 Input Files & Code Section:
 
-Structural steel drawings.
-Local steel supplier rate sheet.
-Project location details."
+1. Structural steel drawings.
+
+2. Local steel supplier rate sheet.
+
+3. Project location details."
+
+Prompt 5 — Affordable Housing Project BOQ for Government Tender
+
+Backstory: You’re participating in a government affordable housing scheme tender where cost transparency and adherence to standard rates are mandatory. BOQ must follow CPWD (Central Public Works Department) norms.
+
+Goal: Create a government-compliant BOQ for affordable housing.
+
+Prompt:
+
+"You are a CPWD-Approved Estimator. Prepare a BOQ for an affordable housing project with 200 units as per CPWD norms.
+
+Your task:
+
+1. Follow CPWD DSR (Delhi Schedule of Rates) for unit costs.
+
+2. Include site development, roads, and utilities in the BOQ.
+
+3. Maintain clear item descriptions with unit codes.
+
+4. Ensure the estimate matches tender format.
+
+5. Provide separate BOQs for civil, electrical, and plumbing works.
+
+Output format: BOQ Spreadsheet (Excel) + Tender Submission Document (PDF).
+
+Input Files & Code Section:
+
+1. Housing layout drawings.
+
+2. CPWD DSR rate list.
+
+3. Government tender document."
+
+Prompt 6 — Renovation & Retrofit BOQ
+
+Backstory: You’re tasked with renovating a 30-year-old government office building while keeping part of it operational. The challenge is accurately estimating demolition, retrofitting, and reuse of materials while following heritage conservation guidelines.
+
+Goal: Prepare a BOQ for a partial renovation and retrofitting project.
+
+Prompt:
+
+"You are a Renovation Quantity Estimator. Prepare a detailed BOQ for the retrofit of a 30-year-old government office building in Delhi.
+
+Your task:
+
+1. Include demolition and dismantling quantities with salvageable material credit.
+
+2. Add retrofitting items (structural strengthening, seismic upgrades).
+
+3. Include refurbishment costs for electrical, plumbing, and HVAC systems.
+
+4. Follow heritage and safety regulations for public buildings.
+
+5. Provide phased cost estimates to allow staged execution.
+
+Output format: BOQ Spreadsheet (Excel) + Execution Phase Cost Breakdown (PDF).
+
+Input Files & Code Section:
+
+1. Existing building drawings.
+
+2. Structural audit report.
+
+3. Material salvage list."
+
+Prompt 7 — Industrial Warehouse BOQ with Mezzanine Floors
+
+Backstory: A logistics company wants to build a 50,000 sq ft warehouse with a steel mezzanine floor. They need an estimate that includes both heavy-duty ground floor racking and load-bearing mezzanine construction.
+
+Goal: Prepare a BOQ that covers the complete industrial warehouse project.
+
+Prompt:
+
+"You are a Warehouse Construction Estimator. Create a BOQ for a 50,000 sq ft warehouse with mezzanine floors for additional storage.
+
+Your task:
+
+1. Include site preparation, RCC flooring, and steel mezzanine framing.
+
+2. Add material handling equipment installation costs.
+
+3. Provide separate estimates for fire safety and lighting systems.
+
+4. Include racking system installation costs.
+
+5. Allow contingency for future expansion.
+
+Output format: BOQ Spreadsheet (Excel) + Mezzanine Structural Details (PDF).
+
+Input Files & Code Section:
+
+1. Warehouse layout drawings.
+
+2. Structural load requirements.
+
+3. MEP (Mechanical, Electrical, Plumbing) plans."
+
+
