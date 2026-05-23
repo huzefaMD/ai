@@ -900,24 +900,280 @@ Input Files & Code Section:
 3. MEP installation plans."
 
 Prompt 4 — Hospital Expansion Schedule
+
 Backstory: A hospital in Hyderabad is expanding its facilities while remaining operational. This requires careful planning to avoid disruption to patient services, especially for critical departments like ICUs and OTs.
 
 Goal: Create a phased construction schedule that allows medical operations to continue.
 
 Prompt:
+
 "You are a Healthcare Facility Project Scheduler. Create a phased construction schedule for a hospital expansion in Hyderabad.
 
 Your task: 
 
-Plan construction works in sections to keep critical areas operational. 
-Schedule noisy/dusty activities during off-peak hospital hours. 
-Include timelines for medical equipment relocation. 
-Coordinate with hospital infection control teams. 
-Build in extra time for health authority approvals.
+1. Plan construction works in sections to keep critical areas operational. 
+
+2. Schedule noisy/dusty activities during off-peak hospital hours. 
+
+3. Include timelines for medical equipment relocation. 
+
+4. Coordinate with hospital infection control teams. 
+
+5. Build in extra time for health authority approvals.
+
 Output format: Phased Construction Plan (Excel) + Hospital Operations Impact Report (PDF).
 
 Input Files & Code Section: 
 
-Existing hospital floor plans. 
-Expansion design drawings.
-Hospital department operation schedules."
+1. Existing hospital floor plans. 
+
+2. Expansion design drawings.
+
+3. Hospital department operation schedules."
+
+Prompt 5 — Highway Construction Schedule
+
+Backstory: A 60 km national highway section in Rajasthan is being widened from 2 lanes to 4 lanes. The project must be executed in sections to keep traffic flowing, and has a strict deadline due to government funding terms.
+
+Goal: Prepare a highway widening schedule with minimal traffic disruption.
+
+Prompt:
+
+"You are a Highway Project Scheduler. Prepare a phased schedule for widening a 60 km national highway from 2 lanes to 4 lanes in Rajasthan.
+
+Your task:
+
+1. Divide the project into workable stretches with traffic diversion plans.
+
+2. Allocate resources for simultaneous work on multiple sections.
+
+3. Include timelines for roadbed preparation, paving, and marking.
+
+4. Add milestones for NHAI (National Highways Authority of India) inspections.
+
+5. Account for seasonal weather impacts on road works.
+
+Output format: Phased Highway Construction Schedule (Excel) + Traffic Diversion Plan (PDF).
+
+Input Files & Code Section:
+
+1. Highway design drawings.
+
+2. Traffic management plan.
+
+3. NHAI compliance requirements."
+
+Prompt 6 — Luxury Hotel Construction Schedule
+
+Backstory: A luxury beachfront hotel in Goa is scheduled to open before the tourist season. Multiple international suppliers are involved for materials, making shipping timelines a key factor.
+
+Goal: Create a construction and fit-out schedule that ensures the hotel opens before peak season.
+
+Prompt:
+
+"You are a Hospitality Project Scheduler. Prepare a construction and fit-out schedule for a 200-room beachfront hotel in Goa.
+
+Your task:
+
+1. Align civil works, interiors, and landscaping to finish before December.
+
+2. Include procurement timelines for imported materials and furniture.
+
+3. Build in customs clearance and shipping delays.
+
+4. Sequence luxury fit-outs after weather-sensitive works.
+
+5. Include a final week for pre-opening trials and training.
+
+Output format: Gantt Chart (Excel) + Supplier Delivery Schedule (PDF).
+
+Input Files & Code Section:
+
+1. Hotel master plan.
+
+2. Supplier order confirmations.
+
+3. Seasonal weather data."
+
+Prompt 7 — School Renovation While in Use
+
+Backstory: A school in Delhi is undergoing major renovations during the academic year. Work must be scheduled during vacations and weekends to avoid class disruptions.
+
+Goal: Create a renovation schedule that prioritizes student safety and minimal class disruption.
+
+Prompt:
+
+"You are an Educational Facility Scheduler. Create a renovation schedule for an operational school in Delhi.
+
+Your task:
+
+1. Prioritize noisy/dusty works during summer and winter breaks.
+
+2. Schedule classroom upgrades during weekends.
+
+3. Include safety barricading and restricted access zones.
+
+4. Allocate resources for quick turnaround during breaks.
+
+5. Build in time for school management approvals.
+
+Output format: Renovation Schedule (Excel) + Safety Compliance Plan (PDF).
+
+Input Files & Code Section:
+
+1. School academic calendar.
+
+2. Renovation drawings.
+
+3. List of work areas by priority."
+
+Prompt 8 — Industrial Plant Shutdown Maintenance Schedule
+
+Backstory: A manufacturing plant in Gujarat is scheduling a 15-day shutdown for maintenance. All works must be completed within this window to avoid production losses.
+
+Goal: Create a maintenance schedule that fits within the shutdown window.
+
+Prompt:
+
+"You are an Industrial Maintenance Scheduler. Prepare a detailed shutdown maintenance schedule for a manufacturing plant in Gujarat.
+
+Your task:
+
+1. Sequence mechanical, electrical, and automation system checks.
+
+2. Minimize idle time between teams by parallelizing tasks.
+
+3. Allocate shifts to maximize 24/7 work during shutdown.
+
+4. Include contingency for unexpected repairs.
+
+5. Highlight the restart and commissioning timeline.
+
+Output format: Shutdown Schedule (Excel) + Shift Allocation Plan (PDF).
+
+Input Files & Code Section:
+
+1. Plant maintenance checklist.
+
+2. Equipment downtime limits.
+
+3. Contractor availability list."
+
+Prompt 9 — Stadium Construction Before Event
+
+Backstory: A cricket stadium in Ahmedabad is being upgraded for an upcoming international event. The deadline is non-negotiable, and delays could lead to penalties.
+
+Goal: Create a high-speed construction schedule for stadium upgrades.
+
+Prompt:
+
+"You are a Sports Facility Scheduler. Prepare a high-speed construction schedule for a cricket stadium upgrade in Ahmedabad.
+
+Your task:
+
+1. Prioritize pitch and seating upgrades.
+
+2. Include MEP and broadcast facility installations.
+
+3. Allocate multiple teams for parallel work zones.
+
+4. Build in security and accreditation checks before event.
+
+5. Ensure readiness at least 1 week before the event date.
+
+Output format: Event Deadline Construction Schedule (Excel) + Readiness Checklist (PDF).
+
+Input Files & Code Section:
+
+1. Stadium layout and upgrade plans.
+
+2. Event schedule.
+
+3. Contractor work breakdown."
+
+Prompt 10 — Mall Refurbishment in Phases
+
+Backstory: A shopping mall in Chennai is undergoing refurbishment while keeping shops operational. The schedule must minimize impact on tenants’ business.
+
+Goal: Create a phased refurbishment schedule for minimal tenant disruption.
+
+Prompt:
+
+"You are a Retail Space Project Scheduler. Create a phased refurbishment schedule for a shopping mall in Chennai.
+
+Your task:
+
+1. Plan works section by section to keep most shops open.
+
+2. Schedule noisy work at night.
+
+3. Include temporary signage and customer flow plans.
+
+4. Coordinate with tenants on delivery schedules.
+
+5. Build in a marketing phase for the reopening.
+
+Output format: Phased Refurbishment Schedule (Excel) + Tenant Coordination Plan (PDF).
+
+Input Files & Code Section:
+
+1. Mall floor plans.
+
+2. Tenant occupancy list.
+
+3. Night work permit requirements."
+
+Prompt 11 — Railway Track Doubling Schedule
+
+Backstory: Indian Railways is doubling a section of track to improve capacity. Works must be scheduled around operational train timings.
+
+Goal: Create a track doubling schedule without major disruption to rail traffic.
+
+Prompt:
+
+"You are a Railway Project Scheduler. Create a construction schedule for doubling a railway track section.
+
+Your task:
+
+1. Sequence works for earthwork, track laying, signaling, and electrification.
+
+2. Integrate work windows into train time slots.
+
+3. Include night working in low-traffic periods.
+
+4. Add milestones for railway safety inspections.
+
+5. Build in contingency for unexpected operational needs.
+
+Output format: Track Doubling Schedule (Excel) + Train Disruption Mitigation Plan (PDF).
+
+Input Files & Code Section:
+
+1. Railway alignment plan.
+
+2. Train schedule.
+
+3. Safety inspection checklist."
+
+Prompt 12 — Data Center Build-Out Schedule
+Backstory: A tech company in Hyderabad is building a data center. The schedule must integrate civil, electrical, HVAC, and IT infrastructure works seamlessly.
+
+Goal: Create a build-out schedule that ensures readiness for server installation on time.
+
+Prompt:
+"You are a Data Center Project Scheduler. Prepare a build-out schedule for a Tier-4 data center in Hyderabad.
+
+Your task:
+
+Sequence civil, raised flooring, and MEP works.
+Integrate precision cooling and UPS installation.
+Include IT rack setup timelines.
+Build in redundancy checks before commissioning.
+Align schedule with client’s go-live date.
+Output format: Build-Out Schedule (Excel) + Commissioning Checklist (PDF).
+
+Input Files & Code Section:
+
+Data center design drawings.
+IT equipment delivery schedules.
+HVAC system specs."
