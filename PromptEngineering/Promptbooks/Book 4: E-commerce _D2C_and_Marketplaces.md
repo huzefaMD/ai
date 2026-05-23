@@ -3837,6 +3837,270 @@ Inputs Needed:
 
 3. Brand style guide."
 
+Prompt 9 — Seasonal Sale ROI Calculator
 
+Backstory: Your marketing team struggles to track real ROI from seasonal campaigns.
+
+Goal: Build an ROI calculator that factors in marketing spend, discounts, and inventory cost.
+
+Prompt:
+
+"You are an E-commerce Financial Analyst. Create a seasonal sale ROI calculator.
+
+Tasks:
+
+1. Include inputs for ad spend, discount percentage, and product cost.
+
+2. Factor in returns and cancellations.
+
+3. Show real-time ROI calculation during the sale.
+
+4. Provide a report for post-sale financial analysis.
+
+5. Include sensitivity analysis for different discount levels.
+
+Output Format:
+
+1. ROI Calculator (Excel)
+
+2. Post-Sale Financial Report Template (DOCX)
+
+3. Sensitivity Analysis Sheet (Excel)
+
+Inputs Needed:
+
+1. Campaign spend data
+
+2. Sales volume data
+
+3. Return/cancellation rates."
+
+Prompt 10 — Loyalty Member Exclusive Sales
+
+Backstory: Your loyalty program members contribute 40% of total revenue but often don’t get special treatment during sales.
+
+Goal: Launch an exclusive pre-sale for loyalty members.
+
+Prompt:
+
+"You are a Customer Retention Strategist. Create an exclusive pre-sale plan for loyalty members.
+
+Tasks:
+
+1. Define eligibility criteria for early access.
+
+2. Suggest communication strategy via email/SMS/app notifications.
+
+3. Plan special bundles or discounts for members only.
+
+4. Include post-purchase appreciation gestures.
+
+5. Measure uplift in loyalty engagement post-sale.
+
+Output Format:
+
+1. Pre-Sale Campaign Plan (DOCX)
+
+2. Communication Templates (Excel)
+
+3. Engagement Uplift Report (Excel)
+
+Inputs Needed:
+
+1. Loyalty program member list
+
+2. Discount budget
+
+3. Inventory allocation."
+
+Prompt 11 — Festival Calendar Integration for Marketing
+
+Backstory: In India, sales success often depends on syncing promotions with festivals like Diwali, Holi, Eid, Raksha Bandhan, and regional events like Pongal and Onam. Your past campaigns missed smaller festivals that could have driven niche audience sales.
+
+Goal: Build a yearly marketing calendar that aligns all seasonal sales with both national and regional Indian festivals, optimizing promotions for each.
+
+Prompt:
+
+"You are an Indian Festival Marketing Strategist. Build a 12-month marketing calendar that aligns sales events with Indian festivals and regional celebrations.
+
+Tasks:
+
+1. List 20+ major and regional festivals with expected spending patterns.
+
+2. Suggest product categories that perform best in each festival.
+
+3. Recommend discount patterns for high, medium, and low competition periods.
+
+4. Create campaign launch timelines counting down from 30 days before each festival.
+
+5. Suggest culturally relevant content themes for creatives and ads.
+
+Output Format:
+
+1. Annual Festival Calendar (Excel)
+
+2. Festival-Specific Offer Ideas (DOCX)
+
+3. Creative Theme Guide (PDF)
+
+Inputs Needed:
+
+1. Product catalog
+
+2. Historical festival-wise sales data
+
+3. Ad budget allocation."
+   
+Prompt 12 — Hyperlocal Festive Campaigns
+
+Backstory: Customers in Punjab celebrate Lohri differently than customers in Tamil Nadu celebrate Pongal. Generic nationwide campaigns don’t resonate equally everywhere.
+
+Goal: Create hyperlocal seasonal sale strategies tailored to regional festivals, languages, and customs.
+
+Prompt:
+
+"You are an E-commerce Hyperlocal Marketing Expert. Build region-specific seasonal campaigns for India’s top 8 states by sales volume.
+
+Tasks:
+
+1. Identify top-selling products in each state during its peak festival season.
+
+2. Localize ad creatives in relevant languages and cultural styles.
+
+3. Suggest region-specific influencer partnerships.
+
+4. Define geo-targeted ad campaigns on Facebook, Instagram, and Google.
+
+5. Provide performance tracking metrics per region.
+
+Output Format:
+
+1. State-wise Campaign Plan (Excel)
+
+2. Language & Creative Adaptation Guide (DOCX)
+
+3. Regional Influencer List (Excel)
+
+Inputs Needed:
+
+1. State-wise sales data
+
+2. Product catalog with margins
+
+List of available language translation resources."
+
+Prompt 13 — Limited-Time Drop Strategy
+
+Backstory: In last year’s Diwali sale, products that were available for the full 10 days saw average engagement, while those launched mid-sale as surprise drops sold out in hours.
+
+Goal: Implement a limited-time product drop strategy to create urgency and drive repeat visits.
+
+Prompt:
+
+"You are a Product Launch Strategist. Design a limited-time product drop schedule for a 10-day seasonal sale.
+
+Tasks:
+
+1. Select products for surprise mid-sale launches.
+
+2. Plan teaser campaigns to build suspense before drops.
+
+3. Recommend stock quantities to avoid overproduction.
+
+4. Suggest push notification and email timing for each drop.
+
+5. Provide post-drop engagement tactics to maintain hype.
+
+Output Format:
+
+1. Drop Schedule (Excel)
+
+2. Teaser Campaign Templates (DOCX)
+
+3. Push Notification Copy (Excel)
+
+Inputs Needed:
+
+1. Product catalog
+
+2. Expected daily traffic
+
+3. Notification platform access."
+
+Prompt 14 — Cross-Category Bundling
+
+Backstory: During Holi, your beauty brand sells colors and skin-care products. When bundled together as a “Holi Essentials Kit,” last year’s sales doubled.
+
+Goal: Build smart seasonal product bundles that increase average order value.
+
+Prompt:
+
+"You are an E-commerce Bundling Specialist. Create seasonal product bundles for 3 upcoming festivals.
+
+Tasks:
+
+1. Identify complementary SKUs with high margin.
+
+2. Bundle slow-moving items with fast sellers to clear stock.
+
+3. Suggest festive packaging ideas for each bundle.
+
+4. Set discounted bundle pricing while protecting margins.
+
+5. Create bundle-specific landing pages.
+
+Output Format:
+
+1. Bundle List with Pricing (Excel)
+
+2. Packaging Concept Guide (PDF)
+
+3. Landing Page Content (DOCX)
+
+Inputs Needed:
+
+1. SKU-level sales & margin data
+
+2. Packaging vendor capabilities
+
+Website CMS access."
+
+Prompt 15 — Flash Sale Gamification
+
+Backstory: Your audience gets bored during long sales. Adding gamified elements like spin-the-wheel discounts and hourly challenges keeps them engaged.
+
+Goal: Design gamified seasonal sale elements to increase site time and conversion.
+
+Prompt:
+
+"You are a Gamification Expert for E-commerce. Design a gamified experience for a 5-day festive sale.
+
+Tasks:
+
+1. Suggest 3 games (spin wheel, treasure hunt, mystery box) relevant to the festival theme.
+
+2. Define winning odds and prize distribution.
+
+3. Create rules to encourage repeat visits (e.g., 1 spin/day).
+
+4. Integrate leaderboard and social sharing options.
+
+5. Track engagement and conversion rates for gamified features.
+
+Output Format:
+
+1. Game Mechanics Document (DOCX)
+
+2. UI Wireframes (PDF)
+
+3. Prize Distribution Plan (Excel)
+
+Inputs Needed:
+
+1. Website gamification tool capabilities
+
+2. Festival theme details
+
+3. Prize budget."
 
    
