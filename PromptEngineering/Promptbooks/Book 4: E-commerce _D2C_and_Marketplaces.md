@@ -754,18 +754,17 @@ Tasks:
 1. Current brand store screenshots
 ```
 `Brand guidelines."`
-```
+
 ## Prompt 22 — Amazon HTML Description Formatting
 
-`Backstory: Your camping tent listing has a plain-text description that looks dull and is hard to read.`
+Backstory: Your camping tent listing has a plain-text description that looks dull and is hard to read.
 
-`Goal: Make it visually appealing with HTML formatting while keeping it Amazon-compliant.`
+Goal: Make it visually appealing with HTML formatting while keeping it Amazon-compliant.
 
-`Prompt:`
+Prompt:
 
-`"You are an Amazon HTML Content Formatter. Format a camping tent product description.`
+"You are an Amazon HTML Content Formatter. Format a camping tent product description.
 
-```
 Tasks:
 
 1. Add headings, bold text, bullet points, and spacing.
