@@ -755,7 +755,7 @@ Tasks:
 ```
 `Brand guidelines."`
 ```
- ## Prompt 22 — Amazon HTML Description Formatting
+## Prompt 22 — Amazon HTML Description Formatting
 
 `Backstory: Your camping tent listing has a plain-text description that looks dull and is hard to read.`
 
@@ -788,16 +788,17 @@ Tasks:
 ```
 1.Current product description."
 ```
-Prompt 23 — E-commerce Pricing Psychology Copywriting
+## Prompt 23 — E-commerce Pricing Psychology Copywriting
 
-Backstory: You’re selling Bluetooth speakers priced at ₹2,999. You want to frame the price in a way that feels like a great deal without heavy discounting.
+`Backstory: You’re selling Bluetooth speakers priced at ₹2,999. You want to frame the price in a way that feels like a great deal without heavy discounting.`
 
-Goal: Apply pricing psychology in listing copy.
+`Goal: Apply pricing psychology in listing copy.`
 
-Prompt:
+`Prompt:`
 
-"You are an E-commerce Pricing Copywriter. Optimise listing copy for pricing appeal.
+`"You are an E-commerce Pricing Copywriter. Optimise listing copy for pricing appeal.`
 
+```
 Tasks:
 
 1. Frame price as a value-for-money decision.
@@ -809,19 +810,19 @@ Tasks:
 4. Add urgency (limited stock) ethically.
 
 5. Suggest alternative pricing formats (e.g., ₹2,999 instead of ₹3,000).
-
-Output format:
-
+```
+`Output format:`
+```
 1. Updated Pricing Copy (DOCX)
 
 2. Price Comparison Table (Excel)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Current listing copy
 
 2. Competitor price list."
-
+```
 Prompt 24 — Regional Festival-Specific Listing Adaptation
 
 Backstory: A D2C home fragrance brand wants to adapt product listings for Pongal, Onam, and Diwali.
