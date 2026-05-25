@@ -1881,27 +1881,174 @@ Input Files Required:
 4. Project team credentials."
 
 Prompt 8 — Airport Runway Extension Tender
+
 Backstory: An airport in Goa requires extension of its primary runway to accommodate larger aircraft. Civil aviation authorities have strict quality and safety benchmarks.
 
 Goal: Submit a fully compliant bid meeting DGCA (Directorate General of Civil Aviation) standards.
 
 Prompt:
+
 "You are an Airport Runway Tender Expert. Prepare a bid for a runway extension at Goa International Airport.
 
 Tasks:
 
-Include quality control plans for asphalt and concrete works.
-Show compliance with DGCA and ICAO runway specifications.
-Include detailed safety measures for work in operational airfields.
-Present resource allocation for night work schedules.
+1. Include quality control plans for asphalt and concrete works.
+
+2. Show compliance with DGCA and ICAO runway specifications.
+
+3. Include detailed safety measures for work in operational airfields.
+
+4. Present resource allocation for night work schedules.
+
+Output format:
+
+1. Tender Document (DOCX)
+
+2. Quality Control Plan (PDF)
+
+3. Night Work Resource Schedule (Excel)
+
+Input Files Required:
+
+1. DGCA runway extension specs
+
+2. Airport operation schedule
+
+3. Material compliance certificates
+
+4. Past runway project portfolio."
+
+Prompt 9 — Mega Mall Construction Bid
+
+Backstory: A retail developer in Pune is inviting bids for a mega shopping mall with over 500 retail outlets. The bid must show strong retail fit-out management capabilities.
+
+Goal: Highlight experience in managing large-scale commercial interiors and complex vendor coordination.
+
+Prompt:
+
+"You are a Retail Development Bid Writer. Prepare a bid for constructing and fitting out a mega mall in Pune.
+
+Tasks:
+
+1. Outline construction and retail fit-out sequencing.
+
+2. Show ability to manage multiple vendors for interiors.
+
+3. Include safety plans for high-traffic construction zones.
+
+4. Provide budget allocation for mall amenities.
+
+Output format:
+
+1. Bid Proposal (DOCX)
+
+2. Fit-Out Schedule (Excel)
+
+3. Vendor Coordination Plan (PDF)
+
+Input Files Required:
+
+1. Mall design drawings
+
+2. Vendor list
+
+3. Safety SOPs
+
+4. Past commercial project references."
+
+Prompt 10 — High-Speed Rail Station Tender
+
+Backstory: The National High-Speed Rail Corporation is tendering civil works for a bullet train station in Gujarat. Precision and international quality standards are mandatory.
+
+Goal: Present a high-precision construction methodology and a quality-first bid.
+
+Prompt:
+
+"You are a High-Speed Rail Project Tender Specialist. Draft a bid for constructing a bullet train station in Gujarat.
+
+Tasks:
+
+1. Show compliance with international rail station standards.
+
+2. Present precision construction methodologies for structural and MEP works.
+
+3. Include high-tech quality monitoring tools.
+
+4. Provide a phased construction schedule aligned with railway authority timelines.
+
+Output format:
+
+1. Tender Document (DOCX)
+
+2. Precision Construction Plan (PDF)
+
+3. Phased Schedule (Excel)
+
+Input Files Required:
+
+1. High-speed rail station design
+
+2. Quality monitoring equipment list
+
+3. International compliance guidelines."
+
+Prompt 11 — Port Dredging and Expansion Tender
+
+Backstory: A major port in Andhra Pradesh is tendering for dredging works and berth expansion. Timely execution is critical for shipping schedules.
+
+Goal: Submit a marine works tender with detailed execution and safety planning.
+
+Prompt:
+
+"You are a Marine Infrastructure Tender Expert. Prepare a bid for dredging and berth expansion works at an Andhra Pradesh port.
+
+Tasks:
+
+1. Include detailed dredging methodology and equipment list.
+
+2. Outline berth construction phases with marine safety protocols.
+
+3. Show environmental compliance steps for dredging.
+
+4. Provide delivery milestones aligned with port schedules.
+
+Output format:
+
+1. Tender Proposal (DOCX)
+
+2. Marine Safety Plan (PDF)
+
+3. Equipment Deployment Schedule (Excel)
+
+Input Files Required:
+
+1. Port expansion plans
+
+2. Dredging equipment specs
+
+3. Environmental compliance regulations."
+
+Prompt 12 — Wind Farm Installation Tender
+Backstory: A renewable energy developer in Tamil Nadu is tendering for installation of 50 wind turbines. Logistics and precision assembly are key challenges.
+
+Goal: Prepare a wind power installation bid emphasizing logistics efficiency and safety.
+
+Prompt:
+"You are a Wind Energy Tender Consultant. Draft a bid for installing 50 wind turbines in Tamil Nadu.
+
+Tasks:
+
+Include turbine installation methodology with crane logistics.
+Outline transportation plan for oversized components.
+Present safety measures for high-altitude assembly.
+Provide detailed commissioning schedule.
 Output format:
 
 Tender Document (DOCX)
-Quality Control Plan (PDF)
-Night Work Resource Schedule (Excel)
+Logistics Plan (PDF)
+Commissioning Schedule (Excel)
 Input Files Required:
 
-DGCA runway extension specs
-Airport operation schedule
-Material compliance certificates
-Past runway project portfolio."
+Turbine supplier specs
+Site logistics data
+Crew safety certification list."
