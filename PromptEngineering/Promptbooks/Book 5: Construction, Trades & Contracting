@@ -2173,26 +2173,206 @@ Input Files Required:
 3. Confidentiality agreement template."
 
 Prompt 16 — Smart City Utility Infrastructure Tender
+
 Backstory: A municipal corporation in Madhya Pradesh is tendering for underground utility ducts, smart lighting, and public Wi-Fi installation as part of a Smart City mission. The client values integration of multiple utilities without future digging.
 
 Goal: Submit an integrated infrastructure bid that minimizes future maintenance costs.
 
 Prompt:
+
 "You are a Smart City Infrastructure Tender Specialist. Prepare a proposal for underground ducts, smart lighting, and public Wi-Fi installation.
 
 Tasks:
 
-Integrate multiple utilities into a single duct network.
-Propose IoT-based monitoring for lighting and internet uptime.
-Include coordination plans with telecom and power providers.
-Provide phased execution to avoid traffic disruption.
+1. Integrate multiple utilities into a single duct network.
+
+2. Propose IoT-based monitoring for lighting and internet uptime.
+
+3. Include coordination plans with telecom and power providers.
+
+4. Provide phased execution to avoid traffic disruption.
+
+Output format:
+
+1. Tender Proposal (DOCX)
+
+2. Integrated Utility Layout (PDF)
+
+3. Phased Execution Plan (Excel)
+
+Input Files Required:
+
+1. Smart City master plan
+
+2. Telecom & power coordination guidelines
+
+3. IoT monitoring vendor list."
+
+Prompt 17 — Water Treatment Plant Tender
+
+Backstory: A state water board in Kerala is inviting tenders for a new 200 MLD (Million Litres per Day) water treatment plant. The evaluation prioritizes low operating cost and water quality compliance.
+
+Goal: Submit a compliant bid with proven treatment technologies.
+
+Prompt:
+
+"You are a Water Treatment Tender Consultant. Prepare a proposal for a 200 MLD water treatment plant in Kerala.
+
+Tasks:
+
+1. Include process flow diagrams and plant layout.
+
+2. Highlight energy-efficient treatment methods.
+
+3. Provide O&M cost estimates for 10 years.
+
+4. Show compliance with CPCB (Central Pollution Control Board) water standards.
+
+Output format:
+
+1. Technical Proposal (DOCX)
+
+2. Process Flow Diagram (PDF)
+
+3. O&M Cost Projection (Excel)
+
+Input Files Required:
+
+1. Plant site survey report
+
+2. Water quality test results
+
+3. Technology supplier MOUs."
+
+Prompt 18 — Stadium Construction Tender
+
+Backstory: A state sports authority in Odisha is inviting bids for a 50,000-seat cricket stadium with an integrated training academy. Timely completion is crucial for hosting an upcoming international event.
+
+Goal: Submit a fast-track stadium construction bid with quality and crowd management features.
+
+Prompt:
+
+"You are a Sports Infrastructure Tender Specialist. Draft a proposal for a 50,000-seat cricket stadium in Odisha.
+
+Tasks:
+
+1. Include high-strength concrete and structural design for crowd safety.
+
+2. Present phased construction plan to meet event deadlines.
+
+3. Add integrated evacuation and crowd control systems.
+
+4. Propose stadium MEP systems with backup power.
+
+Output format:
+
+1. Tender Proposal (DOCX)
+
+2. Phased Construction Plan (Excel)
+
+3. Safety & Crowd Control Layout (PDF)
+
+Input Files Required:
+
+1. Stadium architectural drawings
+
+2. Seating & capacity plan
+
+3. MEP design guidelines."
+
+Prompt 19 — Highway Toll Plaza Construction Tender
+
+Backstory: NHAI is inviting bids for 10 toll plazas on a newly constructed highway. The focus is on fast toll collection systems and high vehicle throughput.
+
+Goal: Submit a bid that ensures operational efficiency and durability.
+
+Prompt:
+
+"You are a Toll Infrastructure Tender Consultant. Prepare a bid for constructing 10 highway toll plazas with automated toll systems.
+
+Tasks:
+
+1. Include RFID and FASTag integration.
+
+2. Present queue management systems and lane layouts.
+
+3. Provide rainproof canopy designs and durable pavement.
+
+4. Include a 5-year maintenance plan.
+
+Output format:
+
+1. Tender Proposal (DOCX)
+
+2. Toll Lane Layout (PDF)
+
+3. Maintenance Plan (Excel)
+
+Input Files Required:
+
+1. NHAI toll design standards
+
+2. Automated toll system vendor specs
+
+3. Site survey data."
+
+Prompt 20 — Industrial Warehouse Cluster Tender
+
+Backstory: A logistics company in Haryana is tendering for a cluster of warehouses with cold storage. The focus is on energy efficiency and scalability.
+
+Goal: Submit a scalable warehouse design bid with minimal operating costs.
+
+Prompt:
+
+"You are a Logistics Infrastructure Tender Writer. Draft a bid for an industrial warehouse cluster in Haryana.
+
+Tasks:
+
+1. Include modular design for easy expansion.
+
+2. Add solar-powered cold storage provisions.
+
+3. Provide inventory handling and automation plans.
+
+4. Include stormwater drainage design.
+
+Output format:
+
+1. Tender Document (DOCX)
+
+2. Modular Layout Plan (PDF)
+
+3. Energy Efficiency Report (Excel)
+
+Input Files Required:
+
+1. Land survey
+
+2. Cold storage specs
+
+3. Solar panel supplier list."
+
+Prompt 21 — School Infrastructure Tender
+Backstory: A state education board in Assam is inviting bids for 100 government school buildings under a rural development scheme. The focus is on cost efficiency and cyclone-resistant designs.
+
+Goal: Submit a compliant tender for rural school infrastructure.
+
+Prompt:
+"You are a Rural Infrastructure Tender Consultant. Prepare a bid for constructing 100 cyclone-resistant school buildings in Assam.
+
+Tasks:
+
+Propose low-cost, durable materials.
+Include simple, modular designs for faster construction.
+Show compliance with disaster resilience codes.
+Provide local labor engagement plan.
 Output format:
 
 Tender Proposal (DOCX)
-Integrated Utility Layout (PDF)
-Phased Execution Plan (Excel)
+Structural Design Layout (PDF)
+Cost Breakdown (Excel)
 Input Files Required:
 
-Smart City master plan
-Telecom & power coordination guidelines
-IoT monitoring vendor list."
+Rural development scheme guidelines
+Structural design code for cyclone zones
+Local supplier list."
