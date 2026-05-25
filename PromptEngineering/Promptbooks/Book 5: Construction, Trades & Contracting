@@ -2029,26 +2029,170 @@ Input Files Required:
 3. Environmental compliance regulations."
 
 Prompt 12 — Wind Farm Installation Tender
+
 Backstory: A renewable energy developer in Tamil Nadu is tendering for installation of 50 wind turbines. Logistics and precision assembly are key challenges.
 
 Goal: Prepare a wind power installation bid emphasizing logistics efficiency and safety.
 
 Prompt:
+
 "You are a Wind Energy Tender Consultant. Draft a bid for installing 50 wind turbines in Tamil Nadu.
 
 Tasks:
 
-Include turbine installation methodology with crane logistics.
-Outline transportation plan for oversized components.
-Present safety measures for high-altitude assembly.
-Provide detailed commissioning schedule.
+1. Include turbine installation methodology with crane logistics.
+
+2. Outline transportation plan for oversized components.
+
+3. Present safety measures for high-altitude assembly.
+
+4. Provide detailed commissioning schedule.
+
 Output format:
 
-Tender Document (DOCX)
-Logistics Plan (PDF)
-Commissioning Schedule (Excel)
+1. Tender Document (DOCX)
+
+2. Logistics Plan (PDF)
+
+3. Commissioning Schedule (Excel)
+
 Input Files Required:
 
-Turbine supplier specs
-Site logistics data
-Crew safety certification list."
+1. Turbine supplier specs
+
+2. Site logistics data
+
+3. Crew safety certification list."
+
+Prompt 13 — Luxury Hotel Construction Tender
+
+Backstory: An international hotel chain is seeking bids for a 5-star hotel in Jaipur with heritage-themed architecture. High-end finishes and luxury standards are mandatory.
+
+Goal: Submit a luxury-focused bid showcasing hospitality construction experience.
+
+Prompt:
+
+"You are a Hospitality Construction Bid Writer. Prepare a bid for building a 5-star heritage-themed hotel in Jaipur.
+
+Tasks:
+
+1. Highlight expertise in luxury finishes and detailing.
+
+2. Include mock-up room completion timeline.
+
+3. Provide vendor list for premium materials.
+
+4. Show compliance with global hotel chain standards.
+
+Output format:
+
+1. Bid Document (DOCX)
+
+2. Luxury Material Specification List (PDF)
+
+3. Mock-Up Room Schedule (Excel)
+
+Input Files Required:
+
+1. Hotel design drawings
+
+2. Vendor MOUs
+
+3. Past luxury hospitality project portfolio."
+
+Prompt 14 — Railway Bridge Construction Tender
+
+Backstory: Indian Railways is inviting bids for a steel truss railway bridge over a major river in Bihar. Work involves heavy structural steel fabrication and river engineering.
+
+Goal: Prepare a railway bridge tender with strong engineering and safety focus.
+
+Prompt:
+
+"You are a Railway Infrastructure Tender Specialist. Draft a bid for constructing a steel truss railway bridge in Bihar.
+
+Tasks:
+
+1. Include fabrication, transportation, and erection methodology.
+
+2. Provide river safety and flood mitigation plans.
+
+3. Show past railway bridge construction experience.
+
+4. Align construction schedule with railway traffic blocks.
+
+Output format:
+
+1. Tender Document (DOCX)
+
+2. Flood Safety Plan (PDF)
+
+3. Construction Schedule (Excel)
+
+Input Files Required:
+
+1. Bridge design
+
+2. Traffic block schedule
+
+3. Steel fabrication vendor list."
+
+Prompt 15 — Defence Infrastructure Tender
+
+Backstory: The Ministry of Defence is inviting bids for construction of housing and training facilities inside a secure military base in Rajasthan.
+
+Goal: Submit a tender compliant with security clearance and defence construction protocols.
+
+Prompt:
+
+"You are a Defence Infrastructure Tender Consultant. Prepare a bid for constructing housing and training facilities in a Rajasthan military base.
+
+Tasks:
+
+1. Include security-cleared staff deployment plan.
+
+2. Present material transportation and storage security protocols.
+
+3. Highlight construction methodology for high-security areas.
+
+4. Include confidentiality agreements and clearance documentation.
+
+Output format:
+
+1. Tender Document (DOCX)
+
+2. Security Protocol Plan (PDF)
+
+3. Resource Deployment Schedule (Excel)
+
+Input Files Required:
+
+1. Defence tender document
+
+2. Security clearance requirements
+
+3. Confidentiality agreement template."
+
+Prompt 16 — Smart City Utility Infrastructure Tender
+Backstory: A municipal corporation in Madhya Pradesh is tendering for underground utility ducts, smart lighting, and public Wi-Fi installation as part of a Smart City mission. The client values integration of multiple utilities without future digging.
+
+Goal: Submit an integrated infrastructure bid that minimizes future maintenance costs.
+
+Prompt:
+"You are a Smart City Infrastructure Tender Specialist. Prepare a proposal for underground ducts, smart lighting, and public Wi-Fi installation.
+
+Tasks:
+
+Integrate multiple utilities into a single duct network.
+Propose IoT-based monitoring for lighting and internet uptime.
+Include coordination plans with telecom and power providers.
+Provide phased execution to avoid traffic disruption.
+Output format:
+
+Tender Proposal (DOCX)
+Integrated Utility Layout (PDF)
+Phased Execution Plan (Excel)
+Input Files Required:
+
+Smart City master plan
+Telecom & power coordination guidelines
+IoT monitoring vendor list."
