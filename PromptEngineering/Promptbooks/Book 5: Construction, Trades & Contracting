@@ -1653,27 +1653,141 @@ Input Files Required:
 4. Rate analysis sheet."
 
 Prompt 2 — Private Sector Commercial Complex Bid
+
 Backstory: A real estate developer in Bengaluru is seeking bids for constructing a G+10 commercial complex with LEED Gold certification. Competition is intense, and the client values green building practices and early delivery.
 
 Goal: Create a value-driven proposal highlighting sustainability and early completion without inflating costs.
 
 Prompt:
+
 "You are a Commercial Construction Bid Writer specializing in green building tenders. Prepare a comprehensive bid for the construction of a G+10 commercial complex in Bengaluru aiming for LEED Gold certification.
 
 Tasks:
 
-Highlight green construction practices, including energy-efficient MEP systems, recycled materials, and rainwater harvesting.
-Propose an accelerated construction schedule, showing how timelines will be met without compromising quality.
-Include a detailed resource allocation plan (manpower, machinery, subcontractors).
-Draft a cost-benefit section justifying sustainable material choices.
+1. Highlight green construction practices, including energy-efficient MEP systems, recycled materials, and rainwater harvesting.
+
+2. Propose an accelerated construction schedule, showing how timelines will be met without compromising quality.
+
+3. Include a detailed resource allocation plan (manpower, machinery, subcontractors).
+
+4. Draft a cost-benefit section justifying sustainable material choices.
+
 Output format:
 
-Proposal Document (DOCX) with executive summary
-Accelerated Schedule (Excel)
-Sustainability Compliance Report (PDF)
+1. Proposal Document (DOCX) with executive summary
+
+2. Accelerated Schedule (Excel)
+
+3. Sustainability Compliance Report (PDF)
+
 Input Files Required:
 
-Project brief (PDF)
-Material supplier quotes
-LEED Gold requirement checklist
-Equipment availability list."
+1. Project brief (PDF)
+
+2. Material supplier quotes
+
+3. LEED Gold requirement checklist
+
+4. Equipment availability list."
+
+Prompt 3 — Metro Station Civil Works Tender
+
+Backstory: A metro authority in Lucknow is inviting bids for civil works of a new metro station, including structural RCC, finishing, and MEP provisions. Metro tenders are highly technical, with a focus on precision execution and safety compliance.
+
+Goal: Draft a technical bid that demonstrates advanced safety procedures and high precision in civil works.
+
+Prompt:
+
+"You are a Metro Civil Works Tender Specialist. Prepare a technical bid for the civil works of a metro station in Lucknow, ensuring all safety and quality compliance is met.
+
+Tasks:
+
+1. Present construction methodology, emphasizing safety in confined spaces and heavy lifting.
+
+2. Include QA/QC procedures in compliance with metro standards.
+
+3. Attach detailed work schedule aligned with authority’s milestones.
+
+4. Provide staff qualification details (engineers, safety officers, supervisors).
+
+Output format:
+
+1. Technical Proposal (DOCX)
+
+2. Work Schedule (Excel)
+
+3. Safety Compliance Plan (PDF)
+
+Input Files Required:
+
+1. Metro authority tender document
+
+2. Staff CVs & certifications
+
+3. List of owned & hired machinery
+
+4. Safety SOPs & insurance documents."
+
+Prompt 4 — EPC Contract for Solar Power Plant
+
+Backstory: A renewable energy company in Gujarat is tendering for an EPC (Engineering, Procurement, and Construction) contract for a 100 MW solar power plant. They prioritize bidders who can deliver on time and offer competitive O&M packages.
+
+Goal: Prepare a bid package that showcases engineering expertise, procurement network, and O&M capabilities.
+
+Prompt:
+
+"You are an EPC Tender Consultant. Prepare a bid package for a 100 MW solar power plant EPC contract in Gujarat.
+
+Tasks:
+
+1. Include engineering design capabilities, with solar farm layout and electrical schematics.
+
+2. Provide a procurement plan for panels, inverters, and mounting structures.
+
+3. Detail construction phases with weather risk mitigation strategies.
+
+4. Offer an optional 5-year O&M plan to increase bid attractiveness.
+
+Output format:
+
+1. EPC Bid Document (DOCX)
+
+2. Procurement Schedule (Excel)
+
+3. O&M Proposal (PDF)
+
+Input Files Required:
+
+1. Solar plant technical specs
+
+2. Supplier MOUs
+
+3. Past EPC project portfolio
+
+4. Local weather data."
+
+Prompt 5 — Public Building Restoration Tender
+Backstory: A heritage building in Kolkata, owned by the government, requires structural restoration and facade preservation. The tender emphasizes heritage conservation techniques and previous restoration experience.
+
+Goal: Create a heritage restoration tender bid that highlights specialized conservation skills.
+
+Prompt:
+"You are a Heritage Restoration Tender Writer. Prepare a restoration tender for a government-owned heritage building in Kolkata.
+
+Tasks:
+
+Describe structural repair methodology using non-invasive techniques.
+Detail facade preservation processes, including lime plastering and stone cleaning.
+Include case studies of past restoration projects.
+Attach specialist conservation architect and craftsman profiles.
+Output format:
+
+Restoration Tender Document (DOCX)
+Method Statement (PDF)
+Project Portfolio (PDF)
+Input Files Required:
+
+Building condition assessment report
+Heritage conservation guidelines
+Team CVs & restoration credentials
+Material sourcing plan."
