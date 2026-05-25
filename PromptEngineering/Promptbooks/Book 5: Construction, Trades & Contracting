@@ -3705,3 +3705,278 @@ Input Files Required:
 2. Incident reports
 
 3. Geological survey updates."
+
+Prompt 7 — Cost Status Report for Client
+
+Backstory: A commercial complex project in Hyderabad is halfway through construction. The client requires a monthly budget vs actual cost report to monitor financial health.
+
+Goal: Provide a clear financial status update, including trends and forecasts.
+
+Prompt:
+
+"You are a Construction Project Cost Analyst. Prepare a cost status report for a commercial complex in Hyderabad.
+
+Tasks:
+
+1. Compare actual costs to budget for each work package.
+
+2. Include variance analysis and reasons for deviations.
+
+3. Forecast cost-to-complete for the remaining project.
+
+4. Use charts for better visualization.
+
+5. Suggest cost control measures.
+
+Output format:
+
+1. Cost Status Report (PDF)
+
+2. Cost Variance Dashboard (Excel/Power BI)
+
+Input Files Required:
+
+1. Updated budget data
+
+2. Purchase order records
+
+3. Contractor invoices."
+
+Prompt 8 — Client Handover Progress Sheet
+
+Backstory: A shopping mall in Pune is nearing completion, with multiple tenants waiting for handover. The client wants a clear view of handover readiness per unit.
+
+Goal: Create a unit-wise handover readiness tracker.
+
+Prompt:
+
+"You are a Handover Coordination Specialist. Create a progress tracker for tenant handovers in a shopping mall project.
+
+Tasks:
+
+1. List all units with assigned tenants.
+
+2. Show % completion for civil, MEP, and finishing works.
+
+3. Mark units ready for inspection.
+
+4. Include snag list status for each unit.
+
+5. Provide estimated handover dates.
+
+Output format:
+
+1. Handover Progress Sheet (Excel)
+
+2. Snag List Status Report (PDF)
+
+Input Files Required:
+
+1. Tenant allocation sheet
+
+2. Site inspection reports
+
+3. Snag list data."
+
+Prompt 9 — Contractor Performance Report for Client
+
+Backstory: In a metro station construction project in Lucknow, multiple subcontractors are working on different packages. The client wants a monthly contractor performance evaluation.
+
+Goal: Present subcontractor performance metrics in a clear, comparative format.
+
+Prompt:
+
+"You are a Construction Performance Monitoring Expert. Prepare a monthly contractor performance report for a metro station project in Lucknow.
+
+Tasks:
+
+1. Evaluate productivity against planned outputs.
+
+2. Assess quality compliance based on inspections.
+
+3. Track safety incidents for each contractor.
+
+4. Provide a ranking table for easy comparison.
+
+5. Highlight top performers and underperformers.
+
+Output format:
+
+1. Contractor Performance Report (PDF)
+
+2. Ranking Table (Excel)
+
+Input Files Required:
+
+1. Work progress data
+
+2. Inspection reports
+
+3. Safety records."
+
+Prompt 10 — Daily Progress Email to Client
+
+Backstory: A hospital construction project in Jaipur is in its final month, requiring close daily coordination with the client for fast issue resolution.
+
+Goal: Draft a daily progress email that is brief but informative.
+
+Prompt:
+
+"You are a Construction Site Communication Coordinator. Draft a daily update email for a hospital project in Jaipur.
+
+Tasks:
+
+1. Summarize completed activities for the day.
+
+2. Note issues requiring client feedback.
+
+3. List planned activities for tomorrow.
+
+4. Attach 2–3 progress photos.
+
+5. Keep it under 250 words for quick reading.
+
+Output format:
+
+1. Daily Progress Email Draft (DOCX)
+
+Input Files Required:
+
+1. Daily site log
+
+2. Photos from site
+
+3. Updated activity list."
+
+Prompt 11 — Milestone Completion Report
+
+Backstory: A flyover project in Nagpur has achieved its mid-project milestone: completion of all piers. The client requires an official milestone completion report for internal approvals.
+
+Goal: Document milestone completion with evidence and approvals.
+
+Prompt:
+
+"You are a Construction Documentation Specialist. Prepare a milestone completion report for the pier construction phase of a flyover in Nagpur.
+
+Tasks:
+
+1. Summarize work scope completed.
+
+2. Include inspection and test results.
+
+3. Attach photographic evidence.
+
+4. Obtain sign-off sections for engineers and client representatives.
+
+5. Add a short statement on next steps.
+
+Output format:
+
+1. Milestone Completion Report (PDF)
+
+2. Photo Evidence Folder (JPEG/PNG)
+
+Input Files Required:
+
+1. Inspection records
+
+2. Site photos
+
+3. Work completion certificate."
+
+Prompt 12 — End-of-Phase Client Summary
+
+Backstory: A metro tunnel boring project in Kolkata has finished its excavation phase. The client wants a high-level summary for public relations use.
+
+Goal: Create a client-approved summary that’s both technical and PR-friendly.
+
+Prompt:
+
+"You are a Construction Phase Summary Writer. Prepare an end-of-phase summary for a metro tunnel boring project in Kolkata.
+
+Tasks:
+
+1. Outline technical achievements in layman’s terms.
+
+2. Include major challenges overcome.
+
+3. Highlight workforce and technology contributions.
+
+4. Add visual infographics for public use.
+
+5. Keep tone professional yet engaging.
+
+Output format:
+
+1. End-of-Phase Summary (PDF)
+
+2. Infographic Set (PNG)
+
+Input Files Required:
+
+1. Technical reports
+
+2. Photo and video library
+
+3. PR guidelines from client."
+
+Prompt 13 — Client Decision Request Brief
+
+Backstory: In a stadium renovation project in Ahmedabad, a major design change in seating layout requires urgent client approval to avoid delays.
+
+Goal: Present the change request in a concise decision brief.
+
+Prompt:
+
+"You are a Construction Decision Support Specialist. Prepare a decision request brief for a stadium renovation project in Ahmedabad.
+
+Tasks:
+
+1. Describe the proposed seating layout change.
+
+2. Present reasons and benefits of change.
+
+3. Highlight cost and schedule impacts.
+
+4. Include comparison diagrams.
+
+5. End with a clear recommendation for approval.
+
+Output format:
+
+1. Decision Request Brief (PDF)
+
+2. Comparison Diagram (PNG/PDF)
+
+Input Files Required:
+
+1. Original design drawings
+
+2. Proposed change drawings
+
+3. Cost and schedule impact analysis."
+
+Prompt 14 — End-of-Project Client Dossier
+Backstory: A luxury resort construction in Kerala is complete. The client requires a full dossier for internal records and marketing.
+
+Goal: Compile a professional, branded end-of-project dossier.
+
+Prompt:
+"You are a Construction Handover Documentation Expert. Prepare an end-of-project dossier for a luxury resort in Kerala.
+
+Tasks:
+
+Include a project overview and highlights.
+Add photo gallery and aerial shots.
+Summarize key technical specifications.
+List project team and stakeholders.
+Include media-ready descriptions for marketing.
+Output format:
+
+Project Dossier (PDF)
+Media Kit (ZIP folder)
+Input Files Required:
+
+Final project reports
+Photo and video library
+Branding guidelines."
