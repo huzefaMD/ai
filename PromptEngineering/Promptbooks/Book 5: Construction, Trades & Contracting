@@ -1767,27 +1767,141 @@ Input Files Required:
 4. Local weather data."
 
 Prompt 5 — Public Building Restoration Tender
+
 Backstory: A heritage building in Kolkata, owned by the government, requires structural restoration and facade preservation. The tender emphasizes heritage conservation techniques and previous restoration experience.
 
 Goal: Create a heritage restoration tender bid that highlights specialized conservation skills.
 
 Prompt:
+
 "You are a Heritage Restoration Tender Writer. Prepare a restoration tender for a government-owned heritage building in Kolkata.
 
 Tasks:
 
-Describe structural repair methodology using non-invasive techniques.
-Detail facade preservation processes, including lime plastering and stone cleaning.
-Include case studies of past restoration projects.
-Attach specialist conservation architect and craftsman profiles.
+1. Describe structural repair methodology using non-invasive techniques.
+
+2. Detail facade preservation processes, including lime plastering and stone cleaning.
+
+3. Include case studies of past restoration projects.
+
+4. Attach specialist conservation architect and craftsman profiles.
+
 Output format:
 
-Restoration Tender Document (DOCX)
-Method Statement (PDF)
-Project Portfolio (PDF)
+1. Restoration Tender Document (DOCX)
+
+2. Method Statement (PDF)
+
+3. Project Portfolio (PDF)
+
 Input Files Required:
 
-Building condition assessment report
-Heritage conservation guidelines
-Team CVs & restoration credentials
-Material sourcing plan."
+1. Building condition assessment report
+
+2. Heritage conservation guidelines
+
+3. Team CVs & restoration credentials
+
+4. Material sourcing plan."
+
+Prompt 6 — Public Housing Tender (PMAY)
+
+Backstory: Under the Pradhan Mantri Awas Yojana (PMAY), a state housing board in Uttar Pradesh is inviting tenders to construct 500 low-cost housing units. The evaluation focuses heavily on cost efficiency, speed, and quality.
+
+Goal: Create a competitive bid that ensures low-cost delivery without quality compromise.
+
+Prompt:
+
+"You are a Low-Cost Housing Tender Consultant. Prepare a technical and financial proposal for constructing 500 PMAY housing units in Uttar Pradesh.
+
+Tasks:
+
+1. Propose cost-effective but durable construction materials.
+
+2. Outline a 9-month completion plan.
+
+3. Show methods for ensuring structural stability at low cost.
+
+4. Include workforce deployment and local labor engagement strategies.
+
+Output format:
+
+1. Technical Proposal (DOCX)
+
+2. BOQ & Cost Sheet (Excel)
+
+3. Quality Compliance Plan (PDF)
+
+Input Files Required:
+
+1. PMAY tender document
+
+2. Local material supplier list
+
+3. Workforce availability data
+
+4. Past housing project references."
+
+Prompt 7 — IT Park Development Tender
+
+Backstory: A private developer in Hyderabad is inviting bids to build an IT park with 2 million sq. ft. of office space. The developer prioritizes speed, international-grade quality, and future-ready infrastructure.
+
+Goal: Prepare a proposal that wins by showcasing modern technology integration and rapid delivery.
+
+Prompt:
+
+"You are a Commercial Infrastructure Bid Writer. Draft a bid for constructing a 2M sq. ft. IT park in Hyderabad.
+
+Tasks:
+
+1. Highlight technology-enabled construction methods (BIM, modular construction).
+
+2. Present an accelerated delivery schedule with overlapping trade activities.
+
+3. Include provisions for future infrastructure scalability.
+
+4. Provide cost breakdown per phase.
+
+Output format:
+
+1. Bid Document (DOCX)
+
+2. Phased Schedule (Excel)
+
+3. BIM Integration Plan (PDF)
+
+Input Files Required:
+
+1. IT park master plan
+
+2. BIM model (if available)
+
+3. Material supplier commitments
+
+4. Project team credentials."
+
+Prompt 8 — Airport Runway Extension Tender
+Backstory: An airport in Goa requires extension of its primary runway to accommodate larger aircraft. Civil aviation authorities have strict quality and safety benchmarks.
+
+Goal: Submit a fully compliant bid meeting DGCA (Directorate General of Civil Aviation) standards.
+
+Prompt:
+"You are an Airport Runway Tender Expert. Prepare a bid for a runway extension at Goa International Airport.
+
+Tasks:
+
+Include quality control plans for asphalt and concrete works.
+Show compliance with DGCA and ICAO runway specifications.
+Include detailed safety measures for work in operational airfields.
+Present resource allocation for night work schedules.
+Output format:
+
+Tender Document (DOCX)
+Quality Control Plan (PDF)
+Night Work Resource Schedule (Excel)
+Input Files Required:
+
+DGCA runway extension specs
+Airport operation schedule
+Material compliance certificates
+Past runway project portfolio."
