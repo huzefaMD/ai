@@ -1390,16 +1390,17 @@ Tasks:
 
 2. Brand style guide."
 ```
-Prompt 15 — Multi-Language Ad Copy Creation (Hindi, English, Hinglish)
+## Prompt 15 — Multi-Language Ad Copy Creation (Hindi, English, Hinglish)
 
-Backstory: A D2C snack brand wants ads in Hindi, English, and Hinglish to reach Tier 1–3 cities.
+`Backstory: A D2C snack brand wants ads in Hindi, English, and Hinglish to reach Tier 1–3 cities.`
 
-Goal: Create culturally adapted ad copy for different languages.
+`Goal: Create culturally adapted ad copy for different languages.`
 
-Prompt:
+`Prompt:`
 
-"You are a Multi-Language Ad Copy Expert. Write ads for a D2C snack brand in Hindi, English, and Hinglish.
+`"You are a Multi-Language Ad Copy Expert. Write ads for a D2C snack brand in Hindi, English, and Hinglish.`
 
+```
 Tasks:
 
 1. Create 5 headlines and 3 descriptions for each language.
@@ -1411,27 +1412,28 @@ Tasks:
 4. Ensure translations are idiomatic, not literal.
 
 5. Provide phonetic Hindi spellings for Hinglish ads.
-
-Output format:
-
+```
+`Output format:`
+```
 1. Multi-Language Ad Copy Pack (DOCX)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Product details
 
 2. Brand tone guidelines."
+```
+## Prompt 16 — Ad Copy for Subscription-Based Product Campaign
 
-Prompt 16 — Ad Copy for Subscription-Based Product Campaign
+`Backstory: Your D2C brand sells cold brew coffee concentrate and wants to push a monthly subscription plan to urban millennials who drink coffee daily.`
 
-Backstory: Your D2C brand sells cold brew coffee concentrate and wants to push a monthly subscription plan to urban millennials who drink coffee daily.
+`Goal: Write ad copy that promotes the subscription over one-time purchase.`
 
-Goal: Write ad copy that promotes the subscription over one-time purchase.
+`Prompt:`
 
-Prompt:
+`"You are an E-commerce Subscription Marketing Specialist. Create ad copy promoting a coffee subscription service.`
 
-"You are an E-commerce Subscription Marketing Specialist. Create ad copy promoting a coffee subscription service.
-
+```
 Tasks:
 
 1. Write 5 headlines (max 40 characters) with recurring benefits (never run out, save money).
@@ -1443,29 +1445,30 @@ Tasks:
 4. Suggest subscription imagery (coffee at doorstep, morning ritual).
 
 5. Provide 2 CTA variations (Subscribe Now, Start Your Plan).
-
-Output format:
-
+```
+`Output format:`
+```
 1. Subscription Ad Copy Pack (DOCX)
 
 2. Image Concepts (Excel)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Subscription details
 
 2. Pricing breakdown."
+```
+## Prompt 17 — Remarketing Campaign for Price Drop Notifications
 
-Prompt 17 — Remarketing Campaign for Price Drop Notifications
+`Backstory: Customers have wishlisted wireless earbuds but haven’t purchased. You’re running a price drop campaign.`
 
-Backstory: Customers have wishlisted wireless earbuds but haven’t purchased. You’re running a price drop campaign.
+`Goal: Create remarketing ads that notify users about the price cut.`
 
-Goal: Create remarketing ads that notify users about the price cut.
+`Prompt:`
 
-Prompt:
+`"You are an E-commerce Remarketing Copywriter. Write price drop remarketing ads for wireless earbuds.`
 
-"You are an E-commerce Remarketing Copywriter. Write price drop remarketing ads for wireless earbuds.
-
+```
 Tasks:
 
 1. Write 5 urgency-driven headlines (max 40 characters).
@@ -1477,29 +1480,30 @@ Tasks:
 4. Suggest images showing before-after pricing.
 
 5. Recommend retargeting strategy for both Facebook and Google Display.
-
-Output format:
-
+```
+`Output format:`
+```
 1. Price Drop Ad Copy Pack (DOCX)
 
 2. Visual Suggestions (Excel)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Product price history
 
 2. Discount details."
+```
+## Prompt 18 — LinkedIn Ad Copy for B2B E-commerce Sales
 
-Prompt 18 — LinkedIn Ad Copy for B2B E-commerce Sales
+`Backstory: You sell bulk corporate gifting items like engraved pens and desk organisers. Your target audience is HR heads and corporate buyers.`
 
-Backstory: You sell bulk corporate gifting items like engraved pens and desk organisers. Your target audience is HR heads and corporate buyers.
+`Goal: Write LinkedIn ads to drive inquiries.`
 
-Goal: Write LinkedIn ads to drive inquiries.
+`Prompt:`
 
-Prompt:
+`"You are a B2B LinkedIn Ads Specialist. Write ad copy for bulk corporate gifting products.`
 
-"You are a B2B LinkedIn Ads Specialist. Write ad copy for bulk corporate gifting products.
-
+```
 Tasks:
 
 1. Write 3 professional headlines (max 35 characters).
@@ -1511,29 +1515,30 @@ Tasks:
 4. Suggest ad images showing gifting in a corporate context.
 
 5. Recommend targeting by job title, industry, and company size.
-
-Output format:
-
+```
+`Output format:`
+```
 1. LinkedIn Ad Copy Pack (DOCX)
 
 2. Targeting Sheet (Excel)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Product catalogue
 
 2. Corporate buyer personas."
+```
+## Prompt 19 — TikTok/Reels Short-Form Video Ad Script
 
-Prompt 19 — TikTok/Reels Short-Form Video Ad Script
+`Backstory: Your D2C fitness apparel brand wants 15-second TikTok and Instagram Reels ads targeting Gen Z.`
 
-Backstory: Your D2C fitness apparel brand wants 15-second TikTok and Instagram Reels ads targeting Gen Z.
+`Goal: Write engaging short-form scripts with viral potential.`
 
-Goal: Write engaging short-form scripts with viral potential.
+`Prompt:`
 
-Prompt:
+`"You are a Short-Form Video Ad Scriptwriter. Create 3 viral-style ad scripts for fitness apparel.`
 
-"You are a Short-Form Video Ad Scriptwriter. Create 3 viral-style ad scripts for fitness apparel.
-
+```
 Tasks:
 
 1. Start with an eye-catching visual hook.
@@ -1545,29 +1550,30 @@ Tasks:
 4. Add CTA in last 3 seconds.
 
 5. Suggest hashtags to boost discoverability.
-
-Output format:
-
+```
+`Output format:`
+```
 1. Video Scripts (DOCX)
 
 2. Hashtag List (Excel)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Product videos/images
+```
+`Target audience profile."`
 
-Target audience profile."
+## Prompt 20 — A/B Testing Ad Copy Variations
 
-Prompt 20 — A/B Testing Ad Copy Variations
+`Backstory: You want to run A/B tests for organic pet food ads to see which copy converts better.`
 
-Backstory: You want to run A/B tests for organic pet food ads to see which copy converts better.
+`Goal: Generate multiple ad copy variations for split testing.`
 
-Goal: Generate multiple ad copy variations for split testing.
+`Prompt:`
 
-Prompt:
+`"You are an E-commerce A/B Testing Specialist. Write 10 ad copy variations for organic pet food.`
 
-"You are an E-commerce A/B Testing Specialist. Write 10 ad copy variations for organic pet food.
-
+```
 Tasks:
 
 1. Create 5 emotional appeal variations (happy pets, healthy life).
@@ -1579,29 +1585,30 @@ Tasks:
 4. Suggest images for each version.
 
 5. Provide A/B test setup guide.
-
-Output format:
-
+```
+`Output format:`
+```
 1. Ad Copy Variations Sheet (Excel)
 
 2. Test Setup Guide (DOCX)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Brand tone guide
+```
+`Product USPs."`
 
-Product USPs."
+## Prompt 21 — Geo-Targeted Ad Copy for Regional Markets
 
-Prompt 21 — Geo-Targeted Ad Copy for Regional Markets
+`Backstory: You sell wedding invitation cards online and want ads customised for South India vs North India.`
 
-Backstory: You sell wedding invitation cards online and want ads customised for South India vs North India.
+`Goal: Create region-specific ad copy that feels localised.`
 
-Goal: Create region-specific ad copy that feels localised.
+`Prompt:`
 
-Prompt:
+`"You are a Geo-Targeted Ad Copy Expert. Write ads for wedding invitation cards tailored to different Indian regions.`
 
-"You are a Geo-Targeted Ad Copy Expert. Write ads for wedding invitation cards tailored to different Indian regions.
-
+```
 Tasks:
 
 1. Write 3 headlines and 2 descriptions per region.
@@ -1613,29 +1620,30 @@ Tasks:
 4. Maintain brand consistency across all versions.
 
 5. Include region-specific call-to-action phrasing.
-
-Output format:
-
+```
+`Output format:`
+```
 1. Regional Ad Copy Pack (DOCX)
 
 2. Image Suggestions (Excel)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Regional keyword research
 
 2. Cultural reference guide."
+```
+## Prompt 22 — Ad Copy for Limited Edition Product Launch
 
-Prompt 22 — Ad Copy for Limited Edition Product Launch
+`Backstory: You’re launching a limited edition cricket bat signed by a popular Indian player.`
 
-Backstory: You’re launching a limited edition cricket bat signed by a popular Indian player.
+`Goal: Create exclusivity-focused ad copy that sells out fast.`
 
-Goal: Create exclusivity-focused ad copy that sells out fast.
+`Prompt:`
 
-Prompt:
+`"You are an Exclusive Product Launch Copywriter. Write ad copy for a limited edition cricket bat.`
 
-"You are an Exclusive Product Launch Copywriter. Write ad copy for a limited edition cricket bat.
-
+```
 Tasks:
 
 1. Write 5 headlines with exclusivity triggers (Only 100 Made!).
@@ -1647,29 +1655,30 @@ Tasks:
 4. Provide 2 CTA options (“Own a Piece of History”).
 
 5. Recommend ad targeting for cricket fans in India.
-
-Output format:
-
+```
+`Output format:`
+```
 1. Limited Edition Ad Copy Pack (DOCX)
 
 2. Targeting Sheet (Excel)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Product details
+```
+`Celebrity rights usage terms."`
 
-Celebrity rights usage terms."
+## Prompt 23 — Voice Search Optimised Ad Copy
 
-Prompt 23 — Voice Search Optimised Ad Copy
+`Backstory: You want to target customers using Alexa and Google Assistant for home cleaning services.`
 
-Backstory: You want to target customers using Alexa and Google Assistant for home cleaning services.
+`Goal: Create voice search-friendly ad copy.`
 
-Goal: Create voice search-friendly ad copy.
+`Prompt:`
 
-Prompt:
+`"You are a Voice Search Ad Specialist. Create ad copy optimised for voice searches.`
 
-"You are a Voice Search Ad Specialist. Create ad copy optimised for voice searches.
-
+```
 Tasks:
 
 1. Write conversational headlines and descriptions.
@@ -1681,29 +1690,30 @@ Tasks:
 4. Recommend call-to-action phrasing for voice commands.
 
 5. Provide targeting tips for smart device owners.
-
-Output format:
-
+```
+`Output format:`
+```
 1. Voice Search Ad Copy Pack (DOCX)
 
 2. Voice Script Sheet (Excel)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Service details
 
 2. Keyword research."
+```
+## Prompt 24 — Retargeting Ad Copy for Upsell Offers
 
-Prompt 24 — Retargeting Ad Copy for Upsell Offers
+`Backstory: Customers who bought basic gym memberships could be upgraded to a premium plan.`
 
-Backstory: Customers who bought basic gym memberships could be upgraded to a premium plan.
+`Goal: Create upsell retargeting ads for social media and Google Display.`
 
-Goal: Create upsell retargeting ads for social media and Google Display.
+`Prompt:`
 
-Prompt:
+`"You are an Upsell Retargeting Specialist. Write ad copy for upgrading gym memberships.`
 
-"You are an Upsell Retargeting Specialist. Write ad copy for upgrading gym memberships.
-
+```
 Tasks:
 
 1. Write 3 benefit-driven headlines.
@@ -1715,29 +1725,30 @@ Tasks:
 4. Recommend targeting based on membership start date.
 
 5. Provide copy for both static and video ads.
-
-Output format:
-
+```
+`Output format:`
+```
 1. Upsell Ad Copy Pack (DOCX)
 
 2. Incentive Strategy Sheet (Excel)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Customer data
 
 2. Premium plan features."
+```
+## Prompt 25 — Cross-Platform Campaign Copy Consistency Guide
 
-Prompt 25 — Cross-Platform Campaign Copy Consistency Guide
+`Backstory: A D2C home appliances brand wants consistent ad messaging across Facebook, Google, Instagram, and Pinterest.`
 
-Backstory: A D2C home appliances brand wants consistent ad messaging across Facebook, Google, Instagram, and Pinterest.
+`Goal: Create a guide for cross-platform ad copy consistency.`
 
-Goal: Create a guide for cross-platform ad copy consistency.
+`Prompt:`
 
-Prompt:
+`"You are an E-commerce Ad Copy Consistency Expert. Write a guide ensuring campaign messaging remains consistent across platforms.`
 
-"You are an E-commerce Ad Copy Consistency Expert. Write a guide ensuring campaign messaging remains consistent across platforms.
-
+```
 Tasks:
 
 1. Create one master campaign message.
@@ -1749,31 +1760,32 @@ Tasks:
 4. Provide a checklist for reviewing ad copy.
 
 5. Include example copy for each platform.
-
-Output format:
-
+```
+`Output format:`
+```
 1. Consistency Guide (DOCX)
 
 2. Platform Adaptation Sheet (Excel)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Brand tone guidelines
 
 2. Campaign goals."
+```
+# Customer Service Scripts
 
-Customer Service Scripts
+## Prompt 1 — Handling “Where is My Order?” (WISMO) Queries
 
-Prompt 1 — Handling “Where is My Order?” (WISMO) Queries
+`Backstory: In e-commerce, WISMO (Where Is My Order) queries make up over 30% of customer service tickets. These usually come when orders are delayed or customers didn’t receive tracking updates. Poor handling can cause negative reviews and cancellations.`
 
-Backstory: In e-commerce, WISMO (Where Is My Order) queries make up over 30% of customer service tickets. These usually come when orders are delayed or customers didn’t receive tracking updates. Poor handling can cause negative reviews and cancellations.
+`Goal: Create empathetic, reassuring, and brand-consistent customer service replies for WISMO queries across email, chat, and WhatsApp.`
 
-Goal: Create empathetic, reassuring, and brand-consistent customer service replies for WISMO queries across email, chat, and WhatsApp.
+`Prompt:`
 
-Prompt:
+`"You are an E-commerce Customer Service Script Writer. Create ready-to-use scripts for handling ‘Where is my order?’ queries.`
 
-"You are an E-commerce Customer Service Script Writer. Create ready-to-use scripts for handling ‘Where is my order?’ queries.
-
+```
 Tasks:
 
 1. Write 5 script variations for email, 5 for chat, and 5 for WhatsApp.
@@ -1785,29 +1797,30 @@ Tasks:
 4. Provide 2 escalation scripts for situations where orders are lost.
 
 5. Suggest proactive follow-up messages to prevent repeat queries.
-
-Output format:
-
+```
+`Output format:`
+```
 1. Customer Service Script Pack (DOCX)
 
 2. Variables & Placeholder Sheet (Excel)
-
-Input Files Required:
+```
+`Input Files Required:`
 
 1. Brand tone guidelines
-
+```
 2. Tracking system integration details."
+```
+## Prompt 2 — Responding to Product Defect Complaints
 
-Prompt 2 — Responding to Product Defect Complaints
+`Backstory: A customer purchased a ceramic dinner set and reported receiving a cracked plate. Such issues must be handled with both problem-solving and customer delight in mind to protect brand reputation.`
 
-Backstory: A customer purchased a ceramic dinner set and reported receiving a cracked plate. Such issues must be handled with both problem-solving and customer delight in mind to protect brand reputation.
+`Goal: Create replacement/refund scripts that turn a bad experience into a positive one.`
 
-Goal: Create replacement/refund scripts that turn a bad experience into a positive one.
+`Prompt:`
 
-Prompt:
+`"You are a Customer Recovery Specialist for e-commerce. Write scripts for handling defective product complaints.`
 
-"You are a Customer Recovery Specialist for e-commerce. Write scripts for handling defective product complaints.
-
+```
 Tasks:
 
 1. Create 3 apology scripts for chat, 3 for email, and 2 for phone calls.
@@ -1819,19 +1832,19 @@ Tasks:
 4. Suggest 3 gestures to exceed expectations (e.g., free gift, upgrade).
 
 5. Provide escalation path for repeated complaints from same customer.
-
-Output format:
-
+```
+`Output format:`
+```
 1. Complaint Resolution Script Pack (DOCX)
 
 2. Gesture Ideas List (Excel)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Return/refund policy
 
 2. Warehouse defect rate reports."
-
+```
 Prompt 3 — De-escalating Angry Customers
 
 Backstory: A customer ordered a premium smartwatch for a wedding gift, but delivery was delayed beyond the event date. They’re furious and threatening to leave negative reviews online.
