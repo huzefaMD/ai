@@ -3489,27 +3489,219 @@ Input Files Required:
 Client Communication & Reporting
 
 Prompt 1 — Weekly Progress Report for Client
+
 Backstory: A luxury residential tower in Mumbai is in its 14th month of construction. The client is a real estate investment firm that demands concise yet detailed weekly updates to share with stakeholders abroad.
 
 Goal: Create a polished, visual-rich weekly progress report highlighting work completed, work in progress, issues, and upcoming milestones.
 
 Prompt:
+
 "You are a Construction Project Reporting Specialist. Prepare a client-facing weekly progress report for a luxury residential tower in Mumbai.
 
 Tasks:
 
-Summarize completed activities with photos and short descriptions.
-Highlight work in progress and percentage completion.
-List issues faced, along with status of resolution.
-Provide next week’s planned activities and critical path items.
-Include visual progress graphs and milestone trackers.
+1. Summarize completed activities with photos and short descriptions.
+
+2. Highlight work in progress and percentage completion.
+
+3. List issues faced, along with status of resolution.
+
+4. Provide next week’s planned activities and critical path items.
+
+5. Include visual progress graphs and milestone trackers.
+
 Output format:
 
-Weekly Progress Report (PDF) with visuals
-Timeline Gantt chart (Excel/MS Project)
-Issue Resolution Tracker (Excel)
+1. Weekly Progress Report (PDF) with visuals
+
+2. Timeline Gantt chart (Excel/MS Project)
+
+3. Issue Resolution Tracker (Excel)
+
 Input Files Required:
 
-Daily site logs
-Updated project schedule
-Photos of completed work."
+1. Daily site logs
+
+2. Updated project schedule
+
+3. Photos of completed work."
+
+Prompt 2 — Monthly Client Review Presentation
+
+Backstory: A commercial IT park in Bengaluru requires monthly review meetings with the client’s project steering committee. They prefer visual presentations over textual reports.
+
+Goal: Create a presentation that blends visuals, data, and key decisions required from the client.
+
+Prompt:
+
+"You are a Construction Client Presentation Expert. Prepare a monthly review presentation for a commercial IT park in Bengaluru.
+
+Tasks:
+
+1. Include updated project schedule, cost vs budget, and manpower charts.
+
+2. Show before-and-after images of completed work.
+
+3. Highlight decision points requiring client input.
+
+4. Flag risks and potential schedule impacts.
+
+5. End with a clear next steps slide.
+
+Output format:
+
+1. Client Review Presentation (PPTX)
+
+2. Decision Points Summary (DOCX)
+
+Input Files Required:
+
+1. Updated cost and schedule data
+
+2. High-resolution project site photos
+
+3. Risk register."
+
+Prompt 3 — Urgent Issue Escalation Email
+
+Backstory: A bridge construction project in Kerala has faced unexpected flooding, halting work. The situation needs to be escalated to the client immediately for quick decisions on additional resources.
+
+Goal: Draft a professional and urgent escalation email with all critical information.
+
+Prompt:
+
+"You are a Construction Project Communication Manager. Write an urgent escalation email to the client regarding flooding at a bridge construction site.
+
+Tasks:
+
+1. Summarize the incident and its immediate impact.
+
+2. Detail possible consequences if action is delayed.
+
+3. Suggest mitigation measures with timelines.
+
+4. Specify resource requests for quick resolution.
+
+5. Keep tone urgent but solution-oriented.
+
+Output format:
+
+1. Escalation Email Draft (DOCX)
+
+Input Files Required:
+
+1. Incident photos
+
+2. Weather forecast reports
+
+3. Current project schedule."
+
+Prompt 4 — Client Site Visit Briefing Pack
+
+Backstory: The client of a premium hotel project in Goa is visiting the site after six months. They expect a smooth, professional briefing with zero information gaps.
+
+Goal: Prepare a comprehensive briefing pack for the site visit.
+
+Prompt:
+
+"You are a Construction Client Engagement Coordinator. Prepare a site visit briefing pack for a premium hotel project in Goa.
+
+Tasks:
+
+1. Include a one-page project overview.
+
+2. Add site visit itinerary and safety instructions.
+
+3. Summarize key project progress highlights.
+
+4. Prepare talking points for the project manager.
+
+5. Add visual aids like progress photos and charts.
+
+Output format:
+
+1. Client Site Visit Briefing Pack (PDF)
+
+2. Safety Induction Sheet (DOCX)
+
+Input Files Required:
+
+1. Project progress summary
+
+2. Site safety policy
+
+3. Visit itinerary."
+
+Prompt 5 — Post-Meeting Action Tracker
+
+Backstory: In a metro rail extension project in Delhi, weekly coordination meetings with the client result in multiple action points for both parties. Often, follow-ups are missed due to poor documentation.
+
+Goal: Create a clear and trackable post-meeting action tracker for client and contractor teams.
+
+Prompt:
+
+"You are a Construction Project Action Tracker Specialist. Prepare a post-meeting action tracker for a metro rail extension project in Delhi.
+
+Tasks:
+
+1. List all decisions taken in the meeting.
+
+2. Record action items, responsible person, and deadlines.
+
+3. Highlight overdue items in red.
+
+4. Share in an editable format for updates.
+
+5. Include a dashboard view for quick progress monitoring.
+
+Output format:
+
+1. Action Tracker (Excel/Google Sheet)
+
+2. Summary Email (DOCX)
+
+Input Files Required:
+
+1. Meeting minutes
+
+2. Attendee list
+
+3. Previous week’s tracker."
+
+Prompt 6 — Risk Register Update for Client
+
+Backstory: A hydropower project in Himachal Pradesh is in its tunneling phase, where geological risks can cause massive delays and cost overruns. The client wants monthly updates on the project’s risk profile.
+
+Goal: Update the risk register in a way that’s clear for both technical and non-technical stakeholders.
+
+Prompt:
+
+"You are a Construction Risk Communication Expert. Update the monthly risk register for a hydropower tunneling project in Himachal Pradesh.
+
+Tasks:
+
+1. Summarize each active risk with probability, impact, and mitigation status.
+
+2. Include new risks identified in the last 30 days.
+
+3. Provide a visual heat map of risks.
+
+4. Highlight changes from the previous month.
+
+5. Recommend specific actions for top 3 critical risks.
+
+Output format:
+
+1. Updated Risk Register (Excel)
+
+2. Risk Heat Map (PDF)
+
+3. Risk Summary for Non-Technical Audience (DOCX)
+
+Input Files Required:
+
+1. Last month’s risk register
+
+2. Incident reports
+
+3. Geological survey updates."
