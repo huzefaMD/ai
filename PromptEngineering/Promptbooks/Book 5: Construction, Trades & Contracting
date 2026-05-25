@@ -2687,4 +2687,142 @@ Input Files Required:
 
 3. List of available safety equipment."
 
+Prompt 5 — Compliance Audit for DGMS Standards (Mining Site)
 
+Backstory: A construction company is building ancillary structures at an open-pit mining site in Jharkhand. The Directorate General of Mines Safety (DGMS) requires full compliance with their safety standards for any construction activity on mine property.
+
+Goal: Conduct and document a compliance audit for DGMS regulations.
+
+Prompt:
+
+"You are a DGMS Compliance Auditor. Perform a safety compliance audit for a construction project within an open-pit mining site in Jharkhand.
+
+Tasks:
+
+1. Inspect PPE usage specific to mining hazards.
+
+2. Verify blasting zone safety measures.
+
+3. Check slope stability and excavation safety.
+
+4. Audit transportation and haul road safety.
+
+5. Provide a corrective action matrix with deadlines.
+
+Output format:
+
+1. DGMS Compliance Audit Report (PDF)
+
+2. Corrective Action Tracker (Excel)
+
+3. Photographic Evidence Folder
+
+Input Files Required:
+
+1. DGMS safety standards document
+
+2. Site hazard register
+
+3. Last incident report."
+
+Prompt 6 — Scaffold Safety Inspection Report
+
+Backstory: A hospital construction site in Lucknow is entering façade work stage. Multiple scaffolds are in use, including suspended and supported systems. Recent accidents in the region have put regulatory focus on scaffold safety compliance.
+
+Goal: Perform a detailed scaffold safety inspection and document compliance with IS 3696 standards.
+
+Prompt:
+
+"You are a Certified Scaffold Safety Inspector. Conduct a scaffold safety inspection for a multi-story hospital project in Lucknow.
+
+Tasks:
+
+1. Inspect scaffold design, load limits, and bracing.
+
+2. Check planking, guardrails, and toe boards for stability.
+
+3. Verify scaffold access systems (ladders, stair towers).
+
+4. Document any non-compliance with IS 3696 (Part 1 & 2).
+
+5. Recommend immediate corrective measures.
+
+Output format:
+
+1. Scaffold Safety Inspection Report (PDF)
+
+2. Non-Compliance Photographs (JPEG)
+
+3. Corrective Action Checklist (Excel)
+
+Input Files Required:
+
+1. Site scaffold drawings
+
+2. Load capacity certificates
+
+3. IS 3696 standards document."
+
+Prompt 7 — PPE Compliance Audit
+
+Backstory: A hydropower dam project in Himachal Pradesh employs 1,500 workers across tunneling, concrete works, and high-altitude activities. There’s a recurring issue of incomplete PPE compliance, especially among subcontractors.
+
+Goal: Audit PPE usage and develop an enforcement strategy.
+
+Prompt:
+
+"You are a Construction PPE Compliance Auditor. Conduct a site-wide PPE compliance audit for a hydropower dam project.
+
+Tasks:
+
+1. Identify PPE requirements for each activity type.
+
+2. Conduct spot checks and record compliance percentage.
+
+3. Audit PPE issuance records for completeness.
+
+4. Suggest enforcement measures for subcontractors.
+
+5. Prepare a PPE replenishment forecast.
+
+Output format:
+
+1. PPE Compliance Audit Report (PDF)
+
+2. Compliance Heat Map (PDF)
+
+3. PPE Forecast Sheet (Excel)
+
+Input Files Required:
+
+1. Worker roster by activity
+
+2. PPE inventory log
+
+3. Site safety rules document."
+
+Prompt 8 — Electrical Safety Audit (Temporary Power)
+Backstory: A mega shopping mall construction in Ahmedabad uses extensive temporary electrical networks. Short circuits have been reported in the past month, raising fire safety concerns.
+
+Goal: Perform an electrical safety audit focusing on temporary power systems.
+
+Prompt:
+"You are an Electrical Safety Compliance Engineer. Audit the temporary electrical systems at a shopping mall construction site.
+
+Tasks:
+
+Inspect earthing and grounding systems.
+Verify circuit breaker ratings and load balancing.
+Audit cable routing to prevent trip hazards and water ingress.
+Check compliance with IS 732 (Code of Practice for Electrical Wiring).
+Provide recommendations for fire hazard mitigation.
+Output format:
+
+Electrical Safety Audit Report (PDF)
+Circuit Load Analysis (Excel)
+Corrective Action Tracker (Excel)
+Input Files Required:
+
+Temporary electrical layout diagram
+Load sheet of connected equipment
+IS 732 standards document."
