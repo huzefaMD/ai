@@ -1346,3 +1346,292 @@ Input Files & Code Section:
 2. Sales and marketing calendar.
 
 3. Villa/apartment design drawings."
+
+Prompt 18 — Bridge Rehabilitation Project Schedule
+
+Backstory: An old suspension bridge in Uttarakhand requires structural repairs. The bridge is a vital connection, so closure time must be minimized.
+
+Goal: Create a rehabilitation schedule with minimal closure periods.
+
+Prompt:
+
+"You are a Bridge Rehabilitation Scheduler. Prepare a schedule for structural repairs on a suspension bridge in Uttarakhand.
+
+Your task:
+
+1. Schedule inspections, material procurement, and repair works.
+
+2. Allocate night and low-traffic work slots.
+
+3. Include safety checks before reopening.
+
+4. Build in contingency for unexpected structural findings.
+
+5. Align with weather conditions to avoid delays.
+
+Output format: Rehabilitation Schedule (Excel) + Traffic Diversion Plan (PDF).
+
+Input Files & Code Section:
+
+1. Bridge structural assessment report.
+
+2. Traffic volume data.
+
+3. Repair design drawings."
+
+Prompt 19 — Solar Power Plant Construction Schedule
+
+Backstory: A 200 MW solar plant in Rajasthan must be operational before the end of the fiscal year to qualify for government incentives.
+
+Goal: Create a solar farm schedule with synchronized civil, electrical, and installation works.
+
+Prompt:
+
+"You are a Renewable Energy Scheduler. Prepare a construction schedule for a 200 MW solar plant in Rajasthan.
+
+Your task:
+
+1. Sequence site grading, mounting structure erection, and panel installation.
+
+2. Include inverter and substation installation timelines.
+
+3. Build in synchronization for grid connection.
+
+4. Schedule final testing and commissioning before fiscal year end.
+
+5. Provide daily progress tracking milestones.
+
+Output format: Solar Farm Gantt Chart (Excel) + Commissioning Checklist (PDF).
+
+Input Files & Code Section:
+
+1. Solar farm layout.
+
+2. Panel delivery schedules.
+
+3. Grid connection approval documents."
+
+Prompt 20 — Mixed-Use Development Schedule
+
+Backstory: A mixed-use development in Mumbai includes retail, office, and residential spaces. Retail must open first, followed by other components.
+
+Goal: Create a schedule prioritizing retail completion while keeping other works in progress.
+
+Prompt:
+
+"You are a Mixed-Use Project Scheduler. Create a construction schedule for a mixed-use development in Mumbai.
+
+Your task:
+
+1. Prioritize retail completion for early revenue generation.
+
+2. Sequence office and residential construction in parallel.
+
+3. Include MEP, fit-outs, and finishing works by phase.
+
+4. Build in tenant fit-out timelines after handover.
+
+5. Add a soft-opening milestone for the retail section.
+
+Output format: Mixed-Use Development Gantt Chart (Excel) + Retail Opening Plan (PDF).
+
+Input Files & Code Section:
+
+1. Master plan drawings.
+
+2. Retail tenant agreements.
+
+3. Phasing plan from developer."
+
+Prompt 21 — Smart City Infrastructure Project Schedule
+
+Backstory: A smart city project in Gujarat involves multiple infrastructure upgrades, including roads, street lighting, drainage, and fiber optic cabling.
+
+Goal: Create an integrated schedule for multi-agency coordination.
+
+Prompt:
+
+"You are an Urban Infrastructure Scheduler. Prepare a schedule for a smart city infrastructure upgrade in Gujarat.
+
+Your task:
+
+1. Integrate roadworks, drainage, and electrical upgrades.
+
+2. Sequence fiber optic laying before road resurfacing.
+
+3. Include safety and public communication milestones.
+
+4. Build in approvals from multiple agencies.
+
+5. Ensure minimal public inconvenience during works.
+
+Output format: Integrated Project Schedule (Excel) + Agency Coordination Plan (PDF).
+
+Input Files & Code Section:
+
+1. City master plan.
+
+2. Utility upgrade drawings.
+
+3. Agency work scope lists."
+
+Prompt 22 — Port Expansion Schedule
+
+Backstory: A port in Kerala is expanding its container handling capacity. The works include dredging, berth construction, and crane installation.
+
+Goal: Create a phased port expansion schedule aligned with shipping operations.
+
+Prompt:
+
+"You are a Marine Infrastructure Scheduler. Prepare a schedule for port expansion works in Kerala.
+
+Your task:
+
+1. Sequence dredging, berth construction, and crane installation.
+
+2. Align works with shipping traffic schedules.
+
+3. Include testing and commissioning of equipment.
+
+4. Build in weather impact buffers for monsoon season.
+
+5. Provide marine safety inspection milestones.
+
+Output format: Port Expansion Schedule (Excel) + Shipping Traffic Impact Report (PDF).
+
+Input Files & Code Section:
+
+1. Port expansion design.
+
+2. Shipping schedules.
+
+3. Equipment supplier timelines."
+
+Prompt 23 — Factory Automation Upgrade Schedule
+
+Backstory: An electronics factory in Noida is upgrading its assembly lines to fully automated systems. Work must be completed during planned low-demand months.
+
+Goal: Create an automation upgrade schedule with minimal production downtime.
+
+Prompt:
+
+"You are an Industrial Automation Scheduler. Prepare a schedule for upgrading assembly lines in an electronics factory in Noida.
+
+Your task:
+
+1. Schedule equipment delivery, installation, and testing.
+
+2. Integrate software programming timelines.
+
+3. Build in worker retraining before go-live.
+
+4. Include contingency for debugging delays.
+
+5. Ensure full automation readiness before demand picks up.
+
+Output format: Automation Upgrade Schedule (Excel) + Worker Training Plan (PDF).
+
+Input Files & Code Section:
+
+1. Factory layout.
+
+2. Automation equipment delivery timelines.
+
+3. Production demand forecast."
+
+Prompt 24 — Water Treatment Plant Construction Schedule
+
+Backstory: A city in Tamil Nadu is building a new water treatment plant to address rising demand. Completion before the next summer season is critical.
+
+Goal: Create a construction schedule that ensures operational readiness before peak water demand.
+
+Prompt:
+
+"You are a Water Infrastructure Scheduler. Prepare a schedule for the construction of a water treatment plant in Tamil Nadu.
+
+Your task:
+
+1. Sequence civil works, mechanical installation, and pipeline connection.
+
+2. Include testing and commissioning before summer.
+
+3. Build in safety and quality inspection milestones.
+
+4. Allocate resources for simultaneous work streams.
+
+5. Add contingency for seasonal rain delays.
+
+Output format: WTP Construction Schedule (Excel) + Commissioning Plan (PDF).
+
+Input Files & Code Section:
+
+1. WTP design drawings.
+
+2. Pipeline connection layout.
+
+3. Local weather forecast data."
+
+Prompt 25 — Industrial Warehouse Build Schedule
+
+Backstory: A logistics company in Haryana is building a new warehouse to expand storage capacity before the festive season.
+
+Goal: Create a warehouse build schedule that ensures operational readiness for peak logistics demand.
+
+Prompt:
+
+"You are a Logistics Infrastructure Scheduler. Prepare a schedule for the construction of a large warehouse in Haryana.
+
+Your task:
+
+1. Sequence foundation, steel structure, roofing, and flooring.
+
+2. Include MEP works and racking installation.
+
+3. Build in fire safety system installation timelines.
+
+4. Schedule operational testing before peak demand season.
+
+5. Provide buffer time for unexpected delays.
+
+Output format: Warehouse Construction Schedule (Excel) + Fire Safety Compliance Plan (PDF).
+
+Input Files & Code Section:
+
+1. Warehouse design drawings.
+
+2. Racking supplier delivery schedules.
+
+3. Local fire safety regulations."
+
+
+Tender Documentation & Bids
+
+Prompt 1 — Government Road Tender Submission
+Backstory: You are a mid-sized road construction contractor in Maharashtra, aiming to win a tender for a 20 km state highway widening project. The Public Works Department (PWD) has strict evaluation criteria: technical capacity (40%), past performance (30%), and financial bid (30%). Missing even one compliance clause can disqualify your bid.
+
+Goal: Prepare a fully compliant government road tender document that maximizes technical score while keeping costs competitive.
+
+Prompt:
+"You are a Tender Documentation Specialist experienced in Indian PWD and NHAI road tenders. Using the provided project specifications and past project credentials, prepare a detailed technical and financial bid for the widening of a 20 km state highway in Maharashtra.
+
+Tasks:
+
+Review the provided Request for Proposal (RFP) and extract all mandatory compliance requirements.
+Draft a technical proposal with:
+Company profile & legal documents
+Past road projects with completion certificates
+Proposed work methodology & timeline
+Quality assurance and safety plans
+Prepare the Bill of Quantities (BOQ) and cost estimate with GST compliance.
+Create a checklist ensuring no document is missed before submission.
+Output format:
+
+Technical Proposal (DOCX & PDF)
+BOQ & Cost Estimate (Excel)
+Compliance Checklist (PDF)
+Input Files Required:
+
+RFP document (PDF)
+Company registration & tax documents
+Past project credentials & photographs
+Rate analysis sheet."
