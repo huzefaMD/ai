@@ -4137,177 +4137,257 @@ Input Files Required:
 3. Current progress data."
 
 Prompt 19 — Client Feedback Collection Report
+
 Backstory: A mixed-use commercial project in Gurugram wants periodic feedback from the client to improve coordination and output.
 
 Goal: Collect structured client feedback and turn it into an actionable report.
 
 Prompt:
+
 "You are a Construction Client Feedback Analyst. Collect and compile feedback for a commercial project in Gurugram.
 
 Tasks:
 
-Design a feedback form tailored to project milestones.
-Gather responses from client representatives.
-Categorize feedback into strengths, concerns, and suggestions.
-Highlight recurring issues.
-Recommend action items.
+1. Design a feedback form tailored to project milestones.
+
+2. Gather responses from client representatives.
+
+3. Categorize feedback into strengths, concerns, and suggestions.
+
+4. Highlight recurring issues.
+
+5. Recommend action items.
+
 Output format:
 
-Feedback Report (PDF)
-Feedback Data Table (Excel)
+1. Feedback Report (PDF)
+
+2. Feedback Data Table (Excel)
+
 Input Files Required:
 
-Client contact list
-Past feedback reports
-Project progress summary."
+1. Client contact list
+
+2. Past feedback reports
+
+3. Project progress summary."
 
 Prompt 20 — Regulatory Submission Pack for Client
+
 Backstory: A port expansion project in Gujarat must submit quarterly compliance reports to the Port Authority and environmental agencies. The client needs a ready-to-submit pack.
 
 Goal: Prepare a complete, compliant submission pack.
 
 Prompt:
+
 "You are a Construction Regulatory Submission Expert. Prepare a quarterly compliance submission pack for a port expansion project in Gujarat.
 
 Tasks:
 
-Gather all regulatory documents and test reports.
-Cross-check against submission requirements.
-Compile in correct sequence and format.
-Add cover letters and declarations.
-Prepare both physical and digital versions.
+1. Gather all regulatory documents and test reports.
+
+2. Cross-check against submission requirements.
+
+3. Compile in correct sequence and format.
+
+4. Add cover letters and declarations.
+
+5. Prepare both physical and digital versions.
+
 Output format:
 
-Submission Pack (PDF)
-Checklist of Submitted Documents (Excel)
+1. Submission Pack (PDF)
+
+2. Checklist of Submitted Documents (Excel)
+
 Input Files Required:
 
-Regulatory guidelines
-Latest test and inspection reports
-Past submission templates."
+1. Regulatory guidelines
+
+2. Latest test and inspection reports
+
+3. Past submission templates."
 
 Prompt 21 — KPI Dashboard for Client Reporting
+
 Backstory: A smart city infrastructure project in Bhopal spans over 3 years with multiple workstreams. The client wants a monthly KPI dashboard for high-level tracking.
 
 Goal: Design a visually interactive KPI dashboard.
 
 Prompt:
+
 "You are a Construction Data Visualization Specialist. Design a KPI dashboard for a smart city project in Bhopal.
 
 Tasks:
 
-Identify relevant KPIs (cost, schedule, quality, safety, environmental).
-Design visuals for each KPI.
-Include filters for time periods and work packages.
-Make it exportable for offline sharing.
-Ensure it’s mobile-friendly.
+1. Identify relevant KPIs (cost, schedule, quality, safety, environmental).
+
+2. Design visuals for each KPI.
+
+3. Include filters for time periods and work packages.
+
+4. Make it exportable for offline sharing.
+
+5. Ensure it’s mobile-friendly.
+
 Output format:
 
-KPI Dashboard File (Power BI/Tableau)
-KPI Definitions Document (DOCX)
+1. KPI Dashboard File (Power BI/Tableau)
+
+2. KPI Definitions Document (DOCX)
+
 Input Files Required:
 
-Project KPI list
-Progress data
-Dashboard style guide."
+1. Project KPI list
+
+2. Progress data
+
+3. Dashboard style guide."
 
 Prompt 22 — Client Training Material for Handover
+
 Backstory: A university campus project in Chennai is nearing completion. The client’s facilities team needs training on operating new systems.
 
 Goal: Create training material for the client’s team.
 
 Prompt:
+
 "You are a Construction Handover Training Coordinator. Prepare training material for a university campus handover in Chennai.
 
 Tasks:
 
-Document operating procedures for new systems.
-Include troubleshooting guides.
-Add safety instructions for system handling.
-Provide diagrams and step-by-step visuals.
-Prepare both physical manuals and digital formats.
+1. Document operating procedures for new systems.
+
+2. Include troubleshooting guides.
+
+3. Add safety instructions for system handling.
+
+4. Provide diagrams and step-by-step visuals.
+
+5. Prepare both physical manuals and digital formats.
+
 Output format:
 
-Training Manual (PDF)
-Slide Deck (PPTX)
-Quick Reference Cards (PNG)
+1. Training Manual (PDF)
+
+2. Slide Deck (PPTX)
+
+3. Quick Reference Cards (PNG)
+
 Input Files Required:
 
-System specifications
-Manufacturer manuals
-Site photographs."
+1. System specifications
+
+2. Manufacturer manuals
+
+3. Site photographs."
 
 Prompt 23 — Public Communication Update for Client Approval
+
 Backstory: A flyover construction project in Noida has caused temporary traffic disruptions. The client plans to release a public update on social media.
 
 Goal: Draft a professional, client-approved public statement.
 
 Prompt:
+
 "You are a Construction Public Information Writer. Draft a public update for a flyover project in Noida.
 
 Tasks:
 
-Explain the reason for temporary disruptions.
-Provide expected completion date for the affected work.
-Suggest alternative routes for commuters.
-Highlight project benefits once complete.
-Keep the tone professional yet reassuring.
+1. Explain the reason for temporary disruptions.
+
+2. Provide expected completion date for the affected work.
+
+3. Suggest alternative routes for commuters.
+
+4. Highlight project benefits once complete.
+
+5. Keep the tone professional yet reassuring.
+
 Output format:
 
-Public Statement (DOCX)
-Social Media Post (PNG/PDF)
+1. Public Statement (DOCX)
+
+2. Social Media Post (PNG/PDF)
+
 Input Files Required:
 
-Project schedule
-Traffic diversion plan
-Communication guidelines."
+1. Project schedule
+
+2. Traffic diversion plan
+
+3. Communication guidelines."
 
 Prompt 24 — End-of-Quarter Executive Summary for Client Board
+
 Backstory: A corporate headquarters construction in Gurugram is under the close watch of the company’s board of directors. They require quarterly executive summaries.
 
 Goal: Create a high-level summary with visuals for board members.
 
 Prompt:
+
 "You are a Construction Executive Reporting Specialist. Prepare an end-of-quarter summary for a corporate HQ in Gurugram.
 
 Tasks:
 
-Highlight progress, budget status, and key achievements.
-Include strategic risks and mitigation actions.
-Present in an infographic-style format.
-Add a one-page executive highlights sheet.
-Provide editable source files for client use.
+1. Highlight progress, budget status, and key achievements.
+
+2. Include strategic risks and mitigation actions.
+
+3. Present in an infographic-style format.
+
+4. Add a one-page executive highlights sheet.
+
+5. Provide editable source files for client use.
+
 Output format:
 
-Executive Summary (PDF)
-Infographic Set (PNG)
+1. Executive Summary (PDF)
+
+2. Infographic Set (PNG)
+
 Input Files Required:
 
-Progress data
-Risk reports
-Financial status update."
+1. Progress data
+
+2. Risk reports
+
+3. Financial status update."
 
 Prompt 25 — End-of-Defects Liability Period Report
+
 Backstory: A government office building in Delhi has completed its 12-month defects liability period. The client requires a final report confirming all defects are resolved.
 
 Goal: Document the closure of defects and certify completion.
 
 Prompt:
+
 "You are a Defects Liability Closure Specialist. Prepare an end-of-defects period report for a government office building in Delhi.
 
 Tasks:
 
-Summarize all reported defects during the period.
-Detail actions taken to resolve each defect.
-Include photos of before and after fixes.
-Add a sign-off sheet from the client.
-Provide recommendations for ongoing maintenance.
+1. Summarize all reported defects during the period.
+
+2. Detail actions taken to resolve each defect.
+
+3. Include photos of before and after fixes.
+
+4. Add a sign-off sheet from the client.
+
+5. Provide recommendations for ongoing maintenance.
+
 Output format:
 
-Defects Liability Closure Report (PDF)
-Photo Evidence Archive (JPEG/PNG)
+1. Defects Liability Closure Report (PDF)
+
+2. Photo Evidence Archive (JPEG/PNG)
+
 Input Files Required:
 
-Defect logs
-Maintenance records
-Client sign-off forms."
+1. Defect logs
+
+2. Maintenance records
+
+3. Client sign-off forms."
+
+
