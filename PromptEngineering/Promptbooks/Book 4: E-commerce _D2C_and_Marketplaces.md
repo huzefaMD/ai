@@ -1322,16 +1322,17 @@ Input Files Required:
 
 2. Flash sale details."
 ```
-Prompt 13 — Influencer Collaboration Ad Copy Brief
+## Prompt 13 — Influencer Collaboration Ad Copy Brief
 
-Backstory: A skincare brand is partnering with Instagram influencers to promote a new night cream.
+`Backstory: A skincare brand is partnering with Instagram influencers to promote a new night cream.`
 
-Goal: Create an ad copy brief influencers can use while posting content.
+`Goal: Create an ad copy brief influencers can use while posting content.`
 
-Prompt:
+`Prompt:`
 
-"You are an Influencer Campaign Copy Strategist. Write an ad copy brief for Instagram influencers promoting a night cream.
+`"You are an Influencer Campaign Copy Strategist. Write an ad copy brief for Instagram influencers promoting a night cream.`
 
+```
 Tasks:
 
 1. Provide brand story and product benefits.
@@ -1343,27 +1344,28 @@ Tasks:
 4. Include swipe-up or link-in-bio CTA examples.
 
 5. Maintain compliance with influencer advertising guidelines.
-
-Output format:
-
+```
+`Output format:`
+```
 1. Influencer Copy Brief (DOCX)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Product details
 
 2. Influencer list."
+```
+## Prompt 14 — Pinterest Ads Copy for Home Décor E-commerce Store
 
-Prompt 14 — Pinterest Ads Copy for Home Décor E-commerce Store
+`Backstory: A home décor brand wants to use Pinterest ads to drive traffic to its store’s "Festive Decor Ideas" collection.`
 
-Backstory: A home décor brand wants to use Pinterest ads to drive traffic to its store’s "Festive Decor Ideas" collection.
+`Goal: Write Pinterest ad copy and suggest pin designs.`
 
-Goal: Write Pinterest ad copy and suggest pin designs.
+`Prompt:`
 
-Prompt:
+`"You are a Pinterest E-commerce Ads Specialist. Write ad copy for a home décor store’s festive collection.`
 
-"You are a Pinterest E-commerce Ads Specialist. Write ad copy for a home décor store’s festive collection.
-
+```
 Tasks:
 
 1. Create 5 ad headlines (max 30 characters).
@@ -1375,19 +1377,19 @@ Tasks:
 4. Include festive-related keywords for Pinterest SEO.
 
 5. Recommend CTA text for pins.
-
-Output format:
-
+```
+`Output format:`
+```
 1. Pinterest Ad Copy Pack (DOCX)
 
 2. Pin Design Ideas (Excel)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Collection images
 
 2. Brand style guide."
-
+```
 Prompt 15 — Multi-Language Ad Copy Creation (Hindi, English, Hinglish)
 
 Backstory: A D2C snack brand wants ads in Hindi, English, and Hinglish to reach Tier 1–3 cities.
