@@ -858,16 +858,17 @@ Tasks:
 
 2. Festival keyword research."
 ```
-Prompt 25 — Amazon Voice Search Optimisation
+## Prompt 25 — Amazon Voice Search Optimisation
 
-Backstory: With the rise of Alexa shopping, your non-stick cookware set needs to be optimised for voice search.
+`Backstory: With the rise of Alexa shopping, your non-stick cookware set needs to be optimised for voice search.`
 
-Goal: Optimise listing so Alexa can easily find it through spoken queries.
+`Goal: Optimise listing so Alexa can easily find it through spoken queries.`
 
-Prompt:
+`Prompt:`
 
-"You are an E-commerce Voice Search Optimisation Specialist. Adapt a non-stick cookware set listing for voice queries.
+`"You are an E-commerce Voice Search Optimisation Specialist. Adapt a non-stick cookware set listing for voice queries.`
 
+```
 Tasks:
 
 1. Identify conversational keyword phrases buyers might say.
@@ -879,32 +880,33 @@ Tasks:
 4. Ensure product name is easy to pronounce.
 
 5. Create 10 sample Alexa commands that should return this listing.
-
-Output format:
-
+```
+`Output format:`
+```
 1. Voice Search Keyword List (Excel)
 
 2. Updated Listing Copy (DOCX)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Current listing copy
 
 2. Keyword research focused on voice search."
+```
 
+# Ad Copywriting & Campaign Setup
 
-Ad Copywriting & Campaign Setup
+## Prompt 1 — High-CTR Sponsored Product Ad Copy for Amazon India
 
-Prompt 1 — High-CTR Sponsored Product Ad Copy for Amazon India
+`Backstory: You are launching a vegan protein powder on Amazon India. Your competitors dominate the category with aggressive ad placements. Your goal is to create sponsored product ad copy that stands out and drives click-through rates (CTR).`
 
-Backstory: You are launching a vegan protein powder on Amazon India. Your competitors dominate the category with aggressive ad placements. Your goal is to create sponsored product ad copy that stands out and drives click-through rates (CTR).
+`Goal: Write persuasive ad copy that maximises clicks while complying with Amazon ad policies.`
 
-Goal: Write persuasive ad copy that maximises clicks while complying with Amazon ad policies.
+`Prompt:`
 
-Prompt:
+`"You are an E-commerce Ad Copywriting Specialist. Write high-CTR sponsored product ad copy for a vegan protein powder targeted at Indian urban fitness enthusiasts.`
 
-"You are an E-commerce Ad Copywriting Specialist. Write high-CTR sponsored product ad copy for a vegan protein powder targeted at Indian urban fitness enthusiasts.
-
+```
 Tasks:
 
 1. Create 5 headline variations (max 50 characters each) optimised for CTR.
@@ -916,31 +918,32 @@ Tasks:
 4. Ensure compliance with Amazon ad guidelines (no misleading claims).
 
 5. Suggest 3 hero images that align with the ad messaging.
-
-Output format:
-
+```
+`Output format:`
+```
 1. Ad Copy Variations (DOCX)
 
 2. Image Suggestions List (Excel)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Product specs
 
 2. Competitor ad examples
+```
+`Keyword research report."`
 
-Keyword research report."
+## Prompt 2 — Facebook & Instagram Carousel Ad Campaign Plan for a D2C Brand
 
-Prompt 2 — Facebook & Instagram Carousel Ad Campaign Plan for a D2C Brand
+`Backstory: A D2C handmade jewellery brand wants to run a festive-season campaign targeting 25–35-year-old women in India. They will use Facebook & Instagram carousel ads to showcase product collections.`
 
-Backstory: A D2C handmade jewellery brand wants to run a festive-season campaign targeting 25–35-year-old women in India. They will use Facebook & Instagram carousel ads to showcase product collections.
+`Goal: Create a full campaign plan, from copy to visual themes.`
 
-Goal: Create a full campaign plan, from copy to visual themes.
+`Prompt:`
 
-Prompt:
+`"You are a Social Media E-commerce Campaign Strategist. Create a Facebook & Instagram carousel ad campaign plan for a handmade jewellery brand.`
 
-"You are a Social Media E-commerce Campaign Strategist. Create a Facebook & Instagram carousel ad campaign plan for a handmade jewellery brand.
-
+```
 Tasks:
 
 1. Define campaign objective (sales/conversions).
@@ -952,31 +955,32 @@ Tasks:
 4. Recommend hashtags and CTA buttons.
 
 5. Suggest targeting criteria for maximum ROI.
-
-Output format:
-
+```
+`Output format:`
+```
 1. Campaign Plan (DOCX)
 
 2. Targeting Sheet (Excel)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Product catalogue
 
 2. Festive season calendar
 
 3. Audience persona details."
+```
+## Prompt 3 — Google Shopping Ads Copywriting for a D2C Electronics Brand
 
-Prompt 3 — Google Shopping Ads Copywriting for a D2C Electronics Brand
+`Backstory: Your D2C brand is launching a smart table lamp with wireless charging. You want Google Shopping Ads to appear at the top of search results for keywords like "wireless charging lamp India".`
 
-Backstory: Your D2C brand is launching a smart table lamp with wireless charging. You want Google Shopping Ads to appear at the top of search results for keywords like "wireless charging lamp India".
+`Goal: Create optimised Google Shopping Ads with high CTR.`
 
-Goal: Create optimised Google Shopping Ads with high CTR.
+`Prompt:`
 
-Prompt:
+`"You are a Google Ads Copywriting Specialist. Create Google Shopping Ads for a smart table lamp with wireless charging.`
 
-"You are a Google Ads Copywriting Specialist. Create Google Shopping Ads for a smart table lamp with wireless charging.
-
+```
 Tasks:
 
 1. Write 5 product titles (max 70 characters each) optimised for Google Shopping SEO.
@@ -988,31 +992,32 @@ Tasks:
 4. Suggest optimal pricing strategy for high CTR.
 
 5. Recommend product images that boost ad performance.
-
-Output format:
-
+```
+`Output format:`
+```
 1. Ad Titles & Descriptions (DOCX)
 
 2. Image Suggestions (Excel)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Product details
 
 2. Keyword research data
 
 3. Competitor ad screenshots."
+```
+## Prompt 4 — Marketplace Launch Ad Campaign Strategy (Flipkart & Amazon)
 
-Prompt 4 — Marketplace Launch Ad Campaign Strategy (Flipkart & Amazon)
+`Backstory: A new home appliances brand is launching on both Flipkart and Amazon simultaneously. They want to run a coordinated ad campaign for maximum visibility in the first 30 days.`
 
-Backstory: A new home appliances brand is launching on both Flipkart and Amazon simultaneously. They want to run a coordinated ad campaign for maximum visibility in the first 30 days.
+`Goal: Plan a launch campaign strategy that leverages both marketplaces effectively.`
 
-Goal: Plan a launch campaign strategy that leverages both marketplaces effectively.
+`Prompt:`
 
-Prompt:
+`"You are an E-commerce Launch Campaign Planner. Create a coordinated ad campaign strategy for a home appliances brand launching on Flipkart & Amazon.`
 
-"You are an E-commerce Launch Campaign Planner. Create a coordinated ad campaign strategy for a home appliances brand launching on Flipkart & Amazon.
-
+```
 Tasks:
 
 1. Allocate budget split between platforms.
@@ -1024,31 +1029,32 @@ Tasks:
 4. Create ad copy examples for each platform.
 
 5. Suggest campaign timeline for the first 30 days.
-
-Output format:
-
+```
+`Output format:`
+```
 1. Campaign Strategy Document (DOCX)
 
 2. Budget Allocation Sheet (Excel)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Product range details
 
-2. Budget
+2. Budge
 
 3. Competitor analysis."
+```
+## Prompt 5 — Retargeting Ad Copy for Abandoned Carts (E-commerce D2C Store)
 
-Prompt 5 — Retargeting Ad Copy for Abandoned Carts (E-commerce D2C Store)
+`Backstory: Your Shopify store sells organic skincare products. Cart abandonment rate is high, and you want to run Facebook and Instagram retargeting ads to bring customers back.`
 
-Backstory: Your Shopify store sells organic skincare products. Cart abandonment rate is high, and you want to run Facebook and Instagram retargeting ads to bring customers back.
+`Goal: Write persuasive retargeting ad copy that converts abandoned carts into sales.`
 
-Goal: Write persuasive retargeting ad copy that converts abandoned carts into sales.
+`Prompt:`
 
-Prompt:
+`"You are an E-commerce Retargeting Specialist. Write Facebook & Instagram retargeting ad copy for abandoned carts in an organic skincare store.`
 
-"You are an E-commerce Retargeting Specialist. Write Facebook & Instagram retargeting ad copy for abandoned carts in an organic skincare store.
-
+```
 Tasks:
 
 1. Create 5 ad copy variations with urgency (limited stock, free shipping).
@@ -1060,29 +1066,30 @@ Tasks:
 4. Include 3 CTA options per ad.
 
 5. Recommend targeting criteria for high conversion.
-
-Output format:
-
+```
+`Output format:`
+```
 1. Retargeting Ad Copy Pack (DOCX)
 
 2. Image Suggestions Sheet (Excel)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Abandoned cart product list
 
 2. Audience insights report."
+```
+## Prompt 6 — Seasonal Sale Campaign Ad Copy (Big Billion Days / Great Indian Festival)
 
-Prompt 6 — Seasonal Sale Campaign Ad Copy (Big Billion Days / Great Indian Festival)
+`Backstory: You’re selling budget smartphones during India’s two largest online sales events — Flipkart’s Big Billion Days and Amazon’s Great Indian Festival. The competition is fierce, and you need copy that creates urgency.`
 
-Backstory: You’re selling budget smartphones during India’s two largest online sales events — Flipkart’s Big Billion Days and Amazon’s Great Indian Festival. The competition is fierce, and you need copy that creates urgency.
+`Goal: Create festival-specific ad copy that stands out in the flood of promotions.`
 
-Goal: Create festival-specific ad copy that stands out in the flood of promotions.
+`Prompt:`
 
-Prompt:
+`"You are an E-commerce Seasonal Campaign Copywriter. Write ad copy for budget smartphones during Big Billion Days and Great Indian Festival.`
 
-"You are an E-commerce Seasonal Campaign Copywriter. Write ad copy for budget smartphones during Big Billion Days and Great Indian Festival.
-
+```
 Tasks:
 
 1. Create 5 headlines (max 45 characters) with urgency and scarcity.
@@ -1094,29 +1101,30 @@ Tasks:
 4. Suggest banner text options for mobile and desktop views.
 
 5. Include CTA variations like “Grab Yours Now” and “Deal Ends Soon.”
-
-Output format:
-
+```
+`Output format:`
+```
 1. Ad Copy Variations (DOCX)
 
 2. Banner Text Ideas (Excel)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Smartphone specs & offers
 
 2. Festival sale guidelines from Amazon/Flipkart."
+```
+## Prompt 7 — Brand Awareness Campaign for a New D2C Startup
 
-Prompt 7 — Brand Awareness Campaign for a New D2C Startup
+`Backstory: A sustainable footwear startup has just launched in India. The goal is to drive awareness rather than direct sales in the first phase.`
 
-Backstory: A sustainable footwear startup has just launched in India. The goal is to drive awareness rather than direct sales in the first phase.
+`Goal: Create ad copy that builds brand story and awareness for Instagram, Facebook, and Google Display Network.`
 
-Goal: Create ad copy that builds brand story and awareness for Instagram, Facebook, and Google Display Network.
+`Prompt:`
 
-Prompt:
+`"You are a Brand Story Ad Strategist. Develop awareness-focused ad copy for a sustainable footwear startup.`
 
-"You are a Brand Story Ad Strategist. Develop awareness-focused ad copy for a sustainable footwear startup.
-
+```
 Tasks:
 
 1. Create 3 ad headlines (max 40 characters) that convey the brand’s eco-mission.
@@ -1128,29 +1136,30 @@ Tasks:
 4. Provide targeting recommendations for urban millennial audiences.
 
 5. Suggest a call-to-action that is non-salesy (e.g., “Discover Our Story”).
-
-Output format:
-
+```
+`Output format:`
+```
 1. Awareness Ad Copy Pack (DOCX)
 
 2. Image Recommendations (Excel)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Brand story document
 
 2. Product photos."
+```
+## Prompt 8 — YouTube Pre-Roll Ad Script for E-commerce
 
-Prompt 8 — YouTube Pre-Roll Ad Script for E-commerce
+`Backstory: An online furniture store wants to run 6-second skippable YouTube pre-roll ads targeting metro cities.`
 
-Backstory: An online furniture store wants to run 6-second skippable YouTube pre-roll ads targeting metro cities.
+`Goal: Write short, high-impact scripts that stop viewers from skipping.`
 
-Goal: Write short, high-impact scripts that stop viewers from skipping.
+`Prompt:`
 
-Prompt:
+`"You are a YouTube E-commerce Ad Script Writer. Write 3 variations of 6-second pre-roll ads for an online furniture store.
 
-"You are a YouTube E-commerce Ad Script Writer. Write 3 variations of 6-second pre-roll ads for an online furniture store.
-
+```
 Tasks:
 
 1. Create a hook in the first 2 seconds.
@@ -1162,29 +1171,30 @@ Tasks:
 4. Keep total word count under 20 words per script.
 
 5. Suggest 3 visual storyboard ideas.
-
-Output format:
-
+```
+`Output format:`
+```
 1. 3 Video Scripts (DOCX)
 
 2. Storyboard Concepts (PDF)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Product images/videos
 
 2. Brand tone guidelines."
+```
+## Prompt 9 — Ad Copy for Clearance Sale Campaign
 
-Prompt 9 — Ad Copy for Clearance Sale Campaign
+`Backstory: A D2C electronics store has overstock of Bluetooth earphones from last season. They want to clear stock with heavy discounts.`
 
-Backstory: A D2C electronics store has overstock of Bluetooth earphones from last season. They want to clear stock with heavy discounts.
+`Goal: Create urgency-driven clearance sale ads for Facebook, Instagram, and Google Display.`
 
-Goal: Create urgency-driven clearance sale ads for Facebook, Instagram, and Google Display.
+`Prompt:`
 
-Prompt:
+`"You are an E-commerce Clearance Campaign Specialist. Write ad copy for Bluetooth earphones clearance sale.`
 
-"You are an E-commerce Clearance Campaign Specialist. Write ad copy for Bluetooth earphones clearance sale.
-
+```
 Tasks:
 
 1. Write 5 urgency-focused headlines (max 40 characters).
@@ -1196,29 +1206,30 @@ Tasks:
 4. Add a “while stocks last” tone.
 
 5. Recommend targeting past website visitors and cart abandoners.
-
-Output format:
-
+```
+`Output format:`
+```
 1. Clearance Ad Copy Pack (DOCX)
 
 2. Audience Targeting Suggestions (Excel)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Product details
 
 2. Inventory levels."
+```
+## Prompt 10 — Retargeting Ad Copy for Cross-Sell Offers
 
-Prompt 10 — Retargeting Ad Copy for Cross-Sell Offers
+`Backstory: Customers who bought gaming laptops from your store could be interested in buying gaming chairs, headphones, or mousepads.`
 
-Backstory: Customers who bought gaming laptops from your store could be interested in buying gaming chairs, headphones, or mousepads.
+`Goal: Create retargeting ads that cross-sell related products.`
 
-Goal: Create retargeting ads that cross-sell related products.
+`Prompt:`
 
-Prompt:
+`"You are an E-commerce Cross-Sell Retargeting Expert. Create ad copy targeting past buyers of gaming laptops.`
 
-"You are an E-commerce Cross-Sell Retargeting Expert. Create ad copy targeting past buyers of gaming laptops.
-
+```
 Tasks:
 
 1. Suggest 3 cross-sell product bundles.
@@ -1230,29 +1241,30 @@ Tasks:
 4. Suggest hero image concepts for each ad.
 
 5. Recommend platform-specific copy tweaks for Facebook and Google Display.
-
-Output format:
+```
+`Output format:`
 
 1. Cross-Sell Ad Copy Pack (DOCX)
 
 2. Image Suggestions (Excel)
-
-Input Files Required:
+```
+`Input Files Required:`
 
 1. Past purchase data
 
 2. Product bundle details."
+```
+## Prompt 11 — Amazon Sponsored Brand Video Ad Script
 
-Prompt 11 — Amazon Sponsored Brand Video Ad Script
+`Backstory: A premium coffee brand wants to showcase its new range through Amazon’s Sponsored Brand Video Ads.`
 
-Backstory: A premium coffee brand wants to showcase its new range through Amazon’s Sponsored Brand Video Ads.
+`Goal: Write a short video ad script optimised for Amazon shoppers.`
 
-Goal: Write a short video ad script optimised for Amazon shoppers.
+`Prompt:`
 
-Prompt:
+`"You are an Amazon Video Ads Specialist. Write a 15-second video script for a premium coffee brand.`
 
-"You are an Amazon Video Ads Specialist. Write a 15-second video script for a premium coffee brand.
-
+```
 Tasks:
 
 1. Hook viewers in first 3 seconds with a relatable scene.
@@ -1264,29 +1276,30 @@ Tasks:
 4. End with CTA (“Shop Now on Amazon”).
 
 5. Suggest captions for silent viewers.
-
-Output format:
-
+```
+`Output format:`
+```
 1. Video Script (DOCX)
 
 2. Caption List (Excel)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Coffee product details
 
 2. Brand tone guide."
+```
+## Prompt 12 — WhatsApp Marketing Ad Copy for E-commerce Flash Sale
 
-Prompt 12 — WhatsApp Marketing Ad Copy for E-commerce Flash Sale
+`Backstory: A D2C clothing store runs 24-hour flash sales exclusively for WhatsApp subscribers.`
 
-Backstory: A D2C clothing store runs 24-hour flash sales exclusively for WhatsApp subscribers.
+`Goal: Create short, urgency-based WhatsApp ad messages that drive instant clicks.`
 
-Goal: Create short, urgency-based WhatsApp ad messages that drive instant clicks.
+`Prompt:`
 
-Prompt:
+`"You are a WhatsApp E-commerce Campaign Copywriter. Write ad messages for a clothing brand’s 24-hour flash sale.`
 
-"You are a WhatsApp E-commerce Campaign Copywriter. Write ad messages for a clothing brand’s 24-hour flash sale.
-
+```
 Tasks:
 
 1. Write 5 short ad messages (max 120 characters each).
@@ -1298,17 +1311,17 @@ Tasks:
 4. Create 3 variations of sale headlines.
 
 5. Suggest timing for sending messages to boost CTR.
-
-Output format:
-
+```
+`Output format:`
+```
 1. WhatsApp Ad Messages Pack (DOCX)
-
+```
 Input Files Required:
-
+```
 1. Product images
 
 2. Flash sale details."
-
+```
 Prompt 13 — Influencer Collaboration Ad Copy Brief
 
 Backstory: A skincare brand is partnering with Instagram influencers to promote a new night cream.
