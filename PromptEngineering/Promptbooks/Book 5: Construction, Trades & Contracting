@@ -3333,4 +3333,183 @@ Input Files Required:
 
 3. Traffic management plan."
 
+Prompt 22 — Safety Management System Gap Analysis
 
+Backstory: A tier-1 infrastructure company is preparing for ISO 45001 certification. They require a gap analysis of their existing safety management system (SMS).
+
+Goal: Identify gaps and recommend upgrades to achieve ISO 45001 compliance.
+
+Prompt:
+
+"You are a Safety Management System Consultant. Perform a gap analysis for an infrastructure company’s SMS.
+
+Tasks:
+
+1. Review current safety policies and procedures.
+
+2. Compare against ISO 45001 requirements.
+
+3. Identify high-priority gaps.
+
+4. Recommend corrective measures with timelines.
+
+5. Prepare a certification readiness report.
+
+Output format:
+
+1. Gap Analysis Report (PDF)
+
+2. Corrective Action Plan (Excel)
+
+3. ISO 45001 Compliance Checklist (DOCX)
+
+Input Files Required:
+
+1. Current SMS documentation
+
+2. Incident records
+
+3. ISO 45001 standard copy."
+
+Prompt 23 — Safety Culture Survey & Improvement Plan
+
+Backstory: A metro rail project consortium wants to measure the safety culture among employees and subcontractors to reduce incident rates.
+
+Goal: Conduct a safety culture survey and create an improvement plan.
+
+Prompt:
+
+"You are a Workplace Safety Culture Specialist. Conduct a safety culture survey for a metro rail project.
+
+Tasks:
+
+1. Design survey questions to assess safety attitudes.
+
+2. Collect and analyze responses.
+
+3. Identify areas of weak safety culture.
+
+4. Recommend awareness programs and incentives.
+
+5. Prepare an annual improvement roadmap.
+
+Output format:
+
+1. Safety Culture Survey Report (PDF)
+
+2. Survey Questionnaire (DOCX)
+
+3. Improvement Roadmap (Excel)
+
+Input Files Required:
+
+1. Employee list
+
+2. Existing safety training records
+
+3. Past incident data."
+
+Prompt 24 — Safety Induction Program for New Hires
+
+Backstory: A steel plant construction in Jharkhand has 300 new hires joining in the next month. Management requires a standardized safety induction before they start work.
+
+Goal: Create a comprehensive safety induction program.
+
+Prompt:
+
+"You are a Safety Induction Program Designer. Prepare a training plan for 300 new hires at a steel plant construction site.
+
+Tasks:
+
+1. Develop induction presentation and handouts.
+
+2. Include site-specific hazard awareness.
+
+3. Add emergency procedures and reporting channels.
+
+4. Create a certification process for completion.
+
+5. Recommend refresher intervals.
+
+Output format:
+
+1. Induction Training Material (PPTX & PDF)
+
+2. Certification Template (DOCX)
+
+3. Attendance & Completion Log (Excel)
+
+Input Files Required:
+
+1. Site safety policy
+
+2. Hazard identification report
+
+3. Emergency contact list."
+
+Prompt 25 — Digital Safety Audit Dashboard Design
+
+Backstory: A large EPC contractor wants a digital dashboard to monitor safety KPIs across multiple projects in real-time.
+
+Goal: Design a safety audit dashboard specification for Power BI or Tableau.
+
+Prompt:
+
+"You are a Construction Safety Data Analyst. Design a dashboard to track safety performance metrics for multiple projects.
+
+Tasks:
+
+1. Define KPIs such as TRIR, LTIFR, near misses, and safety training hours.
+
+2. Map data sources from site logs and audit reports.
+
+3. Propose dashboard layout and visuals.
+
+4. Include drill-down views for project-specific details.
+
+5. Recommend automation for monthly updates.
+
+Output format:
+
+1. Dashboard Design Document (DOCX)
+
+2. KPI Definitions List (Excel)
+
+3. Mockup Screenshots (PNG/JPEG)
+
+Input Files Required:
+
+1. Historical safety data
+
+2. Current project list
+
+3. Data source file formats."
+
+
+Client Communication & Reporting
+
+Prompt 1 — Weekly Progress Report for Client
+Backstory: A luxury residential tower in Mumbai is in its 14th month of construction. The client is a real estate investment firm that demands concise yet detailed weekly updates to share with stakeholders abroad.
+
+Goal: Create a polished, visual-rich weekly progress report highlighting work completed, work in progress, issues, and upcoming milestones.
+
+Prompt:
+"You are a Construction Project Reporting Specialist. Prepare a client-facing weekly progress report for a luxury residential tower in Mumbai.
+
+Tasks:
+
+Summarize completed activities with photos and short descriptions.
+Highlight work in progress and percentage completion.
+List issues faced, along with status of resolution.
+Provide next week’s planned activities and critical path items.
+Include visual progress graphs and milestone trackers.
+Output format:
+
+Weekly Progress Report (PDF) with visuals
+Timeline Gantt chart (Excel/MS Project)
+Issue Resolution Tracker (Excel)
+Input Files Required:
+
+Daily site logs
+Updated project schedule
+Photos of completed work."
