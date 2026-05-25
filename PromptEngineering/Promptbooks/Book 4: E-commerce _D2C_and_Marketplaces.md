@@ -846,7 +846,7 @@ Tasks:
 
 5. Suggest backend keyword changes per festival.
 ```
-`Output format:``
+`Output format:`
 ```
 1. 3 Festival Listing Versions (DOCX)
 
@@ -1243,7 +1243,7 @@ Tasks:
 5. Recommend platform-specific copy tweaks for Facebook and Google Display.
 ```
 `Output format:`
-
+```
 1. Cross-Sell Ad Copy Pack (DOCX)
 
 2. Image Suggestions (Excel)
