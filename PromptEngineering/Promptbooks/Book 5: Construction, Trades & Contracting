@@ -1607,31 +1607,73 @@ Input Files & Code Section:
 Tender Documentation & Bids
 
 Prompt 1 — Government Road Tender Submission
+
 Backstory: You are a mid-sized road construction contractor in Maharashtra, aiming to win a tender for a 20 km state highway widening project. The Public Works Department (PWD) has strict evaluation criteria: technical capacity (40%), past performance (30%), and financial bid (30%). Missing even one compliance clause can disqualify your bid.
 
 Goal: Prepare a fully compliant government road tender document that maximizes technical score while keeping costs competitive.
 
 Prompt:
+
 "You are a Tender Documentation Specialist experienced in Indian PWD and NHAI road tenders. Using the provided project specifications and past project credentials, prepare a detailed technical and financial bid for the widening of a 20 km state highway in Maharashtra.
 
 Tasks:
 
-Review the provided Request for Proposal (RFP) and extract all mandatory compliance requirements.
-Draft a technical proposal with:
-Company profile & legal documents
-Past road projects with completion certificates
-Proposed work methodology & timeline
-Quality assurance and safety plans
-Prepare the Bill of Quantities (BOQ) and cost estimate with GST compliance.
-Create a checklist ensuring no document is missed before submission.
+1. Review the provided Request for Proposal (RFP) and extract all mandatory compliance requirements.
+
+2. Draft a technical proposal with:
+   
+    1. Company profile & legal documents
+  
+    2. Past road projects with completion certificates
+ 
+    3. Proposed work methodology & timeline
+ 
+    4. Quality assurance and safety plans
+
+3. Prepare the Bill of Quantities (BOQ) and cost estimate with GST compliance.
+
+4. Create a checklist ensuring no document is missed before submission.
+
 Output format:
 
-Technical Proposal (DOCX & PDF)
-BOQ & Cost Estimate (Excel)
-Compliance Checklist (PDF)
+1. Technical Proposal (DOCX & PDF)
+
+2. BOQ & Cost Estimate (Excel)
+
+3. Compliance Checklist (PDF)
+
 Input Files Required:
 
-RFP document (PDF)
-Company registration & tax documents
-Past project credentials & photographs
-Rate analysis sheet."
+1. RFP document (PDF)
+
+2. Company registration & tax documents
+
+3. Past project credentials & photographs
+
+4. Rate analysis sheet."
+
+Prompt 2 — Private Sector Commercial Complex Bid
+Backstory: A real estate developer in Bengaluru is seeking bids for constructing a G+10 commercial complex with LEED Gold certification. Competition is intense, and the client values green building practices and early delivery.
+
+Goal: Create a value-driven proposal highlighting sustainability and early completion without inflating costs.
+
+Prompt:
+"You are a Commercial Construction Bid Writer specializing in green building tenders. Prepare a comprehensive bid for the construction of a G+10 commercial complex in Bengaluru aiming for LEED Gold certification.
+
+Tasks:
+
+Highlight green construction practices, including energy-efficient MEP systems, recycled materials, and rainwater harvesting.
+Propose an accelerated construction schedule, showing how timelines will be met without compromising quality.
+Include a detailed resource allocation plan (manpower, machinery, subcontractors).
+Draft a cost-benefit section justifying sustainable material choices.
+Output format:
+
+Proposal Document (DOCX) with executive summary
+Accelerated Schedule (Excel)
+Sustainability Compliance Report (PDF)
+Input Files Required:
+
+Project brief (PDF)
+Material supplier quotes
+LEED Gold requirement checklist
+Equipment availability list."
