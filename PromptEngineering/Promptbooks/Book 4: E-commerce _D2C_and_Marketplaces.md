@@ -1249,7 +1249,7 @@ Tasks:
 2. Image Suggestions (Excel)
 ```
 `Input Files Required:`
-
+```
 1. Past purchase data
 
 2. Product bundle details."
