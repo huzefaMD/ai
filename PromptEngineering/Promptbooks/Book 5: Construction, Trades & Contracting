@@ -2536,27 +2536,155 @@ Input Files Required:
 Safety Audits & Compliance
 
 Prompt 1 — Pre-Construction Safety Compliance Plan
+
 Backstory: A major residential township project in Bengaluru is about to begin site preparation. The project owner requires a safety compliance plan before granting the notice to proceed. This is to ensure that all pre-construction activities, site setup, and material deliveries comply with Indian safety regulations (NBC, OSHA India).
 
 Goal: Prepare a pre-construction safety plan that ensures hazard-free site mobilization and readiness.
 
 Prompt:
+
 "You are a Construction Safety Compliance Officer. Draft a pre-construction safety compliance plan for a 150-acre township project in Bengaluru.
 
 Tasks:
 
-Identify site setup hazards (temporary power, fencing, access roads).
-Propose control measures for heavy equipment mobilization.
-Include worker safety induction protocols.
-Provide checklists for PPE (Personal Protective Equipment) issuance.
-Align plan with NBC (National Building Code) and state safety laws.
+1. Identify site setup hazards (temporary power, fencing, access roads).
+
+2. Propose control measures for heavy equipment mobilization.
+
+3. Include worker safety induction protocols.
+
+4. Provide checklists for PPE (Personal Protective Equipment) issuance.
+
+5. Align plan with NBC (National Building Code) and state safety laws.
+
 Output format:
 
-Safety Compliance Plan (DOCX)
-PPE & Equipment Checklist (Excel)
-Pre-Mobilization Hazard Map (PDF)
+1. Safety Compliance Plan (DOCX)
+
+2. PPE & Equipment Checklist (Excel)
+
+3. Pre-Mobilization Hazard Map (PDF)
+
 Input Files Required:
 
-Site layout drawing
-Local safety regulation document
-Equipment mobilization schedule."
+1. Site layout drawing
+
+2. Local safety regulation document
+
+3. Equipment mobilization schedule."
+
+Prompt 2 — Monthly Safety Audit Report (Ongoing Construction)
+
+Backstory: An IT park construction site in Pune has been operational for 8 months. The client requires a monthly third-party safety audit report to ensure compliance with their corporate EHS (Environment, Health & Safety) policies and avoid project delays from violations.
+
+Goal: Prepare a monthly safety audit report highlighting compliance status, violations, and corrective measures.
+
+Prompt:
+
+"You are a Third-Party EHS Auditor. Prepare a monthly safety audit report for an IT park construction site in Pune.
+
+Tasks:
+
+1. Inspect compliance with fall protection systems.
+
+2. Verify electrical safety in temporary power setups.
+
+3. Audit lifting and crane operation safety.
+
+4. Check documentation of toolbox talks and training.
+
+5. Provide a red-yellow-green compliance scoring system.
+
+Output format:
+
+1. Safety Audit Report (PDF)
+
+2. Violation Photographic Evidence (JPEG/PNG folder)
+
+3. Corrective Action Plan (Excel)
+
+Input Files Required:
+
+1. Site access permission letter
+
+2. EHS policy manual
+
+3. Last 3 months’ audit reports."
+
+Prompt 3 — Worker Safety Training Program Design
+
+Backstory: A metro rail construction contractor in Chennai must train 1,200 workers (skilled & unskilled) before project mobilization. The training should address working at heights, confined spaces, and equipment safety.
+
+Goal: Design a structured worker safety training program tailored to metro construction hazards.
+
+Prompt:
+
+"You are a Construction Safety Trainer. Design a worker safety training program for a metro construction project in Chennai.
+
+Tasks:
+
+1. Develop module-wise training content.
+
+2. Include practical demonstrations and simulation exercises.
+
+3. Create bilingual training material (English + Tamil).
+
+4. Add pre- and post-training assessment methods.
+
+5. Suggest refresher training frequency.
+
+Output format:
+
+1. Training Curriculum (DOCX)
+
+2. Training Aids & Visuals (PPTX)
+
+3. Assessment Questionnaire (PDF)
+
+Input Files Required:
+
+1. Metro project scope document
+
+2. Site hazard identification report
+
+3. Language translation glossary."
+
+Prompt 4 — Emergency Response & Evacuation Plan
+
+Backstory: A high-rise building project in Mumbai is in the structural phase. The site is in a congested area, making emergency evacuation planning challenging. Local authorities require an approved plan before further vertical construction.
+
+Goal: Prepare a detailed emergency response plan for fire, structural collapse, and medical emergencies.
+
+Prompt:
+
+"You are a Construction Emergency Planning Expert. Draft an emergency response and evacuation plan for a 60-floor high-rise in Mumbai.
+
+Tasks:
+
+1. Identify all possible emergency scenarios.
+
+2. Create floor-wise evacuation routes and assembly points.
+
+3. Assign emergency response teams with role-specific duties.
+
+4. Include coordination protocols with Mumbai Fire Brigade.
+
+5. Design emergency drills schedule.
+
+Output format:
+
+1. Emergency Response Manual (DOCX)
+
+2. Evacuation Route Diagrams (PDF)
+
+3. Drill Calendar (Excel)
+
+Input Files Required:
+
+1. Building floor plans
+
+2. Local emergency contact list
+
+3. List of available safety equipment."
+
+
