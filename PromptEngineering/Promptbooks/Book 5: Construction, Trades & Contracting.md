@@ -165,16 +165,17 @@ Your task:
 
 3. Government tender document."
 ```
-Prompt 6 — Renovation & Retrofit BOQ
+## Prompt 6 — Renovation & Retrofit BOQ
 
-Backstory: You’re tasked with renovating a 30-year-old government office building while keeping part of it operational. The challenge is accurately estimating demolition, retrofitting, and reuse of materials while following heritage conservation guidelines.
+`Backstory: You’re tasked with renovating a 30-year-old government office building while keeping part of it operational. The challenge is accurately estimating demolition, retrofitting, and reuse of materials while following heritage conservation guidelines.`
 
-Goal: Prepare a BOQ for a partial renovation and retrofitting project.
+`Goal: Prepare a BOQ for a partial renovation and retrofitting project.`
 
-Prompt:
+`Prompt:`
 
-"You are a Renovation Quantity Estimator. Prepare a detailed BOQ for the retrofit of a 30-year-old government office building in Delhi.
+`"You are a Renovation Quantity Estimator. Prepare a detailed BOQ for the retrofit of a 30-year-old government office building in Delhi.`
 
+```
 Your task:
 
 1. Include demolition and dismantling quantities with salvageable material credit.
@@ -186,27 +187,28 @@ Your task:
 4. Follow heritage and safety regulations for public buildings.
 
 5. Provide phased cost estimates to allow staged execution.
+```
+`Output format: BOQ Spreadsheet (Excel) + Execution Phase Cost Breakdown (PDF).`
 
-Output format: BOQ Spreadsheet (Excel) + Execution Phase Cost Breakdown (PDF).
-
-Input Files & Code Section:
-
+`Input Files & Code Section:`
+```
 1. Existing building drawings.
 
 2. Structural audit report.
 
 3. Material salvage list."
+```
+## Prompt 7 — Industrial Warehouse BOQ with Mezzanine Floors
 
-Prompt 7 — Industrial Warehouse BOQ with Mezzanine Floors
+`Backstory: A logistics company wants to build a 50,000 sq ft warehouse with a steel mezzanine floor. They need an estimate that includes both heavy-duty ground floor racking and load-bearing mezzanine construction.`
 
-Backstory: A logistics company wants to build a 50,000 sq ft warehouse with a steel mezzanine floor. They need an estimate that includes both heavy-duty ground floor racking and load-bearing mezzanine construction.
+`Goal: Prepare a BOQ that covers the complete industrial warehouse project.`
 
-Goal: Prepare a BOQ that covers the complete industrial warehouse project.
+`Prompt:`
 
-Prompt:
+`"You are a Warehouse Construction Estimator. Create a BOQ for a 50,000 sq ft warehouse with mezzanine floors for additional storage.`
 
-"You are a Warehouse Construction Estimator. Create a BOQ for a 50,000 sq ft warehouse with mezzanine floors for additional storage.
-
+```
 Your task:
 
 1. Include site preparation, RCC flooring, and steel mezzanine framing.
@@ -218,27 +220,28 @@ Your task:
 4. Include racking system installation costs.
 
 5. Allow contingency for future expansion.
+```
+`Output format: BOQ Spreadsheet (Excel) + Mezzanine Structural Details (PDF).`
 
-Output format: BOQ Spreadsheet (Excel) + Mezzanine Structural Details (PDF).
-
-Input Files & Code Section:
-
+`Input Files & Code Section:`
+```
 1. Warehouse layout drawings.
 
 2. Structural load requirements.
 
 3. MEP (Mechanical, Electrical, Plumbing) plans."
+```
+## Prompt 8 — Luxury Villa BOQ with High-End Finishes
 
-Prompt 8 — Luxury Villa BOQ with High-End Finishes
+`Backstory: A client is building a luxury villa in Goa with imported marble, designer fixtures, and custom woodwork. The BOQ must reflect premium finishes and account for import duties.`
 
-Backstory: A client is building a luxury villa in Goa with imported marble, designer fixtures, and custom woodwork. The BOQ must reflect premium finishes and account for import duties.
+`Goal: Prepare an accurate cost estimate for a luxury residential villa.`
 
-Goal: Prepare an accurate cost estimate for a luxury residential villa.
+`Prompt:`
 
-Prompt:
+`"You are a Luxury Residential Quantity Surveyor. Prepare a BOQ for a high-end villa in Goa with premium imported materials.`
 
-"You are a Luxury Residential Quantity Surveyor. Prepare a BOQ for a high-end villa in Goa with premium imported materials.
-
+```
 Your task:
 
 1. Include all civil, electrical, plumbing, and landscaping works.
@@ -250,27 +253,28 @@ Your task:
 4. Account for designer lighting and smart home automation.
 
 5. Provide a clear breakdown of material vs. labor costs.
+```
+`Output format: BOQ Spreadsheet (Excel) + Luxury Material Specification List (PDF).`
 
-Output format: BOQ Spreadsheet (Excel) + Luxury Material Specification List (PDF).
-
-Input Files & Code Section:
-
+`Input Files & Code Section:`
+```
 1. Villa architectural drawings.
 
 2. Interior design specifications.
 
 3. Supplier quotations for premium materials."
+```
+## Prompt 9 — Hospital BOQ with Medical Infrastructure
 
-Prompt 9 — Hospital BOQ with Medical Infrastructure
+`Backstory: You are estimating for a 200-bed hospital construction project in Hyderabad. The BOQ must include not only building works but also specialized medical installations like oxygen pipelines, modular OT rooms, and diagnostic equipment.`
 
-Backstory: You are estimating for a 200-bed hospital construction project in Hyderabad. The BOQ must include not only building works but also specialized medical installations like oxygen pipelines, modular OT rooms, and diagnostic equipment.
+`Goal: Prepare a BOQ that includes medical infrastructure.`
 
-Goal: Prepare a BOQ that includes medical infrastructure.
+`Prompt:`
 
-Prompt:
+`"You are a Healthcare Facility Estimator. Prepare a BOQ for a 200-bed hospital with full medical infrastructure.`
 
-"You are a Healthcare Facility Estimator. Prepare a BOQ for a 200-bed hospital with full medical infrastructure.
-
+```
 Your task:
 
 1. Include civil, MEP, and specialized medical system installations.
@@ -282,27 +286,28 @@ Your task:
 4. Include backup power generation systems.
 
 5. Provide a phased installation cost plan.
+```
+`Output format: BOQ Spreadsheet (Excel) + NABH Compliance Checklist (PDF).`
 
-Output format: BOQ Spreadsheet (Excel) + NABH Compliance Checklist (PDF).
-
-Input Files & Code Section:
-
+`Input Files & Code Section:`
+```
 1. Hospital layout drawings.
 
 2. Medical equipment list.
 
 3. Local health regulatory requirements."
+```
+## Prompt 10 — School Construction BOQ with Smart Classrooms
 
-Prompt 10 — School Construction BOQ with Smart Classrooms
+`Backstory: An educational trust is building a new K-12 school in Jaipur and wants an estimate that includes traditional classrooms and technology-enabled smart classrooms.`
 
-Backstory: An educational trust is building a new K-12 school in Jaipur and wants an estimate that includes traditional classrooms and technology-enabled smart classrooms.
+`Goal: Prepare a BOQ that combines standard construction with edtech infrastructure.`
 
-Goal: Prepare a BOQ that combines standard construction with edtech infrastructure.
+`Prompt:`
 
-Prompt:
+`"You are an Educational Infrastructure Estimator. Prepare a BOQ for a K-12 school with both standard and smart classrooms.`
 
-"You are an Educational Infrastructure Estimator. Prepare a BOQ for a K-12 school with both standard and smart classrooms.
-
+```
 Your task:
 
 1. Include civil works for classrooms, labs, library, and sports facilities.
@@ -314,27 +319,28 @@ Your task:
 4. Include costs for furniture and storage.
 
 5. Provide an annual maintenance cost estimate for technology systems.
+```
+`Output format: BOQ Spreadsheet (Excel) + Smart Classroom Tech List (PDF).`
 
-Output format: BOQ Spreadsheet (Excel) + Smart Classroom Tech List (PDF).
-
-Input Files & Code Section:
-
+`Input Files & Code Section:`
+```
 1. School master plan drawings.
 
 2. Edtech hardware specifications.
 
 3. Furniture layouts."
+```
+## Prompt 11 — Multi-Storey Parking BOQ
 
-Prompt 11 — Multi-Storey Parking BOQ
+`Backstory: The municipality is building a 6-level automated car parking facility. The BOQ must include civil works, structural steel, and automated parking system installation.`
 
-Backstory: The municipality is building a 6-level automated car parking facility. The BOQ must include civil works, structural steel, and automated parking system installation.
+`Goal: Create a BOQ for a large-scale automated parking facility.`
 
-Goal: Create a BOQ for a large-scale automated parking facility.
+`Prompt:`
 
-Prompt:
+`"You are an Urban Infrastructure Estimator. Create a BOQ for a 6-storey automated parking building.`
 
-"You are an Urban Infrastructure Estimator. Create a BOQ for a 6-storey automated parking building.
-
+```
 Your task:
 
 1. Include site work, RCC structure, and structural steel components.
@@ -346,27 +352,28 @@ Your task:
 4. Provide estimates for maintenance contracts post-installation.
 
 5. Follow municipal urban development guidelines.
+```
+`Output format: BOQ Spreadsheet (Excel) + Automation System Cost Sheet (PDF).`
 
-Output format: BOQ Spreadsheet (Excel) + Automation System Cost Sheet (PDF).
-
-Input Files & Code Section:
-
+`Input Files & Code Section:`
+```
 1. Parking layout drawings.
 
 2. Automation vendor proposals.
 
 3. Safety compliance requirements."
+```
+## Prompt 12 — Retail Mall BOQ with Fit-Out for Anchor Tenants
 
-Prompt 12 — Retail Mall BOQ with Fit-Out for Anchor Tenants
+`Backstory: A developer is constructing a shopping mall in Bengaluru and needs BOQs for both the base building and customized fit-outs for large anchor tenants like supermarkets and cinemas.`
 
-Backstory: A developer is constructing a shopping mall in Bengaluru and needs BOQs for both the base building and customized fit-outs for large anchor tenants like supermarkets and cinemas.
+`Goal: Prepare BOQs for mall construction with tenant-specific fit-outs.`
 
-Goal: Prepare BOQs for mall construction with tenant-specific fit-outs.
+`Prompt:`
 
-Prompt:
+`"You are a Retail Construction Estimator. Create separate BOQs for base building works and tenant fit-outs in a retail mall.`
 
-"You are a Retail Construction Estimator. Create separate BOQs for base building works and tenant fit-outs in a retail mall.
-
+```
 Your task: 
 
 1. Include core and shell construction costs for the mall. 
@@ -378,17 +385,17 @@ Your task:
 4. Provide a tenant contribution vs. landlord contribution cost split. 
 
 5. Add phased handover cost schedules.
+```
+`Output format: BOQ Spreadsheet (Excel) + Tenant Fit-Out Summary (PDF).`
 
-Output format: BOQ Spreadsheet (Excel) + Tenant Fit-Out Summary (PDF).
-
-Input Files & Code Section: 
-
+`Input Files & Code Section: `
+```
 1. Mall architectural drawings. 
 
 2. Tenant design requirements. 
 
 3. Landlord-tenant agreement details.
-
+```
 Prompt 13 — Data Center BOQ with Redundancy Systems
 
 Backstory: An IT firm is building a Tier III data center in Noida. The BOQ must cover specialized infrastructure like raised flooring, precision cooling, UPS systems, and fire suppression.
