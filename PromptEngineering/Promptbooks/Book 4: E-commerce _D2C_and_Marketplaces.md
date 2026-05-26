@@ -3906,16 +3906,17 @@ Tasks:
 
 3. Sale dates and product list."
 ```
-Prompt 8 — Seasonal Sale Landing Page Optimization
+## Prompt 8 — Seasonal Sale Landing Page Optimization
 
-Backstory: Last year’s sale landing page had a 60% bounce rate due to poor structure and slow loading.
+`Backstory: Last year’s sale landing page had a 60% bounce rate due to poor structure and slow loading.`
 
-Goal: Redesign the seasonal sale landing page for maximum conversion.
+`Goal: Redesign the seasonal sale landing page for maximum conversion.`
 
-Prompt:
+`Prompt:`
 
-"You are a Conversion Rate Optimization (CRO) Specialist. Redesign a seasonal sale landing page for a D2C fashion brand.
+`"You are a Conversion Rate Optimization (CRO) Specialist. Redesign a seasonal sale landing page for a D2C fashion brand.`
 
+```
 Tasks:
 
 1. Suggest above-the-fold hero banner design.
@@ -3927,33 +3928,34 @@ Tasks:
 4. Suggest mobile-first optimizations.
 
 5. Provide A/B testing plan for key elements.
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Landing Page Wireframe (PDF)
 
 2. CRO Recommendation Report (DOCX)
 
 3. A/B Test Plan (Excel)
-
-Inputs Needed:
-
+```
+`Inputs Needed:`
+```
 1. Website platform details
 
 2. Product categories
 
 3. Brand style guide."
+```
+##  Prompt 9 — Seasonal Sale ROI Calculator
 
-Prompt 9 — Seasonal Sale ROI Calculator
+`Backstory: Your marketing team struggles to track real ROI from seasonal campaigns.`
 
-Backstory: Your marketing team struggles to track real ROI from seasonal campaigns.
+`Goal: Build an ROI calculator that factors in marketing spend, discounts, and inventory cost.`
 
-Goal: Build an ROI calculator that factors in marketing spend, discounts, and inventory cost.
+`Prompt:`
 
-Prompt:
+`"You are an E-commerce Financial Analyst. Create a seasonal sale ROI calculator.`
 
-"You are an E-commerce Financial Analyst. Create a seasonal sale ROI calculator.
-
+```
 Tasks:
 
 1. Include inputs for ad spend, discount percentage, and product cost.
@@ -3965,33 +3967,34 @@ Tasks:
 4. Provide a report for post-sale financial analysis.
 
 5. Include sensitivity analysis for different discount levels.
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. ROI Calculator (Excel)
 
 2. Post-Sale Financial Report Template (DOCX)
 
 3. Sensitivity Analysis Sheet (Excel)
-
-Inputs Needed:
-
+```
+`Inputs Needed:`
+```
 1. Campaign spend data
 
 2. Sales volume data
 
 3. Return/cancellation rates."
+```
+## Prompt 10 — Loyalty Member Exclusive Sales
 
-Prompt 10 — Loyalty Member Exclusive Sales
+`Backstory: Your loyalty program members contribute 40% of total revenue but often don’t get special treatment during sales.`
 
-Backstory: Your loyalty program members contribute 40% of total revenue but often don’t get special treatment during sales.
+`Goal: Launch an exclusive pre-sale for loyalty members.`
 
-Goal: Launch an exclusive pre-sale for loyalty members.
+`Prompt:`
 
-Prompt:
+`"You are a Customer Retention Strategist. Create an exclusive pre-sale plan for loyalty members.`
 
-"You are a Customer Retention Strategist. Create an exclusive pre-sale plan for loyalty members.
-
+```
 Tasks:
 
 1. Define eligibility criteria for early access.
@@ -4003,33 +4006,34 @@ Tasks:
 4. Include post-purchase appreciation gestures.
 
 5. Measure uplift in loyalty engagement post-sale.
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Pre-Sale Campaign Plan (DOCX)
 
 2. Communication Templates (Excel)
 
 3. Engagement Uplift Report (Excel)
-
-Inputs Needed:
-
+```
+`Inputs Needed:`
+```
 1. Loyalty program member list
 
 2. Discount budget
 
 3. Inventory allocation."
+```
+## Prompt 11 — Festival Calendar Integration for Marketing
 
-Prompt 11 — Festival Calendar Integration for Marketing
+`Backstory: In India, sales success often depends on syncing promotions with festivals like Diwali, Holi, Eid, Raksha Bandhan, and regional events like Pongal and Onam. Your past campaigns missed smaller festivals that could have driven niche audience sales.`
 
-Backstory: In India, sales success often depends on syncing promotions with festivals like Diwali, Holi, Eid, Raksha Bandhan, and regional events like Pongal and Onam. Your past campaigns missed smaller festivals that could have driven niche audience sales.
+`Goal: Build a yearly marketing calendar that aligns all seasonal sales with both national and regional Indian festivals, optimizing promotions for each.`
 
-Goal: Build a yearly marketing calendar that aligns all seasonal sales with both national and regional Indian festivals, optimizing promotions for each.
+`Prompt:`
 
-Prompt:
+`"You are an Indian Festival Marketing Strategist. Build a 12-month marketing calendar that aligns sales events with Indian festivals and regional celebrations.`
 
-"You are an Indian Festival Marketing Strategist. Build a 12-month marketing calendar that aligns sales events with Indian festivals and regional celebrations.
-
+```
 Tasks:
 
 1. List 20+ major and regional festivals with expected spending patterns.
@@ -4041,23 +4045,23 @@ Tasks:
 4. Create campaign launch timelines counting down from 30 days before each festival.
 
 5. Suggest culturally relevant content themes for creatives and ads.
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Annual Festival Calendar (Excel)
 
 2. Festival-Specific Offer Ideas (DOCX)
 
 3. Creative Theme Guide (PDF)
-
-Inputs Needed:
-
+```
+`Inputs Needed:`
+```
 1. Product catalog
 
 2. Historical festival-wise sales data
 
 3. Ad budget allocation."
-   
+```   
 Prompt 12 — Hyperlocal Festive Campaigns
 
 Backstory: Customers in Punjab celebrate Lohri differently than customers in Tamil Nadu celebrate Pongal. Generic nationwide campaigns don’t resonate equally everywhere.
