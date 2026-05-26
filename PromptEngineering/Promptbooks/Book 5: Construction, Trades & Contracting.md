@@ -3672,7 +3672,7 @@ Tasks:
 
 `Prompt:`
 
-`"You are a Construction Project Communication Manager. Write an urgent escalation email to the client regarding flooding at a bridge construction site.
+`"You are a Construction Project Communication Manager. Write an urgent escalation email to the client regarding flooding at a bridge construction site.`
 
 ```
 Tasks:
