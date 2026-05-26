@@ -1680,7 +1680,7 @@ Tasks:
     3. Proposed work methodology & timeline
  
     4. Quality assurance and safety plans
-
+```
 3. Prepare the Bill of Quantities (BOQ) and cost estimate with GST compliance.
 
 4. Create a checklist ensuring no document is missed before submission.
