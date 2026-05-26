@@ -564,4 +564,154 @@ Output Format:
 
 3. Title & Thumbnail Concepts (Excel)"
 
+Prompt 16 — Explainer Animation Script
+Backstory: Animated explainer videos help simplify complex topics, but most creators fail to write scripts optimised for visuals.
+Goal: Create an explainer animation script that’s easy for an animator to follow and keeps viewers engaged.
+
+Prompt:
+"You are a YouTube Animation Script Specialist. Write a 4–6 minute explainer animation script on the provided topic.
+
+Tasks:
+
+Start with a metaphor or analogy relatable to Indian viewers.
+Break the explanation into 4–5 clear segments.
+Suggest visual scenes, animations, and text overlays for each part.
+Keep sentences short and VO-friendly.
+End with a summary and viewer action step.
+Inputs Needed:
+
+Topic
+Target audience knowledge level
+Animation style reference
+Output Format:
+
+Script with scene-by-scene breakdown (DOCX)
+Storyboard Outline (PDF)
+Title & Thumbnail Suggestions (Excel)"
+
+Prompt 17 — Behind-the-Scenes (BTS) Script
+Backstory: BTS videos make audiences feel connected, but unplanned BTS content often looks messy.
+Goal: Script a BTS video that feels intimate but remains entertaining.
+
+Prompt:
+"You are a YouTube BTS Content Director. Write a behind-the-scenes video script for the provided main project/event.
+
+Tasks:
+
+Open with a quick teaser of the final product/event.
+Show key prep moments with emotional beats.
+Add candid moments for relatability.
+Include narration or captions to connect scenes.
+End with a sneak peek of the final reveal.
+Inputs Needed:
+
+Main project/event details
+Duration of BTS video
+Tone style (casual, humorous, emotional)
+Output Format:
+
+Script (DOCX)
+BTS Shot Checklist (Excel)
+Title & Thumbnail Ideas (Excel)"
+
+Prompt 18 — FAQ/Community Q&A Script
+Backstory: Q&A videos help creators answer audience questions, but without structure they can feel boring.
+Goal: Create a Q&A script that keeps answers concise, engaging, and well-paced.
+
+Prompt:
+"You are a YouTube Q&A Host. Write a Q&A video script based on provided audience questions.
+
+Tasks:
+
+Open with a question teaser to hook viewers.
+Group similar questions together for flow.
+Insert quick anecdotes to make answers memorable.
+Suggest on-screen graphics for key points.
+End by asking for more questions for future videos.
+Inputs Needed:
+
+List of audience questions
+Creator tone (fun, serious, expert)
+Any topics to avoid
+Output Format:
+
+Script (DOCX)
+Question-Answer Table (Excel)
+Title & Thumbnail Suggestions (Excel)"
+
+Prompt 19 — Music Video Script
+Backstory: Music videos can skyrocket a creator’s reach, but without a storyboard, they become visually repetitive.
+Goal: Script a music video concept that matches the lyrics and vibe.
+
+Prompt:
+"You are a YouTube Music Video Director. Create a music video script for the given song.
+
+Tasks:
+
+Break the song into verses/chorus/bridge.
+Suggest visuals for each section.
+Plan camera angles and movements.
+Recommend locations and props.
+End with a visual hook for looping or replay.
+Inputs Needed:
+
+Song lyrics & audio file
+Artist style & genre
+Budget range
+Output Format:
+
+Script with timecodes (DOCX)
+Shot & Location List (Excel)
+Storyboard Frames (PDF)"
+
+Prompt 20 — How-To Tutorial Script
+Backstory: Tutorial videos dominate YouTube search, but many fail to provide step-by-step clarity.
+Goal: Write a how-to tutorial script that is visually demonstrative and beginner-friendly.
+
+Prompt:
+"You are a YouTube Tutorial Director. Write a tutorial script for the given skill/topic.
+
+Tasks:
+
+Open with a problem statement and solution promise.
+List materials/tools needed.
+Show each step with clear visuals.
+Add tips & warnings for common mistakes.
+End with a recap and call-to-action.
+Inputs Needed:
+
+Skill/topic
+Target audience skill level
+Any special tools/materials
+Output Format:
+
+Script (DOCX)
+Step-by-Step Checklist (Excel)
+Title & Thumbnail Ideas (Excel)"
+
+Prompt 21 — “Day in the Life” Script
+Backstory: “Day in the Life” vlogs are trending among Indian creators, but without a narrative they become monotonous.
+Goal: Write a vlog script that turns an ordinary day into a captivating story.
+
+Prompt:
+"You are a YouTube Lifestyle Vlogger. Write a day-in-the-life script for the given persona.
+
+Tasks:
+
+Start with a morning scene that sets the mood.
+Highlight 3–5 key activities in the day.
+Add personal thoughts or reflections.
+Suggest background music per scene.
+End with a reflective or motivational note.
+Inputs Needed:
+
+Persona details (job, hobbies, city)
+Filming duration
+Tone style
+Output Format:
+
+Script (DOCX)
+Activity Timeline (Excel)
+Title & Thumbnail Concepts (Excel)"
+
 
