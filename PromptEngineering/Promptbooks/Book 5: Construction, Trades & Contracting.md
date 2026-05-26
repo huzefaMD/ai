@@ -4031,16 +4031,17 @@ Tasks:
 
 3. PR guidelines from client."
 ```
-Prompt 13 — Client Decision Request Brief
+## Prompt 13 — Client Decision Request Brief
 
-Backstory: In a stadium renovation project in Ahmedabad, a major design change in seating layout requires urgent client approval to avoid delays.
+`Backstory: In a stadium renovation project in Ahmedabad, a major design change in seating layout requires urgent client approval to avoid delays.`
 
-Goal: Present the change request in a concise decision brief.
+`Goal: Present the change request in a concise decision brief.`
 
-Prompt:
+`Prompt:`
 
-"You are a Construction Decision Support Specialist. Prepare a decision request brief for a stadium renovation project in Ahmedabad.
+`"You are a Construction Decision Support Specialist. Prepare a decision request brief for a stadium renovation project in Ahmedabad.`
 
+```
 Tasks:
 
 1. Describe the proposed seating layout change.
@@ -4052,31 +4053,32 @@ Tasks:
 4. Include comparison diagrams.
 
 5. End with a clear recommendation for approval.
-
-Output format:
-
+```
+`Output format:`
+```
 1. Decision Request Brief (PDF)
 
 2. Comparison Diagram (PNG/PDF)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Original design drawings
 
 2. Proposed change drawings
 
 3. Cost and schedule impact analysis."
+```
+## Prompt 14 — End-of-Project Client Dossier
 
-Prompt 14 — End-of-Project Client Dossier
+`Backstory: A luxury resort construction in Kerala is complete. The client requires a full dossier for internal records and marketing.`
 
-Backstory: A luxury resort construction in Kerala is complete. The client requires a full dossier for internal records and marketing.
+`Goal: Compile a professional, branded end-of-project dossier.`
 
-Goal: Compile a professional, branded end-of-project dossier.
+`Prompt:`
 
-Prompt:
+`"You are a Construction Handover Documentation Expert. Prepare an end-of-project dossier for a luxury resort in Kerala.`
 
-"You are a Construction Handover Documentation Expert. Prepare an end-of-project dossier for a luxury resort in Kerala.
-
+```
 Tasks:
 
 1. Include a project overview and highlights.
@@ -4088,31 +4090,32 @@ Tasks:
 4. List project team and stakeholders.
 
 5. Include media-ready descriptions for marketing.
-
-Output format:
-
+```
+`Output format:`
+```
 1. Project Dossier (PDF)
 
 2. Media Kit (ZIP folder)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Final project reports
 
 2. Photo and video library
 
 3. Branding guidelines."
+```
+## Prompt 15 — Crisis Communication Pack for Client
 
-Prompt 15 — Crisis Communication Pack for Client
+`Backstory: During a road construction project in Assam, a public protest has stopped work for 3 days. The client needs a ready-to-use communication pack for media and government agencies.`
 
-Backstory: During a road construction project in Assam, a public protest has stopped work for 3 days. The client needs a ready-to-use communication pack for media and government agencies.
+`Goal: Prepare a crisis communication toolkit for quick deployment.`
 
-Goal: Prepare a crisis communication toolkit for quick deployment.
+`Prompt:`
 
-Prompt:
+`"You are a Construction Crisis Communication Specialist. Create a communication pack for a road project in Assam affected by protests.`
 
-"You are a Construction Crisis Communication Specialist. Create a communication pack for a road project in Assam affected by protests.
-
+```
 Tasks:
 
 1. Draft an official press statement.
@@ -4124,21 +4127,21 @@ Tasks:
 4. Create a situation status sheet for government agencies.
 
 5. Add visuals/maps to explain project status.
-
-Output format:
-
+```
+`Output format:`
+```
 1. Crisis Communication Pack (DOCX + PDF)
 
 2. Situation Map (PNG/PDF)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Incident reports
 
 2. Project maps
 
 3. Media contact list."
-
+```
 Prompt 16 — Quality Inspection Summary for Client
 
 Backstory: A pharmaceutical manufacturing plant in Vizag has completed its structural phase and is undergoing internal quality inspections for cleanrooms. The client wants a non-technical summary of inspection results.
