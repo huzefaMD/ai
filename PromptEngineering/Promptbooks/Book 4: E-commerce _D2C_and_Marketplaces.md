@@ -4179,16 +4179,17 @@ Tasks:
 ```
 `Website CMS access."`
 
-Prompt 15 — Flash Sale Gamification
+## Prompt 15 — Flash Sale Gamification
 
-Backstory: Your audience gets bored during long sales. Adding gamified elements like spin-the-wheel discounts and hourly challenges keeps them engaged.
+`Backstory: Your audience gets bored during long sales. Adding gamified elements like spin-the-wheel discounts and hourly challenges keeps them engaged.`
 
-Goal: Design gamified seasonal sale elements to increase site time and conversion.
+`Goal: Design gamified seasonal sale elements to increase site time and conversion.`
 
-Prompt:
+`Prompt:`
 
-"You are a Gamification Expert for E-commerce. Design a gamified experience for a 5-day festive sale.
+`"You are a Gamification Expert for E-commerce. Design a gamified experience for a 5-day festive sale.`
 
+```
 Tasks:
 
 1. Suggest 3 games (spin wheel, treasure hunt, mystery box) relevant to the festival theme.
@@ -4200,33 +4201,34 @@ Tasks:
 4. Integrate leaderboard and social sharing options.
 
 5. Track engagement and conversion rates for gamified features.
-
-Output Format:
+```
+`Output Format:`
 
 1. Game Mechanics Document (DOCX)
 
 2. UI Wireframes (PDF)
 
 3. Prize Distribution Plan (Excel)
-
-Inputs Needed:
+```
+`Inputs Needed:`
 
 1. Website gamification tool capabilities
 
 2. Festival theme details
 
 3. Prize budget."
+```
+## Prompt 16 — Real-Time Price Adjustment Plan
 
-Prompt 16 — Real-Time Price Adjustment Plan
+`Backstory: Competitors often slash prices mid-sale, causing your products to look overpriced.`
 
-Backstory: Competitors often slash prices mid-sale, causing your products to look overpriced.
+`Goal: Build a real-time price adjustment system for seasonal sales.`
 
-Goal: Build a real-time price adjustment system for seasonal sales.
+`Prompt:`
 
-Prompt:
+`"You are an E-commerce Pricing Analyst. Create a real-time seasonal sale price adjustment strategy.`
 
-"You are an E-commerce Pricing Analyst. Create a real-time seasonal sale price adjustment strategy.
-
+```
 Tasks:
 
 1. Monitor competitor pricing across marketplaces.
@@ -4238,33 +4240,34 @@ Tasks:
 4. Suggest alert systems for manual review before major changes.
 
 5. Track impact of price changes on conversion rate.
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Price Adjustment Rules Document (DOCX)
 
 2. Competitor Monitoring Sheet (Excel)
 
 3. Alert Workflow Diagram (PDF)
-
-Inputs Needed:
-
+```
+`Inputs Needed:`
+```
 1. Competitor list & product matches
 
 2. Marketplace API access
 
 3. Minimum margin data."   
+```
+## Prompt 17 — Midnight Sale Strategy
 
-Prompt 17 — Midnight Sale Strategy
+`Backstory: Young shoppers (20–28) often shop late at night, especially for flash deals.`
 
-Backstory: Young shoppers (20–28) often shop late at night, especially for flash deals.
+`Goal: Launch a midnight-only sale event to attract night-time shoppers.`
 
-Goal: Launch a midnight-only sale event to attract night-time shoppers.
+`Prompt:`
 
-Prompt:
+`"You are an E-commerce Event Planner. Design a midnight sale campaign for a 2-day period within the festive season.`
 
-"You are an E-commerce Event Planner. Design a midnight sale campaign for a 2-day period within the festive season.
-
+```
 Tasks:
 
 1. Select products with high appeal for young demographics.
@@ -4276,33 +4279,34 @@ Tasks:
 4. Add limited stock counters for urgency.
 
 5. Measure lift in night-time orders vs. normal days.
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Midnight Sale Product List (Excel)
 
 2. Notification Copy (DOCX)
 
 3. Performance Report Template (Excel)
-
-Inputs Needed:
-
+```
+`Inputs Needed:`
+```
 1. Product catalog
 
 2. Audience segmentation data
+```
+`Notification tool access."`
 
-Notification tool access."
+## Prompt 18 — Festival-Specific Ad Creatives
 
-Prompt 18 — Festival-Specific Ad Creatives
-
-Backstory: Your generic sale ads look out of place during culturally rich festivals.
+`Backstory: Your generic sale ads look out of place during culturally rich festivals.
 
 Goal: Create ad creatives themed around the specific festival while keeping brand identity intact.
 
-Prompt:
+`Prompt:`
 
-"You are a Creative Director for E-commerce Ads. Develop festival-themed ad creatives for 3 seasonal campaigns.
+`"You are a Creative Director for E-commerce Ads. Develop festival-themed ad creatives for 3 seasonal campaigns.`
 
+```
 Tasks:
 
 1. Define visual style, color palette, and imagery aligned to each festival.
@@ -4314,31 +4318,32 @@ Tasks:
 4. Suggest A/B testing for creative elements.
 
 5. Maintain brand consistency in all creatives.
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Creative Mood Board (PDF)
 
 2. Copywriting Templates (DOCX)
 
 3. Ad Variations List (Excel)
-
-Inputs Needed:
-
+```
+`Inputs Needed:`
+```
 1. Brand style guide
 2. Festival cultural research
 3. Ad placement specs."
+```
+## Prompt 19 — Seasonal Sale Competitor Intel War Room
 
-Prompt 19 — Seasonal Sale Competitor Intel War Room
+`Backstory: Your brand lost 15% market share during last year’s Amazon Great Indian Festival because competitors launched aggressive bundle deals mid-sale, which you weren’t prepared for.`
 
-Backstory: Your brand lost 15% market share during last year’s Amazon Great Indian Festival because competitors launched aggressive bundle deals mid-sale, which you weren’t prepared for.
+`Goal: Set up a “war room” approach to monitor competitor activity and respond instantly during a seasonal sale.`
 
-Goal: Set up a “war room” approach to monitor competitor activity and respond instantly during a seasonal sale.
+`Prompt:`
 
-Prompt:
+`"You are an E-commerce Competitive Intelligence Strategist. Build a real-time competitor monitoring and action framework for seasonal sales.`
 
-"You are an E-commerce Competitive Intelligence Strategist. Build a real-time competitor monitoring and action framework for seasonal sales.
-
+```
 Tasks:
 
 1. Identify top 10 competitors across marketplaces and D2C channels.
@@ -4350,33 +4355,34 @@ Tasks:
 4. Suggest tools and APIs for real-time competitor tracking.
 
 5. Develop reporting templates to share actionable insights with sales and marketing teams every 6 hours.
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Competitor War Room Playbook (DOCX)
 
 2. Real-Time Tracking Sheet (Excel with API integrations)
 
 3. Rapid Response SOP (PDF)
-
-Inputs Needed:
-
+```
+`Inputs Needed:`
+```
 1. Competitor product list
 
 2. Marketplace API access
+```
+`Pricing flexibility range."`
 
-Pricing flexibility range."
+## Prompt 20 — Warehouse & Fulfilment Readiness Audit
 
-Prompt 20 — Warehouse & Fulfilment Readiness Audit
+`Backstory: Last festive season, you faced customer backlash due to delayed deliveries caused by overwhelmed warehouses and courier bottlenecks.`
 
-Backstory: Last festive season, you faced customer backlash due to delayed deliveries caused by overwhelmed warehouses and courier bottlenecks.
+`Goal: Conduct a pre-sale operational readiness audit to ensure smooth fulfilment during high-volume sales.`
 
-Goal: Conduct a pre-sale operational readiness audit to ensure smooth fulfilment during high-volume sales.
+`Prompt:`
 
-Prompt:
+`"You are an E-commerce Fulfilment Efficiency Consultant. Audit warehouse and delivery readiness for an upcoming seasonal sale expecting a 3x volume spike.
 
-"You are an E-commerce Fulfilment Efficiency Consultant. Audit warehouse and delivery readiness for an upcoming seasonal sale expecting a 3x volume spike.
-
+```
 Tasks:
 
 1. Assess current warehouse capacity and processing speed.
@@ -4388,33 +4394,34 @@ Tasks:
 4. Set up real-time tracking dashboards for dispatch-to-delivery.
 
 5. Build a communication protocol for customers in case of delays.
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Fulfilment Readiness Audit Report (DOCX)
 
 2. Warehouse Optimization Plan (Excel)
 
 3. Courier Partner Performance Tracker (Excel)
-
-Inputs Needed:
-
+```
+`Inputs Needed:`
+```
 1. Current daily fulfilment capacity
 
 2. Expected order volume forecast
 
 3. Courier partner SLAs."
+```
+## Prompt 21 — Social Media Countdown & Hype Campaign
 
-Prompt 21 — Social Media Countdown & Hype Campaign
+`Backstory: Many Indian brands underuse Instagram Reels, YouTube Shorts, and WhatsApp Broadcasts to build hype before a seasonal sale.`
 
-Backstory: Many Indian brands underuse Instagram Reels, YouTube Shorts, and WhatsApp Broadcasts to build hype before a seasonal sale.
+`Goal: Run a 7-day countdown campaign that builds urgency and excitement across social platforms.`
 
-Goal: Run a 7-day countdown campaign that builds urgency and excitement across social platforms.
+`Prompt:`
 
-Prompt:
+`"You are a Social Media Viral Campaign Planner. Create a 7-day cross-platform hype campaign leading up to a seasonal sale.`
 
-"You are a Social Media Viral Campaign Planner. Create a 7-day cross-platform hype campaign leading up to a seasonal sale.
-
+```
 Tasks:
 
 1. Define daily content themes (e.g., behind-the-scenes prep, product reveals, mystery deals).
@@ -4426,33 +4433,34 @@ Tasks:
 4. Include influencer collaborations for Day 3 and Day 1 hype.
 
 5. Recommend ad spend allocation for maximum reach in the final 48 hours before the sale.
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. 7-Day Content Calendar (Excel)
 
 2. Reel & Short Script Ideas (DOCX)
 
 3. WhatsApp Broadcast Copy (Excel)
-
-Inputs Needed:
-
+```
+`Inputs Needed:`
+```
 1. Social media handles & follower counts
 
 2. Influencer partner list
+```
+`Budget for paid boosts."`
 
-Budget for paid boosts."
+## Prompt 22 — Buy Now Pay Later (BNPL) Festive Rollout
 
-Prompt 22 — Buy Now Pay Later (BNPL) Festive Rollout
+`Backstory: A large portion of Indian Gen Z and Millennials delay festive shopping because of upfront cost concerns. Offering BNPL during a sale could increase average order value.`
 
-Backstory: A large portion of Indian Gen Z and Millennials delay festive shopping because of upfront cost concerns. Offering BNPL during a sale could increase average order value.
+`Goal: Integrate and market a BNPL payment option for a seasonal sale.`
 
-Goal: Integrate and market a BNPL payment option for a seasonal sale.
+`Prompt:`
 
-Prompt:
+`"You are an E-commerce Payment Strategy Consultant. Plan the rollout of BNPL for a festive season sale targeting ages 20–35.`
 
-"You are an E-commerce Payment Strategy Consultant. Plan the rollout of BNPL for a festive season sale targeting ages 20–35.
-
+```
 Tasks:
 
 1. Choose the right BNPL provider (LazyPay, Simpl, ZestMoney) based on your audience.
@@ -4464,33 +4472,34 @@ Tasks:
 4. Offer BNPL-exclusive deals to encourage adoption.
 
 5. Track uplift in cart value and conversion rate due to BNPL.
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. BNPL Rollout Plan (DOCX)
 
 2. Marketing Assets Guide (PDF)
 
 3. BNPL Impact Tracker (Excel)
-
-Inputs Needed:
-
+```
+`Inputs Needed:`
+```
 1. Current payment gateway integration
 
 2. BNPL provider options
+```
+`Sale product catalog."`
 
-Sale product catalog."
+## Prompt 23 — Festival CSR Tie-in Sale
 
-Prompt 23 — Festival CSR Tie-in Sale
+`Backstory: Indian consumers respond positively when brands link festive sales to social causes (e.g., donating ₹10 per order to charity).`
 
-Backstory: Indian consumers respond positively when brands link festive sales to social causes (e.g., donating ₹10 per order to charity).
+`Goal: Integrate a CSR (Corporate Social Responsibility) initiative into a seasonal sale.`
 
-Goal: Integrate a CSR (Corporate Social Responsibility) initiative into a seasonal sale.
+`Prompt:`
 
-Prompt:
+`"You are a Brand CSR Integration Strategist. Design a CSR tie-in campaign for a Diwali sale.`
 
-"You are a Brand CSR Integration Strategist. Design a CSR tie-in campaign for a Diwali sale.
-
+```
 Tasks:
 
 1. Select a relevant cause (education, environment, hunger relief) aligned with the festival.
@@ -4502,33 +4511,34 @@ Tasks:
 4. Design storytelling content around the impact of the initiative.
 
 5. Create post-sale transparency reports for customers.
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. CSR Campaign Plan (DOCX)
 
 2. Co-branding Guidelines (PDF)
 
 3. Impact Reporting Template (Excel)
-
-Inputs Needed:
-
+```
+`Inputs Needed:`
+```
 1. NGO partner shortlist
 
 2. CSR budget allocation
+```
+`Sale duration and projected order volume."`
 
-Sale duration and projected order volume."
+## Prompt 24 — AI-Driven Personalised Offers
 
-Prompt 24 — AI-Driven Personalised Offers
+`Backstory: Most Indian e-commerce sites blast the same discount to everyone, missing the opportunity to use AI for personalised festive deals.`
 
-Backstory: Most Indian e-commerce sites blast the same discount to everyone, missing the opportunity to use AI for personalised festive deals.
+`Goal: Implement personalised product recommendations and discounts based on browsing and purchase history.`
 
-Goal: Implement personalised product recommendations and discounts based on browsing and purchase history.
+`Prompt:`
 
-Prompt:
+`"You are an AI Personalisation Engineer for E-commerce. Build a personalised offer engine for a seasonal sale.`
 
-"You are an AI Personalisation Engineer for E-commerce. Build a personalised offer engine for a seasonal sale.
-
+```
 Tasks:
 
 1. Analyse customer browsing and purchase history.
@@ -4540,33 +4550,34 @@ Tasks:
 4. Recommend top 5 products per customer segment for upselling.
 
 5. Track uplift in click-through and conversion rates.
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Segmentation Rules Document (DOCX)
 
 2. Personalised Offer List (Excel)
 
 3. Performance Tracking Dashboard (Excel)
-
-Inputs Needed:
-
+```
+`Inputs Needed:`
+```
 1. Customer database
 
 2. Transaction history
 
 3. Email/SMS marketing platform access."
+```
+## Prompt 25 — Post-Sale Retention Plan
 
-Prompt 25 — Post-Sale Retention Plan
+`Backstory: Seasonal sales often bring one-time buyers who never return, leading to a low customer lifetime value.`
 
-Backstory: Seasonal sales often bring one-time buyers who never return, leading to a low customer lifetime value.
+`Goal: Convert seasonal sale buyers into repeat customers using retention strategies.`
 
-Goal: Convert seasonal sale buyers into repeat customers using retention strategies.
+`Prompt:`
 
-Prompt:
+`"You are a Customer Retention Specialist. Design a 90-day retention plan for customers acquired during a seasonal sale.`
 
-"You are a Customer Retention Specialist. Design a 90-day retention plan for customers acquired during a seasonal sale.
-
+```
 Tasks:
 
 1. Segment new customers based on products purchased.
@@ -4578,19 +4589,20 @@ Tasks:
 4. Launch a post-sale survey to gather feedback.
 
 5. Measure repeat purchase rate over 3 months.
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Retention Campaign Flowchart (PDF)
 
 2. Messaging Templates (DOCX)
 
 3. Repeat Purchase Tracking Sheet (Excel)
-
-Inputs Needed:
-
+```
+`Inputs Needed:`
+```
 1. Sale customer list
 
 2. Loyalty program structure
 
 3. Discount budget for retention offers."
+```
