@@ -1984,4 +1984,204 @@ Output Format:
 
 1. Post Draft (Word/PDF: Problem, Story, Solution, CTA)"
 
+Prompt 7 — Visual Document Carousel Ideas
+
+Backstory: Carousels get high engagement when they provide actionable insights.
+
+Goal: Create a carousel post concept that educates in a swipeable format.
+
+Prompt:
+
+"You are a LinkedIn Carousel Content Designer. For the given topic, plan a 6–8 slide document carousel that:
+
+1. Opens with a bold promise or benefit.
+
+2. Uses short, clear text per slide.
+
+3. Includes visuals/icons that match the brand tone.
+
+4. Ends with a slide that has a strong CTA.
+
+5. Is designed for mobile readability.
+
+Inputs:
+
+1. Topic/theme
+
+2. Brand colour scheme
+
+3. Main takeaways
+
+Output Format:
+
+1. Carousel Plan (Excel: Slide No., Content, Visual)
+
+2. Caption Text (Word/PDF)"
+
+Prompt 8 — LinkedIn Poll Strategy
+
+Backstory: Polls can go viral if they spark curiosity or debate.
+
+Goal: Create a poll that generates high engagement and conversation.
+
+Prompt:
+
+"You are a LinkedIn Poll Engagement Strategist. Create a poll that:
+
+1. Has a question relevant to my industry.
+
+2. Offers 3–4 clear answer options.
+
+3. Includes a caption that encourages explanation in comments.
+
+4. Has timing suggestions for maximum reach.
+
+5. Can be followed up with a post analysing the results.
+
+Inputs:
+
+1. Industry/niche
+
+2. Audience job roles
+
+3. Topic of interest
+
+Output Format:
+
+1. Poll Plan (Excel: Question, Options, Posting Time)
+
+2. Caption Text (Word/PDF)"
+
+Prompt 9 — Networking DM Scripts
+
+Backstory: Most people send generic connection requests and get ignored.
+
+Goal: Create personalised DM scripts for networking and collaborations.
+
+Prompt:
+
+"You are a LinkedIn Networking Script Writer. Create 5 DM templates that:
+
+1. Personalise the opening based on the recipient’s profile.
+
+2. Explain clearly why I’m reaching out.
+
+3. Suggest a specific value exchange or collaboration idea.
+
+4. Stay under 300 characters for mobile readability.
+
+5. Avoid pushy language.
+
+Inputs:
+
+1. My profession/niche
+
+2. Type of people I want to connect with (recruiters, peers, prospects)
+
+Output Format:
+
+1. DM Template Table (Excel: Audience Type, Script, CTA)"
+
+Prompt 10 — Competitor Content Gap Analysis
+
+Backstory: Many professionals post regularly but don’t know what gaps exist between their own content and competitors’ top-performing posts. This means they keep posting similar content while missing chances to stand out.
+
+Goal: Identify topics and formats competitors use that I haven’t, and create a strategy to fill those gaps.
+
+Prompt:
+
+"You are a LinkedIn Competitor Content Analyst. Analyse the profiles and recent posts of my 3 chosen competitors to:
+
+1. Identify 5 content topics they post about that get the most engagement.
+
+2. Highlight formats they use (carousel, video, poll, text posts) that I don’t.
+
+3. Suggest 5 high-potential topics I can create content on to differentiate myself.
+
+4. Recommend hashtags they use but I haven’t.
+
+5. Suggest posting frequency and time patterns to compete effectively.
+
+Inputs:
+
+1. Links to 3 competitor profiles
+
+2. My LinkedIn profile link
+
+3. My niche/industry focus
+
+Output Format:
+
+1. Competitor Gap Report (Excel: Topic, Format, Engagement Score, My Opportunity)
+
+2. Suggested Content Plan (Word/PDF: Topic Outline, Format, Hook)"
+
+Prompt 11 — Case Study Post Development
+
+Backstory: Professionals who share case studies of their work gain credibility because it’s proof-based content — especially valued in consulting, marketing, and tech.
+
+Goal: Create a structured case study LinkedIn post that is engaging and easy to read.
+
+Prompt:
+
+"You are a LinkedIn Case Study Writer. Using the provided project details, create a 300–500 word post that:
+
+1. Starts with a clear, measurable result achieved.
+
+2. Breaks down the problem, the approach taken, and the outcome.
+
+3. Highlights challenges faced and how they were overcome.
+
+4. Includes visuals (charts, before-after screenshots) to support the story.
+
+5. Ends with a CTA inviting others to discuss similar challenges.
+
+Inputs:
+
+1. Project details (problem, solution, results)
+
+2. Metrics achieved
+
+3. Audience level of technical knowledge
+
+Output Format:
+
+1. Case Study Post Draft (Word/PDF: Hook, Problem, Approach, Results, CTA)
+
+2. Visual Suggestions (Excel: Slide No., Visual Type, Caption)"
+
+Prompt 12 — Lead Magnet Post Creation
+
+Backstory: Many professionals try to generate leads on LinkedIn but fail because their offer isn’t packaged in a value-first way.
+
+Goal: Write a post that offers a free resource in exchange for engagement or connection.
+
+Prompt:
+
+"You are a LinkedIn Lead Generation Content Strategist. Create a post that:
+
+1. Introduces a free, high-value resource (e-book, checklist, template).
+
+2. Explains the problem it solves and the benefits.
+
+3. Uses an engaging hook and story to build interest.
+
+4. Clearly instructs readers how to get it (comment, DM, fill form).
+
+5. Is optimised for Indian professionals in my niche.
+
+Inputs:
+
+1. Resource details
+
+2. Target audience pain points
+
+3. Preferred lead collection method
+
+Output Format:
+
+1. Lead Magnet Post Draft (Word/PDF: Hook, Problem, Resource, CTA)
+
+2. Hashtag List (Excel: Hashtag, Engagement Potential)"
+
 
