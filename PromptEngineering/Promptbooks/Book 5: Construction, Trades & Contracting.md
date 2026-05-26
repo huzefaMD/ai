@@ -1531,7 +1531,8 @@ Your task:
 
 `"You are a Marine Infrastructure Scheduler. Prepare a schedule for port expansion works in Kerala.`
 
-`Your task:`
+```
+Your task:
 
 1. Sequence dredging, berth construction, and crane installation.
 
@@ -1553,16 +1554,17 @@ Your task:
 
 3. Equipment supplier timelines."
 ```
-Prompt 23 — Factory Automation Upgrade Schedule
+## Prompt 23 — Factory Automation Upgrade Schedule
 
-Backstory: An electronics factory in Noida is upgrading its assembly lines to fully automated systems. Work must be completed during planned low-demand months.
+`Backstory: An electronics factory in Noida is upgrading its assembly lines to fully automated systems. Work must be completed during planned low-demand months.`
 
-Goal: Create an automation upgrade schedule with minimal production downtime.
+`Goal: Create an automation upgrade schedule with minimal production downtime.`
 
-Prompt:
+`Prompt:`
 
-"You are an Industrial Automation Scheduler. Prepare a schedule for upgrading assembly lines in an electronics factory in Noida.
+`"You are an Industrial Automation Scheduler. Prepare a schedule for upgrading assembly lines in an electronics factory in Noida.`
 
+```
 Your task:
 
 1. Schedule equipment delivery, installation, and testing.
@@ -1574,27 +1576,28 @@ Your task:
 4. Include contingency for debugging delays.
 
 5. Ensure full automation readiness before demand picks up.
+```
+`Output format: Automation Upgrade Schedule (Excel) + Worker Training Plan (PDF).`
 
-Output format: Automation Upgrade Schedule (Excel) + Worker Training Plan (PDF).
-
-Input Files & Code Section:
-
+`Input Files & Code Section:`
+```
 1. Factory layout.
 
 2. Automation equipment delivery timelines.
 
 3. Production demand forecast."
+```
+## Prompt 24 — Water Treatment Plant Construction Schedule
 
-Prompt 24 — Water Treatment Plant Construction Schedule
+`Backstory: A city in Tamil Nadu is building a new water treatment plant to address rising demand. Completion before the next summer season is critical.`
 
-Backstory: A city in Tamil Nadu is building a new water treatment plant to address rising demand. Completion before the next summer season is critical.
+`Goal: Create a construction schedule that ensures operational readiness before peak water demand.`
 
-Goal: Create a construction schedule that ensures operational readiness before peak water demand.
+`Prompt:`
 
-Prompt:
+`"You are a Water Infrastructure Scheduler. Prepare a schedule for the construction of a water treatment plant in Tamil Nadu.`
 
-"You are a Water Infrastructure Scheduler. Prepare a schedule for the construction of a water treatment plant in Tamil Nadu.
-
+```
 Your task:
 
 1. Sequence civil works, mechanical installation, and pipeline connection.
@@ -1606,27 +1609,28 @@ Your task:
 4. Allocate resources for simultaneous work streams.
 
 5. Add contingency for seasonal rain delays.
+```
+`Output format: WTP Construction Schedule (Excel) + Commissioning Plan (PDF).`
 
-Output format: WTP Construction Schedule (Excel) + Commissioning Plan (PDF).
-
-Input Files & Code Section:
-
+`Input Files & Code Section:`
+```
 1. WTP design drawings.
 
 2. Pipeline connection layout.
 
 3. Local weather forecast data."
+```
+## Prompt 25 — Industrial Warehouse Build Schedule
 
-Prompt 25 — Industrial Warehouse Build Schedule
+`Backstory: A logistics company in Haryana is building a new warehouse to expand storage capacity before the festive season.`
 
-Backstory: A logistics company in Haryana is building a new warehouse to expand storage capacity before the festive season.
+`Goal: Create a warehouse build schedule that ensures operational readiness for peak logistics demand.`
 
-Goal: Create a warehouse build schedule that ensures operational readiness for peak logistics demand.
+`Prompt:`
 
-Prompt:
+`"You are a Logistics Infrastructure Scheduler. Prepare a schedule for the construction of a large warehouse in Haryana.`
 
-"You are a Logistics Infrastructure Scheduler. Prepare a schedule for the construction of a large warehouse in Haryana.
-
+```
 Your task:
 
 1. Sequence foundation, steel structure, roofing, and flooring.
@@ -1638,36 +1642,37 @@ Your task:
 4. Schedule operational testing before peak demand season.
 
 5. Provide buffer time for unexpected delays.
+```
+`Output format: Warehouse Construction Schedule (Excel) + Fire Safety Compliance Plan (PDF).``
 
-Output format: Warehouse Construction Schedule (Excel) + Fire Safety Compliance Plan (PDF).
-
-Input Files & Code Section:
-
+`Input Files & Code Section:`
+```
 1. Warehouse design drawings.
 
 2. Racking supplier delivery schedules.
 
 3. Local fire safety regulations."
+```
 
+# Tender Documentation & Bids
 
-Tender Documentation & Bids
+## Prompt 1 — Government Road Tender Submission
 
-Prompt 1 — Government Road Tender Submission
+`Backstory: You are a mid-sized road construction contractor in Maharashtra, aiming to win a tender for a 20 km state highway widening project. The Public Works Department (PWD) has strict evaluation criteria: technical capacity (40%), past performance (30%), and financial bid (30%). Missing even one compliance clause can disqualify your bid.`
 
-Backstory: You are a mid-sized road construction contractor in Maharashtra, aiming to win a tender for a 20 km state highway widening project. The Public Works Department (PWD) has strict evaluation criteria: technical capacity (40%), past performance (30%), and financial bid (30%). Missing even one compliance clause can disqualify your bid.
+`Goal: Prepare a fully compliant government road tender document that maximizes technical score while keeping costs competitive.`
 
-Goal: Prepare a fully compliant government road tender document that maximizes technical score while keeping costs competitive.
+`Prompt:`
 
-Prompt:
+`"You are a Tender Documentation Specialist experienced in Indian PWD and NHAI road tenders. Using the provided project specifications and past project credentials, prepare a detailed technical and financial bid for the widening of a 20 km state highway in Maharashtra.`
 
-"You are a Tender Documentation Specialist experienced in Indian PWD and NHAI road tenders. Using the provided project specifications and past project credentials, prepare a detailed technical and financial bid for the widening of a 20 km state highway in Maharashtra.
-
+```
 Tasks:
 
 1. Review the provided Request for Proposal (RFP) and extract all mandatory compliance requirements.
 
 2. Draft a technical proposal with:
-   
+   ```
     1. Company profile & legal documents
   
     2. Past road projects with completion certificates
@@ -1679,17 +1684,17 @@ Tasks:
 3. Prepare the Bill of Quantities (BOQ) and cost estimate with GST compliance.
 
 4. Create a checklist ensuring no document is missed before submission.
-
-Output format:
-
+```
+`Output format:`
+```
 1. Technical Proposal (DOCX & PDF)
 
 2. BOQ & Cost Estimate (Excel)
 
 3. Compliance Checklist (PDF)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. RFP document (PDF)
 
 2. Company registration & tax documents
@@ -1697,7 +1702,7 @@ Input Files Required:
 3. Past project credentials & photographs
 
 4. Rate analysis sheet."
-
+```
 Prompt 2 — Private Sector Commercial Complex Bid
 
 Backstory: A real estate developer in Bengaluru is seeking bids for constructing a G+10 commercial complex with LEED Gold certification. Competition is intense, and the client values green building practices and early delivery.
