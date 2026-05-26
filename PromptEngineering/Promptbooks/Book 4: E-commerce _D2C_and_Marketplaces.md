@@ -2653,16 +2653,17 @@ Tasks:
 
 # Inventory & Order Management
 
-Prompt 1 — Automating Low Stock Alerts
+## Prompt 1 — Automating Low Stock Alerts
 
-Backstory: Your e-commerce store sells premium organic teas. Some blends are sourced from small farms with limited harvest. One SKU (“Himalayan Silver Tips”) is at risk of going out of stock during the festive season, which could cause customer disappointment and loss of repeat orders.
+`Backstory: Your e-commerce store sells premium organic teas. Some blends are sourced from small farms with limited harvest. One SKU (“Himalayan Silver Tips”) is at risk of going out of stock during the festive season, which could cause customer disappointment and loss of repeat orders.`
 
-Goal: Create AI prompts that help automate low-stock alerts so replenishment orders can be placed in time.
+`Goal: Create AI prompts that help automate low-stock alerts so replenishment orders can be placed in time.`
 
-Prompt:
+`Prompt:`
 
-"You are an Inventory Automation Strategist. Create a detailed workflow for automating low-stock alerts for high-value SKUs.
+`"You are an Inventory Automation Strategist. Create a detailed workflow for automating low-stock alerts for high-value SKUs.`
 
+```
 Tasks:
 
 1. Generate SQL queries or API calls to fetch live stock data from the inventory system.
@@ -2674,37 +2675,38 @@ Tasks:
 4. Suggest a replenishment lead time calculation formula.
 
 5. Recommend integration with supplier communication systems for auto-replenishment.
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Alert Workflow Document (DOCX)
 
 2. SQL/API Query Scripts (TXT)
 
 3. Notification Templates (Excel)
-
-Inputs Needed:
-
+```
+`Inputs Needed:`
+```
 1. Inventory database schema
 
 2. Supplier lead times
 
 3. Current stock thresholds per SKU."
+```
+## Prompt 2 — Predictive Demand Forecasting for Seasonal Products
 
-Prompt 2 — Predictive Demand Forecasting for Seasonal Products
-
-Backstory: You run a D2C brand selling handmade Diwali candles. Last year, you faced 2 problems:
-
+`Backstory: You run a D2C brand selling handmade Diwali candles. Last year, you faced 2 problems:`
+```
 (1) Overstock of less popular designs, and
 
 (2) Stockouts of trending ones.
+```
+`Goal: Use AI to forecast demand for each SKU based on past sales, festival trends, and marketing campaigns.`
 
-Goal: Use AI to forecast demand for each SKU based on past sales, festival trends, and marketing campaigns.
+`Prompt:`
 
-Prompt:
+`"You are an E-commerce Demand Forecasting Analyst. Build a model and reporting process for seasonal product forecasting.`
 
-"You are an E-commerce Demand Forecasting Analyst. Build a model and reporting process for seasonal product forecasting.
-
+```
 Tasks:
 
 
@@ -2717,33 +2719,34 @@ Tasks:
 4. Suggest visualization formats for management dashboards.
 
 5. Provide a weekly update automation method via email or dashboard.
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Forecast Report (Excel)
 
 2. Forecast Model Code (Python/R)
 
 3. Dashboard Mockup (PDF)
-
-Inputs Needed:
-
+```
+`Inputs Needed:`
+```
 1. Past 2–3 years of SKU-level sales data
 
 2. Seasonal marketing calendar
+```
+`Supplier capacity details."`
 
-Supplier capacity details."
+## Prompt 3 — Real-Time Order Tracking Dashboard
 
-Prompt 3 — Real-Time Order Tracking Dashboard
+`Backstory: Your store sells gaming chairs. Customers frequently ask for delivery ETAs, creating high workload for the customer service team.`
 
-Backstory: Your store sells gaming chairs. Customers frequently ask for delivery ETAs, creating high workload for the customer service team.
+`Goal: Build a real-time dashboard integrating warehouse, courier, and CRM data for instant order tracking.`
 
-Goal: Build a real-time dashboard integrating warehouse, courier, and CRM data for instant order tracking.
+`Prompt:`
 
-Prompt:
+`"You are an E-commerce Order Tracking System Architect. Design a real-time order tracking dashboard.`
 
-"You are an E-commerce Order Tracking System Architect. Design a real-time order tracking dashboard.
-
+```
 Tasks:
 
 1. Map API connections between warehouse, courier, and CRM systems.
@@ -2755,23 +2758,23 @@ Tasks:
 4. Suggest warehouse-side exception alerts (e.g., delayed dispatch).
 
 5. Provide a wireframe mockup of the dashboard layout.
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Dashboard Wireframe (PDF)
 
 2. API Integration Plan (DOCX)
 
 3. Example Status Update Templates (Excel)
-
-Inputs Needed:
-
+```
+`Inputs Needed:`
+```
 1. Courier API documentation
 
 2. Warehouse dispatch data
 
 3. CRM order table schema."
-
+```
 Prompt 4 — Automating SKU Reconciliation Between Platforms
 
 Backstory: You sell products on Amazon, Flipkart, and your own Shopify store. Often, SKU counts are mismatched across platforms, leading to overselling or underselling.
