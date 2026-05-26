@@ -1,4 +1,4 @@
-# BOQ preparation & estimation
+  # BOQ preparation & estimation
 
 ## Prompt 1 — Residential Building BOQ Preparation
 
@@ -1703,16 +1703,17 @@ Tasks:
 
 4. Rate analysis sheet."
 ```
-Prompt 2 — Private Sector Commercial Complex Bid
+## Prompt 2 — Private Sector Commercial Complex Bid
 
-Backstory: A real estate developer in Bengaluru is seeking bids for constructing a G+10 commercial complex with LEED Gold certification. Competition is intense, and the client values green building practices and early delivery.
+`Backstory: A real estate developer in Bengaluru is seeking bids for constructing a G+10 commercial complex with LEED Gold certification. Competition is intense, and the client values green building practices and early delivery.`
 
-Goal: Create a value-driven proposal highlighting sustainability and early completion without inflating costs.
+`Goal: Create a value-driven proposal highlighting sustainability and early completion without inflating costs.`
 
-Prompt:
+`Prompt:`
 
-"You are a Commercial Construction Bid Writer specializing in green building tenders. Prepare a comprehensive bid for the construction of a G+10 commercial complex in Bengaluru aiming for LEED Gold certification.
+`"You are a Commercial Construction Bid Writer specializing in green building tenders. Prepare a comprehensive bid for the construction of a G+10 commercial complex in Bengaluru aiming for LEED Gold certification.`
 
+```
 Tasks:
 
 1. Highlight green construction practices, including energy-efficient MEP systems, recycled materials, and rainwater harvesting.
@@ -1722,35 +1723,36 @@ Tasks:
 3. Include a detailed resource allocation plan (manpower, machinery, subcontractors).
 
 4. Draft a cost-benefit section justifying sustainable material choices.
-
-Output format:
-
+```
+`Output format:`
+```
 1. Proposal Document (DOCX) with executive summary
 
 2. Accelerated Schedule (Excel)
 
 3. Sustainability Compliance Report (PDF)
-
-Input Files Required:
-
-1. Project brief (PDF)
+```
+`Input Files Required:`
+```
+1. Project bief (PDF)
 
 2. Material supplier quotes
 
 3. LEED Gold requirement checklist
 
 4. Equipment availability list."
+```
+## Prompt 3 — Metro Station Civil Works Tender
 
-Prompt 3 — Metro Station Civil Works Tender
+`Backstory: A metro authority in Lucknow is inviting bids for civil works of a new metro station, including structural RCC, finishing, and MEP provisions. Metro tenders are highly technical, with a focus on precision execution and safety compliance.`
 
-Backstory: A metro authority in Lucknow is inviting bids for civil works of a new metro station, including structural RCC, finishing, and MEP provisions. Metro tenders are highly technical, with a focus on precision execution and safety compliance.
+`Goal: Draft a technical bid that demonstrates advanced safety procedures and high precision in civil works.`
 
-Goal: Draft a technical bid that demonstrates advanced safety procedures and high precision in civil works.
+`Prompt:`
 
-Prompt:
+`"You are a Metro Civil Works Tender Specialist. Prepare a technical bid for the civil works of a metro station in Lucknow, ensuring all safety and quality compliance is met.`
 
-"You are a Metro Civil Works Tender Specialist. Prepare a technical bid for the civil works of a metro station in Lucknow, ensuring all safety and quality compliance is met.
-
+```
 Tasks:
 
 1. Present construction methodology, emphasizing safety in confined spaces and heavy lifting.
@@ -1760,17 +1762,17 @@ Tasks:
 3. Attach detailed work schedule aligned with authority’s milestones.
 
 4. Provide staff qualification details (engineers, safety officers, supervisors).
-
-Output format:
-
+```
+`Output format:`
+```
 1. Technical Proposal (DOCX)
 
 2. Work Schedule (Excel)
 
 3. Safety Compliance Plan (PDF)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Metro authority tender document
 
 2. Staff CVs & certifications
@@ -1778,17 +1780,18 @@ Input Files Required:
 3. List of owned & hired machinery
 
 4. Safety SOPs & insurance documents."
+```
+## Prompt 4 — EPC Contract for Solar Power Plant
 
-Prompt 4 — EPC Contract for Solar Power Plant
+`Backstory: A renewable energy company in Gujarat is tendering for an EPC (Engineering, Procurement, and Construction) contract for a 100 MW solar power plant. They prioritize bidders who can deliver on time and offer competitive O&M packages.`
 
-Backstory: A renewable energy company in Gujarat is tendering for an EPC (Engineering, Procurement, and Construction) contract for a 100 MW solar power plant. They prioritize bidders who can deliver on time and offer competitive O&M packages.
+`Goal: Prepare a bid package that showcases engineering expertise, procurement network, and O&M capabilities.`
 
-Goal: Prepare a bid package that showcases engineering expertise, procurement network, and O&M capabilities.
+`Prompt:`
 
-Prompt:
+`"You are an EPC Tender Consultant. Prepare a bid package for a 100 MW solar power plant EPC contract in Gujarat.`
 
-"You are an EPC Tender Consultant. Prepare a bid package for a 100 MW solar power plant EPC contract in Gujarat.
-
+```
 Tasks:
 
 1. Include engineering design capabilities, with solar farm layout and electrical schematics.
@@ -1798,17 +1801,17 @@ Tasks:
 3. Detail construction phases with weather risk mitigation strategies.
 
 4. Offer an optional 5-year O&M plan to increase bid attractiveness.
-
-Output format:
-
+```
+`Output format:`
+```
 1. EPC Bid Document (DOCX)
 
 2. Procurement Schedule (Excel)
 
 3. O&M Proposal (PDF)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Solar plant technical specs
 
 2. Supplier MOUs
@@ -1816,17 +1819,18 @@ Input Files Required:
 3. Past EPC project portfolio
 
 4. Local weather data."
+```
+## Prompt 5 — Public Building Restoration Tender
 
-Prompt 5 — Public Building Restoration Tender
+`Backstory: A heritage building in Kolkata, owned by the government, requires structural restoration and facade preservation. The tender emphasizes heritage conservation techniques and previous restoration experience.`
 
-Backstory: A heritage building in Kolkata, owned by the government, requires structural restoration and facade preservation. The tender emphasizes heritage conservation techniques and previous restoration experience.
+`Goal: Create a heritage restoration tender bid that highlights specialized conservation skills.`
 
-Goal: Create a heritage restoration tender bid that highlights specialized conservation skills.
+`Prompt:`
 
-Prompt:
+`"You are a Heritage Restoration Tender Writer. Prepare a restoration tender for a government-owned heritage building in Kolkata.`
 
-"You are a Heritage Restoration Tender Writer. Prepare a restoration tender for a government-owned heritage building in Kolkata.
-
+```
 Tasks:
 
 1. Describe structural repair methodology using non-invasive techniques.
@@ -1836,17 +1840,17 @@ Tasks:
 3. Include case studies of past restoration projects.
 
 4. Attach specialist conservation architect and craftsman profiles.
-
-Output format:
-
+```
+`Output format:`
+```
 1. Restoration Tender Document (DOCX)
 
 2. Method Statement (PDF)
 
 3. Project Portfolio (PDF)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Building condition assessment report
 
 2. Heritage conservation guidelines
@@ -1854,17 +1858,18 @@ Input Files Required:
 3. Team CVs & restoration credentials
 
 4. Material sourcing plan."
+```
+## Prompt 6 — Public Housing Tender (PMAY)
 
-Prompt 6 — Public Housing Tender (PMAY)
+`Backstory: Under the Pradhan Mantri Awas Yojana (PMAY), a state housing board in Uttar Pradesh is inviting tenders to construct 500 low-cost housing units. The evaluation focuses heavily on cost efficiency, speed, and quality.`
 
-Backstory: Under the Pradhan Mantri Awas Yojana (PMAY), a state housing board in Uttar Pradesh is inviting tenders to construct 500 low-cost housing units. The evaluation focuses heavily on cost efficiency, speed, and quality.
+`Goal: Create a competitive bid that ensures low-cost delivery without quality compromise.`
 
-Goal: Create a competitive bid that ensures low-cost delivery without quality compromise.
+`Prompt:`
 
-Prompt:
+`"You are a Low-Cost Housing Tender Consultant. Prepare a technical and financial proposal for constructing 500 PMAY housing units in Uttar Pradesh.`
 
-"You are a Low-Cost Housing Tender Consultant. Prepare a technical and financial proposal for constructing 500 PMAY housing units in Uttar Pradesh.
-
+```
 Tasks:
 
 1. Propose cost-effective but durable construction materials.
@@ -1874,17 +1879,17 @@ Tasks:
 3. Show methods for ensuring structural stability at low cost.
 
 4. Include workforce deployment and local labor engagement strategies.
-
-Output format:
-
+```
+`Output format:`
+```
 1. Technical Proposal (DOCX)
 
 2. BOQ & Cost Sheet (Excel)
 
 3. Quality Compliance Plan (PDF)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. PMAY tender document
 
 2. Local material supplier list
@@ -1892,17 +1897,18 @@ Input Files Required:
 3. Workforce availability data
 
 4. Past housing project references."
+```
+## Prompt 7 — IT Park Development Tender
 
-Prompt 7 — IT Park Development Tender
+`Backstory: A private developer in Hyderabad is inviting bids to build an IT park with 2 million sq. ft. of office space. The developer prioritizes speed, international-grade quality, and future-ready infrastructure.`
 
-Backstory: A private developer in Hyderabad is inviting bids to build an IT park with 2 million sq. ft. of office space. The developer prioritizes speed, international-grade quality, and future-ready infrastructure.
+`Goal: Prepare a proposal that wins by showcasing modern technology integration and rapid delivery.`
 
-Goal: Prepare a proposal that wins by showcasing modern technology integration and rapid delivery.
+`Prompt:`
 
-Prompt:
+`"You are a Commercial Infrastructure Bid Writer. Draft a bid for constructing a 2M sq. ft. IT park in Hyderabad.`
 
-"You are a Commercial Infrastructure Bid Writer. Draft a bid for constructing a 2M sq. ft. IT park in Hyderabad.
-
+```
 Tasks:
 
 1. Highlight technology-enabled construction methods (BIM, modular construction).
@@ -1912,17 +1918,17 @@ Tasks:
 3. Include provisions for future infrastructure scalability.
 
 4. Provide cost breakdown per phase.
-
-Output format:
-
+```
+`Output format:`
+```
 1. Bid Document (DOCX)
 
 2. Phased Schedule (Excel)
 
 3. BIM Integration Plan (PDF)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. IT park master plan
 
 2. BIM model (if available)
@@ -1930,17 +1936,18 @@ Input Files Required:
 3. Material supplier commitments
 
 4. Project team credentials."
+```
+## Prompt 8 — Airport Runway Extension Tender
 
-Prompt 8 — Airport Runway Extension Tender
+`Backstory: An airport in Goa requires extension of its primary runway to accommodate larger aircraft. Civil aviation authorities have strict quality and safety benchmarks.`
 
-Backstory: An airport in Goa requires extension of its primary runway to accommodate larger aircraft. Civil aviation authorities have strict quality and safety benchmarks.
+`Goal: Submit a fully compliant bid meeting DGCA (Directorate General of Civil Aviation) standards.`
 
-Goal: Submit a fully compliant bid meeting DGCA (Directorate General of Civil Aviation) standards.
+`Prompt:`
 
-Prompt:
+`"You are an Airport Runway Tender Expert. Prepare a bid for a runway extension at Goa International Airport.`
 
-"You are an Airport Runway Tender Expert. Prepare a bid for a runway extension at Goa International Airport.
-
+```
 Tasks:
 
 1. Include quality control plans for asphalt and concrete works.
@@ -1950,17 +1957,17 @@ Tasks:
 3. Include detailed safety measures for work in operational airfields.
 
 4. Present resource allocation for night work schedules.
-
-Output format:
-
+```
+`Output format:`
+```
 1. Tender Document (DOCX)
 
 2. Quality Control Plan (PDF)
 
 3. Night Work Resource Schedule (Excel)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. DGCA runway extension specs
 
 2. Airport operation schedule
@@ -1968,17 +1975,18 @@ Input Files Required:
 3. Material compliance certificates
 
 4. Past runway project portfolio."
+```
+## Prompt 9 — Mega Mall Construction Bid
 
-Prompt 9 — Mega Mall Construction Bid
+`Backstory: A retail developer in Pune is inviting bids for a mega shopping mall with over 500 retail outlets. The bid must show strong retail fit-out management capabilities.`
 
-Backstory: A retail developer in Pune is inviting bids for a mega shopping mall with over 500 retail outlets. The bid must show strong retail fit-out management capabilities.
+`Goal: Highlight experience in managing large-scale commercial interiors and complex vendor coordination.`
 
-Goal: Highlight experience in managing large-scale commercial interiors and complex vendor coordination.
+`Prompt:`
 
-Prompt:
+`"You are a Retail Development Bid Writer. Prepare a bid for constructing and fitting out a mega mall in Pune.`
 
-"You are a Retail Development Bid Writer. Prepare a bid for constructing and fitting out a mega mall in Pune.
-
+```
 Tasks:
 
 1. Outline construction and retail fit-out sequencing.
@@ -1988,17 +1996,17 @@ Tasks:
 3. Include safety plans for high-traffic construction zones.
 
 4. Provide budget allocation for mall amenities.
-
-Output format:
-
-1. Bid Proposal (DOCX)
+```
+`Output format:`
+```
+`1. Bid Proposal (DOCX)
 
 2. Fit-Out Schedule (Excel)
 
 3. Vendor Coordination Plan (PDF)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Mall design drawings
 
 2. Vendor list
@@ -2006,17 +2014,18 @@ Input Files Required:
 3. Safety SOPs
 
 4. Past commercial project references."
+```
+## Prompt 10 — High-Speed Rail Station Tender
 
-Prompt 10 — High-Speed Rail Station Tender
+`Backstory: The National High-Speed Rail Corporation is tendering civil works for a bullet train station in Gujarat. Precision and international quality standards are mandatory.`
 
-Backstory: The National High-Speed Rail Corporation is tendering civil works for a bullet train station in Gujarat. Precision and international quality standards are mandatory.
+`Goal: Present a high-precision construction methodology and a quality-first bid.`
 
-Goal: Present a high-precision construction methodology and a quality-first bid.
+`Prompt:`
 
-Prompt:
+`"You are a High-Speed Rail Project Tender Specialist. Draft a bid for constructing a bullet train station in Gujarat.`
 
-"You are a High-Speed Rail Project Tender Specialist. Draft a bid for constructing a bullet train station in Gujarat.
-
+```
 Tasks:
 
 1. Show compliance with international rail station standards.
@@ -2026,33 +2035,34 @@ Tasks:
 3. Include high-tech quality monitoring tools.
 
 4. Provide a phased construction schedule aligned with railway authority timelines.
-
-Output format:
-
+```
+`Output format:`
+```
 1. Tender Document (DOCX)
 
 2. Precision Construction Plan (PDF)
 
 3. Phased Schedule (Excel)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. High-speed rail station design
 
 2. Quality monitoring equipment list
 
 3. International compliance guidelines."
+```
+## Prompt 11 — Port Dredging and Expansion Tender
 
-Prompt 11 — Port Dredging and Expansion Tender
+`Backstory: A major port in Andhra Pradesh is tendering for dredging works and berth expansion. Timely execution is critical for shipping schedules.`
 
-Backstory: A major port in Andhra Pradesh is tendering for dredging works and berth expansion. Timely execution is critical for shipping schedules.
+`Goal: Submit a marine works tender with detailed execution and safety planning.`
 
-Goal: Submit a marine works tender with detailed execution and safety planning.
+`Prompt:`
 
-Prompt:
+`"You are a Marine Infrastructure Tender Expert. Prepare a bid for dredging and berth expansion works at an Andhra Pradesh port.`
 
-"You are a Marine Infrastructure Tender Expert. Prepare a bid for dredging and berth expansion works at an Andhra Pradesh port.
-
+```
 Tasks:
 
 1. Include detailed dredging methodology and equipment list.
@@ -2062,33 +2072,34 @@ Tasks:
 3. Show environmental compliance steps for dredging.
 
 4. Provide delivery milestones aligned with port schedules.
-
-Output format:
-
+```
+`Output format:`
+```
 1. Tender Proposal (DOCX)
 
 2. Marine Safety Plan (PDF)
 
 3. Equipment Deployment Schedule (Excel)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Port expansion plans
 
 2. Dredging equipment specs
 
 3. Environmental compliance regulations."
+```
+## Prompt 12 — Wind Farm Installation Tender
 
-Prompt 12 — Wind Farm Installation Tender
+`Backstory: A renewable energy developer in Tamil Nadu is tendering for installation of 50 wind turbines. Logistics and precision assembly are key challenges.`
 
-Backstory: A renewable energy developer in Tamil Nadu is tendering for installation of 50 wind turbines. Logistics and precision assembly are key challenges.
+`Goal: Prepare a wind power installation bid emphasizing logistics efficiency and safety.`
 
-Goal: Prepare a wind power installation bid emphasizing logistics efficiency and safety.
+`Prompt:`
 
-Prompt:
+`"You are a Wind Energy Tender Consultant. Draft a bid for installing 50 wind turbines in Tamil Nadu.`
 
-"You are a Wind Energy Tender Consultant. Draft a bid for installing 50 wind turbines in Tamil Nadu.
-
+```
 Tasks:
 
 1. Include turbine installation methodology with crane logistics.
@@ -2098,33 +2109,34 @@ Tasks:
 3. Present safety measures for high-altitude assembly.
 
 4. Provide detailed commissioning schedule.
-
-Output format:
-
+```
+`Output format:`
+```
 1. Tender Document (DOCX)
 
 2. Logistics Plan (PDF)
 
 3. Commissioning Schedule (Excel)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Turbine supplier specs
 
 2. Site logistics data
 
 3. Crew safety certification list."
+```
+## Prompt 13 — Luxury Hotel Construction Tender
 
-Prompt 13 — Luxury Hotel Construction Tender
+`Backstory: An international hotel chain is seeking bids for a 5-star hotel in Jaipur with heritage-themed architecture. High-end finishes and luxury standards are mandatory.`
 
-Backstory: An international hotel chain is seeking bids for a 5-star hotel in Jaipur with heritage-themed architecture. High-end finishes and luxury standards are mandatory.
+`Goal: Submit a luxury-focused bid showcasing hospitality construction experience.`
 
-Goal: Submit a luxury-focused bid showcasing hospitality construction experience.
+`Prompt:`
 
-Prompt:
+`"You are a Hospitality Construction Bid Writer. Prepare a bid for building a 5-star heritage-themed hotel in Jaipur.`
 
-"You are a Hospitality Construction Bid Writer. Prepare a bid for building a 5-star heritage-themed hotel in Jaipur.
-
+```
 Tasks:
 
 1. Highlight expertise in luxury finishes and detailing.
@@ -2134,33 +2146,34 @@ Tasks:
 3. Provide vendor list for premium materials.
 
 4. Show compliance with global hotel chain standards.
-
-Output format:
-
+```
+`Output format:`
+```
 1. Bid Document (DOCX)
 
 2. Luxury Material Specification List (PDF)
 
 3. Mock-Up Room Schedule (Excel)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Hotel design drawings
 
 2. Vendor MOUs
 
 3. Past luxury hospitality project portfolio."
+```
+##  Prompt 14 — Railway Bridge Construction Tender
 
-Prompt 14 — Railway Bridge Construction Tender
+`Backstory: Indian Railways is inviting bids for a steel truss railway bridge over a major river in Bihar. Work involves heavy structural steel fabrication and river engineering.`
 
-Backstory: Indian Railways is inviting bids for a steel truss railway bridge over a major river in Bihar. Work involves heavy structural steel fabrication and river engineering.
+`Goal: Prepare a railway bridge tender with strong engineering and safety focus.`
 
-Goal: Prepare a railway bridge tender with strong engineering and safety focus.
+`Prompt:`
 
-Prompt:
+`"You are a Railway Infrastructure Tender Specialist. Draft a bid for constructing a steel truss railway bridge in Bihar.`
 
-"You are a Railway Infrastructure Tender Specialist. Draft a bid for constructing a steel truss railway bridge in Bihar.
-
+```
 Tasks:
 
 1. Include fabrication, transportation, and erection methodology.
@@ -2170,33 +2183,34 @@ Tasks:
 3. Show past railway bridge construction experience.
 
 4. Align construction schedule with railway traffic blocks.
-
-Output format:
-
+```
+`Output format:`
+```
 1. Tender Document (DOCX)
 
 2. Flood Safety Plan (PDF)
 
 3. Construction Schedule (Excel)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Bridge design
 
 2. Traffic block schedule
 
 3. Steel fabrication vendor list."
+```
+## Prompt 15 — Defence Infrastructure Tender
 
-Prompt 15 — Defence Infrastructure Tender
+`Backstory: The Ministry of Defence is inviting bids for construction of housing and training facilities inside a secure military base in Rajasthan.`
 
-Backstory: The Ministry of Defence is inviting bids for construction of housing and training facilities inside a secure military base in Rajasthan.
+`Goal: Submit a tender compliant with security clearance and defence construction protocols.`
 
-Goal: Submit a tender compliant with security clearance and defence construction protocols.
+`Prompt:`
 
-Prompt:
+`"You are a Defence Infrastructure Tender Consultant. Prepare a bid for constructing housing and training facilities in a Rajasthan military base.`
 
-"You are a Defence Infrastructure Tender Consultant. Prepare a bid for constructing housing and training facilities in a Rajasthan military base.
-
+```
 Tasks:
 
 1. Include security-cleared staff deployment plan.
@@ -2206,33 +2220,34 @@ Tasks:
 3. Highlight construction methodology for high-security areas.
 
 4. Include confidentiality agreements and clearance documentation.
-
-Output format:
-
+```
+`Output format:`
+```
 1. Tender Document (DOCX)
 
 2. Security Protocol Plan (PDF)
 
 3. Resource Deployment Schedule (Excel)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Defence tender document
 
 2. Security clearance requirements
 
 3. Confidentiality agreement template."
+```
+## Prompt 16 — Smart City Utility Infrastructure Tender
 
-Prompt 16 — Smart City Utility Infrastructure Tender
+`Backstory: A municipal corporation in Madhya Pradesh is tendering for underground utility ducts, smart lighting, and public Wi-Fi installation as part of a Smart City mission. The client values integration of multiple utilities without future digging.`
 
-Backstory: A municipal corporation in Madhya Pradesh is tendering for underground utility ducts, smart lighting, and public Wi-Fi installation as part of a Smart City mission. The client values integration of multiple utilities without future digging.
+`Goal: Submit an integrated infrastructure bid that minimizes future maintenance costs.`
 
-Goal: Submit an integrated infrastructure bid that minimizes future maintenance costs.
+`Prompt:`
 
-Prompt:
+`"You are a Smart City Infrastructure Tender Specialist. Prepare a proposal for underground ducts, smart lighting, and public Wi-Fi installation.`
 
-"You are a Smart City Infrastructure Tender Specialist. Prepare a proposal for underground ducts, smart lighting, and public Wi-Fi installation.
-
+```
 Tasks:
 
 1. Integrate multiple utilities into a single duct network.
@@ -2242,33 +2257,34 @@ Tasks:
 3. Include coordination plans with telecom and power providers.
 
 4. Provide phased execution to avoid traffic disruption.
-
-Output format:
-
+```
+`Output format:`
+```
 1. Tender Proposal (DOCX)
 
 2. Integrated Utility Layout (PDF)
 
 3. Phased Execution Plan (Excel)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Smart City master plan
 
 2. Telecom & power coordination guidelines
 
 3. IoT monitoring vendor list."
+```
+## Prompt 17 — Water Treatment Plant Tender
 
-Prompt 17 — Water Treatment Plant Tender
+`Backstory: A state water board in Kerala is inviting tenders for a new 200 MLD (Million Litres per Day) water treatment plant. The evaluation prioritizes low operating cost and water quality compliance.`
 
-Backstory: A state water board in Kerala is inviting tenders for a new 200 MLD (Million Litres per Day) water treatment plant. The evaluation prioritizes low operating cost and water quality compliance.
+`Goal: Submit a compliant bid with proven treatment technologies.`
 
-Goal: Submit a compliant bid with proven treatment technologies.
+`Prompt:`
 
-Prompt:
+`"You are a Water Treatment Tender Consultant. Prepare a proposal for a 200 MLD water treatment plant in Kerala.`
 
-"You are a Water Treatment Tender Consultant. Prepare a proposal for a 200 MLD water treatment plant in Kerala.
-
+```
 Tasks:
 
 1. Include process flow diagrams and plant layout.
@@ -2278,33 +2294,34 @@ Tasks:
 3. Provide O&M cost estimates for 10 years.
 
 4. Show compliance with CPCB (Central Pollution Control Board) water standards.
-
-Output format:
-
+```
+`Output format:`
+```
 1. Technical Proposal (DOCX)
 
 2. Process Flow Diagram (PDF)
 
 3. O&M Cost Projection (Excel)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Plant site survey report
 
 2. Water quality test results
 
 3. Technology supplier MOUs."
+```
+## Prompt 18 — Stadium Construction Tender
 
-Prompt 18 — Stadium Construction Tender
+`Backstory: A state sports authority in Odisha is inviting bids for a 50,000-seat cricket stadium with an integrated training academy. Timely completion is crucial for hosting an upcoming international event.`
 
-Backstory: A state sports authority in Odisha is inviting bids for a 50,000-seat cricket stadium with an integrated training academy. Timely completion is crucial for hosting an upcoming international event.
+`Goal: Submit a fast-track stadium construction bid with quality and crowd management features.`
 
-Goal: Submit a fast-track stadium construction bid with quality and crowd management features.
+`Prompt:`
 
-Prompt:
+`"You are a Sports Infrastructure Tender Specialist. Draft a proposal for a 50,000-seat cricket stadium in Odisha.`
 
-"You are a Sports Infrastructure Tender Specialist. Draft a proposal for a 50,000-seat cricket stadium in Odisha.
-
+```
 Tasks:
 
 1. Include high-strength concrete and structural design for crowd safety.
@@ -2314,33 +2331,34 @@ Tasks:
 3. Add integrated evacuation and crowd control systems.
 
 4. Propose stadium MEP systems with backup power.
-
-Output format:
-
+```
+`Output format:`
+```
 1. Tender Proposal (DOCX)
 
 2. Phased Construction Plan (Excel)
 
 3. Safety & Crowd Control Layout (PDF)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Stadium architectural drawings
 
 2. Seating & capacity plan
 
 3. MEP design guidelines."
+```
+## Prompt 19 — Highway Toll Plaza Construction Tender
 
-Prompt 19 — Highway Toll Plaza Construction Tender
+`Backstory: NHAI is inviting bids for 10 toll plazas on a newly constructed highway. The focus is on fast toll collection systems and high vehicle throughput.`
 
-Backstory: NHAI is inviting bids for 10 toll plazas on a newly constructed highway. The focus is on fast toll collection systems and high vehicle throughput.
+`Goal: Submit a bid that ensures operational efficiency and durability.`
 
-Goal: Submit a bid that ensures operational efficiency and durability.
+`Prompt:`
 
-Prompt:
+`"You are a Toll Infrastructure Tender Consultant. Prepare a bid for constructing 10 highway toll plazas with automated toll systems.`
 
-"You are a Toll Infrastructure Tender Consultant. Prepare a bid for constructing 10 highway toll plazas with automated toll systems.
-
+```
 Tasks:
 
 1. Include RFID and FASTag integration.
@@ -2350,33 +2368,34 @@ Tasks:
 3. Provide rainproof canopy designs and durable pavement.
 
 4. Include a 5-year maintenance plan.
-
-Output format:
-
+```
+`Output format:`
+```
 1. Tender Proposal (DOCX)
 
 2. Toll Lane Layout (PDF)
 
 3. Maintenance Plan (Excel)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. NHAI toll design standards
 
 2. Automated toll system vendor specs
 
 3. Site survey data."
+```
+## Prompt 20 — Industrial Warehouse Cluster Tender
 
-Prompt 20 — Industrial Warehouse Cluster Tender
+`Backstory: A logistics company in Haryana is tendering for a cluster of warehouses with cold storage. The focus is on energy efficiency and scalability.`
 
-Backstory: A logistics company in Haryana is tendering for a cluster of warehouses with cold storage. The focus is on energy efficiency and scalability.
+`Goal: Submit a scalable warehouse design bid with minimal operating costs.`
 
-Goal: Submit a scalable warehouse design bid with minimal operating costs.
+`Prompt:`
 
-Prompt:
+`"You are a Logistics Infrastructure Tender Writer. Draft a bid for an industrial warehouse cluster in Haryana.`
 
-"You are a Logistics Infrastructure Tender Writer. Draft a bid for an industrial warehouse cluster in Haryana.
-
+```
 Tasks:
 
 1. Include modular design for easy expansion.
@@ -2386,26 +2405,26 @@ Tasks:
 3. Provide inventory handling and automation plans.
 
 4. Include stormwater drainage design.
-
-Output format:
-
+```
+`Output format:`
+```
 1. Tender Document (DOCX)
 
 2. Modular Layout Plan (PDF)
 
 3. Energy Efficiency Report (Excel)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Land survey
 
 2. Cold storage specs
 
 3. Solar panel supplier list."
+```
+## Prompt 21 — School Infrastructure Tender
 
-Prompt 21 — School Infrastructure Tender
-
-Backstory: A state education board in Assam is inviting bids for 100 government school buildings under a rural development scheme. The focus is on cost efficiency and cyclone-resistant designs.
+`Backstory: A state education board in Assam is inviting bids for 100 government school buildings under a rural development scheme. The focus is on cost efficiency and cyclone-resistant designs.`
 
 Goal: Submit a compliant tender for rural school infrastructure.
 
