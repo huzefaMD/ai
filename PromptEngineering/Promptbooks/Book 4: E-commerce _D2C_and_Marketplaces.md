@@ -2929,16 +2929,17 @@ Tasks:
 
 3. Sales velocity metrics."
 ```
-Prompt 8 — Real-Time Out-of-Stock Prevention System
+## Prompt 8 — Real-Time Out-of-Stock Prevention System
 
-Backstory: Your top-selling protein powder SKU frequently goes out of stock, losing potential sales.
+`Backstory: Your top-selling protein powder SKU frequently goes out of stock, losing potential sales.`
 
-Goal: Implement a system that predicts stockouts before they happen.
+`Goal: Implement a system that predicts stockouts before they happen.`
 
-Prompt:
+`Prompt:`
 
-"You are an E-commerce Stockout Prevention Engineer. Create a predictive model for stockout prevention.
+`"You are an E-commerce Stockout Prevention Engineer. Create a predictive model for stockout prevention.`
 
+```
 Tasks:
 
 1. Use historical sales trends, seasonality, and lead time to forecast depletion dates.
@@ -2950,31 +2951,32 @@ Tasks:
 4. Suggest an emergency restocking vendor list.
 
 5. Provide a visual chart showing projected vs. actual stock levels.
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Stockout Prediction Model Code (Python/R)
 
 2. Alert Workflow Document (DOCX)
 
 3. Visual Forecast Chart (Excel)
-
-Inputs Needed:
-
+```
+`Inputs Needed:`
+```
 1. SKU-level sales data
 2. Lead time data
 3. Vendor contact list."
+```
+## Prompt 9 — SKU Profitability Dashboard
 
-Prompt 9 — SKU Profitability Dashboard
+`Backstory: You stock over 500 SKUs, but some products are taking up warehouse space without contributing much to profit.`
 
-Backstory: You stock over 500 SKUs, but some products are taking up warehouse space without contributing much to profit.
+`Goal: Build a profitability dashboard to make SKU retention/discontinuation decisions.`
 
-Goal: Build a profitability dashboard to make SKU retention/discontinuation decisions.
+`Prompt:`
 
-Prompt:
+`"You are an E-commerce SKU Profitability Analyst. Build a SKU-level profitability analysis dashboard.`
 
-"You are an E-commerce SKU Profitability Analyst. Build a SKU-level profitability analysis dashboard.
-
+```
 Tasks:
 
 1. Calculate gross margin per SKU after factoring in COGS, shipping, and returns.
@@ -2986,33 +2988,34 @@ Tasks:
 4. Create trend visualizations for SKU profitability over time.
 
 5. Recommend KPIs to track SKU health.
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Profitability Dashboard (Excel/Power BI)
 
 2. Profitability Categorization Report (DOCX)
 
 3. SKU Discontinuation Recommendation List (Excel)
-
-Inputs Needed:
-
+```
+`Inputs Needed:`
+```
 1. SKU cost and selling price data
 
 2. Return rate data
+```
+`Warehouse storage cost per SKU."`
 
-Warehouse storage cost per SKU."
+## Prompt 10 — AI-Assisted Purchase Order Creation
 
-Prompt 10 — AI-Assisted Purchase Order Creation
+`Backstory: Your procurement team spends hours manually creating purchase orders (POs) based on low-stock reports.`
 
-Backstory: Your procurement team spends hours manually creating purchase orders (POs) based on low-stock reports.
+`Goal: Automate PO creation based on AI-driven demand forecasts and supplier constraints.`
 
-Goal: Automate PO creation based on AI-driven demand forecasts and supplier constraints.
+`Prompt:`
 
-Prompt:
+`"You are an E-commerce Procurement Automation Expert. Create an AI-assisted PO creation workflow.`
 
-"You are an E-commerce Procurement Automation Expert. Create an AI-assisted PO creation workflow.
-
+```
 Tasks:
 
 1. Set reorder point triggers based on SKU demand and lead time.
@@ -3024,33 +3027,34 @@ Tasks:
 4. Suggest integration with ERP systems.
 
 5. Provide a monthly procurement summary report.
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Automated PO Template (Excel)
 
 2. PO Generation Script (Python)
 
 3. Procurement Workflow Diagram (PDF)
-
-Inputs Needed:
-
+```
+`Inputs Needed:`
+```
 1. Supplier contact and terms data
 
 2. Inventory levels
 
 3. Forecasted demand per SKU."
+```
+## Prompt 11 — Returns & Restocking Automation
 
-Prompt 11 — Returns & Restocking Automation
+`Backstory: Your store receives hundreds of product returns each month, but restocking updates take days to reflect in inventory, delaying resale opportunities.`
 
-Backstory: Your store receives hundreds of product returns each month, but restocking updates take days to reflect in inventory, delaying resale opportunities.
+`Goal: Create an AI-driven return inspection and restocking process.`
 
-Goal: Create an AI-driven return inspection and restocking process.
+`Prompt:`
 
-Prompt:
+`"You are an E-commerce Returns Process Optimizer. Automate returns inspection and restocking.`
 
-"You are an E-commerce Returns Process Optimizer. Automate returns inspection and restocking.
-
+```
 Tasks:
 
 1. Design a decision flow for whether returned items can be restocked, refurbished, or discarded.
@@ -3062,33 +3066,34 @@ Tasks:
 4. Include fraud detection flags for suspicious returns.
 
 5. Create a visual workflow chart.
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Returns Automation SOP (DOCX)
 
 2. Decision Flow Diagram (PDF)
 
 3. Restocking Priority List (Excel)
-
-Inputs Needed:
-
+```
+`Inputs Needed:`
+```
 1. Return reason codes
 
 2. Quality inspection checklist
+```
+`Inventory system API access."`
 
-Inventory system API access."
+## Prompt 12 — Vendor Performance Scorecard
 
-Prompt 12 — Vendor Performance Scorecard
+`Backstory: Your brand works with 15 suppliers, but some consistently deliver late or ship defective items.`
 
-Backstory: Your brand works with 15 suppliers, but some consistently deliver late or ship defective items.
+`Goal: Create a vendor performance tracking system for better decision-making.`
 
-Goal: Create a vendor performance tracking system for better decision-making.
+`Prompt:`
 
-Prompt:
+`"You are a Vendor Relationship Analyst. Build a vendor performance scorecard.`
 
-"You are a Vendor Relationship Analyst. Build a vendor performance scorecard.
-
+```
 Tasks:
 
 1. Define KPIs like on-time delivery, defect rate, and cost variance.
@@ -3100,33 +3105,34 @@ Tasks:
 4. Provide a ranking table of vendors.
 
 5. Include visual performance trend charts.
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Vendor Scorecard (Excel)
 
 2. Performance Trend Dashboard (Power BI)
 
 3. Improvement Recommendations Report (DOCX)
-
-Inputs Needed:
-
+```
+`Inputs Needed:`
+```
 1. Delivery logs
 
 2. Defect reports
+```
+`Supplier contract SLAs."`
 
-Supplier contract SLAs."
+## Prompt 13 — Emergency Stock Transfer Protocol
 
-Prompt 13 — Emergency Stock Transfer Protocol
+`Backstory: Your Mumbai warehouse runs out of a best-selling Bluetooth headset mid-week, but your Delhi warehouse has surplus stock.`
 
-Backstory: Your Mumbai warehouse runs out of a best-selling Bluetooth headset mid-week, but your Delhi warehouse has surplus stock.
+`Goal: Build a rapid stock transfer system to balance inventory without waiting for supplier replenishment.`
 
-Goal: Build a rapid stock transfer system to balance inventory without waiting for supplier replenishment.
+`Prompt:`
 
-Prompt:
+`"You are an E-commerce Stock Transfer Specialist. Design an emergency stock transfer protocol.`
 
-"You are an E-commerce Stock Transfer Specialist. Design an emergency stock transfer protocol.
-
+```
 Tasks:
 
 1. Set triggers for initiating stock transfers.
@@ -3138,33 +3144,34 @@ Tasks:
 4. Suggest a tracking process for in-transit stock.
 
 5. Provide sample internal communication templates.
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Transfer SOP (DOCX)
 
 2. Transfer Request Form (Excel)
 
 3. Logistics Partner Comparison Sheet (Excel)
-
-Inputs Needed:
-
+```
+`Inputs Needed:`
+```
 1. Warehouse inventory reports
 
 2. Logistics partner SLAs
 
 3. Stock transfer cost data."
+```
+## Prompt 14 — Overstock Liquidation Strategy
 
-Prompt 14 — Overstock Liquidation Strategy
+`Backstory: Your apparel store has 2,000 units of last season’s jeans taking up valuable warehouse space.`
 
-Backstory: Your apparel store has 2,000 units of last season’s jeans taking up valuable warehouse space.
+`Goal: Build a clearance strategy to liquidate slow-moving inventory without damaging brand perception.`
 
-Goal: Build a clearance strategy to liquidate slow-moving inventory without damaging brand perception.
+`Prompt:`
 
-Prompt:
+`"You are an E-commerce Clearance Planning Expert. Create a profitable overstock liquidation plan.`
 
-"You are an E-commerce Clearance Planning Expert. Create a profitable overstock liquidation plan.
-
+```
 Tasks:
 
 1. Suggest discount levels based on aging and demand.
@@ -3176,22 +3183,22 @@ Tasks:
 4. Suggest metrics for clearance campaign success.
 
 5. Include risk mitigation strategies to avoid customer devaluation.
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Clearance Plan Document (DOCX)
 
 2. Promotional Campaign Templates (Excel)
 
 3. Post-Campaign Analysis Sheet (Excel)
-
-Inputs Needed:
-
+```
+`Inputs Needed:`
+```
 1. Current stock report
 
 2. Sales history for the SKU
-
-Marketing budget."
+```
+`Marketing budget."`
 
 Prompt 15 — Damaged Stock Claim Management
 
