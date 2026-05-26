@@ -3710,16 +3710,17 @@ Tasks:
 
 3. Inventory availability."
 ```
-Prompt 3 — Festive Email Marketing Sequences
+## Prompt 3 — Festive Email Marketing Sequences
 
-Backstory: Your brand’s email campaigns are inconsistent during sales, leading to missed engagement opportunities.
+`Backstory: Your brand’s email campaigns are inconsistent during sales, leading to missed engagement opportunities.`
 
-Goal: Design a 10-email sequence that builds anticipation, drives conversions, and encourages repeat purchases during festive sales.
+`Goal: Design a 10-email sequence that builds anticipation, drives conversions, and encourages repeat purchases during festive sales.`
 
-Prompt:
+`Prompt:`
 
-"You are an Email Marketing Automation Specialist. Create a 10-email festive sale campaign for an Indian D2C brand.
+`"You are an Email Marketing Automation Specialist. Create a 10-email festive sale campaign for an Indian D2C brand.`
 
+```
 Tasks:
 
 1. Plan email sequence from 30 days before to 7 days after the sale.
@@ -3731,34 +3732,35 @@ Tasks:
 4. Include A/B test suggestions for email content.
 
 5. Recommend timing for sending each email.
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Email Sequence Calendar (Excel)
 
 2. Email Copy Drafts (DOCX)
 
 3. A/B Test Plan (Excel)
-
-Inputs Needed:
-
+```
+`Inputs Needed:`
+```
 1. Target customer segments
 
 2. Branding guidelines
 
 3. Email platform access."
+```
+## Prompt 4 — Marketplace Sale Optimization Plan
 
-Prompt 4 — Marketplace Sale Optimization Plan
+`Backstory: During Flipkart’s Big Billion Days and Amazon’s Great Indian Festival, competition is fierce and small sellers often get 
+overshadowed.`
 
-Backstory: During Flipkart’s Big Billion Days and Amazon’s Great Indian Festival, competition is fierce and small sellers often get 
-overshadowed.
+`Goal: Develop a plan to increase visibility and sales during marketplace-driven events.`
 
-Goal: Develop a plan to increase visibility and sales during marketplace-driven events.
+`Prompt:`
 
-Prompt:
+`"You are an E-commerce Marketplace Growth Expert. Create a strategy to maximize visibility during major marketplace sale events.`
 
-"You are an E-commerce Marketplace Growth Expert. Create a strategy to maximize visibility during major marketplace sale events.
-
+```
 Tasks:
 
 1. Optimize product listings for high-volume keywords before the event.
@@ -3770,33 +3772,34 @@ Tasks:
 4. Suggest a competitor monitoring checklist during the sale.
 
 5. Provide post-event analysis metrics.
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Marketplace Sale Strategy (DOCX)
 
 2. Keyword Optimization Sheet (Excel)
 
 3. Competitor Monitoring Template (Excel)
-
-Inputs Needed:
-
+```
+`Inputs Needed:`
+```
 1. Marketplace seller dashboard data
 
 2. Product keywords list
 
 3. Ad budget limits."
+```
+## Prompt 5 — Flash Sale Risk Management
 
-Prompt 5 — Flash Sale Risk Management
+`Backstory: Your website crashed during last year’s flash sale due to unplanned server load, causing lost orders.`
 
-Backstory: Your website crashed during last year’s flash sale due to unplanned server load, causing lost orders.
+`Goal: Create a risk management plan to ensure technical and operational readiness.
 
-Goal: Create a risk management plan to ensure technical and operational readiness.
+`Prompt:`
 
-Prompt:
+`"You are an E-commerce Operations Risk Manager. Design a flash sale readiness plan to prevent technical and inventory issues.`
 
-"You are an E-commerce Operations Risk Manager. Design a flash sale readiness plan to prevent technical and inventory issues.
-
+```
 Tasks:
 
 1. Identify server load testing requirements.
@@ -3808,33 +3811,34 @@ Tasks:
 4. Suggest real-time order monitoring tools.
 
 5. Include a communication protocol for outages.
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Risk Management SOP (DOCX)
 
 2. Contingency Flowchart (PDF)
 
 3. Server Load Testing Checklist (Excel)
-
-Inputs Needed:
-
+```
+`Inputs Needed:`
+```
 1. Website hosting details
 
 2. Payment gateway provider info
 
 3. Inventory system API access."
+```
+## Prompt 6 — Tiered Discount Strategy
 
-Prompt 6 — Tiered Discount Strategy
+`Backstory: Customers tend to buy more when discounts increase, but excessive discounting reduces profit margins.`
 
-Backstory: Customers tend to buy more when discounts increase, but excessive discounting reduces profit margins.
+`Goal: Implement a tiered discount model that maximizes order value without eroding margins.`
 
-Goal: Implement a tiered discount model that maximizes order value without eroding margins.
+`Prompt:`
 
-Prompt:
+`"You are an E-commerce Pricing Strategist. Create a tiered discount model for an upcoming seasonal sale.`
 
-"You are an E-commerce Pricing Strategist. Create a tiered discount model for an upcoming seasonal sale.
-
+```
 Tasks:
 
 1. Set discount tiers (e.g., 10% off for ₹1,000+, 20% for ₹3,000+, 30% for ₹5,000+).
@@ -3846,33 +3850,34 @@ Tasks:
 4. Include messaging for promoting tiered discounts.
 
 5. Provide profitability simulations.
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Discount Model Sheet (Excel)
 
 2. Promotional Messaging Templates (DOCX)
 
 3. Profitability Simulation Report (Excel)
-
-Inputs Needed:
-
+```
+`Inputs Needed:`
+```
 1. Product price list
 
 2. Past sale performance data
+```
+`Target profit margins."`
 
-Target profit margins."
+## Prompt 7 — Influencer Collaboration Plan
 
-Prompt 7 — Influencer Collaboration Plan
+`Backstory: Your brand’s influencer campaigns are random and lack strategy during festive sales.
 
-Backstory: Your brand’s influencer campaigns are random and lack strategy during festive sales.
+`Goal: Build a structured influencer marketing plan for seasonal sales.
 
-Goal: Build a structured influencer marketing plan for seasonal sales.
+`Prompt:
 
-Prompt:
+`"You are an E-commerce Influencer Campaign Manager. Create a structured influencer collaboration plan for festive season sales.`
 
-"You are an E-commerce Influencer Campaign Manager. Create a structured influencer collaboration plan for festive season sales.
-
+```
 Tasks:
 
 1. Identify 10 relevant influencers for your target audience.
@@ -3884,23 +3889,23 @@ Tasks:
 4. Recommend performance tracking KPIs.
 
 5. Include budget allocation per influencer.
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Influencer List (Excel)
 
 2. Campaign Plan Document (DOCX)
 
 3. Performance Tracking Sheet (Excel)
-
-Inputs Needed:
-
+```
+`Inputs Needed:`
+```
 1. Brand niche
 
 2. Influencer budget
 
 3. Sale dates and product list."
-
+```
 Prompt 8 — Seasonal Sale Landing Page Optimization
 
 Backstory: Last year’s sale landing page had a 60% bounce rate due to poor structure and slow loading.
