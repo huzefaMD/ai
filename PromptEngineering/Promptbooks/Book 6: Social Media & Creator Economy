@@ -1,10 +1,10 @@
-YouTube Script & Title Generation
+# YouTube Script & Title Generation
 
-Prompt 1 — Viral News Reaction Script
+## Prompt 1 — Viral News Reaction Script
 
-Backstory: Trending news videos on YouTube spike fast in views but die down quickly. Capturing the trend early with an engaging script is key for visibility.
+`Backstory: Trending news videos on YouTube spike fast in views but die down quickly. Capturing the trend early with an engaging script is key for visibility.
 
-Goal: Generate a fast-turnaround reaction video script that blends facts with personality to hook viewers in the first 15 seconds.
+ Goal: Generate a fast-turnaround reaction video script that blends facts with personality to hook viewers in the first 15 seconds.
 
 Prompt:
 
@@ -76,7 +76,7 @@ Output Format:
 
 Prompt 3 — Festival Special Content
 
-Backstory: Indian festivals drive high search volumes for seasonal content, but creators often post too close to the festival day to rank.
+`Backstory: Indian festivals drive high search volumes for seasonal content, but creators often post too close to the festival day to rank.
 
 Goal: Plan and write a YouTube script for a festival-themed video posted at least 10 days in advance.
 
