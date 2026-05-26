@@ -792,6 +792,181 @@ Output Format:
 
 3. Title & Thumbnail Concepts (Excel)"
 
+Prompt 22 — Reaction to Subscriber Content
 
+Backstory: Reviewing subscriber content boosts engagement, but without structure it can be chaotic.
+
+Goal: Write a script that makes reactions fun, fair, and shareable.
+
+Prompt:
+
+"You are a YouTube Community Engagement Host. Write a reaction script for reviewing subscriber submissions.
+
+Tasks:
+
+1. Open with thanks and a subscriber shout-out.
+
+2. Review content with balanced feedback.
+
+3. Add humour and relatability.
+
+4. Encourage other subscribers to participate.
+
+5. End with a poll or vote for favourites.
+
+Inputs Needed:
+
+1. Subscriber content (links or files)
+
+2. Review criteria
+
+3. Tone style
+
+Output Format:
+
+1. Script (DOCX)
+
+2. Submission List (Excel)
+
+3. Title & Thumbnail Ideas (Excel)"
+
+Prompt 23 — Countdown/Ranking Script
+
+Backstory: Ranking videos keep viewers hooked till #1, but pacing is crucial.
+
+Goal: Write a ranking script that builds suspense and delivers surprises.
+
+Prompt:
+
+"You are a YouTube Ranking Video Specialist. Write a ranking script on the provided topic.
+
+Tasks:
+
+1. Start with #10 and build to #1.
+
+2. Add reasons and stats for each rank.
+
+3. Suggest visuals/B-roll for each item.
+
+4. Insert teasers for upcoming ranks.
+
+5. End with a “Did we miss any?” engagement question.
+
+Inputs Needed:
+
+1. Ranking topic
+
+2. Criteria for ranking
+
+3. Target audience
+
+Output Format:
+
+1. Script (DOCX)
+
+2. Ranking Table (Excel)
+
+3. Title & Thumbnail Ideas (Excel)"
+
+Prompt 24 — Live Stream Content Script
+
+Backstory: Live streams keep watch time high, but without a flow they lose viewers quickly.
+
+Goal: Create a structured run-of-show for a live stream.
+
+Prompt:
+
+"You are a YouTube Live Host. Write a run-of-show script for the given live topic.
+
+Tasks:
+
+1. Include intro, main segments, and outro.
+
+2. Plan audience interaction points.
+
+3. Suggest polls, giveaways, or Q&A breaks.
+
+4. Include time allocation per segment.
+
+5. End with a strong CTA to subscribe and follow socials.
+
+Inputs Needed:
+
+1. Live topic
+
+2. Duration
+
+3. Audience size
+
+Output Format:
+
+1. Run-of-Show Script (DOCX)
+
+2. Interaction Plan (Excel)
+
+3. Title & Thumbnail Ideas (Excel)"
+
+Prompt 25 — Trailer/Channel Intro Script
+
+Backstory: Channel trailers influence new subscribers but are often rushed or generic.
+
+Goal: Write a trailer script that hooks in under 60 seconds.
+
+Prompt:
+
+"You are a YouTube Channel Branding Expert. Write a trailer script for the given channel.
+
+Tasks:
+
+1. Open with a visual/audio hook in 5 seconds.
+
+2. Highlight the channel’s niche & unique value.
+
+3. Show clips of past content.
+
+4. Add a catchy tagline.
+
+5. End with a subscribe CTA.
+
+Inputs Needed:
+
+1. Channel niche
+
+2. Creator personality traits
+
+3. Key past videos
+
+Output Format:
+
+1. Script (DOCX)
+
+2. Clip Selection List (Excel)
+
+3. Title & Thumbnail Concepts (Excel)"
+
+
+Instagram Reel & Caption Ideas
+
+Prompt 1 — Festival-Themed Reel Ideas & Captions
+Backstory: Indian festivals are prime content opportunities, but most posts look generic and fail to drive engagement or sales.
+Goal: Create unique, trend-adapted content ideas & captions for upcoming festivals that resonate with the target audience’s cultural and emotional triggers.
+
+Prompt:
+"You are an Instagram Festive Marketing Strategist. For the given festival, generate 5 high-impact Reel ideas and captions that are:
+
+Aligned with trending audio & hashtags in India.
+Culturally relevant but with a modern twist.
+Designed to encourage shares and saves.
+Short enough for easy reading but powerful in emotion.
+Suitable for either personal branding or product promotion.
+Inputs Needed:
+
+Festival name & date
+Target audience (age, city/tier)
+Content goal (engagement, awareness, sales)
+Output Format:
+
+Reel Concept Table (Excel: Concept, Hook, Visuals, Audio, CTA)
+Captions (Word/PDF: Hook + Body + Hashtags)"
 
 
