@@ -1323,16 +1323,17 @@ Your task:
 
 3. Station excavation plans."
 ```
-Prompt 16 — Airport Terminal Expansion Schedule
+## Prompt 16 — Airport Terminal Expansion Schedule
 
-Backstory: A major airport in Delhi is expanding its terminal to handle increased passenger capacity. The project must be completed without disrupting existing flights and passenger services.
+`Backstory: A major airport in Delhi is expanding its terminal to handle increased passenger capacity. The project must be completed without disrupting existing flights and passenger services.`
 
-Goal: Develop a phased expansion schedule that ensures uninterrupted airport operations.
+`Goal: Develop a phased expansion schedule that ensures uninterrupted airport operations.`
 
-Prompt:
+`Prompt:`
 
-"You are an Airport Infrastructure Scheduler. Create a phased construction schedule for the expansion of a passenger terminal in Delhi Airport.
+`"You are an Airport Infrastructure Scheduler. Create a phased construction schedule for the expansion of a passenger terminal in Delhi Airport.`
 
+```
 Your task:
 
 1. Sequence works to ensure uninterrupted flight operations.
@@ -1344,27 +1345,28 @@ Your task:
 4. Include aviation security clearances for each milestone.
 
 5. Build in testing and commissioning phases before handover.
+```
+`Output format: Terminal Expansion Gantt Chart (Excel) + Passenger Flow Adjustment Plan (PDF).`
 
-Output format: Terminal Expansion Gantt Chart (Excel) + Passenger Flow Adjustment Plan (PDF).
-
-Input Files & Code Section:
-
+`Input Files & Code Section:`
+```
 1. Expansion design drawings.
 
 2. Current terminal operation schedules.
 
 3. Aviation security protocols."
+```
+## Prompt 17 — Luxury Residential Township Schedule
 
-Prompt 17 — Luxury Residential Township Schedule
+`Backstory: A real estate developer in Bengaluru is building a luxury township with villas, apartments, and a clubhouse. The marketing launch date is fixed, so construction must align with sales milestones.`
 
-Backstory: A real estate developer in Bengaluru is building a luxury township with villas, apartments, and a clubhouse. The marketing launch date is fixed, so construction must align with sales milestones.
+`Goal: Create a township schedule linked with marketing and sales timelines.`
 
-Goal: Create a township schedule linked with marketing and sales timelines.
+`Prompt:`
 
-Prompt:
+`"You are a Real Estate Project Scheduler. Prepare a construction schedule for a luxury township in Bengaluru.`
 
-"You are a Real Estate Project Scheduler. Prepare a construction schedule for a luxury township in Bengaluru.
-
+```
 Your task:
 
 1. Sequence villa and apartment construction in phases.
@@ -1376,27 +1378,28 @@ Your task:
 4. Build in buyer inspection milestones.
 
 5. Provide a payment-linked construction schedule.
+```
+`Output format: Township Gantt Chart (Excel) + Sales-Linked Construction Plan (PDF).`
 
-Output format: Township Gantt Chart (Excel) + Sales-Linked Construction Plan (PDF).
-
-Input Files & Code Section:
-
+`Input Files & Code Section:`
+```
 1. Master plan layout.
 
 2. Sales and marketing calendar.
 
 3. Villa/apartment design drawings."
+```
+## Prompt 18 — Bridge Rehabilitation Project Schedule
 
-Prompt 18 — Bridge Rehabilitation Project Schedule
+`Backstory: An old suspension bridge in Uttarakhand requires structural repairs. The bridge is a vital connection, so closure time must be minimized.`
 
-Backstory: An old suspension bridge in Uttarakhand requires structural repairs. The bridge is a vital connection, so closure time must be minimized.
+`Goal: Create a rehabilitation schedule with minimal closure periods.`
 
-Goal: Create a rehabilitation schedule with minimal closure periods.
+`Prompt:`
 
-Prompt:
+`"You are a Bridge Rehabilitation Scheduler. Prepare a schedule for structural repairs on a suspension bridge in Uttarakhand.`
 
-"You are a Bridge Rehabilitation Scheduler. Prepare a schedule for structural repairs on a suspension bridge in Uttarakhand.
-
+```
 Your task:
 
 1. Schedule inspections, material procurement, and repair works.
@@ -1408,27 +1411,28 @@ Your task:
 4. Build in contingency for unexpected structural findings.
 
 5. Align with weather conditions to avoid delays.
+```
+`Output format: Rehabilitation Schedule (Excel) + Traffic Diversion Plan (PDF).`
 
-Output format: Rehabilitation Schedule (Excel) + Traffic Diversion Plan (PDF).
-
-Input Files & Code Section:
-
+`Input Files & Code Section:`
+```
 1. Bridge structural assessment report.
 
 2. Traffic volume data.
 
 3. Repair design drawings."
+```
+## Prompt 19 — Solar Power Plant Construction Schedule
 
-Prompt 19 — Solar Power Plant Construction Schedule
+`Backstory: A 200 MW solar plant in Rajasthan must be operational before the end of the fiscal year to qualify for government incentives.`
 
-Backstory: A 200 MW solar plant in Rajasthan must be operational before the end of the fiscal year to qualify for government incentives.
+`Goal: Create a solar farm schedule with synchronized civil, electrical, and installation works.`
 
-Goal: Create a solar farm schedule with synchronized civil, electrical, and installation works.
+`Prompt:`
 
-Prompt:
+`"You are a Renewable Energy Scheduler. Prepare a construction schedule for a 200 MW solar plant in Rajasthan.`
 
-"You are a Renewable Energy Scheduler. Prepare a construction schedule for a 200 MW solar plant in Rajasthan.
-
+```
 Your task:
 
 1. Sequence site grading, mounting structure erection, and panel installation.
@@ -1440,27 +1444,28 @@ Your task:
 4. Schedule final testing and commissioning before fiscal year end.
 
 5. Provide daily progress tracking milestones.
+```
+`Output format: Solar Farm Gantt Chart (Excel) + Commissioning Checklist (PDF).`
 
-Output format: Solar Farm Gantt Chart (Excel) + Commissioning Checklist (PDF).
-
-Input Files & Code Section:
-
+`Input Files & Code Section:`
+```
 1. Solar farm layout.
 
 2. Panel delivery schedules.
 
 3. Grid connection approval documents."
+```
+## Prompt 20 — Mixed-Use Development Schedule
 
-Prompt 20 — Mixed-Use Development Schedule
+`Backstory: A mixed-use development in Mumbai includes retail, office, and residential spaces. Retail must open first, followed by other components.`
 
-Backstory: A mixed-use development in Mumbai includes retail, office, and residential spaces. Retail must open first, followed by other components.
+`Goal: Create a schedule prioritizing retail completion while keeping other works in progress.`
 
-Goal: Create a schedule prioritizing retail completion while keeping other works in progress.
+`Prompt:`
 
-Prompt:
+`"You are a Mixed-Use Project Scheduler. Create a construction schedule for a mixed-use development in Mumbai.`
 
-"You are a Mixed-Use Project Scheduler. Create a construction schedule for a mixed-use development in Mumbai.
-
+```
 Your task:
 
 1. Prioritize retail completion for early revenue generation.
@@ -1472,27 +1477,28 @@ Your task:
 4. Build in tenant fit-out timelines after handover.
 
 5. Add a soft-opening milestone for the retail section.
+```
+`Output format: Mixed-Use Development Gantt Chart (Excel) + Retail Opening Plan (PDF).`
 
-Output format: Mixed-Use Development Gantt Chart (Excel) + Retail Opening Plan (PDF).
-
-Input Files & Code Section:
-
+`Input Files & Code Section:`
+```
 1. Master plan drawings.
 
 2. Retail tenant agreements.
 
 3. Phasing plan from developer."
+```
+## Prompt 21 — Smart City Infrastructure Project Schedule
 
-Prompt 21 — Smart City Infrastructure Project Schedule
+`Backstory: A smart city project in Gujarat involves multiple infrastructure upgrades, including roads, street lighting, drainage, and fiber optic cabling.`
 
-Backstory: A smart city project in Gujarat involves multiple infrastructure upgrades, including roads, street lighting, drainage, and fiber optic cabling.
+`Goal: Create an integrated schedule for multi-agency coordination.`
 
-Goal: Create an integrated schedule for multi-agency coordination.
+`Prompt:`
 
-Prompt:
+`"You are an Urban Infrastructure Scheduler. Prepare a schedule for a smart city infrastructure upgrade in Gujarat.`
 
-"You are an Urban Infrastructure Scheduler. Prepare a schedule for a smart city infrastructure upgrade in Gujarat.
-
+```
 Your task:
 
 1. Integrate roadworks, drainage, and electrical upgrades.
@@ -1504,28 +1510,28 @@ Your task:
 4. Build in approvals from multiple agencies.
 
 5. Ensure minimal public inconvenience during works.
+```
+`Output format: Integrated Project Schedule (Excel) + Agency Coordination Plan (PDF).`
 
-Output format: Integrated Project Schedule (Excel) + Agency Coordination Plan (PDF).
-
-Input Files & Code Section:
-
+`Input Files & Code Section:`
+```
 1. City master plan.
 
 2. Utility upgrade drawings.
 
 3. Agency work scope lists."
+```
+## Prompt 22 — Port Expansion Schedule
 
-Prompt 22 — Port Expansion Schedule
+`Backstory: A port in Kerala is expanding its container handling capacity. The works include dredging, berth construction, and crane installation.`
 
-Backstory: A port in Kerala is expanding its container handling capacity. The works include dredging, berth construction, and crane installation.
+`Goal: Create a phased port expansion schedule aligned with shipping operations.`
 
-Goal: Create a phased port expansion schedule aligned with shipping operations.
+`Prompt:`
 
-Prompt:
+`"You are a Marine Infrastructure Scheduler. Prepare a schedule for port expansion works in Kerala.`
 
-"You are a Marine Infrastructure Scheduler. Prepare a schedule for port expansion works in Kerala.
-
-Your task:
+`Your task:`
 
 1. Sequence dredging, berth construction, and crane installation.
 
@@ -1536,17 +1542,17 @@ Your task:
 4. Build in weather impact buffers for monsoon season.
 
 5. Provide marine safety inspection milestones.
+```
+`Output format: Port Expansion Schedule (Excel) + Shipping Traffic Impact Report (PDF).`
 
-Output format: Port Expansion Schedule (Excel) + Shipping Traffic Impact Report (PDF).
-
-Input Files & Code Section:
-
+`Input Files & Code Section:`
+```
 1. Port expansion design.
 
 2. Shipping schedules.
 
 3. Equipment supplier timelines."
-
+```
 Prompt 23 — Factory Automation Upgrade Schedule
 
 Backstory: An electronics factory in Noida is upgrading its assembly lines to fully automated systems. Work must be completed during planned low-demand months.
