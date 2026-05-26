@@ -3793,7 +3793,7 @@ Tasks:
 
 `Backstory: Your website crashed during last year’s flash sale due to unplanned server load, causing lost orders.`
 
-`Goal: Create a risk management plan to ensure technical and operational readiness.
+`Goal: Create a risk management plan to ensure technical and operational readiness.`
 
 `Prompt:`
 
