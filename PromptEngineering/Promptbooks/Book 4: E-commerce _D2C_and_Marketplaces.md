@@ -2195,16 +2195,17 @@ Tasks:
 
 2. Order history logs."
 ```
-Prompt 13 — Explaining Delivery Delays Due to Weather/Natural Events
+## Prompt 13 — Explaining Delivery Delays Due to Weather/Natural Events
 
-Backstory: A customer’s frozen dessert order is delayed due to severe rains affecting logistics.
+`Backstory: A customer’s frozen dessert order is delayed due to severe rains affecting logistics.`
 
-Goal: Communicate delays clearly, offer reassurance, and maintain goodwill.
+`Goal: Communicate delays clearly, offer reassurance, and maintain goodwill.`
 
-Prompt:
+`Prompt:`
 
-"You are a Delivery Delay Communication Specialist. Write scripts for weather-related delays.
+`"You are a Delivery Delay Communication Specialist. Write scripts for weather-related delays.`
 
+```
 Tasks:
 
 1. Write 3 proactive notification messages.
@@ -2216,29 +2217,30 @@ Tasks:
 4. Include placeholders for weather event and revised ETA.
 
 5. Maintain empathy and transparency in tone.
-
-Output format:
-
+```
+`Output format:`
+```
 1. Delay Communication Script Pack (DOCX)
 
 2. Weather Delay Template (Excel)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Logistics partner updates
 
 2. Weather reports."
+```
+## Prompt 14 — Handling Warranty Claim Requests
 
-Prompt 14 — Handling Warranty Claim Requests
+`Backstory: A customer’s electric blender stopped working within the warranty period.`
 
-Backstory: A customer’s electric blender stopped working within the warranty period.
+`Goal: Streamline warranty claims and keep customers informed.`
 
-Goal: Streamline warranty claims and keep customers informed.
+`Prompt:`
 
-Prompt:
+`"You are a Warranty Claim Support Script Creator. Write scripts for handling warranty claims.`
 
-"You are a Warranty Claim Support Script Creator. Write scripts for handling warranty claims.
-
+```
 Tasks:
 
 1. Write 3 initial acknowledgement scripts.
@@ -2250,29 +2252,30 @@ Tasks:
 4. Include placeholders for claim number and repair/replacement ETA.
 
 5. Maintain professional yet reassuring tone.
-
-Output format:
-
+```
+`Output format:`
+```
 1. Warranty Claim Script Pack (DOCX)
 
 2. Claim Tracking Sheet (Excel)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Warranty terms
+```
+`Service partner contacts."`
 
-Service partner contacts."
+## Prompt 15 — Educating Customers About Pre-Order Fulfilment Timelines
 
-Prompt 15 — Educating Customers About Pre-Order Fulfilment Timelines
+`Backstory: A customer pre-ordered a gaming console that will ship in 3 months but is worried about the delay.`
 
-Backstory: A customer pre-ordered a gaming console that will ship in 3 months but is worried about the delay.
+`Goal: Set realistic expectations and keep customers excited while they wait.`
 
-Goal: Set realistic expectations and keep customers excited while they wait.
+`Prompt:`
 
-Prompt:
+`"You are a Pre-Order Communication Specialist. Write scripts for managing pre-order expectations.`
 
-"You are a Pre-Order Communication Specialist. Write scripts for managing pre-order expectations.
-
+```
 Tasks:
 
 1. Write welcome/thank-you messages for pre-order confirmation.
@@ -2284,29 +2287,30 @@ Tasks:
 4. Suggest placeholders for estimated ship date and bonus offers.
 
 5. Include engagement tips like sneak peeks or behind-the-scenes updates.
-
-Output format:
-
+```
+`Output format:`
+```
 1. Pre-Order Communication Script Pack (DOCX)
 
 2. Update Calendar (Excel)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Pre-order schedule
 
 2. Bonus content library."
+```
+## Prompt 16 — Scripts for Refund Processing Updates
 
-Prompt 16 — Scripts for Refund Processing Updates
+`Backstory: A customer returned a Bluetooth speaker and is waiting for their refund. It’s been 7 days and they’re anxious, fearing they’ve been scammed.`
 
-Backstory: A customer returned a Bluetooth speaker and is waiting for their refund. It’s been 7 days and they’re anxious, fearing they’ve been scammed.
+`Goal: Provide transparent and reassuring updates during refund processing.`
 
-Goal: Provide transparent and reassuring updates during refund processing.
+`Prompt:`
 
-Prompt:
+`"You are an E-commerce Refund Communication Specialist. Write scripts to update customers on refund status.`
 
-"You are an E-commerce Refund Communication Specialist. Write scripts to update customers on refund status.
-
+```
 Tasks:
 
 1. Create 3 proactive updates via email/SMS at key refund stages (received, processing, completed).
@@ -2318,18 +2322,18 @@ Tasks:
 4. Include placeholders for transaction ID, amount, and expected date.
 
 5. Maintain friendly yet professional tone to reduce anxiety.
-
-Output format:
-
+```
+`Output format:`
+```
 1. Refund Update Script Pack (DOCX)
 
 2. Refund Timeline Template (Excel)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Refund policy document
-
-Payment gateway processing times."
+```
+`Payment gateway processing times."`
 
 Prompt 17 — Educating Customers About Loyalty Program Benefits
 
