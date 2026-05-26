@@ -948,25 +948,139 @@ Output Format:
 Instagram Reel & Caption Ideas
 
 Prompt 1 — Festival-Themed Reel Ideas & Captions
+
 Backstory: Indian festivals are prime content opportunities, but most posts look generic and fail to drive engagement or sales.
+
 Goal: Create unique, trend-adapted content ideas & captions for upcoming festivals that resonate with the target audience’s cultural and emotional triggers.
 
 Prompt:
+
 "You are an Instagram Festive Marketing Strategist. For the given festival, generate 5 high-impact Reel ideas and captions that are:
 
-Aligned with trending audio & hashtags in India.
-Culturally relevant but with a modern twist.
-Designed to encourage shares and saves.
-Short enough for easy reading but powerful in emotion.
-Suitable for either personal branding or product promotion.
+1. Aligned with trending audio & hashtags in India.
+
+2. Culturally relevant but with a modern twist.
+
+3. Designed to encourage shares and saves.
+
+4. Short enough for easy reading but powerful in emotion.
+
+5. Suitable for either personal branding or product promotion.
+
 Inputs Needed:
 
-Festival name & date
-Target audience (age, city/tier)
-Content goal (engagement, awareness, sales)
+1. Festival name & date
+
+2. Target audience (age, city/tier)
+
+3. Content goal (engagement, awareness, sales)
+
 Output Format:
 
-Reel Concept Table (Excel: Concept, Hook, Visuals, Audio, CTA)
-Captions (Word/PDF: Hook + Body + Hashtags)"
+1. Reel Concept Table (Excel: Concept, Hook, Visuals, Audio, CTA)
+
+2. Captions (Word/PDF: Hook + Body + Hashtags)"
+
+Prompt 2 — Carousel Educational Content
+
+Backstory: Instagram carousels are great for retention, but many fail because they lack a “keep swiping” story flow.
+
+Goal: Create an educational carousel with a clear problem-solution structure and compelling captions.
+
+Prompt:
+
+"You are an Instagram Educational Content Creator. For the given niche, create 5 carousel content ideas that:
+
+1. Have a swipe-worthy hook on Slide 1.
+
+2. Educate in 5–7 slides using problem → reason → solution format.
+
+3. Use Indian data, examples, or pop culture references.
+
+4. Have a CTA on the last slide to comment, share, or DM.
+
+5. Include captions that expand the post value with storytelling.
+
+Inputs Needed:
+
+1. Topic/niche
+
+2. Audience pain points
+
+3. Desired CTA
+
+Output Format:
+
+1. Carousel Storyboard (Excel: Slide No., Text, Visual Suggestion)
+
+2. Captions (Word/PDF: Hook, Value, CTA, Hashtags)"
+
+Prompt 3 — Behind-the-Scenes (BTS) Stories & Reels
+
+Backstory: BTS builds trust and humanizes brands, but most posts feel random instead of strategic.
+
+Goal: Script BTS content that feels authentic, fun, and subtly promotes the creator/product.
+
+Prompt:
+
+"You are an Instagram BTS Content Director. For the given brand or creator, generate 3 BTS Reel ideas + captions that:
+
+1. Show work process in a cinematic yet relatable way.
+
+2. Include humour or relatable struggles for virality.
+
+3. Highlight craftsmanship, effort, or team culture.
+
+4. Have captions that tell the story behind the scene.
+
+5. Encourage followers to comment their thoughts or guesses.
+
+Inputs Needed:
+
+1. Brand/creator name
+
+2. Product/service type
+
+3. Key moments or processes
+
+Output Format:
+
+1. Reel Shot List (Excel: Scene, Visual, Audio Suggestion)
+
+2. Captions (Word/PDF: Hook, Story, CTA)"
+
+Prompt 4 — Micro-Story Reels with Strong Hooks
+
+Backstory: Short-form storytelling wins attention on Instagram, but creators often fail to grab attention in the first 3 seconds.
+
+Goal: Build 15–30 second story Reels with strong hooks and captions that amplify the impact.
+
+Prompt:
+
+"You are an Instagram Micro-Story Director. Create 3 micro-story Reel concepts & captions for the given topic that:
+
+1. Open with a hook statement or shocking visual in the first 2 seconds.
+
+2. Build tension or curiosity in 2–3 quick scenes.
+
+3. End with a surprise twist, fact, or CTA.
+
+4. Use captions to deepen the meaning or humour of the story.
+
+5. Match trending Indian audio styles.
+
+Inputs Needed:
+
+1. Topic/niche
+
+2. Goal (entertain, inspire, educate)
+
+3. Audience demographics
+
+Output Format:
+
+1. Storyboard Table (Excel: Scene, Hook, Audio, Visual Style)
+
+2. Captions (Word/PDF: Hook, Story, CTA, Hashtags)"
 
 
