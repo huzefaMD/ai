@@ -3531,7 +3531,7 @@ Tasks:
 5. Recommend refresher intervals.
 ```
 `Output format:`
-``
+```
 1. Induction Training Material (PPTX & PDF)
 
 2. Certification Template (DOCX)
