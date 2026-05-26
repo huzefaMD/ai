@@ -3826,7 +3826,7 @@ Tasks:
 
 `Prompt:`
 
-"You are a Construction Quality Reporting Specialist. Prepare a client-facing summary of quality inspection results for a pharmaceutical plant in Vizag.
+`"You are a Construction Quality Reporting Specialist. Prepare a client-facing summary of quality inspection results for a pharmaceutical plant in Vizag.`
 
 ```
 Tasks:
