@@ -337,151 +337,231 @@ Output Format:
 3. SEO Title Suggestions (Excel)"
 
 Prompt 10 — Mini-Documentary Script
+
 Backstory: Many Indian creators are exploring mini-documentary styles but lack structured storytelling.
+
 Goal: Build a short-form documentary script (5–10 mins) that tells a compelling real-life story.
 
 Prompt:
+
 "You are a YouTube Documentary Scriptwriter. Write a mini-documentary script on the given topic.
 
 Tasks:
 
-Create a cinematic opening scene.
-Include 3 interview-style segments.
-Add supporting data or historical context.
-Suggest transitions and background score style.
-End with a reflective closing narration.
+1. Create a cinematic opening scene.
+
+2. Include 3 interview-style segments.
+
+3. Add supporting data or historical context.
+
+4. Suggest transitions and background score style.
+
+5. End with a reflective closing narration.
+
 Inputs Needed:
 
-Topic
-Key interviewees or roles
-Available footage
+1. Topic
+
+2. Key interviewees or roles
+
+3. Available footage
+
 Output Format:
 
-Script with timestamps (DOCX)
-Interview Questions (Excel)
-Title & Thumbnail Concepts (PDF)"
+1. Script with timestamps (DOCX)
+
+2. Interview Questions (Excel)
+
+3. Title & Thumbnail Concepts (PDF)"
 
 Prompt 11 — Opinion/Rant Video Script
+
 Backstory: Opinion videos help creators build a personal brand but can backfire if unstructured.
+
 Goal: Create a script that’s passionate yet logically sound.
 
 Prompt:
+
 "You are a YouTube Opinion Content Strategist. Write a rant/opinion script on the provided topic.
 
 Tasks:
 
-Open with a strong personal stance.
-Back opinions with 3 key facts or experiences.
-Include rhetorical questions for engagement.
-Suggest visual cutaways to keep attention.
-End with an open-ended question to viewers.
+1. Open with a strong personal stance.
+
+2. Back opinions with 3 key facts or experiences.
+
+3. Include rhetorical questions for engagement.
+
+4. Suggest visual cutaways to keep attention.
+
+5. End with an open-ended question to viewers.
+
 Inputs Needed:
 
-Topic
-Personal experience
-Key facts/data
+1. Topic
+
+2. Personal experience
+
+3. Key facts/data
+
 Output Format:
 
-Script (DOCX)
-Fact Reference Sheet (Excel)
-3 Title Options (Excel)"
+1. Script (DOCX)
+
+2. Fact Reference Sheet (Excel)
+
+3. 3 Title Options (Excel)"
 
 Prompt 12 — Comedy Skit Script
+
 Backstory: Indian YouTube comedy has huge viral potential but often misses timing and punchlines.
+
 Goal: Script a tight 2–3 minute comedy skit that’s shareable.
 
 Prompt:
+
 "You are a YouTube Comedy Writer. Create a comedy skit script for the provided concept.
 
 Tasks:
 
-Include a 5-second hook joke.
-Build to a main punchline with mini-jokes.
-Use relatable cultural references.
-Suggest comedic sound effects.
-End with a funny twist.
+1. Include a 5-second hook joke.
+
+2. Build to a main punchline with mini-jokes.
+
+3. Use relatable cultural references.
+
+4. Suggest comedic sound effects.
+
+5. End with a funny twist.
+
 Inputs Needed:
 
-Concept
-Actor count
-Setting/location
+1. Concept
+
+2. Actor count
+
+3. Setting/location
+
 Output Format:
 
-Script (DOCX)
-Prop List (Excel)
-Title & Thumbnail Ideas (Excel)"
+1. Script (DOCX)
+
+2. Prop List (Excel)
+
+3. Title & Thumbnail Ideas (Excel)"
 
 Prompt 13 — Reaction Video Script
+
 Backstory: Reaction videos perform well but risk being repetitive.
+
 Goal: Create a reaction script that adds unique commentary.
 
 Prompt:
+
 "You are a YouTube Reaction Video Director. Write a reaction script to the provided video or event.
 
 Tasks:
 
-Include genuine first reactions.
-Add commentary with humour or insights.
-Plan pauses for visual inserts.
-Suggest editing cuts for pacing.
-End with a replay/highlight reel.
+1. Include genuine first reactions.
+
+2. Add commentary with humour or insights.
+
+3. Plan pauses for visual inserts.
+
+4. Suggest editing cuts for pacing.
+
+5. End with a replay/highlight reel.
+
 Inputs Needed:
 
-Video link
-Creator style
-Context/background
+1. Video link
+
+2. Creator style
+
+3. Context/background
+
 Output Format:
 
-Script (DOCX)
-Reaction Beats (Excel)
-Title & Thumbnail Ideas (Excel)"
+1. Script (DOCX)
+
+2. Reaction Beats (Excel)
+
+3. Title & Thumbnail Ideas (Excel)"
 
 Prompt 14 — Unboxing Script
+
 Backstory: Unboxing videos dominate product discovery in India, but many lack excitement.
+
 Goal: Create an unboxing script that builds suspense and curiosity.
 
 Prompt:
+
 "You are a YouTube Unboxing Scriptwriter. Write an unboxing video script for the provided product.
 
 Tasks:
 
-Build anticipation before the box is opened.
-Describe textures, colours, and packaging details.
-Share first impressions with honest tone.
-Suggest camera angles for reveals.
-End with product verdict and CTA.
+1. Build anticipation before the box is opened.
+
+2. Describe textures, colours, and packaging details.
+
+3. Share first impressions with honest tone.
+
+4. Suggest camera angles for reveals.
+
+5. End with product verdict and CTA.
+
 Inputs Needed:
 
-Product name & specs
-Price
-Creator’s tone
+1. Product name & specs
+
+2. Price
+
+3. Creator’s tone
+
 Output Format:
 
-Script (DOCX)
-Shot List (Excel)
-Title & Thumbnail Suggestions (Excel)"
+1. Script (DOCX)
+
+2. Shot List (Excel)
+
+3. Title & Thumbnail Suggestions (Excel)"
 
 Prompt 15 — Travel Vlog Script
+
 Backstory: Travel vlogs often turn into random clips with no story.
+
 Goal: Script a travel vlog that feels like a guided journey.
 
 Prompt:
+
 "You are a YouTube Travel Vlog Director. Write a travel vlog script for the given destination.
 
 Tasks:
 
-Open with a scene that sets the mood.
-Include location history & fun facts.
-Plan transitions between scenes.
-Suggest local music for background.
-End with travel tips for the location.
+1. Open with a scene that sets the mood.
+
+2. Include location history & fun facts.
+
+3. Plan transitions between scenes.
+
+4. Suggest local music for background.
+
+5. End with travel tips for the location.
+
 Inputs Needed:
 
-Destination
-Duration of trip
-Audience interest level
+1. Destination
+
+2. Duration of trip
+
+3. Audience interest level
+
 Output Format:
 
-Script (DOCX)
-Location Shot List (Excel)
-Title & Thumbnail Concepts (Excel)"
+1. Script (DOCX)
+
+2. Location Shot List (Excel)
+
+3. Title & Thumbnail Concepts (Excel)"
+
+
