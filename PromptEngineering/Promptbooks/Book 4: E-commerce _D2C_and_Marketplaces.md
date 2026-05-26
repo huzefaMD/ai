@@ -1950,16 +1950,17 @@ Tasks:
 
 2. Alternative product catalogue."
 ```
-Prompt 6 — Addressing Shipping Damage Reports
+## Prompt 6 — Addressing Shipping Damage Reports
 
-Backstory: A customer ordered a glass vase and received it shattered due to mishandling during delivery. The customer is upset and has posted photos on Instagram tagging your brand.
+`Backstory: A customer ordered a glass vase and received it shattered due to mishandling during delivery. The customer is upset and has posted photos on Instagram tagging your brand.`
 
-Goal: Provide scripts that handle the issue publicly and privately to protect brand image.
+`Goal: Provide scripts that handle the issue publicly and privately to protect brand image.`
 
-Prompt:
+`Prompt:`
 
-"You are an E-commerce Damage Control Specialist. Write scripts for handling shipping damage reports.
+`"You are an E-commerce Damage Control Specialist. Write scripts for handling shipping damage reports.`
 
+```
 Tasks:
 
 1. Write 3 private response templates (email/chat) acknowledging damage and offering solutions.
@@ -1971,29 +1972,30 @@ Tasks:
 4. Include phrasing for offering replacement, refund, or discount voucher.
 
 5. Recommend tone guidelines for turning a negative social media post into a positive PR opportunity.
-
-Output format:
-
+```
+`Output format:`
+```
 1. Damage Handling Script Pack (DOCX)
 
 2. Social Media Response Sheet (Excel)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Product warranty policy
+```
+`Customer’s post screenshots."`
 
-Customer’s post screenshots."
+## Prompt 7 — Guiding Customers Through EMI & Payment Issues
 
-Prompt 7 — Guiding Customers Through EMI & Payment Issues
+`Backstory: A customer tried purchasing a high-end DSLR camera on EMI but the payment failed due to bank authentication errors. They’re frustrated because the sale price ends tonight.`
 
-Backstory: A customer tried purchasing a high-end DSLR camera on EMI but the payment failed due to bank authentication errors. They’re frustrated because the sale price ends tonight.
+`Goal: Provide scripts that solve technical payment issues quickly.`
 
-Goal: Provide scripts that solve technical payment issues quickly.
+`Prompt:`
 
-Prompt:
+`"You are an E-commerce Payment Support Specialist. Write scripts for EMI/payment issue resolution.`
 
-"You are an E-commerce Payment Support Specialist. Write scripts for EMI/payment issue resolution.
-
+```
 Tasks:
 
 1. Create 3 live chat templates guiding customers through retrying payment.
@@ -2005,29 +2007,30 @@ Tasks:
 4. Provide 2 follow-up confirmation scripts once payment is successful.
 
 5. Include placeholders for transaction IDs and bank contact details.
-
-Output format:
-
+```
+`Output format:`
+```
 1. Payment Resolution Script Pack (DOCX)
 
 2. EMI Troubleshooting Guide (Excel)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Payment gateway API reference
 
 2. EMI partner bank list."
+```
+## Prompt 8 — Handling Price Match Requests
 
-Prompt 8 — Handling Price Match Requests
+`Backstory: A customer found the same Bluetooth headphones cheaper on a competitor’s site and wants a price match as per your policy.`
 
-Backstory: A customer found the same Bluetooth headphones cheaper on a competitor’s site and wants a price match as per your policy.
+`Goal: Provide scripts to validate, approve, or politely deny price match requests.`
 
-Goal: Provide scripts to validate, approve, or politely deny price match requests.
+`Prompt:`
 
-Prompt:
+`"You are an E-commerce Price Match Script Creator. Write scripts for handling price match claims.`
 
-"You are an E-commerce Price Match Script Creator. Write scripts for handling price match claims.
-
+```
 Tasks:
 
 1. Write 3 scripts for approving requests with confirmation of new price.
@@ -2039,29 +2042,30 @@ Tasks:
 4. Include polite explanation phrases for price policy rules.
 
 5. Add placeholders for competitor URL and price difference details.
-
-Output format:
-
+```
+`Output format:`
+```
 1. Price Match Script Pack (DOCX)
 
 2. Policy Reference Sheet (Excel)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Price match policy document
 
 2. Competitor monitoring tool data."
+```
+## Prompt 9 — Educating Customers on Product Care & Maintenance
 
-Prompt 9 — Educating Customers on Product Care & Maintenance
+`Backstory: A customer bought handcrafted leather shoes and wants guidance on care to extend product life.`
 
-Backstory: A customer bought handcrafted leather shoes and wants guidance on care to extend product life.
+`Goal: Provide friendly scripts that educate customers post-purchase.`
 
-Goal: Provide friendly scripts that educate customers post-purchase.
+`Prompt:`
 
-Prompt:
+`"You are an E-commerce Customer Education Writer. Create scripts on product care and maintenance.`
 
-"You are an E-commerce Customer Education Writer. Create scripts on product care and maintenance.
-
+```
 Tasks:
 
 1. Write 3 email templates with care tips and product usage advice.
@@ -2073,29 +2077,30 @@ Tasks:
 4. Maintain brand personality in tone (e.g., luxury, eco-friendly).
 
 5. Include placeholders for product type and care schedule.
-
-Output format:
-
+```
+`Output format:`
+```
 1. Product Care Script Pack (DOCX)
 
 2. Care Tips Resource Sheet (Excel)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Manufacturer’s care guidelines
 
 2. Product material specs."
+```
+## Prompt 10 — Managing Subscription Cancellations
 
-Prompt 10 — Managing Subscription Cancellations
+`Backstory: A customer subscribed to your gourmet coffee delivery service but now wants to cancel citing “too much stock at home.”`
 
-Backstory: A customer subscribed to your gourmet coffee delivery service but now wants to cancel citing “too much stock at home.”
+`Goal: Reduce churn by offering pauses, plan changes, or incentives instead of outright cancellation.`
 
-Goal: Reduce churn by offering pauses, plan changes, or incentives instead of outright cancellation.
+`Prompt:`
 
-Prompt:
+`"You are a Customer Retention Script Specialist. Write scripts for handling subscription cancellations.`
 
-"You are a Customer Retention Script Specialist. Write scripts for handling subscription cancellations.
-
+```
 Tasks:
 
 1. Write 3 retention scripts offering plan pause or reduced frequency.
@@ -2107,29 +2112,30 @@ Tasks:
 4. Add follow-up scripts to re-engage after 3 months.
 
 5. Maintain a non-pushy yet persuasive tone.
-
-Output format:
-
+```
+`Output format:`
+```
 1. Retention Script Pack (DOCX)
 
 2. Follow-up Calendar (Excel)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Subscription terms
 
 2. Customer purchase history."
+```
+## Prompt 11 — Assisting Customers with Account Login Issues
 
-Prompt 11 — Assisting Customers with Account Login Issues
+`Backstory: A customer is unable to log in to their account to track an order of limited-edition sneakers. They fear missing delivery updates.`
 
-Backstory: A customer is unable to log in to their account to track an order of limited-edition sneakers. They fear missing delivery updates.
+`Goal: Provide scripts that quickly help regain access while ensuring security.`
 
-Goal: Provide scripts that quickly help regain access while ensuring security.
+`Prompt:`
 
-Prompt:
+`"You are an Account Access Support Specialist. Write scripts for login issue resolution.`
 
-"You are an Account Access Support Specialist. Write scripts for login issue resolution.
-
+```
 Tasks:
 
 1. Write 3 live chat scripts with step-by-step recovery instructions.
@@ -2141,29 +2147,30 @@ Tasks:
 4. Suggest follow-up scripts confirming issue resolution.
 
 5. Add placeholders for password reset links and support ticket IDs.
-
-Output format:
-
+```
+`Output format:`
+```
 1. Login Issue Script Pack (DOCX)
 
 2. Recovery Process Checklist (Excel)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Account recovery SOP
 
 2. Security guidelines."
+```
+## Prompt 12 — Addressing “Item Missing from Order” Complaints
 
-Prompt 12 — Addressing “Item Missing from Order” Complaints
+`Backstory: A customer ordered a gift hamper with 5 items, but one snack pack was missing.`
 
-Backstory: A customer ordered a gift hamper with 5 items, but one snack pack was missing.
+`Goal: Resolve missing item issues promptly while maintaining customer trust.`
 
-Goal: Resolve missing item issues promptly while maintaining customer trust.
+`Prompt:`
 
-Prompt:
+`"You are an Order Fulfilment Issue Specialist. Write scripts for missing item complaints.`
 
-"You are an Order Fulfilment Issue Specialist. Write scripts for missing item complaints.
-
+```
 Tasks:
 
 1. Write 3 apology scripts for email/chat.
@@ -2175,19 +2182,19 @@ Tasks:
 4. Include investigation notes for warehouse team.
 
 5. Add placeholders for order ID and missing item name.
-
-Output format:
-
+```
+`Output format:`
+```
 1. Missing Item Resolution Script Pack (DOCX)
 
 2. Warehouse Investigation Sheet (Excel)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Packing SOP
 
 2. Order history logs."
-
+```
 Prompt 13 — Explaining Delivery Delays Due to Weather/Natural Events
 
 Backstory: A customer’s frozen dessert order is delayed due to severe rains affecting logistics.
