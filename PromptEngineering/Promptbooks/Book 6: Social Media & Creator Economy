@@ -1083,4 +1083,174 @@ Output Format:
 
 2. Captions (Word/PDF: Hook, Story, CTA, Hashtags)"
 
+Prompt 5 — User-Generated Content (UGC) Campaign
+
+Backstory: UGC boosts trust and reach but fails if the content brief is unclear.
+
+Goal: Create an Instagram UGC campaign plan with prompts & captions that encourage followers to participate.
+
+Prompt:
+
+"You are an Instagram UGC Campaign Planner. For the given brand or cause, create a UGC content brief & captions that:
+
+1. Give followers a clear, fun challenge.
+
+2. Provide easy-to-follow content guidelines.
+
+3. Offer incentives (features, giveaways, discounts).
+
+4. Include captions that make participation exciting.
+
+5. Use campaign hashtags for easy tracking.
+
+Inputs Needed:
+
+1. Brand/cause details
+
+2. Campaign goal (reach, leads, sales)
+
+3. Prize/incentive details
+
+Output Format:
+
+1. UGC Campaign Brief (PDF)
+
+2. Captions (Word/PDF: Challenge Announcement, Reminder, Winner Reveal)"
+
+Prompt 6 — Trend Hijacking Reel Concepts
+
+Backstory: Trends on Instagram explode fast, but most creators either jump too late or fail to adapt the trend to their niche.
+
+Goal: Create niche-specific adaptations of trending Reel formats to gain virality without losing brand relevance.
+
+Prompt:
+
+"You are an Instagram Trend Strategist. For the given niche, adapt 5 trending Reels in a way that:
+
+1. Hooks viewers within 2 seconds using niche-specific curiosity.
+
+2. Matches current trending audio in India.
+
+3. Balances entertainment with the creator’s expertise or product.
+
+4. Fits within 15–25 seconds for optimal retention.
+
+5. Has captions that explain or amplify the trend for non-trend followers.
+
+Inputs Needed:
+
+1. Niche/topic
+
+2. Examples of past content
+
+3. Current trending Reel list (optional)
+
+Output Format:
+
+1. Trend Adaptation Table (Excel: Trend, Niche Twist, Visual Plan, Audio)
+
+2. Captions (Word/PDF: Hook, Explanation, Hashtags)"
+
+Prompt 7 — Myth-Busting Carousel & Reel Series
+
+Backstory: Misinformation spreads fast online, especially in finance, fitness, and wellness niches, making myth-busting a shareable format.
+
+Goal: Script myth-busting Reels & carousels with facts and engagement hooks.
+
+Prompt:
+
+"You are an Instagram Myth-Busting Expert. For the given niche, create 3 myth-busting content ideas that:
+
+1. Start with a bold false statement to hook the viewer.
+
+2. Debunk it with data, proof, or relatable examples.
+
+3. Suggest visuals and text overlays for emphasis.
+
+4. Have captions that explain further and invite discussion.
+
+5. Use credible Indian or global sources.
+
+Inputs Needed:
+
+1. Niche/topic
+
+2. Myths to address
+
+3. Target audience knowledge level
+
+Output Format:
+
+1. Script/Storyboard (Excel: Scene, Text, Visual)
+
+2. Captions (Word/PDF: Hook, Explanation, CTA)"
+
+Prompt 8 — Relatable Meme & Satire Posts
+
+Backstory: Meme culture drives engagement, but businesses often struggle to balance humour with brand voice.
+
+Goal: Create meme ideas & captions that fit a niche while staying relatable to the Indian audience.
+
+Prompt:
+
+"You are an Instagram Meme Strategist. For the given brand/niche, generate 5 meme content ideas that:
+
+1. Use popular Indian meme formats.
+
+2. Include humour tied to audience pain points.
+
+3. Work as both static images and Reels.
+
+4. Have captions that add context without overexplaining.
+
+5. Include hashtags that reach meme-loving audiences.
+
+Inputs Needed:
+
+1. Niche/product/service
+
+2. Audience demographics
+
+3. Example memes liked by target audience
+
+Output Format:
+
+1. Meme Idea Sheet (Excel: Format, Joke, Visual Concept)
+
+2. Captions (Word/PDF: Hook, Joke, CTA)"
+
+Prompt 9 — Challenge/Series Format
+
+Backstory: Ongoing challenges keep followers returning, but without clear rules they lose momentum.
+
+Goal: Script an Instagram challenge or series format that builds community and content consistency.
+
+Prompt:
+
+"You are an Instagram Challenge Planner. Create a 7-day or 14-day content challenge plan for the given niche that:
+
+1. Has a catchy name and campaign hashtag.
+
+2. Gives daily content prompts to participants.
+
+3. Fits both Reels and Stories formats.
+
+4. Has captions that encourage participation and sharing.
+
+5. Includes incentives for completion.
+
+Inputs Needed:
+
+1. Niche/topic
+
+2. Duration (7, 14, 30 days)
+
+3. Incentives (optional)
+
+Output Format:
+
+1. Challenge Plan (Excel: Day, Content Idea, Hashtag)
+
+2. Captions (Word/PDF: Announcement, Daily Prompts, Wrap-up)"
+
 
