@@ -4345,7 +4345,7 @@ Your task:
 
 5. Include integration with ERP and BI systems.
 ```
-`Output format: Simulation Tool Plan (Word) + Sample Dashboard Layout (PNG).
+`Output format: Simulation Tool Plan (Word) + Sample Dashboard Layout (PNG).`
 
 `Input Files & Code Section:`
 ```
