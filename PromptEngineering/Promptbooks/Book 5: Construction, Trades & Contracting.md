@@ -396,16 +396,17 @@ Your task:
 
 3. Landlord-tenant agreement details.
 ```
-Prompt 13 — Data Center BOQ with Redundancy Systems
+## Prompt 13 — Data Center BOQ with Redundancy Systems
 
-Backstory: An IT firm is building a Tier III data center in Noida. The BOQ must cover specialized infrastructure like raised flooring, precision cooling, UPS systems, and fire suppression.
+`Backstory: An IT firm is building a Tier III data center in Noida. The BOQ must cover specialized infrastructure like raised flooring, precision cooling, UPS systems, and fire suppression.`
 
-Goal: Prepare a BOQ for a high-availability data center.
+`Goal: Prepare a BOQ for a high-availability data center.`
 
-Prompt:
+`Prompt:`
 
-"You are a Data Center Construction Estimator. Prepare a BOQ for a Tier III data center with redundancy in all critical systems.
+`"You are a Data Center Construction Estimator. Prepare a BOQ for a Tier III data center with redundancy in all critical systems.`
 
+```
 Your task:
 
 1. Include civil, structural, and MEP works.
@@ -417,27 +418,28 @@ Your task:
 4. Add gas-based fire suppression systems.
 
 5. Ensure compliance with Uptime Institute standards.
+```
+`Output format: BOQ Spreadsheet (Excel) + Tier III Compliance Checklist (PDF).`
 
-Output format: BOQ Spreadsheet (Excel) + Tier III Compliance Checklist (PDF).
-
-Input Files & Code Section:
-
+`Input Files & Code Section:`
+```
 1. Data center layout drawings.
 
 2. IT equipment load requirements.
 
 3. Fire safety guidelines."
+```
+## Prompt 14 — Factory Expansion BOQ
 
-Prompt 14 — Factory Expansion BOQ
+`Backstory: A manufacturing company is expanding its existing facility to include a new production line and warehouse. The BOQ must integrate with the existing structure and utilities.`
 
-Backstory: A manufacturing company is expanding its existing facility to include a new production line and warehouse. The BOQ must integrate with the existing structure and utilities.
+`Goal: Create a BOQ for an industrial factory expansion.`
 
-Goal: Create a BOQ for an industrial factory expansion.
+`Prompt:`
+`
+`"You are an Industrial Facility Estimator. Create a BOQ for expanding an existing factory to include a new production line and storage space.`
 
-Prompt:
-
-"You are an Industrial Facility Estimator. Create a BOQ for expanding an existing factory to include a new production line and storage space.
-
+```
 Your task:
 
 1. Include site works, foundation, and building extensions.
@@ -449,27 +451,28 @@ Your task:
 4. Provide equipment installation cost estimates.
 
 5. Add safety compliance costs for industrial operations.
+```
+`Output format: BOQ Spreadsheet (Excel) + Expansion Integration Plan (PDF).`
 
-Output format: BOQ Spreadsheet (Excel) + Expansion Integration Plan (PDF).
-
-Input Files & Code Section:
-
+`Input Files & Code Section:`
+```
 1. Current facility layout.
 
 2. New production line equipment list.
 
 3. Site survey report."
+```
+## Prompt 15 — Stadium Construction BOQ
 
-Prompt 15 — Stadium Construction BOQ
+`Backstory: A state government is constructing a 40,000-seat cricket stadium. The BOQ must include both sports-specific infrastructure and public amenities.`
 
-Backstory: A state government is constructing a 40,000-seat cricket stadium. The BOQ must include both sports-specific infrastructure and public amenities.
+`Goal: Prepare a BOQ for a large stadium construction project.`
 
-Goal: Prepare a BOQ for a large stadium construction project.
+`Prompt:`
 
-Prompt:
+`"You are a Sports Infrastructure Estimator. Prepare a BOQ for a 40,000-seat cricket stadium in Ahmedabad.`
 
-"You are a Sports Infrastructure Estimator. Prepare a BOQ for a 40,000-seat cricket stadium in Ahmedabad.
-
+```
 Your task:
 
 1. Include civil works for seating stands, pavilions, and pitch area.
@@ -481,27 +484,28 @@ Your task:
 4. Provide costs for player facilities and VIP boxes.
 
 5. Ensure BOQ aligns with ICC cricket stadium guidelines.
+```
+`Output format: BOQ Spreadsheet (Excel) + Stadium Compliance Checklist (PDF).`
 
-Output format: BOQ Spreadsheet (Excel) + Stadium Compliance Checklist (PDF).
-
-Input Files & Code Section:
-
+`Input Files & Code Section:`
+```
 1. Stadium master plan drawings.
 
 2. Seating and amenities specifications.
 
 3. Sports governing body guidelines."
+```
+## Prompt 16 — Metro Station Construction BOQ
 
-Prompt 16 — Metro Station Construction BOQ
+`Backstory: A new metro line in Chennai requires a detailed BOQ for an underground station. The BOQ must include civil, structural, architectural, and MEP works, along with safety systems for public transport.`
 
-Backstory: A new metro line in Chennai requires a detailed BOQ for an underground station. The BOQ must include civil, structural, architectural, and MEP works, along with safety systems for public transport.
+`Goal: Prepare a BOQ for a metro station with underground construction.`
 
-Goal: Prepare a BOQ for a metro station with underground construction.
+`Prompt:`
 
-Prompt:
+`"You are a Public Transit Infrastructure Estimator. Prepare a BOQ for constructing an underground metro station in Chennai.`
 
-"You are a Public Transit Infrastructure Estimator. Prepare a BOQ for constructing an underground metro station in Chennai.
-
+```
 Your task:
 
 1. Include excavation, tunneling, and structural works.
@@ -513,27 +517,28 @@ Your task:
 4. Provide provisions for escalators, elevators, and ticketing systems.
 
 5. Ensure BOQ meets Metro Rail Safety standards.
+```
+`Output format: BOQ Spreadsheet (Excel) + Safety Compliance Checklist (PDF).`
 
-Output format: BOQ Spreadsheet (Excel) + Safety Compliance Checklist (PDF).
-
-Input Files & Code Section:
-
+`Input Files & Code Section:`
+```
 1. Metro station architectural drawings.
 
 2. MEP system design documents.
 
 3. Metro rail construction guidelines."
+```
+## Prompt 17 — Airport Terminal BOQ
 
-Prompt 17 — Airport Terminal BOQ
+`Backstory: A regional airport is expanding its passenger terminal to handle double the current capacity. The BOQ must integrate high-tech security systems and baggage handling facilities.`
 
-Backstory: A regional airport is expanding its passenger terminal to handle double the current capacity. The BOQ must integrate high-tech security systems and baggage handling facilities.
+`Goal: Prepare a BOQ for an airport terminal expansion.`
 
-Goal: Prepare a BOQ for an airport terminal expansion.
+`Prompt:`
 
-Prompt:
+`"You are an Airport Facility Estimator. Prepare a BOQ for expanding a regional airport passenger terminal.`
 
-"You are an Airport Facility Estimator. Prepare a BOQ for expanding a regional airport passenger terminal.
-
+```
 Your task:
 
 1. Include civil works, roofing, and glass façade systems.
@@ -545,27 +550,28 @@ Your task:
 4. Provide separate estimates for public and restricted areas.
 
 5. Follow DGCA (Directorate General of Civil Aviation) guidelines.
+```
+`Output format: BOQ Spreadsheet (Excel) + Terminal Systems Specification Sheet (PDF).`
 
-Output format: BOQ Spreadsheet (Excel) + Terminal Systems Specification Sheet (PDF).
-
-Input Files & Code Section:
-
+`Input Files & Code Section:`
+```
 1. Terminal expansion master plan.
 
 2. Security system specifications.
 
 3. DGCA compliance documents."
+```
+## Prompt 18 — Bridge Construction BOQ
 
-Prompt 18 — Bridge Construction BOQ
+`Backstory: A 500-meter pre-stressed concrete bridge over a river needs accurate cost estimation for a government infrastructure tender. The BOQ must comply with IRC (Indian Roads Congress) standards.`
 
-Backstory: A 500-meter pre-stressed concrete bridge over a river needs accurate cost estimation for a government infrastructure tender. The BOQ must comply with IRC (Indian Roads Congress) standards.
+`Goal: Create a BOQ for a PSC (Pre-Stressed Concrete) bridge.`
 
-Goal: Create a BOQ for a PSC (Pre-Stressed Concrete) bridge.
+`Prompt:`
 
-Prompt:
+`"You are a Bridge Construction Estimator. Create a BOQ for a 500-meter pre-stressed concrete bridge.`
 
-"You are a Bridge Construction Estimator. Create a BOQ for a 500-meter pre-stressed concrete bridge.
-
+```
 Your task:
 
 1. Include piling, abutments, pier construction, and superstructure works.
@@ -577,27 +583,28 @@ Your task:
 4. Add safety railings, lighting, and signage.
 
 5. Ensure all BOQ items match IRC specifications.
+```
+`Output format: BOQ Spreadsheet (Excel) + Structural Material List (PDF).`
 
-Output format: BOQ Spreadsheet (Excel) + Structural Material List (PDF).
-
-Input Files & Code Section:
-
+`Input Files & Code Section:`
+```
 1. Bridge structural drawings.
 
 2. Soil investigation report.
 
 3. IRC standards document."
+```
+## Prompt 19 — Renewable Energy Plant BOQ
 
-Prompt 19 — Renewable Energy Plant BOQ
+`Backstory: A developer is building a 50 MW solar power plant in Rajasthan. The BOQ must cover both civil and electrical works, including panel installation and transmission lines.`
 
-Backstory: A developer is building a 50 MW solar power plant in Rajasthan. The BOQ must cover both civil and electrical works, including panel installation and transmission lines.
+`Goal: Prepare a BOQ for a solar power plant project.`
 
-Goal: Prepare a BOQ for a solar power plant project.
+`Prompt:`
 
-Prompt:
+`"You are a Renewable Energy Estimator. Prepare a BOQ for a 50 MW solar power plant in Rajasthan.`
 
-"You are a Renewable Energy Estimator. Prepare a BOQ for a 50 MW solar power plant in Rajasthan.
-
+```
 Your task:
 
 1. Include land preparation, mounting structures, and panel installation.
@@ -609,27 +616,28 @@ Your task:
 4. Add provisions for maintenance facilities.
 
 5. Follow MNRE (Ministry of New and Renewable Energy) guidelines.
+```
+`Output format: BOQ Spreadsheet (Excel) + Solar Plant Specification Sheet (PDF).`
 
-Output format: BOQ Spreadsheet (Excel) + Solar Plant Specification Sheet (PDF).
-
-Input Files & Code Section:
-
+`Input Files & Code Section:`
+```
 1. Solar plant layout.
 
 2. PV panel and inverter specifications.
 
 3. Electrical grid connection details."
+```
+## Prompt 20 — Oil & Gas Refinery BOQ
 
-Prompt 20 — Oil & Gas Refinery BOQ
+`Backstory: An oil refinery in Gujarat is adding a new processing unit. The BOQ must detail specialized piping, storage tanks, and high-pressure systems.`
 
-Backstory: An oil refinery in Gujarat is adding a new processing unit. The BOQ must detail specialized piping, storage tanks, and high-pressure systems.
+`Goal: Prepare a BOQ for refinery expansion works.`
 
-Goal: Prepare a BOQ for refinery expansion works.
+`Prompt:`
 
-Prompt:
+`"You are a Petrochemical Plant Estimator. Prepare a BOQ for an oil refinery expansion project.`
 
-"You are a Petrochemical Plant Estimator. Prepare a BOQ for an oil refinery expansion project.
-
+```
 Your task:
 
 1. Include foundation and structural steel works.
@@ -641,27 +649,28 @@ Your task:
 4. Provide estimates for process control systems.
 
 5. Ensure compliance with Oil Industry Safety Directorate (OISD) standards.
+```
+`Output format: BOQ Spreadsheet (Excel) + Piping Material Take-Off List (PDF).`
 
-Output format: BOQ Spreadsheet (Excel) + Piping Material Take-Off List (PDF).
-
-Input Files & Code Section:
-
+`Input Files & Code Section:`
+```
 1. Refinery process layout.
 
 2. Piping and instrumentation diagrams (P&ID).
 
 3. OISD standards."
+```
+## Prompt 21 — IT Park BOQ
 
-Prompt 21 — IT Park BOQ
+`Backstory: A tech company is developing a 1 million sq ft IT park in Bengaluru with multiple towers and a central amenities block. The BOQ must balance premium finishes with energy-efficient systems.`
 
-Backstory: A tech company is developing a 1 million sq ft IT park in Bengaluru with multiple towers and a central amenities block. The BOQ must balance premium finishes with energy-efficient systems.
+`Goal: Prepare a BOQ for a large commercial IT park.`
 
-Goal: Prepare a BOQ for a large commercial IT park.
+`Prompt:`
 
-Prompt:
+`"You are a Commercial Real Estate Estimator. Prepare a BOQ for a multi-tower IT park in Bengaluru.`
 
-"You are a Commercial Real Estate Estimator. Prepare a BOQ for a multi-tower IT park in Bengaluru.
-
+```
 Your task:
 
 1. Include civil, architectural, and landscaping works.
@@ -673,27 +682,28 @@ Your task:
 4. Provide separate BOQs for core and shell, and fit-outs.
 
 5. Follow IGBC (Indian Green Building Council) certification requirements.
+```
+`Output format: BOQ Spreadsheet (Excel) + Sustainability Compliance Report (PDF).`
 
-Output format: BOQ Spreadsheet (Excel) + Sustainability Compliance Report (PDF).
-
-Input Files & Code Section:
-
+`Input Files & Code Section:`
+```
 1. IT park master plan.
 
 2. Building automation specifications.
 
 3. IGBC green building checklist."
+```
+## Prompt 22 — Cold Storage Facility BOQ
 
-Prompt 22 — Cold Storage Facility BOQ
+`Backstory: A food processing company is constructing a temperature-controlled cold storage facility. The BOQ must consider insulated panels, refrigeration systems, and backup power.`
 
-Backstory: A food processing company is constructing a temperature-controlled cold storage facility. The BOQ must consider insulated panels, refrigeration systems, and backup power.
+`Goal: Prepare a BOQ for a cold storage warehouse.`
 
-Goal: Prepare a BOQ for a cold storage warehouse.
+`Prompt:`
 
-Prompt:
+`"You are a Cold Chain Infrastructure Estimator. Prepare a BOQ for a temperature-controlled cold storage facility.`
 
-"You are a Cold Chain Infrastructure Estimator. Prepare a BOQ for a temperature-controlled cold storage facility.
-
+```
 Your task:
 
 1. Include insulated wall and roof panels.
@@ -705,27 +715,28 @@ Your task:
 4. Provide estimates for loading docks and material handling equipment.
 
 5. Follow FSSAI (Food Safety and Standards Authority of India) guidelines.
+```
+`Output format: BOQ Spreadsheet (Excel) + Cold Storage System Layout (PDF).`
 
-Output format: BOQ Spreadsheet (Excel) + Cold Storage System Layout (PDF).
-
-Input Files & Code Section:
-
+`Input Files & Code Section:`
+```
 1. Cold storage layout.
 
 2. Refrigeration equipment specifications.
 
 3. FSSAI compliance documents."
+```
+## Prompt 23 — Wind Farm BOQ
 
-Prompt 23 — Wind Farm BOQ
+`Backstory: A renewable energy firm is developing a 100 MW wind farm in Tamil Nadu. The BOQ must include civil works, turbine installation, and grid connection.`
 
-Backstory: A renewable energy firm is developing a 100 MW wind farm in Tamil Nadu. The BOQ must include civil works, turbine installation, and grid connection.
+`Goal: Prepare a BOQ for a wind energy project.`
 
-Goal: Prepare a BOQ for a wind energy project.
+`Prompt:`
 
-Prompt:
+`"You are a Wind Energy Project Estimator. Prepare a BOQ for a 100 MW wind farm.`
 
-"You are a Wind Energy Project Estimator. Prepare a BOQ for a 100 MW wind farm.
-
+```
 Your task:
 
 1. Include turbine foundation works.
@@ -737,27 +748,28 @@ Your task:
 4. Add O&M (Operations & Maintenance) facility costs.
 
 5. Ensure compliance with MNRE wind project guidelines.
+```
+`Output format: BOQ Spreadsheet (Excel) + Wind Farm Material Take-Off List (PDF).`
 
-Output format: BOQ Spreadsheet (Excel) + Wind Farm Material Take-Off List (PDF).
-
-Input Files & Code Section:
-
+`Input Files & Code Section:`
+```
 1. Wind farm layout.
 
 2. Turbine specifications.
 
 3. Electrical grid connection details."
+```
+## Prompt 24 — Port Terminal BOQ
 
-Prompt 24 — Port Terminal BOQ
+`Backstory: A coastal port is adding a new cargo handling terminal. The BOQ must detail marine works, loading cranes, and bulk storage areas.`
 
-Backstory: A coastal port is adding a new cargo handling terminal. The BOQ must detail marine works, loading cranes, and bulk storage areas.
+`Goal: Prepare a BOQ for a port cargo terminal.`
 
-Goal: Prepare a BOQ for a port cargo terminal.
+`Prompt:`
 
-Prompt:
+`"You are a Marine Infrastructure Estimator. Prepare a BOQ for a new port cargo terminal.``
 
-"You are a Marine Infrastructure Estimator. Prepare a BOQ for a new port cargo terminal.
-
+```
 Your task:
 
 1. Include dredging, quay wall, and jetty construction.
@@ -769,27 +781,28 @@ Your task:
 4. Add customs and inspection facilities.
 
 5. Follow Indian Ports Association construction standards.
+```
+`Output format: BOQ Spreadsheet (Excel) + Marine Works Specification Sheet (PDF).`
 
-Output format: BOQ Spreadsheet (Excel) + Marine Works Specification Sheet (PDF).
-
-Input Files & Code Section:
-
+`Input Files & Code Section:`
+```
 1. Port terminal master plan.
 
 2. Equipment vendor quotations.
 
 3. Marine engineering guidelines."
+```
+## Prompt 25 — Smart City Infrastructure BOQ
 
-Prompt 25 — Smart City Infrastructure BOQ
+`Backstory: A city under the Smart Cities Mission is upgrading its core infrastructure. The BOQ must include roads, smart lighting, CCTV surveillance, and Wi-Fi networks.`
 
-Backstory: A city under the Smart Cities Mission is upgrading its core infrastructure. The BOQ must include roads, smart lighting, CCTV surveillance, and Wi-Fi networks.
+`Goal: Prepare a BOQ for integrated smart city infrastructure.`
 
-Goal: Prepare a BOQ for integrated smart city infrastructure.
+`Prompt:`
 
-Prompt:
+`"You are a Smart City Infrastructure Estimator. Prepare a BOQ for integrated infrastructure upgrades under the Smart Cities Mission.`
 
-"You are a Smart City Infrastructure Estimator. Prepare a BOQ for integrated infrastructure upgrades under the Smart Cities Mission.
-
+```
 Your task:
 
 1. Include civil works for roads and footpaths.
@@ -801,17 +814,17 @@ Your task:
 4. Provide costs for central command center setup.
 
 5. Ensure compliance with Smart Cities Mission guidelines.
+```
+`Output format: BOQ Spreadsheet (Excel) + IoT Device List (PDF).`
 
-Output format: BOQ Spreadsheet (Excel) + IoT Device List (PDF).
-
-Input Files & Code Section:
-
+`Input Files & Code Section:`
+```
 1. Smart city master plan.
 
 2. IoT device specifications.
 
 3. Smart Cities Mission compliance checklist."
-
+```
 
 Project scheduling & tracking
 
