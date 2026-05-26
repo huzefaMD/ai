@@ -4062,16 +4062,17 @@ Tasks:
 
 3. Ad budget allocation."
 ```   
-Prompt 12 — Hyperlocal Festive Campaigns
+## Prompt 12 — Hyperlocal Festive Campaigns
 
-Backstory: Customers in Punjab celebrate Lohri differently than customers in Tamil Nadu celebrate Pongal. Generic nationwide campaigns don’t resonate equally everywhere.
+`Backstory: Customers in Punjab celebrate Lohri differently than customers in Tamil Nadu celebrate Pongal. Generic nationwide campaigns don’t resonate equally everywhere.`
 
-Goal: Create hyperlocal seasonal sale strategies tailored to regional festivals, languages, and customs.
+`Goal: Create hyperlocal seasonal sale strategies tailored to regional festivals, languages, and customs.`
 
-Prompt:
+`Prompt:`
 
-"You are an E-commerce Hyperlocal Marketing Expert. Build region-specific seasonal campaigns for India’s top 8 states by sales volume.
+`"You are an E-commerce Hyperlocal Marketing Expert. Build region-specific seasonal campaigns for India’s top 8 states by sales volume.`
 
+```
 Tasks:
 
 1. Identify top-selling products in each state during its peak festival season.
@@ -4083,33 +4084,34 @@ Tasks:
 4. Define geo-targeted ad campaigns on Facebook, Instagram, and Google.
 
 5. Provide performance tracking metrics per region.
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. State-wise Campaign Plan (Excel)
 
 2. Language & Creative Adaptation Guide (DOCX)
 
 3. Regional Influencer List (Excel)
-
-Inputs Needed:
-
+```
+`Inputs Needed:`
+```
 1. State-wise sales data
 
 2. Product catalog with margins
+```
+`List of available language translation resources."`
 
-List of available language translation resources."
+`Prompt 13 — Limited-Time Drop Strategy`
 
-Prompt 13 — Limited-Time Drop Strategy
+`Backstory: In last year’s Diwali sale, products that were available for the full 10 days saw average engagement, while those launched mid-sale as surprise drops sold out in hours.`
 
-Backstory: In last year’s Diwali sale, products that were available for the full 10 days saw average engagement, while those launched mid-sale as surprise drops sold out in hours.
+`Goal: Implement a limited-time product drop strategy to create urgency and drive repeat visits.`
 
-Goal: Implement a limited-time product drop strategy to create urgency and drive repeat visits.
+`Prompt:`
 
-Prompt:
+`"You are a Product Launch Strategist. Design a limited-time product drop schedule for a 10-day seasonal sale.`
 
-"You are a Product Launch Strategist. Design a limited-time product drop schedule for a 10-day seasonal sale.
-
+```
 Tasks:
 
 1. Select products for surprise mid-sale launches.
@@ -4121,33 +4123,34 @@ Tasks:
 4. Suggest push notification and email timing for each drop.
 
 5. Provide post-drop engagement tactics to maintain hype.
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Drop Schedule (Excel)
 
 2. Teaser Campaign Templates (DOCX)
 
 3. Push Notification Copy (Excel)
-
-Inputs Needed:
-
+```
+`Inputs Needed:`
+```
 1. Product catalog
 
 2. Expected daily traffic
 
 3. Notification platform access."
+```
+`Prompt 14 — Cross-Category Bundling`
 
-Prompt 14 — Cross-Category Bundling
+`Backstory: During Holi, your beauty brand sells colors and skin-care products. When bundled together as a “Holi Essentials Kit,” last year’s sales doubled.`
 
-Backstory: During Holi, your beauty brand sells colors and skin-care products. When bundled together as a “Holi Essentials Kit,” last year’s sales doubled.
+`Goal: Build smart seasonal product bundles that increase average order value.`
 
-Goal: Build smart seasonal product bundles that increase average order value.
+`Prompt:`
 
-Prompt:
+`"You are an E-commerce Bundling Specialist. Create seasonal product bundles for 3 upcoming festivals.`
 
-"You are an E-commerce Bundling Specialist. Create seasonal product bundles for 3 upcoming festivals.
-
+```
 Tasks:
 
 1. Identify complementary SKUs with high margin.
@@ -4159,22 +4162,22 @@ Tasks:
 4. Set discounted bundle pricing while protecting margins.
 
 5. Create bundle-specific landing pages.
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Bundle List with Pricing (Excel)
 
 2. Packaging Concept Guide (PDF)
 
 3. Landing Page Content (DOCX)
-
-Inputs Needed:
-
+```
+`Inputs Needed:`
+```
 1. SKU-level sales & margin data
 
 2. Packaging vendor capabilities
-
-Website CMS access."
+```
+`Website CMS access."`
 
 Prompt 15 — Flash Sale Gamification
 
