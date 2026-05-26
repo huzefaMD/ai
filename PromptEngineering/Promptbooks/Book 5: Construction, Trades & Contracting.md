@@ -1,15 +1,16 @@
- BOQ preparation & estimation
+# BOQ preparation & estimation
 
-Prompt 1 — Residential Building BOQ Preparation
+## Prompt 1 — Residential Building BOQ Preparation
 
-Backstory: You are bidding for a mid-sized residential apartment construction project in Pune. The client has provided architectural drawings, but there’s no BOQ. You need to create a detailed BOQ covering civil works, electrical, plumbing, and finishing. Accuracy is critical because overestimation will lose you the contract, and underestimation will cause losses during execution.
+`Backstory: You are bidding for a mid-sized residential apartment construction project in Pune. The client has provided architectural drawings, but there’s no BOQ. You need to create a detailed BOQ covering civil works, electrical, plumbing, and finishing. Accuracy is critical because overestimation will lose you the contract, and underestimation will cause losses during execution.`
 
-Goal: Prepare a complete BOQ for a G+4 residential building project.
+`Goal: Prepare a complete BOQ for a G+4 residential building project.`
 
-Prompt:
+`Prompt:`
 
-"You are a Construction Quantity Surveyor. Prepare a complete Bill of Quantities (BOQ) for a 5-storey residential building in Pune based on the provided architectural and structural drawings.
+`"You are a Construction Quantity Surveyor. Prepare a complete Bill of Quantities (BOQ) for a 5-storey residential building in Pune based on the provided architectural and structural drawings.`
 
+```
 Your task:
 
 1. Break down BOQ into major work categories (Earthwork, Foundation, RCC Structure, Masonry, Plastering, Flooring, Electrical, Plumbing, Painting).
@@ -21,27 +22,28 @@ Your task:
 4. Add 5% contingency allowance.
 
 5. Provide a final summary table for total project cost.
+```
+`Output format: BOQ Spreadsheet (Excel) + Summary Report (PDF).`
 
-Output format: BOQ Spreadsheet (Excel) + Summary Report (PDF).
-
-Input Files & Code Section:
-
+`Input Files & Code Section:`
+```
 1. Architectural and structural drawings (PDF/DWG).
 
 2. Local material and labor rate sheet.
 
 3. Site location details."
+```
+## Prompt 2 — Commercial Interior Fit-Out Estimation
 
-Prompt 2 — Commercial Interior Fit-Out Estimation
+`Backstory: You are working on an office interior project for a 20,000 sq ft IT company. The client needs a cost breakdown before approving the design. You have layout plans but no finalized BOQ.`
 
-Backstory: You are working on an office interior project for a 20,000 sq ft IT company. The client needs a cost breakdown before approving the design. You have layout plans but no finalized BOQ.
+`Goal: Estimate material and labor requirements with unit costs for commercial interior work.`
 
-Goal: Estimate material and labor requirements with unit costs for commercial interior work.
+`Prompt:`
 
-Prompt:
+`"You are an Interior Fit-Out Estimator. Create a BOQ for the interior fit-out of a 20,000 sq ft IT office space.`
 
-"You are an Interior Fit-Out Estimator. Create a BOQ for the interior fit-out of a 20,000 sq ft IT office space.
-
+```
 Your task:
 
 1. Break down the BOQ into partitions, ceilings, flooring, furniture, electrical, HVAC, and networking.
@@ -53,27 +55,28 @@ Your task:
 4. Apply GST and other applicable taxes.
 
 5. Present a total project estimate with payment milestones.
+```
+`Output format: BOQ Spreadsheet (Excel) + Cost Estimate Report (PDF).`
 
-Output format: BOQ Spreadsheet (Excel) + Cost Estimate Report (PDF).
-
-Input Files & Code Section:
-
+`Input Files & Code Section:`
+```
 1. Office layout drawings (AutoCAD/PDF).
 
 2. Design material specifications.
 
 3. Local contractor rate sheet."
+```
+## Prompt 3 — Road Construction BOQ with Layer Specifications
 
-Prompt 3 — Road Construction BOQ with Layer Specifications
+`Backstory: Your company is bidding for a 5 km rural road construction under the PMGSY (Pradhan Mantri Gram Sadak Yojana). You need to submit a BOQ that matches the tender’s technical specifications.`
 
-Backstory: Your company is bidding for a 5 km rural road construction under the PMGSY (Pradhan Mantri Gram Sadak Yojana). You need to submit a BOQ that matches the tender’s technical specifications.
+`Goal: Prepare a BOQ with granular detail on each road construction layer.`
 
-Goal: Prepare a BOQ with granular detail on each road construction layer.
+`Prompt:`
 
-Prompt:
+`"You are a Highway Quantity Estimator. Create a BOQ for a 5 km rural bituminous road as per PMGSY standards.`
 
-"You are a Highway Quantity Estimator. Create a BOQ for a 5 km rural bituminous road as per PMGSY standards.
-
+```
 Your task:
 
 1. Break down into site clearance, subgrade preparation, granular sub-base, wet mix macadam, bituminous layers, and road marking.
@@ -85,27 +88,28 @@ Your task:
 4. Add costs for machinery usage.
 
 5. Provide a project timeline cost flow chart.
+```
+`Output format: BOQ Spreadsheet (Excel) + Layer Specification Sheet (PDF).`
 
-Output format: BOQ Spreadsheet (Excel) + Layer Specification Sheet (PDF).
-
-Input Files & Code Section:
-
+`Input Files & Code Section:`
+```
 1. Road alignment drawings.
 
 2. MORTH specification document.
 
 3. Local road construction rates."
+```
+## Prompt 4 — High-Rise Steel Structure BOQ
 
-Prompt 4 — High-Rise Steel Structure BOQ
+`Backstory: You have been assigned to prepare a BOQ for a 15-storey commercial steel frame structure in Mumbai. Steel rates fluctuate heavily, so the BOQ must include a price adjustment clause.`
 
-Backstory: You have been assigned to prepare a BOQ for a 15-storey commercial steel frame structure in Mumbai. Steel rates fluctuate heavily, so the BOQ must include a price adjustment clause.
+`Goal: Accurately calculate steel tonnage and related construction items for cost estimation.`
 
-Goal: Accurately calculate steel tonnage and related construction items for cost estimation.
+`Prompt:`
 
-Prompt:
+`"You are a Structural Estimation Expert. Prepare a BOQ for a 15-storey steel structure commercial building in Mumbai.`
 
-"You are a Structural Estimation Expert. Prepare a BOQ for a 15-storey steel structure commercial building in Mumbai.
-
+```
 Your task:
 
 1. Calculate structural steel tonnage from drawings.
@@ -117,27 +121,28 @@ Your task:
 4. Include connection bolts, welds, and other consumables.
 
 5. Add a steel price fluctuation adjustment clause in the estimate.
+```
+`Output format: BOQ Spreadsheet (Excel) + Steel Price Adjustment Clause (Word).`
 
-Output format: BOQ Spreadsheet (Excel) + Steel Price Adjustment Clause (Word).
-
-Input Files & Code Section:
-
+`Input Files & Code Section:`
+```
 1. Structural steel drawings.
 
 2. Local steel supplier rate sheet.
 
 3. Project location details."
+```
+## Prompt 5 — Affordable Housing Project BOQ for Government Tender
 
-Prompt 5 — Affordable Housing Project BOQ for Government Tender
+`Backstory: You’re participating in a government affordable housing scheme tender where cost transparency and adherence to standard rates are mandatory. BOQ must follow CPWD (Central Public Works Department) norms.`
 
-Backstory: You’re participating in a government affordable housing scheme tender where cost transparency and adherence to standard rates are mandatory. BOQ must follow CPWD (Central Public Works Department) norms.
+`Goal: Create a government-compliant BOQ for affordable housing.`
 
-Goal: Create a government-compliant BOQ for affordable housing.
+`Prompt:`
 
-Prompt:
+`"You are a CPWD-Approved Estimator. Prepare a BOQ for an affordable housing project with 200 units as per CPWD norms.`
 
-"You are a CPWD-Approved Estimator. Prepare a BOQ for an affordable housing project with 200 units as per CPWD norms.
-
+```
 Your task:
 
 1. Follow CPWD DSR (Delhi Schedule of Rates) for unit costs.
@@ -149,17 +154,17 @@ Your task:
 4. Ensure the estimate matches tender format.
 
 5. Provide separate BOQs for civil, electrical, and plumbing works.
+```
+`Output format: BOQ Spreadsheet (Excel) + Tender Submission Document (PDF).`
 
-Output format: BOQ Spreadsheet (Excel) + Tender Submission Document (PDF).
-
-Input Files & Code Section:
-
+`Input Files & Code Section:`
+```
 1. Housing layout drawings.
 
 2. CPWD DSR rate list.
 
 3. Government tender document."
-
+```
 Prompt 6 — Renovation & Retrofit BOQ
 
 Backstory: You’re tasked with renovating a 30-year-old government office building while keeping part of it operational. The challenge is accurately estimating demolition, retrofitting, and reuse of materials while following heritage conservation guidelines.
