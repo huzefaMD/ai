@@ -3273,16 +3273,17 @@ Tasks:
 
 3. List of current signs with photos."
 ```
-Prompt 18 — Safety Audit for Offshore Construction
+## Prompt 18 — Safety Audit for Offshore Construction
 
-Backstory: An offshore oil platform construction project in the Arabian Sea requires a safety audit before heavy module installation begins. Offshore conditions increase risks of falls, weather hazards, and evacuation delays.
+`Backstory: An offshore oil platform construction project in the Arabian Sea requires a safety audit before heavy module installation begins. Offshore conditions increase risks of falls, weather hazards, and evacuation delays.`
 
-Goal: Perform a safety audit tailored to offshore construction conditions.
+`Goal: Perform a safety audit tailored to offshore construction conditions.`
 
-Prompt:
+`Prompt:`
 
-"You are an Offshore Construction Safety Auditor. Audit safety compliance for an offshore oil platform project.
+`"You are an Offshore Construction Safety Auditor. Audit safety compliance for an offshore oil platform project.`
 
+```
 Tasks:
 
 1. Inspect fall protection and lifeboat readiness.
@@ -3294,33 +3295,34 @@ Tasks:
 4. Ensure compliance with IMO and DGS (Directorate General of Shipping) standards.
 
 5. Recommend offshore-specific PPE upgrades.
-
-Output format:
-
+```
+`Output format:`
+```
 1. Offshore Safety Audit Report (PDF)
 
 2. Evacuation Drill Review (PDF)
 
 3. PPE Upgrade Recommendation List (Excel)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Offshore project scope document
 
 2. List of available safety equipment
 
 3. Emergency response procedures."
+```
+## Prompt 19 — Safety Compliance for Temporary Structures
 
-Prompt 19 — Safety Compliance for Temporary Structures
+`Backstory: A stadium renovation in Delhi requires multiple temporary structures such as grandstands, walkways, and storage sheds. Local authorities require a safety compliance report before public events.`
 
-Backstory: A stadium renovation in Delhi requires multiple temporary structures such as grandstands, walkways, and storage sheds. Local authorities require a safety compliance report before public events.
+`Goal: Audit safety of temporary structures for stability, load capacity, and public safety compliance.`
 
-Goal: Audit safety of temporary structures for stability, load capacity, and public safety compliance.
+`Prompt:`
 
-Prompt:
+`"You are a Temporary Structure Safety Auditor. Conduct a compliance audit for temporary structures at a stadium renovation site.`
 
-"You are a Temporary Structure Safety Auditor. Conduct a compliance audit for temporary structures at a stadium renovation site.
-
+```
 Tasks:
 
 1. Verify structural stability under expected loads.
@@ -3332,33 +3334,34 @@ Tasks:
 4. Document maintenance schedules.
 
 5. Recommend reinforcement or replacement if needed.
-
-Output format:
-
+```
+`Output format:`
+```
 1. Temporary Structure Safety Report (PDF)
 
 2. Structural Inspection Checklist (Excel)
 
 3. Photo Documentation (JPEG)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Structure design drawings
 
 2. Load capacity calculations
 
 3. Event safety guidelines."
+```
+## Prompt 20 — Health & Hygiene Compliance Audit
 
-Prompt 20 — Health & Hygiene Compliance Audit
+`Backstory: A large construction camp in Odisha houses over 2,000 workers. Recent complaints about sanitation and drinking water prompted a government health inspection notice.`
 
-Backstory: A large construction camp in Odisha houses over 2,000 workers. Recent complaints about sanitation and drinking water prompted a government health inspection notice.
+`Goal: Audit health and hygiene compliance to prevent penalties and disease outbreaks.`
 
-Goal: Audit health and hygiene compliance to prevent penalties and disease outbreaks.
+`Prompt:`
 
-Prompt:
+`"You are a Construction Camp Health & Hygiene Auditor. Audit and document compliance for worker accommodations.`
 
-"You are a Construction Camp Health & Hygiene Auditor. Audit and document compliance for worker accommodations.
-
+```
 Tasks:
 
 1. Inspect sanitation facilities for cleanliness and availability.
@@ -3370,33 +3373,34 @@ Tasks:
 4. Ensure compliance with local labor welfare laws.
 
 5. Recommend immediate and long-term improvements.
-
-Output format:
-
+```
+`Output format:`
+```
 1. Health & Hygiene Compliance Report (PDF)
 
 2. Water Test Results (Excel)
 
 3. Corrective Action Plan (DOCX)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Camp layout
 
 2. Water test kits or reports
 
 3. Sanitation facility inventory."
+```
+## Prompt 21 — Safety Compliance for Heavy Machinery Operations
 
-Prompt 21 — Safety Compliance for Heavy Machinery Operations
+`Backstory: A mining equipment installation project in Chhattisgarh has multiple heavy excavators, loaders, and trucks in operation. Safety officers must verify compliance before production starts.`
 
-Backstory: A mining equipment installation project in Chhattisgarh has multiple heavy excavators, loaders, and trucks in operation. Safety officers must verify compliance before production starts.
+`Goal: Conduct a safety audit for heavy machinery operations.`
 
-Goal: Conduct a safety audit for heavy machinery operations.
+`Prompt:`
 
-Prompt:
+`"You are a Heavy Machinery Safety Auditor. Conduct a safety compliance check for heavy equipment operations.`
 
-"You are a Heavy Machinery Safety Auditor. Conduct a safety compliance check for heavy equipment operations.
-
+```
 Tasks:
 
 1. Verify operator licenses and training.
@@ -3408,33 +3412,34 @@ Tasks:
 4. Ensure traffic management plans are in place.
 
 5. Recommend operator refresher training programs.
-
-Output format:
-
+```
+`Output format:`
+```
 1. Machinery Safety Audit Report (PDF)
 
 2. Traffic Management Plan Review (DOCX)
 
 3. Operator Training Schedule (Excel)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Operator roster
 
 2. Maintenance logs
 
 3. Traffic management plan."
+```
+## Prompt 22 — Safety Management System Gap Analysis
 
-Prompt 22 — Safety Management System Gap Analysis
+`Backstory: A tier-1 infrastructure company is preparing for ISO 45001 certification. They require a gap analysis of their existing safety management system (SMS).`
 
-Backstory: A tier-1 infrastructure company is preparing for ISO 45001 certification. They require a gap analysis of their existing safety management system (SMS).
+`Goal: Identify gaps and recommend upgrades to achieve ISO 45001 compliance.`
 
-Goal: Identify gaps and recommend upgrades to achieve ISO 45001 compliance.
+`Prompt:`
 
-Prompt:
+`"You are a Safety Management System Consultant. Perform a gap analysis for an infrastructure company’s SMS.`
 
-"You are a Safety Management System Consultant. Perform a gap analysis for an infrastructure company’s SMS.
-
+```
 Tasks:
 
 1. Review current safety policies and procedures.
@@ -3446,33 +3451,34 @@ Tasks:
 4. Recommend corrective measures with timelines.
 
 5. Prepare a certification readiness report.
-
-Output format:
-
+```
+`Output format:`
+```
 1. Gap Analysis Report (PDF)
 
 2. Corrective Action Plan (Excel)
 
 3. ISO 45001 Compliance Checklist (DOCX)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Current SMS documentation
 
 2. Incident records
 
 3. ISO 45001 standard copy."
+```
+## Prompt 23 — Safety Culture Survey & Improvement Plan
 
-Prompt 23 — Safety Culture Survey & Improvement Plan
+`Backstory: A metro rail project consortium wants to measure the safety culture among employees and subcontractors to reduce incident rates.`
 
-Backstory: A metro rail project consortium wants to measure the safety culture among employees and subcontractors to reduce incident rates.
+`Goal: Conduct a safety culture survey and create an improvement plan.`
 
-Goal: Conduct a safety culture survey and create an improvement plan.
+`Prompt:
 
-Prompt:
+`"You are a Workplace Safety Culture Specialist. Conduct a safety culture survey for a metro rail project.`
 
-"You are a Workplace Safety Culture Specialist. Conduct a safety culture survey for a metro rail project.
-
+```
 Tasks:
 
 1. Design survey questions to assess safety attitudes.
@@ -3484,33 +3490,34 @@ Tasks:
 4. Recommend awareness programs and incentives.
 
 5. Prepare an annual improvement roadmap.
-
-Output format:
-
+```
+`Output format:`
+```
 1. Safety Culture Survey Report (PDF)
 
 2. Survey Questionnaire (DOCX)
 
 3. Improvement Roadmap (Excel)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Employee list
 
 2. Existing safety training records
 
 3. Past incident data."
+```
+## Prompt 24 — Safety Induction Program for New Hires
 
-Prompt 24 — Safety Induction Program for New Hires
+`Backstory: A steel plant construction in Jharkhand has 300 new hires joining in the next month. Management requires a standardized safety induction before they start work.`
 
-Backstory: A steel plant construction in Jharkhand has 300 new hires joining in the next month. Management requires a standardized safety induction before they start work.
+`Goal: Create a comprehensive safety induction program.`
 
-Goal: Create a comprehensive safety induction program.
+`Prompt:`
 
-Prompt:
+`"You are a Safety Induction Program Designer. Prepare a training plan for 300 new hires at a steel plant construction site.`
 
-"You are a Safety Induction Program Designer. Prepare a training plan for 300 new hires at a steel plant construction site.
-
+```
 Tasks:
 
 1. Develop induction presentation and handouts.
@@ -3522,33 +3529,34 @@ Tasks:
 4. Create a certification process for completion.
 
 5. Recommend refresher intervals.
-
-Output format:
-
+```
+`Output format:`
+``
 1. Induction Training Material (PPTX & PDF)
 
 2. Certification Template (DOCX)
 
 3. Attendance & Completion Log (Excel)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+``
 1. Site safety policy
 
 2. Hazard identification report
 
 3. Emergency contact list."
+```
+## Prompt 25 — Digital Safety Audit Dashboard Design
 
-Prompt 25 — Digital Safety Audit Dashboard Design
+`Backstory: A large EPC contractor wants a digital dashboard to monitor safety KPIs across multiple projects in real-time.`
 
-Backstory: A large EPC contractor wants a digital dashboard to monitor safety KPIs across multiple projects in real-time.
+`Goal: Design a safety audit dashboard specification for Power BI or Tableau.`
 
-Goal: Design a safety audit dashboard specification for Power BI or Tableau.
+`Prompt:`
 
-Prompt:
+`"You are a Construction Safety Data Analyst. Design a dashboard to track safety performance metrics for multiple projects.`
 
-"You are a Construction Safety Data Analyst. Design a dashboard to track safety performance metrics for multiple projects.
-
+```
 Tasks:
 
 1. Define KPIs such as TRIR, LTIFR, near misses, and safety training hours.
@@ -3560,23 +3568,23 @@ Tasks:
 4. Include drill-down views for project-specific details.
 
 5. Recommend automation for monthly updates.
-
-Output format:
-
+```
+`Output format:`
+```
 1. Dashboard Design Document (DOCX)
 
 2. KPI Definitions List (Excel)
 
 3. Mockup Screenshots (PNG/JPEG)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Historical safety data
 
 2. Current project list
 
 3. Data source file formats."
-
+```
 
 Client Communication & Reporting
 
