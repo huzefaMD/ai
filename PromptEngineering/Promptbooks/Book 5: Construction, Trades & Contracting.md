@@ -2965,331 +2965,7 @@ Tasks:
 
 `Backstory: A manufacturing facility under construction in Pune is required to undergo a fire safety readiness audit before commissioning. The facility stores flammable paints and chemicals.`
 
-`Goal: Verify readiness for fire safety certification.`
-
-`Prompt:`
-
-`"You are a Fire Safety Compliance Auditor. Conduct a readiness audit for a manufacturing facility.`
-
-```
-Tasks:
-
-1. Inspect fire hydrant and sprinkler system installation.
-
-2. Verify fire extinguisher placement and expiry dates.
-
-3. Check emergency lighting and exit signage.
-
-4. Review fire drill records and staff training.
-
-5. Ensure NFPA 10 and NBC compliance.
-```
-`Output format:`
-```
-1. Fire Safety Readiness Report (PDF)
-
-2. Non-Compliance Rectification Plan (Excel)
-
-3. Equipment Inventory List (Excel)
-```
-`Input Files Required:`
-```
-1. Facility fire safety design drawings
-
-2. Maintenance logs for fire equipment
-
-3. Local fire safety regulations."
-```
-## Prompt 11 — Post-Accident Safety Investigation
-
-`Backstory: At a metro tunnel construction site in Delhi, a worker injury occurred due to falling debris. The incident triggered a government-mandated safety investigation.`
-
-`Goal: Conduct a post-accident investigation and submit a compliance-focused report.`
-
-`Prompt:`
-
-`"You are a Construction Safety Investigator. Prepare a post-accident investigation report for a metro tunnel project.`
-
-```
-Tasks:
-
-1. Collect witness statements and incident photos.
-
-2. Identify root cause and contributing factors.
-
-3. Recommend corrective and preventive measures.
-
-4. Update site hazard identification register.
-
-5. Suggest policy changes for future prevention.
-```
-`Output format:`
-```
-1. Incident Investigation Report (PDF)
-
-2. Root Cause Analysis Chart (PDF)
-
-3. CAPA (Corrective and Preventive Action) Tracker (Excel)
-```
-`Input Files Required:`
-```
-1. Incident scene photos
-
-2. Witness statements
-
-3. Safety policy manual."
-```
-## Prompt 12 — Lifting Equipment Safety Certification
-
-`Backstory: A port construction project in Visakhapatnam uses multiple cranes, hoists, and derricks. Before a major lift of precast elements, the client requires third-party certification of lifting equipment.`
-
-`Goal: Certify lifting equipment for compliance and readiness.`
-
-`Prompt:`
-
-`"You are a Certified Lifting Equipment Inspector. Conduct safety certification for cranes and hoists at a port project.`
-
-```
-Tasks:
-
-1. Inspect load charts and lifting capacity compliance.
-
-2. Verify operator certifications and training.
-
-3. Check rigging equipment for wear and defects.
-
-4. Test safety devices like limit switches.
-
-5. Issue compliance certificates or defect notices.
-```
-`Output format:``
-```
-1. Lifting Equipment Safety Report (PDF)
-
-2. Certification Documents (PDF)
-
-3. Defect Rectification Tracker (Excel)
-```
-`Input Files Required:`
-```
-1. Equipment logbooks
-
-2. Operator license copies
-
-3. Manufacturer manuals."
-```
-## Prompt 13 — Noise & Dust Pollution Compliance Audit
-
-`Backstory: A commercial complex site in Kolkata has received neighborhood complaints about noise and dust levels. The local pollution control board requires a compliance audit.`
-
-`Goal: Audit environmental compliance for noise and dust control.`
-
-`Prompt:`
-
-`"You are an Environmental Compliance Auditor. Conduct a noise and dust compliance audit for a construction site.`
-
-```
-Tasks:
-
-1. Measure noise levels at boundary points.
-
-2. Test particulate matter (PM10, PM2.5) levels.
-
-3. Verify dust suppression measures.
-
-4. Ensure compliance with CPCB guidelines.
-
-5. Recommend mitigation measures.
-```
-`Output format:`
-```
-1. Compliance Audit Report (PDF)
-
-2. Test Data Charts (Excel)
-
-3. Mitigation Plan (DOCX)
-```
-`Input Files Required:`
-```
-1. Site layout with boundary points
-
-2. Dust suppression equipment list
-
-3. CPCB noise/dust standards."
-```
-## Prompt 14 — Safety Compliance for Subcontractors
-
-`Backstory: A residential project in Hyderabad employs 15 subcontractors for various works. Safety violations have been more frequent in subcontractor crews.`
-
-`Goal: Audit subcontractor safety compliance and integrate them into main safety policies.`
-
-`Prompt:`
-
-`"You are a Subcontractor Safety Auditor. Conduct a safety compliance audit for subcontractors on a residential project.`
-
-```
-Tasks:
-
-1. Review subcontractor safety manuals.
-
-2. Inspect site work practices for compliance.
-
-3. Audit PPE and equipment maintenance.
-
-4. Provide alignment plan with main contractor’s EHS policy.
-
-5. Recommend contractual penalties for repeat violations.
-```
-`Output format:`
-```
-1. Subcontractor Compliance Report (PDF)
-
-2. Compliance Gap Analysis (Excel)
-
-3. Policy Integration Plan (DOCX)
-```
-`Input Files Required:`
-```
-1. List of subcontractors and scope of work
-
-2. Main contractor’s EHS policy
-
-3. Previous safety violation records."
-```
-## Prompt 15 — Annual Safety Performance Review
-
-`Backstory: A national construction company wants a consolidated annual safety performance review for all its sites to present to shareholders and regulatory authorities.`
-
-`Goal: Prepare a corporate-level annual safety performance report.`
-
-`Prompt:`
-
-`"You are a Corporate Safety Analyst. Prepare an annual safety performance review for a national construction company.`
-
-```
-Tasks:
-
-1. Consolidate safety incident data from all sites.
-
-2. Calculate TRIR (Total Recordable Incident Rate) and LTIFR (Lost Time Injury Frequency Rate).
-
-3. Highlight major improvements and persistent gaps.
-
-4. Benchmark against industry averages.
-
-5. Provide strategic recommendations.
-```
-`Output format:`
-```
-1. Annual Safety Performance Report (PDF)
-
-2. KPI Dashboard (Excel)
-
-3. Strategic Improvement Plan (DOCX)
-```
-`Input Files Required:`
-```
-1. Site-wise safety reports
-
-2. Incident and training logs
-
-3. Industry benchmark data."
-```
-## Prompt 16 — High-Risk Activity Safety Permit System
-
-`Backstory: A petrochemical plant construction in Gujarat involves high-risk activities such as hot work, confined space entry, and work at heights. Regulatory inspectors require a proper permit-to-work (PTW) system to be implemented and audited.`
-
-`Goal: Develop and audit a PTW system to ensure only authorized personnel conduct high-risk activities.`
-
-`Prompt:`
-
-`"You are a Permit-to-Work Safety Auditor. Create and audit a PTW system for a petrochemical plant construction project.`
-
-```
-Tasks:
-
-1. Identify high-risk activities requiring permits.
-
-2. Design permit forms for each activity type.
-
-3. Set up an approval workflow for permits.
-
-4. Audit past permits for completeness and compliance.
-
-5. Recommend improvements to prevent unauthorized work.
-```
-`Output format:`
-```
-1. PTW System Manual (DOCX)
-
-2. Permit Templates (PDF/DOCX)
-
-3. PTW Compliance Audit Report (PDF)
-```
-`Input Files Required:`
-```
-1. List of high-risk activities
-
-2. Site safety policy
-
-3. Past permit records."
-```
-## Prompt 17 — Site Safety Signage Compliance
-
-`Backstory: A wind farm project in Rajasthan covers over 200 acres. Inspectors have flagged missing and unclear safety signs, risking penalties and worker confusion.`
-
-`Goal: Audit and ensure safety signage compliance across the project site.`
-
-`Prompt:`
-
-`"You are a Construction Safety Signage Specialist. Conduct a safety signage compliance audit for a wind farm project.`
-
-```
-Tasks:
-
-1. Identify required safety signs for each work zone.
-
-2. Ensure signage meets IS 9457 and IS 9458 standards.
-
-3. Check visibility, placement, and language requirements.
-
-4. Create a site signage map for quick reference.
-
-5. Recommend sign maintenance and replacement schedule.
-```
-`Output format:`
-```
-1. Signage Compliance Audit Report (PDF)
-
-2. Site Signage Map (PDF)
-
-3. Replacement Plan (Excel)
-```
-`Input Files Required:`
-```
-1. Site layout
-
-2. Signage standards document
-
-3. List of current signs with photos."
-```
-## Prompt 18 — Safety Audit for Offshore Construction
-
-`Backstory: An offshore oil platform construction project in the Arabian Sea requires a safety audit before heavy module installation begins. Offshore conditions increase risks of falls, weather hazards, and evacuation delays.`
-
-`Goal: Perform a safety audit tailored to offshore construction conditions.`
-
-`Prompt:`
-
-`"You are an Offshore Construction Safety Auditor. Audit safety compliance for an offshore oil platform project.`
-
-```
-Tasks:
-
-1. Inspect fall protection and lifeboat readiness.
-
-2. Verify offshore firefighting equipment availability.
-
+`Goal: Verify readiness for fire safety certification.`   
 3. Audit emergency medical evacuation plans.
 
 4. Ensure compliance with IMO and DGS (Directorate General of Shipping) standards.
@@ -3308,7 +2984,7 @@ Tasks:
 ```
 1. Offshore project scope document
 
-2. List of available safety equipment
+2. List of available safety equipment    
 
 3. Emergency response procedures."
 ```
@@ -4142,16 +3818,17 @@ Tasks:
 
 3. Media contact list."
 ```
-Prompt 16 — Quality Inspection Summary for Client
+## Prompt 16 — Quality Inspection Summary for Client
 
-Backstory: A pharmaceutical manufacturing plant in Vizag has completed its structural phase and is undergoing internal quality inspections for cleanrooms. The client wants a non-technical summary of inspection results.
+`Backstory: A pharmaceutical manufacturing plant in Vizag has completed its structural phase and is undergoing internal quality inspections for cleanrooms. The client wants a non-technical summary of inspection results.`
 
-Goal: Translate technical inspection data into a clear summary for executives.
+`Goal: Translate technical inspection data into a clear summary for executives.`
 
-Prompt:
+`Prompt:`
 
 "You are a Construction Quality Reporting Specialist. Prepare a client-facing summary of quality inspection results for a pharmaceutical plant in Vizag.
 
+```
 Tasks:
 
 1. Summarize inspection scope and methodology.
@@ -4163,31 +3840,32 @@ Tasks:
 4. Include compliance status with GMP standards.
 
 5. Provide next steps for achieving full compliance.
-
-Output format:
-
+````
+`Output format:`
+```
 1. Quality Inspection Summary Report (PDF)
 
 2. Defects Tracker (Excel)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Inspection checklists
 
 2. GMP compliance guidelines
 
 3. Defect photos and logs."
+```
+## Prompt 17 — Environmental Compliance Update for Client
 
-Prompt 17 — Environmental Compliance Update for Client
+`Backstory: A wind energy park in Tamil Nadu has quarterly environmental compliance reporting obligations to satisfy government and investor requirements.`
 
-Backstory: A wind energy park in Tamil Nadu has quarterly environmental compliance reporting obligations to satisfy government and investor requirements.
+`Goal: Compile a clear, visually-rich environmental compliance update.`
 
-Goal: Compile a clear, visually-rich environmental compliance update.
+`Prompt:`
 
-Prompt:
+`"You are an Environmental Compliance Reporter. Prepare a quarterly update for a wind energy park in Tamil Nadu.`
 
-"You are an Environmental Compliance Reporter. Prepare a quarterly update for a wind energy park in Tamil Nadu.
-
+```
 Tasks:
 
 1. Summarize environmental monitoring data (air, water, noise).
@@ -4199,31 +3877,32 @@ Tasks:
 4. Include mitigation actions taken.
 
 5. End with a compliance certification statement.
-
-Output format:
-
+```
+`Output format:`
+```
 1. Environmental Compliance Report (PDF)
 
 2. Trend Charts (Excel/PDF)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Monitoring data logs
 
 2. Incident reports
 
 3. Environmental permits."
+```
+## Prompt 18 — Client Contractual Deliverables Tracker
 
-Prompt 18 — Client Contractual Deliverables Tracker
+`Backstory: An IT park development in Pune has over 50 contractual deliverables tied to payment milestones. The client wants a single tracker to monitor delivery status.`
 
-Backstory: An IT park development in Pune has over 50 contractual deliverables tied to payment milestones. The client wants a single tracker to monitor delivery status.
+`Goal: Create a live tracker for contractual deliverables.`
 
-Goal: Create a live tracker for contractual deliverables.
+`Prompt:`
 
-Prompt:
+`"You are a Contract Deliverables Coordinator. Prepare a tracker for contractual deliverables for an IT park in Pune.`
 
-"You are a Contract Deliverables Coordinator. Prepare a tracker for contractual deliverables for an IT park in Pune.
-
+```
 Tasks:
 
 1. List all deliverables with deadlines.
@@ -4235,31 +3914,32 @@ Tasks:
 4. Highlight overdue deliverables in red.
 
 5. Provide space for client comments and sign-off.
-
-Output format:
-
+```
+`Output format:`
+```
 1. Deliverables Tracker (Excel/Google Sheet)
 
 2. Status Summary (PDF)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Contract document
 
 2. Payment schedule
 
 3. Current progress data."
+```
+## Prompt 19 — Client Feedback Collection Report
 
-Prompt 19 — Client Feedback Collection Report
+`Backstory: A mixed-use commercial project in Gurugram wants periodic feedback from the client to improve coordination and output.`
 
-Backstory: A mixed-use commercial project in Gurugram wants periodic feedback from the client to improve coordination and output.
+`Goal: Collect structured client feedback and turn it into an actionable report.`
 
-Goal: Collect structured client feedback and turn it into an actionable report.
+`Prompt:`
 
-Prompt:
+`"You are a Construction Client Feedback Analyst. Collect and compile feedback for a commercial project in Gurugram.`
 
-"You are a Construction Client Feedback Analyst. Collect and compile feedback for a commercial project in Gurugram.
-
+```
 Tasks:
 
 1. Design a feedback form tailored to project milestones.
@@ -4271,31 +3951,32 @@ Tasks:
 4. Highlight recurring issues.
 
 5. Recommend action items.
-
-Output format:
-
+```
+`Output format:`
+```
 1. Feedback Report (PDF)
 
 2. Feedback Data Table (Excel)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Client contact list
 
 2. Past feedback reports
 
 3. Project progress summary."
+```
+## Prompt 20 — Regulatory Submission Pack for Client
 
-Prompt 20 — Regulatory Submission Pack for Client
+`Backstory: A port expansion project in Gujarat must submit quarterly compliance reports to the Port Authority and environmental agencies. The client needs a ready-to-submit pack.`
 
-Backstory: A port expansion project in Gujarat must submit quarterly compliance reports to the Port Authority and environmental agencies. The client needs a ready-to-submit pack.
+`Goal: Prepare a complete, compliant submission pack.`
 
-Goal: Prepare a complete, compliant submission pack.
+`Prompt:`
 
-Prompt:
+`"You are a Construction Regulatory Submission Expert. Prepare a quarterly compliance submission pack for a port expansion project in Gujarat.`
 
-"You are a Construction Regulatory Submission Expert. Prepare a quarterly compliance submission pack for a port expansion project in Gujarat.
-
+```
 Tasks:
 
 1. Gather all regulatory documents and test reports.
@@ -4307,31 +3988,32 @@ Tasks:
 4. Add cover letters and declarations.
 
 5. Prepare both physical and digital versions.
-
-Output format:
-
+```
+`Output format:`
+```
 1. Submission Pack (PDF)
 
 2. Checklist of Submitted Documents (Excel)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Regulatory guidelines
 
 2. Latest test and inspection reports
 
 3. Past submission templates."
+```
+## Prompt 21 — KPI Dashboard for Client Reporting
 
-Prompt 21 — KPI Dashboard for Client Reporting
+`Backstory: A smart city infrastructure project in Bhopal spans over 3 years with multiple workstreams. The client wants a monthly KPI dashboard for high-level tracking.`
 
-Backstory: A smart city infrastructure project in Bhopal spans over 3 years with multiple workstreams. The client wants a monthly KPI dashboard for high-level tracking.
+`Goal: Design a visually interactive KPI dashboard.`
 
-Goal: Design a visually interactive KPI dashboard.
+`Prompt:`
 
-Prompt:
+`"You are a Construction Data Visualization Specialist. Design a KPI dashboard for a smart city project in Bhopal.`
 
-"You are a Construction Data Visualization Specialist. Design a KPI dashboard for a smart city project in Bhopal.
-
+```
 Tasks:
 
 1. Identify relevant KPIs (cost, schedule, quality, safety, environmental).
@@ -4343,31 +4025,32 @@ Tasks:
 4. Make it exportable for offline sharing.
 
 5. Ensure it’s mobile-friendly.
-
-Output format:
-
+```
+`Output format:`
+```
 1. KPI Dashboard File (Power BI/Tableau)
 
 2. KPI Definitions Document (DOCX)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Project KPI list
 
 2. Progress data
 
 3. Dashboard style guide."
+```
+## Prompt 22 — Client Training Material for Handover
 
-Prompt 22 — Client Training Material for Handover
+`Backstory: A university campus project in Chennai is nearing completion. The client’s facilities team needs training on operating new systems.`
 
-Backstory: A university campus project in Chennai is nearing completion. The client’s facilities team needs training on operating new systems.
+`Goal: Create training material for the client’s team.`
 
-Goal: Create training material for the client’s team.
+`Prompt:`
 
-Prompt:
+`"You are a Construction Handover Training Coordinator. Prepare training material for a university campus handover in Chennai.`
 
-"You are a Construction Handover Training Coordinator. Prepare training material for a university campus handover in Chennai.
-
+```
 Tasks:
 
 1. Document operating procedures for new systems.
@@ -4379,33 +4062,34 @@ Tasks:
 4. Provide diagrams and step-by-step visuals.
 
 5. Prepare both physical manuals and digital formats.
-
-Output format:
-
+```
+`Output format:`
+```
 1. Training Manual (PDF)
 
 2. Slide Deck (PPTX)
 
 3. Quick Reference Cards (PNG)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. System specifications
 
 2. Manufacturer manuals
 
 3. Site photographs."
+```
+## Prompt 23 — Public Communication Update for Client Approval
 
-Prompt 23 — Public Communication Update for Client Approval
+`Backstory: A flyover construction project in Noida has caused temporary traffic disruptions. The client plans to release a public update on social media.`
 
-Backstory: A flyover construction project in Noida has caused temporary traffic disruptions. The client plans to release a public update on social media.
+`Goal: Draft a professional, client-approved public statement.`
 
-Goal: Draft a professional, client-approved public statement.
+`Prompt:`
 
-Prompt:
+`"You are a Construction Public Information Writer. Draft a public update for a flyover project in Noida.`
 
-"You are a Construction Public Information Writer. Draft a public update for a flyover project in Noida.
-
+```
 Tasks:
 
 1. Explain the reason for temporary disruptions.
@@ -4417,31 +4101,32 @@ Tasks:
 4. Highlight project benefits once complete.
 
 5. Keep the tone professional yet reassuring.
-
-Output format:
-
+```
+`Output format:`
+```
 1. Public Statement (DOCX)
 
 2. Social Media Post (PNG/PDF)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Project schedule
 
 2. Traffic diversion plan
 
 3. Communication guidelines."
+```
+## Prompt 24 — End-of-Quarter Executive Summary for Client Board
 
-Prompt 24 — End-of-Quarter Executive Summary for Client Board
+`Backstory: A corporate headquarters construction in Gurugram is under the close watch of the company’s board of directors. They require quarterly executive summaries.`
 
-Backstory: A corporate headquarters construction in Gurugram is under the close watch of the company’s board of directors. They require quarterly executive summaries.
+`Goal: Create a high-level summary with visuals for board members.`
 
-Goal: Create a high-level summary with visuals for board members.
+`Prompt:`
 
-Prompt:
+`"You are a Construction Executive Reporting Specialist. Prepare an end-of-quarter summary for a corporate HQ in Gurugram.`
 
-"You are a Construction Executive Reporting Specialist. Prepare an end-of-quarter summary for a corporate HQ in Gurugram.
-
+```
 Tasks:
 
 1. Highlight progress, budget status, and key achievements.
@@ -4453,31 +4138,32 @@ Tasks:
 4. Add a one-page executive highlights sheet.
 
 5. Provide editable source files for client use.
-
-Output format:
-
+```
+`Output format:`
+```
 1. Executive Summary (PDF)
 
 2. Infographic Set (PNG)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Progress data
 
 2. Risk reports
 
 3. Financial status update."
+```
+## Prompt 25 — End-of-Defects Liability Period Report
 
-Prompt 25 — End-of-Defects Liability Period Report
+`Backstory: A government office building in Delhi has completed its 12-month defects liability period. The client requires a final report confirming all defects are resolved.`
 
-Backstory: A government office building in Delhi has completed its 12-month defects liability period. The client requires a final report confirming all defects are resolved.
+`Goal: Document the closure of defects and certify completion.`
 
-Goal: Document the closure of defects and certify completion.
+`Prompt:`
 
-Prompt:
+`"You are a Defects Liability Closure Specialist. Prepare an end-of-defects period report for a government office building in Delhi.`
 
-"You are a Defects Liability Closure Specialist. Prepare an end-of-defects period report for a government office building in Delhi.
-
+```
 Tasks:
 
 1. Summarize all reported defects during the period.
@@ -4489,17 +4175,18 @@ Tasks:
 4. Add a sign-off sheet from the client.
 
 5. Provide recommendations for ongoing maintenance.
-
-Output format:
-
+```
+`Output format:`
+```
 1. Defects Liability Closure Report (PDF)
 
 2. Photo Evidence Archive (JPEG/PNG)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Defect logs
 
 2. Maintenance records
 
 3. Client sign-off forms."
+```
