@@ -1643,7 +1643,7 @@ Your task:
 
 5. Provide buffer time for unexpected delays.
 ```
-`Output format: Warehouse Construction Schedule (Excel) + Fire Safety Compliance Plan (PDF).``
+`Output format: Warehouse Construction Schedule (Excel) + Fire Safety Compliance Plan (PDF).`
 
 `Input Files & Code Section:`
 ```
