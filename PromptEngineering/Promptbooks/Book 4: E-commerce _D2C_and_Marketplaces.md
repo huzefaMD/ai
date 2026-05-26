@@ -2775,16 +2775,17 @@ Tasks:
 
 3. CRM order table schema."
 ```
-Prompt 4 — Automating SKU Reconciliation Between Platforms
+## Prompt 4 — Automating SKU Reconciliation Between Platforms
 
-Backstory: You sell products on Amazon, Flipkart, and your own Shopify store. Often, SKU counts are mismatched across platforms, leading to overselling or underselling.
+`Backstory: You sell products on Amazon, Flipkart, and your own Shopify store. Often, SKU counts are mismatched across platforms, leading to overselling or underselling.`
 
-Goal: Create an AI-based reconciliation script to align inventory counts automatically.
+`Goal: Create an AI-based reconciliation script to align inventory counts automatically.`
 
-Prompt:
+`Prompt:`
 
-"You are an E-commerce SKU Sync Specialist. Design a system to automatically reconcile SKU counts across platforms.
+`"You are an E-commerce SKU Sync Specialist. Design a system to automatically reconcile SKU counts across platforms.`
 
+```
 Tasks:
 
 1. Build a Python script that pulls SKU counts from all platforms via API.
@@ -2796,31 +2797,32 @@ Tasks:
 4. Generate a daily reconciliation report.
 
 5. Include a fail-safe for SKUs with high sales velocity.
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Reconciliation Script (Python)
 
 2. Daily Report Template (Excel)
 
 3. Implementation SOP (DOCX)
-
-Inputs Needed:
-
+```
+`Inputs Needed:`
+```
 1. API access credentials for each platform
 
 2. SKU mapping table."
+```
+## Prompt 5 — Reducing Warehouse Picking Errors
 
-Prompt 5 — Reducing Warehouse Picking Errors
+`Backstory: Your fulfillment center is shipping wrong variants (color/size) of apparel to customers due to manual picking mistakes, increasing return rates.`
 
-Backstory: Your fulfillment center is shipping wrong variants (color/size) of apparel to customers due to manual picking mistakes, increasing return rates.
+`Goal: Create a process with AI-powered picking validation to reduce errors.`
 
-Goal: Create a process with AI-powered picking validation to reduce errors.
+`Prompt:`
 
-Prompt:
+`"You are an E-commerce Fulfillment Process Optimizer. Design a system to minimize warehouse picking errors.`
 
-"You are an E-commerce Fulfillment Process Optimizer. Design a system to minimize warehouse picking errors.
-
+```
 Tasks:
 
 1. Recommend barcode scanning or RFID verification before packing.
@@ -2832,33 +2834,34 @@ Tasks:
 4. Include real-time alerts for mismatches.
 
 5. Define KPIs for measuring error reduction.
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Picking Process Improvement Plan (DOCX)
 
 2. Staff Training Script (PPT)
 
 3. KPI Tracking Sheet (Excel)
-
-Inputs Needed:
-
+```
+`Inputs Needed:`
+```
 1. Current warehouse workflow
 
 2. Product barcode/RFID data
 
 3. Historical error rate logs."
+```
+## Prompt 6 — Multi-Warehouse Stock Allocation Optimization
 
-Prompt 6 — Multi-Warehouse Stock Allocation Optimization
+`Backstory: Your brand operates 3 warehouses in Mumbai, Delhi, and Bengaluru. You often face overstock in one warehouse and stockouts in another, causing delays and higher shipping costs.`
 
-Backstory: Your brand operates 3 warehouses in Mumbai, Delhi, and Bengaluru. You often face overstock in one warehouse and stockouts in another, causing delays and higher shipping costs.
+`Goal: Build a data-driven system that allocates stock across warehouses based on demand patterns and location proximity.`
 
-Goal: Build a data-driven system that allocates stock across warehouses based on demand patterns and location proximity.
+`Prompt:`
 
-Prompt:
+`"You are an E-commerce Supply Chain Allocation Specialist. Create an optimized multi-warehouse stock allocation strategy.`
 
-"You are an E-commerce Supply Chain Allocation Specialist. Create an optimized multi-warehouse stock allocation strategy.
-
+```
 Tasks:
 
 1. Analyze past order data by region to forecast demand for each warehouse.
@@ -2870,33 +2873,34 @@ Tasks:
 4. Provide an automation process for updating stock levels in the central inventory system.
 
 5. Include a simulation of shipping cost savings.
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Stock Allocation Strategy (DOCX)
 
 2. Demand Forecast Sheets (Excel)
 
 3. Transfer Scheduling Template (Excel)
-
-Inputs Needed:
-
+```
+`Inputs Needed:`
+```
 1. Last 12 months regional sales data
 
 2. Warehouse storage capacity details
+```
+`Courier shipping cost matrix."`
 
-Courier shipping cost matrix."
+## Prompt 7 — Inventory Aging Report Automation
 
-Prompt 7 — Inventory Aging Report Automation
+`Backstory: Your skincare store has products nearing expiry, leading to waste and losses. You want a weekly automated report highlighting SKUs that have been in storage for over 90 days.`
 
-Backstory: Your skincare store has products nearing expiry, leading to waste and losses. You want a weekly automated report highlighting SKUs that have been in storage for over 90 days.
+`Goal: Create an AI-powered automated report to reduce aging stock.`
 
-Goal: Create an AI-powered automated report to reduce aging stock.
+`Prompt:`
 
-Prompt:
+`"You are an Inventory Risk Management Analyst. Build an automated inventory aging reporting process.`
 
-"You are an Inventory Risk Management Analyst. Build an automated inventory aging reporting process.
-
+```
 Tasks:
 
 1. Create SQL queries or Python scripts to identify products exceeding defined aging thresholds.
@@ -2908,23 +2912,23 @@ Tasks:
 4. Create weekly email report templates for stakeholders.
 
 5. Recommend a dashboard visualization for quick decision-making.
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. SQL/Python Script (TXT)
 
 2. Weekly Report Template (Excel)
 
 3. Aging Stock Dashboard Mockup (PDF)
-
-Inputs Needed:
-
+```
+`Inputs Needed:`
+```
 1. Product batch & manufacturing dates
 
 2. Storage location data
 
 3. Sales velocity metrics."
-
+```
 Prompt 8 — Real-Time Out-of-Stock Prevention System
 
 Backstory: Your top-selling protein powder SKU frequently goes out of stock, losing potential sales.
