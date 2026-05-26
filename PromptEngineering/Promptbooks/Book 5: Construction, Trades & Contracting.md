@@ -3772,16 +3772,17 @@ Tasks:
 
 3. Previous week’s tracker."
 ```
-Prompt 6 — Risk Register Update for Client
+## Prompt 6 — Risk Register Update for Client
 
-Backstory: A hydropower project in Himachal Pradesh is in its tunneling phase, where geological risks can cause massive delays and cost overruns. The client wants monthly updates on the project’s risk profile.
+`Backstory: A hydropower project in Himachal Pradesh is in its tunneling phase, where geological risks can cause massive delays and cost overruns. The client wants monthly updates on the project’s risk profile.`
 
-Goal: Update the risk register in a way that’s clear for both technical and non-technical stakeholders.
+`Goal: Update the risk register in a way that’s clear for both technical and non-technical stakeholders.`
 
-Prompt:
+`Prompt:`
 
-"You are a Construction Risk Communication Expert. Update the monthly risk register for a hydropower tunneling project in Himachal Pradesh.
+`"You are a Construction Risk Communication Expert. Update the monthly risk register for a hydropower tunneling project in Himachal Pradesh.`
 
+```
 Tasks:
 
 1. Summarize each active risk with probability, impact, and mitigation status.
@@ -3793,33 +3794,34 @@ Tasks:
 4. Highlight changes from the previous month.
 
 5. Recommend specific actions for top 3 critical risks.
-
-Output format:
-
+```
+`Output format:`
+```
 1. Updated Risk Register (Excel)
 
 2. Risk Heat Map (PDF)
 
 3. Risk Summary for Non-Technical Audience (DOCX)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Last month’s risk register
 
 2. Incident reports
 
 3. Geological survey updates."
+```
+## Prompt 7 — Cost Status Report for Client
 
-Prompt 7 — Cost Status Report for Client
+`Backstory: A commercial complex project in Hyderabad is halfway through construction. The client requires a monthly budget vs actual cost report to monitor financial health.`
 
-Backstory: A commercial complex project in Hyderabad is halfway through construction. The client requires a monthly budget vs actual cost report to monitor financial health.
+`Goal: Provide a clear financial status update, including trends and forecasts.`
 
-Goal: Provide a clear financial status update, including trends and forecasts.
+`Prompt:`
 
-Prompt:
+`"You are a Construction Project Cost Analyst. Prepare a cost status report for a commercial complex in Hyderabad.`
 
-"You are a Construction Project Cost Analyst. Prepare a cost status report for a commercial complex in Hyderabad.
-
+```
 Tasks:
 
 1. Compare actual costs to budget for each work package.
@@ -3831,31 +3833,32 @@ Tasks:
 4. Use charts for better visualization.
 
 5. Suggest cost control measures.
-
-Output format:
-
+```
+`Output format:`
+```
 1. Cost Status Report (PDF)
 
 2. Cost Variance Dashboard (Excel/Power BI)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Updated budget data
 
 2. Purchase order records
 
 3. Contractor invoices."
+```
+## Prompt 8 — Client Handover Progress Sheet
 
-Prompt 8 — Client Handover Progress Sheet
+`Backstory: A shopping mall in Pune is nearing completion, with multiple tenants waiting for handover. The client wants a clear view of handover readiness per unit.`
 
-Backstory: A shopping mall in Pune is nearing completion, with multiple tenants waiting for handover. The client wants a clear view of handover readiness per unit.
+`Goal: Create a unit-wise handover readiness tracker.`
 
-Goal: Create a unit-wise handover readiness tracker.
+`Prompt:`
 
-Prompt:
+`"You are a Handover Coordination Specialist. Create a progress tracker for tenant handovers in a shopping mall project.`
 
-"You are a Handover Coordination Specialist. Create a progress tracker for tenant handovers in a shopping mall project.
-
+```
 Tasks:
 
 1. List all units with assigned tenants.
@@ -3867,31 +3870,32 @@ Tasks:
 4. Include snag list status for each unit.
 
 5. Provide estimated handover dates.
-
-Output format:
-
+```
+`Output format:`
+```
 1. Handover Progress Sheet (Excel)
 
 2. Snag List Status Report (PDF)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Tenant allocation sheet
 
 2. Site inspection reports
 
 3. Snag list data."
+```
+## Prompt 9 — Contractor Performance Report for Client
 
-Prompt 9 — Contractor Performance Report for Client
+`Backstory: In a metro station construction project in Lucknow, multiple subcontractors are working on different packages. The client wants a monthly contractor performance evaluation.`
 
-Backstory: In a metro station construction project in Lucknow, multiple subcontractors are working on different packages. The client wants a monthly contractor performance evaluation.
+`Goal: Present subcontractor performance metrics in a clear, comparative format.`
 
-Goal: Present subcontractor performance metrics in a clear, comparative format.
+`Prompt:`
 
-Prompt:
+`"You are a Construction Performance Monitoring Expert. Prepare a monthly contractor performance report for a metro station project in Lucknow.`
 
-"You are a Construction Performance Monitoring Expert. Prepare a monthly contractor performance report for a metro station project in Lucknow.
-
+```
 Tasks:
 
 1. Evaluate productivity against planned outputs.
@@ -3903,31 +3907,32 @@ Tasks:
 4. Provide a ranking table for easy comparison.
 
 5. Highlight top performers and underperformers.
-
-Output format:
-
+```
+`Output format:`
+```
 1. Contractor Performance Report (PDF)
 
 2. Ranking Table (Excel)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Work progress data
 
 2. Inspection reports
 
 3. Safety records."
+```
+## Prompt 10 — Daily Progress Email to Client
 
-Prompt 10 — Daily Progress Email to Client
+`Backstory: A hospital construction project in Jaipur is in its final month, requiring close daily coordination with the client for fast issue resolution.`
 
-Backstory: A hospital construction project in Jaipur is in its final month, requiring close daily coordination with the client for fast issue resolution.
+`Goal: Draft a daily progress email that is brief but informative.`
 
-Goal: Draft a daily progress email that is brief but informative.
+`Prompt:`
 
-Prompt:
+`"You are a Construction Site Communication Coordinator. Draft a daily update email for a hospital project in Jaipur.`
 
-"You are a Construction Site Communication Coordinator. Draft a daily update email for a hospital project in Jaipur.
-
+```
 Tasks:
 
 1. Summarize completed activities for the day.
@@ -3939,29 +3944,30 @@ Tasks:
 4. Attach 2–3 progress photos.
 
 5. Keep it under 250 words for quick reading.
-
-Output format:
-
+```
+`Output format:`
+```
 1. Daily Progress Email Draft (DOCX)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Daily site log
 
 2. Photos from site
 
 3. Updated activity list."
+```
+## Prompt 11 — Milestone Completion Report
 
-Prompt 11 — Milestone Completion Report
+`Backstory: A flyover project in Nagpur has achieved its mid-project milestone: completion of all piers. The client requires an official milestone completion report for internal approvals.`
 
-Backstory: A flyover project in Nagpur has achieved its mid-project milestone: completion of all piers. The client requires an official milestone completion report for internal approvals.
+`Goal: Document milestone completion with evidence and approvals.`
 
-Goal: Document milestone completion with evidence and approvals.
+`Prompt:`
 
-Prompt:
+`"You are a Construction Documentation Specialist. Prepare a milestone completion report for the pier construction phase of a flyover in Nagpur.`
 
-"You are a Construction Documentation Specialist. Prepare a milestone completion report for the pier construction phase of a flyover in Nagpur.
-
+```
 Tasks:
 
 1. Summarize work scope completed.
@@ -3973,31 +3979,32 @@ Tasks:
 4. Obtain sign-off sections for engineers and client representatives.
 
 5. Add a short statement on next steps.
-
-Output format:
-
+```
+`Output format:`
+```
 1. Milestone Completion Report (PDF)
 
 2. Photo Evidence Folder (JPEG/PNG)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Inspection records
 
 2. Site photos
 
 3. Work completion certificate."
+```
+## Prompt 12 — End-of-Phase Client Summary
 
-Prompt 12 — End-of-Phase Client Summary
+`Backstory: A metro tunnel boring project in Kolkata has finished its excavation phase. The client wants a high-level summary for public relations use.`
 
-Backstory: A metro tunnel boring project in Kolkata has finished its excavation phase. The client wants a high-level summary for public relations use.
+`Goal: Create a client-approved summary that’s both technical and PR-friendly.`
 
-Goal: Create a client-approved summary that’s both technical and PR-friendly.
+`Prompt:`
 
-Prompt:
+`"You are a Construction Phase Summary Writer. Prepare an end-of-phase summary for a metro tunnel boring project in Kolkata.`
 
-"You are a Construction Phase Summary Writer. Prepare an end-of-phase summary for a metro tunnel boring project in Kolkata.
-
+```
 Tasks:
 
 1. Outline technical achievements in layman’s terms.
@@ -4009,21 +4016,21 @@ Tasks:
 4. Add visual infographics for public use.
 
 5. Keep tone professional yet engaging.
-
-Output format:
-
+```
+`Output format:`
+```
 1. End-of-Phase Summary (PDF)
 
 2. Infographic Set (PNG)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Technical reports
 
 2. Photo and video library
 
 3. PR guidelines from client."
-
+```
 Prompt 13 — Client Decision Request Brief
 
 Backstory: In a stadium renovation project in Ahmedabad, a major design change in seating layout requires urgent client approval to avoid delays.
