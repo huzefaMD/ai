@@ -2426,12 +2426,13 @@ Tasks:
 
 `Backstory: A state education board in Assam is inviting bids for 100 government school buildings under a rural development scheme. The focus is on cost efficiency and cyclone-resistant designs.`
 
-Goal: Submit a compliant tender for rural school infrastructure.
+`Goal: Submit a compliant tender for rural school infrastructure.`
 
-Prompt:
+`Prompt:`
 
-"You are a Rural Infrastructure Tender Consultant. Prepare a bid for constructing 100 cyclone-resistant school buildings in Assam.
+`"You are a Rural Infrastructure Tender Consultant. Prepare a bid for constructing 100 cyclone-resistant school buildings in Assam.`
 
+```
 Tasks:
 
 1. Propose low-cost, durable materials.
@@ -2441,33 +2442,34 @@ Tasks:
 3. Show compliance with disaster resilience codes.
 
 4. Provide local labor engagement plan.
-
-Output format:
-
+```
+`Output format:`
+```
 1. Tender Proposal (DOCX)
 
 2. Structural Design Layout (PDF)
 
 3. Cost Breakdown (Excel)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Rural development scheme guidelines
 
 2. Structural design code for cyclone zones
 
 3. Local supplier list."
+```
+## Prompt 22 — Hospital Medical Gas Pipeline Tender
 
-Prompt 22 — Hospital Medical Gas Pipeline Tender
+`Backstory: A government hospital in Delhi is inviting bids for medical gas pipeline installation in a new wing. The focus is on safety and compliance with NABH standards.`
 
-Backstory: A government hospital in Delhi is inviting bids for medical gas pipeline installation in a new wing. The focus is on safety and compliance with NABH standards.
+`Goal: Submit a technically compliant and safe installation bid.`
 
-Goal: Submit a technically compliant and safe installation bid.
+`Prompt:`
 
-Prompt:
+`"You are a Medical Infrastructure Tender Writer. Draft a bid for installing medical gas pipelines in a hospital wing in Delhi.`
 
-"You are a Medical Infrastructure Tender Writer. Draft a bid for installing medical gas pipelines in a hospital wing in Delhi.
-
+```
 Tasks:
 
 1. Show compliance with NABH and NFPA 99 standards.
@@ -2477,33 +2479,34 @@ Tasks:
 3. Include emergency shutdown system design.
 
 4. Provide material and equipment sourcing plan.
-
-Output format:
-
+```
+`Output format:`
+```
 1. Tender Document (DOCX)
 
 2. Pipeline Layout Diagram (PDF)
 
 3. Installation Schedule (Excel)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Hospital floor plan
 
 2. NABH compliance checklist
 
 3. Medical gas equipment supplier list."
+```
+## Prompt 23 — Oil & Gas Pipeline Laying Tender
 
-Prompt 23 — Oil & Gas Pipeline Laying Tender
+`Backstory: An oil company in Gujarat is tendering for a 300 km underground pipeline. Safety and environmental compliance are critical.`
 
-Backstory: An oil company in Gujarat is tendering for a 300 km underground pipeline. Safety and environmental compliance are critical.
+`Goal: Submit a pipeline laying bid with full safety and compliance coverage.`
 
-Goal: Submit a pipeline laying bid with full safety and compliance coverage.
+`Prompt:`
 
-Prompt:
+`"You are an Oil & Gas Pipeline Tender Consultant. Prepare a bid for laying 300 km of underground pipeline in Gujarat.`
 
-"You are an Oil & Gas Pipeline Tender Consultant. Prepare a bid for laying 300 km of underground pipeline in Gujarat.
-
+```
 Tasks:
 
 1. Include HDD (Horizontal Directional Drilling) methodology for river crossings.
@@ -2513,33 +2516,34 @@ Tasks:
 3. Provide environmental mitigation plan.
 
 4. Present manpower and equipment mobilization plan.
-
-Output format:
-
+```
+`Output format:`
+```
 1. Tender Proposal (DOCX)
 
 2. Environmental Compliance Plan (PDF)
 
 3. Mobilization Schedule (Excel)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Pipeline alignment drawings
 
 2. Safety compliance code
 
 3. Environmental clearance document."
+```
+## Prompt 24 — Bridge Repair & Strengthening Tender
 
-Prompt 24 — Bridge Repair & Strengthening Tender
+`Backstory: A state PWD is inviting bids for strengthening and repairing a 40-year-old concrete bridge. The focus is on load capacity enhancement and minimal traffic disruption.`
 
-Backstory: A state PWD is inviting bids for strengthening and repairing a 40-year-old concrete bridge. The focus is on load capacity enhancement and minimal traffic disruption.
+`Goal: Submit a repair tender that extends bridge life by 20+ years.`
 
-Goal: Submit a repair tender that extends bridge life by 20+ years.
+`Prompt:`
 
-Prompt:
+`"You are a Bridge Rehabilitation Tender Writer. Prepare a tender for repairing and strengthening a concrete bridge.`
 
-"You are a Bridge Rehabilitation Tender Writer. Prepare a tender for repairing and strengthening a concrete bridge.
-
+```
 Tasks:
 
 1. Include detailed condition assessment report.
@@ -2549,33 +2553,34 @@ Tasks:
 3. Provide phased traffic diversion plan.
 
 4. Include structural health monitoring proposal.
-
-Output format:
-
+```
+`Output format:`
+```
 1. Tender Proposal (DOCX)
 
 2. Strengthening Methodology (PDF)
 
 3. Traffic Diversion Plan (Excel)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Bridge inspection report
 
 2. Load capacity analysis
 
 3. Traffic volume data."
+```
+## Prompt 25 — Dam Construction Tender
 
-Prompt 25 — Dam Construction Tender
+`Backstory: A state irrigation department in Maharashtra is tendering for construction of a medium-sized dam for irrigation and drinking water supply.`
 
-Backstory: A state irrigation department in Maharashtra is tendering for construction of a medium-sized dam for irrigation and drinking water supply.
+`Goal: Submit a dam construction tender with robust engineering and environmental safeguards.`
 
-Goal: Submit a dam construction tender with robust engineering and environmental safeguards.
+`Prompt:`
 
-Prompt:
+`"You are a Dam Construction Tender Consultant. Draft a bid for constructing a medium-sized dam in Maharashtra.````
 
-"You are a Dam Construction Tender Consultant. Draft a bid for constructing a medium-sized dam in Maharashtra.
-
+```
 Tasks:
 
 1. Include detailed engineering drawings.
@@ -2585,23 +2590,23 @@ Tasks:
 3. Provide environmental and resettlement plan.
 
 4. Present a phased construction schedule.
-
-Output format:
-
+```
+`Output format:`
+```
 1. Tender Document (DOCX)
 
 2. Engineering Drawings (PDF)
 
 3. Environmental Safeguard Plan (Excel)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Dam site survey
 
 2. Geological report
 
 3. Environmental clearance."
-
+```
 
 Safety Audits & Compliance
 
