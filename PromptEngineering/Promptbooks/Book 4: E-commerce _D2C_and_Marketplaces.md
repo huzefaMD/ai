@@ -2335,16 +2335,17 @@ Tasks:
 ```
 `Payment gateway processing times."`
 
-Prompt 17 — Educating Customers About Loyalty Program Benefits
+## Prompt 17 — Educating Customers About Loyalty Program Benefits
 
-Backstory: A customer regularly purchases from your organic food brand but has never joined the loyalty program.
+`Backstory: A customer regularly purchases from your organic food brand but has never joined the loyalty program.`
 
-Goal: Create scripts to explain benefits and encourage sign-ups without sounding pushy.
+`Goal: Create scripts to explain benefits and encourage sign-ups without sounding pushy.`
 
-Prompt:
+`Prompt:`
 
-"You are a Loyalty Program Promotion Specialist. Write scripts to educate and convert customers into members.
+`"You are a Loyalty Program Promotion Specialist. Write scripts to educate and convert customers into members.`
 
+```
 Tasks:
 
 1. Create 3 explainer scripts for chat/email introducing the program.
@@ -2356,29 +2357,30 @@ Tasks:
 4. Add placeholders for referral links and membership codes.
 
 5. Maintain an engaging, value-focused tone.
-
-Output format:
-
+```
+`Output format:`
+```
 1. Loyalty Program Script Pack (DOCX)
 
 2. Benefit Highlights Sheet (Excel)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Loyalty program policy
 
 2. Rewards structure."
+```
+## Prompt 18 — Scripts for Handling Bulk Order Inquiries
 
-Prompt 18 — Scripts for Handling Bulk Order Inquiries
+`Backstory: A corporate client wants to order 500 custom mugs for an event. They need quick cost estimates and delivery timelines.`
 
-Backstory: A corporate client wants to order 500 custom mugs for an event. They need quick cost estimates and delivery timelines.
+`Goal: Provide bulk order scripts that are professional and fast to convert.`
 
-Goal: Provide bulk order scripts that are professional and fast to convert.
+`Prompt:`
 
-Prompt:
+`"You are an E-commerce Bulk Order Specialist. Write scripts for handling bulk purchase inquiries.`
 
-"You are an E-commerce Bulk Order Specialist. Write scripts for handling bulk purchase inquiries.
-
+```
 Tasks:
 
 1. Create 3 quick-response templates for email/chat acknowledging the request.
@@ -2390,29 +2392,30 @@ Tasks:
 4. Include placeholders for unit cost, delivery date, and payment terms.
 
 5. Maintain a tone that is professional yet accommodating.
-
-Output format:
-
+```
+`Output format:`
+```
 1. Bulk Order Script Pack (DOCX)
 
 2. Quotation Template (Excel)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Bulk order pricing sheet
 
 2. Supplier lead times."
+```
+## Prompt 19 — Addressing Negative Reviews Proactively
 
-Prompt 19 — Addressing Negative Reviews Proactively
+`Backstory: A customer left a 1-star review for a kitchen mixer grinder due to noise level. They didn’t contact customer service before posting.`
 
-Backstory: A customer left a 1-star review for a kitchen mixer grinder due to noise level. They didn’t contact customer service before posting.
+`Goal: Create scripts for reaching out to unhappy reviewers and offering solutions.`
 
-Goal: Create scripts for reaching out to unhappy reviewers and offering solutions.
+`Prompt:`
 
-Prompt:
+`"You are an E-commerce Reputation Management Specialist. Write scripts for addressing negative reviews.`
 
-"You are an E-commerce Reputation Management Specialist. Write scripts for addressing negative reviews.
-
+```
 Tasks:
 
 1. Write 3 outreach scripts for email/chat offering assistance.
@@ -2424,29 +2427,30 @@ Tasks:
 4. Include placeholders for product name, review link, and resolution offer.
 
 5. Maintain a tone of humility and accountability.
-
-Output format:
-
+```
+`Output format:`
+```
 1. Review Response Script Pack (DOCX)
 
 2. Review Follow-Up Tracker (Excel)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Review monitoring dashboard
+```
+`Customer service history."`
 
-Customer service history."
+## Prompt 20 — Scripts for Educating Customers on Shipping Cut-Off Times
 
-Prompt 20 — Scripts for Educating Customers on Shipping Cut-Off Times
+`Backstory: A customer wants same-day delivery for a gift hamper, but places the order after the cut-off time.`
 
-Backstory: A customer wants same-day delivery for a gift hamper, but places the order after the cut-off time.
+`Goal: Clearly communicate cut-off policies and suggest alternatives.`
 
-Goal: Clearly communicate cut-off policies and suggest alternatives.
+`Prompt:`
 
-Prompt:
+`"You are a Shipping Policy Communication Expert. Write scripts for explaining order cut-off times.`
 
-"You are a Shipping Policy Communication Expert. Write scripts for explaining order cut-off times.
-
+```
 Tasks:
 
 1. Create 3 chat/email templates explaining missed cut-off politely.
@@ -2458,29 +2462,30 @@ Tasks:
 4. Include placeholders for cut-off time and delivery availability.
 
 5. Maintain helpful, non-blaming tone.
-
-Output format:
-
+```
+`Output format:`
+```
 1. Cut-Off Communication Script Pack (DOCX)
 
 2. Delivery Options Chart (Excel)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Delivery partner timelines
 
 2. Cut-off policy document."
+```
+## Prompt 21 — Scripts for Product Availability Notifications
 
-Prompt 21 — Scripts for Product Availability Notifications
+`Backstory: A customer requested a notification for restock of a sold-out skincare serum.`
 
-Backstory: A customer requested a notification for restock of a sold-out skincare serum.
+`Goal: Create scripts that inform customers when the product is available again.`
 
-Goal: Create scripts that inform customers when the product is available again.
+`Prompt:`
 
-Prompt:
+`"You are an E-commerce Customer Engagement Specialist. Write scripts for product availability notifications.`
 
-"You are an E-commerce Customer Engagement Specialist. Write scripts for product availability notifications.
-
+```
 Tasks:
 
 1. Create 3 restock announcement scripts for email/SMS.
@@ -2492,29 +2497,30 @@ Tasks:
 4. Include placeholders for product link and availability date.
 
 5. Maintain tone that encourages immediate purchase.
-
-Output format:
-
+```
+`Output format:`
+```
 1. Restock Notification Script Pack (DOCX)
 
 2. Upsell Product List (Excel)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Restock dates
 
 2. Related product catalog."
+```
+## Prompt 22 — Scripts for Guiding Gift Purchasers
 
-Prompt 22 — Scripts for Guiding Gift Purchasers
+`Backstory: A customer is buying a watch as a birthday gift and wants gift wrap and a personalised message.`
 
-Backstory: A customer is buying a watch as a birthday gift and wants gift wrap and a personalised message.
+`Goal: Guide customers smoothly through gift customisation options.`
 
-Goal: Guide customers smoothly through gift customisation options.
+`Prompt:`
 
-Prompt:
+`"You are a Gift Experience Script Writer. Write scripts for guiding gift purchases.`
 
-"You are a Gift Experience Script Writer. Write scripts for guiding gift purchases.
-
+```
 Tasks:
 
 1. Create 3 chat/email templates explaining gift wrap and message options.
@@ -2525,19 +2531,19 @@ Tasks:
 
 4. Include placeholders for message text and delivery date.
 
-5. Maintain tone that enhances excitement for gifting.
-
-Output format:
-
+5. Maintain tonethat enhances excitement for gifting.
+```
+`Output format:`
+```
 1. Gift Purchase Script Pack (DOCX)
 
 2. Gift Customisation Checklist (Excel)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Gift wrap options list
-
-Delivery timelines."
+```
+`Delivery timelines."`
 
 Prompt 23 — Scripts for Subscription Renewal Reminders
 
