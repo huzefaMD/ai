@@ -2608,18 +2608,19 @@ Tasks:
 3. Environmental clearance."
 ```
 
-Safety Audits & Compliance
+# Safety Audits & Compliance
 
-Prompt 1 — Pre-Construction Safety Compliance Plan
+## Prompt 1 — Pre-Construction Safety Compliance Plan
 
-Backstory: A major residential township project in Bengaluru is about to begin site preparation. The project owner requires a safety compliance plan before granting the notice to proceed. This is to ensure that all pre-construction activities, site setup, and material deliveries comply with Indian safety regulations (NBC, OSHA India).
+`Backstory: A major residential township project in Bengaluru is about to begin site preparation. The project owner requires a safety compliance plan before granting the notice to proceed. This is to ensure that all pre-construction activities, site setup, and material deliveries comply with Indian safety regulations (NBC, OSHA India).`
 
-Goal: Prepare a pre-construction safety plan that ensures hazard-free site mobilization and readiness.
+`Goal: Prepare a pre-construction safety plan that ensures hazard-free site mobilization and readiness.`
 
-Prompt:
+`Prompt:`
 
-"You are a Construction Safety Compliance Officer. Draft a pre-construction safety compliance plan for a 150-acre township project in Bengaluru.
+`"You are a Construction Safety Compliance Officer. Draft a pre-construction safety compliance plan for a 150-acre township project in Bengaluru.`
 
+```
 Tasks:
 
 1. Identify site setup hazards (temporary power, fencing, access roads).
@@ -2631,33 +2632,34 @@ Tasks:
 4. Provide checklists for PPE (Personal Protective Equipment) issuance.
 
 5. Align plan with NBC (National Building Code) and state safety laws.
-
-Output format:
-
+```
+`Output format:`
+```
 1. Safety Compliance Plan (DOCX)
 
 2. PPE & Equipment Checklist (Excel)
 
 3. Pre-Mobilization Hazard Map (PDF)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Site layout drawing
 
 2. Local safety regulation document
 
 3. Equipment mobilization schedule."
+```
+## Prompt 2 — Monthly Safety Audit Report (Ongoing Construction)
 
-Prompt 2 — Monthly Safety Audit Report (Ongoing Construction)
+`Backstory: An IT park construction site in Pune has been operational for 8 months. The client requires a monthly third-party safety audit report to ensure compliance with their corporate EHS (Environment, Health & Safety) policies and avoid project delays from violations.`
 
-Backstory: An IT park construction site in Pune has been operational for 8 months. The client requires a monthly third-party safety audit report to ensure compliance with their corporate EHS (Environment, Health & Safety) policies and avoid project delays from violations.
+`Goal: Prepare a monthly safety audit report highlighting compliance status, violations, and corrective measures.`
 
-Goal: Prepare a monthly safety audit report highlighting compliance status, violations, and corrective measures.
+`Prompt:`
 
-Prompt:
+`"You are a Third-Party EHS Auditor. Prepare a monthly safety audit report for an IT park construction site in Pune.`
 
-"You are a Third-Party EHS Auditor. Prepare a monthly safety audit report for an IT park construction site in Pune.
-
+```
 Tasks:
 
 1. Inspect compliance with fall protection systems.
@@ -2669,33 +2671,34 @@ Tasks:
 4. Check documentation of toolbox talks and training.
 
 5. Provide a red-yellow-green compliance scoring system.
-
-Output format:
-
+```
+`Output format:`
+```
 1. Safety Audit Report (PDF)
 
 2. Violation Photographic Evidence (JPEG/PNG folder)
 
 3. Corrective Action Plan (Excel)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Site access permission letter
 
 2. EHS policy manual
 
 3. Last 3 months’ audit reports."
+```
+## Prompt 3 — Worker Safety Training Program Design
 
-Prompt 3 — Worker Safety Training Program Design
+`Backstory: A metro rail construction contractor in Chennai must train 1,200 workers (skilled & unskilled) before project mobilization. The training should address working at heights, confined spaces, and equipment safety.`
 
-Backstory: A metro rail construction contractor in Chennai must train 1,200 workers (skilled & unskilled) before project mobilization. The training should address working at heights, confined spaces, and equipment safety.
+`Goal: Design a structured worker safety training program tailored to metro construction hazards.`
 
-Goal: Design a structured worker safety training program tailored to metro construction hazards.
+`Prompt:`
 
-Prompt:
+`"You are a Construction Safety Trainer. Design a worker safety training program for a metro construction project in Chennai.`
 
-"You are a Construction Safety Trainer. Design a worker safety training program for a metro construction project in Chennai.
-
+```
 Tasks:
 
 1. Develop module-wise training content.
@@ -2707,33 +2710,34 @@ Tasks:
 4. Add pre- and post-training assessment methods.
 
 5. Suggest refresher training frequency.
-
-Output format:
-
+```
+`Output format:`
+```
 1. Training Curriculum (DOCX)
 
 2. Training Aids & Visuals (PPTX)
 
 3. Assessment Questionnaire (PDF)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Metro project scope document
 
 2. Site hazard identification report
 
 3. Language translation glossary."
+```
+## Prompt 4 — Emergency Response & Evacuation Plan
 
-Prompt 4 — Emergency Response & Evacuation Plan
+`Backstory: A high-rise building project in Mumbai is in the structural phase. The site is in a congested area, making emergency evacuation planning challenging. Local authorities require an approved plan before further vertical construction.`
 
-Backstory: A high-rise building project in Mumbai is in the structural phase. The site is in a congested area, making emergency evacuation planning challenging. Local authorities require an approved plan before further vertical construction.
+`Goal: Prepare a detailed emergency response plan for fire, structural collapse, and medical emergencies.`
 
-Goal: Prepare a detailed emergency response plan for fire, structural collapse, and medical emergencies.
+`Prompt:`
 
-Prompt:
+`"You are a Construction Emergency Planning Expert. Draft an emergency response and evacuation plan for a 60-floor high-rise in Mumbai.`
 
-"You are a Construction Emergency Planning Expert. Draft an emergency response and evacuation plan for a 60-floor high-rise in Mumbai.
-
+```
 Tasks:
 
 1. Identify all possible emergency scenarios.
@@ -2745,33 +2749,34 @@ Tasks:
 4. Include coordination protocols with Mumbai Fire Brigade.
 
 5. Design emergency drills schedule.
-
-Output format:
-
+```
+`Output format:`
+```
 1. Emergency Response Manual (DOCX)
 
 2. Evacuation Route Diagrams (PDF)
 
 3. Drill Calendar (Excel)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Building floor plans
 
 2. Local emergency contact list
 
 3. List of available safety equipment."
+```
+## Prompt 5 — Compliance Audit for DGMS Standards (Mining Site)
 
-Prompt 5 — Compliance Audit for DGMS Standards (Mining Site)
+`Backstory: A construction company is building ancillary structures at an open-pit mining site in Jharkhand. The Directorate General of Mines Safety (DGMS) requires full compliance with their safety standards for any construction activity on mine property.`
 
-Backstory: A construction company is building ancillary structures at an open-pit mining site in Jharkhand. The Directorate General of Mines Safety (DGMS) requires full compliance with their safety standards for any construction activity on mine property.
+`Goal: Conduct and document a compliance audit for DGMS regulations.`
 
-Goal: Conduct and document a compliance audit for DGMS regulations.
+`Prompt:`
 
-Prompt:
+`"You are a DGMS Compliance Auditor. Perform a safety compliance audit for a construction project within an open-pit mining site in Jharkhand.`
 
-"You are a DGMS Compliance Auditor. Perform a safety compliance audit for a construction project within an open-pit mining site in Jharkhand.
-
+```
 Tasks:
 
 1. Inspect PPE usage specific to mining hazards.
@@ -2783,33 +2788,34 @@ Tasks:
 4. Audit transportation and haul road safety.
 
 5. Provide a corrective action matrix with deadlines.
-
-Output format:
-
+```
+`Output format:`
+```
 1. DGMS Compliance Audit Report (PDF)
 
 2. Corrective Action Tracker (Excel)
 
 3. Photographic Evidence Folder
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. DGMS safety standards document
 
 2. Site hazard register
 
 3. Last incident report."
+```
+## Prompt 6 — Scaffold Safety Inspection Report
 
-Prompt 6 — Scaffold Safety Inspection Report
+`Backstory: A hospital construction site in Lucknow is entering façade work stage. Multiple scaffolds are in use, including suspended and supported systems. Recent accidents in the region have put regulatory focus on scaffold safety compliance.`
 
-Backstory: A hospital construction site in Lucknow is entering façade work stage. Multiple scaffolds are in use, including suspended and supported systems. Recent accidents in the region have put regulatory focus on scaffold safety compliance.
+`Goal: Perform a detailed scaffold safety inspection and document compliance with IS 3696 standards.`
 
-Goal: Perform a detailed scaffold safety inspection and document compliance with IS 3696 standards.
+`Prompt:`
 
-Prompt:
+`"You are a Certified Scaffold Safety Inspector. Conduct a scaffold safety inspection for a multi-story hospital project in Lucknow.`
 
-"You are a Certified Scaffold Safety Inspector. Conduct a scaffold safety inspection for a multi-story hospital project in Lucknow.
-
+```
 Tasks:
 
 1. Inspect scaffold design, load limits, and bracing.
@@ -2821,33 +2827,34 @@ Tasks:
 4. Document any non-compliance with IS 3696 (Part 1 & 2).
 
 5. Recommend immediate corrective measures.
-
-Output format:
-
+```
+`Output format:`
+```
 1. Scaffold Safety Inspection Report (PDF)
 
 2. Non-Compliance Photographs (JPEG)
 
 3. Corrective Action Checklist (Excel)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Site scaffold drawings
 
 2. Load capacity certificates
 
 3. IS 3696 standards document."
+```
+## Prompt 7 — PPE Compliance Audit
 
-Prompt 7 — PPE Compliance Audit
+`Backstory: A hydropower dam project in Himachal Pradesh employs 1,500 workers across tunneling, concrete works, and high-altitude activities. There’s a recurring issue of incomplete PPE compliance, especially among subcontractors.`
 
-Backstory: A hydropower dam project in Himachal Pradesh employs 1,500 workers across tunneling, concrete works, and high-altitude activities. There’s a recurring issue of incomplete PPE compliance, especially among subcontractors.
+`Goal: Audit PPE usage and develop an enforcement strategy.`
 
-Goal: Audit PPE usage and develop an enforcement strategy.
+`Prompt:`
 
-Prompt:
+`"You are a Construction PPE Compliance Auditor. Conduct a site-wide PPE compliance audit for a hydropower dam project.`
 
-"You are a Construction PPE Compliance Auditor. Conduct a site-wide PPE compliance audit for a hydropower dam project.
-
+```
 Tasks:
 
 1. Identify PPE requirements for each activity type.
@@ -2859,33 +2866,34 @@ Tasks:
 4. Suggest enforcement measures for subcontractors.
 
 5. Prepare a PPE replenishment forecast.
-
-Output format:
-
+```
+`Output format:`
+```
 1. PPE Compliance Audit Report (PDF)
 
 2. Compliance Heat Map (PDF)
 
 3. PPE Forecast Sheet (Excel)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Worker roster by activity
 
 2. PPE inventory log
 
 3. Site safety rules document."
+```
+## Prompt 8 — Electrical Safety Audit (Temporary Power)
 
-Prompt 8 — Electrical Safety Audit (Temporary Power)
+`Backstory: A mega shopping mall construction in Ahmedabad uses extensive temporary electrical networks. Short circuits have been reported in the past month, raising fire safety concerns.`
 
-Backstory: A mega shopping mall construction in Ahmedabad uses extensive temporary electrical networks. Short circuits have been reported in the past month, raising fire safety concerns.
+`Goal: Perform an electrical safety audit focusing on temporary power systems.`
 
-Goal: Perform an electrical safety audit focusing on temporary power systems.
+`Prompt:`
 
-Prompt:
+`"You are an Electrical Safety Compliance Engineer. Audit the temporary electrical systems at a shopping mall construction site.`
 
-"You are an Electrical Safety Compliance Engineer. Audit the temporary electrical systems at a shopping mall construction site.
-
+```
 Tasks:
 
 1. Inspect earthing and grounding systems.
@@ -2897,33 +2905,34 @@ Tasks:
 4. Check compliance with IS 732 (Code of Practice for Electrical Wiring).
 
 5. Provide recommendations for fire hazard mitigation.
-
-Output format:
-
+```
+`Output format:`
+```
 1. Electrical Safety Audit Report (PDF)
 
 2. Circuit Load Analysis (Excel)
 
 3. Corrective Action Tracker (Excel)
-
+```
 Input Files Required:
-
+```
 1. Temporary electrical layout diagram
 
 2. Load sheet of connected equipment
 
 3. IS 732 standards document."
+```
+## Prompt 9 — Fall Protection System Evaluation
 
-Prompt 9 — Fall Protection System Evaluation
+`Backstory: A bridge construction project in Goa involves working at heights of 40+ meters. The project has invested in fall arrest systems, but recent incidents suggest improper anchoring and harness use.`
 
-Backstory: A bridge construction project in Goa involves working at heights of 40+ meters. The project has invested in fall arrest systems, but recent incidents suggest improper anchoring and harness use.
+`Goal: Evaluate the effectiveness and compliance of fall protection systems.`
 
-Goal: Evaluate the effectiveness and compliance of fall protection systems.
+`Prompt:`
 
-Prompt:
+`"You are a Fall Protection Safety Auditor. Assess fall protection systems at a bridge construction site.`
 
-"You are a Fall Protection Safety Auditor. Assess fall protection systems at a bridge construction site.
-
+```
 Tasks:
 
 1. Inspect anchorage points and lifeline installations.
@@ -2935,33 +2944,34 @@ Tasks:
 4. Ensure compliance with IS 3521 (Industrial Safety Belts & Harnesses).
 
 5. Prepare a training recommendation report.
-
-Output format:
-
+```
+`Output format:`
+```
 1. Fall Protection Audit Report (PDF)
 
 2. Defect Photo Log (JPEG)
 
 3. Training Plan (Excel)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Fall protection layout drawings
 
 2. Harness inspection logs
 
 3. IS 3521 standards document."
+```
+## Prompt 10 — Fire Safety Readiness Audit
 
-Prompt 10 — Fire Safety Readiness Audit
+`Backstory: A manufacturing facility under construction in Pune is required to undergo a fire safety readiness audit before commissioning. The facility stores flammable paints and chemicals.`
 
-Backstory: A manufacturing facility under construction in Pune is required to undergo a fire safety readiness audit before commissioning. The facility stores flammable paints and chemicals.
+`Goal: Verify readiness for fire safety certification.`
 
-Goal: Verify readiness for fire safety certification.
+`Prompt:`
 
-Prompt:
+`"You are a Fire Safety Compliance Auditor. Conduct a readiness audit for a manufacturing facility.`
 
-"You are a Fire Safety Compliance Auditor. Conduct a readiness audit for a manufacturing facility.
-
+```
 Tasks:
 
 1. Inspect fire hydrant and sprinkler system installation.
@@ -2973,33 +2983,34 @@ Tasks:
 4. Review fire drill records and staff training.
 
 5. Ensure NFPA 10 and NBC compliance.
-
-Output format:
-
+```
+`Output format:`
+```
 1. Fire Safety Readiness Report (PDF)
 
 2. Non-Compliance Rectification Plan (Excel)
 
 3. Equipment Inventory List (Excel)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Facility fire safety design drawings
 
 2. Maintenance logs for fire equipment
 
 3. Local fire safety regulations."
+```
+## Prompt 11 — Post-Accident Safety Investigation
 
-Prompt 11 — Post-Accident Safety Investigation
+`Backstory: At a metro tunnel construction site in Delhi, a worker injury occurred due to falling debris. The incident triggered a government-mandated safety investigation.`
 
-Backstory: At a metro tunnel construction site in Delhi, a worker injury occurred due to falling debris. The incident triggered a government-mandated safety investigation.
+`Goal: Conduct a post-accident investigation and submit a compliance-focused report.`
 
-Goal: Conduct a post-accident investigation and submit a compliance-focused report.
+`Prompt:`
 
-Prompt:
+`"You are a Construction Safety Investigator. Prepare a post-accident investigation report for a metro tunnel project.`
 
-"You are a Construction Safety Investigator. Prepare a post-accident investigation report for a metro tunnel project.
-
+```
 Tasks:
 
 1. Collect witness statements and incident photos.
@@ -3011,23 +3022,23 @@ Tasks:
 4. Update site hazard identification register.
 
 5. Suggest policy changes for future prevention.
-
-Output format:
-
+```
+`Output format:`
+```
 1. Incident Investigation Report (PDF)
 
 2. Root Cause Analysis Chart (PDF)
 
 3. CAPA (Corrective and Preventive Action) Tracker (Excel)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Incident scene photos
 
 2. Witness statements
 
 3. Safety policy manual."
-
+```
 Prompt 12 — Lifting Equipment Safety Certification
 
 Backstory: A port construction project in Visakhapatnam uses multiple cranes, hoists, and derricks. Before a major lift of precast elements, the client requires third-party certification of lifting equipment.
