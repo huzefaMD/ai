@@ -767,7 +767,7 @@ Your task:
 
 `Prompt:`
 
-`"You are a Marine Infrastructure Estimator. Prepare a BOQ for a new port cargo terminal.``
+`"You are a Marine Infrastructure Estimator. Prepare a BOQ for a new port cargo terminal.`
 
 ```
 Your task:
@@ -826,18 +826,19 @@ Your task:
 3. Smart Cities Mission compliance checklist."
 ```
 
-Project scheduling & tracking
+# Project scheduling & tracking
 
-Prompt 1 — High-Rise Building Construction Schedule
+## Prompt 1 — High-Rise Building Construction Schedule
 
-Backstory: You are managing the construction of a 25-storey residential tower in Mumbai. The project involves multiple contractors, each responsible for specific trades, and delays have significant financial penalties. You need a schedule that keeps all teams aligned and ensures no bottlenecks.
+`Backstory: You are managing the construction of a 25-storey residential tower in Mumbai. The project involves multiple contractors, each responsible for specific trades, and delays have significant financial penalties. You need a schedule that keeps all teams aligned and ensures no bottlenecks.`
 
-Goal: Create a realistic and coordinated project schedule for the high-rise construction.
+`Goal: Create a realistic and coordinated project schedule for the high-rise construction.`
 
-Prompt:
+`Prompt:`
 
-"You are a Construction Project Scheduler. Prepare a detailed Gantt chart for a 25-storey residential tower in Mumbai.
+`"You are a Construction Project Scheduler. Prepare a detailed Gantt chart for a 25-storey residential tower in Mumbai.`
 
+```
 Your task:
 
 1. Break down the project into clear phases — site prep, foundation, superstructure, MEP, interiors, and handover.
@@ -849,27 +850,28 @@ Your task:
 4. Include milestones for inspection and compliance checks.
 
 5. Highlight critical paths that could impact delivery date.
+```
+`Output format: Project Gantt Chart (MS Project / Excel) + Critical Path Analysis Report (PDF).`
 
-Output format: Project Gantt Chart (MS Project / Excel) + Critical Path Analysis Report (PDF).
-
-Input Files & Code Section:
-
+`Input Files & Code Section:`
+```
 1. Approved architectural drawings.
 
 2. Contractor work allocation list.
 
 3. Local authority inspection schedule."
+```
+## Prompt 2 — Metro Rail Viaduct Construction Timeline
 
-Prompt 2 — Metro Rail Viaduct Construction Timeline
+`Backstory: You are overseeing the construction of an elevated metro viaduct for a 5 km stretch in Pune. The work needs to be synchronized with traffic management plans and local festival periods to avoid disruptions.`
 
-Backstory: You are overseeing the construction of an elevated metro viaduct for a 5 km stretch in Pune. The work needs to be synchronized with traffic management plans and local festival periods to avoid disruptions.
+`Goal: Prepare a construction schedule that balances work efficiency and minimal public disruption.`
 
-Goal: Prepare a construction schedule that balances work efficiency and minimal public disruption.
+`Prompt:`
 
-Prompt:
+`"You are a Public Infrastructure Scheduler. Prepare a detailed construction timeline for a 5 km elevated metro viaduct in Pune.`
 
-"You are a Public Infrastructure Scheduler. Prepare a detailed construction timeline for a 5 km elevated metro viaduct in Pune.
-
+```
 Your task:
 
 1. Break down construction into pile, pier, segment casting, and launching phases.
@@ -881,27 +883,28 @@ Your task:
 4. Build in buffers for unforeseen weather delays.
 
 5. Highlight milestone approvals from the metro authority.
+```
+`Output format: Timeline Gantt Chart (Excel) + Traffic Management Integration Plan (PDF).`
 
-Output format: Timeline Gantt Chart (Excel) + Traffic Management Integration Plan (PDF).
-
-Input Files & Code Section:
-
+`Input Files & Code Section:`
+```
 1. Metro alignment drawings.
 
 2. Traffic diversion plan.
 
 3. Local holiday/festival calendar."
+```
+## Prompt 3 — Interior Fit-Out Scheduling for Corporate Office
 
-Prompt 3 — Interior Fit-Out Scheduling for Corporate Office
+`Backstory: A corporate office in Bengaluru is undergoing a complete interior fit-out across 4 floors. The client wants to move in within 90 days, requiring careful sequencing of civil, electrical, and furniture installation works.`
 
-Backstory: A corporate office in Bengaluru is undergoing a complete interior fit-out across 4 floors. The client wants to move in within 90 days, requiring careful sequencing of civil, electrical, and furniture installation works.
+`Goal: Create a fit-out schedule that ensures all work is completed in 3 months without trade overlaps.`
 
-Goal: Create a fit-out schedule that ensures all work is completed in 3 months without trade overlaps.
+`Prompt:`
 
-Prompt:
+`"You are an Interior Fit-Out Project Scheduler. Prepare a detailed schedule for a 4-floor corporate office fit-out in Bengaluru.`
 
-"You are an Interior Fit-Out Project Scheduler. Prepare a detailed schedule for a 4-floor corporate office fit-out in Bengaluru.
-
+```
 Your task:
 
 1. Sequence civil, false ceiling, MEP, and furniture installation logically.
@@ -913,27 +916,28 @@ Your task:
 4. Highlight weekly progress review milestones.
 
 5. Include contingency plans for late deliveries.
+```
+`Output format: Fit-Out Schedule (Excel) + Weekly Progress Review Template (PDF).`
 
-Output format: Fit-Out Schedule (Excel) + Weekly Progress Review Template (PDF).
-
-Input Files & Code Section:
-
+`Input Files & Code Section:`
+```
 1. Interior design drawings.
 
 2. Furniture supplier delivery timelines.
 
 3. MEP installation plans."
+```
+## Prompt 4 — Hospital Expansion Schedule
 
-Prompt 4 — Hospital Expansion Schedule
+`Backstory: A hospital in Hyderabad is expanding its facilities while remaining operational. This requires careful planning to avoid disruption to patient services, especially for critical departments like ICUs and OTs.`
 
-Backstory: A hospital in Hyderabad is expanding its facilities while remaining operational. This requires careful planning to avoid disruption to patient services, especially for critical departments like ICUs and OTs.
+`Goal: Create a phased construction schedule that allows medical operations to continue.`
 
-Goal: Create a phased construction schedule that allows medical operations to continue.
+`Prompt:`
 
-Prompt:
+`"You are a Healthcare Facility Project Scheduler. Create a phased construction schedule for a hospital expansion in Hyderabad.`
 
-"You are a Healthcare Facility Project Scheduler. Create a phased construction schedule for a hospital expansion in Hyderabad.
-
+```
 Your task: 
 
 1. Plan construction works in sections to keep critical areas operational. 
@@ -945,27 +949,28 @@ Your task:
 4. Coordinate with hospital infection control teams. 
 
 5. Build in extra time for health authority approvals.
+```
+`Output format: Phased Construction Plan (Excel) + Hospital Operations Impact Report (PDF).`
 
-Output format: Phased Construction Plan (Excel) + Hospital Operations Impact Report (PDF).
-
-Input Files & Code Section: 
-
+`Input Files & Code Section: `
+```
 1. Existing hospital floor plans. 
 
 2. Expansion design drawings.
 
 3. Hospital department operation schedules."
+```
+## Prompt 5 — Highway Construction Schedule
 
-Prompt 5 — Highway Construction Schedule
+`Backstory: A 60 km national highway section in Rajasthan is being widened from 2 lanes to 4 lanes. The project must be executed in sections to keep traffic flowing, and has a strict deadline due to government funding terms.`
 
-Backstory: A 60 km national highway section in Rajasthan is being widened from 2 lanes to 4 lanes. The project must be executed in sections to keep traffic flowing, and has a strict deadline due to government funding terms.
+`Goal: Prepare a highway widening schedule with minimal traffic disruption.`
 
-Goal: Prepare a highway widening schedule with minimal traffic disruption.
+`Prompt:`
 
-Prompt:
+`"You are a Highway Project Scheduler. Prepare a phased schedule for widening a 60 km national highway from 2 lanes to 4 lanes in Rajasthan.`
 
-"You are a Highway Project Scheduler. Prepare a phased schedule for widening a 60 km national highway from 2 lanes to 4 lanes in Rajasthan.
-
+```
 Your task:
 
 1. Divide the project into workable stretches with traffic diversion plans.
@@ -977,27 +982,28 @@ Your task:
 4. Add milestones for NHAI (National Highways Authority of India) inspections.
 
 5. Account for seasonal weather impacts on road works.
+```
+`Output format: Phased Highway Construction Schedule (Excel) + Traffic Diversion Plan (PDF).`
 
-Output format: Phased Highway Construction Schedule (Excel) + Traffic Diversion Plan (PDF).
-
-Input Files & Code Section:
-
+`Input Files & Code Section:`
+```
 1. Highway design drawings.
 
 2. Traffic management plan.
 
 3. NHAI compliance requirements."
+```
+## Prompt 6 — Luxury Hotel Construction Schedule
 
-Prompt 6 — Luxury Hotel Construction Schedule
+`Backstory: A luxury beachfront hotel in Goa is scheduled to open before the tourist season. Multiple international suppliers are involved for materials, making shipping timelines a key factor.`
 
-Backstory: A luxury beachfront hotel in Goa is scheduled to open before the tourist season. Multiple international suppliers are involved for materials, making shipping timelines a key factor.
+`Goal: Create a construction and fit-out schedule that ensures the hotel opens before peak season.`
 
-Goal: Create a construction and fit-out schedule that ensures the hotel opens before peak season.
+`Prompt:`
 
-Prompt:
+`"You are a Hospitality Project Scheduler. Prepare a construction and fit-out schedule for a 200-room beachfront hotel in Goa.`
 
-"You are a Hospitality Project Scheduler. Prepare a construction and fit-out schedule for a 200-room beachfront hotel in Goa.
-
+```
 Your task:
 
 1. Align civil works, interiors, and landscaping to finish before December.
@@ -1009,27 +1015,28 @@ Your task:
 4. Sequence luxury fit-outs after weather-sensitive works.
 
 5. Include a final week for pre-opening trials and training.
+```
+`Output format: Gantt Chart (Excel) + Supplier Delivery Schedule (PDF).`
 
-Output format: Gantt Chart (Excel) + Supplier Delivery Schedule (PDF).
-
-Input Files & Code Section:
-
+`Input Files & Code Section:`
+```
 1. Hotel master plan.
 
 2. Supplier order confirmations.
 
 3. Seasonal weather data."
+```
+## Prompt 7 — School Renovation While in Use
 
-Prompt 7 — School Renovation While in Use
+`Backstory: A school in Delhi is undergoing major renovations during the academic year. Work must be scheduled during vacations and weekends to avoid class disruptions.`
 
-Backstory: A school in Delhi is undergoing major renovations during the academic year. Work must be scheduled during vacations and weekends to avoid class disruptions.
+`Goal: Create a renovation schedule that prioritizes student safety and minimal class disruption.`
 
-Goal: Create a renovation schedule that prioritizes student safety and minimal class disruption.
+`Prompt:`
 
-Prompt:
+`"You are an Educational Facility Scheduler. Create a renovation schedule for an operational school in Delhi.`
 
-"You are an Educational Facility Scheduler. Create a renovation schedule for an operational school in Delhi.
-
+```
 Your task:
 
 1. Prioritize noisy/dusty works during summer and winter breaks.
@@ -1041,27 +1048,28 @@ Your task:
 4. Allocate resources for quick turnaround during breaks.
 
 5. Build in time for school management approvals.
+```
+`Output format: Renovation Schedule (Excel) + Safety Compliance Plan (PDF).`
 
-Output format: Renovation Schedule (Excel) + Safety Compliance Plan (PDF).
-
-Input Files & Code Section:
-
+`Input Files & Code Section:`
+```
 1. School academic calendar.
 
 2. Renovation drawings.
 
 3. List of work areas by priority."
+```
+## Prompt 8 — Industrial Plant Shutdown Maintenance Schedule
 
-Prompt 8 — Industrial Plant Shutdown Maintenance Schedule
+`Backstory: A manufacturing plant in Gujarat is scheduling a 15-day shutdown for maintenance. All works must be completed within this window to avoid production losses.`
 
-Backstory: A manufacturing plant in Gujarat is scheduling a 15-day shutdown for maintenance. All works must be completed within this window to avoid production losses.
+`Goal: Create a maintenance schedule that fits within the shutdown window.`
 
-Goal: Create a maintenance schedule that fits within the shutdown window.
+`Prompt:`
 
-Prompt:
+`"You are an Industrial Maintenance Scheduler. Prepare a detailed shutdown maintenance schedule for a manufacturing plant in Gujarat.`
 
-"You are an Industrial Maintenance Scheduler. Prepare a detailed shutdown maintenance schedule for a manufacturing plant in Gujarat.
-
+```
 Your task:
 
 1. Sequence mechanical, electrical, and automation system checks.
@@ -1073,27 +1081,28 @@ Your task:
 4. Include contingency for unexpected repairs.
 
 5. Highlight the restart and commissioning timeline.
+```
+`Output format: Shutdown Schedule (Excel) + Shift Allocation Plan (PDF).`
 
-Output format: Shutdown Schedule (Excel) + Shift Allocation Plan (PDF).
-
-Input Files & Code Section:
-
+`Input Files & Code Section:`
+```
 1. Plant maintenance checklist.
 
 2. Equipment downtime limits.
 
 3. Contractor availability list."
+```
+## Prompt 9 — Stadium Construction Before Event
 
-Prompt 9 — Stadium Construction Before Event
+`Backstory: A cricket stadium in Ahmedabad is being upgraded for an upcoming international event. The deadline is non-negotiable, and delays could lead to penalties.`
 
-Backstory: A cricket stadium in Ahmedabad is being upgraded for an upcoming international event. The deadline is non-negotiable, and delays could lead to penalties.
+`Goal: Create a high-speed construction schedule for stadium upgrades.`
 
-Goal: Create a high-speed construction schedule for stadium upgrades.
+`Prompt:`
 
-Prompt:
+`"You are a Sports Facility Scheduler. Prepare a high-speed construction schedule for a cricket stadium upgrade in Ahmedabad.`
 
-"You are a Sports Facility Scheduler. Prepare a high-speed construction schedule for a cricket stadium upgrade in Ahmedabad.
-
+```
 Your task:
 
 1. Prioritize pitch and seating upgrades.
@@ -1105,27 +1114,28 @@ Your task:
 4. Build in security and accreditation checks before event.
 
 5. Ensure readiness at least 1 week before the event date.
+```
+`Output format: Event Deadline Construction Schedule (Excel) + Readiness Checklist (PDF).`
 
-Output format: Event Deadline Construction Schedule (Excel) + Readiness Checklist (PDF).
-
-Input Files & Code Section:
-
+`Input Files & Code Section:`
+```
 1. Stadium layout and upgrade plans.
 
 2. Event schedule.
 
 3. Contractor work breakdown."
+```
+## Prompt 10 — Mall Refurbishment in Phases
 
-Prompt 10 — Mall Refurbishment in Phases
+`Backstory: A shopping mall in Chennai is undergoing refurbishment while keeping shops operational. The schedule must minimize impact on tenants’ business.`
 
-Backstory: A shopping mall in Chennai is undergoing refurbishment while keeping shops operational. The schedule must minimize impact on tenants’ business.
+`Goal: Create a phased refurbishment schedule for minimal tenant disruption.`
 
-Goal: Create a phased refurbishment schedule for minimal tenant disruption.
+`Prompt:`
 
-Prompt:
+`"You are a Retail Space Project Scheduler. Create a phased refurbishment schedule for a shopping mall in Chennai.`
 
-"You are a Retail Space Project Scheduler. Create a phased refurbishment schedule for a shopping mall in Chennai.
-
+```
 Your task:
 
 1. Plan works section by section to keep most shops open.
@@ -1137,27 +1147,28 @@ Your task:
 4. Coordinate with tenants on delivery schedules.
 
 5. Build in a marketing phase for the reopening.
+```
+`Output format: Phased Refurbishment Schedule (Excel) + Tenant Coordination Plan (PDF).`
 
-Output format: Phased Refurbishment Schedule (Excel) + Tenant Coordination Plan (PDF).
-
-Input Files & Code Section:
-
+`Input Files & Code Section:`
+```
 1. Mall floor plans.
 
 2. Tenant occupancy list.
 
 3. Night work permit requirements."
+```
+## Prompt 11 — Railway Track Doubling Schedule
 
-Prompt 11 — Railway Track Doubling Schedule
+`Backstory: Indian Railways is doubling a section of track to improve capacity. Works must be scheduled around operational train timings.`
 
-Backstory: Indian Railways is doubling a section of track to improve capacity. Works must be scheduled around operational train timings.
+`Goal: Create a track doubling schedule without major disruption to rail traffic.`
 
-Goal: Create a track doubling schedule without major disruption to rail traffic.
+`Prompt:`
 
-Prompt:
+`"You are a Railway Project Scheduler. Create a construction schedule for doubling a railway track section.`
 
-"You are a Railway Project Scheduler. Create a construction schedule for doubling a railway track section.
-
+```
 Your task:
 
 1. Sequence works for earthwork, track laying, signaling, and electrification.
@@ -1169,27 +1180,28 @@ Your task:
 4. Add milestones for railway safety inspections.
 
 5. Build in contingency for unexpected operational needs.
+```
+`Output format: Track Doubling Schedule (Excel) + Train Disruption Mitigation Plan (PDF).`
 
-Output format: Track Doubling Schedule (Excel) + Train Disruption Mitigation Plan (PDF).
-
-Input Files & Code Section:
-
+`Input Files & Code Section:`
+```
 1. Railway alignment plan.
 
 2. Train schedule.
 
 3. Safety inspection checklist."
+```
+## Prompt 12 — Data Center Build-Out Schedule
 
-Prompt 12 — Data Center Build-Out Schedule
+`Backstory: A tech company in Hyderabad is building a data center. The schedule must integrate civil, electrical, HVAC, and IT infrastructure works seamlessly.`
 
-Backstory: A tech company in Hyderabad is building a data center. The schedule must integrate civil, electrical, HVAC, and IT infrastructure works seamlessly.
+`Goal: Create a build-out schedule that ensures readiness for server installation on time.`
 
-Goal: Create a build-out schedule that ensures readiness for server installation on time.
+`Prompt:`
 
-Prompt:
+`"You are a Data Center Project Scheduler. Prepare a build-out schedule for a Tier-4 data center in Hyderabad.`
 
-"You are a Data Center Project Scheduler. Prepare a build-out schedule for a Tier-4 data center in Hyderabad.
-
+```
 Your task:
 
 1. Sequence civil, raised flooring, and MEP works.
@@ -1201,27 +1213,28 @@ Your task:
 4. Build in redundancy checks before commissioning.
 
 5. Align schedule with client’s go-live date.
+```
+`Output format: Build-Out Schedule (Excel) + Commissioning Checklist (PDF).`
 
-Output format: Build-Out Schedule (Excel) + Commissioning Checklist (PDF).
-
-Input Files & Code Section:
-
+`Input Files & Code Section:`
+```
 1. Data center design drawings.
 
 2. IT equipment delivery schedules.
 
 3. HVAC system specs."
+```
+## Prompt 13 — Dam Construction Schedule
 
-Prompt 13 — Dam Construction Schedule
+`Backstory: A large dam project in Madhya Pradesh must be completed in 4 years, with strict seasonal work restrictions due to monsoon.`
 
-Backstory: A large dam project in Madhya Pradesh must be completed in 4 years, with strict seasonal work restrictions due to monsoon.
+`Goal: Create a seasonal work schedule for dam construction.`
 
-Goal: Create a seasonal work schedule for dam construction.
+`Prompt:`
 
-Prompt:
+`"You are a Hydraulic Structure Scheduler. Prepare a 4-year construction schedule for a large dam project.`
 
-"You are a Hydraulic Structure Scheduler. Prepare a 4-year construction schedule for a large dam project.
-
+```
 Your task:
 
 1. Sequence excavation, RCC, and spillway works around monsoon.
@@ -1233,27 +1246,28 @@ Your task:
 4. Build in environmental clearance milestones.
 
 5. Provide an annual progress review schedule.
+```
+`Output format: Multi-Year Construction Schedule (Excel) + Seasonal Work Plan (PDF).`
 
-Output format: Multi-Year Construction Schedule (Excel) + Seasonal Work Plan (PDF).
-
-Input Files & Code Section:
-
+`Input Files & Code Section:`
+```
 1. Dam design drawings.
 
 2. Seasonal rainfall data.
 
 3. Environmental clearance conditions."
+```
+## Prompt 14 — Wind Turbine Installation Schedule
 
-Prompt 14 — Wind Turbine Installation Schedule
+`Backstory: A wind farm in Gujarat requires 50 turbines to be installed before the next fiscal year for subsidy eligibility.`
 
-Backstory: A wind farm in Gujarat requires 50 turbines to be installed before the next fiscal year for subsidy eligibility.
+`Goal: Create an installation schedule that ensures all turbines are operational before the deadline.`
 
-Goal: Create an installation schedule that ensures all turbines are operational before the deadline.
+`Prompt:`
 
-Prompt:
+`"You are a Renewable Energy Project Scheduler. Prepare a turbine installation schedule for a wind farm in Gujarat.`
 
-"You are a Renewable Energy Project Scheduler. Prepare a turbine installation schedule for a wind farm in Gujarat.
-
+```
 Your task:
 
 1. Sequence foundation works, tower erection, and blade installation.
@@ -1265,27 +1279,28 @@ Your task:
 4. Include quality inspection milestones.
 
 5. Ensure project readiness before subsidy deadline.
+```
+`Output format: Installation Schedule (Excel) + Equipment Allocation Plan (PDF).`
 
-Output format: Installation Schedule (Excel) + Equipment Allocation Plan (PDF).
-
-Input Files & Code Section:
-
+`Input Files & Code Section:`
+```
 1. Wind farm site layout.
 
 2. Turbine delivery schedule.
 
 3. Electrical connection plan."
+```
+## Prompt 15 — Urban Metro Tunnel Boring Schedule
 
-Prompt 15 — Urban Metro Tunnel Boring Schedule
+`Backstory: A metro tunnel project in Kolkata requires synchronized boring machine operations with station excavation works.`
 
-Backstory: A metro tunnel project in Kolkata requires synchronized boring machine operations with station excavation works.
+`Goal: Create a schedule that optimizes TBM (Tunnel Boring Machine) usage and minimizes idle time.`
 
-Goal: Create a schedule that optimizes TBM (Tunnel Boring Machine) usage and minimizes idle time.
+`Prompt:`
 
-Prompt:
+`"You are an Urban Metro Scheduler. Create a tunnel boring schedule for the Kolkata metro project.`
 
-"You are an Urban Metro Scheduler. Create a tunnel boring schedule for the Kolkata metro project.
-
+```
 Your task:
 
 1. Plan TBM operation timelines with daily progress targets.
@@ -1297,17 +1312,17 @@ Your task:
 4. Build in contingency for ground condition delays.
 
 5. Provide an equipment utilization report.
+```
+`Output format: TBM Schedule (Excel) + Progress Tracking Template (PDF).`
 
-Output format: TBM Schedule (Excel) + Progress Tracking Template (PDF).
-
-Input Files & Code Section:
-
+`Input Files & Code Section:`
+```
 1. Metro tunnel alignment drawings.
 
 2. TBM performance data.
 
 3. Station excavation plans."
-
+```
 Prompt 16 — Airport Terminal Expansion Schedule
 
 Backstory: A major airport in Delhi is expanding its terminal to handle increased passenger capacity. The project must be completed without disrupting existing flights and passenger services.
