@@ -1620,132 +1620,202 @@ Output Format:
 2. Captions (Word/PDF)"
 
 Prompt 21 — Comparison Posts
+
 Backstory: People love “X vs Y” posts — they help make quick decisions and spark debates.
+
 Goal: Create comparison content with clear, fair analysis.
 
 Prompt:
+
 "You are an Instagram Comparison Content Creator. For the given niche, create 3 comparison post/reel concepts that:
 
-Compare two popular options/products.
-Use visuals to show pros/cons clearly.
-Include captions that guide towards the best choice.
-Avoid overly negative language.
-Include CTA to comment their preference.
+1. Compare two popular options/products.
+
+2. Use visuals to show pros/cons clearly.
+
+3. Include captions that guide towards the best choice.
+
+4. Avoid overly negative language.
+
+5. Include CTA to comment their preference.
+
 Inputs Needed:
 
-Two items to compare
-Target audience preferences
+1. Two items to compare
+
+2. Target audience preferences
+
 Output Format:
 
-Comparison Table (Excel: Feature, Option A, Option B)
-Captions (Word/PDF)"
+1. Comparison Table (Excel: Feature, Option A, Option B)
+
+2. Captions (Word/PDF)"
 
 Prompt 22 — Weekly Roundup Posts
+
 Backstory: Followers often miss posts during the week — roundups bring them back.
+
 Goal: Summarise weekly highlights in one post or carousel.
 
 Prompt:
+
 "You are an Instagram Recap Strategist. For the given niche, create a weekly recap post concept that:
 
-Summarises 3–5 key updates/tips from the week.
-Uses a consistent visual template.
-Has captions that link back to original posts.
-Includes a CTA to follow for next week’s roundup.
-Can be reused weekly with minimal changes.
+1. Summarises 3–5 key updates/tips from the week.
+
+2. Uses a consistent visual template.
+
+3. Has captions that link back to original posts.
+
+4. Includes a CTA to follow for next week’s roundup.
+
+5. Can be reused weekly with minimal changes.
+
 Inputs Needed:
 
-Niche/topic
-Week’s main content pieces
+1. Niche/topic
+
+2. Week’s main content pieces
+
 Output Format:
 
-Recap Template Plan (Excel: Slide, Content, Visual)
-Captions (Word/PDF)"
+1. Recap Template Plan (Excel: Slide, Content, Visual)
+
+2. Captions (Word/PDF)"
 
 Prompt 23 — Relatable Life Hacks
+
 Backstory: Quick, relatable hacks go viral because they solve everyday problems.
+
 Goal: Share life hacks in a niche that spark “I need this!” reactions.
 
 Prompt:
+
 "You are an Instagram Life Hack Creator. For the given niche, create 3 Reel/post ideas that:
 
-Show a common pain point in the first 2 seconds.
-Reveal a clever, simple solution.
-Use captions that make it shareable with friends.
-Suggest relevant audio.
-End with a subtle CTA to follow for more hacks.
+1. Show a common pain point in the first 2 seconds.
+
+2. Reveal a clever, simple solution.
+
+3. Use captions that make it shareable with friends.
+
+4. Suggest relevant audio.
+
+5. End with a subtle CTA to follow for more hacks.
+
 Inputs Needed:
 
-Niche/problem area
-Hack details
+1. Niche/problem area
+
+2. Hack details
+
 Output Format:
 
-Hack Plan (Excel: Problem, Solution, Visual)
-Captions (Word/PDF)"
+1. Hack Plan (Excel: Problem, Solution, Visual)
+
+2. Captions (Word/PDF)"
 
 Prompt 24 — Inspirational Quotes with Context
+
 Backstory: Quotes work when paired with relatable backstories.
+
 Goal: Post quotes with captions that give them deeper meaning.
 
 Prompt:
+
 "You are an Instagram Motivational Content Planner. For the given theme, create 3 quote post ideas that:
 
-Feature visually striking text design.
-Include captions explaining the quote’s relevance today.
-Relate to Indian cultural or work-life scenarios.
-Include hashtags for motivation/inspiration niches.
-Suggest background visuals or stock footage.
+1. Feature visually striking text design.
+
+2. Include captions explaining the quote’s relevance today.
+
+3. Relate to Indian cultural or work-life scenarios.
+
+4. Include hashtags for motivation/inspiration niches.
+
+5. Suggest background visuals or stock footage.
+
 Inputs Needed:
 
-Theme (success, self-love, resilience)
-Audience type
+1. Theme (success, self-love, resilience)
+
+2. Audience type
+
 Output Format:
 
-Quote & Caption Table (Excel: Quote, Backstory, Visual)
-Captions (Word/PDF)"
+1. Quote & Caption Table (Excel: Quote, Backstory, Visual)
+
+2. Captions (Word/PDF)"
 
 Prompt 25 — FAQs in Reel Format
+
 Backstory: Followers often ask the same questions — answering them publicly saves time and builds authority.
+
 Goal: Turn FAQs into short, engaging Reels with captions for clarity.
 
 Prompt:
+
 "You are an Instagram FAQ Video Creator. For the given niche, create 5 FAQ Reels that:
 
-Start with the question in on-screen text.
-Answer in under 30 seconds with clear steps or advice.
-Use captions to reinforce the key points.
-Suggest relevant hashtags.
-End with a CTA to DM more questions.
+1. Start with the question in on-screen text.
+
+2. Answer in under 30 seconds with clear steps or advice.
+
+3. Use captions to reinforce the key points.
+
+4. Suggest relevant hashtags.
+
+5. End with a CTA to DM more questions.
+
 Inputs Needed:
 
-List of FAQs
-Audience expertise level
+1. List of FAQs
+
+2. Audience expertise level
+
 Output Format:
 
-FAQ Plan (Excel: Question, Visual, Answer Outline)
-Captions (Word/PDF)"
+1. FAQ Plan (Excel: Question, Visual, Answer Outline)
+
+2. Captions (Word/PDF)"
 
 
 LinkedIn Content Strategy
 
 Prompt 1 — Personal Branding Profile Overhaul
+
 Backstory: Many LinkedIn users have outdated or generic profiles, which means recruiters, clients, and collaborators scroll past without connecting.
+
 Goal: Optimise a user’s entire LinkedIn profile to communicate credibility, personality, and expertise.
 
 Prompt:
+
 "You are a LinkedIn Personal Branding Consultant. Audit and rewrite my LinkedIn profile to:
 
-Craft a headline that balances keywords + personality.
-Rewrite the About section in a storytelling tone that highlights expertise, achievements, and mission.
-Optimise experience descriptions to show measurable impact (numbers, % improvements, awards).
-Suggest 5 banner image ideas that visually communicate my niche.
-Recommend 5 keyword phrases to naturally embed for search visibility.
+1. Craft a headline that balances keywords + personality.
+
+2. Rewrite the About section in a storytelling tone that highlights expertise, achievements, and mission.
+
+3. Optimise experience descriptions to show measurable impact (numbers, % improvements, awards).
+
+4. Suggest 5 banner image ideas that visually communicate my niche.
+
+5. Recommend 5 keyword phrases to naturally embed for search visibility.
+
 Inputs:
 
-Current profile link or text export
-Niche/profession
-Career achievements and measurable results
-Tone preference (formal, friendly, bold)
+1. Current profile link or text export
+
+2. Niche/profession
+
+3. Career achievements and measurable results
+
+4. Tone preference (formal, friendly, bold)
+
 Output Format:
 
-Profile Overhaul Document (Word/PDF: Headline, About, Experience, Skills)
-Keyword List (Excel: Phrase, Search Volume, Placement Suggestion)"
+1. Profile Overhaul Document (Word/PDF: Headline, About, Experience, Skills)
+
+2. Keyword List (Excel: Phrase, Search Volume, Placement Suggestion)"
+
+
