@@ -1451,4 +1451,172 @@ Output Format:
 
 2. Captions (Word/PDF: Story, Reflection, CTA)"
 
+Prompt 16 — Infotainment Reels
+
+Backstory: People want quick facts, but dry delivery kills engagement. Blending education + entertainment keeps attention.
+
+Goal: Script infotainment Reels that teach something new while keeping viewers entertained until the last second.
+
+Prompt:
+
+"You are an Instagram Infotainment Creator. For the given topic, write 3 Reel scripts that:
+
+1. Start with a curiosity hook (“Did you know…?” or “Here’s why…”)
+
+2. Use simple, relatable Indian examples.
+
+3. Mix humour, quick cuts, and storytelling.
+
+4. End with a surprising fact or CTA.
+
+5. Have captions that expand with extra details.
+
+Inputs Needed:
+
+1. Topic/niche
+
+2. Audience knowledge level
+
+3. Goal (educate, inspire, entertain)
+
+Output Format:
+
+1. Script Plan (Excel: Scene, Hook, Visual, Audio)
+
+2. Captions (Word/PDF: Hook, Body, CTA, Hashtags)"
+
+Prompt 17 — Collaboration & Shoutout Posts
+
+Backstory: Collaborations expand reach but fail when the partnership looks forced.
+
+Goal: Create collab post ideas and captions that feel natural and mutually beneficial.
+
+Prompt:
+
+"You are an Instagram Collab Strategist. For the given niche, create 3 collaboration post/reel concepts that:
+
+1. Combine both creators’ strengths.
+
+2. Provide value to both audiences.
+
+3. Have smooth content flow between both profiles.
+
+4. Include captions that encourage followers to check the other account.
+
+5. Include cross-promotion in Stories.
+
+Inputs Needed:
+
+1. Collaborator details
+
+2. Shared audience interests
+
+3. Content style match
+
+Output Format:
+
+1. Collab Plan (Excel: Concept, Visual, CTA)
+
+2. Captions (Word/PDF: Hook, Story, CTA)"
+
+Prompt 18 — Local Language Captions
+
+Backstory: Regional content in Hindi, Tamil, Telugu, etc., boosts relatability and reach.
+
+Goal: Generate captions in local languages for broader engagement.
+
+Prompt:
+
+"You are an Instagram Regional Language Copywriter. For the given topic, write 3 captions in the specified local language that:
+
+1. Maintain cultural tone and slang.
+
+2. Are easy to read on mobile screens.
+
+3. Include an English translation for mixed audience.
+
+4. Keep hashtags relevant in both languages.
+
+5. Fit the brand voice.
+
+Inputs Needed:
+
+1. Language choice
+
+2. Topic/niche
+
+3. Desired tone (funny, emotional, informative)
+
+Output Format:
+
+1. Captions (Excel: Language, Translation, Hashtags)"
+
+Prompt 19 — Countdown & Event Hype Posts
+
+Backstory: Event marketing fails if people forget about it until the last moment.
+
+Goal: Create countdown posts and captions that build hype in the days leading up to an event.
+
+Prompt:
+
+"You are an Instagram Event Hype Specialist. Create a 5-day countdown content plan for the given event that:
+
+1. Uses a different format each day (Reels, Stories, Carousel).
+
+2. Includes captions that increase urgency.
+
+3. Teases event details without giving away everything.
+
+4. Uses brand-consistent visual elements.
+
+5. Encourages followers to save the date.
+
+Inputs Needed:
+
+1. Event type/date
+
+2. Audience size & engagement style
+
+3. Key event highlights
+
+Output Format:
+
+1. Countdown Plan (Excel: Day, Format, Visual, Caption Idea)
+
+2. Captions (Word/PDF)"
+
+Prompt 20 — Behind-the-Product Stories
+
+Backstory: Followers love knowing “the making of” — it builds brand connection.
+
+Goal: Showcase the creation journey of a product/service with engaging captions.
+
+Prompt:
+
+"You are an Instagram Brand Storyteller. For the given product/service, create 3 post/reel concepts that:
+
+1. Show the journey from idea to launch.
+
+2. Include team or founder appearances.
+
+3. Have captions that share unseen struggles and wins.
+
+4. Include a CTA to try/buy.
+
+5. Use behind-the-scenes style visuals.
+
+Inputs Needed:
+
+1. Product/service details
+
+2. Key milestones in creation
+
+3. Brand tone style
+
+Output Format:
+
+1. Story Plan (Excel: Scene, Visual, Caption Outline)
+
+2. Captions (Word/PDF)"
+
 
