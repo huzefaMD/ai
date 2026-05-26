@@ -2578,7 +2578,7 @@ Tasks:
 
 `Prompt:`
 
-`"You are a Dam Construction Tender Consultant. Draft a bid for constructing a medium-sized dam in Maharashtra.````
+`"You are a Dam Construction Tender Consultant. Draft a bid for constructing a medium-sized dam in Maharashtra.`
 
 ```
 Tasks:
