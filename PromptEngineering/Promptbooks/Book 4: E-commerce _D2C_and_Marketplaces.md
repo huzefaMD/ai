@@ -3869,11 +3869,11 @@ Tasks:
 
 ## Prompt 7 — Influencer Collaboration Plan
 
-`Backstory: Your brand’s influencer campaigns are random and lack strategy during festive sales.
+`Backstory: Your brand’s influencer campaigns are random and lack strategy during festive sales.`
 
-`Goal: Build a structured influencer marketing plan for seasonal sales.
+`Goal: Build a structured influencer marketing plan for seasonal sales.`
 
-`Prompt:
+`Prompt:`
 
 `"You are an E-commerce Influencer Campaign Manager. Create a structured influencer collaboration plan for festive season sales.`
 
