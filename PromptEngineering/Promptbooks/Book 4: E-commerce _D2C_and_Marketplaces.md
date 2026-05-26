@@ -3473,16 +3473,17 @@ Tasks:
 
 3. Lead time data."
 ```
-Prompt 22 — Backorder Management System
+## Prompt 22 — Backorder Management System
 
-Backstory: Your customized furniture business often gets orders for items not in stock yet, leading to customer dissatisfaction.
+`Backstory: Your customized furniture business often gets orders for items not in stock yet, leading to customer dissatisfaction.`
 
-Goal: Create a transparent backorder management process.
+`Goal: Create a transparent backorder management process.`
 
-Prompt:
+`Prompt:`
 
-"You are an E-commerce Order Flow Specialist. Build a backorder management system.
+`"You are an E-commerce Order Flow Specialist. Build a backorder management system.`
 
+```
 Tasks:
 
 1. Define clear customer communication templates for backorders.
@@ -3494,33 +3495,34 @@ Tasks:
 4. Provide alternative product suggestions to customers.
 
 5. Include metrics to track backorder fulfillment rate.
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Backorder SOP (DOCX)
 
 2. CRM Integration Workflow (PDF)
 
 3. Communication Templates (Excel)
-
-Inputs Needed:
-
+```
+`Inputs Needed:`
+```
 1. Production timelines
 
 2. CRM API access
 
 3. Product substitution list."
+```
+## Prompt 23 — Cross-Docking Workflow
 
-Prompt 23 — Cross-Docking Workflow
+`Backstory: You want to move fast-moving SKUs directly from supplier trucks to delivery vans without storing them in warehouses.`
 
-Backstory: You want to move fast-moving SKUs directly from supplier trucks to delivery vans without storing them in warehouses.
+`Goal: Implement a cross-docking process for speed and cost savings.`
 
-Goal: Implement a cross-docking process for speed and cost savings.
+`Prompt:`
 
-Prompt:
+`"You are a Logistics Process Designer. Create a cross-docking SOP.`
 
-"You are a Logistics Process Designer. Create a cross-docking SOP.
-
+```
 Tasks:
 
 1. Define product eligibility criteria for cross-docking.
@@ -3532,33 +3534,34 @@ Tasks:
 4. Provide contingency plans for supplier delays.
 
 5. Recommend performance KPIs for cross-docking efficiency.
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Cross-Docking SOP (DOCX)
 
 2. Process Flow Diagram (PDF)
 
 3. Supplier Scheduling Template (Excel)
-
-Inputs Needed:
-
+```
+`Inputs Needed:`
+```
 1. Supplier delivery schedules
 
 2. SKU velocity data
 
 3. Dispatch capacity details."
+```
+## Prompt 24 — Returns-Driven Inventory Planning
 
-Prompt 24 — Returns-Driven Inventory Planning
+`Backstory: Your fashion store sees 15% returns on average due to size/fit issues, which affects replenishment planning.`
 
-Backstory: Your fashion store sees 15% returns on average due to size/fit issues, which affects replenishment planning.
+`Goal: Build a replenishment system that factors in returns data.`
 
-Goal: Build a replenishment system that factors in returns data.
+`Prompt:`
 
-Prompt:
+`"You are an E-commerce Returns Data Analyst. Create a returns-driven inventory planning model.`
 
-"You are an E-commerce Returns Data Analyst. Create a returns-driven inventory planning model.
-
+```
 Tasks:
 
 1. Analyze returns by SKU to identify patterns.
@@ -3570,33 +3573,34 @@ Tasks:
 4. Recommend return-specific promotions to clear returned stock.
 
 5. Provide a dashboard for tracking return-adjusted stock levels.
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Returns Analysis Report (Excel)
 
 2. Planning Model Script (Python/Excel)
 
 3. Dashboard Mockup (PDF)
-
-Inputs Needed:
-
+```
+`Inputs Needed:`
+```
 1. SKU-level return data
 
 2. Sales data
 
 3. Product feedback reports."
+```
+## Prompt 25 — Inventory KPI Tracking & Reporting
 
-Prompt 25 — Inventory KPI Tracking & Reporting
+`Backstory: Your CEO wants a monthly one-page inventory health report to track performance.`
 
-Backstory: Your CEO wants a monthly one-page inventory health report to track performance.
+`Goal: Build a KPI tracking system for inventory management.`
 
-Goal: Build a KPI tracking system for inventory management.
+`Prompt:`
 
-Prompt:
+`"You are an Inventory Performance Analyst. Create a KPI dashboard and reporting workflow.`
 
-"You are an Inventory Performance Analyst. Create a KPI dashboard and reporting workflow.
-
+```
 Tasks:
 
 1. Define core KPIs: Stock Turnover, Fill Rate, Aging Stock %, Stockout Rate.
@@ -3608,36 +3612,37 @@ Tasks:
 4. Include traffic light (RAG) indicators for performance.
 
 5. Recommend monthly review process.
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. KPI Dashboard (Power BI/Excel)
 
 2. Report Template (DOCX)
 
 3. Review Meeting Agenda (PDF)
-
-Inputs Needed:
-
+```
+`Inputs Needed:`
+```
 1. Inventory system data
 
 2. Sales data
 
 3. KPI benchmarks."
+```
 
+# Seasonal Sale Strategies
 
-Seasonal Sale Strategies
+## Prompt 1 — Seasonal Sale Master Plan Blueprint
 
-Prompt 1 — Seasonal Sale Master Plan Blueprint
+`Backstory: Your brand sells fashion apparel and participates in seasonal sales like Diwali, Holi, and End-of-Season clearance. However, previous sales were chaotic — inventory mismatches, delayed promotions, and inconsistent messaging reduced sales performance.`
 
-Backstory: Your brand sells fashion apparel and participates in seasonal sales like Diwali, Holi, and End-of-Season clearance. However, previous sales were chaotic — inventory mismatches, delayed promotions, and inconsistent messaging reduced sales performance.
+`Goal: Build a detailed seasonal sale master plan that covers pre-sale preparation, execution, and post-sale evaluation.`
 
-Goal: Build a detailed seasonal sale master plan that covers pre-sale preparation, execution, and post-sale evaluation.
+`Prompt:`
 
-Prompt:
+`"You are an E-commerce Seasonal Sales Strategist. Create a complete seasonal sale master plan for an Indian apparel brand targeting ages 20–35.`
 
-"You are an E-commerce Seasonal Sales Strategist. Create a complete seasonal sale master plan for an Indian apparel brand targeting ages 20–35.
-
+```
 Tasks:
 
 1. Define pre-sale preparation steps (inventory checks, vendor negotiations, creative asset development).
@@ -3649,33 +3654,34 @@ Tasks:
 4. Recommend multi-channel promotion strategies (website, social media, email, marketplaces).
 
 5. Include post-sale performance review metrics.
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Seasonal Sale Playbook (DOCX)
 
 2. Promotional Calendar (Excel)
 
 3. Sale Performance Review Template (Excel)
-
-Inputs Needed:
-
+```
+`Inputs Needed:`
+```
 1. Product catalog with margins
 
 2. Previous sales data
 
 3. Marketing budget & available channels."
+```
+## Prompt 2 — Diwali Sale Consumer Behavior Insights
 
-Prompt 2 — Diwali Sale Consumer Behavior Insights
+`Backstory: Your electronics D2C store sees huge spikes in orders during Diwali but struggles to predict which products will sell most.`
 
-Backstory: Your electronics D2C store sees huge spikes in orders during Diwali but struggles to predict which products will sell most.
+`Goal: Use AI to analyze past Diwali trends and predict top sellers for the upcoming season.`
 
-Goal: Use AI to analyze past Diwali trends and predict top sellers for the upcoming season.
+`Prompt:`
 
-Prompt:
+`"You are an E-commerce Consumer Insights Analyst. Analyze Diwali sales trends and predict the top 10 products likely to sell in the upcoming season.`
 
-"You are an E-commerce Consumer Insights Analyst. Analyze Diwali sales trends and predict the top 10 products likely to sell in the upcoming season.
-
+```
 Tasks:
 
 1. Pull historical sales data from the last 3 Diwalis.
@@ -3687,23 +3693,23 @@ Tasks:
 4. Recommend promotional bundles based on buying patterns.
 
 5. Suggest ideal stock levels for each top seller.
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Diwali Trend Report (DOCX)
 
 2. Sales Forecast Sheet (Excel)
 
 3. Promotional Bundle Suggestions (Excel)
-
-Inputs Needed:
-
+```
+`Inputs Needed:`
+```
 1. Historical sales data (min. 3 years)
 
 2. Product catalog with margins
 
 3. Inventory availability."
-
+```
 Prompt 3 — Festive Email Marketing Sequences
 
 Backstory: Your brand’s email campaigns are inconsistent during sales, leading to missed engagement opportunities.
