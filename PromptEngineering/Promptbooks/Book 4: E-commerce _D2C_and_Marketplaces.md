@@ -2545,16 +2545,17 @@ Tasks:
 ```
 `Delivery timelines."`
 
-Prompt 23 — Scripts for Subscription Renewal Reminders
+## Prompt 23 — Scripts for Subscription Renewal Reminders
 
-Backstory: A customer’s monthly coffee subscription is about to expire.
+`Backstory: A customer’s monthly coffee subscription is about to expire.`
 
-Goal: Encourage timely renewal through friendly reminders.
+`Goal: Encourage timely renewal through friendly reminders.`
 
-Prompt:
+`Prompt:`
 
-"You are a Subscription Renewal Script Specialist. Write scripts for reminding customers about upcoming renewals.
+`"You are a Subscription Renewal Script Specialist. Write scripts for reminding customers about upcoming renewals.`
 
+```
 Tasks:
 
 1. Create 3 reminder scripts for email/SMS.
@@ -2566,29 +2567,30 @@ Tasks:
 4. Include placeholders for renewal link and expiration date.
 
 5. Maintain a warm, value-driven tone.
-
-Output format:
-
+```
+`Output format:`
+```
 1. Renewal Reminder Script Pack (DOCX)
 
 2. Renewal Tracking Sheet (Excel)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Subscription terms
+```
+`Renewal incentive list."`
 
-Renewal incentive list."
+## Prompt 24 — Scripts for Handling Multi-Language Customer Queries
 
-Prompt 24 — Scripts for Handling Multi-Language Customer Queries
+`Backstory: Your e-commerce store caters to customers across India, and a buyer from Tamil Nadu contacts customer service in Tamil.`
 
-Backstory: Your e-commerce store caters to customers across India, and a buyer from Tamil Nadu contacts customer service in Tamil.
+`Goal: Offer scripts that can be localised for regional languages.`
 
-Goal: Offer scripts that can be localised for regional languages.
+`Prompt:`
 
-Prompt:
+`"You are a Multi-Language Customer Service Specialist. Write scripts for handling regional language queries.`
 
-"You are a Multi-Language Customer Service Specialist. Write scripts for handling regional language queries.
-
+```
 Tasks:
 
 1. Create standard responses in English, then provide translatable placeholders.
@@ -2600,29 +2602,30 @@ Tasks:
 4. Provide 3 examples in Hindi, Tamil, and Bengali.
 
 5. Maintain clarity while respecting linguistic nuances.
-
-Output format:
-
+```
+`Output format:`
+```
 1. Multi-Language Script Pack (DOCX)
 
 2. Translation Placeholder Sheet (Excel)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Customer location data
+```
+`Translation service API access."`
 
-Translation service API access."
+## Prompt 25 — Scripts for Holiday Season Overload Management
 
-Prompt 25 — Scripts for Holiday Season Overload Management
+`Backstory: During Diwali, customer service receives triple the normal volume of queries. Customers expect quick replies despite the overload.`
 
-Backstory: During Diwali, customer service receives triple the normal volume of queries. Customers expect quick replies despite the overload.
+`Goal: Create scalable, time-saving scripts for high-volume periods.`
 
-Goal: Create scalable, time-saving scripts for high-volume periods.
+`Prompt:`
 
-Prompt:
+`"You are an E-commerce Holiday Operations Specialist. Write scripts for handling peak season queries efficiently.`
 
-"You are an E-commerce Holiday Operations Specialist. Write scripts for handling peak season queries efficiently.
-
+```
 Tasks:
 
 1. Create 3 “delay acknowledgment” templates for email/chat.
@@ -2634,21 +2637,21 @@ Tasks:
 4. Include placeholders for expected delay time and delivery estimates.
 
 5. Maintain festive yet professional tone to match the season.
-
-Output format:
-
+```
+`Output format:`
+```
 1. Holiday Season Script Pack (DOCX)
 
 2. FAQ Automation Sheet (Excel)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Holiday season order data
 
 2. Standard FAQ list."
+```
 
-
-Inventory & Order Management
+# Inventory & Order Management
 
 Prompt 1 — Automating Low Stock Alerts
 
