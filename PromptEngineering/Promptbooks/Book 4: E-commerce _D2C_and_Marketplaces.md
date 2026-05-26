@@ -1,4 +1,4 @@
-# Product Listing Optimisation (Amazon, Flipkart, Meesho)
+ # Product Listing Optimisation (Amazon, Flipkart, Meesho)
 
 ## Prompt 1 — Amazon SEO-Optimised Product Title Creation
 
@@ -1845,16 +1845,17 @@ Tasks:
 
 2. Warehouse defect rate reports."
 ```
-Prompt 3 — De-escalating Angry Customers
+## Prompt 3 — De-escalating Angry Customers
 
-Backstory: A customer ordered a premium smartwatch for a wedding gift, but delivery was delayed beyond the event date. They’re furious and threatening to leave negative reviews online.
+`Backstory: A customer ordered a premium smartwatch for a wedding gift, but delivery was delayed beyond the event date. They’re furious and threatening to leave negative reviews online.`
 
-Goal: Create multi-step scripts to calm, acknowledge, and resolve customer frustration.
+`Goal: Create multi-step scripts to calm, acknowledge, and resolve customer frustration.`
 
-Prompt:
+`Prompt:`
 
-"You are an E-commerce Customer De-escalation Expert. Write scripts to defuse high-emotion situations.
+`"You are an E-commerce Customer De-escalation Expert. Write scripts to defuse high-emotion situations.`
 
+```
 Tasks:
 
 1. Create 3 “First Response” scripts for live chat to acknowledge the issue instantly.
@@ -1866,29 +1867,30 @@ Tasks:
 4. Suggest a tone switch strategy for moving from defensive to proactive help.
 
 5. Add a final thank-you script for retained customers post-resolution.
-
-Output format:
-
+```
+`Output format:`
+```
 1. De-escalation Script Pack (DOCX)
 
 2. Emotional Tone Strategy Sheet (Excel)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Brand crisis communication guidelines
+```
+`Examples of past escalations."`
 
-Examples of past escalations."
+## Prompt 4 — Guiding First-Time Customers Through Return Process
 
-Prompt 4 — Guiding First-Time Customers Through Return Process
+`Backstory: A first-time buyer ordered running shoes, but the size doesn’t fit. They’ve never returned anything online before and are nervous about the process.`
 
-Backstory: A first-time buyer ordered running shoes, but the size doesn’t fit. They’ve never returned anything online before and are nervous about the process.
+`Goal: Create clear, step-by-step scripts to make the return feel easy and trustworthy.`
 
-Goal: Create clear, step-by-step scripts to make the return feel easy and trustworthy.
+`Prompt:`
 
-Prompt:
+`"You are an E-commerce Customer Education Specialist. Write scripts to guide first-time customers through the return process.`
 
-"You are an E-commerce Customer Education Specialist. Write scripts to guide first-time customers through the return process.
-
+```
 Tasks:
 
 1. Write 3 friendly email templates with step-by-step instructions.
@@ -1900,29 +1902,30 @@ Tasks:
 4. Suggest a final follow-up message encouraging another purchase.
 
 5. Maintain a helpful and encouraging tone throughout.
-
-Output format:
-
+```
+`Output format:`
+```
 1. Return Guidance Script Pack (DOCX)
 
 2. Process Checklist (Excel)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Return policy PDF
 
 2. Size guide."
+```
+## Prompt 5 — Offering Solutions for Stock-Out Situations
 
-Prompt 5 — Offering Solutions for Stock-Out Situations
+`Backstory: A customer ordered a limited-edition wireless speaker, but it’s now out of stock. This is a high-risk situation for disappointment and negative feedback.`
 
-Backstory: A customer ordered a limited-edition wireless speaker, but it’s now out of stock. This is a high-risk situation for disappointment and negative feedback.
+`Goal: Create scripts offering alternatives that feel equally valuable.`
 
-Goal: Create scripts offering alternatives that feel equally valuable.
+`Prompt:`
 
-Prompt:
+`"You are an E-commerce Alternative Product Solutions Specialist. Write scripts for handling stock-out situations.`
 
-"You are an E-commerce Alternative Product Solutions Specialist. Write scripts for handling stock-out situations.
-
+```
 Tasks:
 
 1. Create 3 apology scripts for chat, 3 for email, and 2 for phone.
@@ -1934,19 +1937,19 @@ Tasks:
 4. Include psychological reassurance phrases to maintain brand trust.
 
 5. Add final follow-up message if the customer chooses the alternative.
-
-Output format:
-
+```
+`Output format:`
+```
 1. Stock-Out Resolution Script Pack (DOCX)
 
 2. Alternative Product List Template (Excel)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Inventory data
 
 2. Alternative product catalogue."
-
+```
 Prompt 6 — Addressing Shipping Damage Reports
 
 Backstory: A customer ordered a glass vase and received it shattered due to mishandling during delivery. The customer is upset and has posted photos on Instagram tagging your brand.
