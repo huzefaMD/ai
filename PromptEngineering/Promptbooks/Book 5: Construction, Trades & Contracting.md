@@ -3539,7 +3539,7 @@ Tasks:
 3. Attendance & Completion Log (Excel)
 ```
 `Input Files Required:`
-``
+```
 1. Site safety policy
 
 2. Hazard identification report
@@ -3586,18 +3586,19 @@ Tasks:
 3. Data source file formats."
 ```
 
-Client Communication & Reporting
+# Client Communication & Reporting
 
-Prompt 1 — Weekly Progress Report for Client
+## Prompt 1 — Weekly Progress Report for Client
 
-Backstory: A luxury residential tower in Mumbai is in its 14th month of construction. The client is a real estate investment firm that demands concise yet detailed weekly updates to share with stakeholders abroad.
+`Backstory: A luxury residential tower in Mumbai is in its 14th month of construction. The client is a real estate investment firm that demands concise yet detailed weekly updates to share with stakeholders abroad.`
 
-Goal: Create a polished, visual-rich weekly progress report highlighting work completed, work in progress, issues, and upcoming milestones.
+`Goal: Create a polished, visual-rich weekly progress report highlighting work completed, work in progress, issues, and upcoming milestones.`
 
-Prompt:
+`Prompt:`
 
-"You are a Construction Project Reporting Specialist. Prepare a client-facing weekly progress report for a luxury residential tower in Mumbai.
+`"You are a Construction Project Reporting Specialist. Prepare a client-facing weekly progress report for a luxury residential tower in Mumbai.`
 
+```
 Tasks:
 
 1. Summarize completed activities with photos and short descriptions.
@@ -3609,33 +3610,34 @@ Tasks:
 4. Provide next week’s planned activities and critical path items.
 
 5. Include visual progress graphs and milestone trackers.
-
-Output format:
-
+```
+`Output format:`
+```
 1. Weekly Progress Report (PDF) with visuals
 
 2. Timeline Gantt chart (Excel/MS Project)
 
 3. Issue Resolution Tracker (Excel)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Daily site logs
 
 2. Updated project schedule
 
 3. Photos of completed work."
+```
+## Prompt 2 — Monthly Client Review Presentation
 
-Prompt 2 — Monthly Client Review Presentation
+`Backstory: A commercial IT park in Bengaluru requires monthly review meetings with the client’s project steering committee. They prefer visual presentations over textual reports.`
 
-Backstory: A commercial IT park in Bengaluru requires monthly review meetings with the client’s project steering committee. They prefer visual presentations over textual reports.
+`Goal: Create a presentation that blends visuals, data, and key decisions required from the client.`
 
-Goal: Create a presentation that blends visuals, data, and key decisions required from the client.
+`Prompt:`
 
-Prompt:
+`"You are a Construction Client Presentation Expert. Prepare a monthly review presentation for a commercial IT park in Bengaluru.`
 
-"You are a Construction Client Presentation Expert. Prepare a monthly review presentation for a commercial IT park in Bengaluru.
-
+```
 Tasks:
 
 1. Include updated project schedule, cost vs budget, and manpower charts.
@@ -3647,31 +3649,32 @@ Tasks:
 4. Flag risks and potential schedule impacts.
 
 5. End with a clear next steps slide.
-
-Output format:
-
+```
+`Output format:`
+```
 1. Client Review Presentation (PPTX)
 
 2. Decision Points Summary (DOCX)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Updated cost and schedule data
 
 2. High-resolution project site photos
 
 3. Risk register."
+```
+## Prompt 3 — Urgent Issue Escalation Email
 
-Prompt 3 — Urgent Issue Escalation Email
+`Backstory: A bridge construction project in Kerala has faced unexpected flooding, halting work. The situation needs to be escalated to the client immediately for quick decisions on additional resources.`
 
-Backstory: A bridge construction project in Kerala has faced unexpected flooding, halting work. The situation needs to be escalated to the client immediately for quick decisions on additional resources.
+`Goal: Draft a professional and urgent escalation email with all critical information.`
 
-Goal: Draft a professional and urgent escalation email with all critical information.
+`Prompt:`
 
-Prompt:
+`"You are a Construction Project Communication Manager. Write an urgent escalation email to the client regarding flooding at a bridge construction site.
 
-"You are a Construction Project Communication Manager. Write an urgent escalation email to the client regarding flooding at a bridge construction site.
-
+```
 Tasks:
 
 1. Summarize the incident and its immediate impact.
@@ -3683,29 +3686,30 @@ Tasks:
 4. Specify resource requests for quick resolution.
 
 5. Keep tone urgent but solution-oriented.
-
-Output format:
-
+```
+`Output format:`
+```
 1. Escalation Email Draft (DOCX)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Incident photos
 
 2. Weather forecast reports
 
 3. Current project schedule."
+```
+## Prompt 4 — Client Site Visit Briefing Pack
 
-Prompt 4 — Client Site Visit Briefing Pack
+`Backstory: The client of a premium hotel project in Goa is visiting the site after six months. They expect a smooth, professional briefing with zero information gaps.`
 
-Backstory: The client of a premium hotel project in Goa is visiting the site after six months. They expect a smooth, professional briefing with zero information gaps.
+`Goal: Prepare a comprehensive briefing pack for the site visit.`
 
-Goal: Prepare a comprehensive briefing pack for the site visit.
+`Prompt:`
 
-Prompt:
+`"You are a Construction Client Engagement Coordinator. Prepare a site visit briefing pack for a premium hotel project in Goa.`
 
-"You are a Construction Client Engagement Coordinator. Prepare a site visit briefing pack for a premium hotel project in Goa.
-
+```
 Tasks:
 
 1. Include a one-page project overview.
@@ -3717,32 +3721,32 @@ Tasks:
 4. Prepare talking points for the project manager.
 
 5. Add visual aids like progress photos and charts.
-
-Output format:
-
+```
+`Output format:`
+```
 1. Client Site Visit Briefing Pack (PDF)
 
 2. Safety Induction Sheet (DOCX)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Project progress summary
 
 2. Site safety policy
 
 3. Visit itinerary."
+```
+## Prompt 5 — Post-Meeting Action Tracker
 
-Prompt 5 — Post-Meeting Action Tracker
+`Backstory: In a metro rail extension project in Delhi, weekly coordination meetings with the client result in multiple action points for both parties. Often, follow-ups are missed due to poor documentation.`
 
-Backstory: In a metro rail extension project in Delhi, weekly coordination meetings with the client result in multiple action points for both parties. Often, follow-ups are missed due to poor documentation.
+`Goal: Create a clear and trackable post-meeting action tracker for client and contractor teams.`
 
-Goal: Create a clear and trackable post-meeting action tracker for client and contractor teams.
+`Prompt:`
 
-Prompt:
+`"You are a Construction Project Action Tracker Specialist. Prepare a post-meeting action tracker for a metro rail extension project in Delhi.`
 
-"You are a Construction Project Action Tracker Specialist. Prepare a post-meeting action tracker for a metro rail extension project in Delhi.
-
-Tasks:
+```Tasks:
 
 1. List all decisions taken in the meeting.
 
@@ -3753,21 +3757,21 @@ Tasks:
 4. Share in an editable format for updates.
 
 5. Include a dashboard view for quick progress monitoring.
-
-Output format:
-
+```
+`Output format:`
+```
 1. Action Tracker (Excel/Google Sheet)
 
 2. Summary Email (DOCX)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Meeting minutes
 
 2. Attendee list
 
 3. Previous week’s tracker."
-
+```
 Prompt 6 — Risk Register Update for Client
 
 Backstory: A hydropower project in Himachal Pradesh is in its tunneling phase, where geological risks can cause massive delays and cost overruns. The client wants monthly updates on the project’s risk profile.
