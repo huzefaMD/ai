@@ -1520,113 +1520,198 @@ Output Format:
 2. Scaling roadmap (PDF)"
 
 Prompt 21 — Copy for Seasonal Sales Clearance
+
 Backstory: You run an apparel store and need to clear end-of-season stock.
+
 Goal: Create ad copy that drives bulk sales quickly.
 
 Prompt:
+
 "You are a Clearance Campaign Expert. Write ad copy that:
 
-Emphasises urgency (limited stock, final days).
-Targets bargain hunters.
-Suggests bundle purchase messaging.
-Includes visual style guide for creatives.
-Adapts to Facebook and Google formats.
+1. Emphasises urgency (limited stock, final days).
+
+2. Targets bargain hunters.
+
+3. Suggests bundle purchase messaging.
+
+4. Includes visual style guide for creatives.
+
+5. Adapts to Facebook and Google formats.
+
 Inputs:
 
-Product types
-Discount percentage
-Clearance duration
+1. Product types
+
+2. Discount percentage
+
+3. Clearance duration
+
 Output Format:
 
-Clearance copy list (Excel)
-Visual style brief (PDF)"
+1. Clearance copy list (Excel)
+
+2. Visual style brief (PDF)"
 
 Prompt 22 — Ads for App Install Campaigns
+
 Backstory: You’ve built a budget management app for Gen Z users and want to boost installs.
+
 Goal: Create app-focused ad copy and targeting.
 
 Prompt:
+
 "You are an App Marketing Specialist. Build ads that:
 
-Speak to Gen Z’s money-saving mindset.
-Highlight app features in simple language.
-Use mobile-first creatives.
-Include install CTAs for Google Play/App Store.
-Suggest targeting based on app-related behaviours.
+1. Speak to Gen Z’s money-saving mindset.
+
+2. Highlight app features in simple language.
+
+3. Use mobile-first creatives.
+
+4. Include install CTAs for Google Play/App Store.
+
+5. Suggest targeting based on app-related behaviours.
+
 Inputs:
 
-App features
-Target cities
-Launch offer
+1. App features
+
+2. Target cities
+
+3. Launch offer
+
 Output Format:
 
-App install ad table (Excel)
-Creative mockups (PDF)"
+1. App install ad table (Excel)
+
+2. Creative mockups (PDF)"
 
 Prompt 23 — Crisis PR Ad Campaign
+
 Backstory: Your brand has faced a recent negative review issue and you want ads to rebuild trust.
+
 Goal: Use ads to restore brand reputation.
 
 Prompt:
+
 "You are a Brand Reputation Ads Specialist. Create an ad campaign that:
 
-Focuses on positive customer stories.
-Highlights trust badges and certifications.
-Targets loyal customers first, then wider audiences.
-Suggests Google and Facebook ad formats.
-Includes a timeline for reputation rebuilding.
+1. Focuses on positive customer stories.
+
+2. Highlights trust badges and certifications.
+
+3. Targets loyal customers first, then wider audiences.
+
+4. Suggests Google and Facebook ad formats.
+
+5. Includes a timeline for reputation rebuilding.
+
 Inputs:
 
-Positive customer reviews
-Trust certifications
-Campaign duration
+1. Positive customer reviews
+
+2. Trust certifications
+
+3. Campaign duration
+
 Output Format:
 
-Reputation ads plan (Excel)
-Creative and copy examples (PDF)"
+1. Reputation ads plan (Excel)
+
+2. Creative and copy examples (PDF)"
 
 Prompt 24 — Dynamic Ads for Real-Time Inventory
+
 Backstory: You sell event tickets and need ads that update automatically as availability changes.
+
 Goal: Build dynamic ad strategy.
 
 Prompt:
+
 "You are a Dynamic Ads Expert. Create a strategy for event ticket ads that:
 
-Pulls live inventory data into ad copy.
-Shows seat availability and pricing in real time.
-Uses urgency messaging.
-Targets people searching related events.
-Includes retargeting for event page visitors.
+1. Pulls live inventory data into ad copy.
+
+2. Shows seat availability and pricing in real time.
+
+3. Uses urgency messaging.
+
+4. Targets people searching related events.
+
+5. Includes retargeting for event page visitors.
+
 Inputs:
 
-Event details
-Ticketing system integration
-Target location
+1. Event details
+
+2. Ticketing system integration
+
+3. Target location
+
 Output Format:
 
-Dynamic ad setup guide (PDF)
-Example ad copy table (Excel)"
+1. Dynamic ad setup guide (PDF)
+
+2. Example ad copy table (Excel)"
 
 Prompt 25 — Full-Funnel Ad Campaign Blueprint
+
 Backstory: You’re launching a new fitness supplement brand and want a complete ad campaign from awareness to purchase.
+
 Goal: Create a full-funnel strategy.
 
 Prompt:
+
 "You are a Full-Funnel Ads Strategist. Build a campaign that:
 
-Awareness — broad targeting with educational content.
-Consideration — retargeting with benefits and testimonials.
-Decision — urgency offers and discounts.
-Uses both Facebook and Google channels.
-Suggests budget allocation per funnel stage.
+1. Awareness — broad targeting with educational content.
+
+2. Consideration — retargeting with benefits and testimonials.
+
+3. Decision — urgency offers and discounts.
+
+4. Uses both Facebook and Google channels.
+
+5. Suggests budget allocation per funnel stage.
+
 Inputs:
 
-Product details
-Target audience profile
-Budget
+1. Product details
+
+2. Target audience profile
+
+3. Budget
+
 Output Format:
 
-Funnel blueprint (Excel)
-Ad copy for each stage (PDF)"
+1. Funnel blueprint (Excel)
+
+2. Ad copy for each stage (PDF)"
+
+
+Email Marketing Campaigns
+
+Prompt 1 — Welcome Email Sequence for New Subscribers
+Backstory: You just launched an online skincare brand and started collecting emails from a website pop-up offering a free guide. You want to make a strong first impression and build trust immediately.
+
+Goal: Create a 3-email welcome sequence to introduce your brand and encourage the first purchase.
+
+Prompt:
+"You are an Email Marketing Strategist. Create a 3-email welcome sequence that:
+
+Sends Email 1 immediately after signup (brand intro, freebie delivery).
+Sends Email 2 after 2 days (product benefits, testimonials).
+Sends Email 3 after 5 days (exclusive first-purchase discount).
+Uses persuasive yet friendly tone.
+Includes subject lines with a high open-rate probability.
+Inputs:
+
+Brand name & USP (Unique Selling Proposition)
+Freebie details
+Discount offer
+Output Format:
+
+Sequence table (Excel) with: Day | Subject Line | Preview Text | Email Body | CTA"
 
 
