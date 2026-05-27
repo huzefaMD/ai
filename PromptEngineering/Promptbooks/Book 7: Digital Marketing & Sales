@@ -231,3 +231,203 @@ Inputs:
 Output Format:
 
 1. Calendar (Excel) with: Festival | Keyword | Publish Date | Search Volume | Competition"
+
+Prompt 8 — Keyword Mapping for Blog Categories
+
+Backstory: You run a career advice blog and want each blog category (resume tips, interview prep, job search hacks) to have its own keyword cluster for better topical authority.
+
+Goal: Map keywords to blog categories.
+
+Prompt:
+
+"You are an SEO Category Mapping Expert. For my blog, create a keyword map that:
+
+1. Groups keywords under their respective categories.
+
+2. Suggests pillar content topics for each category.
+
+3. Adds supporting subtopics with long-tail keywords.
+
+4. Ensures no keyword cannibalisation.
+
+5. Integrates internal linking strategy.
+
+Inputs:
+
+1. Blog categories list
+
+2. Target audience profile
+
+3. Existing keyword list (if any)
+
+Output Format:
+
+1. Keyword map table (Excel): Category | Keyword | Intent | Pillar Post | Supporting Post"
+
+Prompt 9 — Blog Post SEO Blueprint for a New Keyword
+
+Backstory: You’ve chosen a target keyword like “budget-friendly yoga retreats in India” but don’t know how to structure the post for maximum SEO impact.
+
+Goal: Get a full SEO writing blueprint.
+
+Prompt:
+
+"You are an SEO Blog Post Architect. For the keyword [insert keyword], create a post blueprint that:
+
+1. Suggests an SEO-optimised title and meta description.
+
+2. Outlines H1, H2, H3 headings.
+
+3. Includes recommended word count and keyword density.
+
+4. Suggests internal/external links.
+
+5. Provides schema markup suggestions (if relevant).
+
+Inputs:
+
+1. Target keyword
+
+2. Target audience
+
+3. Competitor URL (optional)
+
+Output Format:
+
+1. Post blueprint (Word/PDF)
+
+2. Keyword placement guide (Excel)"
+
+Prompt 10 — Competitive SERP Analysis for Keyword Ranking
+
+Backstory: You’ve found a promising keyword but need to know if you can realistically outrank competitors on Google’s first page.
+
+Goal: Analyse SERP competition and ranking feasibility.
+
+Prompt:
+
+"You are a SERP Competitor Analyst. For the keyword [insert keyword], analyse:
+
+1. Top 10 ranking pages’ domain authority.
+
+2. Content length and quality.
+
+3. Backlink profiles.
+
+4. Keyword usage patterns.
+
+5. Estimated effort and timeline for outranking them.
+
+Inputs:
+
+1. Keyword to analyse
+
+2. My blog URL (optional)
+
+3. Geographic focus
+
+Output Format:
+
+1. SERP analysis table (Excel)
+
+2. Ranking feasibility report (Word/PDF)"
+
+Prompt 11 — Keyword Strategy for Voice Search Optimisation
+
+Backstory: With Google voice search growing in India, your food blog wants to capture “near me” and conversational search queries.
+
+Goal: Build a voice-search-friendly keyword list.
+
+Prompt:
+
+"You are a Voice Search SEO Specialist. For my blog niche, create a keyword strategy that:
+
+1. Identifies conversational and question-based keywords.
+
+2. Focuses on “near me” and local intent.
+
+3. Suggests how to structure answers for featured snippets.
+
+4. Includes Hindi + Hinglish variations.
+
+5. Suggests content formats that perform well in voice search.
+
+Inputs:
+
+1. Blog niche
+
+2. Target regions
+
+3. Language preferences
+
+Output Format:
+
+1. Keyword list (Excel)
+
+2. FAQ snippet examples (Word/PDF)"
+
+Prompt 12 — Keyword Prioritisation Based on ROI Potential
+
+Backstory: You have 100+ keywords but can’t decide which ones to target first. You need to prioritise based on business ROI.
+
+Goal: Create a keyword prioritisation matrix.
+
+Prompt:
+
+"You are an SEO ROI Analyst. Prioritise my keyword list by:
+
+1. Search volume and competition.
+
+2. Conversion potential.
+
+3. CPC value for monetisation.
+
+4. Seasonal trends.
+
+5. Strategic business goals.
+
+Inputs:
+
+1. Keyword list (Excel)
+
+2. Monetisation model (ads, products, affiliates)
+
+3. Business goals
+
+Output Format:
+
+1. Priority matrix table (Excel): Keyword | Volume | Competition | CPC | ROI Score"
+
+Prompt 13 — Evergreen Blog Series Plan from Keywords
+
+Backstory: You want to create a long-term blog series that keeps getting traffic without frequent updates.
+
+Goal: Build a series plan using evergreen keywords.
+
+Prompt:
+
+"You are an Evergreen Content Planner. Based on my keyword list, create a 10-part blog series that:
+
+1. Uses evergreen keywords.
+
+2. Covers a complete topic journey.
+
+3. Interlinks posts for SEO authority.
+
+4. Requires minimal updates over time.
+
+5. Includes a publishing timeline.
+
+Inputs:
+
+1. Keyword list (Excel)
+
+2. Blog niche
+
+3. Posting frequency
+
+Output Format:
+
+1. Series plan (Word/PDF)
+
+2. Internal linking diagram (PDF)"
