@@ -1042,3 +1042,245 @@ Output Format:
 1. Targeting map (PDF)
 
 2. Copy table (Excel)"
+
+Prompt 7 — Emotional Storytelling in Ad Copy
+Backstory: You’re running ads for a non-profit crowdfunding campaign to help underprivileged children.
+Goal: Write emotionally compelling ad copy that drives donations.
+
+Prompt:
+"You are a Storytelling Ad Copy Expert. Write ad copy for my campaign that:
+
+Starts with a relatable human story.
+Creates emotional urgency.
+Ends with a powerful CTA to donate.
+Stays within ad platform character limits.
+Suggests imagery to match the copy.
+Inputs:
+
+Cause details
+Beneficiary story (optional)
+Donation link
+Output Format:
+
+Story-based ad copy versions (Word/PDF)
+Suggested creative brief (PDF)"
+
+Prompt 8 — Competitor Ad Analysis & Replication
+Backstory: You run a SaaS tool for freelancers and want to see what’s working for competitors so you can replicate and improve.
+Goal: Analyse competitor ad copy and targeting.
+
+Prompt:
+"You are a Competitor Ads Analyst. Analyse my competitors’ ads and create a plan that:
+
+Breaks down their ad headlines, CTAs, and offers.
+Identifies targeting patterns.
+Suggests improvements for my own ads.
+Creates 5 new ad copy variations inspired by the best performers.
+Recommends ad formats (carousel, video, single image).
+Inputs:
+
+Competitor names/links
+My product details
+Budget range
+Output Format:
+
+Competitor analysis table (Excel)
+New ad copy list (Word/PDF)"
+
+Prompt 9 — Ad Copy for Different Stages of Buyer Journey
+Backstory: You’re selling fitness equipment online. Your ads need to speak differently to people who are just discovering you vs. ready to buy.
+Goal: Create ad copy for awareness, consideration, and decision stages.
+
+Prompt:
+"You are a Buyer Journey Ad Strategist. Create ad copy for each stage that:
+
+Awareness — educational & problem-focused.
+Consideration — comparisons & benefits.
+Decision — urgency, offers, social proof.
+Keeps messaging consistent across platforms.
+Suggests matching creatives for each stage.
+Inputs:
+
+Product details
+Buyer persona
+Price points
+Output Format:
+
+Journey-based copy table (Excel)
+Creative recommendations (PDF)"
+
+Prompt 10 — Split Testing Ad Headlines for Maximum CTR
+Backstory: You run a travel booking website and want to improve CTR by testing different headlines.
+Goal: Generate headline variations and a test plan.
+
+Prompt:
+"You are a Headline Testing Specialist. Create 10 ad headline variations for my campaign that:
+
+Use power words for emotional impact.
+Stay within platform character limits.
+Mix benefit-focused and curiosity-driven styles.
+Are designed for A/B testing.
+Suggest test duration and KPIs.
+Inputs:
+
+Campaign goal
+Destination details
+Offer specifics
+Output Format:
+
+Headline variations table (Excel)
+A/B test plan (Word/PDF)"
+
+Prompt 11 — Multi-Language Ad Copy for Indian Markets
+Backstory: You’re promoting a budget airline that flies to multiple Indian states. You want to run ads in English, Hindi, and Tamil to connect with diverse audiences.
+Goal: Create multi-language ad copy with cultural relevance.
+
+Prompt:
+"You are a Multilingual Ad Copy Expert. Write ad copy for my campaign in English, Hindi, and Tamil that:
+
+Maintains consistent messaging but adapts tone to each culture.
+Uses culturally relevant references and phrases.
+Fits within ad platform character limits.
+Suggests imagery and colour themes for each language audience.
+Includes a single unifying call-to-action.
+Inputs:
+
+Product/service details
+Campaign objective
+Target languages
+Output Format:
+
+Multi-language copy table (Excel)
+Creative mood board (PDF)"
+
+Prompt 12 — Ads for Lead Generation Funnels
+Backstory: You’re running a digital marketing agency and want Facebook/Google ads to fill your lead generation funnel.
+Goal: Build ads optimised for lead conversion.
+
+Prompt:
+"You are a Lead Generation Ads Strategist. Create ad copy and targeting ideas that:
+
+Speak directly to pain points of my target audience.
+Offer a lead magnet (free guide, webinar, etc.) to capture interest.
+Use clear CTAs that encourage form submission.
+Target decision-makers in my niche.
+Suggest follow-up retargeting ads for leads.
+Inputs:
+
+Business niche
+Lead magnet details
+Target audience profile
+Output Format:
+
+Lead-gen ad plan (Excel)
+Copy & creative examples (Word/PDF)"
+
+Prompt 13 — Crisis or Urgent Sales Campaign Ads
+Backstory: You run an electronics store and need to clear stock urgently due to upcoming GST changes.
+Goal: Create urgency-driven ad copy and targeting ideas.
+
+Prompt:
+"You are an Urgency Ad Specialist. Build ads that:
+
+Emphasise limited-time availability.
+Use urgency words without appearing spammy.
+Target past buyers and lookalikes.
+Suggest countdown timer creatives.
+Provide retargeting strategy for cart abandoners.
+Inputs:
+
+Product details
+Deadline date
+Offer percentage
+Output Format:
+
+Ad copy table (Excel)
+Urgency campaign blueprint (PDF)"
+
+Prompt 14 — Video Script Ideas for Facebook/YouTube Ads
+Backstory: You own a home fitness brand and want to run video ads across Facebook and YouTube.
+Goal: Generate short, high-conversion ad scripts.
+
+Prompt:
+"You are a Video Ad Script Writer. Write 3 video ad scripts that:
+
+Hook viewers in the first 3 seconds.
+Demonstrate product benefits visually.
+Include voiceover and on-screen text ideas.
+End with a strong CTA.
+Stay under 30 seconds for Facebook/YouTube ad requirements.
+Inputs:
+
+Product features
+Target audience
+Offer details
+Output Format:
+
+Script table (Excel)
+Shot sequence guide (PDF)"
+
+Prompt 15 — Carousel Ad Copy for Product Catalogues
+Backstory: You run an e-commerce fashion store with multiple product lines.
+Goal: Create carousel ad copy to showcase multiple products.
+
+Prompt:
+"You are a Carousel Ads Specialist. Write copy for each carousel card that:
+
+Highlights a unique product feature.
+Uses engaging, benefit-focused headlines.
+Encourages swiping through all cards.
+Suggests matching product imagery.
+Includes one unified CTA across all cards.
+Inputs:
+
+Product list
+Brand tone guidelines
+Offer details
+Output Format:
+
+Carousel copy table (Excel)
+Creative brief (PDF)"
+
+Prompt 16 — Google Responsive Search Ads Plan
+Backstory: You’re a local pest control service wanting to use Google RSA (Responsive Search Ads) to capture more local leads.
+Goal: Create multiple headline/description combos for Google Ads.
+
+Prompt:
+"You are a Google RSA Copy Specialist. Build a list of:
+
+15 headline variations (max 30 characters).
+4 description variations (max 90 characters).
+Target keywords for each headline.
+Ad extensions to increase CTR.
+Localised messaging for higher trust.
+Inputs:
+
+Service area
+Core services offered
+Offer details
+Output Format:
+
+RSA ad copy table (Excel)
+Keyword integration plan (Word/PDF)"
+
+Prompt 17 — Ad Copy for Retargeting Abandoned Carts
+Backstory: Your online electronics store has a high cart abandonment rate.
+Goal: Create persuasive retargeting ads to recover sales.
+
+Prompt:
+"You are a Cart Recovery Ad Expert. Create 5 ad copy variations that:
+
+Remind customers of the items they left behind.
+Add urgency with stock and time limits.
+Offer an incentive (discount, free shipping).
+Use personalised product imagery.
+Include dynamic product ad setups.
+Inputs:
+
+Cart product details
+Discount offer
+Retargeting audience size
+Output Format:
+
+Recovery ad table (Excel)
+Personalisation guide (PDF)"
