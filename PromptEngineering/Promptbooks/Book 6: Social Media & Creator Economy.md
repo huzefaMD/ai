@@ -3260,3 +3260,164 @@ Inputs:
 Output Format:
 
 1. Post Bank (Excel: Post No., Text, Hashtags)"
+
+Prompt 21 — Facebook Group Tips to Instagram Carousel
+
+Backstory: Many creators post valuable tips inside closed Facebook groups. Repurposing them into carousels can reach a wider Instagram audience.
+
+Goal: Turn a Facebook tips post into a 6-slide carousel.
+
+Prompt:
+
+"You are a Social Media Cross-Posting Specialist. From my Facebook group post, create an Instagram carousel that:
+
+1. Breaks tips into 1 per slide.
+
+2. Adds visual design ideas.
+
+3. Keeps captions under 15 words.
+
+4. Includes 7–10 hashtags.
+
+5. Ends with a save/share CTA.
+
+Inputs:
+
+1. Facebook post text
+
+2. Instagram audience profile
+
+Output Format:
+
+1. Carousel Script (Excel: Slide No., Tip, Visual Suggestion)"
+
+Prompt 22 — LinkedIn Post to Newsletter Snippet
+
+Backstory: A strong LinkedIn post can work as an engaging snippet in your email newsletter to warm up subscribers before the main content.
+
+Goal: Adapt a LinkedIn post for an email audience.
+
+Prompt:
+
+"You are a Social Post-to-Email Adapter. From my LinkedIn post, create a newsletter snippet that:
+
+1. Hooks in the first line.
+
+2. Fits 150–200 words.
+
+3. Adds a personal sign-off.
+
+4. Links to full LinkedIn post.
+
+5. Keeps tone friendly yet informative.
+
+Inputs:
+
+1. LinkedIn post text
+
+2. Newsletter tone guidelines
+
+Output Format:
+
+1. Snippet Draft (Word/PDF)
+
+2. Subject line & preview text (Excel)"
+
+Prompt 23 — Instagram Carousel to Pinterest Infographic
+
+Backstory: Carousels work on Instagram but Pinterest users prefer single, tall infographics that summarise content visually.
+
+Goal: Turn a carousel into a vertical infographic for Pinterest.
+
+Prompt:
+
+"You are a Visual Content Transformer. From my carousel, create a Pinterest-friendly infographic plan that:
+
+1. Combines slides into one tall image layout.
+
+2. Suggests colours and typography.
+
+3. Includes a clear title at the top.
+
+4. Adds my brand watermark.
+
+5. Optimises for Pinterest SEO.
+
+Inputs:
+
+1. Carousel slides text/images
+
+2. Brand style guide
+
+Output Format:
+
+1. Infographic Script/Layout Plan (PDF)
+
+2. Pin description & tags (Excel)"
+
+Prompt 24 — Quora Answer Bank to Instagram Reels
+
+Backstory: Quora answers can be turned into short video scripts for Reels, helping to transform written advice into relatable, visual 
+content.
+
+Goal: Create 3 reels from different Quora answers.
+
+Prompt:
+
+"You are a Q&A to Short-Form Video Repurposer. From my Quora answers, create 3 Reel scripts that:
+
+1. Start with a problem statement.
+
+2. Deliver the answer in 3–4 bullet points.
+
+3. Suggest relevant visuals.
+
+4. End with a CTA to follow for more tips.
+
+5. Fit under 45 seconds each.
+
+Inputs:
+
+1. 3 Quora answer texts
+
+2. Target Instagram niche
+
+Output Format:
+
+1. Reel Script Bank (Excel: Reel No., Hook, Script, Visual Suggestion)"
+
+Prompt 25 — Blog Comment Insights to LinkedIn Post
+
+Backstory: Sometimes the best ideas come from audience comments. Repurposing a thoughtful blog comment into a LinkedIn post can spark fresh discussion.
+
+Goal: Turn a blog comment into a professional LinkedIn post.
+
+Prompt:
+
+"You are a Audience Insight Amplifier. From this blog comment, create a LinkedIn post that:
+
+1. Quotes the comment in the opening.
+
+2. Builds 3–4 insights around it.
+
+3. Maintains respectful tone.
+
+4. Includes a CTA inviting more opinions.
+
+5. Suggests hashtags.
+
+Inputs:
+
+1. Blog comment text
+
+2. Target industry
+
+Output Format:
+
+1. LinkedIn Post Draft (Word/PDF)
+
+2. Hashtag list (Excel)"
+
+
+Brand Collaboration Proposals
+
