@@ -3421,3 +3421,172 @@ Output Format:
 
 Brand Collaboration Proposals
 
+Prompt 1 — Cold Outreach Proposal for First-Time Collaboration
+
+Backstory: You are a mid-tier Instagram creator in India with 50K followers in the fitness niche. You want to approach a sports nutrition brand that you admire but have never interacted with before. The goal is to pitch in a way that feels personal yet professional, showing genuine brand alignment.
+
+Goal: Write a compelling cold outreach proposal that maximises the chance of securing a first collaboration.
+
+Prompt:
+
+"You are a Brand Partnership Strategist. Create a first-time collaboration proposal email for [Brand Name] that:
+
+1. Opens with a personalised connection to the brand’s products or values.
+
+2. Introduces me with 1–2 credibility points (reach, engagement rate, niche authority).
+
+3. Suggests 2–3 specific collaboration ideas with clear deliverables.
+
+4. Explains how the brand will benefit (audience exposure, conversions, user-generated content).
+
+5. Ends with a friendly but actionable next step.
+
+Inputs:
+
+1. My niche: [Insert niche]
+
+2. My social media stats (followers, engagement rate)
+
+3. Past brand collaborations (if any)
+
+4. Specific product/service I want to feature
+
+Output Format:
+
+1. Email draft (Word/PDF)
+
+2. Subject line suggestions (Excel)"
+
+Prompt 2 — Proposal for Repeat Collaboration with Added Value
+
+Backstory: You’ve already done a one-off campaign for a skincare brand, which performed well. Now you want to pitch a longer-term, more integrated partnership.
+
+Goal: Write a proposal that upgrades a one-time deal into a recurring partnership.
+
+Prompt:
+
+"You are a Brand Relationship Builder. From the context of a successful one-time campaign with [Brand Name], create a proposal for a 3-month partnership that:
+
+1. Opens by highlighting past campaign results (reach, engagement, sales lift).
+
+2. Proposes a content calendar with frequency and formats.
+
+3. Adds bonus deliverables like reels, testimonials, or live Q&A sessions.
+
+4. Introduces metrics tracking for transparency.
+
+5. Justifies a retainer fee with ROI projections.
+
+Inputs:
+
+1. Previous campaign stats
+
+2. Desired contract length
+
+3. Budget expectations
+
+Output Format:
+
+1. Proposal draft (Word/PDF)
+
+2. Content calendar mockup (Excel)"
+
+Prompt 3 — Influencer-to-Brand Collaboration Deck
+
+Backstory: Instead of just sending an email, you want to create a short presentation deck to send to a premium clothing brand showcasing your personal brand, audience insights, and proposed collaboration ideas.
+
+Goal: Create a professional influencer-brand proposal deck.
+
+Prompt:
+
+"You are a Creative Partnership Deck Designer. Create a 6–8 slide deck outline for [Brand Name] that:
+
+1. Introduces me and my niche visually.
+
+2. Shares audience demographics (age, gender, location, interests).
+
+3. Highlights past campaign case studies.
+
+4. Presents 2–3 collaboration concepts with timelines.
+
+5. Includes pricing options and CTA to schedule a call.
+
+Inputs:
+
+1. My brand bio & USP
+
+2. Analytics screenshot
+
+3. Portfolio of past work
+
+Output Format:
+
+1. Deck outline with suggested visuals (PowerPoint/Keynote)"
+
+Prompt 4 — Collaboration Proposal for a Micro-Influencer
+
+Backstory: You are a micro-influencer (5K–15K followers) in India focusing on sustainable living. You want to approach a local eco-friendly startup to work on a barter or low-cost collaboration.
+
+Goal: Create a convincing micro-influencer pitch highlighting authenticity and niche influence.
+
+Prompt:
+
+"You are a Niche Influence Pitch Expert. Write a proposal email to [Brand Name] that:
+
+1. Introduces my sustainability journey briefly.
+
+2. Shows audience loyalty and niche relevance.
+
+3. Suggests low-cost collaboration ideas (product barter, co-created content).
+
+4. Highlights my ability to create authentic, relatable storytelling.
+
+5. Ends with an invitation to discuss creative possibilities.
+
+Inputs:
+
+1. My niche story
+
+2. Social proof examples (testimonials, comments)
+
+3. Specific product/service match
+
+Output Format:
+
+1. Email draft (Word/PDF)
+
+2. Subject line options (Excel)"
+
+Prompt 5 — Joint Campaign Proposal for Multiple Influencers
+
+Backstory: You are part of a group of 3 food bloggers who want to pitch a joint campaign to a premium cookware brand. This allows pooling audiences for greater impact.
+
+Goal: Create a group influencer proposal.
+
+Prompt:
+
+"You are a Multi-Influencer Campaign Planner. Write a proposal to [Brand Name] for a joint influencer campaign that:
+
+1. Introduces each influencer and their niche.
+
+2. Shows combined audience size and reach.
+
+3. Suggests a coordinated content plan (themes, timelines, content formats).
+
+4. Includes a budget breakdown for group rates.
+
+5. Adds cross-promotion strategies for maximum exposure.
+
+Inputs:
+
+1. Influencer bios
+
+2. Social media stats
+
+3. Proposed content themes
+
+Output Format:
+
+1. Proposal draft (Word/PDF)
+
+2. Campaign schedule mockup (Excel)"
