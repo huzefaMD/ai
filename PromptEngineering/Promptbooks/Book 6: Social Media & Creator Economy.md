@@ -4079,3 +4079,139 @@ Output Format:
 1. Proposal draft (Word/PDF)
 
 2. Giveaway flowchart (Excel)"
+
+Prompt 22 — Proposal for Social Media Takeover
+
+Backstory: You want to take over a brand’s Instagram account for a day, posting stories, reels, and lives to engage their audience with fresh content.
+
+Goal: Secure a one-day Instagram takeover partnership.
+
+Prompt:
+
+"You are a Social Media Takeover Planner. Write a proposal for [Brand Name] that:
+
+1. Defines takeover objectives (awareness, engagement).
+
+2. Outlines content plan for the day.
+
+3. Suggests interactive elements (polls, Q&As).
+
+4. Includes brand voice guidelines.
+
+5. Proposes post-takeover performance report.
+
+Inputs:
+
+1. Brand’s social goals
+
+2. My takeover content ideas
+
+3. Key metrics to track
+
+Output Format:
+
+1. Proposal draft (Word/PDF)
+
+2. Takeover schedule (Excel)"
+
+Prompt 23 — Collaboration with an International Brand for Indian Festival
+
+Backstory: You want to pitch a U.S. home décor brand to create special Diwali-themed content for their Indian market launch.
+
+Goal: Offer cultural localisation expertise.
+
+Prompt:
+
+"You are a Cultural Localisation Strategist. Write a pitch for [Brand Name] that:
+
+1. Shows understanding of Diwali traditions.
+
+2. Suggests culturally relevant visuals.
+
+3. Recommends festival offers/discounts.
+
+4. Includes hashtags in Hindi/English.
+
+5. Connects product features to festive needs.
+
+Inputs:
+
+1. Festival details
+
+2. Brand’s product line
+
+3. Audience insights
+
+Output Format:
+
+1. Proposal draft (Word/PDF)
+
+2. Localised content calendar (Excel)"
+
+Prompt 24 — Proposal for EdTech Brand Collaboration
+
+Backstory: You’re an education influencer on YouTube wanting to partner with an EdTech startup for online course promotion.
+
+Goal: Design an EdTech-focused influencer plan.
+
+Prompt:
+
+"You are an Education Campaign Planner. Write a proposal for [Brand Name] that:
+
+1. Positions me as an expert in my field.
+
+2. Suggests tutorial/demo videos.
+
+3. Integrates special offers for my audience.
+
+4. Includes affiliate or commission-based earnings.
+
+5. Highlights trust factor in education content.
+
+Inputs:
+
+1. Subject expertise
+
+2. Audience demographics
+
+3. Past education partnerships
+
+Output Format:
+
+1. Proposal draft (Word/PDF)
+
+2. Course promotion plan (Excel)"
+
+Prompt 25 — Proposal for Cross-Border Collaboration
+
+Backstory: You’re an Indian travel vlogger aiming to collaborate with a Singapore tourism board for a cross-cultural content campaign.
+
+Goal: Create a travel + culture exchange pitch.
+
+Prompt:
+
+"You are a Cross-Border Tourism Campaign Planner. Write a proposal for [Brand Name] that:
+
+1. Showcases my India-based audience’s interest in Singapore.
+
+2. Suggests video series covering food, culture, and attractions.
+
+3. Recommends collab with local Singapore creators.
+
+4. Includes multilingual captions/subtitles.
+
+5. Highlights tourism growth potential.
+
+Inputs:
+
+1. My travel niche details
+
+2. Tourism board objectives
+
+3. Travel dates
+
+Output Format:
+
+1. Proposal draft (Word/PDF)
+
+2. Content trip itinerary (Excel)"
