@@ -1,1 +1,67 @@
+SEO Keyword Research & Blog Planning
 
+Prompt 1 — Foundational SEO Keyword Research for a New Blog
+
+Backstory: You have just launched a blog about sustainable living in India and want to ensure it ranks well on Google. You’re starting from scratch with no existing keyword strategy.
+
+Goal: Identify high-potential keywords that are relevant, low-competition, and tailored to your target audience.
+
+Prompt:
+
+"You are an SEO Research Strategist. Based on my blog niche and target audience, perform keyword research that:
+
+1. Identifies 15–20 primary and secondary keywords with monthly search volumes in India.
+
+2. Includes long-tail keyword suggestions for low-competition ranking opportunities.
+
+3. Categorises keywords by search intent (informational, commercial, transactional).
+
+4. Suggests seasonal or trending keywords relevant to India.
+
+5. Presents data in a clean, easy-to-read table.
+
+Inputs:
+
+1. Blog topic/niche: Sustainable living in India
+
+2. Target audience: Urban millennials (India)
+
+3. Competitor websites (if any)
+
+Output Format:
+
+1. Keyword table (Excel) with: Keyword | Search Volume | CPC | Competition | Intent
+
+2. Top 5 priority keywords list (Word/PDF)"
+
+Prompt 2 — Blog Content Calendar Based on Keyword Clusters
+
+Backstory: You’ve already gathered 50–60 SEO keywords but have no structured posting plan. Without a content calendar, you risk random posting and missed ranking opportunities.
+
+Goal: Create a 3-month blog posting schedule based on keyword clusters.
+
+Prompt:
+
+"You are a Keyword Clustering & Content Planning Expert. Based on my keyword list, create a blog content calendar that:
+
+1. Groups keywords into 5–6 topical clusters.
+
+2. Assigns one blog topic per week for 3 months.
+
+3. Includes recommended post titles optimised for CTR.
+
+4. Suggests internal linking opportunities between posts.
+
+5. Highlights seasonal posting opportunities.
+
+Inputs:
+
+1. Keyword list (Excel/CSV)
+
+2. Blog posting frequency (1/week, 2/week, etc.)
+
+3. Seasonal or event-based topics to prioritise
+
+Output Format:
+
+Content calendar (Excel) with: Date | Blog Title | Target Keyword | Secondary Keywords | Internal Links"
