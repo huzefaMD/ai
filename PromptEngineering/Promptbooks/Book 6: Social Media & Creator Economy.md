@@ -2950,22 +2950,161 @@ Output Format:
 2. Post caption draft (Word/PDF)"
 
 Prompt 11 — LinkedIn Article to Medium Post
+
 Backstory: While LinkedIn articles reach a professional audience, Medium offers a more diverse global readership and can help with long-term discoverability.
+
 Goal: Adapt a LinkedIn article for Medium without losing its core message.
 
 Prompt:
+
 "You are a Cross-Publishing Content Adapter. From my LinkedIn article, create a Medium post that:
 
-Keeps the same core message but adjusts tone for a wider audience.
-Adds visuals or embedded media suitable for Medium.
-Optimises headline for Medium’s trending topics.
-Uses formatting for better readability on Medium (short paragraphs, lists).
-Suggests Medium tags for SEO.
+1. Keeps the same core message but adjusts tone for a wider audience.
+
+2. Adds visuals or embedded media suitable for Medium.
+
+3. Optimises headline for Medium’s trending topics.
+
+4. Uses formatting for better readability on Medium (short paragraphs, lists).
+
+5. Suggests Medium tags for SEO.
+
 Inputs:
 
-LinkedIn article text
-Desired audience expansion goals
+1. LinkedIn article text
+
+2. Desired audience expansion goals
+
 Output Format:
 
-Medium Post Draft (Word/PDF)
-Tag list & suggested cover image (Excel)"
+1. Medium Post Draft (Word/PDF)
+
+2. Tag list & suggested cover image (Excel)"
+
+Prompt 12 — Facebook Live to YouTube Tutorial
+
+Backstory: Facebook Live videos often contain valuable demonstrations but lack the editing polish needed for YouTube’s evergreen audience.
+
+Goal: Transform a Facebook Live session into a structured YouTube tutorial.
+
+Prompt:
+
+"You are a Live Video Repurposing Expert. From my Facebook Live recording, create a YouTube tutorial plan that:
+
+1. Cuts out filler and dead air.
+
+2. Adds intro and outro sequences.
+
+3. Structures content into clear, time-stamped sections.
+
+4. Suggests on-screen titles and graphics.
+
+5. Optimises for YouTube keywords.
+
+Inputs:
+
+1. Facebook Live video
+
+2. Target tutorial topic/keywords
+
+Output Format:
+
+1. Video Editing Script (Word/PDF)
+
+2. YouTube metadata (Excel: Title, Description, Tags)"
+
+Prompt 13 — Quora Answer to LinkedIn Post
+
+Backstory: Detailed Quora answers can be repurposed as thought leadership posts on LinkedIn, reaching decision-makers and industry peers.
+
+Goal: Convert a Quora answer into a high-engagement LinkedIn post.
+
+Prompt:
+
+"You are a Q&A Content Repurposing Specialist. From my Quora answer, create a LinkedIn post that:
+
+1. Summarises the main point in the first 2 lines.
+
+2. Expands with 3–4 key arguments or examples.
+
+3. Uses LinkedIn-friendly formatting (short paragraphs, spacing).
+
+4. Includes a CTA inviting professional discussion.
+
+5. Suggests relevant hashtags.
+
+Inputs:
+
+1. Quora answer text
+
+2. Target professional audience
+
+Output Format:
+
+1. LinkedIn Post Draft (Word/PDF)
+
+2. Hashtag list (Excel)"
+
+Prompt 14 — Instagram Stories to Email Newsletter
+
+Backstory: Instagram Stories often disappear after 24 hours, but they can be archived and reused in newsletters to keep subscribers engaged.
+
+Goal: Convert Instagram Stories into a narrative-driven email newsletter.
+
+Prompt:
+
+"You are a Stories-to-Email Conversion Specialist. From my Instagram Stories, create a newsletter issue that:
+
+1. Strings the story sequence into a coherent narrative.
+
+2. Adds extra context or background where needed.
+
+3. Suggests relevant images/screenshots.
+
+4. Ends with a newsletter-specific CTA.
+
+5. Optimises subject line for email open rates.
+
+Inputs:
+
+1. Story screenshots/videos
+
+2. Target email audience
+
+Output Format:
+
+1. Newsletter Draft (Word/PDF)
+
+2. Subject line & preview text suggestions (Excel)"
+
+Prompt 15 — Pinterest Board to Instagram Carousel
+
+Backstory: Pinterest boards are often full of curated visual ideas, but they can also be transformed into educational or inspirational carousels for Instagram.
+
+Goal: Turn a Pinterest board into a shareable Instagram carousel.
+
+Prompt:
+
+"You are a Pinterest-to-Instagram Content Curator. From my Pinterest board, create a 6–8 slide carousel that:
+
+1. Groups pins into thematic slides.
+
+2. Adds 1–2 lines of caption per slide.
+
+3. Suggests background layouts and colours.
+
+4. Ends with a ‘save this post’ CTA.
+
+5. Includes relevant hashtags.
+
+Inputs:
+
+1. Pinterest board link
+
+2. Target Instagram niche
+
+Output Format:
+
+1. Carousel Plan (Excel: Slide No., Theme, Caption, Visual Suggestion)
+
+2. Hashtag list (Excel)"
