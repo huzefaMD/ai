@@ -3253,8 +3253,10 @@ Prompt:
 
 Inputs:
 
-1Podcast transcript/audio link
-Target industry
+1. Podcast transcript/audio link
+
+2. Target industry
+
 Output Format:
 
-Post Bank (Excel: Post No., Text, Hashtags)"
+1. Post Bank (Excel: Post No., Text, Hashtags)"
