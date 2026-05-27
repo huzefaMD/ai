@@ -3108,3 +3108,153 @@ Output Format:
 1. Carousel Plan (Excel: Slide No., Theme, Caption, Visual Suggestion)
 
 2. Hashtag list (Excel)"
+
+Prompt 16 — LinkedIn Carousel to Twitter/X Thread
+
+Backstory: LinkedIn carousels break ideas into slides, while Twitter/X threads deliver them as sequential tweets. Repurposing allows your carousel’s ideas to reach the fast-paced, hashtag-driven world of Twitter/X.
+
+Goal: Convert a LinkedIn carousel into a high-impact thread.
+
+Prompt:
+
+"You are a Carousel-to-Thread Transformation Expert. From my LinkedIn carousel content, create a Twitter/X thread that:
+
+1. Uses the first tweet as a strong hook.
+
+2. Converts each slide into a concise tweet.
+
+3. Keeps language punchy and conversational.
+
+4. Suggests emojis and formatting for engagement.
+
+5. Ends with a discussion-starting CTA.
+
+Inputs:
+
+1. Carousel text & images
+
+2. Target audience interests
+
+Output Format:
+
+1. Thread Script (Excel: Tweet No., Text, Emoji Suggestion, Hashtags)"
+
+Prompt 17 — YouTube Tutorial to Instagram Reels Series
+
+Backstory: A single YouTube tutorial can be sliced into multiple short-form Reels, each addressing one sub-topic. This format works for busy audiences who want bite-sized learning.
+
+Goal: Create an Instagram Reels series from a tutorial video.
+
+Prompt:
+
+"You are a Long-to-Short Video Repurposing Specialist. From my YouTube tutorial, create 5–7 Reel scripts that:
+
+1. Extract one core tip per reel.
+
+2. Begin with a problem/solution hook.
+
+3. Suggest visuals and captions for each reel.
+
+4. Keep each under 45 seconds.
+
+5. End with a clear call-to-follow.
+
+Inputs:
+
+1. YouTube video link/transcript
+
+2. Reel style preference
+
+Output Format:
+
+1. Reel Script Bank (Excel: Reel No., Hook, Script, Visual Suggestion)"
+
+Prompt 18 — Medium Article to LinkedIn Carousel
+
+Backstory: Medium articles are detailed, but busy LinkedIn users may not have time to read long-form text. A carousel lets them quickly absorb the key points.
+
+Goal: Summarise a Medium article into a LinkedIn carousel.
+
+Prompt:
+
+"You are a Long-form to Visual Content Adapter. From my Medium article, create an 8–10 slide carousel that:
+
+1. Highlights the most actionable points.
+
+2. Uses professional LinkedIn tone.
+
+3. Suggests relevant graphics for each slide.
+
+4. Ends with a CTA linking to the full article.
+
+5. Includes 5–7 hashtags.
+
+Inputs:
+
+1. Medium article text/link
+
+2. Target LinkedIn audience
+
+Output Format:
+
+1. Carousel Script (Excel: Slide No., Headline, Copy, Visual Suggestion)"
+
+Prompt 19 — Reddit AMA (Ask Me Anything) to Blog Post
+
+Backstory: Reddit AMAs can contain rich Q&A content that, when structured, makes an engaging blog article.
+
+Goal: Turn an AMA transcript into a blog post.
+
+Prompt:
+
+"You are a Q&A-to-Article Content Writer. From my AMA transcript, create a blog post that:
+
+1. Groups similar questions together.
+
+2. Edits responses for clarity and flow.
+
+3. Adds section headings.
+
+4. Suggests images or pull quotes.
+
+5. Ends with a CTA to follow future AMAs.
+
+Inputs:
+
+1. AMA transcript
+
+2. Blog audience niche
+
+Output Format:
+
+1. Blog Article Draft (Word/PDF)
+
+2. Suggested featured image ideas (Excel)"
+
+Prompt 20 — Podcast Episode to LinkedIn Post Series
+
+Backstory: A single podcast episode often covers multiple topics that can be split into standalone LinkedIn posts to drive ongoing engagement.
+
+Goal: Create a 5–post LinkedIn series from one podcast.
+
+Prompt:
+
+"You are a Podcast Content Slicer. From my podcast transcript, create 5 LinkedIn post drafts that:
+
+1. Focus on one key insight per post.
+
+2. Start with a compelling first line.
+
+3. Include relevant hashtags.
+
+4. End with a conversation-starting CTA.
+
+5. Maintain professional tone.
+
+Inputs:
+
+1Podcast transcript/audio link
+Target industry
+Output Format:
+
+Post Bank (Excel: Post No., Text, Hashtags)"
