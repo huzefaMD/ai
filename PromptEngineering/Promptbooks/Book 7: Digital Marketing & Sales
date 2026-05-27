@@ -1693,25 +1693,102 @@ Output Format:
 Email Marketing Campaigns
 
 Prompt 1 — Welcome Email Sequence for New Subscribers
+
 Backstory: You just launched an online skincare brand and started collecting emails from a website pop-up offering a free guide. You want to make a strong first impression and build trust immediately.
 
 Goal: Create a 3-email welcome sequence to introduce your brand and encourage the first purchase.
 
 Prompt:
+
 "You are an Email Marketing Strategist. Create a 3-email welcome sequence that:
 
-Sends Email 1 immediately after signup (brand intro, freebie delivery).
-Sends Email 2 after 2 days (product benefits, testimonials).
-Sends Email 3 after 5 days (exclusive first-purchase discount).
-Uses persuasive yet friendly tone.
-Includes subject lines with a high open-rate probability.
+1. Sends Email 1 immediately after signup (brand intro, freebie delivery).
+
+2. Sends Email 2 after 2 days (product benefits, testimonials).
+
+3. Sends Email 3 after 5 days (exclusive first-purchase discount).
+
+4. Uses persuasive yet friendly tone.
+
+5. Includes subject lines with a high open-rate probability.
+
 Inputs:
 
-Brand name & USP (Unique Selling Proposition)
-Freebie details
-Discount offer
+1. Brand name & USP (Unique Selling Proposition)
+
+2. Freebie details
+
+3. Discount offer
+
 Output Format:
 
-Sequence table (Excel) with: Day | Subject Line | Preview Text | Email Body | CTA"
+1. Sequence table (Excel) with: Day | Subject Line | Preview Text | Email Body | CTA"
 
+Prompt 2 — Abandoned Cart Recovery Email Series
+
+Backstory: Your e-commerce fashion store has noticed 70% cart abandonment. Many users leave without completing their orders due to hesitation or distraction.
+
+Goal: Recover sales with a strategic email follow-up.
+
+Prompt:
+
+"You are a Cart Recovery Email Specialist. Build a 3-email sequence that:
+
+1. Reminds users of the items in their cart (with images).
+
+2. Adds urgency (limited stock, discount expiry).
+
+3. Offers a small incentive (e.g., free shipping) in the final email.
+
+4. Uses persuasive copy without being pushy.
+
+5. Suggests split-testing subject lines for open rate improvement.
+
+Inputs:
+
+1. Product details
+
+2. Discount/free shipping offer
+
+3. Abandonment timeframe (e.g., 1 hr, 24 hrs)
+
+Output Format:
+
+1. Email sequence table (Excel)
+
+2. A/B testing subject line ideas (Word/PDF)"
+
+Prompt 3 — Re-engagement Campaign for Inactive Subscribers
+
+Backstory: Your online language learning platform has a large list of subscribers who haven’t opened an email in over 90 days. You want to win them back before removing them from your list.
+
+Goal: Reignite interest and increase open rates.
+
+Prompt:
+
+"You are an Email Re-engagement Specialist. Create a 3-email win-back campaign that:
+
+1. Acknowledges inactivity in a friendly tone.
+
+2. Offers a free mini-course or discount to re-engage.
+
+3. Uses curiosity-driven subject lines.
+
+4. Encourages feedback on why they’ve been inactive.
+
+5. Segments those who respond for a separate nurture sequence.
+
+Inputs:
+
+1. Brand name & offer details
+
+2. Incentive type
+
+3. Current list size
+
+Output Format:
+
+1. Win-back sequence (Excel)
+
+2. Segmentation plan for active vs. inactive (Word/PDF)"
 
