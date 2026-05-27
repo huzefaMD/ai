@@ -2605,3 +2605,38 @@ Output Format:
 2. Hashtag List (Excel)"
 
 
+Content Repurposing & Cross-Platform Posting
+
+Prompt 1 — Long-form Blog to LinkedIn Carousel
+
+Backstory: Many Indian creators write valuable long-form blog articles but struggle to adapt them for LinkedIn, where visual and bite-sized content works better. Without repurposing, they miss out on huge professional audience reach.
+
+Goal: Turn an existing blog post into a scroll-stopping LinkedIn carousel while preserving the value of the original content.
+
+Prompt:
+
+"You are a LinkedIn Carousel Content Designer. Convert my long-form blog post into a 7–10 slide carousel that:
+
+1. Extracts the most engaging insights from the article.
+
+2. Uses short, punchy headlines and minimal text per slide.
+
+3. Includes a clear narrative flow: Hook → Value → Call to Action.
+
+4.  Suggests relevant images, icons, or data charts.
+
+5. Ends with an engagement question to spark comments.
+
+Inputs:
+
+1. Full blog text (paste here)
+
+2. Target audience profession/interest
+
+3. My branding colours (optional)
+
+Output Format:
+
+1. Slide-by-slide script (Excel: Slide No., Headline, Body Text, Visual Suggestion)
+
+2. Hashtag set for the post (Excel)"
