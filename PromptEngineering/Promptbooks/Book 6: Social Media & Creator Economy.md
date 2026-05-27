@@ -2812,3 +2812,160 @@ Output Format:
 1. Reel Script (Word/PDF: Hook, Key Points, CTA)
 
 2. Visual/Audio Suggestions (Excel)"
+
+Prompt 7 — Blog Post to Twitter/X Thread
+
+Backstory: Blogs are great for SEO and in-depth knowledge, but the fast-moving Twitter/X audience needs bite-sized, high-impact delivery. This conversion can help a blog reach news/trend-driven spaces.
+
+Goal: Convert a blog post into a high-engagement Twitter/X thread.
+
+Prompt:
+
+"You are a Thread Conversion Specialist. From my blog post, create a Twitter/X thread that:
+
+1. Starts with a bold, curiosity-sparking first tweet.
+
+2. Breaks the blog into 8–12 easy-to-read tweets.
+
+3. Adds relevant emojis or formatting for readability.
+
+4. Ends with a CTA encouraging retweets and discussion.
+
+5. Uses hashtags trending in my niche.
+
+Inputs:
+
+1. Blog post text
+
+2. Target industry hashtags
+
+3. Tone preference (educational, witty, controversial)
+
+Output Format:
+
+1. Full Thread Draft (Word/PDF: Tweet No., Text, Hashtags)
+
+2. Suggested posting time slots (Excel)"
+
+Prompt 8 — YouTube Long-Form to Podcast Episode
+
+Backstory: Many YouTubers have in-depth discussions or tutorials that can work as standalone podcast episodes, but without the video visuals, the script needs reworking for audio-first audiences.
+
+Goal: Convert a YouTube video into an engaging podcast episode script.
+
+Prompt:
+
+"You are a Video-to-Audio Repurposing Expert. From my YouTube video, create a podcast episode script that:
+
+1. Replaces visual references with descriptive explanations.
+
+2. Maintains a clear story arc (intro → body → takeaway).
+
+3. Suggests audio-only enhancements like sound effects or background music.
+
+4. Includes verbal CTAs suitable for podcasts.
+
+5. Keeps length between 15–30 minutes.
+
+Inputs:
+
+1. YouTube video link/transcript
+
+2. Target podcast audience
+
+3. Editing style preference
+
+Output Format:
+
+1. Podcast Script (Word/PDF)
+
+2. Audio enhancement notes (Excel)"
+
+Prompt 9 — Instagram Carousel to Blog Article
+
+Backstory: Carousels are great for reach, but the limited text means they can’t go into detail. Expanding them into blog posts allows SEO ranking and a deeper dive into the topic.
+
+Goal: Turn a carousel into a fully fleshed-out blog article.
+
+Prompt:
+
+"You are a Carousel-to-Blog Expansion Specialist. From my Instagram carousel, create a 1,000–1,200 word blog post that:
+
+1. Expands each slide point into a full paragraph with examples.
+
+2. Adds data, quotes, or references where possible.
+
+3. Optimises for SEO with relevant keywords.
+
+4. Suggests subheadings for readability.
+
+5. Ends with a strong CTA linking to related content.
+
+Inputs:
+
+1. Carousel text & visuals
+
+2. Target keywords
+
+3. Desired blog tone
+
+Output Format:
+
+1. Blog Article Draft (Word/PDF)
+
+2. Suggested meta title & description (Excel)"
+
+Prompt 10 — Webinar Highlights to LinkedIn Carousel
+
+Backstory: After a webinar, most hosts simply upload the full recording. But slicing the most impactful moments into a LinkedIn carousel can spark engagement and drive people to watch the replay.
+
+Goal: Create a highlights carousel from webinar content.
+
+Prompt:
+
+"You are a Webinar Content Repurposing Specialist. From my webinar transcript, create a LinkedIn carousel plan that:
+
+1. Picks 5–7 most engaging moments or insights.
+
+2. Writes them as short, impactful slide headlines.
+
+3. Suggests relevant visuals (charts, photos, quotes).
+
+4. Includes a final slide linking to the full replay.
+
+5. Uses professional tone for LinkedIn audiences.
+
+Inputs:
+
+1. Webinar transcript
+
+2. Replay link
+
+3. Brand guidelines
+
+Output Format:
+
+1. Carousel Script (Excel: Slide No., Headline, Copy, Visual Idea)
+
+2. Post caption draft (Word/PDF)"
+
+Prompt 11 — LinkedIn Article to Medium Post
+Backstory: While LinkedIn articles reach a professional audience, Medium offers a more diverse global readership and can help with long-term discoverability.
+Goal: Adapt a LinkedIn article for Medium without losing its core message.
+
+Prompt:
+"You are a Cross-Publishing Content Adapter. From my LinkedIn article, create a Medium post that:
+
+Keeps the same core message but adjusts tone for a wider audience.
+Adds visuals or embedded media suitable for Medium.
+Optimises headline for Medium’s trending topics.
+Uses formatting for better readability on Medium (short paragraphs, lists).
+Suggests Medium tags for SEO.
+Inputs:
+
+LinkedIn article text
+Desired audience expansion goals
+Output Format:
+
+Medium Post Draft (Word/PDF)
+Tag list & suggested cover image (Excel)"
