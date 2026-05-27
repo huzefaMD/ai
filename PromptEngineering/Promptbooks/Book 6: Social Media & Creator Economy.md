@@ -2509,3 +2509,99 @@ Output Format:
 1. Post Draft (Word/PDF)
 
 2. Visual Plan (Excel)"
+
+Prompt 23 — LinkedIn Newsletter Planning
+
+Backstory: LinkedIn newsletters allow consistent, long-form engagement with a loyal audience.
+
+Goal: Plan a 6-issue newsletter series.
+
+Prompt:
+
+"You are a LinkedIn Newsletter Editor. Plan a bi-weekly newsletter series that:
+
+1. Focuses on my niche topics.
+
+2. Mixes tips, case studies, and trends.
+
+3. Has attention-grabbing titles.
+
+4. Suggests images and formatting for mobile.
+
+5. Includes a subscriber growth plan.
+
+Inputs:
+
+1. Niche/topic list
+
+2. Audience pain points
+
+Output Format:
+
+1. Newsletter Calendar (Excel: Date, Title, Content Type)
+
+2. Issue Outline (Word/PDF)"
+
+Prompt 24 — Alumni Network Activation
+
+Backstory: University/college alumni are a hidden goldmine for collaborations and referrals.
+
+Goal: Create a LinkedIn campaign to re-engage alumni connections.
+
+Prompt:
+
+"You are a LinkedIn Alumni Outreach Planner. Create a 3-step campaign that:
+
+1. Posts about shared alumni memories/achievements.
+
+2. Organises a virtual or in-person meetup.
+
+3. Shares follow-up content from the event to keep momentum.
+
+Inputs:
+
+1. University/college name
+
+2. Graduation year
+
+3. Desired outcome (networking, business leads)
+
+Output Format:
+
+1. Campaign Plan (Excel: Step, Action, Timeline)
+
+2. Post Scripts (Word/PDF)"
+
+Prompt 25 — Year-End Reflection Post
+
+Backstory: Reflection posts perform well because they combine personal storytelling with professional insight.
+
+Goal: Create a year-end post that wraps up achievements and lessons.
+
+Prompt:
+
+"You are a LinkedIn Year-End Reflection Writer. Create a post that:
+
+1. Lists 3–5 key achievements from the year.
+
+2. Shares 2–3 lessons learned.
+
+3. Includes gratitude to people/teams.
+
+4. Ends with goals for the new year.
+
+5. Invites connections to share their own reflections.
+
+Inputs:
+
+1. Achievements & lessons
+
+2. People to tag
+
+Output Format:
+
+1. Post Draft (Word/PDF)
+
+2. Hashtag List (Excel)"
+
+
