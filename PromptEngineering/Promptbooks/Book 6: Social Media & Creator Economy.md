@@ -2,14 +2,15 @@
 
 ## Prompt 1 — Viral News Reaction Script
 
-`Backstory: Trending news videos on YouTube spike fast in views but die down quickly. Capturing the trend early with an engaging script is key for visibility.
+`Backstory: Trending news videos on YouTube spike fast in views but die down quickly. Capturing the trend early with an engaging script is key for visibility.`
 
- Goal: Generate a fast-turnaround reaction video script that blends facts with personality to hook viewers in the first 15 seconds.
+ `Goal: Generate a fast-turnaround reaction video script that blends facts with personality to hook viewers in the first 15 seconds.`
 
-Prompt:
+`Prompt:`
 
-"You are a YouTube Viral Scriptwriter. Create a reaction video script for the trending news story provided.
+`"You are a YouTube Viral Scriptwriter. Create a reaction video script for the trending news story provided.`
 
+```
 Tasks:
 
 1. Open with a 10–15 second hook using curiosity or shock.
@@ -21,21 +22,21 @@ Tasks:
 4. Insert 2 viewer engagement cues (e.g., 'Comment below…', 'What do you think?').
 
 5. Close with a call-to-action relevant to your channel niche.
-
-Inputs Needed:
-
+```
+`Inputs Needed:`
+```
 1. News article link or transcript
 
 2. Creator’s personality style (funny, serious, analytical)
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Full Script (DOCX)
 
 2. Recommended Video Title (5 options, 55–65 chars)
 
 3. Suggested Thumbnail Text (5 options)"
-
+```
 Prompt 2 — Educational Explainer Series
 
 Backstory: Many 20–35 year-olds in India use YouTube to learn skills, but creators often fail to break complex topics into bingeable episodes.
