@@ -2218,3 +2218,166 @@ Output Format:
 
 2. Comment Engagement Prompts (Excel)"
 
+Prompt 14 — Event Participation Posts
+
+Backstory: Posting about attending events or conferences boosts credibility and network visibility, but most posts are generic (“Had a great time…”).
+
+Goal: Craft event posts that drive engagement and connections.
+
+Prompt:
+
+"You are a LinkedIn Event Content Specialist. Create 2 posts:
+
+1. Pre-event post — announcing attendance, inviting connections to meet.
+
+2. Post-event summary — sharing learnings, key quotes, and tagging speakers.
+
+Each should:
+
+1. Include relevant hashtags
+
+2. Tag the event’s official page & key attendees
+
+3. Include 1–2 photos (real or stock placeholders)
+
+Inputs:
+
+1. Event name & date
+
+2. My role (speaker, attendee, exhibitor)
+
+3. Key learnings/takeaways
+
+Output Format:
+
+1. Post Drafts (Word/PDF: Pre-event, Post-event)
+
+2. Tag & Hashtag List (Excel)"
+
+Prompt 15 — LinkedIn SEO Audit
+
+Backstory: Few people know that LinkedIn has its own search algorithm, and optimising for it can dramatically improve profile visibility.
+
+Goal: Audit a profile for LinkedIn SEO and recommend improvements.
+
+Prompt:
+
+"You are a LinkedIn SEO Specialist. Audit my profile to:
+
+1. Identify missing or underused keywords.
+
+2. Suggest keyword-rich rewrites for headline, About, and experience sections.
+
+3. Recommend adding specific skills for search visibility.
+
+4. Suggest content topics to improve search rank in my industry.
+
+5. Provide tips on where to place keywords without overstuffing.
+
+Inputs:
+
+1. My current LinkedIn profile text
+
+2. Target role/industry keywords
+
+Output Format:
+
+1. SEO Audit Report (Excel: Section, Current Text, Recommended Change)
+
+2. Keyword Strategy Guide (Word/PDF)"
+
+Prompt 16 — “Day in the Life” Content Plan
+
+Backstory: Audiences love seeing what a professional’s daily routine looks like — it humanises them and builds rapport.
+
+Goal: Plan a LinkedIn-friendly “day in the life” content series.
+
+Prompt:
+
+"You are a LinkedIn Lifestyle Content Planner. Create a 3-part content series showing my professional day:
+
+1. Morning routine & prep
+
+2. Mid-day work scenes & client interactions
+
+3. Evening wrap-up & reflections
+
+4. Each post should be engaging, authentic, and include captions inviting comments.
+
+Inputs:
+
+1. My profession/role
+
+2. Any interesting rituals or routines
+
+3. Tone preference (casual, inspirational, educational)
+
+Output Format:
+
+1. Content Plan (Excel: Scene, Visual, Caption Idea)
+
+2. Full Post Scripts (Word/PDF)"
+
+Prompt 17 — Viral Hook Bank for LinkedIn
+
+Backstory: Without a strong first line, even the best LinkedIn post dies in the feed.
+
+Goal: Build a library of high-impact hooks tailored to my niche.
+
+Prompt:
+
+"You are a LinkedIn Hook Copywriter. Create 20 opening lines that:
+
+1. Spark curiosity in the first 5 words.
+
+2. Are specific to my industry.
+
+3. Encourage readers to click ‘see more’.
+
+4. Fit both educational and personal story formats.
+
+5. Avoid clickbait that disappoints.
+
+Inputs:
+
+1. My niche/profession
+
+2. Examples of content I like
+
+Output Format:
+
+1. Hook Bank (Excel: Hook, Content Type, Tone)"
+
+Prompt 18 — Engagement Pods Strategy
+
+Backstory: Engagement pods — groups of LinkedIn users who support each other’s posts — can boost reach if managed well.
+
+Goal: Create a structure for ethical, value-driven engagement pods.
+
+Prompt:
+
+"You are a LinkedIn Engagement Pod Strategist. Design a 4-week engagement pod plan that:
+
+1. Defines group rules for authenticity.
+
+2. Sets posting & commenting schedules.
+
+3. Suggests post types that work best in pods.
+
+4. Outlines how to track pod performance.
+
+5. Includes prompts for meaningful comments.
+
+Inputs:
+
+1. Pod size preference
+
+2. Industry focus
+
+3. Target engagement metrics
+
+Output Format:
+
+1. Engagement Pod Playbook (Word/PDF)
+
+2. Performance Tracker Template (Excel)"
