@@ -837,4 +837,38 @@ Output Format:
 2. KPI tracking template (Word/PDF)"
 
 
+Facebook/Google ad Copy & Targeting Ideas
 
+Prompt 1 — High-CTR Ad Copy for a New Product Launch
+
+Backstory: You’re launching a budget-friendly smartphone in India aimed at college students and first-time buyers. You need a compelling ad copy that grabs attention and drives clicks.
+
+Goal: Generate high-conversion ad copy variants for Facebook and Google Ads.
+
+Prompt:
+
+"You are a Performance Ad Copywriter. Write 5 ad copy variants for my product launch that:
+
+1. Use emotional triggers + curiosity hooks.
+
+2. Stay under character limits for Google/Facebook ads.
+
+3. Include a strong, clear call-to-action.
+
+4. Focus on value proposition (price, features, reliability).
+
+5. Test both urgency-driven and benefit-focused angles.
+
+Inputs:
+
+1. Product name: [Insert]
+
+2. Target audience: [Insert]
+
+3. Key features: [Insert]
+
+4. Offer details: [Insert]
+
+Output Format:
+
+1. Table: Version | Platform | Headline | Description | CTA"
