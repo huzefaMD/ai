@@ -635,3 +635,206 @@ Output Format:
 1. Cross-platform keyword map (Excel)
 
 2. Posting alignment plan (Word/PDF)"
+
+Prompt 20 — Internal Linking Opportunities from Keyword Clusters
+
+Backstory: You’ve written 50+ posts but haven’t optimised internal linking for SEO strength.
+
+Goal: Build an internal linking strategy based on keyword clusters.
+
+Prompt:
+
+"You are an Internal Linking SEO Specialist. Based on my keyword clusters, create an internal linking map that:
+
+1. Connects related posts for SEO authority.
+
+2. Suggests anchor text based on target keywords.
+
+3. Avoids keyword cannibalisation.
+
+4. Improves crawlability for Google bots.
+
+5. Highlights orphan pages needing links.
+
+Inputs:
+
+1. Keyword cluster list
+
+2. Existing blog post URLs
+
+Output Format:
+
+1. Internal linking map (Excel)
+
+2. Anchor text guide (Word/PDF)"
+
+Prompt 21 — Featured Snippet Targeting with Keywords
+
+Backstory: Your health blog wants to get featured snippets on Google for maximum visibility.
+
+Goal: Identify and target snippet-friendly keywords.
+
+Prompt:
+
+"You are a Featured Snippet Optimisation Expert. For my blog, identify:
+
+1. Keywords likely to trigger featured snippets.
+
+2. Content formats (lists, Q&A, how-tos) for each.
+
+3. Recommended snippet length and structure.
+
+4. Examples of competitors currently holding snippets.
+
+5. A posting plan to overtake them.
+
+Inputs:
+
+1. Blog niche
+
+2. Target location
+
+3. Competitor list
+
+Output Format:
+
+1. Snippet keyword table (Excel)
+
+2. Example snippet-ready post outline (Word/PDF)"
+
+Prompt 22 — Keyword Strategy for Google Discover
+
+Backstory: You’ve noticed spikes in traffic from Google Discover but want to make it a consistent source.
+
+Goal: Build a keyword and topic plan optimised for Discover.
+
+Prompt:
+
+"You are a Google Discover SEO Strategist. For my niche, create a Discover-optimised plan that:
+
+1. Targets keywords in trending but evergreen topics.
+
+2. Suggests engaging, click-worthy headlines.
+
+3. Includes image optimisation guidelines.
+
+4. Aligns with Discover content freshness requirements.
+
+5. Gives examples of past high-performing posts in Discover.
+
+Inputs:
+
+1. Blog niche
+
+2. Competitor URLs (optional)
+
+3. Posting frequency
+
+Output Format:
+
+1. Keyword + headline plan (Excel)
+
+2. Discover optimisation checklist (Word/PDF)"
+
+Prompt 23 — Keyword Strategy for Affiliate Blog Monetisation
+
+Backstory: You’re monetising via affiliate marketing but your keywords don’t convert well.
+
+Goal: Create a keyword plan optimised for affiliate sales.
+
+Prompt:
+
+"You are an Affiliate SEO Strategist. For my blog, identify:
+
+1. Keywords with strong purchase intent.
+
+2. Product-focused blog topic ideas.
+
+3. Optimised title formats for higher CTR.
+
+4. Recommended affiliate link placement strategies.
+
+5. Conversion optimisation tips based on keywords.
+
+Inputs:
+
+1. Affiliate products/services list
+
+2. Target audience profile
+
+3. Competitor URLs
+
+Output Format:
+
+1. Affiliate keyword list (Excel)
+
+2. Post template for affiliate content (Word/PDF)"
+
+Prompt 24 — SERP Volatility Tracking for Keywords
+
+Backstory: Some of your keywords jump between positions in Google SERPs and you want to understand why.
+
+Goal: Track keyword SERP volatility.
+
+Prompt:
+
+"You are a SERP Volatility Analyst. For my keyword list, create a tracking plan that:
+
+1. Monitors daily position changes.
+
+2. Identifies algorithm update impacts.
+
+3. Suggests stabilising strategies.
+
+4. Flags high-risk keywords.
+
+5. Provides monthly trend reports.
+
+Inputs:
+
+1. Keyword list (Excel)
+
+2. Google Search Console access (optional)
+
+Output Format:
+
+1. SERP volatility chart (Excel)
+
+2. Stabilisation strategy guide (Word/PDF)"
+
+Prompt 25 — Evergreen SEO Growth Plan for 12 Months
+
+Backstory: You want a full-year SEO roadmap so your blog grows steadily and rankings compound over time.
+
+Goal: Create a 12-month SEO keyword plan.
+
+Prompt:
+
+"You are a Long-Term SEO Planner. Build a keyword-based SEO roadmap that:
+
+1. Assigns keyword clusters for each month.
+
+2. Balances evergreen and seasonal keywords.
+
+3. Includes backlink-building milestones.
+
+4. Tracks progress with monthly KPIs.
+
+5. Suggests quarterly content audits.
+
+Inputs:
+
+1. Blog niche
+
+2. Posting capacity (posts/month)
+
+3. Current keyword list
+
+Output Format:
+
+1. 12-month roadmap (Excel)
+
+2. KPI tracking template (Word/PDF)"
+
+
+
