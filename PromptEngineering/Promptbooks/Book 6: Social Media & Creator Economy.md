@@ -2381,3 +2381,131 @@ Output Format:
 1. Engagement Pod Playbook (Word/PDF)
 
 2. Performance Tracker Template (Excel)"
+
+Prompt 19 — Hashtag Research & Optimisation
+
+Backstory: Many LinkedIn posts use hashtags randomly, reducing discoverability.
+
+Goal: Identify high-potential hashtags for my niche.
+
+Prompt:
+
+"You are a LinkedIn Hashtag Researcher. Create a hashtag strategy that:
+
+1. Lists 15–20 relevant hashtags.
+
+2. Balances niche-specific and broader reach tags.
+
+3. Shows estimated follower counts.
+
+4. Groups hashtags into sets for different post types.
+
+5. Suggests when to rotate hashtags for freshness.
+
+Inputs:
+
+1. Niche/profession
+
+2. Example post topics
+
+Output Format:
+
+1. Hashtag List (Excel: Tag, Follower Count, Usage Example)
+
+2. Rotation Plan (Word/PDF)"
+
+Prompt 20 — LinkedIn Video Content Plan
+
+Backstory: Video is underused on LinkedIn, especially short-form explainer or opinion clips.
+
+Goal: Plan a 5-video content series.
+
+Prompt:
+
+"You are a LinkedIn Video Content Creator. For my given niche, design 5 video post ideas that:
+
+1. Hook viewers in 3 seconds.
+
+2. Deliver value in under 90 seconds.
+
+3. Include captions and titles for sound-off viewing.
+
+4. End with a call-to-comment question.
+
+5. Suggest filming setups for home/office.
+
+Inputs:
+
+1. Niche/topic
+
+2. Video style preference (talking head, interview, screen share)
+
+Output Format:
+
+1. Video Plan (Excel: Title, Script Outline, CTA)
+
+2. Production Tips (Word/PDF)"
+
+Prompt 21 — Client Testimonials as Content
+
+Backstory: Testimonials are powerful but often hidden on websites — showcasing them on LinkedIn builds trust fast.
+
+Goal: Turn client feedback into engaging posts.
+
+Prompt:
+
+"You are a LinkedIn Testimonial Content Writer. For each client testimonial, create a post that:
+
+1. Starts with the client’s challenge.
+
+2. Shows how I helped solve it.
+
+3. Uses the testimonial quote in a highlighted way.
+
+4. Ends with an invitation for inquiries.
+
+5. Suggests relevant hashtags.
+
+Inputs:
+
+1. Client testimonial text/audio/video
+
+2. Project details
+
+Output Format:
+
+1. Post Draft (Word/PDF)
+
+2. Hashtag List (Excel)"
+
+Prompt 22 — “Then & Now” Transformation Posts
+
+Backstory: Transformation stories show progress, inspiring others while demonstrating skill.
+
+Goal: Create visual and written transformation posts.
+
+Prompt:
+
+"You are a LinkedIn Transformation Storyteller. For my chosen project/career, create a post that:
+
+1. Compares the ‘before’ and ‘after’ situation.
+
+2. Uses visuals to emphasise change.
+
+3. Shares lessons learned in the process.
+
+4. Connects transformation to the audience’s possible journey.
+
+5. Ends with a motivational CTA.
+
+Inputs:
+
+1. Transformation details
+
+2. Visual assets (optional)
+
+Output Format:
+
+1. Post Draft (Word/PDF)
+
+2. Visual Plan (Excel)"
