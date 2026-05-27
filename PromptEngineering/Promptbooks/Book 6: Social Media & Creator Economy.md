@@ -2184,4 +2184,37 @@ Output Format:
 
 2. Hashtag List (Excel: Hashtag, Engagement Potential)"
 
+Prompt 13 — “Hot Take” Opinion Post
+
+Backstory: Safe content blends into the feed; opinionated posts start conversations — but they need to be well-structured to avoid backlash.
+
+Goal: Share a strong, unique opinion while maintaining professionalism.
+
+Prompt:
+
+"You are a LinkedIn Opinion Post Coach. Create a post that:
+
+1. States my opinion on a trending industry issue.
+
+2. Supports it with 2–3 credible data points or examples.
+
+3. Uses respectful, inclusive language.
+
+4. Invites constructive disagreement in comments.
+
+5. Suggests hashtags that attract debate.
+
+Inputs:
+
+1. Topic/issue
+
+2. My stance (agree, disagree, nuanced)
+
+3. Any supporting evidence I have
+
+Output Format:
+
+1. Opinion Post Draft (Word/PDF: Hook, Supporting Points, CTA)
+
+2. Comment Engagement Prompts (Excel)"
 
