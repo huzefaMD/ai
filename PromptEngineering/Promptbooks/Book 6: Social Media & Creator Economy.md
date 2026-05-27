@@ -3936,3 +3936,146 @@ Output Format:
 1. Proposal draft (Word/PDF)
 
 2. Visual mood board (PDF)"
+
+Prompt 16 - Luxury Skincare x Wellness Influencer Campaign
+
+Backstory:
+
+A premium Ayurvedic skincare brand in India wants to collaborate with a popular wellness influencer on Instagram. The aim is to launch a month-long content series combining product education, self-care tips, and Ayurvedic lifestyle integration. The brand wants the proposal to include mutual deliverables, timelines, and measurable KPIs for the collaboration.
+
+Goal: Secure the influencer’s participation with a compelling, professional collaboration proposal.
+
+Prompt:
+
+"You are a brand partnership strategist. Draft a detailed collaboration proposal between a luxury Ayurvedic skincare brand and a wellness influencer. Include campaign concept, content plan, timelines, mutual deliverables, and performance metrics."
+
+Inputs Required:
+
+1. Brand USP & product list
+
+2. Influencer profile and audience insights
+
+3. Budget range
+
+4. Campaign duration
+
+Prompt 17-  Regional Food Brand x YouTube Cooking Channel Partnership
+
+Backstory:
+
+A South Indian spice brand wants to expand into northern markets by collaborating with a Hindi-speaking YouTube cooking creator. The collaboration will involve recipe videos, cooking tips, and sponsored product integrations. The proposal needs to highlight the brand’s heritage while making it appealing to a pan-India audience.
+
+Goal: Present a culturally relevant and market-expanding collaboration pitch to the creator.
+
+Prompt:
+
+"You are a cultural marketing expert. Create a brand collaboration proposal for a South Indian spice brand partnering with a Hindi YouTube cooking channel. Include integration ideas, audience crossover benefits, deliverables, and projected ROI."
+
+Inputs Required:
+
+1. Brand story & heritage details
+
+2. Target expansion markets
+
+3. Influencer’s past content performance
+
+4. Preferred deliverables
+
+Prompt 18- Sustainable Fashion Brand x Instagram Lifestyle Influencer
+
+Backstory:
+
+An eco-conscious clothing label in Delhi wants to collaborate with a sustainability-focused lifestyle influencer for a festive season campaign. The proposal should outline how the influencer can incorporate the brand’s outfits into festive looks while highlighting ethical production practices.
+
+Goal: Encourage influencer participation through a proposal that blends fashion appeal with sustainability messaging.
+
+Prompt:
+
+"You are a fashion brand collaboration specialist. Draft a festive season collaboration proposal between an eco-friendly clothing label and a lifestyle influencer. Include campaign theme, post formats, ethical brand storytelling, and deliverables."
+
+Inputs Required:
+
+1. Collection lookbook
+
+2. Brand sustainability credentials
+
+3. Festive campaign dates
+
+4. Influencer’s creative style
+
+Prompt 19 - Travel App x Micro-Influencers in Tier-2 Cities
+
+Backstory:
+
+A travel booking app wants to increase adoption in Tier-2 Indian cities by partnering with micro-influencers who can promote weekend getaway deals. The collaboration proposal should include low-budget yet high-engagement content ideas tailored to regional audiences.
+
+Goal: Gain influencer sign-offs for a 2-month hyperlocal travel campaign.
+
+Prompt:
+
+"You are a regional influencer marketing consultant. Create a brand collaboration proposal for a travel booking app partnering with micro-influencers in Tier-2 Indian cities. Include campaign objectives, localized content concepts, deliverables, and cost structure."
+Inputs Required:
+
+1. Target cities
+
+2. Travel offers & destinations
+
+3. Influencer shortlist
+
+4. Campaign budget
+
+Prompt 20- Homegrown Coffee Brand x Podcast Host
+
+Backstory:
+
+An artisanal coffee brand from Bangalore wants to partner with a popular Indian podcast host whose audience includes young professionals. The collaboration will include podcast sponsorships, branded coffee discussions, and special listener discount codes. The proposal should position the brand as a lifestyle upgrade.
+
+Goal: Present a persuasive proposal to secure a 3-month sponsorship deal.
+
+Prompt:
+
+"You are a creative sponsorship strategist. Draft a collaboration proposal for a homegrown coffee brand sponsoring a popular Indian podcast. Include integration ideas, audience engagement strategies, performance tracking, and deliverables."
+
+Inputs Required:
+
+1. Brand positioning & product range
+
+2. Podcast listener demographics
+
+3. Sponsorship budget
+
+4. Campaign KPIs
+
+Prompt 21 — Proposal for Festival Giveaway Collaboration
+
+Backstory: During Holi, you want to partner with a natural colours brand to run a social media giveaway campaign.
+
+Goal: Drive festival engagement through a giveaway.
+
+Prompt:
+
+"You are a Festive Giveaway Campaign Designer. Write a proposal for [Brand Name] that:
+
+1. Ties the giveaway to Holi traditions.
+
+2. Uses reels, stories, and a landing page for participation.
+
+3. Encourages UGC (user-generated content).
+
+4. Tracks engagement metrics.
+
+5. Includes winner announcement strategy.
+
+Inputs:
+
+1. Festival name
+
+2. Prize details
+
+3. Participation mechanics
+
+Output Format:
+
+1. Proposal draft (Word/PDF)
+
+2. Giveaway flowchart (Excel)"
