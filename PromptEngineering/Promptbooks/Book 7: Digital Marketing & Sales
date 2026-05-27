@@ -872,3 +872,173 @@ Inputs:
 Output Format:
 
 1. Table: Version | Platform | Headline | Description | CTA"
+
+Prompt 2 — Targeting Strategy for First-Time Home Buyers
+
+Backstory: You’re a real estate agent promoting affordable housing projects in Tier-2 Indian cities. You want to find laser-focused Facebook/Google ad targeting to reach likely buyers.
+
+Goal: Create a targeting strategy with layered audience filters.
+
+Prompt:
+
+"You are a Paid Ads Targeting Expert. Design a targeting strategy for first-time home buyers that:
+
+1. Uses demographic, interest, and behavioural targeting on Facebook.
+
+2. Suggests Google keyword targeting for high-intent searches.
+
+3. Includes remarketing and lookalike audience ideas.
+
+4. Recommends ad schedule for maximum ROI.
+
+5. Adjusts targeting for Tier-2 city audience behaviour.
+
+Inputs:
+
+1. Location: [Insert]
+
+2. Price range: [Insert]
+
+3. Buyer profile: [Insert]
+
+Output Format:
+
+1. Targeting plan table (Excel)
+
+2. Sample ad audience breakdown (PDF)"
+
+Prompt 3 — Ad Copy Testing Plan for Multiple Audiences
+
+Backstory: You sell organic skincare products and have two main customer segments — women aged 20–30 and men aged 25–35. You want to test ad copy variations for each.
+
+Goal: Create an A/B testing plan for ad copy.
+
+Prompt:
+
+"You are an A/B Testing Specialist. Build an ad copy testing plan that:
+
+1. Creates separate ad copy for each audience segment.
+
+2. Tests emotional vs. rational messaging.
+
+3. Uses split-testing methodology for accuracy.
+
+4. Tracks CTR, CPC, and conversion rate.
+
+5. Suggests when to pause low-performing ads.
+
+Inputs:
+
+1. Audience profiles
+
+2. Product benefits
+
+3. Budget and test duration
+
+Output Format:
+
+1. Testing plan table (Excel)
+
+2. Ad copy versions in Word/PDF"
+
+Prompt 4 — Festival Campaign Ad Ideas
+
+Backstory: You own an online jewellery store and want to run special ads for Diwali and Raksha Bandhan.
+
+Goal: Create culturally relevant, high-engagement ad ideas.
+
+Prompt:
+
+"You are a Festival Campaign Specialist. For my jewellery store, create ad copy and targeting ideas that:
+
+1. Reflect Indian cultural aesthetics for Diwali/Raksha Bandhan.
+
+2. Suggest festive offer positioning.
+
+3. Include copy variants for emotional storytelling.
+
+4. Target people searching for gifts.
+
+5. Suggest ad creatives (image/video) that resonate with the festivals.
+
+Inputs:
+
+1. Product details
+
+2. Festival offers
+
+3. Target age group
+
+Output Format:
+
+1. Festival campaign plan (Excel)
+
+2. Sample copy & creative brief (PDF)"
+
+Prompt 5 — Retargeting Campaign Copy & Targeting
+
+Backstory: Your online course website gets a lot of traffic, but many visitors don’t enrol. You want retargeting ads to bring them back.
+
+Goal: Build a retargeting ad plan with copy ideas.
+
+Prompt:
+
+"You are a Retargeting Campaign Strategist. Design a retargeting campaign that:
+
+1. Segments visitors by behaviour (visited course page, abandoned checkout).
+
+2. Creates ad copy tailored to each segment.
+
+3. Uses urgency and scarcity messaging.
+
+4. Suggests Google Display and Facebook retargeting audiences.
+
+5. Recommends ad frequency caps to avoid fatigue.
+
+Inputs:
+
+1. Website analytics data
+
+2. Course details
+
+3. Offer for returning visitors
+
+Output Format:
+
+1. Retargeting campaign matrix (Excel)
+
+2. Ad copy versions (Word/PDF)"
+
+Prompt 6 — Location-Based Ad Targeting for Local Businesses
+
+Backstory: You run a café in Pune and want to target people nearby who are most likely to visit.
+
+Goal: Create hyper-local ad targeting with relevant copy.
+
+Prompt:
+
+"You are a Local Ads Targeting Specialist. Build a campaign for my café that:
+
+1. Uses geofencing to target users within a 5 km radius.
+
+2. Includes ad copy inviting them for specific offers.
+
+3. Suggests ad scheduling for peak footfall times.
+
+4. Integrates Google Maps and location extensions.
+
+5. Uses Facebook “near me” interest targeting.
+
+Inputs:
+
+1. Location coordinates
+
+2. Café menu highlights
+
+3. Special offers
+
+Output Format:
+
+1. Targeting map (PDF)
+
+2. Copy table (Excel)"
