@@ -3590,3 +3590,174 @@ Output Format:
 1. Proposal draft (Word/PDF)
 
 2. Campaign schedule mockup (Excel)"
+
+Prompt 6 — Festival-Themed Brand Collaboration
+
+Backstory: You are an Indian lifestyle influencer who wants to pitch a Diwali-themed collaboration to a home décor brand. The idea is to leverage festive shopping trends to boost brand visibility.
+
+Goal: Create a festival-specific pitch with a cultural and commercial angle.
+
+Prompt:
+
+"You are a Seasonal Campaign Strategist. Write a Diwali-themed brand collaboration proposal for [Brand Name] that:
+
+1. Opens with a festive greeting and cultural relevance.
+
+2. Suggests 2–3 campaign ideas around Diwali décor inspiration.
+
+3. Integrates product placement into relatable festive moments.
+
+4. Includes potential hashtags and audience engagement strategies.
+
+5. Projects ROI based on seasonal sales uplift.
+
+Inputs:
+
+1. Festival name
+
+2. Brand’s product range
+
+3. Audience insights
+
+Output Format:
+
+1. Proposal draft (Word/PDF)
+
+2. Content plan table (Excel)"
+
+Prompt 7 — Collaboration Proposal with Data-Driven Case Study
+
+Backstory: A tech accessories brand is more likely to say yes if you can prove past collaborations brought measurable results.
+
+Goal: Create a proposal with data-backed proof of effectiveness.
+
+Prompt:
+
+"You are a Data-Driven Marketing Pitch Expert. Write a brand collaboration proposal for [Brand Name] that:
+
+1. Summarises a past successful campaign (before/after metrics).
+
+2. Shows follower growth and engagement boosts from similar brands.
+
+3. Proposes 2–3 creative deliverables.
+
+4. Includes tracking and reporting methods for this campaign.
+
+5. Shows predicted ROI using realistic projections.
+
+Inputs:
+
+1. Past campaign results
+
+2. Industry benchmarks
+
+3. Tracking tools I use
+
+Output Format:
+
+1. Proposal draft (Word/PDF)
+
+2. Analytics report mockup (Excel)"
+
+Prompt 8 — Collab Proposal for Product Launch Event
+
+Backstory: A beverage company is launching a new drink. You want to pitch yourself as the go-to influencer for live event coverage plus online buzz creation.
+
+Goal: Propose a product launch influencer package.
+
+Prompt:
+
+"You are a Launch Event Campaign Planner. Write a proposal for [Brand Name] covering:
+
+1. Live event coverage via Instagram Stories/Reels.
+
+2. Pre-launch teasers to build hype.
+
+3. Giveaway contest after the launch.
+
+4. Cross-promotion on multiple platforms.
+
+5. Post-event engagement recap.
+
+Inputs:
+
+1. Event details
+
+2. Brand’s marketing goals
+
+3. My engagement rate
+
+Output Format:
+
+1. Proposal draft (Word/PDF)
+
+2. Campaign timeline (Excel)"
+
+Prompt 9 — Long-Term Brand Ambassador Proposal
+
+Backstory: You want to transition from a one-off influencer gig to being a year-round brand ambassador for an athleisure company.
+
+Goal: Create a professional brand ambassador pitch.
+
+Prompt:
+
+"You are a Brand Ambassador Contract Specialist. Write a proposal for [Brand Name] that:
+
+1. Details my personal brand’s alignment with theirs.
+
+2. Outlines monthly deliverables (posts, reels, event appearances).
+
+3. Includes special perks for the brand (exclusive shoutouts, behind-the-scenes).
+
+4. Suggests a monthly retainer fee.
+
+5. Shows how my audience can become loyal customers.
+
+Inputs:
+
+1. Past campaign results
+
+2. Ambassador deliverable ideas
+
+3. Pricing model
+
+Output Format:
+
+1. Proposal draft (Word/PDF)
+
+2. Deliverable calendar (Excel)"
+
+Prompt 10 — Cross-Niche Brand Collab
+
+Backstory: You are a travel influencer who wants to collaborate with a skincare brand for a “Travel-Friendly Skincare” campaign.
+
+Goal: Pitch a creative cross-niche partnership.
+
+Prompt:
+
+"You are a Cross-Niche Campaign Innovator. Write a collaboration proposal for [Brand Name] that:
+
+1. Links skincare benefits to travel scenarios.
+
+2. Suggests photo/video concepts showing real travel moments.
+
+3. Offers blog posts + reels + Instagram carousels.
+
+4. Recommends seasonal travel destinations for content shooting.
+
+5. Projects audience reach in both niches.
+
+Inputs:
+
+1. My niche & audience stats
+
+2. Brand’s key products
+
+3. Travel locations planned
+
+Output Format:
+
+1. Proposal draft (Word/PDF)
+
+2. Multi-niche content plan (Excel)"
+
