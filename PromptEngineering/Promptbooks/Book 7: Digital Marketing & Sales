@@ -1316,136 +1316,208 @@ Output Format:
 2. Shot sequence guide (PDF)"
 
 Prompt 15 — Carousel Ad Copy for Product Catalogues
+
 Backstory: You run an e-commerce fashion store with multiple product lines.
+
 Goal: Create carousel ad copy to showcase multiple products.
 
 Prompt:
+
 "You are a Carousel Ads Specialist. Write copy for each carousel card that:
 
-Highlights a unique product feature.
-Uses engaging, benefit-focused headlines.
-Encourages swiping through all cards.
-Suggests matching product imagery.
-Includes one unified CTA across all cards.
+1. Highlights a unique product feature.
+
+2. Uses engaging, benefit-focused headlines.
+
+3. Encourages swiping through all cards.
+
+4. Suggests matching product imagery.
+
+5. Includes one unified CTA across all cards.
+
 Inputs:
 
-Product list
-Brand tone guidelines
-Offer details
+1. Product list
+
+2. Brand tone guidelines
+
+3. Offer details
+
 Output Format:
 
-Carousel copy table (Excel)
-Creative brief (PDF)"
+1. Carousel copy table (Excel)
+
+2. Creative brief (PDF)"
 
 Prompt 16 — Google Responsive Search Ads Plan
+
 Backstory: You’re a local pest control service wanting to use Google RSA (Responsive Search Ads) to capture more local leads.
+
 Goal: Create multiple headline/description combos for Google Ads.
 
 Prompt:
+
 "You are a Google RSA Copy Specialist. Build a list of:
 
-15 headline variations (max 30 characters).
-4 description variations (max 90 characters).
-Target keywords for each headline.
-Ad extensions to increase CTR.
-Localised messaging for higher trust.
+1. 15 headline variations (max 30 characters).
+
+2. 4 description variations (max 90 characters).
+
+3. Target keywords for each headline.
+
+4. Ad extensions to increase CTR.
+
+5. Localised messaging for higher trust.
+
 Inputs:
 
-Service area
-Core services offered
-Offer details
+1. Service area
+
+2. Core services offered
+
+3. Offer details
+
 Output Format:
 
-RSA ad copy table (Excel)
-Keyword integration plan (Word/PDF)"
+1. RSA ad copy table (Excel)
+
+2. Keyword integration plan (Word/PDF)"
 
 Prompt 17 — Ad Copy for Retargeting Abandoned Carts
+
 Backstory: Your online electronics store has a high cart abandonment rate.
+
 Goal: Create persuasive retargeting ads to recover sales.
 
 Prompt:
+
 "You are a Cart Recovery Ad Expert. Create 5 ad copy variations that:
 
-Remind customers of the items they left behind.
-Add urgency with stock and time limits.
-Offer an incentive (discount, free shipping).
-Use personalised product imagery.
-Include dynamic product ad setups.
+1. Remind customers of the items they left behind.
+
+2. Add urgency with stock and time limits.
+
+3. Offer an incentive (discount, free shipping).
+
+4. Use personalised product imagery.
+
+5. Include dynamic product ad setups.
+
 Inputs:
 
-Cart product details
-Discount offer
-Retargeting audience size
+1. Cart product details
+
+2. Discount offer
+
+3. Retargeting audience size
+
 Output Format:
 
-Recovery ad table (Excel)
-Personalisation guide (PDF)"
+1. Recovery ad table (Excel)
+
+2. Personalisation guide (PDF)"
 
 Prompt 18 — Ads for High-Value Client Acquisition
+
 Backstory: You’re a luxury interior design firm targeting high-net-worth clients.
+
 Goal: Create premium-feel ad copy and exclusive targeting.
 
 Prompt:
+
 "You are a Luxury Marketing Ad Specialist. Build a campaign that:
 
-Uses high-end, aspirational language.
-Includes professional imagery and design.
-Targets wealthy neighbourhoods and high-income interest groups.
-Suggests premium Google keyword bidding strategies.
-Uses exclusive invitation-based CTAs.
+1. Uses high-end, aspirational language.
+
+2. Includes professional imagery and design.
+
+3. Targets wealthy neighbourhoods and high-income interest groups.
+
+4. Suggests premium Google keyword bidding strategies.
+
+5. Uses exclusive invitation-based CTAs.
+
 Inputs:
 
-Service details
-Target cities
-Price range
+1. Service details
+
+2. Target cities
+
+3. Price range
+
 Output Format:
 
-Ad copy list (Excel)
-Targeting blueprint (PDF)"
+1. Ad copy list (Excel)
+
+2. Targeting blueprint (PDF)"
 
 Prompt 19 — Festival-Specific Ad Targeting Playbook
+
 Backstory: You own a gifting business and want to maximise sales during Holi, Eid, and Christmas.
+
 Goal: Build targeting plans for each festival.
 
 Prompt:
+
 "You are a Festival Ads Planner. For my business, create:
 
-Audience targeting ideas for each festival.
-Seasonal ad copy variants.
-Cultural imagery suggestions.
-Special offer positioning per festival.
-Recommended campaign timelines.
+1. Audience targeting ideas for each festival.
+
+2. Seasonal ad copy variants.
+
+3. Cultural imagery suggestions.
+
+4. Special offer positioning per festival.
+
+5. Recommended campaign timelines.
+
 Inputs:
 
-Product categories
-Festival dates
-Budget allocation per festival
+1. Product categories
+
+2. Festival dates
+
+3. Budget allocation per festival
+
 Output Format:
 
-Festival targeting chart (Excel)
-Creative brief (PDF)"
+1. Festival targeting chart (Excel)
+
+2. Creative brief (PDF)"
 
 Prompt 20 — Lookalike Audience Expansion Strategy
+
 Backstory: Your digital course platform has a small audience but high engagement. You want to expand reach using lookalikes.
+
 Goal: Build lookalike audiences on Facebook and Google.
 
 Prompt:
+
 "You are a Lookalike Audience Specialist. Create a plan that:
 
-Defines seed audience size and source.
-Suggests lookalike % splits (1%, 2%, 5%).
-Combines with interest/behaviour filters.
-Recommends ad creatives for new audiences.
-Provides scaling roadmap without losing quality.
+1. Defines seed audience size and source.
+
+2. Suggests lookalike % splits (1%, 2%, 5%).
+
+3. Combines with interest/behaviour filters.
+
+4. Recommends ad creatives for new audiences.
+
+5. Provides scaling roadmap without losing quality.
+
 Inputs:
 
-Current audience data
-Course topics
-Target countries
+1. Current audience data
+
+2. Course topics
+
+3. Target countries
+
 Output Format:
 
-Lookalike plan (Excel)
-Scaling roadmap (PDF)"
+1. Lookalike plan (Excel)
+
+2. Scaling roadmap (PDF)"
 
 Prompt 21 — Copy for Seasonal Sales Clearance
 Backstory: You run an apparel store and need to clear end-of-season stock.
