@@ -1380,3 +1380,181 @@ Output Format:
 
 Recovery ad table (Excel)
 Personalisation guide (PDF)"
+
+Prompt 18 — Ads for High-Value Client Acquisition
+Backstory: You’re a luxury interior design firm targeting high-net-worth clients.
+Goal: Create premium-feel ad copy and exclusive targeting.
+
+Prompt:
+"You are a Luxury Marketing Ad Specialist. Build a campaign that:
+
+Uses high-end, aspirational language.
+Includes professional imagery and design.
+Targets wealthy neighbourhoods and high-income interest groups.
+Suggests premium Google keyword bidding strategies.
+Uses exclusive invitation-based CTAs.
+Inputs:
+
+Service details
+Target cities
+Price range
+Output Format:
+
+Ad copy list (Excel)
+Targeting blueprint (PDF)"
+
+Prompt 19 — Festival-Specific Ad Targeting Playbook
+Backstory: You own a gifting business and want to maximise sales during Holi, Eid, and Christmas.
+Goal: Build targeting plans for each festival.
+
+Prompt:
+"You are a Festival Ads Planner. For my business, create:
+
+Audience targeting ideas for each festival.
+Seasonal ad copy variants.
+Cultural imagery suggestions.
+Special offer positioning per festival.
+Recommended campaign timelines.
+Inputs:
+
+Product categories
+Festival dates
+Budget allocation per festival
+Output Format:
+
+Festival targeting chart (Excel)
+Creative brief (PDF)"
+
+Prompt 20 — Lookalike Audience Expansion Strategy
+Backstory: Your digital course platform has a small audience but high engagement. You want to expand reach using lookalikes.
+Goal: Build lookalike audiences on Facebook and Google.
+
+Prompt:
+"You are a Lookalike Audience Specialist. Create a plan that:
+
+Defines seed audience size and source.
+Suggests lookalike % splits (1%, 2%, 5%).
+Combines with interest/behaviour filters.
+Recommends ad creatives for new audiences.
+Provides scaling roadmap without losing quality.
+Inputs:
+
+Current audience data
+Course topics
+Target countries
+Output Format:
+
+Lookalike plan (Excel)
+Scaling roadmap (PDF)"
+
+Prompt 21 — Copy for Seasonal Sales Clearance
+Backstory: You run an apparel store and need to clear end-of-season stock.
+Goal: Create ad copy that drives bulk sales quickly.
+
+Prompt:
+"You are a Clearance Campaign Expert. Write ad copy that:
+
+Emphasises urgency (limited stock, final days).
+Targets bargain hunters.
+Suggests bundle purchase messaging.
+Includes visual style guide for creatives.
+Adapts to Facebook and Google formats.
+Inputs:
+
+Product types
+Discount percentage
+Clearance duration
+Output Format:
+
+Clearance copy list (Excel)
+Visual style brief (PDF)"
+
+Prompt 22 — Ads for App Install Campaigns
+Backstory: You’ve built a budget management app for Gen Z users and want to boost installs.
+Goal: Create app-focused ad copy and targeting.
+
+Prompt:
+"You are an App Marketing Specialist. Build ads that:
+
+Speak to Gen Z’s money-saving mindset.
+Highlight app features in simple language.
+Use mobile-first creatives.
+Include install CTAs for Google Play/App Store.
+Suggest targeting based on app-related behaviours.
+Inputs:
+
+App features
+Target cities
+Launch offer
+Output Format:
+
+App install ad table (Excel)
+Creative mockups (PDF)"
+
+Prompt 23 — Crisis PR Ad Campaign
+Backstory: Your brand has faced a recent negative review issue and you want ads to rebuild trust.
+Goal: Use ads to restore brand reputation.
+
+Prompt:
+"You are a Brand Reputation Ads Specialist. Create an ad campaign that:
+
+Focuses on positive customer stories.
+Highlights trust badges and certifications.
+Targets loyal customers first, then wider audiences.
+Suggests Google and Facebook ad formats.
+Includes a timeline for reputation rebuilding.
+Inputs:
+
+Positive customer reviews
+Trust certifications
+Campaign duration
+Output Format:
+
+Reputation ads plan (Excel)
+Creative and copy examples (PDF)"
+
+Prompt 24 — Dynamic Ads for Real-Time Inventory
+Backstory: You sell event tickets and need ads that update automatically as availability changes.
+Goal: Build dynamic ad strategy.
+
+Prompt:
+"You are a Dynamic Ads Expert. Create a strategy for event ticket ads that:
+
+Pulls live inventory data into ad copy.
+Shows seat availability and pricing in real time.
+Uses urgency messaging.
+Targets people searching related events.
+Includes retargeting for event page visitors.
+Inputs:
+
+Event details
+Ticketing system integration
+Target location
+Output Format:
+
+Dynamic ad setup guide (PDF)
+Example ad copy table (Excel)"
+
+Prompt 25 — Full-Funnel Ad Campaign Blueprint
+Backstory: You’re launching a new fitness supplement brand and want a complete ad campaign from awareness to purchase.
+Goal: Create a full-funnel strategy.
+
+Prompt:
+"You are a Full-Funnel Ads Strategist. Build a campaign that:
+
+Awareness — broad targeting with educational content.
+Consideration — retargeting with benefits and testimonials.
+Decision — urgency offers and discounts.
+Uses both Facebook and Google channels.
+Suggests budget allocation per funnel stage.
+Inputs:
+
+Product details
+Target audience profile
+Budget
+Output Format:
+
+Funnel blueprint (Excel)
+Ad copy for each stage (PDF)"
+
+
