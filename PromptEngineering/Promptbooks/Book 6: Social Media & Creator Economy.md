@@ -3761,3 +3761,178 @@ Output Format:
 
 2. Multi-niche content plan (Excel)"
 
+Prompt 11 — Co-Branded Product Collaboration
+
+Backstory: Instead of promoting an existing product, you want to work with a brand to co-create a limited edition item with your name or design.
+
+Goal: Pitch a co-branded product idea.
+
+Prompt:
+
+"You are a Co-Branding Concept Creator. Write a proposal to [Brand Name] for a co-branded limited edition product that:
+
+1. Highlights my unique value to their audience.
+
+2. Suggests product design and branding ideas.
+
+3. Outlines pre-launch hype campaign.
+
+4. Includes profit-sharing or licensing model.
+
+5. Projects mutual brand lift.
+
+Inputs:
+
+1. My niche identity
+
+2. Co-branding product idea
+
+3. Target launch date
+
+Output Format:
+
+1. Proposal draft (Word/PDF)
+
+2. Co-brand launch roadmap (Excel)"
+
+Prompt 12 — Collab Proposal for a Cause
+
+Backstory: You want to partner with a clothing brand to run a social campaign supporting mental health awareness during World Mental Health Month.
+
+Goal: Align brand collab with a social cause.
+
+Prompt:
+
+"You are a Cause-Marketing Campaign Designer. Write a proposal for [Brand Name] that:
+
+1. Links their brand values to the cause.
+
+2. Suggests campaign content themes (stories, reels, lives).
+
+3. Outlines donation/charity integration.
+
+4. Highlights PR benefits.
+
+5. Suggests a campaign hashtag.
+
+Inputs:
+
+1. Cause details
+
+2. Brand’s CSR initiatives
+
+3. Campaign duration
+
+Output Format:
+
+1. Proposal draft (Word/PDF)
+
+2. Campaign activation plan (Excel)"
+
+Prompt 13 — Performance-Based Payment Proposal
+
+Backstory: A brand is hesitant to commit to a flat rate. You want to propose a performance-based model where payment depends on measurable results.
+
+Goal: Pitch a results-driven influencer deal.
+
+Prompt:
+
+"You are a Performance Campaign Negotiator. Write a brand collaboration proposal for [Brand Name] that:
+
+1. Sets performance metrics (sales, sign-ups, clicks).
+
+2. Suggests tiered payment slabs based on results.
+
+3. Offers a small upfront fee + commission model.
+
+4. Shows case studies where this worked before.
+
+5. Includes clear tracking methods.
+
+Inputs:
+
+1. Preferred metrics
+
+2. Example commission rates
+
+3. Tracking tools
+
+Output Format:
+
+1. Proposal draft (Word/PDF)
+
+2. Performance tracking sheet (Excel)"
+
+Prompt 14 — Influencer & Brand Live Series
+
+Backstory: You want to run a 4-week live stream series in partnership with a brand, featuring Q&A, product demos, and audience giveaways.
+
+Goal: Pitch a brand-backed live series.
+
+Prompt:
+
+"You are a Live Engagement Campaign Architect. Write a proposal for [Brand Name] that:
+
+1. Outlines a 4-week live series plan.
+
+2. Suggests live topics aligned with brand products.
+
+3. Includes promotional reels before each session.
+
+4. Offers post-live highlights for YouTube/Instagram.
+
+5. Shows engagement ROI from similar campaigns.
+
+Inputs:
+
+1. Live series theme
+
+2. Brand’s featured products
+
+3. Preferred streaming platforms
+
+Output Format:
+
+1. Proposal draft (Word/PDF)
+
+2. Live event schedule (Excel)"
+
+Prompt 15 — Global Brand Outreach from India
+
+Backstory: You are an Indian creator aiming to collaborate with a global brand entering the Indian market. Your pitch must show local market knowledge and audience relevance.
+
+Goal: Craft a market-entry influencer proposal.
+
+Prompt:
+
+"You are a Local Market Entry Strategist. Write a proposal to [Brand Name] that:
+
+1. Highlights my local audience insights.
+
+2. Suggests culturally adapted campaign ideas.
+
+3. Offers translation/localisation support.
+
+4. Explains distribution benefits in India.
+
+5. Projects entry-stage growth metrics.
+
+Inputs:
+
+1. Brand’s origin country
+
+2. My audience location data
+
+3. Campaign ideas
+
+Output Format:
+
+1. Proposal draft (Word/PDF)
+
+2. India market activation plan (Excel)"
+
+Output Format:
+
+1. Proposal draft (Word/PDF)
+
+2. Visual mood board (PDF)"
