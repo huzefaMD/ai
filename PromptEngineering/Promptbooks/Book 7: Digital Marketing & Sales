@@ -2741,5 +2741,209 @@ Output Format:
 
 2. Email templates (Word/PDF)"
 
+Prompt 7 — Free Trial Expiry Sequence
+
+Backstory: Your SaaS project management tool offers a 14-day free trial, but most users don’t convert without reminders.
+
+Goal: Prompt users to subscribe before trial ends.
+
+Prompt:
+
+"You are a Trial Conversion Specialist. Design a 4-email countdown sequence that: 
+
+1. Alerts user when 7 days remain. 
+
+2. Highlights unused premium features. 
+
+3. Shares testimonials or case studies. 
+
+4. Gives final 24-hour subscription reminder. 
+
+5. Offers an exclusive discount for immediate upgrade.
+
+Inputs: 
+
+1. Trial length 
+
+2. Subscription pricing 
+
+3. Key premium features
+
+Output Format: 
+
+1. Email copy sequence (Word) 
+
+2. Conversion tracking sheet (Excel)"
+
+Prompt 8 — After-Sales Support Follow-Up
+
+Backstory: You sell high-end home appliances and want to ensure customers know how to use them effectively.
+
+Goal: Reduce returns and improve satisfaction.
+
+Prompt:
+
+"You are a Customer Support Follow-Up Specialist. Write a 3-step follow-up that:
+
+1. Sends a thank-you email with product setup guide.
+
+2. Shares troubleshooting tips and FAQs after 1 week.
+
+3. Requests feedback/review after 1 month.
+
+4. Personalise with customer name and purchase details.
+
+5. Include customer support contact prominently.
+
+Inputs:
+
+1. Product model
+
+2. Support guide link
+
+3. Customer purchase date
+
+Output Format:
+
+1. Support flow diagram (PDF)
+
+2. Email scripts (Word)"
+
+Prompt 9 — Webinar Attendee Follow-Up
+
+Backstory: Your digital coaching business hosts free webinars to generate leads. Attendees often drop off without taking action.
+
+Goal: Convert attendees into paying clients.
+
+Prompt:
+
+"You are a Webinar Conversion Specialist. Build a 3-email sequence that:
+
+1. Thanks them for attending and sends replay link.
+
+2. Shares additional resources to deepen trust.
+
+3. Offers a limited-time discount for related paid course.
+
+4. Uses urgency without sounding pushy.
+
+5. Tracks open and click rates for optimisation.
+
+Inputs:
+
+1. Webinar topic
+
+2. Replay link
+
+3. Course details
+
+Output Format:
+
+1. Sequence in CRM import format (CSV)
+
+2. Email copy (PDF)"
+
+Prompt 10 — Lost Deal Follow-Up
+
+Backstory: Your IT consulting firm loses some deals to competitors, but wants to stay top of mind for future opportunities.
+
+Goal: Keep the relationship warm without being intrusive.
+
+Prompt:
+
+"You are a Lost Deal Recovery Specialist. Create a 2-touch follow-up that:
+
+1. Acknowledges their choice politely.
+
+2. Offers to provide free resources relevant to their needs.
+
+3. Shares a quarterly update with new solutions.
+
+4. Keeps tone professional and helpful.
+
+5. Tags them for future campaigns.
+
+Inputs:
+
+1. Prospect name
+
+2. Service discussed
+
+3. Relevant resource link
+
+Output Format:
+
+1. Recovery follow-up schedule (Excel)
+
+2. Email drafts (Word)"
+
+Prompt 11 — High-Value Lead Priority Sequence
+
+Backstory: Your real estate firm has a small list of high-value buyers who need quick follow-up to close deals.
+
+Goal: Give VIP treatment to boost conversion probability.
+
+Prompt:
+
+"You are a High-Ticket CRM Specialist. Design a 5-step sequence that:
+
+1. Responds within 1 hour of inquiry.
+
+2. Sends personalised property recommendations.
+
+3. Offers virtual tour booking.
+
+4. Sends testimonials from similar buyers.
+
+5. Ends with a clear call to action for viewing or booking.
+
+Inputs:
+
+1. Buyer budget range
+
+2. Property types
+
+3. Contact preference (call/email)
+
+Output Format:
+
+1. Lead handling SOP (PDF)
+
+2. Email + SMS scripts (Word)"
+
+Prompt 12 — Service Renewal Reminder
+
+Backstory: Your B2B hosting company relies on annual service renewals. Some clients forget until service disruption occurs.
+
+Goal: Proactively remind them before expiry.
+
+Prompt:
+
+"You are a Renewal Retention Specialist. Create a 3-email reminder series that:
+
+1. Alerts at 30 days before expiry.
+
+2. Reminds at 7 days before expiry.
+
+3. Sends final reminder 1 day before.
+
+4. Offers easy payment/renewal links.
+
+5. Includes support contact for help.
+
+Inputs:
+
+1. Renewal date
+
+2. Service plan details
+
+3. Payment link
+
+Output Format:
+
+1. Reminder calendar (Excel)
+
+2. Email copy (Word/PDF)"
+
 
 
