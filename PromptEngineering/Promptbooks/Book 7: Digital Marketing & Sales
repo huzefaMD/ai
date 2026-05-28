@@ -2434,3 +2434,128 @@ Output Format:
 
 2. Email design mockups (PDF)"
 
+Prompt 23 — Event Invitation Email
+
+Backstory: Your luxury wine brand is hosting a private tasting event for select customers.
+
+Goal: Increase RSVP confirmations and attendance.
+
+Prompt:
+
+"You are an Event Invitation Email Specialist. Write a single email that:
+
+1. Shares event details (date, venue, time).
+
+2. Highlights special experiences (celebrity chef, live music).
+
+3. Uses elegant visuals.
+
+4. Includes RSVP buttons.
+
+5. Creates exclusivity with “limited spots” language.
+
+Inputs:
+
+1. Event details
+
+2. RSVP link
+
+3. Guest capacity
+
+Output Format:
+
+1. Invitation copy + design references (PDF)"
+
+Prompt 24 — Survey Participation Email
+
+Backstory: Your edtech platform wants to collect insights from students about new course preferences.
+
+Goal: Increase survey completion rates.
+
+Prompt:
+
+"You are a Survey Email Specialist. Create an email that:
+
+1. Explains the purpose of the survey.
+
+2. Shares estimated time to complete.
+
+3. Offers an incentive for participation.
+
+4. Uses a clean, minimal design.
+
+5. Links directly to the survey form.
+
+Inputs:
+
+1. Survey link
+
+2. Incentive details
+
+3. Target audience profile
+
+Output Format:
+
+1. Survey email template (Word)
+
+2. Completion tracking plan (Excel)"
+
+Prompt 25 — Holiday Greeting Email
+
+Backstory: Your corporate gifting company wants to send warm holiday wishes to clients while staying professional.
+
+Goal: Strengthen relationships without direct selling.
+
+Prompt:
+
+"You are a Corporate Greetings Email Specialist. Write a festive holiday greeting that:
+
+1. Includes warm, personalised wishes.
+
+2. Features a tasteful holiday-themed design.
+
+3. Keeps tone professional yet friendly.
+
+4. Optionally includes a subtle thank-you discount.
+
+5. Avoids clutter and long copy.
+
+Inputs:
+
+1. Company name
+
+2. Holiday type
+
+3. Optional gift/discount details
+
+Output Format:
+
+1. Greeting email copy (Word)
+
+2. Design layout notes (PDF)"
+
+
+CRM follow-up sequences
+
+Prompt 1 — New Lead Welcome & Warm-Up
+Backstory: You run a B2B software company that generates leads via a free trial sign-up. Many leads don’t convert unless nurtured.
+Goal: Build trust, establish credibility, and lead them toward a sales conversation.
+
+Prompt:
+"You are a B2B CRM Lead Nurturing Specialist. Create a 4-email welcome and warm-up sequence that:
+
+Introduces the company and its value proposition.
+Shares a customer success story for social proof.
+Offers a free resource (case study or guide).
+Ends with a soft call to book a demo.
+Staggers emails over 2 weeks to avoid spam.
+Inputs:
+
+Product/service details
+Target industry
+Customer testimonial link
+Output Format:
+
+Sequence timeline (Excel)
+Email copy (Word/PDF)"
+
