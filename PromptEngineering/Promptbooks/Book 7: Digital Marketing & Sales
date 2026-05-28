@@ -3649,3 +3649,69 @@ Output Format:
 1. Deck (PDF)
 
 2. Media pitch email (Word)"
+
+Prompt 9 — Objection Handling: “I Need to Think About It”
+
+Backstory: You offer coaching services. Leads often stall with vague “think about it” responses, which can signal hidden objections or low urgency.
+
+Goal: Uncover the real reason and keep the sales process moving.
+
+Prompt:
+
+"You are a Sales Conversation Strategist. Draft a 5-step framework that:
+
+1. Responds positively to buy time.
+
+2. Gently asks if there’s a specific concern holding them back.
+
+3. Reframes urgency by tying to their goals.
+
+4. Shares a success story to build confidence.
+
+5. Ends with a decision deadline.
+
+Inputs:
+
+1. Service details
+
+2. Client goals
+
+Output Format:
+
+1. Script (Word)
+
+2. Objection flowchart (PDF)"
+
+Prompt 10 — Internal Team Sales Training Deck
+
+Backstory: Your sales team handles diverse products, but pitch consistency is lacking. Some reps undersell key benefits, while others overload prospects with details.
+
+Goal: Standardise messaging for higher conversion.
+
+Prompt:
+
+"You are a Sales Enablement Coach. Create a 10-slide internal training deck that:
+
+1. Outlines the ideal pitch flow.
+
+2. Lists top objections and responses.
+
+3. Highlights core product USPs (Unique Selling Points).
+
+4. Provides 3 success stories for credibility.
+
+5. Includes a practice role-play section.
+
+Inputs:
+
+1. Product/service list
+
+2. Objection database
+
+Output Format:
+
+1. Deck (PPTX)
+
+2. Facilitator’s guide (Word)"
+
+
