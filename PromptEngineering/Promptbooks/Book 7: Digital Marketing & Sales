@@ -1962,3 +1962,241 @@ Output Format:
 
 2. Email copy + CTA buttons (PDF)"
 
+Prompt 9 — Customer Feedback Request Emails
+
+Backstory: You run a meal subscription service and want to collect feedback after the first delivery to improve service and boost reviews.
+
+Goal: Encourage customers to share experiences and rate your service.
+
+Prompt:
+
+"You are a Customer Feedback Email Specialist. Write a 2-email feedback request campaign that:
+
+1. Sends a thank-you email after the first order.
+
+2. Requests a short review or feedback form completion.
+
+3. Offers an incentive (discount on next purchase).
+
+4. Keeps the email under 150 words for quick reading.
+
+5. Includes a direct review form link.
+
+Inputs:
+
+1. Service details
+
+2. Incentive type
+
+3. Feedback form link
+
+Output Format:
+
+1. Feedback email copy (Word)
+
+2. Review collection plan (PDF)"
+
+Prompt 10 — Upsell Email Campaign
+
+Backstory: You sell online fitness programs and want to upsell premium plans to customers who bought basic packages.
+
+Goal: Move customers to higher-value purchases.
+
+Prompt:
+
+"You are an Upsell Email Strategist. Build a 3-email upsell sequence that:
+
+1. Highlights the benefits of the premium plan.
+
+2. Shares success stories from premium customers.
+
+3. Offers a limited-time upgrade discount.
+
+4. Includes side-by-side feature comparison.
+
+5. Ends with a strong CTA to upgrade now.
+
+Inputs:
+
+1. Basic vs premium features
+
+2. Upgrade price
+
+3. Deadline for offer
+
+Output Format:
+
+1. Upsell email chart (Excel)
+
+2. Full email copy (PDF)"
+
+Prompt 11 — Festival Giveaway Email Campaign
+
+Backstory: Your fashion accessories brand wants to run a Holi giveaway to engage subscribers.
+
+Goal: Drive excitement and participation.
+
+Prompt:
+
+"You are a Giveaway Email Campaign Specialist. Create a 3-email giveaway sequence that:
+
+1. Announces the giveaway and how to enter.
+
+2. Sends a mid-campaign reminder with social proof.
+
+3. Reveals winners and promotes products.
+
+4. Keeps tone festive and celebratory.
+
+5. Encourages sharing on social media.
+
+Inputs:
+
+1. Giveaway prize details
+
+2. Entry rules
+
+3. Campaign dates
+
+Output Format:
+
+1. Giveaway campaign table (Excel)
+
+2. Email + social share templates (PDF)"
+
+Prompt 12 — Cross-Sell Email Campaign
+
+Backstory: Your bookstore’s online store wants to recommend books related to past purchases.
+
+Goal: Increase average order value via cross-sells.
+
+Prompt:
+
+"You are a Cross-Sell Email Specialist. Build a 2-email campaign that: 
+
+1. Uses customer purchase data to recommend related books. 
+
+2. Includes personalised product images and blurbs. 
+
+3. Offers bundle pricing. 
+
+4. Keeps copy under 250 words. 
+
+5. Has strong subject lines with curiosity hooks.
+
+Inputs: 
+
+1. Past purchase history 
+
+2. Recommended products 
+
+3. Bundle discount details
+
+Output Format: 
+
+1. Cross-sell copy table (Excel)
+
+2. Personalisation setup guide (PDF)"
+
+Prompt 13 — Loyalty Program Onboarding Series
+
+Backstory: You’re launching a loyalty rewards program for your café chain.
+
+Goal: Encourage sign-ups and educate members on benefits.
+
+Prompt:
+
+"You are a Loyalty Program Email Specialist. Create a 3-email onboarding series that:
+
+1. Welcomes members and explains how points work.
+
+2. Shares ways to earn and redeem points.
+
+3. Offers a bonus for first redemption.
+
+4. Uses branded imagery and friendly tone.
+
+5. Suggests seasonal promotions for members.
+
+Inputs:
+
+1. Loyalty program details
+
+2. Bonus offer
+
+3. Visual assets
+
+Output Format:
+
+1. Onboarding flowchart (Excel)
+
+2. Email copy + design cues (PDF)"
+
+Prompt 14 — Monthly Newsletter with Industry Insights
+
+Backstory: You’re a B2B consulting firm targeting small businesses and want to keep clients informed while staying top-of-mind.
+
+Goal: Share value consistently and subtly promote services.
+
+Prompt:
+
+"You are a B2B Newsletter Writer. Create a monthly email newsletter that:
+
+1. Starts with a key industry update.
+
+2. Includes a “Tip of the Month” relevant to clients.
+
+3. Shares a case study or success story.
+
+4. Ends with a service promotion.
+
+5. Keeps layout clean and easy to scan.
+
+Inputs:
+
+1. Industry niche
+
+2. Consulting services offered
+
+3. Client personas
+
+Output Format:
+
+1. Newsletter template (PDF)
+
+2. 6-month content plan (Excel)"
+
+Prompt 15 — Refill Reminder Email for Consumable Products
+
+Backstory: You sell organic supplements and want to remind customers when it’s time to reorder.
+
+Goal: Automate refill reminders to increase repeat purchases.
+
+Prompt:
+
+"You are a Product Refill Email Specialist. Build a 2-email reminder sequence that:
+
+1. Sends 5 days before the estimated refill date.
+
+2. Highlights benefits of continuous usage.
+
+3. Offers a small reorder discount.
+
+4. Includes “One-click reorder” CTA.
+
+5. Uses urgency without being pushy.
+
+Inputs:
+
+1. Product refill cycle
+
+2. Discount details
+
+3. Customer purchase history
+
+Output Format:
+
+1. Reminder sequence chart (Excel)
+
+2. Full email copy (Word/PDF)"
+
