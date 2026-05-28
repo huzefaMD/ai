@@ -3081,4 +3081,284 @@ Output Format:
 
 2. Follow-up timing chart (Excel)"
 
+Prompt 17 — Client Onboarding Progress Check-In
 
+Backstory: You run a financial consultancy and onboard new clients through a structured 90-day plan. While some complete initial steps quickly, others get stuck or lose momentum. A timely, caring check-in not only helps them progress but also increases satisfaction and retention.
+
+Goal: Ensure clients are engaged and completing onboarding steps.
+
+Prompt:
+
+"You are a Client Success CRM Specialist. Build a 3-touch follow-up that:
+
+1. Checks on onboarding progress with a friendly tone.
+
+2. Offers support or additional resources for stalled steps.
+
+3. Reinforces the benefits of completing onboarding on time.
+
+4. Personalises with their business goals.
+
+5. Ends with a “next step” call to action.
+
+Inputs:
+
+1. Onboarding checklist
+
+2. Client name
+
+3. Status in CRM
+
+Output Format:
+
+1. CRM automation flow (PDF)
+
+2. Email + call scripts (Word)"
+
+Prompt 18 — Anniversary or Milestone Celebration
+
+Backstory: Your fitness coaching program tracks client join dates and major achievements (e.g., 1 year with your program, 50 lbs lost). Recognising these moments creates emotional connection and loyalty.
+
+Goal: Celebrate milestones and encourage further engagement or upsell.
+
+Prompt:
+
+"You are a Customer Relationship Building Specialist. Write a 1-email celebration template that:
+
+1. Personalises the message with their specific milestone.
+
+2. Includes a visual or certificate to make it shareable.
+
+3. Offers a special bonus or free session.
+
+4. Invites them to share their story/testimonial.
+
+5. Suggests next-level services for continued progress.
+
+Inputs:
+
+1. Milestone type/date
+
+2. Bonus offer
+
+3. Client’s progress details
+
+Output Format:
+
+1. Email + design mockup (PDF)
+
+2. Social media sharing text (Word)"
+
+Prompt 19 — Post-Complaint Satisfaction Follow-Up
+
+Backstory: Your online food delivery platform recently resolved a customer complaint about a late delivery. Following up shows you care beyond the transaction and can turn a negative experience into a loyalty opportunity.
+
+Goal: Measure satisfaction and rebuild trust after a complaint.
+
+Prompt:
+
+"You are a Customer Recovery Specialist. Create a 2-step follow-up that:
+
+1. Checks if the resolution met their expectations.
+
+2. Offers a goodwill coupon for their next order.
+
+3. Expresses commitment to improving service.
+
+4. Encourages honest feedback for quality control.
+
+5. Tracks response in CRM for future segmentation.
+
+Inputs:
+
+1. Complaint details
+
+2. Resolution date
+
+3. Coupon code
+
+Output Format:
+
+1. Follow-up workflow diagram (PDF)
+
+2. Email & SMS copy (Word)"
+
+Prompt 20 — Webinar Non-Attendee Nurture Sequence
+
+Backstory: You run a business coaching program and many registrants skip the live webinar. These leads still have interest but missed the event for various reasons. A targeted nurture can re-engage them and lead to sales.
+
+Goal: Convert non-attendees into buyers.
+
+Prompt:
+
+"You are a Missed Webinar Conversion Specialist. Create a 3-email series that:
+
+1. Sends replay link with key highlights.
+
+2. Addresses common objections in a friendly tone.
+
+3. Introduces related product/service with a limited-time offer.
+
+4. Keeps messages concise and benefit-focused.
+
+5. Encourages scheduling a quick discovery call.
+
+Inputs:
+
+1. Webinar topic
+
+2. Replay link
+
+3. Offer details
+
+Output Format:
+
+1. Email copy sequence (Word)
+
+2. CRM tagging strategy (Excel)"
+
+Prompt 21 — Follow-Up After Free Resource Download
+
+Backstory: Your digital marketing agency offers a free e-book on “10 Ways to Improve SEO.” While downloads generate leads, many people never take the next step. A follow-up can turn interest into revenue.
+
+Goal: Move resource downloaders into the sales funnel.
+
+Prompt:
+
+"You are a Lead Magnet Nurture Specialist. Design a 4-email sequence that:
+
+1. Thanks them for downloading and restates the value.
+
+2. Shares an additional quick tip or resource.
+
+3. Introduces a relevant paid service/product.
+
+4. Offers a free consultation to discuss implementation.
+
+5. Tracks engagement for segmentation.
+
+Inputs:
+
+1. Lead magnet title/link
+
+2. Paid offer details
+
+3. Consultation booking link
+
+Output Format:
+
+1. Email timeline (Excel)
+
+2. Email drafts (Word)"
+
+Prompt 22 — Follow-Up After Networking Event
+
+Backstory: You attended an industry mixer where you met potential collaborators. A warm follow-up within 48 hours ensures the connection remains fresh and opens doors for partnerships.
+
+Goal: Strengthen relationship and explore opportunities.
+
+Prompt:
+
+"You are a Networking Follow-Up Expert. Write a single email template that:
+
+1. References the event and specific conversation topic.
+
+2. Expresses genuine interest in staying in touch.
+
+3. Suggests a specific collaboration idea or call.
+
+4. Includes a friendly, professional tone.
+
+5. Contains clear next steps.
+
+Inputs:
+
+1. Event name/date
+
+2. Discussion topic
+
+3. Collaboration idea
+
+Output Format:
+
+1. Email template (Word)
+
+2. CRM tagging workflow (PDF)"
+
+Prompt 23 — Follow-Up After Service Demo
+
+Backstory: Your HR software company provides live demos to leads. Post-demo follow-ups are crucial for conversions, especially within 24 hours when interest is high.
+
+Goal: Convert demo attendees to paying customers.
+
+Prompt:
+
+"You are a Demo Conversion Specialist. Create a 3-email follow-up that:
+
+1. Recaps demo highlights and benefits.
+
+2. Answers questions and addresses potential concerns.
+
+3. Offers a special incentive for signing up within a week.
+
+4. Keeps emails under 250 words for easy reading.
+
+5. Integrates booking/payment link.
+
+Inputs:
+
+1. Demo date
+
+2. Highlighted features
+
+3. Incentive offer
+
+Output Format:
+
+1. Email copy (Word)
+
+2. Follow-up reminder schedule (Excel)"
+
+Prompt 24 — VIP Client Retention Sequence
+Backstory: Your luxury travel agency has repeat high-value clients. Personalised communication keeps them loyal and spending more.
+Goal: Maintain exclusivity and encourage repeat bookings.
+
+Prompt:
+"You are a VIP Client Relationship Manager. Build a 3-touch sequence that:
+
+Sends quarterly destination updates tailored to client preferences.
+Shares exclusive offers before public release.
+Offers a complimentary add-on for next trip.
+Uses an elegant, personalised tone.
+Tracks open and conversion rates in CRM.
+Inputs:
+
+Client travel preferences
+Exclusive offer details
+Last booking date
+Output Format:
+
+Email templates (Word)
+VIP engagement tracker (Excel)"
+
+Prompt 25 — Renewal Upsell Sequence
+Backstory: Your digital subscription platform notices that clients often renew on the same plan instead of upgrading. A carefully crafted upsell during renewal can increase revenue without additional acquisition costs.
+Goal: Upsell customers at the point of renewal.
+
+Prompt:
+"You are a Renewal Upsell Specialist. Design a 3-email sequence that:
+
+Reminds client of upcoming renewal date.
+Highlights benefits of a higher-tier plan.
+Offers a special upgrade discount if renewed early.
+Keeps messages short and value-driven.
+Uses personalised feature comparisons.
+Inputs:
+
+Renewal date
+Plan tiers
+Upgrade offer
+Output Format:
+
+Email sequence table (Excel)
+Comparison chart (PDF)"
