@@ -2200,3 +2200,237 @@ Output Format:
 
 2. Full email copy (Word/PDF)"
 
+Prompt 16 — Seasonal Product Clearance Sale
+
+Backstory: Your clothing store wants to clear out winter stock before summer inventory arrives.
+
+Goal: Drive urgency and clear inventory fast.
+
+Prompt:
+
+"You are a Seasonal Sales Email Expert. Create a 4-email clearance campaign that:
+
+1. Announces the end-of-season sale with discounts up to X%.
+
+2. Uses urgency (“only 3 days left”) and limited-stock messages.
+
+3. Features visually appealing product grids.
+
+4. Includes a final “Last Chance” reminder.
+
+5. Suggests A/B testing discount ranges for better conversion.
+
+Inputs:
+
+1. Discount percentage
+
+2. Product categories
+
+3. Sale dates
+
+Output Format:
+
+1. Campaign flowchart (Excel)
+
+2. Email copy with visual references (PDF)"
+
+Prompt 17 — Customer Onboarding for SaaS
+
+Backstory: Your project management SaaS has new users who need guidance to start using features quickly.
+
+Goal: Increase product adoption and reduce churn.
+
+Prompt:
+
+"You are a SaaS Onboarding Email Specialist. Build a 5-email sequence that:
+
+1. Welcomes users and links to the quick-start guide.
+
+2. Shows how to set up their first project.
+
+3. Highlights advanced features.
+
+4. Shares customer success stories.
+
+5. Offers a 1:1 onboarding call in the final email.
+
+Inputs:
+
+1. Key SaaS features
+
+2. Support links
+
+3. Onboarding call booking link
+
+Output Format:
+
+1. Onboarding checklist (Excel)
+
+2. Email copy with CTA placement (PDF)"
+
+Prompt 18 — Thank You Email for First Purchase
+
+Backstory: Your handmade jewellery brand wants to make first-time customers feel valued so they return.
+
+Goal: Build loyalty and encourage repeat purchases.
+
+Prompt:
+
+"You are a Customer Loyalty Email Specialist. Write a single thank-you email that:
+
+1. Thanks the customer sincerely for their first order.
+
+2. Shares a short brand story.
+
+3. Includes care tips for the product.
+
+4. Offers a small coupon for the next purchase.
+
+5. Ends with a warm, human closing.
+
+Inputs:
+
+1. Customer first name
+
+2. Order details
+
+3. Discount code
+
+Output Format:
+
+1. Email copy with personalisation tags (Word)"
+
+Prompt 19 — Early Access VIP Sale
+
+Backstory: You have a cosmetics store with a loyalty club and want to give members first access to a flash sale.
+
+Goal: Make VIPs feel special and drive high-value purchases.
+
+Prompt:
+
+"You are a VIP Campaign Email Strategist. Build a 2-email early access campaign that:
+
+1. Announces the VIP-only early access sale.
+
+2. Shares exclusive discount codes.
+
+3. Creates urgency with limited stock messages.
+
+4. Includes attractive product images.
+
+5. Ends with a thank-you note for being a VIP member.
+
+Inputs:
+
+1. Discount percentage
+
+2. Product categories
+
+3. VIP member list
+
+Output Format:
+
+1. VIP email templates (PDF)
+
+2. Campaign timeline (Excel)"
+
+Prompt 20 — Post-Purchase Upsell Series
+
+Backstory: Your online furniture store wants to offer matching items after a customer buys a major product.
+
+Goal: Increase post-purchase revenue with relevant suggestions.
+
+Prompt:
+
+"You are a Post-Purchase Email Strategist. Create a 3-email upsell sequence that:
+
+1. Suggests matching or complementary items.
+
+2. Includes lifestyle images.
+
+3. Offers a bundle discount.
+
+4. Sends the first email within 3 days of purchase.
+
+5. Personalises recommendations based on purchase history.
+
+Inputs:
+
+1. Purchased product details
+
+2. Recommended items
+
+3. Bundle offer
+
+Output Format:
+
+1. Upsell sequence plan (Excel)
+
+2. Email copy (Word/PDF)"
+
+Prompt 21 — Milestone Celebration Email
+
+Backstory: Your fitness app wants to celebrate customer achievements like “100 workouts completed” to build engagement.
+
+Goal: Strengthen the emotional connection with the brand.
+
+Prompt:
+
+"You are a Customer Milestone Email Specialist. Write a celebratory email that: 
+
+1. Congratulates the user on their milestone. 
+
+2. Shows their progress visually (charts/images). 
+
+3. Offers a small gift (free month, badge). 
+
+4. Encourages sharing on social media. 
+
+5. Teases the next milestone to keep them engaged.
+
+Inputs: 
+
+1. Milestone type 
+
+2. Reward details 
+
+3. Social sharing link
+
+Output Format: 
+
+1. Email copy with graphic placement notes (PDF)"
+
+Prompt 22 — Flash Sale Announcement
+
+Backstory: Your electronics store wants to run a 24-hour flash sale.
+
+Goal: Drive maximum traffic and purchases in a short time.
+
+Prompt:
+
+"You are a Flash Sale Email Specialist. Build a 2-email flash sale sequence that:
+
+1. Announces the sale with big, bold visuals.
+
+2. Shares top-selling items in the email body.
+
+3. Uses countdown timers.
+
+4. Includes strong CTAs (“Shop Now”).
+
+5. Sends a last-hour reminder.
+
+Inputs:
+
+1. Sale start/end time
+
+2. Discount details
+
+3. Product highlights
+
+Output Format:
+
+1. Flash sale sequence table (Excel)
+
+2. Email design mockups (PDF)"
+
