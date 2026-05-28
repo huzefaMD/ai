@@ -2945,5 +2945,140 @@ Output Format:
 
 2. Email copy (Word/PDF)"
 
+Prompt 13 — Client Feedback Collection
+
+Backstory: Your interior design agency wants to improve services by collecting structured feedback after every project.
+
+Goal: Get actionable insights and maintain goodwill.
+
+Prompt:
+
+"You are a Client Experience Specialist. Write a single follow-up email that:
+
+1. Thanks the client for working with you.
+
+2. Shares a simple feedback form link.
+
+3. Explains how their input will help.
+
+4. Keeps tone warm and appreciative.
+
+5. Optionally offers a small thank-you gift.
+
+Inputs:
+
+1. Client name
+
+2. Project type
+
+3. Feedback form link
+
+Output Format:
+
+1. Feedback email template (Word)
+
+2. Tracking spreadsheet (Excel)"
+
+Prompt 14 — Seasonal Greeting + Soft Offer
+
+Backstory: Your corporate gifting business wants to wish clients on festivals and subtly promote services.
+
+Goal: Stay memorable without hard selling.
+
+Prompt:
+
+"You are a Festive CRM Outreach Specialist. Write a greeting email that:
+
+1. Personalises with client name and past interactions.
+
+2. Includes a short festive wish.
+
+3. Softly introduces a relevant seasonal offer.
+
+4. Keeps email under 150 words.
+
+5. Includes one clean call-to-action link.
+
+Inputs:
+
+1. Festival name
+
+2. Offer details
+
+3. Client list
+
+Output Format:
+
+1. Greeting email design guide (PDF)
+
+2. Copy (Word)"
+
+Prompt 15 — Upsell to Existing Client
+
+Backstory: Your digital agency has clients who use only one service (SEO), but could benefit from others (social media, PPC).
+
+Goal: Increase average client value.
+
+Prompt:
+
+"You are a CRM Upsell Specialist. Build a 2-email sequence that:
+
+1. Thanks them for their ongoing partnership.
+
+2. Shows how additional services can enhance results.
+
+3. Offers a free audit or trial.
+
+4. Shares a case study showing success with multiple services.
+
+5. Encourages booking a consultation call.
+
+Inputs:
+
+1. Existing service details
+
+2. Additional services
+
+3. Case study link
+
+Output Format:
+
+1. Upsell plan (Excel)
+
+2. Email drafts (Word/PDF)"
+
+Prompt 16 — Upsell After Positive Customer Support Interaction
+
+Backstory: Your cloud storage company has just resolved a major technical issue for a customer. The client responded positively to the resolution and even thanked the support team. This is the perfect time to upsell because the customer has just experienced your brand’s value and responsiveness firsthand. Waiting too long may lose this goodwill.
+
+Goal: Leverage positive sentiment to present a relevant upsell.
+
+Prompt:
+
+"You are a Post-Support Upsell Specialist. Create a 2-email sequence that:
+
+1. References the resolved issue to show attentiveness.
+
+2. Thanks them for their patience and trust.
+
+3. Introduces a higher-tier plan or relevant add-on.
+
+4. Highlights how it can prevent future issues or improve efficiency.
+
+5. Ends with a limited-time upgrade incentive.
+
+Inputs:
+
+1. Support ticket summary
+
+2. Upsell product details
+
+3. Incentive offer
+
+Output Format:
+
+1. Email scripts (Word)
+
+2. Follow-up timing chart (Excel)"
 
 
