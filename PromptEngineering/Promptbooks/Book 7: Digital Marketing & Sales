@@ -3320,45 +3320,106 @@ Output Format:
 2. Follow-up reminder schedule (Excel)"
 
 Prompt 24 — VIP Client Retention Sequence
+
 Backstory: Your luxury travel agency has repeat high-value clients. Personalised communication keeps them loyal and spending more.
+
 Goal: Maintain exclusivity and encourage repeat bookings.
 
 Prompt:
+
 "You are a VIP Client Relationship Manager. Build a 3-touch sequence that:
 
-Sends quarterly destination updates tailored to client preferences.
-Shares exclusive offers before public release.
-Offers a complimentary add-on for next trip.
-Uses an elegant, personalised tone.
-Tracks open and conversion rates in CRM.
+1. Sends quarterly destination updates tailored to client preferences.
+
+2. Shares exclusive offers before public release.
+
+3. Offers a complimentary add-on for next trip.
+
+4. Uses an elegant, personalised tone.
+
+5. Tracks open and conversion rates in CRM.
+
 Inputs:
 
-Client travel preferences
-Exclusive offer details
-Last booking date
+1. Client travel preferences
+
+2. Exclusive offer details
+
+3. Last booking date
+
 Output Format:
 
-Email templates (Word)
-VIP engagement tracker (Excel)"
+1. Email templates (Word)
+
+2. VIP engagement tracker (Excel)"
 
 Prompt 25 — Renewal Upsell Sequence
+
 Backstory: Your digital subscription platform notices that clients often renew on the same plan instead of upgrading. A carefully crafted upsell during renewal can increase revenue without additional acquisition costs.
+
 Goal: Upsell customers at the point of renewal.
 
 Prompt:
+
 "You are a Renewal Upsell Specialist. Design a 3-email sequence that:
 
-Reminds client of upcoming renewal date.
-Highlights benefits of a higher-tier plan.
-Offers a special upgrade discount if renewed early.
-Keeps messages short and value-driven.
-Uses personalised feature comparisons.
+1. Reminds client of upcoming renewal date.
+
+2. Highlights benefits of a higher-tier plan.
+
+3. Offers a special upgrade discount if renewed early.
+
+4. Keeps messages short and value-driven.
+
+5. Uses personalised feature comparisons.
+
 Inputs:
 
-Renewal date
-Plan tiers
-Upgrade offer
+1. Renewal date
+
+2. Plan tiers
+
+3. Upgrade offer
+
 Output Format:
 
-Email sequence table (Excel)
-Comparison chart (PDF)"
+1. Email sequence table (Excel)
+
+2. Comparison chart (PDF)"
+
+
+Sales pitch decks & objection handling
+
+Prompt 1 — Custom Pitch Deck for B2B SaaS Product
+
+Backstory: You’re launching a B2B SaaS tool for automating invoice management. Your target market is mid-sized companies that currently rely on manual bookkeeping. Most prospects are skeptical about ROI unless they see real numbers.
+
+Goal: Create a pitch deck that blends storytelling with hard metrics to drive interest.
+
+Prompt:
+
+"You are a B2B SaaS Pitch Deck Expert. Create a 12-slide deck that:
+
+1. Opens with a relatable problem story in the target industry.
+
+2. Uses 3–4 data points on wasted time & errors from manual invoicing.
+
+3. Clearly shows how the SaaS reduces costs & errors.
+
+4. Includes a simple ROI calculator.
+
+5. Closes with a limited-time demo offer.
+
+Inputs:
+
+1. Industry type (e.g., manufacturing, retail)
+
+2. Average client size
+
+3. ROI statistics (if available)
+
+Output Format:
+
+1. PowerPoint file (.pptx)
+
+2. Slide notes with talking points"
