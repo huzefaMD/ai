@@ -3617,3 +3617,35 @@ Output Format:
 1. Script (Word)
 
 2. Follow-up schedule (Excel)"
+
+Prompt 8 — Product Launch Pitch for Media
+
+Backstory: Your tech gadget company is launching a new wearable. Media coverage will drive awareness, but journalists need a story, not just product specs.
+
+Goal: Secure press coverage with a compelling pitch.
+
+Prompt:
+
+"You are a Tech Product PR Specialist. Build a 6-slide press pitch deck that:
+
+1. Frames the product launch as part of a larger trend.
+
+2. Highlights 3 unique selling points.
+
+3. Includes high-res lifestyle imagery.
+
+4. Shares an exclusive review offer for journalists.
+
+5. Ends with contact info for interviews.
+
+Inputs:
+
+1. Product specs
+
+2. Trend research
+
+Output Format:
+
+1. Deck (PDF)
+
+2. Media pitch email (Word)"
