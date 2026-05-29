@@ -2686,171 +2686,258 @@ Inputs:
 2. Number of skill levels"
 
 Prompt 17 — Instructor-Led vs. Self-Paced Mix
+
 Backstory: You’re teaching digital art and want some live sessions while keeping most content self-paced. Students need both flexibility and real-time feedback.
+
 Goal: Create a hybrid structure that keeps everyone engaged.
 
 Prompt:
+
 "You are a Hybrid Course Strategist. Plan a course schedule that:
 
-Offers pre-recorded lessons for core content.
-Has live Q&A or workshops weekly.
-Includes discussion boards for between-session interaction.
-Uses live time for problem-solving, not lecture.
-Has clear deadlines for self-paced modules.
+1. Offers pre-recorded lessons for core content.
+
+2. Has live Q&A or workshops weekly.
+
+3. Includes discussion boards for between-session interaction.
+
+4. Uses live time for problem-solving, not lecture.
+
+5. Has clear deadlines for self-paced modules.
+
 Inputs:
 
-Total course duration
-Number of live sessions possible"
+1. Total course duration
+
+2. Number of live sessions possible"
 
 Prompt 18 — Capstone Project Planning
+
 Backstory: Your web development course should end with a hands-on project showcasing everything students learned.
+
 Goal: Create a capstone that is realistic, portfolio-worthy, and measurable.
 
 Prompt:
+
 "You are a Capstone Project Designer. Build a project plan that:
 
-Incorporates all core skills from the course.
-Can be completed in 2–3 weeks.
-Has clear deliverables and submission guidelines.
-Encourages creativity while meeting set requirements.
-Is graded on real-world applicability.
+1. Incorporates all core skills from the course.
+
+2. Can be completed in 2–3 weeks.
+
+3. Has clear deliverables and submission guidelines.
+
+4. Encourages creativity while meeting set requirements.
+
+5. Is graded on real-world applicability.
+
 Inputs:
 
-Course topic
-Student skill level"
+1. Course topic
+
+2. Student skill level"
 
 Prompt 19 — Peer Review System
+
 Backstory: You want your creative writing course students to learn from each other’s work. Peer reviews could improve engagement and feedback quality.
+
 Goal: Build a fair and structured peer review system.
 
 Prompt:
+
 "You are a Peer Learning Facilitator. Create a peer review framework that:
 
-Assigns each student 2–3 peers to review.
-Provides a rubric for consistent grading.
-Includes a feedback submission deadline.
-Encourages constructive and specific suggestions.
-Allows instructor oversight to ensure fairness.
+1. Assigns each student 2–3 peers to review.
+
+2. Provides a rubric for consistent grading.
+
+3. Includes a feedback submission deadline.
+
+4. Encourages constructive and specific suggestions.
+
+5. Allows instructor oversight to ensure fairness.
+
 Inputs:
 
-Assignment type
-Number of students"
+1. Assignment type
+
+2. Number of students"
 
 Prompt 20 — Weekly Reflection Activities
+
 Backstory: In your psychology course, you want students to actively connect lessons to their own experiences.
+
 Goal: Build habits of reflection to deepen learning.
 
 Prompt:
+
 "You are a Reflective Learning Coach. Design weekly reflection activities that:
 
-Take no more than 10 minutes to complete.
-Encourage personal connections to course content.
-Can be written, recorded, or drawn.
-Are private but shareable if the student wishes.
-Can be revisited at the course end to track growth.
+1. Take no more than 10 minutes to complete.
+
+2. Encourage personal connections to course content.
+
+3. Can be written, recorded, or drawn.
+
+4. Are private but shareable if the student wishes.
+
+5. Can be revisited at the course end to track growth.
+
 Inputs:
 
-Weekly lesson themes"
+1. Weekly lesson themes"
 
 Prompt 21 — Multimedia Balance Audit
+
 Backstory: Your online photography course heavily uses videos, but you’re unsure if that’s the best mix.
+
 Goal: Ensure an optimal balance of video, text, visuals, and interactive elements.
 
 Prompt:
+
 "You are a Multimedia Content Auditor. Review my course to:
 
-Identify the ratio of different media types.
-Suggest adjustments for varied learning styles.
-Recommend replacing passive content with interactive pieces.
-Keep file sizes manageable for mobile users.
-Maintain visual and audio quality standards.
+1. Identify the ratio of different media types.
+
+2. Suggest adjustments for varied learning styles.
+
+3. Recommend replacing passive content with interactive pieces.
+
+4. Keep file sizes manageable for mobile users.
+
+5. Maintain visual and audio quality standards.
+
 Inputs:
 
-Course content list with media types"
+1. Course content list with media types"
 
 Prompt 22 — Accessibility and Inclusivity Check
+
 Backstory: Your health and wellness course should be usable by learners with disabilities or low-bandwidth internet.
+
 Goal: Make your course accessible to the widest audience possible.
 
 Prompt:
+
 "You are an Accessibility Compliance Specialist. Audit my course to:
 
-Ensure captions/transcripts for all videos.
-Provide alt-text for images.
-Check for color contrast and readable fonts.
-Offer downloadable, low-bandwidth alternatives.
-Comply with WCAG (Web Content Accessibility Guidelines).
+1. Ensure captions/transcripts for all videos.
+
+2. Provide alt-text for images.
+
+3. Check for color contrast and readable fonts.
+
+4. Offer downloadable, low-bandwidth alternatives.
+
+5. Comply with WCAG (Web Content Accessibility Guidelines).
+
 Inputs:
 
-Course content format list"
+1. Course content format list"
 
 Prompt 23 — Gamification Layer
+
 Backstory: Students in your sales training course need more motivation to complete modules on time.
+
 Goal: Add game-like elements for progress and reward.
 
 Prompt:
+
 "You are a Gamification Designer. Add gamified elements that:
 
-Award points for completing lessons.
-Give badges for milestones.
-Include a leaderboard for friendly competition.
-Allow redeemable rewards (certificates, perks).
-Celebrate streaks with recognition.
+1. Award points for completing lessons.
+
+2. Give badges for milestones.
+
+3. Include a leaderboard for friendly competition.
+
+4. Allow redeemable rewards (certificates, perks).
+
+5. Celebrate streaks with recognition.
+
 Inputs:
 
-Course length
-Reward options"
+1. Course length
+
+2. Reward options"
 
 Prompt 24 — End-of-Course Certification Design
+
 Backstory: You want students to proudly share their completion of your data visualization course.
+
 Goal: Create a professional and meaningful certificate.
 
 Prompt:
+
 "You are a Certification Program Creator. Design a certificate that:
 
-Lists the student’s name and completion date.
-States the skills mastered.
-Includes your brand logo and signature.
-Is shareable on LinkedIn and social media.
-Has anti-fraud verification features.
+1. Lists the student’s name and completion date.
+
+2. States the skills mastered.
+
+3. Includes your brand logo and signature.
+
+4. Is shareable on LinkedIn and social media.
+
+5. Has anti-fraud verification features.
+
 Inputs:
 
-Course name
-Brand style guidelines"
+1. Course name
+
+2. Brand style guidelines"
 
 Prompt 25 — Post-Course Engagement Plan
+
 Backstory: After completing your personal branding course, students often lose momentum. You want them to keep learning and applying skills.
+
 Goal: Build a post-course engagement strategy.
 
 Prompt:
+
 "You are a Learner Retention Strategist. Create a post-course plan that:
 
-Sends a monthly tip or challenge.
-Offers alumni-only webinars.
-Shares job/project opportunities.
-Encourages community discussions.
-Includes an option for advanced courses.
+1. Sends a monthly tip or challenge.
+
+2. Offers alumni-only webinars.
+
+3. Shares job/project opportunities.
+
+4. Encourages community discussions.
+
+5. Includes an option for advanced courses.
+
 Inputs:
 
-Niche/industry
-Communication channels available"
+1. Niche/industry
+
+2. Communication channels available"
 
 
 Feedback & assessment templates
 
 Prompt 1 — Formative Assessment Design
+
 Backstory: You’re teaching a basic financial literacy course for college students. You want to assess learning regularly without making it feel like a high-pressure exam.
+
 Goal: Create short, ongoing assessments that measure understanding while keeping engagement high.
 
 Prompt:
+
 "You are an Instructional Assessment Specialist. Design formative assessments that:
 
-Are short (5–10 minutes) and focused on 1–2 key concepts.
-Can be completed online or in-class.
-Give instant feedback to students.
-Allow students to attempt multiple times for mastery.
-Include a variety of formats (MCQs, polls, short-answer).
+1. Are short (5–10 minutes) and focused on 1–2 key concepts.
+
+2. Can be completed online or in-class.
+
+3. Give instant feedback to students.
+
+4. Allow students to attempt multiple times for mastery.
+
+5. Include a variety of formats (MCQs, polls, short-answer).
+
 Inputs:
 
-Topic or concept list
-Number of questions per assessment"
+1. Topic or concept list
+
+2. Number of questions per assessment"
