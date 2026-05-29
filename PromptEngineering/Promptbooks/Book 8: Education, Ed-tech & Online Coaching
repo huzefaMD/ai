@@ -1443,4 +1443,183 @@ Output Format:
 
 2. Model answers (PDF)"
 
+Prompt 21 — Chartered Financial Analyst (CFA) Ethics Guide
 
+Backstory: You mentor CFA aspirants, and ethics is a scoring section if understood well. You want a clear, case-based guide for Level 1.
+
+Goal: Make ethics easier to master through application.
+
+Prompt:
+
+"You are a CFA Ethics Trainer. Prepare a guide that: 
+
+1. Explains each standard with real-world cases. 
+
+2. Includes common exam traps. 
+
+3. Provides 50 practice questions. 
+
+4. Summarizes key takeaways at the end of each chapter. 
+
+5. Fits into a 15-day study plan.
+
+Inputs: 
+
+1. CFA Level 
+
+2. Case topics to include
+
+Output Format: 
+
+1. Ethics guide (PDF) 
+
+2. Question set (Excel)"
+
+Prompt 22 — UPSC Mains Answer Writing Kit
+
+Backstory: You manage a UPSC coaching Telegram group and need an answer writing improvement kit for Mains aspirants.
+
+Goal: Help students structure answers for high marks.
+
+Prompt:
+
+"You are a UPSC Mains Mentor. Create a kit that:
+
+1. Provides model GS answers with introductions, bodies, and conclusions.
+
+2. Includes 30 practice questions.
+
+3. Offers a keyword and phrase bank.
+
+4. Suggests diagram usage.
+
+5. Includes self-evaluation checklists.
+
+Inputs:
+
+1. GS Paper number
+
+2. Topic preferences
+
+Output Format:
+
+1. Answer guide (PDF)
+
+2. Practice set (Word)"
+
+Prompt 23 — NET Exam Research Methodology Notes
+
+Backstory: You’re a NET-qualified lecturer creating research methodology notes for UGC NET Paper 1 aspirants.
+
+Goal: Cover all important concepts in a student-friendly format.
+
+Prompt:
+
+"You are a UGC NET Faculty. Compile notes that:
+
+1. Summarize research methods and designs.
+
+2. Include diagram-based explanations.
+
+3. Provide 30 MCQs with solutions.
+
+4. Use simple language for non-research backgrounds.
+
+5. Highlight exam-relevant topics.
+
+Inputs:
+
+1. Syllabus year
+
+2. Topics to emphasize
+
+Output Format:
+
+1. Notes (Word/PDF)
+
+2. MCQ sheet (Excel)"
+
+Prompt 24 — Defence Services English Grammar Pack
+
+Backstory: You train candidates for SSB and NDA, and grammar is a key selection factor. You need an intensive grammar pack.
+
+Goal: Sharpen accuracy in sentence formation and usage.
+
+Prompt:
+
+"You are a Defence English Coach. Prepare a grammar pack that:
+
+1. Covers all competitive exam grammar rules.
+
+2. Includes 200 practice questions.
+
+3. Has error detection and sentence improvement exercises.
+
+4. Provides quick revision charts.
+
+5. Uses examples from military contexts.
+
+Inputs:
+
+1. Exam name
+
+2. Target difficulty
+
+Output Format:
+
+1. Grammar pack (PDF)
+
+2. Practice set (Excel)"
+
+Prompt 25 — Professional Exam Time Management Plan
+
+Backstory: Many exam aspirants fail due to poor time allocation, not knowledge. You need a time management strategy tailored to each exam type.
+
+Goal: Maximize performance within the exam time limit.
+
+Prompt:
+
+"You are an Exam Strategy Consultant. Create a time management plan that:
+
+1. Allocates time per question and section.
+
+2. Suggests skipping and revisiting strategies.
+
+3. Provides mock test simulations.
+
+4. Includes pre-exam day and exam-day checklists.
+
+5. Adapts for CBT (Computer Based Test) and pen-paper formats.
+
+Inputs:
+
+1. Exam name
+
+2. Total duration
+
+Output Format:
+
+1. Time plan (Excel)
+
+2. Checklist (PDF)"
+
+
+Student engagement ideas
+
+Prompt 1 — Interactive Quiz Challenge
+Backstory: You run an online coaching platform for UPSC aspirants. Students often lose focus in long theory sessions. You want to insert fun, competitive quizzes in between lectures to boost participation and retention.
+Goal: Keep learners alert, engaged, and excited to revise.
+
+Prompt:
+"You are a Quiz Game Designer for educational platforms. Create a 15-question interactive quiz based on today’s lecture content. Ensure:
+
+Questions are mixed difficulty.
+Hints are provided for tough ones.
+Explanations are given after each question.
+Leaderboard integration is possible.
+End with a bonus ‘challenge round’ for extra points.
+Inputs:
+
+Topic covered today
+Target difficulty
+Number of students"
