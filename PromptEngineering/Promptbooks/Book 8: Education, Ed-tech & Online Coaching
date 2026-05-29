@@ -840,90 +840,135 @@ Output Format:
 2. MCQ answer key (Excel)"
 
 Prompt 2 — NEET Biology Question Bank
+
 Backstory: You’re building a biology question bank for NEET aspirants that balances easy, moderate, and difficult levels. It must reflect the latest NTA trends.
+
 Goal: Strengthen topic mastery with targeted practice.
 
 Prompt:
+
 "You are a NEET Biology Expert. Create a question bank that:
 
-Covers one NEET biology chapter in depth.
-Has 40 questions — 15 easy, 15 moderate, 10 difficult.
-Includes detailed explanations for each answer.
-Uses clear diagrams for complex processes.
-Follows the NCERT syllabus closely.
+1. Covers one NEET biology chapter in depth.
+
+2. Has 40 questions — 15 easy, 15 moderate, 10 difficult.
+
+3. Includes detailed explanations for each answer.
+
+4. Uses clear diagrams for complex processes.
+
+5. Follows the NCERT syllabus closely.
+
 Inputs:
 
-Chapter name
-Difficulty level preference
+1. Chapter name
+
+2. Difficulty level preference
+
 Output Format:
 
-Question bank (Word/PDF)
-Answer explanations (Word)"
+1. Question bank (Word/PDF)
+
+2. Answer explanations (Word)"
 
 Prompt 3 — CAT Quantitative Aptitude Mock Test
+
 Backstory: Your MBA coaching center wants a full-length CAT mock test for quantitative aptitude, with questions modeled after past years’ difficulty.
+
 Goal: Give students an accurate simulation of the real test.
 
 Prompt:
+
 "You are a CAT Quant Faculty. Design a 2-hour mock test that:
 
-Includes 34 quantitative aptitude questions.
-Has a mix of arithmetic, algebra, geometry, and number systems.
-Follows CAT-level difficulty distribution.
-Provides detailed step-by-step solutions.
-Highlights shortcut tricks for time efficiency.
+1. Includes 34 quantitative aptitude questions.
+
+2. Has a mix of arithmetic, algebra, geometry, and number systems.
+
+3. Follows CAT-level difficulty distribution.
+
+4. Provides detailed step-by-step solutions.
+
+5. Highlights shortcut tricks for time efficiency.
+
 Inputs:
 
-Topic weighting preferences
-Time limit for each section
+1. Topic weighting preferences
+
+2. Time limit for each section
+
 Output Format:
 
-Question paper (PDF)
-Solution booklet (PDF)"
+1. Question paper (PDF)
+
+2. Solution booklet (PDF)"
 
 Prompt 4 — SSC CGL Reasoning Practice Set
+
 Backstory: You run an SSC preparation YouTube channel and need weekly reasoning practice sets with solutions for viewers.
+
 Goal: Boost engagement and learning outcomes.
 
 Prompt:
+
 "You are an SSC Reasoning Specialist. Create a practice set that:
 
-Contains 25 reasoning questions across all SSC CGL topics.
-Maintains exam-accurate difficulty and format.
-Offers solutions with logic breakdowns.
-Suggests solving order for maximum speed.
-Fits into a 45-minute practice session.
+1. Contains 25 reasoning questions across all SSC CGL topics.
+
+2. Maintains exam-accurate difficulty and format.
+
+3. Offers solutions with logic breakdowns.
+
+4. Suggests solving order for maximum speed.
+
+5. Fits into a 45-minute practice session.
+
 Inputs:
 
-Specific reasoning topics to focus on
-Target difficulty level
+1. Specific reasoning topics to focus on
+
+2. Target difficulty level
+
 Output Format:
 
-Practice sheet (PDF)
-Solution guide (Word)"
+1. Practice sheet (PDF)
+
+2. Solution guide (Word)"
 
 Prompt 5 — IELTS Speaking Cue Cards
+
 Backstory: You teach IELTS and want to give students daily speaking prompts to improve fluency and vocabulary.
+
 Goal: Prepare students for the IELTS speaking section with realistic, high-quality cue cards.
 
 Prompt:
+
 "You are an IELTS Speaking Coach. Create 5 cue cards that:
 
-Cover varied topics (personal, abstract, opinion-based).
-Include a main question and 3–4 sub-questions.
-Suggest 10+ vocabulary words to use.
-Provide example answers.
-Encourage 2-minute speaking practice per card.
+1. Cover varied topics (personal, abstract, opinion-based).
+
+2. Include a main question and 3–4 sub-questions.
+
+3. Suggest 10+ vocabulary words to use.
+
+4. Provide example answers.
+
+5. Encourage 2-minute speaking practice per card.
+
 Inputs:
 
-Target band score
-Topic categories preferred
+1. Target band score
+
+2. Topic categories preferred
+
 Output Format:
 
-Cue cards (PDF)
-Vocabulary list (Excel)"
+1. Cue cards (PDF)
+
+2. Vocabulary list (Excel)"
 
 Prompt 6 — Bank PO Current Affairs Capsule
+
 Backstory: You operate a banking exam coaching app and need a monthly PDF capsule summarizing important current affairs for Bank PO exams.
 
 Goal: Provide exam-oriented, easy-to-recall updates that students can revise quickly before the exam.
@@ -932,60 +977,92 @@ Prompt:
 
 "You are a Banking Exam Content Curator. Create a monthly current affairs capsule that: 
 
-Covers national, international, banking, and sports news. 
-Focuses on facts relevant to Bank PO exams. 
-Uses bullet points and infographics. 
-Highlights dates, figures, and key persons. 
-Ends with 20 practice MCQs.
+1. Covers national, international, banking, and sports news. 
+
+2. Focuses on facts relevant to Bank PO exams. 
+
+3. Uses bullet points and infographics. 
+
+4. Highlights dates, figures, and key persons. 
+
+5. Ends with 20 practice MCQs.
+
 Inputs: 
 
-Month and year 
-Specific focus areas
+1. Month and year 
+
+2. Specific focus areas
+
 Output Format: 
 
-PDF capsule (20–25 pages) 
-MCQ answer key (Excel)"
+1. PDF capsule (20–25 pages) 
+
+2. MCQ answer key (Excel)"
 
 Prompt 7 — JEE Physics Problem Set
+
 Backstory: You’re creating daily practice problems for JEE aspirants targeting top IITs. The focus is on conceptual clarity and application-based questions.
+
 Goal: Strengthen problem-solving speed and accuracy.
 
 Prompt:
+
 "You are a JEE Physics Faculty. Prepare a set of 15 problems that:
 
-Cover mechanics, electricity, and magnetism.
-Include at least 5 advanced-level questions.
-Provide step-by-step solutions with diagrams.
-Offer alternative solving methods where possible.
-Follow JEE Advanced pattern.
+1. Cover mechanics, electricity, and magnetism.
+
+2. Include at least 5 advanced-level questions.
+
+3. Provide step-by-step solutions with diagrams.
+
+4. Offer alternative solving methods where possible.
+
+5. Follow JEE Advanced pattern.
+
 Inputs:
 
-Chapter name
-Difficulty level
+1. Chapter name
+
+2. Difficulty level
+
 Output Format:
 
-Problem set (Word/PDF)
-Solutions (Word)"
+1. Problem set (Word/PDF)
+
+2. Solutions (Word)"
 
 Prompt 8 — GRE Vocabulary Flashcards
+
 Backstory: You run an online GRE prep course and want digital vocabulary flashcards to help students improve verbal scores.
+
 Goal: Build vocabulary retention with contextual examples.
 
 Prompt:
+
 "You are a GRE Vocabulary Coach. Create 50 flashcards that:
 
-Include word, pronunciation, part of speech, and definition.
-Provide example sentences.
-Offer synonyms and antonyms.
-Group words by theme.
-Highlight high-frequency GRE words.
+1. Include word, pronunciation, part of speech, and definition.
+
+2. Provide example sentences.
+
+3. Offer synonyms and antonyms.
+
+4. Group words by theme.
+
+5. Highlight high-frequency GRE words.
+
 Inputs:
 
-Number of flashcards needed
-Difficulty level
+1. Number of flashcards needed
+
+2. Difficulty level
+
 Output Format:
 
-Flashcard deck (Excel or CSV)
-Printable PDF version"
+1. Flashcard deck (Excel or CSV)
+
+2. Printable PDF version"
+
+
 
 
