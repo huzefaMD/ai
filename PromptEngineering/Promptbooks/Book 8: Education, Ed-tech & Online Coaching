@@ -2141,57 +2141,85 @@ Inputs:
 2. Number of students"
 
 Prompt 21 — Reverse Engineering Challenge
+
 Backstory: You teach app development. Students often learn by building from scratch, but you want them to also deconstruct existing apps to learn best practices.
+
 Goal: Improve analytical thinking and code reading skills.
 
 Prompt:
+
 "You are a Software Skills Trainer. Create a reverse engineering task that:
 
-Gives students access to a basic app or feature.
-Asks them to document how it works.
-Suggests improvements or optimizations.
-Requires re-building a simplified version.
-Ends with peer reviews.
+1. Gives students access to a basic app or feature.
+
+2. Asks them to document how it works.
+
+3. Suggests improvements or optimizations.
+
+4. Requires re-building a simplified version.
+
+5. Ends with peer reviews.
+
 Inputs:
 
-App name
-Complexity level"
+1. App name
+
+2. Complexity level"
 
 Prompt 22 — “Two Truths and a Lie” Revision Game
+
 Backstory: Your history class is getting monotonous. You want a fun fact-based game to review previous lessons.
+
 Goal: Revise content while keeping energy high.
 
 Prompt:
+
 "You are a Classroom Game Creator. Design a ‘Two Truths and a Lie’ activity where:
 
-Each student shares 3 statements about a topic.
-Two are correct, one is false.
-Others guess the false one.
-Scoring is tracked for fun competition.
-End with instructor clarifying facts.
+1. Each student shares 3 statements about a topic.
+
+2. Two are correct, one is false.
+
+3. Others guess the false one.
+
+4. Scoring is tracked for fun competition.
+
+5. End with instructor clarifying facts.
+
 Inputs:
 
-Topic/theme
-Number of players"
+1. Topic/theme
+
+2. Number of players"
 
 Prompt 23 — Collaborative Whiteboard Brainstorm
+
 Backstory: You teach design thinking and want students to visually brainstorm solutions together in real time.
+
 Goal: Foster creativity and collaboration.
 
 Prompt:
+
 "You are a Collaboration Tools Facilitator. Plan a 15-minute whiteboard session that:
 
-Uses an online collaborative tool.
-Provides a central question/problem.
-Encourages students to add sticky notes and doodles.
-Groups similar ideas for discussion.
-Concludes with top 3 actionable ideas.
+1. Uses an online collaborative tool.
+
+2. Provides a central question/problem.
+
+3. Encourages students to add sticky notes and doodles.
+
+4. Groups similar ideas for discussion.
+
+5. Concludes with top 3 actionable ideas.
+
 Inputs:
 
-Problem statement
-Number of participants"
+1. Problem statement
+
+2. Number of participants"
 
 Prompt 24 — Weekly “What’s in the News?” Discussion
+
 Backstory: Your economics students need to stay updated with current events. You want a weekly news analysis segment.
 
 Goal: Connect theory to real-world happenings.
@@ -2200,50 +2228,76 @@ Prompt:
 
 "You are a Current Affairs Learning Facilitator. Design a 30-minute news discussion that: 
 
-Chooses 3–5 recent news articles related to the course. 
-Assigns each to a small group for analysis. 
-Groups present summaries + impacts. 
-Ends with class-wide discussion. 
-Provides a takeaway document for revision.
+1. Chooses 3–5 recent news articles related to the course. 
+
+2. Assigns each to a small group for analysis. 
+
+3. Groups present summaries + impacts. 
+
+4. Ends with class-wide discussion. 
+
+5. Provides a takeaway document for revision.
+
 Inputs: 
 
-Topic focus 
-News source preference"
+1. Topic focus 
+
+2. News source preference"
 
 Prompt 25 — Learning Streak Challenge
+
 Backstory: Students in your online course often drop out after 2–3 weeks. You want a streak-based reward system to encourage daily log-ins.
+
 Goal: Build consistent learning habits.
 
 Prompt:
+
 "You are a Motivation Program Designer. Create a streak challenge that:
 
-Tracks daily log-ins and lesson completions.
-Shows progress visually with streak counters.
-Gives badges for milestones (7, 14, 30 days).
-Allows small redeemable rewards.
-Sends encouraging reminders.
+1. Tracks daily log-ins and lesson completions.
+
+2. Shows progress visually with streak counters.
+
+3. Gives badges for milestones (7, 14, 30 days).
+
+4. Allows small redeemable rewards.
+
+5. Sends encouraging reminders.
+
 Inputs:
 
-Course duration
-Reward budget"
+1. Course duration
+
+2. Reward budget"
 
 
 Online course structuring
 
 Prompt 1 — Course Blueprint Creation
+
 Backstory: You’re launching an online course on digital marketing for beginners. You have scattered ideas but no clear flow, and you want a structured roadmap before recording.
+
 Goal: Build a logical, engaging, and progressive course flow.
 
 Prompt:
+
 "You are an Instructional Designer. Create a course blueprint that:
 
-Has 6–8 modules, each with 3–5 lessons.
-Starts with foundational theory and moves to practical applications.
-Includes assessments after every module.
-Suggests multimedia formats (video, slides, reading material).
-Ends with a capstone project to consolidate learning.
+1. Has 6–8 modules, each with 3–5 lessons.
+
+2. Starts with foundational theory and moves to practical applications.
+
+3. Includes assessments after every module.
+
+4. Suggests multimedia formats (video, slides, reading material).
+
+5. Ends with a capstone project to consolidate learning.
+
 Inputs:
 
-Subject/topic
-Target audience skill level
-Course duration"
+1. Subject/topic
+
+2. Target audience skill level
+
+3. Course duration"
+
