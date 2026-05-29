@@ -1607,19 +1607,165 @@ Output Format:
 Student engagement ideas
 
 Prompt 1 — Interactive Quiz Challenge
+
 Backstory: You run an online coaching platform for UPSC aspirants. Students often lose focus in long theory sessions. You want to insert fun, competitive quizzes in between lectures to boost participation and retention.
+
 Goal: Keep learners alert, engaged, and excited to revise.
 
 Prompt:
+
 "You are a Quiz Game Designer for educational platforms. Create a 15-question interactive quiz based on today’s lecture content. Ensure:
 
-Questions are mixed difficulty.
-Hints are provided for tough ones.
-Explanations are given after each question.
-Leaderboard integration is possible.
-End with a bonus ‘challenge round’ for extra points.
+1. Questions are mixed difficulty.
+
+2. Hints are provided for tough ones.
+
+3. Explanations are given after each question.
+
+4. Leaderboard integration is possible.
+
+5. End with a bonus ‘challenge round’ for extra points.
+
 Inputs:
 
-Topic covered today
-Target difficulty
-Number of students"
+1. Topic covered today
+
+2. Target difficulty
+
+3. Number of students"
+
+Prompt 2 — Peer-to-Peer Teaching Sessions
+
+Backstory: You teach coding to beginners online. Some students grasp concepts faster than others. You want a system where quick learners can help peers, boosting confidence for both groups.
+
+Goal: Build collaborative learning culture.
+
+Prompt:
+
+"You are an Educational Engagement Strategist. Create a peer-to-peer learning plan that:
+
+1. Groups students into pairs or trios.
+
+2. Assigns one student to explain a sub-topic.
+
+3. Provides guiding questions for the ‘teacher student’.
+
+4. Includes feedback forms for both roles.
+
+5. Ends with a reflection activity to reinforce learning.
+
+Inputs:
+
+1. Topic name
+
+2. Number of students
+
+3. Class duration"
+
+Prompt 3 — Gamified Learning Points System
+Backstory: You run an app-based ed-tech startup. Students often leave mid-course because they don’t feel rewarded for small achievements.
+Goal: Introduce a points, badges, and rewards system to keep them motivated.
+
+Prompt:
+"You are a Gamification Expert. Design a points-based system that:
+
+Rewards completion of lessons, quizzes, and assignments.
+Offers badges for milestones (e.g., 7-day streak).
+Integrates a leaderboard for friendly competition.
+Allows redeemable rewards (discounts, certificates).
+Tracks individual progress visually.
+Inputs:
+
+Course structure
+Number of modules
+Reward budget"
+
+Prompt 4 — Real-Life Project Assignments
+Backstory: You teach digital marketing. Students often ask how theory applies in real work. You want to create live projects where they practice in real time.
+Goal: Boost hands-on skills while keeping engagement high.
+
+Prompt:
+"You are a Real-World Learning Designer. Create a project assignment that:
+
+Uses a real client or case study.
+Has clear deliverables with deadlines.
+Encourages teamwork and role division.
+Requires a final presentation.
+Offers mentor feedback after submission.
+Inputs:
+
+Industry niche
+Project duration
+Team size"
+
+Prompt 5 — Storytelling Icebreakers
+Backstory: You start each class with a quick lecture, but students log in late or are mentally absent. You want an icebreaker that draws them in instantly.
+Goal: Build connection and readiness before diving into content.
+
+Prompt:
+"You are a Classroom Engagement Coach. Create a 5-minute storytelling activity that:
+
+Relates to today’s lesson topic.
+Encourages student participation.
+Has a surprise twist or humor element.
+Ends with a quick learning takeaway.
+Can be done both online and offline.
+Inputs:
+
+Lesson topic
+Class size"
+
+Prompt 6 — “Ask Me Anything” (AMA) Expert Sessions
+Backstory: You teach finance and notice students hesitate to ask real-world application questions. You want to host monthly AMA sessions with industry experts.
+Goal: Break the ice between learners and professionals, boost practical knowledge.
+
+Prompt:
+"You are an Educational Event Planner. Create a structure for a 60-minute AMA that:
+
+Invites an industry expert relevant to the current course.
+Starts with a 10-minute expert intro story.
+Allocates 40 minutes for live Q&A.
+Includes pre-collected student questions.
+Ends with 10 minutes of actionable tips from the expert.
+Inputs:
+
+Expert’s profession & bio
+Student interest areas"
+
+Prompt 7 — “Mystery Problem of the Week”
+Backstory: You want to keep students curious throughout the week by releasing a mystery challenge every Monday, with clues revealed daily.
+Goal: Maintain anticipation, critical thinking, and return visits to your platform.
+
+Prompt:
+"You are a Challenge-Based Learning Creator. Design a ‘Problem of the Week’ that:
+
+Relates directly to the course subject.
+Is solvable only by applying the week’s lessons.
+Has daily hint releases.
+Encourages team or forum discussions.
+Rewards the first correct solution with points or perks.
+Inputs:
+
+Course topic
+Difficulty level
+Hint release schedule"
+
+Prompt 8 — Role-Play Simulations
+Backstory: In your communication skills course, students listen well but hesitate to practice. You want role-play exercises that simulate real situations.
+
+Goal: Boost confidence and practical skill application.
+
+Prompt:
+
+"You are a Simulation Designer. Create a role-play activity that: 
+
+Has 3 clearly defined roles. 
+Mimics a real-world scenario from the industry. 
+Includes instructions for each role privately. 
+Runs for 10 minutes + 5-minute debrief. 
+Concludes with peer feedback and trainer tips.
+Inputs: 
+
+Topic scenario 
+Number of participants 
+Desired skill outcome"
