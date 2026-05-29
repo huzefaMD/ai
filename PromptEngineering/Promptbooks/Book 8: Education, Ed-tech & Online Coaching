@@ -1063,6 +1063,160 @@ Output Format:
 
 2. Printable PDF version"
 
+Prompt 9 — GATE Mechanical Engineering Mock Test
 
+Backstory: Your GATE coaching institute wants a full-length mock paper for Mechanical Engineering to simulate the real exam environment.
+
+Goal: Identify student strengths and weaknesses before the actual exam.
+
+Prompt:
+
+"You are a GATE Exam Setter. Prepare a 3-hour mock test that:
+
+1. Includes 65 questions with correct GATE pattern weightage.
+
+2. Covers all syllabus topics.
+
+3. Balances numerical and theoretical questions.
+
+4. Provides step-by-step solutions.
+
+5. Suggests time management strategies.
+
+Inputs:
+
+1. Syllabus year
+
+2. Difficulty level
+
+Output Format:
+
+1. Question paper (PDF)
+
+2. Solution key (PDF)"
+
+Prompt 10 — CUET English Language Practice Pack
+
+Backstory: You’re making a language practice pack for CUET aspirants focusing on reading comprehension and grammar.
+
+Goal: Help students score higher in the English language section.
+
+Prompt:
+
+"You are a CUET English Coach. Create a practice pack that:
+
+1. Includes 5 reading comprehension passages.
+
+2. Covers grammar topics like tenses, articles, and prepositions.
+
+3. Adds 20 vocabulary questions.
+
+4. Provides detailed solutions and explanations.
+
+5. Uses CUET-level difficulty.
+
+Inputs:
+
+1. Topics to prioritize
+
+2. Word count for passages
+
+Output Format:
+
+1. Practice pack (Word/PDF)
+
+2. Answer key (Excel)"
+
+Prompt 11 — NDA Math Revision Notes
+
+Backstory: You are a defense exam mentor preparing last-minute NDA math revision notes for aspirants with only 10 days before the exam.
+
+Goal: Provide condensed, high-impact content.
+
+Prompt:
+
+"You are a NDA Mathematics Faculty. Prepare 10-day revision notes that:
+
+1. Summarize all important formulas and concepts.
+
+2. Include 2–3 example problems per topic.
+
+3. Use shortcut tricks where possible.
+
+4. Highlight frequently tested areas.
+
+5. Organize by exam weightage.
+
+Inputs:
+
+1. Topics with highest weightage
+
+2. Number of days available
+
+Output Format:
+
+1. PDF notes (15–20 pages)"
+
+Prompt 12 — CLAT Legal Reasoning Casebook
+
+Backstory: You manage a CLAT prep site and want to create a case-based reasoning book for the legal reasoning section.
+
+Goal: Improve analytical reading and argument-building skills.
+
+Prompt:
+
+"You are a CLAT Legal Reasoning Expert. Compile 30 legal reasoning passages that:
+
+1. Are modeled on recent CLAT papers.
+
+2. Include 4–5 questions per passage.
+
+3. Provide clear answer explanations.
+
+4. Focus on law principles rather than rote learning.
+
+5. Encourage critical thinking.
+
+Inputs:
+
+1. Case law themes
+
+2. Difficulty level
+
+Output Format:
+
+1. Casebook (Word/PDF)
+
+2. Answer key (Excel)"
+
+Prompt 13 — RRB NTPC General Awareness Capsule
+
+Backstory: You’re creating a weekly current affairs digest for RRB NTPC aspirants focusing on railway-related and general awareness topics.
+
+Goal: Make GK preparation easy to follow and retain.
+
+Prompt:
+
+"You are a Railway Exam Content Creator. Create a weekly GK capsule that:
+
+1. Covers national and railway-specific updates.
+
+2. Uses infographics for statistics.
+
+3. Includes 15 MCQs at the end.
+
+4. Highlights important railway projects and policies.
+
+5. Keeps content under 10 pages for easy reading.
+
+Inputs:
+
+1. Week/month to cover
+
+Output Format:
+
+1. PDF capsule
+
+2. MCQ answer sheet"
 
 
