@@ -2007,3 +2007,199 @@ Inputs:
 1. Topic theme
 
 2. Time limit"
+
+Prompt 16 — Live Polls During Class
+Backstory: You’re teaching a marketing class online. Students often go quiet when you ask open-ended questions. You want to use live polls to instantly collect opinions and spark discussion.
+Goal: Increase participation and make classes interactive in real time.
+
+Prompt:
+"You are an Ed-Tech Engagement Specialist. Design a 10-minute live poll session that:
+
+Includes 3–5 multiple-choice questions linked to the lesson.
+Shows instant results to the class.
+Encourages discussion on the most popular answers.
+Ends with the instructor summarizing the correct concepts.
+Works on mobile and desktop devices.
+Inputs:
+
+Lesson topic
+Number of participants"
+
+Prompt 17 — Virtual Hackathon/Challenge Day
+Backstory: You run a data science bootcamp. Students understand concepts but need hands-on experience under time pressure. You want a mini hackathon.
+
+Goal: Simulate real-world problem-solving with a competitive edge.
+
+Prompt:
+
+"You are a Challenge Event Organizer. Plan a 1-day hackathon that: 
+
+Provides a problem statement at the start. 
+Has 3–4 checkpoints for mentor feedback. 
+Allows team submissions in code + presentation format. 
+Uses judges for scoring on creativity, efficiency, and impact. 
+Ends with a prize ceremony.
+Inputs: 
+
+Challenge theme 
+Number of teams 
+Time limit"
+
+Prompt 18 — Learning Through Memes
+Backstory: You teach Gen-Z and millennials, who love humor. You want to use memes as a revision tool to make learning more relatable.
+Goal: Reinforce concepts in a light, memorable way.
+
+Prompt:
+"You are a Content Engagement Coach. Design a meme-based learning activity that:
+
+Provides 3 examples of course-related memes.
+Challenges students to create their own.
+Encourages sharing in a group chat/forum.
+Awards points for creativity + concept accuracy.
+Ends with a meme showcase slideshow.
+Inputs:
+
+Lesson topic
+Target humor style"
+
+Prompt 19 — Learning via Case Studies
+Backstory: Your MBA students learn theory well but struggle to connect it to real companies. You want weekly case study discussions.
+Goal: Develop analytical and decision-making skills.
+
+Prompt:
+"You are a Business Education Designer. Create a case study session that:
+
+Provides a real or fictional business scenario.
+Includes data points and problem statements.
+Assigns groups to propose solutions.
+Has 10 minutes of open debate.
+Concludes with an instructor-led solution breakdown.
+Inputs:
+
+Industry
+Business size"
+
+Prompt 20 — Social Impact Mini-Projects
+Backstory: You teach environmental science. Students are interested in sustainability but need practical exposure. You want short impact-driven projects.
+Goal: Make learning actionable and socially relevant.
+
+Prompt:
+"You are a Project-Based Learning Designer. Plan a 2-week social impact project that:
+
+Focuses on a real-world environmental issue.
+Involves research, data collection, and presentation.
+Requires community interaction.
+Is feasible for students with minimal resources.
+Ends with a measurable impact metric.
+Inputs:
+
+Project theme
+Number of students"
+
+Prompt 21 — Reverse Engineering Challenge
+Backstory: You teach app development. Students often learn by building from scratch, but you want them to also deconstruct existing apps to learn best practices.
+Goal: Improve analytical thinking and code reading skills.
+
+Prompt:
+"You are a Software Skills Trainer. Create a reverse engineering task that:
+
+Gives students access to a basic app or feature.
+Asks them to document how it works.
+Suggests improvements or optimizations.
+Requires re-building a simplified version.
+Ends with peer reviews.
+Inputs:
+
+App name
+Complexity level"
+
+Prompt 22 — “Two Truths and a Lie” Revision Game
+Backstory: Your history class is getting monotonous. You want a fun fact-based game to review previous lessons.
+Goal: Revise content while keeping energy high.
+
+Prompt:
+"You are a Classroom Game Creator. Design a ‘Two Truths and a Lie’ activity where:
+
+Each student shares 3 statements about a topic.
+Two are correct, one is false.
+Others guess the false one.
+Scoring is tracked for fun competition.
+End with instructor clarifying facts.
+Inputs:
+
+Topic/theme
+Number of players"
+
+Prompt 23 — Collaborative Whiteboard Brainstorm
+Backstory: You teach design thinking and want students to visually brainstorm solutions together in real time.
+Goal: Foster creativity and collaboration.
+
+Prompt:
+"You are a Collaboration Tools Facilitator. Plan a 15-minute whiteboard session that:
+
+Uses an online collaborative tool.
+Provides a central question/problem.
+Encourages students to add sticky notes and doodles.
+Groups similar ideas for discussion.
+Concludes with top 3 actionable ideas.
+Inputs:
+
+Problem statement
+Number of participants"
+
+Prompt 24 — Weekly “What’s in the News?” Discussion
+Backstory: Your economics students need to stay updated with current events. You want a weekly news analysis segment.
+
+Goal: Connect theory to real-world happenings.
+
+Prompt:
+
+"You are a Current Affairs Learning Facilitator. Design a 30-minute news discussion that: 
+
+Chooses 3–5 recent news articles related to the course. 
+Assigns each to a small group for analysis. 
+Groups present summaries + impacts. 
+Ends with class-wide discussion. 
+Provides a takeaway document for revision.
+Inputs: 
+
+Topic focus 
+News source preference"
+
+Prompt 25 — Learning Streak Challenge
+Backstory: Students in your online course often drop out after 2–3 weeks. You want a streak-based reward system to encourage daily log-ins.
+Goal: Build consistent learning habits.
+
+Prompt:
+"You are a Motivation Program Designer. Create a streak challenge that:
+
+Tracks daily log-ins and lesson completions.
+Shows progress visually with streak counters.
+Gives badges for milestones (7, 14, 30 days).
+Allows small redeemable rewards.
+Sends encouraging reminders.
+Inputs:
+
+Course duration
+Reward budget"
+
+
+Online course structuring
+
+Prompt 1 — Course Blueprint Creation
+Backstory: You’re launching an online course on digital marketing for beginners. You have scattered ideas but no clear flow, and you want a structured roadmap before recording.
+Goal: Build a logical, engaging, and progressive course flow.
+
+Prompt:
+"You are an Instructional Designer. Create a course blueprint that:
+
+Has 6–8 modules, each with 3–5 lessons.
+Starts with foundational theory and moves to practical applications.
+Includes assessments after every module.
+Suggests multimedia formats (video, slides, reading material).
+Ends with a capstone project to consolidate learning.
+Inputs:
+
+Subject/topic
+Target audience skill level
+Course duration"
