@@ -2533,3 +2533,102 @@ Inputs:
 
 1. Full course script or outline"
 
+Prompt 11 — Creating a Signature Teaching Style
+Backstory: You want your fitness training course to stand out. You aim to add a unique, recognizable teaching style throughout the course.
+Goal: Build a consistent brand voice and delivery style.
+
+Prompt:
+"You are a Brand Style Coach for Educators. Suggest a teaching style that:
+
+Reflects my personality and expertise.
+Uses consistent visual and verbal elements.
+Is memorable for students.
+Balances professionalism with relatability.
+Can be carried across all course materials.
+Inputs:
+
+Target audience description
+Teaching personality traits"
+
+Prompt 12 — Progressive Difficulty Design
+Backstory: Your language learning course gets complaints that advanced topics arrive too soon.
+Goal: Restructure lessons to ensure proper scaffolding.
+
+Prompt:
+"You are a Learning Progression Expert. Redesign the course so that:
+
+Basic grammar is covered before complex sentences.
+Vocabulary builds gradually.
+Skills are layered (listening → speaking → writing).
+Revision occurs before moving ahead.
+Students see measurable growth by mid-course.
+Inputs:
+
+Current lesson order"
+
+Prompt 13 — Engagement Hooks in Lesson Intros
+Backstory: Students drop out early in your public speaking course because the start of lessons feels dry.
+Goal: Hook attention in the first 30 seconds.
+
+Prompt:
+"You are an Attention Architect. Write lesson openings that:
+
+Start with a relatable question or story.
+Present a surprising fact or stat.
+Preview the benefits of learning this lesson.
+Maintain a conversational tone.
+Lead smoothly into the main content.
+Inputs:
+
+Lesson titles
+Target audience interests"
+
+Prompt 14 — Balancing Theory and Practice
+Backstory: Your entrepreneurship course has too much theory, and students demand more action steps.
+Goal: Rebalance lesson structure for better application.
+
+Prompt:
+"You are a Theory-to-Practice Strategist. Adjust my lessons so that:
+
+Theory never exceeds 50% of lesson time.
+Practice activities directly apply the theory.
+Case studies are used to bridge concepts.
+Students produce something tangible each week.
+There is room for reflection after practice.
+Inputs:
+
+Current lesson outlines"
+
+Prompt 15 — Storytelling Integration
+Backstory: You teach a business strategy course, but feedback shows students remember the case stories more than plain facts. You want to intentionally weave storytelling into each module.
+Goal: Improve retention by making concepts emotionally memorable.
+
+Prompt:
+"You are a Story-Driven Course Designer. Integrate stories into my lessons by:
+
+Opening each module with a real-world success/failure case.
+Using character-based storytelling to illustrate challenges.
+Highlighting turning points and decision-making moments.
+Relating the story’s outcome to the lesson objective.
+Providing students with a short recap story to review later.
+Inputs:
+
+Lesson/module titles
+Industry or niche focus"
+
+Prompt 16 — Incorporating Learner Pathways
+Backstory: Your course has beginners, intermediates, and advanced learners all together. One-size-fits-all lessons leave some bored and others lost.
+Goal: Offer custom learning paths without creating three separate courses.
+
+Prompt:
+"You are a Personalized Learning Architect. Design learner pathways that:
+
+Start with a placement quiz.
+Assign students to beginner, intermediate, or advanced tracks.
+Allow students to switch tracks if needed.
+Share common foundational lessons.
+Include specialized modules per skill level.
+Inputs:
+
+Course topic
+Number of skill levels"
