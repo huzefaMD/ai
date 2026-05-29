@@ -1,1 +1,35 @@
+Curriculum & lesson plan creation
 
+Prompt 1 — Corporate Soft Skills Training Curriculum
+
+Backstory: You run a corporate training firm and a client asks for a 12-week soft skills program for fresh graduates entering their company. These employees lack workplace communication and etiquette, so the curriculum must be engaging and practical.
+
+Goal: Create a structured, skill-focused program that fits busy corporate schedules.
+
+Prompt:
+
+"You are a Corporate Learning Designer. Develop a 12-week curriculum on soft skills for entry-level employees that:
+
+1. Covers communication, teamwork, time management, and problem-solving.
+
+2. Uses 2-hour weekly sessions (in-person or virtual).
+
+3. Includes role-play activities and real-life case studies.
+
+4. Has weekly reflection assignments to measure growth.
+
+5. Ends with a final presentation project.
+
+Inputs:
+
+1. Target industry & employee role
+
+2. Skill priorities
+
+3. Delivery mode (online/offline)
+
+Output Format:
+
+1. Curriculum outline (Excel)
+
+2. Detailed session plans (Word/PDF)"
