@@ -3909,22 +3909,167 @@ Output Format:
 2. ROI spreadsheet (Excel)"
 
 Prompt 17 — Pitch Deck for Selling at Trade Shows
+
 Backstory: You’re a machinery manufacturer attending a trade expo. You’ll be pitching to buyers on the spot with limited time.
+
 Goal: Have a short, impactful deck ready for quick booth presentations.
 
 Prompt:
+
 "You are a Trade Show Sales Expert. Create a 5-slide deck that:
 
-Opens with a bold visual of your flagship product.
-Shows 3 major benefits in plain language.
-Includes a video/demo clip.
-Lists expo-only offers.
-Ends with QR code to schedule follow-up.
+1. Opens with a bold visual of your flagship product.
+
+2. Shows 3 major benefits in plain language.
+
+3. Includes a video/demo clip.
+
+4. Lists expo-only offers.
+
+5. Ends with QR code to schedule follow-up.
+
 Inputs:
 
-Product images/videos
-Special offers
+1. Product images/videos
+
+2. Special offers
+
+Output Format:
+
+1. Deck (PPTX)
+
+2. QR code link sheet (PDF)"
+
+Prompt 18 — Objection Handling: “We’re in Contract With Someone Else”
+
+Backstory: You sell corporate cleaning services and the prospect says they’re locked into a contract. You need to position yourself for the renewal window.
+
+Goal: Keep the door open without violating existing agreements.
+
+Prompt:
+
+"You are a Future Positioning Sales Coach. Draft a 3-step script that:
+
+1. Respects their current contract.
+
+2. Offers a free audit before their renewal date.
+
+3. Schedules a follow-up close to that date.
+
+Inputs:
+
+1. Service advantages
+
+2. Audit offer details
+
+Output Format:
+
+1. Script (Word)
+
+2. CRM follow-up schedule (Excel)"
+
+Prompt 19 — Pitch Deck for Selling to International Clients
+
+Backstory: You run an architectural design firm and want to pitch to overseas developers. They care about portfolio diversity, adaptability to local codes, and communication ease.
+
+Goal: Win contracts in a foreign market.
+
+Prompt:
+
+"You are an International Sales Strategist. Create an 8-slide deck that:
+
+1. Shows international project portfolio.
+
+2. Addresses compliance with foreign regulations.
+
+3. Highlights communication channels and time-zone coverage.
+
+4. Shares cultural adaptability examples.
+
+5. Offers a cross-border onboarding plan.
+
+Inputs:
+
+1. Project case studies
+
+2. Compliance knowledge
+
+Output Format:
+
+1. Deck (Google Slides)
+
+2. Cross-border onboarding PDF"
+
+Prompt 20 — Objection Handling: “It’s Not a Priority Right Now”
+
+Backstory: You sell cybersecurity solutions and a lead admits the risk is real but isn’t urgent. You need to reframe urgency without fear-mongering.
+
+Goal: Increase perceived urgency in a consultative way.
+
+Prompt:
+
+"You are a Urgency Reframing Expert. Build a 4-step script that:
+
+1. Validates their perception.
+
+2. Shares 1–2 industry incidents showing real cost of delay.
+
+3. Links inaction to potential competitive disadvantage.
+
+4. Offers a low-commitment pilot to start immediately.
+
+Inputs:
+
+1. Case studies
+
+2. Pilot offer
+
+Output Format:
+
+1. Script (Word)
+
+2. Urgency comparison chart (PDF)"
+
+Prompt 21 — Pitch Deck for Upselling Existing Enterprise Clients
+
+Backstory: Your cloud services company has enterprise clients using only 50% of your service portfolio. You want to upsell additional solutions.
+
+Goal: Expand existing account revenue.
+
+Prompt:
+
+"You are an Enterprise Upsell Strategist. Create a 7-slide deck that:
+
+Reviews current usage and ROI.
+Highlights gaps where services could add value.
+Quantifies potential savings/revenue increase.
+Shares relevant case study.
+Proposes bundled discount for adding services.
+Inputs:
+
+Client usage report
+Additional service details
 Output Format:
 
 Deck (PPTX)
-QR code link sheet (PDF)"
+Proposal document (Word)"
+
+Prompt 22 — Objection Handling: “We’ve Heard Bad Reviews About Your Industry”
+Backstory: You sell MLM (multi-level marketing) health supplements and some prospects distrust the industry. You need to establish trust without dismissing their concerns.
+Goal: Build credibility and separate your brand from the industry stigma.
+
+Prompt:
+"You are a Reputation Rebuilding Specialist. Draft a 4-step objection script that:
+
+Acknowledges negative perceptions.
+Shares your ethical practices and certifications.
+Uses third-party reviews and testimonials.
+Offers risk-free trial.
+Inputs:
+
+Ethical practices list
+Review/testimonial library
+Output Format:
+
+Script (Word)
+Trust-building FAQ PDF"
