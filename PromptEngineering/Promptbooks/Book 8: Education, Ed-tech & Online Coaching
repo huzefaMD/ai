@@ -33,3 +33,167 @@ Output Format:
 1. Curriculum outline (Excel)
 
 2. Detailed session plans (Word/PDF)"
+
+Prompt 2 — Online Coding Bootcamp Syllabus
+
+Backstory: You’re launching an 8-week beginner-friendly coding bootcamp for working professionals who can only dedicate evenings. You must design a curriculum that balances theory, hands-on projects, and peer collaboration.
+
+Goal: Prepare learners to build simple web applications by the end of the program.
+
+Prompt:
+
+"You are a Coding Bootcamp Curriculum Specialist. Create an 8-week evening program for absolute beginners that:
+
+1. Introduces HTML, CSS, and JavaScript basics.
+
+2. Incorporates 2 small projects and 1 capstone.
+
+3. Includes optional weekend Q&A sessions.
+
+4. Integrates peer code review for collaboration.
+
+5. Assigns weekly challenges to reinforce learning.
+
+Inputs:
+
+1. Learner skill level
+
+2. Project themes
+
+3. Tools to be used
+
+Output Format:
+
+1. Week-by-week syllabus (Excel)
+
+2. Project briefs (PDF)"
+
+Prompt 3 — High School Science Lesson Plans
+
+Backstory: You’re a high school science teacher building 10th-grade physics lesson plans aligned with CBSE curriculum. You want to make concepts more engaging with experiments and visual aids.
+
+Goal: Create interactive, curriculum-compliant lesson plans for the semester.
+
+Prompt:
+
+"You are a Secondary Education Curriculum Designer. Draft 20 detailed lesson plans for 10th-grade physics that:
+
+1. Align with CBSE learning objectives.
+
+2. Include interactive experiments and models.
+
+3. Suggest free online simulations for difficult topics.
+
+4. Provide short assessments after each lesson.
+
+5. Allocate time for revision and doubt clearing.
+
+Inputs:
+
+1. Official syllabus link
+
+2. School resources available
+
+Output Format:
+
+1. Lesson plan template (Word)
+
+2. Resource list (Excel)"
+
+Prompt 4 — Yoga Teacher Training Syllabus
+
+Backstory: You’re developing a 200-hour yoga teacher training program for aspiring instructors. The curriculum needs to blend asanas, philosophy, anatomy, and teaching methodology.
+
+Goal: Certify students to teach yoga professionally in India and abroad.
+
+Prompt:
+
+"You are a Yoga Education Curriculum Expert. Create a 200-hour training syllabus that:
+
+1. Balances 50% practical (asanas, pranayama, meditation) and 50% theory.
+
+2. Covers yoga philosophy and history.
+
+3. Includes anatomy and physiology modules.
+
+4. Has supervised teaching practice sessions.
+
+5. Aligns with Yoga Alliance International standards.
+
+Inputs:
+
+1. Training duration (intensive/extended)
+
+2. School location & facilities
+
+Output Format:
+
+1. Hourly breakdown (Excel)
+
+2. Module guides (Word)"
+
+Prompt 5 — Digital Marketing Crash Course
+
+Backstory: You’re an online coach launching a 4-week crash course in digital marketing for small business owners. The learners are time-poor but eager to apply concepts immediately.
+
+Goal: Deliver actionable skills with measurable ROI in 30 days.
+
+Prompt:
+
+"You are a Digital Marketing Course Designer. Develop a 4-week curriculum for beginners that:
+
+1. Covers SEO, social media, email marketing, and paid ads.
+
+2. Uses a real business case study throughout the course.
+
+3. Assigns weekly campaigns for learners to execute.
+
+4. Tracks metrics like leads and conversions.
+
+5. Ends with a marketing plan presentation.
+
+Inputs:
+
+1. Target industry
+
+2. Available tools/budget
+
+Output Format:
+
+1. Weekly syllabus (Excel)
+
+2. Campaign assignment sheets (PDF)"
+
+Prompt 6 — Financial Literacy Program for College Students
+
+Backstory: You’re a non-profit creating a semester-long financial literacy program for Indian college students. Most have little exposure to budgeting, investments, or credit management.
+
+Goal: Equip students with practical money skills before they graduate.
+
+Prompt:
+
+"You are a Financial Literacy Educator. Create a 16-week curriculum that:
+
+1. Covers budgeting, saving, investing, taxes, and credit scores.
+
+2. Uses real-world examples from India.
+
+3. Includes interactive activities like mock investment challenges.
+
+4. Has short, practical assignments.
+
+5. Ends with a personal finance plan project.
+
+Inputs:
+
+1. Student age group
+
+2. Level of financial knowledge
+
+Output Format:
+
+1. Curriculum outline (Excel)
+
+2. Session activity sheets (PDF)"
+
+
