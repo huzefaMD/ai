@@ -196,4 +196,194 @@ Output Format:
 
 2. Session activity sheets (PDF)"
 
+Prompt 7 — Agricultural Skills Training for Rural Youth
 
+Backstory: You’re part of an NGO running vocational training in sustainable agriculture for rural youth. The program must be hands-on and region-specific.
+
+Goal: Increase employability and productivity in local farming communities.
+
+Prompt:
+
+"You are an Agriculture Training Designer. Develop a 12-week program that:
+
+1. Covers soil health, crop cycles, organic farming, and irrigation.
+
+2. Incorporates local crop-specific best practices.
+
+3. Uses farm visits and field demonstrations.
+
+4. Includes low-cost technology training.
+
+5. Offers certification at completion.
+
+Inputs:
+
+1. Region & main crops
+
+2. Available training equipment
+
+Output Format:
+
+1. Weekly training schedule (Excel)
+
+2. Farmer handbook (PDF)"
+
+Prompt 8 — Life Skills Curriculum for School Students
+
+Backstory: A CBSE-affiliated school wants a year-long life skills program for students aged 13–15. Focus is on emotional intelligence, decision-making, and conflict resolution.
+
+Goal: Develop socially aware, confident students.
+
+Prompt:
+
+"You are a Life Skills Education Expert. Design a 10-month curriculum that:
+
+1. Integrates activities like debates, group projects, and role-play.
+
+2. Uses real-life scenarios for problem-solving.
+
+3. Has monthly peer review sessions.
+
+4. Tracks progress via reflective journals.
+
+5. Aligns with CBSE life skills guidelines.
+
+Inputs:
+
+1. School timetable flexibility
+
+2. Number of students per batch
+
+Output Format:
+
+1. Monthly activity calendar (Excel)
+
+2. Teacher guidebook (Word)"
+
+Prompt 9 — AI & Data Science Syllabus for Beginners
+
+Backstory: You’re creating an introductory AI course for tech enthusiasts with no coding experience. It needs to be hands-on but beginner-friendly.
+
+Goal: Help learners understand AI basics and build small models.
+
+Prompt:
+
+"You are an AI Education Specialist. Create a 6-week course that:
+
+1. Explains AI and ML fundamentals in simple language.
+
+2. Covers Python basics for data handling.
+
+3. Guides learners to train simple models.
+
+4. Uses free datasets for practice.
+
+5. Ends with a mini AI project presentation.
+
+Inputs:
+
+1. Learner background
+
+2. Preferred AI tools
+
+Output Format:
+
+1. Weekly syllabus (Excel)
+
+2. Code snippets (Jupyter Notebook)"
+
+Prompt 10 — Music Theory & Practice Curriculum
+
+Backstory: You run a music academy and want a one-year program for beginner guitarists that blends theory and practice.
+
+Goal: Take students from zero knowledge to performing full songs.
+
+Prompt:
+
+"You are a Music Curriculum Designer. Create a 12-month guitar program that:
+
+1. Combines weekly theory lessons and practice sessions.
+
+2. Introduces chords, scales, and rhythm step-by-step.
+
+3. Includes monthly performance recitals.
+
+4. Offers progress tracking sheets.
+
+5. Ends with a final group performance.
+
+Inputs:
+
+1. Student age group
+
+2. Preferred music genres
+
+Output Format:
+
+1. Monthly lesson breakdown (Excel)
+
+2. Sheet music and chord charts (PDF)"
+
+Prompt 11 — Mental Health Awareness Program for Schools
+
+Backstory: You’re designing a school-based mental health curriculum for students aged 14–18. It needs to reduce stigma and encourage open conversations.
+
+Goal: Improve mental health literacy among teenagers.
+
+Prompt:
+
+"You are a Mental Health Educator. Build a 12-week program that: 
+
+1. Teaches stress management and coping skills. 
+
+2. Discusses common adolescent mental health challenges. 
+
+3. Provides self-care toolkits. 
+
+4. Involves parents and teachers. 
+
+5. Offers anonymous help channels.
+
+Inputs: 
+
+1. School resources available 
+
+2. Expert speakers if any
+
+Output Format: 
+
+1. Weekly topic list (Excel) 
+
+2. Workshop activity guides (Word)"
+
+Prompt 12 — Culinary Skills Training
+
+Backstory: You run a cooking institute and need a 6-month course for aspiring chefs focusing on Indian and continental cuisines.
+
+Goal: Train students for both home and commercial kitchens.
+
+Prompt:
+
+"You are a Culinary Program Developer. Create a 6-month course that: 
+
+1. Balances theory and kitchen practice. 
+
+2. Covers hygiene, plating, and menu planning. 
+
+3. Includes guest chef masterclasses. 
+
+4. Has a weekly dish challenge. 
+
+5. Ends with a professional kitchen internship.
+
+Inputs: 
+
+1. Facility details 
+
+2. Cuisine focus
+
+Output Format: 
+
+1. Weekly recipe schedule (Excel) 
+
+2. Practical assessment sheets (PDF)"
