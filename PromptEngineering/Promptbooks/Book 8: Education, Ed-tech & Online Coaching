@@ -2301,3 +2301,156 @@ Inputs:
 
 3. Course duration"
 
+Prompt 2 — Module-to-Lesson Mapping
+Backstory: You’ve decided on the topics for your UI/UX design course but need help breaking them into digestible lessons.
+Goal: Ensure each lesson is bite-sized yet impactful.
+
+Prompt:
+"You are a Lesson Planner. Break my course modules into lessons that:
+
+Are 5–15 minutes long each.
+Have a single clear learning objective.
+End with a quick recap or takeaway task.
+Use a mix of teaching formats (lecture, demo, quiz).
+Can be consumed in sequence without confusion.
+Inputs:
+
+Module titles
+Student time availability"
+
+Prompt 3 — Learning Objective Drafting
+Backstory: You’re creating a beginner’s course in Python and need strong, measurable learning objectives for every lesson to track outcomes.
+Goal: Make objectives actionable, measurable, and motivating.
+
+Prompt:
+"You are a Learning Outcomes Specialist. Write learning objectives for each lesson that:
+
+Begin with action verbs (e.g., “Design,” “Analyze,” “Implement”).
+Are measurable using quizzes or projects.
+Align with industry-relevant skills.
+Progress from simple to complex skills.
+Inspire students by showing real-world use cases.
+Inputs:
+
+Lesson titles
+Target skill level"
+
+Prompt 4 — Choosing the Right Content Format
+Backstory: You have all the lesson topics for a nutrition and wellness course but aren’t sure whether to use videos, PDFs, or interactive exercises for each.
+Goal: Match lesson type with the best delivery format for maximum retention.
+
+Prompt:
+"You are a Content Strategy Consultant. For each lesson, suggest the best format by:
+
+Considering the complexity of the topic.
+Recommending tools/software to create it.
+Adding interaction points (quizzes, polls, worksheets).
+Suggesting duration/length for that format.
+Explaining why it’s optimal for this audience.
+Inputs:
+
+Lesson titles
+Target audience learning style"
+
+Prompt 5 — Lesson Time Allocation
+Backstory: You’re designing a cybersecurity awareness course for corporate employees. You have a strict 4-hour total course limit.
+
+Goal: Distribute time wisely to balance theory, practical demos, and assessment.
+
+Prompt:
+
+"You are a Course Time Management Expert. Allocate lesson durations that: 
+
+Keep total time within the limit. 
+Dedicate more time to practical application. 
+Allow for 2 short breaks in a 4-hour span. 
+Leave time for Q&A or final discussion. 
+Are realistic based on topic complexity.
+Inputs: 
+
+Lesson list with priority level 
+Total allowed time"
+
+Prompt 6 — Course Flow Optimization
+Backstory: You’ve noticed students in your graphic design course drop off mid-way through the program. You suspect the order of lessons may be overwhelming.
+Goal: Reorder lessons for natural progression and better engagement.
+
+Prompt:
+"You are a Learning Flow Architect. Reorder my course lessons to:
+
+Build from basic concepts to advanced techniques.
+Include reinforcement points before introducing new concepts.
+Ensure difficulty increases gradually.
+Keep motivation high with early small wins.
+Allow flexibility for self-paced learners.
+Inputs:
+
+Current lesson order
+Student feedback (if available)"
+
+Prompt 7 — Multi-Format Lesson Plan
+Backstory: You’re building a stock market investing course for millennials. You want lessons that blend video, worksheets, and live discussions.
+Goal: Increase engagement by mixing learning mediums.
+
+Prompt:
+"You are a Blended Learning Specialist. Design a lesson plan that:
+
+Starts with a short video explanation.
+Includes an interactive exercise or worksheet.
+Offers a group discussion prompt.
+Ends with a quiz or self-reflection question.
+Suggests optional resources for deeper learning.
+Inputs:
+
+Lesson topic
+Available tools/platforms"
+
+Prompt 8 — Assessment Integration
+Backstory: Your data analytics course teaches both theory and hands-on skills. You want assessments at the right intervals to check understanding without overwhelming students.
+Goal: Build a seamless flow between learning and testing.
+
+Prompt:
+"You are an Assessment Designer. Suggest assessment placements that:
+
+Follow the completion of key concepts.
+Include varied formats (MCQs, projects, presentations).
+Are short enough to not disrupt learning flow.
+Provide immediate feedback.
+Align with real-world skill testing.
+Inputs:
+
+Course module breakdown
+Assessment time limits"
+
+Prompt 9 — Incorporating Practice Breaks
+Backstory: In your photography course, students watch long video lessons but rarely practice before the end. You want short breaks for hands-on activities.
+Goal: Improve knowledge retention through immediate application.
+
+Prompt:
+"You are a Skill Retention Coach. Add practice breaks to my course that:
+
+Come after each major concept.
+Include a quick, doable activity (5–10 minutes).
+Require minimal additional resources.
+Encourage students to share results with peers.
+Keep the main lesson flow intact.
+Inputs:
+
+Lesson list
+Practice activity type"
+
+Prompt 10 — Content Chunking for Microlearning
+Backstory: Your audience prefers short, snackable content they can watch on mobile during commutes. Your personal finance course needs restructuring for microlearning.
+Goal: Break down content into very short, focused segments.
+
+Prompt:
+"You are a Microlearning Designer. Break my course into micro-units that:
+
+Last under 8 minutes each.
+Focus on one key takeaway.
+Have a consistent structure (intro, content, summary).
+Include a mini challenge at the end.
+Are optimized for mobile viewing.
+Inputs:
+
+Full course script or outline"
