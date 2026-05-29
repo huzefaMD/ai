@@ -3714,4 +3714,217 @@ Output Format:
 
 2. Facilitator’s guide (Word)"
 
+Prompt 11 — Pitch Deck for Government Contracts
 
+Backstory: You run a cybersecurity firm targeting government tenders. Officials need proof of compliance, reliability, and security certifications before even considering you. This isn’t a standard sales pitch — it’s about trust, compliance, and risk mitigation.
+
+Goal: Position your company as a certified, risk-free vendor for government work.
+
+Prompt:
+
+"You are a GovTech Pitch Specialist. Build a 9-slide deck that:
+
+1. Demonstrates security compliance with ISO, NIST, or local standards.
+
+2. Shows case studies with sensitive data protection.
+
+3. Outlines implementation plan for government agencies.
+
+4. Highlights your local presence and quick response capabilities.
+
+5. Includes references from past government projects.
+
+Inputs:
+
+1. Certification details
+
+2. Previous gov contract summaries
+
+3. Response times and SLAs
+
+Output Format:
+
+1. Deck (PPTX)
+
+2. Compliance checklist (PDF)"
+
+Prompt 12 — Objection Handling: “We’re Happy With Current Results”
+
+Backstory: You’re an SEO agency pitching to a company that’s already ranking decently on Google. They don’t see the need for change, but you know they’re missing high-value opportunities.
+
+Goal: Reframe “happy” into “could be better” without sounding pushy.
+
+Prompt:
+
+"You are an SEO Growth Consultant. Create a 4-step objection handling script that:
+
+1. Acknowledges satisfaction with current results.
+
+2. Shows missed keyword and traffic opportunities.
+
+3. Links lost traffic to potential revenue.
+
+4. Offers a free competitive analysis to prove value.
+
+Inputs:
+
+1. Current SEO report
+
+2. Competitor ranking data
+
+Output Format:
+
+1. Script (Word)
+
+2. Opportunity analysis template (Excel)"
+
+Prompt 13 — Pitch Deck for Cross-Selling to Existing Clients
+
+Backstory: You run a digital ad agency and have clients using only your Facebook ads service. You want to pitch them on adding Google Ads to their strategy.
+
+Goal: Increase client LTV (Lifetime Value) via cross-selling.
+
+Prompt:
+
+"You are a Cross-Sell Pitch Specialist. Build a 6-slide mini deck that:
+
+1. Reviews current results from Facebook campaigns.
+
+2. Shows untapped audience potential on Google.
+
+3. Demonstrates synergy between platforms.
+
+4. Shares 1–2 relevant success stories.
+
+5. Offers bundled pricing.
+
+Inputs:
+
+1. Client’s Facebook ad performance
+
+2. Google Ads audience research
+
+Output Format:
+
+1. Deck (Google Slides)
+
+2. Email template for sending deck"
+
+Prompt 14 — Objection Handling: “We’ve Tried This Before and It Didn’t Work”
+
+Backstory: You sell employee wellness programs. A prospect says they’ve done wellness initiatives before but saw no impact. You need to prove your approach is different.
+
+Goal: Shift perception from “waste of time” to “worth another try.”
+
+Prompt:
+
+"You are a Program Repositioning Expert. Draft a 5-step objection handling script that:
+
+1. Acknowledges past disappointment.
+
+2. Asks clarifying questions about what went wrong.
+
+3. Shares your unique, results-driven approach.
+
+4. Offers a low-risk pilot.
+
+5. Ends with a success guarantee.
+
+Inputs:
+
+1. Differentiators in your program
+
+2. Pilot details
+
+Output Format:
+
+1. Script (Word)
+
+2. Pilot proposal one-pager (PDF)"
+
+Prompt 15 — Pitch Deck for Selling to C-Suite Executives
+
+Backstory: You’re a cloud infrastructure provider pitching to CIOs and CTOs. These decision-makers want strategic benefits, not just technical features.
+
+Goal: Win executive buy-in by speaking their language — business outcomes.
+
+Prompt:
+
+"You are a C-Suite Sales Strategist. Build a 10-slide deck that:
+
+1. Frames the problem in terms of business risks.
+
+2. Quantifies cost savings and scalability benefits.
+
+3. Highlights strategic competitive advantages.
+
+4. Shares high-profile client wins.
+
+5. Includes a boardroom-friendly financial summary.
+
+Inputs:
+
+1. Risk reduction stats
+
+2. ROI metrics
+
+3. Client references
+
+Output Format:
+
+1. Deck (PPTX)
+
+2. Executive summary PDF"
+
+Prompt 16 — Objection Handling: “I Need Approval From My Boss”
+
+Backstory: You’re selling enterprise HR software and the champion loves it, but can’t sign without boss approval. You need to help them sell it internally.
+
+Goal: Equip your champion to win internal buy-in.
+
+Prompt:
+
+"You are a Champion Enablement Coach. Build a toolkit that:
+
+1. Summarises key benefits in one page.
+
+2. Provides ROI calculator for management.
+
+3. Prepares responses to common leadership objections.
+
+4. Suggests next-step meeting with decision-maker.
+
+Inputs:
+
+1. Product features
+
+2. ROI data
+
+3. Common leadership concerns
+
+Output Format:
+
+1. One-page internal pitch doc (Word)
+
+2. ROI spreadsheet (Excel)"
+
+Prompt 17 — Pitch Deck for Selling at Trade Shows
+Backstory: You’re a machinery manufacturer attending a trade expo. You’ll be pitching to buyers on the spot with limited time.
+Goal: Have a short, impactful deck ready for quick booth presentations.
+
+Prompt:
+"You are a Trade Show Sales Expert. Create a 5-slide deck that:
+
+Opens with a bold visual of your flagship product.
+Shows 3 major benefits in plain language.
+Includes a video/demo clip.
+Lists expo-only offers.
+Ends with QR code to schedule follow-up.
+Inputs:
+
+Product images/videos
+Special offers
+Output Format:
+
+Deck (PPTX)
+QR code link sheet (PDF)"
