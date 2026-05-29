@@ -1220,27 +1220,39 @@ Output Format:
 2. MCQ answer sheet"
 
 Prompt 14 — Spoken English Test Practice Pack
+
 Backstory: You run an English training center and want to provide practice tests for spoken English proficiency exams like PTE or OET.
+
 Goal: Help learners improve speaking fluency and pronunciation.
 
 Prompt:
+
 "You are a Spoken English Exam Coach. Prepare a test pack that:
 
-Contains 5 speaking tasks per test.
-Uses real exam-style prompts.
-Suggests key phrases and vocabulary.
-Includes scoring rubrics.
-Provides self-assessment guidelines.
+1. Contains 5 speaking tasks per test.
+
+2. Uses real exam-style prompts.
+
+3. Suggests key phrases and vocabulary.
+
+4. Includes scoring rubrics.
+
+5. Provides self-assessment guidelines.
+
 Inputs:
 
-Exam type
-Target band score
+1. Exam type
+
+2. Target band score
+
 Output Format:
 
-Test scripts (Word)
-Rubric sheet (PDF)"
+1. Test scripts (Word)
+
+2. Rubric sheet (PDF)"
 
 Prompt 15 — CA Final Audit Revision Kit
+
 Backstory: You run a CA coaching institute and need a revision kit for CA Final Audit students, who often struggle with remembering key clauses and case laws.
 
 Goal: Provide a structured revision aid with practice questions.
@@ -1249,121 +1261,186 @@ Prompt:
 
 "You are a Chartered Accountancy Faculty. Prepare a CA Final Audit revision kit that: 
 
-Summarizes each chapter in 1–2 pages. 
-Lists important clauses and case laws separately. 
-Includes 50 past-year questions with solutions. 
-Provides mind maps for complex topics. 
-Offers a 7-day revision plan.
+1. Summarizes each chapter in 1–2 pages. 
+
+2. Lists important clauses and case laws separately. 
+
+3. Includes 50 past-year questions with solutions. 
+
+4. Provides mind maps for complex topics. 
+
+5. Offers a 7-day revision plan.
+
 Inputs: 
 
-ICAI module version 
-Chapters to prioritize
+1. ICAI module version 
+
+2. Chapters to prioritize
+
 Output Format: 
 
-PDF kit (60–80 pages) 
-Question bank (Excel)"
+1. PDF kit (60–80 pages) 
+
+2. Question bank (Excel)"
 
 Prompt 16 — State PSC History Notes
+
 Backstory: You’re producing state-specific history notes for Public Service Commission aspirants. These must match the state syllabus and highlight important local events.
+
 Goal: Help candidates with targeted, exam-relevant preparation.
 
 Prompt:
+
 "You are a State PSC History Content Creator. Compile notes that:
 
-Cover local and national history relevant to the state.
-Include timelines of key events.
-Highlight topics frequently asked in past exams.
-Provide 20 MCQs per chapter.
-Use simple language for easy retention.
+1. Cover local and national history relevant to the state.
+
+2. Include timelines of key events.
+
+3. Highlight topics frequently asked in past exams.
+
+4. Provide 20 MCQs per chapter.
+
+5. Use simple language for easy retention.
+
 Inputs:
 
-State name
-Syllabus link
+1. State name
+
+2. Syllabus link
+
 Output Format:
 
-Notes (Word/PDF)
-MCQ key (Excel)"
+1. Notes (Word/PDF)
+
+2. MCQ key (Excel)"
 
 Prompt 17 — Law Entrance Logical Reasoning Pack
+
 Backstory: You coach CLAT and AILET aspirants, and logical reasoning is their weakest section. You want to create a targeted practice pack to improve accuracy.
+
 Goal: Increase scores through repeated, structured practice.
 
 Prompt:
+
 "You are a Law Entrance Reasoning Expert. Create a pack that:
 
-Contains 200 reasoning questions across all sub-topics.
-Groups questions by difficulty level.
-Provides solution strategies for each type.
-Includes timed practice drills.
-Highlights common traps and errors.
+1. Contains 200 reasoning questions across all sub-topics.
+
+2. Groups questions by difficulty level.
+
+3. Provides solution strategies for each type.
+
+4. Includes timed practice drills.
+
+5. Highlights common traps and errors.
+
 Inputs:
 
-Exam type
-Preferred difficulty
+1. Exam type
+
+2. Preferred difficulty
+
 Output Format:
 
-Practice pack (PDF)
-Solutions (Word)"
+1. Practice pack (PDF)
+
+2. Solutions (Word)"
 
 Prompt 18 — Olympiad Science Workbook
+
 Backstory: You run a school enrichment program for students preparing for Science Olympiads. The workbook must encourage critical thinking and hands-on learning.
+
 Goal: Make science fun yet challenging for young learners.
 
 Prompt:
+
 "You are a STEM Olympiad Coach. Design a workbook that:
 
-Covers Physics, Chemistry, and Biology basics.
-Includes experiment-based questions.
-Has 5 practice tests.
-Uses illustrations to explain concepts.
-Offers answer keys with explanations.
+1. Covers Physics, Chemistry, and Biology basics.
+
+2. Includes experiment-based questions.
+
+3. Has 5 practice tests.
+
+4. Uses illustrations to explain concepts.
+
+5. Offers answer keys with explanations.
+
 Inputs:
 
-Grade level
-Olympiad name
+1. Grade level
+
+2. Olympiad name
+
 Output Format:
 
-Workbook (PDF)
-Test papers (Word)"
+1. Workbook (PDF)
+
+2. Test papers (Word)"
 
 Prompt 19 — Judicial Service Exam Bare Act Summaries
+
 Backstory: You train aspirants for judicial exams, where memorizing bare acts is critical. You need condensed, easy-to-recall summaries.
+
 Goal: Improve retention of legal provisions.
 
 Prompt:
+
 "You are a Judicial Exam Faculty. Create bare act summaries that:
 
-Present sections in plain language.
-Highlight important case laws.
-Use tables for penalties and time limits.
-Include mnemonics for tricky sections.
-Fit into a 20-day revision plan.
+1. Present sections in plain language.
+
+2. Highlight important case laws.
+
+3. Use tables for penalties and time limits.
+
+4. Include mnemonics for tricky sections.
+
+5. Fit into a 20-day revision plan.
+
 Inputs:
 
-Act name
-Key focus sections
+1. Act name
+
+2. Key focus sections
+
 Output Format:
 
-Summaries (Word/PDF)
-Mnemonic sheet (Excel)"
+1. Summaries (Word/PDF)
+
+2. Mnemonic sheet (Excel)"
 
 Prompt 20 — SAT Practice Essay Pack
+
 Backstory: You run an SAT coaching program and need essay prompts with model answers for students to practice timed writing.
+
 Goal: Improve structure, clarity, and persuasiveness.
 
 Prompt:
+
 "You are an SAT Writing Coach. Prepare a pack that:
 
-Contains 10 essay prompts with real-world themes.
-Includes a scoring rubric.
-Provides model essays for Band 8+ scores.
-Highlights vocabulary and transitions used.
-Suggests practice timing strategies.
+1. Contains 10 essay prompts with real-world themes.
+
+2. Includes a scoring rubric.
+
+3. Provides model essays for Band 8+ scores.
+
+4. Highlights vocabulary and transitions used.
+
+5. Suggests practice timing strategies.
+
 Inputs:
 
-Target difficulty
-Word count range
+1. Target difficulty
+
+2. Word count range
+
 Output Format:
 
-Essay prompts (Word)
-Model answers (PDF)"
+1. Essay prompts (Word)
+
+2. Model answers (PDF)"
+
+
