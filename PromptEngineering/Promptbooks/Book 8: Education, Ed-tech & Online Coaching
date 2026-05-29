@@ -644,4 +644,186 @@ Output Format:
 
 2. Activity guides (Word)"
 
+Prompt 21 — Social Media Marketing for Entrepreneurs
 
+Backstory: You coach small business owners who want a practical social media marketing program they can apply immediately.
+
+Goal: Teach them to build an online presence that drives sales.
+
+Prompt:
+
+"You are a Social Media Marketing Trainer. Create a 6-week hands-on course that:
+
+1. Covers Instagram, Facebook, and LinkedIn strategies.
+
+2. Uses live campaign creation during sessions.
+
+3. Tracks results via analytics.
+
+4. Assigns weekly content creation tasks.
+
+5. Ends with a 30-day posting calendar.
+
+Inputs:
+
+1. Industry niche
+
+2. Business goals
+
+Output Format:
+
+1. Weekly lesson plans (Excel)
+
+2. Content templates (PDF)"
+
+Prompt 22 — Digital Art & Design Workshop
+
+Backstory: You run an art school and want a digital design workshop for beginners using Canva and Adobe tools.
+
+Goal: Help students create portfolio-ready designs.
+
+Prompt:
+
+"You are a Digital Design Instructor. Create a 4-week workshop that:
+
+1. Teaches basics of Canva, Photoshop, and Illustrator.
+
+2. Focuses on social media creatives.
+
+3. Assigns real-world design briefs.
+
+4. Includes weekly design critiques.
+
+5. Ends with a mini portfolio showcase.
+
+Inputs:
+
+1. Tools available
+
+2. Skill level of students
+
+Output Format:
+
+1. Lesson outlines (Excel)
+
+2. Resource links (Word)"
+
+Prompt 23 — Language Immersion Program
+
+Backstory: You’re designing a Spanish immersion program for adults in India.
+
+Goal: Make learners conversational in 3 months without heavy grammar focus.
+
+Prompt:
+
+"You are a Language Program Developer. Create a 12-week plan that:
+
+1. Uses 80% conversational activities, 20% grammar.
+
+2. Includes cultural context like music and food.
+
+3. Has weekly role-play scenarios.
+
+4. Assigns daily 15-min speaking practice.
+
+5. Offers an end-of-course language test.
+
+Inputs:
+
+1. Learner age group
+
+2. Class size
+
+Output Format:
+
+1. Weekly schedule (Excel)
+
+2. Vocabulary list (PDF)"
+
+Prompt 24 — Mindfulness Curriculum for Corporates
+
+Backstory: A wellness coach is introducing a mindfulness program to reduce workplace stress in IT companies.
+
+Goal: Improve focus, reduce burnout, and increase job satisfaction.
+
+Prompt:
+
+"You are a Corporate Mindfulness Trainer. Create a 6-week curriculum that:
+
+1. Starts with basic breathing and meditation.
+
+2. Gradually adds mindful work practices.
+
+3. Includes guided audio meditations.
+
+4. Measures stress levels pre and post-program.
+
+5. Suggests ways to sustain the habit.
+
+Inputs:
+
+1. Company size
+
+2. Employee work schedules
+
+Output Format:
+
+1. Weekly plan (Excel)
+
+2. Meditation script pack (Word)"
+
+Prompt 25 — Exam Preparation Masterplan
+
+Backstory: You run an ed-tech platform that helps students prepare for competitive exams like UPSC, CAT, or NEET.
+
+Goal: Build a disciplined, results-driven study plan.
+
+Prompt:
+
+"You are an Exam Preparation Coach. Create a 6-month masterplan that:
+
+1. Breaks syllabus into weekly targets.
+
+2. Includes revision cycles.
+
+3. Uses mock tests for tracking progress.
+
+4. Provides productivity hacks for long study hours.
+
+5. Suggests stress management techniques.
+
+Inputs:
+
+1. Exam name
+
+2. Student’s current preparation level
+
+Output Format:
+
+1. Study calendar (Excel)
+
+2. Revision checklist (PDF)"
+
+
+Test/exam preparation materials
+
+Prompt 1 — UPSC Prelims Study Material Creation
+Backstory: You run an online UPSC coaching platform and want to provide daily topic-wise notes for the Prelims exam. These notes must be concise, fact-checked, and easy to revise.
+Goal: Deliver bite-sized, high-retention content for aspirants.
+
+Prompt:
+"You are a UPSC Content Creator. Prepare daily study notes for UPSC Prelims that:
+
+Cover static subjects (Polity, Economy, Geography) and current affairs.
+Use bullet points for easy revision.
+Include examples from recent government schemes.
+Add 3–5 practice MCQs per topic.
+Highlight key facts with bold text.
+Inputs:
+
+Subject for the day
+Latest news/events to include
+Output Format:
+
+PDF notes (2–3 pages)
+MCQ answer key (Excel)"
