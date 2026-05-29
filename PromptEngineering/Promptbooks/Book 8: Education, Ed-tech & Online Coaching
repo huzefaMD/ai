@@ -2009,23 +2009,33 @@ Inputs:
 2. Time limit"
 
 Prompt 16 — Live Polls During Class
+
 Backstory: You’re teaching a marketing class online. Students often go quiet when you ask open-ended questions. You want to use live polls to instantly collect opinions and spark discussion.
+
 Goal: Increase participation and make classes interactive in real time.
 
 Prompt:
+
 "You are an Ed-Tech Engagement Specialist. Design a 10-minute live poll session that:
 
-Includes 3–5 multiple-choice questions linked to the lesson.
-Shows instant results to the class.
-Encourages discussion on the most popular answers.
-Ends with the instructor summarizing the correct concepts.
-Works on mobile and desktop devices.
+1. Includes 3–5 multiple-choice questions linked to the lesson.
+
+2. Shows instant results to the class.
+
+3. Encourages discussion on the most popular answers.
+
+4. Ends with the instructor summarizing the correct concepts.
+
+5. Works on mobile and desktop devices.
+
 Inputs:
 
-Lesson topic
-Number of participants"
+1. Lesson topic
+
+2. Number of participants"
 
 Prompt 17 — Virtual Hackathon/Challenge Day
+
 Backstory: You run a data science bootcamp. Students understand concepts but need hands-on experience under time pressure. You want a mini hackathon.
 
 Goal: Simulate real-world problem-solving with a competitive edge.
@@ -2034,67 +2044,101 @@ Prompt:
 
 "You are a Challenge Event Organizer. Plan a 1-day hackathon that: 
 
-Provides a problem statement at the start. 
-Has 3–4 checkpoints for mentor feedback. 
-Allows team submissions in code + presentation format. 
-Uses judges for scoring on creativity, efficiency, and impact. 
-Ends with a prize ceremony.
+1. Provides a problem statement at the start. 
+
+2. Has 3–4 checkpoints for mentor feedback. 
+
+3. Allows team submissions in code + presentation format. 
+
+4. Uses judges for scoring on creativity, efficiency, and impact. 
+
+5. Ends with a prize ceremony.
+
 Inputs: 
 
-Challenge theme 
-Number of teams 
-Time limit"
+1. Challenge theme 
+
+2. Number of teams 
+
+3. Time limit"
 
 Prompt 18 — Learning Through Memes
+
 Backstory: You teach Gen-Z and millennials, who love humor. You want to use memes as a revision tool to make learning more relatable.
+
 Goal: Reinforce concepts in a light, memorable way.
 
 Prompt:
+
 "You are a Content Engagement Coach. Design a meme-based learning activity that:
 
-Provides 3 examples of course-related memes.
-Challenges students to create their own.
-Encourages sharing in a group chat/forum.
-Awards points for creativity + concept accuracy.
-Ends with a meme showcase slideshow.
+1. Provides 3 examples of course-related memes.
+
+2. Challenges students to create their own.
+
+3. Encourages sharing in a group chat/forum.
+
+4. Awards points for creativity + concept accuracy.
+
+5. Ends with a meme showcase slideshow.
+
 Inputs:
 
-Lesson topic
-Target humor style"
+1. Lesson topic
+
+2. Target humor style"
 
 Prompt 19 — Learning via Case Studies
+
 Backstory: Your MBA students learn theory well but struggle to connect it to real companies. You want weekly case study discussions.
+
 Goal: Develop analytical and decision-making skills.
 
 Prompt:
+
 "You are a Business Education Designer. Create a case study session that:
 
-Provides a real or fictional business scenario.
-Includes data points and problem statements.
-Assigns groups to propose solutions.
-Has 10 minutes of open debate.
-Concludes with an instructor-led solution breakdown.
+1. Provides a real or fictional business scenario.
+
+2. Includes data points and problem statements.
+
+3. Assigns groups to propose solutions.
+
+4. Has 10 minutes of open debate.
+
+5. Concludes with an instructor-led solution breakdown.
+
 Inputs:
 
-Industry
-Business size"
+1. Industry
+
+2. Business size"
 
 Prompt 20 — Social Impact Mini-Projects
+
 Backstory: You teach environmental science. Students are interested in sustainability but need practical exposure. You want short impact-driven projects.
+
 Goal: Make learning actionable and socially relevant.
 
 Prompt:
+
 "You are a Project-Based Learning Designer. Plan a 2-week social impact project that:
 
-Focuses on a real-world environmental issue.
-Involves research, data collection, and presentation.
-Requires community interaction.
-Is feasible for students with minimal resources.
-Ends with a measurable impact metric.
+1. Focuses on a real-world environmental issue.
+
+2. Involves research, data collection, and presentation.
+
+3. Requires community interaction.
+
+4. Is feasible for students with minimal resources.
+
+5. Ends with a measurable impact metric.
+
 Inputs:
 
-Project theme
-Number of students"
+1. Project theme
+
+2. Number of students"
 
 Prompt 21 — Reverse Engineering Challenge
 Backstory: You teach app development. Students often learn by building from scratch, but you want them to also deconstruct existing apps to learn best practices.
