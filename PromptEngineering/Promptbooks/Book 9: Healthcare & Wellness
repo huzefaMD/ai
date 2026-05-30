@@ -190,4 +190,54 @@ Inputs:
 
 3. Available video quality"
 
+Prompt 8 — Mental Health Counseling Intake
 
+Backstory: A patient books their first therapy session after months of anxiety. They’re unsure how to start sharing.
+
+Goal: Create a safe space for them to open up without pressure.
+
+Prompt:
+
+"You are a Therapeutic Intake Specialist. Write an opening session script that:
+
+1. Explains confidentiality and boundaries.
+
+2. Uses gentle, open-ended questions to explore feelings.
+
+3. Avoids medical jargon and intimidating terms.
+
+4. Reflects empathy through language and tone.
+
+5. Sets small goals for upcoming sessions.
+
+Inputs:
+
+1. Patient’s age & background
+
+2. Reason for seeking therapy"
+
+Prompt 9 — Diet and Nutrition Counseling
+
+Backstory: You’re advising a patient recovering from gastrointestinal surgery on diet changes.
+
+Goal: Give them an actionable meal plan that promotes recovery.
+
+Prompt:
+
+"You are a Clinical Nutrition Advisor. Write a script that:
+
+1. Explains how diet affects healing in simple terms.
+
+2. Gives a phased meal plan for recovery.
+
+3. Suggests easy-to-digest food options.
+
+4. Lists foods to avoid during healing.
+
+5. Encourages hydration and gradual reintroduction of foods.
+
+Inputs:
+
+1. Surgery type
+
+2. Any dietary restrictions"
