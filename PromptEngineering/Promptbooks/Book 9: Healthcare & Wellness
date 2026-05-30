@@ -1,1 +1,140 @@
+Patient communication scripts
 
+Prompt 1 — First Consultation Script
+
+Backstory: You are a general physician meeting a new patient for the first time. You want to create a warm, trust-building conversation while collecting essential health details.
+
+Goal: Ensure the patient feels heard, comfortable, and willing to share information.
+
+Prompt:
+
+"You are a Primary Care Physician. Write a first consultation script that: 
+
+1. Starts with a warm, culturally sensitive greeting. 
+
+2. Introduces yourself and your role clearly. 
+
+3. Asks open-ended questions about health concerns. 
+
+4. Covers medical history, lifestyle, and allergies. 
+
+5. Ends by explaining the next steps in care.
+
+Inputs: 
+
+1. Patient’s name 
+
+2. Reason for visit 
+
+3. Language preference"
+
+Prompt 2 — Delivering Test Results
+Backstory: A patient is anxious about their blood test results. You need to explain the outcome clearly without causing unnecessary alarm.
+Goal: Make medical data understandable, actionable, and reassuring.
+
+Prompt:
+"You are a Medical Communicator. Create a script for delivering test results that:
+
+Opens with reassurance before sharing details.
+Explains each key result in simple terms.
+Uses relatable comparisons (e.g., “like a traffic signal”).
+Outlines next steps or treatment options.
+Ends with an invitation for follow-up questions.
+Inputs:
+
+Type of test
+Key results"
+
+Prompt 3 — Breaking Bad News
+Backstory: You have to inform a patient that their biopsy indicates cancer. This conversation requires empathy, clarity, and emotional support.
+
+Goal: Deliver bad news in a way that is compassionate yet direct, and offers immediate next steps.
+
+Prompt:
+
+"You are a Compassionate Healthcare Professional. Write a bad-news delivery script that: 
+
+Prepares the patient emotionally before sharing the news. 
+States the diagnosis clearly without medical jargon. 
+Offers emotional support and pauses for reactions. 
+Immediately outlines treatment or referral options. 
+Suggests counseling or support groups.
+Inputs: 
+
+Diagnosis 
+Stage/severity 
+Available treatment options"
+
+Prompt 4 — Chronic Condition Management
+Backstory: You’re counseling a patient newly diagnosed with type 2 diabetes on lifestyle changes.
+
+Goal: Provide guidance in a way that motivates rather than overwhelms.
+
+Prompt:
+
+"You are a Lifestyle Management Coach in healthcare. Write a patient script that: 
+
+Explains the condition in clear, hopeful terms. 
+Breaks down lifestyle changes into small, achievable steps. 
+Uses motivational language for long-term adherence. 
+Includes examples of diet, exercise, and monitoring. 
+Encourages regular follow-up.
+Inputs: 
+
+Condition name 
+Patient’s daily routine"
+
+Prompt 5 — Discharge Instructions
+Backstory: A patient is being discharged after minor surgery. They need clear post-care instructions they can follow at home.
+Goal: Prevent complications by ensuring they understand medication, diet, and follow-up schedules.
+
+Prompt:
+"You are a Post-Operative Care Guide. Create discharge instructions that:
+
+Use simple, step-by-step language.
+Include medication names, doses, and timings.
+Outline dietary do’s and don’ts.
+Explain red flags that require urgent attention.
+Provide contact details for emergencies.
+Inputs:
+
+Type of surgery
+Prescribed medicines"
+
+Prompt 6 — Pediatric Consultation for Worried Parents
+Backstory: A parent brings in their 3-year-old child with a persistent cough. They’re visibly anxious and need reassurance along with medical guidance.
+
+Goal: Provide a child-friendly consultation while keeping the parent calm and informed.
+
+Prompt:
+
+"You are a Pediatric Communication Specialist. Write a script that: 
+
+Starts by engaging with the child to build comfort. 
+Reassures the parent before gathering medical history. 
+Uses simple explanations for symptoms and treatment. 
+Outlines home care and warning signs clearly. 
+Encourages follow-up and offers health resources.
+Inputs: 
+
+Child’s name & age 
+Symptoms & duration 
+Parent’s main concern"
+
+Prompt 7 — Telemedicine Appointment Script
+Backstory: You’re consulting a patient remotely via video call for a mild skin rash. Since you can’t physically examine them, communication must be precise.
+Goal: Maximize remote diagnosis accuracy while making the patient feel secure.
+
+Prompt:
+"You are a Virtual Care Doctor. Create a telemedicine script that:
+
+Starts with a warm greeting and tech check (audio/video).
+Guides the patient to show affected areas clearly on camera.
+Asks specific symptom-related questions.
+Provides provisional diagnosis and explains limits of virtual care.
+Advises on next steps, prescriptions, or in-person follow-up.
+Inputs:
+
+Patient name
+Symptoms description
+Available video quality"
