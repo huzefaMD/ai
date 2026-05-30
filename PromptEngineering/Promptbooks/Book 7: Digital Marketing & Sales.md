@@ -1,15 +1,15 @@
-SEO Keyword Research & Blog Planning
+# SEO Keyword Research & Blog Planning
 
-Prompt 1 — Foundational SEO Keyword Research for a New Blog
+## Prompt 1 — Foundational SEO Keyword Research for a New Blog
 
-Backstory: You have just launched a blog about sustainable living in India and want to ensure it ranks well on Google. You’re starting from scratch with no existing keyword strategy.
+`Backstory: You have just launched a blog about sustainable living in India and want to ensure it ranks well on Google. You’re starting from scratch with no existing keyword strategy.`
 
-Goal: Identify high-potential keywords that are relevant, low-competition, and tailored to your target audience.
+`Goal: Identify high-potential keywords that are relevant, low-competition, and tailored to your target audience.`
 
-Prompt:
+`Prompt:`
 
-"You are an SEO Research Strategist. Based on my blog niche and target audience, perform keyword research that:
-
+`"You are an SEO Research Strategist. Based on my blog niche and target audience, perform keyword research that:`
+```
 1. Identifies 15–20 primary and secondary keywords with monthly search volumes in India.
 
 2. Includes long-tail keyword suggestions for low-competition ranking opportunities.
@@ -19,31 +19,31 @@ Prompt:
 4. Suggests seasonal or trending keywords relevant to India.
 
 5. Presents data in a clean, easy-to-read table.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Blog topic/niche: Sustainable living in India
 
 2. Target audience: Urban millennials (India)
 
 3. Competitor websites (if any)
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Keyword table (Excel) with: Keyword | Search Volume | CPC | Competition | Intent
 
 2. Top 5 priority keywords list (Word/PDF)"
+```
+## Prompt 2 — Blog Content Calendar Based on Keyword Clusters
 
-Prompt 2 — Blog Content Calendar Based on Keyword Clusters
+`Backstory: You’ve already gathered 50–60 SEO keywords but have no structured posting plan. Without a content calendar, you risk random posting and missed ranking opportunities.`
 
-Backstory: You’ve already gathered 50–60 SEO keywords but have no structured posting plan. Without a content calendar, you risk random posting and missed ranking opportunities.
+`Goal: Create a 3-month blog posting schedule based on keyword clusters.`
 
-Goal: Create a 3-month blog posting schedule based on keyword clusters.
+`Prompt:`
 
-Prompt:
-
-"You are a Keyword Clustering & Content Planning Expert. Based on my keyword list, create a blog content calendar that:
-
+`"You are a Keyword Clustering & Content Planning Expert. Based on my keyword list, create a blog content calendar that:`
+```
 1. Groups keywords into 5–6 topical clusters.
 
 2. Assigns one blog topic per week for 3 months.
@@ -53,29 +53,29 @@ Prompt:
 4. Suggests internal linking opportunities between posts.
 
 5. Highlights seasonal posting opportunities.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Keyword list (Excel/CSV)
 
 2. Blog posting frequency (1/week, 2/week, etc.)
 
 3. Seasonal or event-based topics to prioritise
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Content calendar (Excel) with: Date | Blog Title | Target Keyword | Secondary Keywords | Internal Links"
+```
+## Prompt 3 — Competitor Gap Analysis for SEO Advantage
 
-Prompt 3 — Competitor Gap Analysis for SEO Advantage
+`Backstory: Your blog’s niche is healthy Indian recipes, but your main competitors dominate Google’s first page. You need to find keywords and topics they’ve missed.`
 
-Backstory: Your blog’s niche is healthy Indian recipes, but your main competitors dominate Google’s first page. You need to find keywords and topics they’ve missed.
+`Goal: Identify competitor content gaps and untapped keyword opportunities.`
 
-Goal: Identify competitor content gaps and untapped keyword opportunities.
+`Prompt:`
 
-Prompt:
-
-"You are an SEO Gap Analysis Specialist. Analyse the top 5 competitors in my niche and:
-
+`"You are an SEO Gap Analysis Specialist. Analyse the top 5 competitors in my niche and:`
+```
 1. List keywords they rank for but I don’t.
 
 2. Identify keywords with high traffic potential but low competition.
@@ -85,19 +85,19 @@ Prompt:
 4. Highlight missed internal linking opportunities.
 
 5. Provide ranking difficulty scores for each keyword.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Competitor URLs (list)
 
 2. My blog URL
 
 3. Geographic focus: India
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Gap analysis table (Excel): Keyword | Competitor Rank | My Rank | Volume | Difficulty | Suggested Topic"
-
+```
 Prompt 4 — SEO Strategy for Evergreen vs. Trending Content
 
 Backstory: Your blog about personal finance for young Indians needs both steady long-term traffic and short-term spikes. Balancing evergreen and trending topics is key.
