@@ -1777,3 +1777,111 @@ Inputs:
 
 Common injuries in facility
 First-aid equipment available"
+
+Prompt 21 — SOP for Cross-Department Communication in Clinics
+Backstory: Lab reports, prescriptions, and doctor notes sometimes get lost between departments, causing delays in treatment.
+
+Goal: Establish a smooth inter-department communication system.
+
+Prompt:
+
+"You are a Healthcare Workflow Analyst. Create an SOP for ‘Cross-Department Communication.’ 
+
+Define communication channels (internal chat, EMR notes). 
+Set response time SLAs (Service Level Agreements). 
+Outline responsibility for forwarding information. 
+Include escalation for missed updates. 
+Add monthly review meetings.
+Inputs: 
+
+Departments involved 
+Communication tools used"
+
+Prompt 22 — SOP for Nutrition Counseling in Fitness Centers
+Backstory: Your gym offers nutrition advice, but trainers give inconsistent or incorrect dietary guidance.
+Goal: Ensure safe and professional nutrition counseling.
+
+Prompt:
+"You are a Sports Nutritionist. Write an SOP for ‘Nutrition Counseling in Fitness Centers.’
+
+Define consultation steps (assessment, plan, follow-up).
+Include dietary customization for medical conditions.
+Add guidelines for food tracking and progress measurement.
+Provide a disclaimer format to avoid liability.
+Include follow-up call schedule.
+Inputs:
+
+Type of clients served
+In-house or outsourced nutritionists"
+
+Prompt 23 — SOP for Handling High-Profile Clients in Clinics & Gyms
+Backstory: Occasionally, celebrities or high-net-worth clients visit your facility. Staff must know how to maintain confidentiality and special handling.
+Goal: Protect privacy while providing premium service.
+
+Prompt:
+"You are a VIP Client Services Coordinator. Draft an SOP for ‘Handling High-Profile Clients.’
+
+Set privacy measures for arrival and waiting areas.
+Define limited staff access.
+Outline appointment scheduling security.
+Include special billing and NDAs.
+Add media handling guidelines.
+Inputs:
+
+Type of VIP clients expected
+Facility security protocols"
+
+Prompt 24 — SOP for Waste Management in Clinics & Fitness Centers
+Backstory: Improper waste disposal is causing hygiene issues and regulatory risks.
+Goal: Ensure compliance with biomedical and general waste disposal rules.
+
+Prompt:
+"You are an Environmental Compliance Officer. Create an SOP for ‘Waste Management.’
+
+Define waste segregation categories.
+Outline storage and disposal timelines.
+Include hazardous waste handling procedures.
+Add staff training requirements.
+Provide monthly compliance audit checklist.
+Inputs:
+
+Waste volume generated
+Local disposal laws"
+
+Prompt 25 — SOP for Marketing & Promotions Approval
+Backstory: Random discount campaigns and unapproved ads are damaging your brand image.
+Goal: Standardize marketing approvals for consistency and compliance.
+
+Prompt:
+"You are a Healthcare & Fitness Marketing Manager. Draft an SOP for ‘Approval Process for Marketing & Promotions.’
+
+Define who can propose campaigns.
+Set approval hierarchy and timelines.
+Include brand guideline checklist.
+Require legal compliance check for health claims.
+Add campaign performance tracking format.
+Inputs:
+
+Number of campaigns per month
+Marketing budget range"
+
+
+Diet & workout plan creation
+
+Prompt 1 — Personalized Weight Loss Plan
+Backstory: You have a 28-year-old office worker who sits for 8+ hours daily, has minimal exercise history, and wants to lose 8 kg in 3 months without crash diets. They prefer Indian vegetarian food.
+Goal: Create a safe, sustainable, and personalized weight loss plan.
+
+Prompt:
+"You are a Certified Nutritionist & Fitness Trainer. Design a 12-week weight loss program for a 28-year-old vegetarian office worker.
+
+Include daily calorie goals and macronutrient breakdown.
+Suggest 3 meal options per day with Indian vegetarian recipes.
+Add a beginner-friendly workout plan (no gym required).
+Include weekly progress tracking methods.
+Suggest motivational checkpoints to keep the client on track.
+Inputs:
+
+Height & weight
+Any food allergies
+Current fitness level"
