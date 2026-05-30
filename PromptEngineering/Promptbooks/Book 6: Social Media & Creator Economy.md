@@ -260,23 +260,24 @@ Tasks:
 3. Source links
 ```
 `Output Format:`
-
+```
 1. Script (DOCX)
 
 2. Myths vs Facts Table (Excel)
 
 3. 5 Title Options (Excel)"
 ```
-Prompt 8 — Challenge Video Script
+## Prompt 8 — Challenge Video Script
 
-Backstory: Indian YouTube thrives on challenges (24-hour challenges, ₹500 budget challenges), but poorly structured challenges lose steam.
+`Backstory: Indian YouTube thrives on challenges (24-hour challenges, ₹500 budget challenges), but poorly structured challenges lose steam.`
 
-Goal: Create a script that keeps energy high and encourages audience participation.
+`Goal: Create a script that keeps energy high and encourages audience participation.`
 
-Prompt:
+`Prompt:`
 
-"You are a YouTube Challenge Producer. Write a complete challenge video script for the given concept.
+`"You are a YouTube Challenge Producer. Write a complete challenge video script for the given concept.`
 
+```
 Tasks:
 
 1. Open with rules and stakes in under 15 seconds.
@@ -288,33 +289,34 @@ Tasks:
 4. Suggest props, settings, and camera angles.
 
 5. End with a recap and challenge for viewers to try it themselves.
-
-Inputs Needed:
-
+```
+`Inputs Needed:`
+```
 1. Challenge concept
 
 2. Time/budget constraints
 
 3. Props list
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Script (DOCX)
 
 2. Prop & Location List (Excel)
 
 3. Title & Thumbnail Ideas (Excel)"
+```
+## Prompt 9 — Educational Listicle Script
 
-Prompt 9 — Educational Listicle Script
+`Backstory: Listicles (e.g., “Top 10 Skills for 2025”) perform well for SEO and retention.`
 
-Backstory: Listicles (e.g., “Top 10 Skills for 2025”) perform well for SEO and retention.
+`Goal: Write a listicle script that combines strong data with engaging presentation.`
 
-Goal: Write a listicle script that combines strong data with engaging presentation.
+`Prompt:`
 
-Prompt:
+`"You are a YouTube Educational Listicle Writer. Write a listicle script on the provided topic.`
 
-"You are a YouTube Educational Listicle Writer. Write a listicle script on the provided topic.
-
+```
 Tasks:
 
 1. Use a hook that promises value (e.g., “Most people don’t know…”).
@@ -326,33 +328,34 @@ Tasks:
 4. Suggest visuals or B-roll for each point.
 
 5. End with a summary and viewer question.
-
-Inputs Needed:
-
+```
+`Inputs Needed:`
+```
 1. Topic
 
 2. Target audience
 
 3. Number of items in list
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Script (DOCX)
 
 2. List Table with B-roll ideas (Excel)
 
 3. SEO Title Suggestions (Excel)"
+```
+## Prompt 10 — Mini-Documentary Script
 
-Prompt 10 — Mini-Documentary Script
+`Backstory: Many Indian creators are exploring mini-documentary styles but lack structured storytelling.`
 
-Backstory: Many Indian creators are exploring mini-documentary styles but lack structured storytelling.
+`Goal: Build a short-form documentary script (5–10 mins) that tells a compelling real-life story.`
 
-Goal: Build a short-form documentary script (5–10 mins) that tells a compelling real-life story.
+`Prompt:`
 
-Prompt:
+`"You are a YouTube Documentary Scriptwriter. Write a mini-documentary script on the given topic.`
 
-"You are a YouTube Documentary Scriptwriter. Write a mini-documentary script on the given topic.
-
+```
 Tasks:
 
 1. Create a cinematic opening scene.
@@ -364,23 +367,23 @@ Tasks:
 4. Suggest transitions and background score style.
 
 5. End with a reflective closing narration.
-
-Inputs Needed:
-
+```
+`Inputs Needed:`
+```
 1. Topic
 
 2. Key interviewees or roles
 
 3. Available footage
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Script with timestamps (DOCX)
 
 2. Interview Questions (Excel)
 
 3. Title & Thumbnail Concepts (PDF)"
-
+```
 Prompt 11 — Opinion/Rant Video Script
 
 Backstory: Opinion videos help creators build a personal brand but can backfire if unstructured.
