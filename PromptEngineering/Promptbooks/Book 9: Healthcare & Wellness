@@ -29,23 +29,33 @@ Inputs:
 3. Language preference"
 
 Prompt 2 — Delivering Test Results
+
 Backstory: A patient is anxious about their blood test results. You need to explain the outcome clearly without causing unnecessary alarm.
+
 Goal: Make medical data understandable, actionable, and reassuring.
 
 Prompt:
+
 "You are a Medical Communicator. Create a script for delivering test results that:
 
-Opens with reassurance before sharing details.
-Explains each key result in simple terms.
-Uses relatable comparisons (e.g., “like a traffic signal”).
-Outlines next steps or treatment options.
-Ends with an invitation for follow-up questions.
+1. Opens with reassurance before sharing details.
+
+2. Explains each key result in simple terms.
+
+3. Uses relatable comparisons (e.g., “like a traffic signal”).
+
+4. Outlines next steps or treatment options.
+
+5. Ends with an invitation for follow-up questions.
+
 Inputs:
 
-Type of test
-Key results"
+1. Type of test
+
+2. Key results"
 
 Prompt 3 — Breaking Bad News
+
 Backstory: You have to inform a patient that their biopsy indicates cancer. This conversation requires empathy, clarity, and emotional support.
 
 Goal: Deliver bad news in a way that is compassionate yet direct, and offers immediate next steps.
@@ -54,18 +64,26 @@ Prompt:
 
 "You are a Compassionate Healthcare Professional. Write a bad-news delivery script that: 
 
-Prepares the patient emotionally before sharing the news. 
-States the diagnosis clearly without medical jargon. 
-Offers emotional support and pauses for reactions. 
-Immediately outlines treatment or referral options. 
-Suggests counseling or support groups.
+1. Prepares the patient emotionally before sharing the news. 
+
+2. States the diagnosis clearly without medical jargon. 
+
+3. Offers emotional support and pauses for reactions. 
+
+4. Immediately outlines treatment or referral options. 
+
+5. Suggests counseling or support groups.
+
 Inputs: 
 
-Diagnosis 
-Stage/severity 
-Available treatment options"
+1. Diagnosis 
+
+2. Stage/severity 
+
+3. Available treatment options"
 
 Prompt 4 — Chronic Condition Management
+
 Backstory: You’re counseling a patient newly diagnosed with type 2 diabetes on lifestyle changes.
 
 Goal: Provide guidance in a way that motivates rather than overwhelms.
@@ -74,34 +92,50 @@ Prompt:
 
 "You are a Lifestyle Management Coach in healthcare. Write a patient script that: 
 
-Explains the condition in clear, hopeful terms. 
-Breaks down lifestyle changes into small, achievable steps. 
-Uses motivational language for long-term adherence. 
-Includes examples of diet, exercise, and monitoring. 
-Encourages regular follow-up.
+1. Explains the condition in clear, hopeful terms. 
+
+2. Breaks down lifestyle changes into small, achievable steps. 
+
+3. Uses motivational language for long-term adherence. 
+
+4. Includes examples of diet, exercise, and monitoring. 
+
+5. Encourages regular follow-up.
+
 Inputs: 
 
-Condition name 
-Patient’s daily routine"
+1. Condition name 
+
+2. Patient’s daily routine"
 
 Prompt 5 — Discharge Instructions
+
 Backstory: A patient is being discharged after minor surgery. They need clear post-care instructions they can follow at home.
+
 Goal: Prevent complications by ensuring they understand medication, diet, and follow-up schedules.
 
 Prompt:
+
 "You are a Post-Operative Care Guide. Create discharge instructions that:
 
-Use simple, step-by-step language.
-Include medication names, doses, and timings.
-Outline dietary do’s and don’ts.
-Explain red flags that require urgent attention.
-Provide contact details for emergencies.
+1. Use simple, step-by-step language.
+
+2. Include medication names, doses, and timings.
+
+3. Outline dietary do’s and don’ts.
+
+4. Explain red flags that require urgent attention.
+
+5. Provide contact details for emergencies.
+
 Inputs:
 
-Type of surgery
-Prescribed medicines"
+1. Type of surgery
+
+2. Prescribed medicines"
 
 Prompt 6 — Pediatric Consultation for Worried Parents
+
 Backstory: A parent brings in their 3-year-old child with a persistent cough. They’re visibly anxious and need reassurance along with medical guidance.
 
 Goal: Provide a child-friendly consultation while keeping the parent calm and informed.
@@ -110,31 +144,50 @@ Prompt:
 
 "You are a Pediatric Communication Specialist. Write a script that: 
 
-Starts by engaging with the child to build comfort. 
-Reassures the parent before gathering medical history. 
-Uses simple explanations for symptoms and treatment. 
-Outlines home care and warning signs clearly. 
-Encourages follow-up and offers health resources.
+1. Starts by engaging with the child to build comfort. 
+
+2. Reassures the parent before gathering medical history. 
+
+3. Uses simple explanations for symptoms and treatment. 
+
+4. Outlines home care and warning signs clearly. 
+
+5. Encourages follow-up and offers health resources.
+
 Inputs: 
 
-Child’s name & age 
-Symptoms & duration 
-Parent’s main concern"
+1. Child’s name & age 
+
+2. Symptoms & duration 
+
+3. Parent’s main concern"
 
 Prompt 7 — Telemedicine Appointment Script
+
 Backstory: You’re consulting a patient remotely via video call for a mild skin rash. Since you can’t physically examine them, communication must be precise.
+
 Goal: Maximize remote diagnosis accuracy while making the patient feel secure.
 
 Prompt:
+
 "You are a Virtual Care Doctor. Create a telemedicine script that:
 
-Starts with a warm greeting and tech check (audio/video).
-Guides the patient to show affected areas clearly on camera.
-Asks specific symptom-related questions.
-Provides provisional diagnosis and explains limits of virtual care.
-Advises on next steps, prescriptions, or in-person follow-up.
+1. Starts with a warm greeting and tech check (audio/video).
+
+2. Guides the patient to show affected areas clearly on camera.
+
+3. Asks specific symptom-related questions.
+
+4. Provides provisional diagnosis and explains limits of virtual care.
+
+5. Advises on next steps, prescriptions, or in-person follow-up.
+
 Inputs:
 
-Patient name
-Symptoms description
-Available video quality"
+1. Patient name
+
+2. Symptoms description
+
+3. Available video quality"
+
+
