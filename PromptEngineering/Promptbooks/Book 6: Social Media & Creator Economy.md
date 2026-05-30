@@ -3525,7 +3525,7 @@ content.`
 `Prompt:`
 
 `"You are a Creative Partnership Deck Designer. Create a 6–8 slide deck outline for [Brand Name] that:`
-
+```
 1. Introduces me and my niche visually.
 
 2. Shares audience demographics (age, gender, location, interests).
@@ -3535,29 +3535,29 @@ content.`
 4. Presents 2–3 collaboration concepts with timelines.
 
 5. Includes pricing options and CTA to schedule a call.
-
-Inputs:
-
+```
+`Inputs:``
+```
 1. My brand bio & USP
 
 2. Analytics screenshot
 
 3. Portfolio of past work
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Deck outline with suggested visuals (PowerPoint/Keynote)"
+```
+## Prompt 4 — Collaboration Proposal for a Micro-Influencer
 
-Prompt 4 — Collaboration Proposal for a Micro-Influencer
+`Backstory: You are a micro-influencer (5K–15K followers) in India focusing on sustainable living. You want to approach a local eco-friendly startup to work on a barter or low-cost collaboration.`
 
-Backstory: You are a micro-influencer (5K–15K followers) in India focusing on sustainable living. You want to approach a local eco-friendly startup to work on a barter or low-cost collaboration.
+`Goal: Create a convincing micro-influencer pitch highlighting authenticity and niche influence.`
 
-Goal: Create a convincing micro-influencer pitch highlighting authenticity and niche influence.
+`Prompt:`
 
-Prompt:
-
-"You are a Niche Influence Pitch Expert. Write a proposal email to [Brand Name] that:
-
+`"You are a Niche Influence Pitch Expert. Write a proposal email to [Brand Name] that:`
+```
 1. Introduces my sustainability journey briefly.
 
 2. Shows audience loyalty and niche relevance.
@@ -3567,31 +3567,31 @@ Prompt:
 4. Highlights my ability to create authentic, relatable storytelling.
 
 5. Ends with an invitation to discuss creative possibilities.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. My niche story
 
 2. Social proof examples (testimonials, comments)
 
 3. Specific product/service match
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Email draft (Word/PDF)
 
 2. Subject line options (Excel)"
+```
+## Prompt 5 — Joint Campaign Proposal for Multiple Influencers
 
-Prompt 5 — Joint Campaign Proposal for Multiple Influencers
+`Backstory: You are part of a group of 3 food bloggers who want to pitch a joint campaign to a premium cookware brand. This allows pooling audiences for greater impact.`
 
-Backstory: You are part of a group of 3 food bloggers who want to pitch a joint campaign to a premium cookware brand. This allows pooling audiences for greater impact.
+`Goal: Create a group influencer proposal.`
 
-Goal: Create a group influencer proposal.
+`Prompt:`
 
-Prompt:
-
-"You are a Multi-Influencer Campaign Planner. Write a proposal to [Brand Name] for a joint influencer campaign that:
-
+`"You are a Multi-Influencer Campaign Planner. Write a proposal to [Brand Name] for a joint influencer campaign that:`
+```
 1. Introduces each influencer and their niche.
 
 2. Shows combined audience size and reach.
@@ -3601,31 +3601,31 @@ Prompt:
 4. Includes a budget breakdown for group rates.
 
 5. Adds cross-promotion strategies for maximum exposure.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Influencer bios
 
 2. Social media stats
 
 3. Proposed content themes
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Proposal draft (Word/PDF)
 
 2. Campaign schedule mockup (Excel)"
+```
+## Prompt 6 — Festival-Themed Brand Collaboration
 
-Prompt 6 — Festival-Themed Brand Collaboration
+`Backstory: You are an Indian lifestyle influencer who wants to pitch a Diwali-themed collaboration to a home décor brand. The idea is to leverage festive shopping trends to boost brand visibility.`
 
-Backstory: You are an Indian lifestyle influencer who wants to pitch a Diwali-themed collaboration to a home décor brand. The idea is to leverage festive shopping trends to boost brand visibility.
+`Goal: Create a festival-specific pitch with a cultural and commercial angle.`
 
-Goal: Create a festival-specific pitch with a cultural and commercial angle.
+`Prompt:`
 
-Prompt:
-
-"You are a Seasonal Campaign Strategist. Write a Diwali-themed brand collaboration proposal for [Brand Name] that:
-
+`"You are a Seasonal Campaign Strategist. Write a Diwali-themed brand collaboration proposal for [Brand Name] that:`
+```
 1. Opens with a festive greeting and cultural relevance.
 
 2. Suggests 2–3 campaign ideas around Diwali décor inspiration.
@@ -3635,31 +3635,31 @@ Prompt:
 4. Includes potential hashtags and audience engagement strategies.
 
 5. Projects ROI based on seasonal sales uplift.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Festival name
 
 2. Brand’s product range
 
 3. Audience insights
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Proposal draft (Word/PDF)
 
 2. Content plan table (Excel)"
+```
+## Prompt 7 — Collaboration Proposal with Data-Driven Case Study
 
-Prompt 7 — Collaboration Proposal with Data-Driven Case Study
+`Backstory: A tech accessories brand is more likely to say yes if you can prove past collaborations brought measurable results.`
 
-Backstory: A tech accessories brand is more likely to say yes if you can prove past collaborations brought measurable results.
+`Goal: Create a proposal with data-backed proof of effectiveness.`
 
-Goal: Create a proposal with data-backed proof of effectiveness.
+`Prompt:`
 
-Prompt:
-
-"You are a Data-Driven Marketing Pitch Expert. Write a brand collaboration proposal for [Brand Name] that:
-
+`"You are a Data-Driven Marketing Pitch Expert. Write a brand collaboration proposal for [Brand Name] that:`
+```
 1. Summarises a past successful campaign (before/after metrics).
 
 2. Shows follower growth and engagement boosts from similar brands.
@@ -3669,31 +3669,31 @@ Prompt:
 4. Includes tracking and reporting methods for this campaign.
 
 5. Shows predicted ROI using realistic projections.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Past campaign results
 
 2. Industry benchmarks
 
 3. Tracking tools I use
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Proposal draft (Word/PDF)
 
 2. Analytics report mockup (Excel)"
+```
+## Prompt 8 — Collab Proposal for Product Launch Event
 
-Prompt 8 — Collab Proposal for Product Launch Event
+`Backstory: A beverage company is launching a new drink. You want to pitch yourself as the go-to influencer for live event coverage plus online buzz creation.`
 
-Backstory: A beverage company is launching a new drink. You want to pitch yourself as the go-to influencer for live event coverage plus online buzz creation.
+`Goal: Propose a product launch influencer package.`
 
-Goal: Propose a product launch influencer package.
+`Prompt:`
 
-Prompt:
-
-"You are a Launch Event Campaign Planner. Write a proposal for [Brand Name] covering:
-
+`"You are a Launch Event Campaign Planner. Write a proposal for [Brand Name] covering:`
+```
 1. Live event coverage via Instagram Stories/Reels.
 
 2. Pre-launch teasers to build hype.
@@ -3703,31 +3703,31 @@ Prompt:
 4. Cross-promotion on multiple platforms.
 
 5. Post-event engagement recap.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Event details
 
 2. Brand’s marketing goals
 
 3. My engagement rate
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Proposal draft (Word/PDF)
 
 2. Campaign timeline (Excel)"
+```
+## Prompt 9 — Long-Term Brand Ambassador Proposal
 
-Prompt 9 — Long-Term Brand Ambassador Proposal
+`Backstory: You want to transition from a one-off influencer gig to being a year-round brand ambassador for an athleisure company.`
 
-Backstory: You want to transition from a one-off influencer gig to being a year-round brand ambassador for an athleisure company.
+`Goal: Create a professional brand ambassador pitch.`
 
-Goal: Create a professional brand ambassador pitch.
+`Prompt:`
 
-Prompt:
-
-"You are a Brand Ambassador Contract Specialist. Write a proposal for [Brand Name] that:
-
+`"You are a Brand Ambassador Contract Specialist. Write a proposal for [Brand Name] that:`
+```
 1. Details my personal brand’s alignment with theirs.
 
 2. Outlines monthly deliverables (posts, reels, event appearances).
@@ -3737,31 +3737,31 @@ Prompt:
 4. Suggests a monthly retainer fee.
 
 5. Shows how my audience can become loyal customers.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Past campaign results
 
 2. Ambassador deliverable ideas
 
 3. Pricing model
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Proposal draft (Word/PDF)
 
 2. Deliverable calendar (Excel)"
+```
+## Prompt 10 — Cross-Niche Brand Collab
 
-Prompt 10 — Cross-Niche Brand Collab
+`Backstory: You are a travel influencer who wants to collaborate with a skincare brand for a “Travel-Friendly Skincare” campaign.`
 
-Backstory: You are a travel influencer who wants to collaborate with a skincare brand for a “Travel-Friendly Skincare” campaign.
+`Goal: Pitch a creative cross-niche partnership.`
 
-Goal: Pitch a creative cross-niche partnership.
+`Prompt:`
 
-Prompt:
-
-"You are a Cross-Niche Campaign Innovator. Write a collaboration proposal for [Brand Name] that:
-
+`"You are a Cross-Niche Campaign Innovator. Write a collaboration proposal for [Brand Name] that:`
+```
 1. Links skincare benefits to travel scenarios.
 
 2. Suggests photo/video concepts showing real travel moments.
@@ -3771,31 +3771,31 @@ Prompt:
 4. Recommends seasonal travel destinations for content shooting.
 
 5. Projects audience reach in both niches.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. My niche & audience stats
 
 2. Brand’s key products
 
 3. Travel locations planned
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Proposal draft (Word/PDF)
 
 2. Multi-niche content plan (Excel)"
+```
+## Prompt 11 — Co-Branded Product Collaboration
 
-Prompt 11 — Co-Branded Product Collaboration
+`Backstory: Instead of promoting an existing product, you want to work with a brand to co-create a limited edition item with your name or design.`
 
-Backstory: Instead of promoting an existing product, you want to work with a brand to co-create a limited edition item with your name or design.
+`Goal: Pitch a co-branded product idea.`
 
-Goal: Pitch a co-branded product idea.
+`Prompt:`
 
-Prompt:
-
-"You are a Co-Branding Concept Creator. Write a proposal to [Brand Name] for a co-branded limited edition product that:
-
+`"You are a Co-Branding Concept Creator. Write a proposal to [Brand Name] for a co-branded limited edition product that:`
+```
 1. Highlights my unique value to their audience.
 
 2. Suggests product design and branding ideas.
@@ -3805,31 +3805,31 @@ Prompt:
 4. Includes profit-sharing or licensing model.
 
 5. Projects mutual brand lift.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. My niche identity
 
 2. Co-branding product idea
 
 3. Target launch date
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Proposal draft (Word/PDF)
 
 2. Co-brand launch roadmap (Excel)"
+```
+## Prompt 12 — Collab Proposal for a Cause
 
-Prompt 12 — Collab Proposal for a Cause
+`Backstory: You want to partner with a clothing brand to run a social campaign supporting mental health awareness during World Mental Health Month.`
 
-Backstory: You want to partner with a clothing brand to run a social campaign supporting mental health awareness during World Mental Health Month.
+`Goal: Align brand collab with a social cause.`
 
-Goal: Align brand collab with a social cause.
+`Prompt:`
 
-Prompt:
-
-"You are a Cause-Marketing Campaign Designer. Write a proposal for [Brand Name] that:
-
+`"You are a Cause-Marketing Campaign Designer. Write a proposal for [Brand Name] that:`
+```
 1. Links their brand values to the cause.
 
 2. Suggests campaign content themes (stories, reels, lives).
@@ -3839,31 +3839,31 @@ Prompt:
 4. Highlights PR benefits.
 
 5. Suggests a campaign hashtag.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Cause details
 
 2. Brand’s CSR initiatives
 
 3. Campaign duration
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Proposal draft (Word/PDF)
 
 2. Campaign activation plan (Excel)"
+```
+## Prompt 13 — Performance-Based Payment Proposal
 
-Prompt 13 — Performance-Based Payment Proposal
+`Backstory: A brand is hesitant to commit to a flat rate. You want to propose a performance-based model where payment depends on measurable results.`
 
-Backstory: A brand is hesitant to commit to a flat rate. You want to propose a performance-based model where payment depends on measurable results.
+`Goal: Pitch a results-driven influencer deal.`
 
-Goal: Pitch a results-driven influencer deal.
+`Prompt:`
 
-Prompt:
-
-"You are a Performance Campaign Negotiator. Write a brand collaboration proposal for [Brand Name] that:
-
+`"You are a Performance Campaign Negotiator. Write a brand collaboration proposal for [Brand Name] that:`
+```
 1. Sets performance metrics (sales, sign-ups, clicks).
 
 2. Suggests tiered payment slabs based on results.
@@ -3873,31 +3873,31 @@ Prompt:
 4. Shows case studies where this worked before.
 
 5. Includes clear tracking methods.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Preferred metrics
 
 2. Example commission rates
 
 3. Tracking tools
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Proposal draft (Word/PDF)
 
 2. Performance tracking sheet (Excel)"
+```
+## Prompt 14 — Influencer & Brand Live Series
 
-Prompt 14 — Influencer & Brand Live Series
+`Backstory: You want to run a 4-week live stream series in partnership with a brand, featuring Q&A, product demos, and audience giveaways.`
 
-Backstory: You want to run a 4-week live stream series in partnership with a brand, featuring Q&A, product demos, and audience giveaways.
+`Goal: Pitch a brand-backed live series.`
 
-Goal: Pitch a brand-backed live series.
+`Prompt:`
 
-Prompt:
-
-"You are a Live Engagement Campaign Architect. Write a proposal for [Brand Name] that:
-
+`"You are a Live Engagement Campaign Architect. Write a proposal for [Brand Name] that:`
+```
 1. Outlines a 4-week live series plan.
 
 2. Suggests live topics aligned with brand products.
@@ -3907,31 +3907,31 @@ Prompt:
 4. Offers post-live highlights for YouTube/Instagram.
 
 5. Shows engagement ROI from similar campaigns.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Live series theme
 
 2. Brand’s featured products
 
 3. Preferred streaming platforms
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Proposal draft (Word/PDF)
 
 2. Live event schedule (Excel)"
+```
+## Prompt 15 — Global Brand Outreach from India
 
-Prompt 15 — Global Brand Outreach from India
+`Backstory: You are an Indian creator aiming to collaborate with a global brand entering the Indian market. Your pitch must show local market knowledge and audience relevance.`
 
-Backstory: You are an Indian creator aiming to collaborate with a global brand entering the Indian market. Your pitch must show local market knowledge and audience relevance.
+`Goal: Craft a market-entry influencer proposal.`
 
-Goal: Craft a market-entry influencer proposal.
+`Prompt:`
 
-Prompt:
-
-"You are a Local Market Entry Strategist. Write a proposal to [Brand Name] that:
-
+`"You are a Local Market Entry Strategist. Write a proposal to [Brand Name] that:`
+```
 1. Highlights my local audience insights.
 
 2. Suggests culturally adapted campaign ideas.
@@ -3941,41 +3941,41 @@ Prompt:
 4. Explains distribution benefits in India.
 
 5. Projects entry-stage growth metrics.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Brand’s origin country
 
 2. My audience location data
 
 3. Campaign ideas
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Proposal draft (Word/PDF)
 
 2. India market activation plan (Excel)"
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Proposal draft (Word/PDF)
 
 2. Visual mood board (PDF)"
+```
+##Prompt 16 - Luxury Skincare x Wellness Influencer Campaign
 
-Prompt 16 - Luxury Skincare x Wellness Influencer Campaign
+`Backstory:`
 
-Backstory:
+`A premium Ayurvedic skincare brand in India wants to collaborate with a popular wellness influencer on Instagram. The aim is to launch a month-long content series combining product education, self-care tips, and Ayurvedic lifestyle integration. The brand wants the proposal to include mutual deliverables, timelines, and measurable KPIs for the collaboration.`
 
-A premium Ayurvedic skincare brand in India wants to collaborate with a popular wellness influencer on Instagram. The aim is to launch a month-long content series combining product education, self-care tips, and Ayurvedic lifestyle integration. The brand wants the proposal to include mutual deliverables, timelines, and measurable KPIs for the collaboration.
+`Goal: Secure the influencer’s participation with a compelling, professional collaboration proposal.`
 
-Goal: Secure the influencer’s participation with a compelling, professional collaboration proposal.
+`Prompt:`
 
-Prompt:
+`"You are a brand partnership strategist. Draft a detailed collaboration proposal between a luxury Ayurvedic skincare brand and a wellness influencer. Include campaign concept, content plan, timelines, mutual deliverables, and performance metrics."`
 
-"You are a brand partnership strategist. Draft a detailed collaboration proposal between a luxury Ayurvedic skincare brand and a wellness influencer. Include campaign concept, content plan, timelines, mutual deliverables, and performance metrics."
-
-Inputs Required:
-
+`Inputs Required:`
+```
 1. Brand USP & product list
 
 2. Influencer profile and audience insights
@@ -3983,21 +3983,21 @@ Inputs Required:
 3. Budget range
 
 4. Campaign duration
+```
+## Prompt 17-  Regional Food Brand x YouTube Cooking Channel Partnership
 
-Prompt 17-  Regional Food Brand x YouTube Cooking Channel Partnership
+`Backstory:`
 
-Backstory:
+`A South Indian spice brand wants to expand into northern markets by collaborating with a Hindi-speaking YouTube cooking creator. The collaboration will involve recipe videos, cooking tips, and sponsored product integrations. The proposal needs to highlight the brand’s heritage while making it appealing to a pan-India audience.`
 
-A South Indian spice brand wants to expand into northern markets by collaborating with a Hindi-speaking YouTube cooking creator. The collaboration will involve recipe videos, cooking tips, and sponsored product integrations. The proposal needs to highlight the brand’s heritage while making it appealing to a pan-India audience.
+`Goal: Present a culturally relevant and market-expanding collaboration pitch to the creator.`
 
-Goal: Present a culturally relevant and market-expanding collaboration pitch to the creator.
+`Prompt:`
 
-Prompt:
+`"You are a cultural marketing expert. Create a brand collaboration proposal for a South Indian spice brand partnering with a Hindi YouTube cooking channel. Include integration ideas, audience crossover benefits, deliverables, and projected ROI."`
 
-"You are a cultural marketing expert. Create a brand collaboration proposal for a South Indian spice brand partnering with a Hindi YouTube cooking channel. Include integration ideas, audience crossover benefits, deliverables, and projected ROI."
-
-Inputs Required:
-
+`Inputs Required:`
+```
 1. Brand story & heritage details
 
 2. Target expansion markets
@@ -4005,21 +4005,21 @@ Inputs Required:
 3. Influencer’s past content performance
 
 4. Preferred deliverables
+```
+## Prompt 18- Sustainable Fashion Brand x Instagram Lifestyle Influencer
 
-Prompt 18- Sustainable Fashion Brand x Instagram Lifestyle Influencer
+`Backstory:`
 
-Backstory:
+`An eco-conscious clothing label in Delhi wants to collaborate with a sustainability-focused lifestyle influencer for a festive season campaign. The proposal should outline how the influencer can incorporate the brand’s outfits into festive looks while highlighting ethical production practices.`
 
-An eco-conscious clothing label in Delhi wants to collaborate with a sustainability-focused lifestyle influencer for a festive season campaign. The proposal should outline how the influencer can incorporate the brand’s outfits into festive looks while highlighting ethical production practices.
+`Goal: Encourage influencer participation through a proposal that blends fashion appeal with sustainability messaging.`
 
-Goal: Encourage influencer participation through a proposal that blends fashion appeal with sustainability messaging.
+`Prompt:`
 
-Prompt:
+`"You are a fashion brand collaboration specialist. Draft a festive season collaboration proposal between an eco-friendly clothing label and a lifestyle influencer. Include campaign theme, post formats, ethical brand storytelling, and deliverables."`
 
-"You are a fashion brand collaboration specialist. Draft a festive season collaboration proposal between an eco-friendly clothing label and a lifestyle influencer. Include campaign theme, post formats, ethical brand storytelling, and deliverables."
-
-Inputs Required:
-
+`Inputs Required:`
+```
 1. Collection lookbook
 
 2. Brand sustainability credentials
@@ -4027,20 +4027,20 @@ Inputs Required:
 3. Festive campaign dates
 
 4. Influencer’s creative style
+```
+## Prompt 19 - Travel App x Micro-Influencers in Tier-2 Cities
 
-Prompt 19 - Travel App x Micro-Influencers in Tier-2 Cities
+`Backstory:`
 
-Backstory:
+`A travel booking app wants to increase adoption in Tier-2 Indian cities by partnering with micro-influencers who can promote weekend getaway deals. The collaboration proposal should include low-budget yet high-engagement content ideas tailored to regional audiences.`
 
-A travel booking app wants to increase adoption in Tier-2 Indian cities by partnering with micro-influencers who can promote weekend getaway deals. The collaboration proposal should include low-budget yet high-engagement content ideas tailored to regional audiences.
+`Goal: Gain influencer sign-offs for a 2-month hyperlocal travel campaign.`
 
-Goal: Gain influencer sign-offs for a 2-month hyperlocal travel campaign.
+`Prompt:`
 
-Prompt:
-
-"You are a regional influencer marketing consultant. Create a brand collaboration proposal for a travel booking app partnering with micro-influencers in Tier-2 Indian cities. Include campaign objectives, localized content concepts, deliverables, and cost structure."
-Inputs Required:
-
+`"You are a regional influencer marketing consultant. Create a brand collaboration proposal for a travel booking app partnering with micro-influencers in Tier-2 Indian cities. Include campaign objectives, localized content concepts, deliverables, and cost structure."`
+`Inputs Required:`
+```
 1. Target cities
 
 2. Travel offers & destinations
@@ -4048,21 +4048,21 @@ Inputs Required:
 3. Influencer shortlist
 
 4. Campaign budget
+```
+## Prompt 20- Homegrown Coffee Brand x Podcast Host
 
-Prompt 20- Homegrown Coffee Brand x Podcast Host
+`Backstory:`
 
-Backstory:
+`An artisanal coffee brand from Bangalore wants to partner with a popular Indian podcast host whose audience includes young professionals. The collaboration will include podcast sponsorships, branded coffee discussions, and special listener discount codes. The proposal should position the brand as a lifestyle upgrade.`
 
-An artisanal coffee brand from Bangalore wants to partner with a popular Indian podcast host whose audience includes young professionals. The collaboration will include podcast sponsorships, branded coffee discussions, and special listener discount codes. The proposal should position the brand as a lifestyle upgrade.
+`Goal: Present a persuasive proposal to secure a 3-month sponsorship deal.`
 
-Goal: Present a persuasive proposal to secure a 3-month sponsorship deal.
+`Prompt:`
 
-Prompt:
+`"You are a creative sponsorship strategist. Draft a collaboration proposal for a homegrown coffee brand sponsoring a popular Indian podcast. Include integration ideas, audience engagement strategies, performance tracking, and deliverables."`
 
-"You are a creative sponsorship strategist. Draft a collaboration proposal for a homegrown coffee brand sponsoring a popular Indian podcast. Include integration ideas, audience engagement strategies, performance tracking, and deliverables."
-
-Inputs Required:
-
+`Inputs Required:`
+```
 1. Brand positioning & product range
 
 2. Podcast listener demographics
@@ -4070,17 +4070,17 @@ Inputs Required:
 3. Sponsorship budget
 
 4. Campaign KPIs
+```
+## Prompt 21 — Proposal for Festival Giveaway Collaboration
 
-Prompt 21 — Proposal for Festival Giveaway Collaboration
+`Backstory: During Holi, you want to partner with a natural colours brand to run a social media giveaway campaign.`
 
-Backstory: During Holi, you want to partner with a natural colours brand to run a social media giveaway campaign.
+`Goal: Drive festival engagement through a giveaway.`
 
-Goal: Drive festival engagement through a giveaway.
+`Prompt:`
 
-Prompt:
-
-"You are a Festive Giveaway Campaign Designer. Write a proposal for [Brand Name] that:
-
+`"You are a Festive Giveaway Campaign Designer. Write a proposal for [Brand Name] that:`
+```
 1. Ties the giveaway to Holi traditions.
 
 2. Uses reels, stories, and a landing page for participation.
@@ -4090,31 +4090,31 @@ Prompt:
 4. Tracks engagement metrics.
 
 5. Includes winner announcement strategy.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Festival name
 
 2. Prize details
 
 3. Participation mechanics
-
-Output Format:
-
+```
+`Output Format:`
+````
 1. Proposal draft (Word/PDF)
 
 2. Giveaway flowchart (Excel)"
+```
+## Prompt 22 — Proposal for Social Media Takeover
 
-Prompt 22 — Proposal for Social Media Takeover
+`Backstory: You want to take over a brand’s Instagram account for a day, posting stories, reels, and lives to engage their audience with fresh content.`
 
-Backstory: You want to take over a brand’s Instagram account for a day, posting stories, reels, and lives to engage their audience with fresh content.
+`Goal: Secure a one-day Instagram takeover partnership.`
 
-Goal: Secure a one-day Instagram takeover partnership.
+`Prompt:`
 
-Prompt:
-
-"You are a Social Media Takeover Planner. Write a proposal for [Brand Name] that:
-
+`"You are a Social Media Takeover Planner. Write a proposal for [Brand Name] that:`
+```
 1. Defines takeover objectives (awareness, engagement).
 
 2. Outlines content plan for the day.
@@ -4124,31 +4124,31 @@ Prompt:
 4. Includes brand voice guidelines.
 
 5. Proposes post-takeover performance report.
-
-Inputs:
-
+```
+`Inputs:`
+````
 1. Brand’s social goals
 
 2. My takeover content ideas
 
 3. Key metrics to track
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Proposal draft (Word/PDF)
 
 2. Takeover schedule (Excel)"
+```
+## Prompt 23 — Collaboration with an International Brand for Indian Festival
 
-Prompt 23 — Collaboration with an International Brand for Indian Festival
+`Backstory: You want to pitch a U.S. home décor brand to create special Diwali-themed content for their Indian market launch.`
 
-Backstory: You want to pitch a U.S. home décor brand to create special Diwali-themed content for their Indian market launch.
+`Goal: Offer cultural localisation expertise.`
 
-Goal: Offer cultural localisation expertise.
+`Prompt:`
 
-Prompt:
-
-"You are a Cultural Localisation Strategist. Write a pitch for [Brand Name] that:
-
+`"You are a Cultural Localisation Strategist. Write a pitch for [Brand Name] that:`
+```
 1. Shows understanding of Diwali traditions.
 
 2. Suggests culturally relevant visuals.
@@ -4158,31 +4158,31 @@ Prompt:
 4. Includes hashtags in Hindi/English.
 
 5. Connects product features to festive needs.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Festival details
 
 2. Brand’s product line
 
 3. Audience insights
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Proposal draft (Word/PDF)
 
 2. Localised content calendar (Excel)"
+```
+## Prompt 24 — Proposal for EdTech Brand Collaboration
 
-Prompt 24 — Proposal for EdTech Brand Collaboration
+`Backstory: You’re an education influencer on YouTube wanting to partner with an EdTech startup for online course promotion.`
 
-Backstory: You’re an education influencer on YouTube wanting to partner with an EdTech startup for online course promotion.
+`Goal: Design an EdTech-focused influencer plan.`
 
-Goal: Design an EdTech-focused influencer plan.
+`Prompt:`
 
-Prompt:
-
-"You are an Education Campaign Planner. Write a proposal for [Brand Name] that:
-
+`"You are an Education Campaign Planner. Write a proposal for [Brand Name] that:`
+```
 1. Positions me as an expert in my field.
 
 2. Suggests tutorial/demo videos.
@@ -4192,31 +4192,31 @@ Prompt:
 4. Includes affiliate or commission-based earnings.
 
 5. Highlights trust factor in education content.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Subject expertise
 
 2. Audience demographics
 
 3. Past education partnerships
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Proposal draft (Word/PDF)
 
 2. Course promotion plan (Excel)"
+```
+## Prompt 25 — Proposal for Cross-Border Collaboration
 
-Prompt 25 — Proposal for Cross-Border Collaboration
+`Backstory: You’re an Indian travel vlogger aiming to collaborate with a Singapore tourism board for a cross-cultural content campaign.`
 
-Backstory: You’re an Indian travel vlogger aiming to collaborate with a Singapore tourism board for a cross-cultural content campaign.
+`Goal: Create a travel + culture exchange pitch.`
 
-Goal: Create a travel + culture exchange pitch.
+`Prompt:`
 
-Prompt:
-
-"You are a Cross-Border Tourism Campaign Planner. Write a proposal for [Brand Name] that:
-
+`"You are a Cross-Border Tourism Campaign Planner. Write a proposal for [Brand Name] that:`
+```
 1. Showcases my India-based audience’s interest in Singapore.
 
 2. Suggests video series covering food, culture, and attractions.
@@ -4226,17 +4226,17 @@ Prompt:
 4. Includes multilingual captions/subtitles.
 
 5. Highlights tourism growth potential.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. My travel niche details
 
 2. Tourism board objectives
 
 3. Travel dates
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Proposal draft (Word/PDF)
 
 2. Content trip itinerary (Excel)"
