@@ -1294,4 +1294,178 @@ Inputs:
 
 SOPs for clinics & fitness centers
 
+Prompt 1 — Patient Intake SOP for Clinics
+Backstory: Your clinic is facing inconsistent patient registration processes, leading to missing information and delays. A clear SOP is needed so all staff follow the same steps from patient arrival to file creation.
+Goal: Ensure patient onboarding is smooth, professional, and legally compliant.
 
+Prompt:
+"You are a Healthcare Operations Consultant. Draft a detailed SOP for ‘Patient Intake & Registration’ at a multi-specialty clinic.
+
+Include step-by-step procedures from reception greeting to record creation.
+Outline required forms, ID checks, and consent protocols.
+Specify digital entry processes for EMR (Electronic Medical Records) software.
+Add escalation steps for incomplete documentation.
+Include a time target for each step.
+Inputs:
+
+Clinic size (number of patients/day)
+EMR system used"
+
+Prompt 2 — Daily Hygiene & Sanitization SOP for Fitness Centers
+Backstory: A chain of gyms received complaints about cleanliness and hygiene post-COVID. Management wants a strict cleaning and sanitization protocol to restore trust and prevent infections.
+Goal: Ensure every branch follows consistent hygiene standards daily.
+
+Prompt:
+"You are a Fitness Facility Safety Expert. Create an SOP titled ‘Daily Cleaning & Sanitization Procedures’ for a fitness center.
+
+Detail cleaning frequency for equipment, floors, and washrooms.
+Specify cleaning agents and their safe usage.
+Assign staff roles and responsibilities.
+Include end-of-day deep-cleaning checklist.
+Add compliance monitoring methods.
+Inputs:
+
+Number of cleaning staff per shift
+Peak hours for gym usage"
+
+Prompt 3 — Emergency Response SOP for Clinics
+Backstory: Your clinic handles a variety of patients, but staff often panic during medical emergencies like cardiac arrest. A simple, actionable SOP will help staff act quickly and save lives.
+Goal: Provide a ready-to-use, role-specific emergency response guide.
+
+Prompt:
+"You are a Medical Safety Officer. Develop an SOP for ‘On-Site Medical Emergency Response’ for clinics.
+
+Define immediate steps for first responders.
+Include CPR protocol and defibrillator usage.
+Assign specific roles to receptionists, nurses, and doctors.
+List emergency contact numbers and hospital tie-ups.
+Include a post-incident documentation process.
+Inputs:
+
+Clinic specialty
+Available emergency equipment"
+
+Prompt 4 — Client Assessment SOP for Personal Trainers
+Backstory: A fitness center wants to standardize how personal trainers assess new clients before starting workout plans to avoid injuries and ensure personalized programs.
+Goal: Ensure safety and accuracy in training prescriptions.
+
+Prompt:
+"You are a Sports & Exercise Science Expert. Create an SOP for ‘Initial Client Assessment’ for personal trainers.
+
+Include health history intake, physical fitness testing, and goal setting.
+Outline screening for injuries and health risks.
+Specify tools for measuring body composition and endurance.
+Provide documentation format for client records.
+Suggest frequency for reassessments.
+Inputs:
+
+Type of fitness center (general, CrossFit, yoga, etc.)
+Age range of clients"
+
+Prompt 5 — Equipment Maintenance SOP for Clinics & Gyms
+Backstory: Frequent equipment breakdowns are affecting service quality and safety in your facility. A preventive maintenance SOP is needed to minimize downtime.
+Goal: Extend equipment lifespan and prevent accidents.
+
+Prompt:
+"You are a Facility Maintenance Planner. Draft an SOP for ‘Preventive Maintenance of Medical & Fitness Equipment.’
+
+List daily, weekly, and monthly inspection tasks.
+Specify calibration protocols for medical devices.
+Include safe handling and storage procedures.
+Add a reporting mechanism for malfunction.
+Provide a maintenance log template.
+Inputs:
+
+Equipment list
+Available maintenance staff"
+
+Prompt 6 — SOP for Handling Patient Complaints in Clinics
+Backstory: Your clinic is getting recurring complaints, but the responses from staff are inconsistent and sometimes unprofessional. An SOP will ensure all grievances are handled empathetically and efficiently.
+
+Goal: Improve patient trust and resolve issues systematically.
+
+Prompt:
+
+"You are a Patient Experience Manager. Create an SOP titled ‘Patient Complaint Handling Process.’ 
+
+Define categories of complaints (service, billing, clinical). 
+Set timelines for acknowledgment and resolution. 
+Include escalation levels if the complaint is unresolved. 
+Provide a script for staff to use when responding. 
+Add documentation requirements for every complaint.
+Inputs: 
+
+Clinic size 
+Complaint tracking tool used"
+
+Prompt 7 — SOP for New Staff Onboarding in Fitness Centers
+Backstory: New hires at your gym take too long to get familiar with policies and equipment, affecting service quality. A structured onboarding SOP will cut training time.
+
+Goal: Ensure all new hires are productive within their first week.
+
+Prompt:
+
+"You are a Fitness Center HR Specialist. Draft an SOP for ‘New Staff Onboarding.’ 
+
+Create a 5-day induction schedule. 
+Include safety and hygiene training. 
+Add shadowing sessions with senior trainers. 
+Provide checklist for ID verification and paperwork. 
+End with a probation review process.
+Inputs: 
+
+Number of new hires per month 
+Job roles being onboarded"
+
+Prompt 8 — SOP for Handling Infectious Diseases in Clinics
+Backstory: With rising flu and COVID-19 cases, clinics need clear steps for handling suspected infectious patients to prevent spread.
+Goal: Protect patients, staff, and community while maintaining care quality.
+
+Prompt:
+"You are an Infection Control Officer. Create an SOP for ‘Infectious Disease Protocol in Clinics.’
+
+Detail patient isolation steps from entry to exit.
+List PPE (Personal Protective Equipment) requirements.
+Specify disinfection procedures after consultation.
+Provide staff exposure reporting guidelines.
+Add patient education handouts.
+Inputs:
+
+Type of infectious diseases to prioritize
+Available isolation facilities"
+
+Prompt 9 — SOP for Fitness Class Scheduling & Attendance Tracking
+Backstory: Your fitness center’s class attendance is inconsistent, and double bookings occur often. A scheduling SOP can fix the chaos.
+
+Goal: Ensure smooth scheduling and accurate attendance records.
+
+Prompt:
+
+"You are a Fitness Operations Manager. Write an SOP for ‘Class Scheduling & Attendance.’ 
+
+Define booking methods (app, reception, call). 
+Set class capacity limits. 
+Outline attendance tracking process. 
+Include cancellation and waitlist rules. 
+Add monthly reporting format.
+Inputs: 
+
+Class types offered 
+Peak time data"
+
+Prompt 10 — SOP for Prescription Dispensing in Clinics
+Backstory: Some patients receive incorrect medicines due to lack of a standardized dispensing process.
+Goal: Reduce medication errors and ensure patient safety.
+
+Prompt:
+"You are a Clinical Pharmacist. Develop an SOP for ‘Prescription Dispensing in Clinics.’
+
+Verify prescriptions with prescribing doctor.
+Check for dosage accuracy and allergies.
+Include labeling requirements.
+Educate patient on usage and side effects.
+Document all dispensed medicines.
+Inputs:
+
+Clinic pharmacy size
+Electronic or manual prescription system"
