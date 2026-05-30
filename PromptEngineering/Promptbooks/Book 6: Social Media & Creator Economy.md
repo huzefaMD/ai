@@ -423,16 +423,17 @@ Tasks:
 
 3. 3 Title Options (Excel)"
 ```
-Prompt 12 — Comedy Skit Script
+## Prompt 12 — Comedy Skit Script
 
-Backstory: Indian YouTube comedy has huge viral potential but often misses timing and punchlines.
+`Backstory: Indian YouTube comedy has huge viral potential but often misses timing and punchlines`.
 
-Goal: Script a tight 2–3 minute comedy skit that’s shareable.
+`Goal: Script a tight 2–3 minute comedy skit that’s shareable.`
 
-Prompt:
+`Prompt:`
 
-"You are a YouTube Comedy Writer. Create a comedy skit script for the provided concept.
+`"You are a YouTube Comedy Writer. Create a comedy skit script for the provided concept.`
 
+```
 Tasks:
 
 1. Include a 5-second hook joke.
@@ -444,23 +445,23 @@ Tasks:
 4. Suggest comedic sound effects.
 
 5. End with a funny twist.
-
-Inputs Needed:
-
+```
+`Inputs Needed:`
+```
 1. Concept
 
 2. Actor count
 
 3. Setting/location
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Script (DOCX)
 
 2. Prop List (Excel)
 
 3. Title & Thumbnail Ideas (Excel)"
-
+```
 Prompt 13 — Reaction Video Script
 
 Backstory: Reaction videos perform well but risk being repetitive.
