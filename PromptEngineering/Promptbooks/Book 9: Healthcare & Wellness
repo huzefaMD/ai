@@ -1399,23 +1399,33 @@ Inputs:
 2. Age range of clients"
 
 Prompt 5 — Equipment Maintenance SOP for Clinics & Gyms
+
 Backstory: Frequent equipment breakdowns are affecting service quality and safety in your facility. A preventive maintenance SOP is needed to minimize downtime.
+
 Goal: Extend equipment lifespan and prevent accidents.
 
 Prompt:
+
 "You are a Facility Maintenance Planner. Draft an SOP for ‘Preventive Maintenance of Medical & Fitness Equipment.’
 
-List daily, weekly, and monthly inspection tasks.
-Specify calibration protocols for medical devices.
-Include safe handling and storage procedures.
-Add a reporting mechanism for malfunction.
-Provide a maintenance log template.
+1. List daily, weekly, and monthly inspection tasks.
+
+2. Specify calibration protocols for medical devices.
+
+3. Include safe handling and storage procedures.
+
+4. Add a reporting mechanism for malfunction.
+
+5. Provide a maintenance log template.
+
 Inputs:
 
-Equipment list
-Available maintenance staff"
+1. Equipment list
+
+2. Available maintenance staff"
 
 Prompt 6 — SOP for Handling Patient Complaints in Clinics
+
 Backstory: Your clinic is getting recurring complaints, but the responses from staff are inconsistent and sometimes unprofessional. An SOP will ensure all grievances are handled empathetically and efficiently.
 
 Goal: Improve patient trust and resolve issues systematically.
@@ -1424,17 +1434,24 @@ Prompt:
 
 "You are a Patient Experience Manager. Create an SOP titled ‘Patient Complaint Handling Process.’ 
 
-Define categories of complaints (service, billing, clinical). 
-Set timelines for acknowledgment and resolution. 
-Include escalation levels if the complaint is unresolved. 
-Provide a script for staff to use when responding. 
-Add documentation requirements for every complaint.
+1. Define categories of complaints (service, billing, clinical). 
+
+2. Set timelines for acknowledgment and resolution. 
+
+3. Include escalation levels if the complaint is unresolved. 
+
+4. Provide a script for staff to use when responding. 
+
+5. Add documentation requirements for every complaint.
+
 Inputs: 
 
-Clinic size 
-Complaint tracking tool used"
+1. Clinic size 
+
+2. Complaint tracking tool used"
 
 Prompt 7 — SOP for New Staff Onboarding in Fitness Centers
+
 Backstory: New hires at your gym take too long to get familiar with policies and equipment, affecting service quality. A structured onboarding SOP will cut training time.
 
 Goal: Ensure all new hires are productive within their first week.
@@ -1443,34 +1460,50 @@ Prompt:
 
 "You are a Fitness Center HR Specialist. Draft an SOP for ‘New Staff Onboarding.’ 
 
-Create a 5-day induction schedule. 
-Include safety and hygiene training. 
-Add shadowing sessions with senior trainers. 
-Provide checklist for ID verification and paperwork. 
-End with a probation review process.
+1. Create a 5-day induction schedule. 
+
+2. Include safety and hygiene training. 
+
+3. Add shadowing sessions with senior trainers. 
+
+4. Provide checklist for ID verification and paperwork. 
+
+5. End with a probation review process.
+
 Inputs: 
 
-Number of new hires per month 
-Job roles being onboarded"
+1. Number of new hires per month 
+
+2. Job roles being onboarded"
 
 Prompt 8 — SOP for Handling Infectious Diseases in Clinics
+
 Backstory: With rising flu and COVID-19 cases, clinics need clear steps for handling suspected infectious patients to prevent spread.
+
 Goal: Protect patients, staff, and community while maintaining care quality.
 
 Prompt:
+
 "You are an Infection Control Officer. Create an SOP for ‘Infectious Disease Protocol in Clinics.’
 
-Detail patient isolation steps from entry to exit.
-List PPE (Personal Protective Equipment) requirements.
-Specify disinfection procedures after consultation.
-Provide staff exposure reporting guidelines.
-Add patient education handouts.
+1. Detail patient isolation steps from entry to exit.
+
+2. List PPE (Personal Protective Equipment) requirements.
+
+3. Specify disinfection procedures after consultation.
+
+4. Provide staff exposure reporting guidelines.
+
+5. Add patient education handouts.
+
 Inputs:
 
-Type of infectious diseases to prioritize
-Available isolation facilities"
+1. Type of infectious diseases to prioritize
+
+2. Available isolation facilities"
 
 Prompt 9 — SOP for Fitness Class Scheduling & Attendance Tracking
+
 Backstory: Your fitness center’s class attendance is inconsistent, and double bookings occur often. A scheduling SOP can fix the chaos.
 
 Goal: Ensure smooth scheduling and accurate attendance records.
@@ -1479,29 +1512,46 @@ Prompt:
 
 "You are a Fitness Operations Manager. Write an SOP for ‘Class Scheduling & Attendance.’ 
 
-Define booking methods (app, reception, call). 
-Set class capacity limits. 
-Outline attendance tracking process. 
-Include cancellation and waitlist rules. 
-Add monthly reporting format.
+1. Define booking methods (app, reception, call). 
+
+2. Set class capacity limits. 
+
+3. Outline attendance tracking process. 
+
+4. Include cancellation and waitlist rules. 
+
+5. Add monthly reporting format.
+
 Inputs: 
 
-Class types offered 
-Peak time data"
+1. Class types offered 
+
+2. Peak time data"
 
 Prompt 10 — SOP for Prescription Dispensing in Clinics
+
 Backstory: Some patients receive incorrect medicines due to lack of a standardized dispensing process.
+
 Goal: Reduce medication errors and ensure patient safety.
 
 Prompt:
+
 "You are a Clinical Pharmacist. Develop an SOP for ‘Prescription Dispensing in Clinics.’
 
-Verify prescriptions with prescribing doctor.
-Check for dosage accuracy and allergies.
-Include labeling requirements.
-Educate patient on usage and side effects.
-Document all dispensed medicines.
+1. Verify prescriptions with prescribing doctor.
+
+2. Check for dosage accuracy and allergies.
+
+3. Include labeling requirements.
+
+4. Educate patient on usage and side effects.
+
+5. Document all dispensed medicines.
+
 Inputs:
 
-Clinic pharmacy size
-Electronic or manual prescription system"
+1. Clinic pharmacy size
+
+2. Electronic or manual prescription system"
+
+
