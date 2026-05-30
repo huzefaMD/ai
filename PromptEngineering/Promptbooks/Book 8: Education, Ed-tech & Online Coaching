@@ -3125,108 +3125,163 @@ Inputs:
 2. Frequency of feedback requests"
 
 Prompt 9 — Competency-Based Assessment Plan
+
 Backstory: Your healthcare training course must prove that students are competent in specific procedures before certification.
+
 Goal: Assess mastery based on skills, not just knowledge.
 
 Prompt:
+
 "You are a Competency Assessment Designer. Create a plan that:
 
-Lists each competency to be mastered.
-Defines clear performance criteria.
-Requires demonstration of skills in a real or simulated setting.
-Uses pass/fail grading.
-Allows re-testing for failed competencies.
+1. Lists each competency to be mastered.
+
+2. Defines clear performance criteria.
+
+3. Requires demonstration of skills in a real or simulated setting.
+
+4. Uses pass/fail grading.
+
+5. Allows re-testing for failed competencies.
+
 Inputs:
 
-List of competencies
-Available assessment environment"
+1. List of competencies
+
+2. Available assessment environment"
 
 Prompt 10 — Rubric for Group Projects
+
 Backstory: In your MBA program, students complete a group business plan as a final project. You need a fair rubric that evaluates both the team and individual contributions.
+
 Goal: Avoid group grade disputes by clarifying expectations.
 
 Prompt:
+
 "You are a Group Project Evaluation Specialist. Design a rubric that:
 
-Scores project quality, creativity, and feasibility.
-Includes peer evaluation for team contribution.
-Balances individual and group performance weights.
-Uses transparent scoring criteria.
-Encourages collaboration and accountability.
+1. Scores project quality, creativity, and feasibility.
+
+2. Includes peer evaluation for team contribution.
+
+3. Balances individual and group performance weights.
+
+4. Uses transparent scoring criteria.
+
+5. Encourages collaboration and accountability.
+
 Inputs:
 
-Project requirements
-Team size"
+1. Project requirements
+
+2. Team size"
 
 Prompt 11 — Audio/Video Feedback Script
+
 Backstory: You run a digital illustration masterclass. Written feedback isn’t enough for visual skills—you want to provide recorded audio or screen-share feedback to give students more personalized guidance.
+
 Goal: Make feedback more engaging and clear by using spoken explanations and on-screen demonstrations.
 
 Prompt:
+
 "You are a Multimedia Feedback Coach. Create a feedback script that:
 
-Greets the student by name and references their specific submission.
-Highlights strengths with examples from their work.
-Points out 1–2 areas for improvement with clear visual/audio cues.
-Suggests next steps and resources.
-Keeps the total video under 5 minutes for easy consumption.
+1. Greets the student by name and references their specific submission.
+
+2. Highlights strengths with examples from their work.
+
+3. Points out 1–2 areas for improvement with clear visual/audio cues.
+
+4. Suggests next steps and resources.
+
+5. Keeps the total video under 5 minutes for easy consumption.
+
 Inputs:
 
-Student’s work or file link
-Lesson/module context"
+1. Student’s work or file link
+
+2. Lesson/module context"
 
 Prompt 12 — Adaptive Assessment Framework
+
 Backstory: Your math learning app serves students with varying skill levels. Giving the same test to all is inefficient.
+
 Goal: Build adaptive assessments that adjust question difficulty based on performance in real-time.
 
 Prompt:
+
 "You are an Adaptive Learning Architect. Design an adaptive assessment framework that:
 
-Starts with mid-level difficulty questions.
-Increases difficulty if answers are correct, decreases if wrong.
-Uses a diverse question bank per topic.
-Ends with a skill map showing strong and weak areas.
-Works seamlessly on mobile devices.
+1. Starts with mid-level difficulty questions.
+
+2. Increases difficulty if answers are correct, decreases if wrong.
+
+3. Uses a diverse question bank per topic.
+
+4. Ends with a skill map showing strong and weak areas.
+
+5. Works seamlessly on mobile devices.
+
 Inputs:
 
-Subject/topic areas
-Question bank size"
+1. Subject/topic areas
+
+2. Question bank size"
 
 Prompt 13 — Scenario-Based Assessment
+
 Backstory: You teach cybersecurity awareness and want assessments that mimic real-world decision-making under pressure.
+
 Goal: Create immersive, scenario-based tests instead of generic MCQs.
 
 Prompt:
+
 "You are a Scenario-Based Learning Designer. Create an assessment where:
 
-Students face realistic situations (e.g., phishing email detection).
-They choose actions step-by-step.
-Each choice impacts the scenario outcome.
-Feedback explains the consequences of decisions.
-The final score reflects both accuracy and decision efficiency.
+1. Students face realistic situations (e.g., phishing email detection).
+
+2. They choose actions step-by-step.
+
+3. Each choice impacts the scenario outcome.
+
+4. Feedback explains the consequences of decisions.
+
+5. The final score reflects both accuracy and decision efficiency.
+
 Inputs:
 
-Scenario type (e.g., security breach, client negotiation)
-Key decisions to include"
+1. Scenario type (e.g., security breach, client negotiation)
+
+2. Key decisions to include"
 
 Prompt 14 — Cultural Sensitivity Feedback Form
+
 Backstory: You run an international cultural exchange program and want feedback that is respectful and mindful of different backgrounds.
+
 Goal: Collect improvement suggestions without cultural bias or discomfort.
 
 Prompt:
+
 "You are a Cross-Cultural Communication Specialist. Create a feedback form that:
 
-Uses neutral, inclusive language.
-Avoids culture-specific idioms or references.
-Offers anonymous submission to encourage honesty.
-Encourages both positive and improvement feedback.
-Can be easily translated into multiple languages.
+1. Uses neutral, inclusive language.
+
+2. Avoids culture-specific idioms or references.
+
+3. Offers anonymous submission to encourage honesty.
+
+4. Encourages both positive and improvement feedback.
+
+5. Can be easily translated into multiple languages.
+
 Inputs:
 
-Program type
-Number of participant countries"
+1. Program type
+
+2. Number of participant countries"
 
 Prompt 15 — Real-Time Poll Feedback
+
 Backstory: You host live webinars and want quick audience feedback on understanding without breaking the flow.
 
 Goal: Gauge comprehension and adjust teaching in real-time.
@@ -3235,15 +3290,21 @@ Prompt:
 
 "You are a Live Engagement Strategist. Create a real-time poll system that: 
 
-Pops up during key points in the presentation. 
-Asks short comprehension questions. 
-Shows results instantly to the presenter. 
-Suggests on-the-spot adjustments based on answers. 
-Saves data for post-event review.
+1. Pops up during key points in the presentation. 
+
+2. Asks short comprehension questions. 
+
+3. Shows results instantly to the presenter. 
+
+4. Suggests on-the-spot adjustments based on answers. 
+
+5. Saves data for post-event review.
+
 Inputs: 
 
-Webinar outline 
-Number of polls desired"
+1. Webinar outline 
+
+2. Number of polls desired"
 
 Prompt 16 — Feedback Tracker Dashboard
 Backstory: You have 500+ active learners and multiple instructors giving feedback. Tracking trends manually is overwhelming.
