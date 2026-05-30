@@ -3208,3 +3208,166 @@ Inputs:
 
 Scenario type (e.g., security breach, client negotiation)
 Key decisions to include"
+
+Prompt 14 — Cultural Sensitivity Feedback Form
+Backstory: You run an international cultural exchange program and want feedback that is respectful and mindful of different backgrounds.
+Goal: Collect improvement suggestions without cultural bias or discomfort.
+
+Prompt:
+"You are a Cross-Cultural Communication Specialist. Create a feedback form that:
+
+Uses neutral, inclusive language.
+Avoids culture-specific idioms or references.
+Offers anonymous submission to encourage honesty.
+Encourages both positive and improvement feedback.
+Can be easily translated into multiple languages.
+Inputs:
+
+Program type
+Number of participant countries"
+
+Prompt 15 — Real-Time Poll Feedback
+Backstory: You host live webinars and want quick audience feedback on understanding without breaking the flow.
+
+Goal: Gauge comprehension and adjust teaching in real-time.
+
+Prompt:
+
+"You are a Live Engagement Strategist. Create a real-time poll system that: 
+
+Pops up during key points in the presentation. 
+Asks short comprehension questions. 
+Shows results instantly to the presenter. 
+Suggests on-the-spot adjustments based on answers. 
+Saves data for post-event review.
+Inputs: 
+
+Webinar outline 
+Number of polls desired"
+
+Prompt 16 — Feedback Tracker Dashboard
+Backstory: You have 500+ active learners and multiple instructors giving feedback. Tracking trends manually is overwhelming.
+Goal: Build a dashboard to centralize and analyze feedback patterns.
+
+Prompt:
+"You are a Learning Analytics Expert. Design a dashboard that:
+
+Collects all feedback in one place.
+Categorizes feedback into strengths, weaknesses, and suggestions.
+Shows trends over time.
+Filters by instructor, course, or student group.
+Generates visual reports for management.
+Inputs:
+
+Feedback sources
+Metrics to track"
+
+Prompt 17 — Emotionally Supportive Feedback
+Backstory: In your public speaking course, students often get nervous and take criticism personally.
+
+Goal: Provide honest but uplifting feedback that builds confidence.
+
+Prompt:
+
+"You are a Motivational Feedback Coach. Write feedback that: 
+
+Starts with specific praise. 
+Phrases criticism as growth opportunities. 
+Suggests one easy improvement to try immediately. 
+Encourages continued practice. 
+Ends with a motivational statement.
+Inputs: 
+
+Student’s performance notes 
+Improvement area"
+
+Prompt 18 — Performance Badge System
+Backstory: You want to turn feedback into visible recognition in your online coding bootcamp.
+
+Goal: Motivate students with badges linked to specific skill achievements.
+
+Prompt:
+
+"You are a Gamification Specialist. Create a badge system that: 
+
+Links each badge to a specific competency. 
+Awards badges automatically upon meeting criteria. 
+Allows badges to be shared on LinkedIn. 
+Includes milestone badges for persistence. 
+Prevents badge inflation by keeping them meaningful.
+Inputs: 
+
+Skill list
+Badge categories"
+
+Prompt 19 — 360-Degree Feedback Template
+Backstory: Your leadership program involves peer, self, and instructor feedback for each participant.
+
+Goal: Build a balanced multi-perspective evaluation form.
+
+Prompt:
+
+"You are a 360-Degree Review Designer. Create a feedback template that: 
+
+Includes self-assessment questions. 
+Allows peers to rate teamwork, communication, and problem-solving. 
+Includes instructor evaluation of technical skills. 
+Normalizes scores from all sources. 
+Summarizes results with action recommendations.
+Inputs: 
+
+Skill categories 
+Number of reviewers per student"
+
+Prompt 20 — Weekly Micro-Feedback
+Backstory: You want to keep tabs on student mood and course clarity without overwhelming them.
+
+Goal: Collect short, weekly insights for quick action.
+
+Prompt:
+
+"You are a Continuous Engagement Facilitator. Create a micro-feedback process that: 
+
+Sends one simple question per week. 
+Alternates between satisfaction, clarity, and pace checks. 
+Allows emoji or one-word answers. 
+Flags urgent issues instantly. 
+Takes less than 15 seconds to answer.
+Inputs: 
+
+Course duration 
+Communication method"
+
+Prompt 21 — AI-Graded Assignments
+Backstory: You want to use AI to grade essay assignments fairly and quickly while keeping instructor oversight.
+Goal: Reduce grading time without sacrificing quality.
+
+Prompt:
+"You are an AI Assessment Engineer. Set up a grading system that:
+
+Uses AI to draft initial scores and comments.
+Flags essays needing human review.
+Ensures grading aligns with the rubric.
+Keeps student identity anonymous to avoid bias.
+Produces feedback within 24 hours.
+Inputs:
+
+Grading rubric
+Sample graded essays"
+
+Prompt 22 — Fail-Safe Assessment Retake Policy
+Backstory: In your medical certification program, some students fail high-stakes tests due to stress, not lack of skill.
+Goal: Create a fair retake policy that preserves standards.
+
+Prompt:
+"You are an Academic Policy Designer. Draft a retake policy that:
+
+Allows 1–2 retakes per assessment.
+Requires review before retake.
+Uses a different question set.
+Records both scores but counts the higher.
+Prevents abuse by setting limits.
+Inputs:
+
+Assessment type
+Passing score requirement"
