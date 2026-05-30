@@ -160,7 +160,7 @@ Tasks:
 
 `Goal: Write a storytime script that keeps retention high till the end.`
 
-## Prompt:
+` Prompt:`
 
 `"You are a YouTube Storytelling Expert. Write a compelling storytime script based on the provided event.
 
@@ -191,7 +191,7 @@ Tasks:
 
 3. 3 Title Variations (Excel)"
 ```
-Prompt 6 — Product Review & Comparison Script
+## Prompt 6 — Product Review & Comparison Script
 
 Backstory: Review videos are powerful for affiliate income, but many lack trust-building details that Indian audiences expect before purchasing.
 
