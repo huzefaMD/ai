@@ -1210,16 +1210,16 @@ Tasks:
 
 2. Captions (Word/PDF: Hook, Explanation, CTA)"
 ```
-Prompt 8 — Relatable Meme & Satire Posts
+`Prompt 8 — Relatable Meme & Satire Posts`
 
-Backstory: Meme culture drives engagement, but businesses often struggle to balance humour with brand voice.
+`Backstory: Meme culture drives engagement, but businesses often struggle to balance humour with brand voice.`
 
-Goal: Create meme ideas & captions that fit a niche while staying relatable to the Indian audience.
+`Goal: Create meme ideas & captions that fit a niche while staying relatable to the Indian audience.`
 
-Prompt:
+`Prompt:`
 
-"You are an Instagram Meme Strategist. For the given brand/niche, generate 5 meme content ideas that:
-
+`"You are an Instagram Meme Strategist. For the given brand/niche, generate 5 meme content ideas that:`
+```
 1. Use popular Indian meme formats.
 
 2. Include humour tied to audience pain points.
@@ -1229,31 +1229,31 @@ Prompt:
 4. Have captions that add context without overexplaining.
 
 5. Include hashtags that reach meme-loving audiences.
-
-Inputs Needed:
-
+```
+`Inputs Needed:`
+```
 1. Niche/product/service
 
 2. Audience demographics
 
 3. Example memes liked by target audience
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Meme Idea Sheet (Excel: Format, Joke, Visual Concept)
 
 2. Captions (Word/PDF: Hook, Joke, CTA)"
+````
+## Prompt 9 — Challenge/Series Format
 
-Prompt 9 — Challenge/Series Format
+`Backstory: Ongoing challenges keep followers returning, but without clear rules they lose momentum.`
 
-Backstory: Ongoing challenges keep followers returning, but without clear rules they lose momentum.
+`Goal: Script an Instagram challenge or series format that builds community and content consistency.`
 
-Goal: Script an Instagram challenge or series format that builds community and content consistency.
+`Prompt:`
 
-Prompt:
-
-"You are an Instagram Challenge Planner. Create a 7-day or 14-day content challenge plan for the given niche that:
-
+`"You are an Instagram Challenge Planner. Create a 7-day or 14-day content challenge plan for the given niche that:`
+```
 1. Has a catchy name and campaign hashtag.
 
 2. Gives daily content prompts to participants.
@@ -1263,21 +1263,21 @@ Prompt:
 4. Has captions that encourage participation and sharing.
 
 5. Includes incentives for completion.
-
-Inputs Needed:
-
+```
+`Inputs Needed:`
+```
 1. Niche/topic
 
 2. Duration (7, 14, 30 days)
 
 3. Incentives (optional)
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Challenge Plan (Excel: Day, Content Idea, Hashtag)
 
 2. Captions (Word/PDF: Announcement, Daily Prompts, Wrap-up)"
-
+```
 Prompt 10 — Interactive Stories
 
 Backstory: Stories are great for quick engagement but often get skipped if they’re not interactive.
