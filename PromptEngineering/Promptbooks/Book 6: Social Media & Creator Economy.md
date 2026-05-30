@@ -1108,16 +1108,16 @@ Tasks:
 
 2. Captions (Word/PDF: Hook, Story, CTA, Hashtags)"
 ```
-Prompt 5 — User-Generated Content (UGC) Campaign
+## Prompt 5 — User-Generated Content (UGC) Campaign
 
-Backstory: UGC boosts trust and reach but fails if the content brief is unclear.
+`Backstory: UGC boosts trust and reach but fails if the content brief is unclear.`
 
-Goal: Create an Instagram UGC campaign plan with prompts & captions that encourage followers to participate.
+`Goal: Create an Instagram UGC campaign plan with prompts & captions that encourage followers to participate.`
 
-Prompt:
+`Prompt:`
 
-"You are an Instagram UGC Campaign Planner. For the given brand or cause, create a UGC content brief & captions that:
-
+`"You are an Instagram UGC Campaign Planner. For the given brand or cause, create a UGC content brief & captions that:`
+```
 1. Give followers a clear, fun challenge.
 
 2. Provide easy-to-follow content guidelines.
@@ -1127,31 +1127,31 @@ Prompt:
 4. Include captions that make participation exciting.
 
 5. Use campaign hashtags for easy tracking.
-
-Inputs Needed:
-
+```
+`Inputs Needed:`
+```
 1. Brand/cause details
 
 2. Campaign goal (reach, leads, sales)
 
 3. Prize/incentive details
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. UGC Campaign Brief (PDF)
 
 2. Captions (Word/PDF: Challenge Announcement, Reminder, Winner Reveal)"
+```
+## Prompt 6 — Trend Hijacking Reel Concepts
 
-Prompt 6 — Trend Hijacking Reel Concepts
+`Backstory: Trends on Instagram explode fast, but most creators either jump too late or fail to adapt the trend to their niche.`
 
-Backstory: Trends on Instagram explode fast, but most creators either jump too late or fail to adapt the trend to their niche.
+`Goal: Create niche-specific adaptations of trending Reel formats to gain virality without losing brand relevance.`
 
-Goal: Create niche-specific adaptations of trending Reel formats to gain virality without losing brand relevance.
+`Prompt:`
 
-Prompt:
-
-"You are an Instagram Trend Strategist. For the given niche, adapt 5 trending Reels in a way that:
-
+`"You are an Instagram Trend Strategist. For the given niche, adapt 5 trending Reels in a way that:`
+```
 1. Hooks viewers within 2 seconds using niche-specific curiosity.
 
 2. Matches current trending audio in India.
@@ -1161,31 +1161,31 @@ Prompt:
 4. Fits within 15–25 seconds for optimal retention.
 
 5. Has captions that explain or amplify the trend for non-trend followers.
-
-Inputs Needed:
-
+```
+`Inputs Needed:`
+```
 1. Niche/topic
 
 2. Examples of past content
 
 3. Current trending Reel list (optional)
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Trend Adaptation Table (Excel: Trend, Niche Twist, Visual Plan, Audio)
 
 2. Captions (Word/PDF: Hook, Explanation, Hashtags)"
+```
+## Prompt 7 — Myth-Busting Carousel & Reel Series
 
-Prompt 7 — Myth-Busting Carousel & Reel Series
+`Backstory: Misinformation spreads fast online, especially in finance, fitness, and wellness niches, making myth-busting a shareable format.`
 
-Backstory: Misinformation spreads fast online, especially in finance, fitness, and wellness niches, making myth-busting a shareable format.
+`Goal: Script myth-busting Reels & carousels with facts and engagement hooks.`
 
-Goal: Script myth-busting Reels & carousels with facts and engagement hooks.
+`Prompt:`
 
-Prompt:
-
-"You are an Instagram Myth-Busting Expert. For the given niche, create 3 myth-busting content ideas that:
-
+`"You are an Instagram Myth-Busting Expert. For the given niche, create 3 myth-busting content ideas that:`
+```
 1. Start with a bold false statement to hook the viewer.
 
 2. Debunk it with data, proof, or relatable examples.
@@ -1195,21 +1195,21 @@ Prompt:
 4. Have captions that explain further and invite discussion.
 
 5. Use credible Indian or global sources.
-
-Inputs Needed:
-
+```
+`Inputs Needed:`
+```
 1. Niche/topic
 
 2. Myths to address
 
 3. Target audience knowledge level
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Script/Storyboard (Excel: Scene, Text, Visual)
 
 2. Captions (Word/PDF: Hook, Explanation, CTA)"
-
+```
 Prompt 8 — Relatable Meme & Satire Posts
 
 Backstory: Meme culture drives engagement, but businesses often struggle to balance humour with brand voice.
