@@ -1612,14 +1612,14 @@ Tasks:
 ```
 ## Prompt 20 — Behind-the-Product Stories
 
-Backstory: Followers love knowing “the making of” — it builds brand connection.
+`Backstory: Followers love knowing “the making of” — it builds brand connection.`
 
-Goal: Showcase the creation journey of a product/service with engaging captions.
+`Goal: Showcase the creation journey of a product/service with engaging captions.`
 
-Prompt:
+`Prompt:`
 
-"You are an Instagram Brand Storyteller. For the given product/service, create 3 post/reel concepts that:
-
+`"You are an Instagram Brand Storyteller. For the given product/service, create 3 post/reel concepts that:`
+```
 1. Show the journey from idea to launch.
 
 2. Include team or founder appearances.
@@ -1629,31 +1629,31 @@ Prompt:
 4. Include a CTA to try/buy.
 
 5. Use behind-the-scenes style visuals.
-
-Inputs Needed:
-
+```
+`Inputs Needed:`
+```
 1. Product/service details
 
 2. Key milestones in creation
 
 3. Brand tone style
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Story Plan (Excel: Scene, Visual, Caption Outline)
 
 2. Captions (Word/PDF)"
+```
+## Prompt 21 — Comparison Posts
 
-Prompt 21 — Comparison Posts
+`Backstory: People love “X vs Y” posts — they help make quick decisions and spark debates.`
 
-Backstory: People love “X vs Y” posts — they help make quick decisions and spark debates.
+`Goal: Create comparison content with clear, fair analysis.`
 
-Goal: Create comparison content with clear, fair analysis.
+`Prompt:`
 
-Prompt:
-
-"You are an Instagram Comparison Content Creator. For the given niche, create 3 comparison post/reel concepts that:
-
+`"You are an Instagram Comparison Content Creator. For the given niche, create 3 comparison post/reel concepts that:`
+```
 1. Compare two popular options/products.
 
 2. Use visuals to show pros/cons clearly.
@@ -1663,29 +1663,29 @@ Prompt:
 4. Avoid overly negative language.
 
 5. Include CTA to comment their preference.
-
-Inputs Needed:
-
+```
+`Inputs Needed:`
+```
 1. Two items to compare
 
 2. Target audience preferences
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Comparison Table (Excel: Feature, Option A, Option B)
 
 2. Captions (Word/PDF)"
+```
+## Prompt 22 — Weekly Roundup Posts
 
-Prompt 22 — Weekly Roundup Posts
+`Backstory: Followers often miss posts during the week — roundups bring them back.`
 
-Backstory: Followers often miss posts during the week — roundups bring them back.
+`Goal: Summarise weekly highlights in one post or carousel.`
 
-Goal: Summarise weekly highlights in one post or carousel.
+`Prompt:`
 
-Prompt:
-
-"You are an Instagram Recap Strategist. For the given niche, create a weekly recap post concept that:
-
+`"You are an Instagram Recap Strategist. For the given niche, create a weekly recap post concept that:`
+```
 1. Summarises 3–5 key updates/tips from the week.
 
 2. Uses a consistent visual template.
@@ -1695,29 +1695,29 @@ Prompt:
 4. Includes a CTA to follow for next week’s roundup.
 
 5. Can be reused weekly with minimal changes.
-
-Inputs Needed:
-
+```
+`Inputs Needed:`
+```
 1. Niche/topic
 
 2. Week’s main content pieces
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Recap Template Plan (Excel: Slide, Content, Visual)
 
 2. Captions (Word/PDF)"
+```
+## Prompt 23 — Relatable Life Hacks
 
-Prompt 23 — Relatable Life Hacks
+`Backstory: Quick, relatable hacks go viral because they solve everyday problems.`
 
-Backstory: Quick, relatable hacks go viral because they solve everyday problems.
+`Goal: Share life hacks in a niche that spark “I need this!” reactions.`
 
-Goal: Share life hacks in a niche that spark “I need this!” reactions.
+`Prompt:`
 
-Prompt:
-
-"You are an Instagram Life Hack Creator. For the given niche, create 3 Reel/post ideas that:
-
+`"You are an Instagram Life Hack Creator. For the given niche, create 3 Reel/post ideas that:`
+```
 1. Show a common pain point in the first 2 seconds.
 
 2. Reveal a clever, simple solution.
@@ -1727,29 +1727,29 @@ Prompt:
 4. Suggest relevant audio.
 
 5. End with a subtle CTA to follow for more hacks.
-
-Inputs Needed:
-
+```
+`Inputs Needed:`
+```
 1. Niche/problem area
 
 2. Hack details
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Hack Plan (Excel: Problem, Solution, Visual)
 
 2. Captions (Word/PDF)"
+```
+## Prompt 24 — Inspirational Quotes with Context
 
-Prompt 24 — Inspirational Quotes with Context
+`Backstory: Quotes work when paired with relatable backstories.`
 
-Backstory: Quotes work when paired with relatable backstories.
+`Goal: Post quotes with captions that give them deeper meaning.`
 
-Goal: Post quotes with captions that give them deeper meaning.
+`Prompt:`
 
-Prompt:
-
-"You are an Instagram Motivational Content Planner. For the given theme, create 3 quote post ideas that:
-
+`"You are an Instagram Motivational Content Planner. For the given theme, create 3 quote post ideas that:`
+```
 1. Feature visually striking text design.
 
 2. Include captions explaining the quote’s relevance today.
@@ -1759,29 +1759,29 @@ Prompt:
 4. Include hashtags for motivation/inspiration niches.
 
 5. Suggest background visuals or stock footage.
-
-Inputs Needed:
-
+```
+`Inputs Needed:`
+```
 1. Theme (success, self-love, resilience)
 
 2. Audience type
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Quote & Caption Table (Excel: Quote, Backstory, Visual)
 
 2. Captions (Word/PDF)"
+```
+## Prompt 25 — FAQs in Reel Format
 
-Prompt 25 — FAQs in Reel Format
+`Backstory: Followers often ask the same questions — answering them publicly saves time and builds authority.``
 
-Backstory: Followers often ask the same questions — answering them publicly saves time and builds authority.
+`Goal: Turn FAQs into short, engaging Reels with captions for clarity.`
 
-Goal: Turn FAQs into short, engaging Reels with captions for clarity.
+`Prompt:`
 
-Prompt:
-
-"You are an Instagram FAQ Video Creator. For the given niche, create 5 FAQ Reels that:
-
+`"You are an Instagram FAQ Video Creator. For the given niche, create 5 FAQ Reels that:`
+```
 1. Start with the question in on-screen text.
 
 2. Answer in under 30 seconds with clear steps or advice.
@@ -1791,19 +1791,19 @@ Prompt:
 4. Suggest relevant hashtags.
 
 5. End with a CTA to DM more questions.
-
-Inputs Needed:
-
+```
+`Inputs Needed:`
+```
 1. List of FAQs
 
 2. Audience expertise level
-
-Output Format:
-
+```
+`Output Format:``
+```
 1. FAQ Plan (Excel: Question, Visual, Answer Outline)
 
 2. Captions (Word/PDF)"
-
+```
 
 LinkedIn Content Strategy
 
