@@ -471,6 +471,7 @@ Tasks:
 `Prompt:`
 
 `"You are a YouTube Reaction Video Director. Write a reaction script to the provided video or event.`
+
 ```
 Tasks:
 
@@ -500,16 +501,17 @@ Tasks:
 
 3. Title & Thumbnail Ideas (Excel)"
 ```
-Prompt 14 — Unboxing Script
+## Prompt 14 — Unboxing Script
 
-Backstory: Unboxing videos dominate product discovery in India, but many lack excitement.
+`Backstory: Unboxing videos dominate product discovery in India, but many lack excitement.`
 
-Goal: Create an unboxing script that builds suspense and curiosity.
+`Goal: Create an unboxing script that builds suspense and curiosity.`
 
-Prompt:
+`Prompt:`
 
-"You are a YouTube Unboxing Scriptwriter. Write an unboxing video script for the provided product.
+`"You are a YouTube Unboxing Scriptwriter. Write an unboxing video script for the provided product.`
 
+```
 Tasks:
 
 1. Build anticipation before the box is opened.
@@ -521,33 +523,34 @@ Tasks:
 4. Suggest camera angles for reveals.
 
 5. End with product verdict and CTA.
-
-Inputs Needed:
-
+```
+`Inputs Needed:`
+```
 1. Product name & specs
 
 2. Price
 
 3. Creator’s tone
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Script (DOCX)
 
 2. Shot List (Excel)
 
 3. Title & Thumbnail Suggestions (Excel)"
+```
+## Prompt 15 — Travel Vlog Script
 
-Prompt 15 — Travel Vlog Script
+`Backstory: Travel vlogs often turn into random clips with no story.`
 
-Backstory: Travel vlogs often turn into random clips with no story.
+`Goal: Script a travel vlog that feels like a guided journey.`
 
-Goal: Script a travel vlog that feels like a guided journey.
+`Prompt:`
 
-Prompt:
+`"You are a YouTube Travel Vlog Director. Write a travel vlog script for the given destination.`
 
-"You are a YouTube Travel Vlog Director. Write a travel vlog script for the given destination.
-
+```
 Tasks:
 
 1. Open with a scene that sets the mood.
@@ -559,33 +562,34 @@ Tasks:
 4. Suggest local music for background.
 
 5. End with travel tips for the location.
-
-Inputs Needed:
-
+```
+`Inputs Needed:`
+```
 1. Destination
 
 2. Duration of trip
 
 3. Audience interest level
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Script (DOCX)
 
 2. Location Shot List (Excel)
 
 3. Title & Thumbnail Concepts (Excel)"
+```
+## Prompt 16 — Explainer Animation Script
 
-Prompt 16 — Explainer Animation Script
+`Backstory: Animated explainer videos help simplify complex topics, but most creators fail to write scripts optimised for visuals.`
 
-Backstory: Animated explainer videos help simplify complex topics, but most creators fail to write scripts optimised for visuals.
+`Goal: Create an explainer animation script that’s easy for an animator to follow and keeps viewers engaged.`
 
-Goal: Create an explainer animation script that’s easy for an animator to follow and keeps viewers engaged.
+`Prompt:`
 
-Prompt:
+`"You are a YouTube Animation Script Specialist. Write a 4–6 minute explainer animation script on the provided topic.`
 
-"You are a YouTube Animation Script Specialist. Write a 4–6 minute explainer animation script on the provided topic.
-
+```
 Tasks:
 
 1. Start with a metaphor or analogy relatable to Indian viewers.
@@ -597,33 +601,34 @@ Tasks:
 4. Keep sentences short and VO-friendly.
 
 5. End with a summary and viewer action step.
-
-Inputs Needed:
-
+```
+`Inputs Needed:`
+```
 1. Topic
 
 2. Target audience knowledge level
 
 3. Animation style reference
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Script with scene-by-scene breakdown (DOCX)
 
 2. Storyboard Outline (PDF)
 
 3. Title & Thumbnail Suggestions (Excel)"
+```
+## Prompt 17 — Behind-the-Scenes (BTS) Script
 
-Prompt 17 — Behind-the-Scenes (BTS) Script
+`Backstory: BTS videos make audiences feel connected, but unplanned BTS content often looks messy.`
 
-Backstory: BTS videos make audiences feel connected, but unplanned BTS content often looks messy.
+`Goal: Script a BTS video that feels intimate but remains entertaining.`
 
-Goal: Script a BTS video that feels intimate but remains entertaining.
+`Prompt:`
 
-Prompt:
+`"You are a YouTube BTS Content Director. Write a behind-the-scenes video script for the provided main project/event.`
 
-"You are a YouTube BTS Content Director. Write a behind-the-scenes video script for the provided main project/event.
-
+```
 Tasks:
 
 1. Open with a quick teaser of the final product/event.
@@ -635,33 +640,34 @@ Tasks:
 4. Include narration or captions to connect scenes.
 
 5. End with a sneak peek of the final reveal.
-
-Inputs Needed:
-
+```
+`Inputs Needed:`
+```
 1. Main project/event details
 
 2. Duration of BTS video
 
 3. Tone style (casual, humorous, emotional)
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Script (DOCX)
 
 2. BTS Shot Checklist (Excel)
 
 3. Title & Thumbnail Ideas (Excel)"
+```
+## Prompt 18 — FAQ/Community Q&A Script
 
-Prompt 18 — FAQ/Community Q&A Script
+`Backstory: Q&A videos help creators answer audience questions, but without structure they can feel boring.`
 
-Backstory: Q&A videos help creators answer audience questions, but without structure they can feel boring.
+`Goal: Create a Q&A script that keeps answers concise, engaging, and well-paced.`
 
-Goal: Create a Q&A script that keeps answers concise, engaging, and well-paced.
+`Prompt:`
 
-Prompt:
+`"You are a YouTube Q&A Host. Write a Q&A video script based on provided audience questions.`
 
-"You are a YouTube Q&A Host. Write a Q&A video script based on provided audience questions.
-
+```
 Tasks:
 
 1. Open with a question teaser to hook viewers.
@@ -673,33 +679,34 @@ Tasks:
 4. Suggest on-screen graphics for key points.
 
 5. End by asking for more questions for future videos.
-
-Inputs Needed:
-
+```
+`Inputs Needed:`
+```
 1. List of audience questions
 
 2. Creator tone (fun, serious, expert)
 
 3. Any topics to avoid
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Script (DOCX)
 
 2. Question-Answer Table (Excel)
 
 3. Title & Thumbnail Suggestions (Excel)"
+```
+## Prompt 19 — Music Video Script
 
-Prompt 19 — Music Video Script
+`Backstory: Music videos can skyrocket a creator’s reach, but without a storyboard, they become visually repetitive.`
 
-Backstory: Music videos can skyrocket a creator’s reach, but without a storyboard, they become visually repetitive.
+`Goal: Script a music video concept that matches the lyrics and vibe.`
 
-Goal: Script a music video concept that matches the lyrics and vibe.
+`Prompt:`
 
-Prompt:
+`"You are a YouTube Music Video Director. Create a music video script for the given song.`
 
-"You are a YouTube Music Video Director. Create a music video script for the given song.
-
+```
 Tasks:
 
 1. Break the song into verses/chorus/bridge.
@@ -711,33 +718,34 @@ Tasks:
 4. Recommend locations and props.
 
 5. End with a visual hook for looping or replay.
-
-Inputs Needed:
-
+```
+`Inputs Needed:`
+```
 1. Song lyrics & audio file
 
 2. Artist style & genre
 
 3. Budget range
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Script with timecodes (DOCX)
 
 2. Shot & Location List (Excel)
 
 3. Storyboard Frames (PDF)"
+```
+## Prompt 20 — How-To Tutorial Script
 
-Prompt 20 — How-To Tutorial Script
+`Backstory: Tutorial videos dominate YouTube search, but many fail to provide step-by-step clarity.`
 
-Backstory: Tutorial videos dominate YouTube search, but many fail to provide step-by-step clarity.
+`Goal: Write a how-to tutorial script that is visually demonstrative and beginner-friendly.`
 
-Goal: Write a how-to tutorial script that is visually demonstrative and beginner-friendly.
+`Prompt:`
 
-Prompt:
+`"You are a YouTube Tutorial Director. Write a tutorial script for the given skill/topic.`
 
-"You are a YouTube Tutorial Director. Write a tutorial script for the given skill/topic.
-
+```
 Tasks:
 
 1. Open with a problem statement and solution promise.
@@ -749,33 +757,34 @@ Tasks:
 4. Add tips & warnings for common mistakes.
 
 5. End with a recap and call-to-action.
-
-Inputs Needed:
-
+```
+`Inputs Needed:`
+```
 1. Skill/topic
 
 2. Target audience skill level
 
 3. Any special tools/materials
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Script (DOCX)
 
 2. Step-by-Step Checklist (Excel)
 
 3. Title & Thumbnail Ideas (Excel)"
+```
+## Prompt 21 — “Day in the Life” Script
 
-Prompt 21 — “Day in the Life” Script
+`Backstory: “Day in the Life” vlogs are trending among Indian creators, but without a narrative they become monotonous.`
 
-Backstory: “Day in the Life” vlogs are trending among Indian creators, but without a narrative they become monotonous.
+`Goal: Write a vlog script that turns an ordinary day into a captivating story.`
 
-Goal: Write a vlog script that turns an ordinary day into a captivating story.
+`Prompt:`
 
-Prompt:
+`"You are a YouTube Lifestyle Vlogger. Write a day-in-the-life script for the given persona.`
 
-"You are a YouTube Lifestyle Vlogger. Write a day-in-the-life script for the given persona.
-
+```
 Tasks:
 
 1. Start with a morning scene that sets the mood.
@@ -787,33 +796,34 @@ Tasks:
 4. Suggest background music per scene.
 
 5. End with a reflective or motivational note.
-
-Inputs Needed:
-
+```
+`Inputs Needed:`
+```
 1. Persona details (job, hobbies, city)
 
 2. Filming duration
 
 3. Tone style
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Script (DOCX)
 
 2. Activity Timeline (Excel)
 
 3. Title & Thumbnail Concepts (Excel)"
+```
+## Prompt 22 — Reaction to Subscriber Content
 
-Prompt 22 — Reaction to Subscriber Content
+`Backstory: Reviewing subscriber content boosts engagement, but without structure it can be chaotic.`
 
-Backstory: Reviewing subscriber content boosts engagement, but without structure it can be chaotic.
+`Goal: Write a script that makes reactions fun, fair, and shareable.`
 
-Goal: Write a script that makes reactions fun, fair, and shareable.
+`Prompt:`
 
-Prompt:
+`"You are a YouTube Community Engagement Host. Write a reaction script for reviewing subscriber submissions.`
 
-"You are a YouTube Community Engagement Host. Write a reaction script for reviewing subscriber submissions.
-
+```
 Tasks:
 
 1. Open with thanks and a subscriber shout-out.
@@ -825,33 +835,34 @@ Tasks:
 4. Encourage other subscribers to participate.
 
 5. End with a poll or vote for favourites.
-
-Inputs Needed:
-
+```
+`Inputs Needed:`
+```
 1. Subscriber content (links or files)
 
 2. Review criteria
 
 3. Tone style
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Script (DOCX)
 
 2. Submission List (Excel)
 
 3. Title & Thumbnail Ideas (Excel)"
+```
+## Prompt 23 — Countdown/Ranking Script
 
-Prompt 23 — Countdown/Ranking Script
+`Backstory: Ranking videos keep viewers hooked till #1, but pacing is crucial.`
 
-Backstory: Ranking videos keep viewers hooked till #1, but pacing is crucial.
+`Goal: Write a ranking script that builds suspense and delivers surprises.`
 
-Goal: Write a ranking script that builds suspense and delivers surprises.
+`Prompt:`
 
-Prompt:
+`"You are a YouTube Ranking Video Specialist. Write a ranking script on the provided topic.`
 
-"You are a YouTube Ranking Video Specialist. Write a ranking script on the provided topic.
-
+```
 Tasks:
 
 1. Start with #10 and build to #1.
@@ -863,33 +874,34 @@ Tasks:
 4. Insert teasers for upcoming ranks.
 
 5. End with a “Did we miss any?” engagement question.
-
-Inputs Needed:
-
+```
+`Inputs Needed:`
+```
 1. Ranking topic
 
 2. Criteria for ranking
 
 3. Target audience
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Script (DOCX)
 
 2. Ranking Table (Excel)
 
 3. Title & Thumbnail Ideas (Excel)"
+```
+## Prompt 24 — Live Stream Content Script
 
-Prompt 24 — Live Stream Content Script
+`Backstory: Live streams keep watch time high, but without a flow they lose viewers quickly.`
 
-Backstory: Live streams keep watch time high, but without a flow they lose viewers quickly.
+`Goal: Create a structured run-of-show for a live stream.`
 
-Goal: Create a structured run-of-show for a live stream.
+`Prompt:`
 
-Prompt:
+`"You are a YouTube Live Host. Write a run-of-show script for the given live topic.`
 
-"You are a YouTube Live Host. Write a run-of-show script for the given live topic.
-
+```
 Tasks:
 
 1. Include intro, main segments, and outro.
@@ -901,33 +913,34 @@ Tasks:
 4. Include time allocation per segment.
 
 5. End with a strong CTA to subscribe and follow socials.
-
-Inputs Needed:
-
+```
+`Inputs Needed:`
+```
 1. Live topic
 
 2. Duration
 
 3. Audience size
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Run-of-Show Script (DOCX)
 
 2. Interaction Plan (Excel)
 
 3. Title & Thumbnail Ideas (Excel)"
+```
+## Prompt 25 — Trailer/Channel Intro Script
 
-Prompt 25 — Trailer/Channel Intro Script
+`Backstory: Channel trailers influence new subscribers but are often rushed or generic.`
 
-Backstory: Channel trailers influence new subscribers but are often rushed or generic.
+`Goal: Write a trailer script that hooks in under 60 seconds.`
 
-Goal: Write a trailer script that hooks in under 60 seconds.
+`Prompt:`
 
-Prompt:
+`"You are a YouTube Channel Branding Expert. Write a trailer script for the given channel.`
 
-"You are a YouTube Channel Branding Expert. Write a trailer script for the given channel.
-
+```
 Tasks:
 
 1. Open with a visual/audio hook in 5 seconds.
@@ -939,23 +952,23 @@ Tasks:
 4. Add a catchy tagline.
 
 5. End with a subscribe CTA.
-
-Inputs Needed:
-
+```
+`Inputs Needed:`
+```
 1. Channel niche
 
 2. Creator personality traits
 
 3. Key past videos
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Script (DOCX)
 
 2. Clip Selection List (Excel)
 
 3. Title & Thumbnail Concepts (Excel)"
-
+```
 
 Instagram Reel & Caption Ideas
 
