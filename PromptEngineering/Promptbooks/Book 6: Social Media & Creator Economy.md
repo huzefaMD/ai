@@ -1,4 +1,4 @@
-## YouTube Script & Title Generation
+# YouTube Script & Title Generation
 
 ## Prompt 1 — Viral News Reaction Script
 
@@ -1278,16 +1278,16 @@ Tasks:
 
 2. Captions (Word/PDF: Announcement, Daily Prompts, Wrap-up)"
 ```
-Prompt 10 — Interactive Stories
+## Prompt 10 — Interactive Stories
 
-Backstory: Stories are great for quick engagement but often get skipped if they’re not interactive.
+`Backstory: Stories are great for quick engagement but often get skipped if they’re not interactive.`
 
-Goal: Create an interactive story sequence that prompts viewers to respond.
+`Goal: Create an interactive story sequence that prompts viewers to respond.`
 
-Prompt:
+`Prompt:`
 
-"You are an Instagram Stories Engagement Specialist. Create a 5–8 frame Story sequence for the given topic that:
-
+`"You are an Instagram Stories Engagement Specialist. Create a 5–8 frame Story sequence for the given topic that:`
+```
 1. Starts with a question or poll.
 
 2. Mixes quizzes, sliders, and interactive stickers.
@@ -1297,29 +1297,29 @@ Prompt:
 4. Ends with a CTA to DM, visit profile, or comment.
 
 5. Has text overlays that are short and easy to read.
-
-Inputs Needed:
-
+```
+`Inputs Needed:`
+```
 1. Topic/niche
 
 2. Goal (engagement, sales, feedback)
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Story Frame Plan (Excel: Frame No., Content, Interaction Tool)
 
 2. Caption Suggestions (Word/PDF)"
+```
+## Prompt 11 — Before & After Transformation Reels
 
-Prompt 11 — Before & After Transformation Reels
+`Backstory: Transformation content performs well because it gives visual proof of change.`
 
-Backstory: Transformation content performs well because it gives visual proof of change.
+`Goal: Create before/after Reels with captions that enhance the story.`
 
-Goal: Create before/after Reels with captions that enhance the story.
+`Prompt:`
 
-Prompt:
-
-"You are an Instagram Transformation Storyteller. Script 3 before/after Reel ideas for the given niche that:
-
+`"You are an Instagram Transformation Storyteller. Script 3 before/after Reel ideas for the given niche that:`
+```
 1. Start with the “before” visual immediately.
 
 2. Transition into “after” with trending effects.
@@ -1329,31 +1329,31 @@ Prompt:
 4. Suggest background music to match the emotional tone.
 
 5. Have hashtags to reach aspirational audiences.
-
-Inputs Needed:
-
+```
+`Inputs Needed:`
+```
 1. Transformation type (physical, skill, lifestyle)
 
 2. Time taken for change
 
 3. Target audience
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Storyboard (Excel: Scene, Visual, Audio)
 
 2. Captions (Word/PDF: Hook, Journey, CTA)"
+```
+## Prompt 12 — Quick Tips Reel Series
 
-Prompt 12 — Quick Tips Reel Series
+`Backstory: Tips videos are shareable, but without structure they feel rushed or unoriginal.`
 
-Backstory: Tips videos are shareable, but without structure they feel rushed or unoriginal.
+`Goal: Create short Reel tips series with captions that encourage saving.`
 
-Goal: Create short Reel tips series with captions that encourage saving.
+`Prompt:`
 
-Prompt:
-
-"You are an Instagram Tips Content Creator. For the given niche, write 5 quick tip Reel scripts that:
-
+`"You are an Instagram Tips Content Creator. For the given niche, write 5 quick tip Reel scripts that:`
+```
 1. Open with “Do you know…?” or similar hooks.
 
 2. Give 3 tips per video in under 30 seconds.
@@ -1363,29 +1363,29 @@ Prompt:
 4. Use captions to expand on each tip.
 
 5. Include hashtags for reach in India.
-
-Inputs Needed:
-
+```
+`Inputs Needed:`
+```
 1. Niche/topic
 
 2. Expertise level (beginner/intermediate/advanced)
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Script Table (Excel: Tip, Scene, Overlay Text)
 
 2. Captions (Word/PDF: Hook, Tips, CTA)"
+```
+## Prompt 13 — Opinion/Hot Take Posts
 
-Prompt 13 — Opinion/Hot Take Posts
+`Backstory: Polarising opinions spark conversation, but they must be framed respectfully to avoid backlash.`
 
-Backstory: Polarising opinions spark conversation, but they must be framed respectfully to avoid backlash.
+`Goal: Create hot-take content & captions that drive discussion without alienating followers.`
 
-Goal: Create hot-take content & captions that drive discussion without alienating followers.
+`Prompt:`
 
-Prompt:
-
-"You are an Instagram Discussion Catalyst. For the given niche, generate 3 opinion-based posts that:
-
+`"You are an Instagram Discussion Catalyst. For the given niche, generate 3 opinion-based posts that:`
+```
 1. Start with a strong statement.
 
 2. Back it up with reasoning or data.
@@ -1395,31 +1395,31 @@ Prompt:
 4. Have captions that guide the conversation.
 
 5. Avoid offensive language.
-
-Inputs Needed:
-
+```
+`Inputs Needed:`
+```
 1. Niche/topic
 
 2. Creator stance
 
 3. Sensitive topics to avoid
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Content Plan (Excel: Statement, Supporting Points, Visual)
 
 2. Captions (Word/PDF: Hook, Reasoning, CTA)"
+```
+## Prompt 14 — Seasonal Product Showcase
 
-Prompt 14 — Seasonal Product Showcase
+`Backstory: Seasonal posts get attention but need urgency to convert sales.`
 
-Backstory: Seasonal posts get attention but need urgency to convert sales.
+`Goal: Script Instagram posts/Reels that showcase seasonal products with urgency-based captions.`
 
-Goal: Script Instagram posts/Reels that showcase seasonal products with urgency-based captions.
+`Prompt:`
 
-Prompt:
-
-"You are an Instagram Seasonal Marketing Expert. Create 3 seasonal product showcase ideas for the given brand that:
-
+`"You are an Instagram Seasonal Marketing Expert. Create 3 seasonal product showcase ideas for the given brand that:`
+```
 1. Highlight limited-time availability.
 
 2. Use visuals that evoke the season’s mood.
@@ -1429,31 +1429,31 @@ Prompt:
 4. Suggest trending seasonal audio.
 
 5. Include clear shop links or CTA.
-
-Inputs Needed:
-
+```
+`Inputs Needed:`
+```
 1. Product details
 
 2. Season/festival
 
 3. Price/offer details
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Storyboard (Excel: Scene, Visual, Audio)
 
 2. Captions (Word/PDF: Hook, Urgency, CTA)"
+```
+## Prompt 15 — Emotional Story Posts
 
-Prompt 15 — Emotional Story Posts
+`Backstory: Emotional storytelling connects deeply but needs authenticity to avoid seeming manipulative.`
 
-Backstory: Emotional storytelling connects deeply but needs authenticity to avoid seeming manipulative.
+`Goal: Create heartfelt Instagram stories/captions that resonate with followers.`
 
-Goal: Create heartfelt Instagram stories/captions that resonate with followers.
+`Prompt:`
 
-Prompt:
-
-"You are an Instagram Emotional Content Writer. For the given story/event, write 2 posts with captions that:
-
+`"You are an Instagram Emotional Content Writer. For the given story/event, write 2 posts with captions that:`
+```
 1. Open with a relatable feeling or question.
 
 2. Share a personal or brand-related story.
@@ -1463,29 +1463,29 @@ Prompt:
 4. End with an uplifting or reflective note.
 
 5. Invite followers to share their stories.
-
-Inputs Needed:
-
+```
+`Inputs Needed:`
+```
 1. Story/event details
 
 2. Target emotion (hope, nostalgia, gratitude)
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Visual Plan (Excel: Scene, Visual, Mood)
 
 2. Captions (Word/PDF: Story, Reflection, CTA)"
+```
+## Prompt 16 — Infotainment Reels
 
-Prompt 16 — Infotainment Reels
+`Backstory: People want quick facts, but dry delivery kills engagement. Blending education + entertainment keeps attention.`
 
-Backstory: People want quick facts, but dry delivery kills engagement. Blending education + entertainment keeps attention.
+`Goal: Script infotainment Reels that teach something new while keeping viewers entertained until the last second.`
 
-Goal: Script infotainment Reels that teach something new while keeping viewers entertained until the last second.
+`Prompt:`
 
-Prompt:
-
-"You are an Instagram Infotainment Creator. For the given topic, write 3 Reel scripts that:
-
+`"You are an Instagram Infotainment Creator. For the given topic, write 3 Reel scripts that:`
+```
 1. Start with a curiosity hook (“Did you know…?” or “Here’s why…”)
 
 2. Use simple, relatable Indian examples.
@@ -1495,31 +1495,31 @@ Prompt:
 4. End with a surprising fact or CTA.
 
 5. Have captions that expand with extra details.
-
-Inputs Needed:
-
+```
+`Inputs Needed:`
+```
 1. Topic/niche
 
 2. Audience knowledge level
 
 3. Goal (educate, inspire, entertain)
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Script Plan (Excel: Scene, Hook, Visual, Audio)
 
 2. Captions (Word/PDF: Hook, Body, CTA, Hashtags)"
+```
+## Prompt 17 — Collaboration & Shoutout Posts
 
-Prompt 17 — Collaboration & Shoutout Posts
+`Backstory: Collaborations expand reach but fail when the partnership looks forced.`
 
-Backstory: Collaborations expand reach but fail when the partnership looks forced.
+`Goal: Create collab post ideas and captions that feel natural and mutually beneficial.`
 
-Goal: Create collab post ideas and captions that feel natural and mutually beneficial.
+`Prompt:`
 
-Prompt:
-
-"You are an Instagram Collab Strategist. For the given niche, create 3 collaboration post/reel concepts that:
-
+`"You are an Instagram Collab Strategist. For the given niche, create 3 collaboration post/reel concepts that:`
+```
 1. Combine both creators’ strengths.
 
 2. Provide value to both audiences.
@@ -1529,31 +1529,31 @@ Prompt:
 4. Include captions that encourage followers to check the other account.
 
 5. Include cross-promotion in Stories.
-
-Inputs Needed:
-
+```
+`Inputs Needed:`
+```
 1. Collaborator details
 
 2. Shared audience interests
 
 3. Content style match
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Collab Plan (Excel: Concept, Visual, CTA)
 
 2. Captions (Word/PDF: Hook, Story, CTA)"
+```
+## Prompt 18 — Local Language Captions
 
-Prompt 18 — Local Language Captions
+`Backstory: Regional content in Hindi, Tamil, Telugu, etc., boosts relatability and reach.`
 
-Backstory: Regional content in Hindi, Tamil, Telugu, etc., boosts relatability and reach.
+`Goal: Generate captions in local languages for broader engagement.`
 
-Goal: Generate captions in local languages for broader engagement.
+`Prompt:`
 
-Prompt:
-
-"You are an Instagram Regional Language Copywriter. For the given topic, write 3 captions in the specified local language that:
-
+`"You are an Instagram Regional Language Copywriter. For the given topic, write 3 captions in the specified local language that:`
+```
 1. Maintain cultural tone and slang.
 
 2. Are easy to read on mobile screens.
@@ -1563,29 +1563,29 @@ Prompt:
 4. Keep hashtags relevant in both languages.
 
 5. Fit the brand voice.
-
-Inputs Needed:
-
+```
+`Inputs Needed:`
+```
 1. Language choice
 
 2. Topic/niche
 
 3. Desired tone (funny, emotional, informative)
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Captions (Excel: Language, Translation, Hashtags)"
+```
+## Prompt 19 — Countdown & Event Hype Posts
 
-Prompt 19 — Countdown & Event Hype Posts
+`Backstory: Event marketing fails if people forget about it until the last moment.`
 
-Backstory: Event marketing fails if people forget about it until the last moment.
+`Goal: Create countdown posts and captions that build hype in the days leading up to an event.`
 
-Goal: Create countdown posts and captions that build hype in the days leading up to an event.
+`Prompt:`
 
-Prompt:
-
-"You are an Instagram Event Hype Specialist. Create a 5-day countdown content plan for the given event that:
-
+`"You are an Instagram Event Hype Specialist. Create a 5-day countdown content plan for the given event that:`
+```
 1. Uses a different format each day (Reels, Stories, Carousel).
 
 2. Includes captions that increase urgency.
@@ -1595,22 +1595,22 @@ Prompt:
 4. Uses brand-consistent visual elements.
 
 5. Encourages followers to save the date.
-
-Inputs Needed:
-
+```
+`Inputs Needed:`
+```
 1. Event type/date
 
 2. Audience size & engagement style
 
 3. Key event highlights
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Countdown Plan (Excel: Day, Format, Visual, Caption Idea)
 
 2. Captions (Word/PDF)"
-
-Prompt 20 — Behind-the-Product Stories
+```
+## Prompt 20 — Behind-the-Product Stories
 
 Backstory: Followers love knowing “the making of” — it builds brand connection.
 
