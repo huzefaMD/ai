@@ -167,7 +167,7 @@
 2. On-page SEO placement guide (Word/PDF)"
 ```
 ## Prompt 6 — Long-Tail Keyword Strategy for Fast Ranking
-```
+
 `Backstory: Your new blog about home-based fitness for working professionals in India doesn’t have the domain authority to compete for broad keywords like “home workout.” You need a strategy focused on long-tail keywords to rank faster.`
 
 `Goal: Build a long-tail keyword list with clear ranking potential.`
@@ -200,16 +200,16 @@
 
 2. 6-month ranking roadmap (Word/PDF)"
 ```
- Prompt 7 — Seasonal Keyword Calendar for Indian Festivals
+ ## Prompt 7 — Seasonal Keyword Calendar for Indian Festivals
 
-Backstory: Your blog covers DIY crafts and home décor. Seasonal traffic spikes during Diwali, Holi, Raksha Bandhan, etc., but you’re missing out because you publish too late.
+`Backstory: Your blog covers DIY crafts and home décor. Seasonal traffic spikes during Diwali, Holi, Raksha Bandhan, etc., but you’re missing out because you publish too late.`
 
-Goal: Build a festival keyword calendar for timely posting.
+`Goal: Build a festival keyword calendar for timely posting.`
 
-Prompt:
+`Prompt:`
 
-"You are a Seasonal SEO Planner. Create a festival keyword calendar that:
-
+`"You are a Seasonal SEO Planner. Create a festival keyword calendar that:`
+```
 1. Lists Indian festivals with high search volume.
 
 2. Suggests relevant keywords for each.
@@ -219,29 +219,29 @@ Prompt:
 4. Includes trending hashtag recommendations.
 
 5. Highlights content re-optimisation opportunities from last year.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Blog niche: DIY crafts & décor
 
 2. Target geography: India
 
 3. Festival dates for next year
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Calendar (Excel) with: Festival | Keyword | Publish Date | Search Volume | Competition"
+```
+## Prompt 8 — Keyword Mapping for Blog Categories
 
-Prompt 8 — Keyword Mapping for Blog Categories
+`Backstory: You run a career advice blog and want each blog category (resume tips, interview prep, job search hacks) to have its own keyword cluster for better topical authority.`
 
-Backstory: You run a career advice blog and want each blog category (resume tips, interview prep, job search hacks) to have its own keyword cluster for better topical authority.
+`Goal: Map keywords to blog categories.`
 
-Goal: Map keywords to blog categories.
+`Prompt:`
 
-Prompt:
-
-"You are an SEO Category Mapping Expert. For my blog, create a keyword map that:
-
+`"You are an SEO Category Mapping Expert. For my blog, create a keyword map that:`
+```
 1. Groups keywords under their respective categories.
 
 2. Suggests pillar content topics for each category.
@@ -251,29 +251,29 @@ Prompt:
 4. Ensures no keyword cannibalisation.
 
 5. Integrates internal linking strategy.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Blog categories list
 
 2. Target audience profile
 
 3. Existing keyword list (if any)
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Keyword map table (Excel): Category | Keyword | Intent | Pillar Post | Supporting Post"
+```
+## Prompt 9 — Blog Post SEO Blueprint for a New Keyword
 
-Prompt 9 — Blog Post SEO Blueprint for a New Keyword
+`Backstory: You’ve chosen a target keyword like “budget-friendly yoga retreats in India” but don’t know how to structure the post for maximum SEO impact.`
 
-Backstory: You’ve chosen a target keyword like “budget-friendly yoga retreats in India” but don’t know how to structure the post for maximum SEO impact.
+`Goal: Get a full SEO writing blueprint.`
 
-Goal: Get a full SEO writing blueprint.
+`Prompt:`
 
-Prompt:
-
-"You are an SEO Blog Post Architect. For the keyword [insert keyword], create a post blueprint that:
-
+`"You are an SEO Blog Post Architect. For the keyword [insert keyword], create a post blueprint that:`
+```
 1. Suggests an SEO-optimised title and meta description.
 
 2. Outlines H1, H2, H3 headings.
@@ -283,21 +283,21 @@ Prompt:
 4. Suggests internal/external links.
 
 5. Provides schema markup suggestions (if relevant).
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Target keyword
 
 2. Target audience
 
 3. Competitor URL (optional)
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Post blueprint (Word/PDF)
 
 2. Keyword placement guide (Excel)"
-
+```
 Prompt 10 — Competitive SERP Analysis for Keyword Ranking
 
 Backstory: You’ve found a promising keyword but need to know if you can realistically outrank competitors on Google’s first page.
