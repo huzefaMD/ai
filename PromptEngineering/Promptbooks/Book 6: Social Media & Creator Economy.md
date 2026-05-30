@@ -3164,16 +3164,16 @@ Tasks:
 ```
 1. Thread Script (Excel: Tweet No., Text, Emoji Suggestion, Hashtags)"
 ```
-Prompt 17 — YouTube Tutorial to Instagram Reels Series
+## Prompt 17 — YouTube Tutorial to Instagram Reels Series
 
-Backstory: A single YouTube tutorial can be sliced into multiple short-form Reels, each addressing one sub-topic. This format works for busy audiences who want bite-sized learning.
+`Backstory: A single YouTube tutorial can be sliced into multiple short-form Reels, each addressing one sub-topic. This format works for busy audiences who want bite-sized learning.`
 
-Goal: Create an Instagram Reels series from a tutorial video.
+`Goal: Create an Instagram Reels series from a tutorial video.`
 
-Prompt:
+`Prompt:`
 
-"You are a Long-to-Short Video Repurposing Specialist. From my YouTube tutorial, create 5–7 Reel scripts that:
-
+`"You are a Long-to-Short Video Repurposing Specialist. From my YouTube tutorial, create 5–7 Reel scripts that:`
+```
 1. Extract one core tip per reel.
 
 2. Begin with a problem/solution hook.
@@ -3183,27 +3183,27 @@ Prompt:
 4. Keep each under 45 seconds.
 
 5. End with a clear call-to-follow.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. YouTube video link/transcript
 
 2. Reel style preference
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Reel Script Bank (Excel: Reel No., Hook, Script, Visual Suggestion)"
+```
+## Prompt 18 — Medium Article to LinkedIn Carousel
 
-Prompt 18 — Medium Article to LinkedIn Carousel
+`Backstory: Medium articles are detailed, but busy LinkedIn users may not have time to read long-form text. A carousel lets them quickly absorb the key points.`
 
-Backstory: Medium articles are detailed, but busy LinkedIn users may not have time to read long-form text. A carousel lets them quickly absorb the key points.
+`Goal: Summarise a Medium article into a LinkedIn carousel.`
 
-Goal: Summarise a Medium article into a LinkedIn carousel.
+`Prompt:`
 
-Prompt:
-
-"You are a Long-form to Visual Content Adapter. From my Medium article, create an 8–10 slide carousel that:
-
+`"You are a Long-form to Visual Content Adapter. From my Medium article, create an 8–10 slide carousel that:`
+```
 1. Highlights the most actionable points.
 
 2. Uses professional LinkedIn tone.
@@ -3213,27 +3213,27 @@ Prompt:
 4. Ends with a CTA linking to the full article.
 
 5. Includes 5–7 hashtags.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Medium article text/link
 
 2. Target LinkedIn audience
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Carousel Script (Excel: Slide No., Headline, Copy, Visual Suggestion)"
+```
+## Prompt 19 — Reddit AMA (Ask Me Anything) to Blog Post
 
-Prompt 19 — Reddit AMA (Ask Me Anything) to Blog Post
+`Backstory: Reddit AMAs can contain rich Q&A content that, when structured, makes an engaging blog article.`
 
-Backstory: Reddit AMAs can contain rich Q&A content that, when structured, makes an engaging blog article.
+`Goal: Turn an AMA transcript into a blog post.`
 
-Goal: Turn an AMA transcript into a blog post.
+`Prompt:`
 
-Prompt:
-
-"You are a Q&A-to-Article Content Writer. From my AMA transcript, create a blog post that:
-
+`"You are a Q&A-to-Article Content Writer. From my AMA transcript, create a blog post that:`
+```
 1. Groups similar questions together.
 
 2. Edits responses for clarity and flow.
@@ -3243,29 +3243,29 @@ Prompt:
 4. Suggests images or pull quotes.
 
 5. Ends with a CTA to follow future AMAs.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. AMA transcript
 
 2. Blog audience niche
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Blog Article Draft (Word/PDF)
 
 2. Suggested featured image ideas (Excel)"
+```
+## Prompt 20 — Podcast Episode to LinkedIn Post Series
 
-Prompt 20 — Podcast Episode to LinkedIn Post Series
+`Backstory: A single podcast episode often covers multiple topics that can be split into standalone LinkedIn posts to drive ongoing engagement.`
 
-Backstory: A single podcast episode often covers multiple topics that can be split into standalone LinkedIn posts to drive ongoing engagement.
+`Goal: Create a 5–post LinkedIn series from one podcast.`
 
-Goal: Create a 5–post LinkedIn series from one podcast.
+`Prompt:`
 
-Prompt:
-
-"You are a Podcast Content Slicer. From my podcast transcript, create 5 LinkedIn post drafts that:
-
+`"You are a Podcast Content Slicer. From my podcast transcript, create 5 LinkedIn post drafts that:`
+```
 1. Focus on one key insight per post.
 
 2. Start with a compelling first line.
@@ -3275,27 +3275,27 @@ Prompt:
 4. End with a conversation-starting CTA.
 
 5. Maintain professional tone.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Podcast transcript/audio link
 
 2. Target industry
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Post Bank (Excel: Post No., Text, Hashtags)"
+```
+## Prompt 21 — Facebook Group Tips to Instagram Carousel
 
-Prompt 21 — Facebook Group Tips to Instagram Carousel
+`Backstory: Many creators post valuable tips inside closed Facebook groups. Repurposing them into carousels can reach a wider Instagram audience.`
 
-Backstory: Many creators post valuable tips inside closed Facebook groups. Repurposing them into carousels can reach a wider Instagram audience.
+`Goal: Turn a Facebook tips post into a 6-slide carousel.`
 
-Goal: Turn a Facebook tips post into a 6-slide carousel.
+`Prompt:`
 
-Prompt:
-
-"You are a Social Media Cross-Posting Specialist. From my Facebook group post, create an Instagram carousel that:
-
+`"You are a Social Media Cross-Posting Specialist. From my Facebook group post, create an Instagram carousel that:`
+```
 1. Breaks tips into 1 per slide.
 
 2. Adds visual design ideas.
@@ -3305,27 +3305,27 @@ Prompt:
 4. Includes 7–10 hashtags.
 
 5. Ends with a save/share CTA.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Facebook post text
 
 2. Instagram audience profile
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Carousel Script (Excel: Slide No., Tip, Visual Suggestion)"
+```
+## Prompt 22 — LinkedIn Post to Newsletter Snippet
 
-Prompt 22 — LinkedIn Post to Newsletter Snippet
+`Backstory: A strong LinkedIn post can work as an engaging snippet in your email newsletter to warm up subscribers before the main content.`
 
-Backstory: A strong LinkedIn post can work as an engaging snippet in your email newsletter to warm up subscribers before the main content.
+`Goal: Adapt a LinkedIn post for an email audience.`
 
-Goal: Adapt a LinkedIn post for an email audience.
+`Prompt:`
 
-Prompt:
-
-"You are a Social Post-to-Email Adapter. From my LinkedIn post, create a newsletter snippet that:
-
+`"You are a Social Post-to-Email Adapter. From my LinkedIn post, create a newsletter snippet that:`
+```
 1. Hooks in the first line.
 
 2. Fits 150–200 words.
@@ -3335,29 +3335,29 @@ Prompt:
 4. Links to full LinkedIn post.
 
 5. Keeps tone friendly yet informative.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. LinkedIn post text
 
 2. Newsletter tone guidelines
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Snippet Draft (Word/PDF)
 
 2. Subject line & preview text (Excel)"
+```
+## Prompt 23 — Instagram Carousel to Pinterest Infographic
 
-Prompt 23 — Instagram Carousel to Pinterest Infographic
+`Backstory: Carousels work on Instagram but Pinterest users prefer single, tall infographics that summarise content visually.`
 
-Backstory: Carousels work on Instagram but Pinterest users prefer single, tall infographics that summarise content visually.
+`Goal: Turn a carousel into a vertical infographic for Pinterest.`
 
-Goal: Turn a carousel into a vertical infographic for Pinterest.
+`Prompt:`
 
-Prompt:
-
-"You are a Visual Content Transformer. From my carousel, create a Pinterest-friendly infographic plan that:
-
+`"You are a Visual Content Transformer. From my carousel, create a Pinterest-friendly infographic plan that:`
+```
 1. Combines slides into one tall image layout.
 
 2. Suggests colours and typography.
@@ -3367,30 +3367,30 @@ Prompt:
 4. Adds my brand watermark.
 
 5. Optimises for Pinterest SEO.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Carousel slides text/images
 
 2. Brand style guide
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Infographic Script/Layout Plan (PDF)
 
 2. Pin description & tags (Excel)"
+```
+## Prompt 24 — Quora Answer Bank to Instagram Reels
 
-Prompt 24 — Quora Answer Bank to Instagram Reels
+`Backstory: Quora answers can be turned into short video scripts for Reels, helping to transform written advice into relatable, visual 
+content.`
 
-Backstory: Quora answers can be turned into short video scripts for Reels, helping to transform written advice into relatable, visual 
-content.
+`Goal: Create 3 reels from different Quora answers.`
 
-Goal: Create 3 reels from different Quora answers.
+`Prompt:`
 
-Prompt:
-
-"You are a Q&A to Short-Form Video Repurposer. From my Quora answers, create 3 Reel scripts that:
-
+`"You are a Q&A to Short-Form Video Repurposer. From my Quora answers, create 3 Reel scripts that:`
+```
 1. Start with a problem statement.
 
 2. Deliver the answer in 3–4 bullet points.
@@ -3400,27 +3400,27 @@ Prompt:
 4. End with a CTA to follow for more tips.
 
 5. Fit under 45 seconds each.
-
-Inputs:
+```
+`Inputs:`
 
 1. 3 Quora answer texts
 
 2. Target Instagram niche
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Reel Script Bank (Excel: Reel No., Hook, Script, Visual Suggestion)"
+```
+## Prompt 25 — Blog Comment Insights to LinkedIn Post
 
-Prompt 25 — Blog Comment Insights to LinkedIn Post
+`Backstory: Sometimes the best ideas come from audience comments. Repurposing a thoughtful blog comment into a LinkedIn post can spark fresh discussion.`
 
-Backstory: Sometimes the best ideas come from audience comments. Repurposing a thoughtful blog comment into a LinkedIn post can spark fresh discussion.
+`Goal: Turn a blog comment into a professional LinkedIn post.`
 
-Goal: Turn a blog comment into a professional LinkedIn post.
+`Prompt:`
 
-Prompt:
-
-"You are a Audience Insight Amplifier. From this blog comment, create a LinkedIn post that:
-
+`"You are a Audience Insight Amplifier. From this blog comment, create a LinkedIn post that:`
+```
 1. Quotes the comment in the opening.
 
 2. Builds 3–4 insights around it.
@@ -3430,21 +3430,21 @@ Prompt:
 4. Includes a CTA inviting more opinions.
 
 5. Suggests hashtags.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Blog comment text
 
 2. Target industry
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. LinkedIn Post Draft (Word/PDF)
 
 2. Hashtag list (Excel)"
+```
 
-
-Brand Collaboration Proposals
+# Brand Collaboration Proposals
 
 Prompt 1 — Cold Outreach Proposal for First-Time Collaboration
 
