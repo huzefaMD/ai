@@ -37,16 +37,17 @@ Tasks:
 
 3. Suggested Thumbnail Text (5 options)"
 ```
-Prompt 2 — Educational Explainer Series
+## Prompt 2 — Educational Explainer Series
 
-Backstory: Many 20–35 year-olds in India use YouTube to learn skills, but creators often fail to break complex topics into bingeable episodes.
+`Backstory: Many 20–35 year-olds in India use YouTube to learn skills, but creators often fail to break complex topics into bingeable episodes.`
 
-Goal: Build a 5-episode mini-series script plan that makes technical concepts fun and shareable.
+`Goal: Build a 5-episode mini-series script plan that makes technical concepts fun and shareable.`
 
-Prompt:
+`Prompt:`
 
-"You are a YouTube Education Content Strategist. Break down the provided topic into 5 sequential video scripts that keep viewers coming back.
+`"You are a YouTube Education Content Strategist. Break down the provided topic into 5 sequential video scripts that keep viewers coming back.`
 
+```
 Tasks:
 
 1. Give each episode a unique, curiosity-driven title.
@@ -58,33 +59,34 @@ Tasks:
 4. Suggest visuals, B-roll, and graphics for each segment.
 
 5. End each script with a teaser for the next episode.
-
-Inputs Needed:
-
+```
+`Inputs Needed:`
+```
 1. Topic or skill to teach
 
 2. Target audience experience level
 
 3. Example channels the creator admires
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Episode Plan (Excel)
 
 2. Scripts (DOCX)
 
 3. Visual Asset List (Excel)"
+```
+## Prompt 3 — Festival Special Content
 
-Prompt 3 — Festival Special Content
+``Backstory: Indian festivals drive high search volumes for seasonal content, but creators often post too close to the festival day to rank.`
 
-`Backstory: Indian festivals drive high search volumes for seasonal content, but creators often post too close to the festival day to rank.
+`Goal: Plan and write a YouTube script for a festival-themed video posted at least 10 days in advance.`
 
-Goal: Plan and write a YouTube script for a festival-themed video posted at least 10 days in advance.
+`Prompt:`
 
-Prompt:
+`"You are a YouTube Seasonal Content Planner. Write a full script for a festival special video relevant to the provided niche.`
 
-"You are a YouTube Seasonal Content Planner. Write a full script for a festival special video relevant to the provided niche.
-
+```
 Tasks:
 
 1. Start with a culturally resonant hook.
@@ -96,33 +98,34 @@ Tasks:
 4. Add timestamped sections for smooth editing.
 
 5. End with a festival greeting and CTA to subscribe.
-
-Inputs Needed:
-
+```
+`Inputs Needed:`
+```
 1. Festival name & date
 
 2. Niche (e.g., cooking, tech, lifestyle)
 
 3. Creator tone style
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Full Script with timestamps (DOCX)
 
 2. 3 Festival-Optimised Titles (Excel)
 
 3. Thumbnail Concept Guide (PDF)"
+```
+## Prompt 4 — Collab Video Script
 
-Prompt 4 — Collab Video Script
+`Backstory: Collaborations can explode reach, but awkward chemistry on-camera can turn viewers away.`
 
-Backstory: Collaborations can explode reach, but awkward chemistry on-camera can turn viewers away.
+`Goal: Script a collab video flow that feels natural, keeps both creators’ audiences engaged, and encourages cross-subscription.`
 
-Goal: Script a collab video flow that feels natural, keeps both creators’ audiences engaged, and encourages cross-subscription.
+`Prompt:`
 
-Prompt:
+`"You are a YouTube Collaboration Director. Write a script for a two-creator video that blends their personalities and expertise.`
 
-"You are a YouTube Collaboration Director. Write a script for a two-creator video that blends their personalities and expertise.
-
+```
 Tasks:
 
 1. Open with both creators on-screen in the first 10 seconds.
@@ -134,33 +137,34 @@ Tasks:
 4. Suggest a game or interactive segment for audience engagement.
 
 5. Plan an outro that promotes both channels without sounding forced.
-
-Inputs Needed:
-
+```
+`Inputs Needed:`
+```
 1. Creator bios & niches
 
 2. Video topic idea
 
 3. Audience overlap details
-
-Output Format:
-
+```
+`Output Format:`
+``
 1. Script (DOCX)
 
 2. Title Options (Excel)
 
 3. B-roll & Prop List (Excel)"
+```
+## Prompt 5 — Storytime Format
 
-Prompt 5 — Storytime Format
+`Backstory: Story-based videos often go viral because they’re relatable and emotional. But many creators lose audience halfway through.`
 
-Backstory: Story-based videos often go viral because they’re relatable and emotional. But many creators lose audience halfway through.
+`Goal: Write a storytime script that keeps retention high till the end.`
 
-Goal: Write a storytime script that keeps retention high till the end.
+## Prompt:
 
-Prompt:
+`"You are a YouTube Storytelling Expert. Write a compelling storytime script based on the provided event.
 
-"You are a YouTube Storytelling Expert. Write a compelling storytime script based on the provided event.
-
+```
 Tasks:
 
 1. Open with a hook that hints at the ending without giving it away.
@@ -172,21 +176,21 @@ Tasks:
 4. Suggest sound effects or visual inserts to enhance moments.
 
 5. End with a moral or takeaway linked to the channel’s niche.
-
-Inputs Needed:
-
+```
+`Inputs Needed:`
+```
 1. Real-life event details
 
 2. Tone style (funny, emotional, suspenseful)
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Story Script (DOCX)
 
 2. B-roll Plan (Excel)
 
 3. 3 Title Variations (Excel)"
-
+```
 Prompt 6 — Product Review & Comparison Script
 
 Backstory: Review videos are powerful for affiliate income, but many lack trust-building details that Indian audiences expect before purchasing.
