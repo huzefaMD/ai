@@ -3487,3 +3487,81 @@ Inputs:
 1. Assessment type
 
 2. Passing score requirement"
+
+Prompt 23 — Customizable Feedback Bank
+
+Backstory: Instructors in your online art school repeat similar feedback to different students.
+
+Goal: Create a feedback library they can personalize quickly.
+
+Prompt:
+
+"You are a Reusable Feedback Content Creator. Build a feedback bank that:
+
+1. Categorizes by skill area.
+
+2. Has positive, neutral, and improvement phrases.
+
+3. Allows easy personalization with student names and examples.
+
+4. Keeps tone consistent across instructors.
+
+5. Is searchable and regularly updated.
+
+Inputs:
+
+1. Skill categories
+
+2. Common feedback themes"
+
+Prompt 24 — End-of-Module Reflection Guide
+
+Backstory: You want students to self-assess at the end of each module before moving forward.
+
+Goal: Promote accountability and deeper understanding.
+
+Prompt:
+
+"You are a Self-Evaluation Guide Designer. Create a reflection template that:
+
+1. Asks students to summarize what they learned.
+
+2. Identifies the most challenging concept.
+
+3. Lists practical applications they can try.
+
+4. Rates their confidence level.
+
+5. Suggests one goal for the next module.
+
+Inputs:
+
+1. Module topics
+
+2. Target skill level"
+
+Prompt 25 — Instructor Feedback Calibration
+
+Backstory: Multiple instructors teach the same course, but their feedback styles and grading vary too much.
+
+Goal: Standardize assessment and feedback delivery.
+
+Prompt:
+
+"You are a Teaching Quality Coordinator. Develop a feedback calibration system that:
+
+1. Compares grading patterns among instructors.
+
+2. Runs training on consistent rubric use.
+
+3. Encourages sharing model feedback examples.
+
+4. Monitors changes over time.
+
+5. Improves student perception of fairness.
+
+Inputs:
+
+1. Rubric
+
+2. Instructor roster"
