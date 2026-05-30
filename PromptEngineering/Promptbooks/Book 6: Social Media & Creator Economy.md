@@ -4100,7 +4100,7 @@ content.`
 3. Participation mechanics
 ```
 `Output Format:`
-````
+```
 1. Proposal draft (Word/PDF)
 
 2. Giveaway flowchart (Excel)"
@@ -4126,7 +4126,7 @@ content.`
 5. Proposes post-takeover performance report.
 ```
 `Inputs:`
-````
+```
 1. Brand’s social goals
 
 2. My takeover content ideas
