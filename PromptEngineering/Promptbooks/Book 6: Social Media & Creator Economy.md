@@ -2275,7 +2275,7 @@ Tasks:
 ```
 `Output Format:`
 ```
-1. Post Drafts (Word/PDF: Pre-event, Post-event)
+1. Post Drafts (Word/PDF: Pre-event, Post-event)                           
 
 2. Tag & Hashtag List (Excel)"
 ```
@@ -2407,16 +2407,16 @@ Tasks:
 
 2. Performance Tracker Template (Excel)"
 ```
-Prompt 19 — Hashtag Research & Optimisation
+## Prompt 19 — Hashtag Research & Optimisation
 
-Backstory: Many LinkedIn posts use hashtags randomly, reducing discoverability.
+`Backstory: Many LinkedIn posts use hashtags randomly, reducing discoverability.`
 
-Goal: Identify high-potential hashtags for my niche.
+`Goal: Identify high-potential hashtags for my niche.`
 
-Prompt:
+`Prompt:`
 
-"You are a LinkedIn Hashtag Researcher. Create a hashtag strategy that:
-
+`"You are a LinkedIn Hashtag Researcher. Create a hashtag strategy that:`
+```
 1. Lists 15–20 relevant hashtags.
 
 2. Balances niche-specific and broader reach tags.
@@ -2426,29 +2426,29 @@ Prompt:
 4. Groups hashtags into sets for different post types.
 
 5. Suggests when to rotate hashtags for freshness.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Niche/profession
 
 2. Example post topics
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Hashtag List (Excel: Tag, Follower Count, Usage Example)
 
 2. Rotation Plan (Word/PDF)"
+```
+## Prompt 20 — LinkedIn Video Content Plan
 
-Prompt 20 — LinkedIn Video Content Plan
+`Backstory: Video is underused on LinkedIn, especially short-form explainer or opinion clips.`
 
-Backstory: Video is underused on LinkedIn, especially short-form explainer or opinion clips.
+`Goal: Plan a 5-video content series.`
 
-Goal: Plan a 5-video content series.
+`Prompt:`
 
-Prompt:
-
-"You are a LinkedIn Video Content Creator. For my given niche, design 5 video post ideas that:
-
+`"You are a LinkedIn Video Content Creator. For my given niche, design 5 video post ideas that:`
+```
 1. Hook viewers in 3 seconds.
 
 2. Deliver value in under 90 seconds.
@@ -2458,29 +2458,29 @@ Prompt:
 4. End with a call-to-comment question.
 
 5. Suggest filming setups for home/office.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Niche/topic
 
 2. Video style preference (talking head, interview, screen share)
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Video Plan (Excel: Title, Script Outline, CTA)
 
 2. Production Tips (Word/PDF)"
+```
+## Prompt 21 — Client Testimonials as Content
 
-Prompt 21 — Client Testimonials as Content
+`Backstory: Testimonials are powerful but often hidden on websites — showcasing them on LinkedIn builds trust fast.`
 
-Backstory: Testimonials are powerful but often hidden on websites — showcasing them on LinkedIn builds trust fast.
+`Goal: Turn client feedback into engaging posts.`
 
-Goal: Turn client feedback into engaging posts.
+`Prompt:`
 
-Prompt:
-
-"You are a LinkedIn Testimonial Content Writer. For each client testimonial, create a post that:
-
+`"You are a LinkedIn Testimonial Content Writer. For each client testimonial, create a post that:`
+```
 1. Starts with the client’s challenge.
 
 2. Shows how I helped solve it.
@@ -2490,29 +2490,29 @@ Prompt:
 4. Ends with an invitation for inquiries.
 
 5. Suggests relevant hashtags.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Client testimonial text/audio/video
 
 2. Project details
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Post Draft (Word/PDF)
 
 2. Hashtag List (Excel)"
+```
+## Prompt 22 — “Then & Now” Transformation Posts
 
-Prompt 22 — “Then & Now” Transformation Posts
+`Backstory: Transformation stories show progress, inspiring others while demonstrating skill.`
 
-Backstory: Transformation stories show progress, inspiring others while demonstrating skill.
+`Goal: Create visual and written transformation posts.`
 
-Goal: Create visual and written transformation posts.
+`Prompt:`
 
-Prompt:
-
-"You are a LinkedIn Transformation Storyteller. For my chosen project/career, create a post that:
-
+`"You are a LinkedIn Transformation Storyteller. For my chosen project/career, create a post that:`
+```
 1. Compares the ‘before’ and ‘after’ situation.
 
 2. Uses visuals to emphasise change.
@@ -2522,29 +2522,29 @@ Prompt:
 4. Connects transformation to the audience’s possible journey.
 
 5. Ends with a motivational CTA.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Transformation details
 
 2. Visual assets (optional)
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Post Draft (Word/PDF)
 
 2. Visual Plan (Excel)"
+```
+## Prompt 23 — LinkedIn Newsletter Planning
 
-Prompt 23 — LinkedIn Newsletter Planning
+`Backstory: LinkedIn newsletters allow consistent, long-form engagement with a loyal audience.`
 
-Backstory: LinkedIn newsletters allow consistent, long-form engagement with a loyal audience.
+`Goal: Plan a 6-issue newsletter series.`
 
-Goal: Plan a 6-issue newsletter series.
+`Prompt:`
 
-Prompt:
-
-"You are a LinkedIn Newsletter Editor. Plan a bi-weekly newsletter series that:
-
+`"You are a LinkedIn Newsletter Editor. Plan a bi-weekly newsletter series that:`
+```
 1. Focuses on my niche topics.
 
 2. Mixes tips, case studies, and trends.
@@ -2554,59 +2554,59 @@ Prompt:
 4. Suggests images and formatting for mobile.
 
 5. Includes a subscriber growth plan.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Niche/topic list
 
 2. Audience pain points
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Newsletter Calendar (Excel: Date, Title, Content Type)
 
 2. Issue Outline (Word/PDF)"
+```
+## Prompt 24 — Alumni Network Activation
 
-Prompt 24 — Alumni Network Activation
+`Backstory: University/college alumni are a hidden goldmine for collaborations and referrals.`
 
-Backstory: University/college alumni are a hidden goldmine for collaborations and referrals.
+`Goal: Create a LinkedIn campaign to re-engage alumni connections.`
 
-Goal: Create a LinkedIn campaign to re-engage alumni connections.
+`Prompt:`
 
-Prompt:
-
-"You are a LinkedIn Alumni Outreach Planner. Create a 3-step campaign that:
-
+`"You are a LinkedIn Alumni Outreach Planner. Create a 3-step campaign that:`
+```
 1. Posts about shared alumni memories/achievements.
 
 2. Organises a virtual or in-person meetup.
 
 3. Shares follow-up content from the event to keep momentum.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. University/college name
 
 2. Graduation year
 
 3. Desired outcome (networking, business leads)
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Campaign Plan (Excel: Step, Action, Timeline)
 
 2. Post Scripts (Word/PDF)"
+```
+## Prompt 25 — Year-End Reflection Post
 
-Prompt 25 — Year-End Reflection Post
+`Backstory: Reflection posts perform well because they combine personal storytelling with professional insight.
 
-Backstory: Reflection posts perform well because they combine personal storytelling with professional insight.
+`Goal: Create a year-end post that wraps up achievements and lessons.`
 
-Goal: Create a year-end post that wraps up achievements and lessons.
+`Prompt:`
 
-Prompt:
-
-"You are a LinkedIn Year-End Reflection Writer. Create a post that:
-
+`"You are a LinkedIn Year-End Reflection Writer. Create a post that:`
+```
 1. Lists 3–5 key achievements from the year.
 
 2. Shares 2–3 lessons learned.
@@ -2616,32 +2616,32 @@ Prompt:
 4. Ends with goals for the new year.
 
 5. Invites connections to share their own reflections.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Achievements & lessons
 
 2. People to tag
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Post Draft (Word/PDF)
 
 2. Hashtag List (Excel)"
+```
 
+# Content Repurposing & Cross-Platform Posting
 
-Content Repurposing & Cross-Platform Posting
+## Prompt 1 — Long-form Blog to LinkedIn Carousel
 
-Prompt 1 — Long-form Blog to LinkedIn Carousel
+`Backstory: Many Indian creators write valuable long-form blog articles but struggle to adapt them for LinkedIn, where visual and bite-sized content works better. Without repurposing, they miss out on huge professional audience reach.`
 
-Backstory: Many Indian creators write valuable long-form blog articles but struggle to adapt them for LinkedIn, where visual and bite-sized content works better. Without repurposing, they miss out on huge professional audience reach.
+`Goal: Turn an existing blog post into a scroll-stopping LinkedIn carousel while preserving the value of the original content.`
 
-Goal: Turn an existing blog post into a scroll-stopping LinkedIn carousel while preserving the value of the original content.
+`Prompt:`
 
-Prompt:
-
-"You are a LinkedIn Carousel Content Designer. Convert my long-form blog post into a 7–10 slide carousel that:
-
+`"You are a LinkedIn Carousel Content Designer. Convert my long-form blog post into a 7–10 slide carousel that:`
+```
 1. Extracts the most engaging insights from the article.
 
 2. Uses short, punchy headlines and minimal text per slide.
@@ -2651,31 +2651,31 @@ Prompt:
 4.  Suggests relevant images, icons, or data charts.
 
 5. Ends with an engagement question to spark comments.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Full blog text (paste here)
 
 2. Target audience profession/interest
 
 3. My branding colours (optional)
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Slide-by-slide script (Excel: Slide No., Headline, Body Text, Visual Suggestion)
 
 2. Hashtag set for the post (Excel)"
+```
+## Prompt 2 — Instagram Reel from Podcast Episode
 
-Prompt 2 — Instagram Reel from Podcast Episode
+`Backstory: Podcasters often have hours of valuable discussions, but Instagram’s short video format is where younger audiences discover content. Most struggle to extract the most ‘hook-worthy’ bits from audio.`
 
-Backstory: Podcasters often have hours of valuable discussions, but Instagram’s short video format is where younger audiences discover content. Most struggle to extract the most ‘hook-worthy’ bits from audio.
+`Goal: Create a 30–60 second Instagram Reel script from a given podcast episode.`
 
-Goal: Create a 30–60 second Instagram Reel script from a given podcast episode.
+`Prompt:`
 
-Prompt:
-
-"You are a Podcast-to-Reel Content Strategist. From my provided podcast transcript, extract a 30–60 second segment that:
-
+`"You are a Podcast-to-Reel Content Strategist. From my provided podcast transcript, extract a 30–60 second segment that:`
+```
 1. Contains a strong, relatable hook in the first 5 seconds.
 
 2. Delivers a self-contained insight or entertaining moment.
@@ -2685,23 +2685,23 @@ Prompt:
 4. Suggests a background visual and music track idea.
 
 5. Ends with a call-to-follow.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Podcast transcript (paste or upload)
 
 2. Main theme of the episode
 
 3. Audience demographic
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Reel Script (Word/PDF)
 
 2. Timestamp suggestions from full episode
 
 3. Caption & hashtag suggestions (Excel)"
-
+```
 Prompt 3 — YouTube Shorts from Webinar Recording
 
 Backstory: Webinar replays often sit unused after the live event. Turning them into YouTube Shorts can revive their reach and attract new leads, but the format requires quick, engaging cuts.
