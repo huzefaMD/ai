@@ -162,7 +162,7 @@ Tasks:
 
 ` Prompt:`
 
-`"You are a YouTube Storytelling Expert. Write a compelling storytime script based on the provided event.
+`"You are a YouTube Storytelling Expert. Write a compelling storytime script based on the provided event.`
 
 ```
 Tasks:
