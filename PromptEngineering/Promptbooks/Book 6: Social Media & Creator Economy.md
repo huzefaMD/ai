@@ -147,7 +147,7 @@ Tasks:
 3. Audience overlap details
 ```
 `Output Format:`
-``
+```
 1. Script (DOCX)
 
 2. Title Options (Excel)
