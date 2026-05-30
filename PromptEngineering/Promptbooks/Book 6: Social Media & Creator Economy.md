@@ -384,16 +384,17 @@ Tasks:
 
 3. Title & Thumbnail Concepts (PDF)"
 ```
-Prompt 11 — Opinion/Rant Video Script
+## Prompt 11 — Opinion/Rant Video Script
 
-Backstory: Opinion videos help creators build a personal brand but can backfire if unstructured.
+`Backstory: Opinion videos help creators build a personal brand but can backfire if unstructured.`
 
-Goal: Create a script that’s passionate yet logically sound.
+`Goal: Create a script that’s passionate yet logically sound.`
 
-Prompt:
+`Prompt:`
 
-"You are a YouTube Opinion Content Strategist. Write a rant/opinion script on the provided topic.
+`"You are a YouTube Opinion Content Strategist. Write a rant/opinion script on the provided topic.`
 
+```
 Tasks:
 
 1. Open with a strong personal stance.
@@ -405,23 +406,23 @@ Tasks:
 4. Suggest visual cutaways to keep attention.
 
 5. End with an open-ended question to viewers.
-
-Inputs Needed:
-
+```
+`Inputs Needed:`
+```
 1. Topic
 
 2. Personal experience
 
 3. Key facts/data
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Script (DOCX)
 
 2. Fact Reference Sheet (Excel)
 
 3. 3 Title Options (Excel)"
-
+```
 Prompt 12 — Comedy Skit Script
 
 Backstory: Indian YouTube comedy has huge viral potential but often misses timing and punchlines.
