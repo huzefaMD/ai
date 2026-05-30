@@ -431,3 +431,214 @@ Inputs:
 1. Medication type
 
 2. Reported side effects"
+
+Prompt 18 — Dental Hygiene Counseling
+
+Backstory: A patient has recurring cavities despite regular brushing.
+
+Goal: Offer tailored advice for improving dental hygiene.
+
+Prompt:
+
+"You are a Dental Health Educator. Write a script that:
+
+1. Reviews the patient’s current brushing and flossing habits.
+
+2. Demonstrates correct technique.
+
+3. Suggests fluoride-based products if suitable.
+
+4. Recommends a preventive dental check-up schedule.
+
+5. Explains the role of diet in oral health.
+
+Inputs:
+
+1. Patient’s age
+
+2. Recent dental history"
+
+Prompt 19 — Handling Appointment Delays
+
+Backstory: Patients in your clinic often have to wait longer than expected for their turn.
+
+Goal: Reduce frustration and maintain trust.
+
+Prompt:
+
+"You are a Clinic Reception Manager. Write a script that:
+
+1. Apologizes sincerely for the delay.
+
+2. Explains the cause without blaming staff.
+
+3. Offers an updated waiting time.
+
+4. Suggests interim comfort (water, magazines, rescheduling).
+
+5. Ends with appreciation for their patience.
+
+Inputs:
+
+1. Reason for delay
+
+2. New expected wait time"
+
+Prompt 20 — Explaining Physiotherapy Exercises
+
+Backstory: A patient needs to do at-home physiotherapy after a knee injury but struggles to follow instructions from memory.
+
+Goal: Provide a clear, repeatable explanation.
+
+Prompt:
+
+"You are a Physiotherapy Instructor. Write a patient script that:
+
+1. Explains the purpose of each exercise.
+
+2. Describes the movement in easy steps.
+
+3. Includes tips to avoid injury during practice.
+
+4. Suggests frequency and duration per session.
+
+5. Encourages them to track progress in a journal.
+
+Inputs:
+
+1. Injury type
+
+2. Number of exercises"
+
+Prompt 21 — Handling Insurance Queries
+
+Backstory: A patient is confused about what their insurance covers for an upcoming procedure.
+
+Goal: Clarify coverage without overwhelming them.
+
+Prompt:
+
+"You are a Medical Insurance Advisor. Write a script that:
+
+1. Breaks down coverage in simple language.
+
+2. Lists what is included and excluded.
+
+3. Gives cost estimates for the patient’s share.
+
+4. Explains the claim process step-by-step.
+
+5. Offers contact details for further queries.
+
+Inputs:
+
+1. Procedure type
+
+2. Insurance provider"
+
+Prompt 22 — Lifestyle Advice for Pregnant Patients
+
+Backstory: A first-time mother is seeking guidance for a healthy pregnancy.
+
+Goal: Give comprehensive yet reassuring advice.
+
+Prompt:
+
+"You are a Maternal Health Counselor. Write a patient script that:
+
+1. Covers nutrition, hydration, and rest.
+
+2. Suggests safe physical activities.
+
+3. Highlights warning signs to watch out for.
+
+4. Explains the importance of prenatal checkups.
+
+5. Includes emotional well-being tips.
+
+Inputs:
+
+1. Trimester stage
+
+2. Any existing health concerns"
+
+Prompt 23 — Managing Postpartum Depression Conversations
+
+Backstory: A new mother shows signs of postpartum depression but hasn’t recognized it yet.
+
+Goal: Initiate the conversation gently and guide her to help.
+
+Prompt:
+
+"You are a Postnatal Mental Health Specialist. Write a script that:
+
+1. Opens with empathy and shared understanding.
+
+2. Gently introduces the possibility of postpartum depression.
+
+3. Normalizes the experience without stigma.
+
+4. Suggests professional support and resources.
+
+5. Offers continuous follow-up.
+
+Inputs:
+
+1. Baby’s age
+
+2. Mother’s current emotional state"
+
+Prompt 24 — Handling Emergency Triage Calls
+
+Backstory: You are receiving a call from someone with suspected heart attack symptoms.
+
+Goal: Provide immediate guidance until emergency services arrive.
+
+Prompt:
+
+"You are an Emergency Call Responder. Write a script that: 
+
+1. Confirms patient location and contact immediately. 
+
+2. Instructs them to call emergency services if not already done. 
+
+3. Guides them through symptom management (e.g., sit, stay calm). 
+
+4. Advises on aspirin use if appropriate. 
+
+5. Keeps them engaged until help arrives.
+
+Inputs: 
+
+1. Symptoms described 
+
+2. Emergency contact availability"
+
+Prompt 25 — Collecting Patient Feedback
+
+Backstory: You want to improve your clinic’s services and need authentic patient feedback.
+
+Goal: Encourage honest responses without bias.
+
+Prompt:
+
+"You are a Healthcare Quality Officer. Write a feedback request script that:
+
+1. Thanks the patient for their visit.
+
+2. Explains the purpose of the feedback.
+
+3. Asks 3–5 specific questions about their experience.
+
+4. Offers multiple response formats (verbal, form, online).
+
+5. Ends with appreciation and assurance of privacy.
+
+Inputs:
+
+1. Visit date
+
+2. Type of service received"
+
+
+Medical content & health tips
