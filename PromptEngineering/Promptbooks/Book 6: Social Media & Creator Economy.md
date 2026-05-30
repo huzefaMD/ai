@@ -462,16 +462,16 @@ Tasks:
 
 3. Title & Thumbnail Ideas (Excel)"
 ```
-Prompt 13 — Reaction Video Script
+## Prompt 13 — Reaction Video Script
 
-Backstory: Reaction videos perform well but risk being repetitive.
+`Backstory: Reaction videos perform well but risk being repetitive.`
 
-Goal: Create a reaction script that adds unique commentary.
+`Goal: Create a reaction script that adds unique commentary.`
 
-Prompt:
+`Prompt:`
 
-"You are a YouTube Reaction Video Director. Write a reaction script to the provided video or event.
-
+`"You are a YouTube Reaction Video Director. Write a reaction script to the provided video or event.`
+```
 Tasks:
 
 1. Include genuine first reactions.
@@ -483,23 +483,23 @@ Tasks:
 4. Suggest editing cuts for pacing.
 
 5. End with a replay/highlight reel.
-
-Inputs Needed:
-
+```
+`Inputs Needed:`
+```
 1. Video link
 
 2. Creator style
 
 3. Context/background
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Script (DOCX)
 
 2. Reaction Beats (Excel)
 
 3. Title & Thumbnail Ideas (Excel)"
-
+```
 Prompt 14 — Unboxing Script
 
 Backstory: Unboxing videos dominate product discovery in India, but many lack excitement.
