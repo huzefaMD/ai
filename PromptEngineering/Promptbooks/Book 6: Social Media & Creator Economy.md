@@ -3402,7 +3402,7 @@ content.`
 5. Fit under 45 seconds each.
 ```
 `Inputs:`
-
+```
 1. 3 Quora answer texts
 
 2. Target Instagram niche
