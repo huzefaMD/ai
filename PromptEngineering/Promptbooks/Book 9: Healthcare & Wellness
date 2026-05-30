@@ -722,6 +722,7 @@ Inputs:
 2. Cultural tone preference"
 
 Prompt 4 — Daily WhatsApp Health Broadcast
+
 Backstory: Your clinic has a WhatsApp broadcast list for patients to receive daily wellness tips without spamming.
 
 Goal: Provide high-value content in short, engaging formats.
@@ -730,34 +731,50 @@ Prompt:
 
 "You are a Patient Engagement Specialist. Create a 30-day WhatsApp broadcast plan for ‘Small Daily Habits for Better Heart Health.’ 
 
-Limit each tip to 50–70 words. 
-Use emojis for visual appeal. 
-Rotate between facts, actionable tips, and motivational lines. 
-Ensure all tips are scientifically validated. 
-Add one weekend challenge each week.
+1. Limit each tip to 50–70 words. 
+
+2. Use emojis for visual appeal. 
+
+3. Rotate between facts, actionable tips, and motivational lines. 
+
+4. Ensure all tips are scientifically validated. 
+
+5. Add one weekend challenge each week.
+
 Inputs: 
 
-Patient age group 
-Language preference (English/Hindi)"
+1. Patient age group 
+
+2. Language preference (English/Hindi)"
 
 Prompt 5 — YouTube Video Script for Fitness & Diet
+
 Backstory: You want to start a YouTube series blending exercise routines and nutrition tips for beginners in India.
+
 Goal: Provide a free, structured guide that builds credibility and encourages subscriptions.
 
 Prompt:
+
 "You are a Fitness & Nutrition Educator. Write a YouTube script for Episode 1: ‘Beginner’s Guide to a Healthy Lifestyle in India.’
 
-Start with an inspiring personal story or statistic.
-Include 10 minutes of easy home exercises.
-Add a 5-minute healthy cooking recipe.
-Use cultural references (Indian food, local exercises).
-End with a teaser for the next episode.
+1. Start with an inspiring personal story or statistic.
+
+2. Include 10 minutes of easy home exercises.
+
+3. Add a 5-minute healthy cooking recipe.
+
+4. Use cultural references (Indian food, local exercises).
+
+5. End with a teaser for the next episode.
+
 Inputs:
 
-Audience fitness level
-Available filming space"
+1. Audience fitness level
+
+2. Available filming space"
 
 Prompt 6 — Health Awareness Infographic
+
 Backstory: Your hospital wants a print and digital infographic to educate people about early diabetes detection. Many in your community are unaware they’re at risk.
 
 Goal: Create a visually appealing, easy-to-understand health resource.
@@ -766,17 +783,24 @@ Prompt:
 
 "You are a Medical Graphic Content Planner. Design an infographic on ‘10 Early Signs of Diabetes You Shouldn’t Ignore.’ 
 
-Use a simple, clean layout with icons. 
-Keep text concise but informative. 
-Highlight lifestyle factors relevant to Indians (diet, stress). 
-Include your hospital’s branding and helpline number. 
-Provide a short caption for social media sharing.
+1. Use a simple, clean layout with icons. 
+
+2. Keep text concise but informative. 
+
+3. Highlight lifestyle factors relevant to Indians (diet, stress). 
+
+4. Include your hospital’s branding and helpline number. 
+
+5. Provide a short caption for social media sharing.
+
 Inputs: 
 
-Target language 
-Preferred color scheme"
+1. Target language 
+
+2. Preferred color scheme"
 
 Prompt 7 — Corporate Wellness Email Campaign
+
 Backstory: You’re hired by a large Indian IT firm to run a wellness month campaign for employees working long hours.
 
 Goal: Encourage healthier habits at the workplace.
@@ -785,29 +809,61 @@ Prompt:
 
 "You are a Corporate Health Consultant. Draft a 4-week email campaign for ‘Healthy Habits at Work.’ 
 
-Week 1: Posture & ergonomics tips. 
-Week 2: Healthy snacking ideas. 
-Week 3: Desk stretches and micro-breaks. 
-Week 4: Managing stress with mindfulness. 
-Include a quiz or small challenge in each email.
+1. Week 1: Posture & ergonomics tips. 
+
+2. Week 2: Healthy snacking ideas. 
+
+3. Week 3: Desk stretches and micro-breaks. 
+
+4. Week 4: Managing stress with mindfulness. 
+
+5. Include a quiz or small challenge in each email.
+
 Inputs: 
 
-Number of employees 
-Company culture tone"
+1. Number of employees 
+
+2. Company culture tone"
 
 Prompt 8 — Myth-Busting Social Media Post
+
 Backstory: Misinformation about vaccines is circulating on local WhatsApp groups.
+
 Goal: Dispel myths with credible, engaging content.
 
 Prompt:
+
 "You are a Public Health Communicator. Write a 500-character post titled ‘5 Myths About Vaccines — Busted.’
 
-List each myth in one line.
-Provide a fact immediately after.
-Use a tone that’s friendly, not confrontational.
-Include WHO or ICMR references.
-Suggest a visual idea for the post.
+1. List each myth in one line.
+
+2. Provide a fact immediately after.
+
+3. Use a tone that’s friendly, not confrontational.
+
+4. Include WHO or ICMR references.
+
+5. Suggest a visual idea for the post.
+
 Inputs:
 
-Vaccine type in focus
-Audience’s education level"
+1. Vaccine type in focus
+
+2. Audience’s education level"
+
+Prompt 9 — Diet Plan for Busy Professionals
+Backstory: Many young Indian professionals skip meals or rely on fast food due to time constraints.
+Goal: Provide a quick, healthy meal plan that fits into their schedule.
+
+Prompt:
+"You are a Clinical Dietitian. Create a 7-day meal plan for ‘Busy Indian Professionals.’
+
+Use easily available Indian ingredients.
+Keep prep time under 20 minutes per meal.
+Balance macros (protein, carbs, fats) for sustained energy.
+Include hydration reminders.
+Provide an optional Sunday meal-prep guide.
+Inputs:
+
+Vegetarian/non-vegetarian preference
+Any dietary restrictions"
