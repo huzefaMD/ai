@@ -2941,3 +2941,209 @@ Inputs:
 1. Topic or concept list
 
 2. Number of questions per assessment"
+
+Prompt 2 — Summative Assessment Blueprint
+Backstory: Your advanced coding bootcamp has a final exam, but you want it to truly reflect real-world coding skills rather than just theory.
+Goal: Design a practical, comprehensive end-of-course assessment.
+
+Prompt:
+"You are a Technical Assessment Designer. Create a summative assessment plan that:
+
+Combines coding challenges with short written explanations.
+Uses real-world project scenarios.
+Tests both speed and accuracy.
+Has a clear grading rubric.
+Allows partial credit for problem-solving approaches.
+Inputs:
+
+Key skills taught
+Assessment duration limit"
+
+Prompt 3 — Peer Review Rubric Creation
+Backstory: In your creative writing workshop, you want students to review each other’s short stories. You need a clear, fair rubric so feedback is consistent.
+Goal: Standardize peer feedback for fairness and usefulness.
+
+Prompt:
+"You are a Peer Review Framework Designer. Create a rubric that:
+
+Rates creativity, clarity, structure, and grammar.
+Uses a simple scale (e.g., 1–5).
+Encourages constructive suggestions.
+Has space for specific examples from the work.
+Is easy for non-experts to apply.
+Inputs:
+
+Type of creative work
+Number of review categories"
+
+Prompt 4 — AI-Assisted Feedback Generation
+Backstory: You’re an online piano teacher with 200 students. Manually writing personalized feedback takes hours every week.
+Goal: Automate feedback without losing the personal touch.
+
+Prompt:
+"You are an AI Feedback Specialist. Generate personalized feedback that:
+
+Acknowledges each student’s strengths.
+Points out 1–2 areas for improvement.
+Suggests a specific action step for next week.
+Keeps tone supportive and encouraging.
+Fits within 100–150 words per student.
+Inputs:
+
+Student performance notes or scores
+Lesson theme"
+
+Prompt 5 — Real-Time Quiz Feedback Script
+Backstory: You run a virtual trivia night for corporate training. You want the system to respond instantly with encouraging or corrective feedback for each answer.
+
+Goal: Script engaging, instant feedback messages.
+
+Prompt:
+
+"You are a Gamified Feedback Copywriter. Write real-time quiz responses that: 
+
+Confirm correct answers with a fun fact. 
+Correct wrong answers with a helpful hint. 
+Keep energy high throughout the game. 
+Avoid shaming or overly formal tones. 
+Encourage players to try again.
+Inputs: 
+
+List of questions with correct answers 
+Theme or tone (e.g., humorous, professional)"
+
+Prompt 6 — Self-Assessment Worksheet
+Backstory: Your leadership skills program emphasizes self-awareness. You want students to evaluate their own progress before and after the course.
+Goal: Create a reflective self-assessment tool.
+
+Prompt:
+"You are a Self-Reflection Tool Designer. Create a self-assessment worksheet that:
+
+Uses Likert-scale ratings for skill confidence.
+Asks open-ended questions for reflection.
+Tracks progress over time.
+Encourages setting personal growth goals.
+Fits on a single printable page.
+Inputs:
+
+Skills or competencies to measure
+Target audience profile"
+
+Prompt 7 — Skills Gap Analysis Template
+Backstory: You run an Excel for Business course. Before starting, you want to identify each learner’s existing skills to personalize the learning path.
+Goal: Create a template that captures current ability vs. required skills.
+
+Prompt:
+"You are a Skills Mapping Expert. Create a skills gap analysis template that:
+
+Lists all required skills in the course.
+Lets students rate their current proficiency (e.g., Beginner, Intermediate, Expert).
+Highlights priority learning areas.
+Suggests resources for weaker areas.
+Can be easily completed online or offline.
+Inputs:
+
+List of target skills
+Course duration"
+
+Prompt 8 — Continuous Improvement Feedback Form
+Backstory: You’re launching a language learning platform and need ongoing feedback from users to improve lessons.
+Goal: Build a feedback form that encourages honesty and detail.
+
+Prompt:
+"You are a Continuous Feedback Specialist. Create a feedback form that:
+
+Starts with a warm, appreciative introduction.
+Uses simple language and short questions.
+Allows both ratings and open-ended comments.
+Includes a suggestion box for new features.
+Takes under 3 minutes to complete.
+Inputs:
+
+Areas of feedback needed (content, usability, engagement)
+Frequency of feedback requests"
+
+Prompt 9 — Competency-Based Assessment Plan
+Backstory: Your healthcare training course must prove that students are competent in specific procedures before certification.
+Goal: Assess mastery based on skills, not just knowledge.
+
+Prompt:
+"You are a Competency Assessment Designer. Create a plan that:
+
+Lists each competency to be mastered.
+Defines clear performance criteria.
+Requires demonstration of skills in a real or simulated setting.
+Uses pass/fail grading.
+Allows re-testing for failed competencies.
+Inputs:
+
+List of competencies
+Available assessment environment"
+
+Prompt 10 — Rubric for Group Projects
+Backstory: In your MBA program, students complete a group business plan as a final project. You need a fair rubric that evaluates both the team and individual contributions.
+Goal: Avoid group grade disputes by clarifying expectations.
+
+Prompt:
+"You are a Group Project Evaluation Specialist. Design a rubric that:
+
+Scores project quality, creativity, and feasibility.
+Includes peer evaluation for team contribution.
+Balances individual and group performance weights.
+Uses transparent scoring criteria.
+Encourages collaboration and accountability.
+Inputs:
+
+Project requirements
+Team size"
+
+Prompt 11 — Audio/Video Feedback Script
+Backstory: You run a digital illustration masterclass. Written feedback isn’t enough for visual skills—you want to provide recorded audio or screen-share feedback to give students more personalized guidance.
+Goal: Make feedback more engaging and clear by using spoken explanations and on-screen demonstrations.
+
+Prompt:
+"You are a Multimedia Feedback Coach. Create a feedback script that:
+
+Greets the student by name and references their specific submission.
+Highlights strengths with examples from their work.
+Points out 1–2 areas for improvement with clear visual/audio cues.
+Suggests next steps and resources.
+Keeps the total video under 5 minutes for easy consumption.
+Inputs:
+
+Student’s work or file link
+Lesson/module context"
+
+Prompt 12 — Adaptive Assessment Framework
+Backstory: Your math learning app serves students with varying skill levels. Giving the same test to all is inefficient.
+Goal: Build adaptive assessments that adjust question difficulty based on performance in real-time.
+
+Prompt:
+"You are an Adaptive Learning Architect. Design an adaptive assessment framework that:
+
+Starts with mid-level difficulty questions.
+Increases difficulty if answers are correct, decreases if wrong.
+Uses a diverse question bank per topic.
+Ends with a skill map showing strong and weak areas.
+Works seamlessly on mobile devices.
+Inputs:
+
+Subject/topic areas
+Question bank size"
+
+Prompt 13 — Scenario-Based Assessment
+Backstory: You teach cybersecurity awareness and want assessments that mimic real-world decision-making under pressure.
+Goal: Create immersive, scenario-based tests instead of generic MCQs.
+
+Prompt:
+"You are a Scenario-Based Learning Designer. Create an assessment where:
+
+Students face realistic situations (e.g., phishing email detection).
+They choose actions step-by-step.
+Each choice impacts the scenario outcome.
+Feedback explains the consequences of decisions.
+The final score reflects both accuracy and decision efficiency.
+Inputs:
+
+Scenario type (e.g., security breach, client negotiation)
+Key decisions to include"
