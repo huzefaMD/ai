@@ -867,3 +867,105 @@ Inputs:
 
 Vegetarian/non-vegetarian preference
 Any dietary restrictions"
+
+Prompt 10 — Mental Health Awareness Post
+Backstory: Mental health stigma is still common in many Indian communities.
+Goal: Educate and encourage open conversations.
+
+Prompt:
+"You are a Mental Wellness Advocate. Write a short LinkedIn post on ‘Why Mental Health Is as Important as Physical Health.’
+
+Start with a relatable real-life scenario.
+Mention 2–3 signs of stress or burnout.
+Share one actionable tip for self-care.
+End with a message encouraging people to seek help.
+Include helpline details if appropriate.
+Inputs:
+
+Audience profession
+Preferred tone (professional/emotional)"
+
+Prompt 11 — Festival Season Health Tips
+Backstory: During Diwali, overeating and pollution exposure affect many people’s health.
+Goal: Provide preventive and recovery tips in a festive-friendly way.
+
+Prompt:
+"You are a Community Health Educator. Write a 5-point guide titled ‘Stay Healthy This Diwali.’
+
+Cover diet moderation.
+Suggest air quality precautions.
+Recommend quick post-festival detox tips.
+Use festive greetings and cultural references.
+Make it suitable for both print and WhatsApp.
+Inputs:
+
+City pollution levels
+Audience age group"
+
+Prompt 12 — Weekly Health Podcast Script
+Backstory: You want to launch a podcast on preventive health for Indian millennials.
+Goal: Build trust and grow a loyal listener base.
+
+Prompt:
+"You are a Podcast Host. Create Episode 1: ‘5 Everyday Habits That Improve Your Health.’
+
+Begin with a personal health anecdote.
+Include guest doctor insights.
+Give practical, budget-friendly tips.
+Suggest one small habit challenge for listeners.
+End with social media engagement prompts.
+Inputs:
+
+Target audience
+Language preference"
+
+Prompt 13 — Local Community Health Bulletin
+Backstory: Your NGO publishes a monthly printed bulletin for rural communities.
+Goal: Share health tips in a simple, culturally relevant way.
+
+Prompt:
+"You are a Rural Health Content Creator. Prepare a 2-page bulletin with:
+
+Seasonal illness prevention.
+Nutrition tips with local foods.
+Basic first aid steps.
+A health quiz for engagement.
+Contact details for nearby health services.
+Inputs:
+
+Local language
+Available page space"
+
+Prompt 14 — School Health Awareness Talk Script
+Backstory: You’ve been invited to a local high school to speak about teen nutrition and hygiene. Many students rely on junk food and lack awareness of personal hygiene’s role in preventing illness.
+Goal: Deliver an engaging, age-appropriate talk that holds teenagers’ attention.
+
+Prompt:
+"You are a School Health Educator. Draft a 15-minute interactive talk for teens on ‘Healthy Eating & Hygiene Habits.’
+
+Begin with a story or relatable incident.
+Include 3 nutrition tips and 3 hygiene tips.
+Use simple analogies for scientific concepts.
+Add a quick quiz at the end for retention.
+Suggest one activity for students to do at home.
+Inputs:
+
+Student age range
+Language preference"
+
+Prompt 15 — Workplace Wellness Workshop Outline
+Backstory: A mid-sized company has asked you to create a 2-hour workshop for employees facing high stress and long screen times.
+Goal: Equip employees with practical strategies to improve health at work.
+
+Prompt:
+"You are a Corporate Wellness Trainer. Create a workshop outline titled ‘Work Smart, Stay Healthy.’
+
+Break it into 3 segments: stress management, posture care, and nutrition.
+Include interactive activities for each segment.
+Add a pre- and post-workshop self-assessment.
+Provide take-home resource sheets.
+Ensure it’s suitable for a hybrid (in-person + virtual) format.
+Inputs:
+
+Number of participants
+Company’s work culture"
