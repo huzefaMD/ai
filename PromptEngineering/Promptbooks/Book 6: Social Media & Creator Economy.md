@@ -2906,16 +2906,16 @@ Tasks:
 
 2. Audio enhancement notes (Excel)"
 ```
-Prompt 9 — Instagram Carousel to Blog Article
+## Prompt 9 — Instagram Carousel to Blog Article
 
-Backstory: Carousels are great for reach, but the limited text means they can’t go into detail. Expanding them into blog posts allows SEO ranking and a deeper dive into the topic.
+`Backstory: Carousels are great for reach, but the limited text means they can’t go into detail. Expanding them into blog posts allows SEO ranking and a deeper dive into the topic.`
 
-Goal: Turn a carousel into a fully fleshed-out blog article.
+`Goal: Turn a carousel into a fully fleshed-out blog article.`
 
-Prompt:
+`Prompt:`
 
-"You are a Carousel-to-Blog Expansion Specialist. From my Instagram carousel, create a 1,000–1,200 word blog post that:
-
+`"You are a Carousel-to-Blog Expansion Specialist. From my Instagram carousel, create a 1,000–1,200 word blog post that:`
+```
 1. Expands each slide point into a full paragraph with examples.
 
 2. Adds data, quotes, or references where possible.
@@ -2925,31 +2925,31 @@ Prompt:
 4. Suggests subheadings for readability.
 
 5. Ends with a strong CTA linking to related content.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Carousel text & visuals
 
 2. Target keywords
 
 3. Desired blog tone
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Blog Article Draft (Word/PDF)
 
 2. Suggested meta title & description (Excel)"
+```
+## Prompt 10 — Webinar Highlights to LinkedIn Carousel
 
-Prompt 10 — Webinar Highlights to LinkedIn Carousel
+`Backstory: After a webinar, most hosts simply upload the full recording. But slicing the most impactful moments into a LinkedIn carousel can spark engagement and drive people to watch the replay.`
 
-Backstory: After a webinar, most hosts simply upload the full recording. But slicing the most impactful moments into a LinkedIn carousel can spark engagement and drive people to watch the replay.
+`Goal: Create a highlights carousel from webinar content.`
 
-Goal: Create a highlights carousel from webinar content.
+`Prompt:`
 
-Prompt:
-
-"You are a Webinar Content Repurposing Specialist. From my webinar transcript, create a LinkedIn carousel plan that:
-
+`"You are a Webinar Content Repurposing Specialist. From my webinar transcript, create a LinkedIn carousel plan that:`
+```
 1. Picks 5–7 most engaging moments or insights.
 
 2. Writes them as short, impactful slide headlines.
@@ -2959,31 +2959,31 @@ Prompt:
 4. Includes a final slide linking to the full replay.
 
 5. Uses professional tone for LinkedIn audiences.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Webinar transcript
 
 2. Replay link
 
 3. Brand guidelines
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Carousel Script (Excel: Slide No., Headline, Copy, Visual Idea)
 
 2. Post caption draft (Word/PDF)"
+```
+## Prompt 11 — LinkedIn Article to Medium Post
 
-Prompt 11 — LinkedIn Article to Medium Post
+`Backstory: While LinkedIn articles reach a professional audience, Medium offers a more diverse global readership and can help with long-term discoverability.`
 
-Backstory: While LinkedIn articles reach a professional audience, Medium offers a more diverse global readership and can help with long-term discoverability.
+`Goal: Adapt a LinkedIn article for Medium without losing its core message.`
 
-Goal: Adapt a LinkedIn article for Medium without losing its core message.
+`Prompt:`
 
-Prompt:
-
-"You are a Cross-Publishing Content Adapter. From my LinkedIn article, create a Medium post that:
-
+`"You are a Cross-Publishing Content Adapter. From my LinkedIn article, create a Medium post that:`
+```
 1. Keeps the same core message but adjusts tone for a wider audience.
 
 2. Adds visuals or embedded media suitable for Medium.
@@ -2993,29 +2993,29 @@ Prompt:
 4. Uses formatting for better readability on Medium (short paragraphs, lists).
 
 5. Suggests Medium tags for SEO.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. LinkedIn article text
 
 2. Desired audience expansion goals
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Medium Post Draft (Word/PDF)
 
 2. Tag list & suggested cover image (Excel)"
+```
+## Prompt 12 — Facebook Live to YouTube Tutorial
 
-Prompt 12 — Facebook Live to YouTube Tutorial
+`Backstory: Facebook Live videos often contain valuable demonstrations but lack the editing polish needed for YouTube’s evergreen audience.`
 
-Backstory: Facebook Live videos often contain valuable demonstrations but lack the editing polish needed for YouTube’s evergreen audience.
+`Goal: Transform a Facebook Live session into a structured YouTube tutorial.`
 
-Goal: Transform a Facebook Live session into a structured YouTube tutorial.
+`Prompt:`
 
-Prompt:
-
-"You are a Live Video Repurposing Expert. From my Facebook Live recording, create a YouTube tutorial plan that:
-
+`"You are a Live Video Repurposing Expert. From my Facebook Live recording, create a YouTube tutorial plan that:
+```
 1. Cuts out filler and dead air.
 
 2. Adds intro and outro sequences.
@@ -3025,29 +3025,29 @@ Prompt:
 4. Suggests on-screen titles and graphics.
 
 5. Optimises for YouTube keywords.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Facebook Live video
 
 2. Target tutorial topic/keywords
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Video Editing Script (Word/PDF)
 
 2. YouTube metadata (Excel: Title, Description, Tags)"
+```
+## Prompt 13 — Quora Answer to LinkedIn Post
 
-Prompt 13 — Quora Answer to LinkedIn Post
+`Backstory: Detailed Quora answers can be repurposed as thought leadership posts on LinkedIn, reaching decision-makers and industry peers.`
 
-Backstory: Detailed Quora answers can be repurposed as thought leadership posts on LinkedIn, reaching decision-makers and industry peers.
+`Goal: Convert a Quora answer into a high-engagement LinkedIn post.`
 
-Goal: Convert a Quora answer into a high-engagement LinkedIn post.
+`Prompt:`
 
-Prompt:
-
-"You are a Q&A Content Repurposing Specialist. From my Quora answer, create a LinkedIn post that:
-
+`"You are a Q&A Content Repurposing Specialist. From my Quora answer, create a LinkedIn post that:`
+```
 1. Summarises the main point in the first 2 lines.
 
 2. Expands with 3–4 key arguments or examples.
@@ -3057,29 +3057,29 @@ Prompt:
 4. Includes a CTA inviting professional discussion.
 
 5. Suggests relevant hashtags.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Quora answer text
 
 2. Target professional audience
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. LinkedIn Post Draft (Word/PDF)
 
 2. Hashtag list (Excel)"
+```
+## Prompt 14 — Instagram Stories to Email Newsletter
 
-Prompt 14 — Instagram Stories to Email Newsletter
+`Backstory: Instagram Stories often disappear after 24 hours, but they can be archived and reused in newsletters to keep subscribers engaged.`
 
-Backstory: Instagram Stories often disappear after 24 hours, but they can be archived and reused in newsletters to keep subscribers engaged.
+`Goal: Convert Instagram Stories into a narrative-driven email newsletter.`
 
-Goal: Convert Instagram Stories into a narrative-driven email newsletter.
+`Prompt:`
 
-Prompt:
-
-"You are a Stories-to-Email Conversion Specialist. From my Instagram Stories, create a newsletter issue that:
-
+`"You are a Stories-to-Email Conversion Specialist. From my Instagram Stories, create a newsletter issue that:`
+```
 1. Strings the story sequence into a coherent narrative.
 
 2. Adds extra context or background where needed.
@@ -3089,29 +3089,29 @@ Prompt:
 4. Ends with a newsletter-specific CTA.
 
 5. Optimises subject line for email open rates.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Story screenshots/videos
 
 2. Target email audience
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Newsletter Draft (Word/PDF)
 
 2. Subject line & preview text suggestions (Excel)"
+```
+## Prompt 15 — Pinterest Board to Instagram Carousel
 
-Prompt 15 — Pinterest Board to Instagram Carousel
+`Backstory: Pinterest boards are often full of curated visual ideas, but they can also be transformed into educational or inspirational carousels for Instagram.`
 
-Backstory: Pinterest boards are often full of curated visual ideas, but they can also be transformed into educational or inspirational carousels for Instagram.
+`Goal: Turn a Pinterest board into a shareable Instagram carousel.`
 
-Goal: Turn a Pinterest board into a shareable Instagram carousel.
+`Prompt:`
 
-Prompt:
-
-"You are a Pinterest-to-Instagram Content Curator. From my Pinterest board, create a 6–8 slide carousel that:
-
+`"You are a Pinterest-to-Instagram Content Curator. From my Pinterest board, create a 6–8 slide carousel that:`
+```
 1. Groups pins into thematic slides.
 
 2. Adds 1–2 lines of caption per slide.
@@ -3121,29 +3121,29 @@ Prompt:
 4. Ends with a ‘save this post’ CTA.
 
 5. Includes relevant hashtags.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Pinterest board link
 
 2. Target Instagram niche
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Carousel Plan (Excel: Slide No., Theme, Caption, Visual Suggestion)
 
 2. Hashtag list (Excel)"
+```
+## Prompt 16 — LinkedIn Carousel to Twitter/X Thread
 
-Prompt 16 — LinkedIn Carousel to Twitter/X Thread
+`Backstory: LinkedIn carousels break ideas into slides, while Twitter/X threads deliver them as sequential tweets. Repurposing allows your carousel’s ideas to reach the fast-paced, hashtag-driven world of Twitter/X.`
 
-Backstory: LinkedIn carousels break ideas into slides, while Twitter/X threads deliver them as sequential tweets. Repurposing allows your carousel’s ideas to reach the fast-paced, hashtag-driven world of Twitter/X.
+`Goal: Convert a LinkedIn carousel into a high-impact thread.`
 
-Goal: Convert a LinkedIn carousel into a high-impact thread.
+`Prompt:`
 
-Prompt:
-
-"You are a Carousel-to-Thread Transformation Expert. From my LinkedIn carousel content, create a Twitter/X thread that:
-
+`"You are a Carousel-to-Thread Transformation Expert. From my LinkedIn carousel content, create a Twitter/X thread that:`
+```
 1. Uses the first tweet as a strong hook.
 
 2. Converts each slide into a concise tweet.
@@ -3153,17 +3153,17 @@ Prompt:
 4. Suggests emojis and formatting for engagement.
 
 5. Ends with a discussion-starting CTA.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Carousel text & images
 
 2. Target audience interests
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Thread Script (Excel: Tweet No., Text, Emoji Suggestion, Hashtags)"
-
+```
 Prompt 17 — YouTube Tutorial to Instagram Reels Series
 
 Backstory: A single YouTube tutorial can be sliced into multiple short-form Reels, each addressing one sub-topic. This format works for busy audiences who want bite-sized learning.
