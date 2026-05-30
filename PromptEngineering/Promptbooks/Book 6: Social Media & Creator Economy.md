@@ -970,18 +970,18 @@ Tasks:
 3. Title & Thumbnail Concepts (Excel)"
 ```
 
-Instagram Reel & Caption Ideas
+# Instagram Reel & Caption Ideas
 
-Prompt 1 — Festival-Themed Reel Ideas & Captions
+## Prompt 1 — Festival-Themed Reel Ideas & Captions
 
-Backstory: Indian festivals are prime content opportunities, but most posts look generic and fail to drive engagement or sales.
+`Backstory: Indian festivals are prime content opportunities, but most posts look generic and fail to drive engagement or sales.`
 
-Goal: Create unique, trend-adapted content ideas & captions for upcoming festivals that resonate with the target audience’s cultural and emotional triggers.
+`Goal: Create unique, trend-adapted content ideas & captions for upcoming festivals that resonate with the target audience’s cultural and emotional triggers.`
 
-Prompt:
+`Prompt:`
 
-"You are an Instagram Festive Marketing Strategist. For the given festival, generate 5 high-impact Reel ideas and captions that are:
-
+`"You are an Instagram Festive Marketing Strategist. For the given festival, generate 5 high-impact Reel ideas and captions that are:`
+```
 1. Aligned with trending audio & hashtags in India.
 
 2. Culturally relevant but with a modern twist.
@@ -991,21 +991,21 @@ Prompt:
 4. Short enough for easy reading but powerful in emotion.
 
 5. Suitable for either personal branding or product promotion.
-
-Inputs Needed:
-
+```
+`Inputs Needed:`
+```
 1. Festival name & date
 
 2. Target audience (age, city/tier)
 
 3. Content goal (engagement, awareness, sales)
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Reel Concept Table (Excel: Concept, Hook, Visuals, Audio, CTA)
 
 2. Captions (Word/PDF: Hook + Body + Hashtags)"
-
+```
 Prompt 2 — Carousel Educational Content
 
 Backstory: Instagram carousels are great for retention, but many fail because they lack a “keep swiping” story flow.
