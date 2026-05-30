@@ -3446,16 +3446,16 @@ content.`
 
 # Brand Collaboration Proposals
 
-Prompt 1 — Cold Outreach Proposal for First-Time Collaboration
+`Prompt 1 — Cold Outreach Proposal for First-Time Collaboration`
 
-Backstory: You are a mid-tier Instagram creator in India with 50K followers in the fitness niche. You want to approach a sports nutrition brand that you admire but have never interacted with before. The goal is to pitch in a way that feels personal yet professional, showing genuine brand alignment.
+`Backstory: You are a mid-tier Instagram creator in India with 50K followers in the fitness niche. You want to approach a sports nutrition brand that you admire but have never interacted with before. The goal is to pitch in a way that feels personal yet professional, showing genuine brand alignment.`
 
-Goal: Write a compelling cold outreach proposal that maximises the chance of securing a first collaboration.
+`Goal: Write a compelling cold outreach proposal that maximises the chance of securing a first collaboration.`
 
-Prompt:
+`Prompt:`
 
-"You are a Brand Partnership Strategist. Create a first-time collaboration proposal email for [Brand Name] that:
-
+`"You are a Brand Partnership Strategist. Create a first-time collaboration proposal email for [Brand Name] that:`
+```
 1. Opens with a personalised connection to the brand’s products or values.
 
 2. Introduces me with 1–2 credibility points (reach, engagement rate, niche authority).
@@ -3465,9 +3465,9 @@ Prompt:
 4. Explains how the brand will benefit (audience exposure, conversions, user-generated content).
 
 5. Ends with a friendly but actionable next step.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. My niche: [Insert niche]
 
 2. My social media stats (followers, engagement rate)
@@ -3475,23 +3475,23 @@ Inputs:
 3. Past brand collaborations (if any)
 
 4. Specific product/service I want to feature
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Email draft (Word/PDF)
 
 2. Subject line suggestions (Excel)"
+```
+## Prompt 2 — Proposal for Repeat Collaboration with Added Value
 
-Prompt 2 — Proposal for Repeat Collaboration with Added Value
+`Backstory: You’ve already done a one-off campaign for a skincare brand, which performed well. Now you want to pitch a longer-term, more integrated partnership.`
 
-Backstory: You’ve already done a one-off campaign for a skincare brand, which performed well. Now you want to pitch a longer-term, more integrated partnership.
+`Goal: Write a proposal that upgrades a one-time deal into a recurring partnership.`
 
-Goal: Write a proposal that upgrades a one-time deal into a recurring partnership.
+`Prompt:`
 
-Prompt:
-
-"You are a Brand Relationship Builder. From the context of a successful one-time campaign with [Brand Name], create a proposal for a 3-month partnership that:
-
+`"You are a Brand Relationship Builder. From the context of a successful one-time campaign with [Brand Name], create a proposal for a 3-month partnership that:`
+```
 1. Opens by highlighting past campaign results (reach, engagement, sales lift).
 
 2. Proposes a content calendar with frequency and formats.
@@ -3501,30 +3501,30 @@ Prompt:
 4. Introduces metrics tracking for transparency.
 
 5. Justifies a retainer fee with ROI projections.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Previous campaign stats
 
 2. Desired contract length
 
 3. Budget expectations
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Proposal draft (Word/PDF)
 
 2. Content calendar mockup (Excel)"
+```
+## Prompt 3 — Influencer-to-Brand Collaboration Deck
 
-Prompt 3 — Influencer-to-Brand Collaboration Deck
+`Backstory: Instead of just sending an email, you want to create a short presentation deck to send to a premium clothing brand showcasing your personal brand, audience insights, and proposed collaboration ideas.`
 
-Backstory: Instead of just sending an email, you want to create a short presentation deck to send to a premium clothing brand showcasing your personal brand, audience insights, and proposed collaboration ideas.
+`Goal: Create a professional influencer-brand proposal deck.`
 
-Goal: Create a professional influencer-brand proposal deck.
+`Prompt:`
 
-Prompt:
-
-"You are a Creative Partnership Deck Designer. Create a 6–8 slide deck outline for [Brand Name] that:
+`"You are a Creative Partnership Deck Designer. Create a 6–8 slide deck outline for [Brand Name] that:`
 
 1. Introduces me and my niche visually.
 
