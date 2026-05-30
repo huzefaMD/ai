@@ -1555,106 +1555,160 @@ Inputs:
 2. Electronic or manual prescription system"
 
 Prompt 11 — SOP for Social Media Posting for Clinics & Gyms
+
 Backstory: Your facility’s social media posts are inconsistent in branding and tone. An SOP will help maintain a professional online image.
+
 Goal: Standardize content creation and posting schedules.
 
 Prompt:
+
 "You are a Digital Marketing Manager. Create an SOP for ‘Social Media Posting Guidelines.’
 
-Define content categories (health tips, offers, testimonials).
-Set posting frequency.
-Include brand voice and tone guidelines.
-Add image/video quality requirements.
-Outline approval process before posting.
+1. Define content categories (health tips, offers, testimonials).
+
+2. Set posting frequency.
+
+3. Include brand voice and tone guidelines.
+
+4. Add image/video quality requirements.
+
+5. Outline approval process before posting.
+
 Inputs:
 
-Number of platforms used
-Brand’s target audience"
+1. Number of platforms used
+
+2. Brand’s target audience"
 
 Prompt 12 — SOP for Financial Transactions & Billing in Clinics
+
 Backstory: Billing mistakes have led to disputes and revenue loss in your clinic.
+
 Goal: Ensure accurate and transparent billing for all patients.
 
 Prompt:
+
 "You are a Medical Billing Specialist. Draft an SOP for ‘Financial Transactions & Billing.’
 
-Outline invoice generation steps.
-Include insurance claim processing.
-Define refund and discount policies.
-Add cash and digital payment protocols.
-Provide monthly reconciliation steps.
+1. Outline invoice generation steps.
+
+2. Include insurance claim processing.
+
+3. Define refund and discount policies.
+
+4. Add cash and digital payment protocols.
+
+5. Provide monthly reconciliation steps.
+
 Inputs:
 
-Billing software used
-Insurance tie-ups"
+1. Billing software used
+
+2. Insurance tie-ups"
 
 Prompt 13 — SOP for Handling Children in Fitness Classes
+
 Backstory: Parents are enrolling kids in fitness classes, but trainers lack clear guidelines for safety and engagement.
+
 Goal: Ensure child-friendly and safe sessions.
 
 Prompt:
+
 "You are a Youth Fitness Specialist. Create an SOP for ‘Handling Children in Fitness Classes.’
 
-Set age-based class structure.
-Include child safety measures.
-Outline communication guidelines with parents.
-Add emergency contact verification process.
-Suggest engaging warm-up and cool-down activities.
+1. Set age-based class structure.
+
+2. Include child safety measures.
+
+3. Outline communication guidelines with parents.
+
+4. Add emergency contact verification process.
+
+5. Suggest engaging warm-up and cool-down activities.
+
 Inputs:
 
-Age range of children
-Class duration"
+1. Age range of children
+
+2. Class duration"
 
 Prompt 14 — SOP for Patient Follow-Up Calls in Clinics
+
 Backstory: Many patients are lost after the first consultation due to lack of follow-up.
+
 Goal: Increase patient retention and care continuity.
 
 Prompt:
+
 "You are a Patient Relationship Manager. Create an SOP for ‘Follow-Up Call Procedures.’
 
-Define timelines based on case type.
-Include call script for updates and feedback.
-Add appointment booking link in follow-up.
-Document every follow-up in EMR.
-Include escalation if patient reports worsening symptoms.
+1. Define timelines based on case type.
+
+2. Include call script for updates and feedback.
+
+3. Add appointment booking link in follow-up.
+
+4. Document every follow-up in EMR.
+
+5. Include escalation if patient reports worsening symptoms.
+
 Inputs:
 
-Follow-up time frames
-EMR system"
+1. Follow-up time frames
+
+2. EMR system"
 
 Prompt 15 — SOP for Fitness Center Safety Drills
+
 Backstory: Your gym needs to prepare for rare but possible emergencies like fire or earthquake.
+
 Goal: Ensure all staff can respond quickly and keep members safe.
 
 Prompt:
+
 "You are a Safety & Compliance Officer. Write an SOP for ‘Emergency Safety Drills in Fitness Centers.’
 
-Define drill frequency.
-Assign staff roles.
-Include evacuation routes and assembly points.
-Document every drill conducted.
-Add a post-drill feedback process.
+1. Define drill frequency.
+
+2. Assign staff roles.
+
+3. Include evacuation routes and assembly points.
+
+4. Document every drill conducted.
+
+5. Add a post-drill feedback process.
+
 Inputs:
 
-Facility size
-Emergency scenarios to cover"
+1. Facility size
+
+2. Emergency scenarios to cover"
 
 Prompt 16 — SOP for Telemedicine Consultations
+
 Backstory: Your clinic recently launched telemedicine services, but doctors follow different approaches when consulting online, leading to inconsistent patient experiences.
+
 Goal: Standardize telemedicine protocols to maintain quality and compliance.
 
 Prompt:
+
 "You are a Telehealth Process Designer. Create an SOP for ‘Conducting Telemedicine Consultations.’
 
-Include patient verification and consent process.
-Define standard video/audio quality checks.
-Outline how to share prescriptions securely.
-Add post-consultation follow-up process.
-Include legal compliance points (as per Indian telemedicine guidelines).
+1. Include patient verification and consent process.
+
+2. Define standard video/audio quality checks.
+
+3. Outline how to share prescriptions securely.
+
+4. Add post-consultation follow-up process.
+
+5. Include legal compliance points (as per Indian telemedicine guidelines).
+
 Inputs:
 
-Specialties covered
-Telemedicine platform used"
+1. Specialties covered
+
+2. Telemedicine platform used"
 
 Prompt 17 — SOP for Membership Renewals in Fitness Centers
 Backstory: Your gym is losing revenue due to members forgetting to renew. Staff need a structured system for reminders and reactivation offers.
