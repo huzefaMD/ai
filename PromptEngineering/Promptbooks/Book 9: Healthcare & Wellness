@@ -241,3 +241,135 @@ Inputs:
 1. Surgery type
 
 2. Any dietary restrictions"
+
+Prompt 10 — End-of-Life Care Discussion
+Backstory: A patient’s family needs to be guided through palliative care decisions for their loved one.
+
+Goal: Approach the subject with compassion and clarity.
+
+Prompt:
+
+"You are a Palliative Care Communicator. Write a script that: 
+
+Creates a calm, private environment for discussion. 
+Explains the medical situation without rushing. 
+Addresses emotional concerns empathetically. 
+Clarifies available palliative care options. 
+Encourages questions and ongoing family support.
+Inputs: 
+
+Patient’s condition 
+Available care services"
+
+Prompt 11 — Post-Treatment Follow-Up Call
+Backstory: A patient has completed physiotherapy for a sports injury. You want to check progress and ensure recovery.
+Goal: Encourage adherence to exercises and spot any setbacks early.
+
+Prompt:
+"You are a Rehabilitation Follow-Up Specialist. Write a script that:
+
+Begins with a warm, friendly tone.
+Asks about current pain levels and mobility.
+Reinforces the importance of continuing exercises.
+Provides quick troubleshooting for common issues.
+Offers a follow-up appointment if needed.
+Inputs:
+
+Injury type
+Patient’s activity goals"
+
+Prompt 12 — Explaining a Medical Procedure
+Backstory: A patient needs laparoscopic gallbladder surgery but is nervous.
+Goal: Explain the procedure in a way that reduces fear while setting realistic expectations.
+
+Prompt:
+"You are a Patient Education Specialist. Write a script that:
+
+Explains the procedure in simple, non-technical language.
+Covers benefits and possible risks.
+Uses visual analogies to aid understanding.
+Details pre- and post-surgery care.
+Encourages the patient to ask clarifying questions.
+Inputs:
+
+Procedure type
+Patient’s level of medical knowledge"
+
+Prompt 13 — Addressing Vaccine Hesitancy
+Backstory: A patient is unsure about getting the flu vaccine due to misinformation.
+Goal: Provide accurate information while respecting their concerns.
+
+Prompt:
+"You are a Public Health Communicator. Write a script that:
+
+Listens to the patient’s reasons without judgment.
+Corrects misconceptions with verified facts.
+Explains vaccine benefits in relatable terms.
+Addresses potential side effects transparently.
+Ends with a confident, respectful recommendation.
+Inputs:
+
+Vaccine type
+Common patient concerns"
+
+Prompt 14 - Discharge Instructions for Post-C-Section Patient in a Tier-2 Indian City
+Backstory: Sunita, 29, has delivered her baby via C-section at a district hospital in Ujjain. She lives in a joint family and will be recovering at home with her mother-in-law’s help. The doctor wants to ensure she understands wound care, dietary precautions, breastfeeding positions, and signs of complications. However, the patient has limited medical knowledge and prefers simple Hindi explanations with relatable examples.
+
+Goal: Create a culturally sensitive discharge instruction script for a post-C-section patient in a Tier-2 city.
+
+Prompt:
+"You are a nurse educator at a district hospital in India. Prepare a discharge instruction script in simple Hindi-English mix for a 29-year-old post-C-section patient. Include wound care tips, diet guidelines, breastfeeding techniques, and warning signs that require immediate medical attention.
+
+Inputs:
+
+Delivery date
+Hospital’s follow-up schedule
+Patient’s literacy level
+Home support availability"
+
+Prompt 15 - Chemotherapy Side-Effect Management Script for First-Time Cancer Patient
+Backstory: Aarti, 45, from Lucknow, is starting chemotherapy for breast cancer. She is anxious about side effects like hair loss, nausea, and fatigue, and her family wants to know how they can help her through the process. The oncologist needs a compassionate, step-by-step script to prepare the patient and family for what to expect and how to manage symptoms.
+
+Goal: Create a patient-friendly script for preparing a first-time chemotherapy patient and her caregivers.
+
+Prompt:
+"You are an oncology nurse at a cancer care hospital in Lucknow. Write a compassionate, step-by-step Hindi-English mixed script to explain chemotherapy side effects and self-care tips to a 45-year-old woman and her family.
+
+Inputs:
+
+Type of chemotherapy drugs
+Number of cycles planned
+Patient’s support system at home
+Available hospital resources"
+
+Prompt 16 - Pediatric Vaccination Reminder & Education for New Parents
+Backstory: Priya and Ankit, a young couple in Bhopal, have a 2-month-old baby due for vaccinations. They are first-time parents and slightly anxious about vaccine safety and side effects. The pediatrician wants a clear, reassuring script that explains the importance of vaccines, what to expect, and how to care for the baby afterward.
+
+Goal: Create a parental guidance script for pediatric vaccination.
+
+Prompt:
+"You are a pediatric nurse at a community clinic. Create a simple, reassuring Hindi-English mixed script for first-time parents about their baby’s upcoming vaccination, including why it’s important, what side effects to expect, and aftercare tips.
+
+Inputs:
+
+Baby’s age
+Vaccination schedule
+Parents’ preferred language
+Clinic follow-up policy"
+
+Prompt 17 — Addressing Medication Non-Compliance
+Backstory: A patient has not been taking their blood pressure medication regularly due to side effects.
+Goal: Resolve the issue while keeping them on a treatment plan.
+
+Prompt:
+"You are a Medication Adherence Specialist. Write a conversation script that:
+
+Empathizes with their concerns without judgment.
+Explores side effects in detail.
+Suggests possible alternatives or dosage adjustments.
+Reinforces risks of stopping medication abruptly.
+Creates a mutually agreed action plan.
+Inputs:
+
+Medication type
+Reported side effects"
