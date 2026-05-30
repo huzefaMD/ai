@@ -1295,72 +1295,108 @@ Inputs:
 SOPs for clinics & fitness centers
 
 Prompt 1 — Patient Intake SOP for Clinics
+
 Backstory: Your clinic is facing inconsistent patient registration processes, leading to missing information and delays. A clear SOP is needed so all staff follow the same steps from patient arrival to file creation.
+
 Goal: Ensure patient onboarding is smooth, professional, and legally compliant.
 
 Prompt:
+
 "You are a Healthcare Operations Consultant. Draft a detailed SOP for ‘Patient Intake & Registration’ at a multi-specialty clinic.
 
-Include step-by-step procedures from reception greeting to record creation.
-Outline required forms, ID checks, and consent protocols.
-Specify digital entry processes for EMR (Electronic Medical Records) software.
-Add escalation steps for incomplete documentation.
-Include a time target for each step.
+1. Include step-by-step procedures from reception greeting to record creation.
+
+2. Outline required forms, ID checks, and consent protocols.
+
+3. Specify digital entry processes for EMR (Electronic Medical Records) software.
+
+4. Add escalation steps for incomplete documentation.
+
+5. Include a time target for each step.
+
 Inputs:
 
-Clinic size (number of patients/day)
-EMR system used"
+1. Clinic size (number of patients/day)
+
+2. EMR system used"
 
 Prompt 2 — Daily Hygiene & Sanitization SOP for Fitness Centers
+
 Backstory: A chain of gyms received complaints about cleanliness and hygiene post-COVID. Management wants a strict cleaning and sanitization protocol to restore trust and prevent infections.
+
 Goal: Ensure every branch follows consistent hygiene standards daily.
 
 Prompt:
+
 "You are a Fitness Facility Safety Expert. Create an SOP titled ‘Daily Cleaning & Sanitization Procedures’ for a fitness center.
 
-Detail cleaning frequency for equipment, floors, and washrooms.
-Specify cleaning agents and their safe usage.
-Assign staff roles and responsibilities.
-Include end-of-day deep-cleaning checklist.
-Add compliance monitoring methods.
+1. Detail cleaning frequency for equipment, floors, and washrooms.
+
+2. Specify cleaning agents and their safe usage.
+
+3. Assign staff roles and responsibilities.
+
+4. Include end-of-day deep-cleaning checklist.
+
+5. Add compliance monitoring methods.
+
 Inputs:
 
-Number of cleaning staff per shift
-Peak hours for gym usage"
+1. Number of cleaning staff per shift
+
+2. Peak hours for gym usage"
 
 Prompt 3 — Emergency Response SOP for Clinics
+
 Backstory: Your clinic handles a variety of patients, but staff often panic during medical emergencies like cardiac arrest. A simple, actionable SOP will help staff act quickly and save lives.
+
 Goal: Provide a ready-to-use, role-specific emergency response guide.
 
 Prompt:
+
 "You are a Medical Safety Officer. Develop an SOP for ‘On-Site Medical Emergency Response’ for clinics.
 
-Define immediate steps for first responders.
-Include CPR protocol and defibrillator usage.
-Assign specific roles to receptionists, nurses, and doctors.
-List emergency contact numbers and hospital tie-ups.
-Include a post-incident documentation process.
+1. Define immediate steps for first responders.
+
+2. Include CPR protocol and defibrillator usage.
+
+3. Assign specific roles to receptionists, nurses, and doctors.
+
+4. List emergency contact numbers and hospital tie-ups.
+
+5. Include a post-incident documentation process.
+
 Inputs:
 
-Clinic specialty
-Available emergency equipment"
+1. Clinic specialty
+
+2. Available emergency equipment"
 
 Prompt 4 — Client Assessment SOP for Personal Trainers
+
 Backstory: A fitness center wants to standardize how personal trainers assess new clients before starting workout plans to avoid injuries and ensure personalized programs.
+
 Goal: Ensure safety and accuracy in training prescriptions.
 
 Prompt:
+
 "You are a Sports & Exercise Science Expert. Create an SOP for ‘Initial Client Assessment’ for personal trainers.
 
-Include health history intake, physical fitness testing, and goal setting.
-Outline screening for injuries and health risks.
-Specify tools for measuring body composition and endurance.
-Provide documentation format for client records.
-Suggest frequency for reassessments.
+1. Include health history intake, physical fitness testing, and goal setting.
+
+2. Outline screening for injuries and health risks.
+
+3. Specify tools for measuring body composition and endurance.
+
+4. Provide documentation format for client records.
+
+5. Suggest frequency for reassessments.
+
 Inputs:
 
-Type of fitness center (general, CrossFit, yoga, etc.)
-Age range of clients"
+1. Type of fitness center (general, CrossFit, yoga, etc.)
+
+2. Age range of clients"
 
 Prompt 5 — Equipment Maintenance SOP for Clinics & Gyms
 Backstory: Frequent equipment breakdowns are affecting service quality and safety in your facility. A preventive maintenance SOP is needed to minimize downtime.
