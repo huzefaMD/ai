@@ -2943,57 +2943,85 @@ Inputs:
 2. Number of questions per assessment"
 
 Prompt 2 — Summative Assessment Blueprint
+
 Backstory: Your advanced coding bootcamp has a final exam, but you want it to truly reflect real-world coding skills rather than just theory.
+
 Goal: Design a practical, comprehensive end-of-course assessment.
 
 Prompt:
+
 "You are a Technical Assessment Designer. Create a summative assessment plan that:
 
-Combines coding challenges with short written explanations.
-Uses real-world project scenarios.
-Tests both speed and accuracy.
-Has a clear grading rubric.
-Allows partial credit for problem-solving approaches.
+1. Combines coding challenges with short written explanations.
+
+2. Uses real-world project scenarios.
+
+3. Tests both speed and accuracy.
+
+4. Has a clear grading rubric.
+
+5. Allows partial credit for problem-solving approaches.
+
 Inputs:
 
-Key skills taught
-Assessment duration limit"
+1. Key skills taught
+
+2. Assessment duration limit"
 
 Prompt 3 — Peer Review Rubric Creation
+
 Backstory: In your creative writing workshop, you want students to review each other’s short stories. You need a clear, fair rubric so feedback is consistent.
+
 Goal: Standardize peer feedback for fairness and usefulness.
 
 Prompt:
+
 "You are a Peer Review Framework Designer. Create a rubric that:
 
-Rates creativity, clarity, structure, and grammar.
-Uses a simple scale (e.g., 1–5).
-Encourages constructive suggestions.
-Has space for specific examples from the work.
-Is easy for non-experts to apply.
+1. Rates creativity, clarity, structure, and grammar.
+
+2. Uses a simple scale (e.g., 1–5).
+
+3. Encourages constructive suggestions.
+
+4. Has space for specific examples from the work.
+
+5. Is easy for non-experts to apply.
+
 Inputs:
 
-Type of creative work
-Number of review categories"
+1. Type of creative work
+
+2. Number of review categories"
 
 Prompt 4 — AI-Assisted Feedback Generation
+
 Backstory: You’re an online piano teacher with 200 students. Manually writing personalized feedback takes hours every week.
+
 Goal: Automate feedback without losing the personal touch.
 
 Prompt:
+
 "You are an AI Feedback Specialist. Generate personalized feedback that:
 
-Acknowledges each student’s strengths.
-Points out 1–2 areas for improvement.
-Suggests a specific action step for next week.
-Keeps tone supportive and encouraging.
-Fits within 100–150 words per student.
+1. Acknowledges each student’s strengths.
+
+2. Points out 1–2 areas for improvement.
+
+3. Suggests a specific action step for next week.
+
+4. Keeps tone supportive and encouraging.
+
+5. Fits within 100–150 words per student.
+
 Inputs:
 
-Student performance notes or scores
-Lesson theme"
+1. Student performance notes or scores
+
+2. Lesson theme"
 
 Prompt 5 — Real-Time Quiz Feedback Script
+
 Backstory: You run a virtual trivia night for corporate training. You want the system to respond instantly with encouraging or corrective feedback for each answer.
 
 Goal: Script engaging, instant feedback messages.
@@ -3002,66 +3030,99 @@ Prompt:
 
 "You are a Gamified Feedback Copywriter. Write real-time quiz responses that: 
 
-Confirm correct answers with a fun fact. 
-Correct wrong answers with a helpful hint. 
-Keep energy high throughout the game. 
-Avoid shaming or overly formal tones. 
-Encourage players to try again.
+1. Confirm correct answers with a fun fact. 
+
+2. Correct wrong answers with a helpful hint. 
+
+3. Keep energy high throughout the game. 
+
+4. Avoid shaming or overly formal tones. 
+
+5. Encourage players to try again.
+
 Inputs: 
 
-List of questions with correct answers 
-Theme or tone (e.g., humorous, professional)"
+1. List of questions with correct answers 
+
+2. Theme or tone (e.g., humorous, professional)"
 
 Prompt 6 — Self-Assessment Worksheet
+
 Backstory: Your leadership skills program emphasizes self-awareness. You want students to evaluate their own progress before and after the course.
+
 Goal: Create a reflective self-assessment tool.
 
 Prompt:
+
 "You are a Self-Reflection Tool Designer. Create a self-assessment worksheet that:
 
-Uses Likert-scale ratings for skill confidence.
-Asks open-ended questions for reflection.
-Tracks progress over time.
-Encourages setting personal growth goals.
-Fits on a single printable page.
+1. Uses Likert-scale ratings for skill confidence.
+
+2. Asks open-ended questions for reflection.
+
+3. Tracks progress over time.
+
+4. Encourages setting personal growth goals.
+
+5. Fits on a single printable page.
+
 Inputs:
 
-Skills or competencies to measure
-Target audience profile"
+1. Skills or competencies to measure
+
+2. Target audience profile"
 
 Prompt 7 — Skills Gap Analysis Template
+
 Backstory: You run an Excel for Business course. Before starting, you want to identify each learner’s existing skills to personalize the learning path.
+
 Goal: Create a template that captures current ability vs. required skills.
 
 Prompt:
+
 "You are a Skills Mapping Expert. Create a skills gap analysis template that:
 
-Lists all required skills in the course.
-Lets students rate their current proficiency (e.g., Beginner, Intermediate, Expert).
-Highlights priority learning areas.
-Suggests resources for weaker areas.
-Can be easily completed online or offline.
+1. Lists all required skills in the course.
+
+2. Lets students rate their current proficiency (e.g., Beginner, Intermediate, Expert).
+
+3. Highlights priority learning areas.
+
+4. Suggests resources for weaker areas.
+
+5. Can be easily completed online or offline.
+
 Inputs:
 
-List of target skills
-Course duration"
+1. List of target skills
+
+2. Course duration"
 
 Prompt 8 — Continuous Improvement Feedback Form
+
 Backstory: You’re launching a language learning platform and need ongoing feedback from users to improve lessons.
+
 Goal: Build a feedback form that encourages honesty and detail.
 
 Prompt:
+
 "You are a Continuous Feedback Specialist. Create a feedback form that:
 
-Starts with a warm, appreciative introduction.
-Uses simple language and short questions.
-Allows both ratings and open-ended comments.
-Includes a suggestion box for new features.
-Takes under 3 minutes to complete.
+1. Starts with a warm, appreciative introduction.
+
+2. Uses simple language and short questions.
+
+3. Allows both ratings and open-ended comments.
+
+4. Includes a suggestion box for new features.
+
+5. Takes under 3 minutes to complete.
+
 Inputs:
 
-Areas of feedback needed (content, usability, engagement)
-Frequency of feedback requests"
+1. Areas of feedback needed (content, usability, engagement)
+
+2. Frequency of feedback requests"
 
 Prompt 9 — Competency-Based Assessment Plan
 Backstory: Your healthcare training course must prove that students are competent in specific procedures before certification.
