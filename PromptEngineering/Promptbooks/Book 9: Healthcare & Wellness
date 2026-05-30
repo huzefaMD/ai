@@ -1711,74 +1711,111 @@ Inputs:
 2. Telemedicine platform used"
 
 Prompt 17 — SOP for Membership Renewals in Fitness Centers
+
 Backstory: Your gym is losing revenue due to members forgetting to renew. Staff need a structured system for reminders and reactivation offers.
+
 Goal: Increase membership retention and reduce churn.
 
 Prompt:
+
 "You are a Membership Sales Manager. Draft an SOP for ‘Membership Renewal Process.’
 
-Set reminder schedule (30, 15, 7 days before expiry).
-Include follow-up methods (calls, SMS, email).
-Add guidelines for offering discounts or bonuses.
-Track renewal conversions in CRM.
-Include escalation if member doesn’t respond.
+1. Set reminder schedule (30, 15, 7 days before expiry).
+
+2. Include follow-up methods (calls, SMS, email).
+
+3. Add guidelines for offering discounts or bonuses.
+
+4. Track renewal conversions in CRM.
+
+5. Include escalation if member doesn’t respond.
+
 Inputs:
 
-CRM tool used
-Average membership duration"
+1. CRM tool used
+
+2. Average membership duration"
 
 Prompt 18 — SOP for Medical Record Archiving in Clinics
+
 Backstory: Paper and digital medical records are piling up, making it hard to retrieve patient histories quickly.
+
 Goal: Implement an efficient archiving process that’s secure and organized.
 
 Prompt:
+
 "You are a Medical Records Manager. Create an SOP for ‘Archiving Patient Records.’
 
-Define timeframes for active vs. inactive records.
-Outline digital backup and encryption protocols.
-Set physical storage standards for paper files.
-Assign record destruction timelines as per law.
-Add an audit process for compliance.
+1. Define timeframes for active vs. inactive records.
+
+2. Outline digital backup and encryption protocols.
+
+3. Set physical storage standards for paper files.
+
+4. Assign record destruction timelines as per law.
+
+5. Add an audit process for compliance.
+
 Inputs:
 
-Storage type (cloud/local)
-Legal retention period in region"
+1. Storage type (cloud/local)
+
+2. Legal retention period in region"
 
 Prompt 19 — SOP for Handling Walk-In Patients at Clinics
+
 Backstory: Your clinic experiences random surges in walk-ins, leading to long wait times and staff stress.
+
 Goal: Streamline walk-in patient handling without affecting scheduled appointments.
 
 Prompt:
+
 "You are a Clinic Operations Strategist. Write an SOP for ‘Walk-In Patient Management.’
 
-Define triage criteria for urgent vs. non-urgent cases.
-Set token number system process.
-Include walk-in vs. appointment queue integration.
-Outline communication guidelines for wait times.
-Add daily walk-in report template.
+1. Define triage criteria for urgent vs. non-urgent cases.
+
+2. Set token number system process.
+
+3. Include walk-in vs. appointment queue integration.
+
+4. Outline communication guidelines for wait times.
+
+5. Add daily walk-in report template.
+
 Inputs:
 
-Average daily walk-ins
-Number of doctors available"
+1. Average daily walk-ins
+
+2. Number of doctors available"
 
 Prompt 20 — SOP for Handling Injuries in Fitness Centers
+
 Backstory: Minor injuries during workouts are common, but trainers sometimes mishandle them due to lack of a proper guide.
+
 Goal: Ensure safe, immediate, and professional response to any injury.
 
 Prompt:
+
 "You are a Fitness Safety Coordinator. Draft an SOP for ‘Responding to Injuries in Fitness Centers.’
 
-Define first-aid procedures for common injuries.
-Outline incident documentation process.
-Include guidelines for calling emergency services.
-Add injury follow-up protocol.
-Train staff on using first-aid kits and AEDs.
+1. Define first-aid procedures for common injuries.
+
+2. Outline incident documentation process.
+
+3. Include guidelines for calling emergency services.
+
+4. Add injury follow-up protocol.
+
+5. Train staff on using first-aid kits and AEDs.
+
 Inputs:
 
-Common injuries in facility
-First-aid equipment available"
+1. Common injuries in facility
+
+2. First-aid equipment available"
 
 Prompt 21 — SOP for Cross-Department Communication in Clinics
+
 Backstory: Lab reports, prescriptions, and doctor notes sometimes get lost between departments, causing delays in treatment.
 
 Goal: Establish a smooth inter-department communication system.
@@ -1787,101 +1824,153 @@ Prompt:
 
 "You are a Healthcare Workflow Analyst. Create an SOP for ‘Cross-Department Communication.’ 
 
-Define communication channels (internal chat, EMR notes). 
-Set response time SLAs (Service Level Agreements). 
-Outline responsibility for forwarding information. 
-Include escalation for missed updates. 
-Add monthly review meetings.
+1. Define communication channels (internal chat, EMR notes). 
+
+2. Set response time SLAs (Service Level Agreements). 
+
+3. Outline responsibility for forwarding information. 
+
+4. Include escalation for missed updates. 
+
+5. Add monthly review meetings.
+
 Inputs: 
 
-Departments involved 
-Communication tools used"
+1. Departments involved 
+
+2. Communication tools used"
 
 Prompt 22 — SOP for Nutrition Counseling in Fitness Centers
+
 Backstory: Your gym offers nutrition advice, but trainers give inconsistent or incorrect dietary guidance.
+
 Goal: Ensure safe and professional nutrition counseling.
 
 Prompt:
+
 "You are a Sports Nutritionist. Write an SOP for ‘Nutrition Counseling in Fitness Centers.’
 
-Define consultation steps (assessment, plan, follow-up).
-Include dietary customization for medical conditions.
-Add guidelines for food tracking and progress measurement.
-Provide a disclaimer format to avoid liability.
-Include follow-up call schedule.
+1. Define consultation steps (assessment, plan, follow-up).
+
+2. Include dietary customization for medical conditions.
+
+3. Add guidelines for food tracking and progress measurement.
+
+4. Provide a disclaimer format to avoid liability.
+
+5. Include follow-up call schedule.
+
 Inputs:
 
-Type of clients served
-In-house or outsourced nutritionists"
+1. Type of clients served
+
+2. In-house or outsourced nutritionists"
 
 Prompt 23 — SOP for Handling High-Profile Clients in Clinics & Gyms
+
 Backstory: Occasionally, celebrities or high-net-worth clients visit your facility. Staff must know how to maintain confidentiality and special handling.
+
 Goal: Protect privacy while providing premium service.
 
 Prompt:
+
 "You are a VIP Client Services Coordinator. Draft an SOP for ‘Handling High-Profile Clients.’
 
-Set privacy measures for arrival and waiting areas.
-Define limited staff access.
-Outline appointment scheduling security.
-Include special billing and NDAs.
-Add media handling guidelines.
+1. Set privacy measures for arrival and waiting areas.
+
+2. Define limited staff access.
+
+3. Outline appointment scheduling security.
+
+4. Include special billing and NDAs.
+
+5. Add media handling guidelines.
+
 Inputs:
 
-Type of VIP clients expected
-Facility security protocols"
+1. Type of VIP clients expected
+
+2. Facility security protocols"
 
 Prompt 24 — SOP for Waste Management in Clinics & Fitness Centers
+
 Backstory: Improper waste disposal is causing hygiene issues and regulatory risks.
+
 Goal: Ensure compliance with biomedical and general waste disposal rules.
 
 Prompt:
+
 "You are an Environmental Compliance Officer. Create an SOP for ‘Waste Management.’
 
-Define waste segregation categories.
-Outline storage and disposal timelines.
-Include hazardous waste handling procedures.
-Add staff training requirements.
-Provide monthly compliance audit checklist.
+1. Define waste segregation categories.
+
+2. Outline storage and disposal timelines.
+
+3. Include hazardous waste handling procedures.
+
+4. Add staff training requirements.
+
+5. Provide monthly compliance audit checklist.
+
 Inputs:
 
-Waste volume generated
-Local disposal laws"
+1. Waste volume generated
+
+2. Local disposal laws"
 
 Prompt 25 — SOP for Marketing & Promotions Approval
+
 Backstory: Random discount campaigns and unapproved ads are damaging your brand image.
+
 Goal: Standardize marketing approvals for consistency and compliance.
 
 Prompt:
+
 "You are a Healthcare & Fitness Marketing Manager. Draft an SOP for ‘Approval Process for Marketing & Promotions.’
 
-Define who can propose campaigns.
-Set approval hierarchy and timelines.
-Include brand guideline checklist.
-Require legal compliance check for health claims.
-Add campaign performance tracking format.
+1. Define who can propose campaigns.
+
+2. Set approval hierarchy and timelines.
+
+3. Include brand guideline checklist.
+
+4. Require legal compliance check for health claims.
+
+5. Add campaign performance tracking format.
+
 Inputs:
 
-Number of campaigns per month
-Marketing budget range"
+1. Number of campaigns per month
+
+2. Marketing budget range"
 
 
 Diet & workout plan creation
 
 Prompt 1 — Personalized Weight Loss Plan
+
 Backstory: You have a 28-year-old office worker who sits for 8+ hours daily, has minimal exercise history, and wants to lose 8 kg in 3 months without crash diets. They prefer Indian vegetarian food.
+
 Goal: Create a safe, sustainable, and personalized weight loss plan.
 
 Prompt:
+
 "You are a Certified Nutritionist & Fitness Trainer. Design a 12-week weight loss program for a 28-year-old vegetarian office worker.
 
-Include daily calorie goals and macronutrient breakdown.
-Suggest 3 meal options per day with Indian vegetarian recipes.
-Add a beginner-friendly workout plan (no gym required).
-Include weekly progress tracking methods.
-Suggest motivational checkpoints to keep the client on track.
+1. Include daily calorie goals and macronutrient breakdown.
+
+2. Suggest 3 meal options per day with Indian vegetarian recipes.
+
+3. Add a beginner-friendly workout plan (no gym required).
+
+4. Include weekly progress tracking methods.
+
+5. Suggest motivational checkpoints to keep the client on track.
+
 Inputs:
 
-Height & weight
-Any food allergies
-Current fitness level"
+1. Height & weight
+
+2. Any food allergies
+
+3. Current fitness level"
