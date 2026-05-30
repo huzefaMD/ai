@@ -193,14 +193,15 @@ Tasks:
 ```
 ## Prompt 6 — Product Review & Comparison Script
 
-Backstory: Review videos are powerful for affiliate income, but many lack trust-building details that Indian audiences expect before purchasing.
+`Backstory: Review videos are powerful for affiliate income, but many lack trust-building details that Indian audiences expect before purchasing.`
 
-Goal: Create a balanced, research-backed review & comparison script that positions the creator as an expert.
+`Goal: Create a balanced, research-backed review & comparison script that positions the creator as an expert.`
 
-Prompt:
+`Prompt:`
 
-"You are a YouTube Tech/Product Review Scriptwriter. Write a review comparing the provided product with its top 2 competitors for an Indian audience.
+`"You are a YouTube Tech/Product Review Scriptwriter. Write a review comparing the provided product with its top 2 competitors for an Indian audience.`
 
+```
 Tasks:
 
 1. Open with a use-case relatable to your target audience.
@@ -212,33 +213,34 @@ Tasks:
 4. Suggest visual close-ups and demo shots.
 
 5. End with a clear recommendation and affiliate CTA.
-
-Inputs Needed:
-
+```
+`Inputs Needed:`
+```
 1. Product name & specs
 
 2. Competitor names & specs
 
 3. Audience profile
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Script (DOCX)
 
 2. Comparison Table (Excel)
 
 3. Title & Thumbnail Suggestions (Excel)"
+```
+## Prompt 7 — Myth-Busting Script
 
-Prompt 7 — Myth-Busting Script
+`Backstory: There’s massive misinformation on Indian YouTube about topics like finance, health, and education.`
 
-Backstory: There’s massive misinformation on Indian YouTube about topics like finance, health, and education.
+`Goal: Create a myth-busting script that establishes credibility while entertaining the audience.`
 
-Goal: Create a myth-busting script that establishes credibility while entertaining the audience.
+`Prompt:`
 
-Prompt:
+`"You are a YouTube Fact-Check Content Creator. Write a myth-busting script on the provided topic.`
 
-"You are a YouTube Fact-Check Content Creator. Write a myth-busting script on the provided topic.
-
+```
 Tasks:
 
 1. Identify 5 popular myths in the niche.
@@ -250,21 +252,21 @@ Tasks:
 4. Use engaging visuals and on-screen text for emphasis.
 
 5. End with a call for viewers to share to “spread the truth.”
-
-Inputs Needed:
-
+```
+`Inputs Needed:`
+```
 1. Topic
 2. Myths list (if available)
 3. Source links
-
-Output Format:
+```
+`Output Format:`
 
 1. Script (DOCX)
 
 2. Myths vs Facts Table (Excel)
 
 3. 5 Title Options (Excel)"
-
+```
 Prompt 8 — Challenge Video Script
 
 Backstory: Indian YouTube thrives on challenges (24-hour challenges, ₹500 budget challenges), but poorly structured challenges lose steam.
