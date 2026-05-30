@@ -329,7 +329,7 @@ Tasks:
 
 5. End with a summary and viewer question.
 ```
-`Inputs Needed:`
+`Inputs Needed:`     
 ```
 1. Topic
 
@@ -1805,18 +1805,18 @@ Tasks:
 2. Captions (Word/PDF)"
 ```
 
-LinkedIn Content Strategy
+# LinkedIn Content Strategy
 
-Prompt 1 — Personal Branding Profile Overhaul
+## Prompt 1 — Personal Branding Profile Overhaul
 
-Backstory: Many LinkedIn users have outdated or generic profiles, which means recruiters, clients, and collaborators scroll past without connecting.
+`Backstory: Many LinkedIn users have outdated or generic profiles, which means recruiters, clients, and collaborators scroll past without connecting.`
 
-Goal: Optimise a user’s entire LinkedIn profile to communicate credibility, personality, and expertise.
+`Goal: Optimise a user’s entire LinkedIn profile to communicate credibility, personality, and expertise.`
 
-Prompt:
+`Prompt:`
 
-"You are a LinkedIn Personal Branding Consultant. Audit and rewrite my LinkedIn profile to:
-
+`"You are a LinkedIn Personal Branding Consultant. Audit and rewrite my LinkedIn profile to:`
+```
 1. Craft a headline that balances keywords + personality.
 
 2. Rewrite the About section in a storytelling tone that highlights expertise, achievements, and mission.
@@ -1826,9 +1826,9 @@ Prompt:
 4. Suggest 5 banner image ideas that visually communicate my niche.
 
 5. Recommend 5 keyword phrases to naturally embed for search visibility.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Current profile link or text export
 
 2. Niche/profession
@@ -1836,23 +1836,23 @@ Inputs:
 3. Career achievements and measurable results
 
 4. Tone preference (formal, friendly, bold)
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Profile Overhaul Document (Word/PDF: Headline, About, Experience, Skills)
 
 2. Keyword List (Excel: Phrase, Search Volume, Placement Suggestion)"
+```
+## Prompt 2 — Weekly Thought Leadership Content Calendar
 
-Prompt 2 — Weekly Thought Leadership Content Calendar
+`Backstory: Posting randomly leads to low engagement. A structured, themed content calendar builds authority over time.`
 
-Backstory: Posting randomly leads to low engagement. A structured, themed content calendar builds authority over time.
+`Goal: Plan a month’s worth of high-impact LinkedIn posts in advance.`
 
-Goal: Plan a month’s worth of high-impact LinkedIn posts in advance.
+`Prompt:`
 
-Prompt:
-
-"You are a LinkedIn Thought Leadership Content Planner. Create a 4-week posting schedule that:
-
+`"You are a LinkedIn Thought Leadership Content Planner. Create a 4-week posting schedule that:`
+```
 1. Mixes post formats — text, image, video, document carousel, polls.
 
 2. Has a repeating theme each week (e.g., Monday motivation, Wednesday insights, Friday reflections).
@@ -1862,29 +1862,29 @@ Prompt:
 4. Suggests post captions, hashtags, and posting time for maximum reach in India.
 
 5. Includes 2–3 engagement triggers per post (question, poll, CTA).
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Niche/profession
 
 2. Target audience job roles & industries
 
 3. Posting frequency preference
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Calendar (Excel: Date, Post Type, Hook, CTA, Hashtags)"
+```
+## Prompt 3 — Industry Trends Analysis Posts
 
-Prompt 3 — Industry Trends Analysis Posts
+`Backstory: LinkedIn audiences value timely, analytical takes on industry trends — but posts need structure to stand out.`
 
-Backstory: LinkedIn audiences value timely, analytical takes on industry trends — but posts need structure to stand out.
+`Goal: Create analytical posts that position the user as an informed voice in their field.`
 
-Goal: Create analytical posts that position the user as an informed voice in their field.
+`Prompt:`
 
-Prompt:
-
-"You are a LinkedIn Industry Insights Writer. For the given trend/topic, create a post that:
-
+`"You are a LinkedIn Industry Insights Writer. For the given trend/topic, create a post that:`
+```
 1. Opens with a one-sentence summary of the trend.
 
 2. Explains the context in India + global relevance.
@@ -1894,31 +1894,31 @@ Prompt:
 4. Includes a brief future prediction or caution.
 
 5. Ends with a CTA for comments from peers.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Industry/trend topic
 
 2. Target audience expertise level
 
 3. Desired tone (informative, visionary, cautious)
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Post Draft (Word/PDF: Hook, Insights, CTA)
 
 2. Suggested Images/Charts (Excel: Idea, Source)"
+```
+## Prompt 4 — Career Journey Storytelling
 
-Prompt 4 — Career Journey Storytelling
+`Backstory: Story posts get more connection requests because they make the person relatable.`
 
-Backstory: Story posts get more connection requests because they make the person relatable.
+`Goal: Write a personal career journey post that builds trust and relatability.`
 
-Goal: Write a personal career journey post that builds trust and relatability.
+`Prompt:`
 
-Prompt:
-
-"You are a LinkedIn Career Story Coach. Write a 300–500 word LinkedIn post that:
-
+`"You are a LinkedIn Career Story Coach. Write a 300–500 word LinkedIn post that:`
+```
 1. Starts with an emotional hook (struggle, turning point, ‘aha’ moment).
 
 2. Describes 2–3 key moments in my journey.
@@ -1928,31 +1928,31 @@ Prompt:
 4. Relates it back to my industry/profession.
 
 5. Ends with a CTA inviting others to share their own journey.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Career highlights & turning points
 
 2. Key challenges & lessons
 
 3. Tone preference
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Post Draft (Word/PDF: Hook, Body, Lesson, CTA)
 
 2. Suggested Headline Variations (Excel)"
+```
+## Prompt 5 — Recruiter-Focused Profile Optimisation
 
-Prompt 5 — Recruiter-Focused Profile Optimisation
+`Backstory: Recruiters search via LinkedIn’s algorithm — poorly optimised profiles miss opportunities.`
 
-Backstory: Recruiters search via LinkedIn’s algorithm — poorly optimised profiles miss opportunities.
+`Goal: Make a profile keyword-rich and recruiter-friendly without sounding robotic.`
 
-Goal: Make a profile keyword-rich and recruiter-friendly without sounding robotic.
+`Prompt:`
 
-Prompt:
-
-"You are a LinkedIn Recruiter Optimisation Expert. For my given profession, optimise my profile to:
-
+`"You are a LinkedIn Recruiter Optimisation Expert. For my given profession, optimise my profile to:`
+```
 1. Include high-volume keywords recruiters search for.
 
 2. Use an impactful headline and About section that balances keyword density with personality.
@@ -1962,21 +1962,21 @@ Prompt:
 4. Recommend 5 featured content items to add.
 
 5. Ensure settings are optimised for recruiter visibility.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Current profile text/link
 
 2. Target job role/industry
 
 3. List of skills & achievements
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Optimised Profile Text (Word/PDF)
 
 2. Recruiter Keyword List (Excel)"
-
+```
 Prompt 6 — Problem–Solution Industry Posts
 
 Backstory: Demonstrating expertise through problem-solving posts attracts business leads.
