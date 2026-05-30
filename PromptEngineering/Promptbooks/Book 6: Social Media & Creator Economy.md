@@ -2702,16 +2702,16 @@ Tasks:
 
 3. Caption & hashtag suggestions (Excel)"
 ```
-Prompt 3 — YouTube Shorts from Webinar Recording
+## Prompt 3 — YouTube Shorts from Webinar Recording
 
-Backstory: Webinar replays often sit unused after the live event. Turning them into YouTube Shorts can revive their reach and attract new leads, but the format requires quick, engaging cuts.
+`Backstory: Webinar replays often sit unused after the live event. Turning them into YouTube Shorts can revive their reach and attract new leads, but the format requires quick, engaging cuts.`
 
-Goal: Create a series of 15–60 second YouTube Shorts from a webinar recording.
+`Goal: Create a series of 15–60 second YouTube Shorts from a webinar recording.`
 
-Prompt:
+`Prompt:`
 
-"You are a Webinar-to-Shorts Video Editor. From my uploaded webinar transcript/video, create 5 YouTube Shorts scripts that:
-
+`"You are a Webinar-to-Shorts Video Editor. From my uploaded webinar transcript/video, create 5 YouTube Shorts scripts that:`
+```
 1. Each focus on one clear idea, tip, or statistic.
 
 2. Include a curiosity-building hook.
@@ -2721,31 +2721,31 @@ Prompt:
 4. Fit within 60 seconds.
 
 5. Link back to the full webinar in the CTA.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Webinar transcript/video
 
 2. Main topic & audience
 
 3. Editing style (fast cuts, calm explanations, etc.)
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Shorts Script Bank (Excel: Title, Hook, Main Points, CTA)
 
 2. Visual/animation suggestions (Excel)"
+```   
+## Prompt 4 — Turning Twitter/X Threads into LinkedIn Articles
 
-Prompt 4 — Turning Twitter/X Threads into LinkedIn Articles
+`Backstory: Twitter/X threads often perform well for bite-sized tips, but LinkedIn audiences prefer slightly longer, more professional narratives. Without adaptation, the same content can feel too casual.`
 
-Backstory: Twitter/X threads often perform well for bite-sized tips, but LinkedIn audiences prefer slightly longer, more professional narratives. Without adaptation, the same content can feel too casual.
+`Goal: Expand a thread into a polished LinkedIn article.`
 
-Goal: Expand a thread into a polished LinkedIn article.
+`Prompt:`
 
-Prompt:
-
-"You are a Thread-to-Article Conversion Specialist. Take my provided Twitter/X thread and turn it into a 600–800 word LinkedIn article that:
-
+`"You are a Thread-to-Article Conversion Specialist. Take my provided Twitter/X thread and turn it into a 600–800 word LinkedIn article that:`
+```
 1. Expands on each tweet with explanations, data, or examples.
 
 2. Groups related ideas into clear sections with subheadings.
@@ -2755,31 +2755,31 @@ Prompt:
 4. Adds a relevant introduction and conclusion.
 
 5. Includes inline links or references where relevant.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Thread text (paste here)
 
 2. Target audience industry
 
 3. Desired tone (formal, conversational, educational)
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Article Draft (Word/PDF: Headline, Body, CTA)
 
 2. Suggested LinkedIn tags & hashtags (Excel)"
+```
+## Prompt 5 — Email Newsletter to Instagram Carousel
 
-Prompt 5 — Email Newsletter to Instagram Carousel
+`Backstory: Many newsletters have great visual storytelling potential, but they rarely make it to Instagram’s image-first platform. Converting them into carousels keeps followers engaged even outside email.`
 
-Backstory: Many newsletters have great visual storytelling potential, but they rarely make it to Instagram’s image-first platform. Converting them into carousels keeps followers engaged even outside email.
+`Goal: Repurpose a newsletter issue into a 5–8 slide Instagram carousel.`
 
-Goal: Repurpose a newsletter issue into a 5–8 slide Instagram carousel.
+`Prompt:`
 
-Prompt:
-
-"You are a Newsletter-to-Carousel Repurposing Expert. From my provided email newsletter, create a carousel plan that:
-
+`"You are a Newsletter-to-Carousel Repurposing Expert. From my provided email newsletter, create a carousel plan that:`
+```
 1. Summarises the key points visually.
 
 2. Turns long paragraphs into 1–2 sentence slide copy.
@@ -2789,31 +2789,31 @@ Prompt:
 4. Places the strongest insight in the first slide to hook.
 
 5. Ends with a share/save CTA.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Newsletter text
 
 2. Instagram audience profile
 
 3. Brand colour palette (optional)
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Carousel Script (Excel: Slide No., Headline, Copy, Visual Suggestion)
 
 2. Caption & hashtag suggestions (Excel)"
+```
+## Prompt 6 — LinkedIn Post to Instagram Reel Script
 
-Prompt 6 — LinkedIn Post to Instagram Reel Script
+`Backstory: LinkedIn posts can hold powerful stories or insights, but they’re often overlooked by younger Instagram audiences who prefer short videos. Repurposing them as reels can open up a whole new audience segment.`
 
-Backstory: LinkedIn posts can hold powerful stories or insights, but they’re often overlooked by younger Instagram audiences who prefer short videos. Repurposing them as reels can open up a whole new audience segment.
+`Goal: Convert a LinkedIn post into a 45–60 second Instagram Reel script that retains its professional value but feels native to Instagram.`
 
-Goal: Convert a LinkedIn post into a 45–60 second Instagram Reel script that retains its professional value but feels native to Instagram.
+`Prompt: `
 
-Prompt:
-
-"You are a Cross-Platform Social Media Repurposing Expert. Take my LinkedIn post and rewrite it as a short Instagram Reel script that:
-
+`"You are a Cross-Platform Social Media Repurposing Expert. Take my LinkedIn post and rewrite it as a short Instagram Reel script that:`
+```
 1. Starts with a visually engaging hook.
 
 2. Breaks down the main idea into 3–4 clear talking points.
@@ -2823,31 +2823,31 @@ Prompt:
 4. Includes a relatable CTA for Instagram viewers.
 
 5. Keeps the tone conversational yet informative.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. LinkedIn post text
 
 2. Instagram audience demographic
 
 3. My preferred reel style (talking head, animated text, B-roll)
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Reel Script (Word/PDF: Hook, Key Points, CTA)
 
 2. Visual/Audio Suggestions (Excel)"
+```
+## Prompt 7 — Blog Post to Twitter/X Thread
 
-Prompt 7 — Blog Post to Twitter/X Thread
+`Backstory: Blogs are great for SEO and in-depth knowledge, but the fast-moving Twitter/X audience needs bite-sized, high-impact delivery. This conversion can help a blog reach news/trend-driven spaces.`
 
-Backstory: Blogs are great for SEO and in-depth knowledge, but the fast-moving Twitter/X audience needs bite-sized, high-impact delivery. This conversion can help a blog reach news/trend-driven spaces.
+`Goal: Convert a blog post into a high-engagement Twitter/X thread.`
 
-Goal: Convert a blog post into a high-engagement Twitter/X thread.
+`Prompt:`
 
-Prompt:
-
-"You are a Thread Conversion Specialist. From my blog post, create a Twitter/X thread that:
-
+`"You are a Thread Conversion Specialist. From my blog post, create a Twitter/X thread that:`
+```
 1. Starts with a bold, curiosity-sparking first tweet.
 
 2. Breaks the blog into 8–12 easy-to-read tweets.
@@ -2857,31 +2857,31 @@ Prompt:
 4. Ends with a CTA encouraging retweets and discussion.
 
 5. Uses hashtags trending in my niche.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Blog post text
 
 2. Target industry hashtags
 
 3. Tone preference (educational, witty, controversial)
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Full Thread Draft (Word/PDF: Tweet No., Text, Hashtags)
 
 2. Suggested posting time slots (Excel)"
+```
+## Prompt 8 — YouTube Long-Form to Podcast Episode
 
-Prompt 8 — YouTube Long-Form to Podcast Episode
+`Backstory: Many YouTubers have in-depth discussions or tutorials that can work as standalone podcast episodes, but without the video visuals, the script needs reworking for audio-first audiences.`
 
-Backstory: Many YouTubers have in-depth discussions or tutorials that can work as standalone podcast episodes, but without the video visuals, the script needs reworking for audio-first audiences.
+`Goal: Convert a YouTube video into an engaging podcast episode script.`
 
-Goal: Convert a YouTube video into an engaging podcast episode script.
+`Prompt:`
 
-Prompt:
-
-"You are a Video-to-Audio Repurposing Expert. From my YouTube video, create a podcast episode script that:
-
+ `"You are a Video-to-Audio Repurposing Expert. From my YouTube video, create a podcast episode script that:`
+```
 1. Replaces visual references with descriptive explanations.
 
 2. Maintains a clear story arc (intro → body → takeaway).
@@ -2891,21 +2891,21 @@ Prompt:
 4. Includes verbal CTAs suitable for podcasts.
 
 5. Keeps length between 15–30 minutes.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. YouTube video link/transcript
 
 2. Target podcast audience
 
 3. Editing style preference
-
-Output Format:
-
+```
+`Output Format:
+```
 1. Podcast Script (Word/PDF)
 
 2. Audio enhancement notes (Excel)"
-
+```
 Prompt 9 — Instagram Carousel to Blog Article
 
 Backstory: Carousels are great for reach, but the limited text means they can’t go into detail. Expanding them into blog posts allows SEO ranking and a deeper dive into the topic.
