@@ -98,16 +98,16 @@
 ```
 1. Gap analysis table (Excel): Keyword | Competitor Rank | My Rank | Volume | Difficulty | Suggested Topic"
 ```
-Prompt 4 — SEO Strategy for Evergreen vs. Trending Content
+## Prompt 4 — SEO Strategy for Evergreen vs. Trending Content
 
-Backstory: Your blog about personal finance for young Indians needs both steady long-term traffic and short-term spikes. Balancing evergreen and trending topics is key.
+`Backstory: Your blog about personal finance for young Indians needs both steady long-term traffic and short-term spikes. Balancing evergreen and trending topics is key.`
 
-Goal: Build an SEO content plan with both evergreen and trending keywords.
+`Goal: Build an SEO content plan with both evergreen and trending keywords.`
 
-Prompt:
+`Prompt:`
 
-"You are a Content Lifecycle SEO Planner. Create a keyword strategy that:
-
+`"You are a Content Lifecycle SEO Planner. Create a keyword strategy that:`
+```
 1. Splits keywords into evergreen and trending categories.
 
 2. Suggests 10 blog topics for each category.
@@ -117,31 +117,31 @@ Prompt:
 4. Integrates trending keywords into evergreen content where possible.
 
 5. Provides an example of a “trend-to-evergreen” optimisation.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Blog niche: Personal finance in India
 
 2. Time sensitivity: Weekly posting
 
 3. Trend sources (Google Trends, Twitter hashtags)
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Keyword strategy table (Excel)
 
 2. Topic list with seasonal posting dates (Word/PDF)"
+```
+## Prompt 5 — Local SEO Keyword Optimisation for Blog Posts
 
-Prompt 5 — Local SEO Keyword Optimisation for Blog Posts
+`Backstory: You run a blog about weekend getaways in India and want to target city-specific audiences for better local search ranking.`
 
-Backstory: You run a blog about weekend getaways in India and want to target city-specific audiences for better local search ranking.
+`Goal: Create a local SEO keyword list optimised for multiple Indian cities.`
 
-Goal: Create a local SEO keyword list optimised for multiple Indian cities.
+`Prompt:`
 
-Prompt:
-
-"You are a Local SEO Keyword Strategist. For my travel blog, create a local SEO plan that:
-
+`"You are a Local SEO Keyword Strategist. For my travel blog, create a local SEO plan that:`
+```
 1. Identifies 5–10 high-volume city-specific keywords per destination.
 
 2. Suggests modifiers for local search intent (e.g., “best resorts in [City]”).
@@ -151,31 +151,31 @@ Prompt:
 4. Prioritises cities with high travel search demand.
 
 5. Suggests content formats that perform well in local SEO.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. List of target cities
 
 2. Travel niches covered (e.g., resorts, treks, heritage sites)
 
 3. Competitor blogs targeting these cities
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Local keyword map (Excel)
 
 2. On-page SEO placement guide (Word/PDF)"
+```
+## Prompt 6 — Long-Tail Keyword Strategy for Fast Ranking
+```
+`Backstory: Your new blog about home-based fitness for working professionals in India doesn’t have the domain authority to compete for broad keywords like “home workout.” You need a strategy focused on long-tail keywords to rank faster.`
 
-Prompt 6 — Long-Tail Keyword Strategy for Fast Ranking
+`Goal: Build a long-tail keyword list with clear ranking potential.`
 
-Backstory: Your new blog about home-based fitness for working professionals in India doesn’t have the domain authority to compete for broad keywords like “home workout.” You need a strategy focused on long-tail keywords to rank faster.
+`Prompt:`
 
-Goal: Build a long-tail keyword list with clear ranking potential.
-
-Prompt:
-
-"You are a Long-Tail SEO Specialist. For my blog niche, create a long-tail keyword strategy that:
-
+`"You are a Long-Tail SEO Specialist. For my blog niche, create a long-tail keyword strategy that:`
+```
 1. Identifies 30+ long-tail keywords with <1,000 monthly searches and low difficulty.
 
 2. Groups them by content theme.
@@ -185,22 +185,22 @@ Prompt:
 4. Shows how to interlink these posts for SEO strength.
 
 5. Includes a plan to scale up to mid-volume keywords over 6 months.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Blog niche & audience profile
 
 2. Competitor URLs (optional)
 
 3. Keyword difficulty threshold
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Keyword strategy table (Excel)
 
 2. 6-month ranking roadmap (Word/PDF)"
-
-Prompt 7 — Seasonal Keyword Calendar for Indian Festivals
+```
+ Prompt 7 — Seasonal Keyword Calendar for Indian Festivals
 
 Backstory: Your blog covers DIY crafts and home décor. Seasonal traffic spikes during Diwali, Holi, Raksha Bandhan, etc., but you’re missing out because you publish too late.
 
