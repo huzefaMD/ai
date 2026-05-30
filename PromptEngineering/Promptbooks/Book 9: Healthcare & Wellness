@@ -1034,142 +1034,215 @@ Inputs:
 2. Company’s work culture"
 
 Prompt 16 — Health Challenge Campaign
+
 Backstory: Your hospital wants to run a 30-day fitness challenge on Instagram to engage the community and promote preventive healthcare.
+
 Goal: Create a fun, shareable challenge plan.
 
 Prompt:
+
 "You are a Digital Health Campaign Planner. Design a 30-day #HealthyYou Challenge with:
 
-A new habit each day (hydration, walking, meditation).
-Posts with images, captions, and hashtags.
-Weekly check-ins and giveaways.
-A grand prize for consistent participation.
-Rules that are easy for anyone to follow.
+1. A new habit each day (hydration, walking, meditation).
+
+2. Posts with images, captions, and hashtags.
+
+3. Weekly check-ins and giveaways.
+
+4. A grand prize for consistent participation.
+
+5. Rules that are easy for anyone to follow.
+
 Inputs:
 
-Target demographic
-Budget for prizes"
+1. Target demographic
+
+2. Budget for prizes"
 
 Prompt 17 — Telemedicine Consultation Prep Guide
+
 Backstory: Many patients new to telemedicine struggle with preparation, leading to incomplete consultations.
+
 Goal: Create a patient guide to improve virtual healthcare effectiveness.
 
 Prompt:
+
 "You are a Telehealth Specialist. Write a patient guide titled ‘How to Prepare for Your Telemedicine Appointment.’
 
-Include tech setup instructions.
-List documents and reports to keep handy.
-Give tips for describing symptoms clearly.
-Add privacy and safety reminders.
-Provide a printable checklist.
+1. Include tech setup instructions.
+
+2. List documents and reports to keep handy.
+
+3. Give tips for describing symptoms clearly.
+
+4. Add privacy and safety reminders.
+
+5. Provide a printable checklist.
+
 Inputs:
 
-Patient age group
-Common ailments being consulted"
+1. Patient age group
+
+2. Common ailments being consulted"
 
 Prompt 18 — YouTube Health Myths Series Plan
+
 Backstory: Your channel will feature a weekly series debunking Indian health myths (e.g., drinking milk with fish is harmful).
+
 Goal: Educate while keeping the tone light and shareable.
 
 Prompt:
+
 "You are a Health Educator YouTuber. Create a 10-episode plan for ‘Busting Indian Health Myths.’
 
-Include episode titles and key talking points.
-Add suggested props or visuals.
-Provide one real-life case example per episode.
-Include a call-to-action at the end.
-Keep episodes under 8 minutes.
+1. Include episode titles and key talking points.
+
+2. Add suggested props or visuals.
+
+3. Provide one real-life case example per episode.
+
+4. Include a call-to-action at the end.
+
+5. Keep episodes under 8 minutes.
+
 Inputs:
 
-Myths to include
-Target audience age"
+1. Myths to include
+
+2. Target audience age"
 
 Prompt 19 — Parenting Guide on Child Nutrition
+
 Backstory: Many parents are unaware of the nutritional needs of children aged 2–10, leading to deficiencies.
+
 Goal: Provide a clear, trustworthy nutrition resource for parents.
 
 Prompt:
+
 "You are a Pediatric Nutrition Consultant. Create a guide titled ‘Building Strong Kids: Nutrition from Ages 2–10.’
 
-Divide content into age groups.
-Include daily nutrient requirements.
-Suggest meal ideas using common Indian foods.
-Warn against common dietary mistakes.
-Include a printable grocery checklist.
+1. Divide content into age groups.
+
+2. Include daily nutrient requirements.
+
+3. Suggest meal ideas using common Indian foods.
+
+4. Warn against common dietary mistakes.
+
+5. Include a printable grocery checklist.
+
 Inputs:
 
-Vegetarian/non-vegetarian
-Region-specific food availability"
+1. Vegetarian/non-vegetarian
+
+2. Region-specific food availability"
 
 Prompt 20 — Monthly Health Newsletter for Subscribers
+
 Backstory: Your health website wants to send a monthly email newsletter to keep readers engaged.
+
 Goal: Mix education with interactivity.
 
 Prompt:
+
 "You are a Health Newsletter Editor. Draft a monthly newsletter template with:
 
-A main feature article (seasonal health topic).
-3 quick tips.
-One healthy recipe.
-A health-related quiz or poll.
-Reader Q&A section.
+1. A main feature article (seasonal health topic).
+
+2. 3 quick tips.
+
+3. One healthy recipe.
+
+4. A health-related quiz or poll.
+
+5. Reader Q&A section.
+
 Inputs:
 
-Newsletter tone (casual/formal)
-Primary focus (nutrition, fitness, general health)"
+1. Newsletter tone (casual/formal)
+
+2. Primary focus (nutrition, fitness, general health)"
 
 Prompt 21 — Fitness Tips for Homebound Seniors
+
 Backstory: Many older adults remain indoors due to mobility issues but still need safe exercise routines.
+
 Goal: Provide a gentle, clear, and safe fitness plan.
 
 Prompt:
+
 "You are a Senior Fitness Instructor. Create a 7-day gentle movement plan for seniors.
 
-Focus on balance, flexibility, and light strength.
-No special equipment required.
-Add breathing and relaxation techniques.
-Include safety precautions.
-Suggest music or audio for motivation.
+1. Focus on balance, flexibility, and light strength.
+
+2. No special equipment required.
+
+3. Add breathing and relaxation techniques.
+
+4. Include safety precautions.
+
+5. Suggest music or audio for motivation.
+
 Inputs:
 
-Age range
-Any health conditions"
+1. Age range
+
+2. Any health conditions"
 
 Prompt 22 — Festival Food Healthy Alternatives Guide
+
 Backstory: Indian festivals often involve deep-fried and sugary foods, causing health risks for diabetics and heart patients.
+
 Goal: Suggest healthy swaps without losing cultural authenticity.
 
 Prompt:
+
 "You are a Healthy Recipe Developer. Write a guide on ‘Healthy Food Swaps for Indian Festivals.’
 
-Cover snacks, main dishes, and desserts.
-Include traditional alternatives with lower calories.
-Provide recipes for at least 5 items.
-Suggest portion control strategies.
-Add plating ideas for festive appeal.
+1. Cover snacks, main dishes, and desserts.
+
+2. Include traditional alternatives with lower calories.
+
+3. Provide recipes for at least 5 items.
+
+4. Suggest portion control strategies.
+
+5. Add plating ideas for festive appeal.
+
 Inputs:
 
-Festival name
-Dietary restrictions"
+1. Festival name
+
+2. Dietary restrictions"
 
 Prompt 23 — Emergency Health Tips for Travelers
+
 Backstory: Many young Indians travel for work or leisure but are unprepared for health emergencies.
+
 Goal: Create a pocket guide for safe travel health.
 
 Prompt:
+
 "You are a Travel Health Advisor. Prepare a one-page emergency health tips sheet for Indian travelers.
 
-Cover common issues (food poisoning, dehydration, minor injuries).
-List essential travel medicines.
-Include local emergency contact formats.
-Suggest preventive measures.
-Make it easy to print or save digitally.
+1. Cover common issues (food poisoning, dehydration, minor injuries).
+
+2. List essential travel medicines.
+
+3. Include local emergency contact formats.
+
+4. Suggest preventive measures.
+
+5. Make it easy to print or save digitally.
+
 Inputs:
 
-Travel destination
-Duration of travel"
+1. Travel destination
+
+2. Duration of travel"
 
 Prompt 24 — Daily Radio Health Tip Script
+
 Backstory: A local FM station wants short daily health tips for morning listeners.
 
 Goal: Inform and engage in under 60 seconds.
@@ -1178,31 +1251,47 @@ Prompt:
 
 "You are a Radio Health Host. Write a 60-second script on ‘One Simple Daily Habit for Better Sleep.’ 
 
-Begin with a catchy intro. 
-Share one science-backed tip. 
-Give a quick example of implementation. 
-End with a motivational sign-off. 
-Adapt language for local listeners.
+1. Begin with a catchy intro. 
+
+2. Share one science-backed tip. 
+
+3. Give a quick example of implementation. 
+
+4. End with a motivational sign-off. 
+
+5. Adapt language for local listeners.
+
 Inputs: 
 
-Tip theme (nutrition, fitness, mental health) 
-City/region"
+1. Tip theme (nutrition, fitness, mental health) 
+
+2. City/region"
 
 Prompt 25 — Health App Daily Notification Ideas
+
 Backstory: You are developing a wellness app and want to send engaging, non-intrusive daily push notifications.
+
 Goal: Encourage consistent health habits without annoying users.
 
 Prompt:
+
 "You are a Health App UX Content Writer. Draft 30 daily health notification ideas.
 
-Each under 100 characters.
-Mix facts, reminders, and motivational quotes.
-Adapt to user’s health goals.
-Keep tone friendly and encouraging.
-Suggest emoji use for visual appeal.
+1. Each under 100 characters.
+
+2. Mix facts, reminders, and motivational quotes.
+
+3. Adapt to user’s health goals.
+
+4. Keep tone friendly and encouraging.
+
+5. Suggest emoji use for visual appeal.
+
 Inputs:
 
-User’s primary goal (weight loss, stress relief, general health)"
+1. User’s primary goal (weight loss, stress relief, general health)"
 
 
 SOPs for clinics & fitness centers
+
+
