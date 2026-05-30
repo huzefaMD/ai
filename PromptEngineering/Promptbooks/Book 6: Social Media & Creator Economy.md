@@ -1006,16 +1006,16 @@ Tasks:
 
 2. Captions (Word/PDF: Hook + Body + Hashtags)"
 ```
-Prompt 2 — Carousel Educational Content
+## Prompt 2 — Carousel Educational Content
 
-Backstory: Instagram carousels are great for retention, but many fail because they lack a “keep swiping” story flow.
+`Backstory: Instagram carousels are great for retention, but many fail because they lack a “keep swiping” story flow.`
 
-Goal: Create an educational carousel with a clear problem-solution structure and compelling captions.
+`Goal: Create an educational carousel with a clear problem-solution structure and compelling captions.`
 
-Prompt:
+`Prompt:`
 
-"You are an Instagram Educational Content Creator. For the given niche, create 5 carousel content ideas that:
-
+`"You are an Instagram Educational Content Creator. For the given niche, create 5 carousel content ideas that:`
+```
 1. Have a swipe-worthy hook on Slide 1.
 
 2. Educate in 5–7 slides using problem → reason → solution format.
@@ -1025,31 +1025,31 @@ Prompt:
 4. Have a CTA on the last slide to comment, share, or DM.
 
 5. Include captions that expand the post value with storytelling.
-
-Inputs Needed:
-
+```
+`Inputs Needed:`
+```
 1. Topic/niche
 
 2. Audience pain points
 
 3. Desired CTA
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Carousel Storyboard (Excel: Slide No., Text, Visual Suggestion)
 
 2. Captions (Word/PDF: Hook, Value, CTA, Hashtags)"
+```
+## Prompt 3 — Behind-the-Scenes (BTS) Stories & Reels
 
-Prompt 3 — Behind-the-Scenes (BTS) Stories & Reels
+`Backstory: BTS builds trust and humanizes brands, but most posts feel random instead of strategic.`
 
-Backstory: BTS builds trust and humanizes brands, but most posts feel random instead of strategic.
+`Goal: Script BTS content that feels authentic, fun, and subtly promotes the creator/product.`
 
-Goal: Script BTS content that feels authentic, fun, and subtly promotes the creator/product.
+`Prompt:`
 
-Prompt:
-
-"You are an Instagram BTS Content Director. For the given brand or creator, generate 3 BTS Reel ideas + captions that:
-
+`"You are an Instagram BTS Content Director. For the given brand or creator, generate 3 BTS Reel ideas + captions that:`
+```
 1. Show work process in a cinematic yet relatable way.
 
 2. Include humour or relatable struggles for virality.
@@ -1059,31 +1059,31 @@ Prompt:
 4. Have captions that tell the story behind the scene.
 
 5. Encourage followers to comment their thoughts or guesses.
-
-Inputs Needed:
-
+```
+`Inputs Needed:`
+```
 1. Brand/creator name
 
 2. Product/service type
 
 3. Key moments or processes
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Reel Shot List (Excel: Scene, Visual, Audio Suggestion)
 
 2. Captions (Word/PDF: Hook, Story, CTA)"
+```
+## Prompt 4 — Micro-Story Reels with Strong Hooks
 
-Prompt 4 — Micro-Story Reels with Strong Hooks
+`Backstory: Short-form storytelling wins attention on Instagram, but creators often fail to grab attention in the first 3 seconds.`
 
-Backstory: Short-form storytelling wins attention on Instagram, but creators often fail to grab attention in the first 3 seconds.
+`Goal: Build 15–30 second story Reels with strong hooks and captions that amplify the impact.`
 
-Goal: Build 15–30 second story Reels with strong hooks and captions that amplify the impact.
+`Prompt:`
 
-Prompt:
-
-"You are an Instagram Micro-Story Director. Create 3 micro-story Reel concepts & captions for the given topic that:
-
+`"You are an Instagram Micro-Story Director. Create 3 micro-story Reel concepts & captions for the given topic that:`
+```
 1. Open with a hook statement or shocking visual in the first 2 seconds.
 
 2. Build tension or curiosity in 2–3 quick scenes.
@@ -1093,21 +1093,21 @@ Prompt:
 4. Use captions to deepen the meaning or humour of the story.
 
 5. Match trending Indian audio styles.
-
-Inputs Needed:
-
+```
+`Inputs Needed:`
+```
 1. Topic/niche
 
 2. Goal (entertain, inspire, educate)
 
 3. Audience demographics
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Storyboard Table (Excel: Scene, Hook, Audio, Visual Style)
 
 2. Captions (Word/PDF: Hook, Story, CTA, Hashtags)"
-
+```
 Prompt 5 — User-Generated Content (UGC) Campaign
 
 Backstory: UGC boosts trust and reach but fails if the content brief is unclear.
