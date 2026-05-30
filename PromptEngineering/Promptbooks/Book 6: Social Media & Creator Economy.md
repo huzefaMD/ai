@@ -1977,16 +1977,16 @@ Tasks:
 
 2. Recruiter Keyword List (Excel)"
 ```
-Prompt 6 — Problem–Solution Industry Posts
+## Prompt 6 — Problem–Solution Industry Posts
 
-Backstory: Demonstrating expertise through problem-solving posts attracts business leads.
+`Backstory: Demonstrating expertise through problem-solving posts attracts business leads.`
 
-Goal: Create a post that outlines a common industry problem and offers a clear solution.
+`Goal: Create a post that outlines a common industry problem and offers a clear solution.`
 
-Prompt:
+`Prompt:`
 
-"You are a LinkedIn Solution Content Writer. Create a post that:
-
+`"You are a LinkedIn Solution Content Writer. Create a post that:`
+```
 1. Identifies a common, relatable problem in my niche.
 
 2. Uses a storytelling example to illustrate it.
@@ -1996,29 +1996,29 @@ Prompt:
 4. Adds supporting data or industry references.
 
 5. Invites comments on alternative solutions.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Industry/niche
 
 2. Problem details
 
 3. Preferred word count
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Post Draft (Word/PDF: Problem, Story, Solution, CTA)"
+```
+## Prompt 7 — Visual Document Carousel Ideas
 
-Prompt 7 — Visual Document Carousel Ideas
+`Backstory: Carousels get high engagement when they provide actionable insights.`
 
-Backstory: Carousels get high engagement when they provide actionable insights.
+`Goal: Create a carousel post concept that educates in a swipeable format.`
 
-Goal: Create a carousel post concept that educates in a swipeable format.
+`Prompt:`
 
-Prompt:
-
-"You are a LinkedIn Carousel Content Designer. For the given topic, plan a 6–8 slide document carousel that:
-
+`"You are a LinkedIn Carousel Content Designer. For the given topic, plan a 6–8 slide document carousel that:`
+```
 1. Opens with a bold promise or benefit.
 
 2. Uses short, clear text per slide.
@@ -2028,31 +2028,31 @@ Prompt:
 4. Ends with a slide that has a strong CTA.
 
 5. Is designed for mobile readability.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Topic/theme
 
 2. Brand colour scheme
 
 3. Main takeaways
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Carousel Plan (Excel: Slide No., Content, Visual)
 
 2. Caption Text (Word/PDF)"
+```
+## Prompt 8 — LinkedIn Poll Strategy
 
-Prompt 8 — LinkedIn Poll Strategy
+`Backstory: Polls can go viral if they spark curiosity or debate.`
 
-Backstory: Polls can go viral if they spark curiosity or debate.
+`Goal: Create a poll that generates high engagement and conversation.`
 
-Goal: Create a poll that generates high engagement and conversation.
+`Prompt:`
 
-Prompt:
-
-"You are a LinkedIn Poll Engagement Strategist. Create a poll that:
-
+`"You are a LinkedIn Poll Engagement Strategist. Create a poll that:`
+```
 1. Has a question relevant to my industry.
 
 2. Offers 3–4 clear answer options.
@@ -2062,31 +2062,31 @@ Prompt:
 4. Has timing suggestions for maximum reach.
 
 5. Can be followed up with a post analysing the results.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Industry/niche
 
 2. Audience job roles
 
 3. Topic of interest
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Poll Plan (Excel: Question, Options, Posting Time)
 
 2. Caption Text (Word/PDF)"
+```
+## Prompt 9 — Networking DM Scripts
 
-Prompt 9 — Networking DM Scripts
+`Backstory: Most people send generic connection requests and get ignored.`
 
-Backstory: Most people send generic connection requests and get ignored.
+`Goal: Create personalised DM scripts for networking and collaborations.`
 
-Goal: Create personalised DM scripts for networking and collaborations.
+`Prompt:`
 
-Prompt:
-
-"You are a LinkedIn Networking Script Writer. Create 5 DM templates that:
-
+`"You are a LinkedIn Networking Script Writer. Create 5 DM templates that:`
+```
 1. Personalise the opening based on the recipient’s profile.
 
 2. Explain clearly why I’m reaching out.
@@ -2096,27 +2096,27 @@ Prompt:
 4. Stay under 300 characters for mobile readability.
 
 5. Avoid pushy language.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. My profession/niche
 
 2. Type of people I want to connect with (recruiters, peers, prospects)
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. DM Template Table (Excel: Audience Type, Script, CTA)"
+```
+## Prompt 10 — Competitor Content Gap Analysis
 
-Prompt 10 — Competitor Content Gap Analysis
+`Backstory: Many professionals post regularly but don’t know what gaps exist between their own content and competitors’ top-performing posts. This means they keep posting similar content while missing chances to stand out.`
 
-Backstory: Many professionals post regularly but don’t know what gaps exist between their own content and competitors’ top-performing posts. This means they keep posting similar content while missing chances to stand out.
+`Goal: Identify topics and formats competitors use that I haven’t, and create a strategy to fill those gaps.`
 
-Goal: Identify topics and formats competitors use that I haven’t, and create a strategy to fill those gaps.
+`Prompt:`
 
-Prompt:
-
-"You are a LinkedIn Competitor Content Analyst. Analyse the profiles and recent posts of my 3 chosen competitors to:
-
+`"You are a LinkedIn Competitor Content Analyst. Analyse the profiles and recent posts of my 3 chosen competitors to:`
+```
 1. Identify 5 content topics they post about that get the most engagement.
 
 2. Highlight formats they use (carousel, video, poll, text posts) that I don’t.
@@ -2126,31 +2126,31 @@ Prompt:
 4. Recommend hashtags they use but I haven’t.
 
 5. Suggest posting frequency and time patterns to compete effectively.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Links to 3 competitor profiles
 
 2. My LinkedIn profile link
 
 3. My niche/industry focus
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Competitor Gap Report (Excel: Topic, Format, Engagement Score, My Opportunity)
 
 2. Suggested Content Plan (Word/PDF: Topic Outline, Format, Hook)"
+```
+## Prompt 11 — Case Study Post Development
 
-Prompt 11 — Case Study Post Development
+`Backstory: Professionals who share case studies of their work gain credibility because it’s proof-based content — especially valued in consulting, marketing, and tech.`
 
-Backstory: Professionals who share case studies of their work gain credibility because it’s proof-based content — especially valued in consulting, marketing, and tech.
+`Goal: Create a structured case study LinkedIn post that is engaging and easy to read.`
 
-Goal: Create a structured case study LinkedIn post that is engaging and easy to read.
+`Prompt:`
 
-Prompt:
-
-"You are a LinkedIn Case Study Writer. Using the provided project details, create a 300–500 word post that:
-
+`"You are a LinkedIn Case Study Writer. Using the provided project details, create a 300–500 word post that:`
+```
 1. Starts with a clear, measurable result achieved.
 
 2. Breaks down the problem, the approach taken, and the outcome.
@@ -2160,31 +2160,31 @@ Prompt:
 4. Includes visuals (charts, before-after screenshots) to support the story.
 
 5. Ends with a CTA inviting others to discuss similar challenges.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Project details (problem, solution, results)
 
 2. Metrics achieved
 
 3. Audience level of technical knowledge
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Case Study Post Draft (Word/PDF: Hook, Problem, Approach, Results, CTA)
 
 2. Visual Suggestions (Excel: Slide No., Visual Type, Caption)"
+```
+## Prompt 12 — Lead Magnet Post Creation
 
-Prompt 12 — Lead Magnet Post Creation
+`Backstory: Many professionals try to generate leads on LinkedIn but fail because their offer isn’t packaged in a value-first way.`
 
-Backstory: Many professionals try to generate leads on LinkedIn but fail because their offer isn’t packaged in a value-first way.
+`Goal: Write a post that offers a free resource in exchange for engagement or connection.`
 
-Goal: Write a post that offers a free resource in exchange for engagement or connection.
+`Prompt:`
 
-Prompt:
-
-"You are a LinkedIn Lead Generation Content Strategist. Create a post that:
-
+`"You are a LinkedIn Lead Generation Content Strategist. Create a post that:`
+```
 1. Introduces a free, high-value resource (e-book, checklist, template).
 
 2. Explains the problem it solves and the benefits.
@@ -2194,31 +2194,31 @@ Prompt:
 4. Clearly instructs readers how to get it (comment, DM, fill form).
 
 5. Is optimised for Indian professionals in my niche.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Resource details
 
 2. Target audience pain points
 
 3. Preferred lead collection method
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Lead Magnet Post Draft (Word/PDF: Hook, Problem, Resource, CTA)
 
 2. Hashtag List (Excel: Hashtag, Engagement Potential)"
+```
+## Prompt 13 — “Hot Take” Opinion Post
 
-Prompt 13 — “Hot Take” Opinion Post
+`Backstory: Safe content blends into the feed; opinionated posts start conversations — but they need to be well-structured to avoid backlash.`
 
-Backstory: Safe content blends into the feed; opinionated posts start conversations — but they need to be well-structured to avoid backlash.
+`Goal: Share a strong, unique opinion while maintaining professionalism.`
 
-Goal: Share a strong, unique opinion while maintaining professionalism.
+`Prompt:`
 
-Prompt:
-
-"You are a LinkedIn Opinion Post Coach. Create a post that:
-
+`"You are a LinkedIn Opinion Post Coach. Create a post that:`
+```
 1. States my opinion on a trending industry issue.
 
 2. Supports it with 2–3 credible data points or examples.
@@ -2228,67 +2228,67 @@ Prompt:
 4. Invites constructive disagreement in comments.
 
 5. Suggests hashtags that attract debate.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Topic/issue
 
 2. My stance (agree, disagree, nuanced)
 
 3. Any supporting evidence I have
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Opinion Post Draft (Word/PDF: Hook, Supporting Points, CTA)
 
 2. Comment Engagement Prompts (Excel)"
+```
+## Prompt 14 — Event Participation Posts
 
-Prompt 14 — Event Participation Posts
+`Backstory: Posting about attending events or conferences boosts credibility and network visibility, but most posts are generic (“Had a great time…”).`
 
-Backstory: Posting about attending events or conferences boosts credibility and network visibility, but most posts are generic (“Had a great time…”).
+`Goal: Craft event posts that drive engagement and connections.`
 
-Goal: Craft event posts that drive engagement and connections.
+`Prompt:`
 
-Prompt:
-
-"You are a LinkedIn Event Content Specialist. Create 2 posts:
-
+`"You are a LinkedIn Event Content Specialist. Create 2 posts:`
+```
 1. Pre-event post — announcing attendance, inviting connections to meet.
 
 2. Post-event summary — sharing learnings, key quotes, and tagging speakers.
-
-Each should:
-
+```
+`Each should:`
+```
 1. Include relevant hashtags
 
 2. Tag the event’s official page & key attendees
 
 3. Include 1–2 photos (real or stock placeholders)
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Event name & date
 
 2. My role (speaker, attendee, exhibitor)
 
 3. Key learnings/takeaways
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Post Drafts (Word/PDF: Pre-event, Post-event)
 
 2. Tag & Hashtag List (Excel)"
+```
+## Prompt 15 — LinkedIn SEO Audit
 
-Prompt 15 — LinkedIn SEO Audit
+`Backstory: Few people know that LinkedIn has its own search algorithm, and optimising for it can dramatically improve profile visibility.`
 
-Backstory: Few people know that LinkedIn has its own search algorithm, and optimising for it can dramatically improve profile visibility.
+`Goal: Audit a profile for LinkedIn SEO and recommend improvements.`
 
-Goal: Audit a profile for LinkedIn SEO and recommend improvements.
+`Prompt:`
 
-Prompt:
-
-"You are a LinkedIn SEO Specialist. Audit my profile to:
-
+`"You are a LinkedIn SEO Specialist. Audit my profile to:`
+```
 1. Identify missing or underused keywords.
 
 2. Suggest keyword-rich rewrites for headline, About, and experience sections.
@@ -2298,29 +2298,29 @@ Prompt:
 4. Suggest content topics to improve search rank in my industry.
 
 5. Provide tips on where to place keywords without overstuffing.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. My current LinkedIn profile text
 
 2. Target role/industry keywords
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. SEO Audit Report (Excel: Section, Current Text, Recommended Change)
 
 2. Keyword Strategy Guide (Word/PDF)"
+```
+## Prompt 16 — “Day in the Life” Content Plan
 
-Prompt 16 — “Day in the Life” Content Plan
+`Backstory: Audiences love seeing what a professional’s daily routine looks like — it humanises them and builds rapport.`
 
-Backstory: Audiences love seeing what a professional’s daily routine looks like — it humanises them and builds rapport.
+`Goal: Plan a LinkedIn-friendly “day in the life” content series.`
 
-Goal: Plan a LinkedIn-friendly “day in the life” content series.
+`Prompt:`
 
-Prompt:
-
-"You are a LinkedIn Lifestyle Content Planner. Create a 3-part content series showing my professional day:
-
+`"You are a LinkedIn Lifestyle Content Planner. Create a 3-part content series showing my professional day:`
+```
 1. Morning routine & prep
 
 2. Mid-day work scenes & client interactions
@@ -2328,31 +2328,31 @@ Prompt:
 3. Evening wrap-up & reflections
 
 4. Each post should be engaging, authentic, and include captions inviting comments.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. My profession/role
 
 2. Any interesting rituals or routines
 
 3. Tone preference (casual, inspirational, educational)
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Content Plan (Excel: Scene, Visual, Caption Idea)
 
 2. Full Post Scripts (Word/PDF)"
+```
+## Prompt 17 — Viral Hook Bank for LinkedIn
 
-Prompt 17 — Viral Hook Bank for LinkedIn
+`Backstory: Without a strong first line, even the best LinkedIn post dies in the feed.`
 
-Backstory: Without a strong first line, even the best LinkedIn post dies in the feed.
+`Goal: Build a library of high-impact hooks tailored to my niche.`
 
-Goal: Build a library of high-impact hooks tailored to my niche.
+`Prompt:`
 
-Prompt:
-
-"You are a LinkedIn Hook Copywriter. Create 20 opening lines that:
-
+`"You are a LinkedIn Hook Copywriter. Create 20 opening lines that:`
+```
 1. Spark curiosity in the first 5 words.
 
 2. Are specific to my industry.
@@ -2362,27 +2362,27 @@ Prompt:
 4. Fit both educational and personal story formats.
 
 5. Avoid clickbait that disappoints.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. My niche/profession
 
 2. Examples of content I like
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Hook Bank (Excel: Hook, Content Type, Tone)"
+```
+## Prompt 18 — Engagement Pods Strategy
 
-Prompt 18 — Engagement Pods Strategy
+`Backstory: Engagement pods — groups of LinkedIn users who support each other’s posts — can boost reach if managed well.`
 
-Backstory: Engagement pods — groups of LinkedIn users who support each other’s posts — can boost reach if managed well.
+`Goal: Create a structure for ethical, value-driven engagement pods.`
 
-Goal: Create a structure for ethical, value-driven engagement pods.
+`Prompt:`
 
-Prompt:
-
-"You are a LinkedIn Engagement Pod Strategist. Design a 4-week engagement pod plan that:
-
+`"You are a LinkedIn Engagement Pod Strategist. Design a 4-week engagement pod plan that:`
+```
 1. Defines group rules for authenticity.
 
 2. Sets posting & commenting schedules.
@@ -2392,21 +2392,21 @@ Prompt:
 4. Outlines how to track pod performance.
 
 5. Includes prompts for meaningful comments.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Pod size preference
 
 2. Industry focus
 
 3. Target engagement metrics
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Engagement Pod Playbook (Word/PDF)
 
 2. Performance Tracker Template (Excel)"
-
+```
 Prompt 19 — Hashtag Research & Optimisation
 
 Backstory: Many LinkedIn posts use hashtags randomly, reducing discoverability.
