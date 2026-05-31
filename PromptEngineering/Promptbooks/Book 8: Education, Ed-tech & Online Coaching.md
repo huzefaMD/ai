@@ -390,14 +390,14 @@
 ```
 ## Prompt 13 — Personal Branding for Professionals
 
-Backstory: You’re an online coach helping mid-career professionals build personal brands for LinkedIn.
+`Backstory: You’re an online coach helping mid-career professionals build personal brands for LinkedIn.`
 
-Goal: Create a step-by-step 8-week workshop curriculum.
+`Goal: Create a step-by-step 8-week workshop curriculum.`
 
-Prompt:
+`Prompt:`
 
-"You are a Personal Branding Coach. Develop an 8-week course that:
-
+`"You are a Personal Branding Coach. Develop an 8-week course that:`
+```
 1. Covers profile optimization, content creation, and networking.
 
 2. Includes weekly content posting goals.
@@ -407,29 +407,29 @@ Prompt:
 4. Tracks progress through engagement metrics.
 
 5. Ends with a personal brand launch plan.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Target industry
 
 2. Level of LinkedIn usage
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Weekly plan (Excel)
 
 2. Content templates (Word)"
+```
+## Prompt 14 — Spoken English for Beginners
 
-Prompt 14 — Spoken English for Beginners
+`Backstory: You run a spoken English institute targeting first-time job seekers from non-English backgrounds.`
 
-Backstory: You run a spoken English institute targeting first-time job seekers from non-English backgrounds.
+`Goal: Improve fluency and confidence in 3 months.`
 
-Goal: Improve fluency and confidence in 3 months.
+`Prompt:`
 
-Prompt:
-
-"You are an ESL (English as a Second Language) Trainer. Create a 12-week program that:
-
+`"You are an ESL (English as a Second Language) Trainer. Create a 12-week program that:`
+```
 1. Focuses on conversational English.
 
 2. Uses role-play for real-life scenarios.
@@ -439,29 +439,29 @@ Prompt:
 4. Includes weekly pronunciation drills.
 
 5. Offers end-of-course mock interviews.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Learner background
 
 2. Class size
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Weekly curriculum (Excel)
 
 2. Practice worksheet pack (PDF)"
+```
+## Prompt 15 — Entrepreneurship & Startup Bootcamp
 
-Prompt 15 — Entrepreneurship & Startup Bootcamp
+`Backstory: You’re running a 5-day intensive bootcamp for aspiring entrepreneurs.`
 
-Backstory: You’re running a 5-day intensive bootcamp for aspiring entrepreneurs.
+`Goal: Help participants go from idea to validated business plan.`
 
-Goal: Help participants go from idea to validated business plan.
+`Prompt:`
 
-Prompt:
-
-"You are a Startup Bootcamp Facilitator. Build a 5-day agenda that: 
-
+`"You are a Startup Bootcamp Facilitator. Build a 5-day agenda that:` 
+```
 1. Covers ideation, validation, MVP creation, and pitching. 
 
 2. Includes expert mentorship sessions. 
@@ -471,29 +471,29 @@ Prompt:
 4. Has a final pitch competition. 
 
 5. Provides post-bootcamp resources.
-
-Inputs: 
-
+```
+`Inputs:` 
+```
 1. Industry focus (if any) 
 
 2. Number of participants
-
-Output Format: 
-
+```
+`Output Format:` 
+```
 1. Daily agenda (Excel) 
 
 2. Pitch template (Word)"
+```
+## Prompt 16 — Corporate Compliance Training
 
-Prompt 16 — Corporate Compliance Training
+`Backstory: You work in a multinational company that must train employees on anti-harassment laws, data privacy, and workplace ethics. This training is legally required and must be engaging to ensure retention.`
 
-Backstory: You work in a multinational company that must train employees on anti-harassment laws, data privacy, and workplace ethics. This training is legally required and must be engaging to ensure retention.
+`Goal: Develop a compliance course that meets legal standards while holding employees’ attention.`
 
-Goal: Develop a compliance course that meets legal standards while holding employees’ attention.
+`Prompt:`
 
-Prompt:
-
-"You are a Corporate Compliance Training Expert. Create a 4-hour course that: 
-
+`"You are a Corporate Compliance Training Expert. Create a 4-hour course that:` 
+```
 1. Covers Indian workplace laws and global data privacy regulations. 
 
 2. Uses interactive case studies and role-play. 
@@ -503,29 +503,29 @@ Prompt:
 4. Tracks attendance and completion via LMS. 
 
 5. Generates compliance certificates automatically.
-
-Inputs: 
-
+```
+`Inputs: `
+```
 1. Company policies 
 
 2. Applicable laws
-
-Output Format: 
-
+```
+`Output Format:` 
+```
 1. Course modules (Word) 
 
 2. Quiz question bank (Excel)"
+```
+## Prompt 17 — STEM Workshop for Kids
 
-Prompt 17 — STEM Workshop for Kids
+`Backstory: You’re a STEM educator designing a weekend robotics workshop for kids aged 10–14. You want to mix fun with hands-on learning.`
 
-Backstory: You’re a STEM educator designing a weekend robotics workshop for kids aged 10–14. You want to mix fun with hands-on learning.
+`Goal: Spark interest in engineering and problem-solving through play.`
 
-Goal: Spark interest in engineering and problem-solving through play.
+`Prompt:`
 
-Prompt:
-
-"You are a STEM Workshop Designer. Create a 6-session robotics program that:
-
+`"You are a STEM Workshop Designer. Create a 6-session robotics program that:`
+```
 1. Introduces basic electronics and coding.
 
 2. Uses low-cost DIY kits.
@@ -535,29 +535,29 @@ Prompt:
 4. Teaches presentation skills for a final demo.
 
 5. Rewards creativity over perfection.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Available kits
 
 2. Student count
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Session plan (Excel)
 
 2. Materials checklist (PDF)"
+```
+## Prompt 18 — Content Writing Certification Course
 
-Prompt 18 — Content Writing Certification Course
+`Backstory: Your ed-tech platform is launching a 3-month content writing certification for beginners aiming for freelance careers.`
 
-Backstory: Your ed-tech platform is launching a 3-month content writing certification for beginners aiming for freelance careers.
+`Goal: Provide writing fundamentals plus client acquisition skills.`
 
-Goal: Provide writing fundamentals plus client acquisition skills.
+`Prompt:`
 
-Prompt:
-
-"You are a Content Writing Curriculum Expert. Create a 12-week program that: 
-
+`"You are a Content Writing Curriculum Expert. Create a 12-week program that:` 
+```
 1. Covers SEO, blog writing, copywriting, and social media posts. 
 
 2. Includes weekly assignments with peer feedback. 
@@ -567,29 +567,29 @@ Prompt:
 4. Teaches proposal writing for clients. 
 
 5. Ends with a personal portfolio project.
-
-Inputs: 
-
+```
+`Inputs:` 
+```
 1. Target audience profile 
 
 2. Industry niches
-
-Output Format: 
-
+```
+`Output Format:` 
+```
 1. Weekly lesson outline (Excel) 
 
 2. Assignment briefs (Word)"
+```
+## Prompt 19 — Leadership Development Program
 
-Prompt 19 — Leadership Development Program
+`Backstory: A corporate HR department wants a 6-month leadership track for mid-level managers preparing for senior roles.`
 
-Backstory: A corporate HR department wants a 6-month leadership track for mid-level managers preparing for senior roles.
+`Goal: Improve decision-making, team management, and strategic thinking.`
 
-Goal: Improve decision-making, team management, and strategic thinking.
+`Prompt:`
 
-Prompt:
-
-"You are a Leadership Training Consultant. Build a 6-month program that:
-
+`"You are a Leadership Training Consultant. Build a 6-month program that:`
+```
 1. Blends workshops, coaching, and on-the-job projects.
 
 2. Covers emotional intelligence, change management, and negotiation.
@@ -599,29 +599,29 @@ Prompt:
 4. Assigns group problem-solving challenges.
 
 5. Tracks progress via leadership competency metrics.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Industry type
 
 2. Current skill gaps
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Monthly module plan (Excel)
 
 2. Feedback form templates (Word)"
+```
+## Prompt 20 — Environmental Education Curriculum
 
-Prompt 20 — Environmental Education Curriculum
+`Backstory: You’re an NGO creating a school-level environmental studies course with a focus on sustainability.`
 
-Backstory: You’re an NGO creating a school-level environmental studies course with a focus on sustainability.
+`Goal: Build eco-consciousness through activities and community projects.`
 
-Goal: Build eco-consciousness through activities and community projects.
+`Prompt:`
 
-Prompt:
-
-"You are an Environmental Education Specialist. Create a 10-month curriculum that:
-
+`"You are an Environmental Education Specialist. Create a 10-month curriculum that:`
+```
 1. Covers climate change, waste management, and biodiversity.
 
 2. Uses field trips and eco-audits.
@@ -631,29 +631,29 @@ Prompt:
 4. Encourages sustainable lifestyle habits.
 
 5. Has monthly reflection journals.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Local environmental issues
 
 2. School grade level
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Curriculum roadmap (Excel)
 
 2. Activity guides (Word)"
+```
+## Prompt 21 — Social Media Marketing for Entrepreneurs
 
-Prompt 21 — Social Media Marketing for Entrepreneurs
+`Backstory: You coach small business owners who want a practical social media marketing program they can apply immediately.`
 
-Backstory: You coach small business owners who want a practical social media marketing program they can apply immediately.
+`Goal: Teach them to build an online presence that drives sales.`
 
-Goal: Teach them to build an online presence that drives sales.
+`Prompt:`
 
-Prompt:
-
-"You are a Social Media Marketing Trainer. Create a 6-week hands-on course that:
-
+`"You are a Social Media Marketing Trainer. Create a 6-week hands-on course that:`
+```
 1. Covers Instagram, Facebook, and LinkedIn strategies.
 
 2. Uses live campaign creation during sessions.
@@ -663,29 +663,29 @@ Prompt:
 4. Assigns weekly content creation tasks.
 
 5. Ends with a 30-day posting calendar.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Industry niche
 
 2. Business goals
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Weekly lesson plans (Excel)
 
 2. Content templates (PDF)"
+```
+## Prompt 22 — Digital Art & Design Workshop
 
-Prompt 22 — Digital Art & Design Workshop
+`Backstory: You run an art school and want a digital design workshop for beginners using Canva and Adobe tools.`
 
-Backstory: You run an art school and want a digital design workshop for beginners using Canva and Adobe tools.
+`Goal: Help students create portfolio-ready designs.`
 
-Goal: Help students create portfolio-ready designs.
+`Prompt:`
 
-Prompt:
-
-"You are a Digital Design Instructor. Create a 4-week workshop that:
-
+`"You are a Digital Design Instructor. Create a 4-week workshop that:`
+```
 1. Teaches basics of Canva, Photoshop, and Illustrator.
 
 2. Focuses on social media creatives.
@@ -695,29 +695,29 @@ Prompt:
 4. Includes weekly design critiques.
 
 5. Ends with a mini portfolio showcase.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Tools available
 
 2. Skill level of students
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Lesson outlines (Excel)
 
 2. Resource links (Word)"
+```
+## Prompt 23 — Language Immersion Program
 
-Prompt 23 — Language Immersion Program
+`Backstory: You’re designing a Spanish immersion program for adults in India.`
 
-Backstory: You’re designing a Spanish immersion program for adults in India.
+`Goal: Make learners conversational in 3 months without heavy grammar focus.`
 
-Goal: Make learners conversational in 3 months without heavy grammar focus.
+`Prompt:`
 
-Prompt:
-
-"You are a Language Program Developer. Create a 12-week plan that:
-
+`"You are a Language Program Developer. Create a 12-week plan that:`
+```
 1. Uses 80% conversational activities, 20% grammar.
 
 2. Includes cultural context like music and food.
@@ -727,29 +727,29 @@ Prompt:
 4. Assigns daily 15-min speaking practice.
 
 5. Offers an end-of-course language test.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Learner age group
 
 2. Class size
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Weekly schedule (Excel)
 
 2. Vocabulary list (PDF)"
+```
+## Prompt 24 — Mindfulness Curriculum for Corporates
 
-Prompt 24 — Mindfulness Curriculum for Corporates
+`Backstory: A wellness coach is introducing a mindfulness program to reduce workplace stress in IT companies.`
 
-Backstory: A wellness coach is introducing a mindfulness program to reduce workplace stress in IT companies.
+`Goal: Improve focus, reduce burnout, and increase job satisfaction.
 
-Goal: Improve focus, reduce burnout, and increase job satisfaction.
+`Prompt:`
 
-Prompt:
-
-"You are a Corporate Mindfulness Trainer. Create a 6-week curriculum that:
-
+`"You are a Corporate Mindfulness Trainer. Create a 6-week curriculum that:`
+```
 1. Starts with basic breathing and meditation.
 
 2. Gradually adds mindful work practices.
@@ -759,29 +759,29 @@ Prompt:
 4. Measures stress levels pre and post-program.
 
 5. Suggests ways to sustain the habit.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Company size
 
 2. Employee work schedules
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Weekly plan (Excel)
 
 2. Meditation script pack (Word)"
+```
+## Prompt 25 — Exam Preparation Masterplan
 
-Prompt 25 — Exam Preparation Masterplan
+`Backstory: You run an ed-tech platform that helps students prepare for competitive exams like UPSC, CAT, or NEET.`
 
-Backstory: You run an ed-tech platform that helps students prepare for competitive exams like UPSC, CAT, or NEET.
+`Goal: Build a disciplined, results-driven study plan.`
 
-Goal: Build a disciplined, results-driven study plan.
+`Prompt:`
 
-Prompt:
-
-"You are an Exam Preparation Coach. Create a 6-month masterplan that:
-
+`"You are an Exam Preparation Coach. Create a 6-month masterplan that:`
+```
 1. Breaks syllabus into weekly targets.
 
 2. Includes revision cycles.
@@ -791,21 +791,21 @@ Prompt:
 4. Provides productivity hacks for long study hours.
 
 5. Suggests stress management techniques.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Exam name
 
 2. Student’s current preparation level
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Study calendar (Excel)
 
 2. Revision checklist (PDF)"
+```
 
-
-Test/exam preparation materials
+# Test/exam preparation materials
 
 Prompt 1 — UPSC Prelims Study Material Creation
 
