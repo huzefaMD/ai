@@ -298,16 +298,16 @@
 
 2. Keyword placement guide (Excel)"
 ```
-Prompt 10 — Competitive SERP Analysis for Keyword Ranking
+## Prompt 10 — Competitive SERP Analysis for Keyword Ranking
 
-Backstory: You’ve found a promising keyword but need to know if you can realistically outrank competitors on Google’s first page.
+`Backstory: You’ve found a promising keyword but need to know if you can realistically outrank competitors on Google’s first page.`
 
-Goal: Analyse SERP competition and ranking feasibility.
+`Goal: Analyse SERP competition and ranking feasibility.`
 
-Prompt:
+`Prompt:`
 
-"You are a SERP Competitor Analyst. For the keyword [insert keyword], analyse:
-
+`"You are a SERP Competitor Analyst. For the keyword [insert keyword], analyse:`
+```
 1. Top 10 ranking pages’ domain authority.
 
 2. Content length and quality.
@@ -317,31 +317,31 @@ Prompt:
 4. Keyword usage patterns.
 
 5. Estimated effort and timeline for outranking them.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Keyword to analyse
 
 2. My blog URL (optional)
 
 3. Geographic focus
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. SERP analysis table (Excel)
 
 2. Ranking feasibility report (Word/PDF)"
+```
+## Prompt 11 — Keyword Strategy for Voice Search Optimisation
 
-Prompt 11 — Keyword Strategy for Voice Search Optimisation
+`Backstory: With Google voice search growing in India, your food blog wants to capture “near me” and conversational search queries.`
 
-Backstory: With Google voice search growing in India, your food blog wants to capture “near me” and conversational search queries.
+`Goal: Build a voice-search-friendly keyword list.`
 
-Goal: Build a voice-search-friendly keyword list.
+`Prompt:`
 
-Prompt:
-
-"You are a Voice Search SEO Specialist. For my blog niche, create a keyword strategy that:
-
+`"You are a Voice Search SEO Specialist. For my blog niche, create a keyword strategy that:`
+```
 1. Identifies conversational and question-based keywords.
 
 2. Focuses on “near me” and local intent.
@@ -351,31 +351,31 @@ Prompt:
 4. Includes Hindi + Hinglish variations.
 
 5. Suggests content formats that perform well in voice search.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Blog niche
 
 2. Target regions
 
 3. Language preferences
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Keyword list (Excel)
 
 2. FAQ snippet examples (Word/PDF)"
+```
+## Prompt 12 — Keyword Prioritisation Based on ROI Potential
 
-Prompt 12 — Keyword Prioritisation Based on ROI Potential
+`Backstory: You have 100+ keywords but can’t decide which ones to target first. You need to prioritise based on business ROI.`
 
-Backstory: You have 100+ keywords but can’t decide which ones to target first. You need to prioritise based on business ROI.
+`Goal: Create a keyword prioritisation matrix.`
 
-Goal: Create a keyword prioritisation matrix.
+`Prompt:`
 
-Prompt:
-
-"You are an SEO ROI Analyst. Prioritise my keyword list by:
-
+`"You are an SEO ROI Analyst. Prioritise my keyword list by:`
+```
 1. Search volume and competition.
 
 2. Conversion potential.
@@ -385,29 +385,29 @@ Prompt:
 4. Seasonal trends.
 
 5. Strategic business goals.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Keyword list (Excel)
 
 2. Monetisation model (ads, products, affiliates)
 
 3. Business goals
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Priority matrix table (Excel): Keyword | Volume | Competition | CPC | ROI Score"
+```
+## Prompt 13 — Evergreen Blog Series Plan from Keywords
 
-Prompt 13 — Evergreen Blog Series Plan from Keywords
+`Backstory: You want to create a long-term blog series that keeps getting traffic without frequent updates.`
 
-Backstory: You want to create a long-term blog series that keeps getting traffic without frequent updates.
+`Goal: Build a series plan using evergreen keywords.`
 
-Goal: Build a series plan using evergreen keywords.
+`Prompt:`
 
-Prompt:
-
-"You are an Evergreen Content Planner. Based on my keyword list, create a 10-part blog series that:
-
+`"You are an Evergreen Content Planner. Based on my keyword list, create a 10-part blog series that:`
+```
 1. Uses evergreen keywords.
 
 2. Covers a complete topic journey.
@@ -417,31 +417,31 @@ Prompt:
 4. Requires minimal updates over time.
 
 5. Includes a publishing timeline.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Keyword list (Excel)
 
 2. Blog niche
 
 3. Posting frequency
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Series plan (Word/PDF)
 
 2. Internal linking diagram (PDF)"
+```
+## Prompt 14 — Blog Re-Optimisation Using New Keywords
 
-Prompt 14 — Blog Re-Optimisation Using New Keywords
+`Backstory: Your old blog posts are losing traffic because they target outdated keywords. You want to refresh them using new keyword insights.`
 
-Backstory: Your old blog posts are losing traffic because they target outdated keywords. You want to refresh them using new keyword insights.
+`Goal: Create a blog re-optimisation plan.`
 
-Goal: Create a blog re-optimisation plan.
+`Prompt:`
 
-Prompt:
-
-"You are a Content Refresh Strategist. For my existing blog posts, suggest:
-
+`"You are a Content Refresh Strategist. For my existing blog posts, suggest:`
+```
 1. New target keywords based on current trends.
 
 2. Updated titles, meta descriptions, and headers.
@@ -451,31 +451,31 @@ Prompt:
 4. Image alt text updates.
 
 5. New call-to-actions for engagement.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. List of blog URLs
 
 2. Current keywords
 
 3. New keyword list
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Re-optimisation plan table (Excel)
 
 2. Sample rewritten post (Word/PDF)"
+```
+## Prompt 15 — Keyword Strategy for Niche Micro-Topics
 
-Prompt 15 — Keyword Strategy for Niche Micro-Topics
+`Backstory: Your main niche is digital marketing but you want to dominate small micro-niches like “Instagram carousel tips” or “B2B LinkedIn ads.”`
 
-Backstory: Your main niche is digital marketing but you want to dominate small micro-niches like “Instagram carousel tips” or “B2B LinkedIn ads.”
+`Goal: Build keyword clusters for micro-topics.`
 
-Goal: Build keyword clusters for micro-topics.
+`Prompt:`
 
-Prompt:
-
-"You are a Micro-Niche SEO Specialist. For my niche, identify:
-
+`"You are a Micro-Niche SEO Specialist. For my niche, identify:`
+```
 1. 10 micro-topics with low competition.
 
 2. 5–7 keywords per micro-topic.
@@ -485,31 +485,31 @@ Prompt:
 4. Monetisation opportunities for each.
 
 5. Internal linking opportunities with main niche content.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Main niche
 
 2. Audience profile
 
 3. Competitor list
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Keyword cluster table (Excel)
 
 2. Micro-topic strategy document (Word/PDF)"
+```
+## Prompt 16 — Backlink Keyword Strategy for Blog Growth
 
-Prompt 16 — Backlink Keyword Strategy for Blog Growth
+`Backstory: You’re running a finance advice blog but struggling to get backlinks. You know that high-quality backlinks require targeting keywords that naturally attract link-worthy content.`
 
-Backstory: You’re running a finance advice blog but struggling to get backlinks. You know that high-quality backlinks require targeting keywords that naturally attract link-worthy content.
+`Goal: Identify keywords ideal for generating backlinks.`
 
-Goal: Identify keywords ideal for generating backlinks.
+`Prompt:`
 
-Prompt:
-
-"You are a Backlink SEO Strategist. Based on my niche, identify:
-
+`"You are a Backlink SEO Strategist. Based on my niche, identify:`
+```
 1. Keywords that naturally attract links (statistics, research-based terms, “ultimate guide” style).
 
 2. Competitors’ top-linked pages and their target keywords.
@@ -519,31 +519,31 @@ Prompt:
 4. Outreach opportunities based on keyword targets.
 
 5. A plan for integrating these keywords into my blog strategy.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Blog niche
 
 2. Competitor URLs
 
 3. Target regions
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Keyword + backlink potential table (Excel)
 
 2. Outreach list (Word/PDF)"
+```
+## Prompt 17 — Low Competition, High Intent Keywords
 
-Prompt 17 — Low Competition, High Intent Keywords
+`Backstory: You run an online coaching business blog and want to target users ready to buy (high intent), but also need low competition for quick rankings.`
 
-Backstory: You run an online coaching business blog and want to target users ready to buy (high intent), but also need low competition for quick rankings.
+`Goal: Build a high-intent, low-competition keyword list.`
 
-Goal: Build a high-intent, low-competition keyword list.
+`Prompt:`
 
-Prompt:
-
-"You are a Keyword Intent Analyst. Create a keyword list that:
-
+`"You are a Keyword Intent Analyst. Create a keyword list that:`
+```
 1. Focuses on buyer intent terms (e.g., “enrol in online [topic] course”).
 
 2. Has low SEO difficulty but good search volume.
@@ -553,31 +553,31 @@ Prompt:
 4. Suggests matching blog titles and CTAs.
 
 5. Includes estimated conversion potential.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Business niche
 
 2. Target audience
 
 3. Keyword difficulty threshold
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Funnel-based keyword strategy table (Excel)
 
 2. Content recommendations (Word/PDF)"
+```
+## Prompt 18 — Multilingual Keyword Strategy for Indian Markets
 
-Prompt 18 — Multilingual Keyword Strategy for Indian Markets
+`Backstory: Your recipe blog wants to expand reach by targeting Hindi, Tamil, and Bengali search terms along with English.`
 
-Backstory: Your recipe blog wants to expand reach by targeting Hindi, Tamil, and Bengali search terms along with English.
+`Goal: Create a multilingual keyword plan.`
 
-Goal: Create a multilingual keyword plan.
+`Prompt:`
 
-Prompt:
-
-"You are a Multilingual SEO Planner. For my blog, create a keyword plan that:
-
+`"You are a Multilingual SEO Planner. For my blog, create a keyword plan that:`
+```
 1. Translates core keywords into Hindi, Tamil, and Bengali.
 
 2. Identifies localised search intent differences.
@@ -587,31 +587,31 @@ Prompt:
 4. Includes keyword difficulty and volume data for each language.
 
 5. Recommends content localisation strategies.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Blog niche
 
 2. Target languages
 
 3. Competitor URLs (if available)
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Multilingual keyword table (Excel)
 
 2. Language-specific posting guide (Word/PDF)"
+```
+## Prompt 19 — Evergreen & Trending Keyword Mix for YouTube Integration
 
-Prompt 19 — Evergreen & Trending Keyword Mix for YouTube Integration
+`Backstory: Your blog about self-improvement also has a YouTube channel, but your keywords for blog posts and videos don’t align.`
 
-Backstory: Your blog about self-improvement also has a YouTube channel, but your keywords for blog posts and videos don’t align.
+`Goal: Align blog keywords with YouTube SEO.`
 
-Goal: Align blog keywords with YouTube SEO.
+`Prompt:`
 
-Prompt:
-
-"You are a Cross-Platform SEO Strategist. Create a keyword plan that:
-
+`"You are a Cross-Platform SEO Strategist. Create a keyword plan that:`
+```
 1. Works for both Google blog SEO and YouTube video SEO.
 
 2. Splits keywords into evergreen and trending categories.
@@ -621,31 +621,31 @@ Prompt:
 4. Provides monthly update schedules for trending terms.
 
 5. Ensures keyword consistency for brand recall.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Blog niche
 
 2. YouTube channel link
 
 3. Posting frequency
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Cross-platform keyword map (Excel)
 
 2. Posting alignment plan (Word/PDF)"
+```
+## Prompt 20 — Internal Linking Opportunities from Keyword Clusters
 
-Prompt 20 — Internal Linking Opportunities from Keyword Clusters
+`Backstory: You’ve written 50+ posts but haven’t optimised internal linking for SEO strength.`
 
-Backstory: You’ve written 50+ posts but haven’t optimised internal linking for SEO strength.
+`Goal: Build an internal linking strategy based on keyword clusters.`
 
-Goal: Build an internal linking strategy based on keyword clusters.
+`Prompt:`
 
-Prompt:
-
-"You are an Internal Linking SEO Specialist. Based on my keyword clusters, create an internal linking map that:
-
+`"You are an Internal Linking SEO Specialist. Based on my keyword clusters, create an internal linking map that:`
+```
 1. Connects related posts for SEO authority.
 
 2. Suggests anchor text based on target keywords.
@@ -655,19 +655,19 @@ Prompt:
 4. Improves crawlability for Google bots.
 
 5. Highlights orphan pages needing links.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Keyword cluster list
 
 2. Existing blog post URLs
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Internal linking map (Excel)
 
 2. Anchor text guide (Word/PDF)"
-
+```
 Prompt 21 — Featured Snippet Targeting with Keywords
 
 Backstory: Your health blog wants to get featured snippets on Google for maximum visibility.
