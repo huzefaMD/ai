@@ -2639,16 +2639,16 @@ Inputs:
 
 2. Email + call script (Word/PDF)"
 ```
-Prompt 4 — Dormant Client Re-Engagement
+## Prompt 4 — Dormant Client Re-Engagement
 
-Backstory: Your corporate training company has past clients who haven’t booked sessions in over 12 months.
+`Backstory: Your corporate training company has past clients who haven’t booked sessions in over 12 months.`
 
-Goal: Reignite the relationship and bring them back.
+`Goal: Reignite the relationship and bring them back.`
 
-Prompt:
+`Prompt:`
 
-"You are a Client Re-Engagement Specialist. Build a 2-email + 1-call sequence that:
-
+`"You are a Client Re-Engagement Specialist. Build a 2-email + 1-call sequence that:`
+```
 1. Opens with a friendly check-in.
 
 2. Shares a new service or update relevant to them.
@@ -2658,31 +2658,31 @@ Prompt:
 4. Suggests a short call to discuss upcoming needs.
 
 5. Ends with a soft follow-up if no reply in 5 days.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Past services used
 
 2. New offerings
 
 3. Discount details
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Re-engagement playbook (PDF)
 
 2. Email + call scripts (Word)"
+```
+## Prompt 5 — Post-Purchase Upsell Sequence
 
-Prompt 5 — Post-Purchase Upsell Sequence
+`Backstory: Your online coaching program has just completed a 6-week batch with clients. You want to move them to your advanced course.`
 
-Backstory: Your online coaching program has just completed a 6-week batch with clients. You want to move them to your advanced course.
+`Goal: Leverage post-purchase momentum for higher sales.`
 
-Goal: Leverage post-purchase momentum for higher sales.
+`Prompt:`
 
-Prompt:
-
-"You are a Post-Purchase CRM Upsell Expert. Design a 3-email upsell sequence that:
-
+`"You are a Post-Purchase CRM Upsell Expert. Design a 3-email upsell sequence that:`
+```
 1. Congratulates them on completing the program.
 
 2. Shares success stories from advanced course graduates.
@@ -2692,31 +2692,31 @@ Prompt:
 4. Includes clear pricing and payment plan options.
 
 5. Has CTAs for booking a free consultation.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Advanced course details
 
 2. Bonus offer
 
 3. Testimonial links
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Upsell funnel map (Excel)
 
 2. Email copy with CTA design (PDF)"
+```
+## Prompt 6 — Payment Reminder Sequence
 
-Prompt 6 — Payment Reminder Sequence
+`Backstory: You run a digital marketing agency where some clients delay payments after invoice generation.`
 
-Backstory: You run a digital marketing agency where some clients delay payments after invoice generation.
+`Goal: Politely remind them and secure payment without straining the relationship.`
 
-Goal: Politely remind them and secure payment without straining the relationship.
+`Prompt:`
 
-Prompt:
-
-"You are a Payment Reminder Specialist. Build a 3-touch reminder sequence that:
-
+`"You are a Payment Reminder Specialist. Build a 3-touch reminder sequence that:`
+```
 1. First email — gentle reminder with invoice details.
 
 2. Second email — reiterate due date, offer payment methods.
@@ -2726,31 +2726,31 @@ Prompt:
 4. Keep tone professional yet approachable.
 
 5. Integrate payment link buttons in every email.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Client name
 
 2. Invoice number & amount
 
 3. Payment link
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Payment sequence table (Excel)
 
 2. Email templates (Word/PDF)"
+```
+## Prompt 7 — Free Trial Expiry Sequence
 
-Prompt 7 — Free Trial Expiry Sequence
+`Backstory: Your SaaS project management tool offers a 14-day free trial, but most users don’t convert without reminders.`
 
-Backstory: Your SaaS project management tool offers a 14-day free trial, but most users don’t convert without reminders.
+`Goal: Prompt users to subscribe before trial ends.`
 
-Goal: Prompt users to subscribe before trial ends.
+`Prompt:`
 
-Prompt:
-
-"You are a Trial Conversion Specialist. Design a 4-email countdown sequence that: 
-
+`"You are a Trial Conversion Specialist. Design a 4-email countdown sequence that: `
+```
 1. Alerts user when 7 days remain. 
 
 2. Highlights unused premium features. 
@@ -2760,21 +2760,21 @@ Prompt:
 4. Gives final 24-hour subscription reminder. 
 
 5. Offers an exclusive discount for immediate upgrade.
-
-Inputs: 
-
+```
+`Inputs: `
+```
 1. Trial length 
 
 2. Subscription pricing 
 
 3. Key premium features
-
-Output Format: 
-
+```
+`Output Format: `
+```
 1. Email copy sequence (Word) 
 
 2. Conversion tracking sheet (Excel)"
-
+```
 Prompt 8 — After-Sales Support Follow-Up
 
 Backstory: You sell high-end home appliances and want to ensure customers know how to use them effectively.
