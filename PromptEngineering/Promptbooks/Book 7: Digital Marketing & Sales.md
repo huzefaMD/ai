@@ -4152,16 +4152,16 @@ Output Format:
 
 2. Implementation plan PDF"
 
-Prompt 25 — Pitch Deck for Selling to Non-Tech Founders
+## Prompt 25 — Pitch Deck for Selling to Non-Tech Founders
 
-Backstory: You’re a custom app development agency targeting founders with strong business skills but no tech background. They need to feel confident in your ability to handle everything.
+`Backstory: You’re a custom app development agency targeting founders with strong business skills but no tech background. They need to feel confident in your ability to handle everything.`
 
-Goal: Remove tech anxiety and secure development contracts.
+`Goal: Remove tech anxiety and secure development contracts.`
 
-Prompt:
+`Prompt:`
 
-"You are a Non-Technical Founder Sales Expert. Create an 8-slide deck that:
-
+`"You are a Non-Technical Founder Sales Expert. Create an 8-slide deck that:`
+```
 1. Explains process in plain language.
 
 2. Uses analogies instead of jargon.
@@ -4171,15 +4171,16 @@ Prompt:
 4. Outlines clear project milestones.
 
 5. Offers a simple fixed-price package.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Process outline
 
 2. Client success stories
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Deck (PPTX)
 
 2. Plain-language proposal (Word)"
+```
