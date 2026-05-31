@@ -15,8 +15,8 @@
 2. Includes long-tail keyword suggestions for low-competition ranking opportunities.
 
 3. Categorises keywords by search intent (informational, commercial, transactional).
-
-4. Suggests seasonal or trending keywords relevant to India.
+                                             
+4. Suggests seasonal or trending keywords relevant to India.                                     
 
 5. Presents data in a clean, easy-to-read table.
 ```
@@ -2535,18 +2535,18 @@ Inputs:
 2. Design layout notes (PDF)"
 ```
 
-CRM follow-up sequences
+# CRM follow-up sequences
 
-Prompt 1 — New Lead Welcome & Warm-Up
+## Prompt 1 — New Lead Welcome & Warm-Up
 
-Backstory: You run a B2B software company that generates leads via a free trial sign-up. Many leads don’t convert unless nurtured.
+`Backstory: You run a B2B software company that generates leads via a free trial sign-up. Many leads don’t convert unless nurtured.`
 
-Goal: Build trust, establish credibility, and lead them toward a sales conversation.
+`Goal: Build trust, establish credibility, and lead them toward a sales conversation.`
 
-Prompt:
+`Prompt:`
 
-"You are a B2B CRM Lead Nurturing Specialist. Create a 4-email welcome and warm-up sequence that:
-
+`"You are a B2B CRM Lead Nurturing Specialist. Create a 4-email welcome and warm-up sequence that:`
+```
 1. Introduces the company and its value proposition.
 
 2. Shares a customer success story for social proof.
@@ -2556,31 +2556,31 @@ Prompt:
 4. Ends with a soft call to book a demo.
 
 5. Staggers emails over 2 weeks to avoid spam.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Product/service details
 
 2. Target industry
 
 3. Customer testimonial link
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Sequence timeline (Excel)
 
 2. Email copy (Word/PDF)"
+```
+## Prompt 2 — Post-Event Follow-Up
 
-Prompt 2 — Post-Event Follow-Up
+`Backstory: You just attended a trade show and collected 150 business cards from potential clients.`
 
-Backstory: You just attended a trade show and collected 150 business cards from potential clients.
+`Goal: Reconnect while the event is fresh and book meetings.`
 
-Goal: Reconnect while the event is fresh and book meetings.
+`Prompt:`
 
-Prompt:
-
-"You are an Event Lead Follow-Up Specialist. Write a 3-email follow-up sequence that:
-
+`"You are an Event Lead Follow-Up Specialist. Write a 3-email follow-up sequence that:`
+```
 1. References the event and your meeting.
 
 2. Provides additional information on your service.
@@ -2590,31 +2590,31 @@ Prompt:
 4. Includes a CTA for scheduling a call.
 
 5. Keeps each email under 200 words for quick reading.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Event name & date
 
 2. Meeting notes
 
 3. Scheduling link
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. CRM follow-up script (Word)
 
 2. Contact tagging plan (Excel)"
+```
+## Prompt 3 — Abandoned Quote Follow-Up
 
-Prompt 3 — Abandoned Quote Follow-Up
+`Backstory: Your custom furniture business often sends quotes via CRM, but some clients never respond.`
 
-Backstory: Your custom furniture business often sends quotes via CRM, but some clients never respond.
+`Goal: Remind leads about the quote and nudge them toward a decision.`
 
-Goal: Remind leads about the quote and nudge them toward a decision.
+`Prompt:`
 
-Prompt:
-
-"You are a Sales Recovery Email Expert. Create a 3-email sequence for abandoned quotes that:
-
+`"You are a Sales Recovery Email Expert. Create a 3-email sequence for abandoned quotes that:`
+```
 1. Reminds the customer of the proposal details.
 
 2. Offers to answer questions or adjust the quote.
@@ -2624,21 +2624,21 @@ Prompt:
 4. Uses a friendly yet persuasive tone.
 
 5. Offers a phone call option for faster closure.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Quote details
 
 2. Expiration date
 
 3. Contact name
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Follow-up sequence chart (Excel)
 
 2. Email + call script (Word/PDF)"
-
+```
 Prompt 4 — Dormant Client Re-Engagement
 
 Backstory: Your corporate training company has past clients who haven’t booked sessions in over 12 months.
