@@ -6,7 +6,7 @@
 
 `Goal: Identify high-potential keywords that are relevant, low-competition, and tailored to your target audience.`
 
-`Prompt:`
+`Prompt:`       
 
 `"You are an SEO Research Strategist. Based on my blog niche and target audience, perform keyword research that:`
 ```
@@ -1043,16 +1043,16 @@
 
 2. Copy table (Excel)"
 ```
-Prompt 7 — Emotional Storytelling in Ad Copy
+## Prompt 7 — Emotional Storytelling in Ad Copy
 
-Backstory: You’re running ads for a non-profit crowdfunding campaign to help underprivileged children.
+`Backstory: You’re running ads for a non-profit crowdfunding campaign to help underprivileged children.`
 
-Goal: Write emotionally compelling ad copy that drives donations.
+`Goal: Write emotionally compelling ad copy that drives donations.`
 
-Prompt:
+`Prompt:`
 
-"You are a Storytelling Ad Copy Expert. Write ad copy for my campaign that:
-
+`"You are a Storytelling Ad Copy Expert. Write ad copy for my campaign that:`
+```
 1. Starts with a relatable human story.
 
 2. Creates emotional urgency.
@@ -1062,31 +1062,31 @@ Prompt:
 4. Stays within ad platform character limits.
 
 5. Suggests imagery to match the copy.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Cause details
 
 2. Beneficiary story (optional)
 
 3. Donation link
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Story-based ad copy versions (Word/PDF)
 
 2. Suggested creative brief (PDF)"
+```
+## Prompt 8 — Competitor Ad Analysis & Replication
 
-Prompt 8 — Competitor Ad Analysis & Replication
+`Backstory: You run a SaaS tool for freelancers and want to see what’s working for competitors so you can replicate and improve.`
 
-Backstory: You run a SaaS tool for freelancers and want to see what’s working for competitors so you can replicate and improve.
+`Goal: Analyse competitor ad copy and targeting.`
 
-Goal: Analyse competitor ad copy and targeting.
+`Prompt:`
 
-Prompt:
-
-"You are a Competitor Ads Analyst. Analyse my competitors’ ads and create a plan that:
-
+`"You are a Competitor Ads Analyst. Analyse my competitors’ ads and create a plan that:`
+```
 1. Breaks down their ad headlines, CTAs, and offers.
 
 2. Identifies targeting patterns.
@@ -1096,31 +1096,31 @@ Prompt:
 4. Creates 5 new ad copy variations inspired by the best performers.
 
 5. Recommends ad formats (carousel, video, single image).
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Competitor names/links
 
 2. My product details
 
 3. Budget range
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Competitor analysis table (Excel)
 
 2. New ad copy list (Word/PDF)"
+```
+## Prompt 9 — Ad Copy for Different Stages of Buyer Journey
 
-Prompt 9 — Ad Copy for Different Stages of Buyer Journey
+`Backstory: You’re selling fitness equipment online. Your ads need to speak differently to people who are just discovering you vs. ready to buy.`
 
-Backstory: You’re selling fitness equipment online. Your ads need to speak differently to people who are just discovering you vs. ready to buy.
+`Goal: Create ad copy for awareness, consideration, and decision stages.`
 
-Goal: Create ad copy for awareness, consideration, and decision stages.
+`Prompt:`
 
-Prompt:
-
-"You are a Buyer Journey Ad Strategist. Create ad copy for each stage that:
-
+`"You are a Buyer Journey Ad Strategist. Create ad copy for each stage that:`
+```
 1. Awareness — educational & problem-focused.
 
 2. Consideration — comparisons & benefits.
@@ -1130,31 +1130,31 @@ Prompt:
 4. Keeps messaging consistent across platforms.
 
 5. Suggests matching creatives for each stage.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Product details
 
 2. Buyer persona
 
 3. Price points
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Journey-based copy table (Excel)
 
 2. Creative recommendations (PDF)"
+```
+## Prompt 10 — Split Testing Ad Headlines for Maximum CTR
 
-Prompt 10 — Split Testing Ad Headlines for Maximum CTR
+`Backstory: You run a travel booking website and want to improve CTR by testing different headlines.`
 
-Backstory: You run a travel booking website and want to improve CTR by testing different headlines.
+`Goal: Generate headline variations and a test plan.`
 
-Goal: Generate headline variations and a test plan.
+`Prompt:`
 
-Prompt:
-
-"You are a Headline Testing Specialist. Create 10 ad headline variations for my campaign that:
-
+`"You are a Headline Testing Specialist. Create 10 ad headline variations for my campaign that:`
+```
 1. Use power words for emotional impact.
 
 2. Stay within platform character limits.
@@ -1164,31 +1164,31 @@ Prompt:
 4. Are designed for A/B testing.
 
 5. Suggest test duration and KPIs.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Campaign goal
 
 2. Destination details
 
 3. Offer specifics
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Headline variations table (Excel)
 
 2. A/B test plan (Word/PDF)"
+```
+## Prompt 11 — Multi-Language Ad Copy for Indian Markets
 
-Prompt 11 — Multi-Language Ad Copy for Indian Markets
+`Backstory: You’re promoting a budget airline that flies to multiple Indian states. You want to run ads in English, Hindi, and Tamil to connect with diverse audiences.`
 
-Backstory: You’re promoting a budget airline that flies to multiple Indian states. You want to run ads in English, Hindi, and Tamil to connect with diverse audiences.
+`Goal: Create multi-language ad copy with cultural relevance.`
 
-Goal: Create multi-language ad copy with cultural relevance.
+`Prompt:`
 
-Prompt:
-
-"You are a Multilingual Ad Copy Expert. Write ad copy for my campaign in English, Hindi, and Tamil that:
-
+`"You are a Multilingual Ad Copy Expert. Write ad copy for my campaign in English, Hindi, and Tamil that:`
+```
 1. Maintains consistent messaging but adapts tone to each culture.
 
 2. Uses culturally relevant references and phrases.
@@ -1198,31 +1198,31 @@ Prompt:
 4. Suggests imagery and colour themes for each language audience.
 
 5. Includes a single unifying call-to-action.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Product/service details
 
 2. Campaign objective
 
 3. Target languages
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Multi-language copy table (Excel)
 
 2. Creative mood board (PDF)"
+```
+## Prompt 12 — Ads for Lead Generation Funnels
 
-Prompt 12 — Ads for Lead Generation Funnels
+`Backstory: You’re running a digital marketing agency and want Facebook/Google ads to fill your lead generation funnel.`
 
-Backstory: You’re running a digital marketing agency and want Facebook/Google ads to fill your lead generation funnel.
+`Goal: Build ads optimised for lead conversion.`
 
-Goal: Build ads optimised for lead conversion.
+`Prompt:`
 
-Prompt:
-
-"You are a Lead Generation Ads Strategist. Create ad copy and targeting ideas that:
-
+`"You are a Lead Generation Ads Strategist. Create ad copy and targeting ideas that:`
+```
 1. Speak directly to pain points of my target audience.
 
 2. Offer a lead magnet (free guide, webinar, etc.) to capture interest.
@@ -1232,31 +1232,31 @@ Prompt:
 4. Target decision-makers in my niche.
 
 5. Suggest follow-up retargeting ads for leads.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Business niche
 
 2. Lead magnet details
 
 3. Target audience profile
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Lead-gen ad plan (Excel)
 
 2. Copy & creative examples (Word/PDF)"
+```
+## Prompt 13 — Crisis or Urgent Sales Campaign Ads
 
-Prompt 13 — Crisis or Urgent Sales Campaign Ads
+`Backstory: You run an electronics store and need to clear stock urgently due to upcoming GST changes.`
 
-Backstory: You run an electronics store and need to clear stock urgently due to upcoming GST changes.
+`Goal: Create urgency-driven ad copy and targeting ideas.`
 
-Goal: Create urgency-driven ad copy and targeting ideas.
+`Prompt:`
 
-Prompt:
-
-"You are an Urgency Ad Specialist. Build ads that:
-
+`"You are an Urgency Ad Specialist. Build ads that:`
+```
 1. Emphasise limited-time availability.
 
 2. Use urgency words without appearing spammy.
@@ -1266,31 +1266,31 @@ Prompt:
 4. Suggest countdown timer creatives.
 
 5. Provide retargeting strategy for cart abandoners.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Product details
 
 2. Deadline date
 
 3. Offer percentage
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Ad copy table (Excel)
 
 2. Urgency campaign blueprint (PDF)"
+```
+## Prompt 14 — Video Script Ideas for Facebook/YouTube Ads
 
-Prompt 14 — Video Script Ideas for Facebook/YouTube Ads
+`Backstory: You own a home fitness brand and want to run video ads across Facebook and YouTube.`
 
-Backstory: You own a home fitness brand and want to run video ads across Facebook and YouTube.
+`Goal: Generate short, high-conversion ad scripts.`
 
-Goal: Generate short, high-conversion ad scripts.
+`Prompt:`
 
-Prompt:
-
-"You are a Video Ad Script Writer. Write 3 video ad scripts that:
-
+`"You are a Video Ad Script Writer. Write 3 video ad scripts that:`
+```
 1. Hook viewers in the first 3 seconds.
 
 2. Demonstrate product benefits visually.
@@ -1300,31 +1300,31 @@ Prompt:
 4. End with a strong CTA.
 
 5. Stay under 30 seconds for Facebook/YouTube ad requirements.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Product features
 
 2. Target audience
 
 3. Offer details
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Script table (Excel)
 
 2. Shot sequence guide (PDF)"
+```
+## Prompt 15 — Carousel Ad Copy for Product Catalogues
 
-Prompt 15 — Carousel Ad Copy for Product Catalogues
+`Backstory: You run an e-commerce fashion store with multiple product lines.`
 
-Backstory: You run an e-commerce fashion store with multiple product lines.
+`Goal: Create carousel ad copy to showcase multiple products.`
 
-Goal: Create carousel ad copy to showcase multiple products.
+`Prompt:`
 
-Prompt:
-
-"You are a Carousel Ads Specialist. Write copy for each carousel card that:
-
+`"You are a Carousel Ads Specialist. Write copy for each carousel card that:`
+```
 1. Highlights a unique product feature.
 
 2. Uses engaging, benefit-focused headlines.
@@ -1334,31 +1334,31 @@ Prompt:
 4. Suggests matching product imagery.
 
 5. Includes one unified CTA across all cards.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Product list
 
 2. Brand tone guidelines
 
 3. Offer details
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Carousel copy table (Excel)
 
 2. Creative brief (PDF)"
+```
+## Prompt 16 — Google Responsive Search Ads Plan
 
-Prompt 16 — Google Responsive Search Ads Plan
+`Backstory: You’re a local pest control service wanting to use Google RSA (Responsive Search Ads) to capture more local leads.`
 
-Backstory: You’re a local pest control service wanting to use Google RSA (Responsive Search Ads) to capture more local leads.
+`Goal: Create multiple headline/description combos for Google Ads.`
 
-Goal: Create multiple headline/description combos for Google Ads.
+`Prompt:`
 
-Prompt:
-
-"You are a Google RSA Copy Specialist. Build a list of:
-
+`"You are a Google RSA Copy Specialist. Build a list of:`
+```
 1. 15 headline variations (max 30 characters).
 
 2. 4 description variations (max 90 characters).
@@ -1368,31 +1368,31 @@ Prompt:
 4. Ad extensions to increase CTR.
 
 5. Localised messaging for higher trust.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Service area
 
 2. Core services offered
 
 3. Offer details
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. RSA ad copy table (Excel)
 
 2. Keyword integration plan (Word/PDF)"
+```
+## Prompt 17 — Ad Copy for Retargeting Abandoned Carts
 
-Prompt 17 — Ad Copy for Retargeting Abandoned Carts
+`Backstory: Your online electronics store has a high cart abandonment rate.`
 
-Backstory: Your online electronics store has a high cart abandonment rate.
+`Goal: Create persuasive retargeting ads to recover sales.`
 
-Goal: Create persuasive retargeting ads to recover sales.
+`Prompt:`
 
-Prompt:
-
-"You are a Cart Recovery Ad Expert. Create 5 ad copy variations that:
-
+`"You are a Cart Recovery Ad Expert. Create 5 ad copy variations that:`
+```
 1. Remind customers of the items they left behind.
 
 2. Add urgency with stock and time limits.
@@ -1402,31 +1402,31 @@ Prompt:
 4. Use personalised product imagery.
 
 5. Include dynamic product ad setups.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Cart product details
 
 2. Discount offer
 
 3. Retargeting audience size
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Recovery ad table (Excel)
 
 2. Personalisation guide (PDF)"
+```
+## Prompt 18 — Ads for High-Value Client Acquisition
 
-Prompt 18 — Ads for High-Value Client Acquisition
+`Backstory: You’re a luxury interior design firm targeting high-net-worth clients.`
 
-Backstory: You’re a luxury interior design firm targeting high-net-worth clients.
+`Goal: Create premium-feel ad copy and exclusive targeting.`
 
-Goal: Create premium-feel ad copy and exclusive targeting.
+`Prompt:`
 
-Prompt:
-
-"You are a Luxury Marketing Ad Specialist. Build a campaign that:
-
+`"You are a Luxury Marketing Ad Specialist. Build a campaign that:`
+```
 1. Uses high-end, aspirational language.
 
 2. Includes professional imagery and design.
@@ -1436,31 +1436,31 @@ Prompt:
 4. Suggests premium Google keyword bidding strategies.
 
 5. Uses exclusive invitation-based CTAs.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Service details
 
 2. Target cities
 
 3. Price range
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Ad copy list (Excel)
 
 2. Targeting blueprint (PDF)"
+```
+## Prompt 19 — Festival-Specific Ad Targeting Playbook
 
-Prompt 19 — Festival-Specific Ad Targeting Playbook
+`Backstory: You own a gifting business and want to maximise sales during Holi, Eid, and Christmas.`
 
-Backstory: You own a gifting business and want to maximise sales during Holi, Eid, and Christmas.
+`Goal: Build targeting plans for each festival.`
 
-Goal: Build targeting plans for each festival.
+`Prompt:`
 
-Prompt:
-
-"You are a Festival Ads Planner. For my business, create:
-
+`"You are a Festival Ads Planner. For my business, create:`
+```
 1. Audience targeting ideas for each festival.
 
 2. Seasonal ad copy variants.
@@ -1470,31 +1470,31 @@ Prompt:
 4. Special offer positioning per festival.
 
 5. Recommended campaign timelines.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Product categories
 
 2. Festival dates
 
 3. Budget allocation per festival
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Festival targeting chart (Excel)
 
 2. Creative brief (PDF)"
+```
+## Prompt 20 — Lookalike Audience Expansion Strategy
 
-Prompt 20 — Lookalike Audience Expansion Strategy
+`Backstory: Your digital course platform has a small audience but high engagement. You want to expand reach using lookalikes.`
 
-Backstory: Your digital course platform has a small audience but high engagement. You want to expand reach using lookalikes.
+`Goal: Build lookalike audiences on Facebook and Google.`
 
-Goal: Build lookalike audiences on Facebook and Google.
+`Prompt:`
 
-Prompt:
-
-"You are a Lookalike Audience Specialist. Create a plan that:
-
+`"You are a Lookalike Audience Specialist. Create a plan that:`
+```
 1. Defines seed audience size and source.
 
 2. Suggests lookalike % splits (1%, 2%, 5%).
@@ -1504,31 +1504,31 @@ Prompt:
 4. Recommends ad creatives for new audiences.
 
 5. Provides scaling roadmap without losing quality.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Current audience data
 
 2. Course topics
 
 3. Target countries
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Lookalike plan (Excel)
 
 2. Scaling roadmap (PDF)"
+```
+## Prompt 21 — Copy for Seasonal Sales Clearance
 
-Prompt 21 — Copy for Seasonal Sales Clearance
+`Backstory: You run an apparel store and need to clear end-of-season stock.`
 
-Backstory: You run an apparel store and need to clear end-of-season stock.
+`Goal: Create ad copy that drives bulk sales quickly.`
 
-Goal: Create ad copy that drives bulk sales quickly.
+`Prompt:`
 
-Prompt:
-
-"You are a Clearance Campaign Expert. Write ad copy that:
-
+`"You are a Clearance Campaign Expert. Write ad copy that:`
+```
 1. Emphasises urgency (limited stock, final days).
 
 2. Targets bargain hunters.
@@ -1538,31 +1538,31 @@ Prompt:
 4. Includes visual style guide for creatives.
 
 5. Adapts to Facebook and Google formats.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Product types
 
 2. Discount percentage
 
 3. Clearance duration
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Clearance copy list (Excel)
 
 2. Visual style brief (PDF)"
+```
+## Prompt 22 — Ads for App Install Campaigns
 
-Prompt 22 — Ads for App Install Campaigns
+`Backstory: You’ve built a budget management app for Gen Z users and want to boost installs.`
 
-Backstory: You’ve built a budget management app for Gen Z users and want to boost installs.
+`Goal: Create app-focused ad copy and targeting.`
 
-Goal: Create app-focused ad copy and targeting.
+`Prompt:`
 
-Prompt:
-
-"You are an App Marketing Specialist. Build ads that:
-
+`"You are an App Marketing Specialist. Build ads that:`
+```
 1. Speak to Gen Z’s money-saving mindset.
 
 2. Highlight app features in simple language.
@@ -1572,31 +1572,31 @@ Prompt:
 4. Include install CTAs for Google Play/App Store.
 
 5. Suggest targeting based on app-related behaviours.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. App features
 
 2. Target cities
 
 3. Launch offer
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. App install ad table (Excel)
 
 2. Creative mockups (PDF)"
+```
+## Prompt 23 — Crisis PR Ad Campaign
 
-Prompt 23 — Crisis PR Ad Campaign
+`Backstory: Your brand has faced a recent negative review issue and you want ads to rebuild trust.`
 
-Backstory: Your brand has faced a recent negative review issue and you want ads to rebuild trust.
+`Goal: Use ads to restore brand reputation.`
 
-Goal: Use ads to restore brand reputation.
+`Prompt:`
 
-Prompt:
-
-"You are a Brand Reputation Ads Specialist. Create an ad campaign that:
-
+`"You are a Brand Reputation Ads Specialist. Create an ad campaign that:`
+```
 1. Focuses on positive customer stories.
 
 2. Highlights trust badges and certifications.
@@ -1606,31 +1606,31 @@ Prompt:
 4. Suggests Google and Facebook ad formats.
 
 5. Includes a timeline for reputation rebuilding.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Positive customer reviews
 
 2. Trust certifications
 
 3. Campaign duration
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Reputation ads plan (Excel)
 
 2. Creative and copy examples (PDF)"
+```
+## Prompt 24 — Dynamic Ads for Real-Time Inventory
 
-Prompt 24 — Dynamic Ads for Real-Time Inventory
+`Backstory: You sell event tickets and need ads that update automatically as availability changes.`
 
-Backstory: You sell event tickets and need ads that update automatically as availability changes.
+`Goal: Build dynamic ad strategy.`
 
-Goal: Build dynamic ad strategy.
+`Prompt:`
 
-Prompt:
-
-"You are a Dynamic Ads Expert. Create a strategy for event ticket ads that:
-
+`"You are a Dynamic Ads Expert. Create a strategy for event ticket ads that:`
+```
 1. Pulls live inventory data into ad copy.
 
 2. Shows seat availability and pricing in real time.
@@ -1640,31 +1640,31 @@ Prompt:
 4. Targets people searching related events.
 
 5. Includes retargeting for event page visitors.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Event details
 
 2. Ticketing system integration
 
 3. Target location
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Dynamic ad setup guide (PDF)
 
 2. Example ad copy table (Excel)"
+```
+## Prompt 25 — Full-Funnel Ad Campaign Blueprint
 
-Prompt 25 — Full-Funnel Ad Campaign Blueprint
+`Backstory: You’re launching a new fitness supplement brand and want a complete ad campaign from awareness to purchase.`
 
-Backstory: You’re launching a new fitness supplement brand and want a complete ad campaign from awareness to purchase.
+`Goal: Create a full-funnel strategy.`
 
-Goal: Create a full-funnel strategy.
+`Prompt:`
 
-Prompt:
-
-"You are a Full-Funnel Ads Strategist. Build a campaign that:
-
+`"You are a Full-Funnel Ads Strategist. Build a campaign that:`
+```
 1. Awareness — broad targeting with educational content.
 
 2. Consideration — retargeting with benefits and testimonials.
@@ -1674,23 +1674,23 @@ Prompt:
 4. Uses both Facebook and Google channels.
 
 5. Suggests budget allocation per funnel stage.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Product details
 
 2. Target audience profile
 
 3. Budget
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Funnel blueprint (Excel)
 
 2. Ad copy for each stage (PDF)"
+```
 
-
-Email Marketing Campaigns
+# Email Marketing Campaigns
 
 Prompt 1 — Welcome Email Sequence for New Subscribers
 
