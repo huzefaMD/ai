@@ -2879,7 +2879,7 @@ Inputs:
 ```
 ## Prompt 11 — High-Value Lead Priority Sequence
 
-`Backstory: Your real estate firm has a small list of high-value buyers who need quick follow-up to close deals.
+`Backstory: Your real estate firm has a small list of high-value buyers who need quick follow-up to close deals. `
 
 Goal: Give VIP treatment to boost conversion probability.`
 
