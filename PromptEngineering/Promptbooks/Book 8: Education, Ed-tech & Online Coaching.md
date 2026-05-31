@@ -2914,18 +2914,18 @@ Inputs:
 2. Communication channels available"
 
 
-Feedback & assessment templates
+# Feedback & assessment templates
 
-Prompt 1 — Formative Assessment Design
+## Prompt 1 — Formative Assessment Design
 
-Backstory: You’re teaching a basic financial literacy course for college students. You want to assess learning regularly without making it feel like a high-pressure exam.
+`Backstory: You’re teaching a basic financial literacy course for college students. You want to assess learning regularly without making it feel like a high-pressure exam.`
 
-Goal: Create short, ongoing assessments that measure understanding while keeping engagement high.
+`Goal: Create short, ongoing assessments that measure understanding while keeping engagement high.`
 
-Prompt:
+`Prompt:`
 
-"You are an Instructional Assessment Specialist. Design formative assessments that:
-
+`"You are an Instructional Assessment Specialist. Design formative assessments that:`
+```
 1. Are short (5–10 minutes) and focused on 1–2 key concepts.
 
 2. Can be completed online or in-class.
@@ -2935,23 +2935,23 @@ Prompt:
 4. Allow students to attempt multiple times for mastery.
 
 5. Include a variety of formats (MCQs, polls, short-answer).
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Topic or concept list
 
 2. Number of questions per assessment"
+```
+## Prompt 2 — Summative Assessment Blueprint
 
-Prompt 2 — Summative Assessment Blueprint
+`Backstory: Your advanced coding bootcamp has a final exam, but you want it to truly reflect real-world coding skills rather than just theory.`
 
-Backstory: Your advanced coding bootcamp has a final exam, but you want it to truly reflect real-world coding skills rather than just theory.
+`Goal: Design a practical, comprehensive end-of-course assessment.`
 
-Goal: Design a practical, comprehensive end-of-course assessment.
+`Prompt:`
 
-Prompt:
-
-"You are a Technical Assessment Designer. Create a summative assessment plan that:
-
+`"You are a Technical Assessment Designer. Create a summative assessment plan that:`
+```
 1. Combines coding challenges with short written explanations.
 
 2. Uses real-world project scenarios.
@@ -2961,23 +2961,23 @@ Prompt:
 4. Has a clear grading rubric.
 
 5. Allows partial credit for problem-solving approaches.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Key skills taught
 
 2. Assessment duration limit"
+```
+## Prompt 3 — Peer Review Rubric Creation
 
-Prompt 3 — Peer Review Rubric Creation
+`Backstory: In your creative writing workshop, you want students to review each other’s short stories. You need a clear, fair rubric so feedback is consistent.`
 
-Backstory: In your creative writing workshop, you want students to review each other’s short stories. You need a clear, fair rubric so feedback is consistent.
+`Goal: Standardize peer feedback for fairness and usefulness.`
 
-Goal: Standardize peer feedback for fairness and usefulness.
+`Prompt:`
 
-Prompt:
-
-"You are a Peer Review Framework Designer. Create a rubric that:
-
+`"You are a Peer Review Framework Designer. Create a rubric that:`
+```
 1. Rates creativity, clarity, structure, and grammar.
 
 2. Uses a simple scale (e.g., 1–5).
@@ -2987,23 +2987,23 @@ Prompt:
 4. Has space for specific examples from the work.
 
 5. Is easy for non-experts to apply.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Type of creative work
 
 2. Number of review categories"
+```
+## Prompt 4 — AI-Assisted Feedback Generation
 
-Prompt 4 — AI-Assisted Feedback Generation
+`Backstory: You’re an online piano teacher with 200 students. Manually writing personalized feedback takes hours every week.`
 
-Backstory: You’re an online piano teacher with 200 students. Manually writing personalized feedback takes hours every week.
+`Goal: Automate feedback without losing the personal touch.`
 
-Goal: Automate feedback without losing the personal touch.
+`Prompt:`
 
-Prompt:
-
-"You are an AI Feedback Specialist. Generate personalized feedback that:
-
+`"You are an AI Feedback Specialist. Generate personalized feedback that:`
+```
 1. Acknowledges each student’s strengths.
 
 2. Points out 1–2 areas for improvement.
@@ -3013,23 +3013,23 @@ Prompt:
 4. Keeps tone supportive and encouraging.
 
 5. Fits within 100–150 words per student.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Student performance notes or scores
 
 2. Lesson theme"
+```
+## Prompt 5 — Real-Time Quiz Feedback Script
 
-Prompt 5 — Real-Time Quiz Feedback Script
+`Backstory: You run a virtual trivia night for corporate training. You want the system to respond instantly with encouraging or corrective feedback for each answer.`
 
-Backstory: You run a virtual trivia night for corporate training. You want the system to respond instantly with encouraging or corrective feedback for each answer.
+`Goal: Script engaging, instant feedback messages.`
 
-Goal: Script engaging, instant feedback messages.
+`Prompt:`
 
-Prompt:
-
-"You are a Gamified Feedback Copywriter. Write real-time quiz responses that: 
-
+`"You are a Gamified Feedback Copywriter. Write real-time quiz responses that: `
+```
 1. Confirm correct answers with a fun fact. 
 
 2. Correct wrong answers with a helpful hint. 
@@ -3039,23 +3039,23 @@ Prompt:
 4. Avoid shaming or overly formal tones. 
 
 5. Encourage players to try again.
-
-Inputs: 
-
+```
+`Inputs: `
+```
 1. List of questions with correct answers 
 
 2. Theme or tone (e.g., humorous, professional)"
+```
+## Prompt 6 — Self-Assessment Worksheet
 
-Prompt 6 — Self-Assessment Worksheet
+`Backstory: Your leadership skills program emphasizes self-awareness. You want students to evaluate their own progress before and after the course.`
 
-Backstory: Your leadership skills program emphasizes self-awareness. You want students to evaluate their own progress before and after the course.
+`Goal: Create a reflective self-assessment tool.`
 
-Goal: Create a reflective self-assessment tool.
+`Prompt:`
 
-Prompt:
-
-"You are a Self-Reflection Tool Designer. Create a self-assessment worksheet that:
-
+`"You are a Self-Reflection Tool Designer. Create a self-assessment worksheet that:`
+```
 1. Uses Likert-scale ratings for skill confidence.
 
 2. Asks open-ended questions for reflection.
@@ -3065,23 +3065,23 @@ Prompt:
 4. Encourages setting personal growth goals.
 
 5. Fits on a single printable page.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Skills or competencies to measure
 
 2. Target audience profile"
+```
+## Prompt 7 — Skills Gap Analysis Template
 
-Prompt 7 — Skills Gap Analysis Template
+`Backstory: You run an Excel for Business course. Before starting, you want to identify each learner’s existing skills to personalize the learning path.`
 
-Backstory: You run an Excel for Business course. Before starting, you want to identify each learner’s existing skills to personalize the learning path.
+`Goal: Create a template that captures current ability vs. required skills.`
 
-Goal: Create a template that captures current ability vs. required skills.
+`Prompt:`
 
-Prompt:
-
-"You are a Skills Mapping Expert. Create a skills gap analysis template that:
-
+`"You are a Skills Mapping Expert. Create a skills gap analysis template that:`
+```
 1. Lists all required skills in the course.
 
 2. Lets students rate their current proficiency (e.g., Beginner, Intermediate, Expert).
@@ -3091,23 +3091,23 @@ Prompt:
 4. Suggests resources for weaker areas.
 
 5. Can be easily completed online or offline.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. List of target skills
 
 2. Course duration"
+```
+## Prompt 8 — Continuous Improvement Feedback Form
 
-Prompt 8 — Continuous Improvement Feedback Form
+`Backstory: You’re launching a language learning platform and need ongoing feedback from users to improve lessons.`
 
-Backstory: You’re launching a language learning platform and need ongoing feedback from users to improve lessons.
+`Goal: Build a feedback form that encourages honesty and detail.`
 
-Goal: Build a feedback form that encourages honesty and detail.
+`Prompt:`
 
-Prompt:
-
-"You are a Continuous Feedback Specialist. Create a feedback form that:
-
+`"You are a Continuous Feedback Specialist. Create a feedback form that:`
+```
 1. Starts with a warm, appreciative introduction.
 
 2. Uses simple language and short questions.
@@ -3117,23 +3117,23 @@ Prompt:
 4. Includes a suggestion box for new features.
 
 5. Takes under 3 minutes to complete.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Areas of feedback needed (content, usability, engagement)
 
 2. Frequency of feedback requests"
+```
+## Prompt 9 — Competency-Based Assessment Plan
 
-Prompt 9 — Competency-Based Assessment Plan
+`Backstory: Your healthcare training course must prove that students are competent in specific procedures before certification.`
 
-Backstory: Your healthcare training course must prove that students are competent in specific procedures before certification.
+`Goal: Assess mastery based on skills, not just knowledge.`
 
-Goal: Assess mastery based on skills, not just knowledge.
+`Prompt:`
 
-Prompt:
-
-"You are a Competency Assessment Designer. Create a plan that:
-
+`"You are a Competency Assessment Designer. Create a plan that:`
+```
 1. Lists each competency to be mastered.
 
 2. Defines clear performance criteria.
@@ -3143,23 +3143,23 @@ Prompt:
 4. Uses pass/fail grading.
 
 5. Allows re-testing for failed competencies.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. List of competencies
 
 2. Available assessment environment"
+```
+## Prompt 10 — Rubric for Group Projects
 
-Prompt 10 — Rubric for Group Projects
+`Backstory: In your MBA program, students complete a group business plan as a final project. You need a fair rubric that evaluates both the team and individual contributions.`
 
-Backstory: In your MBA program, students complete a group business plan as a final project. You need a fair rubric that evaluates both the team and individual contributions.
+`Goal: Avoid group grade disputes by clarifying expectations.`
 
-Goal: Avoid group grade disputes by clarifying expectations.
+`Prompt:`
 
-Prompt:
-
-"You are a Group Project Evaluation Specialist. Design a rubric that:
-
+`"You are a Group Project Evaluation Specialist. Design a rubric that:`
+```
 1. Scores project quality, creativity, and feasibility.
 
 2. Includes peer evaluation for team contribution.
@@ -3169,23 +3169,23 @@ Prompt:
 4. Uses transparent scoring criteria.
 
 5. Encourages collaboration and accountability.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Project requirements
 
 2. Team size"
+```
+## Prompt 11 — Audio/Video Feedback Script
 
-Prompt 11 — Audio/Video Feedback Script
+`Backstory: You run a digital illustration masterclass. Written feedback isn’t enough for visual skills—you want to provide recorded audio or screen-share feedback to give students more personalized guidance.`
 
-Backstory: You run a digital illustration masterclass. Written feedback isn’t enough for visual skills—you want to provide recorded audio or screen-share feedback to give students more personalized guidance.
+`Goal: Make feedback more engaging and clear by using spoken explanations and on-screen demonstrations.`
 
-Goal: Make feedback more engaging and clear by using spoken explanations and on-screen demonstrations.
+`Prompt:`
 
-Prompt:
-
-"You are a Multimedia Feedback Coach. Create a feedback script that:
-
+`"You are a Multimedia Feedback Coach. Create a feedback script that:`
+```
 1. Greets the student by name and references their specific submission.
 
 2. Highlights strengths with examples from their work.
@@ -3195,23 +3195,23 @@ Prompt:
 4. Suggests next steps and resources.
 
 5. Keeps the total video under 5 minutes for easy consumption.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Student’s work or file link
 
 2. Lesson/module context"
+```
+## Prompt 12 — Adaptive Assessment Framework
 
-Prompt 12 — Adaptive Assessment Framework
+`Backstory: Your math learning app serves students with varying skill levels. Giving the same test to all is inefficient.`
 
-Backstory: Your math learning app serves students with varying skill levels. Giving the same test to all is inefficient.
+`Goal: Build adaptive assessments that adjust question difficulty based on performance in real-time.`
 
-Goal: Build adaptive assessments that adjust question difficulty based on performance in real-time.
+`Prompt:`
 
-Prompt:
-
-"You are an Adaptive Learning Architect. Design an adaptive assessment framework that:
-
+`"You are an Adaptive Learning Architect. Design an adaptive assessment framework that:`
+```
 1. Starts with mid-level difficulty questions.
 
 2. Increases difficulty if answers are correct, decreases if wrong.
@@ -3221,23 +3221,23 @@ Prompt:
 4. Ends with a skill map showing strong and weak areas.
 
 5. Works seamlessly on mobile devices.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Subject/topic areas
 
 2. Question bank size"
+```
+## Prompt 13 — Scenario-Based Assessment
 
-Prompt 13 — Scenario-Based Assessment
+`Backstory: You teach cybersecurity awareness and want assessments that mimic real-world decision-making under pressure.`
 
-Backstory: You teach cybersecurity awareness and want assessments that mimic real-world decision-making under pressure.
+`Goal: Create immersive, scenario-based tests instead of generic MCQs.`
 
-Goal: Create immersive, scenario-based tests instead of generic MCQs.
+`Prompt:`
 
-Prompt:
-
-"You are a Scenario-Based Learning Designer. Create an assessment where:
-
+`"You are a Scenario-Based Learning Designer. Create an assessment where:`
+```
 1. Students face realistic situations (e.g., phishing email detection).
 
 2. They choose actions step-by-step.
@@ -3247,23 +3247,23 @@ Prompt:
 4. Feedback explains the consequences of decisions.
 
 5. The final score reflects both accuracy and decision efficiency.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Scenario type (e.g., security breach, client negotiation)
 
 2. Key decisions to include"
+```
+## Prompt 14 — Cultural Sensitivity Feedback Form
 
-Prompt 14 — Cultural Sensitivity Feedback Form
+`Backstory: You run an international cultural exchange program and want feedback that is respectful and mindful of different backgrounds.`
 
-Backstory: You run an international cultural exchange program and want feedback that is respectful and mindful of different backgrounds.
+`Goal: Collect improvement suggestions without cultural bias or discomfort.`
 
-Goal: Collect improvement suggestions without cultural bias or discomfort.
+`Prompt:`
 
-Prompt:
-
-"You are a Cross-Cultural Communication Specialist. Create a feedback form that:
-
+`"You are a Cross-Cultural Communication Specialist. Create a feedback form that:`
+```
 1. Uses neutral, inclusive language.
 
 2. Avoids culture-specific idioms or references.
@@ -3273,23 +3273,23 @@ Prompt:
 4. Encourages both positive and improvement feedback.
 
 5. Can be easily translated into multiple languages.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Program type
 
 2. Number of participant countries"
+```
+## Prompt 15 — Real-Time Poll Feedback
 
-Prompt 15 — Real-Time Poll Feedback
+`Backstory: You host live webinars and want quick audience feedback on understanding without breaking the flow.`
 
-Backstory: You host live webinars and want quick audience feedback on understanding without breaking the flow.
+`Goal: Gauge comprehension and adjust teaching in real-time.`
 
-Goal: Gauge comprehension and adjust teaching in real-time.
+`Prompt:`
 
-Prompt:
-
-"You are a Live Engagement Strategist. Create a real-time poll system that: 
-
+`"You are a Live Engagement Strategist. Create a real-time poll system that: `
+```
 1. Pops up during key points in the presentation. 
 
 2. Asks short comprehension questions. 
@@ -3299,23 +3299,23 @@ Prompt:
 4. Suggests on-the-spot adjustments based on answers. 
 
 5. Saves data for post-event review.
-
-Inputs: 
-
+```
+`Inputs: `
+```
 1. Webinar outline 
 
 2. Number of polls desired"
+```
+## Prompt 16 — Feedback Tracker Dashboard
 
-Prompt 16 — Feedback Tracker Dashboard
+`Backstory: You have 500+ active learners and multiple instructors giving feedback. Tracking trends manually is overwhelming.`
 
-Backstory: You have 500+ active learners and multiple instructors giving feedback. Tracking trends manually is overwhelming.
+`Goal: Build a dashboard to centralize and analyze feedback patterns.`
 
-Goal: Build a dashboard to centralize and analyze feedback patterns.
+`Prompt:`
 
-Prompt:
-
-"You are a Learning Analytics Expert. Design a dashboard that:
-
+`"You are a Learning Analytics Expert. Design a dashboard that:`
+```
 1. Collects all feedback in one place.
 
 2. Categorizes feedback into strengths, weaknesses, and suggestions.
@@ -3325,23 +3325,23 @@ Prompt:
 4. Filters by instructor, course, or student group.
 
 5. Generates visual reports for management.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Feedback sources
 
 2. Metrics to track"
+```
+## Prompt 17 — Emotionally Supportive Feedback
 
-Prompt 17 — Emotionally Supportive Feedback
+`Backstory: In your public speaking course, students often get nervous and take criticism personally.`
 
-Backstory: In your public speaking course, students often get nervous and take criticism personally.
+`Goal: Provide honest but uplifting feedback that builds confidence.`
 
-Goal: Provide honest but uplifting feedback that builds confidence.
+`Prompt:`
 
-Prompt:
-
-"You are a Motivational Feedback Coach. Write feedback that: 
-
+`"You are a Motivational Feedback Coach. Write feedback that: `
+```
 1. Starts with specific praise. 
 
 2. Phrases criticism as growth opportunities. 
@@ -3351,23 +3351,23 @@ Prompt:
 4. Encourages continued practice. 
 
 5. Ends with a motivational statement.
-
-Inputs: 
-
+```
+`Inputs:` 
+```
 1. Student’s performance notes 
 
 2. Improvement area"
+```
+## Prompt 18 — Performance Badge System
 
-Prompt 18 — Performance Badge System
+`Backstory: You want to turn feedback into visible recognition in your online coding bootcamp.`
 
-Backstory: You want to turn feedback into visible recognition in your online coding bootcamp.
+`Goal: Motivate students with badges linked to specific skill achievements.`
 
-Goal: Motivate students with badges linked to specific skill achievements.
+`Prompt:`
 
-Prompt:
-
-"You are a Gamification Specialist. Create a badge system that: 
-
+`"You are a Gamification Specialist. Create a badge system that: `
+```
 1. Links each badge to a specific competency. 
 
 2. Awards badges automatically upon meeting criteria. 
@@ -3377,23 +3377,23 @@ Prompt:
 4. Includes milestone badges for persistence. 
 
 5. Prevents badge inflation by keeping them meaningful.
-
-Inputs: 
-
+```
+`Inputs:` 
+```
 1. Skill list
 
 2. Badge categories"
+```
+## Prompt 19 — 360-Degree Feedback Template
 
-Prompt 19 — 360-Degree Feedback Template
+`Backstory: Your leadership program involves peer, self, and instructor feedback for each participant.`
 
-Backstory: Your leadership program involves peer, self, and instructor feedback for each participant.
+`Goal: Build a balanced multi-perspective evaluation form.`
 
-Goal: Build a balanced multi-perspective evaluation form.
+`Prompt:`
 
-Prompt:
-
-"You are a 360-Degree Review Designer. Create a feedback template that: 
-
+`"You are a 360-Degree Review Designer. Create a feedback template that:` 
+```
 1. Includes self-assessment questions. 
 
 2. Allows peers to rate teamwork, communication, and problem-solving. 
@@ -3403,23 +3403,23 @@ Prompt:
 4. Normalizes scores from all sources. 
 
 5. Summarizes results with action recommendations.
-
-Inputs: 
-
+```
+`Inputs: `
+```
 1. Skill categories 
 
 2. Number of reviewers per student"
+```
+## Prompt 20 — Weekly Micro-Feedback
 
-Prompt 20 — Weekly Micro-Feedback
+`Backstory: You want to keep tabs on student mood and course clarity without overwhelming them.`
 
-Backstory: You want to keep tabs on student mood and course clarity without overwhelming them.
+`Goal: Collect short, weekly insights for quick action.`
 
-Goal: Collect short, weekly insights for quick action.
+`Prompt:`
 
-Prompt:
-
-"You are a Continuous Engagement Facilitator. Create a micro-feedback process that: 
-
+`"You are a Continuous Engagement Facilitator. Create a micro-feedback process that: `
+```
 1. Sends one simple question per week. 
 
 2. Alternates between satisfaction, clarity, and pace checks. 
@@ -3429,23 +3429,23 @@ Prompt:
 4. Flags urgent issues instantly. 
 
 5. Takes less than 15 seconds to answer.
-
-Inputs: 
-
+```
+`Inputs: `
+```
 1. Course duration 
 
 2. Communication method"
+```
+## Prompt 21 — AI-Graded Assignments
 
-Prompt 21 — AI-Graded Assignments
+`Backstory: You want to use AI to grade essay assignments fairly and quickly while keeping instructor oversight.`
 
-Backstory: You want to use AI to grade essay assignments fairly and quickly while keeping instructor oversight.
+`Goal: Reduce grading time without sacrificing quality.`
 
-Goal: Reduce grading time without sacrificing quality.
+`Prompt:`
 
-Prompt:
-
-"You are an AI Assessment Engineer. Set up a grading system that:
-
+`"You are an AI Assessment Engineer. Set up a grading system that:`
+```
 1. Uses AI to draft initial scores and comments.
 
 2. Flags essays needing human review.
@@ -3455,23 +3455,23 @@ Prompt:
 4. Keeps student identity anonymous to avoid bias.
 
 5. Produces feedback within 24 hours.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Grading rubric
 
 2. Sample graded essays"
+```
+## Prompt 22 — Fail-Safe Assessment Retake Policy
 
-Prompt 22 — Fail-Safe Assessment Retake Policy
+`Backstory: In your medical certification program, some students fail high-stakes tests due to stress, not lack of skill.`
 
-Backstory: In your medical certification program, some students fail high-stakes tests due to stress, not lack of skill.
+`Goal: Create a fair retake policy that preserves standards.`
 
-Goal: Create a fair retake policy that preserves standards.
+`Prompt:`
 
-Prompt:
-
-"You are an Academic Policy Designer. Draft a retake policy that:
-
+`"You are an Academic Policy Designer. Draft a retake policy that:`
+```
 1. Allows 1–2 retakes per assessment.
 
 2. Requires review before retake.
@@ -3481,23 +3481,23 @@ Prompt:
 4. Records both scores but counts the higher.
 
 5. Prevents abuse by setting limits.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Assessment type
 
 2. Passing score requirement"
+```
+## Prompt 23 — Customizable Feedback Bank
 
-Prompt 23 — Customizable Feedback Bank
+`Backstory: Instructors in your online art school repeat similar feedback to different students.`
 
-Backstory: Instructors in your online art school repeat similar feedback to different students.
+`Goal: Create a feedback library they can personalize quickly.`
 
-Goal: Create a feedback library they can personalize quickly.
+`Prompt:`
 
-Prompt:
-
-"You are a Reusable Feedback Content Creator. Build a feedback bank that:
-
+`"You are a Reusable Feedback Content Creator. Build a feedback bank that:`
+```
 1. Categorizes by skill area.
 
 2. Has positive, neutral, and improvement phrases.
@@ -3507,23 +3507,23 @@ Prompt:
 4. Keeps tone consistent across instructors.
 
 5. Is searchable and regularly updated.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Skill categories
 
 2. Common feedback themes"
+```
+## Prompt 24 — End-of-Module Reflection Guide
 
-Prompt 24 — End-of-Module Reflection Guide
+`Backstory: You want students to self-assess at the end of each module before moving forward.`
 
-Backstory: You want students to self-assess at the end of each module before moving forward.
+`Goal: Promote accountability and deeper understanding.`
 
-Goal: Promote accountability and deeper understanding.
+`Prompt:`
 
-Prompt:
-
-"You are a Self-Evaluation Guide Designer. Create a reflection template that:
-
+`"You are a Self-Evaluation Guide Designer. Create a reflection template that:`
+```
 1. Asks students to summarize what they learned.
 
 2. Identifies the most challenging concept.
@@ -3533,23 +3533,23 @@ Prompt:
 4. Rates their confidence level.
 
 5. Suggests one goal for the next module.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Module topics
 
 2. Target skill level"
+```
+## Prompt 25 — Instructor Feedback Calibration
 
-Prompt 25 — Instructor Feedback Calibration
+`Backstory: Multiple instructors teach the same course, but their feedback styles and grading vary too much.`
 
-Backstory: Multiple instructors teach the same course, but their feedback styles and grading vary too much.
+`Goal: Standardize assessment and feedback delivery.`
 
-Goal: Standardize assessment and feedback delivery.
+`Prompt:`
 
-Prompt:
-
-"You are a Teaching Quality Coordinator. Develop a feedback calibration system that:
-
+`"You are a Teaching Quality Coordinator. Develop a feedback calibration system that:`
+```
 1. Compares grading patterns among instructors.
 
 2. Runs training on consistent rubric use.
@@ -3559,9 +3559,10 @@ Prompt:
 4. Monitors changes over time.
 
 5. Improves student perception of fairness.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Rubric
 
 2. Instructor roster"
+```
