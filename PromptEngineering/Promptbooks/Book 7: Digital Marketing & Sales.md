@@ -1896,14 +1896,14 @@
 ```
 ## Prompt 7 — Product Launch Email Sequence
 
-Backstory: Your tech gadget store is launching a new smart home device and you want to build hype before release.
+`Backstory: Your tech gadget store is launching a new smart home device and you want to build hype before release.`
 
-Goal: Use email to create anticipation and maximise launch day sales.
+`Goal: Use email to create anticipation and maximise launch day sales.`
 
-Prompt:
+`Prompt:`
 
-"You are a Product Launch Email Strategist. Build a 5-email sequence that:
-
+`"You are a Product Launch Email Strategist. Build a 5-email sequence that:`
+```
 1. Starts with a teaser announcement.
 
 2. Shares behind-the-scenes or development stories.
@@ -1913,31 +1913,31 @@ Prompt:
 4. Sends a launch day “Now Live” email.
 
 5. Follows up with early reviews/testimonials.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Product features & USP
 
 2. Launch date
 
 3. Pre-order details
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Launch email timeline (Excel)
 
 2. Full copy with design suggestions (PDF)"
+```
+## Prompt 8 — Webinar Registration & Reminder Series
 
-Prompt 8 — Webinar Registration & Reminder Series
+`Backstory: You’re hosting a digital marketing webinar and want maximum attendance from registrants.`
 
-Backstory: You’re hosting a digital marketing webinar and want maximum attendance from registrants.
+`Goal: Drive sign-ups and reduce no-shows.`
 
-Goal: Drive sign-ups and reduce no-shows.
+`Prompt:`
 
-Prompt:
-
-"You are a Webinar Email Funnel Expert. Create a 4-email series that:
-
+`"You are a Webinar Email Funnel Expert. Create a 4-email series that:`
+```
 1. Announces and promotes the webinar topic.
 
 2. Sends confirmation after sign-up with calendar links.
@@ -1947,31 +1947,31 @@ Prompt:
 4. Uses urgency and social proof to increase attendance.
 
 5. Includes post-webinar replay and upsell.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Webinar topic & date
 
 2. Speaker details
 
 3. Replay availability
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Email sequence chart (Excel)
 
 2. Email copy + CTA buttons (PDF)"
+```
+## Prompt 9 — Customer Feedback Request Emails
 
-Prompt 9 — Customer Feedback Request Emails
+` Backstory: You run a meal subscription service and want to collect feedback after the first delivery to improve service and boost reviews.`
 
-Backstory: You run a meal subscription service and want to collect feedback after the first delivery to improve service and boost reviews.
+`Goal: Encourage customers to share experiences and rate your service.`
 
-Goal: Encourage customers to share experiences and rate your service.
+`Prompt:`
 
-Prompt:
-
-"You are a Customer Feedback Email Specialist. Write a 2-email feedback request campaign that:
-
+`"You are a Customer Feedback Email Specialist. Write a 2-email feedback request campaign that:`
+```
 1. Sends a thank-you email after the first order.
 
 2. Requests a short review or feedback form completion.
@@ -1981,31 +1981,31 @@ Prompt:
 4. Keeps the email under 150 words for quick reading.
 
 5. Includes a direct review form link.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Service details
 
 2. Incentive type
 
 3. Feedback form link
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Feedback email copy (Word)
 
 2. Review collection plan (PDF)"
+```
+## Prompt 10 — Upsell Email Campaign
 
-Prompt 10 — Upsell Email Campaign
+` Backstory: You sell online fitness programs and want to upsell premium plans to customers who bought basic packages.` 
 
-Backstory: You sell online fitness programs and want to upsell premium plans to customers who bought basic packages.
+`Goal: Move customers to higher-value purchases.`
 
-Goal: Move customers to higher-value purchases.
+`Prompt:`
 
-Prompt:
-
-"You are an Upsell Email Strategist. Build a 3-email upsell sequence that:
-
+`"You are an Upsell Email Strategist. Build a 3-email upsell sequence that:`
+```
 1. Highlights the benefits of the premium plan.
 
 2. Shares success stories from premium customers.
@@ -2015,31 +2015,31 @@ Prompt:
 4. Includes side-by-side feature comparison.
 
 5. Ends with a strong CTA to upgrade now.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Basic vs premium features
 
 2. Upgrade price
 
 3. Deadline for offer
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Upsell email chart (Excel)
 
 2. Full email copy (PDF)"
+```
+## Prompt 11 — Festival Giveaway Email Campaign
 
-Prompt 11 — Festival Giveaway Email Campaign
+`Backstory: Your fashion accessories brand wants to run a Holi giveaway to engage subscribers.`
 
-Backstory: Your fashion accessories brand wants to run a Holi giveaway to engage subscribers.
+`Goal: Drive excitement and participation.`
 
-Goal: Drive excitement and participation.
+`Prompt:`
 
-Prompt:
-
-"You are a Giveaway Email Campaign Specialist. Create a 3-email giveaway sequence that:
-
+`"You are a Giveaway Email Campaign Specialist. Create a 3-email giveaway sequence that:`
+```
 1. Announces the giveaway and how to enter.
 
 2. Sends a mid-campaign reminder with social proof.
@@ -2049,21 +2049,21 @@ Prompt:
 4. Keeps tone festive and celebratory.
 
 5. Encourages sharing on social media.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Giveaway prize details
 
 2. Entry rules
 
 3. Campaign dates
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Giveaway campaign table (Excel)
 
 2. Email + social share templates (PDF)"
-
+```
 Prompt 12 — Cross-Sell Email Campaign
 
 Backstory: Your bookstore’s online store wants to recommend books related to past purchases.
