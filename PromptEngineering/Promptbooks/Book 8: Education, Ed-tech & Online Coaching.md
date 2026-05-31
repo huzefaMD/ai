@@ -100,16 +100,16 @@
 
 2. Resource list (Excel)"
 ```
-Prompt 4 — Yoga Teacher Training Syllabus
+## Prompt 4 — Yoga Teacher Training Syllabus
 
-Backstory: You’re developing a 200-hour yoga teacher training program for aspiring instructors. The curriculum needs to blend asanas, philosophy, anatomy, and teaching methodology.
+`Backstory: You’re developing a 200-hour yoga teacher training program for aspiring instructors. The curriculum needs to blend asanas, philosophy, anatomy, and teaching methodology.`
 
-Goal: Certify students to teach yoga professionally in India and abroad.
+`Goal: Certify students to teach yoga professionally in India and abroad.`
 
-Prompt:
+`Prompt:`
 
-"You are a Yoga Education Curriculum Expert. Create a 200-hour training syllabus that:
-
+`"You are a Yoga Education Curriculum Expert. Create a 200-hour training syllabus that:`
+```
 1. Balances 50% practical (asanas, pranayama, meditation) and 50% theory.
 
 2. Covers yoga philosophy and history.
@@ -119,29 +119,29 @@ Prompt:
 4. Has supervised teaching practice sessions.
 
 5. Aligns with Yoga Alliance International standards.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Training duration (intensive/extended)
 
 2. School location & facilities
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Hourly breakdown (Excel)
 
 2. Module guides (Word)"
+```
+## Prompt 5 — Digital Marketing Crash Course
 
-Prompt 5 — Digital Marketing Crash Course
+`Backstory: You’re an online coach launching a 4-week crash course in digital marketing for small business owners. The learners are time-poor but eager to apply concepts immediately.`
 
-Backstory: You’re an online coach launching a 4-week crash course in digital marketing for small business owners. The learners are time-poor but eager to apply concepts immediately.
+`Goal: Deliver actionable skills with measurable ROI in 30 days.`
 
-Goal: Deliver actionable skills with measurable ROI in 30 days.
+`Prompt:`
 
-Prompt:
-
-"You are a Digital Marketing Course Designer. Develop a 4-week curriculum for beginners that:
-
+`"You are a Digital Marketing Course Designer. Develop a 4-week curriculum for beginners that:`
+```
 1. Covers SEO, social media, email marketing, and paid ads.
 
 2. Uses a real business case study throughout the course.
@@ -151,29 +151,29 @@ Prompt:
 4. Tracks metrics like leads and conversions.
 
 5. Ends with a marketing plan presentation.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Target industry
 
 2. Available tools/budget
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Weekly syllabus (Excel)
 
 2. Campaign assignment sheets (PDF)"
+```
+## Prompt 6 — Financial Literacy Program for College Students
 
-Prompt 6 — Financial Literacy Program for College Students
+`Backstory: You’re a non-profit creating a semester-long financial literacy program for Indian college students. Most have little exposure to budgeting, investments, or credit management.`
 
-Backstory: You’re a non-profit creating a semester-long financial literacy program for Indian college students. Most have little exposure to budgeting, investments, or credit management.
+`Goal: Equip students with practical money skills before they graduate.`
 
-Goal: Equip students with practical money skills before they graduate.
+`Prompt:`
 
-Prompt:
-
-"You are a Financial Literacy Educator. Create a 16-week curriculum that:
-
+`"You are a Financial Literacy Educator. Create a 16-week curriculum that:`
+```
 1. Covers budgeting, saving, investing, taxes, and credit scores.
 
 2. Uses real-world examples from India.
@@ -183,29 +183,29 @@ Prompt:
 4. Has short, practical assignments.
 
 5. Ends with a personal finance plan project.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Student age group
 
 2. Level of financial knowledge
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Curriculum outline (Excel)
 
 2. Session activity sheets (PDF)"
+```
+## Prompt 7 — Agricultural Skills Training for Rural Youth
 
-Prompt 7 — Agricultural Skills Training for Rural Youth
+`Backstory: You’re part of an NGO running vocational training in sustainable agriculture for rural youth. The program must be hands-on and region-specific.`
 
-Backstory: You’re part of an NGO running vocational training in sustainable agriculture for rural youth. The program must be hands-on and region-specific.
+`Goal: Increase employability and productivity in local farming communities.`
 
-Goal: Increase employability and productivity in local farming communities.
+`Prompt:`
 
-Prompt:
-
-"You are an Agriculture Training Designer. Develop a 12-week program that:
-
+`"You are an Agriculture Training Designer. Develop a 12-week program that:`
+```
 1. Covers soil health, crop cycles, organic farming, and irrigation.
 
 2. Incorporates local crop-specific best practices.
@@ -215,29 +215,29 @@ Prompt:
 4. Includes low-cost technology training.
 
 5. Offers certification at completion.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Region & main crops
 
 2. Available training equipment
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Weekly training schedule (Excel)
 
 2. Farmer handbook (PDF)"
+```
+## Prompt 8 — Life Skills Curriculum for School Students
 
-Prompt 8 — Life Skills Curriculum for School Students
+`Backstory: A CBSE-affiliated school wants a year-long life skills program for students aged 13–15. Focus is on emotional intelligence, decision-making, and conflict resolution.`
 
-Backstory: A CBSE-affiliated school wants a year-long life skills program for students aged 13–15. Focus is on emotional intelligence, decision-making, and conflict resolution.
+`Goal: Develop socially aware, confident students.`
 
-Goal: Develop socially aware, confident students.
+`Prompt:`
 
-Prompt:
-
-"You are a Life Skills Education Expert. Design a 10-month curriculum that:
-
+`"You are a Life Skills Education Expert. Design a 10-month curriculum that:`
+```
 1. Integrates activities like debates, group projects, and role-play.
 
 2. Uses real-life scenarios for problem-solving.
@@ -247,29 +247,29 @@ Prompt:
 4. Tracks progress via reflective journals.
 
 5. Aligns with CBSE life skills guidelines.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. School timetable flexibility
 
 2. Number of students per batch
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Monthly activity calendar (Excel)
 
 2. Teacher guidebook (Word)"
+```
+## Prompt 9 — AI & Data Science Syllabus for Beginners
 
-Prompt 9 — AI & Data Science Syllabus for Beginners
+`Backstory: You’re creating an introductory AI course for tech enthusiasts with no coding experience. It needs to be hands-on but beginner-friendly.`
 
-Backstory: You’re creating an introductory AI course for tech enthusiasts with no coding experience. It needs to be hands-on but beginner-friendly.
+`Goal: Help learners understand AI basics and build small models.`
 
-Goal: Help learners understand AI basics and build small models.
+`Prompt:`
 
-Prompt:
-
-"You are an AI Education Specialist. Create a 6-week course that:
-
+`"You are an AI Education Specialist. Create a 6-week course that:`
+```
 1. Explains AI and ML fundamentals in simple language.
 
 2. Covers Python basics for data handling.
@@ -279,29 +279,29 @@ Prompt:
 4. Uses free datasets for practice.
 
 5. Ends with a mini AI project presentation.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Learner background
 
 2. Preferred AI tools
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Weekly syllabus (Excel)
 
 2. Code snippets (Jupyter Notebook)"
+```
+## Prompt 10 — Music Theory & Practice Curriculum
 
-Prompt 10 — Music Theory & Practice Curriculum
+`Backstory: You run a music academy and want a one-year program for beginner guitarists that blends theory and practice.`
 
-Backstory: You run a music academy and want a one-year program for beginner guitarists that blends theory and practice.
+`Goal: Take students from zero knowledge to performing full songs.`
 
-Goal: Take students from zero knowledge to performing full songs.
+`Prompt:`
 
-Prompt:
-
-"You are a Music Curriculum Designer. Create a 12-month guitar program that:
-
+`"You are a Music Curriculum Designer. Create a 12-month guitar program that:`
+```
 1. Combines weekly theory lessons and practice sessions.
 
 2. Introduces chords, scales, and rhythm step-by-step.
@@ -311,29 +311,29 @@ Prompt:
 4. Offers progress tracking sheets.
 
 5. Ends with a final group performance.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Student age group
 
 2. Preferred music genres
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Monthly lesson breakdown (Excel)
 
 2. Sheet music and chord charts (PDF)"
+```
+## Prompt 11 — Mental Health Awareness Program for Schools
 
-Prompt 11 — Mental Health Awareness Program for Schools
+`Backstory: You’re designing a school-based mental health curriculum for students aged 14–18. It needs to reduce stigma and encourage open conversations.`
 
-Backstory: You’re designing a school-based mental health curriculum for students aged 14–18. It needs to reduce stigma and encourage open conversations.
+`Goal: Improve mental health literacy among teenagers.`
 
-Goal: Improve mental health literacy among teenagers.
+`Prompt:`
 
-Prompt:
-
-"You are a Mental Health Educator. Build a 12-week program that: 
-
+`"You are a Mental Health Educator. Build a 12-week program that:`
+```
 1. Teaches stress management and coping skills. 
 
 2. Discusses common adolescent mental health challenges. 
@@ -343,29 +343,29 @@ Prompt:
 4. Involves parents and teachers. 
 
 5. Offers anonymous help channels.
-
-Inputs: 
-
+```
+`Inputs: `
+```
 1. School resources available 
 
 2. Expert speakers if any
-
-Output Format: 
-
+```
+`Output Format:`
+```
 1. Weekly topic list (Excel) 
 
 2. Workshop activity guides (Word)"
+```
+## Prompt 12 — Culinary Skills Training
 
-Prompt 12 — Culinary Skills Training
+`Backstory: You run a cooking institute and need a 6-month course for aspiring chefs focusing on Indian and continental cuisines.`
 
-Backstory: You run a cooking institute and need a 6-month course for aspiring chefs focusing on Indian and continental cuisines.
+`Goal: Train students for both home and commercial kitchens.`
 
-Goal: Train students for both home and commercial kitchens.
+`Prompt:`
 
-Prompt:
-
-"You are a Culinary Program Developer. Create a 6-month course that: 
-
+`"You are a Culinary Program Developer. Create a 6-month course that:` 
+```
 1. Balances theory and kitchen practice. 
 
 2. Covers hygiene, plating, and menu planning. 
@@ -375,20 +375,20 @@ Prompt:
 4. Has a weekly dish challenge. 
 
 5. Ends with a professional kitchen internship.
-
-Inputs: 
-
+```
+`Inputs:` 
+```
 1. Facility details 
 
 2. Cuisine focus
-
-Output Format: 
-
+```
+`Output Format:` 
+```
 1. Weekly recipe schedule (Excel) 
 
 2. Practical assessment sheets (PDF)"
-
-Prompt 13 — Personal Branding for Professionals
+```
+## Prompt 13 — Personal Branding for Professionals
 
 Backstory: You’re an online coach helping mid-career professionals build personal brands for LinkedIn.
 
