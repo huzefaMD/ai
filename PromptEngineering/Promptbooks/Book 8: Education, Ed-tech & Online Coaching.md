@@ -807,16 +807,16 @@
 
 # Test/exam preparation materials
 
-Prompt 1 — UPSC Prelims Study Material Creation
+## Prompt 1 — UPSC Prelims Study Material Creation
 
-Backstory: You run an online UPSC coaching platform and want to provide daily topic-wise notes for the Prelims exam. These notes must be concise, fact-checked, and easy to revise.
+`Backstory: You run an online UPSC coaching platform and want to provide daily topic-wise notes for the Prelims exam. These notes must be concise, fact-checked, and easy to revise.`
 
-Goal: Deliver bite-sized, high-retention content for aspirants.
+`Goal: Deliver bite-sized, high-retention content for aspirants.`
 
-Prompt:
+`Prompt:`
 
-"You are a UPSC Content Creator. Prepare daily study notes for UPSC Prelims that:
-
+`"You are a UPSC Content Creator. Prepare daily study notes for UPSC Prelims that:`
+```
 1. Cover static subjects (Polity, Economy, Geography) and current affairs.
 
 2. Use bullet points for easy revision.
@@ -826,29 +826,29 @@ Prompt:
 4. Add 3–5 practice MCQs per topic.
 
 5. Highlight key facts with bold text.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Subject for the day
 
 2. Latest news/events to include
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. PDF notes (2–3 pages)
 
 2. MCQ answer key (Excel)"
+```
+## Prompt 2 — NEET Biology Question Bank
 
-Prompt 2 — NEET Biology Question Bank
+`Backstory: You’re building a biology question bank for NEET aspirants that balances easy, moderate, and difficult levels. It must reflect the latest NTA trends.`
 
-Backstory: You’re building a biology question bank for NEET aspirants that balances easy, moderate, and difficult levels. It must reflect the latest NTA trends.
+`Goal: Strengthen topic mastery with targeted practice.`
 
-Goal: Strengthen topic mastery with targeted practice.
+`Prompt:`
 
-Prompt:
-
-"You are a NEET Biology Expert. Create a question bank that:
-
+`"You are a NEET Biology Expert. Create a question bank that:`
+```
 1. Covers one NEET biology chapter in depth.
 
 2. Has 40 questions — 15 easy, 15 moderate, 10 difficult.
@@ -858,29 +858,29 @@ Prompt:
 4. Uses clear diagrams for complex processes.
 
 5. Follows the NCERT syllabus closely.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Chapter name
 
 2. Difficulty level preference
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Question bank (Word/PDF)
 
 2. Answer explanations (Word)"
+```
+## Prompt 3 — CAT Quantitative Aptitude Mock Test
 
-Prompt 3 — CAT Quantitative Aptitude Mock Test
+`Backstory: Your MBA coaching center wants a full-length CAT mock test for quantitative aptitude, with questions modeled after past years’ difficulty.`
 
-Backstory: Your MBA coaching center wants a full-length CAT mock test for quantitative aptitude, with questions modeled after past years’ difficulty.
+`Goal: Give students an accurate simulation of the real test.`
 
-Goal: Give students an accurate simulation of the real test.
+`Prompt:`
 
-Prompt:
-
-"You are a CAT Quant Faculty. Design a 2-hour mock test that:
-
+`"You are a CAT Quant Faculty. Design a 2-hour mock test that:`
+```
 1. Includes 34 quantitative aptitude questions.
 
 2. Has a mix of arithmetic, algebra, geometry, and number systems.
@@ -890,29 +890,29 @@ Prompt:
 4. Provides detailed step-by-step solutions.
 
 5. Highlights shortcut tricks for time efficiency.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Topic weighting preferences
 
 2. Time limit for each section
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Question paper (PDF)
 
 2. Solution booklet (PDF)"
+```
+## Prompt 4 — SSC CGL Reasoning Practice Set
 
-Prompt 4 — SSC CGL Reasoning Practice Set
+`Backstory: You run an SSC preparation YouTube channel and need weekly reasoning practice sets with solutions for viewers.`
 
-Backstory: You run an SSC preparation YouTube channel and need weekly reasoning practice sets with solutions for viewers.
+`Goal: Boost engagement and learning outcomes.`
 
-Goal: Boost engagement and learning outcomes.
+`Prompt:`
 
-Prompt:
-
-"You are an SSC Reasoning Specialist. Create a practice set that:
-
+`"You are an SSC Reasoning Specialist. Create a practice set that:`
+```
 1. Contains 25 reasoning questions across all SSC CGL topics.
 
 2. Maintains exam-accurate difficulty and format.
@@ -922,29 +922,29 @@ Prompt:
 4. Suggests solving order for maximum speed.
 
 5. Fits into a 45-minute practice session.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Specific reasoning topics to focus on
 
 2. Target difficulty level
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Practice sheet (PDF)
 
 2. Solution guide (Word)"
+```
+## Prompt 5 — IELTS Speaking Cue Cards
 
-Prompt 5 — IELTS Speaking Cue Cards
+`Backstory: You teach IELTS and want to give students daily speaking prompts to improve fluency and vocabulary.`
 
-Backstory: You teach IELTS and want to give students daily speaking prompts to improve fluency and vocabulary.
+`Goal: Prepare students for the IELTS speaking section with realistic, high-quality cue cards.`
 
-Goal: Prepare students for the IELTS speaking section with realistic, high-quality cue cards.
+`Prompt:`
 
-Prompt:
-
-"You are an IELTS Speaking Coach. Create 5 cue cards that:
-
+`"You are an IELTS Speaking Coach. Create 5 cue cards that:`
+```
 1. Cover varied topics (personal, abstract, opinion-based).
 
 2. Include a main question and 3–4 sub-questions.
@@ -954,29 +954,29 @@ Prompt:
 4. Provide example answers.
 
 5. Encourage 2-minute speaking practice per card.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Target band score
 
 2. Topic categories preferred
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Cue cards (PDF)
 
 2. Vocabulary list (Excel)"
+```
+## Prompt 6 — Bank PO Current Affairs Capsule
 
-Prompt 6 — Bank PO Current Affairs Capsule
+`Backstory: You operate a banking exam coaching app and need a monthly PDF capsule summarizing important current affairs for Bank PO exams.`
 
-Backstory: You operate a banking exam coaching app and need a monthly PDF capsule summarizing important current affairs for Bank PO exams.
+`Goal: Provide exam-oriented, easy-to-recall updates that students can revise quickly before the exam.`
 
-Goal: Provide exam-oriented, easy-to-recall updates that students can revise quickly before the exam.
+`Prompt:`
 
-Prompt:
-
-"You are a Banking Exam Content Curator. Create a monthly current affairs capsule that: 
-
+`"You are a Banking Exam Content Curator. Create a monthly current affairs capsule that:`
+```
 1. Covers national, international, banking, and sports news. 
 
 2. Focuses on facts relevant to Bank PO exams. 
@@ -986,29 +986,29 @@ Prompt:
 4. Highlights dates, figures, and key persons. 
 
 5. Ends with 20 practice MCQs.
-
-Inputs: 
-
+```
+`Inputs: `
+```
 1. Month and year 
 
 2. Specific focus areas
-
-Output Format: 
-
+```
+`Output Format: `
+```
 1. PDF capsule (20–25 pages) 
 
 2. MCQ answer key (Excel)"
+```
+## Prompt 7 — JEE Physics Problem Set
 
-Prompt 7 — JEE Physics Problem Set
+`Backstory: You’re creating daily practice problems for JEE aspirants targeting top IITs. The focus is on conceptual clarity and application-based questions.`
 
-Backstory: You’re creating daily practice problems for JEE aspirants targeting top IITs. The focus is on conceptual clarity and application-based questions.
+`Goal: Strengthen problem-solving speed and accuracy.`
 
-Goal: Strengthen problem-solving speed and accuracy.
+`Prompt:`
 
-Prompt:
-
-"You are a JEE Physics Faculty. Prepare a set of 15 problems that:
-
+`"You are a JEE Physics Faculty. Prepare a set of 15 problems that:`
+```
 1. Cover mechanics, electricity, and magnetism.
 
 2. Include at least 5 advanced-level questions.
@@ -1018,20 +1018,20 @@ Prompt:
 4. Offer alternative solving methods where possible.
 
 5. Follow JEE Advanced pattern.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Chapter name
 
 2. Difficulty level
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Problem set (Word/PDF)
 
 2. Solutions (Word)"
-
-Prompt 8 — GRE Vocabulary Flashcards
+```
+## Prompt 8 — GRE Vocabulary Flashcards
 
 Backstory: You run an online GRE prep course and want digital vocabulary flashcards to help students improve verbal scores.
 
