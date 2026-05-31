@@ -3424,16 +3424,16 @@ Goal: Give VIP treatment to boost conversion probability.`
 
 2. Slide notes with talking points"
 ```
-Prompt 2 — Investor Pitch for Early-Stage Startup
+## Prompt 2 — Investor Pitch for Early-Stage Startup
 
-Backstory: You run a health-tech startup offering AI-powered diagnostics. You have early traction but no large-scale funding yet. Investors want clarity on market size, scalability, and your competitive moat.
+`Backstory: You run a health-tech startup offering AI-powered diagnostics. You have early traction but no large-scale funding yet. Investors want clarity on market size, scalability, and your competitive moat.`
 
-Goal: Convince investors to schedule a follow-up meeting or commit funds.
+`Goal: Convince investors to schedule a follow-up meeting or commit funds.`
 
-Prompt:
+`Prompt:`
 
-"You are a Startup Pitch Advisor. Build a 10-slide deck that:
-
+`"You are a Startup Pitch Advisor. Build a 10-slide deck that:`
+```
 1. Opens with a patient story showing the real-life impact.
 
 2. Defines the problem and its market size (TAM, SAM, SOM).
@@ -3443,31 +3443,31 @@ Prompt:
 4. Shares traction metrics (users, partnerships, revenue).
 
 5. Ends with your funding ask and use of funds.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Market research data
 
 2. Traction metrics
 
 3. Funding ask details
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Deck in Google Slides format
 
 2. Script notes for each slide"
+```
+## Prompt 3 — Objection Handling: “Your Price is Too High”
 
-Prompt 3 — Objection Handling: “Your Price is Too High”
+`ckstory: You sell custom website design packages. Many small business leads hesitate due to price, comparing you with cheaper template services. You need to show value without sounding defensive.`
 
-Backstory: You sell custom website design packages. Many small business leads hesitate due to price, comparing you with cheaper template services. You need to show value without sounding defensive.
+`Goal: Reframe price concerns into a conversation about ROI and quality.`
 
-Goal: Reframe price concerns into a conversation about ROI and quality.
+`Prompt:`
 
-Prompt:
-
-"You are a Sales Objection Handling Coach. Draft a 5-step objection handling script for the price objection that:
-
+`"You are a Sales Objection Handling Coach. Draft a 5-step objection handling script for the price objection that:`
+```
 1. Acknowledges the concern without arguing.
 
 2. Highlights long-term cost savings and performance benefits.
@@ -3477,31 +3477,31 @@ Prompt:
 4. Offers payment plans if needed.
 
 5. Confirms next steps.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Service details
 
 2. Client industry
 
 3. ROI examples
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Script document (Word)
 
 2. Quick-reference objection flashcards (PDF)"
+```
+## Prompt 4 — Pitch Deck for Strategic Partnerships
 
-Prompt 4 — Pitch Deck for Strategic Partnerships
+`Backstory: Your organic food brand wants to partner with a grocery chain to increase shelf presence. They will only consider you if you can prove brand demand and synergy with their audience.`
 
-Backstory: Your organic food brand wants to partner with a grocery chain to increase shelf presence. They will only consider you if you can prove brand demand and synergy with their audience.
+`Goal: Create a deck to secure a pilot placement in select stores.`
 
-Goal: Create a deck to secure a pilot placement in select stores.
+`Prompt:`
 
-Prompt:
-
-"You are a Partnership Proposal Expert. Create a 7-slide deck that: 
-
+`"You are a Partnership Proposal Expert. Create a 7-slide deck that:` 
+```
 1. Shows current sales and customer demographics. 
 
 2. Aligns your brand values with the grocery chain’s. 
@@ -3511,31 +3511,31 @@ Prompt:
 4. Offers a risk-free trial period for the retailer. 
 
 5. Includes visuals of product displays.
-
-Inputs: 
-
+```
+`Inputs: `
+```
 1. Sales data 
 
 2. Brand values 
 
 3. Marketing plans
-
-Output Format: 
-
+```
+`Output Format: `
+```
 1. Deck (PPTX)
 
 2. One-page PDF summary"
+```
+## Prompt 5 — Objection Handling: “We Already Have a Vendor”
 
-Prompt 5 — Objection Handling: “We Already Have a Vendor”
+`Backstory: You sell IT managed services. A prospect says they are satisfied with their current provider. Without being pushy, you need to open the door for consideration.`
 
-Backstory: You sell IT managed services. A prospect says they are satisfied with their current provider. Without being pushy, you need to open the door for consideration.
+`Goal: Create curiosity and position your services as a beneficial alternative.`
 
-Goal: Create curiosity and position your services as a beneficial alternative.
+`Prompt:`
 
-Prompt:
-
-"You are a Competitive Replacement Specialist. Write a 4-step objection handling script that: 
-
+`"You are a Competitive Replacement Specialist. Write a 4-step objection handling script that: `
+```
 1. Respects their loyalty to the current vendor. 
 
 2. Asks subtle probing questions about gaps in service. 
@@ -3543,29 +3543,29 @@ Prompt:
 3. Shares unique differentiators without negative comparisons. 
 
 4. Suggests a no-obligation audit.
-
-Inputs: 
-
+```
+`Inputs: `
+```
 1. Service differentiators 
 
 2. Industry-specific pain points
-
-Output Format: 
-
+```
+`Output Format: `
+```
 1. Call script (Word)
 
 2. Follow-up email (Word/PDF)"
+```
+## Prompt 6 — Pitch Deck for Nonprofit Fundraising
 
-Prompt 6 — Pitch Deck for Nonprofit Fundraising
+`Backstory: You run a nonprofit focused on clean water initiatives. Donors need to see impact, transparency, and emotional connection to the cause before contributing.`
 
-Backstory: You run a nonprofit focused on clean water initiatives. Donors need to see impact, transparency, and emotional connection to the cause before contributing.
+`Goal: Inspire donations by showing both human stories and measurable outcomes.`
 
-Goal: Inspire donations by showing both human stories and measurable outcomes.
+`Prompt:`
 
-Prompt:
-
-"You are a Nonprofit Fundraising Strategist. Create an 8-slide deck that:
-
+`"You are a Nonprofit Fundraising Strategist. Create an 8-slide deck that:`
+```
 1. Starts with a powerful beneficiary story.
 
 2. Presents the water crisis in simple, emotional terms.
@@ -3575,21 +3575,21 @@ Prompt:
 4. Explains exactly how funds will be used.
 
 5. Includes donor recognition options.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Impact data
 
 2. Photos/videos of projects
 
 3. Donation tiers
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Deck (Google Slides)
 
 2. Scripted speech outline (Word)"
-
+```
 Prompt 7 — Objection Handling: “We Don’t Have the Budget Right Now”
 
 Backstory: You sell corporate training programs. A lead is interested but cites lack of immediate budget. You can still keep the relationship alive until the next budget cycle.
