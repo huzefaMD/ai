@@ -3590,44 +3590,44 @@ Goal: Give VIP treatment to boost conversion probability.`
 
 2. Scripted speech outline (Word)"
 ```
-Prompt 7 — Objection Handling: “We Don’t Have the Budget Right Now”
+## Prompt 7 — Objection Handling: “We Don’t Have the Budget Right Now”
 
-Backstory: You sell corporate training programs. A lead is interested but cites lack of immediate budget. You can still keep the relationship alive until the next budget cycle.
+`Backstory: You sell corporate training programs. A lead is interested but cites lack of immediate budget. You can still keep the relationship alive until the next budget cycle.`
 
-Goal: Secure a future commitment and stay top of mind.
+`Goal: Secure a future commitment and stay top of mind.`
 
-Prompt:
+`Prompt:`
 
-"You are a Budget Cycle Sales Coach. Build a 3-step script that:
-
+`"You are a Budget Cycle Sales Coach. Build a 3-step script that:`
+```
 1. Validates their concern.
 
 2. Suggests low-cost pilot or phased implementation.
 
 3. Agrees to a specific re-engagement date tied to their budget planning.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Service packages
 
 2. Pilot offer details
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Script (Word)
 
 2. Follow-up schedule (Excel)"
+```
+## Prompt 8 — Product Launch Pitch for Media
 
-Prompt 8 — Product Launch Pitch for Media
+`Backstory: Your tech gadget company is launching a new wearable. Media coverage will drive awareness, but journalists need a story, not just product specs.`
 
-Backstory: Your tech gadget company is launching a new wearable. Media coverage will drive awareness, but journalists need a story, not just product specs.
+`Goal: Secure press coverage with a compelling pitch.`
 
-Goal: Secure press coverage with a compelling pitch.
+`Prompt:`
 
-Prompt:
-
-"You are a Tech Product PR Specialist. Build a 6-slide press pitch deck that:
-
+`"You are a Tech Product PR Specialist. Build a 6-slide press pitch deck that:`
+```
 1. Frames the product launch as part of a larger trend.
 
 2. Highlights 3 unique selling points.
@@ -3637,29 +3637,29 @@ Prompt:
 4. Shares an exclusive review offer for journalists.
 
 5. Ends with contact info for interviews.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Product specs
 
 2. Trend research
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Deck (PDF)
 
 2. Media pitch email (Word)"
+```
+## Prompt 9 — Objection Handling: “I Need to Think About It”
 
-Prompt 9 — Objection Handling: “I Need to Think About It”
+`Backstory: You offer coaching services. Leads often stall with vague “think about it” responses, which can signal hidden objections or low urgency.`
 
-Backstory: You offer coaching services. Leads often stall with vague “think about it” responses, which can signal hidden objections or low urgency.
+`Goal: Uncover the real reason and keep the sales process moving.`
 
-Goal: Uncover the real reason and keep the sales process moving.
+`Prompt:`
 
-Prompt:
-
-"You are a Sales Conversation Strategist. Draft a 5-step framework that:
-
+`"You are a Sales Conversation Strategist. Draft a 5-step framework that:`
+```
 1. Responds positively to buy time.
 
 2. Gently asks if there’s a specific concern holding them back.
@@ -3669,29 +3669,29 @@ Prompt:
 4. Shares a success story to build confidence.
 
 5. Ends with a decision deadline.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Service details
 
 2. Client goals
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Script (Word)
 
 2. Objection flowchart (PDF)"
+```
+## Prompt 10 — Internal Team Sales Training Deck
 
-Prompt 10 — Internal Team Sales Training Deck
+`Backstory: Your sales team handles diverse products, but pitch consistency is lacking. Some reps undersell key benefits, while others overload prospects with details.`
 
-Backstory: Your sales team handles diverse products, but pitch consistency is lacking. Some reps undersell key benefits, while others overload prospects with details.
+`Goal: Standardise messaging for higher conversion.`
 
-Goal: Standardise messaging for higher conversion.
+`Prompt:`
 
-Prompt:
-
-"You are a Sales Enablement Coach. Create a 10-slide internal training deck that:
-
+`"You are a Sales Enablement Coach. Create a 10-slide internal training deck that:`
+```
 1. Outlines the ideal pitch flow.
 
 2. Lists top objections and responses.
@@ -3701,29 +3701,29 @@ Prompt:
 4. Provides 3 success stories for credibility.
 
 5. Includes a practice role-play section.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Product/service list
 
 2. Objection database
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Deck (PPTX)
 
 2. Facilitator’s guide (Word)"
+```
+## Prompt 11 — Pitch Deck for Government Contracts
 
-Prompt 11 — Pitch Deck for Government Contracts
+`Backstory: You run a cybersecurity firm targeting government tenders. Officials need proof of compliance, reliability, and security certifications before even considering you. This isn’t a standard sales pitch — it’s about trust, compliance, and risk mitigation.`
 
-Backstory: You run a cybersecurity firm targeting government tenders. Officials need proof of compliance, reliability, and security certifications before even considering you. This isn’t a standard sales pitch — it’s about trust, compliance, and risk mitigation.
+`Goal: Position your company as a certified, risk-free vendor for government work.`
 
-Goal: Position your company as a certified, risk-free vendor for government work.
+`Prompt:`
 
-Prompt:
-
-"You are a GovTech Pitch Specialist. Build a 9-slide deck that:
-
+`"You are a GovTech Pitch Specialist. Build a 9-slide deck that:`
+```
 1. Demonstrates security compliance with ISO, NIST, or local standards.
 
 2. Shows case studies with sensitive data protection.
@@ -3733,31 +3733,31 @@ Prompt:
 4. Highlights your local presence and quick response capabilities.
 
 5. Includes references from past government projects.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Certification details
 
 2. Previous gov contract summaries
 
 3. Response times and SLAs
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Deck (PPTX)
 
 2. Compliance checklist (PDF)"
+```
+## Prompt 12 — Objection Handling: “We’re Happy With Current Results”
 
-Prompt 12 — Objection Handling: “We’re Happy With Current Results”
+`Backstory: You’re an SEO agency pitching to a company that’s already ranking decently on Google. They don’t see the need for change, but you know they’re missing high-value opportunities.`
 
-Backstory: You’re an SEO agency pitching to a company that’s already ranking decently on Google. They don’t see the need for change, but you know they’re missing high-value opportunities.
+`Goal: Reframe “happy” into “could be better” without sounding pushy.`
 
-Goal: Reframe “happy” into “could be better” without sounding pushy.
+`Prompt:`
 
-Prompt:
-
-"You are an SEO Growth Consultant. Create a 4-step objection handling script that:
-
+`"You are an SEO Growth Consultant. Create a 4-step objection handling script that:`
+```
 1. Acknowledges satisfaction with current results.
 
 2. Shows missed keyword and traffic opportunities.
@@ -3765,29 +3765,29 @@ Prompt:
 3. Links lost traffic to potential revenue.
 
 4. Offers a free competitive analysis to prove value.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Current SEO report
 
 2. Competitor ranking data
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Script (Word)
 
 2. Opportunity analysis template (Excel)"
+```
+## Prompt 13 — Pitch Deck for Cross-Selling to Existing Clients
 
-Prompt 13 — Pitch Deck for Cross-Selling to Existing Clients
+`Backstory: You run a digital ad agency and have clients using only your Facebook ads service. You want to pitch them on adding Google Ads to their strategy.`
 
-Backstory: You run a digital ad agency and have clients using only your Facebook ads service. You want to pitch them on adding Google Ads to their strategy.
+`Goal: Increase client LTV (Lifetime Value) via cross-selling.`
 
-Goal: Increase client LTV (Lifetime Value) via cross-selling.
+`Prompt:`
 
-Prompt:
-
-"You are a Cross-Sell Pitch Specialist. Build a 6-slide mini deck that:
-
+`"You are a Cross-Sell Pitch Specialist. Build a 6-slide mini deck that:`
+```
 1. Reviews current results from Facebook campaigns.
 
 2. Shows untapped audience potential on Google.
@@ -3797,29 +3797,29 @@ Prompt:
 4. Shares 1–2 relevant success stories.
 
 5. Offers bundled pricing.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Client’s Facebook ad performance
 
 2. Google Ads audience research
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Deck (Google Slides)
 
 2. Email template for sending deck"
+```
+## Prompt 14 — Objection Handling: “We’ve Tried This Before and It Didn’t Work”
 
-Prompt 14 — Objection Handling: “We’ve Tried This Before and It Didn’t Work”
+`Backstory: You sell employee wellness programs. A prospect says they’ve done wellness initiatives before but saw no impact. You need to prove your approach is different.`
 
-Backstory: You sell employee wellness programs. A prospect says they’ve done wellness initiatives before but saw no impact. You need to prove your approach is different.
+`Goal: Shift perception from “waste of time” to “worth another try.”`
 
-Goal: Shift perception from “waste of time” to “worth another try.”
+`Prompt:`
 
-Prompt:
-
-"You are a Program Repositioning Expert. Draft a 5-step objection handling script that:
-
+`"You are a Program Repositioning Expert. Draft a 5-step objection handling script that:`
+```
 1. Acknowledges past disappointment.
 
 2. Asks clarifying questions about what went wrong.
@@ -3829,29 +3829,29 @@ Prompt:
 4. Offers a low-risk pilot.
 
 5. Ends with a success guarantee.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Differentiators in your program
 
 2. Pilot details
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Script (Word)
 
 2. Pilot proposal one-pager (PDF)"
+```
+## Prompt 15 — Pitch Deck for Selling to C-Suite Executives
 
-Prompt 15 — Pitch Deck for Selling to C-Suite Executives
+`Backstory: You’re a cloud infrastructure provider pitching to CIOs and CTOs. These decision-makers want strategic benefits, not just technical features.`
 
-Backstory: You’re a cloud infrastructure provider pitching to CIOs and CTOs. These decision-makers want strategic benefits, not just technical features.
+`Goal: Win executive buy-in by speaking their language — business outcomes.`
 
-Goal: Win executive buy-in by speaking their language — business outcomes.
+`Prompt:`
 
-Prompt:
-
-"You are a C-Suite Sales Strategist. Build a 10-slide deck that:
-
+`"You are a C-Suite Sales Strategist. Build a 10-slide deck that:`
+```
 1. Frames the problem in terms of business risks.
 
 2. Quantifies cost savings and scalability benefits.
@@ -3861,31 +3861,31 @@ Prompt:
 4. Shares high-profile client wins.
 
 5. Includes a boardroom-friendly financial summary.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Risk reduction stats
 
 2. ROI metrics
 
 3. Client references
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Deck (PPTX)
 
 2. Executive summary PDF"
+```
+## Prompt 16 — Objection Handling: “I Need Approval From My Boss”
 
-Prompt 16 — Objection Handling: “I Need Approval From My Boss”
+`Backstory: You’re selling enterprise HR software and the champion loves it, but can’t sign without boss approval. You need to help them sell it internally.`
 
-Backstory: You’re selling enterprise HR software and the champion loves it, but can’t sign without boss approval. You need to help them sell it internally.
+`Goal: Equip your champion to win internal buy-in.`
 
-Goal: Equip your champion to win internal buy-in.
+`Prompt:`
 
-Prompt:
-
-"You are a Champion Enablement Coach. Build a toolkit that:
-
+`"You are a Champion Enablement Coach. Build a toolkit that:`
+```
 1. Summarises key benefits in one page.
 
 2. Provides ROI calculator for management.
@@ -3893,31 +3893,31 @@ Prompt:
 3. Prepares responses to common leadership objections.
 
 4. Suggests next-step meeting with decision-maker.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Product features
 
 2. ROI data
 
 3. Common leadership concerns
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. One-page internal pitch doc (Word)
 
 2. ROI spreadsheet (Excel)"
+```
+## Prompt 17 — Pitch Deck for Selling at Trade Shows
 
-Prompt 17 — Pitch Deck for Selling at Trade Shows
+`Backstory: You’re a machinery manufacturer attending a trade expo. You’ll be pitching to buyers on the spot with limited time.`
 
-Backstory: You’re a machinery manufacturer attending a trade expo. You’ll be pitching to buyers on the spot with limited time.
+`Goal: Have a short, impactful deck ready for quick booth presentations.`
 
-Goal: Have a short, impactful deck ready for quick booth presentations.
+`Prompt:`
 
-Prompt:
-
-"You are a Trade Show Sales Expert. Create a 5-slide deck that:
-
+`"You are a Trade Show Sales Expert. Create a 5-slide deck that:`
+```
 1. Opens with a bold visual of your flagship product.
 
 2. Shows 3 major benefits in plain language.
@@ -3927,57 +3927,57 @@ Prompt:
 4. Lists expo-only offers.
 
 5. Ends with QR code to schedule follow-up.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Product images/videos
 
 2. Special offers
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Deck (PPTX)
 
 2. QR code link sheet (PDF)"
+```
+## Prompt 18 — Objection Handling: “We’re in Contract With Someone Else”
 
-Prompt 18 — Objection Handling: “We’re in Contract With Someone Else”
+`Backstory: You sell corporate cleaning services and the prospect says they’re locked into a contract. You need to position yourself for the renewal window.`
 
-Backstory: You sell corporate cleaning services and the prospect says they’re locked into a contract. You need to position yourself for the renewal window.
+`Goal: Keep the door open without violating existing agreements.`
 
-Goal: Keep the door open without violating existing agreements.
+`Prompt:`
 
-Prompt:
-
-"You are a Future Positioning Sales Coach. Draft a 3-step script that:
-
+`"You are a Future Positioning Sales Coach. Draft a 3-step script that:`
+```
 1. Respects their current contract.
 
 2. Offers a free audit before their renewal date.
 
 3. Schedules a follow-up close to that date.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Service advantages
 
 2. Audit offer details
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Script (Word)
 
 2. CRM follow-up schedule (Excel)"
+```
+## Prompt 19 — Pitch Deck for Selling to International Clients
 
-Prompt 19 — Pitch Deck for Selling to International Clients
+`Backstory: You run an architectural design firm and want to pitch to overseas developers. They care about portfolio diversity, adaptability to local codes, and communication ease.`
 
-Backstory: You run an architectural design firm and want to pitch to overseas developers. They care about portfolio diversity, adaptability to local codes, and communication ease.
+`Goal: Win contracts in a foreign market.`
 
-Goal: Win contracts in a foreign market.
+`Prompt:`
 
-Prompt:
-
-"You are an International Sales Strategist. Create an 8-slide deck that:
-
+`"You are an International Sales Strategist. Create an 8-slide deck that:`
+```
 1. Shows international project portfolio.
 
 2. Addresses compliance with foreign regulations.
@@ -3987,29 +3987,29 @@ Prompt:
 4. Shares cultural adaptability examples.
 
 5. Offers a cross-border onboarding plan.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Project case studies
 
 2. Compliance knowledge
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Deck (Google Slides)
 
 2. Cross-border onboarding PDF"
+```
+## Prompt 20 — Objection Handling: “It’s Not a Priority Right Now”
 
-Prompt 20 — Objection Handling: “It’s Not a Priority Right Now”
+`Backstory: You sell cybersecurity solutions and a lead admits the risk is real but isn’t urgent. You need to reframe urgency without fear-mongering.`
 
-Backstory: You sell cybersecurity solutions and a lead admits the risk is real but isn’t urgent. You need to reframe urgency without fear-mongering.
+`Goal: Increase perceived urgency in a consultative way.`
 
-Goal: Increase perceived urgency in a consultative way.
+`Prompt:`
 
-Prompt:
-
-"You are a Urgency Reframing Expert. Build a 4-step script that:
-
+`"You are a Urgency Reframing Expert. Build a 4-step script that:`
+```
 1. Validates their perception.
 
 2. Shares 1–2 industry incidents showing real cost of delay.
@@ -4017,29 +4017,29 @@ Prompt:
 3. Links inaction to potential competitive disadvantage.
 
 4. Offers a low-commitment pilot to start immediately.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Case studies
 
 2. Pilot offer
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Script (Word)
 
 2. Urgency comparison chart (PDF)"
+```
+## Prompt 21 — Pitch Deck for Upselling Existing Enterprise Clients
 
-Prompt 21 — Pitch Deck for Upselling Existing Enterprise Clients
+`Backstory: Your cloud services company has enterprise clients using only 50% of your service portfolio. You want to upsell additional solutions.`
 
-Backstory: Your cloud services company has enterprise clients using only 50% of your service portfolio. You want to upsell additional solutions.
+`Goal: Expand existing account revenue.`
 
-Goal: Expand existing account revenue.
+`Prompt:`
 
-Prompt:
-
-"You are an Enterprise Upsell Strategist. Create a 7-slide deck that:
-
+`"You are an Enterprise Upsell Strategist. Create a 7-slide deck that:`
+```
 1. Reviews current usage and ROI.
 
 2. Highlights gaps where services could add value.
@@ -4049,29 +4049,29 @@ Prompt:
 4. Shares relevant case study.
 
 5. Proposes bundled discount for adding services.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Client usage report
 
 2. Additional service details
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Deck (PPTX)
 
 2. Proposal document (Word)"
+```
+## Prompt 22 — Objection Handling: “We’ve Heard Bad Reviews About Your Industry”
 
-Prompt 22 — Objection Handling: “We’ve Heard Bad Reviews About Your Industry”
+`Backstory: You sell MLM (multi-level marketing) health supplements and some prospects distrust the industry. You need to establish trust without dismissing their concerns.`
 
-Backstory: You sell MLM (multi-level marketing) health supplements and some prospects distrust the industry. You need to establish trust without dismissing their concerns.
+`Goal: Build credibility and separate your brand from the industry stigma.`
 
-Goal: Build credibility and separate your brand from the industry stigma.
+`Prompt:`
 
-Prompt:
-
-"You are a Reputation Rebuilding Specialist. Draft a 4-step objection script that:
-
+`"You are a Reputation Rebuilding Specialist. Draft a 4-step objection script that:`
+```
 1. Acknowledges negative perceptions.
 
 2. Shares your ethical practices and certifications.
@@ -4079,29 +4079,29 @@ Prompt:
 3. Uses third-party reviews and testimonials.
 
 4. Offers risk-free trial.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Ethical practices list
 
 2. Review/testimonial library
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Script (Word)
 
 2. Trust-building FAQ PDF"
+```
+## Prompt 23 — Pitch Deck for Selling to Educational Institutions
 
-Prompt 23 — Pitch Deck for Selling to Educational Institutions
+`Backstory: You develop e-learning platforms and want to pitch to universities. They need evidence of improved learning outcomes and smooth integration with LMS (Learning Management System).`
 
-Backstory: You develop e-learning platforms and want to pitch to universities. They need evidence of improved learning outcomes and smooth integration with LMS (Learning Management System).
+`Goal: Get pilot programs in universities.`
 
-Goal: Get pilot programs in universities.
+`Prompt:`
 
-Prompt:
-
-"You are an EduTech Sales Specialist. Build a 9-slide deck that: 
-
+`"You are an EduTech Sales Specialist. Build a 9-slide deck that: `
+```
 1. Shows improved learning outcomes data. 
 
 2. Highlights LMS integration ease. 
@@ -4111,47 +4111,47 @@ Prompt:
 4. Offers faculty training plan. 
 
 5. Ends with a pilot program proposal.
-
-Inputs: 
-
+```
+`Inputs: `
+```
 1. Outcome data 
 
 2. Integration specs
-
-Output Format: 
-
+```
+`Output Format: `
+```
 1. Deck (Google Slides) 
 
 2. Pilot proposal (Word)"
+```
+## Prompt 24 — Objection Handling: “We’re Too Busy to Implement This”
 
-Prompt 24 — Objection Handling: “We’re Too Busy to Implement This”
+`Backstory: You sell CRM software but leads say they can’t handle an implementation project right now. You need to remove workload fears.`
 
-Backstory: You sell CRM software but leads say they can’t handle an implementation project right now. You need to remove workload fears.
+`Goal: Show them it’s quick, painless, and worth the time.`
 
-Goal: Show them it’s quick, painless, and worth the time.
+`Prompt:`
 
-Prompt:
-
-"You are a Low-Effort Implementation Strategist. Create a 3-step script that:
-
+`"You are a Low-Effort Implementation Strategist. Create a 3-step script that:`
+```
 1. Breaks down implementation into small steps.
 
 2. Offers done-for-you setup.
 
 3. Shows ROI from the first month post-launch.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Setup process timeline
 
 2. Case study
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Script (Word)
 
 2. Implementation plan PDF"
-
+```
 ## Prompt 25 — Pitch Deck for Selling to Non-Tech Founders
 
 `Backstory: You’re a custom app development agency targeting founders with strong business skills but no tech background. They need to feel confident in your ability to handle everything.`
