@@ -941,16 +941,16 @@
 
 2. Ad copy versions in Word/PDF"
 ```
-Prompt 4 — Festival Campaign Ad Ideas
+## Prompt 4 — Festival Campaign Ad Ideas
 
-Backstory: You own an online jewellery store and want to run special ads for Diwali and Raksha Bandhan.
+`Backstory: You own an online jewellery store and want to run special ads for Diwali and Raksha Bandhan.`
 
-Goal: Create culturally relevant, high-engagement ad ideas.
+`Goal: Create culturally relevant, high-engagement ad ideas.`
 
-Prompt:
+`Prompt:`
 
-"You are a Festival Campaign Specialist. For my jewellery store, create ad copy and targeting ideas that:
-
+`"You are a Festival Campaign Specialist. For my jewellery store, create ad copy and targeting ideas that:`
+```
 1. Reflect Indian cultural aesthetics for Diwali/Raksha Bandhan.
 
 2. Suggest festive offer positioning.
@@ -960,31 +960,31 @@ Prompt:
 4. Target people searching for gifts.
 
 5. Suggest ad creatives (image/video) that resonate with the festivals.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Product details
 
 2. Festival offers
 
 3. Target age group
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Festival campaign plan (Excel)
 
 2. Sample copy & creative brief (PDF)"
+```
+## Prompt 5 — Retargeting Campaign Copy & Targeting
 
-Prompt 5 — Retargeting Campaign Copy & Targeting
+`Backstory: Your online course website gets a lot of traffic, but many visitors don’t enrol. You want retargeting ads to bring them back.`
 
-Backstory: Your online course website gets a lot of traffic, but many visitors don’t enrol. You want retargeting ads to bring them back.
+`Goal: Build a retargeting ad plan with copy ideas.`
 
-Goal: Build a retargeting ad plan with copy ideas.
+`Prompt:`
 
-Prompt:
-
-"You are a Retargeting Campaign Strategist. Design a retargeting campaign that:
-
+`"You are a Retargeting Campaign Strategist. Design a retargeting campaign that:`
+```
 1. Segments visitors by behaviour (visited course page, abandoned checkout).
 
 2. Creates ad copy tailored to each segment.
@@ -994,21 +994,21 @@ Prompt:
 4. Suggests Google Display and Facebook retargeting audiences.
 
 5. Recommends ad frequency caps to avoid fatigue.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Website analytics data
 
 2. Course details
 
 3. Offer for returning visitors
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Retargeting campaign matrix (Excel)
 
 2. Ad copy versions (Word/PDF)"
-
+```
 Prompt 6 — Location-Based Ad Targeting for Local Businesses
 
 Backstory: You run a café in Pune and want to target people nearby who are most likely to visit.
