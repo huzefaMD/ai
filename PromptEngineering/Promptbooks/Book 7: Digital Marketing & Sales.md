@@ -1009,16 +1009,16 @@
 
 2. Ad copy versions (Word/PDF)"
 ```
-Prompt 6 — Location-Based Ad Targeting for Local Businesses
+## Prompt 6 — Location-Based Ad Targeting for Local Businesses
 
-Backstory: You run a café in Pune and want to target people nearby who are most likely to visit.
+`Backstory: You run a café in Pune and want to target people nearby who are most likely to visit.`
 
-Goal: Create hyper-local ad targeting with relevant copy.
+`Goal: Create hyper-local ad targeting with relevant copy.`
 
-Prompt:
+`Prompt:`
 
-"You are a Local Ads Targeting Specialist. Build a campaign for my café that:
-
+`"You are a Local Ads Targeting Specialist. Build a campaign for my café that:`
+```
 1. Uses geofencing to target users within a 5 km radius.
 
 2. Includes ad copy inviting them for specific offers.
@@ -1028,21 +1028,21 @@ Prompt:
 4. Integrates Google Maps and location extensions.
 
 5. Uses Facebook “near me” interest targeting.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Location coordinates
 
 2. Café menu highlights
 
 3. Special offers
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Targeting map (PDF)
 
 2. Copy table (Excel)"
-
+```
 Prompt 7 — Emotional Storytelling in Ad Copy
 
 Backstory: You’re running ads for a non-profit crowdfunding campaign to help underprivileged children.
