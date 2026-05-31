@@ -2775,16 +2775,16 @@ Inputs:
 
 2. Conversion tracking sheet (Excel)"
 ```
-Prompt 8 — After-Sales Support Follow-Up
+## Prompt 8 — After-Sales Support Follow-Up
 
-Backstory: You sell high-end home appliances and want to ensure customers know how to use them effectively.
+`Backstory: You sell high-end home appliances and want to ensure customers know how to use them effectively.`
 
-Goal: Reduce returns and improve satisfaction.
+`Goal: Reduce returns and improve satisfaction.`
 
-Prompt:
+`Prompt:`
 
-"You are a Customer Support Follow-Up Specialist. Write a 3-step follow-up that:
-
+`"You are a Customer Support Follow-Up Specialist. Write a 3-step follow-up that:`
+```
 1. Sends a thank-you email with product setup guide.
 
 2. Shares troubleshooting tips and FAQs after 1 week.
@@ -2794,31 +2794,31 @@ Prompt:
 4. Personalise with customer name and purchase details.
 
 5. Include customer support contact prominently.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Product model
 
 2. Support guide link
 
 3. Customer purchase date
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Support flow diagram (PDF)
 
 2. Email scripts (Word)"
+```
+## Prompt 9 — Webinar Attendee Follow-Up
 
-Prompt 9 — Webinar Attendee Follow-Up
+`Backstory: Your digital coaching business hosts free webinars to generate leads. Attendees often drop off without taking action.`
 
-Backstory: Your digital coaching business hosts free webinars to generate leads. Attendees often drop off without taking action.
+`Goal: Convert attendees into paying clients.`
 
-Goal: Convert attendees into paying clients.
+`Prompt:`
 
-Prompt:
-
-"You are a Webinar Conversion Specialist. Build a 3-email sequence that:
-
+`"You are a Webinar Conversion Specialist. Build a 3-email sequence that:`
+```
 1. Thanks them for attending and sends replay link.
 
 2. Shares additional resources to deepen trust.
@@ -2828,31 +2828,31 @@ Prompt:
 4. Uses urgency without sounding pushy.
 
 5. Tracks open and click rates for optimisation.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Webinar topic
 
 2. Replay link
 
 3. Course details
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Sequence in CRM import format (CSV)
 
 2. Email copy (PDF)"
+```
+## Prompt 10 — Lost Deal Follow-Up
 
-Prompt 10 — Lost Deal Follow-Up
+`Backstory: Your IT consulting firm loses some deals to competitors, but wants to stay top of mind for future opportunities.`
 
-Backstory: Your IT consulting firm loses some deals to competitors, but wants to stay top of mind for future opportunities.
+`Goal: Keep the relationship warm without being intrusive.`
 
-Goal: Keep the relationship warm without being intrusive.
+`Prompt:`
 
-Prompt:
-
-"You are a Lost Deal Recovery Specialist. Create a 2-touch follow-up that:
-
+`"You are a Lost Deal Recovery Specialist. Create a 2-touch follow-up that:`
+```
 1. Acknowledges their choice politely.
 
 2. Offers to provide free resources relevant to their needs.
@@ -2862,31 +2862,31 @@ Prompt:
 4. Keeps tone professional and helpful.
 
 5. Tags them for future campaigns.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Prospect name
 
 2. Service discussed
 
 3. Relevant resource link
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Recovery follow-up schedule (Excel)
 
 2. Email drafts (Word)"
+```
+## Prompt 11 — High-Value Lead Priority Sequence
 
-Prompt 11 — High-Value Lead Priority Sequence
+`Backstory: Your real estate firm has a small list of high-value buyers who need quick follow-up to close deals.
 
-Backstory: Your real estate firm has a small list of high-value buyers who need quick follow-up to close deals.
+Goal: Give VIP treatment to boost conversion probability.`
 
-Goal: Give VIP treatment to boost conversion probability.
+`Prompt:`
 
-Prompt:
-
-"You are a High-Ticket CRM Specialist. Design a 5-step sequence that:
-
+`"You are a High-Ticket CRM Specialist. Design a 5-step sequence that:`
+```
 1. Responds within 1 hour of inquiry.
 
 2. Sends personalised property recommendations.
@@ -2896,31 +2896,31 @@ Prompt:
 4. Sends testimonials from similar buyers.
 
 5. Ends with a clear call to action for viewing or booking.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Buyer budget range
 
 2. Property types
 
 3. Contact preference (call/email)
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Lead handling SOP (PDF)
 
 2. Email + SMS scripts (Word)"
+```
+## Prompt 12 — Service Renewal Reminder
 
-Prompt 12 — Service Renewal Reminder
+`Backstory: Your B2B hosting company relies on annual service renewals. Some clients forget until service disruption occurs.`
 
-Backstory: Your B2B hosting company relies on annual service renewals. Some clients forget until service disruption occurs.
+`Goal: Proactively remind them before expiry.`
 
-Goal: Proactively remind them before expiry.
+`Prompt:`
 
-Prompt:
-
-"You are a Renewal Retention Specialist. Create a 3-email reminder series that:
-
+`"You are a Renewal Retention Specialist. Create a 3-email reminder series that:`
+```
 1. Alerts at 30 days before expiry.
 
 2. Reminds at 7 days before expiry.
@@ -2930,31 +2930,31 @@ Prompt:
 4. Offers easy payment/renewal links.
 
 5. Includes support contact for help.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Renewal date
 
 2. Service plan details
 
 3. Payment link
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Reminder calendar (Excel)
 
 2. Email copy (Word/PDF)"
+```
+## Prompt 13 — Client Feedback Collection
 
-Prompt 13 — Client Feedback Collection
+`Backstory: Your interior design agency wants to improve services by collecting structured feedback after every project.`
 
-Backstory: Your interior design agency wants to improve services by collecting structured feedback after every project.
+`Goal: Get actionable insights and maintain goodwill.`
 
-Goal: Get actionable insights and maintain goodwill.
+`Prompt:`
 
-Prompt:
-
-"You are a Client Experience Specialist. Write a single follow-up email that:
-
+`"You are a Client Experience Specialist. Write a single follow-up email that:`
+```
 1. Thanks the client for working with you.
 
 2. Shares a simple feedback form link.
@@ -2964,31 +2964,31 @@ Prompt:
 4. Keeps tone warm and appreciative.
 
 5. Optionally offers a small thank-you gift.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Client name
 
 2. Project type
 
 3. Feedback form link
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Feedback email template (Word)
 
 2. Tracking spreadsheet (Excel)"
+```
+## Prompt 14 — Seasonal Greeting + Soft Offer
 
-Prompt 14 — Seasonal Greeting + Soft Offer
+`Backstory: Your corporate gifting business wants to wish clients on festivals and subtly promote services.`
 
-Backstory: Your corporate gifting business wants to wish clients on festivals and subtly promote services.
+`Goal: Stay memorable without hard selling.`
 
-Goal: Stay memorable without hard selling.
+`Prompt:`
 
-Prompt:
-
-"You are a Festive CRM Outreach Specialist. Write a greeting email that:
-
+`"You are a Festive CRM Outreach Specialist. Write a greeting email that:`
+```
 1. Personalises with client name and past interactions.
 
 2. Includes a short festive wish.
@@ -2998,31 +2998,31 @@ Prompt:
 4. Keeps email under 150 words.
 
 5. Includes one clean call-to-action link.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Festival name
 
 2. Offer details
 
 3. Client list
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Greeting email design guide (PDF)
 
 2. Copy (Word)"
+```
+## Prompt 15 — Upsell to Existing Client
 
-Prompt 15 — Upsell to Existing Client
+`Backstory: Your digital agency has clients who use only one service (SEO), but could benefit from others (social media, PPC).`
 
-Backstory: Your digital agency has clients who use only one service (SEO), but could benefit from others (social media, PPC).
+`Goal: Increase average client value.`
 
-Goal: Increase average client value.
+`Prompt:`
 
-Prompt:
-
-"You are a CRM Upsell Specialist. Build a 2-email sequence that:
-
+`"You are a CRM Upsell Specialist. Build a 2-email sequence that:`
+```
 1. Thanks them for their ongoing partnership.
 
 2. Shows how additional services can enhance results.
@@ -3032,31 +3032,31 @@ Prompt:
 4. Shares a case study showing success with multiple services.
 
 5. Encourages booking a consultation call.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Existing service details
 
 2. Additional services
 
 3. Case study link
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Upsell plan (Excel)
 
 2. Email drafts (Word/PDF)"
+```
+## Prompt 16 — Upsell After Positive Customer Support Interaction
 
-Prompt 16 — Upsell After Positive Customer Support Interaction
+`Backstory: Your cloud storage company has just resolved a major technical issue for a customer. The client responded positively to the resolution and even thanked the support team. This is the perfect time to upsell because the customer has just experienced your brand’s value and responsiveness firsthand. Waiting too long may lose this goodwill.`
 
-Backstory: Your cloud storage company has just resolved a major technical issue for a customer. The client responded positively to the resolution and even thanked the support team. This is the perfect time to upsell because the customer has just experienced your brand’s value and responsiveness firsthand. Waiting too long may lose this goodwill.
+`Goal: Leverage positive sentiment to present a relevant upsell.`
 
-Goal: Leverage positive sentiment to present a relevant upsell.
+`Prompt:`
 
-Prompt:
-
-"You are a Post-Support Upsell Specialist. Create a 2-email sequence that:
-
+`"You are a Post-Support Upsell Specialist. Create a 2-email sequence that:`
+```
 1. References the resolved issue to show attentiveness.
 
 2. Thanks them for their patience and trust.
@@ -3066,31 +3066,31 @@ Prompt:
 4. Highlights how it can prevent future issues or improve efficiency.
 
 5. Ends with a limited-time upgrade incentive.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Support ticket summary
 
 2. Upsell product details
 
 3. Incentive offer
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Email scripts (Word)
 
 2. Follow-up timing chart (Excel)"
+```
+## Prompt 17 — Client Onboarding Progress Check-In
 
-Prompt 17 — Client Onboarding Progress Check-In
+`Backstory: You run a financial consultancy and onboard new clients through a structured 90-day plan. While some complete initial steps quickly, others get stuck or lose momentum. A timely, caring check-in not only helps them progress but also increases satisfaction and retention.`
 
-Backstory: You run a financial consultancy and onboard new clients through a structured 90-day plan. While some complete initial steps quickly, others get stuck or lose momentum. A timely, caring check-in not only helps them progress but also increases satisfaction and retention.
+`Goal: Ensure clients are engaged and completing onboarding steps.`
 
-Goal: Ensure clients are engaged and completing onboarding steps.
+`Prompt:
 
-Prompt:
-
-"You are a Client Success CRM Specialist. Build a 3-touch follow-up that:
-
+`"You are a Client Success CRM Specialist. Build a 3-touch follow-up that:`
+```
 1. Checks on onboarding progress with a friendly tone.
 
 2. Offers support or additional resources for stalled steps.
@@ -3100,31 +3100,31 @@ Prompt:
 4. Personalises with their business goals.
 
 5. Ends with a “next step” call to action.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Onboarding checklist
 
 2. Client name
 
 3. Status in CRM
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. CRM automation flow (PDF)
 
 2. Email + call scripts (Word)"
+``
+## Prompt 18 — Anniversary or Milestone Celebration
 
-Prompt 18 — Anniversary or Milestone Celebration
+`Backstory: Your fitness coaching program tracks client join dates and major achievements (e.g., 1 year with your program, 50 lbs lost). Recognising these moments creates emotional connection and loyalty.`
 
-Backstory: Your fitness coaching program tracks client join dates and major achievements (e.g., 1 year with your program, 50 lbs lost). Recognising these moments creates emotional connection and loyalty.
+`Goal: Celebrate milestones and encourage further engagement or upsell.`
 
-Goal: Celebrate milestones and encourage further engagement or upsell.
+`Prompt:`
 
-Prompt:
-
-"You are a Customer Relationship Building Specialist. Write a 1-email celebration template that:
-
+`"You are a Customer Relationship Building Specialist. Write a 1-email celebration template that:
+```
 1. Personalises the message with their specific milestone.
 
 2. Includes a visual or certificate to make it shareable.
@@ -3134,31 +3134,31 @@ Prompt:
 4. Invites them to share their story/testimonial.
 
 5. Suggests next-level services for continued progress.
-
-Inputs:
-
+``
+`Inputs:`
+```
 1. Milestone type/date
 
 2. Bonus offer
 
 3. Client’s progress details
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Email + design mockup (PDF)
 
 2. Social media sharing text (Word)"
+```
+## Prompt 19 — Post-Complaint Satisfaction Follow-Up
 
-Prompt 19 — Post-Complaint Satisfaction Follow-Up
+`Backstory: Your online food delivery platform recently resolved a customer complaint about a late delivery. Following up shows you care beyond the transaction and can turn a negative experience into a loyalty opportunity.`
 
-Backstory: Your online food delivery platform recently resolved a customer complaint about a late delivery. Following up shows you care beyond the transaction and can turn a negative experience into a loyalty opportunity.
+`Goal: Measure satisfaction and rebuild trust after a complaint.`
 
-Goal: Measure satisfaction and rebuild trust after a complaint.
+`Prompt:`
 
-Prompt:
-
-"You are a Customer Recovery Specialist. Create a 2-step follow-up that:
-
+`"You are a Customer Recovery Specialist. Create a 2-step follow-up that:`
+```
 1. Checks if the resolution met their expectations.
 
 2. Offers a goodwill coupon for their next order.
@@ -3168,31 +3168,31 @@ Prompt:
 4. Encourages honest feedback for quality control.
 
 5. Tracks response in CRM for future segmentation.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Complaint details
 
 2. Resolution date
 
 3. Coupon code
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Follow-up workflow diagram (PDF)
 
 2. Email & SMS copy (Word)"
+```
+## Prompt 20 — Webinar Non-Attendee Nurture Sequence
 
-Prompt 20 — Webinar Non-Attendee Nurture Sequence
+`Backstory: You run a business coaching program and many registrants skip the live webinar. These leads still have interest but missed the event for various reasons. A targeted nurture can re-engage them and lead to sales.`
 
-Backstory: You run a business coaching program and many registrants skip the live webinar. These leads still have interest but missed the event for various reasons. A targeted nurture can re-engage them and lead to sales.
+`Goal: Convert non-attendees into buyers.`
 
-Goal: Convert non-attendees into buyers.
+`Prompt:`
 
-Prompt:
-
-"You are a Missed Webinar Conversion Specialist. Create a 3-email series that:
-
+`"You are a Missed Webinar Conversion Specialist. Create a 3-email series that:`
+```
 1. Sends replay link with key highlights.
 
 2. Addresses common objections in a friendly tone.
@@ -3202,31 +3202,31 @@ Prompt:
 4. Keeps messages concise and benefit-focused.
 
 5. Encourages scheduling a quick discovery call.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Webinar topic
 
 2. Replay link
 
 3. Offer details
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Email copy sequence (Word)
 
 2. CRM tagging strategy (Excel)"
+```
+## Prompt 21 — Follow-Up After Free Resource Download
 
-Prompt 21 — Follow-Up After Free Resource Download
+`Backstory: Your digital marketing agency offers a free e-book on “10 Ways to Improve SEO.” While downloads generate leads, many people never take the next step. A follow-up can turn interest into revenue.`
 
-Backstory: Your digital marketing agency offers a free e-book on “10 Ways to Improve SEO.” While downloads generate leads, many people never take the next step. A follow-up can turn interest into revenue.
+`Goal: Move resource downloaders into the sales funnel.`
 
-Goal: Move resource downloaders into the sales funnel.
+`Prompt:`
 
-Prompt:
-
-"You are a Lead Magnet Nurture Specialist. Design a 4-email sequence that:
-
+`"You are a Lead Magnet Nurture Specialist. Design a 4-email sequence that:`
+```
 1. Thanks them for downloading and restates the value.
 
 2. Shares an additional quick tip or resource.
@@ -3236,31 +3236,31 @@ Prompt:
 4. Offers a free consultation to discuss implementation.
 
 5. Tracks engagement for segmentation.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Lead magnet title/link
 
 2. Paid offer details
 
 3. Consultation booking link
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Email timeline (Excel)
 
 2. Email drafts (Word)"
+```
+## Prompt 22 — Follow-Up After Networking Event
 
-Prompt 22 — Follow-Up After Networking Event
+`Backstory: You attended an industry mixer where you met potential collaborators. A warm follow-up within 48 hours ensures the connection remains fresh and opens doors for partnerships.`
 
-Backstory: You attended an industry mixer where you met potential collaborators. A warm follow-up within 48 hours ensures the connection remains fresh and opens doors for partnerships.
+`Goal: Strengthen relationship and explore opportunities.`
 
-Goal: Strengthen relationship and explore opportunities.
+`Prompt:`
 
-Prompt:
-
-"You are a Networking Follow-Up Expert. Write a single email template that:
-
+`"You are a Networking Follow-Up Expert. Write a single email template that:`
+```
 1. References the event and specific conversation topic.
 
 2. Expresses genuine interest in staying in touch.
@@ -3270,31 +3270,31 @@ Prompt:
 4. Includes a friendly, professional tone.
 
 5. Contains clear next steps.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Event name/date
 
 2. Discussion topic
 
 3. Collaboration idea
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Email template (Word)
 
 2. CRM tagging workflow (PDF)"
+```
+## Prompt 23 — Follow-Up After Service Demo
 
-Prompt 23 — Follow-Up After Service Demo
+`Backstory: Your HR software company provides live demos to leads. Post-demo follow-ups are crucial for conversions, especially within 24 hours when interest is high.`
 
-Backstory: Your HR software company provides live demos to leads. Post-demo follow-ups are crucial for conversions, especially within 24 hours when interest is high.
+`Goal: Convert demo attendees to paying customers.`
 
-Goal: Convert demo attendees to paying customers.
+`Prompt:`
 
-Prompt:
-
-"You are a Demo Conversion Specialist. Create a 3-email follow-up that:
-
+`"You are a Demo Conversion Specialist. Create a 3-email follow-up that:`
+```
 1. Recaps demo highlights and benefits.
 
 2. Answers questions and addresses potential concerns.
@@ -3304,31 +3304,31 @@ Prompt:
 4. Keeps emails under 250 words for easy reading.
 
 5. Integrates booking/payment link.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Demo date
 
 2. Highlighted features
 
 3. Incentive offer
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Email copy (Word)
 
 2. Follow-up reminder schedule (Excel)"
+```
+## Prompt 24 — VIP Client Retention Sequence
 
-Prompt 24 — VIP Client Retention Sequence
+`Backstory: Your luxury travel agency has repeat high-value clients. Personalised communication keeps them loyal and spending more.`
 
-Backstory: Your luxury travel agency has repeat high-value clients. Personalised communication keeps them loyal and spending more.
+`Goal: Maintain exclusivity and encourage repeat bookings.`
 
-Goal: Maintain exclusivity and encourage repeat bookings.
+`Prompt:`
 
-Prompt:
-
-"You are a VIP Client Relationship Manager. Build a 3-touch sequence that:
-
+`"You are a VIP Client Relationship Manager. Build a 3-touch sequence that:`
+```
 1. Sends quarterly destination updates tailored to client preferences.
 
 2. Shares exclusive offers before public release.
@@ -3338,31 +3338,31 @@ Prompt:
 4. Uses an elegant, personalised tone.
 
 5. Tracks open and conversion rates in CRM.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Client travel preferences
 
 2. Exclusive offer details
 
 3. Last booking date
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Email templates (Word)
 
 2. VIP engagement tracker (Excel)"
+```
+## Prompt 25 — Renewal Upsell Sequence
 
-Prompt 25 — Renewal Upsell Sequence
+`Backstory: Your digital subscription platform notices that clients often renew on the same plan instead of upgrading. A carefully crafted upsell during renewal can increase revenue without additional acquisition costs.`
 
-Backstory: Your digital subscription platform notices that clients often renew on the same plan instead of upgrading. A carefully crafted upsell during renewal can increase revenue without additional acquisition costs.
+`Goal: Upsell customers at the point of renewal.`
 
-Goal: Upsell customers at the point of renewal.
+`Prompt:`
 
-Prompt:
-
-"You are a Renewal Upsell Specialist. Design a 3-email sequence that:
-
+`"You are a Renewal Upsell Specialist. Design a 3-email sequence that:`
+```
 1. Reminds client of upcoming renewal date.
 
 2. Highlights benefits of a higher-tier plan.
@@ -3372,34 +3372,34 @@ Prompt:
 4. Keeps messages short and value-driven.
 
 5. Uses personalised feature comparisons.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Renewal date
 
 2. Plan tiers
 
 3. Upgrade offer
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Email sequence table (Excel)
 
 2. Comparison chart (PDF)"
+```
 
+# Sales pitch decks & objection handling
 
-Sales pitch decks & objection handling
+## Prompt 1 — Custom Pitch Deck for B2B SaaS Product
 
-Prompt 1 — Custom Pitch Deck for B2B SaaS Product
+`Backstory: You’re launching a B2B SaaS tool for automating invoice management. Your target market is mid-sized companies that currently rely on manual bookkeeping. Most prospects are skeptical about ROI unless they see real numbers.`
 
-Backstory: You’re launching a B2B SaaS tool for automating invoice management. Your target market is mid-sized companies that currently rely on manual bookkeeping. Most prospects are skeptical about ROI unless they see real numbers.
+`Goal: Create a pitch deck that blends storytelling with hard metrics to drive interest.`
 
-Goal: Create a pitch deck that blends storytelling with hard metrics to drive interest.
+`Prompt:`
 
-Prompt:
-
-"You are a B2B SaaS Pitch Deck Expert. Create a 12-slide deck that:
-
+`"You are a B2B SaaS Pitch Deck Expert. Create a 12-slide deck that:`
+```
 1. Opens with a relatable problem story in the target industry.
 
 2. Uses 3–4 data points on wasted time & errors from manual invoicing.
@@ -3409,21 +3409,21 @@ Prompt:
 4. Includes a simple ROI calculator.
 
 5. Closes with a limited-time demo offer.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Industry type (e.g., manufacturing, retail)
 
 2. Average client size
 
 3. ROI statistics (if available)
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. PowerPoint file (.pptx)
 
 2. Slide notes with talking points"
-
+```
 Prompt 2 — Investor Pitch for Early-Stage Startup
 
 Backstory: You run a health-tech startup offering AI-powered diagnostics. You have early traction but no large-scale funding yet. Investors want clarity on market size, scalability, and your competitive moat.
