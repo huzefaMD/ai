@@ -875,7 +875,7 @@
 ```
 ## Prompt 2 — Targeting Strategy for First-Time Home Buyers
 
-`Backstory: You’re a real estate agent promoting affordable housing projects in Tier-2 Indian cities. You want to find laser-focused Facebook/Google ad targeting to reach likely buyers. 
+`Backstory: You’re a real estate agent promoting affordable housing projects in Tier-2 Indian cities. You want to find laser-focused Facebook/Google ad targeting to reach likely buyers. `
 
 `Goal: Create a targeting strategy with layered audience filters.`
 
