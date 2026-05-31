@@ -837,18 +837,18 @@
 2. KPI tracking template (Word/PDF)"
 ```
 
-Facebook/Google ad Copy & Targeting Ideas
+# Facebook/Google ad Copy & Targeting Ideas
 
-Prompt 1 — High-CTR Ad Copy for a New Product Launch
+## Prompt 1 — High-CTR Ad Copy for a New Product Launch
 
-Backstory: You’re launching a budget-friendly smartphone in India aimed at college students and first-time buyers. You need a compelling ad copy that grabs attention and drives clicks.
+`Backstory: You’re launching a budget-friendly smartphone in India aimed at college students and first-time buyers. You need a compelling ad copy that grabs attention and drives clicks.`
 
-Goal: Generate high-conversion ad copy variants for Facebook and Google Ads.
+`Goal: Generate high-conversion ad copy variants for Facebook and Google Ads.`
 
-Prompt:
+`Prompt:`
 
-"You are a Performance Ad Copywriter. Write 5 ad copy variants for my product launch that:
-
+`"You are a Performance Ad Copywriter. Write 5 ad copy variants for my product launch that:`
+```
 1. Use emotional triggers + curiosity hooks.
 
 2. Stay under character limits for Google/Facebook ads.
@@ -858,9 +858,9 @@ Prompt:
 4. Focus on value proposition (price, features, reliability).
 
 5. Test both urgency-driven and benefit-focused angles.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Product name: [Insert]
 
 2. Target audience: [Insert]
@@ -868,21 +868,21 @@ Inputs:
 3. Key features: [Insert]
 
 4. Offer details: [Insert]
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Table: Version | Platform | Headline | Description | CTA"
+```
+## Prompt 2 — Targeting Strategy for First-Time Home Buyers
 
-Prompt 2 — Targeting Strategy for First-Time Home Buyers
+`Backstory: You’re a real estate agent promoting affordable housing projects in Tier-2 Indian cities. You want to find laser-focused Facebook/Google ad targeting to reach likely buyers. 
 
-Backstory: You’re a real estate agent promoting affordable housing projects in Tier-2 Indian cities. You want to find laser-focused Facebook/Google ad targeting to reach likely buyers.
+`Goal: Create a targeting strategy with layered audience filters.`
 
-Goal: Create a targeting strategy with layered audience filters.
+`Prompt:`
 
-Prompt:
-
-"You are a Paid Ads Targeting Expert. Design a targeting strategy for first-time home buyers that:
-
+`"You are a Paid Ads Targeting Expert. Design a targeting strategy for first-time home buyers that:`
+```
 1. Uses demographic, interest, and behavioural targeting on Facebook.
 
 2. Suggests Google keyword targeting for high-intent searches.
@@ -892,31 +892,31 @@ Prompt:
 4. Recommends ad schedule for maximum ROI.
 
 5. Adjusts targeting for Tier-2 city audience behaviour.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Location: [Insert]
 
 2. Price range: [Insert]
 
 3. Buyer profile: [Insert]
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Targeting plan table (Excel)
 
 2. Sample ad audience breakdown (PDF)"
+```
+## Prompt 3 — Ad Copy Testing Plan for Multiple Audiences
 
-Prompt 3 — Ad Copy Testing Plan for Multiple Audiences
+`Backstory: You sell organic skincare products and have two main customer segments — women aged 20–30 and men aged 25–35. You want to test ad copy variations for each.`
 
-Backstory: You sell organic skincare products and have two main customer segments — women aged 20–30 and men aged 25–35. You want to test ad copy variations for each.
+`Goal: Create an A/B testing plan for ad copy.`
 
-Goal: Create an A/B testing plan for ad copy.
+`Prompt:`
 
-Prompt:
-
-"You are an A/B Testing Specialist. Build an ad copy testing plan that:
-
+`"You are an A/B Testing Specialist. Build an ad copy testing plan that:`
+```
 1. Creates separate ad copy for each audience segment.
 
 2. Tests emotional vs. rational messaging.
@@ -926,21 +926,21 @@ Prompt:
 4. Tracks CTR, CPC, and conversion rate.
 
 5. Suggests when to pause low-performing ads.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Audience profiles
 
 2. Product benefits
 
 3. Budget and test duration
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Testing plan table (Excel)
 
 2. Ad copy versions in Word/PDF"
-
+```
 Prompt 4 — Festival Campaign Ad Ideas
 
 Backstory: You own an online jewellery store and want to run special ads for Diwali and Raksha Bandhan.
