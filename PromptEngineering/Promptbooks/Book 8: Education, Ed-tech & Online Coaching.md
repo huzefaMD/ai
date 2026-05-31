@@ -1,15 +1,15 @@
-Curriculum & lesson plan creation
+# Curriculum & lesson plan creation
 
-Prompt 1 — Corporate Soft Skills Training Curriculum
+## Prompt 1 — Corporate Soft Skills Training Curriculum
 
-Backstory: You run a corporate training firm and a client asks for a 12-week soft skills program for fresh graduates entering their company. These employees lack workplace communication and etiquette, so the curriculum must be engaging and practical.
+`Backstory: You run a corporate training firm and a client asks for a 12-week soft skills program for fresh graduates entering their company. These employees lack workplace communication and etiquette, so the curriculum must be engaging and practical.`
 
-Goal: Create a structured, skill-focused program that fits busy corporate schedules.
+`Goal: Create a structured, skill-focused program that fits busy corporate schedules.`
 
-Prompt:
+`Prompt:`
 
-"You are a Corporate Learning Designer. Develop a 12-week curriculum on soft skills for entry-level employees that:
-
+`"You are a Corporate Learning Designer. Develop a 12-week curriculum on soft skills for entry-level employees that:`
+```
 1. Covers communication, teamwork, time management, and problem-solving.
 
 2. Uses 2-hour weekly sessions (in-person or virtual).
@@ -19,31 +19,31 @@ Prompt:
 4. Has weekly reflection assignments to measure growth.
 
 5. Ends with a final presentation project.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Target industry & employee role
 
 2. Skill priorities
 
 3. Delivery mode (online/offline)
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Curriculum outline (Excel)
 
 2. Detailed session plans (Word/PDF)"
+```
+## Prompt 2 — Online Coding Bootcamp Syllabus
 
-Prompt 2 — Online Coding Bootcamp Syllabus
+`Backstory: You’re launching an 8-week beginner-friendly coding bootcamp for working professionals who can only dedicate evenings. You must design a curriculum that balances theory, hands-on projects, and peer collaboration.`
 
-Backstory: You’re launching an 8-week beginner-friendly coding bootcamp for working professionals who can only dedicate evenings. You must design a curriculum that balances theory, hands-on projects, and peer collaboration.
+`Goal: Prepare learners to build simple web applications by the end of the program.`
 
-Goal: Prepare learners to build simple web applications by the end of the program.
+`Prompt:`
 
-Prompt:
-
-"You are a Coding Bootcamp Curriculum Specialist. Create an 8-week evening program for absolute beginners that:
-
+`"You are a Coding Bootcamp Curriculum Specialist. Create an 8-week evening program for absolute beginners that:`
+```
 1. Introduces HTML, CSS, and JavaScript basics.
 
 2. Incorporates 2 small projects and 1 capstone.
@@ -53,31 +53,31 @@ Prompt:
 4. Integrates peer code review for collaboration.
 
 5. Assigns weekly challenges to reinforce learning.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Learner skill level
 
 2. Project themes
 
 3. Tools to be used
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Week-by-week syllabus (Excel)
 
 2. Project briefs (PDF)"
+```
+## Prompt 3 — High School Science Lesson Plans
 
-Prompt 3 — High School Science Lesson Plans
+`Backstory: You’re a high school science teacher building 10th-grade physics lesson plans aligned with CBSE curriculum. You want to make concepts more engaging with experiments and visual aids.`
 
-Backstory: You’re a high school science teacher building 10th-grade physics lesson plans aligned with CBSE curriculum. You want to make concepts more engaging with experiments and visual aids.
+`Goal: Create interactive, curriculum-compliant lesson plans for the semester.`
 
-Goal: Create interactive, curriculum-compliant lesson plans for the semester.
+`Prompt:`
 
-Prompt:
-
-"You are a Secondary Education Curriculum Designer. Draft 20 detailed lesson plans for 10th-grade physics that:
-
+`"You are a Secondary Education Curriculum Designer. Draft 20 detailed lesson plans for 10th-grade physics that:`
+```
 1. Align with CBSE learning objectives.
 
 2. Include interactive experiments and models.
@@ -87,19 +87,19 @@ Prompt:
 4. Provide short assessments after each lesson.
 
 5. Allocate time for revision and doubt clearing.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Official syllabus link
 
 2. School resources available
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Lesson plan template (Word)
 
 2. Resource list (Excel)"
-
+```
 Prompt 4 — Yoga Teacher Training Syllabus
 
 Backstory: You’re developing a 200-hour yoga teacher training program for aspiring instructors. The curriculum needs to blend asanas, philosophy, anatomy, and teaching methodology.
