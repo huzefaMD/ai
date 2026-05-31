@@ -668,16 +668,16 @@
 
 2. Anchor text guide (Word/PDF)"
 ```
-Prompt 21 — Featured Snippet Targeting with Keywords
+## Prompt 21 — Featured Snippet Targeting with Keywords
 
-Backstory: Your health blog wants to get featured snippets on Google for maximum visibility.
+`Backstory: Your health blog wants to get featured snippets on Google for maximum visibility.`
 
-Goal: Identify and target snippet-friendly keywords.
+`Goal: Identify and target snippet-friendly keywords.`
 
-Prompt:
+`Prompt:`
 
-"You are a Featured Snippet Optimisation Expert. For my blog, identify:
-
+`"You are a Featured Snippet Optimisation Expert. For my blog, identify:`
+```
 1. Keywords likely to trigger featured snippets.
 
 2. Content formats (lists, Q&A, how-tos) for each.
@@ -687,31 +687,31 @@ Prompt:
 4. Examples of competitors currently holding snippets.
 
 5. A posting plan to overtake them.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Blog niche
 
 2. Target location
 
 3. Competitor list
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Snippet keyword table (Excel)
 
 2. Example snippet-ready post outline (Word/PDF)"
+```
+## Prompt 22 — Keyword Strategy for Google Discover
 
-Prompt 22 — Keyword Strategy for Google Discover
+`Backstory: You’ve noticed spikes in traffic from Google Discover but want to make it a consistent source.`
 
-Backstory: You’ve noticed spikes in traffic from Google Discover but want to make it a consistent source.
+`Goal: Build a keyword and topic plan optimised for Discover.`
 
-Goal: Build a keyword and topic plan optimised for Discover.
+`Prompt:`
 
-Prompt:
-
-"You are a Google Discover SEO Strategist. For my niche, create a Discover-optimised plan that:
-
+`"You are a Google Discover SEO Strategist. For my niche, create a Discover-optimised plan that:`
+```
 1. Targets keywords in trending but evergreen topics.
 
 2. Suggests engaging, click-worthy headlines.
@@ -721,31 +721,31 @@ Prompt:
 4. Aligns with Discover content freshness requirements.
 
 5. Gives examples of past high-performing posts in Discover.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Blog niche
 
 2. Competitor URLs (optional)
 
 3. Posting frequency
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Keyword + headline plan (Excel)
 
 2. Discover optimisation checklist (Word/PDF)"
+```
+## Prompt 23 — Keyword Strategy for Affiliate Blog Monetisation
 
-Prompt 23 — Keyword Strategy for Affiliate Blog Monetisation
+`Backstory: You’re monetising via affiliate marketing but your keywords don’t convert well.`
 
-Backstory: You’re monetising via affiliate marketing but your keywords don’t convert well.
+`Goal: Create a keyword plan optimised for affiliate sales.`
 
-Goal: Create a keyword plan optimised for affiliate sales.
+`Prompt:`
 
-Prompt:
-
-"You are an Affiliate SEO Strategist. For my blog, identify:
-
+`"You are an Affiliate SEO Strategist. For my blog, identify:`
+```
 1. Keywords with strong purchase intent.
 
 2. Product-focused blog topic ideas.
@@ -755,31 +755,31 @@ Prompt:
 4. Recommended affiliate link placement strategies.
 
 5. Conversion optimisation tips based on keywords.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Affiliate products/services list
 
 2. Target audience profile
 
 3. Competitor URLs
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Affiliate keyword list (Excel)
 
 2. Post template for affiliate content (Word/PDF)"
+```
+## Prompt 24 — SERP Volatility Tracking for Keywords
 
-Prompt 24 — SERP Volatility Tracking for Keywords
+`Backstory: Some of your keywords jump between positions in Google SERPs and you want to understand why.`
 
-Backstory: Some of your keywords jump between positions in Google SERPs and you want to understand why.
+`Goal: Track keyword SERP volatility.`
 
-Goal: Track keyword SERP volatility.
+`Prompt:`
 
-Prompt:
-
-"You are a SERP Volatility Analyst. For my keyword list, create a tracking plan that:
-
+`"You are a SERP Volatility Analyst. For my keyword list, create a tracking plan that:`
+```
 1. Monitors daily position changes.
 
 2. Identifies algorithm update impacts.
@@ -789,29 +789,29 @@ Prompt:
 4. Flags high-risk keywords.
 
 5. Provides monthly trend reports.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Keyword list (Excel)
 
 2. Google Search Console access (optional)
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. SERP volatility chart (Excel)
 
 2. Stabilisation strategy guide (Word/PDF)"
+```
+## Prompt 25 — Evergreen SEO Growth Plan for 12 Months
 
-Prompt 25 — Evergreen SEO Growth Plan for 12 Months
+`Backstory: You want a full-year SEO roadmap so your blog grows steadily and rankings compound over time.`
 
-Backstory: You want a full-year SEO roadmap so your blog grows steadily and rankings compound over time.
+`Goal: Create a 12-month SEO keyword plan.`
 
-Goal: Create a 12-month SEO keyword plan.
+`Prompt:`
 
-Prompt:
-
-"You are a Long-Term SEO Planner. Build a keyword-based SEO roadmap that:
-
+`"You are a Long-Term SEO Planner. Build a keyword-based SEO roadmap that:`
+```
 1. Assigns keyword clusters for each month.
 
 2. Balances evergreen and seasonal keywords.
@@ -821,21 +821,21 @@ Prompt:
 4. Tracks progress with monthly KPIs.
 
 5. Suggests quarterly content audits.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Blog niche
 
 2. Posting capacity (posts/month)
 
 3. Current keyword list
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. 12-month roadmap (Excel)
 
 2. KPI tracking template (Word/PDF)"
-
+```
 
 Facebook/Google ad Copy & Targeting Ideas
 
