@@ -3114,7 +3114,7 @@ Goal: Give VIP treatment to boost conversion probability.`
 1. CRM automation flow (PDF)
 
 2. Email + call scripts (Word)"
-``
+```
 ## Prompt 18 — Anniversary or Milestone Celebration
 
 `Backstory: Your fitness coaching program tracks client join dates and major achievements (e.g., 1 year with your program, 50 lbs lost). Recognising these moments creates emotional connection and loyalty.`
