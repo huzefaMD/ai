@@ -2064,16 +2064,16 @@
 
 2. Email + social share templates (PDF)"
 ```
-Prompt 12 — Cross-Sell Email Campaign
+## Prompt 12 — Cross-Sell Email Campaign
 
-Backstory: Your bookstore’s online store wants to recommend books related to past purchases.
+`Backstory: Your bookstore’s online store wants to recommend books related to past purchases.`
 
-Goal: Increase average order value via cross-sells.
+`Goal: Increase average order value via cross-sells.`
 
-Prompt:
+`Prompt:
 
-"You are a Cross-Sell Email Specialist. Build a 2-email campaign that: 
-
+`"You are a Cross-Sell Email Specialist. Build a 2-email campaign that: `
+```
 1. Uses customer purchase data to recommend related books. 
 
 2. Includes personalised product images and blurbs. 
@@ -2083,31 +2083,31 @@ Prompt:
 4. Keeps copy under 250 words. 
 
 5. Has strong subject lines with curiosity hooks.
-
-Inputs: 
-
+```
+`Inputs: `
+```
 1. Past purchase history 
 
 2. Recommended products 
 
 3. Bundle discount details
-
-Output Format: 
-
+```
+`Output Format: `
+```
 1. Cross-sell copy table (Excel)
 
 2. Personalisation setup guide (PDF)"
+```
+## Prompt 13 — Loyalty Program Onboarding Series
 
-Prompt 13 — Loyalty Program Onboarding Series
+`Backstory: You’re launching a loyalty rewards program for your café chain.`
 
-Backstory: You’re launching a loyalty rewards program for your café chain.
+`Goal: Encourage sign-ups and educate members on benefits.`
 
-Goal: Encourage sign-ups and educate members on benefits.
+`Prompt:`
 
-Prompt:
-
-"You are a Loyalty Program Email Specialist. Create a 3-email onboarding series that:
-
+`"You are a Loyalty Program Email Specialist. Create a 3-email onboarding series that:`
+```
 1. Welcomes members and explains how points work.
 
 2. Shares ways to earn and redeem points.
@@ -2117,31 +2117,31 @@ Prompt:
 4. Uses branded imagery and friendly tone.
 
 5. Suggests seasonal promotions for members.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Loyalty program details
 
 2. Bonus offer
 
 3. Visual assets
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Onboarding flowchart (Excel)
 
 2. Email copy + design cues (PDF)"
+```
+## Prompt 14 — Monthly Newsletter with Industry Insights
 
-Prompt 14 — Monthly Newsletter with Industry Insights
+`Backstory: You’re a B2B consulting firm targeting small businesses and want to keep clients informed while staying top-of-mind.`
 
-Backstory: You’re a B2B consulting firm targeting small businesses and want to keep clients informed while staying top-of-mind.
+`Goal: Share value consistently and subtly promote services.`
 
-Goal: Share value consistently and subtly promote services.
+`Prompt:`
 
-Prompt:
-
-"You are a B2B Newsletter Writer. Create a monthly email newsletter that:
-
+`"You are a B2B Newsletter Writer. Create a monthly email newsletter that:`
+```
 1. Starts with a key industry update.
 
 2. Includes a “Tip of the Month” relevant to clients.
@@ -2151,31 +2151,31 @@ Prompt:
 4. Ends with a service promotion.
 
 5. Keeps layout clean and easy to scan.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Industry niche
 
 2. Consulting services offered
 
 3. Client personas
-
-Output Format:
-
+````
+`Output Format:`
+```
 1. Newsletter template (PDF)
 
 2. 6-month content plan (Excel)"
+```
+## Prompt 15 — Refill Reminder Email for Consumable Products
 
-Prompt 15 — Refill Reminder Email for Consumable Products
+`Backstory: You sell organic supplements and want to remind customers when it’s time to reorder.`
 
-Backstory: You sell organic supplements and want to remind customers when it’s time to reorder.
+`Goal: Automate refill reminders to increase repeat purchases.`
 
-Goal: Automate refill reminders to increase repeat purchases.
+`Prompt:`
 
-Prompt:
-
-"You are a Product Refill Email Specialist. Build a 2-email reminder sequence that:
-
+`"You are a Product Refill Email Specialist. Build a 2-email reminder sequence that:`
+```
 1. Sends 5 days before the estimated refill date.
 
 2. Highlights benefits of continuous usage.
@@ -2185,31 +2185,31 @@ Prompt:
 4. Includes “One-click reorder” CTA.
 
 5. Uses urgency without being pushy.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Product refill cycle
 
 2. Discount details
 
 3. Customer purchase history
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Reminder sequence chart (Excel)
 
 2. Full email copy (Word/PDF)"
+```
+## Prompt 16 — Seasonal Product Clearance Sale
 
-Prompt 16 — Seasonal Product Clearance Sale
+`Backstory: Your clothing store wants to clear out winter stock before summer inventory arrives.`
 
-Backstory: Your clothing store wants to clear out winter stock before summer inventory arrives.
+`Goal: Drive urgency and clear inventory fast.`
 
-Goal: Drive urgency and clear inventory fast.
+`Prompt:`
 
-Prompt:
-
-"You are a Seasonal Sales Email Expert. Create a 4-email clearance campaign that:
-
+`"You are a Seasonal Sales Email Expert. Create a 4-email clearance campaign that:`
+```
 1. Announces the end-of-season sale with discounts up to X%.
 
 2. Uses urgency (“only 3 days left”) and limited-stock messages.
@@ -2219,31 +2219,31 @@ Prompt:
 4. Includes a final “Last Chance” reminder.
 
 5. Suggests A/B testing discount ranges for better conversion.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Discount percentage
 
 2. Product categories
 
 3. Sale dates
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Campaign flowchart (Excel)
 
 2. Email copy with visual references (PDF)"
+```
+## Prompt 17 — Customer Onboarding for SaaS
 
-Prompt 17 — Customer Onboarding for SaaS
+`Backstory: Your project management SaaS has new users who need guidance to start using features quickly.`
 
-Backstory: Your project management SaaS has new users who need guidance to start using features quickly.
+`Goal: Increase product adoption and reduce churn.`
 
-Goal: Increase product adoption and reduce churn.
+`Prompt:`
 
-Prompt:
-
-"You are a SaaS Onboarding Email Specialist. Build a 5-email sequence that:
-
+`"You are a SaaS Onboarding Email Specialist. Build a 5-email sequence that:`
+```
 1. Welcomes users and links to the quick-start guide.
 
 2. Shows how to set up their first project.
@@ -2253,31 +2253,31 @@ Prompt:
 4. Shares customer success stories.
 
 5. Offers a 1:1 onboarding call in the final email.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Key SaaS features
 
 2. Support links
 
 3. Onboarding call booking link
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Onboarding checklist (Excel)
 
 2. Email copy with CTA placement (PDF)"
+```
+## Prompt 18 — Thank You Email for First Purchase
 
-Prompt 18 — Thank You Email for First Purchase
+`Backstory: Your handmade jewellery brand wants to make first-time customers feel valued so they return.`
 
-Backstory: Your handmade jewellery brand wants to make first-time customers feel valued so they return.
+`Goal: Build loyalty and encourage repeat purchases.`
 
-Goal: Build loyalty and encourage repeat purchases.
+`Prompt:`
 
-Prompt:
-
-"You are a Customer Loyalty Email Specialist. Write a single thank-you email that:
-
+`"You are a Customer Loyalty Email Specialist. Write a single thank-you email that:`
+```
 1. Thanks the customer sincerely for their first order.
 
 2. Shares a short brand story.
@@ -2287,29 +2287,29 @@ Prompt:
 4. Offers a small coupon for the next purchase.
 
 5. Ends with a warm, human closing.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Customer first name
 
 2. Order details
 
 3. Discount code
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Email copy with personalisation tags (Word)"
+```
+## Prompt 19 — Early Access VIP Sale
 
-Prompt 19 — Early Access VIP Sale
+`Backstory: You have a cosmetics store with a loyalty club and want to give members first access to a flash sale.`
 
-Backstory: You have a cosmetics store with a loyalty club and want to give members first access to a flash sale.
+`Goal: Make VIPs feel special and drive high-value purchases.`
 
-Goal: Make VIPs feel special and drive high-value purchases.
+`Prompt:`
 
-Prompt:
-
-"You are a VIP Campaign Email Strategist. Build a 2-email early access campaign that:
-
+`"You are a VIP Campaign Email Strategist. Build a 2-email early access campaign that:`
+```
 1. Announces the VIP-only early access sale.
 
 2. Shares exclusive discount codes.
@@ -2319,31 +2319,31 @@ Prompt:
 4. Includes attractive product images.
 
 5. Ends with a thank-you note for being a VIP member.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Discount percentage
 
 2. Product categories
 
 3. VIP member list
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. VIP email templates (PDF)
 
 2. Campaign timeline (Excel)"
+```
+## Prompt 20 — Post-Purchase Upsell Series
 
-Prompt 20 — Post-Purchase Upsell Series
+`Backstory: Your online furniture store wants to offer matching items after a customer buys a major product.`
 
-Backstory: Your online furniture store wants to offer matching items after a customer buys a major product.
+`Goal: Increase post-purchase revenue with relevant suggestions.`
 
-Goal: Increase post-purchase revenue with relevant suggestions.
+`Prompt:`
 
-Prompt:
-
-"You are a Post-Purchase Email Strategist. Create a 3-email upsell sequence that:
-
+`"You are a Post-Purchase Email Strategist. Create a 3-email upsell sequence that:`
+```
 1. Suggests matching or complementary items.
 
 2. Includes lifestyle images.
@@ -2361,23 +2361,23 @@ Inputs:
 2. Recommended items
 
 3. Bundle offer
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Upsell sequence plan (Excel)
 
 2. Email copy (Word/PDF)"
+```
+## Prompt 21 — Milestone Celebration Email
 
-Prompt 21 — Milestone Celebration Email
+`Backstory: Your fitness app wants to celebrate customer achievements like “100 workouts completed” to build engagement.`
 
-Backstory: Your fitness app wants to celebrate customer achievements like “100 workouts completed” to build engagement.
+`Goal: Strengthen the emotional connection with the brand.`
 
-Goal: Strengthen the emotional connection with the brand.
+`Prompt:`
 
-Prompt:
-
-"You are a Customer Milestone Email Specialist. Write a celebratory email that: 
-
+`"You are a Customer Milestone Email Specialist. Write a celebratory email that: `
+```
 1. Congratulates the user on their milestone. 
 
 2. Shows their progress visually (charts/images). 
@@ -2387,29 +2387,29 @@ Prompt:
 4. Encourages sharing on social media. 
 
 5. Teases the next milestone to keep them engaged.
-
-Inputs: 
-
+```
+`Inputs: `
+```
 1. Milestone type 
 
 2. Reward details 
 
 3. Social sharing link
-
-Output Format: 
-
+```
+`Output Format: `
+```
 1. Email copy with graphic placement notes (PDF)"
+```
+## Prompt 22 — Flash Sale Announcement
 
-Prompt 22 — Flash Sale Announcement
+`Backstory: Your electronics store wants to run a 24-hour flash sale.`
 
-Backstory: Your electronics store wants to run a 24-hour flash sale.
+`Goal: Drive maximum traffic and purchases in a short time.`
 
-Goal: Drive maximum traffic and purchases in a short time.
+`Prompt:`
 
-Prompt:
-
-"You are a Flash Sale Email Specialist. Build a 2-email flash sale sequence that:
-
+`"You are a Flash Sale Email Specialist. Build a 2-email flash sale sequence that:`
+```
 1. Announces the sale with big, bold visuals.
 
 2. Shares top-selling items in the email body.
@@ -2419,31 +2419,31 @@ Prompt:
 4. Includes strong CTAs (“Shop Now”).
 
 5. Sends a last-hour reminder.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Sale start/end time
 
 2. Discount details
 
 3. Product highlights
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Flash sale sequence table (Excel)
 
 2. Email design mockups (PDF)"
+```
+## Prompt 23 — Event Invitation Email
 
-Prompt 23 — Event Invitation Email
+`Backstory: Your luxury wine brand is hosting a private tasting event for select customers.`
 
-Backstory: Your luxury wine brand is hosting a private tasting event for select customers.
+`Goal: Increase RSVP confirmations and attendance.`
 
-Goal: Increase RSVP confirmations and attendance.
+`Prompt:`
 
-Prompt:
-
-"You are an Event Invitation Email Specialist. Write a single email that:
-
+`"You are an Event Invitation Email Specialist. Write a single email that:`
+```
 1. Shares event details (date, venue, time).
 
 2. Highlights special experiences (celebrity chef, live music).
@@ -2453,29 +2453,29 @@ Prompt:
 4. Includes RSVP buttons.
 
 5. Creates exclusivity with “limited spots” language.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Event details
 
 2. RSVP link
 
 3. Guest capacity
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Invitation copy + design references (PDF)"
+```
+## Prompt 24 — Survey Participation Email
 
-Prompt 24 — Survey Participation Email
+`Backstory: Your edtech platform wants to collect insights from students about new course preferences.`
 
-Backstory: Your edtech platform wants to collect insights from students about new course preferences.
+`Goal: Increase survey completion rates.`
 
-Goal: Increase survey completion rates.
+`Prompt:`
 
-Prompt:
-
-"You are a Survey Email Specialist. Create an email that:
-
+`"You are a Survey Email Specialist. Create an email that:`
+```
 1. Explains the purpose of the survey.
 
 2. Shares estimated time to complete.
@@ -2485,31 +2485,31 @@ Prompt:
 4. Uses a clean, minimal design.
 
 5. Links directly to the survey form.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Survey link
 
 2. Incentive details
 
 3. Target audience profile
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Survey email template (Word)
 
 2. Completion tracking plan (Excel)"
+```
+## Prompt 25 — Holiday Greeting Email
 
-Prompt 25 — Holiday Greeting Email
+`Backstory: Your corporate gifting company wants to send warm holiday wishes to clients while staying professional.`
 
-Backstory: Your corporate gifting company wants to send warm holiday wishes to clients while staying professional.
+`Goal: Strengthen relationships without direct selling.`
 
-Goal: Strengthen relationships without direct selling.
+`Prompt:`
 
-Prompt:
-
-"You are a Corporate Greetings Email Specialist. Write a festive holiday greeting that:
-
+`"You are a Corporate Greetings Email Specialist. Write a festive holiday greeting that:`
+```
 1. Includes warm, personalised wishes.
 
 2. Features a tasteful holiday-themed design.
@@ -2519,21 +2519,21 @@ Prompt:
 4. Optionally includes a subtle thank-you discount.
 
 5. Avoids clutter and long copy.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Company name
 
 2. Holiday type
 
 3. Optional gift/discount details
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Greeting email copy (Word)
 
 2. Design layout notes (PDF)"
-
+```
 
 CRM follow-up sequences
 
