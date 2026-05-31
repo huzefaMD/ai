@@ -1692,16 +1692,16 @@
 
 # Email Marketing Campaigns
 
-Prompt 1 — Welcome Email Sequence for New Subscribers
+## Prompt 1 — Welcome Email Sequence for New Subscribers
 
-Backstory: You just launched an online skincare brand and started collecting emails from a website pop-up offering a free guide. You want to make a strong first impression and build trust immediately.
+`Backstory: You just launched an online skincare brand and started collecting emails from a website pop-up offering a free guide. You want to make a strong first impression and build trust immediately.`
 
-Goal: Create a 3-email welcome sequence to introduce your brand and encourage the first purchase.
+`Goal: Create a 3-email welcome sequence to introduce your brand and encourage the first purchase.`
 
-Prompt:
+`Prompt:`
 
-"You are an Email Marketing Strategist. Create a 3-email welcome sequence that:
-
+`"You are an Email Marketing Strategist. Create a 3-email welcome sequence that:`
+```
 1. Sends Email 1 immediately after signup (brand intro, freebie delivery).
 
 2. Sends Email 2 after 2 days (product benefits, testimonials).
@@ -1711,29 +1711,29 @@ Prompt:
 4. Uses persuasive yet friendly tone.
 
 5. Includes subject lines with a high open-rate probability.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Brand name & USP (Unique Selling Proposition)
 
 2. Freebie details
 
 3. Discount offer
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Sequence table (Excel) with: Day | Subject Line | Preview Text | Email Body | CTA"
+```
+## Prompt 2 — Abandoned Cart Recovery Email Series
 
-Prompt 2 — Abandoned Cart Recovery Email Series
+`Backstory: Your e-commerce fashion store has noticed 70% cart abandonment. Many users leave without completing their orders due to hesitation or distraction.`
 
-Backstory: Your e-commerce fashion store has noticed 70% cart abandonment. Many users leave without completing their orders due to hesitation or distraction.
+`Goal: Recover sales with a strategic email follow-up.`
 
-Goal: Recover sales with a strategic email follow-up.
+`Prompt:`
 
-Prompt:
-
-"You are a Cart Recovery Email Specialist. Build a 3-email sequence that:
-
+`"You are a Cart Recovery Email Specialist. Build a 3-email sequence that:`
+```
 1. Reminds users of the items in their cart (with images).
 
 2. Adds urgency (limited stock, discount expiry).
@@ -1743,31 +1743,31 @@ Prompt:
 4. Uses persuasive copy without being pushy.
 
 5. Suggests split-testing subject lines for open rate improvement.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Product details
 
 2. Discount/free shipping offer
 
 3. Abandonment timeframe (e.g., 1 hr, 24 hrs)
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Email sequence table (Excel)
 
 2. A/B testing subject line ideas (Word/PDF)"
+```
+## Prompt 3 — Re-engagement Campaign for Inactive Subscribers
 
-Prompt 3 — Re-engagement Campaign for Inactive Subscribers
+`Backstory: Your online language learning platform has a large list of subscribers who haven’t opened an email in over 90 days. You want to win them back before removing them from your list.`
 
-Backstory: Your online language learning platform has a large list of subscribers who haven’t opened an email in over 90 days. You want to win them back before removing them from your list.
+`Goal: Reignite interest and increase open rates.`
 
-Goal: Reignite interest and increase open rates.
+`Prompt:`
 
-Prompt:
-
-"You are an Email Re-engagement Specialist. Create a 3-email win-back campaign that:
-
+`"You are an Email Re-engagement Specialist. Create a 3-email win-back campaign that:`
+```
 1. Acknowledges inactivity in a friendly tone.
 
 2. Offers a free mini-course or discount to re-engage.
@@ -1777,31 +1777,31 @@ Prompt:
 4. Encourages feedback on why they’ve been inactive.
 
 5. Segments those who respond for a separate nurture sequence.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Brand name & offer details
 
 2. Incentive type
 
 3. Current list size
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Win-back sequence (Excel)
 
 2. Segmentation plan for active vs. inactive (Word/PDF)"
+```
+## Prompt 4 — Festival-Themed Promotional Campaign
 
-Prompt 4 — Festival-Themed Promotional Campaign
+`Backstory: You run a home décor store and want to boost sales during Diwali by sending themed email campaigns.`
 
-Backstory: You run a home décor store and want to boost sales during Diwali by sending themed email campaigns.
+`Goal: Create a festive, sales-driven email series.`
 
-Goal: Create a festive, sales-driven email series.
+`Prompt:`
 
-Prompt:
-
-"You are a Seasonal Email Campaign Specialist. Build a 5-day Diwali email campaign that:
-
+`"You are a Seasonal Email Campaign Specialist. Build a 5-day Diwali email campaign that:`
+```
 1. Uses festive colours and imagery in email design.
 
 2. Includes product bundles with festival discounts.
@@ -1811,31 +1811,31 @@ Prompt:
 4. Builds anticipation with a countdown to Diwali sale.
 
 5. Ends with a last-chance sale reminder.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Sale start & end date
 
 2. Discount percentage
 
 3. Product categories
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Campaign calendar (Excel)
 
 2. Email copy with design mockup references (PDF)"
+```
+## Prompt 5 — B2B Newsletter for Industry Authority
 
-Prompt 5 — B2B Newsletter for Industry Authority
+`Backstory: You operate a SaaS company and want a weekly email newsletter to position yourself as a thought leader in your niche while promoting your product.`
 
-Backstory: You operate a SaaS company and want a weekly email newsletter to position yourself as a thought leader in your niche while promoting your product.
+`Goal: Deliver valuable insights and gently nurture leads.`
 
-Goal: Deliver valuable insights and gently nurture leads.
+`Prompt:`
 
-Prompt:
-
-"You are a B2B Email Content Strategist. Create a weekly newsletter template that:
-
+`"You are a B2B Email Content Strategist. Create a weekly newsletter template that:`
+```
 1. Starts with a short industry insight or news highlight.
 
 2. Includes a “How-to” or tip related to my SaaS product.
@@ -1845,31 +1845,31 @@ Prompt:
 4. Ends with a soft CTA (book demo, download resource).
 
 5. Keeps email length under 400 words for better engagement.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Industry niche
 
 2. Product features
 
 3. Target audience persona
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Newsletter wireframe (Word/PDF)
 
 2. First 4 weeks of content ideas (Excel)"
+```
+## Prompt 6 — Educational Email Course
 
-Prompt 6 — Educational Email Course
+`Backstory: You run a personal finance coaching business and want to deliver a free 7-day “Master Your Money” course via email to build authority and trust.`
 
-Backstory: You run a personal finance coaching business and want to deliver a free 7-day “Master Your Money” course via email to build authority and trust.
+`Goal: Provide high-value, educational content that subtly sells your paid services.`
 
-Goal: Provide high-value, educational content that subtly sells your paid services.
+`Prompt:`
 
-Prompt:
-
-"You are an Email Course Designer. Create a 7-day educational email sequence that:
-
+`"You are an Email Course Designer. Create a 7-day educational email sequence that:`
+```
 1. Breaks down one core money management concept per day.
 
 2. Includes actionable tips and short exercises.
@@ -1879,22 +1879,22 @@ Prompt:
 4. Integrates a soft CTA for booking a paid session.
 
 5. Includes engaging subject lines for high open rates.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Course topic outline
 
 2. Target audience pain points
 
 3. Desired CTA
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. 7-day email schedule (Excel)
 
 2. Full email copy (Word/PDF)"
-
-Prompt 7 — Product Launch Email Sequence
+```
+## Prompt 7 — Product Launch Email Sequence
 
 Backstory: Your tech gadget store is launching a new smart home device and you want to build hype before release.
 
