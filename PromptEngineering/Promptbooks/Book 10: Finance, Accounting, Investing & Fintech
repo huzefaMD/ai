@@ -1593,28 +1593,41 @@ Inputs Required:
 4. Preferred risk level for investments
 
 Prompt 2 — GST Return Filing Checklist
+
 Backstory:
+
 A 32-year-old small business owner in Jaipur runs a boutique selling clothes both offline and through Instagram. She is GST registered and files monthly returns but often misses claiming input tax credit because invoices aren’t matched in GSTR-2B. She needs a clear pre-filing checklist to avoid errors.
 
 Goal:
+
 Create a step-by-step GST return filing checklist.
 
 Prompt:
+
 "You are a GST compliance expert. Create a checklist for accurate monthly GST return filing.
+
 Include:
 
-Verifying sales invoices and GSTIN
-Matching purchase invoices for ITC claims
-Reconciling GSTR-1, GSTR-2B, and books of accounts
-Reviewing late fees and interest applicability"
+1. Verifying sales invoices and GSTIN
+
+2. Matching purchase invoices for ITC claims
+
+3. Reconciling GSTR-1, GSTR-2B, and books of accounts
+
+4. Reviewing late fees and interest applicability"
+
 Inputs Required:
 
-GSTIN of the business
-Sales and purchase invoice lists
-GST filing frequency (monthly/quarterly)
-Accounting software used
+1. GSTIN of the business
+
+2. Sales and purchase invoice lists
+
+3. GST filing frequency (monthly/quarterly)
+
+4. Accounting software used
 
 Prompt 3 — Advance Tax Calculation for Freelancers
+
 Backstory:
 
 A 27-year-old freelance content writer from Pune earns income from Indian clients via UPI/bank transfers and foreign clients via PayPal. Her income is irregular, and she often forgets to pay advance tax, leading to penalties. She wants a quarterly advance tax calculation plan based on estimated earnings.
@@ -1629,17 +1642,24 @@ Prompt:
 
 For each quarter: 
 
-Show estimated tax liability 
-Deduct TDS already paid by clients 
-Provide payment challan details and due dates"
+1. Show estimated tax liability 
+
+2. Deduct TDS already paid by clients 
+
+3. Provide payment challan details and due dates"
+
 Inputs Required: 
 
-Estimated annual income split by quarter 
-Applicable deductions under 80C/80D 
-TDS certificates received 
-Previous year’s tax rate slab
+1. Estimated annual income split by quarter 
+
+2. Applicable deductions under 80C/80D 
+
+3. TDS certificates received 
+
+4. Previous year’s tax rate slab
 
 Prompt 4 — Comparing Old vs. New Tax Regime
+
 Backstory:
 
 A 30-year-old corporate lawyer in Delhi earns ₹22 LPA and has investments in ELSS, NPS, and life insurance. With the government’s introduction of the new tax regime, she is unsure which structure would save her more money. She wants a side-by-side comparison of her tax liability under both regimes, considering all exemptions and deductions she is eligible for.
@@ -1654,162 +1674,243 @@ Prompt:
 
 Include: 
 
-Gross taxable income under each regime 
-Deductions allowed 
-Final tax payable under both 
-Clear recommendation with reason"
+1. Gross taxable income under each regime 
+
+2. Deductions allowed 
+
+3. Final tax payable under both 
+
+4. Clear recommendation with reason"
+
 Inputs Required: 
 
-Salary breakup and other income sources 
-List of deductions claimed (80C, 80D, 80G, HRA, etc.) 
-Age and residential status 
-Expected annual income for the year
+1. Salary breakup and other income sources 
+
+2. List of deductions claimed (80C, 80D, 80G, HRA, etc.) 
+
+3. Age and residential status 
+
+4. Expected annual income for the year
 
 Prompt 5 — GST Input Tax Credit Maximization Plan
+
 Backstory:
+
 A 28-year-old e-commerce seller from Surat is GST registered but claims less ITC than possible because many supplier invoices are missing or not GST compliant. She wants a system to track and maximize ITC every month.
 
 Goal:
+
 Create a process to ensure maximum GST ITC claim.
 
 Prompt:
+
 "You are a GST specialist. Create a monthly ITC maximization plan.
+
 Include:
 
-Checking supplier GST compliance
-Matching GSTR-2B with purchase register
-Following up on missing invoices
-Avoiding blocked credit categories"
+1. Checking supplier GST compliance
+
+2. Matching GSTR-2B with purchase register
+
+3. Following up on missing invoices
+
+4. Avoiding blocked credit categories"
+
 Inputs Required:
 
-Supplier list with GSTINs
-Purchase register
-Current ITC claimed vs. eligible ITC
+1. Supplier list with GSTINs
+
+2. Purchase register
+
+3. Current ITC claimed vs. eligible ITC
 
 Prompt 6 — HRA Exemption Calculator
+
 Backstory:
+
 A 27-year-old IT professional in Bengaluru pays ₹25,000/month in rent but is unsure if she is claiming the correct HRA exemption. She wants an accurate exemption calculation considering her basic salary, DA, and metro city status.
 
 Goal:
+
 Calculate maximum allowable HRA exemption.
 
 Prompt:
+
 "You are a payroll tax expert. Calculate HRA exemption as per Section 10(13A).
+
 Consider:
 
-Actual HRA received
-Rent paid – 10% of basic + DA
-50% of basic + DA (metro city)"
+1. Actual HRA received
+
+2. Rent paid – 10% of basic + DA
+
+3. 50% of basic + DA (metro city)"
+
 Inputs Required:
 
-Monthly basic salary and DA
-Monthly rent paid
-City type (metro/non-metro)
-Actual HRA received per month
+1. Monthly basic salary and DA
+
+2. Monthly rent paid
+
+3. City type (metro/non-metro)
+
+4. Actual HRA received per month
 
 Prompt 7 — Late GST Filing Penalty Estimator
+
 Backstory:
+
 A 33-year-old small business owner in Kolkata missed filing GSTR-3B for two months due to personal emergencies. She wants to know the exact late fee and interest payable before filing.
 
 Goal:
+
 Calculate GST late fee and interest charges.
 
 Prompt:
+
 "You are a GST compliance calculator. Estimate late fees and interest for delayed GSTR-3B filing.
+
 Include:
 
-Late fee per day (CGST + SGST)
-Interest on net tax liability
-Total payable amount"
+1. Late fee per day (CGST + SGST)
+
+2. Interest on net tax liability
+
+3. Total payable amount"
+
 Inputs Required:
 
-Filing frequency (monthly/quarterly)
-Number of days delayed
-Net tax liability for each month
+1. Filing frequency (monthly/quarterly)
+
+2. Number of days delayed
+
+3. Net tax liability for each month
 
 Prompt 8 — Freelance Income Tax Filing Template
+
 Backstory:
+
 A 26-year-old freelance videographer in Mumbai earns from both Indian and international clients. She needs a simple, pre-filled Excel template to record her earnings, expenses, TDS, and foreign remittances to make ITR filing easier.
 
 Goal:
 Create a ready-to-use income tax filing template for freelancers.
 
 Prompt:
+
 "You are a tax documentation expert. Create an Excel template for freelance income tax filing.
+
 Include:
 
-Client name and country
-Invoice amount and payment date
-TDS deducted
-Expenses with category
-Net taxable income"
+1. Client name and country
+
+2. Invoice amount and payment date
+
+3. TDS deducted
+
+4. Expenses with category
+
+5. Net taxable income"
+
 Inputs Required:
 
-Nature of freelance work
-Usual expense categories
-Average number of invoices per month
+1. Nature of freelance work
+
+2. Usual expense categories
+
+3. Average number of invoices per month
 
 Prompt 9 — GST E-invoice Implementation Guide
+
 Backstory:
+
 A 30-year-old wholesale distributor in Ahmedabad has crossed the ₹5 crore turnover threshold and is now required to issue GST e-invoices. He has no idea how to integrate the system with his current billing software.
 
 Goal:
+
 Provide a step-by-step e-invoice implementation guide.
 
 Prompt:
+
 "You are a GST technology consultant. Create a step-by-step process to implement e-invoicing.
+
 Include:
 
-Registration on GST e-invoice portal
-API integration with billing software
-Invoice data format requirements
-Troubleshooting common errors"
+1. Registration on GST e-invoice portal
+
+2. API integration with billing software
+
+3. Invoice data format requirements
+
+4. Troubleshooting common errors"
+
 Inputs Required:
 
-Billing software details
-Turnover for last financial year
-Existing invoice format
+1. Billing software details
+
+2. Turnover for last financial year
+
+3. Existing invoice format
 
 Prompt 10 — Advance Tax Reminder System
+
 Backstory:
+
 A 34-year-old self-employed interior designer in Delhi often forgets to pay advance tax on time, leading to penalties. She wants a system that sends her reminders and pre-calculates each installment based on updated income estimates.
 
 Goal:
+
 Set up an automated advance tax reminder and calculation plan.
 
 Prompt:
+
 "You are a financial automation consultant. Design a reminder system for advance tax payments.
+
 Include:
 
-Due dates for each quarter
-Estimated payment amounts
-Method to adjust for income fluctuations"
+1. Due dates for each quarter
+
+2. Estimated payment amounts
+
+3. Method to adjust for income fluctuations"
+
 Inputs Required:
 
-Estimated annual income pattern
-Previous year’s advance tax paid
-Current quarter’s income data
+1. Estimated annual income pattern
+
+2. Previous year’s advance tax paid
+
+3. Current quarter’s income data
 
 Prompt 11 — Section 80D Health Insurance Tax Benefit Calculator
+
 Backstory:
+
 A 28-year-old teacher from Pune has purchased health insurance for herself and her parents but is unsure how much tax benefit she can claim under Section 80D.
 
 Goal:
+
 Calculate maximum deduction under Section 80D.
 
 Prompt:
+
 "You are a personal tax planner. Calculate deduction under Section 80D for self and family.
+
 Include:
 
-Premium paid for self/spouse/children
-Premium paid for parents (senior/non-senior)
-Preventive health check-up limit"
+1. Premium paid for self/spouse/children
+
+2. Premium paid for parents (senior/non-senior)
+
+3. Preventive health check-up limit"
+
 Inputs Required:
 
-Premium amounts and insured persons
-Age of each insured person
+1. Premium amounts and insured persons
+
+2. Age of each insured person
 
 Prompt 12 — GST Annual Return Preparation Plan
+
 Backstory:
 
 A 32-year-old GST-registered trader in Jaipur needs to prepare GSTR-9 for the first time. He wants a clear plan to gather all documents and reconcile data before filing.
@@ -1824,16 +1925,22 @@ Prompt:
 
 Include: 
 
-Reconciling GSTR-1, GSTR-3B, and books 
-Checking ITC claimed vs. available 
-Reviewing HSN summary"
+1. Reconciling GSTR-1, GSTR-3B, and books 
+
+2. Checking ITC claimed vs. available 
+
+3. Reviewing HSN summary"
+
 Inputs Required: 
 
-GST returns filed during the year 
-Purchase and sales registers 
-ITC ledger
+1. GST returns filed during the year 
+
+2. Purchase and sales registers 
+
+3. ITC ledger
 
 Prompt 13 — Capital Gains Tax Calculator
+
 Backstory:
 
 A 27-year-old equity investor in Mumbai has booked profits in stocks, mutual funds, and one real estate property this year. She wants to know her short-term and long-term capital gains tax liability.
@@ -1848,11 +1955,18 @@ Prompt:
 
 Include: 
 
-Indexed cost for property 
-Separate calculation for equity and debt funds 
-Applicable tax rates"
+1. Indexed cost for property 
+
+2. Separate calculation for equity and debt funds 
+
+3. Applicable tax rates"
+
 Inputs Required: 
 
-Purchase and sale details for each asset 
-Holding period 
-CII (Cost Inflation Index) for relevant years
+1. Purchase and sale details for each asset 
+
+2. Holding period 
+
+3. CII (Cost Inflation Index) for relevant years
+
+
