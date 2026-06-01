@@ -821,4 +821,219 @@ Inputs Required:
 
 4. Investment horizon (years)
 
+Prompt 2 — Mutual Fund Performance Tracker
+Backstory:
 
+You are working with a 32-year-old marketing professional from Delhi who has invested in 8 different mutual funds over the past 3 years. She regularly adds SIP contributions but has never compared their performance against benchmarks or peers. With inflation rising, she wants to know which funds are underperforming and if she should stop or switch her SIPs.
+
+Goal:
+
+Analyze mutual fund performance and recommend corrective actions.
+
+Prompt:
+
+"You are a mutual fund analyst. Review the investor’s mutual fund portfolio.
+
+For each fund: 
+
+Compare 1-year, 3-year, and 5-year CAGR against benchmark indices 
+Check consistency of returns (rolling returns analysis) 
+Flag underperforming funds 
+Recommend whether to hold, switch, or stop SIPs"
+Inputs Required: 
+
+Fund names and codes 
+Number of units and current NAV 
+SIP amount and start date for each fund 
+Benchmark index for each fund
+
+Prompt 3 — Risk-Return Analysis of Stock Portfolio
+Backstory:
+
+A 26-year-old engineer from Bengaluru started direct stock investing during the pandemic and now holds 15 Indian stocks, mostly in mid-cap companies. His returns look impressive, but he suspects the portfolio is riskier than he can handle, especially as he plans to use the money for a home down payment in 4 years. He wants a clear view of the portfolio’s volatility and whether his returns justify the risks.
+
+Goal:
+
+Calculate and interpret portfolio risk and return metrics.
+
+Prompt:
+
+"You are an equity research analyst. Analyze the stock portfolio’s historical performance.
+
+Tasks: 
+
+Calculate annualized return for the portfolio 
+Compute standard deviation and beta (volatility and market risk) 
+Compare portfolio returns against Nifty 50 
+Suggest adjustments to align with a moderate risk profile"
+Inputs Required: 
+
+Stock holdings with purchase dates and prices 
+Current stock prices 
+Historical price data (last 3–5 years) 
+Risk tolerance
+
+Prompt 4 — Portfolio Stress Test Under Market Crash
+Backstory:
+You’re working with a 30-year-old business analyst in Hyderabad who has a ₹15 lakh portfolio split between equity mutual funds, large-cap stocks, and REITs. After hearing about the 2020 COVID market crash, he’s anxious about how his portfolio would perform in a sudden 25–30% market fall. He wants to see simulated outcomes and understand if he needs more defensive assets to protect his capital.
+
+Goal:
+Simulate a portfolio’s performance during a sharp market downturn.
+
+Prompt:
+"You are a financial risk analyst. Perform a stress test on the portfolio to model a 30% equity market drop.
+For the given holdings:
+
+Apply simulated price drops based on asset correlation to equities
+Show projected portfolio value post-crash
+Estimate time to recover based on historical recovery patterns
+Recommend defensive reallocations (debt, gold, cash) to reduce drawdown"
+Inputs Required:
+
+Current holdings with market values
+Asset correlation data
+Historical market crash data for relevant indices
+Risk tolerance level
+
+Prompt 5 — SIP Portfolio Future Value Projection
+Backstory:
+A 28-year-old software developer from Pune invests ₹15,000 monthly via SIPs in equity mutual funds and wants to see how much she could accumulate in 15 years. She also wants to check how different return assumptions (8%, 10%, 12%) change the final amount.
+
+Goal:
+Project future value of an SIP portfolio under multiple return scenarios.
+
+Prompt:
+"You are a personal finance planner. Calculate future value of the SIP portfolio under 3 return scenarios (8%, 10%, 12%).
+For each scenario:
+
+Show corpus at year 5, 10, and 15
+Display total invested vs. total returns
+Provide a chart showing growth over time"
+Inputs Required:
+
+Monthly SIP amount
+Number of years for projection
+Assumed annual return rates
+Frequency of compounding
+
+Prompt 6 — ESG Portfolio Assessment
+Backstory:
+A 31-year-old HR manager in Mumbai wants her investments to be environmentally and socially responsible. She has a mix of Indian mutual funds, foreign ETFs, and some direct stocks, but isn’t sure how ESG-friendly they are. She wants an evaluation of her portfolio based on ESG scores.
+
+Goal:
+Assess portfolio for ESG compliance and suggest improvements.
+
+Prompt:
+"You are an ESG investment analyst. Review the portfolio holdings and assign ESG ratings (high, medium, low) using available data.
+For each holding:
+
+Show ESG score
+Highlight major ESG risks (if any)
+Recommend replacement or additional ESG-friendly investments"
+Inputs Required:
+
+List of holdings with ticker/codes
+Source for ESG ratings
+Minimum ESG score threshold desired
+
+Prompt 7 — Portfolio Overlap Analysis
+Backstory:
+A 25-year-old content creator from Jaipur has invested in 6 mutual funds and suspects they might be holding the same stocks. This could lead to over-concentration in certain companies and reduce diversification benefits. She wants to know the degree of portfolio overlap.
+
+Goal:
+Identify duplicate stock holdings across multiple funds.
+
+Prompt:
+"You are a mutual fund data analyst. Perform an overlap analysis across all holdings.
+Tasks:
+
+List all unique stocks held across funds
+Calculate % of portfolio invested in each stock
+Highlight any stock with >10% cumulative exposure
+Recommend alternative funds to reduce duplication"
+Inputs Required:
+
+List of mutual funds in portfolio
+Latest fund factsheets or holdings data
+
+Prompt 8 — Sector Rotation Strategy Review
+Backstory:
+A 33-year-old entrepreneur from Delhi actively rotates sectors based on market trends (IT, banking, FMCG). He wants a review of his last 3 years’ performance versus simply staying invested in a broad index.
+
+Goal:
+Evaluate effectiveness of past sector rotation strategy.
+
+Prompt:
+"You are an equity strategist. Compare past sector allocation returns against Nifty 50.
+For each year:
+
+Show returns from the chosen sectors
+Show index returns for the same period
+Calculate alpha generated or lost
+Suggest whether to continue or adjust sector rotation approach"
+Inputs Required:
+
+Historical sector allocation data
+Index benchmark data
+Transaction dates for each rotation
+
+Prompt 9 — Asset Allocation Rebalancing Plan
+Backstory:
+A 29-year-old finance manager in Bengaluru targets 70% equity, 20% debt, and 10% gold allocation. After 2 years of market rallies, his equity allocation has grown to 82%, creating excess exposure to market volatility. He wants a plan to rebalance without triggering large tax liabilities.
+
+Goal:
+Create a tax-efficient rebalancing plan to restore target allocation.
+
+Prompt:
+"You are a portfolio rebalancing advisor. Suggest steps to move from current allocation to target 70/20/10 mix.
+Include:
+
+Amounts to be shifted between asset classes
+Priority order for selling assets to minimize tax impact
+Suggest STP/SWP options if gradual rebalancing is better"
+Inputs Required:
+
+Current portfolio value by asset class
+Target allocation percentages
+Tax holding period status for each asset
+
+Prompt 10 — Real Estate vs. Equity Portfolio Contribution
+Backstory:
+A 34-year-old architect in Ahmedabad has both a rental property and an equity portfolio. He wants to know which investment has contributed more to his net worth over the last 5 years, factoring in rental income, price appreciation, dividends, and capital gains.
+
+Goal:
+Compare performance of real estate and equity holdings.
+
+Prompt:
+"You are a wealth analyst. Calculate and compare total returns from real estate and equity investments over the given period.
+Include:
+
+Rental income + property appreciation
+Dividends + capital gains from equities
+Annualized return % for each asset type"
+Inputs Required:
+
+Purchase price and date for property
+Rental income records
+Equity portfolio transaction history
+
+Prompt 11 — Dividend Income Forecast
+Backstory:
+A 28-year-old marketing executive from Chennai has gradually built a portfolio of dividend-paying stocks and REITs worth ₹8 lakhs. She enjoys receiving passive income but has no clear estimate of how much she can expect over the next 12 months. She wants a forecast that accounts for past dividend trends, announced payouts, and possible changes due to market conditions.
+
+Goal:
+Project the expected annual dividend income and payout schedule.
+
+Prompt:
+"You are an equity income analyst. Forecast dividend income for the portfolio.
+Include:
+
+Estimated annual payout for each holding based on historical yield and declared dividends
+Expected payout dates
+Total annual dividend income in INR
+Dividend yield of the entire portfolio"
+Inputs Required:
+
+List of holdings with quantities
+Historical dividend data for each holding
+Corporate announcements of upcoming dividends
