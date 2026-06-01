@@ -2715,71 +2715,113 @@ Inputs Required:
 4. Audience cooking skill level
 
 Prompt 4 -  Workout at Home Challenges
+
 Backstory:
+
 You have a 29-year-old fitness coach who wants to run monthly “home workout challenges” for beginners with no gym access. Most of the audience is sedentary and needs motivation.
 
 Goal:
+
 Design 4 engaging, beginner-friendly workout challenges with daily posts.
 
 Prompt:
+
 "You are a personal trainer and social media content planner. Design 4 month-long home workout challenges for beginners.
+
 For each challenge:
 
-Give it a catchy name.
-Explain the goal in 2 lines.
-Provide a 30-day schedule (in table format).
-Add 1 motivational line for each week.
-Keep it achievable for people with no gym access — only bodyweight and common household items."
+1. Give it a catchy name.
+
+2. Explain the goal in 2 lines.
+
+3. Provide a 30-day schedule (in table format).
+
+4. Add 1 motivational line for each week.
+
+5. Keep it achievable for people with no gym access — only bodyweight and common household items."
+
 Inputs Required:
 
-Target body areas (full-body, abs, arms, legs)
-Daily time commitment (10, 15, 20 mins)
-Posting format (video, carousel)
-Equipment availability
+1. Target body areas (full-body, abs, arms, legs)
+
+2. Daily time commitment (10, 15, 20 mins)
+
+3. Posting format (video, carousel)
+
+4. Equipment availability
 
 Prompt 5 - Health Myths in Indian Families
+
 Backstory:
+
 You have a young doctor who wants to make humorous yet educational reels debunking outdated or incorrect health advice often passed down in Indian families — like “don’t drink water with meals” or “eating mangoes causes acne.”
 
 Goal:
+
 Create 10 humorous yet fact-checked reel scripts.
 
 Prompt:
+
 "You are a doctor and comedic scriptwriter. Write 10 Instagram reel scripts debunking common Indian family health myths.
+
 For each script:
 
-Start with the typical dialogue elders say.
-Show a quick, funny reaction by a young person.
-Share the science-backed truth in 1–2 lines.
-End with a friendly tip.
-Make it funny but respectful."
+1. Start with the typical dialogue elders say.
+
+2. Show a quick, funny reaction by a young person.
+
+3. Share the science-backed truth in 1–2 lines.
+
+4. End with a friendly tip.
+
+5. Make it funny but respectful."
+
 Inputs Required:
 
-List of myths to cover
-Humor style (sarcastic, lighthearted, situational)
-Preferred reel length (15s, 30s, 60s)
-Audience demographic
+1. List of myths to cover
+
+2. Humor style (sarcastic, lighthearted, situational)
+
+3. Preferred reel length (15s, 30s, 60s)
+
+4. Audience demographic
 
 Prompt 6 - Debunking Popular Diet Trends
+
 Backstory:
+
 You have a young dietitian who wants to create Instagram reels explaining why certain fad diets like Keto, GM Diet, or Juice Cleanses may not be suitable for everyone.
+
 Goal:
+
 Make educational but engaging content to clear misinformation on diets.
+
 Prompt:
+
 "You are a registered dietitian and content creator. Create 8 Instagram reel scripts explaining the pros and cons of popular diets (Keto, Paleo, GM, Intermittent Fasting, etc.) for Indian audiences.
+
 For each diet:
 
-Start with a trending hook line.
-Mention the main principle of the diet.
-Explain risks and limitations.
-Suggest a healthier alternative or modification."
+1. Start with a trending hook line.
+
+2. Mention the main principle of the diet.
+
+3. Explain risks and limitations.
+
+4. Suggest a healthier alternative or modification."
+
 Inputs Required:
-List of diets to cover
-Target audience’s dietary preferences (veg/non-veg)
-Video length per reel
-Tone (educational, humorous, or mix)
+
+1. List of diets to cover
+
+2. Target audience’s dietary preferences (veg/non-veg)
+
+3. Video length per reel
+
+4. Tone (educational, humorous, or mix)
 
 Prompt 7 - Workplace Wellness Tips
+
 Backstory:
 
 A 27-year-old corporate wellness coach wants to post daily tips to help office workers stay active and healthy despite sitting for 8+ hours.
@@ -2794,49 +2836,81 @@ Prompt:
 
 For each tip: 
 
-Use a catchy title. 
-Give a one-line actionable tip. 
-Add a brief reason why it’s important. 
-End with a reminder to take action today."
+1. Use a catchy title. 
+
+2. Give a one-line actionable tip. 
+
+3. Add a brief reason why it’s important. 
+
+4. End with a reminder to take action today."
 
 Inputs Required: 
-Office environment type (remote, hybrid, in-office) 
-Available facilities (standing desks, office gym) 
-Preferred posting frequency
+
+1. Office environment type (remote, hybrid, in-office) 
+
+2. Available facilities (standing desks, office gym) 
+
+3. Preferred posting frequency
 
 Prompt 8 - Festival Season Health Guide
+
 Backstory:
+
 An influencer wants to guide people on how to enjoy Diwali, Holi, Eid, and Christmas without overindulging and harming health.
+
 Goal:
+
 Create seasonal health awareness content.
+
 Prompt:
+
 "You are a health coach. Create 8 Instagram carousel posts on staying healthy during Indian festivals.
+
 For each festival:
 
-Share common health challenges (overeating, dehydration, lack of sleep).
-Give 3 practical tips to stay balanced.
-Suggest 1 healthy swap for a popular festive food."
+1. Share common health challenges (overeating, dehydration, lack of sleep).
+
+2. Give 3 practical tips to stay balanced.
+
+3. Suggest 1 healthy swap for a popular festive food."
+
 Inputs Required:
-Festivals to be covered
-Audience dietary restrictions
-Cultural sensitivity requirements
+
+1. Festivals to be covered
+
+2. Audience dietary restrictions
+
+3. Cultural sensitivity requirements
 
 Prompt 9 - Weekly Immunity Booster Series
+
 Backstory:
+
 A nutrition page wants to post natural immunity tips every week for young adults prone to seasonal flu.
+
 Goal:
+
 Share science-backed immunity tips in short posts.
+
 Prompt:
+
 "You are an Ayurvedic nutritionist. Create 12 posts on immunity-boosting foods and habits for Indian youth.
+
 Each post should include:
 
-Food/herb name
-Why it boosts immunity (1–2 lines)
-Quick way to consume it daily."
+1. Food/herb name
+
+2. Why it boosts immunity (1–2 lines)
+
+3. Quick way to consume it daily."
+
 Inputs Required:
-Type of diet (veg/non-veg)
-Preferred posting format
-Allergies to avoid
+
+1. Type of diet (veg/non-veg)
+
+2. Preferred posting format
+
+3. Allergies to avoid
 
 Prompt 10 - Sleep Hygiene Tips
 Backstory:
