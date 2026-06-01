@@ -2913,71 +2913,121 @@ Inputs Required:
 3. Allergies to avoid
 
 Prompt 10 - Sleep Hygiene Tips
+
 Backstory:
+
 A wellness coach wants to educate people on improving sleep quality through lifestyle changes.
+
 Goal:
+
 Share actionable and relatable sleep improvement posts.
+
 Prompt:
+
 "You are a sleep therapist and content planner. Create 10 short Instagram posts on sleep hygiene for 20–35-year-olds.
+
 For each tip:
 
-Give a catchy title.
-Explain the tip in 2 lines.
-Suggest 1 small action to try tonight."
+1. Give a catchy title.
+
+2. Explain the tip in 2 lines.
+
+3. Suggest 1 small action to try tonight."
+
 Inputs Required:
-Average sleep duration of audience
-Common issues (insomnia, late-night scrolling)
+
+1. Average sleep duration of audience
+
+2. Common issues (insomnia, late-night scrolling)
 
 Prompt 11 - Healthy Office Snacks
+
 Backstory:
+
 A dietitian wants to help office workers replace junk snacks with healthy ones without sacrificing taste.
+
 Goal:
+
 Create a healthy snacking guide for social media.
+
 Prompt:
+
 "You are a dietitian and recipe developer. Create 12 healthy office snack ideas for Indian professionals.
+
 For each snack:
 
-Name and ingredients
-Quick recipe (under 5 mins prep)
-Health benefit in 1 line."
+1. Name and ingredients
+
+2. Quick recipe (under 5 mins prep)
+
+3. Health benefit in 1 line."
+
 Inputs Required:
-Budget per snack
-Storage options (fridge, desk drawer)
+
+1. Budget per snack
+
+2. Storage options (fridge, desk drawer)
 
 Prompt 12 - Menstrual Health Awareness
+
 Backstory:
+
 A reproductive health NGO wants to run a month-long series on menstrual health education for young women.
+
 Goal:
+
 Make easy-to-understand posts that break stigma.
+
 Prompt:
+
 "You are a gynecologist and social media educator. Create 15 carousel posts explaining menstrual health basics, common issues, and hygiene tips.
+
 Each post should:
 
-Start with a relatable hook.
-Share 3 key points in layman’s language.
-End with a myth-busting fact."
+1. Start with a relatable hook.
+
+2. Share 3 key points in layman’s language.
+
+3. End with a myth-busting fact."
+
 Inputs Required:
-Cultural sensitivity notes
-Target age group
-Preferred tone (serious, friendly)
+
+1. Cultural sensitivity notes
+
+2. Target age group
+
+3. Preferred tone (serious, friendly)
 
 Prompt 13 - Daily 1-Minute Fitness Routines
+
 Backstory:
+
 A gym trainer wants to attract beginners by sharing quick workouts they can do anywhere.
+
 Goal:
+
 Make short, reel-friendly fitness videos.
+
 Prompt:
+
 "You are a fitness trainer. Create 10 one-minute workout routines for beginners that can be done at home or office without equipment.
+
 For each workout:
 
-Name it
-Show 3–4 exercises
-Add 1 tip for correct form."
+1. Name it
+
+2. Show 3–4 exercises
+
+3. Add 1 tip for correct form."
+
 Inputs Required:
-Target muscle groups
-Audience fitness level
+
+1. Target muscle groups
+
+2. Audience fitness level
 
 Prompt 14 - Skin Health Awareness
+
 Backstory:
 
 A dermatologist wants to create educational Instagram posts on common skin problems faced by young Indians — acne, tanning, pigmentation.
@@ -2992,15 +3042,20 @@ Prompt:
 
 Each should: 
 
-Start with a myth or problem statement. 
-Explain the truth in simple terms. 
-Suggest 1 easy home-care tip."
+1. Start with a myth or problem statement. 
+
+2. Explain the truth in simple terms. 
+
+3. Suggest 1 easy home-care tip."
 
 Inputs Required: 
-Skin type focus 
-Seasonal relevance
+
+1. Skin type focus 
+
+2. Seasonal relevance
 
 Prompt 15 - Gut Health Simplified
+
 Backstory:
 
 A nutritionist wants to educate people on gut health and its link to mood and immunity.
@@ -3015,10 +3070,16 @@ Prompt:
 
 For each: 
 
-Use a catchy headline. 
-Explain the concept in layman’s language. 
-Add 1 daily habit for better gut health."
+1. Use a catchy headline. 
+
+2. Explain the concept in layman’s language. 
+
+3. Add 1 daily habit for better gut health."
 
 Inputs Required: 
-Audience diet pattern 
-Common gut issues
+
+1. Audience diet pattern 
+
+2. Common gut issues
+
+
