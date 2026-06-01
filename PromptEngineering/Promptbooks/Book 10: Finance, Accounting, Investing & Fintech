@@ -338,4 +338,337 @@ Inputs Required:
 
 3. Interest rate for each loan
 
+Prompt 11 — Annual Cash Flow Summary
+Backstory:
+A home bakery in Kochi accepts online and cash payments and spends on ingredients, packaging, and marketing. At year-end, they want a summary showing total inflows vs. outflows.
 
+Goal:
+Create a visual annual cash flow report.
+
+Prompt:
+"You are a financial analyst. Summarize annual cash inflows and outflows for the given year.
+Include:
+
+Total sales receipts
+Major expense categories
+Monthly inflow/outflow chart
+Net cash position per month"
+Inputs Required:
+
+List of all transactions
+Expense category mapping
+Bank and cash data combined
+
+Prompt 12 — Duplicate Payment Audit
+Backstory:
+An NGO in Kolkata suspects that a few suppliers have been accidentally paid twice for the same invoice. They want a review of last year’s transactions to confirm.
+
+Goal:
+Identify and flag duplicate payments.
+
+Prompt:
+"You are an audit specialist. Review all supplier payments for possible duplicates.
+Criteria:
+
+Same vendor name and invoice number
+Same amount within ±₹5
+Payment dates within 15 days"
+Inputs Required:
+
+Supplier payment register
+Vendor master list
+Duplicate detection criteria
+
+Prompt 13 — Expense Approval Workflow
+Backstory:
+A digital marketing agency in Gurgaon reimburses employee expenses for client work. The accounts team wants a simple approval tracker to avoid delays.
+
+Goal:
+Track expense approval status for each claim.
+
+Prompt:
+"You are a process documentation specialist. Create an expense claim tracker.
+Fields:
+
+Employee name and ID
+Claim date and amount
+Approver name and status
+Payment date if approved"
+Inputs Required:
+
+List of claims
+Approval rules
+Employee department list
+
+Prompt 14 — POS Sales vs Bank Credit Reconciliation
+Backstory:
+
+A grocery store in Indore uses a POS machine for card transactions but sees delays before money reflects in the bank account. They want to match POS receipts to bank credits.
+
+Goal:
+
+Reconcile POS daily sales to bank deposits.
+
+Prompt:
+
+"You are a POS reconciliation expert. Match POS transaction list with bank statement credits.
+
+Highlight: 
+
+Transactions missing in bank credit 
+Bank credits without matching POS entry"
+Inputs Required: 
+
+POS transaction report 
+Bank statement 
+Settlement time lag in days
+
+Prompt 15 — E-commerce Payment Gateway Reconciliation
+Backstory:
+
+A seller on Amazon and Flipkart from Ahmedabad gets payouts via Razorpay. They want to ensure every order shipped is paid for after deductions.
+
+Goal:
+
+Match order IDs to payment gateway payouts.
+
+Prompt:
+
+"You are an e-commerce finance specialist. Match shipped orders to payment gateway deposits.
+
+Include: 
+
+Order ID 
+Gross order value 
+Platform commission deducted 
+Final payout amount"
+Inputs Required: 
+
+Order shipment report 
+Payment gateway settlement report 
+Commission rate per platform
+
+Prompt 16 — Subscription Payment Tracking
+Backstory:
+A SaaS startup in Noida charges monthly subscriptions but struggles to track renewals and failed payments.
+
+Goal:
+Track subscription renewals and failed transactions.
+
+Prompt:
+"You are a subscription finance tracker. Create a subscription payment log with:
+
+Customer name
+Subscription start/end date
+Payment status (paid/failed)
+Renewal reminders"
+Inputs Required:
+
+Customer subscription database
+Payment processor logs
+Subscription plan pricing
+
+Prompt 17 — Credit Card Expense Reconciliation
+Backstory:
+A consultancy in Hyderabad uses a corporate credit card for travel and entertainment expenses. The finance team needs to reconcile card statements with receipts.
+
+Goal:
+Match card statement entries to receipts for expense verification.
+
+Prompt:
+"You are a corporate expense auditor. Reconcile credit card transactions to provided receipts.
+Flag:
+
+Missing receipts
+Amount mismatches
+Unauthorized transactions"
+Inputs Required:
+
+Credit card statement
+Digital/paper receipts scanned
+Expense category mapping
+
+Prompt 18 — Advance Payment Settlement
+Backstory:
+A wedding planner in Chandigarh takes advance payments from clients and vendors but struggles to match them to final invoices.
+
+Goal:
+Track advance payments and settlement status.
+
+Prompt:
+"You are a project finance tracker. Create a log for advances taken and settled.
+Include:
+
+Client/vendor name
+Advance amount and date
+Final invoice amount
+Settlement balance"
+Inputs Required:
+
+List of all advances taken
+Final invoices issued
+Payment history
+
+Prompt 19 — Payroll Reconciliation
+Backstory:
+A mid-sized school in Patna processes monthly salaries but finds mismatches between payroll register and bank transfers.
+
+Goal:
+Reconcile payroll payouts to bank credits.
+
+Prompt:
+"You are a payroll reconciliation specialist. Match payroll register entries with bank transfer statements.
+Flag:
+
+Missing payments
+Extra payments
+Amount mismatches"
+Inputs Required:
+
+Payroll register
+Bank transfer statement
+Pay period
+
+Prompt 20 — Cheque Clearing Tracker
+Backstory:
+A construction company in Nagpur receives large payments via cheques. They want to track clearing status and bounced cheques.
+
+Goal:
+Track cheque deposits and clearance.
+
+Prompt:
+"You are a cheque processing tracker. Create a report showing:
+
+Cheque number
+Bank
+Deposit date
+Clearance date or bounce reason"
+Inputs Required:
+
+List of cheques received
+Bank deposit slips
+Clearance status updates
+
+Prompt 21 — Year-End Trial Balance Preparation
+Backstory:
+An NGO in Bhopal needs a trial balance ready for audit but their accounts are scattered across bank statements, receipts, and Excel sheets.
+
+Goal:
+Prepare a complete trial balance.
+
+Prompt:
+"You are an accountant. Prepare a trial balance from provided data.
+Include:
+
+Ledger accounts with debit/credit balances
+Totals matching
+Highlight accounts needing clarification"
+Inputs Required:
+
+Ledger data
+Journal entries
+Bank reconciliations
+
+Prompt 22 — Fixed Asset Register Reconciliation
+Backstory:
+A factory in Rajkot maintains a fixed asset register but hasn’t updated disposals and new purchases this year.
+
+Goal:
+Reconcile fixed asset register with actual purchases/disposals.
+
+Prompt:
+"You are an asset accountant. Update the fixed asset register by:
+
+Adding new assets purchased
+Removing disposed assets
+Updating depreciation till date"
+Inputs Required:
+
+Current asset register
+Purchase invoices
+Disposal records
+
+Prompt 23 — Internal Fund Transfer Reconciliation
+Backstory:
+A company with multiple bank accounts transfers funds internally. They want to match debits in one account with credits in another.
+
+Goal:
+Match internal transfers across accounts.
+
+Prompt:
+"You are a treasury reconciliation specialist. Match all internal transfers between bank accounts by date and amount.
+Flag unmatched entries"
+
+Inputs Required:
+
+Statements for all accounts
+Date tolerance (±1 day)
+
+Prompt 24 — Prepaid Expense Amortization
+Backstory:
+
+A firm in Chennai has prepaid annual insurance and software subscriptions. They want monthly amortization entries for accurate books.
+
+Goal:
+
+Create monthly expense recognition for prepaids.
+
+Prompt:
+
+"You are an accountant. Amortize prepaid expenses across relevant months.
+
+Show: 
+
+Original amount 
+Monthly amortization amount 
+Remaining balance"
+Inputs Required: 
+
+List of prepaid expenses with start/end dates 
+Expense category
+
+Prompt 25 — Partner Capital Account Reconciliation
+Backstory:
+A partnership firm in Jaipur needs to reconcile partner capital accounts after profit distribution and withdrawals.
+
+Goal:
+Prepare final partner capital balances.
+
+Prompt:
+"You are a partnership accounts specialist. Reconcile capital accounts showing:
+
+Opening balance
+Profit share credited
+Withdrawals
+Closing balance"
+Inputs Required:
+
+Partner agreement terms
+Profit allocation ratio
+Withdrawal records
+
+
+Investment portfolio analysis
+
+Prompt 1 — Diversification Review for a Young Investor
+Backstory:
+You are assisting a 29-year-old IT professional from Pune who started investing 5 years ago. His portfolio includes a mix of Indian equities, mutual funds, and a small allocation to gold ETFs. With the recent market volatility, he’s unsure if his investments are well-diversified or too concentrated in certain sectors like tech and banking. He wants a clear analysis of his holdings to check if he’s managing risk effectively and how he can rebalance for stability.
+
+Goal:
+Evaluate the diversification of the portfolio and provide sector/asset allocation recommendations.
+
+Prompt:
+"You are a SEBI-registered investment advisor. Review the investor’s portfolio for diversification across asset classes, sectors, and geographies.
+For the given portfolio:
+
+Show % allocation by asset class (equity, debt, gold, etc.)
+Show % allocation by sector within equities
+Identify over-concentration risks
+Recommend rebalancing moves with target % for each category
+Suggest 2–3 new investment options to improve diversification"
+Inputs Required:
+
+List of current holdings with quantities and purchase prices
+Current market values of holdings
+Risk tolerance (low, medium, high)
+Investment horizon (years)
