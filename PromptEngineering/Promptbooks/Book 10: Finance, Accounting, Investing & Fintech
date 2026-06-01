@@ -675,41 +675,57 @@ Inputs Required:
 3. Bank reconciliations
 
 Prompt 22 — Fixed Asset Register Reconciliation
+
 Backstory:
+
 A factory in Rajkot maintains a fixed asset register but hasn’t updated disposals and new purchases this year.
 
 Goal:
+
 Reconcile fixed asset register with actual purchases/disposals.
 
 Prompt:
+
 "You are an asset accountant. Update the fixed asset register by:
 
-Adding new assets purchased
-Removing disposed assets
-Updating depreciation till date"
+1. Adding new assets purchased
+
+2. Removing disposed assets
+
+3. Updating depreciation till date"
+
 Inputs Required:
 
-Current asset register
-Purchase invoices
-Disposal records
+1. Current asset register
+
+2. Purchase invoices
+
+3. Disposal records
 
 Prompt 23 — Internal Fund Transfer Reconciliation
+
 Backstory:
+
 A company with multiple bank accounts transfers funds internally. They want to match debits in one account with credits in another.
 
 Goal:
+
 Match internal transfers across accounts.
 
 Prompt:
+
 "You are a treasury reconciliation specialist. Match all internal transfers between bank accounts by date and amount.
+
 Flag unmatched entries"
 
 Inputs Required:
 
-Statements for all accounts
-Date tolerance (±1 day)
+1. Statements for all accounts
+
+2. Date tolerance (±1 day)
 
 Prompt 24 — Prepaid Expense Amortization
+
 Backstory:
 
 A firm in Chennai has prepaid annual insurance and software subscriptions. They want monthly amortization entries for accurate books.
@@ -724,56 +740,85 @@ Prompt:
 
 Show: 
 
-Original amount 
-Monthly amortization amount 
-Remaining balance"
+1. Original amount 
+
+2. Monthly amortization amount 
+
+3. Remaining balance"
+
 Inputs Required: 
 
-List of prepaid expenses with start/end dates 
-Expense category
+1. List of prepaid expenses with start/end dates 
+
+2. Expense category
 
 Prompt 25 — Partner Capital Account Reconciliation
+
 Backstory:
+
 A partnership firm in Jaipur needs to reconcile partner capital accounts after profit distribution and withdrawals.
 
 Goal:
+
 Prepare final partner capital balances.
 
 Prompt:
+
 "You are a partnership accounts specialist. Reconcile capital accounts showing:
 
-Opening balance
-Profit share credited
-Withdrawals
-Closing balance"
+1. Opening balance
+
+2. Profit share credited
+
+3. Withdrawals
+
+4. Closing balance"
+
 Inputs Required:
 
-Partner agreement terms
-Profit allocation ratio
-Withdrawal records
+1. Partner agreement terms
+
+2. Profit allocation ratio
+
+3. Withdrawal records
 
 
 Investment portfolio analysis
 
 Prompt 1 — Diversification Review for a Young Investor
+
 Backstory:
+
 You are assisting a 29-year-old IT professional from Pune who started investing 5 years ago. His portfolio includes a mix of Indian equities, mutual funds, and a small allocation to gold ETFs. With the recent market volatility, he’s unsure if his investments are well-diversified or too concentrated in certain sectors like tech and banking. He wants a clear analysis of his holdings to check if he’s managing risk effectively and how he can rebalance for stability.
 
 Goal:
+
 Evaluate the diversification of the portfolio and provide sector/asset allocation recommendations.
 
 Prompt:
+
 "You are a SEBI-registered investment advisor. Review the investor’s portfolio for diversification across asset classes, sectors, and geographies.
+
 For the given portfolio:
 
-Show % allocation by asset class (equity, debt, gold, etc.)
-Show % allocation by sector within equities
-Identify over-concentration risks
-Recommend rebalancing moves with target % for each category
-Suggest 2–3 new investment options to improve diversification"
+1. Show % allocation by asset class (equity, debt, gold, etc.)
+
+2. Show % allocation by sector within equities
+
+3. Identify over-concentration risks
+
+4. Recommend rebalancing moves with target % for each category
+
+5. Suggest 2–3 new investment options to improve diversification"
+
 Inputs Required:
 
-List of current holdings with quantities and purchase prices
-Current market values of holdings
-Risk tolerance (low, medium, high)
-Investment horizon (years)
+1. List of current holdings with quantities and purchase prices
+
+2. Current market values of holdings
+
+3. Risk tolerance (low, medium, high)
+
+4. Investment horizon (years)
+
+
