@@ -71,115 +71,177 @@ Inputs Required:
 4. Currency conversion rate if foreign payments exist
 
 Prompt 3 — Petty Cash Tracking for Retail Stores
+
 Backstory:
+
 A family-owned stationery shop in Lucknow uses petty cash for small daily expenses — tea for staff, packaging materials, and urgent stock buys. The store owner often forgets to record cash withdrawals and wants a transparent petty cash ledger to monitor leakage.
 
 Goal:
+
 Create a daily petty cash log with balances updated after every transaction.
 
 Prompt:
+
 "You are a retail accounting specialist. Create a petty cash log for one month.
+
 Include:
 
-Date of transaction
-Description of expense or deposit
-Amount withdrawn or added
-Running balance after each entry
-Weekly summary of total spent vs replenished cash"
+1. Date of transaction
+
+2. Description of expense or deposit
+
+3. Amount withdrawn or added
+
+4. Running balance after each entry
+
+5. Weekly summary of total spent vs replenished cash"
+
 Inputs Required:
 
-Starting petty cash amount
-List of daily petty cash transactions
-Cash replenishment dates and amounts
-Expense categories (e.g., supplies, refreshments, maintenance)
+1. Starting petty cash amount
+
+2. List of daily petty cash transactions
+
+3. Cash replenishment dates and amounts
+
+4. Expense categories (e.g., supplies, refreshments, maintenance)
 
 Prompt 4 — Automating UPI Payment Reconciliation
+
 Backstory:
+
 A café owner in Pune uses multiple UPI handles (GPay, PhonePe, Paytm) to accept payments. End-of-month reconciliation is messy because transaction IDs differ in the café’s billing software and bank passbook. They want an automated way to match UPI payments to daily sales.
 
 Goal:
+
 Match UPI transaction data with daily sales data to confirm no payments are missing.
 
 Prompt:
+
 "You are a fintech reconciliation expert. Match the UPI transaction log with the daily sales records for the month.
+
 Steps:
 
-Standardize date/time format for both datasets.
-Match transactions based on amount and nearest timestamp.
-Highlight sales with no corresponding payment and vice versa.
+1. Standardize date/time format for both datasets.
+
+2. Match transactions based on amount and nearest timestamp.
+
+3. Highlight sales with no corresponding payment and vice versa.
+
 Output a reconciliation report with unmatched entries for review."
+
 Inputs Required:
 
-UPI transaction log (CSV/Excel)
-Daily sales report from POS/billing system
-Tolerance for time mismatch (minutes)
-Any known discount or refund data
+1. UPI transaction log (CSV/Excel)
+
+2. Daily sales report from POS/billing system
+
+3. Tolerance for time mismatch (minutes)
+
+4. Any known discount or refund data
 
 Prompt 5 — Annual Ledger Cleanup
+
 Backstory:
+
 A 35-year-old manufacturing SME in Coimbatore has an annual ledger cluttered with duplicate entries, misspelled vendor names, and inconsistent expense categories. Before the annual audit, they need the ledger cleaned and standardized.
 
 Goal:
+
 Prepare a clean, consistent ledger for the fiscal year.
 
 Prompt:
+
 "You are an accounting data cleanup specialist. Review and clean the provided ledger for FY 2024–25.
+
 Tasks:
 
-Remove duplicate entries.
-Standardize vendor and client names.
-Correct inconsistent category labels.
-Flag unusual or suspicious transactions.
-Provide a before-and-after summary showing corrections made."
+1. Remove duplicate entries.
+
+2. Standardize vendor and client names.
+
+3. Correct inconsistent category labels.
+
+4. Flag unusual or suspicious transactions.
+
+5. Provide a before-and-after summary showing corrections made."
 
 Prompt 6 — Vendor Payment Tracking
+
 Backstory:
+
 A 29-year-old procurement manager at a small catering business in Delhi handles 12–15 vendors supplying everything from vegetables to packaging. Payments are made partly in advance and partly after delivery. She needs a monthly vendor payment tracker to ensure no supplier is overpaid or missed.
 
 Goal:
+
 Maintain a clear vendor payment status sheet for the month.
 
 Prompt:
+
 "You are an accounts payable specialist. Create a vendor payment tracker for the given month.
+
 Include:
 
-Vendor name and contact
-Invoice number and date
-Payment due date
-Amount invoiced, paid, and pending
-Payment mode
+1. Vendor name and contact
+
+2. Invoice number and date
+
+3. Payment due date
+
+4. Amount invoiced, paid, and pending
+
+5. Payment mode
+
 Highlight overdue payments in red."
+
 Inputs Required:
 
-List of vendor invoices with amounts and due dates
-Payment history for each vendor
-Agreed payment terms (e.g., 50% advance, 50% on delivery)
-Contact details for follow-up
+1. List of vendor invoices with amounts and due dates
+
+2. Payment history for each vendor
+
+3. Agreed payment terms (e.g., 50% advance, 50% on delivery)
+
+4. Contact details for follow-up
 
 Prompt 7 — Client Receivables Aging Report
+
 Backstory:
+
 A freelance graphic designer in Mumbai works with multiple clients, some paying late. She wants to know how long payments have been pending so she can follow up professionally without losing clients.
 
 Goal:
+
 Generate a receivables aging report categorizing clients by overdue days.
 
 Prompt:
+
 "You are an accounts receivable analyst. Create an aging report for all unpaid client invoices.
+
 Break down by:
 
-Current (0–30 days)
-31–60 days overdue
-61–90 days overdue
-90+ days overdue
+1. Current (0–30 days)
+
+2. 31–60 days overdue
+
+3. 61–90 days overdue
+
+4. 90+ days overdue
+
 Show total outstanding in each category and list top overdue accounts separately."
+
 Inputs Required:
 
-Client invoice list with issue dates and amounts
-Record of payments received
-Follow-up notes (if any)
-Credit terms with each client
+1. Client invoice list with issue dates and amounts
+
+2. Record of payments received
+
+3. Follow-up notes (if any)
+
+4. Credit terms with each client
 
 Prompt 8 — GST Input-Output Reconciliation
+
 Backstory:
 
 A boutique clothing brand in Surat needs to reconcile GST input tax credit from supplier invoices with GST output liability from sales invoices to prepare for monthly filing.
@@ -194,55 +256,86 @@ Prompt:
 
 Tasks: 
 
-Match GSTIN and invoice numbers 
-Calculate total GST payable vs credit 
-Flag mismatches or missing GST details 
-Provide final net GST liability for filing"
+1. Match GSTIN and invoice numbers 
+
+2. Calculate total GST payable vs credit 
+
+3. Flag mismatches or missing GST details 
+
+4. Provide final net GST liability for filing"
+
 Inputs Required: 
 
-Purchase invoices with GST details 
-Sales invoices with GST details 
-GST rate applicable to goods/services 
-Filing frequency (monthly/quarterly)
+1. Purchase invoices with GST details 
+
+2. Sales invoices with GST details 
+
+3. GST rate applicable to goods/services 
+
+4. Filing frequency (monthly/quarterly)
 
 Prompt 9 — Foreign Currency Transaction Reconciliation
+
 Backstory:
+
 A startup in Hyderabad exports software services and receives payments in USD and EUR. Exchange rates fluctuate, and the finance head needs a monthly reconciliation showing INR equivalents and forex gain/loss.
 
 Goal:
+
 Reconcile foreign currency inflows with correct INR conversions.
 
 Prompt:
+
 "You are a forex accounting specialist. Reconcile foreign currency receipts with invoice amounts and bank credits.
+
 Steps:
 
-Convert each payment to INR at the applicable bank rate on the credit date
-Show any forex gain/loss compared to invoice rate
-Summarize totals per currency"
+1. Convert each payment to INR at the applicable bank rate on the credit date
+
+2. Show any forex gain/loss compared to invoice rate
+
+3. Summarize totals per currency"
+
 Inputs Required:
 
-Invoice list with currency and rates used
-Bank credit statement with INR amounts
-Official daily exchange rate source
-Forex charges/fees
+1. Invoice list with currency and rates used
+
+2. Bank credit statement with INR amounts
+
+3. Official daily exchange rate source
+
+4. Forex charges/fees
 
 Prompt 10 — Loan Payment Tracking
+
 Backstory:
+
 A manufacturing unit in Ludhiana has 3 active business loans with different banks. The owner struggles to track EMI dates, amounts, and interest components.
 
 Goal:
+
 Maintain a monthly loan payment tracker with due dates and outstanding balances.
 
 Prompt:
+
 "You are a business finance tracker. Create a loan repayment schedule for all active loans.
+
 Include:
 
-Bank name and loan account number
-EMI amount split into principal and interest
-Due dates
-Outstanding principal after each payment"
+1. Bank name and loan account number
+
+2. EMI amount split into principal and interest
+
+3. Due dates
+
+4. Outstanding principal after each payment"
+
 Inputs Required:
 
-Loan sanction letters or repayment schedules
-Payment history till date
-Interest rate for each loan
+1. Loan sanction letters or repayment schedules
+
+2. Payment history till date
+
+3. Interest rate for each loan
+
+
