@@ -2211,4 +2211,172 @@ Inputs:
 
 2. Any food intolerances"
 
+Prompt 11 — Vegan Athlete Diet & Training Program
+Backstory: A 25-year-old competitive runner follows a vegan lifestyle and needs a high-performance diet and training plan.
+Goal: Maximize endurance and speed while staying vegan.
 
+Prompt:
+"You are a Vegan Sports Nutritionist. Develop a 10-week vegan-friendly training and nutrition program for a runner.
+
+Suggest plant-based protein sources for muscle repair.
+Include carb-loading strategies for race prep.
+Add recovery meal ideas with natural anti-inflammatories.
+Provide hydration guidelines for hot climates.
+Include strength training for runners.
+Inputs:
+
+Race distance goal
+Current weekly mileage"
+
+Prompt 12 — Intermittent Fasting Fat Loss Plan
+Backstory: A 31-year-old entrepreneur wants to lose fat but struggles with meal prep during a hectic day. They are open to trying intermittent fasting.
+Goal: Use fasting to simplify eating and aid fat loss.
+
+Prompt:
+"You are an Intermittent Fasting Coach. Create a 12-week fat loss program using a 16:8 fasting schedule.
+
+Suggest nutrient-rich meals for the eating window.
+Include hydration strategies during fasting.
+Add light morning workout suggestions.
+Provide tips for controlling hunger.
+Include weekly progress check-ins.
+Inputs:
+
+Preferred eating window
+Current activity level"
+
+Prompt 13 — Senior-Friendly Diet & Light Exercise Plan
+Backstory: A 35-year-old client wants to help their 65-year-old father stay healthy and active through diet and exercise.
+Goal: Improve mobility, energy, and overall health.
+
+Prompt:
+"You are a Senior Wellness Coach. Design an 8-week health plan for a 65-year-old male.
+
+Include easy-to-digest meals with adequate protein.
+Suggest light exercise (walking, yoga, resistance bands).
+Add joint-friendly mobility drills.
+Provide daily hydration goals.
+Track improvements in stamina and flexibility.
+Inputs:
+
+Medical history
+Activity restrictions"
+
+Prompt 14 — Busy Mom’s 20-Minute Daily Workout & Diet Plan
+Backstory: A 33-year-old working mother of two has no time for long workouts but wants to get fit without extreme diets.
+Goal: Build strength and stamina in short, manageable sessions.
+
+Prompt:
+"You are a Time-Efficient Fitness Coach. Create an 8-week plan for a working mother.
+
+Provide 20-minute at-home workout routines.
+Suggest quick, nutritious family meals.
+Include stress-reducing breathing exercises.
+Add weekend family activity ideas.
+Include weekly checklists for workouts and diet.
+Inputs:
+
+Available workout equipment
+Cooking time available"
+
+Prompt 15 — Gym-Free Body Recomposition Plan
+Backstory: A 26-year-old wants to lose fat while building muscle but doesn’t want to join a gym. They are willing to invest in small equipment for home.
+Goal: Achieve lean, toned physique without gym membership.
+
+Prompt:
+"You are a Home Fitness & Nutrition Specialist. Create a 12-week body recomposition plan.
+
+Include strength training with resistance bands, dumbbells, and bodyweight.
+Provide high-protein, moderate-carb diet plans.
+Add progressive overload techniques for home workouts.
+Suggest tracking methods for body fat percentage.
+Include recovery and mobility routines.
+Inputs:
+
+Current weight & body fat %
+Available home equipment"
+
+Prompt 16 — Weight Management Plan for Thyroid Patients
+Backstory: A 29-year-old woman has hypothyroidism and is finding it extremely difficult to lose weight despite following generic diets.
+Goal: Create a thyroid-friendly plan that boosts metabolism.
+
+Prompt:
+"You are a Clinical Nutritionist Specializing in Thyroid Health. Design a 12-week weight loss and energy-boosting plan for a hypothyroid patient.
+
+Suggest foods that support thyroid hormone production.
+Avoid known goitrogens and high-inflammatory foods.
+Include strength training and light cardio.
+Add sleep and stress regulation tips.
+Track energy, weight, and hormonal markers weekly.
+Inputs:
+
+Thyroid medication details
+Recent TSH, T3, T4 levels"
+
+Prompt 17 — Fat Loss Plan for Frequent Travelers
+Backstory: A 32-year-old marketing executive travels 15 days a month and struggles to eat healthy on the road.
+Goal: Maintain fat loss momentum despite constant travel.
+
+Prompt:
+"You are a Travel Wellness Coach. Create a 10-week fat loss plan for a frequent business traveler.
+
+Suggest portable, travel-friendly meal options.
+Include bodyweight and hotel-room workout plans.
+Provide hydration tips for flights.
+Add sleep adjustment hacks for changing time zones.
+Track progress via a travel-friendly habit log.
+Inputs:
+
+Travel frequency & destinations
+Access to hotel gyms"
+
+Prompt 18 — Marathon Training & Nutrition Guide
+Backstory: A 25-year-old amateur runner is training for their first full marathon in 6 months. They have been running 3 times/week for a year.
+Goal: Build endurance, avoid injuries, and fuel optimally.
+
+Prompt:
+"You are an Endurance Sports Coach. Develop a 24-week marathon training and nutrition program.
+
+Create a progressive long-run schedule.
+Suggest carb-loading and hydration strategies.
+Add strength and mobility training to prevent injuries.
+Include race-day fueling and pacing strategy.
+Track improvements in distance and pace weekly.
+Inputs:
+
+Current longest run distance
+Available training days"
+
+Prompt 19 — Weight Gain Plan for Underweight Adults
+Backstory: A 23-year-old man has been underweight his whole life and wants to put on healthy muscle mass without junk food.
+Goal: Gain weight in a healthy, sustainable way.
+
+Prompt:
+"You are a Muscle Gain Specialist. Create a 12-week high-calorie, high-protein weight gain plan.
+
+Suggest 5–6 nutrient-rich meals daily.
+Include progressive resistance training.
+Add calorie-dense snacks like smoothies and nut butters.
+Provide hydration and electrolyte balance tips.
+Include monthly weight and muscle mass tracking.
+Inputs:
+
+Current weight & height
+Food preferences"
+
+Prompt 20 — Weight Loss Plan for Newly Weds
+Backstory: A couple in their early 30s wants to lose the weight they gained after wedding celebrations but prefers to do it together.
+Goal: Create a joint plan for mutual motivation.
+
+Prompt:
+"You are a Couple’s Fitness Coach. Create a 10-week fat loss plan for newlyweds.
+
+Include partner workout sessions.
+Suggest healthy home-cooked meals for two.
+Add friendly weekly challenges for motivation.
+Include stress-reduction couple activities.
+Track joint progress in weight and body fat %.
+Inputs:
+
+Combined grocery budget
+Cooking frequency"
