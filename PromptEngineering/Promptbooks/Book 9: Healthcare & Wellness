@@ -2472,162 +2472,247 @@ Inputs:
 2. Cooking frequency"
 
 Prompt 21 — Office-Friendly Meal & Fitness Plan
+
 Backstory: A 30-year-old accountant spends 9 hours at a desk and struggles with junk food temptations at work.
+
 Goal: Improve diet adherence and add light activity during office hours.
 
 Prompt:
+
 "You are a Workplace Wellness Advisor. Design an 8-week office-friendly nutrition and activity plan.
 
-Suggest lunchbox ideas that stay fresh.
-Add desk-based mobility stretches.
-Include healthy snack swaps for common junk foods.
-Provide weekly walking step goals.
-Create a calendar-based progress tracker.
+1. Suggest lunchbox ideas that stay fresh.
+
+2. Add desk-based mobility stretches.
+
+3. Include healthy snack swaps for common junk foods.
+
+4. Provide weekly walking step goals.
+
+5. Create a calendar-based progress tracker.
+
 Inputs:
 
-Office pantry facilities
-Daily commute duration"
+1. Office pantry facilities
+
+2. Daily commute duration"
 
 Prompt 22 — Anti-Aging Diet & Exercise Plan
+
 Backstory: A 35-year-old woman wants to maintain youthful skin, bone health, and vitality as she ages.
+
 Goal: Slow down aging signs through diet, exercise, and lifestyle changes.
 
 Prompt:
+
 "You are an Anti-Aging Lifestyle Coach. Create a 12-week vitality and longevity program.
 
-Suggest antioxidant-rich foods.
-Include strength training for bone density.
-Add flexibility and mobility sessions.
-Recommend skincare routines tied to nutrition.
-Track progress in skin health, energy, and fitness.
+1. Suggest antioxidant-rich foods.
+
+2. Include strength training for bone density.
+
+3. Add flexibility and mobility sessions.
+
+4. Recommend skincare routines tied to nutrition.
+
+5. Track progress in skin health, energy, and fitness.
+
 Inputs:
 
-Skin concerns
-Current fitness level"
+1. Skin concerns
+
+2. Current fitness level"
 
 Prompt 23 — Stress-Relief Fitness & Nutrition Program
+
 Backstory: A 28-year-old IT professional is experiencing burnout and wants a holistic plan to improve mood and reduce stress.
+
 Goal: Use diet, exercise, and relaxation to lower stress levels.
 
 Prompt:
+
 "You are a Mind-Body Wellness Coach. Create an 8-week stress-relief program.
 
-Include mood-boosting foods like omega-3 rich meals.
-Suggest yoga and meditation routines.
-Add light to moderate exercise for endorphin release.
-Provide daily journaling prompts.
-Include weekly self-care challenges.
+1. Include mood-boosting foods like omega-3 rich meals.
+
+2. Suggest yoga and meditation routines.
+
+3. Add light to moderate exercise for endorphin release.
+
+4. Provide daily journaling prompts.
+
+5. Include weekly self-care challenges.
+
 Inputs:
 
-Current stress triggers
-Sleep quality score"
+1. Current stress triggers
+
+2. Sleep quality score"
 
 Prompt 24 — Seasonal Diet & Workout Adjustments
+
 Backstory: A 31-year-old wants to optimize their diet and exercise according to seasonal changes in India (summer, monsoon, winter).
+
 Goal: Adapt nutrition and workouts to seasonal climate.
 
 Prompt:
+
 "You are a Seasonal Health Expert. Create a 12-month rotating fitness and diet plan.
 
-Suggest seasonal foods rich in immunity-boosting nutrients.
-Adjust workout intensity based on temperature/humidity.
-Include seasonal hydration tips.
-Add seasonal mental wellness activities.
-Provide a printable seasonal health calendar.
+1. Suggest seasonal foods rich in immunity-boosting nutrients.
+
+2. Adjust workout intensity based on temperature/humidity.
+
+3. Include seasonal hydration tips.
+
+4. Add seasonal mental wellness activities.
+
+5. Provide a printable seasonal health calendar.
+
 Inputs:
 
-Location in India
-Seasonal health challenges"
+1. Location in India
+
+2. Seasonal health challenges"
 
 Prompt 25 — Festival Season Weight Management Plan
+
 Backstory: A 30-year-old wants to enjoy Indian festivals without gaining excessive weight from sweets and feasts.
+
 Goal: Maintain weight while still enjoying celebrations.
 
 Prompt:
+
 "You are a Festive Wellness Coach. Create a 6-week plan for festival seasons.
 
-Suggest portion-controlled festive meals.
-Add extra activity sessions before and after big feasts.
-Include low-calorie versions of traditional sweets.
-Provide hydration reminders during celebrations.
-Include a ‘post-festival detox’ week.
+1. Suggest portion-controlled festive meals.
+
+2. Add extra activity sessions before and after big feasts.
+
+3. Include low-calorie versions of traditional sweets.
+
+4. Provide hydration reminders during celebrations.
+
+5. Include a ‘post-festival detox’ week.
+
 Inputs:
 
-Upcoming festivals
-Favorite festive foods"
+1. Upcoming festivals
+
+2. Favorite festive foods"
 
 
 Social media health awareness posts
 
 Prompt 1 - Busting Common Fitness Myths
+
 Backstory:
+
 You have a 26-year-old content creator who wants to run a month-long Instagram series to bust common health and fitness myths popular among young Indians — like “carbs make you fat” or “lifting weights makes women bulky.” The audience is mostly urban, health-conscious, but confused by conflicting advice online.
 
 Goal:
+
 Create short, engaging, and scientifically accurate myth-busting posts for social media.
 
 Prompt:
+
 "You are a certified fitness trainer and content marketer. Create 10 Instagram carousel post scripts busting popular fitness myths among young Indians.
+
 For each myth:
 
-Provide the myth as the title.
-Write 2–3 short, engaging sentences explaining why it’s false (science-backed).
-Add a relatable example from daily life in India.
-End with a simple actionable tip.
-Make the tone friendly, motivational, and easy for non-experts to understand."
+1. Provide the myth as the title.
+
+2. Write 2–3 short, engaging sentences explaining why it’s false (science-backed).
+
+3. Add a relatable example from daily life in India.
+
+4. End with a simple actionable tip.
+
+5. Make the tone friendly, motivational, and easy for non-experts to understand."
+
 Inputs Required:
 
-List of myths to be addressed
-Target platform (Instagram/Facebook)
-Preferred content style (informal/formal)
-Target audience details (age, gender mix, fitness level)
+1. List of myths to be addressed
+
+2. Target platform (Instagram/Facebook)
+
+3. Preferred content style (informal/formal)
+
+4. Target audience details (age, gender mix, fitness level)
 
 Prompt 2 - Mental Health Monday Series
+
 Backstory:
+
 You have a 30-year-old mental health advocate who runs a community page for young professionals struggling with stress, anxiety, and burnout. They want weekly “Mental Health Monday” posts offering practical tips that can be read in under 60 seconds.
 
 Goal:
+
 Generate 12 short, relatable, and visually appealing mental health tips.
 
 Prompt:
+
 "You are a clinical psychologist and copywriter. Create 12 'Mental Health Monday' posts for social media aimed at 20–35-year-old Indian professionals.
+
 For each post:
 
-Start with a hook statement (1 line).
-Share 1 quick, practical mental health tip.
-Include a 1–2 line explanation of why it works (science-based).
-End with a simple call-to-action like ‘Try this today’.
-Make it conversational, inclusive, and stigma-free."
+1. Start with a hook statement (1 line).
+
+2. Share 1 quick, practical mental health tip.
+
+3. Include a 1–2 line explanation of why it works (science-based).
+
+4. End with a simple call-to-action like ‘Try this today’.
+
+5. Make it conversational, inclusive, and stigma-free."
+
 Inputs Required:
 
-Specific mental health focus areas (stress, anxiety, burnout, etc.)
-Preferred visual style (carousel, reels, static post)
-Frequency of posting
-Target audience characteristics
+1. Specific mental health focus areas (stress, anxiety, burnout, etc.)
+
+2. Preferred visual style (carousel, reels, static post)
+
+3. Frequency of posting
+
+4. Target audience characteristics
 
 Prompt 3 - Healthy Indian Breakfast Ideas
+
 Backstory:
+
 You have a 24-year-old nutritionist who wants to create a series of posts showing quick, healthy, and budget-friendly Indian breakfast options for college students and young working professionals.
 
 Goal:
+
 Generate 15 breakfast ideas with recipes, nutrition details, and appealing captions.
 
 Prompt:
+
 "You are a certified nutritionist and social media strategist. Create 15 healthy Indian breakfast post ideas for young adults on a budget.
+
 For each post:
 
-Name of the breakfast item.
-Quick recipe (under 15 minutes).
-Calorie count and macronutrient breakdown.
-1-line benefit for health.
-Short, catchy Instagram caption.
-Keep the tone casual and inspiring."
+1. Name of the breakfast item.
+
+2. Quick recipe (under 15 minutes).
+
+3. Calorie count and macronutrient breakdown.
+
+4. 1-line benefit for health.
+
+5. Short, catchy Instagram caption.
+
+6. Keep the tone casual and inspiring."
+
 Inputs Required:
 
-Dietary preferences (veg, non-veg, vegan)
-Maximum prep time per recipe
-Target calorie range
-Audience cooking skill level
+1. Dietary preferences (veg, non-veg, vegan)
+
+2. Maximum prep time per recipe
+
+3. Target calorie range
+
+4. Audience cooking skill level
 
 Prompt 4 -  Workout at Home Challenges
 Backstory:
