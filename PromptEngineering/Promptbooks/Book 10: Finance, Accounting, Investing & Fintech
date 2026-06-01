@@ -2160,6 +2160,7 @@ Inputs Required:
 4. Planned investment details
 
 Prompt 20 — GST Composition Scheme Evaluation
+
 Backstory:
 
 A 27-year-old cafe owner in Jaipur has an annual turnover of ₹65 lakhs and is considering switching from the regular GST scheme to the composition scheme to simplify compliance. However, he’s unsure if it will be financially beneficial, especially since he won’t be able to claim ITC.
@@ -2174,55 +2175,80 @@ Prompt:
 
 Include: 
 
-Tax liability under both schemes 
-Compliance requirements for each 
-Pros and cons based on business nature and supplier type"
+1. Tax liability under both schemes 
+
+2. Compliance requirements for each 
+
+3. Pros and cons based on business nature and supplier type"
+
 Inputs Required: 
 
-Annual turnover 
-Percentage of purchases with GST 
-Industry type (goods/services)
+1. Annual turnover 
+
+2. Percentage of purchases with GST 
+
+3. Industry type (goods/services)
 
 Prompt 21 — Section 80G Donation Deduction Planner
+
 Backstory:
+
 A 25-year-old corporate employee in Gurgaon regularly donates to NGOs but is unaware of the deduction limits under Section 80G. She wants to know how much of her donations are eligible for a 50% or 100% deduction and how to structure her donations for maximum tax benefit.
 
 Goal:
+
 Optimize donation amounts for maximum 80G tax deduction.
 
 Prompt:
+
 "You are a charitable tax benefit consultant. For the given donations, calculate total eligible deduction under Section 80G.
+
 Include:
 
-Classification of donations (50%/100% with/without restriction)
-Maximum claimable deduction based on gross total income
-Suggested donation structuring for next year"
+1. Classification of donations (50%/100% with/without restriction)
+
+2. Maximum claimable deduction based on gross total income
+
+3. Suggested donation structuring for next year"
+
 Inputs Required:
 
-List of donations with NGO name, amount, and registration status
-Annual gross total income
+1. List of donations with NGO name, amount, and registration status
+
+2. Annual gross total income
 
 Prompt 22 — GST ITC Reconciliation with GSTR-2B
+
 Backstory:
+
 A 29-year-old electronics retailer in Delhi files GST returns monthly but often faces ITC mismatches because suppliers upload invoices late. She wants an automated process to reconcile ITC claimed in her books with ITC available in GSTR-2B.
 
 Goal:
+
 Create a monthly GST ITC reconciliation workflow.
 
 Prompt:
+
 "You are a GST reconciliation expert. Develop a monthly process to match ITC in purchase register with GSTR-2B data.
+
 Include:
 
-Identifying mismatched invoices
-Communicating with suppliers for corrections
-Updating ITC claims before filing GSTR-3B"
+1. Identifying mismatched invoices
+
+2. Communicating with suppliers for corrections
+
+3. Updating ITC claims before filing GSTR-3B"
+
 Inputs Required:
 
-Purchase register for the month
-GSTR-2B download from portal
-Supplier list and contact details
+1. Purchase register for the month
+
+2. GSTR-2B download from portal
+
+3. Supplier list and contact details
 
 Prompt 23 — Salary Structure Optimization for Tax Savings
+
 Backstory:
 
 A 30-year-old sales manager in Bengaluru receives a fixed CTC but can request changes to salary components during annual appraisal. He wants to restructure his salary to reduce taxable income — possibly adding meal vouchers, LTA, or higher HRA — without reducing in-hand pay.
@@ -2237,16 +2263,22 @@ Prompt:
 
 Include: 
 
-Allowances and reimbursements with tax benefits 
-Revised gross and taxable salary comparison 
-Justification for each change"
+1. Allowances and reimbursements with tax benefits 
+
+2. Revised gross and taxable salary comparison 
+
+3. Justification for each change"
+
 Inputs Required: 
 
-Current salary structure with components 
-Living city (metro/non-metro) 
-Eligible reimbursements from employer policy
+1. Current salary structure with components 
+
+2. Living city (metro/non-metro) 
+
+3. Eligible reimbursements from employer policy
 
 Prompt 24 — GST Refund Claim for Exporters
+
 Backstory:
 
 A 28-year-old handicraft exporter in Jaipur ships products to Europe and the US. She pays GST on raw material purchases but exports goods without charging GST (zero-rated supplies). She wants to claim a refund of accumulated ITC quickly and without errors.
@@ -2261,57 +2293,123 @@ Prompt:
 
 Include: 
 
-Preparing required documentation 
-Filing refund application on GST portal 
-Common mistakes to avoid"
+1. Preparing required documentation 
+
+2. Filing refund application on GST portal 
+
+3. Common mistakes to avoid"
+
 Inputs Required: 
 
-Purchase invoices with GST paid 
-Export invoices and shipping bills 
-Bank realization certificates
+1. Purchase invoices with GST paid 
+
+2. Export invoices and shipping bills 
+
+3. Bank realization certificates
 
 Prompt 25 — Pre-Filing Personal Tax Health Check
+
 Backstory:
+
 A 33-year-old HR manager in Pune files her taxes every July but often scrambles last minute to collect documents, leading to missed deductions. She wants a “tax health check” 3 months before filing to prepare everything in advance.
 
 Goal:
+
 Create a pre-filing personal tax readiness checklist.
 
 Prompt:
+
 "You are a personal tax consultant. Prepare a pre-filing tax readiness checklist for salaried individuals.
+
 Include:
 
-Collecting Form 16, 26AS, and AIS
-Reviewing investment proofs
-Listing all deduction documents
-Cross-checking income sources"
+1. Collecting Form 16, 26AS, and AIS
+
+2. Reviewing investment proofs
+
+3. Listing all deduction documents
+
+4. Cross-checking income sources"
+
 Inputs Required:
 
-Salary structure
-List of deductions claimed
-Investment and insurance documents
+1. Salary structure
+
+2. List of deductions claimed
+
+3. Investment and insurance documents
+
 
 Financial reporting templates
 
 Prompt 1 — Monthly Profit & Loss Report for Startup
+
 Backstory:
+
 A 27-year-old founder in Bengaluru runs a food delivery cloud kitchen. She receives payments from Swiggy, Zomato, and direct orders, while paying for rent, salaries, raw materials, and delivery partners. At month-end, she struggles to put together a P&L because income comes in different formats and expenses are logged inconsistently. She wants a standardized monthly P&L report to track growth and investor readiness.
 
 Goal:
+
 Create a clean, standardized monthly profit and loss report for a small business.
 
 Prompt:
+
 "You are a startup finance analyst. Prepare a monthly P&L report in Excel format.
+
 Include:
 
-Revenue split by channel (Swiggy, Zomato, direct orders)
-COGS calculation (raw materials, packaging)
-Operating expenses (rent, salaries, utilities)
-Net profit/loss calculation
-Month-over-month percentage change"
+1. Revenue split by channel (Swiggy, Zomato, direct orders)
+
+2. COGS calculation (raw materials, packaging)
+
+3. Operating expenses (rent, salaries, utilities)
+
+4. Net profit/loss calculation
+
+5. Month-over-month percentage change"
+
 Inputs Required:
 
-Monthly sales data by channel
-List of expenses with amounts
-Previous month’s P&L for comparison
-GST-inclusive or exclusive figures
+1. Monthly sales data by channel
+
+2. List of expenses with amounts
+
+3. Previous month’s P&L for comparison
+
+4. GST-inclusive or exclusive figures
+
+Prompt 2 — Cash Flow Statement for Freelancers
+
+Backstory:
+
+A 29-year-old freelance UI/UX designer in Pune receives payments from clients in India and abroad, often months apart. She sometimes faces cash shortages because her expense planning isn’t aligned with irregular income. She wants a monthly cash flow statement showing inflows, outflows, and projected balances to plan better.
+
+Goal:
+
+Prepare a monthly cash flow statement with projections.
+
+Prompt:
+
+"You are a personal finance tracker. Prepare a cash flow statement for the freelancer.
+
+Include:
+
+1. Total cash inflows by source
+
+2. Total cash outflows by category (software subscriptions, rent, marketing)
+
+3. Net cash flow (surplus/deficit)
+
+4. Projected cash position for next 3 months"
+
+Inputs Required:
+
+1. Monthly income by source
+
+2. Monthly expenses by category
+
+3. Outstanding client invoices with due dates
+
+4. Expected large future expenses
+
+
