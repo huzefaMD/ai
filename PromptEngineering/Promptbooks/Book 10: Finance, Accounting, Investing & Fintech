@@ -2158,3 +2158,160 @@ Inputs Required:
 3. Current property ownership status
 
 4. Planned investment details
+
+Prompt 20 — GST Composition Scheme Evaluation
+Backstory:
+
+A 27-year-old cafe owner in Jaipur has an annual turnover of ₹65 lakhs and is considering switching from the regular GST scheme to the composition scheme to simplify compliance. However, he’s unsure if it will be financially beneficial, especially since he won’t be able to claim ITC.
+
+Goal:
+
+Compare regular GST vs. composition scheme and suggest the best choice.
+
+Prompt:
+
+"You are a GST advisor. Evaluate whether the composition scheme is beneficial for the business.
+
+Include: 
+
+Tax liability under both schemes 
+Compliance requirements for each 
+Pros and cons based on business nature and supplier type"
+Inputs Required: 
+
+Annual turnover 
+Percentage of purchases with GST 
+Industry type (goods/services)
+
+Prompt 21 — Section 80G Donation Deduction Planner
+Backstory:
+A 25-year-old corporate employee in Gurgaon regularly donates to NGOs but is unaware of the deduction limits under Section 80G. She wants to know how much of her donations are eligible for a 50% or 100% deduction and how to structure her donations for maximum tax benefit.
+
+Goal:
+Optimize donation amounts for maximum 80G tax deduction.
+
+Prompt:
+"You are a charitable tax benefit consultant. For the given donations, calculate total eligible deduction under Section 80G.
+Include:
+
+Classification of donations (50%/100% with/without restriction)
+Maximum claimable deduction based on gross total income
+Suggested donation structuring for next year"
+Inputs Required:
+
+List of donations with NGO name, amount, and registration status
+Annual gross total income
+
+Prompt 22 — GST ITC Reconciliation with GSTR-2B
+Backstory:
+A 29-year-old electronics retailer in Delhi files GST returns monthly but often faces ITC mismatches because suppliers upload invoices late. She wants an automated process to reconcile ITC claimed in her books with ITC available in GSTR-2B.
+
+Goal:
+Create a monthly GST ITC reconciliation workflow.
+
+Prompt:
+"You are a GST reconciliation expert. Develop a monthly process to match ITC in purchase register with GSTR-2B data.
+Include:
+
+Identifying mismatched invoices
+Communicating with suppliers for corrections
+Updating ITC claims before filing GSTR-3B"
+Inputs Required:
+
+Purchase register for the month
+GSTR-2B download from portal
+Supplier list and contact details
+
+Prompt 23 — Salary Structure Optimization for Tax Savings
+Backstory:
+
+A 30-year-old sales manager in Bengaluru receives a fixed CTC but can request changes to salary components during annual appraisal. He wants to restructure his salary to reduce taxable income — possibly adding meal vouchers, LTA, or higher HRA — without reducing in-hand pay.
+
+Goal:
+
+Design a tax-optimized salary structure.
+
+Prompt:
+
+"You are a payroll tax planner. Suggest changes to salary components to reduce taxable income without lowering net pay.
+
+Include: 
+
+Allowances and reimbursements with tax benefits 
+Revised gross and taxable salary comparison 
+Justification for each change"
+Inputs Required: 
+
+Current salary structure with components 
+Living city (metro/non-metro) 
+Eligible reimbursements from employer policy
+
+Prompt 24 — GST Refund Claim for Exporters
+Backstory:
+
+A 28-year-old handicraft exporter in Jaipur ships products to Europe and the US. She pays GST on raw material purchases but exports goods without charging GST (zero-rated supplies). She wants to claim a refund of accumulated ITC quickly and without errors.
+
+Goal:
+
+Guide through GST refund claim for exporters.
+
+Prompt:
+
+"You are a GST export compliance advisor. Create a step-by-step guide to claim refund of unutilized ITC for exports.
+
+Include: 
+
+Preparing required documentation 
+Filing refund application on GST portal 
+Common mistakes to avoid"
+Inputs Required: 
+
+Purchase invoices with GST paid 
+Export invoices and shipping bills 
+Bank realization certificates
+
+Prompt 25 — Pre-Filing Personal Tax Health Check
+Backstory:
+A 33-year-old HR manager in Pune files her taxes every July but often scrambles last minute to collect documents, leading to missed deductions. She wants a “tax health check” 3 months before filing to prepare everything in advance.
+
+Goal:
+Create a pre-filing personal tax readiness checklist.
+
+Prompt:
+"You are a personal tax consultant. Prepare a pre-filing tax readiness checklist for salaried individuals.
+Include:
+
+Collecting Form 16, 26AS, and AIS
+Reviewing investment proofs
+Listing all deduction documents
+Cross-checking income sources"
+Inputs Required:
+
+Salary structure
+List of deductions claimed
+Investment and insurance documents
+
+Financial reporting templates
+
+Prompt 1 — Monthly Profit & Loss Report for Startup
+Backstory:
+A 27-year-old founder in Bengaluru runs a food delivery cloud kitchen. She receives payments from Swiggy, Zomato, and direct orders, while paying for rent, salaries, raw materials, and delivery partners. At month-end, she struggles to put together a P&L because income comes in different formats and expenses are logged inconsistently. She wants a standardized monthly P&L report to track growth and investor readiness.
+
+Goal:
+Create a clean, standardized monthly profit and loss report for a small business.
+
+Prompt:
+"You are a startup finance analyst. Prepare a monthly P&L report in Excel format.
+Include:
+
+Revenue split by channel (Swiggy, Zomato, direct orders)
+COGS calculation (raw materials, packaging)
+Operating expenses (rent, salaries, utilities)
+Net profit/loss calculation
+Month-over-month percentage change"
+Inputs Required:
+
+Monthly sales data by channel
+List of expenses with amounts
+Previous month’s P&L for comparison
+GST-inclusive or exclusive figures
