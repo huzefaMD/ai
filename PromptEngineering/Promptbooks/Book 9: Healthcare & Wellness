@@ -1974,3 +1974,161 @@ Inputs:
 2. Any food allergies
 
 3. Current fitness level"
+
+Prompt 2 — Muscle Gain Program for Beginners
+Backstory: A 24-year-old college student has joined the gym for the first time and wants to build lean muscle mass. They have a fast metabolism and struggle to gain weight.
+
+Goal: Create a structured muscle gain plan with diet and workouts.
+
+Prompt:
+
+"You are a Strength & Conditioning Coach. Prepare a 3-month lean muscle gain program for a beginner with high metabolism. 
+
+Set daily calorie surplus and protein target. 
+Suggest 5 simple high-protein meals with Indian options. 
+Create a gym workout split focusing on compound lifts. 
+Include rest and recovery guidelines. 
+Provide weekly adjustment recommendations based on progress.
+Inputs: 
+
+Current body weight 
+Gym equipment availability"
+
+Prompt 3 — PCOS-Friendly Diet & Exercise Plan
+Backstory: A 30-year-old woman with PCOS is struggling with weight gain, irregular cycles, and low energy. She wants a plan that’s realistic for a busy work schedule.
+Goal: Improve hormonal balance while aiding weight loss.
+
+Prompt:
+"You are a Women’s Health Nutritionist. Design a PCOS-friendly 8-week diet and exercise program.
+
+Avoid high-GI foods and processed sugar.
+Suggest 3 main meals and 2 snacks daily.
+Recommend 30-minute workouts 4 times a week.
+Include stress management techniques like yoga or meditation.
+Track progress with monthly cycle logs and weight checks.
+Inputs:
+
+Height & weight
+Activity level
+Medical history"
+
+Prompt 4 — Home Workout & Diet Plan for Busy Professionals
+Backstory: A 35-year-old corporate employee works long hours and travels frequently, making it hard to commit to the gym. They want a home-based plan with minimal equipment.
+Goal: Improve fitness without disrupting their work schedule.
+
+Prompt:
+"You are a Corporate Wellness Coach. Create a 10-week home fitness and nutrition program for a busy professional.
+
+Provide 20–30 minute workout routines with resistance bands and bodyweight exercises.
+Suggest quick, travel-friendly healthy meals.
+Include hydration and sleep improvement tips.
+Add stress-reducing techniques for work-life balance.
+Create a progress tracker for workouts and diet adherence.
+Inputs:
+
+Current fitness level
+Equipment owned"
+
+Prompt 5 — Diabetic-Friendly Diet & Exercise Plan
+Backstory: A 32-year-old man recently diagnosed with type 2 diabetes wants to control blood sugar through diet and exercise, avoiding medication if possible.
+Goal: Stabilize blood sugar while improving overall fitness.
+
+Prompt:
+"You are a Clinical Dietitian & Fitness Specialist. Design a diabetic-friendly lifestyle plan for a newly diagnosed patient.
+
+Set low-GI meal plans with portion control.
+Include morning and evening walks with light resistance training.
+Suggest natural foods that help manage blood sugar.
+Add stress management methods like breathing exercises.
+Include a daily log for blood sugar, meals, and activity.
+Inputs:
+
+Age & weight
+Fasting blood sugar level"
+
+Prompt 6 — Bridal Fitness & Diet Program
+Backstory: A 27-year-old bride-to-be wants to look toned and radiant for her wedding in 4 months. She has no prior workout experience but is highly motivated.
+Goal: Achieve visible toning, healthy skin, and high energy for the wedding.
+
+Prompt:
+"You are a Bridal Transformation Specialist. Create a 16-week bridal fitness & diet program.
+
+Include a gradual workout progression from beginner to intermediate level.
+Suggest anti-inflammatory and skin-friendly foods.
+Include hydration and sleep tips for skin glow.
+Add yoga/stretching sessions to reduce stress.
+Create a photo-progress tracker for motivation.
+Inputs:
+
+Height & weight
+Wedding date"
+
+Prompt 7 — Postpartum Weight Loss & Recovery Plan
+Backstory: A 30-year-old new mother wants to safely lose weight after childbirth while maintaining energy for breastfeeding and childcare.
+Goal: Support recovery and gradual fat loss without harming milk supply.
+
+Prompt:
+"You are a Postnatal Fitness & Nutrition Coach. Design a 12-week postpartum recovery plan.
+
+Include pelvic floor and core strengthening exercises.
+Suggest nutrient-dense meals for lactation support.
+Avoid intense calorie deficits.
+Add self-care and stress-reduction practices.
+Provide weekly energy and mood check-ins.
+Inputs:
+
+Delivery type (normal/C-section)
+Breastfeeding status"
+
+Prompt 8 — Fat Loss Plan for Men with Sedentary Jobs
+Backstory: A 34-year-old software developer works 10 hours/day on a computer, has gained belly fat, and feels lethargic.
+
+Goal: Lose fat while maintaining muscle.
+
+Prompt:
+
+"You are a Weight Loss Specialist for Desk Jobs. Create a 10-week fat loss program for a sedentary male. 
+
+Include short, desk-friendly stretches and mobility drills. 
+Suggest low-calorie, high-protein meal options. 
+Add weekend outdoor activity challenges. 
+Include posture correction exercises. 
+Provide a daily hydration & step count goal.
+Inputs: 
+
+Current weight & height 
+Work-from-home or office"
+
+Prompt 9 — Athlete’s Seasonal Training & Nutrition Plan
+Backstory: A 22-year-old semi-professional cricket player is in the off-season and wants to focus on strength building and recovery.
+Goal: Enhance performance before the competitive season starts.
+
+Prompt:
+"You are a Sports Performance Coach. Develop a 12-week off-season program for a cricket athlete.
+
+Include strength training cycles with progressive overload.
+Suggest high-energy meals for muscle growth.
+Add mobility and flexibility work to prevent injuries.
+Include active recovery days.
+Provide a performance testing schedule.
+Inputs:
+
+Playing position
+Training facilities available"
+
+Prompt 10 — Keto Diet with Indian Foods
+Backstory: A 29-year-old woman wants to try a ketogenic diet but is concerned about adapting it to Indian vegetarian cuisine.
+Goal: Achieve ketosis while keeping meals culturally familiar.
+
+Prompt:
+"You are a Low-Carb Diet Expert. Create a 6-week vegetarian keto diet plan using Indian recipes.
+
+Include daily carb limits and macronutrient breakdown.
+Suggest keto-friendly substitutes for common Indian foods.
+Provide simple, easy-to-cook meal ideas.
+Add a list of allowed and restricted foods.
+Include weekly urine/blood ketone testing guidelines.
+Inputs:
+
+Current weight
+Any food intolerances"
