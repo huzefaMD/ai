@@ -1970,88 +1970,131 @@ Inputs Required:
 3. CII (Cost Inflation Index) for relevant years
 
 Prompt 14 — GST Reverse Charge Mechanism Compliance
+
 Backstory:
+
 A 30-year-old event manager in Bengaluru hires foreign artists for shows in India. She wants to ensure proper GST payment under the reverse charge mechanism (RCM).
 
 Goal:
+
 Create a compliance guide for GST RCM payments.
 
 Prompt:
+
 "You are a GST compliance trainer. Prepare an RCM payment guide for services from foreign suppliers.
+
 Include:
 
-Identifying RCM applicability
-GST payment process under RCM
-Reporting in GSTR-3B"
+1. Identifying RCM applicability
+
+2. GST payment process under RCM
+
+3. Reporting in GSTR-3B"
+
 Inputs Required:
 
-Nature of imported service
-Contract/payment details
-GST registration type
+1. Nature of imported service
+
+2. Contract/payment details
+
+3. GST registration type
 
 Prompt 15 — Professional Tax Calculation
+
 Backstory:
+
 A 25-year-old designer in Mumbai works for a private firm and earns ₹45,000/month. She wants to know her monthly professional tax deduction and annual liability.
 
 Goal:
+
 Calculate professional tax payable.
 
 Prompt:
+
 "You are a payroll tax advisor. Calculate monthly and annual professional tax for Maharashtra.
+
 Include:
 
-Applicable slab rate
-Annual total payable"
+1. Applicable slab rate
+
+2. Annual total payable"
+
 Inputs Required:
 
-Monthly salary
-State of employment
+1. Monthly salary
+
+2. State of employment
 
 Prompt 16 — Tax Planning for First-Time Home Buyer
+
 Backstory:
+
 A 30-year-old banking professional from Hyderabad has just booked her first apartment worth ₹55 lakhs, with a home loan sanctioned for 80% of the value. She is aware that there are multiple tax benefits under Section 24(b) for interest payment and Section 80C for principal repayment, but she’s unsure how to maximize these in the first year since her EMIs start mid-year. She wants a clear, optimized plan to ensure no eligible deduction is missed.
 
 Goal:
+
 Prepare a year-wise tax benefit plan for a first-time home buyer.
 
 Prompt:
+
 "You are a housing loan tax specialist. For the given home loan details, prepare a plan to maximize deductions in the current and following years.
+
 Include:
 
-Deduction under Section 80C for principal repayment
-Deduction under Section 24(b) for interest paid
-First-time buyer benefits under Section 80EEA (if eligible)
-Tips to align EMI start date and pre-EMI interest for better deductions"
+1. Deduction under Section 80C for principal repayment
+
+2. Deduction under Section 24(b) for interest paid
+
+3. First-time buyer benefits under Section 80EEA (if eligible)
+
+4. Tips to align EMI start date and pre-EMI interest for better deductions"
+
 Inputs Required:
 
-Home loan sanction letter with EMI start date
-Loan amount, tenure, and interest rate
-Date of possession/registration
-Annual income and tax regime
+1. Home loan sanction letter with EMI start date
+
+2. Loan amount, tenure, and interest rate
+
+3. Date of possession/registration
+
+4. Annual income and tax regime
 
 Prompt 17 — NRI Tax Compliance Checklist
+
 Backstory:
+
 A 33-year-old software engineer from Bengaluru is currently working in Singapore but has investments in Indian FDs, mutual funds, and an apartment rented out in India. She files her taxes from abroad but often misses details about DTAA benefits, repatriation rules, and rental income TDS compliance. She needs a consolidated annual checklist to ensure she meets all NRI tax obligations without penalties.
 
 Goal:
+
 Create a comprehensive tax compliance checklist for NRIs with Indian income.
 
 Prompt:
+
 "You are an NRI taxation consultant. Prepare a checklist for annual tax compliance for an NRI with Indian investments.
+
 Include:
 
-DTAA applicability and claiming benefits
-Reporting and paying tax on rental income
-Capital gains tax on Indian asset sales
-Repatriation and FEMA compliance"
+1. DTAA applicability and claiming benefits
+
+2. Reporting and paying tax on rental income
+
+3. Capital gains tax on Indian asset sales
+
+4. Repatriation and FEMA compliance"
+
 Inputs Required:
 
-Country of residence
-List of Indian income sources
-Details of property ownership and tenants
-Any recent asset sales
+1. Country of residence
+
+2. List of Indian income sources
+
+3. Details of property ownership and tenants
+
+4. Any recent asset sales
 
 Prompt 18 — GST Compliance Calendar for Startups
+
 Backstory:
 
 A 26-year-old founder of a D2C skincare startup in Mumbai is newly GST-registered and unsure about filing timelines, advance tax due dates, and annual compliance requirements. She needs a startup-friendly GST + tax compliance calendar that her team can follow to avoid missing deadlines.
@@ -2066,34 +2109,52 @@ Prompt:
 
 Include: 
 
-Monthly/quarterly GST filing dates 
-Advance tax payment dates 
-Annual return filing deadlines 
-Audit requirements if turnover exceeds limits"
+1. Monthly/quarterly GST filing dates 
+
+2. Advance tax payment dates 
+
+3. Annual return filing deadlines 
+
+4. Audit requirements if turnover exceeds limits"
+
 Inputs Required: 
 
-GST registration type (monthly/quarterly) 
-Startup turnover projection 
-Company incorporation date
+1. GST registration type (monthly/quarterly) 
+
+2. Startup turnover projection 
+
+3. Company incorporation date
 
 Prompt 19 —  Capital Gains Exemption Planning (54/54F)
+
 Backstory:
+
 A 32-year-old doctor in Pune recently sold a piece of inherited land and made a long-term capital gain of ₹35 lakhs. She wants to invest the amount in a new residential property but is confused about which section — 54 or 54F — will give her maximum exemption. She also wants guidance on timelines and documentation to avoid losing the exemption claim.
 
 Goal:
+
 Advise on the best exemption strategy for reinvesting capital gains.
 
 Prompt:
+
 "You are a capital gains tax planner. Recommend the best section (54/54F) for claiming exemption on sale of property.
+
 Include:
 
-Eligibility criteria for each section
-Maximum exemption available
-Investment timelines and conditions
-Documentation required"
+1. Eligibility criteria for each section
+
+2. Maximum exemption available
+
+3. Investment timelines and conditions
+
+4. Documentation required"
+
 Inputs Required:
 
-Sale deed details (date, amount)
-Type of asset sold
-Current property ownership status
-Planned investment details
+1. Sale deed details (date, amount)
+
+2. Type of asset sold
+
+3. Current property ownership status
+
+4. Planned investment details
