@@ -1,5 +1,5 @@
 # BOQ preparation & estimation
-
+                         
 ## Prompt 1 — Residential Building BOQ Preparation
 
 `Backstory: You are bidding for a mid-sized residential apartment construction project in Pune. The client has provided architectural drawings, but there’s no BOQ. You need to create a detailed BOQ covering civil works, electrical, plumbing, and finishing. Accuracy is critical because overestimation will lose you the contract, and underestimation will cause losses during execution.`
@@ -2967,10 +2967,11 @@ Tasks:
 
 `Goal: Verify readiness for fire safety certification.`   
 
-Prompt:
+`Prompt:`
 
-"You are a Fire Safety Compliance Auditor. Conduct a readiness audit for a manufacturing facility.
+`"You are a Fire Safety Compliance Auditor. Conduct a readiness audit for a manufacturing facility.`
 
+```
 Tasks:
 
 1. Inspect fire hydrant and sprinkler system installation.
@@ -2982,33 +2983,34 @@ Tasks:
 4. Review fire drill records and staff training.
 
 5. Ensure NFPA 10 and NBC compliance.
-
-Output format:
-
+```
+`Output format:`
+```
 1. Fire Safety Readiness Report (PDF)
 
 2. Non-Compliance Rectification Plan (Excel)
 
 3. Equipment Inventory List (Excel)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Facility fire safety design drawings
 
 2. Maintenance logs for fire equipment
 
 3. Local fire safety regulations."
+```
+## Prompt 11 — Post-Accident Safety Investigation
 
-Prompt 11 — Post-Accident Safety Investigation
+`Backstory: At a metro tunnel construction site in Delhi, a worker injury occurred due to falling debris. The incident triggered a government-mandated safety investigation.`
 
-Backstory: At a metro tunnel construction site in Delhi, a worker injury occurred due to falling debris. The incident triggered a government-mandated safety investigation.
+`Goal: Conduct a post-accident investigation and submit a compliance-focused report.`
 
-Goal: Conduct a post-accident investigation and submit a compliance-focused report.
+`Prompt:`
 
-Prompt:
+`"You are a Construction Safety Investigator. Prepare a post-accident investigation report for a metro tunnel project.`
 
-"You are a Construction Safety Investigator. Prepare a post-accident investigation report for a metro tunnel project.
-
+```
 Tasks:
 
 1. Collect witness statements and incident photos.
@@ -3020,33 +3022,34 @@ Tasks:
 4. Update site hazard identification register.
 
 5. Suggest policy changes for future prevention.
-
-Output format:
-
+```
+`Output format:`
+```
 1. Incident Investigation Report (PDF)
 
 2. Root Cause Analysis Chart (PDF)
 
 3. CAPA (Corrective and Preventive Action) Tracker (Excel)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Incident scene photos
 
 2. Witness statements
 
 3. Safety policy manual."
+```
+## Prompt 12 — Lifting Equipment Safety Certification
 
-Prompt 12 — Lifting Equipment Safety Certification
+`Backstory: A port construction project in Visakhapatnam uses multiple cranes, hoists, and derricks. Before a major lift of precast elements, the client requires third-party certification of lifting equipment.`
 
-Backstory: A port construction project in Visakhapatnam uses multiple cranes, hoists, and derricks. Before a major lift of precast elements, the client requires third-party certification of lifting equipment.
+`Goal: Certify lifting equipment for compliance and readiness.`
 
-Goal: Certify lifting equipment for compliance and readiness.
+`Prompt:`
 
-Prompt:
+`"You are a Certified Lifting Equipment Inspector. Conduct safety certification for cranes and hoists at a port project.`
 
-"You are a Certified Lifting Equipment Inspector. Conduct safety certification for cranes and hoists at a port project.
-
+```
 Tasks:
 
 1. Inspect load charts and lifting capacity compliance.
@@ -3058,23 +3061,23 @@ Tasks:
 4. Test safety devices like limit switches.
 
 5. Issue compliance certificates or defect notices.
-
-Output format:
-
+```
+`Output format:`
+```
 1. Lifting Equipment Safety Report (PDF)
 
 2. Certification Documents (PDF)
 
 3. Defect Rectification Tracker (Excel)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Equipment logbooks
 
 2. Operator license copies
 
 3. Manufacturer manuals."
-
+```
 Prompt 13 — Noise & Dust Pollution Compliance Audit
 
 Backstory: A commercial complex site in Kolkata has received neighborhood complaints about noise and dust levels. The local pollution control board requires a compliance audit.
