@@ -702,7 +702,6 @@ Prompt 24 — Hotel Booking FAQ
 
 Backstory:
 
-
 A 28-year-old reservations manager at a resort in Goa is getting repetitive queries about cancellation policies, room upgrades, and check-in timings.
 
 Goal:
@@ -796,4 +795,297 @@ Inputs Required:
 
 4. Compensation guidelines
 
+Prompt 2 — Banking Fraud Dispute Resolution
+Backstory:
 
+A 34-year-old branch operations head at a private bank in Chennai needs a template to address fraud-related complaints. Customers are often stressed and worried about losing money, so communication must be clear, calming, and reassuring, while also meeting compliance standards.
+
+Goal:
+
+Develop a banking fraud complaint resolution template.
+
+Prompt:
+
+"You are a financial compliance communications expert. Write a customer letter/email template for resolving fraud transaction disputes.
+
+Include: 
+
+Immediate acknowledgement and empathy 
+Assurance of investigation and security steps taken 
+Expected investigation timeline 
+Contact information for real-time updates"
+Inputs Required: 
+
+Fraud investigation process details 
+Regulatory disclosure requirements 
+Contact points for customer follow-up
+
+Prompt 3 — Telecom Network Issue Complaint Resolution
+Backstory:
+
+A 26-year-old customer care lead at a telecom company in Hyderabad is overwhelmed with repetitive complaints about poor network connectivity in certain regions. She wants a template that not only acknowledges the complaint but also gives transparent updates on network maintenance and improvement plans.
+
+Goal:
+
+Create a network issue complaint resolution template.
+
+Prompt:
+
+"You are a telecom customer relations content creator. Draft a complaint resolution message for poor network coverage.
+
+Include: 
+
+Acknowledgement of inconvenience 
+Root cause explanation (simple language) 
+Estimated resolution date 
+Temporary solutions or workarounds"
+Inputs Required: 
+
+Network maintenance schedule 
+Region-specific updates 
+Alternative service solutions
+
+Prompt 4 —  Airline Flight Delay Compensation Response
+Backstory:
+A 31-year-old guest relations officer at a budget airline in Mumbai receives angry emails daily from passengers affected by delays. The airline needs a standardized yet personalized template to handle these complaints with empathy, transparency, and clear details on compensation or rebooking.
+
+Goal:
+Build a customer-centric flight delay complaint resolution template.
+
+Prompt:
+"You are an airline customer communication specialist. Create a flight delay complaint resolution template.
+Include:
+
+Empathetic apology
+Reason for delay (without technical jargon)
+Compensation/refund/rebooking options
+Next steps for passengers"
+Inputs Required:
+
+Airline compensation policy
+Common causes of delays
+Customer rebooking process
+
+Prompt 5 — Restaurant Wrong Order Complaint Handling
+Backstory:
+A 24-year-old outlet manager at a popular quick-service restaurant chain in Pune deals with daily wrong order complaints from online delivery apps. She wants a quick-response template that apologizes, fixes the issue, and turns the negative experience into a positive one for the customer.
+
+Goal:
+Design a wrong order complaint resolution template.
+
+Prompt:
+"You are a hospitality customer service expert. Write a wrong order complaint response template.
+Include:
+
+Immediate apology and empathy
+Steps to replace or refund
+Timeline for resolution
+Discount coupon or goodwill offer"
+Inputs Required:
+
+Replacement/refund process
+Discount policy
+Brand tone guidelines
+
+Prompt 6 — Hospital Billing Error Complaint
+Backstory:
+In a large private hospital in Delhi, a 33-year-old patient relations executive often deals with tense situations when patients or their families discover unexpected charges on their medical bills. Many patients are already under emotional strain due to health concerns, so even a minor billing discrepancy feels like a major injustice. These disputes can quickly escalate to social media complaints or legal notices if not handled with utmost care. The hospital’s reputation depends on ensuring that such issues are resolved with empathy, transparency, and urgency.
+
+Goal:
+Create a hospital billing error complaint resolution template that reassures patients, explains the correction process, and offers a clear resolution timeline.
+
+Prompt:
+"You are a healthcare communication expert. Write a hospital billing error resolution template that includes:
+
+A warm, empathetic opening acknowledging the distress
+Clear step-by-step explanation of how the bill will be reviewed and corrected
+Assurance that treatment will not be delayed due to the dispute
+Information on refund or adjustment timelines
+Contact details for follow-up"
+Inputs Required:
+
+Billing correction SOP
+Refund/adjustment policy
+Escalation contact details
+
+Prompt 7 — Hotel Room Cleanliness Complaint
+Backstory:
+A 28-year-old guest relations manager at a luxury Jaipur hotel faces a rare but high-impact problem: a guest checking into a room that hasn’t met the highest cleanliness standards. In the luxury segment, even a speck of dust can damage brand reputation and lead to negative reviews. When such complaints arise, they must be addressed within minutes, not hours. The tone must convey sincerity, offer an immediate solution, and provide a gesture of goodwill to restore the guest’s confidence.
+
+Goal:
+Develop a room cleanliness complaint resolution template that combines apology, action, and compensation in a premium hospitality tone.
+
+Prompt:
+"You are a hospitality service expert. Draft a complaint resolution email/message for hotel room cleanliness issues that includes:
+
+A personalised, sincere apology
+Assurance of immediate corrective steps (room change or deep cleaning)
+Service recovery offer (e.g., complimentary meal, discount, or spa service)
+Confirmation that housekeeping standards will be rechecked before guest re-entry"
+Inputs Required:
+
+Housekeeping emergency cleaning procedure
+Service recovery policy and budget
+Hotel brand voice guidelines
+
+Prompt 8 —  Online Course Content Error Complaint
+Backstory:
+In a competitive edtech startup in Bangalore, a 27-year-old course manager receives a complaint from a student who found incorrect data in a lesson video. The student is preparing for a competitive exam and depends on accurate information to succeed. If not addressed quickly, such errors can erode trust across hundreds of learners. The resolution must show that the platform values student feedback, fixes errors fast, and rewards those who help maintain quality.
+
+Goal:
+Create a course content error complaint resolution template for an edtech platform.
+
+Prompt:
+"You are an edtech communications specialist. Create a complaint resolution template for course content errors that includes:
+
+Appreciation for pointing out the error
+Clear explanation of the correction process
+Estimated time for fix and updated release
+Any compensatory gesture (e.g., extended access or bonus content)
+Follow-up confirmation once fixed"
+Inputs Required:
+
+Content update workflow
+Fix turnaround time
+Compensation guidelines
+
+Prompt 9 — Ride-Hailing Driver Misconduct Complaint
+Backstory:
+At a ride-hailing company in Gurgaon, a 25-year-old safety operations executive receives a complaint from a passenger about aggressive driving and rude behavior from a driver. Such incidents not only risk passenger safety but also the company’s public image if shared online. The complaint must be acknowledged within hours, with an assurance that the matter is taken seriously. Temporary actions such as driver suspension during investigation show commitment to safety.
+
+Goal:
+Design a driver misconduct complaint resolution template that prioritises passenger safety and transparency.
+
+Prompt:
+"You are a transportation safety communications officer. Write a resolution template for driver misconduct complaints that includes:
+
+Immediate acknowledgement and expression of concern
+Assurance of investigation and temporary preventive measures
+Clear explanation of how findings will be communicated
+Contact details for further assistance"
+Inputs Required:
+
+Investigation protocol
+Temporary action policies
+Passenger reassurance phrases
+
+Prompt 10 — Gym Membership Overcharge Complaint
+Backstory:
+In a popular fitness chain in Noida, a 30-year-old branch manager deals with members who have been overcharged due to a software glitch in the automated payment system. While the error is unintentional, customers feel cheated when unexpected charges appear on their bank statement. The resolution must be fast, polite, and structured to both refund the amount and prevent future errors. Adding a goodwill gesture can help retain members.
+
+Goal:
+Create a gym membership overcharge complaint resolution template.
+
+Prompt:
+"You are a fitness industry service expert. Draft a resolution template for overcharged membership fees that includes:
+
+Polite acknowledgement of the issue
+Refund or reversal details with timelines
+Explanation of corrective action to prevent recurrence
+Optional goodwill bonus (e.g., free PT session, class voucher)"
+Inputs Required:
+
+Refund process details
+Payment system error report
+Goodwill offer policy
+
+Prompt 11 — Airline Lost Baggage Complaint
+Backstory:
+A 29-year-old ground services manager at a busy Mumbai airport faces an urgent complaint from a passenger who has just landed from Dubai and found their checked-in baggage missing. The passenger is visibly stressed, as the bag contains work documents and personal valuables. Lost baggage complaints are time-sensitive and emotionally charged, and a poor response can easily spiral into viral social media outrage. The template must convey urgency, accountability, and confidence in the resolution process.
+
+Goal:
+Develop a lost baggage complaint resolution template for airlines that restores passenger trust and outlines a clear recovery process.
+
+Prompt:
+"You are an airline customer service expert. Create a lost baggage resolution template that includes:
+
+Immediate acknowledgment of the inconvenience caused
+Explanation of the search and recovery process
+Estimated timeframe for updates
+Offer of interim support (e.g., emergency kit or expense reimbursement)
+Dedicated contact for follow-up"
+Inputs Required:
+
+Baggage tracking SOP
+Interim compensation policy
+Contact escalation list
+
+Prompt 12 — E-commerce Late Delivery Complaint
+Backstory:
+At a fast-growing e-commerce company in Bangalore, a 26-year-old logistics coordinator handles complaints from customers who didn’t receive their orders on the promised date. Delays often result from third-party courier issues, but customers blame the brand directly. With increased competition, even a 1–2 day delay can lead to order cancellations and loss of repeat business. A well-crafted resolution must be empathetic, transparent, and include a goodwill gesture to protect customer loyalty.
+
+Goal:
+Create a late delivery complaint resolution template for e-commerce businesses.
+
+Prompt:
+"You are an e-commerce customer care strategist. Draft a late delivery resolution template that includes:
+
+Polite acknowledgment of the delay and its impact
+Honest reason for the delay without shifting blame
+New estimated delivery date
+Optional goodwill offer (e.g., discount coupon, free shipping on next order)"
+Inputs Required:
+
+Delivery tracking data
+Refund/discount policy
+Brand tone guidelines
+
+Prompt 13 — Bank Transaction Failure Complaint
+Backstory:
+A 32-year-old relationship manager in a Delhi-based private bank gets an urgent complaint from a customer whose funds were debited but not credited to the intended account. The customer is anxious because the transaction amount is large and time-sensitive. Financial complaints demand swift acknowledgment, strict adherence to compliance, and absolute clarity in communication to maintain trust.
+
+Goal:
+Design a transaction failure complaint resolution template for banking services.
+
+Prompt:
+"You are a financial services communication officer. Create a transaction failure resolution template that includes:
+
+Assurance that the matter is being prioritised
+Details on the investigation and expected resolution time
+Confirmation of customer rights and protection
+Contact point for updates"
+Inputs Required:
+
+Transaction dispute SOP
+Resolution timeframe commitments
+Banking compliance guidelines
+
+Prompt 14 — Restaurant Food Quality Complaint
+Backstory:
+In a premium restaurant in Pune, a 27-year-old guest relations manager receives a complaint about undercooked seafood. Food quality issues in high-end dining can damage the brand overnight, especially if the customer is an influential food blogger. The response must combine humility, swift action, and a strong assurance of food safety standards.
+
+Goal:
+Develop a food quality complaint resolution template for restaurants.
+
+Prompt:
+"You are a hospitality communication specialist. Draft a food quality complaint resolution template that includes:
+
+A heartfelt apology acknowledging the lapse
+Assurance of immediate kitchen investigation and retraining
+Offer to replace the dish or provide a complimentary alternative
+Follow-up invitation to return for a better experience"
+Inputs Required:
+
+Food safety SOP
+Service recovery offers
+Kitchen retraining plan
+
+Prompt 15 — Subscription Service Auto-Renewal Complaint
+Backstory:
+A 30-year-old customer support lead in a SaaS company in Hyderabad handles complaints from users charged automatically for a subscription they didn’t intend to renew. Customers feel trapped when they miss the cancellation window, leading to frustration. The resolution must balance company policy with goodwill to maintain brand reputation and user retention.
+
+Goal:
+Create an auto-renewal complaint resolution template for subscription services.
+
+Prompt:
+"You are a SaaS customer experience expert. Create a resolution template for unintended auto-renewals that includes:
+
+Acknowledgment of the oversight and customer frustration
+Clear policy explanation without sounding defensive
+Refund or credit offer (where applicable)
+Instructions to manage or cancel future renewals"
+Inputs Required:
+
+Refund/credit policy
+Subscription management instructions
+Brand communication tone guide
