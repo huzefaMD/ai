@@ -2034,16 +2034,16 @@
 
 2. Number of participants"
 ```
-Prompt 17 — Virtual Hackathon/Challenge Day
+## Prompt 17 — Virtual Hackathon/Challenge Day
 
-Backstory: You run a data science bootcamp. Students understand concepts but need hands-on experience under time pressure. You want a mini hackathon.
+`Backstory: You run a data science bootcamp. Students understand concepts but need hands-on experience under time pressure. You want a mini hackathon.`
 
-Goal: Simulate real-world problem-solving with a competitive edge.
+`Goal: Simulate real-world problem-solving with a competitive edge.`
 
-Prompt:
+`Prompt:`
 
-"You are a Challenge Event Organizer. Plan a 1-day hackathon that: 
-
+`"You are a Challenge Event Organizer. Plan a 1-day hackathon that: `
+```
 1. Provides a problem statement at the start. 
 
 2. Has 3–4 checkpoints for mentor feedback. 
@@ -2053,25 +2053,25 @@ Prompt:
 4. Uses judges for scoring on creativity, efficiency, and impact. 
 
 5. Ends with a prize ceremony.
-
-Inputs: 
-
+```
+`Inputs: `
+```
 1. Challenge theme 
 
 2. Number of teams 
 
 3. Time limit"
+```
+## Prompt 18 — Learning Through Memes
 
-Prompt 18 — Learning Through Memes
+`Backstory: You teach Gen-Z and millennials, who love humor. You want to use memes as a revision tool to make learning more relatable.`
 
-Backstory: You teach Gen-Z and millennials, who love humor. You want to use memes as a revision tool to make learning more relatable.
+`Goal: Reinforce concepts in a light, memorable way.`
 
-Goal: Reinforce concepts in a light, memorable way.
+`Prompt:`
 
-Prompt:
-
-"You are a Content Engagement Coach. Design a meme-based learning activity that:
-
+`"You are a Content Engagement Coach. Design a meme-based learning activity that:`
+```
 1. Provides 3 examples of course-related memes.
 
 2. Challenges students to create their own.
@@ -2081,23 +2081,23 @@ Prompt:
 4. Awards points for creativity + concept accuracy.
 
 5. Ends with a meme showcase slideshow.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Lesson topic
 
 2. Target humor style"
+```
+## Prompt 19 — Learning via Case Studies
 
-Prompt 19 — Learning via Case Studies
+`Backstory: Your MBA students learn theory well but struggle to connect it to real companies. You want weekly case study discussions.`
 
-Backstory: Your MBA students learn theory well but struggle to connect it to real companies. You want weekly case study discussions.
+`Goal: Develop analytical and decision-making skills.`
 
-Goal: Develop analytical and decision-making skills.
+`Prompt:`
 
-Prompt:
-
-"You are a Business Education Designer. Create a case study session that:
-
+`"You are a Business Education Designer. Create a case study session that:`
+```
 1. Provides a real or fictional business scenario.
 
 2. Includes data points and problem statements.
@@ -2107,23 +2107,23 @@ Prompt:
 4. Has 10 minutes of open debate.
 
 5. Concludes with an instructor-led solution breakdown.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Industry
 
 2. Business size"
+```
+## Prompt 20 — Social Impact Mini-Projects
 
-Prompt 20 — Social Impact Mini-Projects
+`Backstory: You teach environmental science. Students are interested in sustainability but need practical exposure. You want short impact-driven projects.`
 
-Backstory: You teach environmental science. Students are interested in sustainability but need practical exposure. You want short impact-driven projects.
+`Goal: Make learning actionable and socially relevant.`
 
-Goal: Make learning actionable and socially relevant.
+`Prompt:`
 
-Prompt:
-
-"You are a Project-Based Learning Designer. Plan a 2-week social impact project that:
-
+`"You are a Project-Based Learning Designer. Plan a 2-week social impact project that:`
+```
 1. Focuses on a real-world environmental issue.
 
 2. Involves research, data collection, and presentation.
@@ -2133,23 +2133,23 @@ Prompt:
 4. Is feasible for students with minimal resources.
 
 5. Ends with a measurable impact metric.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Project theme
 
 2. Number of students"
+```
+## Prompt 21 — Reverse Engineering Challenge
 
-Prompt 21 — Reverse Engineering Challenge
+`Backstory: You teach app development. Students often learn by building from scratch, but you want them to also deconstruct existing apps to learn best practices.`
 
-Backstory: You teach app development. Students often learn by building from scratch, but you want them to also deconstruct existing apps to learn best practices.
+`Goal: Improve analytical thinking and code reading skills.`
 
-Goal: Improve analytical thinking and code reading skills.
+`Prompt:`
 
-Prompt:
-
-"You are a Software Skills Trainer. Create a reverse engineering task that:
-
+`"You are a Software Skills Trainer. Create a reverse engineering task that:`
+```
 1. Gives students access to a basic app or feature.
 
 2. Asks them to document how it works.
@@ -2159,23 +2159,23 @@ Prompt:
 4. Requires re-building a simplified version.
 
 5. Ends with peer reviews.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. App name
 
 2. Complexity level"
+```
+## Prompt 22 — “Two Truths and a Lie” Revision Game
 
-Prompt 22 — “Two Truths and a Lie” Revision Game
+`Backstory: Your history class is getting monotonous. You want a fun fact-based game to review previous lessons.`
 
-Backstory: Your history class is getting monotonous. You want a fun fact-based game to review previous lessons.
+`Goal: Revise content while keeping energy high.`
 
-Goal: Revise content while keeping energy high.
+`Prompt:
 
-Prompt:
-
-"You are a Classroom Game Creator. Design a ‘Two Truths and a Lie’ activity where:
-
+`"You are a Classroom Game Creator. Design a ‘Two Truths and a Lie’ activity where:`
+```
 1. Each student shares 3 statements about a topic.
 
 2. Two are correct, one is false.
@@ -2185,23 +2185,23 @@ Prompt:
 4. Scoring is tracked for fun competition.
 
 5. End with instructor clarifying facts.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Topic/theme
 
 2. Number of players"
+```
+## Prompt 23 — Collaborative Whiteboard Brainstorm
 
-Prompt 23 — Collaborative Whiteboard Brainstorm
+`Backstory: You teach design thinking and want students to visually brainstorm solutions together in real time.`
 
-Backstory: You teach design thinking and want students to visually brainstorm solutions together in real time.
+`Goal: Foster creativity and collaboration.`
 
-Goal: Foster creativity and collaboration.
+`Prompt:`
 
-Prompt:
-
-"You are a Collaboration Tools Facilitator. Plan a 15-minute whiteboard session that:
-
+`"You are a Collaboration Tools Facilitator. Plan a 15-minute whiteboard session that:`
+```
 1. Uses an online collaborative tool.
 
 2. Provides a central question/problem.
@@ -2211,23 +2211,23 @@ Prompt:
 4. Groups similar ideas for discussion.
 
 5. Concludes with top 3 actionable ideas.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Problem statement
 
 2. Number of participants"
+```
+## Prompt 24 — Weekly “What’s in the News?” Discussion
 
-Prompt 24 — Weekly “What’s in the News?” Discussion
+`Backstory: Your economics students need to stay updated with current events. You want a weekly news analysis segment.`
 
-Backstory: Your economics students need to stay updated with current events. You want a weekly news analysis segment.
+`Goal: Connect theory to real-world happenings.`
 
-Goal: Connect theory to real-world happenings.
+`Prompt:`
 
-Prompt:
-
-"You are a Current Affairs Learning Facilitator. Design a 30-minute news discussion that: 
-
+`"You are a Current Affairs Learning Facilitator. Design a 30-minute news discussion that: `
+```
 1. Chooses 3–5 recent news articles related to the course. 
 
 2. Assigns each to a small group for analysis. 
@@ -2237,9 +2237,9 @@ Prompt:
 4. Ends with class-wide discussion. 
 
 5. Provides a takeaway document for revision.
-
-Inputs: 
-
+```
+`Inputs: `
+```
 1. Topic focus 
 
 2. News source preference"
@@ -2269,7 +2269,7 @@ Inputs:
 1. Course duration
 
 2. Reward budget"
-
+```
 
 # Online course structuring
 
