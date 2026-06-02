@@ -2243,17 +2243,17 @@ Inputs:
 1. Topic focus 
 
 2. News source preference"
+```
+## Prompt 25 — Learning Streak Challenge
 
-Prompt 25 — Learning Streak Challenge
+`Backstory: Students in your online course often drop out after 2–3 weeks. You want a streak-based reward system to encourage daily log-ins.`
 
-Backstory: Students in your online course often drop out after 2–3 weeks. You want a streak-based reward system to encourage daily log-ins.
+`Goal: Build consistent learning habits.`
 
-Goal: Build consistent learning habits.
+`Prompt:`
 
-Prompt:
-
-"You are a Motivation Program Designer. Create a streak challenge that:
-
+`"You are a Motivation Program Designer. Create a streak challenge that:`
+```
 1. Tracks daily log-ins and lesson completions.
 
 2. Shows progress visually with streak counters.
@@ -2263,9 +2263,9 @@ Prompt:
 4. Allows small redeemable rewards.
 
 5. Sends encouraging reminders.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Course duration
 
 2. Reward budget"
