@@ -1918,3 +1918,223 @@ Subscription plan name
 Expiry date
 Key features/benefits of the plan
 Renewal payment link
+
+
+Prompt 16 — Bank Account Opening Confirmation – English & Hindi
+Backstory:
+A public-sector bank receives high walk-in traffic from customers who speak only Hindi. Many customers are uncertain if their account is active after document submission. The bank wants a standard bilingual confirmation to assure customers and provide next steps.
+
+Goal:
+Design a clear bilingual account opening confirmation for SMS and printed receipt.
+
+Prompt:
+"You are a banking communication advisor. Create a bilingual (English & Hindi) account opening confirmation that covers:
+
+Warm welcome message with customer name
+Confirmation of account number and activation date
+Information on how to collect debit card and cheque book
+Customer care contact details"
+Inputs Required:
+
+Customer name
+Account number
+Activation date
+Collection process for debit card & cheque book
+
+Prompt 17 — Delivery Rescheduling – English & Malayalam
+Backstory:
+A Kochi-based online grocery store frequently faces delivery slot changes due to heavy rain. Customers who speak Malayalam need clear updates to avoid frustration. Without a proper bilingual script, miscommunication leads to repeated support calls.
+
+Goal:
+Create a professional yet friendly bilingual delivery rescheduling message for calls, WhatsApp, and SMS.
+
+Prompt:
+"You are a last-mile delivery communication specialist. Create a bilingual (English & Malayalam) delivery rescheduling notification including:
+
+Customer name and order ID
+Original delivery date/time
+New delivery date/time
+Option for customer to choose a different slot
+Apology and assurance of priority delivery"
+Inputs Required:
+
+Customer name
+Order ID
+Original delivery slot
+New delivery slot
+Rescheduling contact link/number
+
+Prompt 18 — Maintenance Downtime Alert – English & Marathi
+Backstory:
+A Pune-based broadband provider schedules monthly maintenance. Marathi-speaking customers often misunderstand downtime messages and flood the helpline. A standard bilingual script will cut unnecessary calls and reassure customers.
+
+Goal:
+Create a maintenance downtime alert that is clear, polite, and transparent.
+
+Prompt:
+"You are a telecom service communication strategist. Write a bilingual (English & Marathi) downtime alert that includes:
+
+Customer name in greeting
+Date and start-end time of downtime
+Reason (brief, non-technical)
+Expected impact on service
+Helpline contact for urgent cases"
+Inputs Required:
+
+Customer name
+Downtime date & time
+Reason for downtime
+Helpline number
+
+Prompt 19 — Credit Card Bill Reminder – English & Punjabi
+Backstory:
+A Chandigarh-based private bank serves many Punjabi-speaking business owners who miss credit card due dates due to unclear reminders. A formal yet friendly bilingual message will improve on-time payments.
+
+Goal:
+Create a credit card bill reminder script in English and Punjabi for SMS and calls.
+
+Prompt:
+"You are a financial communication expert. Write a bilingual (English & Punjabi) credit card bill reminder that includes:
+
+Customer name in greeting
+Outstanding bill amount and due date
+Payment methods (UPI, net banking, branch)
+Late fee policy (brief)
+Customer care number"
+Inputs Required:
+
+Customer name
+Bill amount
+Due date
+Payment methods
+Late fee details
+
+Prompt 20 — Post-Service Feedback Request – English & Hindi
+Backstory:
+A Delhi-based air conditioning service company wants to improve customer satisfaction tracking. Many customers are Hindi speakers who ignore English-only feedback links.
+
+Goal:
+Create a feedback request script in English and Hindi that is warm and easy to respond to.
+
+Prompt:
+"You are a customer experience manager. Write a bilingual (English & Hindi) post-service feedback request that includes:
+
+Thank you message with customer’s name
+Service completed date & type
+Short link to feedback form
+Option to reply via WhatsApp with a rating"
+Inputs Required:
+
+Customer name
+Service type & date
+Feedback link
+Prompt 21 — Policy Renewal Reminder – English & Assamese
+Backstory:
+An insurance company in Guwahati serves many Assamese-speaking clients. Without a bilingual renewal notice, customers risk policy lapse.
+
+Goal:
+Create a renewal reminder that is polite, urgent, and clear.
+
+Prompt:
+"You are an insurance retention specialist. Write a bilingual (English & Assamese) policy renewal reminder that includes:
+
+Policyholder name in greeting
+Policy type and expiry date
+Renewal premium amount
+Easy payment steps (online/offline)
+Customer helpline"
+Inputs Required:
+
+Customer name
+Policy type
+Expiry date
+Premium amount
+Payment instructions
+
+Prompt 22 — Loan Approval Notification – English & Hindi
+Backstory:
+A Noida-based NBFC wants customers to feel valued at the approval stage. Many speak Hindi and miss details in English-only letters.
+
+Goal:
+Create a bilingual loan approval message that is celebratory and informative.
+
+Prompt:
+"You are a loan services communication expert. Write a bilingual (English & Hindi) loan approval message that includes:
+
+Congratulations message with customer name
+Loan type, amount, and tenure
+First EMI date
+Disbursement method
+Support contact"
+Inputs Required:
+
+Customer name
+Loan type & amount
+Tenure
+First EMI date
+Disbursement details
+
+Prompt 23 — Subscription Cancellation Confirmation – English & Telugu
+Backstory:
+A Hyderabad-based OTT platform receives cancellation requests from Telugu-speaking customers. Without a bilingual confirmation, some think the process is incomplete and keep calling support.
+
+Goal:
+Create a polite cancellation confirmation that encourages re-subscription in the future.
+
+Prompt:
+"You are a subscription lifecycle communication expert. Write a bilingual (English & Telugu) cancellation confirmation that includes:
+
+Customer name
+Subscription plan name
+Effective cancellation date
+Short thank you note and invitation to return
+Link to re-subscribe"
+Inputs Required:
+
+Customer name
+Plan name
+Cancellation date
+Re-subscription link
+
+Prompt 24 — Emergency Service Disruption Alert – English & Bengali
+Backstory:
+A Kolkata-based water supply company needs to inform residents about urgent service cuts due to repairs. Bengali speakers must get the same clear instructions as English speakers.
+
+Goal:
+Create an emergency disruption alert that is concise, clear, and reassuring.
+
+Prompt:
+"You are a municipal service communication officer. Write a bilingual (English & Bengali) emergency water supply disruption alert that includes:
+
+Area name affected
+Start and expected restoration time
+Reason for disruption (brief)
+Alternative arrangements (if any)
+Helpline number"
+Inputs Required:
+
+Area name
+Start time
+Expected restoration time
+Reason for disruption
+Helpline
+
+Prompt 25 — Welcome Onboarding Script – English & Hindi
+Backstory:
+A Gurgaon-based wellness app wants to welcome new users warmly. Many speak Hindi as their first language, so a bilingual onboarding ensures no one misses key features.
+
+Goal:
+Create a warm, professional onboarding script in English and Hindi for email and app pop-ups.
+
+Prompt:
+"You are a user onboarding strategist. Write a bilingual (English & Hindi) welcome message that includes:
+
+Personalized greeting with name
+Overview of app benefits
+3 key actions to get started
+Link to help center"
+Inputs Required:
+
+User name
+Key features
+Help center link
