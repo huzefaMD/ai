@@ -54,16 +54,16 @@
 
 2. Key results"
 ```
-Prompt 3 — Breaking Bad News
+## Prompt 3 — Breaking Bad News
 
-Backstory: You have to inform a patient that their biopsy indicates cancer. This conversation requires empathy, clarity, and emotional support.
+`Backstory: You have to inform a patient that their biopsy indicates cancer. This conversation requires empathy, clarity, and emotional support.`
 
-Goal: Deliver bad news in a way that is compassionate yet direct, and offers immediate next steps.
+`Goal: Deliver bad news in a way that is compassionate yet direct, and offers immediate next steps.`
 
-Prompt:
+`Prompt:`
 
-"You are a Compassionate Healthcare Professional. Write a bad-news delivery script that: 
-
+`"You are a Compassionate Healthcare Professional. Write a bad-news delivery script that: `
+```
 1. Prepares the patient emotionally before sharing the news. 
 
 2. States the diagnosis clearly without medical jargon. 
@@ -73,25 +73,25 @@ Prompt:
 4. Immediately outlines treatment or referral options. 
 
 5. Suggests counseling or support groups.
-
-Inputs: 
-
+```
+`Inputs:` 
+```
 1. Diagnosis 
 
 2. Stage/severity 
 
 3. Available treatment options"
+```
+## Prompt 4 — Chronic Condition Management
 
-Prompt 4 — Chronic Condition Management
+`Backstory: You’re counseling a patient newly diagnosed with type 2 diabetes on lifestyle changes.`
 
-Backstory: You’re counseling a patient newly diagnosed with type 2 diabetes on lifestyle changes.
+`Goal: Provide guidance in a way that motivates rather than overwhelms.`
 
-Goal: Provide guidance in a way that motivates rather than overwhelms.
+`Prompt:`
 
-Prompt:
-
-"You are a Lifestyle Management Coach in healthcare. Write a patient script that: 
-
+`"You are a Lifestyle Management Coach in healthcare. Write a patient script that: `
+```
 1. Explains the condition in clear, hopeful terms. 
 
 2. Breaks down lifestyle changes into small, achievable steps. 
@@ -101,23 +101,23 @@ Prompt:
 4. Includes examples of diet, exercise, and monitoring. 
 
 5. Encourages regular follow-up.
-
-Inputs: 
-
+```
+`Inputs:` 
+```
 1. Condition name 
 
 2. Patient’s daily routine"
+```
+## Prompt 5 — Discharge Instructions
 
-Prompt 5 — Discharge Instructions
+`Backstory: A patient is being discharged after minor surgery. They need clear post-care instructions they can follow at home.`
 
-Backstory: A patient is being discharged after minor surgery. They need clear post-care instructions they can follow at home.
+`Goal: Prevent complications by ensuring they understand medication, diet, and follow-up schedules.`
 
-Goal: Prevent complications by ensuring they understand medication, diet, and follow-up schedules.
+`Prompt:`
 
-Prompt:
-
-"You are a Post-Operative Care Guide. Create discharge instructions that:
-
+`"You are a Post-Operative Care Guide. Create discharge instructions that:`
+```
 1. Use simple, step-by-step language.
 
 2. Include medication names, doses, and timings.
@@ -127,23 +127,23 @@ Prompt:
 4. Explain red flags that require urgent attention.
 
 5. Provide contact details for emergencies.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Type of surgery
 
 2. Prescribed medicines"
+```
+## Prompt 6 — Pediatric Consultation for Worried Parents
 
-Prompt 6 — Pediatric Consultation for Worried Parents
+`Backstory: A parent brings in their 3-year-old child with a persistent cough. They’re visibly anxious and need reassurance along with medical guidance.`
 
-Backstory: A parent brings in their 3-year-old child with a persistent cough. They’re visibly anxious and need reassurance along with medical guidance.
+`Goal: Provide a child-friendly consultation while keeping the parent calm and informed.`
 
-Goal: Provide a child-friendly consultation while keeping the parent calm and informed.
+`Prompt:`
 
-Prompt:
-
-"You are a Pediatric Communication Specialist. Write a script that: 
-
+`"You are a Pediatric Communication Specialist. Write a script that: `
+```
 1. Starts by engaging with the child to build comfort. 
 
 2. Reassures the parent before gathering medical history. 
@@ -153,25 +153,25 @@ Prompt:
 4. Outlines home care and warning signs clearly. 
 
 5. Encourages follow-up and offers health resources.
-
-Inputs: 
-
+```
+`Inputs: `
+```
 1. Child’s name & age 
 
 2. Symptoms & duration 
 
 3. Parent’s main concern"
+```
+## Prompt 7 — Telemedicine Appointment Script
 
-Prompt 7 — Telemedicine Appointment Script
+`Backstory: You’re consulting a patient remotely via video call for a mild skin rash. Since you can’t physically examine them, communication must be precise.`
 
-Backstory: You’re consulting a patient remotely via video call for a mild skin rash. Since you can’t physically examine them, communication must be precise.
+`Goal: Maximize remote diagnosis accuracy while making the patient feel secure.`
 
-Goal: Maximize remote diagnosis accuracy while making the patient feel secure.
+`Prompt:`
 
-Prompt:
-
-"You are a Virtual Care Doctor. Create a telemedicine script that:
-
+`"You are a Virtual Care Doctor. Create a telemedicine script that:`
+```
 1. Starts with a warm greeting and tech check (audio/video).
 
 2. Guides the patient to show affected areas clearly on camera.
@@ -181,15 +181,15 @@ Prompt:
 4. Provides provisional diagnosis and explains limits of virtual care.
 
 5. Advises on next steps, prescriptions, or in-person follow-up.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Patient name
 
 2. Symptoms description
 
 3. Available video quality"
-
+```
 Prompt 8 — Mental Health Counseling Intake
 
 Backstory: A patient books their first therapy session after months of anxiety. They’re unsure how to start sharing.
