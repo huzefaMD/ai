@@ -14,7 +14,7 @@
 
 2. Uses 2-hour weekly sessions (in-person or virtual).
 
-3. Includes role-play activities and real-life case studies.
+3. Includes role-play activities and real-life case studies.                              
 
 4. Has weekly reflection assignments to measure growth.
 
@@ -2271,18 +2271,18 @@ Inputs:
 2. Reward budget"
 
 
-Online course structuring
+# Online course structuring
 
-Prompt 1 — Course Blueprint Creation
+## Prompt 1 — Course Blueprint Creation
 
-Backstory: You’re launching an online course on digital marketing for beginners. You have scattered ideas but no clear flow, and you want a structured roadmap before recording.
+`Backstory: You’re launching an online course on digital marketing for beginners. You have scattered ideas but no clear flow, and you want a structured roadmap before recording.`
 
-Goal: Build a logical, engaging, and progressive course flow.
+`Goal: Build a logical, engaging, and progressive course flow.`
 
-Prompt:
+`Prompt:`
 
-"You are an Instructional Designer. Create a course blueprint that:
-
+`"You are an Instructional Designer. Create a course blueprint that:`
+```
 1. Has 6–8 modules, each with 3–5 lessons.
 
 2. Starts with foundational theory and moves to practical applications.
@@ -2292,25 +2292,25 @@ Prompt:
 4. Suggests multimedia formats (video, slides, reading material).
 
 5. Ends with a capstone project to consolidate learning.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Subject/topic
 
 2. Target audience skill level
 
 3. Course duration"
+```
+## Prompt 2 — Module-to-Lesson Mapping
 
-Prompt 2 — Module-to-Lesson Mapping
+`Backstory: You’ve decided on the topics for your UI/UX design course but need help breaking them into digestible lessons.`
 
-Backstory: You’ve decided on the topics for your UI/UX design course but need help breaking them into digestible lessons.
+`Goal: Ensure each lesson is bite-sized yet impactful.`
 
-Goal: Ensure each lesson is bite-sized yet impactful.
+`Prompt:`
 
-Prompt:
-
-"You are a Lesson Planner. Break my course modules into lessons that:
-
+`"You are a Lesson Planner. Break my course modules into lessons that:`
+```
 1. Are 5–15 minutes long each.
 
 2. Have a single clear learning objective.
@@ -2320,23 +2320,23 @@ Prompt:
 4. Use a mix of teaching formats (lecture, demo, quiz).
 
 5. Can be consumed in sequence without confusion.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Module titles
 
 2. Student time availability"
+```
+## Prompt 3 — Learning Objective Drafting
 
-Prompt 3 — Learning Objective Drafting
+`Backstory: You’re creating a beginner’s course in Python and need strong, measurable learning objectives for every lesson to track outcomes.`
 
-Backstory: You’re creating a beginner’s course in Python and need strong, measurable learning objectives for every lesson to track outcomes.
+`Goal: Make objectives actionable, measurable, and motivating.`
 
-Goal: Make objectives actionable, measurable, and motivating.
+`Prompt:`
 
-Prompt:
-
-"You are a Learning Outcomes Specialist. Write learning objectives for each lesson that:
-
+`"You are a Learning Outcomes Specialist. Write learning objectives for each lesson that:`
+```
 1. Begin with action verbs (e.g., “Design,” “Analyze,” “Implement”).
 
 2. Are measurable using quizzes or projects.
@@ -2346,23 +2346,23 @@ Prompt:
 4. Progress from simple to complex skills.
 
 5. Inspire students by showing real-world use cases.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Lesson titles
 
 2. Target skill level"
+```
+## Prompt 4 — Choosing the Right Content Format
 
-Prompt 4 — Choosing the Right Content Format
+`Backstory: You have all the lesson topics for a nutrition and wellness course but aren’t sure whether to use videos, PDFs, or interactive exercises for each.`
 
-Backstory: You have all the lesson topics for a nutrition and wellness course but aren’t sure whether to use videos, PDFs, or interactive exercises for each.
+`Goal: Match lesson type with the best delivery format for maximum retention.`
 
-Goal: Match lesson type with the best delivery format for maximum retention.
+`Prompt:`
 
-Prompt:
-
-"You are a Content Strategy Consultant. For each lesson, suggest the best format by:
-
+`"You are a Content Strategy Consultant. For each lesson, suggest the best format by:`
+```
 1. Considering the complexity of the topic.
 
 2. Recommending tools/software to create it.
@@ -2372,23 +2372,23 @@ Prompt:
 4. Suggesting duration/length for that format.
 
 5. Explaining why it’s optimal for this audience.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Lesson titles
 
 2. Target audience learning style"
+```
+## Prompt 5 — Lesson Time Allocation
 
-Prompt 5 — Lesson Time Allocation
+`Backstory: You’re designing a cybersecurity awareness course for corporate employees. You have a strict 4-hour total course limit.`
 
-Backstory: You’re designing a cybersecurity awareness course for corporate employees. You have a strict 4-hour total course limit.
+`Goal: Distribute time wisely to balance theory, practical demos, and assessment.`
 
-Goal: Distribute time wisely to balance theory, practical demos, and assessment.
+`Prompt:`
 
-Prompt:
-
-"You are a Course Time Management Expert. Allocate lesson durations that: 
-
+`"You are a Course Time Management Expert. Allocate lesson durations that: `
+```
 1. Keep total time within the limit. 
 
 2. Dedicate more time to practical application. 
@@ -2398,23 +2398,23 @@ Prompt:
 4. Leave time for Q&A or final discussion. 
 
 5. Are realistic based on topic complexity.
-
-Inputs: 
-
+```
+`Inputs: `
+```
 1. Lesson list with priority level 
 
 2. Total allowed time"
+```
+## Prompt 6 — Course Flow Optimization
 
-Prompt 6 — Course Flow Optimization
+`Backstory: You’ve noticed students in your graphic design course drop off mid-way through the program. You suspect the order of lessons may be overwhelming.`
 
-Backstory: You’ve noticed students in your graphic design course drop off mid-way through the program. You suspect the order of lessons may be overwhelming.
+`Goal: Reorder lessons for natural progression and better engagement.`
 
-Goal: Reorder lessons for natural progression and better engagement.
+`Prompt:`
 
-Prompt:
-
-"You are a Learning Flow Architect. Reorder my course lessons to:
-
+`"You are a Learning Flow Architect. Reorder my course lessons to:`
+```
 1. Build from basic concepts to advanced techniques.
 
 2. Include reinforcement points before introducing new concepts.
@@ -2424,23 +2424,23 @@ Prompt:
 4. Keep motivation high with early small wins.
 
 5. Allow flexibility for self-paced learners.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Current lesson order
 
 2. Student feedback (if available)"
+```
+## Prompt 7 — Multi-Format Lesson Plan
 
-Prompt 7 — Multi-Format Lesson Plan
+`Backstory: You’re building a stock market investing course for millennials. You want lessons that blend video, worksheets, and live discussions.`
 
-Backstory: You’re building a stock market investing course for millennials. You want lessons that blend video, worksheets, and live discussions.
+`Goal: Increase engagement by mixing learning mediums.`
 
-Goal: Increase engagement by mixing learning mediums.
+`Prompt:`
 
-Prompt:
-
-"You are a Blended Learning Specialist. Design a lesson plan that:
-
+`"You are a Blended Learning Specialist. Design a lesson plan that:`
+```
 1. Starts with a short video explanation.
 
 2. Includes an interactive exercise or worksheet.
@@ -2450,23 +2450,23 @@ Prompt:
 4. Ends with a quiz or self-reflection question.
 
 5. Suggests optional resources for deeper learning.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Lesson topic
 
 2. Available tools/platforms"
+```
+## Prompt 8 — Assessment Integration
 
-Prompt 8 — Assessment Integration
+`Backstory: Your data analytics course teaches both theory and hands-on skills. You want assessments at the right intervals to check understanding without overwhelming students.`
 
-Backstory: Your data analytics course teaches both theory and hands-on skills. You want assessments at the right intervals to check understanding without overwhelming students.
+`Goal: Build a seamless flow between learning and testing.`
 
-Goal: Build a seamless flow between learning and testing.
+`Prompt:`
 
-Prompt:
-
-"You are an Assessment Designer. Suggest assessment placements that:
-
+`"You are an Assessment Designer. Suggest assessment placements that:`
+```
 1. Follow the completion of key concepts.
 
 2. Include varied formats (MCQs, projects, presentations).
@@ -2476,23 +2476,23 @@ Prompt:
 4. Provide immediate feedback.
 
 5. Align with real-world skill testing.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Course module breakdown
 
 2. Assessment time limits"
+```
+## Prompt 9 — Incorporating Practice Breaks
 
-Prompt 9 — Incorporating Practice Breaks
+`Backstory: In your photography course, students watch long video lessons but rarely practice before the end. You want short breaks for hands-on activities.`
 
-Backstory: In your photography course, students watch long video lessons but rarely practice before the end. You want short breaks for hands-on activities.
+`Goal: Improve knowledge retention through immediate application.`
 
-Goal: Improve knowledge retention through immediate application.
+`Prompt:`
 
-Prompt:
-
-"You are a Skill Retention Coach. Add practice breaks to my course that:
-
+`"You are a Skill Retention Coach. Add practice breaks to my course that:`
+```
 1. Come after each major concept.
 
 2. Include a quick, doable activity (5–10 minutes).
@@ -2502,23 +2502,23 @@ Prompt:
 4. Encourage students to share results with peers.
 
 5. Keep the main lesson flow intact.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Lesson list
 
 2. Practice activity type"
+```
+## Prompt 10 — Content Chunking for Microlearning
 
-Prompt 10 — Content Chunking for Microlearning
+`Backstory: Your audience prefers short, snackable content they can watch on mobile during commutes. Your personal finance course needs restructuring for microlearning.`
 
-Backstory: Your audience prefers short, snackable content they can watch on mobile during commutes. Your personal finance course needs restructuring for microlearning.
+`Goal: Break down content into very short, focused segments.`
 
-Goal: Break down content into very short, focused segments.
+`Prompt:`
 
-Prompt:
-
-"You are a Microlearning Designer. Break my course into micro-units that:
-
+`"You are a Microlearning Designer. Break my course into micro-units that:`
+```
 1. Last under 8 minutes each.
 
 2. Focus on one key takeaway.
@@ -2528,11 +2528,11 @@ Prompt:
 4. Include a mini challenge at the end.
 
 5. Are optimized for mobile viewing.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Full course script or outline"
-
+```
 Prompt 11 — Creating a Signature Teaching Style
 
 Backstory: You want your fitness training course to stand out. You aim to add a unique, recognizable teaching style throughout the course.
