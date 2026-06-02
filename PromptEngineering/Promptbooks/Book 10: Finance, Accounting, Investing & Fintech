@@ -3677,4 +3677,166 @@ Inputs Required:
 
 3. Disposal costs
 
+Prompt 20 — ROI for R&D Project
 
+Backstory:
+
+A 30-year-old pharma company R&D head in Hyderabad is testing a new drug formulation. The project costs ₹2 crores and could generate ₹50 lakhs annually for 8 years if approved.
+
+Goal:
+
+Calculate ROI and NPV for the R&D project.
+
+Prompt:
+
+*"You are a pharma project analyst. Calculate:
+
+1. Annual ROI %
+
+2. Payback period
+
+3. NPV over 8 years"*
+
+Inputs Required:
+
+1. Project cost
+
+2. Annual revenue projections
+
+3. Approval success probability
+
+4. Discount rate
+
+Prompt 21 — Valuation for Joint Venture Negotiation
+
+Backstory:
+
+A 29-year-old agri-business owner in Punjab is forming a joint venture with a logistics company. She needs a valuation of her business to determine equity split.
+
+Goal:
+
+Value business for JV equity discussions.
+
+Prompt:
+
+*"You are a joint venture valuation advisor. Calculate valuation using:
+
+1. Comparable transactions method
+
+2. Earnings multiple method"*
+
+Inputs Required:
+
+1. Business revenue and profits
+
+2. Comparable JV deal data
+
+Prompt 22 — ROI of Employee Wellness Program
+
+Backstory:
+
+A 32-year-old HR head in Gurgaon implemented a wellness program costing ₹10 lakhs. She wants to evaluate its ROI through reduced sick days and improved productivity.
+
+Goal:
+
+Calculate ROI for wellness programs.
+
+Prompt:
+
+*"You are an HR ROI analyst. Calculate:
+
+1. Tangible savings from reduced absenteeism
+
+2. Productivity gains in ₹ terms
+
+3. ROI %"*
+
+Inputs Required:
+
+1. Program cost
+
+2. Sick leave data before and after program
+
+3. Productivity measurement metrics
+
+Prompt 23 — Pre-Merger Synergy Valuation
+
+Backstory:
+
+A 34-year-old founder in Bengaluru is merging with a competitor. She needs to estimate the additional value generated from synergies like shared distribution and reduced marketing costs.
+
+Goal:
+
+Calculate synergy value for a merger.
+
+Prompt:
+
+*"You are an M&A consultant. Calculate:
+
+1. Cost savings from synergy
+
+2. Incremental revenue potential
+
+3. Total synergy valuation"*
+
+Inputs Required:
+
+1. Current cost structures of both companies
+
+2. Expected revenue increase
+
+3. Industry synergy benchmarks
+
+Prompt 24 — ROI of Export Market Expansion
+
+Backstory:
+
+A 30-year-old textile exporter in Tiruppur invested ₹25 lakhs in entering the European market. She wants to know the ROI based on first-year export orders and projected growth.
+
+Goal:
+
+Evaluate export expansion ROI.
+
+Prompt:
+
+*"You are an export business analyst. Calculate:
+
+1. ROI % in first year
+
+2. Payback period
+
+3. 3-year ROI projection"*
+
+Inputs Required:
+
+1. Market entry costs
+
+2. Export sales data
+
+3. Growth assumptions
+
+Prompt 25 — Valuation for Buy-Sell Agreement
+
+Backstory:
+
+A 33-year-old partner in a law firm in Delhi wants a formal valuation for their buy-sell agreement in case one partner exits. The valuation must consider earnings, client base value, and goodwill.
+
+Goal:
+
+Prepare a valuation for a professional services partnership.
+
+Prompt:
+
+*"You are a professional services valuation expert. Calculate:
+
+1. Earnings-based valuation
+
+2. Goodwill valuation based on client retention rate"*
+
+Inputs Required:
+
+1. Annual revenue and profits
+
+2. Client list and retention rate
+
+3. Comparable firm multiples
