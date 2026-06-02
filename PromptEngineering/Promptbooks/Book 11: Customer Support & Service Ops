@@ -2292,92 +2292,142 @@ Inputs Required:
 5. Disbursement details
 
 Prompt 23 — Subscription Cancellation Confirmation – English & Telugu
+
 Backstory:
+
 A Hyderabad-based OTT platform receives cancellation requests from Telugu-speaking customers. Without a bilingual confirmation, some think the process is incomplete and keep calling support.
 
 Goal:
+
 Create a polite cancellation confirmation that encourages re-subscription in the future.
 
 Prompt:
+
 "You are a subscription lifecycle communication expert. Write a bilingual (English & Telugu) cancellation confirmation that includes:
 
-Customer name
-Subscription plan name
-Effective cancellation date
-Short thank you note and invitation to return
-Link to re-subscribe"
+1. Customer name
+
+2. Subscription plan name
+
+3. Effective cancellation date
+
+4. Short thank you note and invitation to return
+
+5. Link to re-subscribe"
+
 Inputs Required:
 
-Customer name
-Plan name
-Cancellation date
-Re-subscription link
+1. Customer name
+
+2. Plan name
+
+3. Cancellation date
+
+4. Re-subscription link
 
 Prompt 24 — Emergency Service Disruption Alert – English & Bengali
+
 Backstory:
+
 A Kolkata-based water supply company needs to inform residents about urgent service cuts due to repairs. Bengali speakers must get the same clear instructions as English speakers.
 
 Goal:
+
 Create an emergency disruption alert that is concise, clear, and reassuring.
 
 Prompt:
+
 "You are a municipal service communication officer. Write a bilingual (English & Bengali) emergency water supply disruption alert that includes:
 
-Area name affected
-Start and expected restoration time
-Reason for disruption (brief)
-Alternative arrangements (if any)
-Helpline number"
+1. Area name affected
+
+2. Start and expected restoration time
+
+3. Reason for disruption (brief)
+
+4. Alternative arrangements (if any)
+
+5. Helpline number"
+
 Inputs Required:
 
-Area name
-Start time
-Expected restoration time
-Reason for disruption
-Helpline
+1. Area name
+
+2. Start time
+
+3. Expected restoration time
+
+4. Reason for disruption
+
+5. Helpline
 
 Prompt 25 — Welcome Onboarding Script – English & Hindi
+
 Backstory:
+
 A Gurgaon-based wellness app wants to welcome new users warmly. Many speak Hindi as their first language, so a bilingual onboarding ensures no one misses key features.
 
 Goal:
+
 Create a warm, professional onboarding script in English and Hindi for email and app pop-ups.
 
 Prompt:
+
 "You are a user onboarding strategist. Write a bilingual (English & Hindi) welcome message that includes:
 
-Personalized greeting with name
-Overview of app benefits
-3 key actions to get started
-Link to help center"
+1. Personalized greeting with name
+
+2. Overview of app benefits
+
+3. 3 key actions to get started
+
+4. Link to help center"
+
 Inputs Required:
 
-User name
-Key features
-Help center link
+1. User name
+
+2. Key features
+
+3. Help center link
 
 
 Service quality audits
 
 Prompt 1 — Call Center QA Checklist Creation
+
 Backstory:
+
 A large telecom company has a call center with over 200 agents handling billing, technical, and service upgrade queries. Customer churn has increased, and management suspects inconsistent call handling quality. They want to standardize evaluations so that every agent is scored fairly across communication skills, product knowledge, and resolution effectiveness.
 
 Goal:
+
 Create a detailed call quality checklist for QA teams to use during monitoring.
 
 Prompt:
+
 "You are a customer service quality consultant. Create a comprehensive call center QA checklist that includes:
 
-Greeting and tone assessment
-Active listening and empathy indicators
-Product/service knowledge accuracy
-Problem-solving and resolution tracking
-Compliance with legal/brand guidelines
-Closing remarks and call wrap-up quality"
+1. Greeting and tone assessment
+
+2. Active listening and empathy indicators
+
+3. Product/service knowledge accuracy
+
+4. Problem-solving and resolution tracking
+
+5. Compliance with legal/brand guidelines
+
+6. Closing remarks and call wrap-up quality"
+
 Inputs Required:
 
-Industry type
-List of core services/products
-Legal or compliance requirements
-Company tone/style guidelines
+1. Industry type
+
+2. List of core services/products
+
+3. Legal or compliance requirements
+
+4. Company tone/style guidelines
+
+
