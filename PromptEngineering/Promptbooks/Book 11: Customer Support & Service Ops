@@ -1533,97 +1533,150 @@ Inputs Required:
 Multilingual customer scripts
 
 Prompt 1 — Order Delay Notification – English & Hindi
+
 Backstory:
+
 An Indian e-commerce marketplace ships thousands of packages daily to Tier 1–3 cities. Customers speak both Hindi and English. Agents currently write order delay messages in free form, leading to inconsistent tone and missing key details. The company needs a bilingual template to maintain professionalism and trust while providing full delay details.
 
 Goal:
+
 Create a bilingual (English & Hindi) script for informing customers about shipment delays while keeping the tone apologetic yet confident.
 
 Prompt:
+
 "You are a customer communication specialist. Create a bilingual (English & Hindi) order delay notification script that includes:
 
-Standard greeting and name of the company
-Reason for delay (customizable section)
-New estimated delivery date
-Compensation or goodwill gesture (if applicable)
-Contact information for further queries
+1. Standard greeting and name of the company
+
+2. Reason for delay (customizable section)
+
+3. New estimated delivery date
+
+4. Compensation or goodwill gesture (if applicable)
+
+5. Contact information for further queries
+
 Ensure professional tone and equal clarity in both languages."
+
 Inputs Required:
 
-Customer name
-Order ID
-Reason for delay
-New estimated delivery date
-Company’s tone guide
-Compensation details (if any)
+1. Customer name
+
+2. Order ID
+
+3. Reason for delay
+
+4. New estimated delivery date
+
+5. Company’s tone guide
+
+6. Compensation details (if any)
 
 Prompt 2 — Service Appointment Confirmation – English & Tamil
+
 Backstory:
+
 A home appliance repair service in Chennai deals with customers who are comfortable only in Tamil and others in English. Appointment confirmations vary in style, sometimes missing crucial time or location details, leading to cancellations.
 
 Goal:
+
 Create a bilingual (English & Tamil) appointment confirmation script that ensures no detail is missed.
 
 Prompt:
+
 "You are a service operations communication expert. Create a bilingual (English & Tamil) appointment confirmation script that includes:
 
-Warm greeting and acknowledgment of the booking
-Date, time, and service type clearly mentioned
-Technician’s name and contact details
-Reminder to keep the product accessible
-Contact information for rescheduling"
+1. Warm greeting and acknowledgment of the booking
+
+2. Date, time, and service type clearly mentioned
+
+3. Technician’s name and contact details
+
+4. Reminder to keep the product accessible
+
+5. Contact information for rescheduling"
+
 Inputs Required:
 
-Customer name
-Appointment date & time
-Service type
-Technician details
-Contact number
+1. Customer name
+
+2. Appointment date & time
+
+3. Service type
+
+4. Technician details
+
+5. Contact number
 
 Prompt 3 — Payment Reminder – English & Bengali
+
 Backstory:
+
 A Kolkata-based insurance company needs a uniform way to remind customers about premium payments. Without a standardized bilingual script, reminders sound either too aggressive or too casual, affecting collections.
 
 Goal:
+
 Create a bilingual (English & Bengali) polite payment reminder that encourages timely action without sounding threatening.
 
 Prompt:
+
 "You are a financial customer care scriptwriter. Create a bilingual (English & Bengali) premium payment reminder script that includes:
 
-Greeting and customer name
-Amount due and due date
-Easy payment methods listed
-Polite urgency to pay before deadline
-Helpline number for assistance"
+1. Greeting and customer name
+
+2. Amount due and due date
+
+3. Easy payment methods listed
+
+4. Polite urgency to pay before deadline
+
+5. Helpline number for assistance"
+
 Inputs Required:
 
-Customer name
-Policy details
-Payment amount
-Due date
-Payment methods
+1. Customer name
+
+2. Policy details
+
+3. Payment amount
+
+4. Due date
+
+5. Payment methods
 
 Prompt 4 — Refund Processing Update – English & Gujarati
+
 Backstory:
+
 An Ahmedabad-based online retailer often gets queries about refunds. Current responses differ between agents, causing confusion about timelines and refund methods. A standardized bilingual message is required.
 
 Goal:
+
 Create a bilingual (English & Gujarati) refund update script that reassures customers and clearly outlines next steps.
 
 Prompt:
+
 "You are a customer retention specialist. Create a bilingual (English & Gujarati) refund update script that includes:
 
-Thank you for patience message
-Refund method and amount
-Expected timeline for credit
-Contact option for escalation"
+1. Thank you for patience message
+
+2. Refund method and amount
+
+3. Expected timeline for credit
+
+4. Contact option for escalation"
+
 Inputs Required:
 
-Customer name
-Order ID
-Refund amount
-Expected credit date
-Refund method
+1. Customer name
+
+2. Order ID
+
+3. Refund amount
+
+4. Expected credit date
+
+5. Refund method
 
 Prompt 5 — Account Setup Instructions – English & Marathi
 Backstory:
