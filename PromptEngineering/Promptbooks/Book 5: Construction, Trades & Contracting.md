@@ -436,7 +436,7 @@ Your task:
 `Goal: Create a BOQ for an industrial factory expansion.`
 
 `Prompt:`
-`
+
 `"You are an Industrial Facility Estimator. Create a BOQ for expanding an existing factory to include a new production line and storage space.`
 
 ```
