@@ -1,15 +1,15 @@
-Patient communication scripts
+# Patient communication scripts
 
-Prompt 1 — First Consultation Script
+## Prompt 1 — First Consultation Script
 
-Backstory: You are a general physician meeting a new patient for the first time. You want to create a warm, trust-building conversation while collecting essential health details.
+`Backstory: You are a general physician meeting a new patient for the first time. You want to create a warm, trust-building conversation while collecting essential health details.`
 
-Goal: Ensure the patient feels heard, comfortable, and willing to share information.
+`Goal: Ensure the patient feels heard, comfortable, and willing to share information.`
 
-Prompt:
+`Prompt:`
 
-"You are a Primary Care Physician. Write a first consultation script that: 
-
+`"You are a Primary Care Physician. Write a first consultation script that: `
+```
 1. Starts with a warm, culturally sensitive greeting. 
 
 2. Introduces yourself and your role clearly. 
@@ -19,25 +19,25 @@ Prompt:
 4. Covers medical history, lifestyle, and allergies. 
 
 5. Ends by explaining the next steps in care.
-
-Inputs: 
-
+```
+`Inputs: `
+```
 1. Patient’s name 
 
 2. Reason for visit 
 
 3. Language preference"
+```
+## Prompt 2 — Delivering Test Results
 
-Prompt 2 — Delivering Test Results
+`Backstory: A patient is anxious about their blood test results. You need to explain the outcome clearly without causing unnecessary alarm.`
 
-Backstory: A patient is anxious about their blood test results. You need to explain the outcome clearly without causing unnecessary alarm.
+`Goal: Make medical data understandable, actionable, and reassuring.`
 
-Goal: Make medical data understandable, actionable, and reassuring.
+`Prompt:`
 
-Prompt:
-
-"You are a Medical Communicator. Create a script for delivering test results that:
-
+`"You are a Medical Communicator. Create a script for delivering test results that:`
+```
 1. Opens with reassurance before sharing details.
 
 2. Explains each key result in simple terms.
@@ -47,13 +47,13 @@ Prompt:
 4. Outlines next steps or treatment options.
 
 5. Ends with an invitation for follow-up questions.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Type of test
 
 2. Key results"
-
+```
 Prompt 3 — Breaking Bad News
 
 Backstory: You have to inform a patient that their biopsy indicates cancer. This conversation requires empathy, clarity, and emotional support.
