@@ -2412,4 +2412,279 @@ Inputs Required:
 
 4. Expected large future expenses
 
+Prompt 3 — Quarterly Investor Update Report
+Backstory:
+A 30-year-old co-founder of a SaaS startup in Hyderabad has seed investors who require quarterly performance updates. They expect financial KPIs, revenue growth, expense ratios, and future plans in a professional, visually appealing format. The founders have raw numbers but no structured presentation.
 
+Goal:
+Create a polished quarterly investor update report with financial metrics.
+
+Prompt:
+"You are a startup reporting specialist. Create a quarterly investor update with:
+
+Revenue growth % (QoQ)
+Gross and net profit margins
+Burn rate and runway analysis
+Customer acquisition cost and lifetime value
+Graphs showing financial trends"
+Inputs Required:
+
+Quarterly financial statements
+Operational KPIs
+Investor reporting preferences (Excel, PDF, Slides)
+
+Prompt 4 — Annual Budget vs. Actual Report
+Backstory:
+A 32-year-old operations head at a digital marketing agency in Delhi prepared an annual budget at the start of the year. Now, management wants to compare actuals with the budget to identify overspending areas and better plan next year’s targets.
+
+Goal:
+Prepare a detailed budget vs. actual variance report.
+
+Prompt:
+"You are a budgeting analyst. Prepare an annual budget vs. actual report.
+Include:
+
+Budgeted vs. actual revenue and expense figures
+Variance amount and % for each line item
+Color-coded highlights for >10% deviations
+Notes explaining key variances"
+Inputs Required:
+
+Original annual budget
+Actual financial results
+Variance threshold for highlighting
+
+Prompt 5 — KPI Dashboard for E-commerce Store
+Backstory:
+A 25-year-old online store owner in Mumbai sells fashion accessories on Shopify. She wants a financial KPI dashboard showing sales trends, gross margins, and ad spend ROI so she can decide whether to increase marketing budgets.
+
+Goal:
+Create a visual KPI dashboard linking sales, expenses, and profitability.
+
+Prompt:
+"You are an e-commerce analytics expert. Create a KPI dashboard in Excel/Google Sheets.
+Include:
+
+Daily/weekly/monthly sales chart
+Gross profit margin %
+Ad spend vs. revenue generated
+Customer acquisition cost
+Return rate analysis"
+Inputs Required:
+
+Sales data by day/month
+Ad spend records
+Product cost data
+
+Prompt 6 — Department-Wise Expense Report
+Backstory:
+A 31-year-old finance manager at a mid-sized IT company in Noida needs to present a quarterly expense breakdown by department (HR, Marketing, IT, Operations) to the CEO. Currently, all expenses are in one lump sum, making it hard to see which department is overspending. The CEO wants an easy-to-read report with color-coded variance indicators.
+
+Goal:
+Prepare a quarterly department-wise expense report with variance analysis.
+
+Prompt:
+"You are a corporate finance analyst. Prepare a department-wise expense report for the quarter.
+Include:
+
+Total spend per department
+Budgeted vs. actual spend
+Variance in ₹ and %
+Highlight overspending in red and underspending in green"
+Inputs Required:
+
+Expense data categorized by department
+Quarterly budgets for each department
+Variance threshold for highlighting
+
+Prompt 7 — GST Collection & Payment Summary
+Backstory:
+
+A 28-year-old owner of a small electronics store in Surat wants a monthly GST report summarizing total GST collected from customers and GST paid to suppliers, along with net payable or refundable amounts. This helps him prepare for GST return filing without last-minute stress.
+
+Goal:
+
+Create a GST collection and payment summary for the month.
+
+Prompt:
+
+"You are a GST accountant. Prepare a monthly GST summary report.
+
+Include: 
+
+Total GST collected on sales 
+Total GST paid on purchases 
+Net GST payable or refundable 
+Invoice count for sales and purchases"
+Inputs Required: 
+
+Sales invoice list with GST amounts 
+Purchase invoice list with GST amounts 
+GST rate applicable
+
+Prompt 8 — Project-Based Profitability Report
+Backstory:
+A 30-year-old project manager in a construction company in Pune handles multiple client projects. Management wants to know which projects are most profitable by comparing revenue generated with direct costs and allocated overheads.
+
+Goal:
+Prepare a profitability report for each active project.
+
+Prompt:
+"You are a project finance analyst. Create a profitability report for all projects.
+Include:
+
+Revenue earned
+Direct costs (materials, labor)
+Overhead allocation
+Net profit and profit margin % per project"
+Inputs Required:
+
+Project revenue and cost data
+Overhead allocation method
+Project timelines
+
+Prompt 9 — Sales Performance Report by Region
+Backstory:
+A 25-year-old sales analyst at a consumer goods company in Kolkata needs to prepare a monthly report showing sales performance across North, South, East, and West India. The company uses this to adjust regional marketing budgets.
+
+Goal:
+Create a region-wise sales performance report.
+
+Prompt:
+"You are a sales reporting specialist. Prepare a monthly regional sales report.
+Include:
+
+Total sales per region
+Growth rate vs. last month
+Contribution % of each region to total sales
+Top-selling products per region"
+Inputs Required:
+
+Monthly sales data by region
+Previous month’s sales data
+Product category mapping
+
+Prompt 10 — Startup Burn Rate & Runway Report
+Backstory:
+A 27-year-old startup founder in Bengaluru needs to present the company’s financial health to potential investors. She wants a burn rate (monthly net cash outflow) and runway (months before funds run out) calculation based on current expenses and bank balance.
+
+Goal:
+Create a burn rate and runway report for a startup.
+
+Prompt:
+"You are a startup finance analyst. Prepare a burn rate and runway calculation.
+Include:
+
+Average monthly operating expense
+Current bank balance
+Estimated months of runway
+Scenario analysis for reduced or increased spending"
+Inputs Required:
+
+Last 6 months’ expense data
+Current cash reserves
+Any expected large future expenses
+
+Prompt 11 — Balance Sheet Template for MSMEs
+Backstory:
+A 32-year-old owner of a small textile manufacturing unit in Tiruppur needs a professional balance sheet format for bank loan applications. His current records are handwritten and lack standard accounting presentation.
+
+Goal:
+Provide a clean, MSME-friendly balance sheet template.
+
+Prompt:
+"You are an accounting documentation expert. Create a balance sheet template for MSMEs.
+Include:
+
+Assets (current, non-current)
+Liabilities (short-term, long-term)
+Equity section
+Automated total calculation formulas"
+Inputs Required:
+
+Asset and liability lists with values
+Preferred reporting currency
+Reporting date
+
+Prompt 12 — Expense Claim Reimbursement Report
+Backstory:
+A 26-year-old HR coordinator in Delhi needs to submit a monthly reimbursement report for employee travel, meals, and office purchases. The finance department requires itemized claims with approval status.
+
+Goal:
+Prepare an expense claim reimbursement report.
+
+Prompt:
+"You are a corporate HR accountant. Create a monthly employee expense reimbursement report.
+Include:
+
+Employee name and ID
+Expense date and category
+Amount claimed vs. approved
+Approval status"
+Inputs Required:
+
+Employee expense claim data
+Approval records
+Company expense categories
+
+Prompt 13 — Inventory Valuation Report
+Backstory:
+A 29-year-old warehouse manager in Ahmedabad needs a quarterly inventory valuation for the finance team using the weighted average cost method. This helps determine accurate COGS and year-end stock value for reporting.
+
+Goal:
+Prepare a weighted average cost inventory valuation report.
+
+Prompt:
+"You are a supply chain finance specialist. Create a quarterly inventory valuation report.
+Include:
+
+Item name and code
+Quantity on hand
+Weighted average unit cost
+Total inventory value"
+Inputs Required:
+
+Purchase and sales records
+Opening inventory quantity and value
+Valuation method
+
+Prompt 14 — Loan Repayment Schedule Report
+Backstory:
+A 30-year-old business owner in Jaipur has taken multiple loans for equipment purchases. The bank requires a detailed loan repayment schedule showing principal, interest, and outstanding balance each month.
+
+Goal:
+Prepare a loan repayment schedule report.
+
+Prompt:
+"You are a loan accounting expert. Create a loan repayment schedule.
+Include:
+
+EMI amount split into principal and interest
+Outstanding balance after each payment
+Payment due dates"
+Inputs Required:
+
+Loan amount, tenure, and interest rate
+EMI start date
+Prepayment details (if any)
+
+Prompt 15 — Profitability Report by Product Line
+Backstory:
+A 28-year-old FMCG entrepreneur in Lucknow sells snacks, beverages, and condiments. She wants to see which product line has the highest gross and net profitability so she can focus marketing efforts accordingly.
+
+Goal:
+Prepare a product-line profitability report.
+
+Prompt:
+"You are a product finance analyst. Prepare a profitability report for each product line.
+Include:
+
+Revenue per product line
+Direct cost and gross margin %
+Overhead allocation
+Net profit"
+Inputs Required:
+
+Sales data by product line
+Direct cost details
+Overhead allocation rules
