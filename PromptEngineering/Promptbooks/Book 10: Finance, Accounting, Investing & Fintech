@@ -3202,324 +3202,479 @@ Inputs Required:
 3. Sales projections for 3 years
 
 Prompt 3 — Valuation for Business Sale
+
 Backstory:
+
 A 34-year-old restaurateur in Mumbai is considering selling his 4-year-old fine dining restaurant. He has consistent annual revenues of ₹3 crores with a 15% net profit margin. The buyer wants a fair market valuation considering both the asset value and earnings potential.
 
 Goal:
+
 Calculate fair market valuation using asset-based and earnings multiples methods.
 
 Prompt:
+
 *"You are a business broker. Calculate valuation using:
 
-Net Asset Value method
-Earnings Before Interest, Taxes, Depreciation, and Amortization (EBITDA) multiple
-Final valuation range combining both approaches"*
+1. Net Asset Value method
+
+2. Earnings Before Interest, Taxes, Depreciation, and Amortization (EBITDA) multiple
+
+3. Final valuation range combining both approaches"*
+
 Inputs Required:
 
-Latest P&L statement
-List of tangible and intangible assets
-Industry multiple range for restaurants
+1. Latest P&L statement
+
+2. List of tangible and intangible assets
+
+3. Industry multiple range for restaurants
 
 Prompt 4 — ROI from Digital Marketing Campaign
+
 Backstory:
+
 A 27-year-old D2C brand owner in Jaipur ran a 6-month Facebook and Instagram ad campaign costing ₹18 lakhs. The campaign generated 1.8 crore in sales, but she’s unsure of the true ROI after considering product costs, returns, and ad agency fees.
 
 Goal:
+
 Calculate net ROI from the campaign after all costs.
 
 Prompt:
+
 *"You are a marketing ROI analyst. Calculate ROI for the campaign:
 
-Gross sales generated
-Deduct product costs, returns, and agency fees
-Present net ROI % and ROI in ₹ terms"*
+1. Gross sales generated
+
+2. Deduct product costs, returns, and agency fees
+
+3. Present net ROI % and ROI in ₹ terms"*
+
 Inputs Required:
 
-Campaign spend
-Sales data from the campaign
-COGS and return rates
-Agency commission percentage
+1. Campaign spend
+
+2. Sales data from the campaign
+
+3. COGS and return rates
+
+4. Agency commission percentage
 
 Prompt 5— Pre-IPO Company Valuation
+
 Backstory:
+
 A 32-year-old CFO at a mid-sized tech firm in Hyderabad is preparing for a possible IPO. The company has ₹250 crores in annual revenue, strong profitability, and significant brand presence. He wants a valuation using comparable listed company multiples and DCF to present to investment bankers.
 
 Goal:
+
 Estimate pre-IPO valuation using market comparables and DCF.
 
 Prompt:
+
 *"You are an investment banker. Calculate valuation using:
 
-Comparable company analysis (P/E, EV/EBITDA multiples)
-Discounted cash flow model
-Sensitivity analysis based on different growth and discount rate assumptions"*
+1. Comparable company analysis (P/E, EV/EBITDA multiples)
+
+2. Discounted cash flow model
+
+3. Sensitivity analysis based on different growth and discount rate assumptions"*
+
 Inputs Required:
 
-Historical financials for 3–5 years
-Projected financials for next 5 years
-Peer company valuation multiples
+1. Historical financials for 3–5 years
+
+2. Projected financials for next 5 years
+
+3. Peer company valuation multiples
 
 Prompt 6 — Valuation of Franchise Business
+
 Backstory:
+
 A 30-year-old entrepreneur in Ahmedabad operates 3 franchise outlets of a popular coffee chain. Each outlet has consistent footfall and steady profits, but the franchisor is changing royalty rates next year. She wants to value her franchise operations to negotiate with a potential buyer who is interested in taking over all three outlets.
 
 Goal:
+
 Calculate the valuation of the franchise considering operational profits and future royalty changes.
 
 Prompt:
+
 *"You are a franchise valuation consultant. Calculate the business value using:
 
-EBITDA multiple method (based on industry range)
-Adjustments for royalty rate change impact
-Sensitivity analysis for profit fluctuations"*
+1. EBITDA multiple method (based on industry range)
+
+2. Adjustments for royalty rate change impact
+
+3. Sensitivity analysis for profit fluctuations"*
+
 Inputs Required:
 
-Last 3 years’ P&L for each outlet
-Franchise agreement details (royalty % and terms)
-Industry benchmark multiples
+1. Last 3 years’ P&L for each outlet
+
+2. Franchise agreement details (royalty % and terms)
+
+3. Industry benchmark multiples
 
 Prompt 7 — ROI for New Manufacturing Equipment
+
 Backstory:
+
 A 28-year-old production manager in a textile unit in Surat is considering buying an advanced weaving machine costing ₹1.2 crores. The machine promises higher efficiency and reduced wastage, potentially increasing annual profits by ₹25 lakhs. Management wants to know the ROI and payback period before approving the purchase.
 
 Goal:
+
 Calculate ROI and payback period for new equipment investment.
 
 Prompt:
+
 *"You are a manufacturing finance analyst. Calculate:
 
-Annual ROI % from cost savings and added revenue
-Payback period in years
-Net Present Value (NPV) over the equipment’s useful life"*
+1. Annual ROI % from cost savings and added revenue
+
+2. Payback period in years
+
+3. Net Present Value (NPV) over the equipment’s useful life"*
+
 Inputs Required:
 
-Equipment cost
-Annual profit increase from efficiency gains
-Useful life of equipment
-Discount rate for NPV calculation
+1. Equipment cost
+
+2. Annual profit increase from efficiency gains
+
+3. Useful life of equipment
+
+4. Discount rate for NPV calculation
 
 Prompt 8 — Startup Valuation for Seed Funding
+
 Backstory:
+
 A 26-year-old founder in Delhi has built a health-tech app with 50,000 monthly active users but limited revenue. She wants a valuation for seed funding discussions using the Berkus method and comparable early-stage startup deals.
 
 Goal:
+
 Value a pre-revenue startup using alternative valuation methods.
 
 Prompt:
+
 *"You are a startup funding advisor. Estimate valuation using:
 
-Berkus Method
-Comparable early-stage deal multiples (based on user base)
-Final recommended valuation range"*
+1. Berkus Method
+
+2. Comparable early-stage deal multiples (based on user base)
+
+3. Final recommended valuation range"*
+
 Inputs Required:
 
-User base and growth rate
-Product stage and traction metrics
-Comparable funding deal data
+1. User base and growth rate
+
+2. Product stage and traction metrics
+
+3. Comparable funding deal data
 
 Prompt 9 — ROI from Corporate Training Program
+
 Backstory:
+
 A 33-year-old HR manager in Mumbai spent ₹15 lakhs on a leadership training program for mid-level managers. She wants to show management the ROI by correlating it to reduced attrition and improved productivity.
 
 Goal:
+
 Calculate ROI from training investment using HR metrics.
 
 Prompt:
+
 *"You are an HR analytics consultant. Calculate training ROI:
 
-Tangible benefits (productivity gains, attrition cost savings)
-Intangible benefits (employee satisfaction, engagement)
-ROI % and payback period"*
+1. Tangible benefits (productivity gains, attrition cost savings)
+
+2. Intangible benefits (employee satisfaction, engagement)
+
+3. ROI % and payback period"*
+
 Inputs Required:
 
-Training costs
-Attrition rates before and after training
-Productivity metrics before and after training
+1. Training costs
+
+2. Attrition rates before and after training
+
+3. Productivity metrics before and after training
 
 Prompt 10 — Valuation for ESOP Pricing
+
 Backstory:
+
 A 31-year-old CFO at a fintech startup in Bengaluru needs to determine the fair market value (FMV) of shares for issuing ESOPs to employees, in compliance with Indian tax laws.
 
 Goal:
+
 Calculate FMV for ESOP allotment.
 
 Prompt:
+
 *"You are a corporate finance advisor. Calculate FMV using:
 
-DCF method
-Net asset value method
-Choose most appropriate based on company stage"*
+1. DCF method
+
+2. Net asset value method
+
+3. Choose most appropriate based on company stage"*
+
 Inputs Required:
 
-Company financial statements
-Future cash flow projections
-Industry multiples
+1. Company financial statements
+
+2. Future cash flow projections
+
+3. Industry multiples
 
 Prompt 11 — ROI for Retail Store Renovation
+
 Backstory:
+
 A 28-year-old boutique owner in Chandigarh is planning a ₹10 lakh renovation to improve store design and customer experience. She expects this to increase footfall by 30% and sales by 20%.
 
 Goal:
+
 Calculate ROI from store renovation.
 
 Prompt:
+
 *"You are a retail finance consultant. Calculate:
 
-Incremental revenue from renovation
-ROI % over 3 years
-Payback period"*
+1. Incremental revenue from renovation
+
+2. ROI % over 3 years
+
+3. Payback period"*
+
 Inputs Required:
 
-Renovation cost
-Current monthly sales
-Expected % increase in sales
+1. Renovation cost
+
+2. Current monthly sales
+
+3. Expected % increase in sales
 
 Prompt 12 — Startup Exit Valuation
+
 Backstory:
+
 A 34-year-old founder in Hyderabad is negotiating an acquisition offer for his B2B SaaS startup. He needs to know if the offer aligns with industry exit multiples and his company’s growth potential.
 
 Goal:
+
 Estimate fair acquisition value using market data.
 
 Prompt:
+
 *"You are an M&A analyst. Calculate exit valuation using:
 
-Revenue multiple
-EBITDA multiple
-Comparison with recent industry exits"*
+1. Revenue multiple
+
+2. EBITDA multiple
+
+3. Comparison with recent industry exits"*
+
 Inputs Required:
 
-Current ARR and EBITDA
-Industry exit deal database
-Growth rate
+1. Current ARR and EBITDA
+
+2. Industry exit deal database
+
+3. Growth rate
 
 Prompt 13 — ROI for Solar Panel Installation
+
 Backstory:
+
 A 30-year-old factory owner in Nagpur is considering installing solar panels costing ₹50 lakhs to reduce electricity bills. The panels are expected to save ₹9 lakhs annually.
 
 Goal:
+
 Calculate ROI and payback period for solar investment.
 
 Prompt:
+
 *"You are a sustainability finance analyst. Calculate:
 
-Annual savings and ROI %
-Payback period in years
-10-year NPV considering maintenance costs"*
+1. Annual savings and ROI %
+
+2. Payback period in years
+
+3. 10-year NPV considering maintenance costs"*
+
 Inputs Required:
 
-Installation cost
-Annual savings on electricity
-Maintenance costs
-Discount rate
+1. Installation cost
+
+2. Annual savings on electricity
+
+3. Maintenance costs
+
+4. Discount rate
 
 Prompt 14 — Franchise ROI Evaluation
+
 Backstory:
+
 A 27-year-old entrepreneur in Jaipur is considering buying a fast-food franchise for ₹35 lakhs upfront and ₹3 lakhs/month operating costs. Expected monthly revenue is ₹6 lakhs.
 
 Goal:
+
 Evaluate ROI and feasibility of the franchise.
 
 Prompt:
+
 *"You are a franchise ROI consultant. Calculate:
 
-Monthly and annual ROI %
-Break-even point
-5-year payback analysis"*
+1. Monthly and annual ROI %
+
+2. Break-even point
+
+3. 5-year payback analysis"*
+
 Inputs Required:
 
-Franchise investment cost
-Monthly operating cost
-Expected monthly revenue
+1. Franchise investment cost
+
+2. Monthly operating cost
+
+3. Expected monthly revenue
 
 Prompt 15 — Valuation of E-commerce Business for Sale
+
 Backstory:
+
 A 32-year-old e-commerce entrepreneur in Mumbai runs an Amazon store with ₹5 crores in annual revenue and ₹80 lakhs profit. She wants to sell the business and needs a valuation based on profit multiples and market comparables.
 
 Goal:
+
 Calculate e-commerce business valuation.
 
 Prompt:
+
 *"You are an e-commerce business broker. Calculate valuation using:
 
-Seller’s Discretionary Earnings (SDE) multiple
-Comparable online store sales data"*
+1. Seller’s Discretionary Earnings (SDE) multiple
+
+2. Comparable online store sales data"*
+
 Inputs Required:
 
-Annual revenue and profit
-SDE adjustments
-Comparable sales data
+1. Annual revenue and profit
+
+2. SDE adjustments
+
+3. Comparable sales data
 
 Prompt 16 — ROI of Influencer Marketing
+
 Backstory:
+
 A 26-year-old fashion startup founder in Delhi spent ₹12 lakhs on influencer campaigns. She wants to measure the ROI by comparing sales generated directly from influencer links vs. the cost.
 
 Goal:
+
 Calculate influencer marketing ROI.
 
 Prompt:
+
 *"You are a marketing analytics consultant. Calculate:
 
-Total revenue from influencer-driven sales
-ROI %
-CAC vs. LTV of customers acquired"*
+1. Total revenue from influencer-driven sales
+
+2. ROI %
+
+3. CAC vs. LTV of customers acquired"*
+
 Inputs Required:
 
-Campaign cost
-Sales from tracked influencer links
-Average customer lifetime value
+1. Campaign cost
+
+2. Sales from tracked influencer links
+
+3. Average customer lifetime value
 
 Prompt 17 — Valuation for Partnership Buyout
+
 Backstory:
+
 A 31-year-old co-owner of a small manufacturing unit in Ahmedabad wants to buy out his partner’s 50% stake. He needs a valuation that is fair to both parties using earnings multiples and asset valuations.
 
 Goal:
+
 Calculate a fair buyout value.
 
 Prompt:
+
 *"You are a partnership valuation expert. Calculate buyout value using:
 
-Earnings multiple method
-Net asset value method
-Final blended value"*
+1. Earnings multiple method
+
+2. Net asset value method
+
+3. Final blended value"*
+
 Inputs Required:
 
-Annual profit and assets list
-Industry multiple range
+1. Annual profit and assets list
+
+2. Industry multiple range
 
 Prompt 18 — ROI for Event Sponsorship
+
 Backstory:
+
 A 28-year-old beverage brand owner in Bengaluru sponsored a major sports event for ₹20 lakhs. She wants to calculate ROI in terms of increased sales and brand awareness.
 
 Goal:
+
 Evaluate event sponsorship ROI.
 
 Prompt:
+
 *"You are a brand ROI analyst. Calculate:
 
-Incremental sales revenue post-event
-ROI %
-Intangible benefits summary"*
+1. Incremental sales revenue post-event
+
+2. ROI %
+
+3. Intangible benefits summary"*
+
 Inputs Required:
 
-Sponsorship cost
-Sales before and after event
-Brand awareness survey data
+1. Sponsorship cost
+
+2. Sales before and after event
+
+3. Brand awareness survey data
 
 Prompt 19 — Liquidation Value Estimation
+
 Backstory:
+
 A 33-year-old manufacturing business owner in Pune needs to shut down operations and sell assets. She wants to know the liquidation value of machinery, inventory, and other assets for settlement planning.
 
 Goal:
+
 Estimate liquidation value of assets.
 
 Prompt:
+
 *"You are an asset valuation consultant. Calculate:
 
-Current market resale value for each asset
-Total liquidation value after disposal costs"*
+1. Current market resale value for each asset
+
+2. Total liquidation value after disposal costs"*
+
 Inputs Required:
 
-Asset list with purchase details
-Current market price estimates
-Disposal costs
+1. Asset list with purchase details
+
+2. Current market price estimates
+
+3. Disposal costs
+
+
