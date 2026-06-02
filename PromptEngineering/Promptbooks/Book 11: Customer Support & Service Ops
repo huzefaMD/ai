@@ -1188,3 +1188,216 @@ Inputs Required:
 Refund/credit policy
 Subscription management instructions
 Brand communication tone guide
+
+Prompt 16 — Telecom Network Outage Complaint
+Backstory:
+A 31-year-old telecom customer service supervisor in Chennai receives an urgent complaint from a business owner whose internet and phone lines have been down for over 6 hours. The outage has disrupted point-of-sale transactions and caused customer losses. Network outage complaints are high-pressure, as customers expect not just speed but also clarity and accountability. The response must address both the technical and emotional aspects of the situation.
+
+Goal:
+Create a complaint resolution template for telecom network outages that balances transparency with reassurance.
+
+Prompt:
+"You are a telecom service resolution expert. Draft a network outage complaint response template that includes:
+
+Immediate acknowledgment of the impact on daily operations
+Clear update on outage cause (non-technical language)
+Estimated restoration time with regular update commitment
+Temporary alternatives or compensation offers"
+Inputs Required:
+
+Latest outage status report
+Restoration ETA
+Compensation policy
+
+Prompt 17 — Hotel Overbooking Complaint
+Backstory:
+In a Goa beach resort, a 28-year-old reservations manager is faced with a complaint from a family whose prepaid booking was canceled last minute due to overbooking. They arrived late at night after a long journey, only to be told no rooms were available. Overbooking incidents cause deep emotional disappointment and can go viral if mishandled. The response must demonstrate genuine regret, quick recovery action, and a strong retention strategy.
+
+Goal:
+Design an overbooking complaint resolution template for hotels.
+
+Prompt:
+"You are a hospitality guest recovery specialist. Create a resolution template for overbooking cases that includes:
+
+Heartfelt apology acknowledging the inconvenience
+Immediate alternative arrangements (equal or upgraded accommodation)
+Transportation assistance to new location
+Complimentary services or future stay voucher"
+Inputs Required:
+
+Partner hotel list for rebooking
+Transport support contacts
+Compensation guidelines
+
+Prompt 18 — Ride-Hailing Driver Misconduct Complaint
+Backstory:
+
+A 26-year-old customer safety officer in a ride-hailing startup in Delhi receives a complaint about a driver behaving rudely and refusing to follow the GPS route. Such complaints are sensitive as they directly affect customer safety perception and app ratings. The resolution must show zero tolerance for misconduct while protecting due process for the driver.
+
+Goal:
+
+Create a driver misconduct complaint resolution template for ride-hailing services.
+
+Prompt:
+
+"You are a ride-hailing safety and compliance expert. Draft a misconduct complaint response template that includes: 
+
+Immediate acknowledgment of the seriousness of the complaint 
+Assurance of investigation and interim action 
+Clear explanation of customer rights and support channels 
+Commitment to follow-up with investigation outcome"
+Inputs Required: 
+
+Driver conduct policy 
+Investigation SOP 
+Customer protection guidelines
+
+Prompt 19 — Courier Package Damage Complaint
+Backstory:
+
+A 29-year-old claims officer in a courier company in Ahmedabad deals with a complaint from a customer whose fragile ceramic vase arrived shattered. The sender is angry as the package was marked “Handle with Care.” Damage complaints can trigger refund disputes, negative reviews, and insurance claims. The resolution must be empathetic, fast, and clearly outline the claims process.
+
+Goal:
+
+Develop a damaged package complaint resolution template for courier companies.
+
+Prompt:
+
+"You are a courier claims communication expert. Create a resolution template that includes: 
+
+Sincere apology with acknowledgment of package type and value 
+Step-by-step claims and compensation process 
+Timeline for resolution 
+Preventive measures explanation"
+Inputs Required: 
+
+Damage claim form link 
+Compensation limits 
+Handling procedure guidelines
+
+Prompt 20 — Streaming Service Content Removal Complaint
+Backstory:
+A 27-year-old content operations manager at a streaming platform faces a complaint from a user upset about their favorite TV series being removed suddenly. The customer had subscribed specifically for that series. Content removal complaints involve high emotional investment and require careful brand tone management.
+
+Goal:
+Create a complaint resolution template for streaming platforms explaining content removal.
+
+Prompt:
+"You are a streaming service communication strategist. Draft a resolution template that includes:
+
+Understanding of the user’s disappointment
+Transparent reason for removal (e.g., licensing, rights)
+Suggestions for similar shows or replacement content
+Special retention offer (discount, extended trial)"
+Inputs Required:
+
+Removal reason and date
+Alternative content list
+Retention policy
+
+Prompt 21 — Online Course Access Issue Complaint
+Backstory:
+
+A 34-year-old support head at an EdTech company in Bengaluru gets a complaint from a student who paid for a premium course but cannot access it for two days. The student’s exam is approaching, and the delay has caused high stress. The resolution must convey urgency, empathy, and provide an immediate workaround.
+
+Goal:
+
+Develop a course access issue complaint resolution template for EdTech platforms.
+
+Prompt:
+
+"You are an EdTech student success specialist. Create a resolution template that includes: 
+
+Immediate apology with acknowledgment of course importance 
+Emergency alternative access (e.g., PDF, video links) 
+Assurance of priority resolution and timeline 
+Additional learning support offer"
+Inputs Required: 
+
+Access troubleshooting steps 
+Course backup files 
+Support escalation contacts
+
+Prompt 22 — Event Ticket Refund Delay Complaint
+Backstory:
+A 25-year-old ticketing platform support executive in Mumbai is dealing with a complaint from a customer who has been waiting over 15 days for an event refund. Refund delays quickly erode trust in ticketing services and can result in public complaints on social media.
+
+Goal:
+Create a complaint resolution template for delayed refunds in ticketing services.
+
+Prompt:
+"You are a ticketing platform customer experience manager. Draft a refund delay resolution template that includes:
+
+Polite acknowledgment of the delay and customer’s expectation
+Confirmation of refund status and exact reason for delay
+Firm date for refund completion
+Offer of goodwill credit or voucher"
+Inputs Required:
+
+Refund processing time policy
+Current refund status data
+Credit/voucher policy
+
+Prompt 23 — Medical Lab Test Report Delay Complaint
+Backstory:
+A 33-year-old operations manager at a pathology lab in Jaipur receives a complaint from a patient whose critical test results have been delayed, affecting their treatment schedule. Medical delays carry both health and emotional consequences, making swift communication essential.
+
+Goal:
+Develop a complaint resolution template for delayed lab test reports.
+
+Prompt:
+"You are a healthcare service quality expert. Draft a resolution template that includes:
+
+Empathetic acknowledgment of medical urgency
+Clear explanation of delay cause (e.g., equipment calibration)
+Exact delivery timeline for report
+Hotline number for urgent inquiries"
+Inputs Required:
+
+Lab delay SOP
+Test status data
+Urgent escalation contacts
+
+Prompt 24 — Gym Membership Cancellation Refund Complaint
+Backstory:
+A 28-year-old fitness center manager in Lucknow gets a complaint from a member whose cancellation refund has not been processed even after the promised 10 days. The customer feels misled and is threatening to post negative reviews.
+
+Goal:
+Create a complaint resolution template for delayed gym membership refunds.
+
+Prompt:
+"You are a fitness service operations manager. Draft a membership refund resolution template that includes:
+
+Apology with acknowledgment of refund policy timeline
+Reason for delay without defensiveness
+Updated completion date
+Retention incentive (free class or discount if they reconsider)"
+Inputs Required:
+
+Membership refund policy
+Current refund processing queue
+Retention offer options
+
+Prompt 25 — Insurance Claim Rejection Complaint
+Backstory:
+A 35-year-old claims officer at an insurance company in Kolkata handles a complaint from a customer whose claim for hospitalization expenses was rejected. The customer is emotionally distressed and believes the rejection was unfair. Insurance complaints are highly sensitive, requiring precision, transparency, and empathy to avoid escalation to regulators.
+
+Goal:
+Develop a claim rejection complaint resolution template for insurance companies.
+
+Prompt:
+"You are an insurance communication expert. Draft a claim rejection resolution template that includes:
+
+Compassionate acknowledgment of the situation
+Detailed explanation of rejection reason referencing policy terms
+Options for appeal or resubmission
+Contact details for dedicated claims advisor"
+Inputs Required:
+
+Claim rejection reasons
+Policy terms reference
+Appeals process documentation
+
+
+Multilingual customer scripts
+
