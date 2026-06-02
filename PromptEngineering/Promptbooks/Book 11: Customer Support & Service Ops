@@ -2431,141 +2431,218 @@ Inputs Required:
 4. Company tone/style guidelines
 
 Prompt 2  — Email Response Quality Audit Template
+
 Backstory:
+
 A SaaS company receives 1,000+ customer support emails per week. While response times are good, customer satisfaction ratings suggest issues with clarity, tone, and completeness of email replies. Management wants a structured scoring sheet for email audits.
 
 Goal:
+
 Develop a scoring template for evaluating support emails.
 
 Prompt:
+
 "You are a service quality auditor. Create an email response quality scoring template including:
 
-Subject line relevance
-Personalization and greeting tone
-Clarity and accuracy of response
-Grammar, spelling, and formatting checks
-Resolution completeness
-Proper sign-off with support contact"
+1. Subject line relevance
+
+2. Personalization and greeting tone
+
+3. Clarity and accuracy of response
+
+4. Grammar, spelling, and formatting checks
+
+5. Resolution completeness
+
+6. Proper sign-off with support contact"
+
 Inputs Required:
 
-Industry
-Expected tone (formal, casual, friendly)
-Brand style guide
-Typical email categories
+1. Industry
+
+2. Expected tone (formal, casual, friendly)
+
+3. Brand style guide
+
+4. Typical email categories
 
 Prompt 3 — Live Chat Audit Guide
+
 Backstory:
+
 An e-commerce marketplace uses live chat for customer queries. Agents tend to give quick responses, but not always complete ones, leading to repeated chats from the same customer. Management wants a quality audit framework that evaluates both speed and accuracy.
 
 Goal:
+
 Build a live chat quality evaluation guide.
 
 Prompt:
+
 "You are a CX (Customer Experience) auditor. Create a live chat quality audit guide with parameters for:
 
-Response time per message
-Relevance and completeness of answers
-Personalization and tone
-Use of quick reply templates vs. custom responses
-Proper escalation when needed"
+1. Response time per message
+
+2. Relevance and completeness of answers
+
+3. Personalization and tone
+
+4. Use of quick reply templates vs. custom responses
+
+5. Proper escalation when needed"
+
 Inputs Required:
 
-Industry and chat platform
-Average expected response time
-Escalation criteria
-Brand tone
+1. Industry and chat platform
+
+2. Average expected response time
+
+3. Escalation criteria
+
+4. Brand tone
 
 Prompt 4 — Service Visit Field Audit Checklist
+
 Backstory:
+
 A home appliance repair company sends technicians to customer locations. Management suspects that some visits are rushed and lack thoroughness, leading to repeat complaints. They want a standardized field visit audit checklist.
 
 Goal:
+
 Create an on-site service quality checklist.
 
 Prompt:
+
 "You are a field service quality inspector. Develop an on-site service visit audit checklist covering:
 
-Technician punctuality
-Professional appearance and behavior
-Proper diagnosis process
-Repair/installation quality
-Explanation of work done to customer
-Cleanup and courtesy after service"
+1. Technician punctuality
+
+2. Professional appearance and behavior
+
+3. Proper diagnosis process
+
+4. Repair/installation quality
+
+5. Explanation of work done to customer
+
+6. Cleanup and courtesy after service"
+
 Inputs Required:
 
-Service type (repair/installation)
-Safety guidelines
-Minimum customer interaction steps
-Tools/equipment standards
+1. Service type (repair/installation)
+
+2. Safety guidelines
+
+3. Minimum customer interaction steps
+
+4. Tools/equipment standards
 
 Prompt 5 — First Contact Resolution (FCR) Audit Form
+
 Backstory:
+
 A subscription box service wants to track how often customer issues are resolved in the first contact. Currently, they lack a formal metric to measure this, making it hard to improve agent performance.
 
 Goal:
+
 Design an FCR audit form to capture key resolution metrics.
 
 Prompt:
+
 "You are a metrics-driven service auditor. Create a First Contact Resolution (FCR) audit form including:
 
-Customer issue type
-Resolution status on first contact (Y/N)
-Reason if unresolved
-Time taken to resolve
-Escalation path used"
+1. Customer issue type
+
+2. Resolution status on first contact (Y/N)
+
+3. Reason if unresolved
+
+4. Time taken to resolve
+
+5. Escalation path used"
+
 Inputs Required:
 
-Common customer issues
-Definition of “resolved” for the business
-Escalation rules
+1. Common customer issues
+
+2. Definition of “resolved” for the business
+
+3. Escalation rules
 
 Prompt 6 — IVR Journey Quality Audit
+
 Backstory:
+
 A Mumbai-based D2C brand recently upgraded its IVR but call drop-offs have spiked during option selection. Customers complain they can’t reach a human agent quickly, and the menu vocabulary confuses first-time callers. Leadership suspects misaligned menu logic and long sub-menu paths. They want a rigorous IVR audit to identify friction, dead ends, and noncompliant messages.
 
 Goal:
+
 Evaluate the entire IVR journey for clarity, completion rate, compliance, and escalation availability.
 
 Prompt:
+
 “You are a contact center QA consultant. Audit the IVR experience end-to-end.
+
 Include:
 
-Map of menu tree (levels, options, loops).
-Time-to-agent and average steps-to-resolution benchmarks.
-Plain-language test for each prompt (readability, jargon).
-Error paths, dead ends, and repeat loops.
-Regulatory/compliance message presence (recording consent, T&Cs).
-Recommendations to reduce steps, add natural language intents, and improve zero-out to agent.”
+1. Map of menu tree (levels, options, loops).
+
+2. Time-to-agent and average steps-to-resolution benchmarks.
+
+3. Plain-language test for each prompt (readability, jargon).
+
+4. Error paths, dead ends, and repeat loops.
+
+5. Regulatory/compliance message presence (recording consent, T&Cs).
+
+6. Recommendations to reduce steps, add natural language intents, and improve zero-out to agent.”
+
 Inputs Required:
 
-Current IVR call flows & audio scripts
-Call volume by IVR path, drop-off analytics
-Compliance requirements (recording, consent)
-Target SLAs (max steps, time-to-agent)
+1. Current IVR call flows & audio scripts
+
+2. Call volume by IVR path, drop-off analytics
+
+3. Compliance requirements (recording, consent)
+
+4. Target SLAs (max steps, time-to-agent)
 
 Prompt 7 — Social Media Response Quality Audit
+
 Backstory:
+
 A Bangalore fintech sees rising Twitter/Instagram queries but CSAT is lagging versus email and chat. Agents respond fast yet replies feel templated and miss key next steps, causing repeat posts. Brand wants tone alignment, accurate redirections, and lower public escalations. A structured social care audit is needed.
 
 Goal:
+
 Assess social care replies for tone, accuracy, completeness, and deflection effectiveness.
 
 Prompt:
+
 “You are a social CX auditor. Review a sample of social media interactions.
+
 Evaluate:
 
-First response time vs. target.
-Tone fit (empathetic, concise, brand voice).
-Completeness (links, steps, policy clarity).
-Privacy-safe redirection to secure channels.
-Resolution vs. re-contact rate.
-Provide a scorecard and prioritized fixes.”
+1. First response time vs. target.
+
+2. Tone fit (empathetic, concise, brand voice).
+
+3. Completeness (links, steps, policy clarity).
+
+4. Privacy-safe redirection to secure channels.
+
+5. Resolution vs. re-contact rate.
+
+6. Provide a scorecard and prioritized fixes.”
+
 Inputs Required:
 
-Sample posts/DMs with timestamps
-Tone/style guide
-Escalation and privacy policy
-SLA targets for social channels
+1. Sample posts/DMs with timestamps
+
+2. Tone/style guide
+
+3. Escalation and privacy policy
+
+4. SLA targets for social channels
 
 Prompt 8 — Knowledge Base (KB) Accuracy & Findability Audit
 Backstory:
