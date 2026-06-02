@@ -1,1 +1,213 @@
+Helpdesk FAQ creation
 
+Prompt 1 — E-commerce Return & Refund FAQ
+Backstory:
+A 27-year-old operations manager at a Delhi-based online fashion store is struggling with repetitive queries about returns and refunds. Customers often get frustrated because they can’t find clear answers on the website, leading to unnecessary calls to customer care. She wants a comprehensive FAQ page that explains timelines, conditions, and refund modes in plain English and Hindi.
+
+Goal:
+Create a customer-friendly FAQ for returns and refunds.
+
+Prompt:
+"You are an e-commerce helpdesk content specialist. Create a bilingual (English + Hindi) FAQ section for returns and refunds.
+Include:
+
+Return eligibility criteria
+Step-by-step return request process
+Refund timeline and mode of refund
+Common exceptions (e.g., clearance items)
+Inputs Required:
+
+Return policy document
+Refund timelines
+List of exceptions or special cases
+Preferred tone (formal, casual, etc.)
+
+Prompt 2 — Bank Loan Application FAQ
+Backstory:
+A 32-year-old relationship manager in a private bank in Mumbai wants to reduce branch traffic caused by basic queries about personal loans. She needs a concise yet thorough FAQ section on the bank’s app and website that covers everything from eligibility and documents to EMI calculation.
+
+Goal:
+Develop an FAQ section for personal loan applications.
+
+Prompt:
+"You are a banking content writer. Prepare a clear FAQ for personal loan applicants.
+Cover:
+
+Eligibility requirements
+Required documents
+Loan approval timelines
+EMI calculation and repayment terms"
+Inputs Required:
+
+Bank’s personal loan product details
+Documentation checklist
+Processing fee and interest rate table
+
+Prompt 3 — Tech Product Troubleshooting FAQ
+Backstory:
+A 25-year-old customer success executive at a Noida-based electronics company keeps getting the same calls from customers facing Wi-Fi connectivity issues with their smart home device. She wants an FAQ that includes easy-to-follow troubleshooting steps with images or short videos.
+
+Goal:
+Build a self-service troubleshooting FAQ for Wi-Fi issues.
+
+Prompt:
+"You are a tech support content creator. Write a troubleshooting FAQ for smart home device Wi-Fi issues.
+Include:
+
+Common causes of connection failure
+Step-by-step reset and reconnection guide
+Links to video tutorials
+Contact escalation process if problem persists"
+Inputs Required:
+
+Technical troubleshooting steps from engineering team
+User manual
+Photo or video assets for visual guides
+
+Prompt 4 — Healthcare Appointment FAQ
+Backstory:
+A 30-year-old administrator at a private hospital in Pune is facing patient frustration due to confusion over appointment booking, cancellations, and telemedicine procedures. She wants an FAQ that answers these questions clearly for both in-person and online consultations.
+
+Goal:
+Create a patient-friendly appointment and telemedicine FAQ.
+
+Prompt:
+"You are a healthcare communications writer. Develop an FAQ covering:
+
+How to book in-person and online appointments
+Cancellation and rescheduling policy
+Telemedicine technology requirements
+Payment methods accepted"
+Inputs Required:
+
+Hospital’s booking process flow
+Telemedicine software requirements
+Cancellation policy document
+
+Prompt 5 — Travel Agency Visa FAQ
+Backstory:
+
+A 28-year-old travel consultant in Gurgaon handles international tour bookings but spends hours answering basic visa-related questions. She needs a destination-wise visa FAQ that travelers can read before calling the agency.
+
+Goal:
+
+Prepare a country-specific visa FAQ for travelers.
+
+Prompt:
+
+"You are a travel operations specialist. Create a visa FAQ for top 10 travel destinations.
+
+For each destination, include: 
+
+Visa type and validity 
+Processing time 
+Required documents 
+Fees and payment methods"
+Inputs Required: 
+
+Updated visa requirements for each country 
+Processing time and fee data 
+Any travel agency-specific guidelines
+
+Prompt 6 — Food Delivery App Order Issue FAQ
+Backstory:
+A 26-year-old support lead at a food delivery startup in Bengaluru is overwhelmed with calls about missing items, delayed orders, and refund eligibility. She needs an FAQ that customers can quickly refer to in the app before raising a ticket.
+
+Goal:
+Create an app-based FAQ for common order issues.
+
+Prompt:
+"You are a customer support content designer. Create a mobile-friendly FAQ that covers:
+
+What to do if an item is missing
+How to track a delayed order
+Refund/credit policy for order issues
+Contact process for urgent complaints"
+Inputs Required:
+
+Refund policy
+Order tracking flow
+Escalation process guidelines
+
+Prompt 7 — Telecom Service Activation FAQ
+Backstory:
+A 31-year-old regional customer care manager at a telecom provider in Kolkata is struggling with repeated calls about SIM activation, porting, and eSIM setup. She wants an FAQ that answers these queries in plain, jargon-free language.
+
+Goal:
+Build a customer-friendly telecom service activation FAQ.
+
+Prompt:
+"You are a telecom helpdesk writer. Prepare an FAQ covering:
+
+New SIM activation process
+Number portability (MNP) steps
+eSIM activation
+Common errors and their solutions"
+Inputs Required:
+
+Telecom activation process docs
+Regulatory timelines for porting
+Error code list with fixes
+
+Prompt 8 — Online Education Platform FAQ
+Backstory:
+
+A 29-year-old course coordinator at an edtech startup in Hyderabad finds that students often drop out because they can’t find clear answers about course access, live class links, and recorded lectures.
+
+Goal:
+
+Create a comprehensive FAQ for online course access.
+
+Prompt:
+
+"You are an edtech support writer. Build an FAQ covering: 
+
+Accessing course materials 
+Live class link procedures 
+Availability of recordings 
+Troubleshooting login issues"
+Inputs Required: 
+
+LMS platform guide 
+Class schedule 
+Support escalation contacts
+
+Prompt 9 — Ride-Hailing Driver FAQ
+Backstory:
+A 33-year-old driver partner manager at a ride-hailing service in Delhi NCR is dealing with constant queries from new drivers about payouts, penalties, and customer ratings.
+
+Goal:
+Create a driver partner onboarding FAQ.
+
+Prompt:
+"You are a driver relations specialist. Build an FAQ for new drivers covering:
+
+How payouts are calculated
+Penalty conditions
+Understanding customer ratings
+Support contacts for disputes"
+Inputs Required:
+
+Payment structure document
+Penalty rules list
+Driver rating policy
+
+Prompt 10 — Banking Credit Card FAQ
+Backstory:
+A 28-year-old banking call center manager in Chennai is getting high call volumes for credit card activation, bill payment, and reward redemption queries.
+
+Goal:
+Prepare a credit card usage FAQ.
+
+Prompt:
+"You are a banking customer education writer. Create an FAQ covering:
+
+How to activate the card
+Payment methods and due dates
+Reward points earning and redemption
+Fraud prevention tips"
+Inputs Required:
+
+Card product features
+Payment gateway links
+Rewards catalog
