@@ -311,308 +311,459 @@ Inputs Required:
 3. Rewards catalog
 
 Prompt 11 — Airline Check-in & Baggage FAQ
+
 Backstory:
+
 A 30-year-old customer service officer at a domestic airline in India wants to reduce check-in counter congestion by giving passengers an online FAQ about baggage allowances, check-in times, and prohibited items.
 
 Goal:
+
 Create a passenger-friendly check-in FAQ.
 
 Prompt:
+
 "You are an airline support content writer. Develop an FAQ covering:
 
-Cabin and check-in baggage limits
-Check-in and boarding timelines
-Prohibited items list
-Online check-in process"
+1. Cabin and check-in baggage limits
+
+2. Check-in and boarding timelines
+
+3. Prohibited items list
+
+4. Online check-in process"
+
 Inputs Required:
 
-Airline baggage policy
-Security rules
-Boarding process guide
+1. Airline baggage policy
+
+2. Security rules
+
+3. Boarding process guide
 
 Prompt 12 — Insurance Claim FAQ
+
 Backstory:
+
 A 32-year-old claims manager at a general insurance company in Pune is dealing with repeated policyholder queries about the claim filing process and required documents.
 
 Goal:
+
 Develop a claim filing FAQ.
 
 Prompt:
+
 "You are an insurance helpdesk writer. Create an FAQ covering:
 
-Claim eligibility and coverage limits
-Required documents
-Claim submission steps
-Claim status tracking"
+1. Claim eligibility and coverage limits
+
+2. Required documents
+
+3. Claim submission steps
+
+4. Claim status tracking"
+
 Inputs Required:
 
-Policy T&Cs
-Document checklist
-Claim tracking process
+1. Policy T&Cs
+
+2. Document checklist
+
+3. Claim tracking process
 
 Prompt 13 — Gym Membership FAQ
+
 Backstory:
+
 A 25-year-old front desk manager at a fitness chain in Noida is constantly asked about membership freeze policies, class bookings, and locker usage.
 
 Goal:
+
 Create a gym membership FAQ.
 
 Prompt:
+
 "You are a fitness center operations writer. Create an FAQ covering:
 
-Membership plans and renewals
-Freeze/suspension policies
-Class booking rules
-Locker use and safety"
+1. Membership plans and renewals
+
+2. Freeze/suspension policies
+
+3. Class booking rules
+
+4. Locker use and safety"
+
 Inputs Required:
 
-Membership T&Cs
-Class schedule
-Locker policy
+1. Membership T&Cs
+
+2. Class schedule
+
+3. Locker policy
 
 Prompt 14 — NGO Volunteer FAQ
+
 Backstory:
+
 A 27-year-old volunteer coordinator at an NGO in Jaipur is tired of repeating onboarding steps to new volunteers.
 
 Goal:
+
 Create a volunteer onboarding FAQ.
 
 Prompt:
+
 "You are a nonprofit support writer. Prepare an FAQ covering:
 
-Volunteer eligibility and roles
-Registration process
-Activity schedules
-Reimbursement policy (if any)"
+1. Volunteer eligibility and roles
+
+2. Registration process
+
+3. Activity schedules
+
+4. Reimbursement policy (if any)"
+
 Inputs Required:
 
-Volunteer policy
-Activity calendar
-Registration forms
+1. Volunteer policy
+
+2. Activity calendar
+
+3. Registration forms
 
 Prompt 15 — OTT Subscription FAQ
+
 Backstory:
+
 A 26-year-old customer support lead at a streaming service in Mumbai is facing ticket overload from users about subscription plans, renewal, and download limits.
 
 Goal:
+
 Create an OTT subscription FAQ.
 
 Prompt:
+
 "You are an OTT helpdesk content creator. Create an FAQ covering:
 
-Subscription plans and pricing
-Renewal and cancellation
-Download limits and offline viewing
-Troubleshooting playback issues"
+1. Subscription plans and pricing
+
+2. Renewal and cancellation
+
+3. Download limits and offline viewing
+
+4. Troubleshooting playback issues"
+
 Inputs Required:
 
-Plan details
-Renewal policies
+1. Plan details
+
+2. Renewal policies
 
 Prompt 16 — Government Service Portal FAQ
+
 Backstory:
+
 A 31-year-old IT officer in a state e-governance department in Lucknow is tasked with reducing citizen complaints about logging into the government services portal.
 
 Goal:
+
 Create a citizen-friendly FAQ for portal access.
 
 Prompt:
+
 "You are an e-governance communication officer. Build an FAQ covering:
 
-How to create an account
-Password reset process
-Common errors and fixes
-Contact support details"
+1. How to create an account
+
+2. Password reset process
+
+3. Common errors and fixes
+
+4. Contact support details"
+
 Inputs Required:
 
-Portal user manual
-Support contacts
-Error code explanations
+1. Portal user manual
+
+2. Support contacts
+
+3. Error code explanations
 
 Prompt 17 — Event Ticket Booking FAQ
+
 Backstory:
+
 A 29-year-old event manager in Hyderabad is managing a music festival and getting too many repetitive calls about ticket booking, QR codes, and seating arrangements.
 
 Goal:
+
 Create an event ticketing FAQ.
 
 Prompt:
+
 "You are an event customer service writer. Build an FAQ covering:
 
-Online booking process
-E-ticket/QR code access
-Seating chart and upgrades
-Refund policy"
+1. Online booking process
+
+2. E-ticket/QR code access
+
+3. Seating chart and upgrades
+
+4. Refund policy"
+
 Inputs Required:
 
-Ticketing platform guide
-Seating map
-Refund policy
+1. Ticketing platform guide
+
+2. Seating map
+
+3. Refund policy
 
 Prompt 18 — College Admission FAQ
+
 Backstory:
+
 A 33-year-old admissions officer at a Delhi university faces endless calls from parents and students about eligibility, application timelines, and document submission.
 
 Goal:
+
 Create an admission FAQ.
 
 Prompt:
+
 "You are a higher education communications officer. Create an FAQ covering:
 
-Eligibility criteria
-Application process
-Document submission
-Fee payment methods"
+1. Eligibility criteria
+
+2. Application process
+
+3. Document submission
+
+4. Fee payment methods"
+
 Inputs Required:
 
-Admission policy
-Calendar of deadlines
-Fee structure
+1. Admission policy
+
+2. Calendar of deadlines
+
+3. Fee structure
 
 Prompt 19 — Real Estate Buyer FAQ
+
 Backstory:
+
 A 32-year-old sales manager at a property firm in Gurgaon is flooded with calls about payment plans, possession timelines, and legal clearances.
 
 Goal:
+
 Create a property purchase FAQ.
 
 Prompt:
+
 "You are a real estate support writer. Develop an FAQ covering:
 
-Payment schedule
-Possession dates
-Legal documents provided
-Loan assistance details"
+1. Payment schedule
+
+2. Possession dates
+
+3. Legal documents provided
+
+4. Loan assistance details"
+
 Inputs Required:
 
-Payment plan
-Project timeline
-Legal clearance list
+1. Payment plan
+
+2. Project timeline
+
+3. Legal clearance list
 
 Prompt 20 — Courier Tracking FAQ
+
 Backstory:
+
 A 25-year-old customer care agent at a logistics company in Indore is constantly asked about shipment delays and tracking updates.
 
 Goal:
+
 Create a shipment tracking FAQ.
 
 Prompt:
+
 "You are a logistics support content writer. Create an FAQ covering:
 
-How to track a shipment
-Common reasons for delay
-Delivery attempt policies
-Contact escalation process"
+1. How to track a shipment
+
+2. Common reasons for delay
+
+3. Delivery attempt policies
+
+4. Contact escalation process"
+
 Inputs Required:
 
-Tracking process flow
-Delay reason codes
-Escalation SOP
+1. Tracking process flow
+
+2. Delay reason codes
+
+3. Escalation SOP
 
 Prompt 21 — Corporate IT Helpdesk FAQ
+
 Backstory:
+
 A 30-year-old IT manager in a Gurugram-based MNC is tasked with reducing employee tickets for password resets, VPN access, and printer issues.
 
 Goal:
+
 Create an IT helpdesk FAQ for employees.
 
 Prompt:
+
 "You are a corporate IT support writer. Build an FAQ covering:
 
-Password reset
-VPN setup and access
-Printer troubleshooting
-IT asset request process"
+1. Password reset
+
+2. VPN setup and access
+
+3. Printer troubleshooting
+
+4. IT asset request process"
+
 Inputs Required:
 
-IT policies
-Setup guides
-Troubleshooting flowcharts
+1. IT policies
+
+2. Setup guides
+
+3. Troubleshooting flowcharts
 
 Prompt 22 — Hospital Insurance Tie-Up FAQ
+
 Backstory:
+
 A 34-year-old patient services head at a multispeciality hospital in Chennai needs an FAQ to answer patient queries about cashless treatment and insurance tie-ups.
 
 Goal:
+
 Create a hospital insurance FAQ.
 
 Prompt:
+
 "You are a healthcare insurance liaison. Create an FAQ covering:
 
-List of insurance partners
-Cashless claim process
-Documents required
-Reimbursement timelines"
+1. List of insurance partners
+
+2. Cashless claim process
+
+3. Documents required
+
+4. Reimbursement timelines"
+
 Inputs Required:
 
-Insurance partner list
-Claim forms
-Process timelines
+1. Insurance partner list
+
+2. Claim forms
+
+3. Process timelines
 
 Prompt 23 — SaaS Software Pricing FAQ
+
 Backstory:
+
 A 29-year-old sales engineer at a SaaS startup in Pune is facing repetitive questions about subscription tiers, free trials, and add-on costs.
 
 Goal:
+
 Create a SaaS pricing FAQ.
 
 Prompt:
+
 "You are a SaaS product support writer. Develop an FAQ covering:
 
-Pricing tiers and inclusions
-Free trial terms
-Add-on features and costs
-Upgrade/downgrade process"
+1. Pricing tiers and inclusions
+
+2. Free trial terms
+
+3. Add-on features and costs
+
+4. Upgrade/downgrade process"
+
 Inputs Required:
 
-Pricing sheet
-Feature list
-Trial policy
+1. Pricing sheet
+
+2. Feature list
+
+3. Trial policy
 
 Prompt 24 — Hotel Booking FAQ
+
 Backstory:
+
+
 A 28-year-old reservations manager at a resort in Goa is getting repetitive queries about cancellation policies, room upgrades, and check-in timings.
 
 Goal:
+
 Create a hotel booking FAQ.
 
 Prompt:
+
 "You are a hospitality communications specialist. Create an FAQ covering:
 
-Booking process
-Cancellation policy
-Upgrade options
-Check-in/check-out timings"
+1. Booking process
+
+2. Cancellation policy
+
+3. Upgrade options
+
+4. Check-in/check-out timings"
+
 Inputs Required:
 
-Hotel policies
-Room upgrade list
-Booking system guide
+1. Hotel policies
+
+2. Room upgrade list
+
+3. Booking system guide
 
 Prompt 25 — Digital Wallet FAQ
+
 Backstory:
+
 A 26-year-old support executive at a fintech app in Mumbai gets constant calls about wallet loading, UPI limits, and failed transaction refunds.
 
 Goal:
+
 Create a digital wallet FAQ.
 
 Prompt:
+
 "You are a fintech support writer. Build an FAQ covering:
 
-Adding money to wallet
-UPI transaction limits
-Refund timelines for failed transactions
-Account security tips"
+1. Adding money to wallet
+
+2. UPI transaction limits
+
+3. Refund timelines for failed transactions
+
+4. Account security tips"
+
 Inputs Required:
 
-Wallet policy document
-RBI guidelines on UPI limits
-Refund SLA
+1. Wallet policy document
+
+2. RBI guidelines on UPI limits
+
+3. Refund SLA
 
 
 Complaint resolution templates
 
 Prompt 1 — E-commerce Damaged Product Complaint Resolution
+
 Backstory:
 
 A 29-year-old complaint manager at a Bangalore-based e-commerce platform deals with daily customer grievances about damaged products. Customers often feel unheard because responses sound generic. She wants a personalized, empathetic, and solution-oriented template that acknowledges the issue, explains next steps, and offers clear resolution timelines.
@@ -627,13 +778,22 @@ Prompt:
 
 Include: 
 
-Warm acknowledgement of inconvenience 
-Specific steps for return/replacement 
-Expected timelines for resolution 
-Compensation or goodwill gesture if applicable"
+1. Warm acknowledgement of inconvenience 
+
+2. Specific steps for return/replacement 
+
+3. Expected timelines for resolution 
+
+4. Compensation or goodwill gesture if applicable"
+
 Inputs Required: 
 
-Return/replacement policy 
-Resolution timelines 
-Brand tone (formal, empathetic, friendly) 
-Compensation guidelines
+1. Return/replacement policy 
+
+2. Resolution timelines 
+
+3. Brand tone (formal, empathetic, friendly) 
+
+4. Compensation guidelines
+
+
