@@ -1157,16 +1157,16 @@
 ```
 1. PDF notes (15–20 pages)"
 ```
-Prompt 12 — CLAT Legal Reasoning Casebook
+## Prompt 12 — CLAT Legal Reasoning Casebook
 
-Backstory: You manage a CLAT prep site and want to create a case-based reasoning book for the legal reasoning section.
+`Backstory: You manage a CLAT prep site and want to create a case-based reasoning book for the legal reasoning section.`
 
-Goal: Improve analytical reading and argument-building skills.
+`Goal: Improve analytical reading and argument-building skills.`
 
-Prompt:
+`Prompt:`
 
-"You are a CLAT Legal Reasoning Expert. Compile 30 legal reasoning passages that:
-
+`"You are a CLAT Legal Reasoning Expert. Compile 30 legal reasoning passages that:`
+```
 1. Are modeled on recent CLAT papers.
 
 2. Include 4–5 questions per passage.
@@ -1176,29 +1176,29 @@ Prompt:
 4. Focus on law principles rather than rote learning.
 
 5. Encourage critical thinking.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Case law themes
 
 2. Difficulty level
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Casebook (Word/PDF)
 
 2. Answer key (Excel)"
+```
+## Prompt 13 — RRB NTPC General Awareness Capsule
 
-Prompt 13 — RRB NTPC General Awareness Capsule
+`Backstory: You’re creating a weekly current affairs digest for RRB NTPC aspirants focusing on railway-related and general awareness topics.`
 
-Backstory: You’re creating a weekly current affairs digest for RRB NTPC aspirants focusing on railway-related and general awareness topics.
+`Goal: Make GK preparation easy to follow and retain.`
 
-Goal: Make GK preparation easy to follow and retain.
+`Prompt:`
 
-Prompt:
-
-"You are a Railway Exam Content Creator. Create a weekly GK capsule that:
-
+`"You are a Railway Exam Content Creator. Create a weekly GK capsule that:`
+```
 1. Covers national and railway-specific updates.
 
 2. Uses infographics for statistics.
@@ -1208,27 +1208,27 @@ Prompt:
 4. Highlights important railway projects and policies.
 
 5. Keeps content under 10 pages for easy reading.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Week/month to cover
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. PDF capsule
 
 2. MCQ answer sheet"
+```
+## Prompt 14 — Spoken English Test Practice Pack
 
-Prompt 14 — Spoken English Test Practice Pack
+`Backstory: You run an English training center and want to provide practice tests for spoken English proficiency exams like PTE or OET.`
 
-Backstory: You run an English training center and want to provide practice tests for spoken English proficiency exams like PTE or OET.
+`Goal: Help learners improve speaking fluency and pronunciation.`
 
-Goal: Help learners improve speaking fluency and pronunciation.
+`Prompt:`
 
-Prompt:
-
-"You are a Spoken English Exam Coach. Prepare a test pack that:
-
+`"You are a Spoken English Exam Coach. Prepare a test pack that:`
+```
 1. Contains 5 speaking tasks per test.
 
 2. Uses real exam-style prompts.
@@ -1238,29 +1238,29 @@ Prompt:
 4. Includes scoring rubrics.
 
 5. Provides self-assessment guidelines.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Exam type
 
 2. Target band score
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Test scripts (Word)
 
 2. Rubric sheet (PDF)"
+```
+## Prompt 15 — CA Final Audit Revision Kit
 
-Prompt 15 — CA Final Audit Revision Kit
+`Backstory: You run a CA coaching institute and need a revision kit for CA Final Audit students, who often struggle with remembering key clauses and case laws.`
 
-Backstory: You run a CA coaching institute and need a revision kit for CA Final Audit students, who often struggle with remembering key clauses and case laws.
+`Goal: Provide a structured revision aid with practice questions.`
 
-Goal: Provide a structured revision aid with practice questions.
+`Prompt:`
 
-Prompt:
-
-"You are a Chartered Accountancy Faculty. Prepare a CA Final Audit revision kit that: 
-
+`"You are a Chartered Accountancy Faculty. Prepare a CA Final Audit revision kit that: `
+```
 1. Summarizes each chapter in 1–2 pages. 
 
 2. Lists important clauses and case laws separately. 
@@ -1270,29 +1270,29 @@ Prompt:
 4. Provides mind maps for complex topics. 
 
 5. Offers a 7-day revision plan.
-
-Inputs: 
-
+```
+`Inputs: `
+```
 1. ICAI module version 
 
 2. Chapters to prioritize
-
-Output Format: 
-
+```
+`Output Format: `
+```
 1. PDF kit (60–80 pages) 
 
 2. Question bank (Excel)"
+```
+## Prompt 16 — State PSC History Notes
 
-Prompt 16 — State PSC History Notes
+`Backstory: You’re producing state-specific history notes for Public Service Commission aspirants. These must match the state syllabus and highlight important local events.`
 
-Backstory: You’re producing state-specific history notes for Public Service Commission aspirants. These must match the state syllabus and highlight important local events.
+`Goal: Help candidates with targeted, exam-relevant preparation.`
 
-Goal: Help candidates with targeted, exam-relevant preparation.
+`Prompt:`
 
-Prompt:
-
-"You are a State PSC History Content Creator. Compile notes that:
-
+`"You are a State PSC History Content Creator. Compile notes that:`
+```
 1. Cover local and national history relevant to the state.
 
 2. Include timelines of key events.
@@ -1302,29 +1302,29 @@ Prompt:
 4. Provide 20 MCQs per chapter.
 
 5. Use simple language for easy retention.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. State name
 
 2. Syllabus link
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Notes (Word/PDF)
 
 2. MCQ key (Excel)"
+```
+## Prompt 17 — Law Entrance Logical Reasoning Pack
 
-Prompt 17 — Law Entrance Logical Reasoning Pack
+`Backstory: You coach CLAT and AILET aspirants, and logical reasoning is their weakest section. You want to create a targeted practice pack to improve accuracy.`
 
-Backstory: You coach CLAT and AILET aspirants, and logical reasoning is their weakest section. You want to create a targeted practice pack to improve accuracy.
+`Goal: Increase scores through repeated, structured practice.`
 
-Goal: Increase scores through repeated, structured practice.
+`Prompt:`
 
-Prompt:
-
-"You are a Law Entrance Reasoning Expert. Create a pack that:
-
+`"You are a Law Entrance Reasoning Expert. Create a pack that:`
+```
 1. Contains 200 reasoning questions across all sub-topics.
 
 2. Groups questions by difficulty level.
@@ -1334,29 +1334,29 @@ Prompt:
 4. Includes timed practice drills.
 
 5. Highlights common traps and errors.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Exam type
 
 2. Preferred difficulty
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Practice pack (PDF)
 
 2. Solutions (Word)"
+```
+## Prompt 18 — Olympiad Science Workbook
 
-Prompt 18 — Olympiad Science Workbook
+`Backstory: You run a school enrichment program for students preparing for Science Olympiads. The workbook must encourage critical thinking and hands-on learning.`
 
-Backstory: You run a school enrichment program for students preparing for Science Olympiads. The workbook must encourage critical thinking and hands-on learning.
+`Goal: Make science fun yet challenging for young learners.`
 
-Goal: Make science fun yet challenging for young learners.
+`Prompt:`
 
-Prompt:
-
-"You are a STEM Olympiad Coach. Design a workbook that:
-
+`"You are a STEM Olympiad Coach. Design a workbook that:`
+```
 1. Covers Physics, Chemistry, and Biology basics.
 
 2. Includes experiment-based questions.
@@ -1366,29 +1366,29 @@ Prompt:
 4. Uses illustrations to explain concepts.
 
 5. Offers answer keys with explanations.
-
-Inputs:
-
+```
+`Inputs:
+```
 1. Grade level
 
 2. Olympiad name
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Workbook (PDF)
 
 2. Test papers (Word)"
+```
+## Prompt 19 — Judicial Service Exam Bare Act Summaries
 
-Prompt 19 — Judicial Service Exam Bare Act Summaries
+`Backstory: You train aspirants for judicial exams, where memorizing bare acts is critical. You need condensed, easy-to-recall summaries.`
 
-Backstory: You train aspirants for judicial exams, where memorizing bare acts is critical. You need condensed, easy-to-recall summaries.
+`Goal: Improve retention of legal provisions.`
 
-Goal: Improve retention of legal provisions.
+`Prompt:`
 
-Prompt:
-
-"You are a Judicial Exam Faculty. Create bare act summaries that:
-
+`"You are a Judicial Exam Faculty. Create bare act summaries that:`
+```
 1. Present sections in plain language.
 
 2. Highlight important case laws.
@@ -1398,29 +1398,29 @@ Prompt:
 4. Include mnemonics for tricky sections.
 
 5. Fit into a 20-day revision plan.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Act name
 
 2. Key focus sections
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Summaries (Word/PDF)
 
 2. Mnemonic sheet (Excel)"
+```
+## Prompt 20 — SAT Practice Essay Pack
 
-Prompt 20 — SAT Practice Essay Pack
+`Backstory: You run an SAT coaching program and need essay prompts with model answers for students to practice timed writing.`
 
-Backstory: You run an SAT coaching program and need essay prompts with model answers for students to practice timed writing.
+`Goal: Improve structure, clarity, and persuasiveness.`
 
-Goal: Improve structure, clarity, and persuasiveness.
+`Prompt:`
 
-Prompt:
-
-"You are an SAT Writing Coach. Prepare a pack that:
-
+`"You are an SAT Writing Coach. Prepare a pack that:`
+```
 1. Contains 10 essay prompts with real-world themes.
 
 2. Includes a scoring rubric.
@@ -1430,29 +1430,29 @@ Prompt:
 4. Highlights vocabulary and transitions used.
 
 5. Suggests practice timing strategies.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Target difficulty
 
 2. Word count range
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Essay prompts (Word)
 
 2. Model answers (PDF)"
+```
+## Prompt 21 — Chartered Financial Analyst (CFA) Ethics Guide
 
-Prompt 21 — Chartered Financial Analyst (CFA) Ethics Guide
+`Backstory: You mentor CFA aspirants, and ethics is a scoring section if understood well. You want a clear, case-based guide for Level 1.`
 
-Backstory: You mentor CFA aspirants, and ethics is a scoring section if understood well. You want a clear, case-based guide for Level 1.
+`Goal: Make ethics easier to master through application.`
 
-Goal: Make ethics easier to master through application.
+`Prompt:`
 
-Prompt:
-
-"You are a CFA Ethics Trainer. Prepare a guide that: 
-
+`"You are a CFA Ethics Trainer. Prepare a guide that: `
+```
 1. Explains each standard with real-world cases. 
 
 2. Includes common exam traps. 
@@ -1462,29 +1462,29 @@ Prompt:
 4. Summarizes key takeaways at the end of each chapter. 
 
 5. Fits into a 15-day study plan.
-
-Inputs: 
-
+```
+`Inputs: `
+```
 1. CFA Level 
 
 2. Case topics to include
-
-Output Format: 
-
+```
+`Output Format:` 
+```
 1. Ethics guide (PDF) 
 
 2. Question set (Excel)"
+```
+## Prompt 22 — UPSC Mains Answer Writing Kit
 
-Prompt 22 — UPSC Mains Answer Writing Kit
+`Backstory: You manage a UPSC coaching Telegram group and need an answer writing improvement kit for Mains aspirants.`
 
-Backstory: You manage a UPSC coaching Telegram group and need an answer writing improvement kit for Mains aspirants.
+`Goal: Help students structure answers for high marks.`
 
-Goal: Help students structure answers for high marks.
+`Prompt:`
 
-Prompt:
-
-"You are a UPSC Mains Mentor. Create a kit that:
-
+`"You are a UPSC Mains Mentor. Create a kit that:`
+```
 1. Provides model GS answers with introductions, bodies, and conclusions.
 
 2. Includes 30 practice questions.
@@ -1494,29 +1494,29 @@ Prompt:
 4. Suggests diagram usage.
 
 5. Includes self-evaluation checklists.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. GS Paper number
 
 2. Topic preferences
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Answer guide (PDF)
 
 2. Practice set (Word)"
+```
+## Prompt 23 — NET Exam Research Methodology Notes
 
-Prompt 23 — NET Exam Research Methodology Notes
+`Backstory: You’re a NET-qualified lecturer creating research methodology notes for UGC NET Paper 1 aspirants.`
 
-Backstory: You’re a NET-qualified lecturer creating research methodology notes for UGC NET Paper 1 aspirants.
+`Goal: Cover all important concepts in a student-friendly format.`
 
-Goal: Cover all important concepts in a student-friendly format.
+`Prompt:`
 
-Prompt:
-
-"You are a UGC NET Faculty. Compile notes that:
-
+`"You are a UGC NET Faculty. Compile notes that:`
+```
 1. Summarize research methods and designs.
 
 2. Include diagram-based explanations.
@@ -1526,29 +1526,29 @@ Prompt:
 4. Use simple language for non-research backgrounds.
 
 5. Highlight exam-relevant topics.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Syllabus year
 
 2. Topics to emphasize
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Notes (Word/PDF)
 
 2. MCQ sheet (Excel)"
+```
+## Prompt 24 — Defence Services English Grammar Pack
 
-Prompt 24 — Defence Services English Grammar Pack
+`Backstory: You train candidates for SSB and NDA, and grammar is a key selection factor. You need an intensive grammar pack.`
 
-Backstory: You train candidates for SSB and NDA, and grammar is a key selection factor. You need an intensive grammar pack.
+`Goal: Sharpen accuracy in sentence formation and usage.`
 
-Goal: Sharpen accuracy in sentence formation and usage.
+`Prompt:`
 
-Prompt:
-
-"You are a Defence English Coach. Prepare a grammar pack that:
-
+`"You are a Defence English Coach. Prepare a grammar pack that:`
+```
 1. Covers all competitive exam grammar rules.
 
 2. Includes 200 practice questions.
@@ -1558,29 +1558,29 @@ Prompt:
 4. Provides quick revision charts.
 
 5. Uses examples from military contexts.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Exam name
 
 2. Target difficulty
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Grammar pack (PDF)
 
 2. Practice set (Excel)"
+```
+## Prompt 25 — Professional Exam Time Management Plan
 
-Prompt 25 — Professional Exam Time Management Plan
+`Backstory: Many exam aspirants fail due to poor time allocation, not knowledge. You need a time management strategy tailored to each exam type.`
 
-Backstory: Many exam aspirants fail due to poor time allocation, not knowledge. You need a time management strategy tailored to each exam type.
+`Goal: Maximize performance within the exam time limit.`
 
-Goal: Maximize performance within the exam time limit.
+`Prompt:`
 
-Prompt:
-
-"You are an Exam Strategy Consultant. Create a time management plan that:
-
+`"You are an Exam Strategy Consultant. Create a time management plan that:`
+```
 1. Allocates time per question and section.
 
 2. Suggests skipping and revisiting strategies.
@@ -1590,32 +1590,32 @@ Prompt:
 4. Includes pre-exam day and exam-day checklists.
 
 5. Adapts for CBT (Computer Based Test) and pen-paper formats.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Exam name
 
 2. Total duration
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Time plan (Excel)
 
 2. Checklist (PDF)"
+```
 
+# Student engagement ideas
 
-Student engagement ideas
+## Prompt 1 — Interactive Quiz Challenge
 
-Prompt 1 — Interactive Quiz Challenge
+`Backstory: You run an online coaching platform for UPSC aspirants. Students often lose focus in long theory sessions. You want to insert fun, competitive quizzes in between lectures to boost participation and retention.`
 
-Backstory: You run an online coaching platform for UPSC aspirants. Students often lose focus in long theory sessions. You want to insert fun, competitive quizzes in between lectures to boost participation and retention.
+`Goal: Keep learners alert, engaged, and excited to revise.`
 
-Goal: Keep learners alert, engaged, and excited to revise.
+`Prompt:`
 
-Prompt:
-
-"You are a Quiz Game Designer for educational platforms. Create a 15-question interactive quiz based on today’s lecture content. Ensure:
-
+`"You are a Quiz Game Designer for educational platforms. Create a 15-question interactive quiz based on today’s lecture content. Ensure:`
+```
 1. Questions are mixed difficulty.
 
 2. Hints are provided for tough ones.
@@ -1625,25 +1625,25 @@ Prompt:
 4. Leaderboard integration is possible.
 
 5. End with a bonus ‘challenge round’ for extra points.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Topic covered today
 
 2. Target difficulty
 
 3. Number of students"
+```
+## Prompt 2 — Peer-to-Peer Teaching Sessions
 
-Prompt 2 — Peer-to-Peer Teaching Sessions
+`Backstory: You teach coding to beginners online. Some students grasp concepts faster than others. You want a system where quick learners can help peers, boosting confidence for both groups.`
 
-Backstory: You teach coding to beginners online. Some students grasp concepts faster than others. You want a system where quick learners can help peers, boosting confidence for both groups.
+`Goal: Build collaborative learning culture.`
 
-Goal: Build collaborative learning culture.
+`Prompt:`
 
-Prompt:
-
-"You are an Educational Engagement Strategist. Create a peer-to-peer learning plan that:
-
+`"You are an Educational Engagement Strategist. Create a peer-to-peer learning plan that:`
+```
 1. Groups students into pairs or trios.
 
 2. Assigns one student to explain a sub-topic.
@@ -1653,15 +1653,15 @@ Prompt:
 4. Includes feedback forms for both roles.
 
 5. Ends with a reflection activity to reinforce learning.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Topic name
 
 2. Number of students
 
 3. Class duration"
-
+```
 Prompt 3 — Gamified Learning Points System
 
 Backstory: You run an app-based ed-tech startup. Students often leave mid-course because they don’t feel rewarded for small achievements.
