@@ -1770,16 +1770,16 @@
 
 2. Student interest areas"
 ```
-Prompt 7 — “Mystery Problem of the Week”
+## Prompt 7 — “Mystery Problem of the Week”
 
-Backstory: You want to keep students curious throughout the week by releasing a mystery challenge every Monday, with clues revealed daily.
+`Backstory: You want to keep students curious throughout the week by releasing a mystery challenge every Monday, with clues revealed daily.`
 
-Goal: Maintain anticipation, critical thinking, and return visits to your platform.
+`Goal: Maintain anticipation, critical thinking, and return visits to your platform.`
 
-Prompt:
+`Prompt:`
 
-"You are a Challenge-Based Learning Creator. Design a ‘Problem of the Week’ that:
-
+`"You are a Challenge-Based Learning Creator. Design a ‘Problem of the Week’ that:`
+```
 1. Relates directly to the course subject.
 
 2. Is solvable only by applying the week’s lessons.
@@ -1789,25 +1789,25 @@ Prompt:
 4. Encourages team or forum discussions.
 
 5. Rewards the first correct solution with points or perks.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Course topic
 
 2. Difficulty level
 
 3. Hint release schedule"
+```
+## Prompt 8 — Role-Play Simulations
 
-Prompt 8 — Role-Play Simulations
+`Backstory: In your communication skills course, students listen well but hesitate to practice. You want role-play exercises that simulate real situations.`
 
-Backstory: In your communication skills course, students listen well but hesitate to practice. You want role-play exercises that simulate real situations.
+`Goal: Boost confidence and practical skill application.`
 
-Goal: Boost confidence and practical skill application.
+`Prompt:`
 
-Prompt:
-
-"You are a Simulation Designer. Create a role-play activity that: 
-
+`"You are a Simulation Designer. Create a role-play activity that: `
+```
 1. Has 3 clearly defined roles. 
 
 2. Mimics a real-world scenario from the industry. 
@@ -1817,25 +1817,25 @@ Prompt:
 4. Runs for 10 minutes + 5-minute debrief. 
 
 5. Concludes with peer feedback and trainer tips.
-
-Inputs: 
-
+```
+`Inputs: `
+```
 1. Topic scenario 
 
 2. Number of participants 
 
 3. Desired skill outcome"
+```
+## Prompt 9 — Surprise Pop Quizzes
 
-Prompt 9 — Surprise Pop Quizzes
+`Backstory: Attendance is high but attention drops midway in your online coding classes. You want unannounced pop quizzes to keep focus sharp.`
 
-Backstory: Attendance is high but attention drops midway in your online coding classes. You want unannounced pop quizzes to keep focus sharp.
+`Goal: Ensure students actively listen and retain.`
 
-Goal: Ensure students actively listen and retain.
+`Prompt:`
 
-Prompt:
-
-"You are an Engagement-Oriented Instructor. Create a pop quiz that:
-
+`"You are an Engagement-Oriented Instructor. Create a pop quiz that:`
+```
 1. Covers only what’s been taught in that session.
 
 2. Has 5–7 quick questions.
@@ -1845,23 +1845,23 @@ Prompt:
 4. Tracks scores for internal motivation.
 
 5. Concludes with a quick correction discussion.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Lesson notes from today
 
 2. Difficulty range"
+```
+## Prompt 10 — Mini Group Debates
 
-Prompt 10 — Mini Group Debates
+`Backstory: In your law prep course, students need to improve logical argumentation. You want short, structured debates in small groups.`
 
-Backstory: In your law prep course, students need to improve logical argumentation. You want short, structured debates in small groups.
+`Goal: Sharpen thinking, public speaking, and rebuttal skills.`
 
-Goal: Sharpen thinking, public speaking, and rebuttal skills.
+`Prompt:`
 
-Prompt:
-
-"You are a Debate Facilitator. Create a 20-minute mini debate that:
-
+`"You are a Debate Facilitator. Create a 20-minute mini debate that:`
+```
 1. Splits class into ‘For’ and ‘Against’.
 
 2. Gives each side 5 minutes to prepare.
@@ -1871,23 +1871,23 @@ Prompt:
 4. Allows 2 minutes for rebuttals.
 
 5. Ends with audience vote and feedback.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Debate topic
 
 2. Class size"
+```
+## Prompt 11 — “Student of the Month” Recognition
 
-Prompt 11 — “Student of the Month” Recognition
+`Backstory: Your ed-tech app wants to celebrate consistent effort, not just top scores.`
 
-Backstory: Your ed-tech app wants to celebrate consistent effort, not just top scores.
+`Goal: Encourage participation, regular study, and positive behavior.`
 
-Goal: Encourage participation, regular study, and positive behavior.
+`Prompt:`
 
-Prompt:
-
-"You are a Learning Motivation Designer. Create a recognition system that:
-
+`"You are a Learning Motivation Designer. Create a recognition system that:`
+```
 1. Tracks attendance, assignments, and peer help.
 
 2. Selects a monthly winner.
@@ -1897,23 +1897,23 @@ Prompt:
 4. Rewards with certificate and social media spotlight.
 
 5. Involves peer nominations.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Tracking metrics
 
 2. Reward format"
+```
+## Prompt 12 — “Teach the Teacher” Day
 
-Prompt 12 — “Teach the Teacher” Day
+`Backstory: You notice that explaining concepts to others deepens understanding.`
 
-Backstory: You notice that explaining concepts to others deepens understanding.
+`Goal: Give students the platform to teach a topic back to the instructor.`
 
-Goal: Give students the platform to teach a topic back to the instructor.
+`Prompt:`
 
-Prompt:
-
-"You are an Active Learning Coach. Plan a ‘Teach the Teacher’ session that:
-
+`"You are an Active Learning Coach. Plan a ‘Teach the Teacher’ session that:`
+```
 1. Assigns each student a mini-topic.
 
 2. Gives 24 hours to prepare.
@@ -1923,23 +1923,23 @@ Prompt:
 4. Allows peers to ask questions.
 
 5. Concludes with instructor feedback + a fun award.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Topic list
 
 2. Number of students"
+```
+## Prompt 13 — Weekly Learning Reflection Journals
 
-Prompt 13 — Weekly Learning Reflection Journals
+`Backstory: Your students attend class but rarely self-reflect on progress. You want a structured reflection template.`
 
-Backstory: Your students attend class but rarely self-reflect on progress. You want a structured reflection template.
+`Goal: Promote self-awareness and metacognitive learning.`
 
-Goal: Promote self-awareness and metacognitive learning.
+`Prompt:`
 
-Prompt:
-
-"You are a Learning Mindset Coach. Create a weekly reflection journal that:
-
+`"You are a Learning Mindset Coach. Create a weekly reflection journal that:`
+```
 1. Has prompts on what was learned.
 
 2. Includes a section for challenges faced.
@@ -1949,23 +1949,23 @@ Prompt:
 4. Has space for instructor comments.
 
 5. Can be filled online or offline.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Course duration
 
 2. Key focus areas"
+```
+## Prompt 14 — “Hot Seat” Rapid-Fire Rounds
 
-Prompt 14 — “Hot Seat” Rapid-Fire Rounds
+`Backstory: You coach NEET aspirants and want to make revision sessions thrilling.`
 
-Backstory: You coach NEET aspirants and want to make revision sessions thrilling.
+`Goal: Keep adrenaline high while reinforcing knowledge.`
 
-Goal: Keep adrenaline high while reinforcing knowledge.
+`Prompt:`
 
-Prompt:
-
-"You are a Revision Game Master. Design a rapid-fire round where:
-
+`"You are a Revision Game Master. Design a rapid-fire round where:`
+```
 1. One student is in the ‘hot seat’.
 
 2. They answer as many questions as possible in 60 seconds.
@@ -1975,23 +1975,23 @@ Prompt:
 4. Wrong answers pass to the next player.
 
 5. Scores are tallied for a fun leaderboard.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Subject/topic pool
 
 2. Number of players"
+```
+## Prompt 15 — Virtual Scavenger Hunt
 
-Prompt 15 — Virtual Scavenger Hunt
+`Backstory: You teach environmental science and want a creative activity to link theory with everyday life.`
 
-Backstory: You teach environmental science and want a creative activity to link theory with everyday life.
+`Goal: Get students to observe and collect real-world examples.`
 
-Goal: Get students to observe and collect real-world examples.
+`Prompt:`
 
-Prompt:
-
-"You are an Activity Designer. Create a scavenger hunt that:
-
+`"You are an Activity Designer. Create a scavenger hunt that:`
+```
 1. Lists 10–15 items students must find or photograph.
 
 2. Each item must connect to course concepts.
@@ -2001,23 +2001,23 @@ Prompt:
 4. Includes time-bound submission.
 
 5. Rewards creativity in entries.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Topic theme
 
 2. Time limit"
+```
+## Prompt 16 — Live Polls During Class
 
-Prompt 16 — Live Polls During Class
+`Backstory: You’re teaching a marketing class online. Students often go quiet when you ask open-ended questions. You want to use live polls to instantly collect opinions and spark discussion.`
 
-Backstory: You’re teaching a marketing class online. Students often go quiet when you ask open-ended questions. You want to use live polls to instantly collect opinions and spark discussion.
+`Goal: Increase participation and make classes interactive in real time.`
 
-Goal: Increase participation and make classes interactive in real time.
+`Prompt:`
 
-Prompt:
-
-"You are an Ed-Tech Engagement Specialist. Design a 10-minute live poll session that:
-
+`"You are an Ed-Tech Engagement Specialist. Design a 10-minute live poll session that:`
+```
 1. Includes 3–5 multiple-choice questions linked to the lesson.
 
 2. Shows instant results to the class.
@@ -2027,13 +2027,13 @@ Prompt:
 4. Ends with the instructor summarizing the correct concepts.
 
 5. Works on mobile and desktop devices.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Lesson topic
 
 2. Number of participants"
-
+```
 Prompt 17 — Virtual Hackathon/Challenge Day
 
 Backstory: You run a data science bootcamp. Students understand concepts but need hands-on experience under time pressure. You want a mini hackathon.
