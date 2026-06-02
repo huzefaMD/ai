@@ -1532,3 +1532,336 @@ Inputs Required:
 
 Multilingual customer scripts
 
+Prompt 1 — Order Delay Notification – English & Hindi
+Backstory:
+An Indian e-commerce marketplace ships thousands of packages daily to Tier 1–3 cities. Customers speak both Hindi and English. Agents currently write order delay messages in free form, leading to inconsistent tone and missing key details. The company needs a bilingual template to maintain professionalism and trust while providing full delay details.
+
+Goal:
+Create a bilingual (English & Hindi) script for informing customers about shipment delays while keeping the tone apologetic yet confident.
+
+Prompt:
+"You are a customer communication specialist. Create a bilingual (English & Hindi) order delay notification script that includes:
+
+Standard greeting and name of the company
+Reason for delay (customizable section)
+New estimated delivery date
+Compensation or goodwill gesture (if applicable)
+Contact information for further queries
+Ensure professional tone and equal clarity in both languages."
+Inputs Required:
+
+Customer name
+Order ID
+Reason for delay
+New estimated delivery date
+Company’s tone guide
+Compensation details (if any)
+
+Prompt 2 — Service Appointment Confirmation – English & Tamil
+Backstory:
+A home appliance repair service in Chennai deals with customers who are comfortable only in Tamil and others in English. Appointment confirmations vary in style, sometimes missing crucial time or location details, leading to cancellations.
+
+Goal:
+Create a bilingual (English & Tamil) appointment confirmation script that ensures no detail is missed.
+
+Prompt:
+"You are a service operations communication expert. Create a bilingual (English & Tamil) appointment confirmation script that includes:
+
+Warm greeting and acknowledgment of the booking
+Date, time, and service type clearly mentioned
+Technician’s name and contact details
+Reminder to keep the product accessible
+Contact information for rescheduling"
+Inputs Required:
+
+Customer name
+Appointment date & time
+Service type
+Technician details
+Contact number
+
+Prompt 3 — Payment Reminder – English & Bengali
+Backstory:
+A Kolkata-based insurance company needs a uniform way to remind customers about premium payments. Without a standardized bilingual script, reminders sound either too aggressive or too casual, affecting collections.
+
+Goal:
+Create a bilingual (English & Bengali) polite payment reminder that encourages timely action without sounding threatening.
+
+Prompt:
+"You are a financial customer care scriptwriter. Create a bilingual (English & Bengali) premium payment reminder script that includes:
+
+Greeting and customer name
+Amount due and due date
+Easy payment methods listed
+Polite urgency to pay before deadline
+Helpline number for assistance"
+Inputs Required:
+
+Customer name
+Policy details
+Payment amount
+Due date
+Payment methods
+
+Prompt 4 — Refund Processing Update – English & Gujarati
+Backstory:
+An Ahmedabad-based online retailer often gets queries about refunds. Current responses differ between agents, causing confusion about timelines and refund methods. A standardized bilingual message is required.
+
+Goal:
+Create a bilingual (English & Gujarati) refund update script that reassures customers and clearly outlines next steps.
+
+Prompt:
+"You are a customer retention specialist. Create a bilingual (English & Gujarati) refund update script that includes:
+
+Thank you for patience message
+Refund method and amount
+Expected timeline for credit
+Contact option for escalation"
+Inputs Required:
+
+Customer name
+Order ID
+Refund amount
+Expected credit date
+Refund method
+
+Prompt 5 — Account Setup Instructions – English & Marathi
+Backstory:
+A Pune-based fintech startup is onboarding thousands of first-time digital banking customers. Many speak Marathi as their first language. Without a bilingual guide, customers misunderstand setup steps and call support unnecessarily.
+
+Goal:
+Create a bilingual (English & Marathi) account setup script that is clear, concise, and culturally appropriate.
+
+Prompt:
+"You are a fintech onboarding communication specialist. Create a bilingual (English & Marathi) script for guiding customers through digital account setup, including:
+
+Warm welcome to the platform
+Step-by-step registration instructions
+How to set a secure password and enable OTP
+Where to get help if stuck"
+Inputs Required:
+
+Customer name
+Registration link/app name
+Support contact details
+Brand tone guide
+
+Prompt 6 — Product Usage Guidance – English & Kannada
+Backstory:
+A Bengaluru-based electronics company receives repeated “how to use” queries for their smart home devices. Customers speak both English and Kannada. The lack of consistent instructions in both languages reduces product satisfaction.
+
+Goal:
+Create a bilingual (English & Kannada) product usage assistance script for customer service calls.
+
+Prompt:
+"You are a customer experience trainer. Create a bilingual (English & Kannada) product usage assistance script that includes:
+
+Friendly greeting and confirmation of product name/model
+Basic usage instructions in clear, jargon-free language
+Troubleshooting common beginner errors
+Offer for advanced tips or a PDF guide"
+Inputs Required:
+
+Product name & model
+Common usage issues
+Brand tone guide
+
+Prompt 7 — Complaint Acknowledgment – English & Telugu
+Backstory:
+A Hyderabad-based telecom company wants to ensure every complaint is acknowledged in both English and Telugu to build trust and prevent escalation. Currently, some agents skip important empathy phrases.
+
+Goal:
+Create a bilingual complaint acknowledgment script that reassures the customer their issue is being addressed.
+
+Prompt:
+"You are a customer complaint handling expert. Create a bilingual (English & Telugu) complaint acknowledgment script that includes:
+
+Warm and empathetic opening
+Confirmation of complaint details (summarized)
+Assurance of action and expected resolution time
+Contact method for updates"
+Inputs Required:
+
+Customer name
+Complaint ID
+Issue summary
+Resolution timeline
+
+Prompt 8 — Renewal Reminder – English & Malayalam
+Backstory:
+A Kochi-based gym wants to remind members about membership renewal. Members prefer communication in English or Malayalam. Without a standard script, tone varies from pushy to vague, affecting retention.
+
+Goal:
+Create a bilingual (English & Malayalam) polite membership renewal reminder.
+
+Prompt:
+"You are a customer retention specialist. Create a bilingual (English & Malayalam) script for membership renewal reminders, including:
+
+Greeting with customer name
+Expiry date of current membership
+Renewal benefits and offer details
+How to renew online or in person"
+Inputs Required:
+
+Customer name
+Membership expiry date
+Renewal offer details
+Payment methods
+
+Prompt 9 —  Delivery Confirmation – English & Punjabi
+Backstory:
+A Chandigarh-based organic food brand delivers across Punjab. Customers often call to ask if delivery has been completed. A standardized bilingual confirmation message would improve efficiency and trust.
+
+Goal:
+Create a bilingual delivery confirmation script that thanks customers and confirms order completion.
+
+Prompt:
+"You are a last-mile delivery communication expert. Create a bilingual (English & Punjabi) delivery confirmation script that includes:
+
+Thank you message with customer’s name
+Order details (short)
+Confirmation of delivery date/time
+Feedback request link"
+Inputs Required:
+
+Customer name
+Order ID
+Delivery date/time
+Feedback link
+
+Prompt 10 — EMI Payment Reminder – English & Gujarati
+Backstory:
+A microfinance company based in Ahmedabad serves urban and rural clients. Many customers prefer Gujarati over English when discussing financial matters. Currently, agents use informal, inconsistent phrasing, sometimes missing critical details like due dates or late fees. This causes confusion, late payments, and additional support calls. A well-structured, professional bilingual script will ensure clarity, protect customer relationships, and improve repayment rates.
+
+Goal:
+Create a culturally respectful EMI payment reminder script in English and Gujarati that ensures customers understand the amount, due date, and payment process without feeling pressured.
+
+Prompt:
+"You are a microfinance communication strategist. Write a bilingual (English & Gujarati) EMI payment reminder script for phone calls and SMS. The script must include:
+
+A polite greeting using the customer’s name
+Mention of loan type, EMI amount, and due date
+Explanation of late fee policy (if applicable)
+Simple payment instructions via online and offline modes
+Closing line offering assistance"
+Inputs Required:
+
+Customer name
+EMI amount
+Loan type
+Due date
+Late fee details
+Payment methods
+
+Prompt 11 — Refund Status Update – English & Bengali
+Backstory:
+An online fashion retailer in Kolkata processes thousands of refund requests monthly. Many customers speak Bengali and find English-only updates impersonal and confusing. Without a uniform bilingual approach, some agents miss empathy cues, causing frustration and distrust.
+
+Goal:
+Design a refund status update script in English and Bengali that is empathetic, clear, and maintains brand trust.
+
+Prompt:
+"You are an e-commerce support communication expert. Create a bilingual (English & Bengali) refund status update script that includes:
+
+Warm greeting with customer’s name
+Acknowledgment of refund request date
+Current status of refund processing
+Expected completion date and mode of refund
+Contact details for further queries"
+Inputs Required:
+
+Customer name
+Order ID
+Refund request date
+Refund status & expected completion date
+Contact channel for queries
+
+Prompt 12 — Product Warranty Claim – English & Tamil
+Backstory:
+A Chennai-based electronics brand is seeing an increase in warranty claims for its home appliances. Customers often misunderstand the process due to complex English terms in manuals. Without a bilingual Tamil-English guide, they submit incomplete forms or miss deadlines, creating additional service load.
+
+Goal:
+Develop a bilingual warranty claim explanation script in English and Tamil for call center and email use.
+
+Prompt:
+"You are a product support language specialist. Create a bilingual (English & Tamil) warranty claim assistance script that covers:
+
+Warm greeting with acknowledgment of the issue
+Clear eligibility conditions for warranty claims
+Step-by-step submission process (documents, photos, receipts)
+Expected processing time and follow-up procedure"
+Inputs Required:
+
+Customer name
+Product name & model
+Purchase date
+Warranty terms
+Submission channels
+
+Prompt 13 — Order Delay Notification – English & Odia
+Backstory:
+An Odisha-based handicraft exporter ships both locally and internationally. Shipping delays due to seasonal demand often frustrate customers. Odia-speaking customers, in particular, appreciate receiving updates in their native language. Current notifications lack empathy and personalization, leading to cancellations.
+
+Goal:
+Create a delay notification script in English and Odia that is empathetic, transparent, and helps retain customer trust.
+
+Prompt:
+"You are a customer satisfaction strategist. Create a bilingual (English & Odia) order delay notification script including:
+
+Polite greeting with customer name
+Order ID and original delivery date
+Reason for delay (brief and non-technical)
+New estimated delivery date
+Small goodwill gesture (discount code or free shipping)"
+Inputs Required:
+
+Customer name
+Order ID
+Original delivery date
+New estimated delivery date
+Reason for delay
+Compensation details
+
+Prompt 14 — Service Appointment Reminder – English & Urdu
+Backstory:
+A Delhi-based home cleaning services company caters to both English and Urdu-speaking customers. Service no-shows are common because reminders are inconsistent or unclear. A standard bilingual script will reduce missed appointments and improve customer satisfaction.
+
+Goal:
+Create a bilingual appointment reminder in English and Urdu for WhatsApp, SMS, and calls.
+
+Prompt:
+"You are a customer engagement copywriter. Create a bilingual (English & Urdu) appointment reminder script that includes:
+
+Warm greeting with customer’s name
+Date, time, and type of service booked
+Name of assigned service professional
+Contact number in case of rescheduling"
+Inputs Required:
+
+Customer name
+Service type
+Appointment date and time
+Service provider’s name & contact number
+
+Prompt 15 — Premium Subscription Renewal – English & Kannada
+Backstory:
+A Bangalore-based online learning platform offers premium courses in technology and business. Many subscribers are professionals who speak Kannada at home but interact in English at work. Without a bilingual renewal reminder, customers may overlook critical details like expiry date and renewal steps, leading to churn.
+
+Goal:
+Create a friendly and persuasive subscription renewal script in English and Kannada that encourages prompt action while highlighting benefits.
+
+Prompt:
+"You are a retention-focused communication expert. Write a bilingual (English & Kannada) premium subscription renewal reminder that includes:
+
+Customer name in greeting
+Current subscription plan name
+Expiry date of the plan
+Key benefits they will lose if they do not renew
+Step-by-step renewal process (online payment link + support contact)"
+Inputs Required:
+
+Customer name
+Subscription plan name
+Expiry date
+Key features/benefits of the plan
+Renewal payment link
