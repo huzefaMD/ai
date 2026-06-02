@@ -1662,16 +1662,16 @@
 
 3. Class duration"
 ```
-Prompt 3 — Gamified Learning Points System
+## Prompt 3 — Gamified Learning Points System
 
-Backstory: You run an app-based ed-tech startup. Students often leave mid-course because they don’t feel rewarded for small achievements.
+`Backstory: You run an app-based ed-tech startup. Students often leave mid-course because they don’t feel rewarded for small achievements.`
 
-Goal: Introduce a points, badges, and rewards system to keep them motivated.
+`Goal: Introduce a points, badges, and rewards system to keep them motivated.`
 
-Prompt:
+`Prompt:`
 
-"You are a Gamification Expert. Design a points-based system that:
-
+`"You are a Gamification Expert. Design a points-based system that:`
+```
 1. Rewards completion of lessons, quizzes, and assignments.
 
 2. Offers badges for milestones (e.g., 7-day streak).
@@ -1681,25 +1681,25 @@ Prompt:
 4. Allows redeemable rewards (discounts, certificates).
 
 5. Tracks individual progress visually.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Course structure
 
 2. Number of modules
 
 3. Reward budget"
+```
+## Prompt 4 — Real-Life Project Assignments
 
-Prompt 4 — Real-Life Project Assignments
+`Backstory: You teach digital marketing. Students often ask how theory applies in real work. You want to create live projects where they practice in real time.`
 
-Backstory: You teach digital marketing. Students often ask how theory applies in real work. You want to create live projects where they practice in real time.
+`Goal: Boost hands-on skills while keeping engagement high.`
 
-Goal: Boost hands-on skills while keeping engagement high.
+`Prompt:`
 
-Prompt:
-
-"You are a Real-World Learning Designer. Create a project assignment that:
-
+`"You are a Real-World Learning Designer. Create a project assignment that:`
+```
 1. Uses a real client or case study.
 
 2. Has clear deliverables with deadlines.
@@ -1709,25 +1709,25 @@ Prompt:
 4. Requires a final presentation.
 
 5. Offers mentor feedback after submission.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Industry niche
 
 2. Project duration
 
 3. Team size"
+```
+## Prompt 5 — Storytelling Icebreakers
 
-Prompt 5 — Storytelling Icebreakers
+`Backstory: You start each class with a quick lecture, but students log in late or are mentally absent. You want an icebreaker that draws them in instantly.`
 
-Backstory: You start each class with a quick lecture, but students log in late or are mentally absent. You want an icebreaker that draws them in instantly.
+`Goal: Build connection and readiness before diving into content.`
 
-Goal: Build connection and readiness before diving into content.
+`Prompt:`
 
-Prompt:
-
-"You are a Classroom Engagement Coach. Create a 5-minute storytelling activity that:
-
+`"You are a Classroom Engagement Coach. Create a 5-minute storytelling activity that:`
+```
 1. Relates to today’s lesson topic.
 
 2. Encourages student participation.
@@ -1737,23 +1737,23 @@ Prompt:
 4. Ends with a quick learning takeaway.
 
 5. Can be done both online and offline.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Lesson topic
 
 2. Class size"
+```
+## Prompt 6 — “Ask Me Anything” (AMA) Expert Sessions
 
-Prompt 6 — “Ask Me Anything” (AMA) Expert Sessions
+`Backstory: You teach finance and notice students hesitate to ask real-world application questions. You want to host monthly AMA sessions with industry experts.`
 
-Backstory: You teach finance and notice students hesitate to ask real-world application questions. You want to host monthly AMA sessions with industry experts.
+`Goal: Break the ice between learners and professionals, boost practical knowledge.`
 
-Goal: Break the ice between learners and professionals, boost practical knowledge.
+`Prompt:`
 
-Prompt:
-
-"You are an Educational Event Planner. Create a structure for a 60-minute AMA that:
-
+`"You are an Educational Event Planner. Create a structure for a 60-minute AMA that:`
+```
 1. Invites an industry expert relevant to the current course.
 
 2. Starts with a 10-minute expert intro story.
@@ -1763,13 +1763,13 @@ Prompt:
 4. Includes pre-collected student questions.
 
 5. Ends with 10 minutes of actionable tips from the expert.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Expert’s profession & bio
 
 2. Student interest areas"
-
+```
 Prompt 7 — “Mystery Problem of the Week”
 
 Backstory: You want to keep students curious throughout the week by releasing a mystery challenge every Monday, with clues revealed daily.
@@ -2533,16 +2533,16 @@ Inputs:
 ```
 1. Full course script or outline"
 ```
-Prompt 11 — Creating a Signature Teaching Style
+## Prompt 11 — Creating a Signature Teaching Style
 
-Backstory: You want your fitness training course to stand out. You aim to add a unique, recognizable teaching style throughout the course.
+`Backstory: You want your fitness training course to stand out. You aim to add a unique, recognizable teaching style throughout the course.`
 
-Goal: Build a consistent brand voice and delivery style.
+`Goal: Build a consistent brand voice and delivery style.`
 
-Prompt:
+`Prompt:`
 
-"You are a Brand Style Coach for Educators. Suggest a teaching style that:
-
+`"You are a Brand Style Coach for Educators. Suggest a teaching style that:`
+```
 1. Reflects my personality and expertise.
 
 2. Uses consistent visual and verbal elements.
@@ -2552,23 +2552,23 @@ Prompt:
 4. Balances professionalism with relatability.
 
 5. Can be carried across all course materials.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Target audience description
 
 2. Teaching personality traits"
+```
+## Prompt 12 — Progressive Difficulty Design
 
-Prompt 12 — Progressive Difficulty Design
+`Backstory: Your language learning course gets complaints that advanced topics arrive too soon.`
 
-Backstory: Your language learning course gets complaints that advanced topics arrive too soon.
+`Goal: Restructure lessons to ensure proper scaffolding.`
 
-Goal: Restructure lessons to ensure proper scaffolding.
+`Prompt:`
 
-Prompt:
-
-"You are a Learning Progression Expert. Redesign the course so that:
-
+`"You are a Learning Progression Expert. Redesign the course so that:`
+```
 1. Basic grammar is covered before complex sentences.
 
 2. Vocabulary builds gradually.
@@ -2578,21 +2578,21 @@ Prompt:
 4. Revision occurs before moving ahead.
 
 5. Students see measurable growth by mid-course.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Current lesson order"
+```
+## Prompt 13 — Engagement Hooks in Lesson Intros
 
-Prompt 13 — Engagement Hooks in Lesson Intros
+`Backstory: Students drop out early in your public speaking course because the start of lessons feels dry.`
 
-Backstory: Students drop out early in your public speaking course because the start of lessons feels dry.
+`Goal: Hook attention in the first 30 seconds.`
 
-Goal: Hook attention in the first 30 seconds.
+`Prompt:`
 
-Prompt:
-
-"You are an Attention Architect. Write lesson openings that:
-
+`"You are an Attention Architect. Write lesson openings that:`
+```
 1. Start with a relatable question or story.
 
 2. Present a surprising fact or stat.
@@ -2602,23 +2602,23 @@ Prompt:
 4. Maintain a conversational tone.
 
 5. Lead smoothly into the main content.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Lesson titles
 
 2. Target audience interests"
+```
+## Prompt 14 — Balancing Theory and Practice
 
-Prompt 14 — Balancing Theory and Practice
+`Backstory: Your entrepreneurship course has too much theory, and students demand more action steps.`
 
-Backstory: Your entrepreneurship course has too much theory, and students demand more action steps.
+`Goal: Rebalance lesson structure for better application.`
 
-Goal: Rebalance lesson structure for better application.
+`Prompt:`
 
-Prompt:
-
-"You are a Theory-to-Practice Strategist. Adjust my lessons so that:
-
+`"You are a Theory-to-Practice Strategist. Adjust my lessons so that:`
+```
 1. Theory never exceeds 50% of lesson time.
 
 2. Practice activities directly apply the theory.
@@ -2628,21 +2628,21 @@ Prompt:
 4. Students produce something tangible each week.
 
 5. There is room for reflection after practice.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Current lesson outlines"
+```
+## Prompt 15 — Storytelling Integration
 
-Prompt 15 — Storytelling Integration
+`Backstory: You teach a business strategy course, but feedback shows students remember the case stories more than plain facts. You want to intentionally weave storytelling into each module.`
 
-Backstory: You teach a business strategy course, but feedback shows students remember the case stories more than plain facts. You want to intentionally weave storytelling into each module.
+`Goal: Improve retention by making concepts emotionally memorable.`
 
-Goal: Improve retention by making concepts emotionally memorable.
+`Prompt:`
 
-Prompt:
-
-"You are a Story-Driven Course Designer. Integrate stories into my lessons by:
-
+`"You are a Story-Driven Course Designer. Integrate stories into my lessons by:`
+```
 1. Opening each module with a real-world success/failure case.
 
 2. Using character-based storytelling to illustrate challenges.
@@ -2652,23 +2652,23 @@ Prompt:
 4. Relating the story’s outcome to the lesson objective.
 
 5. Providing students with a short recap story to review later.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Lesson/module titles
 
 2. Industry or niche focus"
+```
+## Prompt 16 — Incorporating Learner Pathways
 
-Prompt 16 — Incorporating Learner Pathways
+`Backstory: Your course has beginners, intermediates, and advanced learners all together. One-size-fits-all lessons leave some bored and others lost.`
 
-Backstory: Your course has beginners, intermediates, and advanced learners all together. One-size-fits-all lessons leave some bored and others lost.
+`Goal: Offer custom learning paths without creating three separate courses.`
 
-Goal: Offer custom learning paths without creating three separate courses.
+`Prompt:`
 
-Prompt:
-
-"You are a Personalized Learning Architect. Design learner pathways that:
-
+`"You are a Personalized Learning Architect. Design learner pathways that:`
+```
 1. Start with a placement quiz.
 
 2. Assign students to beginner, intermediate, or advanced tracks.
@@ -2678,23 +2678,23 @@ Prompt:
 4. Share common foundational lessons.
 
 5. Include specialized modules per skill level.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Course topic
 
 2. Number of skill levels"
+```
+## Prompt 17 — Instructor-Led vs. Self-Paced Mix
 
-Prompt 17 — Instructor-Led vs. Self-Paced Mix
+`Backstory: You’re teaching digital art and want some live sessions while keeping most content self-paced. Students need both flexibility and real-time feedback.`
 
-Backstory: You’re teaching digital art and want some live sessions while keeping most content self-paced. Students need both flexibility and real-time feedback.
+`Goal: Create a hybrid structure that keeps everyone engaged.`
 
-Goal: Create a hybrid structure that keeps everyone engaged.
+`Prompt:`
 
-Prompt:
-
-"You are a Hybrid Course Strategist. Plan a course schedule that:
-
+`"You are a Hybrid Course Strategist. Plan a course schedule that:`
+```
 1. Offers pre-recorded lessons for core content.
 
 2. Has live Q&A or workshops weekly.
@@ -2704,23 +2704,23 @@ Prompt:
 4. Uses live time for problem-solving, not lecture.
 
 5. Has clear deadlines for self-paced modules.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Total course duration
 
 2. Number of live sessions possible"
+```
+## Prompt 18 — Capstone Project Planning
 
-Prompt 18 — Capstone Project Planning
+`Backstory: Your web development course should end with a hands-on project showcasing everything students learned.`
 
-Backstory: Your web development course should end with a hands-on project showcasing everything students learned.
+`Goal: Create a capstone that is realistic, portfolio-worthy, and measurable.`
 
-Goal: Create a capstone that is realistic, portfolio-worthy, and measurable.
+`Prompt:`
 
-Prompt:
-
-"You are a Capstone Project Designer. Build a project plan that:
-
+`"You are a Capstone Project Designer. Build a project plan that:`
+```
 1. Incorporates all core skills from the course.
 
 2. Can be completed in 2–3 weeks.
@@ -2730,23 +2730,23 @@ Prompt:
 4. Encourages creativity while meeting set requirements.
 
 5. Is graded on real-world applicability.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Course topic
 
 2. Student skill level"
+```
+## Prompt 19 — Peer Review System
 
-Prompt 19 — Peer Review System
+`Backstory: You want your creative writing course students to learn from each other’s work. Peer reviews could improve engagement and feedback quality.`
 
-Backstory: You want your creative writing course students to learn from each other’s work. Peer reviews could improve engagement and feedback quality.
+`Goal: Build a fair and structured peer review system.`
 
-Goal: Build a fair and structured peer review system.
+`Prompt:`
 
-Prompt:
-
-"You are a Peer Learning Facilitator. Create a peer review framework that:
-
+`"You are a Peer Learning Facilitator. Create a peer review framework that:`
+```
 1. Assigns each student 2–3 peers to review.
 
 2. Provides a rubric for consistent grading.
@@ -2756,23 +2756,23 @@ Prompt:
 4. Encourages constructive and specific suggestions.
 
 5. Allows instructor oversight to ensure fairness.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Assignment type
 
 2. Number of students"
+```
+## Prompt 20 — Weekly Reflection Activities
 
-Prompt 20 — Weekly Reflection Activities
+`Backstory: In your psychology course, you want students to actively connect lessons to their own experiences.`
 
-Backstory: In your psychology course, you want students to actively connect lessons to their own experiences.
+`Goal: Build habits of reflection to deepen learning.`
 
-Goal: Build habits of reflection to deepen learning.
+`Prompt:`
 
-Prompt:
-
-"You are a Reflective Learning Coach. Design weekly reflection activities that:
-
+`"You are a Reflective Learning Coach. Design weekly reflection activities that:`
+```
 1. Take no more than 10 minutes to complete.
 
 2. Encourage personal connections to course content.
@@ -2782,21 +2782,21 @@ Prompt:
 4. Are private but shareable if the student wishes.
 
 5. Can be revisited at the course end to track growth.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Weekly lesson themes"
+```
+## Prompt 21 — Multimedia Balance Audit
 
-Prompt 21 — Multimedia Balance Audit
+`Backstory: Your online photography course heavily uses videos, but you’re unsure if that’s the best mix.`
 
-Backstory: Your online photography course heavily uses videos, but you’re unsure if that’s the best mix.
+`Goal: Ensure an optimal balance of video, text, visuals, and interactive elements.`
 
-Goal: Ensure an optimal balance of video, text, visuals, and interactive elements.
+`Prompt:`
 
-Prompt:
-
-"You are a Multimedia Content Auditor. Review my course to:
-
+`"You are a Multimedia Content Auditor. Review my course to:`
+```
 1. Identify the ratio of different media types.
 
 2. Suggest adjustments for varied learning styles.
@@ -2806,21 +2806,21 @@ Prompt:
 4. Keep file sizes manageable for mobile users.
 
 5. Maintain visual and audio quality standards.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Course content list with media types"
+```
+## Prompt 22 — Accessibility and Inclusivity Check
 
-Prompt 22 — Accessibility and Inclusivity Check
+`Backstory: Your health and wellness course should be usable by learners with disabilities or low-bandwidth internet.`
 
-Backstory: Your health and wellness course should be usable by learners with disabilities or low-bandwidth internet.
+`Goal: Make your course accessible to the widest audience possible.`
 
-Goal: Make your course accessible to the widest audience possible.
+`Prompt:`
 
-Prompt:
-
-"You are an Accessibility Compliance Specialist. Audit my course to:
-
+`"You are an Accessibility Compliance Specialist. Audit my course to:`
+```
 1. Ensure captions/transcripts for all videos.
 
 2. Provide alt-text for images.
@@ -2830,21 +2830,21 @@ Prompt:
 4. Offer downloadable, low-bandwidth alternatives.
 
 5. Comply with WCAG (Web Content Accessibility Guidelines).
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Course content format list"
+```
+## Prompt 23 — Gamification Layer
 
-Prompt 23 — Gamification Layer
+`Backstory: Students in your sales training course need more motivation to complete modules on time.`
 
-Backstory: Students in your sales training course need more motivation to complete modules on time.
+`Goal: Add game-like elements for progress and reward.`
 
-Goal: Add game-like elements for progress and reward.
+`Prompt:`
 
-Prompt:
-
-"You are a Gamification Designer. Add gamified elements that:
-
+`"You are a Gamification Designer. Add gamified elements that:`
+```
 1. Award points for completing lessons.
 
 2. Give badges for milestones.
@@ -2854,23 +2854,23 @@ Prompt:
 4. Allow redeemable rewards (certificates, perks).
 
 5. Celebrate streaks with recognition.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Course length
 
 2. Reward options"
+```
+## Prompt 24 — End-of-Course Certification Design
 
-Prompt 24 — End-of-Course Certification Design
+`Backstory: You want students to proudly share their completion of your data visualization course.`
 
-Backstory: You want students to proudly share their completion of your data visualization course.
+`Goal: Create a professional and meaningful certificate.`
 
-Goal: Create a professional and meaningful certificate.
+`Prompt:`
 
-Prompt:
-
-"You are a Certification Program Creator. Design a certificate that:
-
+`"You are a Certification Program Creator. Design a certificate that:`
+```
 1. Lists the student’s name and completion date.
 
 2. States the skills mastered.
@@ -2880,23 +2880,23 @@ Prompt:
 4. Is shareable on LinkedIn and social media.
 
 5. Has anti-fraud verification features.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Course name
 
 2. Brand style guidelines"
+```
+## Prompt 25 — Post-Course Engagement Plan
 
-Prompt 25 — Post-Course Engagement Plan
+`Backstory: After completing your personal branding course, students often lose momentum. You want them to keep learning and applying skills.`
 
-Backstory: After completing your personal branding course, students often lose momentum. You want them to keep learning and applying skills.
+`Goal: Build a post-course engagement strategy.`
 
-Goal: Build a post-course engagement strategy.
+`Prompt:`
 
-Prompt:
-
-"You are a Learner Retention Strategist. Create a post-course plan that:
-
+`"You are a Learner Retention Strategist. Create a post-course plan that:`
+```
 1. Sends a monthly tip or challenge.
 
 2. Offers alumni-only webinars.
@@ -2906,13 +2906,13 @@ Prompt:
 4. Encourages community discussions.
 
 5. Includes an option for advanced courses.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Niche/industry
 
 2. Communication channels available"
-
+```
 
 # Feedback & assessment templates
 
