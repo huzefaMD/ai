@@ -216,7 +216,7 @@
 
 2. Reason for seeking therapy"
 ```
-Prompt 9 — Diet and Nutrition Counseling
+## Prompt 9 — Diet and Nutrition Counseling
 
 Backstory: You’re advising a patient recovering from gastrointestinal surgery on diet changes.
 
