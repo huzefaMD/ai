@@ -190,16 +190,16 @@
 
 3. Available video quality"
 ```
-Prompt 8 — Mental Health Counseling Intake
+## Prompt 8 — Mental Health Counseling Intake
 
-Backstory: A patient books their first therapy session after months of anxiety. They’re unsure how to start sharing.
+`Backstory: A patient books their first therapy session after months of anxiety. They’re unsure how to start sharing.`
 
-Goal: Create a safe space for them to open up without pressure.
+`Goal: Create a safe space for them to open up without pressure.`
 
-Prompt:
+`Prompt:`
 
-"You are a Therapeutic Intake Specialist. Write an opening session script that:
-
+`"You are a Therapeutic Intake Specialist. Write an opening session script that:`
+```
 1. Explains confidentiality and boundaries.
 
 2. Uses gentle, open-ended questions to explore feelings.
@@ -209,13 +209,13 @@ Prompt:
 4. Reflects empathy through language and tone.
 
 5. Sets small goals for upcoming sessions.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Patient’s age & background
 
 2. Reason for seeking therapy"
-
+```
 Prompt 9 — Diet and Nutrition Counseling
 
 Backstory: You’re advising a patient recovering from gastrointestinal surgery on diet changes.
