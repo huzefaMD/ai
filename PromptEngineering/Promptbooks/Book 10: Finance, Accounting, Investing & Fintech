@@ -2828,4 +2828,254 @@ Inputs Required:
 
 3. Overhead allocation rules
 
+Prompt 16 — Monthly Management Report for SMEs
+Backstory:
+A 33-year-old owner of a 50-employee packaging company in Indore wants a monthly management report that summarizes the company’s performance in a way that’s easy to discuss with his leadership team. He wants a mix of financial and operational KPIs, such as revenue, expenses, production volumes, and order fulfillment rates, in a single document that is clear enough for non-finance managers to understand.
 
+Goal:
+Create a monthly management report combining financial and operational KPIs.
+
+Prompt:
+"You are an SME performance analyst. Prepare a monthly management report.
+Include:
+
+Revenue and expense summary
+Gross and net profit margins
+Key operational KPIs (units produced, order fulfillment %)
+Commentary on performance trends
+Action points for management"
+Inputs Required:
+
+Monthly sales and expense data
+Operational KPI data
+Previous month’s report for comparison
+
+Prompt 17 — Fund Utilization Report for Grant-Funded Projects
+Backstory:
+A 29-year-old project coordinator in a Delhi-based NGO has received a ₹25 lakh grant for a year-long education project. The donor requires quarterly fund utilization reports showing how much money was spent, in which categories, and how much remains unspent. The format must be transparent and audit-friendly.
+
+Goal:
+Prepare a quarterly fund utilization report for a grant project.
+
+Prompt:
+"You are an NGO finance officer. Create a quarterly fund utilization report.
+Include:
+
+Grant amount received and opening balance
+Category-wise expenditure (training, materials, staff salaries)
+Closing balance at quarter-end
+% of funds utilized vs. planned"
+Inputs Required:
+
+Grant agreement details
+Expenditure records by category
+Project timelines
+
+Prompt 18 — Year-End Financial Summary for Investors
+Backstory:
+A 31-year-old founder of an agri-tech startup in Hyderabad needs to send an annual financial summary to existing investors. The report should show key numbers, growth vs. last year, and future projections, while maintaining a clean, professional look for investor confidence.
+
+Goal:
+Create a year-end financial performance summary.
+
+Prompt:
+"You are a startup investor relations analyst. Prepare an annual financial summary.
+Include:
+
+Yearly revenue, expenses, and profit/loss
+Growth % vs. previous year
+Major cost drivers and savings achieved
+Forecast for next year"
+Inputs Required:
+
+Annual P&L
+Previous year’s financials
+Growth projection figures
+
+Prompt 19 — Break-Even Analysis Report
+Backstory:
+A 25-year-old entrepreneur from Surat is launching a handcrafted jewelry line. She needs a break-even analysis to know how many units she must sell to cover fixed and variable costs. This will guide pricing and marketing spend decisions.
+
+Goal:
+Calculate break-even point in units and revenue.
+
+Prompt:
+"You are a business finance analyst. Prepare a break-even analysis report.
+Include:
+
+Fixed costs total
+Variable cost per unit
+Selling price per unit
+Break-even point in units and ₹
+Visual chart of cost vs. revenue"
+Inputs Required:
+
+Fixed cost details
+Variable cost per product
+Selling price per product
+
+Prompt 20 — Comparative Financial Statements
+Backstory:
+A 34-year-old finance head at a chain of gyms in Mumbai wants side-by-side P&L statements for the last three years to show financial trends during the annual board meeting. The focus is on identifying cost control areas and revenue growth opportunities.
+
+Goal:
+Create comparative P&L statements for three years.
+
+Prompt:
+"You are a corporate reporting analyst. Prepare comparative P&L statements for 3 years.
+Include:
+
+Year-wise side-by-side format
+% change year-on-year for each line item
+Commentary on major shifts"
+Inputs Required:
+
+P&L statements for the last 3 years
+Notes on significant events affecting results
+
+Prompt 21 — Cost Centre Report for Multi-Branch Company
+Backstory:
+
+A 30-year-old finance manager at a retail chain in Chennai needs to prepare monthly reports for each store location (cost centre). The head office wants to know which locations are profitable and which are running at a loss.
+
+Goal:
+
+Prepare a branch-wise cost centre report.
+
+Prompt:
+
+"You are a retail finance analyst. Create a monthly cost centre report.
+
+Include: 
+
+Revenue per branch 
+Operating costs per branch 
+Profit/loss per branch 
+Ranking branches by profitability"
+Inputs Required: 
+
+Sales and expense data by branch 
+Overhead allocation rules
+
+Prompt 22 — Expense Ratio Analysis for Mutual Fund House
+Backstory:
+A 28-year-old performance analyst at a mutual fund company in Mumbai wants to analyze operating expense ratios for different fund categories to ensure they are competitive with industry averages.
+
+Goal:
+Prepare an expense ratio analysis report.
+
+Prompt:
+"You are a mutual fund reporting analyst. Prepare an expense ratio analysis by fund category.
+Include:
+
+Expense ratio for each fund
+Industry average comparison
+Recommendations for cost optimization"
+Inputs Required:
+
+Fund NAV and expense data
+Industry benchmarks
+
+Prompt 23 — Monthly Sales & Expense Consolidated Report
+Backstory:
+A 27-year-old entrepreneur in Delhi runs two separate businesses — a café and an online bakery. She wants a consolidated monthly report combining sales and expenses for both ventures to get a single profitability view.
+
+Goal:
+Prepare a consolidated monthly sales and expense report.
+
+Prompt:
+"You are a multi-business finance analyst. Prepare a monthly consolidated report.
+Include:
+
+Sales total for each business and combined total
+Expense total for each business and combined total
+Net profit/loss for each business and combined"
+Inputs Required:
+
+Monthly sales and expense data for both businesses
+Allocation of shared expenses
+
+Prompt 24 — Variance Analysis for Manufacturing Costs
+Backstory:
+A 32-year-old production head in a chemical manufacturing company in Gujarat wants to analyze the difference between standard cost estimates and actual manufacturing costs for the quarter. This helps in improving cost control measures.
+
+Goal:
+Prepare a manufacturing cost variance report.
+
+Prompt:
+"You are a manufacturing cost analyst. Prepare a quarterly variance report.
+Include:
+
+Standard cost vs. actual cost for materials, labor, and overheads
+Variance amount and %
+Root cause analysis of major variances"
+Inputs Required:
+
+Standard cost sheet
+Actual cost records
+Production volume data
+
+Prompt 25 — Annual Compliance Reporting Template
+Backstory:
+A 29-year-old compliance officer at a fintech company in Bengaluru needs an annual report format that includes financial performance, compliance activities, and statutory audit summaries for submission to regulators.
+
+Goal:
+Create a structured compliance and performance annual report template.
+
+Prompt:
+"You are a corporate governance reporting expert. Create an annual compliance and performance report template.
+Include:
+
+Financial summary section
+Compliance activities and audits section
+Risk assessment section
+Future compliance plan"
+Inputs Required:
+
+Annual financial statements
+Compliance activity records
+Audit reports
+
+
+Business valuation & ROI calculation
+
+Prompt 1 — Pre-Funding Startup Valuation
+Backstory:
+A 29-year-old founder from Bengaluru runs a SaaS platform for small retailers. She’s in talks with angel investors but needs to present a credible pre-funding valuation. The startup has been operational for 18 months, has ₹1.2 crore in ARR, and is growing at 15% month-on-month. She wants a valuation based on both revenue multiples and the discounted cash flow (DCF) method so she can justify her ask during investor meetings.
+
+Goal:
+Calculate a pre-funding valuation using multiple methods.
+
+Prompt:
+*"You are a startup valuation analyst. Calculate the company’s pre-funding valuation using:
+
+Revenue multiple (based on SaaS industry norms)
+Discounted Cash Flow (DCF) method with realistic assumptions
+Comparison table of both results
+Brief investor-friendly explanation of methodology"*
+Inputs Required:
+
+Current ARR and MRR
+Last 12 months’ financials
+Growth rate assumptions
+Industry-standard multiples
+Discount rate for DCF
+
+Prompt 2 — ROI Calculation for New Product Launch
+Backstory:
+A 31-year-old FMCG entrepreneur in Pune plans to launch a new flavored beverage line. She has projected development and marketing costs of ₹40 lakhs and expects to sell 2 lakh units in the first year. She wants to know the ROI for year one and over a three-year horizon, factoring in unit price, expected margins, and marketing expenses.
+
+Goal:
+Calculate ROI for a product launch over multiple time frames.
+
+Prompt:
+*"You are a product finance analyst. Calculate ROI for the product launch:
+
+Year 1, Year 2, and Year 3 ROI %
+Break-even point in units and revenue
+Payback period in months"*
+Inputs Required:
+
+Development, production, and marketing costs
+Unit selling price and cost per unit
+Sales projections for 3 years
