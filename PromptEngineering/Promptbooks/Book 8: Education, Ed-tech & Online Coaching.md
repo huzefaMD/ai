@@ -1033,14 +1033,14 @@
 ```
 ## Prompt 8 — GRE Vocabulary Flashcards
 
-Backstory: You run an online GRE prep course and want digital vocabulary flashcards to help students improve verbal scores.
+`Backstory: You run an online GRE prep course and want digital vocabulary flashcards to help students improve verbal scores.`
 
-Goal: Build vocabulary retention with contextual examples.
+`Goal: Build vocabulary retention with contextual examples.`
 
-Prompt:
+`Prompt:`
 
-"You are a GRE Vocabulary Coach. Create 50 flashcards that:
-
+`"You are a GRE Vocabulary Coach. Create 50 flashcards that:`
+```
 1. Include word, pronunciation, part of speech, and definition.
 
 2. Provide example sentences.
@@ -1050,29 +1050,29 @@ Prompt:
 4. Group words by theme.
 
 5. Highlight high-frequency GRE words.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Number of flashcards needed
 
 2. Difficulty level
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Flashcard deck (Excel or CSV)
 
 2. Printable PDF version"
+```
+## Prompt 9 — GATE Mechanical Engineering Mock Test
 
-Prompt 9 — GATE Mechanical Engineering Mock Test
+`Backstory: Your GATE coaching institute wants a full-length mock paper for Mechanical Engineering to simulate the real exam environment.`
 
-Backstory: Your GATE coaching institute wants a full-length mock paper for Mechanical Engineering to simulate the real exam environment.
+`Goal: Identify student strengths and weaknesses before the actual exam.`
 
-Goal: Identify student strengths and weaknesses before the actual exam.
+`Prompt:`
 
-Prompt:
-
-"You are a GATE Exam Setter. Prepare a 3-hour mock test that:
-
+`"You are a GATE Exam Setter. Prepare a 3-hour mock test that:`
+```
 1. Includes 65 questions with correct GATE pattern weightage.
 
 2. Covers all syllabus topics.
@@ -1082,29 +1082,29 @@ Prompt:
 4. Provides step-by-step solutions.
 
 5. Suggests time management strategies.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Syllabus year
 
 2. Difficulty level
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Question paper (PDF)
 
 2. Solution key (PDF)"
+```
+## Prompt 10 — CUET English Language Practice Pack
 
-Prompt 10 — CUET English Language Practice Pack
+`Backstory: You’re making a language practice pack for CUET aspirants focusing on reading comprehension and grammar.`
 
-Backstory: You’re making a language practice pack for CUET aspirants focusing on reading comprehension and grammar.
+`Goal: Help students score higher in the English language section.`
 
-Goal: Help students score higher in the English language section.
-
-Prompt:
+`Prompt:`
 
 "You are a CUET English Coach. Create a practice pack that:
-
+```
 1. Includes 5 reading comprehension passages.
 
 2. Covers grammar topics like tenses, articles, and prepositions.
@@ -1114,29 +1114,29 @@ Prompt:
 4. Provides detailed solutions and explanations.
 
 5. Uses CUET-level difficulty.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Topics to prioritize
 
 2. Word count for passages
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. Practice pack (Word/PDF)
 
 2. Answer key (Excel)"
+```
+## Prompt 11 — NDA Math Revision Notes
 
-Prompt 11 — NDA Math Revision Notes
+`Backstory: You are a defense exam mentor preparing last-minute NDA math revision notes for aspirants with only 10 days before the exam.`
 
-Backstory: You are a defense exam mentor preparing last-minute NDA math revision notes for aspirants with only 10 days before the exam.
+`Goal: Provide condensed, high-impact content.`
 
-Goal: Provide condensed, high-impact content.
+`Prompt:`
 
-Prompt:
-
-"You are a NDA Mathematics Faculty. Prepare 10-day revision notes that:
-
+`"You are a NDA Mathematics Faculty. Prepare 10-day revision notes that:`
+```
 1. Summarize all important formulas and concepts.
 
 2. Include 2–3 example problems per topic.
@@ -1146,17 +1146,17 @@ Prompt:
 4. Highlight frequently tested areas.
 
 5. Organize by exam weightage.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Topics with highest weightage
 
 2. Number of days available
-
-Output Format:
-
+```
+`Output Format:`
+```
 1. PDF notes (15–20 pages)"
-
+```
 Prompt 12 — CLAT Legal Reasoning Casebook
 
 Backstory: You manage a CLAT prep site and want to create a case-based reasoning book for the legal reasoning section.
