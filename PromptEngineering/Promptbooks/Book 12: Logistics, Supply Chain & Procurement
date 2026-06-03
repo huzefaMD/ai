@@ -1,1 +1,299 @@
+Vendor RFQs & sourcing emails
 
+Prompt 1 — Upskilling Program for Experienced Agents
+Backstory:
+A BPO has agents who have been in their roles for over 5 years. While experienced, their skills haven’t evolved to match newer technologies and customer expectations. Management wants an upskilling program to refresh and expand their capabilities.
+
+Goal:
+Develop an upskilling program for seasoned customer support agents.
+
+Prompt:
+*"You are a corporate training designer. Create an upskilling program that includes:
+
+Refresher modules on communication and empathy
+Training on emerging customer support tools and AI systems
+Scenario-based learning for new customer behaviors
+Peer-led workshops for sharing expertise
+Certification pathways to recognize advanced skills"*
+Inputs Required:
+
+Current skill assessment reports
+List of new tools to be adopted
+Examples of modern customer issues vs. 5 years ago
+Recognition and certification policy
+
+Prompt 2 — RFQ for Bulk Raw Material Purchase
+Backstory:
+A mid-sized FMCG manufacturer is scaling up production for the festive season and requires 50 tons of high-grade packaging material. They have identified a list of pre-qualified vendors but want to ensure they get competitive prices without compromising quality. The procurement team must clearly communicate specifications, delivery requirements, and payment terms so vendors can submit accurate quotes.
+
+Goal:
+Prepare a professional RFQ email for sourcing bulk raw materials.
+
+Prompt:
+"You are a procurement manager drafting an RFQ email for bulk packaging material. Your email should:
+
+Introduce your company and state the purpose of the RFQ
+Detail the exact quantity, quality grade, and technical specifications
+Specify the required delivery timeline and destination address
+Request an itemized quote (including product cost, transport, taxes, and packaging)
+Ask for warranty terms, quality certifications, and sample submissions
+Mention preferred payment terms and the deadline for quote submission"
+Inputs Required:
+
+Company name and short profile
+Material specifications (grade, compliance requirements)
+Total quantity needed
+Delivery location and date
+Preferred payment terms
+RFQ submission deadline
+
+Prompt 3 — RFQ for Office Furniture Supply
+Backstory:
+A new IT firm is setting up a 200-seat office space and requires ergonomic chairs, modular desks, and storage units. The HR and Admin teams want furniture that meets ergonomic standards, offers durability, and comes with a warranty. They will be sending this RFQ to multiple vendors to compare prices and delivery timelines.
+
+Goal:
+Draft a detailed RFQ for procuring ergonomic office furniture.
+
+Prompt:
+"You are the office admin preparing an RFQ email for furniture vendors. Your email should:
+
+Briefly describe your company’s setup and need for ergonomic furniture
+Provide a list of required items with quantity and specifications
+Request multiple color/finish options with pricing
+Ask for warranty, after-sales service, and delivery details
+Specify the expected delivery date and installation requirements
+State the RFQ submission deadline"
+Inputs Required:
+
+List of furniture items with specifications
+Total quantity for each item
+Preferred colors/finishes
+Delivery and installation address
+Warranty expectations
+RFQ submission deadline
+
+Prompt 4 — RFQ for IT Hardware Procurement
+Backstory:
+A growing SaaS startup is onboarding 50 new employees and needs laptops, docking stations, and monitors. They want reliable hardware with strong after-sales support and must ensure compatibility with their existing systems. The procurement lead is tasked with drafting an RFQ to shortlist suitable vendors.
+
+Goal:
+Create a detailed RFQ for sourcing IT hardware.
+
+Prompt:
+"You are the IT procurement officer preparing an RFQ email for IT hardware suppliers. Your email should:
+
+Introduce your company and explain the procurement need
+List hardware items with technical specifications
+Request warranty details, installation support, and AMC options
+Ask for pricing with bulk purchase discounts
+Mention delivery timelines and installation requirements
+Set a clear RFQ submission deadline"
+Inputs Required:
+
+List of required hardware items
+Technical specifications for each item
+Quantity needed
+Delivery deadline
+Warranty and support requirements
+RFQ submission date
+
+Prompt 5 — RFQ for Logistics & Freight Services
+Backstory:
+An electronics distributor is expanding into new states and requires a reliable logistics partner for both inbound and outbound shipments. The company needs multi-modal transport options (road + air) and must ensure strict adherence to delivery schedules to avoid delays in fulfilling customer orders. The RFQ should solicit pricing, delivery guarantees, and damage liability clauses from multiple logistics firms.
+
+Goal:
+Prepare an RFQ email for domestic logistics and freight services.
+
+Prompt:
+"You are the supply chain manager preparing an RFQ email to logistics companies. Your email should:
+
+Describe the nature and volume of goods shipped monthly
+Outline pickup and delivery locations, including interstate requirements
+Request mode-wise pricing (road, air, rail)
+Ask for delivery SLAs, tracking capabilities, and damage liability terms
+Specify insurance coverage requirements
+Provide a deadline for submitting the quotation"
+Inputs Required:
+
+Type of goods shipped
+Average monthly shipment volume
+Pickup and delivery locations
+Preferred modes of transport
+Delivery timelines required
+Insurance requirements
+RFQ submission deadline
+
+Prompt 6 — RFQ for Corporate Uniforms
+Backstory:
+
+A large hospitality chain is rebranding and wants to roll out new uniforms for all front-line and back-office staff. They need a vendor who can handle custom designs, provide multiple size fittings, and ensure durable fabric quality for long-term use. The procurement team plans to distribute the uniforms across 20 locations nationwide.
+
+Goal:
+
+Draft an RFQ for sourcing custom corporate uniforms.
+
+Prompt:
+"You are the brand operations manager preparing an RFQ for uniform suppliers. Your email should: 
+
+Introduce your brand and outline the rebranding initiative 
+Specify types of uniforms required (front desk, housekeeping, F&B, admin) 
+Detail material, stitching quality, and customization (logo embroidery, colors) 
+Ask for size charts, trial samples, and bulk pricing 
+Include delivery timelines for each branch location 
+State warranty/replacement policies and submission deadline"
+Inputs Required: 
+
+List of uniform types 
+Quantity per location 
+Material and design preferences 
+Branding requirements (logo placement, color codes) 
+Delivery schedule per location 
+RFQ submission deadline
+
+Prompt 7 — RFQ for Industrial Cleaning Services
+Backstory:
+
+A large manufacturing facility requires monthly deep cleaning of production floors, warehouses, and administrative areas. Vendors must use industrial-grade cleaning equipment, adhere to occupational safety standards, and provide documentation of health and safety compliance. The RFQ must detail chemical usage guidelines and waste disposal processes.
+
+Goal:
+
+Create a comprehensive RFQ for industrial cleaning service providers.
+
+Prompt:
+"You are the facility manager preparing an RFQ email for industrial cleaning vendors. Your email should: 
+
+Describe the size and type of facility areas to be cleaned 
+Mention cleaning frequency and preferred hours for operations 
+Specify approved cleaning materials and environmental guidelines 
+Request waste disposal methods and compliance certifications 
+Ask for cost per service and monthly package pricing 
+Set expectations for insurance coverage and RFQ submission deadline"
+Inputs Required: 
+
+Facility size and layout details 
+Cleaning frequency 
+Specific sanitation requirements 
+Approved cleaning materials list 
+Insurance and compliance requirements 
+RFQ submission deadline
+
+Prompt 8 — RFQ for Corporate Catering
+Backstory:
+A company with 500 employees wants to introduce a daily lunch service to improve employee satisfaction and health. They require vendors who can provide balanced meals, accommodate dietary restrictions, and ensure timely delivery to their premises. The RFQ should request menus, cost per meal, and hygiene compliance certifications.
+
+Goal:
+Draft a vendor RFQ for daily corporate catering services.
+
+Prompt:
+"You are the office admin preparing an RFQ email for corporate catering vendors. Your email should:
+
+State the total headcount and meal type requirements
+Ask for sample menus with vegetarian, vegan, and non-veg options
+Request details on meal rotation frequency
+Include delivery timelines and serving method preferences
+Ask for pricing per meal and monthly contracts
+Require hygiene certifications and submission deadline"
+Inputs Required:
+
+Number of employees to serve
+Meal preferences/dietary restrictions
+Delivery location and timing
+Serving format (buffet, packed meals)
+RFQ submission deadline
+
+Prompt 9 — RFQ for Safety Equipment
+Backstory:
+A new infrastructure project requires personal protective equipment (PPE) for all site workers. Items include helmets, gloves, safety shoes, and high-visibility jackets. Vendors must supply BIS/ISO-certified gear and ensure timely delivery before project commencement.
+
+Goal:
+Draft a detailed RFQ for PPE procurement.
+
+Prompt:
+"You are the site safety officer preparing an RFQ email for PPE vendors. Your email should:
+
+List all PPE items required with relevant certifications
+Mention size variations and customization (logo printing) if needed
+Request bulk pricing, warranty, and replacement terms
+Include delivery timelines and compliance with safety standards
+Specify insurance coverage and RFQ submission deadline"
+Inputs Required:
+
+List of PPE items and specifications
+Quantity per item
+Certification requirements
+Delivery location and deadline
+RFQ submission date
+
+Prompt 10 — RFQ for Printing & Branding Services
+Backstory:
+A retail chain is launching a seasonal sale and needs banners, posters, and brochures printed in bulk. The vendor must deliver high-quality prints with color accuracy and meet strict deadlines to align with the campaign launch.
+
+Goal:
+Create an RFQ for printing and branding services.
+
+Prompt:
+"You are the marketing manager preparing an RFQ for printing vendors. Your email should:
+
+Specify the types of materials to be printed (banners, flyers, posters)
+Mention size, paper quality, and finish requirements
+State quantities for each item
+Request proofing process details and turnaround time
+Ask for pricing with bulk discounts and delivery terms
+Provide RFQ submission deadline"
+Inputs Required:
+
+List of print materials with specifications
+Quantity per item
+Preferred paper/material type
+Delivery date
+RFQ submission deadline
+
+Prompt 11 — RFQ for Warehouse Management System (WMS)
+Backstory:
+A logistics company is upgrading its warehouse operations and needs a software system to handle inventory management, shipment tracking, and integration with their ERP. The system must be scalable for future expansion and offer robust customer support.
+
+Goal:
+Prepare a detailed RFQ for a WMS vendor.
+
+Prompt:
+"You are the IT head drafting an RFQ email for WMS providers. Your email should:
+
+Describe your current warehouse operations and challenges
+List required software features (inventory tracking, order management, analytics)
+Specify integration requirements with existing systems
+Ask for licensing, training, and support details
+Request pricing for setup and subscription plans
+Provide RFQ submission deadline"
+Inputs Required:
+
+Warehouse details (size, operations)
+List of desired features/modules
+Integration requirements
+User licenses needed
+Go-live timeline
+RFQ submission deadline
+
+Prompt 12 — RFQ for Office Furniture
+Backstory:
+A rapidly growing tech startup is moving into a new workspace and needs ergonomic office furniture to support employee comfort and productivity. They are looking for bulk supply of desks, chairs, storage units, and meeting room tables. Vendors must offer warranty coverage and the ability to customize designs to match the company’s branding.
+
+Goal:
+Prepare a comprehensive RFQ for office furniture suppliers.
+
+Prompt:
+"You are the admin manager drafting an RFQ email for furniture suppliers. Your email should:
+
+List all required furniture types with dimensions and materials
+Include ergonomic requirements and brand color preferences
+Request pricing with bulk discounts and payment terms
+Ask for delivery timelines and installation services
+Require warranty details and after-sales service information
+Provide RFQ submission deadline"
+Inputs Required:
+
+Furniture type and quantity
+Preferred materials and colors
+Ergonomic specifications
+Delivery timeline
+Installation requirements
+RFQ submission date
