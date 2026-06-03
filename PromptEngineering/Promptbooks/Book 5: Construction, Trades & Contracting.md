@@ -3078,16 +3078,17 @@ Tasks:
 
 3. Manufacturer manuals."
 ```
-Prompt 13 — Noise & Dust Pollution Compliance Audit
+## Prompt 13 — Noise & Dust Pollution Compliance Audit
 
-Backstory: A commercial complex site in Kolkata has received neighborhood complaints about noise and dust levels. The local pollution control board requires a compliance audit.
+`Backstory: A commercial complex site in Kolkata has received neighborhood complaints about noise and dust levels. The local pollution control board requires a compliance audit.`
 
-Goal: Audit environmental compliance for noise and dust control.
+`Goal: Audit environmental compliance for noise and dust control.`
 
-Prompt:
+`Prompt:`
 
-"You are an Environmental Compliance Auditor. Conduct a noise and dust compliance audit for a construction site.
+`"You are an Environmental Compliance Auditor. Conduct a noise and dust compliance audit for a construction site.`
 
+```
 Tasks:
 
 1. Measure noise levels at boundary points.
@@ -3099,33 +3100,34 @@ Tasks:
 4. Ensure compliance with CPCB guidelines.
 
 5. Recommend mitigation measures.
-
-Output format:
-
+```
+`Output format:`
+```
 1. Compliance Audit Report (PDF)
 
 2. Test Data Charts (Excel)
 
 3. Mitigation Plan (DOCX)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Site layout with boundary points
 
 2. Dust suppression equipment list
 
 3. CPCB noise/dust standards."
+```
+## Prompt 14 — Safety Compliance for Subcontractors
 
-Prompt 14 — Safety Compliance for Subcontractors
+`Backstory: A residential project in Hyderabad employs 15 subcontractors for various works. Safety violations have been more frequent in subcontractor crews.`
 
-Backstory: A residential project in Hyderabad employs 15 subcontractors for various works. Safety violations have been more frequent in subcontractor crews.
+`Goal: Audit subcontractor safety compliance and integrate them into main safety policies.`
 
-Goal: Audit subcontractor safety compliance and integrate them into main safety policies.
+`Prompt:`
 
-Prompt:
+`"You are a Subcontractor Safety Auditor. Conduct a safety compliance audit for subcontractors on a residential project.`
 
-"You are a Subcontractor Safety Auditor. Conduct a safety compliance audit for subcontractors on a residential project.
-
+```
 Tasks:
 
 1. Review subcontractor safety manuals.
@@ -3137,33 +3139,34 @@ Tasks:
 4. Provide alignment plan with main contractor’s EHS policy.
 
 5. Recommend contractual penalties for repeat violations.
-
-Output format:
-
+```
+`Output format:`
+```
 1. Subcontractor Compliance Report (PDF)
 
 2. Compliance Gap Analysis (Excel)
 
 3. Policy Integration Plan (DOCX)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. List of subcontractors and scope of work
 
 2. Main contractor’s EHS policy
 
 3. Previous safety violation records."
+```
+## Prompt 15 — Annual Safety Performance Review
 
-Prompt 15 — Annual Safety Performance Review
+`Backstory: A national construction company wants a consolidated annual safety performance review for all its sites to present to shareholders and regulatory authorities.`
 
-Backstory: A national construction company wants a consolidated annual safety performance review for all its sites to present to shareholders and regulatory authorities.
+`Goal: Prepare a corporate-level annual safety performance report.`
 
-Goal: Prepare a corporate-level annual safety performance report.
+`Prompt:`
 
-Prompt:
+`"You are a Corporate Safety Analyst. Prepare an annual safety performance review for a national construction company.`
 
-"You are a Corporate Safety Analyst. Prepare an annual safety performance review for a national construction company.
-
+```
 Tasks:
 
 1. Consolidate safety incident data from all sites.
@@ -3175,33 +3178,34 @@ Tasks:
 4. Benchmark against industry averages.
 
 5. Provide strategic recommendations.
-
-Output format:
-
+```
+`Output format:`
+```
 1. Annual Safety Performance Report (PDF)
 
 2. KPI Dashboard (Excel)
 
 3. Strategic Improvement Plan (DOCX)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Site-wise safety reports
 
 2. Incident and training logs
 
 3. Industry benchmark data."
+```
+## Prompt 16 — High-Risk Activity Safety Permit System
 
-Prompt 16 — High-Risk Activity Safety Permit System
+`Backstory: A petrochemical plant construction in Gujarat involves high-risk activities such as hot work, confined space entry, and work at heights. Regulatory inspectors require a proper permit-to-work (PTW) system to be implemented and audited.`
 
-Backstory: A petrochemical plant construction in Gujarat involves high-risk activities such as hot work, confined space entry, and work at heights. Regulatory inspectors require a proper permit-to-work (PTW) system to be implemented and audited.
+`Goal: Develop and audit a PTW system to ensure only authorized personnel conduct high-risk activities.`
 
-Goal: Develop and audit a PTW system to ensure only authorized personnel conduct high-risk activities.
+`Prompt:`
 
-Prompt:
+`"You are a Permit-to-Work Safety Auditor. Create and audit a PTW system for a petrochemical plant construction project.`
 
-"You are a Permit-to-Work Safety Auditor. Create and audit a PTW system for a petrochemical plant construction project.
-
+```
 Tasks:
 
 1. Identify high-risk activities requiring permits.
@@ -3213,33 +3217,34 @@ Tasks:
 4. Audit past permits for completeness and compliance.
 
 5. Recommend improvements to prevent unauthorized work.
-
-Output format:
-
+```
+`Output format:`
+```
 1. PTW System Manual (DOCX)
 
 2. Permit Templates (PDF/DOCX)
 
 3. PTW Compliance Audit Report (PDF)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. List of high-risk activities
 
 2. Site safety policy
 
 3. Past permit records."
+```
+## Prompt 17 — Site Safety Signage Compliance
 
-Prompt 17 — Site Safety Signage Compliance
+`Backstory: A wind farm project in Rajasthan covers over 200 acres. Inspectors have flagged missing and unclear safety signs, risking penalties and worker confusion.`
 
-Backstory: A wind farm project in Rajasthan covers over 200 acres. Inspectors have flagged missing and unclear safety signs, risking penalties and worker confusion.
+`Goal: Audit and ensure safety signage compliance across the project site.`
 
-Goal: Audit and ensure safety signage compliance across the project site.
+`Prompt:`
 
-Prompt:
+`"You are a Construction Safety Signage Specialist. Conduct a safety signage compliance audit for a wind farm project.`
 
-"You are a Construction Safety Signage Specialist. Conduct a safety signage compliance audit for a wind farm project.
-
+```
 Tasks:
 
 1. Identify required safety signs for each work zone.
@@ -3251,33 +3256,34 @@ Tasks:
 4. Create a site signage map for quick reference.
 
 5. Recommend sign maintenance and replacement schedule.
-
-Output format:
-
+```
+`Output format:`
+```
 1. Signage Compliance Audit Report (PDF)
 
 2. Site Signage Map (PDF)
 
 3. Replacement Plan (Excel)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Site layout
 
 2. Signage standards document
 
 3. List of current signs with photos."
+```
+## Prompt 18 — Safety Audit for Offshore Construction
 
-Prompt 18 — Safety Audit for Offshore Construction
+`Backstory: An offshore oil platform construction project in the Arabian Sea requires a safety audit before heavy module installation begins. Offshore conditions increase risks of falls, weather hazards, and evacuation delays.`
 
-Backstory: An offshore oil platform construction project in the Arabian Sea requires a safety audit before heavy module installation begins. Offshore conditions increase risks of falls, weather hazards, and evacuation delays.
+`Goal: Perform a safety audit tailored to offshore construction conditions.`
 
-Goal: Perform a safety audit tailored to offshore construction conditions.
+`Prompt:`
 
-Prompt:
+`"You are an Offshore Construction Safety Auditor. Audit safety compliance for an offshore oil platform project.`
 
-"You are an Offshore Construction Safety Auditor. Audit safety compliance for an offshore oil platform project.
-
+```
 Tasks:
 
 1. Inspect fall protection and lifeboat readiness.
@@ -3289,23 +3295,23 @@ Tasks:
 4. Ensure compliance with IMO and DGS (Directorate General of Shipping) standards.
 
 5. Recommend offshore-specific PPE upgrades.
-
-Output format:
-
+```
+`Output format:`
+```
 1. Offshore Safety Audit Report (PDF)
 
 2. Evacuation Drill Review (PDF)
 
 3. PPE Upgrade Recommendation List (Excel)
-
-Input Files Required:
-
+```
+`Input Files Required:`
+```
 1. Offshore project scope document
 
 2. List of available safety equipment
 
 3. Emergency response procedures."
-
+```
 ## Prompt 19 — Safety Compliance for Temporary Structures
 
 `Backstory: A stadium renovation in Delhi requires multiple temporary structures such as grandstands, walkways, and storage sheds. Local authorities require a safety compliance report before public events.`
