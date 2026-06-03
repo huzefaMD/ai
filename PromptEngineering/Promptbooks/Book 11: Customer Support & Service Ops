@@ -2964,41 +2964,62 @@ Prompt:
 
 “You are a WFM auditor. Analyze:
 
-Forecast vs. actual arrival patterns (MAE/MAPE).
-Schedule adherence & shrinkage.
-Routing logic (skills-based, priority queues).
-Impact on SLA, abandonment, and recontact.
-Provide quick wins (routing tweaks) and long-term fixes (forecast model updates).”
+1. Forecast vs. actual arrival patterns (MAE/MAPE).
+
+2. Schedule adherence & shrinkage.
+
+3. Routing logic (skills-based, priority queues).
+
+4. Impact on SLA, abandonment, and recontact.
+
+5. Provide quick wins (routing tweaks) and long-term fixes (forecast model updates).”
+
 Inputs Required:
 
-Interval-level volume & AHT
-Forecasts & staffing rosters
-Routing configs
-SLA/abandon targets
+1. Interval-level volume & AHT
+
+2. Forecasts & staffing rosters
+
+3. Routing configs
+
+4. SLA/abandon targets
 
 Prompt 18 — Complaint Turnaround Time (TAT) & Resolution Quality Audit
+
 Backstory:
+
 Regulatory complaints in a Delhi fintech must be resolved within strict timelines. TAT is met, but customers claim “no real fix,” triggering repeats. Compliance wants speed with substance.
 
 Goal:
+
 Audit complaint lifecycle for timeliness and fix effectiveness.
 
 Prompt:
+
 “You are a complaints QA auditor. Review:
 
-TAT adherence by severity.
-Root-cause identification and corrective action detail.
-Customer-facing updates (clarity, frequency).
-Reopen/recontact rate within 30 days.
-Recommend RCA templates and governance for recurring issues.”
+1. TAT adherence by severity.
+
+2. Root-cause identification and corrective action detail.
+
+3. Customer-facing updates (clarity, frequency).
+
+4. Reopen/recontact rate within 30 days.
+
+5. Recommend RCA templates and governance for recurring issues.”
+
 Inputs Required:
 
-Complaint logs by severity
-SLA policies
-RCA artifacts & CAPA logs
-Reopen stats
+1. Complaint logs by severity
+
+2. SLA policies
+
+3. RCA artifacts & CAPA logs
+
+4. Reopen stats
 
 Prompt 19 — Data Privacy & PII Handling Audit
+
 Backstory:
 
 A Mumbai health-tech startup handles sensitive patient data. Recordings and chat logs sometimes contain excess PII. Legal wants proof of robust redaction and least-privilege practices.
@@ -3011,61 +3032,92 @@ Prompt:
 
 “You are a privacy compliance auditor. 
 
-Sample interactions for improper PII capture/storage. 
-Check redaction tools efficacy and agent behaviors. 
-Validate data access controls & retention schedules. 
-Provide remediation steps (training, tooling, SOPs) and a monitoring plan.”
+1. Sample interactions for improper PII capture/storage. 
+
+2. Check redaction tools efficacy and agent behaviors. 
+
+3. Validate data access controls & retention schedules. 
+
+4. Provide remediation steps (training, tooling, SOPs) and a monitoring plan.”
+
 Inputs Required: 
 
-Privacy policy & data map 
-Redaction tool settings 
-Access/role matrix 
-Retention schedule
+1. Privacy policy & data map 
+
+2. Redaction tool settings 
+
+3. Access/role matrix 
+
+4. Retention schedule
 
 Prompt 20 — Agent Coaching Effectiveness Audit
+
 Backstory:
+
 Supervisors run weekly huddles, yet QA scores plateau. Agents say coaching is “generic” and not tied to their actual calls. Leadership wants coaching to drive measurable uplift.
 
 Goal:
+
 Audit coaching practices and tie them to performance outcomes.
 
 Prompt:
+
 “You are a performance QA specialist.
 
-Review coaching logs vs. agent KPI trends.
-Assess specificity (call references, behaviors, deadlines).
-Evaluate follow-up cadence and reinforcement.
-Recommend a coaching framework (SMART goals, call-of-the-week, peer shadowing).”
+1. Review coaching logs vs. agent KPI trends.
+
+2. Assess specificity (call references, behaviors, deadlines).
+
+3. Evaluate follow-up cadence and reinforcement.
+
+4. Recommend a coaching framework (SMART goals, call-of-the-week, peer shadowing).”
+
 Inputs Required:
 
-Coaching records & templates
-Agent KPIs (QA, AHT, CSAT, FCR)
-Call references used in coaching
-Supervisor-to-agent ratios
+1. Coaching records & templates
+
+2. Agent KPIs (QA, AHT, CSAT, FCR)
+
+3. Call references used in coaching
+
+4. Supervisor-to-agent ratios
 
 Prompt 21 — First-Response Quality (FRQ) Audit for Email/Chat
+
 Backstory:
+
 A Jaipur marketplace meets first response SLA but customers still recontact for clarity. Leaders suspect the first reply acknowledges but doesn’t advance resolution. They want FRQ measured beyond time.
 
 Goal:
+
 Score first responses on utility, not just speed.
 
 Prompt:
+
 “You are a service quality auditor.
 
-Define FRQ rubric (acknowledge, answer, advance, assure).
-Score a sample of first replies.
-Identify patterns (missing steps, policy links).
-Recommend templates/macros that improve FRQ without bloating text.”
+1. Define FRQ rubric (acknowledge, answer, advance, assure).
+
+2. Score a sample of first replies.
+
+3. Identify patterns (missing steps, policy links).
+
+4. Recommend templates/macros that improve FRQ without bloating text.”
+
 Inputs Required:
 
-First-reply samples with timestamps
-SLA targets
-KB/policy links
-Current macros/templates
+1. First-reply samples with timestamps
+
+2. SLA targets
+
+3. KB/policy links
+
+4. Current macros/templates
 
 Prompt 22 — Accessibility & Inclusivity Audit (Language/Disability)
+
 Backstory:
+
 In a nationwide rollout, a government service desk receives feedback from visually impaired users and non-English speakers about poor accessibility. IVR lacks clear pacing; emails lack alt text. Admins need an inclusivity audit.
 
 Goal:
@@ -3076,39 +3128,58 @@ Prompt:
 
 “You are an accessibility auditor. 
 
-Test channels against WCAG and plain language standards. 
-Check alt text, heading hierarchy, color contrast, link clarity. 
-Assess IVR speed, accent clarity, and language options. 
-Recommend fixes and a governance checklist.”
+1. Test channels against WCAG and plain language standards. 
+
+2. Check alt text, heading hierarchy, color contrast, link clarity. 
+
+3. Assess IVR speed, accent clarity, and language options. 
+
+4. Recommend fixes and a governance checklist.”
+
 Inputs Required: 
 
-Samples across channels (email, chat, app, IVR) 
-Accessibility standards adopted 
-Language support policy 
-Brand voice guide
+1. Samples across channels (email, chat, app, IVR) 
+
+2. Accessibility standards adopted 
+
+3. Language support policy 
+
+4. Brand voice guide
 
 Prompt 23 — Proactive Notifications Quality Audit
+
 Backstory:
+
 A logistics firm sends outage and delay alerts, yet customers still call asking “what now?” Messages lack next steps and personalization. Ops wants proactive comms that actually deflect calls.
 
 Goal:
+
 Audit outbound notices for clarity, personalization, and call-deflection.
 
 Prompt:
+
 “You are a proactive CX auditor.
 
-Evaluate samples for who/what/when/next-steps clarity.
-Check personalization (name, order, slot).
-Measure deflection (calls after send).
-Propose message templates and trigger rules to reduce recontact.”
+1. Evaluate samples for who/what/when/next-steps clarity.
+
+2. Check personalization (name, order, slot).
+
+3. Measure deflection (calls after send).
+
+4. Propose message templates and trigger rules to reduce recontact.”
+
 Inputs Required:
 
-Outbound message samples & send logs
-Post-send contact volumes
-Personalization fields available
-Event/trigger map
+1. Outbound message samples & send logs
+
+2. Post-send contact volumes
+
+3. Personalization fields available
+
+4. Event/trigger map
 
 Prompt 24 — Bot & Automation Quality Audit
+
 Backstory:
 
 A Delhi EdTech’s chatbot handles 40% of queries but NPS dips when the bot loops or dead-ends. Handoffs to humans lack context, frustrating customers. Leadership wants a bot QA audit.
@@ -3121,37 +3192,55 @@ Prompt:
 
 “You are a conversational AI auditor. 
 
-Analyze top intents, containment, and fallback rates. 
-Check response accuracy, tone, and KB alignment. 
-Evaluate human handoff (context, transcript, priority). 
-Recommend training data gaps, flows to retire, and handoff SOP.”
+1. Analyze top intents, containment, and fallback rates. 
+
+2. Check response accuracy, tone, and KB alignment. 
+
+3. Evaluate human handoff (context, transcript, priority). 
+
+4. Recommend training data gaps, flows to retire, and handoff SOP.”
+
 Inputs Required: 
 
-Bot transcripts & intent analytics 
-KB links used by bot 
-Handoff rules & agent tools 
-Success metrics (containment, CSAT)
+1. Bot transcripts & intent analytics 
+
+2. KB links used by bot 
+
+3. Handoff rules & agent tools 
+
+4. Success metrics (containment, CSAT)
 
 Prompt 25 — Root Cause Analysis (RCA) & Continuous Improvement Audit
+
 Backstory:
+
 A Bengaluru insurer runs monthly RCAs but the same issues recur (address updates, premium reversals). Fixes seem tactical, not systemic. The COO wants durable improvements with owners and deadlines.
 
 Goal:
+
 Audit RCA depth, actionability, and follow-through.
 
 Prompt:
+
 “You are a continuous improvement auditor.
 
-Evaluate RCA method (5 Whys/Fishbone) quality and evidence.
-Check CAPA actions for ownership, timelines, and metrics.
-Verify closure and post-implementation results.
-Propose a governance loop (RCA council, dashboards, reoccurrence gates).”
+1. Evaluate RCA method (5 Whys/Fishbone) quality and evidence.
+
+2. Check CAPA actions for ownership, timelines, and metrics.
+
+3. Verify closure and post-implementation results.
+
+4. Propose a governance loop (RCA council, dashboards, reoccurrence gates).”
+
 Inputs Required:
 
-RCA reports (last 6–12 months)
-CAPA registers & owners
-Post-fix KPI trends
-Governance cadence and forums
+1. RCA reports (last 6–12 months)
+
+2. CAPA registers & owners
+
+3. Post-fix KPI trends
+
+4. Governance cadence and forums
 
 
 Training guides for agents
