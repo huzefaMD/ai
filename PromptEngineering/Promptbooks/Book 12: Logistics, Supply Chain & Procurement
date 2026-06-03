@@ -1000,234 +1000,364 @@ Inputs Required:
 5. Traffic data availability (real-time or historical)
 
 Prompt 2 — Peak Hour Delivery Route Adjustment
+
 Backstory:
+
 You manage the dispatch team for an online grocery delivery service in Bengaluru. Every evening between 5 PM–8 PM, orders spike due to working professionals returning home. Your current delivery pattern is fixed throughout the day, causing delays during peak traffic hours. Drivers often miss their ETA targets, and customers complain about late grocery drop-offs. You want a dynamic route adjustment system that automatically reshuffles deliveries when traffic increases or when a driver is ahead/behind schedule.
 
 Goal:
+
 Design a peak-hour delivery plan that adjusts in real time to ensure all deliveries meet promised timelines.
 
 Prompt:
+
 "You are a Last-Mile Delivery Optimisation Expert. Create a peak-hour routing strategy for 20 grocery delivery bikes in Bengaluru.
 
-Integrate real-time traffic data and GPS tracking.
-Adjust delivery priority based on customer time sensitivity (e.g., perishable items first).
-Ensure no driver travels more than 5 km extra due to re-routing.
-Suggest an algorithm for automatic reassignment of orders.
-Include a notification plan to inform customers about updated delivery times."
+1. Integrate real-time traffic data and GPS tracking.
+
+2. Adjust delivery priority based on customer time sensitivity (e.g., perishable items first).
+
+3. Ensure no driver travels more than 5 km extra due to re-routing.
+
+4. Suggest an algorithm for automatic reassignment of orders.
+
+5. Include a notification plan to inform customers about updated delivery times."
+
 Inputs Required:
 
-List of delivery addresses with time windows
-Real-time traffic API availability
-Number of delivery vehicles
-Product categories (perishable/non-perishable)
-Driver GPS tracking capability
+1. List of delivery addresses with time windows
+
+2. Real-time traffic API availability
+
+3. Number of delivery vehicles
+
+4. Product categories (perishable/non-perishable)
+
+5. Driver GPS tracking capability
 
 Prompt 3 — Fuel-Efficient Rural Delivery Planning
+
 Backstory:
+
 You operate a courier service for a rural district in Uttar Pradesh, where villages are far apart and road conditions vary greatly. Fuel costs are a major concern, and deliveries must be made twice a week to multiple villages. Your drivers often take routes that result in wasted fuel due to poor planning. You want to design a schedule that covers all villages in the shortest distance possible, while ensuring urgent parcels reach within 24 hours.
 
 Goal:
+
 Create a rural delivery schedule that minimises fuel consumption and covers all villages efficiently.
 
 Prompt:
+
 "You are a Rural Logistics Planner with expertise in fuel efficiency. Prepare a delivery plan covering 30 villages in Uttar Pradesh, using 5 vans.
 
-Map routes that minimise total fuel consumption.
-Allocate urgent packages to the fastest available route.
-Include a bi-weekly schedule with designated driver assignments.
-Suggest buffer time for unpaved roads and seasonal conditions.
-Provide a contingency plan for vehicle breakdowns."
+1. Map routes that minimise total fuel consumption.
+
+2. Allocate urgent packages to the fastest available route.
+
+3. Include a bi-weekly schedule with designated driver assignments.
+
+4. Suggest buffer time for unpaved roads and seasonal conditions.
+
+5. Provide a contingency plan for vehicle breakdowns."
+
 Inputs Required:
 
-List of villages with GPS coordinates
-Number of delivery vehicles & fuel type
-Frequency of deliveries (per week)
-Urgent vs. non-urgent package details
-Road condition data
+1. List of villages with GPS coordinates
+
+2. Number of delivery vehicles & fuel type
+
+3. Frequency of deliveries (per week)
+
+4. Urgent vs. non-urgent package details
+
+5. Road condition data
 
 Prompt 4 — Same-Day Delivery Slot Management
+
 Backstory:
+
 You manage the logistics for an e-commerce company in Mumbai that promises same-day delivery for orders placed before 1 PM. The problem is, orders are unevenly distributed across the city, causing certain delivery zones to be overloaded while others are underutilised. This results in overtime costs for some drivers and idle time for others. You want a dynamic slot management system that allocates deliveries based on real-time order inflow and optimises driver schedules accordingly.
 
 Goal:
+
 Create a same-day delivery slot allocation system that ensures workload balance and on-time delivery.
 
 Prompt:
+
 "You are an E-commerce Logistics Strategist. Develop a same-day delivery scheduling plan for Mumbai with:
 
-Real-time order clustering by delivery zone.
-Slot allocation based on vehicle capacity and delivery urgency.
-Route optimisation to reduce travel time between stops.
-Automatic reassignment if a zone exceeds workload capacity.
-Customer notifications for slot confirmation and delays."
+1. Real-time order clustering by delivery zone.
+
+2. Slot allocation based on vehicle capacity and delivery urgency.
+
+3. Route optimisation to reduce travel time between stops.
+
+4. Automatic reassignment if a zone exceeds workload capacity.
+
+5. Customer notifications for slot confirmation and delays."
+
 Inputs Required:
 
-Number of delivery vehicles & capacity
-City map with delivery zones
-Order inflow pattern by hour
-Cut-off time for same-day delivery
-Real-time order data feed
+1. Number of delivery vehicles & capacity
+
+2. City map with delivery zones
+
+3. Order inflow pattern by hour
+
+4. Cut-off time for same-day delivery
+
+5. Real-time order data feed
 
 Prompt 5 — Seasonal Festival Delivery Planning
+
 Backstory:
+
 Your courier company operates across Kolkata, and every year during Durga Puja, the city experiences massive traffic disruptions due to processions and restricted zones. Customer orders also increase by nearly 40% during this time. In previous years, your deliveries were delayed because the routes did not account for blocked roads and festival schedules. This year, you want a festival-specific delivery plan that ensures timely drop-offs despite restrictions.
 
 Goal:
+
 Design a delivery plan for high-demand festival seasons with alternate routes and buffer time.
 
 Prompt:
+
 "You are a City Logistics Specialist. Create a Durga Puja delivery plan for Kolkata:
 
-Map delivery zones considering blocked streets and restricted timings.
-Create alternate routes for high-demand areas.
-Allocate additional vehicles to manage 40% higher order volume.
-Schedule deliveries in early mornings or late nights to avoid festival peak hours.
-Include customer communication templates for delay alerts."
+1. Map delivery zones considering blocked streets and restricted timings.
+
+2. Create alternate routes for high-demand areas.
+
+3. Allocate additional vehicles to manage 40% higher order volume.
+
+4. Schedule deliveries in early mornings or late nights to avoid festival peak hours.
+
+5. Include customer communication templates for delay alerts."
+
 Inputs Required:
 
-Festival traffic restriction map
-Expected order volume increase %
-Number of extra vehicles available
-Delivery time flexibility options
-Priority orders list
+1. Festival traffic restriction map
+
+2. Expected order volume increase %
+
+3. Number of extra vehicles available
+
+4. Delivery time flexibility options
+
+5. Priority orders list
 
 Prompt 6 — Hyperlocal Pharmacy Delivery Scheduling
+
 Backstory:
+
 You run a chain of 8 pharmacies in Chennai offering 2-hour delivery for medicines within a 6 km radius. Many orders are urgent (e.g., diabetic medications), while others are routine refills. Currently, your riders follow a first-come, first-served approach, which leads to urgent orders sometimes being delayed. You want a route and schedule plan that prioritises urgent deliveries while still batching nearby orders for efficiency.
 
 Goal:
+
 Create a hyperlocal delivery schedule for pharmacies that prioritises urgency while minimising travel time.
 
 Prompt:
+
 "You are a Hyperlocal Delivery Planner. Design a 2-hour delivery routing system for 8 pharmacies in Chennai:
 
-Prioritise urgent prescriptions over routine deliveries.
-Batch orders from the same locality to save travel time.
-Allocate riders based on proximity to pickup point.
-Provide alternate riders in case of delays or unavailability.
-Include a real-time tracking dashboard for pharmacy managers."
+1. Prioritise urgent prescriptions over routine deliveries.
+
+2. Batch orders from the same locality to save travel time.
+
+3. Allocate riders based on proximity to pickup point.
+
+4. Provide alternate riders in case of delays or unavailability.
+
+5. Include a real-time tracking dashboard for pharmacy managers."
+
 Inputs Required:
 
-Pharmacy locations & service radius
-Urgent vs. routine order classification
-Rider availability by time slot
-Delivery address list with GPS coordinates
-Average delivery times per zone
+1. Pharmacy locations & service radius
+
+2. Urgent vs. routine order classification
+
+3. Rider availability by time slot
+
+4. Delivery address list with GPS coordinates
+
+5. Average delivery times per zone
 
 Prompt 7 — Cold Chain Delivery Scheduling for Perishables
+
 Backstory:
+
 You operate a cold chain logistics business in Pune, delivering perishable goods like dairy, seafood, and fresh produce to supermarkets, restaurants, and hotels. Your refrigerated trucks must maintain specific temperature ranges, and every hour of delay risks spoilage. Current routes are planned manually, leading to inefficiencies when there’s unexpected traffic or a last-minute high-priority delivery. You need an optimised plan that considers delivery deadlines, product sensitivity, and shortest travel paths while maintaining temperature control.
 
 Goal:
+
 Develop an optimised cold chain delivery schedule that ensures timely deliveries while preserving product quality.
 
 Prompt:
+
 "You are a Cold Chain Logistics Expert. Create a delivery plan for refrigerated trucks in Pune:
 
-Prioritise perishable goods based on shelf life and urgency.
-Group deliveries geographically to minimise travel time.
-Factor in traffic congestion and peak-hour avoidance.
-Schedule temperature checks at every delivery point.
-Include contingency plans for vehicle breakdowns or route closures."
+1. Prioritise perishable goods based on shelf life and urgency.
+
+2. Group deliveries geographically to minimise travel time.
+
+3. Factor in traffic congestion and peak-hour avoidance.
+
+4. Schedule temperature checks at every delivery point.
+
+5. Include contingency plans for vehicle breakdowns or route closures."
+
 Inputs Required:
 
-List of delivery addresses with deadlines
-Product category & temperature requirements
-Number and capacity of refrigerated trucks
-Real-time traffic data access
-Priority customer list
+1. List of delivery addresses with deadlines
+
+2. Product category & temperature requirements
+
+3. Number and capacity of refrigerated trucks
+
+4. Real-time traffic data access
+
+5. Priority customer list
 
 Prompt 8 — Multi-City Fleet Route Coordination
+
 Backstory:
+
 You manage a fleet of 50 trucks transporting goods between Bengaluru, Chennai, and Hyderabad. Each city has its own delivery schedule, but sometimes routes overlap unnecessarily, increasing fuel costs. Additionally, overnight layovers add expenses for driver accommodations. You want a route plan that coordinates trips across cities, reduces redundancy, and schedules deliveries in a way that maximises vehicle usage while keeping driver shifts compliant with labour laws.
 
 Goal:
+
 Create an intercity fleet schedule that maximises efficiency and reduces costs.
 
 Prompt:
+
 "You are a Fleet Operations Strategist. Create a coordinated delivery schedule for 50 trucks operating between Bengaluru, Chennai, and Hyderabad:
 
-Assign routes to avoid overlapping paths.
-Coordinate delivery and pickup schedules to enable round trips.
-Ensure compliance with driver working hours and rest requirements.
-Allocate deliveries to match truck capacity and load type.
-Provide a cost comparison between current and optimised plans."
+1. Assign routes to avoid overlapping paths.
+
+2. Coordinate delivery and pickup schedules to enable round trips.
+
+3. Ensure compliance with driver working hours and rest requirements.
+
+4. Allocate deliveries to match truck capacity and load type.
+
+5. Provide a cost comparison between current and optimised plans."
+
 Inputs Required:
 
-City-to-city delivery requirements
-Vehicle capacities and availability
-Delivery deadlines
-Driver shift limitations
-Fuel and accommodation cost data
+1. City-to-city delivery requirements
+
+2. Vehicle capacities and availability
+
+3. Delivery deadlines
+
+4. Driver shift limitations
+
+5. Fuel and accommodation cost data
 
 Prompt 9 — Last-Mile Delivery Optimisation for Rural Areas
+
 Backstory:
+
 Your logistics company is expanding into rural Maharashtra, where road infrastructure is inconsistent and GPS coverage is poor. Deliveries often require drivers to navigate small lanes or unmarked roads. Current routing methods fail in these areas, leading to missed deliveries and return-to-origin costs. You need a route optimisation system that incorporates local knowledge, offline mapping, and driver coordination for effective last-mile deliveries.
 
 Goal:
+
 Design a rural delivery routing plan that minimises delays and maximises delivery success rates.
 
 Prompt:
+
 "You are a Rural Logistics Planner. Design a last-mile delivery system for rural Maharashtra:
 
-Incorporate offline GPS mapping and locally sourced route data.
-Assign drivers based on familiarity with specific villages.
-Cluster deliveries to reduce travel backtracking.
-Schedule buffer time for difficult-to-reach areas.
-Include backup delivery arrangements in case of road closures or bad weather."
+1. Incorporate offline GPS mapping and locally sourced route data.
+
+2. Assign drivers based on familiarity with specific villages.
+
+3. Cluster deliveries to reduce travel backtracking.
+
+4. Schedule buffer time for difficult-to-reach areas.
+
+5. Include backup delivery arrangements in case of road closures or bad weather."
+
 Inputs Required:
 
-Rural delivery locations with map coordinates (if available)
-Vehicle types suitable for rural terrain
-Local driver availability and familiarity
-Delivery deadlines and urgency
-Weather forecast patterns
+1. Rural delivery locations with map coordinates (if available)
+
+2. Vehicle types suitable for rural terrain
+
+3. Local driver availability and familiarity
+
+4. Delivery deadlines and urgency
+
+5. Weather forecast patterns
 
 Prompt 10 — Priority Medical Supply Transport
+
 Backstory:
+
 You manage emergency logistics for a hospital network in Delhi that frequently needs to move critical medical supplies such as blood units, oxygen cylinders, and transplant organs between facilities. Delays can cost lives, but the routes often cross congested traffic zones. Current dispatch methods do not differentiate between critical and non-critical medical items, causing slower response times. You want a priority-based transport system that guarantees fastest delivery for life-saving cargo.
 
 Goal:
+
 Design an emergency medical transport routing plan that guarantees minimum delivery times for critical supplies.
 
 Prompt:
+
 "You are an Emergency Medical Logistics Planner. Develop a routing system for critical medical supplies in Delhi:
 
-Categorise deliveries based on urgency and medical priority.
-Create fast-track routes with traffic police coordination.
-Assign vehicles based on speed and load suitability.
-Integrate live traffic data for real-time rerouting.
-Include post-delivery reports for compliance and quality checks."
+1. Categorise deliveries based on urgency and medical priority.
+
+2. Create fast-track routes with traffic police coordination.
+
+3. Assign vehicles based on speed and load suitability.
+
+4. Integrate live traffic data for real-time rerouting.
+
+5. Include post-delivery reports for compliance and quality checks."
+
 Inputs Required:
 
-List of hospitals & coordinates
-Item urgency classification
-Vehicle types and speeds
-Traffic pattern data
-Delivery time goals for each urgency level
+1. List of hospitals & coordinates
+
+2. Item urgency classification
+
+3. Vehicle types and speeds
+
+4. Traffic pattern data
+
+5. Delivery time goals for each urgency level
 
 Prompt 11 — Shared Ride Parcel Deliveries
+
 Backstory:
+
 You run a parcel delivery startup in Bengaluru that partners with ride-hailing drivers to deliver small packages during their downtime between passenger trips. However, current route assignments are inefficient, often sending drivers far out of their passenger route to deliver parcels, which reduces willingness to participate. You need a scheduling system that intelligently assigns parcels only if they fit naturally along a driver’s planned route.
 
 Goal:
+
 Create an integrated ride-hail and parcel delivery route system that maximises efficiency without disrupting passenger trips.
 
 Prompt:
+
 "You are a Shared Mobility Logistics Expert. Design a parcel delivery system for ride-hailing drivers in Bengaluru:
 
-Match parcels to drivers based on current and next passenger trip locations.
-Prioritise deliveries with minimal route deviation.
-Offer real-time pickup & drop instructions via mobile app.
-Provide driver incentives for efficient completion.
-Track delivery success and optimise assignments over time."
+1. Match parcels to drivers based on current and next passenger trip locations.
+
+2. Prioritise deliveries with minimal route deviation.
+
+3. Offer real-time pickup & drop instructions via mobile app.
+
+4. Provide driver incentives for efficient completion.
+
+5. Track delivery success and optimise assignments over time."
+
 Inputs Required:
 
-Active driver locations and trip routes
-Parcel pickup and drop-off points
-Maximum allowable detour time
-Driver incentive structure
-Real-time traffic data
+1. Active driver locations and trip routes
+
+2. Parcel pickup and drop-off points
+
+3. Maximum allowable detour time
+
+4. Driver incentive structure
+
+5. Real-time traffic data
 
 Prompt 12 — E-Grocery Dark Store Route Planning
 Backstory:
