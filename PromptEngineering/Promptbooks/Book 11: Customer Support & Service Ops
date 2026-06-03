@@ -3244,3 +3244,356 @@ Inputs Required:
 
 
 Training guides for agents
+
+Prompt 1 — Onboarding Guide for New Support Agents
+Backstory:
+A mid-sized SaaS company has grown its support team from 10 to 40 agents in the last year. Many new hires have no prior experience in customer support, leading to inconsistent communication styles and knowledge gaps. Management wants a structured onboarding guide to quickly bring agents up to speed on company policies, tools, and customer interaction standards.
+
+Goal:
+Create a comprehensive onboarding training guide for new support agents.
+
+Prompt:
+*"You are a customer support training manager. Create a detailed onboarding training guide for new agents that includes:
+
+Overview of company mission, values, and target customers
+Introduction to support tools (ticketing system, CRM, chat software)
+Call, chat, and email etiquette guidelines
+Basic troubleshooting workflows for common issues
+Escalation procedures and reporting lines
+Performance metrics and expectations for the first 90 days"*
+Inputs Required:
+
+Company profile and mission statement
+List of tools/software used
+Most common customer issues
+Escalation hierarchy chart
+
+Prompt 2 — Product Knowledge Training Module
+Backstory:
+An electronics retailer found that many agents give vague or incorrect answers about product specifications. This not only confuses customers but also results in higher product returns. The company needs a focused training module to improve product knowledge retention among support staff.
+
+Goal:
+Develop a product knowledge training module for customer support agents.
+
+Prompt:
+*"You are a training content developer. Create a product knowledge training module for customer support agents that includes:
+
+Key specifications and features of top-selling products
+Comparative advantages over competitor products
+FAQs customers often ask about these products
+How to handle product-related objections or misconceptions
+Interactive quiz questions for knowledge reinforcement"*
+Inputs Required:
+
+Product list with specifications
+Competitor comparison data
+List of FAQs from past tickets
+Customer objections/responses database
+
+Prompt 3 — Difficult Customer Handling Playbook
+Backstory:
+A financial services call center deals with clients who are often stressed due to account issues or payment delays. Some agents tend to get defensive, which escalates situations. The company needs a playbook that teaches agents how to remain calm, empathize, and resolve issues without losing control of the conversation.
+
+Goal:
+Create a handling guide for interactions with frustrated or angry customers.
+
+Prompt:
+*"You are a customer conflict resolution trainer. Create a detailed playbook for handling difficult customers that includes:
+
+Common scenarios that trigger customer frustration
+Verbal and tonal de-escalation techniques
+Phrases to avoid and alternative positive phrasing
+Structured problem-solving approach
+Role-play exercises for practice"*
+Inputs Required:
+
+List of top complaint types
+Company’s tone and language policy
+Examples of past escalations
+Escalation process flowchart
+
+Prompt 4 — Escalation Process Training Guide
+Backstory:
+A tech company’s support team has inconsistent escalation practices—some agents escalate too early, others too late. This creates delays in issue resolution and affects customer satisfaction scores. A formal training document is needed to define when and how escalations should happen.
+
+Goal:
+Develop a clear escalation process training guide.
+
+Prompt:
+*"You are a service process consultant. Create an escalation process training guide for agents that covers:
+
+Definition of escalation and when it is necessary
+Tiers of escalation and corresponding contacts
+Documentation requirements before escalating
+How to communicate escalation to the customer
+Do’s and don’ts of escalation handling"*
+Inputs Required:
+
+Escalation tier chart
+Typical resolution SLAs
+List of team leads/managers by department
+Communication templates for escalations
+
+Prompt 5 — Cross-Selling & Upselling Script Training
+Backstory:
+An online insurance company wants agents to identify opportunities to offer upgrades and additional products during routine service calls. Currently, attempts feel pushy and lead to low conversion rates. The company needs training that teaches subtle, value-driven sales techniques integrated into support conversations.
+
+Goal:
+Design a cross-selling and upselling training module.
+
+Prompt:
+*"You are a sales-in-service coach. Create a cross-selling/upselling training module for agents that includes:
+
+Identifying customer needs through active listening
+Transition phrases from service to sales
+Product benefit positioning tailored to customer profile
+Handling price objections politely
+Ethical selling guidelines"*
+Inputs Required:
+
+List of products/services for cross-sell
+Customer persona profiles
+Competitive pricing data
+Case studies of successful conversions
+
+Prompt 6 — Remote Agent Communication Skills Training
+Backstory:
+A hybrid contact center has agents working both on-site and remotely. Managers have noticed remote agents sometimes struggle to maintain professional tone and consistent communication styles without in-person supervision. The company wants a dedicated communication skills guide for remote teams.
+
+Goal:
+Create a training guide for communication best practices for remote agents.
+
+Prompt:
+*"You are a remote work communication coach. Develop a training guide for remote agents that includes:
+
+Professional tone in written and verbal communication
+Using video calls effectively for internal collaboration
+Managing response times across time zones
+Reducing misunderstandings in chat/email
+Tools for tone-checking and clarity improvement"*
+Inputs Required:
+
+List of internal communication tools
+Company tone guidelines
+Remote team structure and time zones
+Examples of poor vs. good communication
+
+Prompt 7 — Data Privacy & Compliance Training
+Backstory:
+A healthcare customer support team handles sensitive patient information daily. With growing concerns around data breaches, management wants a training module that ensures every agent knows the rules, follows HIPAA-equivalent protocols, and avoids common security mistakes.
+
+Goal:
+Build a compliance-focused training module for data privacy.
+
+Prompt:
+*"You are a compliance training specialist. Create a data privacy and compliance training module for customer support agents that includes:
+
+Overview of applicable privacy laws (HIPAA, GDPR, etc.)
+Secure data handling practices during calls and chats
+Red flags for potential breaches
+Steps to follow if a breach is suspected
+Regular refresher quiz questions"*
+Inputs Required:
+
+Industry-specific compliance standards
+Current internal security policy
+Incident response plan
+Data retention rules
+
+Prompt 8 — Soft Skills & Empathy Development Workshop
+Backstory:
+A luxury hotel chain values emotional connection with guests, but some agents rely too heavily on scripted lines, making interactions sound robotic. Management wants a workshop that helps agents develop genuine empathy and adaptability in conversations.
+
+Goal:
+Create a soft skills and empathy training workshop plan.
+
+Prompt:
+*"You are a hospitality training expert. Design a workshop for soft skills and empathy development including:
+
+Active listening exercises
+Role-play with emotionally charged customer scenarios
+Language that conveys warmth and understanding
+Cultural sensitivity awareness
+Feedback and reflection activities"*
+Inputs Required:
+
+Example customer scenarios from past cases
+Brand tone guide
+Cultural diversity data of customer base
+List of non-verbal communication guidelines
+
+Prompt 9 — Knowledge Base Usage Training
+Backstory:
+A subscription software company invested heavily in an internal knowledge base, but agents rarely use it during calls, leading to inconsistent answers. Management wants training that teaches agents how to quickly find and share accurate information from the system.
+
+Goal:
+Develop a knowledge base usage training manual.
+
+Prompt:
+*"You are an instructional designer. Create a training manual for knowledge base usage that includes:
+
+Step-by-step guide to search effectively
+Categorization of information by issue type
+Bookmarking and tagging tips for quick retrieval
+When to update or suggest edits to KB articles
+Measuring agent usage and accuracy"*
+Inputs Required:
+
+Access to current KB system
+Common search queries by agents
+List of article categories
+KB updating workflow
+
+Prompt 10 — Call Flow Mastery Training
+Backstory:
+A large retail chain uses a structured call flow to ensure consistency, but new agents often skip or reorder steps. This causes confusion and impacts customer satisfaction. Management wants a refresher training focused on mastering the official call flow structure.
+
+Goal:
+Create a call flow mastery training session.
+
+Prompt:
+*"You are a process training consultant. Create a training session plan for mastering call flow, covering:
+
+Overview of call flow stages (Greeting → Discovery → Resolution → Closing)
+Importance of following sequence
+How to transition smoothly between steps
+Common mistakes and how to avoid them
+Practice role-plays with scoring rubrics"*
+Inputs Required:
+
+Official call flow chart
+Examples of calls with perfect vs. poor flow
+Brand greeting and closing scripts
+Agent evaluation form
+
+Prompt 11 — Handling Multiple Chat Conversations Training
+Backstory:
+A fashion e-commerce site allows agents to handle up to 5 live chat windows at once. New agents are finding it overwhelming to balance speed with quality, resulting in dropped chats and unsatisfied customers. Management needs a training plan that teaches multitasking without compromising service quality.
+
+Goal:
+Develop a multitasking training module for live chat agents.
+
+Prompt:
+*"You are a live chat operations trainer. Create a training module for handling multiple simultaneous chats that covers:
+
+Time allocation strategies per conversation
+Prioritizing chats based on urgency
+Using templates for common responses without sounding robotic
+Tools for managing multiple chat tabs efficiently
+Reducing agent stress while multitasking"*
+Inputs Required:
+
+Average concurrent chat count per agent
+Common chat topics
+Current response time targets
+List of existing chat templates
+
+Prompt 12 — Email Support Excellence Guide
+Backstory:
+An online education platform receives hundreds of email queries daily. Customers often complain about slow replies and impersonal responses. The company wants a guide that helps agents write clear, empathetic, and concise responses that maintain brand voice.
+
+Goal:
+Create a training guide for high-quality email responses.
+
+Prompt:
+*"You are a customer email communication expert. Create a training guide for email support that includes:
+
+Structuring emails for clarity and speed
+Personalizing replies while using templates
+Maintaining consistent tone and branding
+Avoiding jargon and overcomplicated language
+Checklist for proofreading before sending"*
+Inputs Required:
+
+Brand tone guide
+Common email query types
+SLA for email responses
+Sample high-quality replies
+
+Prompt 13 — Time Management for Support Agents
+Backstory:
+A telecom provider’s agents often struggle with balancing long call durations and pending backlogs. Without proper time management skills, cases pile up, increasing stress and lowering customer satisfaction. The leadership team wants a training program to improve daily workflow efficiency.
+
+Goal:
+Build a time management training guide for support teams.
+
+Prompt:
+*"You are a productivity coach. Create a time management training program for support agents that includes:
+
+Prioritization techniques for tickets and calls
+Time-blocking strategies for peak hours
+Avoiding unnecessary hold times
+Using downtime effectively for follow-ups
+Tools for tracking time and productivity"*
+Inputs Required:
+
+Average ticket/call volumes
+Shift schedules
+Current backlog trends
+List of available time-tracking tools
+
+Prompt 14 — Cross-Department Collaboration Training
+Backstory:
+A subscription box company requires support agents to frequently coordinate with logistics, marketing, and product teams. Miscommunication often leads to delays and customer dissatisfaction. They need a training module that improves cross-department collaboration skills.
+
+Goal:
+Develop a collaboration skills training program for agents.
+
+Prompt:
+*"You are a workplace collaboration trainer. Create a training program for cross-department coordination that covers:
+
+Understanding each department’s role in customer resolution
+Setting clear expectations when requesting assistance
+Following up without creating friction
+Using project management tools effectively
+Conflict resolution techniques"*
+Inputs Required:
+
+List of departments and key contacts
+Common inter-department dependencies
+Preferred internal communication channels
+Examples of past collaboration issues
+
+Prompt 15 — Handling Service Interruptions Training
+Backstory:
+During a nationwide outage of a cloud service, customer support lines flooded with calls. Some agents panicked, giving inconsistent updates, which worsened customer frustration. Management wants a training protocol for handling such crises calmly and consistently.
+
+Goal:
+Create a crisis communication training guide.
+
+Prompt:
+*"You are a crisis management trainer. Create a protocol for agents during service interruptions that includes:
+
+Gathering verified information quickly
+Delivering consistent and accurate updates
+Handling customer anger with empathy
+Avoiding speculative responses
+Post-outage customer follow-up strategies"*
+Inputs Required:
+
+Crisis communication chain of command
+Examples of past outages
+Pre-approved holding statements
+Escalation contacts for urgent updates
+
+Prompt 16 — AI Tool Integration Training
+Backstory:
+A growing startup has introduced AI chat assistance for agents to speed up responses. However, some agents misuse it, relying entirely on AI outputs without verifying accuracy. The company needs training on integrating AI tools into daily workflows responsibly.
+
+Goal:
+Develop a training module for AI-assisted customer service.
+
+Prompt:
+*"You are a digital tools trainer. Create a training module for integrating AI tools into customer support that covers:
+
+How to prompt AI effectively for relevant results
+Fact-checking AI responses before sending to customers
+Avoiding over-dependence on AI
+Combining AI speed with human empathy
+Reporting AI tool errors for improvement"*
+Inputs Required:
+
+AI tools in use
+Company guidelines for AI usage
+Examples of correct and incorrect AI-assisted responses
+AI escalation policy
