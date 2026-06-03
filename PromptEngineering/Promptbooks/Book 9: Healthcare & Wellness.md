@@ -218,14 +218,14 @@
 ```
 ## Prompt 9 — Diet and Nutrition Counseling
 
-Backstory: You’re advising a patient recovering from gastrointestinal surgery on diet changes.
+`Backstory: You’re advising a patient recovering from gastrointestinal surgery on diet changes.`
 
-Goal: Give them an actionable meal plan that promotes recovery.
+`Goal: Give them an actionable meal plan that promotes recovery.`
 
-Prompt:
+`Prompt:`
 
-"You are a Clinical Nutrition Advisor. Write a script that:
-
+`"You are a Clinical Nutrition Advisor. Write a script that:`
+```
 1. Explains how diet affects healing in simple terms.
 
 2. Gives a phased meal plan for recovery.
@@ -235,23 +235,23 @@ Prompt:
 4. Lists foods to avoid during healing.
 
 5. Encourages hydration and gradual reintroduction of foods.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Surgery type
 
 2. Any dietary restrictions"
+```
+## Prompt 10 — End-of-Life Care Discussion
 
-Prompt 10 — End-of-Life Care Discussion
+`Backstory: A patient’s family needs to be guided through palliative care decisions for their loved one.`
 
-Backstory: A patient’s family needs to be guided through palliative care decisions for their loved one.
+`Goal: Approach the subject with compassion and clarity.`
 
-Goal: Approach the subject with compassion and clarity.
+`Prompt:`
 
-Prompt:
-
-"You are a Palliative Care Communicator. Write a script that: 
-
+`"You are a Palliative Care Communicator. Write a script that: `
+```
 1. Creates a calm, private environment for discussion. 
 
 2. Explains the medical situation without rushing. 
@@ -261,23 +261,23 @@ Prompt:
 4. Clarifies available palliative care options. 
 
 5. Encourages questions and ongoing family support.
-
-Inputs: 
-
+```
+`Inputs: `
+```
 1. Patient’s condition 
 
 2. Available care services"
+```
+## Prompt 11 — Post-Treatment Follow-Up Call
 
-Prompt 11 — Post-Treatment Follow-Up Call
+`Backstory: A patient has completed physiotherapy for a sports injury. You want to check progress and ensure recovery.`
 
-Backstory: A patient has completed physiotherapy for a sports injury. You want to check progress and ensure recovery.
+`Goal: Encourage adherence to exercises and spot any setbacks early.`
 
-Goal: Encourage adherence to exercises and spot any setbacks early.
+`Prompt:`
 
-Prompt:
-
-"You are a Rehabilitation Follow-Up Specialist. Write a script that:
-
+`"You are a Rehabilitation Follow-Up Specialist. Write a script that:
+```
 1. Begins with a warm, friendly tone.
 
 2. Asks about current pain levels and mobility.
@@ -287,23 +287,23 @@ Prompt:
 4. Provides quick troubleshooting for common issues.
 
 5. Offers a follow-up appointment if needed.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Injury type
 
 2. Patient’s activity goals"
+```
+## Prompt 12 — Explaining a Medical Procedure
 
-Prompt 12 — Explaining a Medical Procedure
+`Backstory: A patient needs laparoscopic gallbladder surgery but is nervous.`
 
-Backstory: A patient needs laparoscopic gallbladder surgery but is nervous.
+`Goal: Explain the procedure in a way that reduces fear while setting realistic expectations.`
 
-Goal: Explain the procedure in a way that reduces fear while setting realistic expectations.
+`Prompt:`
 
-Prompt:
-
-"You are a Patient Education Specialist. Write a script that:
-
+`"You are a Patient Education Specialist. Write a script that:`
+```
 1. Explains the procedure in simple, non-technical language.
 
 2. Covers benefits and possible risks.
@@ -313,13 +313,13 @@ Prompt:
 4. Details pre- and post-surgery care.
 
 5. Encourages the patient to ask clarifying questions.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Procedure type
 
 2. Patient’s level of medical knowledge"
-
+```
 Prompt 13 — Addressing Vaccine Hesitancy
 
 Backstory: A patient is unsure about getting the flu vaccine due to misinformation.
