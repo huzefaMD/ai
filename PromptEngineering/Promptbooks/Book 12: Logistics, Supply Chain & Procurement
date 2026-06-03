@@ -1360,144 +1360,223 @@ Inputs Required:
 5. Real-time traffic data
 
 Prompt 12 — E-Grocery Dark Store Route Planning
+
 Backstory:
+
 You manage an e-grocery service in Hyderabad operating from multiple “dark stores” — mini warehouses without walk-in customers. Your promise is 30-minute delivery, but overlapping delivery zones between stores sometimes cause duplicate dispatches and confusion. You want a system that assigns orders to the closest store and optimises driver routes to handle multiple deliveries in a single trip.
 
 Goal:
+
 Create a zone-based route allocation system for dark stores to ensure fastest grocery delivery.
 
 Prompt:
+
 "You are an E-Grocery Operations Manager. Build a delivery schedule for multiple dark stores in Hyderabad:
 
-Assign each order to the nearest store with inventory availability.
-Batch orders geographically to reduce delivery trips.
-Use shortest path algorithms for multiple-stop deliveries.
-Avoid overlap between store delivery zones.
-Include a real-time performance dashboard for store managers."
+1. Assign each order to the nearest store with inventory availability.
+
+2. Batch orders geographically to reduce delivery trips.
+
+3. Use shortest path algorithms for multiple-stop deliveries.
+
+4. Avoid overlap between store delivery zones.
+
+5. Include a real-time performance dashboard for store managers."
+
 Inputs Required:
 
-Dark store locations & delivery radius
-Inventory availability per store
-Order details with addresses
-Number of delivery riders available per store
-Average delivery time per route
+1. Dark store locations & delivery radius
+
+2. Inventory availability per store
+
+3. Order details with addresses
+
+4. Number of delivery riders available per store
+
+5. Average delivery time per route
 
 Prompt 13 — School Bus Route Optimisation
+
 Backstory:
+
 You manage school transport for a chain of private schools in Lucknow. The challenge is to minimise total travel time while ensuring that no student spends more than 45 minutes on the bus. Parents often request custom drop-off points, creating inefficient detours. You need a schedule that balances route efficiency with student safety and parental preferences.
 
 Goal:
+
 Optimise school bus routes for minimal travel time and maximum safety.
 
 Prompt:
+
 "You are a School Transport Coordinator. Create an optimised school bus route plan for Lucknow:
 
-Assign buses to students based on proximity and capacity.
-Ensure no single trip exceeds 45 minutes.
-Minimise detours while accommodating parental requests where feasible.
-Schedule pickup and drop-off times consistently.
-Provide GPS tracking for parental monitoring."
+1. Assign buses to students based on proximity and capacity.
+
+2. Ensure no single trip exceeds 45 minutes.
+
+3. Minimise detours while accommodating parental requests where feasible.
+
+4. Schedule pickup and drop-off times consistently.
+
+5. Provide GPS tracking for parental monitoring."
+
 Inputs Required:
 
-Student addresses and preferred drop points
-Bus capacities and availability
-Traffic congestion patterns during school hours
-School start and end times
-Safety protocols for student transport
+1. Student addresses and preferred drop points
+
+2. Bus capacities and availability
+
+3. Traffic congestion patterns during school hours
+
+4. School start and end times
+
+5. Safety protocols for student transport
 
 Prompt 14 — Port-to-Warehouse Freight Scheduling
+
 Backstory:
+
 Your company handles freight logistics from Nhava Sheva Port to warehouses across Maharashtra. Ship arrivals are often delayed, causing trucks to wait idly and increasing demurrage costs. You need a scheduling system that reacts dynamically to ship ETA changes and reassigns trucks to avoid idle time while still meeting delivery commitments.
 
 Goal:
+
 Develop a dynamic freight pickup and delivery schedule that reduces waiting time and costs.
 
 Prompt:
+
 "You are a Port Logistics Scheduler. Build a port-to-warehouse delivery plan for Nhava Sheva:
 
-Sync truck arrivals with updated ship ETAs.
-Allocate trucks based on cargo priority and destination.
-Include buffer trucks for last-minute shipment surges.
-Provide real-time updates to warehouse managers.
-Analyse cost savings from reduced idle time."
+1. Sync truck arrivals with updated ship ETAs.
+
+2. Allocate trucks based on cargo priority and destination.
+
+3. Include buffer trucks for last-minute shipment surges.
+
+4. Provide real-time updates to warehouse managers.
+
+5. Analyse cost savings from reduced idle time."
+
 Inputs Required:
 
-Ship arrival schedules & updates
-Cargo priority classification
-Warehouse addresses and capacities
-Number of trucks available
-Loading/unloading time per truck
+1. Ship arrival schedules & updates
+
+2. Cargo priority classification
+
+3. Warehouse addresses and capacities
+
+4. Number of trucks available
+
+5. Loading/unloading time per truck
 
 Prompt 15 — Reverse Logistics Pickup Scheduling
+
 Backstory:
+
 You operate a large e-commerce returns processing centre in Gurugram. Customers schedule pickups for returned products, but routes are not optimised, causing multiple trips to the same area in a single day. You want a system that batches returns by locality and assigns them to the most efficient driver routes.
 
 Goal:
+
 Create a reverse logistics route plan that reduces fuel costs and pickup times.
 
 Prompt:
+
 "You are a Reverse Logistics Planner. Design a returns pickup schedule for Gurugram:
 
-Batch pickups by location and customer availability.
-Prioritise high-value returns for early pickup.
-Minimise duplicate visits to the same locality.
-Assign drivers based on proximity to starting points.
-Track pickup success rates and reassign failed pickups."
+1. Batch pickups by location and customer availability.
+
+2. Prioritise high-value returns for early pickup.
+
+3. Minimise duplicate visits to the same locality.
+
+4. Assign drivers based on proximity to starting points.
+
+5. Track pickup success rates and reassign failed pickups."
+
 Inputs Required:
 
-Customer return addresses and preferred pickup times
-Value classification of returned items
-Driver starting locations and capacities
-Average pickup duration
-Traffic data for pickup hours
+1. Customer return addresses and preferred pickup times
+
+2. Value classification of returned items
+
+3. Driver starting locations and capacities
+
+4. Average pickup duration
+
+5. Traffic data for pickup hours
 
 Prompt 16 — Festival Season Delivery Surge Plan
+
 Backstory:
+
 Your courier company in Mumbai experiences a 3× spike in orders during Diwali, with a high concentration of deliveries in narrow lanes and residential colonies. Previous years saw missed deadlines, driver fatigue, and excessive overtime costs. You want a surge-specific routing strategy that balances workload, maintains promised delivery times, and factors in pedestrian-heavy streets during festive hours.
 
 Goal:
+
 Design a festive season delivery plan that ensures timely completion despite high order volume.
 
 Prompt:
+
 "You are a Seasonal Logistics Strategist. Create a Diwali delivery surge plan for Mumbai:
 
-Predict delivery clusters based on historical order data.
-Use smaller vehicles/bikes for congested areas.
-Implement time-window-based deliveries to avoid peak congestion.
-Distribute workload evenly among drivers.
-Include overtime cost projections and efficiency improvements."
+1. Predict delivery clusters based on historical order data.
+
+2. Use smaller vehicles/bikes for congested areas.
+
+3. Implement time-window-based deliveries to avoid peak congestion.
+
+4. Distribute workload evenly among drivers.
+
+5. Include overtime cost projections and efficiency improvements."
+
 Inputs Required:
 
-Historical order volume per area during Diwali
-Driver availability and vehicle type mix
-Street congestion data by hour
-Delivery time promises per order
-Cost per overtime hour
+1. Historical order volume per area during Diwali
+
+2. Driver availability and vehicle type mix
+
+3. Street congestion data by hour
+
+4. Delivery time promises per order
+
+5. Cost per overtime hour
 
 Prompt 17 — AI-Powered Food Delivery Routing
+
 Backstory:
+
 You run a food delivery service in Pune that partners with 200+ restaurants. Delays often occur because orders are assigned based on distance alone, without considering prep time or kitchen delays. This results in riders arriving too early or too late, lowering customer satisfaction. You want a smart dispatch system that factors in restaurant preparation time along with delivery route optimisation.
 
 Goal:
+
 Create a delivery assignment and routing system that aligns pickup timing with food readiness.
 
 Prompt:
+
 "You are a FoodTech Logistics Expert. Design an AI-powered delivery routing model for Pune:
 
-Match riders to orders based on both location and estimated preparation time.
-Sequence multiple deliveries for the same rider in optimal order.
-Integrate restaurant POS systems for real-time readiness updates.
-Reduce rider wait times at pickup points.
-Monitor delivery ETA accuracy and improve continuously."
+1. Match riders to orders based on both location and estimated preparation time.
+
+2. Sequence multiple deliveries for the same rider in optimal order.
+
+3. Integrate restaurant POS systems for real-time readiness updates.
+
+4. Reduce rider wait times at pickup points.
+
+5. Monitor delivery ETA accuracy and improve continuously."
+
 Inputs Required:
 
-Restaurant locations and prep time averages
-Rider GPS locations and capacity
-Order timestamps and promised delivery windows
-Traffic patterns by zone
-Restaurant integration capability
+1. Restaurant locations and prep time averages
+
+2. Rider GPS locations and capacity
+
+3. Order timestamps and promised delivery windows
+
+4. Traffic patterns by zone
+
+5. Restaurant integration capability
 
 Prompt 18 — Heavy Equipment Transport Scheduling
+
 Backstory:
 
 Your construction logistics firm in Gujarat moves large cranes, bulldozers, and cement mixers between project sites. These vehicles require special permits and escorts, and some roads are off-limits due to weight restrictions. Poor planning often leads to rescheduling and fines. You need a compliance-first routing plan that ensures legal clearance while optimising travel distance and escort resource allocation.
@@ -1510,64 +1589,99 @@ Prompt:
 
 "You are a Heavy Transport Planner. Create a movement schedule for large construction equipment in Gujarat: 
 
-Identify legal routes and secure permits in advance. 
-Allocate escort vehicles efficiently. 
-Schedule movements during low-traffic hours. 
-Factor in bridge load limits and restricted zones. 
-Include a contingency plan for rerouting in emergencies."
+1. Identify legal routes and secure permits in advance. 
+
+2. Allocate escort vehicles efficiently. 
+
+3. Schedule movements during low-traffic hours. 
+
+4. Factor in bridge load limits and restricted zones. 
+
+5. Include a contingency plan for rerouting in emergencies."
+
 Inputs Required: 
 
-Equipment dimensions and weight 
-Pickup and drop locations 
-Legal route maps and restrictions 
-Escort vehicle availability 
-Permit approval timelines
+1. Equipment dimensions and weight 
+
+2. Pickup and drop locations 
+
+3. Legal route maps and restrictions 
+
+4. Escort vehicle availability 
+
+5. Permit approval timelines
 
 Prompt 19 — Urban E-Bike Courier Network
+
 Backstory:
+
 Your startup in Chennai uses electric bikes for last-mile delivery. The challenge is optimising battery usage while covering maximum orders per trip. Riders sometimes run low on charge before completing all deliveries, causing delays and reroutes. You need a system that plans routes according to both delivery clusters and battery capacity.
 
 Goal:
+
 Optimise e-bike delivery routes for battery efficiency and speed.
 
 Prompt:
+
 "You are a Sustainable Logistics Planner. Create a delivery plan for e-bike couriers in Chennai:
 
-Assign routes based on battery charge range.
-Include nearby charging stations for mid-shift top-ups.
-Batch deliveries by proximity.
-Track energy consumption patterns for optimisation.
-Provide riders with live recharging alerts."
+1. Assign routes based on battery charge range.
+
+2. Include nearby charging stations for mid-shift top-ups.
+
+3. Batch deliveries by proximity.
+
+4. Track energy consumption patterns for optimisation.
+
+5. Provide riders with live recharging alerts."
+
 Inputs Required:
 
-Battery range per bike
-Charging station locations
-Delivery addresses and volumes
-Rider shift schedules
-Average traffic speed per route
+1. Battery range per bike
+
+2. Charging station locations
+
+3. Delivery addresses and volumes
+
+4. Rider shift schedules
+
+5. Average traffic speed per route
 
 Prompt 20 — Multi-Warehouse Dispatch Planning
+
 Backstory:
+
 You operate an online furniture store with warehouses in Jaipur, Udaipur, and Kota. Orders are sometimes shipped from farther warehouses due to inventory mismatches, increasing delivery costs. You want a dispatch logic that selects the best warehouse for each order while still meeting delivery time commitments.
 
 Goal:
+
 Create a warehouse-aware routing and dispatch plan to reduce cost and delivery time.
 
 Prompt:
+
 "You are a Warehouse Dispatch Strategist. Build a multi-warehouse delivery plan for Rajasthan:
 
-Assign orders to the nearest warehouse with available stock.
-Optimise truck loading to combine multiple area deliveries.
-Avoid sending partial loads unless urgent.
-Track inter-warehouse transfer requirements.
-Provide daily cost and efficiency reports."
+1. Assign orders to the nearest warehouse with available stock.
+
+2. Optimise truck loading to combine multiple area deliveries.
+
+3. Avoid sending partial loads unless urgent.
+
+4. Track inter-warehouse transfer requirements.
+
+5. Provide daily cost and efficiency reports."
+
 Inputs Required:
 
-Warehouse locations and stock levels
-Order delivery addresses and deadlines
-Truck capacities
-Transfer timelines between warehouses
-Cost per km for transport
+1. Warehouse locations and stock levels
+
+2. Order delivery addresses and deadlines
+
+3. Truck capacities
+
+4. Transfer timelines between warehouses
+
+5. Cost per km for transport
 
 Prompt 21 — Cold Chain Delivery Route Planning
 Backstory:
