@@ -410,3 +410,346 @@ Ergonomic specifications
 Delivery timeline
 Installation requirements
 RFQ submission date
+
+Prompt 13 — RFQ for IT Hardware
+Backstory:
+A corporate office is upgrading its IT infrastructure to accommodate new hires. They require laptops, monitors, docking stations, and peripherals from reliable vendors who can offer volume discounts and post-purchase technical support.
+
+Goal:
+Draft an RFQ email for IT hardware procurement.
+
+Prompt:
+"You are the IT procurement lead preparing an RFQ for hardware suppliers. Your email should:
+
+Specify the type and configuration of each hardware item
+Include brand/model preferences, if any
+Ask for pricing with warranty terms and support packages
+Request delivery schedule and installation/setup services
+Include payment terms and submission deadline"
+Inputs Required:
+
+Hardware types and specifications
+Quantity for each item
+Brand/model preference
+Delivery location and timeline
+Warranty/support expectations
+RFQ submission date
+
+Prompt 14 — RFQ for Event Management Services
+Backstory:
+A company is planning a large annual conference for its partners and clients. They need an event management firm to handle venue booking, décor, catering, entertainment, and audio-visual setups. The chosen vendor must have experience in corporate events and a proven track record of managing large gatherings.
+
+Goal:
+Create a detailed RFQ for event management companies.
+
+Prompt:
+"You are the corporate communications head drafting an RFQ for event managers. Your email should:
+
+Describe the event size, audience profile, and objectives
+List required services (venue, décor, catering, AV, entertainment)
+Request cost breakdown per service and complete package pricing
+Ask for portfolio of past events and references
+Include expected timelines and RFQ submission deadline"
+Inputs Required:
+
+Event date and duration
+Number of attendees
+Venue preferences/location
+Service requirements list
+Budget range
+RFQ submission date
+
+Prompt 15 — RFQ for Packaging Materials
+Backstory:
+An e-commerce brand needs sustainable and durable packaging for shipping fragile items nationwide. They want eco-friendly materials, custom branding on packaging, and bulk supply capacity. Vendors must comply with environmental regulations.
+
+Goal:
+Prepare an RFQ for eco-friendly packaging material suppliers.
+
+Prompt:
+"You are the operations head creating an RFQ for packaging vendors. Your email should:
+
+List packaging types (boxes, fillers, tapes, labels) with sizes
+Specify material preferences (recycled, biodegradable)
+Request branding and customization details
+Ask for pricing with volume-based discounts
+Require delivery timelines and quality guarantees
+Provide RFQ submission deadline"
+Inputs Required:
+
+Packaging types and sizes
+Material preferences
+Branding requirements
+Delivery schedule
+Order quantity
+RFQ submission date
+
+Prompt 16 — RFQ for Solar Energy Installation
+Backstory:
+A manufacturing plant wants to reduce energy costs by installing a solar power system. They require a vendor who can design, supply, and install the system, handle government approvals, and provide long-term maintenance.
+
+Goal:
+Draft an RFQ for solar energy installation providers.
+
+Prompt:
+"You are the facility energy manager preparing an RFQ for solar installation companies. Your email should:
+
+Describe the plant’s energy consumption and available installation space
+Request system design, panel specifications, and expected output
+Ask for total project cost, financing options, and ROI estimates
+Include maintenance terms and warranty coverage
+Provide RFQ submission deadline"
+Inputs Required:
+
+Current energy consumption data
+Installation site details (area, location)
+Preferred solar technology (mono/poly panels)
+Project timeline
+Maintenance expectations
+RFQ submission date
+
+Prompt 17 — RFQ for Corporate Catering Services
+Backstory:
+A multinational company is looking for a reliable catering partner to serve daily meals to 300 employees at its corporate headquarters. The menu must include vegetarian, non-vegetarian, and vegan options, with strict hygiene standards. The company is seeking a vendor who can deliver variety, nutritional balance, and competitive pricing.
+
+Goal:
+Draft an RFQ for corporate meal catering vendors.
+
+Prompt:
+"You are the admin lead preparing an RFQ for catering vendors. Your email should:
+
+Describe the meal service requirement (breakfast/lunch/dinner) and frequency
+Include dietary variety and nutritional standards
+Request sample menus and cost per head
+Ask for hygiene certifications and compliance proof
+Include delivery logistics and setup requirements
+Provide RFQ submission deadline"
+Inputs Required:
+
+Number of employees to be served
+Meal frequency (daily/weekly)
+Dietary requirements (veg/non-veg/vegan)
+Meal service timings
+Budget per head
+RFQ submission date
+
+Prompt 18 — RFQ for Digital Marketing Services
+Backstory:
+
+A mid-sized retail brand wants to expand its online presence through SEO, social media campaigns, and influencer collaborations. They need a digital marketing agency that can create and execute a 6-month strategy with measurable KPIs.
+
+Goal:
+
+Prepare an RFQ for digital marketing agencies.
+
+Prompt:
+"You are the brand manager preparing an RFQ for digital marketing vendors. Your email should: 
+
+Outline your brand’s current online presence and objectives 
+Request a proposed marketing strategy with deliverables 
+Ask for case studies of past campaigns 
+Include detailed pricing for each service offered 
+Request timeline, performance metrics, and reporting structure 
+Provide RFQ submission deadline"
+Inputs Required: 
+
+Brand overview and objectives 
+Duration of campaign (e.g., 6 months) 
+Desired marketing channels 
+KPIs and success metrics 
+Budget range 
+RFQ submission date
+
+Prompt 19 — RFQ for Uniform Supply
+Backstory:
+
+A hotel chain is looking for a vendor to supply uniforms for its staff across multiple locations. The uniforms must be durable, easy to maintain, and aligned with the brand’s colors and style guidelines.
+
+Goal:
+
+Draft an RFQ for uniform suppliers.
+
+Prompt:
+"You are the procurement manager creating an RFQ for uniform suppliers. Your email should: 
+
+Describe the types of uniforms required for different staff roles 
+Include material specifications and color scheme 
+Request size range and customization options 
+Ask for pricing, sample pieces, and delivery timelines 
+Include RFQ submission deadline"
+Inputs Required: 
+
+List of staff roles and uniform types 
+Material and color requirements 
+Quantity and size breakdown 
+Branding/logo placement details 
+Delivery schedule 
+RFQ submission date
+
+Prompt 20 — RFQ for Warehouse Management System
+Backstory:
+A distribution company needs a robust Warehouse Management System (WMS) to handle inventory tracking, order processing, and reporting. They are looking for vendors with experience in integrating WMS into existing ERP systems.
+
+Goal:
+Create an RFQ for WMS software vendors.
+
+Prompt:
+"You are the operations IT head drafting an RFQ for WMS providers. Your email should:
+
+Outline warehouse operations and system requirements
+Request features like barcode scanning, order tracking, and reporting
+Ask for integration capability with current ERP
+Include pricing models, licensing details, and training support
+Provide RFQ submission deadline"
+Inputs Required:
+
+Current warehouse operations description
+Required WMS features
+ERP integration needs
+Number of warehouse locations/users
+Budget range
+RFQ submission date
+
+Prompt 21 — RFQ for Corporate Travel Services
+Backstory:
+A consultancy firm requires a travel management partner to handle domestic and international bookings for 100+ employees. They want negotiated rates, 24/7 support, and expense reporting.
+
+Goal:
+Draft an RFQ for corporate travel agencies.
+
+Prompt:
+"You are the admin coordinator preparing an RFQ for corporate travel providers. Your email should:
+
+Describe travel requirements (domestic/international) and volume
+Request details on booking processes, discounts, and partnerships
+Ask for technology integration for booking and expense tracking
+Include customer service expectations and reporting needs
+Provide RFQ submission deadline"
+Inputs Required:
+
+Annual travel volume estimates
+Destinations and frequency
+Special service requirements (visas, insurance)
+Preferred travel class and budget range
+RFQ submission date
+
+Prompt 22 — RFQ for Security Services
+Backstory:
+
+A manufacturing facility needs 24/7 on-site security personnel, CCTV monitoring, and access control systems. They require a vendor with licensed and trained security staff, plus the ability to integrate technology into security operations.
+
+Goal:
+
+Prepare an RFQ for security service providers.
+
+Prompt:
+"You are the facility manager preparing an RFQ for security vendors. Your email should: 
+
+List security requirements (guards, CCTV, access control) 
+Request proof of licenses, training, and certifications 
+Include shift schedules and manpower needs 
+Ask for pricing and contract terms 
+Provide RFQ submission deadline"
+Inputs Required: 
+
+Security service scope 
+Number of personnel required 
+Equipment and tech needs 
+Contract duration 
+RFQ submission date
+
+Prompt 23 — RFQ for Printing & Branding
+Backstory:
+A company is launching a marketing campaign and needs a vendor to handle printing of brochures, banners, and merchandise branding. They require high-quality printing with fast turnaround times.
+
+Goal:
+Draft an RFQ for printing and branding vendors.
+
+Prompt:
+"You are the marketing manager drafting an RFQ for printing vendors. Your email should:
+
+Describe the printing items, quantities, and sizes
+Include material and finish preferences
+Ask for sample work and pricing per unit
+Request delivery timelines and quality guarantees
+Provide RFQ submission deadline"
+Inputs Required:
+
+Printing items and specs
+Quantity for each item
+Material/finish preferences
+Delivery date
+RFQ submission date
+
+Prompt 24 — RFQ for HVAC Maintenance
+Backstory:
+A corporate building requires regular maintenance for its HVAC systems to ensure efficiency and air quality. The vendor must offer quarterly inspections, emergency repairs, and compliance with safety standards.
+
+Goal:
+Create an RFQ for HVAC maintenance providers.
+
+Prompt:
+"You are the facility operations lead preparing an RFQ for HVAC maintenance. Your email should:
+
+List HVAC systems and current service requirements
+Include inspection frequency and emergency response time
+Ask for cost breakdown for preventive and corrective maintenance
+Require compliance with safety and environmental regulations
+Provide RFQ submission deadline"
+Inputs Required:
+
+HVAC system details
+Maintenance frequency
+Emergency response expectations
+Budget range
+RFQ submission date
+
+Prompt 25 — RFQ for Logistics Services
+Backstory:
+A retail chain wants a logistics partner to handle warehousing and last-mile delivery across multiple cities. They require scalability, technology-enabled tracking, and cost efficiency.
+
+Goal:
+Draft an RFQ for logistics vendors.
+
+Prompt:
+"You are the supply chain manager preparing an RFQ for logistics companies. Your email should:
+
+Outline delivery volume, locations, and timelines
+Request tracking technology and performance metrics
+Ask for pricing for warehousing and transportation
+Include service level agreement expectations
+Provide RFQ submission deadline"
+Inputs Required:
+
+Delivery locations and frequency
+Delivery volume per month
+Tracking/reporting needs
+Budget range
+RFQ submission date
+
+
+Route optimisation & delivery scheduling
+
+Prompt 1 — Optimised Route Plan for Multiple Deliveries
+Backstory:
+You are the operations head for a mid-sized courier company in Delhi NCR. Your team manages 15 delivery vans covering over 120 daily orders, and you’ve been facing late deliveries due to unplanned routing. Your drivers sometimes take overlapping paths or face unexpected traffic jams. You need a systematic way to optimise routes so that each driver covers the shortest possible distance while ensuring timely delivery for high-priority packages. You also want to factor in vehicle capacity and driver working hours.
+
+Goal:
+Create an optimised delivery route plan that reduces fuel usage and delivery times while improving driver productivity.
+
+Prompt:
+"You are an experienced Logistics Planner with expertise in traffic prediction and route optimisation. Design a delivery schedule and route map for 15 vans covering 120 orders within Delhi NCR.
+
+Use real-time traffic patterns and historical data for route planning.
+Assign orders to drivers based on geographical clusters and delivery urgency.
+Ensure no route exceeds vehicle capacity or driver working hours.
+Include estimated delivery times for each stop.
+Provide contingency routes in case of road closures or delays.
+Present output in both tabular form (order sequence, time, distance) and a visual route map format."
+Inputs Required:
+
+Number of delivery vehicles & their capacity
+Number of orders and delivery addresses
+Time window for deliveries
+Priority packages list (if any)
+Traffic data availability (real-time or historical)
