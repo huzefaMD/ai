@@ -3742,3 +3742,201 @@ AI tools in use
 Company guidelines for AI usage
 Examples of correct and incorrect AI-assisted responses
 AI escalation policy
+
+Prompt 17 — Call Recording Review & Feedback Training
+Backstory:
+A fintech company records all customer calls for quality checks, but most agents see reviews as punitive rather than developmental. Management wants training on using call recordings constructively to improve performance.
+
+Goal:
+Build a positive call review training program.
+
+Prompt:
+*"You are a quality assurance trainer. Create a guide for call recording reviews that includes:
+
+How to self-assess using call recordings
+Identifying improvement areas without defensiveness
+Setting personal performance goals based on feedback
+Sharing best practices from top-performing calls
+Creating an improvement action plan"*
+Inputs Required:
+
+Call scoring criteria
+Examples of high- and low-scoring calls
+Feedback delivery guidelines
+Agent self-review templates
+
+Prompt 18 — Stress Management Workshop
+Backstory:
+Support agents in a high-volume environment report burnout and emotional fatigue. Without stress management skills, absenteeism rises, and morale drops. The company wants a workshop that equips agents to handle pressure healthily.
+
+Goal:
+Create a stress management workshop tailored for support teams.
+
+Prompt:
+*"You are a workplace wellness coach. Create a stress management workshop plan that includes:
+
+Recognizing early signs of burnout
+Breathing and relaxation exercises
+Setting emotional boundaries with customers
+Creating daily micro-break routines
+Accessing company wellness resources"*
+Inputs Required:
+
+Average daily ticket volume per agent
+Current wellness resources available
+Shift duration and break schedules
+Stress-related absenteeism data
+
+Prompt 19 — Cultural Sensitivity Training
+Backstory:
+An airline serves a global customer base, but some agents unintentionally use phrases or gestures that offend certain cultures. The company needs cultural sensitivity training to avoid misunderstandings and strengthen global relationships.
+
+Goal:
+Develop a cultural sensitivity guide for agents.
+
+Prompt:
+*"You are a cross-cultural communication trainer. Create a cultural sensitivity training module that covers:
+
+Understanding cultural norms of top customer regions
+Words, gestures, and topics to avoid
+Using inclusive language in all interactions
+Respecting time zones and holidays
+Role-playing cross-cultural scenarios"*
+Inputs Required:
+
+List of customer regions served
+Examples of past cultural missteps
+Brand language guidelines
+Cultural holiday calendar
+
+Prompt 20 — Service Recovery Training
+Backstory:
+A subscription meal service occasionally misses deliveries or sends incorrect orders. Agents need training on turning these negative experiences into loyalty-building opportunities.
+
+Goal:
+Build a service recovery training plan.
+
+Prompt:
+*"You are a customer retention strategist. Create a service recovery training guide that includes:
+
+Acknowledging the mistake sincerely
+Offering appropriate compensation or solution
+Following up after resolution
+Turning service recovery into a loyalty moment
+Tracking recovery cases for trend analysis"*
+Inputs Required:
+
+Common service failure scenarios
+Approved compensation options
+Brand’s apology language
+Follow-up communication templates
+
+Prompt 21 — Conflict De-escalation Masterclass
+Backstory:
+A home services platform often receives calls from frustrated customers who have faced multiple service delays. Some agents inadvertently escalate situations by sounding defensive or dismissive. Leadership wants a masterclass training that equips agents with de-escalation skills to turn heated calls into constructive problem-solving conversations.
+
+Goal:
+Create a de-escalation masterclass guide for support agents.
+
+Prompt:
+*"You are a conflict resolution coach. Design a masterclass training for agents that covers:
+
+Identifying verbal and tonal cues that signal rising tension
+Techniques to lower emotional temperature (pausing, pacing, mirroring)
+Language patterns that neutralize blame and redirect focus
+Building rapport in the first 30 seconds of the call
+Follow-up actions that restore trust and prevent repeat conflict"*
+Inputs Required:
+
+List of frequent conflict triggers
+Recordings of escalated vs. successfully de-escalated calls
+Company-approved language for apologies
+Average resolution timelines for complaints
+
+Prompt 22 — First-Call Resolution Skills Training
+Backstory:
+An insurance company has noticed repeat calls from the same customers because issues aren’t being resolved on the first attempt. This wastes time and frustrates clients. The management wants a training module focused on achieving first-call resolution without compromising accuracy.
+
+Goal:
+Develop a training program to improve first-call resolution rates.
+
+Prompt:
+*"You are a customer service efficiency consultant. Create a training guide that includes:
+
+Diagnosing the full scope of the customer’s problem early in the call
+Using probing questions to uncover hidden details
+Leveraging knowledge bases efficiently during live conversations
+Avoiding unnecessary transfers and escalations
+Closing the call with confirmation that all concerns are addressed"*
+Inputs Required:
+
+Current first-call resolution percentage
+Examples of incomplete resolutions
+Knowledge base access instructions
+List of problems that require escalation
+
+Prompt 23 — Soft Skills for Difficult Customers
+Backstory:
+A luxury travel agency serves high-net-worth clients who expect top-tier service. Even minor inconveniences can lead to dissatisfaction. Agents must have impeccable soft skills to handle demanding customers without compromising the brand image.
+
+Goal:
+Create a soft skills training guide for dealing with difficult customers.
+
+Prompt:
+*"You are a hospitality soft skills trainer. Develop a training program that covers:
+
+Active listening techniques to make customers feel heard
+Phrases that communicate empathy without overpromising
+Subtle ways to maintain control of the conversation
+Adapting tone to match customer personality types
+Turning complaints into upsell opportunities"*
+Inputs Required:
+
+Brand’s tone-of-voice guide
+Examples of difficult customer scenarios
+Approved offers/compensations for recovery
+Past positive feedback from challenging cases
+
+Prompt 24 — Remote Agent Work Best Practices
+Backstory:
+Since moving to a remote work model, a tech support team struggles with consistency in response times and collaboration. Some agents also face distractions at home, lowering productivity. The company needs a training guide for remote work efficiency tailored to support roles.
+
+Goal:
+Design a best practices guide for remote customer support agents.
+
+Prompt:
+*"You are a remote work consultant. Create a training manual for remote support agents that includes:
+
+Setting up an ergonomic and distraction-free home workspace
+Maintaining team communication in virtual settings
+Scheduling deep-focus time for complex cases
+Using collaboration tools for seamless ticket handoffs
+Self-monitoring performance against SLAs"*
+Inputs Required:
+
+List of collaboration tools used
+Current SLA targets
+Examples of remote work challenges from agents
+IT and equipment policies
+
+Prompt 25 — Upskilling Program for Experienced Agents
+Backstory:
+A BPO has agents who have been in their roles for over 5 years. While experienced, their skills haven’t evolved to match newer technologies and customer expectations. Management wants an upskilling program to refresh and expand their capabilities.
+
+Goal:
+Develop an upskilling program for seasoned customer support agents.
+
+Prompt:
+*"You are a corporate training designer. Create an upskilling program that includes:
+
+Refresher modules on communication and empathy
+Training on emerging customer support tools and AI systems
+Scenario-based learning for new customer behaviors
+Peer-led workshops for sharing expertise
+Certification pathways to recognize advanced skills"*
+Inputs Required:
+
+Current skill assessment reports
+List of new tools to be adopted
+Examples of modern customer issues vs. 5 years ago
+Recognition and certification policy
