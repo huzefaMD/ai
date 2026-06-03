@@ -1684,142 +1684,220 @@ Inputs Required:
 5. Cost per km for transport
 
 Prompt 21 — Cold Chain Delivery Route Planning
+
 Backstory:
+
 You manage cold chain logistics for a dairy products company in Punjab. Deliveries must maintain a temperature of 4°C or below, and vehicle refrigeration systems consume extra fuel. Poor route planning leads to delays, risking spoilage and wastage. You need an optimised cold chain routing plan that minimises travel time and ensures temperature compliance.
 
 Goal:
+
 Design a cold chain delivery route that preserves product integrity.
 
 Prompt:
+
 "You are a Cold Chain Logistics Specialist. Plan delivery routes for dairy products in Punjab:
 
-Prioritise high-risk perishables for earliest delivery.
-Minimise idle time with refrigeration on.
-Ensure compliance with cold chain temperature regulations.
-Include sensor-based alerts for temperature breaches.
-Track fuel consumption vs. delivery efficiency."
+1. Prioritise high-risk perishables for earliest delivery.
+
+2. Minimise idle time with refrigeration on.
+
+3. Ensure compliance with cold chain temperature regulations.
+
+4. Include sensor-based alerts for temperature breaches.
+
+5. Track fuel consumption vs. delivery efficiency."
+
 Inputs Required:
 
-Vehicle refrigeration capacity
-Product type and temperature requirements
-Delivery locations and deadlines
-Fuel consumption rates
-Ambient temperature forecast
+1. Vehicle refrigeration capacity
+
+2. Product type and temperature requirements
+
+3. Delivery locations and deadlines
+
+4. Fuel consumption rates
+
+5. Ambient temperature forecast
 
 Prompt 22 — Postal Service Route Digitisation
+
 Backstory:
+
 A government postal service in Kerala wants to modernise its daily route assignments. Current paper-based route planning does not adapt to changing workloads, leading to overburdened postmen in some zones. You need to create a digital route assignment tool that automatically adjusts workloads in real time.
 
 Goal:
+
 Digitise and optimise postal delivery route allocation.
 
 Prompt:
+
 "You are a Postal Route Optimisation Expert. Design a digital route planning tool for Kerala’s postal service:
 
-Map zones and delivery points digitally.
-Auto-adjust assignments based on daily volume.
-Provide real-time rerouting for absent staff coverage.
-Allow mobile app access for postmen to track routes.
-Maintain historical route efficiency data."
+1. Map zones and delivery points digitally.
+
+2. Auto-adjust assignments based on daily volume.
+
+3. Provide real-time rerouting for absent staff coverage.
+
+4. Allow mobile app access for postmen to track routes.
+
+5. Maintain historical route efficiency data."
+
 Inputs Required:
 
-Delivery addresses and volume per zone
-Staff availability
-Historical delivery time per route
-GPS mapping data
-Device availability for staff
+1. Delivery addresses and volume per zone
+
+2. Staff availability
+
+3. Historical delivery time per route
+
+4. GPS mapping data
+
+5. Device availability for staff
 
 Prompt 23 — B2B Wholesale Distribution Planning
+
 Backstory:
+
 You run a wholesale FMCG distribution network in Gujarat supplying over 300 retailers weekly. Some retailers order only once a week, while others order daily. Sending the same route daily wastes resources. You want a frequency-based route plan that schedules deliveries according to retailer order patterns.
 
 Goal:
+
 Create a variable-frequency delivery schedule that maximises resource use.
 
 Prompt:
+
 "You are a Wholesale Distribution Planner. Build a delivery plan for FMCG products in Gujarat:
 
-Assign high-frequency retailers to daily routes.
-Schedule low-frequency clients on fixed days.
-Batch deliveries geographically.
-Minimise empty truck space.
-Provide route cost-per-delivery analysis."
+1. Assign high-frequency retailers to daily routes.
+
+2. Schedule low-frequency clients on fixed days.
+
+3. Batch deliveries geographically.
+
+4. Minimise empty truck space.
+
+5. Provide route cost-per-delivery analysis."
+
 Inputs Required:
 
-Retailer order frequency and volume
-Delivery address clusters
-Vehicle capacities
-Historical delivery times
-Cost metrics
+1. Retailer order frequency and volume
+
+2. Delivery address clusters
+
+3. Vehicle capacities
+
+4. Historical delivery times
+
+5. Cost metrics
 
 Prompt 24 — Event Equipment Logistics Planning
+
 Backstory:
+
 You operate a logistics firm that supplies staging, lighting, and audio equipment for events in Goa. Events often require equipment to be delivered at specific times for setup, sometimes late at night. Current routing causes delays, and drivers sometimes arrive before venues are ready. You need a time-sensitive delivery plan that aligns with event schedules.
 
 Goal:
+
 Synchronise event equipment delivery with venue readiness.
 
 Prompt:
+
 "You are an Event Logistics Coordinator. Create a delivery schedule for event equipment in Goa:
 
-Match delivery arrival with venue setup readiness.
-Factor in multiple event deliveries in a single night.
-Assign backup vehicles for urgent changes.
-Minimise overtime driver hours.
-Track delivery punctuality for each client."
+1. Match delivery arrival with venue setup readiness.
+
+2. Factor in multiple event deliveries in a single night.
+
+3. Assign backup vehicles for urgent changes.
+
+4. Minimise overtime driver hours.
+
+5. Track delivery punctuality for each client."
+
 Inputs Required:
 
-Event locations and setup timelines
-Equipment size and load requirements
-Number of delivery vehicles
-Venue access restrictions
-Traffic patterns for event hours
+1. Event locations and setup timelines
+
+2. Equipment size and load requirements
+
+3. Number of delivery vehicles
+
+4. Venue access restrictions
+
+5. Traffic patterns for event hours
 
 Prompt 25 — Cross-Border E-Commerce Delivery
+
 Backstory:
+
 You manage cross-border deliveries from India to Nepal for an e-commerce marketplace. Customs clearance delays and varying road conditions cause unpredictable delivery times. You want a route and scheduling system that accounts for border wait times and provides accurate ETAs to customers.
 
 Goal:
+
 Plan cross-border e-commerce delivery routes with accurate ETAs.
 
 Prompt:
+
 "You are a Cross-Border Logistics Specialist. Develop a delivery plan from India to Nepal:
 
-Include average customs clearance times in ETA calculations.
-Select routes with best road conditions for heavy loads.
-Pre-schedule documentation to reduce border delays.
-Provide real-time updates to customers on delays.
-Track performance against promised ETAs."
+1. Include average customs clearance times in ETA calculations.
+
+2. Select routes with best road conditions for heavy loads.
+
+3. Pre-schedule documentation to reduce border delays.
+
+4. Provide real-time updates to customers on delays.
+
+5. Track performance against promised ETAs."
+
 Inputs Required:
 
-Origin and destination cities
-Customs processing times
-Road quality reports
-Vehicle type and load
-Delivery priority list
+1. Origin and destination cities
+
+2. Customs processing times
+
+3. Road quality reports
+
+4. Vehicle type and load
+
+5. Delivery priority list
 
 
 Inventory tracking sheets
 
 Prompt 1 — Automated Inventory Restocking for FMCG
+
 Backstory:
+
 You are managing inventory for a mid-sized FMCG distributor in Mumbai. Your warehouse handles over 2,000 SKUs, and sales fluctuate based on seasonal demand. Stockouts have become a recurring problem, especially for high-demand items, leading to missed sales opportunities. You want an automated restocking system that alerts you before critical inventory levels are reached and suggests reorder quantities based on sales trends and supplier lead times.
 
 Goal:
+
 Create a restocking alert system that prevents stockouts and maintains optimal inventory levels.
 
 Prompt:
+
 "You are a Supply Chain Data Analyst. Develop an automated restocking alert system for an FMCG distributor handling 2,000 SKUs.
 
-Set minimum and maximum stock thresholds for each SKU.
-Use past 12 months’ sales data to predict reorder needs.
-Factor in supplier lead times and safety stock.
-Generate a daily email/SMS alert for items nearing reorder levels.
-Provide suggested reorder quantities for each product."
+1. Set minimum and maximum stock thresholds for each SKU.
+
+2. Use past 12 months’ sales data to predict reorder needs.
+
+3. Factor in supplier lead times and safety stock.
+
+4. Generate a daily email/SMS alert for items nearing reorder levels.
+
+5. Provide suggested reorder quantities for each product."
+
 Inputs Required:
 
-SKU list with current stock levels
-Minimum & maximum stock thresholds
-Historical sales data
-Supplier lead times
-Safety stock percentage
+1. SKU list with current stock levels
+
+2. Minimum & maximum stock thresholds
+
+3. Historical sales data
+
+4. Supplier lead times
+
+5. Safety stock percentage
