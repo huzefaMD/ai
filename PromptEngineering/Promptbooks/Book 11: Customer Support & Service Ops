@@ -2645,211 +2645,323 @@ Inputs Required:
 4. SLA targets for social channels
 
 Prompt 8 — Knowledge Base (KB) Accuracy & Findability Audit
+
 Backstory:
+
 Agents in a Hyderabad support hub complain that KB articles are outdated and hard to search. New hires over-rely on seniors, inflating handle times and errors. Customers report contradictory instructions between email and chat. Management needs a KB truth-source audit.
 
 Goal:
+
 Measure KB content quality, freshness, and search discoverability.
 
 Prompt:
+
 “You are a service documentation auditor. Audit the KB for:
 
-Article freshness (last update, owner).
-Instruction accuracy (replicate steps).
-Consistency across channels/policies.
-Search findability (top queries → top articles).
-Broken links, missing screenshots, non-inclusive language.
-Deliver a gap list and an update roadmap by risk.”
+1. Article freshness (last update, owner).
+
+2. Instruction accuracy (replicate steps).
+
+3. Consistency across channels/policies.
+
+4. Search findability (top queries → top articles).
+
+5. Broken links, missing screenshots, non-inclusive language.
+
+6. Deliver a gap list and an update roadmap by risk.”
+
 Inputs Required:
 
-KB export (titles, content, owners, last updated)
-Top internal/external search queries
-Known policy/process changes
-Style guide & accessibility standards
+1. KB export (titles, content, owners, last updated)
+
+2. Top internal/external search queries
+
+3. Known policy/process changes
+
+4. Style guide & accessibility standards
 
 Prompt 9 — CSAT/DSAT Post-Interaction Audit
+
 Backstory:
+
 Although overall CSAT at a Pune BPO is stable, DSAT comments cite “partial answers” and “no ownership.” Ops suspects survey bias and tagging gaps. Leadership wants a forensic look linking DSAT reasons to agent behaviors and process issues.
 
 Goal:
+
 Correlate satisfaction outcomes with interaction attributes to find fixable drivers.
 
 Prompt:
+
 “You are a CX analytics auditor. Analyze survey and interaction data to:
 
-Segment CSAT/DSAT by channel, queue, agent tenure.
-Thematize verbatims (ownership, clarity, policy barriers).
-Link CSAT drops to handle time, transfer count, KB usage.
-Recommend top-5 behavioral/process changes.
-Provide visuals and a simple playbook for supervisors.”
+1. Segment CSAT/DSAT by channel, queue, agent tenure.
+
+2. Thematize verbatims (ownership, clarity, policy barriers).
+
+3. Link CSAT drops to handle time, transfer count, KB usage.
+
+4. Recommend top-5 behavioral/process changes.
+
+5. Provide visuals and a simple playbook for supervisors.”
+
 Inputs Required:
 
-Survey results (CSAT/NPS, comments)
-Interaction metadata (AHT, transfers, channel)
-Agent roster (tenure/skills)
-KB access logs (if available)
+1. Survey results (CSAT/NPS, comments)
+
+2. Interaction metadata (AHT, transfers, channel)
+
+3. Agent roster (tenure/skills)
+
+4. KB access logs (if available)
 
 Prompt 10 — QA Calibration Workshop Pack
+
 Backstory:
+
 Different QA reviewers in a Chennai center score the same calls differently, triggering agent distrust. Appeals are frequent and time-consuming. Leadership wants a calibration framework to align scoring and reduce variance.
 
 Goal:
+
 Create a repeatable QA calibration process and toolkit.
 
 Prompt:
+
 “You are a QA enablement lead. Build a calibration pack:
 
-Pick a gold-standard call set across scenarios.
-Define rubric anchors with exemplar snippets.
-Facilitate scoring session and capture variance.
-Document tie-break rules and update the rubric.
-Publish calibration cadence and reviewer scorecards.”
+1. Pick a gold-standard call set across scenarios.
+
+2. Define rubric anchors with exemplar snippets.
+
+3. Facilitate scoring session and capture variance.
+
+4. Document tie-break rules and update the rubric.
+
+5. Publish calibration cadence and reviewer scorecards.”
+
 Inputs Required:
 
-Current QA rubric & weightages
-Sample interactions (audio/chat/email)
-Disputed scores history
-Cadence goals (monthly/weekly)
+1. Current QA rubric & weightages
+
+2. Sample interactions (audio/chat/email)
+
+3. Disputed scores history
+
+4. Cadence goals (monthly/weekly)
 
 Prompt 11 — Speech Analytics Quality & Compliance Audit
+
 Backstory:
+
 A Gurgaon contact center installed speech analytics but insights haven’t improved QA outcomes. Agents don’t trust keyword flags; compliance misses are still discovered manually. Management needs an audit to tighten model accuracy and governance.
 
 Goal:
+
 Evaluate speech analytics performance vs. QA/compliance objectives.
 
 Prompt:
+
 “You are a speech analytics auditor. Review:
 
-Keyword/phrase precision & recall (vs. human QA).
-False positives/negatives on critical intents (cancellation, threat, legal).
-Consent/PII detection reliability.
-Tuning plan (dictionaries, acoustic models).
-Governance: model change control, audits, drift checks.”
+1. Keyword/phrase precision & recall (vs. human QA).
+
+2. False positives/negatives on critical intents (cancellation, threat, legal).
+
+3. Consent/PII detection reliability.
+
+4. Tuning plan (dictionaries, acoustic models).
+
+5. Governance: model change control, audits, drift checks.”
+
 Inputs Required:
 
-Model config (keywords, thresholds)
-Ground truth QA samples
-Compliance rules (consent, PII)
-Current alert workflows
+1. Model config (keywords, thresholds)
+
+2. Ground truth QA samples
+
+3. Compliance rules (consent, PII)
+
+4. Current alert workflows
 
 Prompt 12 — Escalation Handling Quality Audit
+
 Backstory:
+
 Escalations at a Kolkata e-commerce support team often jump straight to L3, bypassing L1/L2 fixes. Customers face long waits and repeat contacts. Senior leaders want gatekeeping quality and customer reassurance improved.
 
 Goal:
+
 Assess escalation accuracy, communication, and recovery steps.
 
 Prompt:
+
 “You are a tiered support auditor. Evaluate:
 
-Escalation eligibility vs. SOP.
-Info completeness in tickets (repro steps, logs).
-Customer-facing updates (cadence, clarity, empathy).
-Containment actions at lower tiers.
-Recommend SOP tweaks, templates, and training focus.”
+1. Escalation eligibility vs. SOP.
+
+2. Info completeness in tickets (repro steps, logs).
+
+3. Customer-facing updates (cadence, clarity, empathy).
+
+4. Containment actions at lower tiers.
+
+5. Recommend SOP tweaks, templates, and training focus.”
+
 Inputs Required:
 
-Escalation SOPs & SLAs
-Ticket samples by tier
-Update templates & cadence rules
-Reopen/repeat contact stats
+1. Escalation SOPs & SLAs
+
+2. Ticket samples by tier
+
+3. Update templates & cadence rules
+
+4. Reopen/repeat contact stats
 
 Prompt 13 — After-Call Work (ACW) Documentation Audit
+
 Backstory:
+
 Supervisors in a Jaipur center notice ACW notes are sparse, hurting handoffs and follow-ups. Duplicate work and customer re-explanations rise. Ops needs a documentation quality audit to set a higher bar.
 
 Goal:
+
 Improve completeness, clarity, and standardization of ACW notes.
 
 Prompt:
+
 “You are a service documentation QA. Audit ACW notes for:
 
-Context captured (issue, steps taken, outcome).
-Use of standard tags and templates.
-Prohibited elements (PII, subjective language).
-Hand-off readiness and searchability.
-Deliver examples of ‘poor vs. good’ notes and a checklist.”
+1. Context captured (issue, steps taken, outcome).
+
+2. Use of standard tags and templates.
+
+3. Prohibited elements (PII, subjective language).
+
+4. Hand-off readiness and searchability.
+
+5. Deliver examples of ‘poor vs. good’ notes and a checklist.”
+
 Inputs Required:
 
-Sample ACW logs
-Tag taxonomy & templates
-PII policy
-Handoff SLAs
+1. Sample ACW logs
+
+2. Tag taxonomy & templates
+
+3. PII policy
+
+4. Handoff SLAs
 
 Prompt 14 — Average Handle Time (AHT) vs. Quality Audit
+
 Backstory:
+
 To hit aggressive AHT targets, agents at a Noida center rush calls, causing DSAT growth. Leadership wants a balanced scorecard that rewards resolution quality, not speed alone.
 
 Goal:
+
 Audit AHT practices and propose a balanced metric model.
 
 Prompt:
+
 “You are a CX metrics auditor. Analyze:
 
-AHT vs. FCR/DSAT correlation.
-Behaviors driving short-but-poor calls (script adherence, discovery).
-Long calls that deliver high CSAT (complexity factors).
-Propose a composite scoring model (AHT, FCR, Quality).
-Supply coaching guidance and exception rules.”
+1. AHT vs. FCR/DSAT correlation.
+
+2. Behaviors driving short-but-poor calls (script adherence, discovery).
+
+3. Long calls that deliver high CSAT (complexity factors).
+
+4. Propose a composite scoring model (AHT, FCR, Quality).
+
+5. Supply coaching guidance and exception rules.”
+
 Inputs Required:
 
-AHT by queue/agent
-QA scores, CSAT/DSAT
-Call reason taxonomy
-Policy on complex-case exceptions
+1. AHT by queue/agent
+
+2. QA scores, CSAT/DSAT
+
+3. Call reason taxonomy
+
+4. Policy on complex-case exceptions
 
 Prompt 15 — Email/Chat Tone & Empathy Audit
+
 Backstory:
+
 Though factual accuracy is decent, a Hyderabad SaaS support team gets feedback that replies feel “robotic.” Leaders want empathy without verbosity and consistent brand voice across agents.
 
 Goal:
+
 Measure tone, empathy, and brand voice adherence; recommend improvements.
 
 Prompt:
+
 “You are a communications QA specialist. Audit written interactions for:
 
-Personalization (name, context acknowledgement).
-Empathy markers and assurance language.
-Clarity (short sentences, scannable structure).
-Brand voice (formal vs. friendly) and inclusive language.
-Deliver a tone rubric, exemplars, and a micro-writing playbook.”
+1. Personalization (name, context acknowledgement).
+
+2. Empathy markers and assurance language.
+
+3. Clarity (short sentences, scannable structure).
+
+4. Brand voice (formal vs. friendly) and inclusive language.
+
+5. Deliver a tone rubric, exemplars, and a micro-writing playbook.”
+
 Inputs Required:
 
-Sample emails/chats
-Brand voice guide
-Prohibited phrases list
-SLA for reply length/format
+1. Sample emails/chats
+
+2. Brand voice guide
+
+3. Prohibited phrases list
+
+4. SLA for reply length/format
 
 Prompt 16 — Omnichannel Consistency Audit
+
 Backstory:
+
 Customers in an Ahmedabad retailer get different answers across phone, chat, and store counters. Refund rules and timelines vary by agent. The COO wants “one truth” regardless of channel.
 
 Goal:
+
 Verify policy consistency and outcome parity across channels.
 
 Prompt:
+
 “You are an omnichannel QA auditor.
 
-Test the same scenarios across phone/chat/email/social/store.
-Compare outcomes (eligibility, timelines, documents).
-Identify policy drift, KB gaps, and training gaps.
-Recommend governance to keep channels aligned (KB ownership, release notes, audits).”
+1. Test the same scenarios across phone/chat/email/social/store.
+
+2. Compare outcomes (eligibility, timelines, documents).
+
+3. Identify policy drift, KB gaps, and training gaps.
+
+4. Recommend governance to keep channels aligned (KB ownership, release notes, audits).”
+
 Inputs Required:
 
-Policy set & KB links
-Channel-specific scripts/templates
-Mystery-shop scenarios
-Channel SLAs
+1. Policy set & KB links
+
+2. Channel-specific scripts/templates
+
+3. Mystery-shop scenarios
+
+4. Channel SLAs
 
 Prompt 17 — Queue & Workforce Management Audit
+
 Backstory:
+
 A Chennai contact center misses SLAs during peak hours despite spare capacity off-peak. Leaders suspect forecasting and scheduling inefficiencies. They need a WFM audit tied to service impact.
 
 Goal:
+
 Assess forecasting accuracy, staffing, and routing rules.
 
 Prompt:
+
 “You are a WFM auditor. Analyze:
 
 Forecast vs. actual arrival patterns (MAE/MAPE).
