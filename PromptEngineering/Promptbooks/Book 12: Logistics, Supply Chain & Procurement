@@ -315,225 +315,355 @@ Inputs Required:
 5. RFQ submission deadline
 
 Prompt 9 — RFQ for Safety Equipment
+
 Backstory:
+
 A new infrastructure project requires personal protective equipment (PPE) for all site workers. Items include helmets, gloves, safety shoes, and high-visibility jackets. Vendors must supply BIS/ISO-certified gear and ensure timely delivery before project commencement.
 
 Goal:
+
 Draft a detailed RFQ for PPE procurement.
 
 Prompt:
+
 "You are the site safety officer preparing an RFQ email for PPE vendors. Your email should:
 
-List all PPE items required with relevant certifications
-Mention size variations and customization (logo printing) if needed
-Request bulk pricing, warranty, and replacement terms
-Include delivery timelines and compliance with safety standards
-Specify insurance coverage and RFQ submission deadline"
+1. List all PPE items required with relevant certifications
+
+2. Mention size variations and customization (logo printing) if needed
+
+3. Request bulk pricing, warranty, and replacement terms
+
+4. Include delivery timelines and compliance with safety standards
+
+5. Specify insurance coverage and RFQ submission deadline"
+
 Inputs Required:
 
-List of PPE items and specifications
-Quantity per item
-Certification requirements
-Delivery location and deadline
-RFQ submission date
+1. List of PPE items and specifications
+
+2. Quantity per item
+
+3. Certification requirements
+
+4. Delivery location and deadline
+
+5. RFQ submission date
 
 Prompt 10 — RFQ for Printing & Branding Services
+
 Backstory:
+
 A retail chain is launching a seasonal sale and needs banners, posters, and brochures printed in bulk. The vendor must deliver high-quality prints with color accuracy and meet strict deadlines to align with the campaign launch.
 
 Goal:
+
 Create an RFQ for printing and branding services.
 
 Prompt:
+
 "You are the marketing manager preparing an RFQ for printing vendors. Your email should:
 
-Specify the types of materials to be printed (banners, flyers, posters)
-Mention size, paper quality, and finish requirements
-State quantities for each item
-Request proofing process details and turnaround time
-Ask for pricing with bulk discounts and delivery terms
-Provide RFQ submission deadline"
+1. Specify the types of materials to be printed (banners, flyers, posters)
+
+2. Mention size, paper quality, and finish requirements
+
+3. State quantities for each item
+
+4. Request proofing process details and turnaround time
+
+5. Ask for pricing with bulk discounts and delivery terms
+
+6. Provide RFQ submission deadline"
+
 Inputs Required:
 
-List of print materials with specifications
-Quantity per item
-Preferred paper/material type
-Delivery date
-RFQ submission deadline
+1. List of print materials with specifications
+
+2. Quantity per item
+
+3. Preferred paper/material type
+
+4. Delivery date
+
+5. RFQ submission deadline
 
 Prompt 11 — RFQ for Warehouse Management System (WMS)
+
 Backstory:
+
 A logistics company is upgrading its warehouse operations and needs a software system to handle inventory management, shipment tracking, and integration with their ERP. The system must be scalable for future expansion and offer robust customer support.
 
 Goal:
+
 Prepare a detailed RFQ for a WMS vendor.
 
 Prompt:
+
 "You are the IT head drafting an RFQ email for WMS providers. Your email should:
 
-Describe your current warehouse operations and challenges
-List required software features (inventory tracking, order management, analytics)
-Specify integration requirements with existing systems
-Ask for licensing, training, and support details
-Request pricing for setup and subscription plans
-Provide RFQ submission deadline"
+1. Describe your current warehouse operations and challenges
+
+2. List required software features (inventory tracking, order management, analytics)
+
+3. Specify integration requirements with existing systems
+
+4. Ask for licensing, training, and support details
+
+5. Request pricing for setup and subscription plans
+
+6. Provide RFQ submission deadline"
+
 Inputs Required:
 
-Warehouse details (size, operations)
-List of desired features/modules
-Integration requirements
-User licenses needed
-Go-live timeline
-RFQ submission deadline
+1. Warehouse details (size, operations)
+
+2. List of desired features/modules
+
+3. Integration requirements
+
+4. User licenses needed
+
+5. Go-live timeline
+
+6. RFQ submission deadline
 
 Prompt 12 — RFQ for Office Furniture
+
 Backstory:
+
 A rapidly growing tech startup is moving into a new workspace and needs ergonomic office furniture to support employee comfort and productivity. They are looking for bulk supply of desks, chairs, storage units, and meeting room tables. Vendors must offer warranty coverage and the ability to customize designs to match the company’s branding.
 
 Goal:
+
 Prepare a comprehensive RFQ for office furniture suppliers.
 
 Prompt:
+
 "You are the admin manager drafting an RFQ email for furniture suppliers. Your email should:
 
-List all required furniture types with dimensions and materials
-Include ergonomic requirements and brand color preferences
-Request pricing with bulk discounts and payment terms
-Ask for delivery timelines and installation services
-Require warranty details and after-sales service information
-Provide RFQ submission deadline"
+1. List all required furniture types with dimensions and materials
+
+2. Include ergonomic requirements and brand color preferences
+
+3. Request pricing with bulk discounts and payment terms
+
+4. Ask for delivery timelines and installation services
+
+5. Require warranty details and after-sales service information
+
+6. Provide RFQ submission deadline"
+
 Inputs Required:
 
-Furniture type and quantity
-Preferred materials and colors
-Ergonomic specifications
-Delivery timeline
-Installation requirements
-RFQ submission date
+1. Furniture type and quantity
+
+2. Preferred materials and colors
+
+3. Ergonomic specifications
+
+4. Delivery timeline
+
+5. Installation requirements
+
+6. RFQ submission date
 
 Prompt 13 — RFQ for IT Hardware
+
 Backstory:
+
 A corporate office is upgrading its IT infrastructure to accommodate new hires. They require laptops, monitors, docking stations, and peripherals from reliable vendors who can offer volume discounts and post-purchase technical support.
 
 Goal:
+
 Draft an RFQ email for IT hardware procurement.
 
 Prompt:
+
 "You are the IT procurement lead preparing an RFQ for hardware suppliers. Your email should:
 
-Specify the type and configuration of each hardware item
-Include brand/model preferences, if any
-Ask for pricing with warranty terms and support packages
-Request delivery schedule and installation/setup services
-Include payment terms and submission deadline"
+1. Specify the type and configuration of each hardware item
+
+2. Include brand/model preferences, if any
+
+3. Ask for pricing with warranty terms and support packages
+
+4. Request delivery schedule and installation/setup services
+
+5. Include payment terms and submission deadline"
+
 Inputs Required:
 
-Hardware types and specifications
-Quantity for each item
-Brand/model preference
-Delivery location and timeline
-Warranty/support expectations
-RFQ submission date
+1. Hardware types and specifications
+
+2. Quantity for each item
+
+3. Brand/model preference
+
+4. Delivery location and timeline
+
+5. Warranty/support expectations
+
+6. RFQ submission date
 
 Prompt 14 — RFQ for Event Management Services
+
 Backstory:
+
 A company is planning a large annual conference for its partners and clients. They need an event management firm to handle venue booking, décor, catering, entertainment, and audio-visual setups. The chosen vendor must have experience in corporate events and a proven track record of managing large gatherings.
 
 Goal:
+
 Create a detailed RFQ for event management companies.
 
 Prompt:
+
 "You are the corporate communications head drafting an RFQ for event managers. Your email should:
 
-Describe the event size, audience profile, and objectives
-List required services (venue, décor, catering, AV, entertainment)
-Request cost breakdown per service and complete package pricing
-Ask for portfolio of past events and references
-Include expected timelines and RFQ submission deadline"
+1. Describe the event size, audience profile, and objectives
+
+2. List required services (venue, décor, catering, AV, entertainment)
+
+3. Request cost breakdown per service and complete package pricing
+
+4. Ask for portfolio of past events and references
+
+5. Include expected timelines and RFQ submission deadline"
+
 Inputs Required:
 
-Event date and duration
-Number of attendees
-Venue preferences/location
-Service requirements list
-Budget range
-RFQ submission date
+1. Event date and duration
+
+2. Number of attendees
+
+3. Venue preferences/location
+
+4. Service requirements list
+
+5. Budget range
+
+6. RFQ submission date
 
 Prompt 15 — RFQ for Packaging Materials
+
 Backstory:
+
 An e-commerce brand needs sustainable and durable packaging for shipping fragile items nationwide. They want eco-friendly materials, custom branding on packaging, and bulk supply capacity. Vendors must comply with environmental regulations.
 
 Goal:
+
 Prepare an RFQ for eco-friendly packaging material suppliers.
 
 Prompt:
+
 "You are the operations head creating an RFQ for packaging vendors. Your email should:
 
-List packaging types (boxes, fillers, tapes, labels) with sizes
-Specify material preferences (recycled, biodegradable)
-Request branding and customization details
-Ask for pricing with volume-based discounts
-Require delivery timelines and quality guarantees
-Provide RFQ submission deadline"
+1. List packaging types (boxes, fillers, tapes, labels) with sizes
+
+2. Specify material preferences (recycled, biodegradable)
+
+3. Request branding and customization details
+
+4. Ask for pricing with volume-based discounts
+
+5. Require delivery timelines and quality guarantees
+
+6. Provide RFQ submission deadline"
+
 Inputs Required:
 
-Packaging types and sizes
-Material preferences
-Branding requirements
-Delivery schedule
-Order quantity
-RFQ submission date
+1. Packaging types and sizes
+
+2. Material preferences
+
+3. Branding requirements
+
+4. Delivery schedule
+
+5. Order quantity
+
+6. RFQ submission date
 
 Prompt 16 — RFQ for Solar Energy Installation
+
 Backstory:
+
 A manufacturing plant wants to reduce energy costs by installing a solar power system. They require a vendor who can design, supply, and install the system, handle government approvals, and provide long-term maintenance.
 
 Goal:
+
 Draft an RFQ for solar energy installation providers.
 
 Prompt:
+
 "You are the facility energy manager preparing an RFQ for solar installation companies. Your email should:
 
-Describe the plant’s energy consumption and available installation space
-Request system design, panel specifications, and expected output
-Ask for total project cost, financing options, and ROI estimates
-Include maintenance terms and warranty coverage
-Provide RFQ submission deadline"
+1. Describe the plant’s energy consumption and available installation space
+
+2. Request system design, panel specifications, and expected output
+
+3. Ask for total project cost, financing options, and ROI estimates
+
+4. Include maintenance terms and warranty coverage
+
+5. Provide RFQ submission deadline"
+
 Inputs Required:
 
-Current energy consumption data
-Installation site details (area, location)
-Preferred solar technology (mono/poly panels)
-Project timeline
-Maintenance expectations
-RFQ submission date
+1. Current energy consumption data
+
+2. Installation site details (area, location)
+
+3. Preferred solar technology (mono/poly panels)
+
+4. Project timeline
+
+5. Maintenance expectations
+
+6. RFQ submission date
 
 Prompt 17 — RFQ for Corporate Catering Services
+
 Backstory:
+
 A multinational company is looking for a reliable catering partner to serve daily meals to 300 employees at its corporate headquarters. The menu must include vegetarian, non-vegetarian, and vegan options, with strict hygiene standards. The company is seeking a vendor who can deliver variety, nutritional balance, and competitive pricing.
 
 Goal:
+
 Draft an RFQ for corporate meal catering vendors.
 
 Prompt:
+
 "You are the admin lead preparing an RFQ for catering vendors. Your email should:
 
-Describe the meal service requirement (breakfast/lunch/dinner) and frequency
-Include dietary variety and nutritional standards
-Request sample menus and cost per head
-Ask for hygiene certifications and compliance proof
-Include delivery logistics and setup requirements
-Provide RFQ submission deadline"
+1. Describe the meal service requirement (breakfast/lunch/dinner) and frequency
+
+2. Include dietary variety and nutritional standards
+
+3. Request sample menus and cost per head
+
+4. Ask for hygiene certifications and compliance proof
+
+5. Include delivery logistics and setup requirements
+
+6. Provide RFQ submission deadline"
+
 Inputs Required:
 
-Number of employees to be served
-Meal frequency (daily/weekly)
-Dietary requirements (veg/non-veg/vegan)
-Meal service timings
-Budget per head
-RFQ submission date
+1. Number of employees to be served
+
+2. Meal frequency (daily/weekly)
+
+3. Dietary requirements (veg/non-veg/vegan)
+
+4. Meal service timings
+
+5. Budget per head
+
+6. RFQ submission date
 
 Prompt 18 — RFQ for Digital Marketing Services
+
 Backstory:
 
 A mid-sized retail brand wants to expand its online presence through SEO, social media campaigns, and influencer collaborations. They need a digital marketing agency that can create and execute a 6-month strategy with measurable KPIs.
@@ -543,22 +673,34 @@ Goal:
 Prepare an RFQ for digital marketing agencies.
 
 Prompt:
+
 "You are the brand manager preparing an RFQ for digital marketing vendors. Your email should: 
 
-Outline your brand’s current online presence and objectives 
-Request a proposed marketing strategy with deliverables 
-Ask for case studies of past campaigns 
-Include detailed pricing for each service offered 
-Request timeline, performance metrics, and reporting structure 
-Provide RFQ submission deadline"
+1. Outline your brand’s current online presence and objectives 
+
+2. Request a proposed marketing strategy with deliverables 
+
+3. Ask for case studies of past campaigns 
+
+4. Include detailed pricing for each service offered 
+
+5. Request timeline, performance metrics, and reporting structure 
+
+6. Provide RFQ submission deadline"
+
 Inputs Required: 
 
-Brand overview and objectives 
-Duration of campaign (e.g., 6 months) 
-Desired marketing channels 
-KPIs and success metrics 
-Budget range 
-RFQ submission date
+1. Brand overview and objectives 
+
+2. Duration of campaign (e.g., 6 months) 
+
+3. Desired marketing channels 
+
+4. KPIs and success metrics 
+
+5. Budget range 
+
+6. RFQ submission date
 
 Prompt 19 — RFQ for Uniform Supply
 Backstory:
