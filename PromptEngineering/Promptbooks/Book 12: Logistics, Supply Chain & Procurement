@@ -3549,154 +3549,229 @@ Inputs Required from User:
 Customs & export documentation
 
 Prompt 1 — End-to-End Export Documentation Checklist
+
 Backstory:
+
 A small manufacturing company in Gujarat is preparing its first export order to Europe. The team is nervous about missing critical customs paperwork, which could cause shipment delays or fines. They need a comprehensive checklist to ensure all documentation is prepared correctly and in compliance with EU regulations.
 
 Goal:
+
 Create a complete, step-by-step export documentation checklist.
 
 Prompt:
+
 "You are an International Trade Compliance Consultant. Prepare an end-to-end export documentation checklist for a first-time exporter shipping goods from India to the EU.
 
-Include commercial, transport, and compliance documents.
-Mention required certifications for the destination country.
-Highlight timelines for preparing each document.
-Suggest best practices to avoid customs delays."
+1. Include commercial, transport, and compliance documents.
+
+2. Mention required certifications for the destination country.
+
+3. Highlight timelines for preparing each document.
+
+4. Suggest best practices to avoid customs delays."
+
 Inputs Required:
 
-Product category and HS code
-Destination country
-Mode of transport (air/sea)
-Exporter registration details
+1. Product category and HS code
+
+2. Destination country
+
+3. Mode of transport (air/sea)
+
+4. Exporter registration details
 
 Prompt 2 — Harmonized System (HS) Code Classification
+
 Backstory:
+
 An apparel exporter frequently faces customs delays because officers question their HS code classification. This not only increases clearance times but also leads to inconsistent duty calculations.
 
 Goal:
+
 Determine the correct HS code for export goods.
 
 Prompt:
+
 "You are a Customs Classification Specialist. Verify and confirm the correct HS code for a batch of export products.
 
-Explain why this classification is correct.
-Outline the associated duty rates for the destination country.
-Provide examples of similar classified products."
+1. Explain why this classification is correct.
+
+2. Outline the associated duty rates for the destination country.
+
+3. Provide examples of similar classified products."
+
 Inputs Required:
 
-Detailed product description
-Product material composition
-Intended use of the product
-Images or product samples (if available)
+1. Detailed product description
+
+2. Product material composition
+
+3. Intended use of the product
+
+4. Images or product samples (if available)
 
 Prompt 3 — Certificate of Origin Preparation
+
 Backstory:
+
 An Indian spice exporter to the Middle East has been informed by buyers that they need a Certificate of Origin to qualify for preferential duty rates. The exporter is unsure of the correct format and issuing authority.
 
 Goal:
+
 Guide the preparation and application process for a Certificate of Origin.
 
 Prompt:
+
 "You are a Trade Documentation Advisor. Create step-by-step instructions for obtaining a Certificate of Origin for Indian agricultural exports to the UAE.
 
-Specify required documents for the application.
-Mention recognized issuing bodies in India.
-Provide tips to ensure acceptance by UAE customs."
+1. Specify required documents for the application.
+
+2. Mention recognized issuing bodies in India.
+
+3. Provide tips to ensure acceptance by UAE customs."
+
 Inputs Required:
 
-Exporter details and registration numbers
-Product details and HS code
-Destination country
-Type of trade agreement (if any)
+1. Exporter details and registration numbers
+
+2. Product details and HS code
+
+3. Destination country
+
+4. Type of trade agreement (if any)
 
 Prompt 4 — Export Invoice Compliance Audit
+
 Backstory:
+
 A medium-sized handicraft exporter was recently penalized for discrepancies between their commercial invoice and packing list. They want a compliance-friendly export invoice template to avoid future issues.
 
 Goal:
+
 Create a customs-compliant export invoice template.
 
 Prompt:
+
 "You are a Customs Compliance Officer. Audit an exporter’s existing invoice and prepare a compliant export invoice template for shipments from India to the US.
 
-Include all required data fields for customs.
-Highlight common mistakes and how to avoid them.
-Suggest formatting that speeds up clearance."
+1. Include all required data fields for customs.
+
+2. Highlight common mistakes and how to avoid them.
+
+3. Suggest formatting that speeds up clearance."
+
 Inputs Required:
 
-Current invoice format
-Product categories and quantities
-Destination country
-Buyer details
+1. Current invoice format
+
+2. Product categories and quantities
+
+3. Destination country
+
+4. Buyer details
 
 Prompt 5 — Export Packing List Standardization
+
 Backstory:
+
 An electronics exporter to Africa often receives clearance delays due to incomplete packing list details. Customs authorities have warned them to standardize the document.
 
 Goal:
+
 Create a standard export packing list template.
 
 Prompt:
+
 "You are a Logistics Documentation Specialist. Design a standardized export packing list template for electronics shipments from India to Nigeria.
 
-Include all customs-required fields.
-Ensure it matches the invoice for faster clearance.
-Provide a sample filled-out version."
+1. Include all customs-required fields.
+
+2. Ensure it matches the invoice for faster clearance.
+
+3. Provide a sample filled-out version."
+
 Inputs Required:
 
-Product details and HS codes
-Dimensions and weight per package
-Mode of shipment
-Consignee details
+1. Product details and HS codes
+
+2. Dimensions and weight per package
+
+3. Mode of shipment
+
+4. Consignee details
 
 Prompt 6 — Export License Application Guide
+
 Backstory:
+
 A pharmaceutical exporter received a large overseas order but is unsure about the required export licenses and permits for regulated products. Delays in licensing could cost them the deal.
 
 Goal:
+
 Guide the exporter through the license application process.
 
 Prompt:
+
 "You are an Export Licensing Consultant. Outline the complete process for obtaining export licenses for pharmaceutical products from India to the UK.
 
-Include timelines, costs, and authorities involved.
-Highlight mandatory compliance checks.
-Suggest ways to expedite the process."
+1. Include timelines, costs, and authorities involved.
+
+2. Highlight mandatory compliance checks.
+
+3. Suggest ways to expedite the process."
+
 Inputs Required:
 
-Product description and HS code
-Destination country
-Company registration and licensing history
-Intended export volume and frequency
+1. Product description and HS code
+
+2. Destination country
+
+3. Company registration and licensing history
+
+4. Intended export volume and frequency
 
 Prompt 7 — Digital Customs Filing Process
+
 Backstory:
+
 An exporter is transitioning to electronic filing for customs clearance but finds the online portals confusing and error-prone. They want a detailed guide for smooth digital submissions.
 
 Goal:
+
 Explain the digital customs filing process for exports.
 
 Prompt:
+
 "You are a Digital Trade Process Expert. Create a detailed, screenshot-supported guide for filing export declarations online via ICEGATE (India Customs).
 
-Include step-by-step navigation instructions.
-Highlight required document uploads.
-Explain common error messages and fixes."
+1. Include step-by-step navigation instructions.
+
+2. Highlight required document uploads.
+
+3. Explain common error messages and fixes."
+
 Inputs Required:
 
-Exporter registration ID
-HS codes and product details
-Chosen port of export
-Mode of transport
+1. Exporter registration ID
+
+2. HS codes and product details
+
+3. Chosen port of export
+
+4. Mode of transport
 
 Prompt 8 — Pre-Shipment Inspection Report Preparation
+
 Backstory:
+
 A furniture exporter shipping to Australia must provide a pre-shipment inspection report from a recognized agency to comply with import rules.
 
 Goal:
+
 Guide the preparation and completion of a pre-shipment inspection report.
 
 Prompt:
+
 "You are a Quality & Compliance Specialist. Outline how to arrange and complete a pre-shipment inspection report for furniture exports to Australia.
 
 List recognized inspection agencies.
