@@ -2247,4 +2247,235 @@ Time threshold for alerts
 Supervisor contact details
 Carrier delivery schedules
 
+Prompt 17 — Seasonal Restocking Automation
+Backstory:
+Your beverage distribution business experiences predictable seasonal demand for certain flavors—like mango in summer and cranberry in winter. Currently, seasonal orders are placed manually, often late. You want an automated seasonal restocking trigger to ensure timely supplier orders ahead of peak periods.
 
+Goal:
+Automate seasonal restocking for recurring demand patterns.
+
+Prompt:
+"You are a Seasonal Supply Planner. Develop an automated restocking trigger for seasonal beverage SKUs.
+
+Analyse historical sales for seasonal patterns.
+Pre-set seasonal reorder points months in advance.
+Auto-generate purchase orders before supplier cutoff dates.
+Factor in regional variations in demand.
+Provide post-season stock turnover reports."
+Inputs Required:
+
+Seasonal sales history by SKU
+Supplier lead times & minimum order quantities
+Regional demand variations
+Seasonal SKU list
+PO generation template
+
+Prompt 18 — Vendor Lead Time Alert System
+Backstory:
+An electronics retailer deals with multiple suppliers, each with different lead times. Late awareness of lead time changes causes urgent air freight costs. You want an alert system that detects when supplier lead times shift, allowing proactive restocking adjustments.
+
+Goal:
+Track and respond to supplier lead time changes.
+
+Prompt:
+"You are a Vendor Performance Analyst. Create a vendor lead time alert system for an electronics retailer.
+
+Store lead time data for each supplier.
+Monitor purchase order deliveries vs. promised timelines.
+Flag suppliers with changing lead times.
+Adjust restocking schedules accordingly.
+Provide monthly vendor reliability reports."
+Inputs Required:
+
+Vendor list with current lead times
+PO history with actual delivery dates
+Restocking schedule rules
+Alert thresholds for lead time changes
+Supplier contact database
+
+Prompt 19 — Kanban-Based Inventory Alerts
+Backstory:
+A small-scale auto parts manufacturer wants to adopt a Kanban system for its assembly line components. The current manual card system is slow and often misplaced. You need a digital Kanban alert system that notifies replenishment teams instantly when a bin is empty.
+
+Goal:
+Implement a digital Kanban-based replenishment alert system.
+
+Prompt:
+"You are a Lean Manufacturing Inventory Specialist. Develop a digital Kanban inventory alert system for an auto parts plant.
+
+Digitally track component bins at each workstation.
+Send alerts to replenishment teams when a bin reaches its Kanban limit.
+Integrate with warehouse picking lists.
+Provide daily Kanban fulfilment metrics.
+Include visual dashboards for supervisors."
+Inputs Required:
+
+Component bin mapping
+Kanban limits per SKU
+Warehouse picking system access
+Alert delivery method preferences
+Supervisor dashboard specs
+
+Prompt 20 — Multi-Currency Inventory Valuation
+Backstory:
+A global distributor stocks products sourced from multiple countries. Exchange rate fluctuations make it difficult to track accurate inventory value in real-time, affecting restocking decisions. You want a valuation system that adjusts inventory costs dynamically based on currency changes.
+
+Goal:
+Create a real-time multi-currency inventory valuation system.
+
+Prompt:
+"You are a Global Inventory Finance Analyst. Build a multi-currency valuation system for stock in multiple countries.
+
+Track stock quantities in all warehouses.
+Fetch live currency exchange rates.
+Recalculate inventory value daily in the company’s base currency.
+Adjust reorder points based on updated valuations.
+Provide monthly FX impact analysis reports."
+Inputs Required:
+
+Inventory quantities per location
+Currency of purchase for each SKU
+Exchange rate API access
+Base currency definition
+Reporting format preferences
+
+Prompt 21 — Safety Stock Optimization
+Backstory:
+Your pharmaceutical wholesale business keeps high safety stock to avoid shortages, but this ties up too much capital. You want a system to calculate optimal safety stock levels per SKU while maintaining service level targets.
+
+Goal:
+Optimise safety stock for cost efficiency without stockouts.
+
+Prompt:
+"You are a Pharma Supply Planner. Develop a safety stock optimisation model for pharmaceutical distribution.
+
+Analyse demand variability and supplier reliability.
+Calculate optimal safety stock per SKU using service level targets.
+Simulate impact on stockouts and capital tied up.
+Adjust monthly based on demand changes.
+Provide safety stock vs. service level charts."
+Inputs Required:
+
+Demand history per SKU
+Supplier lead time variability
+Service level target percentage
+Holding cost per SKU
+Demand forecast model details
+
+Prompt 22 — Geo-Fenced Inventory Alerts
+Backstory:
+A construction equipment rental company needs to track equipment location and stock availability across multiple yards. Equipment is sometimes transferred without system updates, causing rental delays. You want a geo-fenced alert system to detect when equipment leaves or enters a yard.
+
+Goal:
+Track equipment inventory using geo-fencing.
+
+Prompt:
+"You are an Asset Tracking Specialist. Build a geo-fenced alert system for rental equipment inventory.
+
+Tag each equipment unit with GPS trackers.
+Create geo-fences for each yard location.
+Trigger alerts for movements in/out of geo-fences.
+Update inventory counts automatically.
+Provide weekly movement and utilisation reports."
+Inputs Required:
+
+Equipment list with GPS tracker IDs
+Yard location coordinates
+Movement alert rules
+Inventory database integration details
+Preferred reporting frequency
+
+Prompt 23 — Returns Processing Inventory Updates
+Backstory:
+An online fashion retailer receives thousands of returns weekly, but restocking delays occur because returned items take too long to be updated in inventory. You want an automated system that updates inventory the moment return inspection is complete.
+
+Goal:
+Accelerate inventory availability from returned goods.
+
+Prompt:
+"You are a Reverse Logistics Coordinator. Design a returns processing inventory update system.
+
+Link return inspection stations with inventory system.
+Update SKU availability instantly after quality check.
+Separate defective items from restockable items.
+Track restocking time per return batch.
+Provide weekly return-to-restock performance metrics."
+Inputs Required:
+
+Return processing workflow
+Quality check pass/fail criteria
+Inventory system access details
+SKU categorisation rules
+Reporting dashboard format
+
+Prompt 24 — Supplier Minimum Order Consolidation
+Backstory:
+A food service distributor deals with suppliers who have high minimum order quantities (MOQs). Often, urgent restocks fail because the MOQ isn’t met. You want a system to consolidate orders across multiple branches to meet MOQ faster.
+
+Goal:
+Enable MOQ-based consolidated restocking.
+
+Prompt:
+"You are a Procurement Efficiency Planner. Create a consolidated ordering system for MOQ suppliers.
+
+Aggregate orders from all branches.
+Identify when combined demand meets supplier MOQ.
+Trigger bulk orders automatically.
+Split deliveries to branches upon arrival.
+Provide monthly MOQ compliance and cost savings reports."
+Inputs Required:
+
+Branch order data
+Supplier MOQ list
+Delivery split logistics
+Order aggregation frequency
+Reporting format
+
+Prompt 25 — Inventory Reorder Simulation Tool
+Backstory:
+A home appliance retailer wants to experiment with different reorder points to see how it affects stockouts and holding costs before making policy changes. You need a simulation tool that models various reorder scenarios.
+
+Goal:
+Create a reorder policy simulation tool.
+
+Prompt:
+"You are an Inventory Policy Analyst. Build a simulation tool for testing different reorder points.
+
+Input SKU demand and lead time data.
+Simulate stock levels over a 12-month period.
+Measure stockouts, holding costs, and service levels for each scenario.
+Recommend optimal reorder points.
+Provide visual charts for decision-making."
+Inputs Required:
+
+SKU demand history
+Lead times
+Holding cost per SKU
+Service level targets
+Simulation period
+
+
+Cost analysis & efficiency reports
+
+Prompt 1 — Transportation Cost Efficiency Report
+Backstory:
+A nationwide food distributor operates a fleet of 50 trucks delivering to 120 cities. Rising fuel prices have increased transportation costs by 18% in the last year. Management suspects that inefficient route planning and underutilized truck capacity are driving costs higher. They want a comprehensive cost efficiency report to identify cost drivers and recommend optimization strategies.
+
+Goal:
+Analyse transportation costs, identify inefficiencies, and recommend cost-saving measures.
+
+Prompt:
+"You are a Supply Chain Cost Analyst. Create a transportation cost efficiency report for a distributor with 50 trucks serving 120 cities.
+
+Analyse cost per kilometer and cost per delivery route.
+Compare truck capacity utilization rates.
+Identify high-cost routes and reasons for cost spikes.
+Recommend route optimization and load consolidation strategies.
+Provide monthly and quarterly savings projections."
+Inputs Required:
+
+Delivery route list with distances
+Fuel costs and maintenance expenses
+Vehicle capacity and load data
+Delivery frequency per route
+Historical cost data (12 months)
