@@ -2299,326 +2299,508 @@ Inputs Required:
 5. Alert threshold settings
 
 Prompt 13 — Inventory Buffer Planning for Festivals
+
 Backstory:
+
 Your cosmetic products business sees a huge spike during Diwali, Raksha Bandhan, and Valentine’s Day. Last year, late restocking led to missed opportunities. You need an inventory buffer system that pre-orders additional stock ahead of festivals while avoiding overstocking.
 
 Goal:
+
 Plan inventory buffers for peak festival sales.
 
 Prompt:
+
 "You are a Seasonal Demand Planner. Develop a festival inventory buffer plan for a cosmetics brand.
 
-Analyse past 3 years’ festival sales trends.
-Set buffer stock targets for each SKU.
-Factor in supplier delays during peak season.
-Create an early procurement schedule.
-Provide post-festival stock liquidation strategies."
+1. Analyse past 3 years’ festival sales trends.
+
+2. Set buffer stock targets for each SKU.
+
+3. Factor in supplier delays during peak season.
+
+4. Create an early procurement schedule.
+
+5. Provide post-festival stock liquidation strategies."
+
 Inputs Required:
 
-Festival sales history by SKU
-Current inventory levels
-Supplier lead times
-Buffer stock percentage rules
-Festival dates calendar
+1. Festival sales history by SKU
+
+2. Current inventory levels
+
+3. Supplier lead times
+
+4. Buffer stock percentage rules
+
+5. Festival dates calendar
 
 Prompt 14 — Automated Vendor Restock Requests
+
 Backstory:
+
 A hardware tools distributor works with multiple suppliers and currently sends restock requests manually. This delays procurement and often leads to missed sales. You want an automated system that sends restock purchase orders to vendors based on pre-set inventory triggers.
 
 Goal:
+
 Automate vendor restock request generation.
 
 Prompt:
+
 "You are a Procurement Automation Specialist. Create an automated vendor restock request system for a hardware tools distributor.
 
-Link inventory thresholds with PO generation.
-Auto-send POs to respective vendors when stock falls below threshold.
-Allow manual review before sending.
-Track vendor acknowledgements and expected delivery dates.
-Generate weekly vendor fulfilment reports."
+1. Link inventory thresholds with PO generation.
+
+2. Auto-send POs to respective vendors when stock falls below threshold.
+
+3. Allow manual review before sending.
+
+4. Track vendor acknowledgements and expected delivery dates.
+
+5. Generate weekly vendor fulfilment reports."
+
 Inputs Required:
 
-SKU list with reorder thresholds
-Vendor contact & order format details
-Stock levels in real time
-Purchase order template
-Approval workflow rules
+1. SKU list with reorder thresholds
+
+2. Vendor contact & order format details
+
+3. Stock levels in real time
+
+4. Purchase order template
+
+5. Approval workflow rules
 
 Prompt 15 — Overstock Clearance Trigger
+
 Backstory:
+
 A home décor retailer often over-orders certain designs that remain unsold for months, occupying valuable warehouse space. You need an automated system that flags overstock situations and triggers clearance campaigns to free up space.
 
 Goal:
+
 Detect and clear overstocked items efficiently.
 
 Prompt:
+
 "You are a Retail Inventory Optimiser. Build an overstock clearance trigger system for a home décor retailer.
 
-Identify items exceeding 150% of average stock cover.
-Flag them for clearance campaigns.
-Suggest discount tiers based on stock age.
-Track clearance campaign results and adjust strategy.
-Provide quarterly space utilisation reports."
+1. Identify items exceeding 150% of average stock cover.
+
+2. Flag them for clearance campaigns.
+
+3. Suggest discount tiers based on stock age.
+
+4. Track clearance campaign results and adjust strategy.
+
+5. Provide quarterly space utilisation reports."
+
 Inputs Required:
 
-Stock cover rules
-Current stock levels
-Sales velocity data
-Clearance pricing strategy
-Campaign performance tracking
+1. Stock cover rules
+
+2. Current stock levels
+
+3. Sales velocity data
+
+4. Clearance pricing strategy
+
+5. Campaign performance tracking
 
 Prompt 16 — Cross-Dock Inventory Flow Monitoring
+
 Backstory:
+
 A logistics company operates multiple cross-dock facilities where goods are quickly transferred from inbound to outbound trucks. Due to poor inventory visibility, pallets sometimes sit unshipped for days, leading to missed deliveries and unhappy clients. You need a real-time system to track cross-dock movements and trigger alerts for delayed transfers.
 
 Goal:
+
 Ensure seamless inventory flow through cross-docking operations.
 
 Prompt:
+
 "You are a Logistics Flow Analyst. Create a monitoring system for cross-dock inventory movements.
 
-Track each pallet from inbound arrival to outbound loading.
-Flag pallets that remain at the dock beyond 8 hours.
-Notify dock supervisors immediately for delayed items.
-Integrate with carrier schedules for better coordination.
-Provide daily flow efficiency reports."
+1. Track each pallet from inbound arrival to outbound loading.
+
+2. Flag pallets that remain at the dock beyond 8 hours.
+
+3. Notify dock supervisors immediately for delayed items.
+
+4. Integrate with carrier schedules for better coordination.
+
+5. Provide daily flow efficiency reports."
+
 Inputs Required:
 
-Dock facility layout and process maps
-Pallet ID tracking data
-Time threshold for alerts
-Supervisor contact details
-Carrier delivery schedules
+1. Dock facility layout and process maps
+
+2. Pallet ID tracking data
+
+3. Time threshold for alerts
+
+4. Supervisor contact details
+
+5. Carrier delivery schedules
 
 Prompt 17 — Seasonal Restocking Automation
+
 Backstory:
+
 Your beverage distribution business experiences predictable seasonal demand for certain flavors—like mango in summer and cranberry in winter. Currently, seasonal orders are placed manually, often late. You want an automated seasonal restocking trigger to ensure timely supplier orders ahead of peak periods.
 
 Goal:
+
 Automate seasonal restocking for recurring demand patterns.
 
 Prompt:
+
 "You are a Seasonal Supply Planner. Develop an automated restocking trigger for seasonal beverage SKUs.
 
-Analyse historical sales for seasonal patterns.
-Pre-set seasonal reorder points months in advance.
-Auto-generate purchase orders before supplier cutoff dates.
-Factor in regional variations in demand.
-Provide post-season stock turnover reports."
+1. Analyse historical sales for seasonal patterns.
+
+2. Pre-set seasonal reorder points months in advance.
+
+3. Auto-generate purchase orders before supplier cutoff dates.
+
+4. Factor in regional variations in demand.
+
+5. Provide post-season stock turnover reports."
+
 Inputs Required:
 
-Seasonal sales history by SKU
-Supplier lead times & minimum order quantities
-Regional demand variations
-Seasonal SKU list
-PO generation template
+1. Seasonal sales history by SKU
+
+2. Supplier lead times & minimum order quantities
+
+3. Regional demand variations
+
+4. Seasonal SKU list
+
+5. PO generation template
 
 Prompt 18 — Vendor Lead Time Alert System
+
 Backstory:
+
 An electronics retailer deals with multiple suppliers, each with different lead times. Late awareness of lead time changes causes urgent air freight costs. You want an alert system that detects when supplier lead times shift, allowing proactive restocking adjustments.
 
 Goal:
+
 Track and respond to supplier lead time changes.
 
 Prompt:
+
 "You are a Vendor Performance Analyst. Create a vendor lead time alert system for an electronics retailer.
 
-Store lead time data for each supplier.
-Monitor purchase order deliveries vs. promised timelines.
-Flag suppliers with changing lead times.
-Adjust restocking schedules accordingly.
-Provide monthly vendor reliability reports."
+1. Store lead time data for each supplier.
+
+2. Monitor purchase order deliveries vs. promised timelines.
+
+3. Flag suppliers with changing lead times.
+
+4. Adjust restocking schedules accordingly.
+
+5. Provide monthly vendor reliability reports."
+
 Inputs Required:
 
-Vendor list with current lead times
-PO history with actual delivery dates
-Restocking schedule rules
-Alert thresholds for lead time changes
-Supplier contact database
+1. Vendor list with current lead times
+
+2. PO history with actual delivery dates
+
+3. Restocking schedule rules
+
+4. Alert thresholds for lead time changes
+
+5. Supplier contact database
 
 Prompt 19 — Kanban-Based Inventory Alerts
+
 Backstory:
+
 A small-scale auto parts manufacturer wants to adopt a Kanban system for its assembly line components. The current manual card system is slow and often misplaced. You need a digital Kanban alert system that notifies replenishment teams instantly when a bin is empty.
 
 Goal:
+
 Implement a digital Kanban-based replenishment alert system.
 
 Prompt:
+
 "You are a Lean Manufacturing Inventory Specialist. Develop a digital Kanban inventory alert system for an auto parts plant.
 
-Digitally track component bins at each workstation.
-Send alerts to replenishment teams when a bin reaches its Kanban limit.
-Integrate with warehouse picking lists.
-Provide daily Kanban fulfilment metrics.
-Include visual dashboards for supervisors."
+1. Digitally track component bins at each workstation.
+
+2. Send alerts to replenishment teams when a bin reaches its Kanban limit.
+
+3. Integrate with warehouse picking lists.
+
+4. Provide daily Kanban fulfilment metrics.
+
+5. Include visual dashboards for supervisors."
+
 Inputs Required:
 
-Component bin mapping
-Kanban limits per SKU
-Warehouse picking system access
-Alert delivery method preferences
-Supervisor dashboard specs
+1. Component bin mapping
+
+2. Kanban limits per SKU
+
+3. Warehouse picking system access
+
+4. Alert delivery method preferences
+
+5. Supervisor dashboard specs
 
 Prompt 20 — Multi-Currency Inventory Valuation
+
 Backstory:
+
 A global distributor stocks products sourced from multiple countries. Exchange rate fluctuations make it difficult to track accurate inventory value in real-time, affecting restocking decisions. You want a valuation system that adjusts inventory costs dynamically based on currency changes.
 
 Goal:
+
 Create a real-time multi-currency inventory valuation system.
 
 Prompt:
+
 "You are a Global Inventory Finance Analyst. Build a multi-currency valuation system for stock in multiple countries.
 
-Track stock quantities in all warehouses.
-Fetch live currency exchange rates.
-Recalculate inventory value daily in the company’s base currency.
-Adjust reorder points based on updated valuations.
-Provide monthly FX impact analysis reports."
+1. Track stock quantities in all warehouses.
+
+2. Fetch live currency exchange rates.
+
+3. Recalculate inventory value daily in the company’s base currency.
+
+4. Adjust reorder points based on updated valuations.
+
+5. Provide monthly FX impact analysis reports."
+
 Inputs Required:
 
-Inventory quantities per location
-Currency of purchase for each SKU
-Exchange rate API access
-Base currency definition
-Reporting format preferences
+1. Inventory quantities per location
+
+2. Currency of purchase for each SKU
+
+3. Exchange rate API access
+
+4. Base currency definition
+
+5. Reporting format preferences
 
 Prompt 21 — Safety Stock Optimization
+
 Backstory:
+
 Your pharmaceutical wholesale business keeps high safety stock to avoid shortages, but this ties up too much capital. You want a system to calculate optimal safety stock levels per SKU while maintaining service level targets.
 
 Goal:
+
 Optimise safety stock for cost efficiency without stockouts.
 
 Prompt:
+
 "You are a Pharma Supply Planner. Develop a safety stock optimisation model for pharmaceutical distribution.
 
-Analyse demand variability and supplier reliability.
-Calculate optimal safety stock per SKU using service level targets.
-Simulate impact on stockouts and capital tied up.
-Adjust monthly based on demand changes.
-Provide safety stock vs. service level charts."
+1. Analyse demand variability and supplier reliability.
+
+2. Calculate optimal safety stock per SKU using service level targets.
+
+3. Simulate impact on stockouts and capital tied up.
+
+4. Adjust monthly based on demand changes.
+
+5. Provide safety stock vs. service level charts."
+
 Inputs Required:
 
-Demand history per SKU
-Supplier lead time variability
-Service level target percentage
-Holding cost per SKU
-Demand forecast model details
+1. Demand history per SKU
+
+2. Supplier lead time variability
+
+3. Service level target percentage
+
+4. Holding cost per SKU
+
+5. Demand forecast model details
 
 Prompt 22 — Geo-Fenced Inventory Alerts
+
 Backstory:
+
 A construction equipment rental company needs to track equipment location and stock availability across multiple yards. Equipment is sometimes transferred without system updates, causing rental delays. You want a geo-fenced alert system to detect when equipment leaves or enters a yard.
 
 Goal:
+
 Track equipment inventory using geo-fencing.
 
 Prompt:
+
 "You are an Asset Tracking Specialist. Build a geo-fenced alert system for rental equipment inventory.
 
-Tag each equipment unit with GPS trackers.
-Create geo-fences for each yard location.
-Trigger alerts for movements in/out of geo-fences.
-Update inventory counts automatically.
-Provide weekly movement and utilisation reports."
+1. Tag each equipment unit with GPS trackers.
+
+2. Create geo-fences for each yard location.
+
+3. Trigger alerts for movements in/out of geo-fences.
+
+4. Update inventory counts automatically.
+
+5. Provide weekly movement and utilisation reports."
+
 Inputs Required:
 
-Equipment list with GPS tracker IDs
-Yard location coordinates
-Movement alert rules
-Inventory database integration details
-Preferred reporting frequency
+1. Equipment list with GPS tracker IDs
+
+2. Yard location coordinates
+
+3. Movement alert rules
+
+4. Inventory database integration details
+
+5. Preferred reporting frequency
 
 Prompt 23 — Returns Processing Inventory Updates
+
 Backstory:
+
 An online fashion retailer receives thousands of returns weekly, but restocking delays occur because returned items take too long to be updated in inventory. You want an automated system that updates inventory the moment return inspection is complete.
 
 Goal:
+
 Accelerate inventory availability from returned goods.
 
 Prompt:
+
 "You are a Reverse Logistics Coordinator. Design a returns processing inventory update system.
 
-Link return inspection stations with inventory system.
-Update SKU availability instantly after quality check.
-Separate defective items from restockable items.
-Track restocking time per return batch.
-Provide weekly return-to-restock performance metrics."
+1. Link return inspection stations with inventory system.
+
+2. Update SKU availability instantly after quality check.
+
+3. Separate defective items from restockable items.
+
+4. Track restocking time per return batch.
+
+5. Provide weekly return-to-restock performance metrics."
+
 Inputs Required:
 
-Return processing workflow
-Quality check pass/fail criteria
-Inventory system access details
-SKU categorisation rules
-Reporting dashboard format
+1. Return processing workflow
+
+2. Quality check pass/fail criteria
+
+3. Inventory system access details
+
+4. SKU categorisation rules
+
+5. Reporting dashboard format
 
 Prompt 24 — Supplier Minimum Order Consolidation
+
 Backstory:
+
 A food service distributor deals with suppliers who have high minimum order quantities (MOQs). Often, urgent restocks fail because the MOQ isn’t met. You want a system to consolidate orders across multiple branches to meet MOQ faster.
 
 Goal:
+
 Enable MOQ-based consolidated restocking.
 
 Prompt:
+
 "You are a Procurement Efficiency Planner. Create a consolidated ordering system for MOQ suppliers.
 
-Aggregate orders from all branches.
-Identify when combined demand meets supplier MOQ.
-Trigger bulk orders automatically.
-Split deliveries to branches upon arrival.
-Provide monthly MOQ compliance and cost savings reports."
+1. Aggregate orders from all branches.
+
+2. Identify when combined demand meets supplier MOQ.
+
+3. Trigger bulk orders automatically.
+
+4. Split deliveries to branches upon arrival.
+
+5. Provide monthly MOQ compliance and cost savings reports."
+
 Inputs Required:
 
-Branch order data
-Supplier MOQ list
-Delivery split logistics
-Order aggregation frequency
-Reporting format
+1. Branch order data
+
+2. Supplier MOQ list
+
+3. Delivery split logistics
+
+4. Order aggregation frequency
+
+5. Reporting format
 
 Prompt 25 — Inventory Reorder Simulation Tool
+
 Backstory:
+
 A home appliance retailer wants to experiment with different reorder points to see how it affects stockouts and holding costs before making policy changes. You need a simulation tool that models various reorder scenarios.
 
 Goal:
+
 Create a reorder policy simulation tool.
 
 Prompt:
+
 "You are an Inventory Policy Analyst. Build a simulation tool for testing different reorder points.
 
-Input SKU demand and lead time data.
-Simulate stock levels over a 12-month period.
-Measure stockouts, holding costs, and service levels for each scenario.
-Recommend optimal reorder points.
-Provide visual charts for decision-making."
+1. Input SKU demand and lead time data.
+
+2. Simulate stock levels over a 12-month period.
+
+3. Measure stockouts, holding costs, and service levels for each scenario.
+
+4. Recommend optimal reorder points.
+
+5. Provide visual charts for decision-making."
+
 Inputs Required:
 
-SKU demand history
-Lead times
-Holding cost per SKU
-Service level targets
-Simulation period
+1. SKU demand history
+
+2. Lead times
+
+3. Holding cost per SKU
+
+4. Service level targets
+
+5. Simulation period
 
 
 Cost analysis & efficiency reports
 
 Prompt 1 — Transportation Cost Efficiency Report
+
 Backstory:
+
 A nationwide food distributor operates a fleet of 50 trucks delivering to 120 cities. Rising fuel prices have increased transportation costs by 18% in the last year. Management suspects that inefficient route planning and underutilized truck capacity are driving costs higher. They want a comprehensive cost efficiency report to identify cost drivers and recommend optimization strategies.
 
 Goal:
+
 Analyse transportation costs, identify inefficiencies, and recommend cost-saving measures.
 
 Prompt:
+
 "You are a Supply Chain Cost Analyst. Create a transportation cost efficiency report for a distributor with 50 trucks serving 120 cities.
 
-Analyse cost per kilometer and cost per delivery route.
-Compare truck capacity utilization rates.
-Identify high-cost routes and reasons for cost spikes.
-Recommend route optimization and load consolidation strategies.
-Provide monthly and quarterly savings projections."
+1. Analyse cost per kilometer and cost per delivery route.
+
+2. Compare truck capacity utilization rates.
+
+3. Identify high-cost routes and reasons for cost spikes.
+
+4. Recommend route optimization and load consolidation strategies.
+
+5. Provide monthly and quarterly savings projections."
+
 Inputs Required:
 
-Delivery route list with distances
-Fuel costs and maintenance expenses
-Vehicle capacity and load data
-Delivery frequency per route
-Historical cost data (12 months)
+1. Delivery route list with distances
+
+2. Fuel costs and maintenance expenses
+
+3. Vehicle capacity and load data
+
+4. Delivery frequency per route
+
+5. Historical cost data (12 months)
