@@ -67,228 +67,312 @@ Inputs Required:
 5. Ticket pricing strategy
 
 Prompt 4 — Product Launch Event
+
 Backstory: A premium Indian skincare brand is launching a new organic product line in Delhi. The event will have influencers, journalists, and industry experts. The brand wants a checklist covering branding, media invitations, sampling stations, and live social media coverage.
 
 Goal: Prepare a product launch event checklist for maximum brand impact.
 
 Prompt:
+
 "You are a luxury brand event planner. Create a detailed checklist for a skincare product launch in Delhi with 150 attendees. Include venue setup, branding displays, influencer invitations, press kits, sampling areas, catering, photo booth arrangements, live streaming, and post-event media coverage."
 
 Inputs Required:
 
-Launch date & venue
-Target guest list
-Branding materials available
-Sampling product details
-Media coverage preferences
+1. Launch date & venue
+
+2. Target guest list
+
+3. Branding materials available
+
+4. Sampling product details
+
+5. Media coverage preferences
 
 Prompt 5 — CSR Community Event
+
 Backstory: A large FMCG company is hosting a community clean-up drive and tree plantation as part of its CSR program. They expect 200 volunteers, including employees and local residents. The checklist must cover permissions, equipment, volunteer coordination, safety measures, and media coverage.
 
 Goal: Develop a CSR community event planning checklist.
 
 Prompt:
+
 "You are a CSR event coordinator. Prepare a checklist for a community clean-up and tree plantation drive with 200 participants. Include municipal permissions, volunteer registration, safety briefings, logistics for equipment & plants, refreshments, media invitations, and post-event reporting."
 
 Inputs Required:
 
-Event date & location
-Number of volunteers
-Equipment & materials needed
-Safety requirements
-Media outreach plans
+1. Event date & location
+
+2. Number of volunteers
+
+3. Equipment & materials needed
+
+4. Safety requirements
+
+5. Media outreach plans
 
 Prompt 6 — Corporate Team Building Retreat
+
 Backstory: A fintech company is arranging a 2-day offsite team-building retreat for 60 employees in Rishikesh. Activities include rafting, leadership games, and mindfulness sessions. The checklist should cover travel, accommodation, facilitators, and safety protocols.
 
 Goal: Create a team-building retreat checklist.
 
 Prompt:
+
 "You are a corporate retreat planner. Create a 2-day offsite checklist for 60 employees in Rishikesh with activities like rafting, leadership games, and mindfulness. Include transport, accommodation booking, activity scheduling, facilitators, safety gear, and evening entertainment."
 
 Inputs Required:
 
-Dates & location
-Number of employees
-Activity preferences
-Accommodation & meal details
-Safety considerations
+1. Dates & location
+
+2. Number of employees
+
+3. Activity preferences
+
+4. Accommodation & meal details
+
+5. Safety considerations
 
 Prompt 7 — Award Ceremony
+
 Backstory: A media company is hosting an annual award ceremony for film and television artists in Mumbai. The event involves celebrity arrivals, red carpet coverage, stage performances, award presentations, and VIP after-parties.
 
 Goal: Develop a high-profile award ceremony checklist.
 
 Prompt:
+
 "You are an entertainment event manager. Prepare a checklist for an award ceremony with 800 attendees in Mumbai. Include red carpet arrangements, media coverage, stage rehearsals, lighting & sound checks, performer coordination, VIP seating, security, and after-party logistics."
 
 Inputs Required:
 
-Event date & venue
-Number of award categories
-Guest list size & VIP details
-Stage & décor requirements
-Media broadcast details
+1. Event date & venue
+
+2. Number of award categories
+
+3. Guest list size & VIP details
+
+4. Stage & décor requirements
+
+5. Media broadcast details
 
 Prompt 8 — Charity Gala Dinner
+
 Backstory: A non-profit is organizing a black-tie charity dinner to raise funds for underprivileged children. The event will host 200 donors, feature a live auction, and have a keynote speech by a celebrity ambassador.
 
 Goal: Create a charity gala dinner checklist for maximum donor engagement.
 
 Prompt:
+
 "You are a charity event planner. Create a detailed checklist for a black-tie charity dinner with 200 guests. Include venue setup, auction planning, catering, sponsorships, donor recognition, speeches, entertainment, and media outreach."
 
 Inputs Required:
 
-Gala date & location
-Guest list & donor profiles
-Auction items & reserve prices
-Catering style & menu
-Entertainment lineup
+1. Gala date & location
+
+2. Guest list & donor profiles
+
+3. Auction items & reserve prices
+
+4. Catering style & menu
+
+5. Entertainment lineup
 
 Prompt 9 — College Cultural Fest
+
 Backstory: A Delhi-based university is hosting its annual 3-day cultural fest with competitions, celebrity performances, and food stalls. The committee needs a checklist to manage stage events, participant registration, sponsor booths, and security.
 
 Goal: Provide a cultural fest checklist for smooth execution.
 
 Prompt:
+
 "You are a college fest coordinator. Prepare a checklist for a 3-day cultural festival with 5,000 expected attendees. Include event scheduling, participant management, sponsorship activation, stage setup, security, ticketing, and waste disposal."
 
 Inputs Required:
 
-Fest dates & location
-Number of events & participants
-Sponsor list
-Venue facilities available
-Security arrangements
+1. Fest dates & location
+
+2. Number of events & participants
+
+3. Sponsor list
+
+4. Venue facilities available
+
+5. Security arrangements
 
 Prompt 10 — Sports Tournament
+
 Backstory: A city’s sports council is hosting a week-long interschool cricket tournament with 12 teams. The event involves daily matches, umpire scheduling, ground maintenance, and player facilities.
 
 Goal: Create a detailed checklist for smooth tournament management.
 
 Prompt:
+
 "You are a sports event coordinator. Develop a 7-day cricket tournament checklist for 12 school teams. Include match scheduling, umpire assignments, venue preparation, player registration, equipment checks, first aid arrangements, refreshments, media coverage, and award ceremony planning."
 
 Inputs Required:
 
-Tournament dates & locations
-Number of teams & players
-Equipment list
-Umpire availability
-Prize & award details
+1. Tournament dates & locations
+
+2. Number of teams & players
+
+3. Equipment list
+
+4. Umpire availability
+
+5. Prize & award details
 
 Prompt 11 — Corporate Investor Meet
+
 Backstory: A tech startup is inviting 50 potential investors to a private pitch event in Bengaluru. The evening will feature a presentation, networking, and product demos.
 
 Goal: Ensure a polished and professional investor meet checklist.
 
 Prompt:
+
 "You are a corporate event planner. Prepare a checklist for an investor meet for 50 guests, including venue booking, AV setup for presentations, seating arrangements, demo area setup, catering, printed pitch decks, investor welcome kits, and follow-up arrangements."
 
 Inputs Required:
 
-Event date & venue
-Number of investors invited
-Presentation format
-Demo equipment required
-Catering preferences
+1. Event date & venue
+
+2. Number of investors invited
+
+3. Presentation format
+
+4. Demo equipment required
+
+5. Catering preferences
 
 Prompt 12 — Press Conference
+
 Backstory: A travel company is announcing a new international package and wants to host a press conference in Delhi. Media coverage, branding, and smooth flow are key priorities.
 
 Goal: Build a media-focused press conference checklist.
 
 Prompt:
+
 "You are a PR event coordinator. Create a checklist for a press conference announcing a new travel package. Include media invites, press kits, branded backdrops, AV setup, refreshments, Q&A arrangements, spokesperson preparation, and follow-up press release distribution."
 
 Inputs Required:
 
-Date & venue
-Media list
-Brand material details
-Key spokespersons
-Catering needs
+1. Date & venue
+
+2. Media list
+
+3. Brand material details
+
+4. Key spokespersons
+
+5. Catering needs
 
 Prompt 13 — Art Exhibition
+
 Backstory: A gallery is hosting a 5-day art exhibition for emerging artists. The planner needs a checklist for curation, display setup, ticketing, and opening night.
 
 Goal: Provide an art exhibition checklist that ensures both visitor experience and artist satisfaction.
 
 Prompt:
+
 "You are an art event manager. Prepare a 5-day exhibition checklist for 20 emerging artists. Include artwork transportation, display setup, lighting, ticketing, VIP invites, press coverage, security, and an opening reception plan."
 
 Inputs Required:
 
-Exhibition dates & venue
-Number of artists & artworks
-Ticket pricing
-Opening night plan
-Media engagement strategy
+1. Exhibition dates & venue
+
+2. Number of artists & artworks
+
+3. Ticket pricing
+
+4. Opening night plan
+
+5. Media engagement strategy
 
 Prompt 14 — Food Festival
+
 Backstory: A city tourism board is hosting a weekend street food festival with 50 stalls. They need to manage vendor selection, health inspections, crowd control, and entertainment.
 
 Goal: Ensure a smooth, safe, and enjoyable food festival experience.
 
 Prompt:
+
 "You are a festival planner. Build a checklist for a 2-day street food festival with 50 stalls. Include vendor licensing, stall layout, health & safety inspections, entertainment scheduling, crowd management, ticketing, waste disposal, and promotional activities."
 
 Inputs Required:
 
-Festival dates & location
-Number of stalls & cuisines
-Expected footfall
-Entertainment lineup
-Waste management plan
+1. Festival dates & location
+
+2. Number of stalls & cuisines
+
+3. Expected footfall
+
+4. Entertainment lineup
+
+5. Waste management plan
 
 Prompt 15 — Book Launch
+
 Backstory: An author is launching a new self-help book at a major bookstore in Mumbai, expecting 200 attendees including media and influencers.
 
 Goal: Create a book launch checklist for maximum reach and engagement.
 
 Prompt:
+
 "You are a literary event organizer. Prepare a checklist for a book launch event with 200 guests. Include venue setup, seating, author signing table, media invitations, influencer outreach, book display, refreshments, and live social media updates."
 
 Inputs Required:
 
-Event date & location
-Guest list
-Book copies available
-Media list
-Branding needs
+1. Event date & location
+
+2. Guest list
+
+3. Book copies available
+
+4. Media list
+
+5. Branding needs
 
 Prompt 16 — Fashion Show
+
 Backstory: A design institute is showcasing student work in a fashion show for 300 guests. The checklist must handle runway setup, lighting, model scheduling, and backstage management.
 
 Goal: Build a fashion show checklist that ensures professional execution.
 
 Prompt:
+
 "You are a fashion event planner. Create a detailed checklist for a student fashion show with 300 guests. Include runway design, lighting, model lineup, wardrobe changes, hair & makeup stations, VIP seating, photography, and sponsor booths."
 
 Inputs Required:
 
-Event date & venue
-Number of models & outfits
-Lighting & AV needs
-Sponsor list
-Backstage crew details
+1. Event date & venue
+
+2. Number of models & outfits
+
+3. Lighting & AV needs
+
+4. Sponsor list
+
+5. Backstage crew details
 
 Prompt 17 — Religious Festival
+
 Backstory: A temple committee is organizing a 3-day Navratri festival with cultural performances and prasad distribution for thousands of devotees.
 
 Goal: Create a festival management checklist that handles large crowds.
 
 Prompt:
+
 "You are a cultural event coordinator. Prepare a checklist for a 3-day Navratri festival. Include stage setup for performances, sound & lighting, volunteer scheduling, crowd control barriers, prasad distribution, security, medical aid, and cleanup."
 
 Inputs Required:
 
-Festival dates & location
-Estimated crowd size
-Number of performances
-Prasad menu & quantity
-Security requirements
+1. Festival dates & location
+
+2. Estimated crowd size
+
+3. Number of performances
+
+4. Prasad menu & quantity
+
+5. Security requirements
 
 Prompt 18 — Startup Hackathon
 Backstory: An incubator is hosting a 24-hour coding hackathon with 100 participants. The checklist should cover venue setup, internet reliability, judging criteria, and refreshments.
