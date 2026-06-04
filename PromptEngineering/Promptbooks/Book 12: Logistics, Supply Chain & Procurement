@@ -2804,3 +2804,202 @@ Inputs Required:
 4. Delivery frequency per route
 
 5. Historical cost data (12 months)
+
+Prompt 2 — Warehouse Operations Cost Audit
+Backstory:
+A retail chain operates 4 warehouses across India. Over the past year, warehouse operational costs have increased by 25%, with electricity, labor, and storage being the biggest contributors. Management wants to understand the cost structure and find areas for automation or process improvement without disrupting operations.
+
+Goal:
+Identify warehouse cost inefficiencies and propose automation-driven savings.
+
+Prompt:
+"You are a Logistics Efficiency Consultant. Conduct a warehouse operations cost audit for 4 locations.
+
+Break down costs into labor, utilities, storage, and maintenance.
+Benchmark against industry averages for similar-sized facilities.
+Highlight cost overruns and their root causes.
+Recommend automation tools or workflow changes.
+Provide a projected ROI for implementing changes."
+Inputs Required:
+
+Monthly warehouse cost breakdown
+Staff headcount and shift details
+Utility bills and maintenance logs
+Equipment and automation usage data
+Industry benchmark data
+
+Prompt 3 — Supplier Cost Comparison Report
+Backstory:
+A manufacturing company works with 15 suppliers for raw materials. Procurement is decentralized, and different plants pay different rates for the same materials. The CFO suspects overpaying due to lack of consolidated data. They need a supplier cost comparison report to identify cost disparities and standardize pricing.
+
+Goal:
+Compare supplier pricing and negotiate standardized rates.
+
+Prompt:
+"You are a Procurement Cost Analyst. Prepare a supplier cost comparison report for 15 vendors.
+
+List all materials with supplier-wise pricing.
+Highlight cost differences for identical items.
+Identify suppliers offering best price-quality balance.
+Suggest potential for bulk negotiation agreements.
+Provide a cost-saving forecast post-negotiation."
+Inputs Required:
+
+Material master list
+Supplier price lists
+Quality inspection reports
+Purchase volumes per supplier
+Contract terms and validity
+
+Prompt 4 — Inventory Holding Cost Analysis
+Backstory:
+A furniture retailer stocks large items in a central warehouse. Inventory holding costs, including rent, insurance, and capital lock-in, have increased significantly. Some slow-moving items are occupying prime space for months. Management wants a holding cost analysis to determine optimal stock levels.
+
+Goal:
+Calculate holding costs and recommend optimal inventory levels.
+
+Prompt:
+"You are an Inventory Cost Specialist. Perform a holding cost analysis for a furniture retailer.
+
+Calculate total cost of holding per SKU.
+Classify products by holding cost impact (A/B/C).
+Identify slow-moving, high-cost SKUs.
+Recommend reorder point adjustments to reduce costs.
+Provide annual cost-saving projections."
+Inputs Required:
+
+SKU stock levels and turnover rates
+Warehouse cost breakdown
+Product dimensions and space usage
+Insurance and depreciation rates
+Sales forecast
+
+Prompt 5 — Last-Mile Delivery Cost Efficiency
+Backstory:
+An online grocery delivery service offers same-day delivery. While customer satisfaction is high, last-mile delivery costs are eating into profit margins. The operations team wants a cost efficiency report to explore options like delivery slot optimization, batch deliveries, or micro-fulfillment centers.
+
+Goal:
+Reduce last-mile delivery costs without affecting service quality.
+
+Prompt:
+"You are a Logistics Cost Reduction Consultant. Prepare a last-mile delivery cost efficiency report for an online grocery service.
+
+Break down costs per order for delivery staff, fuel, and packaging.
+Analyse delivery time slots and order batching potential.
+Model savings from micro-fulfillment center deployment.
+Recommend operational changes to cut costs.
+Estimate cost-per-order reduction percentage."
+Inputs Required:
+
+Delivery cost breakdown per order
+Average orders per delivery route
+Fleet size and fuel consumption data
+Customer delivery time slot preferences
+Fulfillment center operating costs
+
+Prompt 6 — Production Cost Breakdown & Optimization
+Backstory:
+A mid-sized electronics manufacturer is struggling to maintain profit margins despite steady sales. Management suspects inefficiencies in production cost allocation, especially in assembly and quality testing stages. They need a cost breakdown and actionable recommendations to optimize operations without compromising product quality.
+
+Goal:
+Identify and reduce production cost inefficiencies.
+
+Prompt:
+"You are a Manufacturing Cost Analyst. Create a production cost breakdown report for an electronics manufacturer.
+
+Separate costs into materials, labor, overhead, and quality control.
+Identify cost-heavy stages in production.
+Recommend workflow changes, lean manufacturing techniques, or automation.
+Provide estimated annual savings from recommended changes."
+Inputs Required:
+
+Production cost ledger
+Labor hours per stage
+Material sourcing details
+Quality control failure rates
+Machine downtime reports
+
+Prompt 7 — Procurement Cost vs. Market Price Analysis
+Backstory:
+A large FMCG company suspects it is overpaying for certain raw materials compared to market rates. They want a procurement cost analysis that benchmarks their current supplier prices against real-time market averages and historical trends to inform negotiation strategy.
+
+Goal:
+Identify overpriced procurement items and prepare for supplier negotiations.
+
+Prompt:
+"You are a Procurement Analyst. Prepare a cost vs. market price comparison for all raw materials purchased in the last year.
+
+Show percentage differences from market averages.
+Highlight materials with over 10% premium paid.
+Suggest alternative suppliers or negotiation strategies.
+Provide estimated savings from switching suppliers or renegotiating contracts."
+Inputs Required:
+
+Purchase records (item, price, supplier)
+Market price data for each material
+Historical supplier agreements
+Quality specifications and tolerance limits
+
+Prompt 8 — Energy Efficiency & Cost Reduction Report
+Backstory:
+A manufacturing plant’s monthly electricity bill has doubled over two years due to outdated machinery and poor energy management. The sustainability team wants an energy efficiency cost reduction report to secure budget approval for green upgrades.
+
+Goal:
+Identify energy wastage and recommend cost-effective solutions.
+
+Prompt:
+"You are an Energy Cost Optimization Specialist. Prepare an energy efficiency report for a manufacturing plant.
+
+Identify high-consumption equipment and processes.
+Compare against energy-efficient alternatives.
+Recommend operational adjustments to lower usage.
+Estimate upfront investment and payback period for upgrades."
+Inputs Required:
+
+Monthly electricity consumption per machine
+Equipment specifications
+Energy efficiency benchmarks
+Production output data
+Cost of potential upgrades
+
+Prompt 9 — Freight Cost Benchmarking
+Backstory:
+A global exporter ships products to multiple regions and uses various freight forwarders. Freight costs have become unpredictable, and the logistics manager wants a benchmarking report to identify cost variations across forwarders, routes, and shipment sizes.
+
+Goal:
+Benchmark freight costs and recommend cost optimization strategies.
+
+Prompt:
+"You are a Freight Cost Analyst. Create a benchmarking report for an exporter using multiple forwarders.
+
+Compare per-ton and per-container shipping costs.
+Highlight routes with excessive charges.
+Identify potential for bulk discounts or contract renegotiation.
+Suggest alternative forwarders or shipping modes."
+Inputs Required:
+
+Freight invoices (last 12 months)
+Route details and shipment sizes
+Forwarder contracts
+Delivery timelines and SLAs
+
+Prompt 10 — Cross-Department Cost Allocation Report
+Backstory:
+A diversified company with manufacturing, sales, and R&D divisions struggles with fair cost allocation. Some departments claim they’re unfairly charged for shared resources like IT support, utilities, and admin staff. The CFO wants a transparent, data-backed allocation model.
+
+Goal:
+Create a fair and transparent cost allocation framework.
+
+Prompt:
+"You are a Financial Controller. Prepare a cost allocation report for shared services across departments.
+
+Break down costs by department usage.
+Propose allocation keys (e.g., headcount, floor space, machine hours).
+Highlight over- and undercharged departments.
+Recommend adjustments to improve fairness and efficiency."
+Inputs Required:
+
+Department-wise usage data for shared resources
+Current allocation percentages
+Total cost pool for each shared service
+Organizational structure
