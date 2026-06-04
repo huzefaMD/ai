@@ -2806,244 +2806,373 @@ Inputs Required:
 5. Historical cost data (12 months)
 
 Prompt 2 — Warehouse Operations Cost Audit
+
 Backstory:
+
 A retail chain operates 4 warehouses across India. Over the past year, warehouse operational costs have increased by 25%, with electricity, labor, and storage being the biggest contributors. Management wants to understand the cost structure and find areas for automation or process improvement without disrupting operations.
 
 Goal:
+
 Identify warehouse cost inefficiencies and propose automation-driven savings.
 
 Prompt:
+
 "You are a Logistics Efficiency Consultant. Conduct a warehouse operations cost audit for 4 locations.
 
-Break down costs into labor, utilities, storage, and maintenance.
-Benchmark against industry averages for similar-sized facilities.
-Highlight cost overruns and their root causes.
-Recommend automation tools or workflow changes.
-Provide a projected ROI for implementing changes."
+1. Break down costs into labor, utilities, storage, and maintenance.
+
+2. Benchmark against industry averages for similar-sized facilities.
+
+3. Highlight cost overruns and their root causes.
+
+4. Recommend automation tools or workflow changes.
+
+5. Provide a projected ROI for implementing changes."
+
 Inputs Required:
 
-Monthly warehouse cost breakdown
-Staff headcount and shift details
-Utility bills and maintenance logs
-Equipment and automation usage data
-Industry benchmark data
+1. Monthly warehouse cost breakdown
+
+2. Staff headcount and shift details
+
+3. Utility bills and maintenance logs
+
+4. Equipment and automation usage data
+
+5. Industry benchmark data
 
 Prompt 3 — Supplier Cost Comparison Report
+
 Backstory:
+
 A manufacturing company works with 15 suppliers for raw materials. Procurement is decentralized, and different plants pay different rates for the same materials. The CFO suspects overpaying due to lack of consolidated data. They need a supplier cost comparison report to identify cost disparities and standardize pricing.
 
 Goal:
+
 Compare supplier pricing and negotiate standardized rates.
 
 Prompt:
+
 "You are a Procurement Cost Analyst. Prepare a supplier cost comparison report for 15 vendors.
 
-List all materials with supplier-wise pricing.
-Highlight cost differences for identical items.
-Identify suppliers offering best price-quality balance.
-Suggest potential for bulk negotiation agreements.
-Provide a cost-saving forecast post-negotiation."
+1. List all materials with supplier-wise pricing.
+
+2. Highlight cost differences for identical items.
+
+3. Identify suppliers offering best price-quality balance.
+
+4. Suggest potential for bulk negotiation agreements.
+
+5. Provide a cost-saving forecast post-negotiation."
+
 Inputs Required:
 
-Material master list
-Supplier price lists
-Quality inspection reports
-Purchase volumes per supplier
-Contract terms and validity
+1. Material master list
+
+2. Supplier price lists
+
+3. Quality inspection reports
+
+4. Purchase volumes per supplier
+
+5. Contract terms and validity
 
 Prompt 4 — Inventory Holding Cost Analysis
+
 Backstory:
+
 A furniture retailer stocks large items in a central warehouse. Inventory holding costs, including rent, insurance, and capital lock-in, have increased significantly. Some slow-moving items are occupying prime space for months. Management wants a holding cost analysis to determine optimal stock levels.
 
 Goal:
+
 Calculate holding costs and recommend optimal inventory levels.
 
 Prompt:
+
 "You are an Inventory Cost Specialist. Perform a holding cost analysis for a furniture retailer.
 
-Calculate total cost of holding per SKU.
-Classify products by holding cost impact (A/B/C).
-Identify slow-moving, high-cost SKUs.
-Recommend reorder point adjustments to reduce costs.
-Provide annual cost-saving projections."
+1. Calculate total cost of holding per SKU.
+
+2. Classify products by holding cost impact (A/B/C).
+
+3. Identify slow-moving, high-cost SKUs.
+
+4. Recommend reorder point adjustments to reduce costs.
+
+5. Provide annual cost-saving projections."
+
 Inputs Required:
 
-SKU stock levels and turnover rates
-Warehouse cost breakdown
-Product dimensions and space usage
-Insurance and depreciation rates
-Sales forecast
+1. SKU stock levels and turnover rates
+
+2. Warehouse cost breakdown
+
+3. Product dimensions and space usage
+
+4. Insurance and depreciation rates
+
+5. Sales forecast
 
 Prompt 5 — Last-Mile Delivery Cost Efficiency
+
 Backstory:
+
 An online grocery delivery service offers same-day delivery. While customer satisfaction is high, last-mile delivery costs are eating into profit margins. The operations team wants a cost efficiency report to explore options like delivery slot optimization, batch deliveries, or micro-fulfillment centers.
 
 Goal:
+
 Reduce last-mile delivery costs without affecting service quality.
 
 Prompt:
+
 "You are a Logistics Cost Reduction Consultant. Prepare a last-mile delivery cost efficiency report for an online grocery service.
 
-Break down costs per order for delivery staff, fuel, and packaging.
-Analyse delivery time slots and order batching potential.
-Model savings from micro-fulfillment center deployment.
-Recommend operational changes to cut costs.
-Estimate cost-per-order reduction percentage."
+1. Break down costs per order for delivery staff, fuel, and packaging.
+
+2. Analyse delivery time slots and order batching potential.
+
+3. Model savings from micro-fulfillment center deployment.
+
+4. Recommend operational changes to cut costs.
+
+5. Estimate cost-per-order reduction percentage."
+
 Inputs Required:
 
-Delivery cost breakdown per order
-Average orders per delivery route
-Fleet size and fuel consumption data
-Customer delivery time slot preferences
-Fulfillment center operating costs
+1. Delivery cost breakdown per order
+
+2. Average orders per delivery route
+
+3. Fleet size and fuel consumption data
+
+4. Customer delivery time slot preferences
+
+5. Fulfillment center operating costs
 
 Prompt 6 — Production Cost Breakdown & Optimization
+
 Backstory:
+
 A mid-sized electronics manufacturer is struggling to maintain profit margins despite steady sales. Management suspects inefficiencies in production cost allocation, especially in assembly and quality testing stages. They need a cost breakdown and actionable recommendations to optimize operations without compromising product quality.
 
 Goal:
+
 Identify and reduce production cost inefficiencies.
 
 Prompt:
+
 "You are a Manufacturing Cost Analyst. Create a production cost breakdown report for an electronics manufacturer.
 
-Separate costs into materials, labor, overhead, and quality control.
-Identify cost-heavy stages in production.
-Recommend workflow changes, lean manufacturing techniques, or automation.
-Provide estimated annual savings from recommended changes."
+1. Separate costs into materials, labor, overhead, and quality control.
+
+2. Identify cost-heavy stages in production.
+
+3. Recommend workflow changes, lean manufacturing techniques, or automation.
+
+4. Provide estimated annual savings from recommended changes."
+
 Inputs Required:
 
-Production cost ledger
-Labor hours per stage
-Material sourcing details
-Quality control failure rates
-Machine downtime reports
+1. Production cost ledger
+
+2. Labor hours per stage
+
+3. Material sourcing details
+
+4. Quality control failure rates
+
+5. Machine downtime reports
 
 Prompt 7 — Procurement Cost vs. Market Price Analysis
+
 Backstory:
+
 A large FMCG company suspects it is overpaying for certain raw materials compared to market rates. They want a procurement cost analysis that benchmarks their current supplier prices against real-time market averages and historical trends to inform negotiation strategy.
 
 Goal:
+
 Identify overpriced procurement items and prepare for supplier negotiations.
 
 Prompt:
+
 "You are a Procurement Analyst. Prepare a cost vs. market price comparison for all raw materials purchased in the last year.
 
-Show percentage differences from market averages.
-Highlight materials with over 10% premium paid.
-Suggest alternative suppliers or negotiation strategies.
-Provide estimated savings from switching suppliers or renegotiating contracts."
+1. Show percentage differences from market averages.
+
+2. Highlight materials with over 10% premium paid.
+
+3. Suggest alternative suppliers or negotiation strategies.
+
+4. Provide estimated savings from switching suppliers or renegotiating contracts."
+
 Inputs Required:
 
-Purchase records (item, price, supplier)
-Market price data for each material
-Historical supplier agreements
-Quality specifications and tolerance limits
+1. Purchase records (item, price, supplier)
+
+2. Market price data for each material
+
+3. Historical supplier agreements
+
+4. Quality specifications and tolerance limits
 
 Prompt 8 — Energy Efficiency & Cost Reduction Report
+
 Backstory:
+
 A manufacturing plant’s monthly electricity bill has doubled over two years due to outdated machinery and poor energy management. The sustainability team wants an energy efficiency cost reduction report to secure budget approval for green upgrades.
 
 Goal:
+
 Identify energy wastage and recommend cost-effective solutions.
 
 Prompt:
+
 "You are an Energy Cost Optimization Specialist. Prepare an energy efficiency report for a manufacturing plant.
 
-Identify high-consumption equipment and processes.
-Compare against energy-efficient alternatives.
-Recommend operational adjustments to lower usage.
-Estimate upfront investment and payback period for upgrades."
+1. Identify high-consumption equipment and processes.
+
+2. Compare against energy-efficient alternatives.
+
+3. Recommend operational adjustments to lower usage.
+
+4. Estimate upfront investment and payback period for upgrades."
+
 Inputs Required:
 
-Monthly electricity consumption per machine
-Equipment specifications
-Energy efficiency benchmarks
-Production output data
-Cost of potential upgrades
+1. Monthly electricity consumption per machine
+
+2. Equipment specifications
+
+3. Energy efficiency benchmarks
+
+4. Production output data
+
+5. Cost of potential upgrades
 
 Prompt 9 — Freight Cost Benchmarking
+
 Backstory:
+
 A global exporter ships products to multiple regions and uses various freight forwarders. Freight costs have become unpredictable, and the logistics manager wants a benchmarking report to identify cost variations across forwarders, routes, and shipment sizes.
 
 Goal:
+
 Benchmark freight costs and recommend cost optimization strategies.
 
 Prompt:
+
 "You are a Freight Cost Analyst. Create a benchmarking report for an exporter using multiple forwarders.
 
-Compare per-ton and per-container shipping costs.
-Highlight routes with excessive charges.
-Identify potential for bulk discounts or contract renegotiation.
-Suggest alternative forwarders or shipping modes."
+1. Compare per-ton and per-container shipping costs.
+
+2. Highlight routes with excessive charges.
+
+3. Identify potential for bulk discounts or contract renegotiation.
+
+4. Suggest alternative forwarders or shipping modes."
+
 Inputs Required:
 
-Freight invoices (last 12 months)
-Route details and shipment sizes
-Forwarder contracts
-Delivery timelines and SLAs
+1. Freight invoices (last 12 months)
+
+2. Route details and shipment sizes
+
+3. Forwarder contracts
+
+4. Delivery timelines and SLAs
 
 Prompt 10 — Cross-Department Cost Allocation Report
+
 Backstory:
+
 A diversified company with manufacturing, sales, and R&D divisions struggles with fair cost allocation. Some departments claim they’re unfairly charged for shared resources like IT support, utilities, and admin staff. The CFO wants a transparent, data-backed allocation model.
 
 Goal:
+
 Create a fair and transparent cost allocation framework.
 
 Prompt:
+
 "You are a Financial Controller. Prepare a cost allocation report for shared services across departments.
 
-Break down costs by department usage.
-Propose allocation keys (e.g., headcount, floor space, machine hours).
-Highlight over- and undercharged departments.
-Recommend adjustments to improve fairness and efficiency."
+1. Break down costs by department usage.
+
+2. Propose allocation keys (e.g., headcount, floor space, machine hours).
+
+3. Highlight over- and undercharged departments.
+
+4. Recommend adjustments to improve fairness and efficiency."
+
 Inputs Required:
 
-Department-wise usage data for shared resources
-Current allocation percentages
-Total cost pool for each shared service
-Organizational structure
+1. Department-wise usage data for shared resources
+
+2. Current allocation percentages
+
+3. Total cost pool for each shared service
+
+4. Organizational structure
 
 Prompt 11 — Warehouse Cost Efficiency Audit
+
 Backstory:
+
 A retail chain operates multiple regional warehouses, but storage and handling costs have been rising faster than sales. The operations head suspects inefficient space usage, overstaffing, and outdated handling processes. They need a comprehensive warehouse cost audit to identify savings opportunities.
 
 Goal:
+
 Assess warehouse operations to reduce storage and handling costs.
 
 Prompt:
+
 "You are a Warehouse Efficiency Auditor. Conduct a cost audit for a retail chain’s warehouses.
 
-Analyze cost per square foot, labor costs, and handling efficiency.
-Highlight underutilized space and overstaffing issues.
-Recommend process improvements (e.g., vertical storage, automated picking).
-Estimate potential savings from each improvement."
+1. Analyze cost per square foot, labor costs, and handling efficiency.
+
+2. Highlight underutilized space and overstaffing issues.
+
+3. Recommend process improvements (e.g., vertical storage, automated picking).
+
+4. Estimate potential savings from each improvement."
+
 Inputs Required:
 
-Warehouse floor plans and capacity data
-Monthly labor costs per location
-Handling time metrics per SKU
-Inventory turnover rates
-Equipment maintenance records
+1. Warehouse floor plans and capacity data
+
+2. Monthly labor costs per location
+
+3. Handling time metrics per SKU
+
+4. Inventory turnover rates
+
+5. Equipment maintenance records
 
 Prompt 12 — Supplier Contract Cost Impact Analysis
+
 Backstory:
+
 A mid-tier manufacturer recently signed long-term contracts with multiple suppliers. While stable supply is assured, the finance team wants to understand the total cost impact of these deals compared to shorter-term sourcing.
 
 Goal:
+
 Evaluate the cost implications of long-term supplier contracts.
 
 Prompt:
+
 "You are a Procurement Cost Strategist. Analyze the cost impact of long-term supplier contracts versus short-term procurement.
 
-Calculate cost stability vs. market volatility risk.
-Identify savings from bulk purchase agreements.
-Highlight any overpayment risks due to market price drops.
-Recommend renegotiation or diversification strategies."
+1. Calculate cost stability vs. market volatility risk.
+
+2. Identify savings from bulk purchase agreements.
+
+3. Highlight any overpayment risks due to market price drops.
+
+4. Recommend renegotiation or diversification strategies."
+
 Inputs Required:
 
-Supplier contract terms and pricing
-Historical market price trends
+1. Supplier contract terms and pricing
+2. Historical market price trends
 Forecasted commodity prices
 Annual purchase quantities
 
