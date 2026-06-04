@@ -375,162 +375,270 @@ Inputs Required:
 5. Security requirements
 
 Prompt 18 — Startup Hackathon
+
 Backstory: An incubator is hosting a 24-hour coding hackathon with 100 participants. The checklist should cover venue setup, internet reliability, judging criteria, and refreshments.
 
 Goal: Provide a hackathon operations checklist for smooth execution.
 
 Prompt:
+
 "You are a tech event planner. Create a 24-hour hackathon checklist for 100 participants. Include registration, seating, high-speed internet setup, power backups, mentor coordination, judging panel scheduling, food & beverage, and prize ceremony."
 
 Inputs Required:
 
-Hackathon date & location
-Number of participants
-Prize categories
-Mentor & judge list
-Catering preferences
+1. Hackathon date & location
+
+2. Number of participants
+
+3. Prize categories
+
+4. Mentor & judge list
+
+5. Catering preferences
 
 Prompt 19 — Wellness Retreat
+
 Backstory: A wellness brand is hosting a 5-day yoga and meditation retreat in Kerala for 30 participants. The checklist must cover sessions, meals, accommodation, and excursions.
 
 Goal: Build a wellness retreat checklist that enhances relaxation and engagement.
 
 Prompt:
+
 "You are a wellness event organizer. Prepare a checklist for a 5-day yoga retreat for 30 guests in Kerala. Include session scheduling, instructor coordination, meal planning, accommodation, local excursions, wellness kits, and airport transfers."
 
 Inputs Required:
 
-Retreat dates & venue
-Number of participants
-Session types
-Accommodation details
-Meal preferences
+1. Retreat dates & venue
+
+2. Number of participants
+
+3. Session types
+
+4. Accommodation details
+
+5. Meal preferences
 
 Prompt 20 — Charity Gala Dinner
+
 Backstory:
+
 A renowned non-profit is organizing its annual charity gala dinner to raise ₹50 lakhs for a children’s cancer hospital. The event will host 150 elite guests, including philanthropists, doctors, and celebrity ambassadors, and will feature a live auction of rare art pieces. The stakes are high because the proceeds directly fund life-saving treatments, so the evening must be seamless, elegant, and inspiring.
 
 Goal:
+
 Build a detailed event checklist that ensures every element — from décor to donation tracking — is executed flawlessly.
 
 Prompt:
+
 "You are a charity event planner. Prepare a gala dinner checklist for 150 guests, including seating arrangements, décor theme, live auction setup, entertainment, volunteer coordination, catering, media coverage, and donation tracking."
 
 Inputs Required:
 
-Event date & venue
-Guest list & VIPs
-Auction items list
-Theme & décor preferences
-Media and PR plan
+1. Event date & venue
+
+2. Guest list & VIPs
+
+3. Auction items list
+
+4. Theme & décor preferences
+
+5. Media and PR plan
 
 Prompt 21 — Destination Wedding
+
 Backstory:
+
 A couple from Mumbai is hosting their dream wedding in Udaipur, known for its palaces and lakes, with over 200 guests flying in from across India and overseas. The event will span three days, featuring a sangeet, mehendi, wedding ceremony, and reception. Multiple vendors — from florists to caterers — must coordinate flawlessly, as any delay could disrupt the entire schedule.
 
 Goal:
+
 Create a comprehensive, multi-day wedding planning checklist to ensure every ritual and function is executed perfectly.
 
 Prompt:
+
 "You are a wedding planner. Develop a 3-day destination wedding checklist for 200 guests in Udaipur. Include accommodation arrangements, ceremony scheduling, vendor coordination, décor, catering, transportation, entertainment, and guest gift bags."
 
 Inputs Required:
 
-Wedding dates
-Guest arrival details
-Ceremony themes
-Vendor contact list
-Catering menu
+1. Wedding dates
+
+2. Guest arrival details
+
+3. Ceremony themes
+
+4. Vendor contact list
+
+5. Catering menu
 
 Prompt 22 — Award Ceremony
+
 Backstory:
+
 A major IT company is hosting its annual award ceremony to recognize top performers, attended by 500 employees and their families. The event will include formal speeches, live entertainment, and a sit-down dinner. Given the high-profile executives and media presence, everything from stage lighting to award handovers must be seamless.
 
 Goal:
+
 Ensure a formal, inspiring, and well-organized award ceremony that runs on time.
 
 Prompt:
+
 "You are a corporate event manager. Prepare a checklist for an annual award ceremony for 500 guests. Include stage design, lighting, AV for award presentations, seating chart, host coordination, catering, sponsor branding, and post-event thank-you emails."
 
 Inputs Required:
 
-Event date & venue
-Award categories
-AV requirements
-Guest list
-Catering preferences
+1. Event date & venue
+
+2. Award categories
+
+3. AV requirements
+
+4. Guest list
+
+5. Catering preferences
 
 Prompt 23 — Product Demo Day
+
 Backstory:
+
 A startup accelerator is organizing a demo day where 10 startups will pitch to investors, industry experts, and the media. Each presentation is strictly timed, with networking sessions between pitches. Any technical glitch or time overrun could affect investor impressions and media coverage.
 
 Goal:
+
 Create a highly organized event plan that balances professional pitches with networking opportunities.
 
 Prompt:
+
 "You are a startup event organizer. Create a checklist for a demo day with 10 pitching startups. Include pitch order scheduling, AV setup, investor seating, startup booths, networking area, refreshments, branding, and post-event follow-up."
 
 Inputs Required:
 
-Event date & location
-Startup details
-AV needs
-Investor guest list
-Branding material
+1. Event date & location
+
+2. Startup details
+
+3. AV needs
+
+4. Investor guest list
+
+5. Branding material
 
 Prompt 24 — Cultural Parade
+
 Backstory:
+
 A city council is organizing an annual cultural parade featuring 20 community groups, each showcasing music, dance, and traditional costumes. Thousands of residents and tourists are expected, requiring strict safety and crowd management measures. The event must celebrate diversity while ensuring a smooth flow of performances.
 
 Goal:
+
 Develop a detailed parade management plan with emphasis on public safety and coordination.
 
 Prompt:
+
 "You are a city event coordinator. Prepare a cultural parade checklist with 20 community floats. Include route mapping, security deployment, performance scheduling, permits, public announcements, crowd control, cleanup, and emergency protocols."
 
 Inputs Required:
 
-Parade date & route
-Number of floats & performances
-Security plan
-Permit requirements
-Cleanup team details
+1. Parade date & route
+
+2. Number of floats & performances
+
+3. Security plan
+
+4. Permit requirements
+
+5. Cleanup team details
 
 Prompt 25 — Corporate Annual Conference
+
 Backstory: A mid-sized IT company is hosting its annual conference for 500 employees, clients, and partners. The event spans two days and includes keynote speeches, breakout workshops, a gala dinner, and networking sessions. The planning team wants a comprehensive checklist to ensure every detail — from speaker coordination to A/V setup — is covered.
 
 Goal: Create a detailed event planning checklist for a corporate annual conference, ensuring nothing is overlooked.
 
 Prompt:
+
 "You are an experienced corporate event planner. Create a complete event planning checklist for a 2-day corporate annual conference for 500 attendees. Include sections for venue booking, speaker management, sponsorship coordination, catering, A/V requirements, marketing, guest registration, transportation, and post-event feedback collection. Ensure timelines are clearly stated for each task."
 
 Inputs Required:
 
-Event date & location
-Number of attendees
-Agenda & session types
-Budget range
-Available staff & vendors
+1. Event date & location
+
+2. Number of attendees
+
+3. Agenda & session types
+
+4. Budget range
+
+5. Available staff & vendors
 
 
 Hotel/resort marketing content
 
 Prompt 1 — Instagram Reel Campaign for a Beach Resort
+
 Backstory: A boutique beach resort in Goa wants to attract young urban travellers from Mumbai and Bangalore. They have stunning sunset views, beach shacks, and live music nights, but their Instagram page is underperforming. The marketing manager believes that short-form reels with engaging hooks could boost bookings for the upcoming festive season.
 
 Goal: Create a week-long Instagram Reel content plan to showcase the resort’s experiences and encourage direct bookings.
 
 Prompt:
+
 "You are a Social Media Strategist for a boutique beach resort in Goa. Create a 7-day Instagram Reel content calendar targeting 20–35-year-old urban professionals in India.
+
 Each reel should have:
 
-A catchy hook in the first 3 seconds
-2–3 key visual moments (suggest shot angles)
-A trending audio suggestion (India-appropriate)
-A CTA that pushes direct bookings via Instagram bio link
+1. A catchy hook in the first 3 seconds
+
+2. 2–3 key visual moments (suggest shot angles)
+
+3. A trending audio suggestion (India-appropriate)
+
+4. A CTA that pushes direct bookings via Instagram bio link
+
 Also, suggest caption ideas with hashtags relevant to Indian travel trends."
+
 Inputs Required:
 
-Type of resort activities available
-Current Instagram analytics (optional)
-Budget for influencer collaborations
+1. Type of resort activities available
+
+2. Current Instagram analytics (optional)
+
+3. Budget for influencer collaborations
+
+Prompt 2 — Festive Season Ad Copy for Luxury Hotel
+Backstory: A five-star property in Jaipur wants to launch a Diwali package that includes a royal dinner, cultural performances, and heritage walks. They want an ad copy that feels premium yet inviting to millennials who value experiences over discounts.
+
+Goal: Write high-conversion ad copy for Google Ads and Facebook campaigns.
+
+Prompt:
+"You are an Ad Copywriter for a luxury hotel in Jaipur. Write 3 variations of ad copy for a Diwali Celebration Package.
+Include:
+
+Emotional appeal to Indian heritage and festivity
+Highlight of key inclusions (royal dinner, cultural performance, heritage walk)
+Limited-time booking urgency
+Write for both Google Ads (short) and Facebook Ads (longer, story-style)."
+Inputs Required:
+
+Package price and dates
+Special inclusions
+Booking link
+
+Prompt 3 — Influencer Collaboration Brief for Monsoon Campaign
+Backstory: A hill station resort in Munnar is launching a “Monsoon Bliss” package. They plan to invite Instagram travel influencers to stay and create content. The marketing head needs a clear collaboration brief.
+
+Goal: Draft a professional influencer brief with deliverables, brand voice, and content guidelines.
+
+Prompt:
+"You are a PR & Influencer Marketing Manager. Draft a collaboration brief for 3–4 Indian travel influencers invited to promote a Monsoon Bliss package at a Munnar resort.
+Include:
+
+Brand story & target audience
+Content deliverables (number of reels, posts, stories)
+Tone of communication & style guidelines
+Key messages to convey
+Hashtags & tags to use
+Timeline & submission process."
+Inputs Required:
+
+Influencer profiles
+Campaign duration
+Key brand USPs
