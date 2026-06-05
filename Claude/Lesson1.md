@@ -25,8 +25,8 @@ for your startup!
 
 | Building Block | Your Prompt | Score |
 |---------------|-------------|--------|
-| Context | ✅ Founder, online training, Cloud/DevOps/AI, Chennai | Excellent |
-| Task | ✅ Clear — ideas to grow startup | Great |
-| Format | ✅ 5 ideas specified | Perfect |
-| Tone | ✅ Approachable, not corporate | Great |
-| Example Style | ⚠️ Skipped — totally fine for this task | Optional here |
+| Context |` ✅ Founder, online training, Cloud/DevOps/AI, Chennai` | Excellent |
+| Task | `✅ Clear — ideas to grow startup `| Great |
+| Format |` ✅ 5 ideas specified` | Perfect |
+| Tone | `✅ Approachable, not corporate `| Great |
+| Example Style | `⚠️ Skipped — totally fine for this task` | Optional here |
