@@ -1,304 +1,445 @@
 Property listing descriptions
 
 Prompt 1 — Luxury Apartment in South Delhi
+
 Backstory:
+
 You are working with a premium real estate agency in Delhi that specializes in high-end apartments. A new 4BHK luxury apartment has just been listed in South Delhi, near Defence Colony. The interiors feature Italian marble, modular kitchen fittings, and a private terrace garden. The target buyers are HNIs and NRIs looking for investment or relocation.
 
 Goal:
+
 Create an engaging property listing description that highlights premium features, lifestyle benefits, and exclusivity.
 
 Constraints:
 
-Keep under 200 words
-Include location, amenities, and lifestyle appeal
-Avoid overly generic terms like “beautiful” or “nice”
-Emphasize exclusivity and high-value living
+1. Keep under 200 words
+
+2. Include location, amenities, and lifestyle appeal
+
+3. Avoid overly generic terms like “beautiful” or “nice”
+
+4. Emphasize exclusivity and high-value living
+
 Output Format:
+
 A short, appealing property listing ready to be posted on online portals.
 
 Prompt 2 — Affordable Housing in Jaipur
+
 Backstory:
+
 A real estate developer is launching budget-friendly 2BHK flats in the outskirts of Jaipur targeted at middle-income families. The project offers basic amenities like a children’s play area, community hall, and 24x7 security, with easy EMIs available.
 
 Goal:
+
 Write a listing description that appeals to first-time home buyers focusing on affordability, comfort, and security.
 
 Constraints:
 
-Keep under 150 words
-Highlight affordability and finance options
-Mention location benefits (schools, public transport)
+1. Keep under 150 words
+
+2. Highlight affordability and finance options
+
+3. Mention location benefits (schools, public transport)
+
 Output Format:
+
 Property listing with headline + body copy for online ads.
 
 Prompt 3 — Goa Beachfront Villa
+
 Backstory:
+
 A private owner is selling a 3BHK villa located just 200 meters from Baga Beach in Goa. The property is fully furnished with an infinity pool, landscaped garden, and a sea-facing balcony. It’s perfect for vacation rentals or a second home.
 
 Goal:
+
 Write a listing that emphasizes the vacation lifestyle, rental potential, and exclusivity of the location.
 
 Constraints:
 
-180–200 words
-Use sensory language (sea breeze, sunset views)
-Mention investment potential for Airbnb rentals
+1. 180–200 words
+
+2. Use sensory language (sea breeze, sunset views)
+
+3. Mention investment potential for Airbnb rentals
+
 Output Format:
+
 Listing for online portals + premium real estate magazine ad.
 
 Prompt 4 — Commercial Office Space in Mumbai
+
 Backstory:
+
 A builder is offering a 3,000 sq. ft. Grade A office space in BKC, Mumbai. The property is semi-furnished, has central air conditioning, and is in proximity to banks, metro stations, and business hubs.
 
 Goal:
+
 Craft a professional listing aimed at corporates, startups, and MNCs.
 
 Constraints:
 
-Keep between 120–150 words
-Highlight business advantages, connectivity, and infrastructure
-Use a formal tone
+1. Keep between 120–150 words
+
+2. Highlight business advantages, connectivity, and infrastructure
+
+3. Use a formal tone
+
 Output Format:
+
 Listing copy for commercial property websites.
 
 Prompt 5 — Heritage Haveli in Rajasthan
+
 Backstory:
+
 An old royal haveli in Udaipur is on sale, featuring hand-painted frescoes, antique wooden doors, and a central courtyard. It can be converted into a boutique hotel or luxury residence.
 
 Goal:
+
 Write an evocative listing that appeals to heritage lovers and hospitality investors.
 
 Constraints:
 
-200–250 words
-Use storytelling style to bring out cultural and historical value
-Mention potential for boutique hospitality business
+1. 200–250 words
+
+2. Use storytelling style to bring out cultural and historical value
+
+3. Mention potential for boutique hospitality business
+
 Output Format:
+
 Listing suitable for high-end real estate brochures and portals.
 
 Prompt 6 — Premium Co-Living Space in Bengaluru
+
 Backstory:
+
 A startup is launching a modern co-living space in Koramangala, Bengaluru, targeted at working professionals and digital nomads. Each private room is fully furnished with high-speed WiFi, a smart TV, and a shared coworking lounge. The property is walking distance from cafés, gyms, and major IT offices.
 
 Goal:
+
 Create a property listing that appeals to millennials seeking community living, flexibility, and convenience.
 
 Constraints:
 
-150–170 words
-Highlight lifestyle amenities and community aspect
-Mention flexible lease options
+1. 150–170 words
+
+2. Highlight lifestyle amenities and community aspect
+
+3. Mention flexible lease options
+
 Output Format:
+
 Online property portal listing + short social media caption.
 
 Prompt 7 — Hill-View Apartment in Shimla
+
 Backstory:
+
 A developer is offering 2BHK apartments with panoramic views of the Himalayas. Located 10 minutes from Mall Road, the apartments have wooden interiors, large balconies, and heating systems.
 
 Goal:
+
 Write a listing that emphasizes scenic beauty, tranquility, and year-round comfort.
 
 Constraints:
 
-Use descriptive, atmospheric language
-Mention holiday home and rental potential
-Keep between 150–180 words
+1. Use descriptive, atmospheric language
+
+2. Mention holiday home and rental potential
+
+3. Keep between 150–180 words
+
 Output Format:
+
 Listing copy for vacation home websites.
 
 Prompt 8 — Ready-to-Move Penthouse in Pune
+
 Backstory:
+
 A 4BHK penthouse in Koregaon Park, Pune, is up for sale. It comes with a private rooftop deck, smart home automation, and two dedicated parking spots. The neighborhood is known for luxury dining and nightlife.
 
 Goal:
+
 Create a premium, aspirational listing targeting affluent buyers.
 
 Constraints:
 
-150–180 words
-Focus on exclusivity, location, and lifestyle appeal
-Use persuasive, elegant language
+1. 150–180 words
+
+2. Focus on exclusivity, location, and lifestyle appeal
+
+3. Use persuasive, elegant language
+
 Output Format:
+
 Luxury property portal listing.
 
 Prompt 9 — Industrial Warehouse in Ahmedabad
+
 Backstory:
+
 A 20,000 sq. ft. warehouse with easy access to the highway is available for rent. It features high ceilings, loading docks, and 24/7 security. Target audience includes logistics companies, wholesalers, and manufacturers.
 
 Goal:
+
 Write a factual, business-focused listing for commercial clients.
 
 Constraints:
 
-120–150 words
-Highlight storage capacity, accessibility, and safety
-Avoid flowery language
+1. 120–150 words
+
+2. Highlight storage capacity, accessibility, and safety
+
+3. Avoid flowery language
+
 Output Format:
+
 Commercial property listing for B2B platforms.
 
 Prompt 10 — Luxury Farmhouse near Gurgaon
+
 Backstory:
+
 A 6-acre farmhouse located 20 minutes from Gurgaon city center is on sale. It features landscaped gardens, a swimming pool, and a modern 5BHK villa.
 
 Goal:
+
 Write a listing targeting buyers seeking weekend retreats or wedding venues.
 
 Constraints:
 
-180–200 words
-Mention both residential and commercial potential
-Include location advantage (close to Delhi NCR)
+1. 180–200 words
+
+2. Mention both residential and commercial potential
+
+3. Include location advantage (close to Delhi NCR)
+
 Output Format:
+
 Premium listing for real estate and event space websites.
 
 Prompt 11 — Beachfront Villa in Goa
+
 Backstory:
+
 A luxury 5BHK beachfront villa located in Candolim, Goa, is now available for sale. The property offers direct access to the beach, a private infinity pool, and a sundeck overlooking the Arabian Sea. Designed with Portuguese-inspired architecture, it features antique wooden furniture, spacious verandas, and lush tropical landscaping. Ideal for both personal use and as a premium vacation rental, the villa is close to top restaurants, night markets, and water sports hubs.
 
 Goal:
+
 Create a property listing that attracts high-net-worth buyers and investors looking for coastal luxury or holiday rental income.
 
 Constraints:
 
-200–220 words
-Blend lifestyle appeal with investment potential
-Include details about location, design, and ROI
+1. 200–220 words
+
+2. Blend lifestyle appeal with investment potential
+
+3. Include details about location, design, and ROI
+
 Output Format:
+
 Luxury property listing for premium real estate portals and print brochures.
 
 Prompt 12 — Serviced Apartments in Mumbai
+
 Backstory:
+
 A newly launched tower in Lower Parel offers fully furnished 1BHK and 2BHK serviced apartments. Targeted at corporate travelers and expatriates, each unit includes housekeeping, laundry, high-speed WiFi, and concierge services. The building houses a gym, rooftop lounge, and 24-hour security. Located minutes from business districts, malls, and entertainment hubs, the property provides a hassle-free living experience.
 
 Goal:
+
 Write a listing that appeals to business professionals seeking short-term or long-term stays in Mumbai’s prime areas.
 
 Constraints:
 
-180–200 words
-Highlight convenience, services, and location advantage
-Use professional, urban tone
+1. 180–200 words
+
+2. Highlight convenience, services, and location advantage
+
+3. Use professional, urban tone
+
 Output Format:
+
 Listing for B2B corporate housing websites and relocation service brochures.
 
 Prompt 13 — Eco-Friendly Housing in Kerala
+
 Backstory:
+
 A gated community in Kochi is launching eco-homes built with sustainable materials, rainwater harvesting, and solar panels. Each home has a natural ventilation design, landscaped edible gardens, and access to a shared yoga pavilion. Positioned near the backwaters, the community is ideal for environmentally conscious families and retirees.
 
 Goal:
+
 Develop a listing that focuses on sustainability, wellness, and serene living.
 
 Constraints:
 
-200 words max
-Emphasize green building features and lifestyle benefits
-Include location charm without overselling
+1. 200 words max
+
+2. Emphasize green building features and lifestyle benefits
+
+3. Include location charm without overselling
+
 Output Format:
+
 Eco-property listing for niche real estate platforms and social media campaigns.
 
 Prompt 14 — Student Housing in Delhi
+
 Backstory:
+
 A new PG accommodation in South Campus, Delhi University, offers fully furnished rooms with study desks, high-speed internet, and 3 meals a day. The property has CCTV monitoring, biometric entry, and a common recreation area. It’s located within walking distance of major colleges, markets, and metro stations.
 
 Goal:
+
 Write a property listing that appeals to students and their parents, highlighting safety, convenience, and affordability.
 
 Constraints:
 
-150–180 words
-Stress safety, proximity to colleges, and value-for-money
-Avoid jargon; keep language simple and direct
+1. 150–180 words
+
+2. Stress safety, proximity to colleges, and value-for-money
+
+3. Avoid jargon; keep language simple and direct
+
 Output Format:
+
 Listing for online PG rental platforms and student groups.
 
 Prompt 15 — Retail Space in Hyderabad
+
 Backstory:
+
 A high-footfall retail space in Banjara Hills, Hyderabad, is up for lease. Located on the main road, the space is ideal for luxury fashion brands, premium cafés, or boutique showrooms. The property has large glass frontage, ample parking, and modern interiors. Surrounding tenants include designer stores, gourmet restaurants, and upscale salons.
 
 Goal:
+
 Craft a listing that positions the space as a prime opportunity for premium retail brands.
 
 Constraints:
 
-150–170 words
-Mention location prestige and customer demographics
-Keep tone aspirational yet business-oriented
+1. 150–170 words
+
+2. Mention location prestige and customer demographics
+
+3. Keep tone aspirational yet business-oriented
+
 Output Format:
+
 Commercial property listing for leasing portals and industry-specific magazines.
 
 Prompt 16 — Heritage Haveli in Jaipur
+
 Backstory:
+
 A restored 18th-century haveli in Jaipur’s Pink City is now available for boutique hotel or private residence use. The property features intricately carved sandstone façades, antique jharokhas, fresco-painted walls, and a central courtyard with a marble fountain. Located within walking distance of iconic landmarks like Hawa Mahal and City Palace, it offers both cultural immersion and luxury comfort. The haveli includes 12 suites, a rooftop dining area with city views, and modern amenities subtly integrated into the heritage structure.
 
 Goal:
+
 Write a listing that blends the charm of history with the promise of modern hospitality.
 
 Constraints:
 
-220–250 words
-Balance heritage preservation with investment viability
-Use evocative, culturally rich language
+1. 220–250 words
+
+2. Balance heritage preservation with investment viability
+
+3. Use evocative, culturally rich language
+
 Output Format:
+
 Heritage property listing for luxury travel magazines and boutique real estate portals.
 
 Prompt 17 — Luxury Farmhouse in Gurgaon
+
 Backstory:
+
 Set amidst 3 acres of landscaped greenery, this 6BHK farmhouse offers a peaceful retreat just 30 minutes from central Gurgaon. Designed with a blend of rustic and modern elements, it features an open-air deck, a swimming pool, a gazebo for outdoor dining, and a private organic farm. Perfect for high-profile events, weekend getaways, or as a primary residence, the farmhouse comes fully furnished and equipped with smart-home automation.
 
 Goal:
+
 Develop a listing appealing to urban buyers seeking privacy, luxury, and a connection to nature.
 
 Constraints:
 
-200–220 words
-Highlight both lifestyle and event-hosting potential
-Keep tone aspirational yet practical
+1. 200–220 words
+
+2. Highlight both lifestyle and event-hosting potential
+
+3. Keep tone aspirational yet practical
+
 Output Format:
+
 Listing for high-end property websites and premium lifestyle portals.
 
 Prompt 18 — Riverside Resort Land in Rishikesh
+
 Backstory:
+
 A 10-acre plot along the Ganga river in Rishikesh is up for sale with permissions for resort development. The property offers direct river access, panoramic mountain views, and proximity to yoga retreats, adventure sports centers, and spiritual ashrams. Surrounded by lush forests, it’s ideal for building a wellness resort or luxury retreat center catering to international tourists.
 
 Goal:
+
 Create a listing for developers and investors in the hospitality sector.
 
 Constraints:
 
-180–200 words
-Emphasize location’s tourism appeal and business potential
-Include eco-tourism and wellness angles
+1. 180–200 words
+
+2. Emphasize location’s tourism appeal and business potential
+
+3. Include eco-tourism and wellness angles
+
 Output Format:
+
 Investment property listing for commercial real estate portals and hospitality trade magazines.
 
 Prompt 19 — IT Park Office Space in Bengaluru
+
 Backstory:
+
 A Grade-A office space in Whitefield, Bengaluru, is available for lease in a newly developed IT park. Featuring 50,000 sq. ft. of customizable workspace, high-speed connectivity, energy-efficient lighting, and a central cafeteria, the building is surrounded by tech giants and startups. Excellent connectivity via metro and road makes it a prime choice for IT and service companies.
 
 Goal:
+
 Write a corporate-focused property listing emphasizing scalability and infrastructure.
 
 Constraints:
 
-160–180 words
-Professional, formal tone
-Highlight business ecosystem and connectivity
+1. 160–180 words
+
+2. Professional, formal tone
+
+3. Highlight business ecosystem and connectivity
+
 Output Format:
+
 Listing for commercial leasing platforms and business journals.
 
 Prompt 20 — Premium Golf Estate in Pune
+
 Backstory:
+
 An exclusive villa inside a championship golf course estate in Pune offers 4 bedrooms, a private garden, and panoramic fairway views. Residents enjoy access to the clubhouse, spa, gym, and fine-dining restaurants. The gated community ensures 24/7 security and concierge services. Ideal for golf enthusiasts, expatriates, and luxury homebuyers, the villa comes fully furnished with imported interiors.
 
 Goal:
+
 Craft a listing appealing to high-income buyers seeking lifestyle and leisure amenities.
 
 Constraints:
 
-180–200 words
-Aspirational tone with lifestyle imagery
-Include community benefits and exclusivity
+1. 180–200 words
+
+2. Aspirational tone with lifestyle imagery
+
+3. Include community benefits and exclusivity
+
 Output Format:
+
 Listing for luxury real estate brochures and online portals.
 
 Prompt 21 — Beachfront Villa in Goa
