@@ -2305,3 +2305,322 @@ Buyer and seller names
 Payment schedule
 Possession date
 
+Prompt 2 — Agreement to Sell Summary
+Backstory:
+A Pune IT professional has signed an Agreement to Sell for a 3BHK flat in Hinjewadi. They want a summary they can share with family before proceeding to registration, highlighting the financial and legal implications.
+
+Goal:
+Summarize the Agreement to Sell with focus on payment milestones and default clauses.
+
+Prompt:
+"You are a real estate legal analyst. Prepare a summary of a Pune Agreement to Sell. Include:
+
+Property description
+Purchase price and milestone payments
+Buyer and seller obligations
+Penalties for default
+Registration timeline"
+Inputs Required:
+
+Agreement to Sell text
+Price and milestone details
+Parties’ names
+Timeline for registration
+
+Prompt 3 — Lease Agreement Summary
+Backstory:
+A Bengaluru tech startup is renting a commercial office space in Whitefield. The founder wants a quick summary to ensure they understand rent escalation clauses, maintenance charges, and termination conditions before signing.
+
+Goal:
+Condense the lease agreement into an easy-to-scan bullet format.
+
+Prompt:
+"You are a commercial property lease summarization expert. Summarize a Bengaluru office lease agreement. Include:
+
+Rent amount and escalation rate
+Lock-in period
+Maintenance and utility responsibilities
+Termination notice period
+Security deposit details"
+Inputs Required:
+
+Full lease agreement text
+Rent and escalation details
+Lock-in period
+Deposit amount
+
+Prompt 4 — Tripartite Agreement Summary
+Backstory:
+In a Noida housing project, a buyer, builder, and bank have signed a tripartite agreement for a home loan. The buyer wants a short, clear summary of each party’s rights and responsibilities.
+
+Goal:
+Provide a structured summary showing how the agreement protects each party.
+
+Prompt:
+"You are a real estate finance legal expert. Summarize a Noida tripartite agreement. Include:
+
+Role of builder
+Role of buyer
+Role of bank
+Payment release terms
+Remedies in case of default"
+Inputs Required:
+
+Tripartite agreement text
+Project name and location
+Payment terms
+Parties’ names
+
+Prompt 5 — RERA Allotment Letter Summary
+Backstory:
+A Chennai couple booked an under-construction apartment and received an allotment letter under RERA norms. They want a summary that highlights their rights, refund conditions, and completion timeline.
+
+Goal:
+Break down the allotment letter into simple, actionable points.
+
+Prompt:
+"You are a RERA compliance specialist. Summarize a Chennai RERA allotment letter. Include:
+
+Property details
+Project completion date
+Payment terms
+Cancellation and refund policy
+Developer obligations"
+Inputs Required:
+
+Allotment letter text
+Payment schedule
+Project completion date
+Developer name
+
+Prompt 6 — Gift Deed Summary
+Backstory:
+An elderly father in Jaipur is gifting his residential property to his daughter. The gift deed is 15 pages long, filled with legal terminology. The daughter, unfamiliar with legal language, wants a clear summary outlining her rights and confirming there are no hidden liabilities. She also needs to know if stamp duty has been properly addressed.
+
+Goal:
+Summarize the gift deed for clarity and assurance.
+
+Prompt:
+"You are a legal documentation specialist. Summarize a Jaipur property gift deed. Include:
+
+Donor and donee details
+Property description
+Rights transferred
+Conditions, if any
+Stamp duty and registration details"
+Inputs Required:
+
+Gift deed text
+Donor and donee names
+Stamp duty receipt
+
+Prompt 7 — Power of Attorney Summary
+Backstory:
+A Delhi businessman has given his brother Power of Attorney to manage and sell his property while he’s abroad. The brother wants a simple breakdown of his rights, limits of authority, and validity period to ensure he acts within legal bounds.
+
+Goal:
+Create a precise summary of Power of Attorney terms.
+
+Prompt:
+"You are a legal clarity expert. Summarize a Delhi Power of Attorney document. Include:
+
+Parties involved
+Scope of authority
+Limitations
+Validity period
+Revocation clauses"
+Inputs Required:
+
+Full POA text
+Names of principal and attorney
+Property details
+
+Prompt 8 — Partition Deed Summary
+Backstory:
+Three brothers in Lucknow have signed a partition deed to divide inherited ancestral land. The eldest brother wants a summary to confirm fair distribution and ensure that legal possession and revenue records are clearly documented.
+
+Goal:
+Summarize the partition deed with a focus on division of property.
+
+Prompt:
+"You are a property law summarization expert. Summarize a Lucknow partition deed. Include:
+
+Parties involved
+Property parcels and allocations
+Boundaries and measurements
+Mutation and revenue record details
+Dispute resolution clauses"
+Inputs Required:
+
+Partition deed text
+Land details
+Parties’ names
+
+Prompt 9 — Mortgage Deed Summary
+Backstory:
+A homebuyer in Hyderabad has mortgaged his property to secure a housing loan. The bank wants a one-page summary of the mortgage deed for internal records, highlighting repayment terms and rights in case of default.
+
+Goal:
+Prepare a bank-friendly summary of the mortgage deed.
+
+Prompt:
+"You are a banking legal documentation specialist. Summarize a Hyderabad mortgage deed. Include:
+
+Loan amount and interest rate
+Property description
+Repayment terms
+Rights of lender on default
+Borrower obligations"
+Inputs Required:
+
+Mortgage deed text
+Loan details
+Property details
+
+Prompt 10 — Development Agreement Summary
+Backstory:
+A builder in Ahmedabad has signed a development agreement with a landowner for constructing a residential complex. The landowner wants a concise summary to ensure profit-sharing terms and construction timelines are well-documented.
+
+Goal:
+Summarize the development agreement with focus on timelines and profit share.
+
+Prompt:
+"You are a real estate contract summarization expert. Summarize an Ahmedabad development agreement. Include:
+
+Parties involved
+Land details
+Construction timelines
+Profit-sharing arrangement
+Termination clauses"
+Inputs Required:
+
+Development agreement text
+Land survey details
+Profit-sharing percentage
+
+Prompt 11 — Lease Agreement Summary for Commercial Property
+Backstory:
+A small IT firm in Bengaluru is renting an office space for 5 years in a tech park. The lease agreement is full of clauses regarding rent escalation, maintenance charges, and sub-letting restrictions. The startup founder needs a plain-English summary to ensure there are no unfair terms and to plan finances accordingly.
+
+Goal:
+Summarize the commercial lease agreement for clarity and key obligations.
+
+Prompt:
+"You are a real estate legal document summarization expert. Summarize a Bengaluru commercial lease agreement. Include:
+
+Parties involved
+Lease duration and rent escalation clauses
+Maintenance and utility responsibilities
+Restrictions (e.g., sub-letting)
+Security deposit terms and refund conditions"
+Inputs Required:
+
+Lease agreement text
+Rent and escalation details
+Parties’ names
+
+Prompt 12 — Sale Deed Summary
+Backstory:
+A couple in Pune has purchased a new apartment and received a 25-page sale deed. They want a summary highlighting payment confirmation, clear title transfer, and any encumbrance clauses to ensure legal safety before proceeding with interior work.
+
+Goal:
+Provide a concise yet detailed summary of the sale deed.
+
+Prompt:
+"You are a property law expert. Summarize a Pune residential sale deed. Include:
+
+Buyer and seller details
+Property description and location
+Consideration amount and payment terms
+Transfer of ownership rights
+Encumbrance or lien status"
+Inputs Required:
+
+Sale deed text
+Buyer and seller names
+Payment receipts
+
+Prompt 13 — Rent Agreement Summary (Residential)
+Backstory:
+A working professional in Gurugram is moving into a 2BHK apartment. She signed a rent agreement online but wants a quick summary to confirm rent, notice period, and maintenance responsibilities.
+
+Goal:
+Summarize the residential rent agreement with all obligations.
+
+Prompt:
+"You are a tenancy agreement summarization expert. Summarize a Gurugram residential rent agreement. Include:
+
+Monthly rent and payment date
+Security deposit
+Maintenance charges and responsibilities
+Notice period for termination
+Renewal and penalty clauses"
+Inputs Required:
+
+Rent agreement text
+Monthly rent amount
+Deposit amount
+
+Prompt 14 — Joint Development Agreement (JDA) Summary
+Backstory:
+A Chennai landowner has entered into a joint development agreement with a builder to construct a gated villa project. The agreement includes profit-sharing, possession timelines, and approval obligations. The landowner wants a clear summary before signing.
+
+Goal:
+Summarize the JDA with focus on rights, timelines, and revenue share.
+
+Prompt:
+"You are a property development contract summarization expert. Summarize a Chennai joint development agreement. Include:
+
+Parties and their roles
+Land details
+Revenue/profit sharing ratio
+Project timeline and possession schedule
+Approval responsibilities and risk clauses"
+Inputs Required:
+
+JDA text
+Land survey documents
+Profit-sharing percentage
+
+Prompt 15 — Sale Agreement Summary
+Backstory:
+A family in Kolkata has signed a sale agreement for a plot of land. They want to ensure that the possession date, payment schedule, and legal obligations are clearly stated before the final registration.
+
+Goal:
+Provide a clear, non-legalese summary of the sale agreement.
+
+Prompt:
+"You are a property transaction expert. Summarize a Kolkata sale agreement. Include:
+
+Buyer and seller details
+Plot location and size
+Payment schedule and penalties for delay
+Possession date
+Default and termination clauses"
+Inputs Required:
+
+Sale agreement text
+Plot size and location
+Payment plan
+
+Prompt 16 — Summarising a Sale Deed for a Flat Purchase
+
+Backstory:
+A 32-year-old IT professional from Pune is purchasing a 2BHK apartment in Wakad from a reputed builder. The sale deed is over 20 pages long, written in legal jargon, and includes clauses on possession timelines, maintenance charges, and society formation. The buyer has limited time to read and wants to ensure there are no hidden clauses on delayed possession or additional payments. They need a concise summary that captures all obligations, rights, and potential risks in simple, non-legal language.
+
+Goal:
+Summarise the sale deed into an easy-to-read 1–2 page brief highlighting payment terms, possession date, maintenance charges, builder obligations, and buyer responsibilities. Flag any clauses that may cause disputes later.
+
+Prompt:
+"You are a property legal expert. Summarise this sale deed for a 2BHK flat purchase in Pune into plain English, highlighting:
+
+Buyer and builder obligations
+Payment schedule and possession date
+Maintenance charges and society formation process
+Any risk clauses that could lead to disputes
+Format as bullet points for easy reading."
+Inputs:
+
+Full sale deed document (PDF/Word)
+Property location and type (e.g., Pune, 2BHK)
+Buyer’s main concerns (e.g., possession delay, hidden charges)
