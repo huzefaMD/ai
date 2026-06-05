@@ -118,3 +118,13 @@ we just showed you the path.`
 
 Now respond to: "The DevOps course changed
 my career trajectory completely!"
+
+### ⚡ Pro Tips for Few-Shot Prompting
+
+| Tip | Why It Matters |
+|------|---------------|
+| Use **real examples** you've written | Claude matches YOUR authentic voice |
+| Keep examples **consistent in style** | Mixed styles confuse the pattern |
+| Use **2–3 examples minimum** | 1 example is often not enough |
+| Label examples **clearly** | Helps Claude identify the pattern |
+| Make examples **representative** | Garbage examples = garbage output |
