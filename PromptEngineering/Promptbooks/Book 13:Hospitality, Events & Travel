@@ -2676,222 +2676,327 @@ Inputs Required:
 3. Guest nationality (if relevant)
 
 Prompt 17 — Post-Stay WhatsApp Review Request Script
+
 Backstory:
+
 A chain of business hotels in metro cities wants to automate WhatsApp review requests 24 hours after checkout.
 
 Goal:
+
 Create a concise WhatsApp message template encouraging guests to leave a review.
 
 Prompt:
+
 "You are the CRM head for a business hotel chain in India. Write a short, friendly WhatsApp script to send guests 24 hours post-checkout encouraging reviews on Google.
 
-Thank them for staying.
-Include direct review link.
-Keep tone casual and inviting."
+1. Thank them for staying.
+
+2. Include direct review link.
+
+3. Keep tone casual and inviting."
+
 Inputs Required:
 
-Guest name placeholder
-Review link
+1. Guest name placeholder
+
+2. Review link
 
 Prompt 18 — Responding to a Review with Staff Mention
+
 Backstory:
+
 A guest leaves a 5-star TripAdvisor review praising a staff member named Ramesh for exceptional service.
 
 Goal:
+
 Respond to the review and highlight Ramesh’s contribution publicly.
 
 Prompt:
+
 "You are the hotel manager of a premium property in Chennai. Draft a public TripAdvisor reply to a 5-star review that praises staff member Ramesh.
 
-Thank the guest.
-Praise Ramesh’s dedication.
-Mention you’ll recognise him internally."
+1. Thank the guest.
+
+2. Praise Ramesh’s dedication.
+
+3. Mention you’ll recognise him internally."
+
 Inputs Required:
 
-Review text
-Staff member’s name
+1. Review text
+
+2. Staff member’s name
 
 Prompt 19 — Follow-up Email for Low Rating Without Review Text
+
 Backstory:
+
 A guest leaves a 2-star rating on Booking.com without any written comment. The hotel wants to gather more details privately.
 
 Goal:
+
 Write a polite email asking for more feedback.
 
 Prompt:
+
 "You are the guest feedback coordinator for a luxury resort in Kerala. Draft a short, polite email to a guest who left a 2-star rating with no review.
 
-Express concern.
-Invite them to share details privately.
-Offer to address their issues."
+1. Express concern.
+
+2. Invite them to share details privately.
+
+3. Offer to address their issues."
+
 Inputs Required:
 
-Guest name
-Contact email
+1. Guest name
+
+2. Contact email
 
 Prompt 20 — Social Media Video Script for Showcasing Reviews
+
 Backstory:
+
 A hill station resort in Manali wants to create a 30-second Instagram reel showcasing guest reviews with scenic footage.
 
 Goal:
+
 Write a short script combining visuals and review text.
 
 Prompt:
+
 "You are the social media manager of a resort in Manali. Write a 30-second reel script that overlays positive guest reviews on scenic video shots.
 
-Include call to action to book.
-Use upbeat background music suggestion."
+1. Include call to action to book.
+
+2. Use upbeat background music suggestion."
+
 Inputs Required:
 
-Review snippets
-Video footage list
+1. Review snippets
+
+2. Video footage list
 
 Prompt 21 — Responding to an Emotional Review About a Family Event
+
 Backstory:
+
 A guest writes a long review about hosting their daughter’s wedding at a hotel, detailing emotional moments and staff support.
 
 Goal:
+
 Write an equally heartfelt public reply to a wedding event review.
 
 Prompt:
+
 "You are the events director of a luxury hotel in Mumbai. Draft a heartfelt reply to a wedding event review highlighting emotional memories and staff support.
 
-Reflect the guest’s emotions.
-Thank them for trusting your team with such a milestone.
-Wish the couple well."
+1. Reflect the guest’s emotions.
+
+2. Thank them for trusting your team with such a milestone.
+
+3. Wish the couple well."
+
 Inputs Required:
 
-Review text
-Event date
-Staff names mentioned
+1. Review text
+
+2. Event date
+
+3. Staff names mentioned
 
 Prompt 22 — Turning a Negative Review into a Service Recovery Opportunity
+
 Backstory:
+
 A guest at a business hotel in Bengaluru leaves a 2-star review complaining about noisy construction during their stay. The work was essential maintenance, but it disturbed the guest’s sleep. The hotel wants to recover the relationship and show empathy publicly.
 
 Goal:
+
 Craft a response that acknowledges the discomfort, explains the necessity, and offers a goodwill gesture.
 
 Prompt:
+
 "You are the guest relations manager for a business hotel in Bengaluru. Draft a public reply to a 2-star review about noise from construction.
 
-Begin by apologising sincerely.
-Explain why the construction was necessary (safety or upgrades).
-Mention measures taken to minimise disruption.
-Offer a goodwill gesture (discount or free upgrade for next stay).
-End with an invitation to return."
+1. Begin by apologising sincerely.
+
+2. Explain why the construction was necessary (safety or upgrades).
+
+3. Mention measures taken to minimise disruption.
+
+4. Offer a goodwill gesture (discount or free upgrade for next stay).
+
+5. End with an invitation to return."
+
 Inputs Required:
 
-Guest’s name
-Exact review text
-Details of construction and mitigation efforts
-Offer/goodwill gesture details
+1. Guest’s name
+
+2. Exact review text
+
+3. Details of construction and mitigation efforts
+
+4. Offer/goodwill gesture details
 
 Prompt 23 — Responding to a Humorous Review with Personality
+
 Backstory:
+
 A backpacker leaves a 5-star review on Hostelworld joking about the hostel’s ‘legendary chai’ and calling the receptionist ‘the Chai King of Delhi.’ The management wants to keep the tone lighthearted in their reply.
 
 Goal:
+
 Write a witty, friendly response that engages with the humour while still being professional.
 
 Prompt:
+
 "You are the hostel manager of a popular backpackers’ stay in Delhi. Reply to a humorous 5-star review mentioning your receptionist as the ‘Chai King of Delhi.’
 
-Match the guest’s playful tone.
-Acknowledge the compliment and joke.
-Invite them back for ‘another round of legendary chai.’"
+1. Match the guest’s playful tone.
+
+2. Acknowledge the compliment and joke.
+
+3. Invite them back for ‘another round of legendary chai.’"
+
 Inputs Required:
 
-Reviewer’s name
-Review text
-Staff member’s name
+1. Reviewer’s name
+
+2. Review text
+
+3. Staff member’s name
 
 Prompt 24 — Video Testimonial Follow-Up Script for Satisfied Guest
+
 Backstory:
+
 A luxury safari lodge in Ranthambore hosted a guest who raved about their experience verbally during checkout. The marketing team wants to capture it on video for their social media.
 
 Goal:
+
 Create a follow-up email script inviting the guest to record a short testimonial video.
 
 Prompt:
+
 "You are the marketing coordinator for a luxury safari lodge in Ranthambore. Draft a polite, friendly email to a guest who praised their experience in person, inviting them to record a short testimonial video.
 
-Mention their checkout feedback.
-Explain where the video will be used (Instagram, website).
-Offer to guide them on recording (lighting, length).
-Provide easy upload instructions."
+1. Mention their checkout feedback.
+
+2. Explain where the video will be used (Instagram, website).
+
+3. Offer to guide them on recording (lighting, length).
+
+4. Provide easy upload instructions."
+
 Inputs Required:
 
-Guest name
-Feedback summary from checkout
-Upload link or email
+1. Guest name
+
+2. Feedback summary from checkout
+
+3. Upload link or email
 
 Prompt 25 — Proactive Response to Positive Review with Upsell Opportunity
+
 Backstory:
+
 A couple leaves a glowing 5-star review for their honeymoon stay at a Kerala backwater resort. Management sees an opportunity to promote anniversary packages.
 
 Goal:
+
 Write a reply that thanks them and subtly promotes a future package.
 
 Prompt:
+
 "You are the guest experience head at a luxury backwater resort in Kerala. Reply to a 5-star honeymoon review from a couple.
 
-Congratulate them again.
-Thank them for choosing your property for their special occasion.
-Suggest celebrating their first anniversary with your resort’s couples’ package.
-Include a special booking code."
+1. Congratulate them again.
+
+2. Thank them for choosing your property for their special occasion.
+
+3. Suggest celebrating their first anniversary with your resort’s couples’ package.
+
+4. Include a special booking code."
+
 Inputs Required:
 
-Reviewer’s names
-Review text
-Package name and booking code
+1. Reviewer’s names
+
+2. Review text
+
+3. Package name and booking code
 
 
 Vendor & catering coordination
 
 Prompt 1 — Wedding Catering Menu Finalisation with Diverse Dietary Needs
+
 Backstory:
+
 An event planner in Jaipur is coordinating a luxury wedding for 500 guests at a palace venue. The client’s guest list includes strict vegetarians, Jain followers, vegans, and some international guests unfamiliar with Indian food. The caterer must balance authenticity, dietary restrictions, and presentation while ensuring smooth service.
 
 Goal:
+
 Create a final catering plan with menu, service flow, and dietary labeling.
 
 Prompt:
+
 "You are the head catering coordinator for a luxury Jaipur wedding with 500 guests from diverse dietary backgrounds. Prepare a catering plan that:
 
-Lists dishes under Vegetarian, Jain, Vegan, and International Fusion categories.
-Includes live counters and plated service suggestions.
-Details dietary labels and allergens on menu cards.
-Includes kitchen-to-service staff coordination for quick delivery.
-Outlines service flow for different mealtimes (lunch, high tea, dinner)."
+1. Lists dishes under Vegetarian, Jain, Vegan, and International Fusion categories.
+
+2. Includes live counters and plated service suggestions.
+
+3. Details dietary labels and allergens on menu cards.
+
+4. Includes kitchen-to-service staff coordination for quick delivery.
+
+5. Outlines service flow for different mealtimes (lunch, high tea, dinner)."
+
 Inputs Required:
 
-Guest count per dietary category
-Venue facilities (kitchen capacity, service stations)
-Client-preferred cuisines
-Allergens list
+1. Guest count per dietary category
+
+2. Venue facilities (kitchen capacity, service stations)
+
+3. Client-preferred cuisines
+
+4. Allergens list
 
 Prompt 2 — Coordination Plan for Multi-Vendor Food Festival
+
 Backstory:
+
 A tourism board in Goa is hosting a 3-day food festival featuring 40 vendors, including street food stalls, regional specialty counters, and premium restaurants. Coordination is required to avoid duplication of dishes, ensure power and water supply, and schedule cleaning shifts.
 
 Goal:
+
 Develop a detailed vendor coordination plan with operational timings.
 
 Prompt:
+
 "You are the event operations manager for a Goa food festival with 40 participating vendors. Create a vendor coordination plan that:
 
-Assigns stall locations strategically to avoid crowding and food repetition.
-Schedules staggered cooking and prep times.
-Ensures water, power, and waste disposal arrangements.
-Includes emergency protocols for equipment failure.
-Coordinates live entertainment schedules with food service."
+1. Assigns stall locations strategically to avoid crowding and food repetition.
+
+2. Schedules staggered cooking and prep times.
+
+3. Ensures water, power, and waste disposal arrangements.
+
+4. Includes emergency protocols for equipment failure.
+
+5. Coordinates live entertainment schedules with food service."
+
 Inputs Required:
 
-Vendor list with cuisines
-Venue layout map
-Utility availability (power, water points)
-Event timetable
+1. Vendor list with cuisines
+
+2. Venue layout map
+
+3. Utility availability (power, water points)
+
+4. Event timetable
 
 Prompt 3 — Standard Operating Procedure for Caterer Contract Finalisation
 Backstory:
