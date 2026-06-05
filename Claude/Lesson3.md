@@ -24,7 +24,7 @@ immediately.
 
 Write a course description for my AWS Fundamentals course.
 
-Claude's response might be: 
+### Claude's response might be: 
 ```
 This comprehensive AWS Fundamentals course covers core
 cloud concepts including EC2, S3, IAM, and VPC. Students will learn to deploy scalable
@@ -32,3 +32,15 @@ applications on Amazon Web Services ...
 ```
 
 Generic. Could be from any EdTech platform. 
+
+## The Few-Shot Formula
+
+Step 1: `Show 2-3 examples of what you want`
+
+Step 2:` Label them clearly (Example 1, Example 2 ... )`
+
+Step 3: `Make examples representative of your actual need`
+
+Step 4: `Then give Claude the actual task`
+
+Step 5:` Claude matches the pattern perfectly`
