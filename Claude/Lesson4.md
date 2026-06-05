@@ -183,3 +183,30 @@ Think step by step:
 - Specific output (month by month plan)
 
 *That's expert-level prompting right there!*
+
+## 🚫 When NOT to Use CoT
+
+CoT is powerful but not always needed:
+
+| Use CoT | Skip CoT |
+|----------|----------|
+| Complex decisions | Simple factual questions |
+| Multi-step problems | Quick lookups |
+| Strategic planning | Basic writing tasks |
+| Analysis & reasoning | Simple formatting |
+| When you want to verify logic | When speed matters more |
+
+> *"What is the capital of France?"* — Don't need CoT for this! 😄
+
+---
+
+## ✅ Quick Recap
+
+| Concept | Key Point |
+|----------|----------|
+| What is CoT | Asking Claude to reason step by step |
+| Why it works | Forces deeper thinking, catches errors |
+| Magic phrase | *"Think step by step"* |
+| 3 levels | Simple → Guided → Socratic |
+| Best combo | Role + Context + CoT = Expert answers |
+| When to skip | Simple, fast, factual questions |
