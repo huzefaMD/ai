@@ -28,23 +28,23 @@ Think through this step by step:
 
 ## Claude's response: "Let me think through this carefully ...
 
-*Step1-*
+*Step 1:*
 
 Target Audience: Your students are likely IT professionals and freshers in Chennai
 earning ₹3-8 LPA. For them ₹4,999 is comfortable, ₹9,999 requires justification.
 
-*Step 2-*
+*Step 2:*
 
 Competitor Pricing: Udemy courses sell for ₹455-₹799 (discounted). Local
 bootcamps charge ₹15,000-₹40,000. You sit in the middle - which is actually a strong
 position.
 
-*Step 3-*
+*Step 3:*
 
 Perceived Value: ₹9,999 actually signals HIGHER quality to serious students.
 Cheap prices attract bargain hunters who don't complete courses.
 
-*Step 4-*
+*Step 4:*
 
 Brand Stage: HuzefAI is growing - you need case studies and testimonials more
 than margin right now.
