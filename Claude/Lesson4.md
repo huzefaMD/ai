@@ -55,3 +55,13 @@ Recommendation: Launch at ₹4,999 to fill your first batch fast, collect testim
 then raise to ₹9,999 for batch 2. Best of both worlds."
 
 That's a real business decision, reasoned properly!
+
+| Phrase | Use When |
+|---------|---------|
+| "Think step by step" | Any complex problem |
+| "Walk me through your reasoning" | When you want to see the logic |
+| "Break this down" | Complex topics or decisions |
+| "First analyze X, then Y, then Z" | When you control the thinking order |
+| "Think out loud" | When you want full transparency |
+| "Before answering, consider..." | When you want Claude to weigh factors |
+| "What are the pros and cons first?" | Before a recommendation |
