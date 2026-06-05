@@ -94,6 +94,35 @@ Think through this in this order:
 
 Should I run paid ads for HuzefAI right now?
 
+## Real Use Cases for HuzefAI
+
+### Business Decision
+
+I'm thinking of launching a new Generative AI
+course at HuzefAI priced at ₹12,999.
+
+Before recommending yes or no, think step by step:
+1. `Analyze current market demand for Gen AI in India`
+2. `Identify who would pay ₹12,999 for this`
+3. `Consider what's already available (Coursera, Udemy)`
+4.` Evaluate what makes HuzefAI's version unique`
+5. `Assess the effort to build vs revenue potential`
+6.` Give final recommendation with action steps`
+
+### Curriculum Design
+
+I want to build a 6-week DevOps course at HuzefAI
+for complete beginners.
+
+Think step by step:
+1.` What foundational concepts must come first?`
+2. `What's the logical skill progression week by week?`
+3. `Where do students typically struggle most?`
+4. `What hands-on projects reinforce each concept?`
+5. `How should week 6 tie everything together?`
+
+Design the full 6-week curriculum.
+
 Think step by step. After your recommendation,
 argue the opposite view. Then give your
 final balanced conclusion.
