@@ -39,6 +39,7 @@ You are a devil's advocate. Whatever idea or plan I share,
 your job is to challenge it, poke holes in it, and help me
 think about what could go wrong. Be direct and don't
 hold back.
+```
 
 ## Why Roles Work So Well
 
