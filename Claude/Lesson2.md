@@ -75,3 +75,13 @@ Two roles, one response, double the value.
 | `One-size-fits-all `|` Change the role based on what you actually need `|
 
 Vague roles = vague responses. Specific roles = expert responses.
+
+## Roles You Can Use RIGHT NOW
+
+| Need | Role to Use |
+|------|------------|
+| Plan your curriculum | `"You are a senior curriculum designer for tech bootcamps"` |
+| Write marketing copy | `"You are a growth marketer specializing in EdTech startups in India" `|
+| Price your courses | `"You are a pricing strategist for online education businesses" `|
+| Handle student doubts |` "You are a patient DevOps instructor who loves teaching beginners" `|
+| Plan business growth |` "You are a startup mentor who specializes in EdTech in Southeast Asia"` |
