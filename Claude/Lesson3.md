@@ -316,3 +316,22 @@ Message 1: Send immediately after the webinar
 Message 2: Send 2 days later
 Message 3: Send on day 5 (final follow-up)
 ```
+### 📩 Message 1 — Right After Webinar
+
+```text
+Hey [Name]! 👋
+
+Thank you for joining HuzefAI's free AWS webinar today — you were amazing! 🙌
+
+Hope you got massive value from the session.
+
+Got questions about what we covered?
+Just reply here — I personally read every message!
+
+If you're serious about mastering AWS and landing better opportunities, our full course might be exactly what you need next.
+
+Want me to send you the details? 😊
+
+– Huzefa
+HuzefAI 🚀
+```
