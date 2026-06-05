@@ -68,10 +68,22 @@ That's a real business decision, reasoned properly!
 
 ## 3 Levels of Chain of Thought
 
-*Level 1-*
-
-*Simple CoT
-Just add "think step by step" to any prompt:*
+### Level 1-Simple CoT
+*Just add "think step by step" to any prompt:*
 
 Should I run paid ads for HuzefAI right now?
 Think step by step before answering.
+
+### Level 2-Guided CoT
+
+You define the thinking steps:
+
+Should I run paid ads for HuzefAI right now?
+
+Think through this in this order:
+
+1. What's our current organic reach?
+2. What's a realistic cost per lead in EdTech?
+3. What conversion rate do we need to break even?
+4. What's the risk if it doesn't work?
+5. Give your final recommendation.
