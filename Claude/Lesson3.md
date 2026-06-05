@@ -336,3 +336,27 @@ Want me to send you the details? 😊
 – Huzefa
 HuzefAI 🚀
 ```
+### 📩 Message 2 — Day 2 Follow Up
+
+```text
+Hi [Name]! Huzefa here 👋
+
+Just checking in — have you thought about joining our full AWS course after the webinar?
+
+Here's what our students are saying:
+
+⭐ "Got placed at TCS after completing this"
+⭐ "Cleared AWS certification in first attempt"
+⭐ "Best investment I made in my career"
+
+Our course includes:
+
+✅ Hands-on labs — real AWS console
+✅ Certification guidance
+✅ Placement support
+✅ Lifetime access to recordings
+
+500+ engineers from Chennai have already upskilled with HuzefAI 💪
+
+Interested? Reply and I'll share full details + special webinar pricing! 🎯
+```
