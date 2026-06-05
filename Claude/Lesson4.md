@@ -116,9 +116,13 @@ for complete beginners.
 
 Think step by step:
 1.` What foundational concepts must come first?`
+
 2. `What's the logical skill progression week by week?`
+   
 3. `Where do students typically struggle most?`
+   
 4. `What hands-on projects reinforce each concept?`
+   
 5. `How should week 6 tie everything together?`
 
 Design the full 6-week curriculum.
