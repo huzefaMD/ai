@@ -133,3 +133,53 @@ final balanced conclusion.
 
 Level 3 is incredibly powerful for important decisions - it forces Claude to see
 both sides before concluding.
+
+
+### Problem Solving
+
+HuzefAI has 200 LinkedIn followers but our
+posts get very low engagement.
+
+Think step by step:
+1.` Diagnose possible reasons for low engagement`
+
+2.` Analyze what content works in EdTech on LinkedIn`
+
+3.` Identify quick wins vs long term fixes`
+
+4.` Prioritize top 3 actions I should take this week`
+
+5. `Give me a 30-day engagement growth plan`
+
+ ### CoT + Roles = Unstoppable Combo
+
+ Remember Roles from Lesson 2? Combine them with CoT for maximum power:
+ You are a senior EdTech growth strategist with
+10 years experience scaling online training
+businesses in India.
+
+I want to grow HuzefAI from 50 to 500 students
+in 6 months.
+
+Think step by step:
+1.` Diagnose what's likely holding us back right now`
+
+2.` Identify the 3 highest leverage growth channels`
+
+3.` Build a month by month execution plan`
+
+4.` Flag the biggest risks and how to avoid them`
+
+5.` Give your single most important piece of advice`
+
+*This combines:*
+
+- Role (expert mentor)
+
+- Context (HuzefAI, 50->500 students)
+
+- Chain of Thought (5 defined steps)
+
+- Specific output (month by month plan)
+
+*That's expert-level prompting right there!*
