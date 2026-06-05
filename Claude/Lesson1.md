@@ -30,3 +30,5 @@ for your startup!
 | Format |` ✅ 5 ideas specified` | Perfect |
 | Tone | `✅ Approachable, not corporate `| Great |
 | Example Style | `⚠️ Skipped — totally fine for this task` | Optional here |
+
+
