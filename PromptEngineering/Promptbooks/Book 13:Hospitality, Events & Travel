@@ -2942,4 +2942,178 @@ Full menu with ingredients
 Allergen signage templates
 Medical emergency contact protocol
 
+Prompt 18 — Festival Season Ingredient Sourcing Plan
+Backstory:
+During Diwali season, sourcing premium-quality ghee, dry fruits, and sweets in Delhi becomes competitive, with prices surging. For an upcoming luxury wedding, the caterer needs to ensure timely procurement without compromising quality. They want a procurement plan that anticipates shortages and secures contracts early.
 
+Goal:
+Create a seasonal ingredient procurement strategy.
+
+Prompt:
+"You are planning catering for a luxury wedding in Delhi during Diwali. Develop a procurement strategy that:
+
+Identifies high-demand ingredients.
+Secures supplier contracts in advance.
+Maintains backup suppliers for critical items.
+Locks in pricing to avoid last-minute hikes.
+Schedules deliveries to match prep needs."
+Inputs Required:
+
+Menu ingredient list
+Seasonal market price trends
+Supplier database
+Event cooking schedule
+
+Prompt 19 — Remote Venue Catering Logistics Plan
+Backstory:
+A destination wedding in Ladakh poses logistical challenges — the venue is remote, roads are narrow, and local produce is limited. The caterer must transport most ingredients and equipment from Leh and Delhi while maintaining freshness and avoiding spoilage. The planner wants a detailed logistics plan.
+
+Goal:
+Plan catering transport and setup for remote venues.
+
+Prompt:
+"You are managing catering for a wedding in Ladakh. Create a logistics plan that:
+
+Schedules transport of perishables with cold storage.
+Accounts for travel time and road conditions.
+Assigns staging points for deliveries.
+Ensures backup power for refrigeration at the venue.
+Has emergency ingredient sourcing options locally."
+Inputs Required:
+
+Venue location and access details
+Ingredient storage requirements
+Transport provider contacts
+Power supply arrangements
+
+Prompt 20 — Staff Meal Coordination for Large Events
+Backstory:
+At a major music festival in Bengaluru, over 200 event staff were working 12-hour shifts but had no coordinated meal plan. This led to staff leaving posts during peak times and caterers running out of meals. Organisers now want a structured meal coordination plan for staff.
+
+Goal:
+Create a catering plan for staff meals.
+
+Prompt:
+"You are managing food service for a 3-day music festival in Bengaluru. Design a staff meal plan that:
+
+Determines meal times in shifts.
+Allocates meals by role and location.
+Ensures variety and nutrition for long shifts.
+Includes water and beverage stations.
+Tracks consumption to prevent shortages."
+Inputs Required:
+
+Staff roster and shift timings
+Budget for staff catering
+Storage and serving facilities
+Vendor for staff meals
+
+Prompt 21 — Multiple Vendor Menu Integration Sheet
+Backstory:
+For a large wedding reception in Kolkata, five different caterers were hired for various cuisines. Guests complained about confusing layouts and mismatched service styles. The planner wants a master menu integration sheet to ensure flow, presentation, and variety are coordinated.
+
+Goal:
+Integrate multiple vendors into one seamless menu plan.
+
+Prompt:
+"You are coordinating five catering teams for a Kolkata wedding reception. Create a master menu sheet that:
+
+Lists dishes from all vendors in one flow.
+Avoids duplication.
+Standardises portion sizes and presentation.
+Assigns serving counters logically by cuisine type.
+Includes guest navigation signage."
+Inputs Required:
+
+Individual vendor menus
+Guest count
+Venue layout
+Serving equipment list
+
+Prompt 22 — Beverage Service & Alcohol Licensing Plan
+Backstory:
+A corporate gala in Gurgaon plans to serve alcohol, but organisers last year faced delays because of late liquor license applications. There were also issues with staff serving alcohol without proper training. This time, they want a legally compliant and efficient beverage plan.
+
+Goal:
+Create a beverage service and licensing coordination document.
+
+Prompt:
+"You are managing beverages for a corporate gala in Gurgaon. Develop a plan that:
+
+Applies for all necessary licenses in advance.
+Trains staff in responsible alcohol service.
+Coordinates with caterers for drink pairings.
+Sets up beverage counters for smooth service.
+Tracks inventory in real-time to avoid shortages."
+Inputs Required:
+
+Beverage menu
+Local licensing requirements
+Bartender list and certifications
+Guest count and demographics
+
+Prompt 23 — VIP Guest Catering Customisation Plan
+Backstory:
+For a high-profile political event in New Delhi, certain VIP guests require customised meals for health and religious reasons. Last year, these requests were handled informally, causing errors and delays. The organiser now wants a precise VIP meal plan that ensures discretion and accuracy.
+
+Goal:
+Customise catering for VIP dietary needs.
+
+Prompt:
+"You are managing catering for a political event in New Delhi. Create a VIP meal customisation plan that:
+
+Lists each VIP's dietary preferences privately.
+Assigns dedicated service staff for each VIP.
+Prepares meals in separate prep areas to avoid contamination.
+Uses discreet labelling for VIP meals.
+Has a backup plan for last-minute changes."
+Inputs Required:
+
+VIP guest list
+Dietary preference details
+Staff assignments
+Prep area layout
+
+Prompt 24 — Vendor Payment & Performance Tracking System
+Backstory:
+An event management company in Chennai hires multiple catering vendors for various events. Without performance tracking, they’ve repeatedly re-hired underperforming vendors. The owner now wants a payment and performance tracking system for better decision-making.
+
+Goal:
+Create a vendor evaluation and payment schedule.
+
+Prompt:
+"You are designing a vendor management sheet for catering services. The system should:
+
+Record vendor performance ratings after each event.
+Link ratings to payment release schedules.
+Flag vendors with repeated issues.
+Maintain payment history for tax compliance.
+Be easy to update after every event."
+Inputs Required:
+
+Vendor list
+Payment terms
+Performance criteria
+Event history
+
+Prompt 25 — Post-Event Catering Review & Feedback System
+Backstory:
+After a large banquet in Ahmedabad, guests praised the food but complained about service delays. The organiser wants a structured post-event review system to capture detailed feedback from guests and vendors, helping improve future coordination.
+
+Goal:
+Design a catering feedback and review process.
+
+Prompt:
+"You are implementing a post-event review system for catering. The system should:
+
+Collect feedback from guests via forms or QR codes.
+Gather vendor feedback on event operations.
+Analyse ratings to identify improvement areas.
+Archive feedback for vendor selection in future events.
+Present findings in a simple summary report."
+Inputs Required:
+
+Guest contact list
+Feedback form templates
+Vendor feedback forms
+Event operations log
