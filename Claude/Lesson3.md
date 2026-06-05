@@ -68,5 +68,28 @@ You need: AWS certification + 2 real projects
 + LinkedIn that shows your work.
 That's it. Everything else is noise.
 ```
-Now write 3 LinkedIn posts promoting my new
-AI for DevOps course at HuzefAI.
+## Now write 3 LinkedIn posts promoting my new
+*AI for DevOps course at HuzefAI.*
+
+*Email Templates*
+
+Here are examples of my email style to students:
+
+*Example 1:*
+```
+Hey [Name], your AWS batch starts Monday!
+Quick reminder - bring your laptop,
+AWS free tier account ready, and
+your hunger to learn. See you at 7PM. - Huzefa
+```
+
+*Example 2:*
+```
+[Name], you haven't logged in this week.
+I get it - life gets busy.
+But your batch ends in 10 days.
+Need help catching up? Reply to this email.
+```
+
+Now write an email for students who
+haven't enrolled yet after a free webinar.
