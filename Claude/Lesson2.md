@@ -52,3 +52,15 @@ When you assign a role, Claude:
 | `Cautious & broad `| `Confident & specific` |
 | `One perspective `|` Expert perspective` |
 
+The model doesn't change - but the lens it uses to respond completely transforms
+
+## Advanced: Stacking Roles
+
+*You can combine multiple roles for even more powerful responses:*
+```
+You are a senior cloud architect AND an experienced
+technical writer. Review my AWS architecture diagram
+and write documentation that is both technically accurate
+AND easy for non-technical stakeholders to understand.
+```
+Two roles, one response, double the value. 
