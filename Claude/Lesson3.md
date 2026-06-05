@@ -128,3 +128,36 @@ my career trajectory completely!"
 | Use **2–3 examples minimum** | 1 example is often not enough |
 | Label examples **clearly** | Helps Claude identify the pattern |
 | Make examples **representative** | Garbage examples = garbage output |
+
+
+### 🚫 Common Mistakes
+
+#### ❌ Mistake 1: Inconsistent Examples
+
+```text
+Example 1: Formal corporate tone
+Example 2: Super casual slang
+Example 3: Technical jargon heavy
+```
+
+Claude gets confused — pick **ONE consistent style**.
+
+---
+
+#### ❌ Mistake 2: Too Few Examples
+
+```text
+Example 1: (only one example)
+
+Now do 10 more like this.
+```
+
+One example rarely captures enough pattern. Use **2–3 minimum**.
+
+---
+
+#### ❌ Mistake 3: Examples That Don't Match Your Task
+
+Showing examples of blog posts when you want social media captions.
+
+Match examples to the actual task.
