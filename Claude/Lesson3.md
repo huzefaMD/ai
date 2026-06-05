@@ -328,7 +328,8 @@ Hope you got massive value from the session.
 Got questions about what we covered?
 Just reply here — I personally read every message!
 
-If you're serious about mastering AWS and landing better opportunities, our full course might be exactly what you need next.
+If you're serious about mastering AWS and landing better opportunities,
+our full course might be exactly what you need next.
 
 Want me to send you the details? 😊
 
