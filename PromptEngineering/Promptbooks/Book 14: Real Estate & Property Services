@@ -443,95 +443,186 @@ Output Format:
 Listing for luxury real estate brochures and online portals.
 
 Prompt 21 — Beachfront Villa in Goa
+
 Backstory:
+
 Nestled along the pristine white sands of Morjim Beach, this 5-bedroom luxury villa offers uninterrupted sea views and private beach access. The interiors feature teakwood furniture, floor-to-ceiling glass walls, and an infinity pool that merges visually with the Arabian Sea. Perfect for use as a holiday home or a premium rental investment, the property comes with all modern conveniences including central air conditioning, a chef’s kitchen, and an outdoor BBQ area. Located in a quiet stretch away from the commercial bustle, it’s a sanctuary for those who value privacy and nature.
 
 Goal:
+
 Create a listing that blends aspirational holiday living with strong investment appeal.
 
 Constraints:
 
-200–220 words
-Capture coastal charm while emphasizing ROI potential
-Use warm, inviting language
+1. 200–220 words
+
+2. Capture coastal charm while emphasizing ROI potential
+
+3. Use warm, inviting language
+
 Output Format:
+
 Luxury property listing for vacation rental investors and HNI buyers.
 
 Prompt 22 — Serviced Apartments in Hyderabad’s Financial District
+
 Backstory:
+
 A newly launched block of 50 fully furnished serviced apartments is now available for sale in Hyderabad’s fast-growing Financial District. Each unit is designed for corporate stays, with modern interiors, high-speed internet, kitchenette facilities, and housekeeping services. The building includes a business center, café, and rooftop lounge. With a high demand from visiting professionals and expats, these units promise excellent rental yields and capital appreciation potential.
 
 Goal:
+
 Write a listing targeting real estate investors and corporate leasing agencies.
 
 Constraints:
 
-180–200 words
-Highlight rental yield potential and strategic location
-Maintain a professional, data-backed tone
+1. 180–200 words
+
+2. Highlight rental yield potential and strategic location
+
+3. Maintain a professional, data-backed tone
+
 Output Format:
+
 Commercial residential property listing for investment portals and business publications.
 
 Prompt 23 — Hilltop Bungalow in Kodaikanal
+
 Backstory:
+
 Perched on a secluded hilltop in Kodaikanal, this 4-bedroom bungalow offers sweeping valley views, landscaped gardens, and an indoor fireplace. The property spans 2 acres, featuring a tea plantation and a glasshouse for year-round gardening. Designed for those seeking an escape from urban life, it offers complete privacy while being just 15 minutes from the town center. Ideal for personal use or as a boutique homestay, the bungalow comes with full furnishing and caretaker quarters.
 
 Goal:
+
 Create a listing that appeals to buyers seeking tranquility, exclusivity, and nature.
 
 Constraints:
 
-200–220 words
-Emphasize retreat lifestyle and potential for hospitality use
-Use emotive, scenic language
+1. 200–220 words
+
+2. Emphasize retreat lifestyle and potential for hospitality use
+
+3. Use emotive, scenic language
+
 Output Format:
+
 Premium residential listing for lifestyle magazines and high-end property portals.
 
 Prompt 24 — Retail Showroom Space in Mumbai
+
 Backstory:
+
 Located on Linking Road, one of Mumbai’s most prominent retail hubs, this 3,500 sq. ft. showroom space offers unparalleled visibility and foot traffic. The property boasts a double-height glass façade, ample parking, and a modern HVAC system. Surrounded by premium fashion brands, eateries, and entertainment venues, the location ensures consistent customer inflow and brand exposure. Suitable for luxury retail, electronics, or flagship brand outlets.
 
 Goal:
+
 Draft a property listing aimed at retail chains and franchise owners.
 
 Constraints:
 
-160–180 words
-Maintain a commercial and persuasive tone
-Emphasize location benefits and footfall statistics
+1. 160–180 words
+
+2. Maintain a commercial and persuasive tone
+
+3. Emphasize location benefits and footfall statistics
+
 Output Format:
+
 Retail space listing for commercial property portals and trade publications.
 
 Prompt 25 — Smart Luxury Apartment in Ahmedabad
+
 Backstory:
+
 A 3BHK smart apartment in Ahmedabad’s fastest-growing residential area, Prahlad Nagar, comes equipped with voice-controlled lighting, climate control, and integrated home security systems. The building offers a rooftop infinity pool, fitness center, and co-working lounge. With top schools, shopping malls, and hospitals within a 5 km radius, the apartment caters to modern, tech-savvy families seeking both convenience and style.
 
 Goal:
+
 Produce a listing that blends technology, comfort, and urban lifestyle appeal.
 
 Constraints:
 
-180–200 words
-Highlight smart-home features and location advantages
-Maintain a modern, aspirational tone
+1. 180–200 words
+
+2. Highlight smart-home features and location advantages
+
+3. Maintain a modern, aspirational tone
+
 Output Format:
+
 Residential property listing for premium online real estate platforms.
 
 
 Lead generation campaigns
 
 Prompt 1 — Luxury Apartment Launch – Social Media Funnel
+
 Backstory:
+
 A premium real estate developer in South Delhi is launching a luxury apartment project targeting HNIs, NRIs, and corporate executives. The challenge is to create a high-conversion campaign that appeals to aspirational buyers, builds brand trust, and drives them from awareness to booking site visits. Competitors are running aggressive ad campaigns, so the brand needs a differentiated approach that blends storytelling, virtual tours, and exclusivity.
 
 Goal: Design a 4-week social media ad funnel to generate at least 150 qualified leads.
 
 Prompt:
+
 "You are a luxury real estate marketing consultant. Create a 4-week Facebook & Instagram ad funnel for a luxury apartment launch in South Delhi. Include ad copy, creatives concept, targeting details, and lead magnet ideas. Suggest WhatsApp automation flow for quick follow-ups. Mention how to retarget engaged users."
 
 Inputs Required:
 
-Property USPs
-Ad budget
-Target cities & audience demographics
-Creative asset availability
+1. Property USPs
+
+2. Ad budget
+
+3. Target cities & audience demographics
+
+4. Creative asset availability
+
+Prompt 2 — Affordable Housing Scheme – WhatsApp Lead Drive
+Backstory:
+A developer in Jaipur is selling 2BHK units under ₹35 lakhs under a government subsidy scheme. The audience includes salaried employees and small business owners who prefer WhatsApp for communication. The aim is to bypass traditional website forms and directly collect and nurture leads via WhatsApp, using a drip campaign with info packs and EMI calculators.
+
+Goal: Develop a WhatsApp-first lead generation system for affordable housing.
+
+Prompt:
+"You are a real estate digital automation expert. Design a WhatsApp lead generation and follow-up system for affordable housing in Jaipur. Include entry points (QR codes, click-to-chat ads), message flow, follow-up intervals, and lead scoring criteria."
+
+Inputs Required:
+
+Property brochure
+Eligibility criteria
+Sample offers & incentives
+Customer persona
+
+Prompt 3 — NRI Buyer Webinar Campaign
+Backstory:
+An Indian builder is targeting NRIs in the UAE and Singapore for a premium residential project in Pune. They want to host a live webinar with legal advisors and architects to address NRI concerns about investing in India. The main goal is to gather registrations and convert them into high-quality leads post-event through personalized consultation offers.
+
+Goal: Drive at least 200 webinar sign-ups from NRI audiences and convert 10% into sales calls.
+
+Prompt:
+"You are a real estate webinar marketing strategist. Create a cross-platform campaign to attract NRIs for a webinar on Pune property investment. Suggest ad channels, email sequences, landing page copy, and post-webinar nurturing tactics."
+
+Inputs Required:
+
+Webinar date & time
+Speaker bios
+Registration link
+Target countries
+
+Prompt 4 — Co-Working Space Lease Campaign
+Backstory:
+A commercial real estate firm in Bengaluru is launching a new co-working facility near tech parks. They aim to attract startups, freelancers, and SMEs through LinkedIn and performance marketing. The campaign needs to emphasize affordability, flexible terms, and community networking opportunities while competing with established brands like WeWork.
+
+Goal: Generate 100 qualified inquiries in 30 days.
+
+Prompt:
+"You are a commercial space lead generation expert. Design a LinkedIn + Google Ads campaign for a new co-working space in Bengaluru. Include ad copy angles, targeting filters, keyword suggestions, and lead form optimization tips."
+
+Inputs Required:
+
+Price plans
+Amenities list
+Competitor benchmarks
+Photos/videos of space
+
+
