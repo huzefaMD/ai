@@ -1618,3 +1618,452 @@ Target buyer segment (HNI, NRI, domestic tourists)
 Price band for analysis
 Investment model (sale only, sale + rental program)
 
+Prompt 21 —Green Building Market Potential in India
+Backstory:
+
+A sustainable construction company is assessing the market for LEED- and GRIHA-certified green buildings in Tier-1 cities. They need a market size estimate, major developers in the space, buyer willingness to pay a premium, and government incentives available. The report should also forecast demand growth over the next decade.
+
+Goal:
+
+Estimate the potential and growth trajectory of green-certified real estate in India.
+
+Prompt:
+
+"You are a sustainable real estate market analyst. Prepare a report on green building potential in Mumbai, Bengaluru, and Delhi NCR. Cover: 
+
+Current supply and demand 
+Major developers and their projects 
+Premium pricing willingness 
+Government incentives and subsidies 
+10-year demand forecast"
+Inputs Required: 
+
+Cities to analyze 
+Certification standards to focus on (LEED, GRIHA, IGBC) 
+Property type (residential, commercial, mixed-use) 
+Investor or end-user focus
+
+Prompt 22 —Senior Living Housing Trends
+Backstory:
+
+A healthcare-focused developer is evaluating entry into the senior living segment in Coimbatore, Jaipur, and Pune. They want a detailed market study on demand growth, amenity preferences, pricing models (buy vs. lease), and healthcare integration. The report should also assess competitor offerings and customer satisfaction levels.
+
+Goal:
+
+Understand the viability and demand drivers for senior living housing projects in India.
+
+Prompt:
+
+"You are a senior housing market specialist. Prepare a report on senior living trends in Coimbatore, Jaipur, and Pune, covering: 
+
+Market size and demand projections 
+Buyer/renter preferences 
+Pricing and financing models 
+Healthcare tie-up opportunities 
+Competitive landscape"
+Inputs Required: 
+
+Cities to study 
+Age group definition (60+, 55+) 
+Preferred housing format (apartment, villa) 
+Target market (HNI, middle-income)
+
+Prompt 23 —Co-Working Space Growth in Tier-2 Cities
+Backstory:
+
+
+A flexible workspace brand is expanding to cities like Surat, Bhubaneswar, and Chandigarh. They want a study of demand from startups, SMEs, and corporate satellite offices. The report should also evaluate pricing benchmarks, location preferences, and local competition from unorganized players.
+
+Goal:
+
+
+Create a market expansion report for co-working spaces in Tier-2 cities.
+
+Prompt:
+
+
+"You are a flexible workspace researcher. Prepare a report on co-working market trends in Surat, Bhubaneswar, and Chandigarh. Include:  
+
+Demand sources and customer profiles  
+Pricing benchmarks vs. Tier-1 cities  
+Preferred locations within the city  
+Competitive landscape  
+Growth forecast for the next 5 years"
+Inputs Required:  
+
+Cities to analyze  
+Target customer type  
+Preferred workspace size range  
+Budget per seat per month
+
+Prompt 24 —Student Housing Market Potential
+Backstory:
+
+
+A real estate developer wants to build purpose-built student accommodation (PBSA) in cities like Kota, Manipal, and Delhi. They need a market study on demand size, rent ranges, student lifestyle preferences, and potential for tie-ups with universities. The report should also examine operational models and investor returns.
+
+Goal:
+
+
+Evaluate the viability of PBSA in key Indian education hubs.
+
+Prompt:
+
+
+"You are a student housing market analyst. Prepare a market report for PBSA in Kota, Manipal, and Delhi, covering:  
+
+Demand volume and seasonality  
+Rent benchmarks and amenities offered  
+Tie-up opportunities with educational institutions  
+Operational models (managed vs. owner-run)  
+ROI projections"
+Inputs Required:  
+
+Cities to target  
+Target student segment (domestic, international)  
+Minimum bed capacity
+Investment budget
+
+Prompt 25 —Real Estate Investment Trust (REIT) Awareness & Investor Sentiment
+Backstory:
+
+A financial advisory firm is assessing awareness and sentiment towards REIT investments among urban retail investors in India. They want a survey-based market research report analyzing knowledge levels, return expectations, risk perceptions, and preferred property sectors (office, retail, industrial).
+
+Goal:
+
+Measure REIT awareness and investment sentiment in India’s urban investor community.
+
+Prompt:
+
+"You are a financial market researcher. Prepare a survey-driven report on REIT awareness and sentiment in Mumbai, Delhi NCR, and Bengaluru. Include: 
+
+Awareness levels and misconceptions 
+Return and risk expectations 
+Preferred sectors for REIT investment 
+Barriers to participation 
+Recommendations for investor education"
+Inputs Required: 
+
+Target cities 
+Demographic profile (age, income, occupation) 
+Investment amount range 
+REIT sectors to cover
+
+
+Client follow-up scripts
+
+Prompt 1 — Post-Property Visit Follow-Up
+Backstory:
+A real estate agent in Pune has just shown a couple three 2BHK flats in Kharadi and Magarpatta. They seemed interested in one unit but wanted time to discuss financing options. The agent wants to maintain momentum without seeming pushy and also remind them about the limited availability of the flat they liked.
+
+Goal:
+Create a polite, persuasive follow-up script that reinforces interest, addresses potential doubts, and prompts the client to take the next step.
+
+Prompt:
+"You are a sales communication expert. Write a follow-up message for a Pune couple who visited 2BHK flats in Kharadi and Magarpatta. Include:
+
+A thank-you for their time
+A brief reminder of the benefits of the flat they liked
+A mention of limited availability
+An invitation to discuss financing or arrange a second visit"
+Inputs Required:
+
+Client’s first names
+Specific property details
+Key features they liked most
+Availability timeline
+
+Prompt 2 — Financing Options Follow-Up
+Backstory:
+A property consultant in Bengaluru met with a young IT professional interested in a pre-launch apartment but unsure about home loan eligibility. The consultant shared bank tie-up offers during the meeting and now wants to follow up to encourage the client to start the pre-approval process.
+
+Goal:
+Create a follow-up script that highlights the ease of loan processing, reiterates benefits of early booking, and reduces hesitation.
+
+Prompt:
+"You are a property sales advisor. Write a WhatsApp follow-up for a Bengaluru IT professional about pre-launch apartment financing. Include:
+
+Reminder about special bank tie-up offers
+Benefits of early booking (discounts, best unit selection)
+Offer to assist with pre-approval documentation
+A friendly, non-pushy call to action"
+Inputs Required:
+
+Project name and location
+Bank tie-up details
+Offer expiry date
+Client’s preferred communication channel
+
+Prompt 3 — After-Site Visit with Family Follow-Up
+Backstory:
+A Noida broker showed a 3BHK in Sector 150 to a family of four. The family’s parents (decision-makers) are in another city and couldn’t visit, but they took a video tour. The broker wants to follow up, sharing additional photos and highlighting the family-friendly amenities.
+
+Goal:
+Create a warm follow-up message focusing on family needs, lifestyle benefits, and ease of decision-making remotely.
+
+Prompt:
+"You are a property marketing copywriter. Draft a follow-up email for a family who viewed a 3BHK in Noida Sector 150. Include:
+
+Thanks for visiting
+Key family-oriented features (parks, schools nearby, safety)
+Photos/videos for decision-makers not present
+Suggestion for a virtual meeting with the parents"
+Inputs Required:
+
+Family members’ names
+Key amenities discussed
+Property price range
+Next available slots for a virtual meeting
+
+Prompt 4 — Negotiation Stage Follow-Up
+Backstory:
+A property buyer in Chennai has shown interest in a commercial property but requested a price reduction. The agent has managed to secure a small concession from the developer and now wants to update the client, framing it as a win and nudging them to close the deal.
+
+Goal:
+Write a follow-up that presents the new offer positively, emphasizes urgency, and prompts decision-making.
+
+Prompt:
+"You are a property deal-closure strategist. Create a follow-up message for a Chennai client who requested a price drop on a commercial property. Include:
+
+The revised price and savings in a positive tone
+Emphasis on limited-time nature of the offer
+Reminder of the property’s unique advantages
+Clear call-to-action to confirm booking"
+Inputs Required:
+
+Original and revised price
+Offer validity period
+Key selling points of the property
+Booking process steps
+
+Prompt 5 — Festival Offer Follow-Up
+Backstory:
+An Ahmedabad developer launched a Diwali offer on ready-to-move flats, including waived stamp duty and free modular kitchens. The sales team wants to follow up with past leads who had visited the site earlier this year but didn’t book.
+
+Goal:
+Create a festive-themed follow-up that feels warm, not salesy, while emphasizing limited-time perks.
+
+Prompt:
+"You are a festive marketing copywriter. Draft a WhatsApp follow-up for Ahmedabad leads about a Diwali property offer. Include:
+
+A festive greeting
+Clear mention of perks (stamp duty waiver, free kitchen)
+Reminder that these flats are ready-to-move
+Invitation for a revisit or booking"
+Inputs Required:
+
+Festival name
+Offer details and validity date
+Project name and location
+Contact number for RSVP
+
+Prompt 6 — Cold Lead Re-Engagement Follow-Up
+Backstory:
+A Gurugram real estate agent has a database of leads from 8 months ago who stopped responding after initial interest. They want to re-engage these prospects by sharing updates on new projects and market trends that might rekindle interest.
+
+Goal:
+Write a re-engagement script that is informative, relevant, and low-pressure.
+
+Prompt:
+"You are a real estate re-engagement specialist. Create a WhatsApp/email script for Gurugram property leads from 8 months ago. Include:
+
+Friendly check-in
+Brief update on new project launches or market changes
+Invitation to share updated requirements
+Offer for a free market consultation"
+Inputs Required:
+
+Lead names
+Past project(s) they were interested in
+New project highlights
+Market trend insights
+
+Prompt 7 — Post-Registration Follow-Up
+Backstory:
+A buyer in Hyderabad has paid the booking amount for an under-construction flat but hasn’t submitted required KYC and loan documents. The sales coordinator needs to follow up to ensure smooth processing while keeping the tone professional and supportive.
+
+Goal:
+Create a follow-up that motivates document submission quickly without sounding impatient.
+
+Prompt:
+"You are a real estate customer care executive. Write a follow-up email for a Hyderabad buyer who booked an under-construction flat but hasn’t submitted KYC/loan docs. Include:
+
+A warm congratulations on booking
+Reminder of pending documents
+Importance of timely submission for allocation
+Offer of assistance in document collection"
+Inputs Required:
+
+Buyer name
+Booking date and property details
+Pending document list
+Submission deadline
+
+Prompt 8 — Ready-to-Move Urgency Follow-Up
+Backstory:
+A Thane property consultant is selling a ready-to-move apartment complex with only a few units left. A prospective buyer liked a corner flat but is delaying the decision. The consultant wants to create urgency while showing the value of immediate possession.
+
+Goal:
+Encourage quick decision-making by emphasizing scarcity and immediate benefits.
+
+Prompt:
+"You are a real estate urgency strategist. Draft a WhatsApp follow-up for a Thane buyer delaying booking of a ready-to-move corner flat. Include:
+
+Reminder of limited availability
+Immediate benefits of moving in (no rent, festival-ready)
+Offer to hold the unit for a short time
+Gentle call-to-action"
+Inputs Required:
+
+Unit details
+Remaining inventory count
+Immediate possession benefits
+Offer validity
+
+Prompt 9 — Post-Event Follow-Up
+Backstory:
+A property exhibition in Delhi NCR generated multiple leads. One attendee showed strong interest in a luxury golf-course villa but didn’t commit during the event. The sales manager wants to follow up within 48 hours to maintain interest.
+
+Goal:
+Write a follow-up that references the event experience, restates the property’s exclusivity, and offers a private site tour.
+
+Prompt:
+"You are an event-based sales closer. Draft a follow-up for a Delhi NCR attendee who visited a golf-course villa booth. Include:
+
+Thank-you for visiting at the event
+Reminder of the villa’s luxury features
+Offer for an exclusive site tour
+Mention of limited villa availability"
+Inputs Required:
+
+Event name and date
+Property features
+Number of villas available
+Tour booking link or contact
+
+Prompt 10 — Referral Incentive Follow-Up
+Backstory:
+A Bengaluru real estate firm is running a referral program offering cash rewards or gift vouchers for introducing buyers. A past client who bought a flat last year is being contacted to participate.
+
+Goal:
+Encourage past clients to refer friends or family for property purchases.
+
+Prompt:
+"You are a referral marketing specialist. Draft a WhatsApp/email follow-up for a Bengaluru client about a referral program. Include:
+
+Appreciation for being part of the property family
+Details of the referral reward
+Easy steps to share referrals
+Contact for further info"
+Inputs Required:
+
+Past client name
+Reward amount/type
+Eligible projects for referral
+Program end date
+
+Prompt 11 — Post-Brochure Send Follow-Up
+Backstory:
+A Mumbai realtor emailed the e-brochure of a sea-view apartment in Worli to a high-net-worth individual based in Delhi. The client acknowledged receipt but hasn’t responded further. The realtor wants to re-engage, offer a virtual walkthrough, and create urgency by mentioning upcoming price revisions.
+
+Goal:
+Write a persuasive follow-up that references the brochure, offers a next step, and subtly nudges toward a decision.
+
+Prompt:
+"You are a luxury property sales specialist. Draft an email for a Delhi HNI who received a Worli sea-view apartment brochure. Include:
+
+A thank-you for reviewing the brochure
+Offer for a virtual walkthrough
+Mention of an upcoming price revision
+Call-to-action to schedule the walkthrough"
+Inputs Required:
+
+Client’s name
+Property highlights
+Price revision date
+Walkthrough scheduling link
+
+Prompt 12 — After Missed Appointment Follow-Up
+Backstory:
+A Kolkata real estate agent scheduled a site visit for a potential buyer but the client didn’t show up due to a personal emergency. The agent wants to politely reschedule without sounding frustrated, while keeping interest alive.
+
+Goal:
+Create a courteous message that empathizes, offers flexible rescheduling, and maintains excitement.
+
+Prompt:
+"You are a client relationship manager. Write a WhatsApp follow-up for a Kolkata property lead who missed a site visit. Include:
+
+Empathy for their situation
+Flexible rescheduling options
+Quick reminder of property highlights
+Confirmation request for the new date"
+Inputs Required:
+
+Client’s name
+Property location and type
+Available slots
+Key selling points
+
+Prompt 13 — Early-Bird Booking Reminder
+Backstory:
+In Gurugram, a luxury villa project is offering early-bird discounts valid for the first 20 bookings. A client who toured the property last week expressed interest but hasn’t confirmed.
+
+Goal:
+Encourage the client to book before the offer ends, without applying heavy pressure.
+
+Prompt:
+"You are a real estate marketing expert. Draft a follow-up for a Gurugram luxury villa lead. Include:
+
+Warm thank-you for their visit
+Reminder of early-bird discount details
+Mention how many slots are left
+Offer assistance with booking formalities"
+Inputs Required:
+
+Client’s name
+Offer value and expiry
+Current booking count
+Contact details
+
+Prompt 14 — Post-Loan Approval Follow-Up
+Backstory:
+A Pune client’s home loan for a 3BHK in Wakad has been approved. The sales executive needs to follow up to guide them on the next payment milestone and agreement signing.
+
+Goal:
+Provide clear, supportive instructions for next steps.
+
+Prompt:
+"You are a property transaction coordinator. Draft a follow-up email for a Pune client whose loan is approved. Include:
+
+Congratulations on loan approval
+Outline of next payment milestone
+Steps for agreement signing
+Offer to arrange in-person or virtual signing"
+Inputs Required:
+
+Client’s name
+Payment amount and due date
+Agreement details
+Signing options
+
+Prompt 15 — Inventory Update Follow-Up
+Backstory:
+A Hyderabad buyer was considering a specific 2BHK tower that is now 80% sold out. The agent wants to inform them about the fast-moving inventory and encourage early decision-making.
+
+Goal:
+Highlight scarcity and prompt action.
+
+Prompt:
+"You are a property sales strategist. Write a follow-up message for a Hyderabad buyer about fast-selling inventory. Include:
+
+Update on current sales status
+Reminder of the flat they liked
+Offer to assist with quick booking
+Mention of limited remaining units"
+Inputs Required:
+
+Tower number and unit details
+Remaining unit count
+Booking process
+Contact info
+
