@@ -265,3 +265,54 @@ If you're interested in joining the next batch, reply with "AWS" and I'll share 
 
 Thank you.
 ```
+
+### 🔧 Here's Your Improved Prompt
+
+*Notice what I changed and why 👇*
+
+```text
+I need WhatsApp follow-up messages for HuzefAI
+to send to leads after a free AWS webinar.
+
+Here are examples of my WhatsApp message style:
+
+Example 1: (Warm & personal)
+
+"Hey [Name]! 👋 Huzefa here from HuzefAI.
+
+Hope you enjoyed today's session!
+
+You asked some really great questions 🙌
+
+We'd love to have you in our full AWS course.
+
+Any questions? Just reply here!"
+
+Example 2: (Urgency + value)
+
+"Hi [Name]! Quick update — we're closing
+enrollments for this AWS batch by Friday.
+
+Only 5 seats left! 🔥
+
+Full course: hands-on labs + certification
+guidance + placement support.
+
+Want to grab your seat? Reply YES and
+I'll send details! 💪"
+
+Now write 3 WhatsApp follow-up messages for
+students who attended our free AWS webinar
+but haven't enrolled yet.
+
+Requirements:
+- Friendly and conversational
+- Keep each message under 80 words
+- Include a clear call-to-action
+- Use light emojis naturally
+- Focus on value, not pressure
+
+Message 1: Send immediately after the webinar
+Message 2: Send 2 days later
+Message 3: Send on day 5 (final follow-up)
+```
