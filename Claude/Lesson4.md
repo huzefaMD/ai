@@ -87,3 +87,16 @@ Think through this in this order:
 3. What conversion rate do we need to break even?
 4. What's the risk if it doesn't work?
 5. Give your final recommendation.
+
+### Level 3-Socratic CoT
+
+*Ask Claude to challenge its own thinking:*
+
+Should I run paid ads for HuzefAI right now?
+
+Think step by step. After your recommendation,
+argue the opposite view. Then give your
+final balanced conclusion.
+
+Level 3 is incredibly powerful for important decisions - it forces Claude to see
+both sides before concluding.
