@@ -360,3 +360,30 @@ Our course includes:
 
 Interested? Reply and I'll share full details + special webinar pricing! 🎯
 ```
+### 📩 Message 3 — Day 5 Last Nudge
+
+```text
+Hey [Name]!
+
+Last message from me, I promise 😊
+
+Our current AWS batch closes enrollment THIS FRIDAY — only 3 seats remaining! 🔥
+
+I'd hate for you to miss out after attending the webinar and putting in that time.
+
+Here's what you get:
+
+🎯 Complete AWS course — beginner to advanced
+🎯 Real projects for your portfolio
+🎯 Certification prep included
+🎯 Direct access to me as your mentor
+
+Special webinar attendee price expires Friday.
+
+Reply YES right now and I'll hold your seat for 24 hours! 💪
+
+Whatever you decide — keep learning and keep growing! 🚀
+
+– Huzefa
+HuzefAI
+```
