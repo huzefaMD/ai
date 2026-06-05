@@ -220,3 +220,48 @@ Message 1: Send right after the webinar ends
 Message 2: Send 2 days later
 Message 3: Send on day 5 (last nudge)
 ```
+### 📝 Prompt Review
+
+| Element | Your Prompt | Feedback |
+|----------|------------|----------|
+| Structure | ✅ Correct few-shot format | Great job! |
+| Examples given | ✅ 2 examples provided | Good |
+| Task clarity | ✅ 3 messages, clear timing | Perfect |
+| Voice in examples | ⚠️ A bit formal & generic | Could be warmer |
+| Style consistency | ⚠️ Both examples are very similar | Need more variety |
+| Personal touch | ⚠️ No name, no emoji, no urgency | Missing conversion triggers |
+```
+
+### Suggested Improvements
+
+- Add a friendlier, more natural tone.
+- Include a student name placeholder (`[Name]`).
+- Add light urgency where appropriate.
+- Make each example serve a different purpose (thank you, reminder, enrollment).
+- Include your typical WhatsApp style (emoji, greeting, sign-off).
+
+### Better Example Messages
+
+```text
+Example 1:
+Hi [Name],
+
+Thank you for joining our AWS webinar today 😊
+
+I hope you found the session useful and learned something new.
+ If you have any questions about AWS or our training program, feel free to reply to this message.
+
+Team HuzefAI
+```
+
+```text
+Example 2:
+Hi [Name],
+
+Just checking in 😊
+
+Many students who attended the webinar have already started their AWS learning journey with us.
+If you're interested in joining the next batch, reply with "AWS" and I'll share the details.
+
+Thank you.
+```
