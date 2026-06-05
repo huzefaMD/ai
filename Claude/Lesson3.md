@@ -172,3 +172,51 @@ Match examples to the actual task.
 | Why it works | Claude learns your pattern from examples |
 | Best practice | Use real examples in your own voice |
 | Sweet spot | 2–3 examples is usually perfect |
+
+### 💡 Here's Your Starter Template
+
+```text
+I need WhatsApp follow-up messages for HuzefAI
+to send to leads after a free webinar.
+
+Here are examples of my WhatsApp message style:
+
+Example 1:
+[Write a sample WhatsApp message you'd send
+to a student — your real tone/style]
+
+Example 2:
+[Write another sample — maybe a follow-up
+or reminder message]
+
+Now write 3 WhatsApp messages to send to leads
+who attended our free AWS webinar but haven't
+enrolled yet.
+
+Message 1: Send right after the webinar ends
+Message 2: Send 2 days later
+Message 3: Send on day 5 (last nudge)
+```
+
+#### Example Filled Version
+
+```text
+I need WhatsApp follow-up messages for HuzefAI
+to send to leads after a free webinar.
+
+Here are examples of my WhatsApp message style:
+
+Example 1:
+Dear Student, How was the webinar you attended, I hope you enjoyed a lot by learning new tech things in our webinar
+
+Example 2:
+Dear Student, I hope you enjoyed our webinar feel free to ping back if you are interested to join our course
+
+Now write 3 WhatsApp messages to send to leads
+who attended our free AWS webinar but haven't
+enrolled yet.
+
+Message 1: Send right after the webinar ends
+Message 2: Send 2 days later
+Message 3: Send on day 5 (last nudge)
+```
