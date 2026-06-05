@@ -65,3 +65,13 @@ That's a real business decision, reasoned properly!
 | "Think out loud" | When you want full transparency |
 | "Before answering, consider..." | When you want Claude to weigh factors |
 | "What are the pros and cons first?" | Before a recommendation |
+
+## 3 Levels of Chain of Thought
+
+*Level 1-*
+
+*Simple CoT
+Just add "think step by step" to any prompt:*
+
+Should I run paid ads for HuzefAI right now?
+Think step by step before answering.
