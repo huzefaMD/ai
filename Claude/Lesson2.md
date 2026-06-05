@@ -47,8 +47,8 @@ When you assign a role, Claude:
 
 | WITHOUT role | WITH role |
 |-------------|-----------|
-| Generic answer | Specialist answer |
-| Surface-level advice | Deep domain expertise |
-| Cautious & broad | Confident & specific |
-| One perspective | Expert perspective |
+| `Generic answer` | `Specialist answer` |
+| `Surface-level advice` | `Deep domain expertise` |
+| `Cautious & broad `| `Confident & specific` |
+| `One perspective `|` Expert perspective` |
 
