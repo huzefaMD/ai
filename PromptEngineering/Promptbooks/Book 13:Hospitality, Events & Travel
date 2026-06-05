@@ -1842,239 +1842,371 @@ Inputs Required:
 5. Budget for accommodation per night
 
 Prompt 16 — Northeast India Tribal & Cultural Exploration – 12 Days
+
+
 Backstory:
+
 A documentary filmmaker team from Kolkata wants to capture the rich tribal heritage of Northeast India. They are interested in local festivals, traditional crafts, and authentic cuisine. The trip must align with a festival period for richer visuals.
 
 Goal:
+
 Prepare a 12-day itinerary covering tribal culture and nature in Northeast India.
 
 Prompt:
+
 "You are an expert in Northeast Indian travel. Create a 12-day itinerary covering Nagaland, Meghalaya, and Arunachal Pradesh.
 
-Include a local tribal festival.
-Suggest homestays for authentic cultural immersion.
-Add workshops or demonstrations on local crafts.
-Plan routes and best travel modes between states.
-Include key natural attractions like waterfalls and caves."
+1. Include a local tribal festival.
+
+2. Suggest homestays for authentic cultural immersion.
+
+3. Add workshops or demonstrations on local crafts.
+
+4. Plan routes and best travel modes between states.
+
+5. Include key natural attractions like waterfalls and caves."
+
 Inputs Required:
 
-Month of travel
-Festival preference (Hornbill, Wangala, etc.)
-Budget per night
-Interest in trekking (Y/N)
-Number of crew members
+1. Month of travel
+
+2. Festival preference (Hornbill, Wangala, etc.)
+
+3. Budget per night
+
+4.Interest in trekking (Y/N)
+
+5. Number of crew members
 
 Prompt 17 — Kerala Backwaters & Ayurveda Relaxation – 7 Days
+
 Backstory:
+
 A retired couple from Hyderabad wants a slow-paced holiday in Kerala’s backwaters. They wish to spend time on a houseboat, enjoy Ayurvedic massages, and explore local markets. Travel should be comfortable and non-rushed.
 
 Goal:
+
 Create a 7-day backwaters itinerary with wellness focus.
 
 Prompt:
+
 "You are a Kerala travel specialist. Design a 7-day itinerary covering Alleppey, Kumarakom, and Kovalam.
 
-Include at least two nights on a traditional houseboat.
-Add daily Ayurvedic therapies.
-Suggest leisurely market visits for spices and handicrafts.
-Recommend scenic drives and cultural performances.
-Include short village walks along the backwaters."
+1. Include at least two nights on a traditional houseboat.
+
+2. Add daily Ayurvedic therapies.
+
+3. Suggest leisurely market visits for spices and handicrafts.
+
+4. Recommend scenic drives and cultural performances.
+
+5. Include short village walks along the backwaters."
+
 Inputs Required:
 
-Month of travel
-Preference for luxury or standard houseboat
-Interest in seafood (Y/N)
-Mobility limitations (if any)
-Daily budget for wellness treatments
+1. Month of travel
+
+2. Preference for luxury or standard houseboat
+
+3. Interest in seafood (Y/N)
+
+4. Mobility limitations (if any)
+
+5. Daily budget for wellness treatments
 
 Prompt 18 — Golden Triangle + Varanasi Spiritual Extension – 10 Days
+
 Backstory:
+
 A family from London visiting India for the first time wants to see the Golden Triangle but also desires a deeper spiritual connection. They are curious about the Ganges rituals in Varanasi. The itinerary must combine history, architecture, and spirituality.
 
 Goal:
+
 Design a 10-day itinerary combining Delhi, Agra, Jaipur, and Varanasi.
 
 Prompt:
+
 "You are an India inbound travel expert. Create a 10-day itinerary covering Delhi, Agra, Jaipur, and Varanasi.
 
-Include top monuments in each city.
-Suggest local cultural experiences like food walks and handicraft visits.
-Add evening Ganga aarti in Varanasi.
-Recommend reliable intercity train/flight options.
-Allocate rest days for a comfortable pace."
+1. Include top monuments in each city.
+
+2. Suggest local cultural experiences like food walks and handicraft visits.
+
+3. Add evening Ganga aarti in Varanasi.
+
+4. Recommend reliable intercity train/flight options.
+
+5. Allocate rest days for a comfortable pace."
+
 Inputs Required:
 
-Month of travel
-Group size
-Budget per night
-Interest in luxury hotels (Y/N)
-Preferred level of sightseeing intensity
+1. Month of travel
+
+2. Group size
+
+3. Budget per night
+
+4. Interest in luxury hotels (Y/N)
+
+5. Preferred level of sightseeing intensity
 
 Prompt 19 — Goa Beach & Culture Mix – 6 Days
+
 Backstory:
+
 A group of friends from Ahmedabad wants to experience Goa beyond nightlife — including heritage churches, spice plantations, and serene beaches. They prefer a mix of fun and relaxation without crowds.
 
 Goal:
+
 Create a 6-day Goa itinerary balancing beaches and cultural exploration.
 
 Prompt:
+
 "You are a Goa travel planner. Create a 6-day itinerary for North & South Goa.
 
-Include popular and offbeat beaches.
-Suggest heritage sites and churches.
-Add a spice plantation tour.
-Recommend beach shacks and fine dining.
-Include optional water sports."
+1. Include popular and offbeat beaches.
+
+2. Suggest heritage sites and churches.
+
+3. Add a spice plantation tour.
+
+4. Recommend beach shacks and fine dining.
+
+5. Include optional water sports."
+
 Inputs Required:
 
-Month of travel
-Group size
-Interest in adventure sports (Y/N)
-Preference for homestay or resort
-Nightlife interest level
+1. Month of travel
+
+2. Group size
+
+3. Interest in adventure sports (Y/N)
+
+4. Preference for homestay or resort
+
+5. Nightlife interest level
 
 Prompt 20 — Mumbai & Bollywood Experience – 4 Days
+
 Backstory:
+
 A solo traveller from Chennai is a Bollywood enthusiast. They want to explore Mumbai’s film industry while also seeing the city’s cultural landmarks. They have a modest budget but want a guided experience.
 
 Goal:
+
 Prepare a 4-day Mumbai itinerary with Bollywood focus.
 
 Prompt:
+
 "You are a Mumbai tour expert. Create a 4-day itinerary covering Bollywood studios, film city, and iconic city landmarks.
 
-Include guided studio tours.
-Suggest cultural attractions like museums and markets.
-Plan local transport using taxis and metro.
-Recommend budget-friendly eateries.
-Include evening marine drive walk."
+1. Include guided studio tours.
+
+2. Suggest cultural attractions like museums and markets.
+
+3. Plan local transport using taxis and metro.
+
+4. Recommend budget-friendly eateries.
+
+5. Include evening marine drive walk."
+
 Inputs Required:
 
-Month of travel
-Budget per day
-Interest in live theatre (Y/N)
-Preference for private guide (Y/N)
-Photography interest level
+1. Month of travel
+
+2. Budget per day
+
+3. Interest in live theatre (Y/N)
+
+4. Preference for private guide (Y/N)
+
+5. Photography interest level
 
 Prompt 21 — Sikkim & Darjeeling Scenic Escape – 8 Days
+
 Backstory:
+
 A couple from Pune wants a honeymoon trip in the Eastern Himalayas. They want snow-capped mountain views, monasteries, and toy train rides. They prefer premium accommodations and minimal travel stress.
 
 Goal:
+
 Create an 8-day Sikkim & Darjeeling honeymoon itinerary.
 
 Prompt:
+
 "You are a Northeast India honeymoon specialist. Prepare an 8-day itinerary covering Gangtok, Pelling, and Darjeeling.
 
-Include romantic viewpoints and lakes.
-Add monastery visits.
-Suggest a Darjeeling toy train ride.
-Recommend premium hotels with scenic views.
-Include a mix of leisure and sightseeing days."
+1. Include romantic viewpoints and lakes.
+
+2. Add monastery visits.
+
+3. Suggest a Darjeeling toy train ride.
+
+4. Recommend premium hotels with scenic views.
+
+5. Include a mix of leisure and sightseeing days."
+
 Inputs Required:
 
-Month of travel
-Budget per night
-Interest in adventure activities (Y/N)
-Preference for private driver (Y/N)
-Food preferences
+1. Month of travel
+
+2. Budget per night
+
+3. Interest in adventure activities (Y/N)
+
+4. Preference for private driver (Y/N)
+
+5. Food preferences
 
 Prompt 22 — Desert & Salt Flats Photography Tour – 5 Days
+
 Backstory:
+
 A professional photographer from Bengaluru wants to capture Gujarat’s Rann of Kutch during the festival season. They also want to include desert wildlife and local crafts.
 
 Goal:
+
 Design a 5-day Rann of Kutch photography itinerary.
 
 Prompt:
+
 "You are a Gujarat travel expert. Create a 5-day itinerary focused on photography in the Rann of Kutch.
 
-Include sunrise and sunset shoots at the salt flats.
-Add visits to handicraft villages.
-Suggest local wildlife viewing spots.
-Plan festival event coverage.
-Include best accommodation for photographers."
+1. Include sunrise and sunset shoots at the salt flats.
+
+2. Add visits to handicraft villages.
+
+3. Suggest local wildlife viewing spots.
+
+4. Plan festival event coverage.
+
+5. Include best accommodation for photographers."
+
 Inputs Required:
 
-Month of travel
-Camera gear details
-Interest in night photography (Y/N)
-Budget per night
-Festival dates preference
+1. Month of travel
+
+2. Camera gear details
+
+3. Interest in night photography (Y/N)
+
+4. Budget per night
+
+5. Festival dates preference
 
 Prompt 23 — Andaman Islands Diving & Beach Holiday – 7 Days
+
 Backstory:
+
 A group of colleagues from Delhi wants a mix of scuba diving, island hopping, and beach relaxation. They are visiting during winter for pleasant weather.
 
 Goal:
+
 Create a 7-day Andaman itinerary balancing adventure and leisure.
 
 Prompt:
+
 "You are an island travel planner. Prepare a 7-day itinerary for Port Blair, Havelock, and Neil Island.
 
-Include scuba diving and snorkelling sessions.
-Suggest beach relaxation days.
-Add island-hopping tours.
-Plan inter-island ferry schedules.
-Recommend best seafood dining spots."
+1. Include scuba diving and snorkelling sessions.
+
+2. Suggest beach relaxation days.
+
+3. Add island-hopping tours.
+
+4. Plan inter-island ferry schedules.
+
+5. Recommend best seafood dining spots."
+
 Inputs Required:
 
-Month of travel
-Group size
-Diving certification status (Y/N)
-Budget per night
-Interest in trekking (Y/N)
+1. Month of travel
+
+2. Group size
+
+3. Diving certification status (Y/N)
+
+4. Budget per night
+
+5. Interest in trekking (Y/N)
 
 Prompt 24 — Uttarakhand Offbeat Villages & Homestays – 6 Days
+
 Backstory:
+
 A travel blogger from Jaipur wants to feature lesser-known villages in Uttarakhand. They seek authentic homestays, local cuisine, and community interactions.
 
 Goal:
+
 Prepare a 6-day offbeat village itinerary in Uttarakhand.
 
 Prompt:
+
 "You are an Uttarakhand rural tourism expert. Design a 6-day itinerary covering 3–4 offbeat villages.
 
-Include homestays with local families.
-Suggest village walks and cultural exchange activities.
-Add local food tasting experiences.
-Recommend sustainable travel practices.
-Include transport details from nearest city."
+1. Include homestays with local families.
+
+2. Suggest village walks and cultural exchange activities.
+
+3. Add local food tasting experiences.
+
+4. Recommend sustainable travel practices.
+
+5. Include transport details from nearest city."
+
 Inputs Required:
 
-Month of travel
-Blogging niche (food, culture, lifestyle)
-Budget per night
-Number of villages to feature
-Interest in trekking (Y/N)
+1. Month of travel
+
+2. Blogging niche (food, culture, lifestyle)
+
+3. Budget per night
+
+4. Number of villages to feature
+
+5. Interest in trekking (Y/N)
 
 Prompt 25— Heritage Train Journey Across India – 14 Days
+
 Backstory:
+
 A retired couple from Australia wants to explore India through luxury train journeys. They want to combine sightseeing with the comfort of onboard hospitality.
 
 Goal:
+
 Design a 14-day itinerary using luxury trains and selected city tours.
 
 Prompt:
+
 "You are an Indian luxury travel specialist. Create a 14-day itinerary combining Palace on Wheels, Deccan Odyssey, and Golden Chariot routes.
 
-Include off-train excursions.
-Suggest city tours in Delhi, Jaipur, Mumbai, and Goa.
-Plan rest days between journeys.
-Recommend premium pre/post-train hotels.
-Include packing and preparation tips."
+1. Include off-train excursions.
+
+2. Suggest city tours in Delhi, Jaipur, Mumbai, and Goa.
+
+3. Plan rest days between journeys.
+
+4. Recommend premium pre/post-train hotels.
+
+5. Include packing and preparation tips."
+
 Inputs Required:
 
-Month of travel
-Budget per person
-Interest in specific train routes
-Dietary requirements
-Pace preference (fast/slow)
+1. Month of travel
+
+2. Budget per person
+
+3. Interest in specific train routes
+
+4. Dietary requirements
+
+5. Pace preference (fast/slow)
 
 
 Customer feedback & reviews handling
 
 Prompt 1 — Handling Negative Hotel Reviews on Google
+
 Backstory:
 
 A boutique hotel in Jaipur recently received a 2-star review on Google citing slow room service and noisy surroundings. The management wants to respond in a way that addresses the complaint, offers a resolution, and maintains a professional image for future guests reading the review.
@@ -2087,17 +2219,25 @@ Prompt:
 
 "You are the PR and guest relations manager for a boutique hotel in Jaipur. Write a polite, empathetic, and professional response to a 2-star Google review mentioning slow room service and noise disturbance. 
 
-Acknowledge the guest’s concerns sincerely. 
-Apologise for the inconvenience caused. 
-Offer a concrete solution or improvement plan. 
-Invite the guest to revisit with a special discount code. 
-Keep the tone warm, not defensive."
+1. Acknowledge the guest’s concerns sincerely. 
+
+2. Apologise for the inconvenience caused. 
+
+3. Offer a concrete solution or improvement plan. 
+
+4. Invite the guest to revisit with a special discount code. 
+
+5. Keep the tone warm, not defensive."
+
 Inputs Required: 
 
-Guest name (if available) 
-Specific dates of stay 
-Any compensatory offer details 
-Hotel’s unique value points to highlight
+1. Guest name (if available) 
+
+2. Specific dates of stay 
+
+3. Any compensatory offer details 
+
+4. Hotel’s unique value points to highlight
 
 Prompt 2 — Requesting Post-Event Feedback for a Wedding Banquet
 Backstory:
