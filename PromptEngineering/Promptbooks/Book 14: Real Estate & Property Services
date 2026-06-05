@@ -2000,214 +2000,324 @@ Inputs Required:
 4. Availability timeline
 
 Prompt 2 — Financing Options Follow-Up
+
 Backstory:
+
 A property consultant in Bengaluru met with a young IT professional interested in a pre-launch apartment but unsure about home loan eligibility. The consultant shared bank tie-up offers during the meeting and now wants to follow up to encourage the client to start the pre-approval process.
 
 Goal:
+
 Create a follow-up script that highlights the ease of loan processing, reiterates benefits of early booking, and reduces hesitation.
 
 Prompt:
+
 "You are a property sales advisor. Write a WhatsApp follow-up for a Bengaluru IT professional about pre-launch apartment financing. Include:
 
-Reminder about special bank tie-up offers
-Benefits of early booking (discounts, best unit selection)
-Offer to assist with pre-approval documentation
-A friendly, non-pushy call to action"
+1. Reminder about special bank tie-up offers
+
+2. Benefits of early booking (discounts, best unit selection)
+
+3. Offer to assist with pre-approval documentation
+
+4. A friendly, non-pushy call to action"
+
 Inputs Required:
 
-Project name and location
-Bank tie-up details
-Offer expiry date
-Client’s preferred communication channel
+1. Project name and location
+
+2. Bank tie-up details
+
+3. Offer expiry date
+
+4. Client’s preferred communication channel
 
 Prompt 3 — After-Site Visit with Family Follow-Up
+
 Backstory:
+
 A Noida broker showed a 3BHK in Sector 150 to a family of four. The family’s parents (decision-makers) are in another city and couldn’t visit, but they took a video tour. The broker wants to follow up, sharing additional photos and highlighting the family-friendly amenities.
 
 Goal:
+
 Create a warm follow-up message focusing on family needs, lifestyle benefits, and ease of decision-making remotely.
 
 Prompt:
+
 "You are a property marketing copywriter. Draft a follow-up email for a family who viewed a 3BHK in Noida Sector 150. Include:
 
-Thanks for visiting
-Key family-oriented features (parks, schools nearby, safety)
-Photos/videos for decision-makers not present
-Suggestion for a virtual meeting with the parents"
+1. Thanks for visiting
+
+2. Key family-oriented features (parks, schools nearby, safety)
+
+3. Photos/videos for decision-makers not present
+
+4. Suggestion for a virtual meeting with the parents"
+
 Inputs Required:
 
-Family members’ names
-Key amenities discussed
-Property price range
-Next available slots for a virtual meeting
+1. Family members’ names
+
+2. Key amenities discussed
+
+3. Property price range
+
+4. Next available slots for a virtual meeting
 
 Prompt 4 — Negotiation Stage Follow-Up
+
 Backstory:
+
 A property buyer in Chennai has shown interest in a commercial property but requested a price reduction. The agent has managed to secure a small concession from the developer and now wants to update the client, framing it as a win and nudging them to close the deal.
 
 Goal:
+
 Write a follow-up that presents the new offer positively, emphasizes urgency, and prompts decision-making.
 
 Prompt:
+
 "You are a property deal-closure strategist. Create a follow-up message for a Chennai client who requested a price drop on a commercial property. Include:
 
-The revised price and savings in a positive tone
-Emphasis on limited-time nature of the offer
-Reminder of the property’s unique advantages
-Clear call-to-action to confirm booking"
+1. The revised price and savings in a positive tone
+
+2. Emphasis on limited-time nature of the offer
+
+3. Reminder of the property’s unique advantages
+
+4. Clear call-to-action to confirm booking"
+
 Inputs Required:
 
-Original and revised price
-Offer validity period
-Key selling points of the property
-Booking process steps
+1. Original and revised price
+
+2. Offer validity period
+
+3. Key selling points of the property
+
+4. Booking process steps
 
 Prompt 5 — Festival Offer Follow-Up
+
 Backstory:
+
 An Ahmedabad developer launched a Diwali offer on ready-to-move flats, including waived stamp duty and free modular kitchens. The sales team wants to follow up with past leads who had visited the site earlier this year but didn’t book.
 
 Goal:
+
 Create a festive-themed follow-up that feels warm, not salesy, while emphasizing limited-time perks.
 
 Prompt:
+
 "You are a festive marketing copywriter. Draft a WhatsApp follow-up for Ahmedabad leads about a Diwali property offer. Include:
 
-A festive greeting
-Clear mention of perks (stamp duty waiver, free kitchen)
-Reminder that these flats are ready-to-move
-Invitation for a revisit or booking"
+1. A festive greeting
+
+2. Clear mention of perks (stamp duty waiver, free kitchen)
+
+3. Reminder that these flats are ready-to-move
+
+4. Invitation for a revisit or booking"
+
 Inputs Required:
 
-Festival name
-Offer details and validity date
-Project name and location
-Contact number for RSVP
+1. Festival name
+
+2. Offer details and validity date
+
+3. Project name and location
+
+4. Contact number for RSVP
 
 Prompt 6 — Cold Lead Re-Engagement Follow-Up
+
 Backstory:
+
 A Gurugram real estate agent has a database of leads from 8 months ago who stopped responding after initial interest. They want to re-engage these prospects by sharing updates on new projects and market trends that might rekindle interest.
 
 Goal:
+
 Write a re-engagement script that is informative, relevant, and low-pressure.
 
 Prompt:
+
 "You are a real estate re-engagement specialist. Create a WhatsApp/email script for Gurugram property leads from 8 months ago. Include:
 
-Friendly check-in
-Brief update on new project launches or market changes
-Invitation to share updated requirements
-Offer for a free market consultation"
+1. Friendly check-in
+
+2. Brief update on new project launches or market changes
+
+3. Invitation to share updated requirements
+
+4. Offer for a free market consultation"
+
 Inputs Required:
 
-Lead names
-Past project(s) they were interested in
-New project highlights
-Market trend insights
+1. Lead names
+
+2. Past project(s) they were interested in
+
+3. New project highlights
+
+4. Market trend insights
 
 Prompt 7 — Post-Registration Follow-Up
+
 Backstory:
+
 A buyer in Hyderabad has paid the booking amount for an under-construction flat but hasn’t submitted required KYC and loan documents. The sales coordinator needs to follow up to ensure smooth processing while keeping the tone professional and supportive.
 
 Goal:
+
 Create a follow-up that motivates document submission quickly without sounding impatient.
 
 Prompt:
+
 "You are a real estate customer care executive. Write a follow-up email for a Hyderabad buyer who booked an under-construction flat but hasn’t submitted KYC/loan docs. Include:
 
-A warm congratulations on booking
-Reminder of pending documents
-Importance of timely submission for allocation
-Offer of assistance in document collection"
+1. A warm congratulations on booking
+
+2. Reminder of pending documents
+
+3. Importance of timely submission for allocation
+
+4. Offer of assistance in document collection"
+
 Inputs Required:
 
-Buyer name
-Booking date and property details
-Pending document list
-Submission deadline
+1. Buyer name
+
+2. Booking date and property details
+
+3. Pending document list
+
+4. Submission deadline
 
 Prompt 8 — Ready-to-Move Urgency Follow-Up
+
 Backstory:
+
 A Thane property consultant is selling a ready-to-move apartment complex with only a few units left. A prospective buyer liked a corner flat but is delaying the decision. The consultant wants to create urgency while showing the value of immediate possession.
 
 Goal:
+
 Encourage quick decision-making by emphasizing scarcity and immediate benefits.
 
 Prompt:
+
 "You are a real estate urgency strategist. Draft a WhatsApp follow-up for a Thane buyer delaying booking of a ready-to-move corner flat. Include:
 
-Reminder of limited availability
-Immediate benefits of moving in (no rent, festival-ready)
-Offer to hold the unit for a short time
-Gentle call-to-action"
+1. Reminder of limited availability
+
+2. Immediate benefits of moving in (no rent, festival-ready)
+
+3. Offer to hold the unit for a short time
+
+4. Gentle call-to-action"
+
 Inputs Required:
 
-Unit details
-Remaining inventory count
-Immediate possession benefits
-Offer validity
+1. Unit details
+
+2. Remaining inventory count
+
+3. Immediate possession benefits
+
+4. Offer validity
 
 Prompt 9 — Post-Event Follow-Up
+
 Backstory:
+
 A property exhibition in Delhi NCR generated multiple leads. One attendee showed strong interest in a luxury golf-course villa but didn’t commit during the event. The sales manager wants to follow up within 48 hours to maintain interest.
 
 Goal:
+
 Write a follow-up that references the event experience, restates the property’s exclusivity, and offers a private site tour.
 
 Prompt:
+
 "You are an event-based sales closer. Draft a follow-up for a Delhi NCR attendee who visited a golf-course villa booth. Include:
 
-Thank-you for visiting at the event
-Reminder of the villa’s luxury features
-Offer for an exclusive site tour
-Mention of limited villa availability"
+1. Thank-you for visiting at the event
+
+2. Reminder of the villa’s luxury features
+
+3. Offer for an exclusive site tour
+
+4. Mention of limited villa availability"
+
 Inputs Required:
 
-Event name and date
-Property features
-Number of villas available
-Tour booking link or contact
+1. Event name and date
+
+2. Property features
+
+3. Number of villas available
+
+4. Tour booking link or contact
 
 Prompt 10 — Referral Incentive Follow-Up
+
 Backstory:
+
 A Bengaluru real estate firm is running a referral program offering cash rewards or gift vouchers for introducing buyers. A past client who bought a flat last year is being contacted to participate.
 
 Goal:
+
 Encourage past clients to refer friends or family for property purchases.
 
 Prompt:
+
 "You are a referral marketing specialist. Draft a WhatsApp/email follow-up for a Bengaluru client about a referral program. Include:
 
-Appreciation for being part of the property family
-Details of the referral reward
-Easy steps to share referrals
-Contact for further info"
+1. Appreciation for being part of the property family
+
+2. Details of the referral reward
+
+3. Easy steps to share referrals
+
+4. Contact for further info"
+
 Inputs Required:
 
-Past client name
-Reward amount/type
-Eligible projects for referral
-Program end date
+1. Past client name
+
+2. Reward amount/type
+
+3. Eligible projects for referral
+
+4. Program end date
 
 Prompt 11 — Post-Brochure Send Follow-Up
+
 Backstory:
+
 A Mumbai realtor emailed the e-brochure of a sea-view apartment in Worli to a high-net-worth individual based in Delhi. The client acknowledged receipt but hasn’t responded further. The realtor wants to re-engage, offer a virtual walkthrough, and create urgency by mentioning upcoming price revisions.
 
 Goal:
+
 Write a persuasive follow-up that references the brochure, offers a next step, and subtly nudges toward a decision.
 
 Prompt:
+
 "You are a luxury property sales specialist. Draft an email for a Delhi HNI who received a Worli sea-view apartment brochure. Include:
 
-A thank-you for reviewing the brochure
-Offer for a virtual walkthrough
-Mention of an upcoming price revision
-Call-to-action to schedule the walkthrough"
+1. A thank-you for reviewing the brochure
+
+2. Offer for a virtual walkthrough
+
+3. Mention of an upcoming price revision
+
+4. Call-to-action to schedule the walkthrough"
+
 Inputs Required:
 
-Client’s name
-Property highlights
-Price revision date
-Walkthrough scheduling link
+1. Client’s name
+
+2. Property highlights
+
+3. Price revision date
+
+4. Walkthrough scheduling link
 
 Prompt 12 — After Missed Appointment Follow-Up
 Backstory:
