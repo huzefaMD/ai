@@ -2320,237 +2320,359 @@ Inputs Required:
 4. Walkthrough scheduling link
 
 Prompt 12 — After Missed Appointment Follow-Up
+
 Backstory:
+
 A Kolkata real estate agent scheduled a site visit for a potential buyer but the client didn’t show up due to a personal emergency. The agent wants to politely reschedule without sounding frustrated, while keeping interest alive.
 
 Goal:
+
 Create a courteous message that empathizes, offers flexible rescheduling, and maintains excitement.
 
 Prompt:
+
 "You are a client relationship manager. Write a WhatsApp follow-up for a Kolkata property lead who missed a site visit. Include:
 
-Empathy for their situation
-Flexible rescheduling options
-Quick reminder of property highlights
-Confirmation request for the new date"
+1. Empathy for their situation
+
+2. Flexible rescheduling options
+
+3. Quick reminder of property highlights
+
+4. Confirmation request for the new date"
+
 Inputs Required:
 
-Client’s name
-Property location and type
-Available slots
-Key selling points
+1. Client’s name
+
+2. Property location and type
+
+3. Available slots
+
+4. Key selling points
 
 Prompt 13 — Early-Bird Booking Reminder
+
 Backstory:
+
 In Gurugram, a luxury villa project is offering early-bird discounts valid for the first 20 bookings. A client who toured the property last week expressed interest but hasn’t confirmed.
 
 Goal:
+
 Encourage the client to book before the offer ends, without applying heavy pressure.
 
 Prompt:
+
 "You are a real estate marketing expert. Draft a follow-up for a Gurugram luxury villa lead. Include:
 
-Warm thank-you for their visit
-Reminder of early-bird discount details
-Mention how many slots are left
-Offer assistance with booking formalities"
+1. Warm thank-you for their visit
+
+2. Reminder of early-bird discount details
+
+3. Mention how many slots are left
+
+4. Offer assistance with booking formalities"
+
 Inputs Required:
 
-Client’s name
-Offer value and expiry
-Current booking count
-Contact details
+1. Client’s name
+
+2. Offer value and expiry
+
+3. Current booking count
+
+4. Contact details
 
 Prompt 14 — Post-Loan Approval Follow-Up
+
 Backstory:
+
 A Pune client’s home loan for a 3BHK in Wakad has been approved. The sales executive needs to follow up to guide them on the next payment milestone and agreement signing.
 
 Goal:
+
 Provide clear, supportive instructions for next steps.
 
 Prompt:
+
 "You are a property transaction coordinator. Draft a follow-up email for a Pune client whose loan is approved. Include:
 
-Congratulations on loan approval
-Outline of next payment milestone
-Steps for agreement signing
-Offer to arrange in-person or virtual signing"
+1. Congratulations on loan approval
+
+2. Outline of next payment milestone
+
+3. Steps for agreement signing
+
+4. Offer to arrange in-person or virtual signing"
+
 Inputs Required:
 
-Client’s name
-Payment amount and due date
-Agreement details
-Signing options
+1. Client’s name
+
+2. Payment amount and due date
+
+3. Agreement details
+
+4. Signing options
 
 Prompt 15 — Inventory Update Follow-Up
+
 Backstory:
+
 A Hyderabad buyer was considering a specific 2BHK tower that is now 80% sold out. The agent wants to inform them about the fast-moving inventory and encourage early decision-making.
 
 Goal:
+
 Highlight scarcity and prompt action.
 
 Prompt:
+
 "You are a property sales strategist. Write a follow-up message for a Hyderabad buyer about fast-selling inventory. Include:
 
-Update on current sales status
-Reminder of the flat they liked
-Offer to assist with quick booking
-Mention of limited remaining units"
+1. Update on current sales status
+
+2. Reminder of the flat they liked
+
+3. Offer to assist with quick booking
+
+4. Mention of limited remaining units"
+
 Inputs Required:
 
-Tower number and unit details
-Remaining unit count
-Booking process
-Contact info
+1. Tower number and unit details
+
+2. Remaining unit count
+
+3. Booking process
+
+4. Contact info
 
 Prompt 16 — Post-Interior Design Meeting Follow-Up
+
 Backstory:
+
 A Bangalore client met with the developer’s in-house interior team to discuss customization options for their booked apartment. The sales team wants to follow up to see if they’re ready to finalize the design package.
 
 Goal:
+
 Encourage closure on interior package selection.
 
 Prompt:
+
 "You are an interior sales follow-up specialist. Create a follow-up email for a Bangalore client post-design meeting. Include:
 
-Appreciation for attending
-Recap of customization discussed
-Deadline for finalizing choices
-Offer of further consultation"
+1. Appreciation for attending
+
+2. Recap of customization discussed
+
+3. Deadline for finalizing choices
+
+4. Offer of further consultation"
+
 Inputs Required:
 
-Client’s name
-Selected package details
-Finalization deadline
-Designer’s contact info
+1. Client’s name
+
+2. Selected package details
+
+3. Finalization deadline
+
+4. Designer’s contact info
 
 Prompt 17 — Open House Event Follow-Up
+
 Backstory:
+
 A Delhi builder hosted an open house for a new luxury apartment complex. A visitor showed strong interest but wanted to consult family before committing.
 
 Goal:
+
 Re-engage the lead post-event and invite them for a private viewing.
 
 Prompt:
+
 "You are an event lead conversion specialist. Write a follow-up for a Delhi open house visitor. Include:
 
-Thank-you for attending
-Recap of key features they liked
-Invitation for private viewing with family
-Contact for booking"
+1. Thank-you for attending
+
+2. Recap of key features they liked
+
+3. Invitation for private viewing with family
+
+4. Contact for booking"
+
 Inputs Required:
 
-Visitor’s name
-Property highlights
-Viewing availability
-Contact info
+1. Visitor’s name
+
+2. Property highlights
+
+3. Viewing availability
+
+4. Contact info
 
 Prompt 18 — Anniversary Follow-Up
+
 Backstory:
+
 It’s been one year since a Mumbai client purchased a flat through an agent. The agent wants to check in, ask for feedback, and subtly inquire about referrals.
 
 Goal:
+
 Strengthen relationship and open referral opportunities.
 
 Prompt:
+
 "You are a relationship-building property agent. Draft a follow-up for a Mumbai client’s purchase anniversary. Include:
 
-Congratulations on the anniversary
-Inquiry about their experience
-Gentle introduction to referral program
-Invitation to connect"
+1. Congratulations on the anniversary
+
+2. Inquiry about their experience
+
+3. Gentle introduction to referral program
+
+4. Invitation to connect"
+
 Inputs Required:
 
-Client’s name
-Purchase date
-Referral offer details
-Contact info
+1. Client’s name
+
+2. Purchase date
+
+3. Referral offer details
+
+4. Contact info
 
 Prompt 19 — Investment Opportunity Follow-Up
+
 Backstory:
+
 A Bengaluru NRI lead showed interest in a commercial property but went silent. The sales agent wants to follow up with updated ROI projections and recent market data.
 
 Goal:
+
 Reignite investment interest with fresh data.
 
 Prompt:
+
 "You are a property investment consultant. Create a follow-up for a Bengaluru NRI lead about a commercial property. Include:
 
-ROI projections
-Market trends update
-Invitation to discuss in detail
-Contact for scheduling call"
+1. ROI projections
+
+2. Market trends update
+
+3. Invitation to discuss in detail
+
+4. Contact for scheduling call"
+
 Inputs Required:
 
-Lead’s name
-Updated ROI figures
-Market news
-Contact info
+1. Lead’s name
+
+2. Updated ROI figures
+
+3. Market news
+
+4. Contact info
 
 Prompt  20— Document Submission Delay Follow-Up
+
 Backstory:
+
 A Chennai client booked a property but hasn’t submitted certain legal documents for registration due to travel. The sales manager wants to follow up politely while stressing importance.
 
 Goal:
+
 Encourage timely submission without creating stress.
 
 Prompt:
+
 "You are a property legal liaison. Draft a follow-up for a Chennai client with pending registration documents. Include:
 
-Reminder of pending documents
-Importance of timely submission
-Offer to arrange courier or pickup
-Contact for confirmation"
+1. Reminder of pending documents
+
+2. Importance of timely submission
+
+3. Offer to arrange courier or pickup
+
+4. Contact for confirmation"
+
 Inputs Required:
 
-Client’s name
-Document list
-Submission deadline
-Assistance options
+1. Client’s name
+
+2. Document list
+
+3. Submission deadline
+
+4. Assistance options
 
 Prompt21 — Price Hike Alert Follow-Up
+
 Backstory:
+
 A Noida residential project is set for a price hike next month. A lead visited last month but hasn’t booked.
 
 Goal:
+
 Inform about the hike and encourage booking before it.
 
 Prompt:
+
 "You are a property sales closer. Write a follow-up for a Noida lead about upcoming price hike. Include:
 
-Reminder of visit
-Date and percentage of hike
-Benefits of booking now
-Contact for quick booking"
+1. Reminder of visit
+
+2. Date and percentage of hike
+
+3. Benefits of booking now
+
+4. Contact for quick booking"
+
 Inputs Required:
 
-Lead’s name
-Price hike details
-Booking process
-Contact info
+1. Lead’s name
+
+2. Price hike details
+
+3. Booking process
+
+4. Contact info
 
 Prompt  22— Site Visit Feedback Follow-Up
+
 Backstory:
+
 After a site visit in Ahmedabad, a couple gave positive verbal feedback but hasn’t progressed. The agent wants to capture written feedback and use it to guide next steps.
 
 Goal:
+
 Request written feedback and re-engage interest.
 
 Prompt:
+
 "You are a client engagement expert. Draft a follow-up for an Ahmedabad couple post-site visit. Include:
 
-Thank-you for visiting
-Request for written feedback
-Offer to address any queries
-Contact info"
+1. Thank-you for visiting
+
+2. Request for written feedback
+
+3. Offer to address any queries
+
+4. Contact info"
+
 Inputs Required:
 
-Couple’s names
-Visit date
-Feedback form link
-Contact info
+1. Couple’s names
+
+2. Visit date
+
+3. Feedback form link
+
+4. Contact info
 
 Prompt 23 — Virtual Tour Follow-Up
+
 Backstory:
 
 A Hyderabad buyer attended a virtual tour for an under-construction flat but hasn’t followed up. The agent wants to check interest and offer an in-person visit.
@@ -2563,58 +2685,87 @@ Prompt:
 
 "You are a virtual-to-physical sales converter. Draft a follow-up for a Hyderabad lead post-virtual tour. Include: 
 
-Thanks for attending 
-Reminder of features they liked 
-Offer for site visit with flexible timing 
-Contact for booking"
+1. Thanks for attending 
+
+2. Reminder of features they liked 
+
+3. Offer for site visit with flexible timing 
+
+4. Contact for booking"
+
 Inputs Required: 
 
-Lead’s name
-Property highlights
-Site visit availability
-Contact info
+1. Lead’s name
+
+2. Property highlights
+
+3. Site visit availability
+
+4. Contact info
 
 Prompt 24 — Limited Floor Availability Follow-Up
+
 Backstory:
+
 In a Thane high-rise project, only a few units remain on higher floors. A buyer earlier expressed preference for top floors.
 
 Goal:
+
 Prompt decision before options vanish.
 
 Prompt:
+
 "You are a property urgency copywriter. Draft a follow-up for a Thane lead about limited top-floor units. Include:
 
-Reminder of their preference
-Current availability
-Benefits of booking now
-Contact info"
+1. Reminder of their preference
+
+2. Current availability
+
+3. Benefits of booking now
+
+4. Contact info"
+
 Inputs Required:
 
-Lead’s name
-Remaining unit count
-Benefits of higher floors
-Contact info
+1. Lead’s name
+
+2. Remaining unit count
+
+3. Benefits of higher floors
+
+4. Contact info
 
 Prompt 25 — Post-Booking Cross-Sell Follow-Up
+
 Backstory:
+
 A Pune client booked a flat in a gated community that also has plots for sale. The sales team wants to follow up to cross-sell a plot as an investment.
 
 Goal:
+
 Encourage additional purchase with investment angle.
 
 Prompt:
+
 "You are a cross-selling property advisor. Draft a follow-up for a Pune client who booked a flat, offering plots in same community. Include:
 
-Congratulations on booking
-Benefits of plot investment
-Limited availability
-Contact for details"
+1. Congratulations on booking
+
+2. Benefits of plot investment
+
+3. Limited availability
+
+4. Contact for details"
+
 Inputs Required:
 
-Client’s name
-Plot size and price
-ROI potential
-Contact info
+1. Client’s name
+
+2. Plot size and price
+
+3. ROI potential
+
+4. Contact info
 
 
 Legal document summaries
