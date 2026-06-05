@@ -2240,47 +2240,69 @@ Inputs Required:
 4. Hotel’s unique value points to highlight
 
 Prompt 2 — Requesting Post-Event Feedback for a Wedding Banquet
+
 Backstory:
+
 A luxury resort in Goa hosted a destination wedding for an NRI family. They want to collect detailed feedback on the banquet services, decoration, and guest experience to improve future events and build testimonials.
 
 Goal:
+
 Write a personalised follow-up email requesting feedback and potential testimonials.
 
 Prompt:
+
 "You are the events coordinator for a luxury resort in Goa. Draft a warm, personalised follow-up email to the wedding hosts asking for feedback on banquet arrangements, décor, food quality, and guest experience.
 
-Express gratitude for choosing the resort.
-Mention memorable highlights from the event.
-Provide a direct link to the feedback form.
-Request permission to use positive comments as testimonials."
+1. Express gratitude for choosing the resort.
+
+2. Mention memorable highlights from the event.
+
+3. Provide a direct link to the feedback form.
+
+4. Request permission to use positive comments as testimonials."
+
 Inputs Required:
 
-Host’s name
-Event date
-Any unique service provided during the wedding
-Contact method (email/WhatsApp)
+1. Host’s name
+
+2. Event date
+
+3. Any unique service provided during the wedding
+
+4. Contact method (email/WhatsApp)
 
 Prompt 3 — Automating Guest Review Requests via WhatsApp
+
 Backstory:
+
 A mid-sized hotel chain in Kerala wants to automate their review collection process. They plan to send a short, friendly WhatsApp message post-checkout with a direct Google review link.
 
 Goal:
+
 Write an engaging, mobile-friendly WhatsApp template for automated review requests.
 
 Prompt:
+
 "You are a hotel marketing copywriter. Create a short, warm WhatsApp template to request reviews from guests post-checkout.
 
-Keep it under 3 sentences.
-Include the guest’s first name dynamically.
-Provide a clickable Google review link.
-Use friendly emojis without being unprofessional."
+1. Keep it under 3 sentences.
+
+2. Include the guest’s first name dynamically.
+
+3. Provide a clickable Google review link.
+
+4. Use friendly emojis without being unprofessional."
+
 Inputs Required:
 
-Hotel name
-Review link
-Personalisation token for guest’s first name
+1. Hotel name
+
+2. Review link
+
+3. Personalisation token for guest’s first name
 
 Prompt 4 — Managing Mixed Reviews for a Corporate Event Venue
+
 Backstory:
 
 A convention centre in Bengaluru hosted a corporate seminar for 300 attendees. Some praised the facilities, but others complained about the parking space and air-conditioning. The venue wants to publicly address both the positives and the negatives in a single reply.
@@ -2293,247 +2315,365 @@ Prompt:
 
 "You are the corporate communications lead for a Bengaluru convention centre. Draft a public response to a mixed review that: 
 
-Thanks the reviewer for highlighting the positives. 
-Acknowledges the negative points without defensiveness. 
-Shares plans for improvement in parking and AC. 
-Ends with an open invitation to future events."
+1. Thanks the reviewer for highlighting the positives. 
+
+2. Acknowledges the negative points without defensiveness. 
+
+3. Shares plans for improvement in parking and AC. 
+
+4. Ends with an open invitation to future events."
+
 Inputs Required: 
 
-Reviewer’s name (if available) 
-Event date 
-Facility upgrades already planned
+1. Reviewer’s name (if available) 
+
+2. Event date 
+
+3. Facility upgrades already planned
 
 Prompt 5 — Social Media Post Showcasing Guest Testimonials
+
 Backstory:
+
 A luxury wildlife resort in Ranthambore has collected several glowing guest reviews over the past month. They want to create a carousel post on Instagram showcasing these testimonials with appealing visuals.
 
 Goal:
+
 Write engaging captions and visual layout suggestions for a testimonial carousel post.
 
 Prompt:
+
 "You are the social media manager for a luxury wildlife resort. Create a carousel post plan for Instagram featuring 4 guest testimonials.
 
-Suggest captions for each slide.
-Include call-to-action for bookings.
-Recommend high-quality images to pair with text.
-Maintain an adventurous, nature-inspired tone."
+1. Suggest captions for each slide.
+
+2. Include call-to-action for bookings.
+
+3. Recommend high-quality images to pair with text.
+
+4. Maintain an adventurous, nature-inspired tone."
+
 Inputs Required:
 
-Exact testimonial text
-Resort’s Instagram handle
-Brand colour scheme for post design
+1. Exact testimonial text
+
+2. Resort’s Instagram handle
+
+3. Brand colour scheme for post design
 
 Prompt 6 — Responding to a Positive Guest Review on TripAdvisor
+
 Backstory:
+
 A beachfront resort in Varkala just received a glowing 5-star TripAdvisor review from a honeymoon couple praising the candlelight dinner setup, ocean views, and spa treatments. Management wants to reply publicly to strengthen their brand image.
 
 Goal:
+
 Craft a warm, personal, and brand-consistent public reply to a 5-star TripAdvisor review.
 
 Prompt:
+
 "You are the guest experience manager for a luxury beachfront resort in Varkala. Write a personalised public response to a 5-star TripAdvisor review from a honeymoon couple who praised the candlelight dinner, ocean view rooms, and spa.
 
-Address them by name.
-Reflect back their compliments.
-Mention your delight in being part of their special occasion.
-Invite them to return for an anniversary stay with a special offer."
+1. Address them by name.
+
+2. Reflect back their compliments.
+
+3. Mention your delight in being part of their special occasion.
+
+4. Invite them to return for an anniversary stay with a special offer."
+
 Inputs Required:
 
-Reviewer’s name
-Exact review text
-Special return guest offers
+1. Reviewer’s name
+
+2. Exact review text
+
+3. Special return guest offers
 
 Prompt 7 — Drafting a Crisis Response for Viral Negative Review
+
 Backstory:
+
 A viral social media post claims poor hygiene at a restaurant within a luxury hotel in Delhi. The hotel wants to address it promptly before it harms bookings.
 
 Goal:
+
 Write a formal, reassuring crisis response addressing a hygiene-related viral complaint.
 
 Prompt:
+
 "You are the PR head for a luxury hotel in Delhi. Draft a public statement addressing a viral social media post about poor hygiene at your in-house restaurant.
 
-State your commitment to high standards.
-Outline immediate steps taken to investigate.
-Mention third-party hygiene checks.
-Invite the complainant to connect offline to resolve."
+1. State your commitment to high standards.
+
+2. Outline immediate steps taken to investigate.
+
+3. Mention third-party hygiene checks.
+
+4. Invite the complainant to connect offline to resolve."
+
 Inputs Required:
 
-Exact nature of complaint
-Hygiene certification details
-Steps taken for damage control
+1. Exact nature of complaint
+
+2. Hygiene certification details
+
+3. Steps taken for damage control
 
 Prompt 8 — Email Request for Corporate Client Feedback Post-Conference
+
 Backstory:
+
 A 5-star hotel in Hyderabad hosted an international business conference for a major IT company. They want to collect formal feedback to improve their corporate event services.
 
 Goal:
+
 Draft a professional post-event email requesting structured corporate feedback.
 
 Prompt:
+
 "You are the corporate liaison for a luxury hotel in Hyderabad. Create a follow-up email to the organiser of an international business conference requesting structured feedback.
 
-Thank them for choosing your venue.
-Attach/Link a detailed feedback form.
-Ask for ratings on specific areas like AV setup, catering, and staff responsiveness.
-Mention your intent to share an improvement plan."
+1. Thank them for choosing your venue.
+
+2. Attach/Link a detailed feedback form.
+
+3. Ask for ratings on specific areas like AV setup, catering, and staff responsiveness.
+
+4. Mention your intent to share an improvement plan."
+
 Inputs Required:
 
-Client’s name
-Event details
-Feedback form link
+1. Client’s name
+
+2. Event details
+
+3. Feedback form link
 
 Prompt 9 — Polite Reply to a Short, Vague Review
+
 Backstory:
+
 A guest left a 3-star review on Booking.com with only the words “It was okay.” The hotel wants to respond in a way that opens the door for private feedback and shows public professionalism.
 
 Goal:
+
 Write a short, professional response to a vague review inviting further discussion.
 
 Prompt:
+
 "You are the online reputation manager for a 4-star business hotel in Pune. Draft a response to a vague 3-star review that:
 
-Thanks the guest for staying.
-Acknowledges their rating.
-Politely invites them to share more feedback privately.
-Shows commitment to guest satisfaction."
+1. Thanks the guest for staying.
+
+2. Acknowledges their rating.
+
+3. Politely invites them to share more feedback privately.
+
+4. Shows commitment to guest satisfaction."
+
 Inputs Required:
 
-Reviewer’s name
-Contact email for feedback follow-up
+1. Reviewer’s name
+
+2. Contact email for feedback follow-up
 
 Prompt 10 — Encouraging Reviews in Regional Languages
+
 Backstory:
+
 A resort in Coorg wants to increase visibility among Kannada-speaking travellers by encouraging reviews in Kannada.
 
 Goal:
+
 Create a culturally warm message encouraging regional language reviews.
 
 Prompt:
+
 "You are the marketing manager for a resort in Coorg. Write a warm message encouraging guests to leave reviews in Kannada on Google and TripAdvisor.
 
-Highlight that local language reviews help fellow travellers.
-Keep tone friendly and inclusive.
-Provide step-by-step instructions if needed."
+1. Highlight that local language reviews help fellow travellers.
+
+2. Keep tone friendly and inclusive.
+
+3. Provide step-by-step instructions if needed."
+
 Inputs Required:
 
-Review platform links
-Guest name if personalising
+1. Review platform links
+
+2. Guest name if personalising
 
 Prompt 11 — Responding to a Review with Incorrect Information
+
 Backstory:
+
 A guest posted a 1-star review on MakeMyTrip claiming the hotel charged for Wi-Fi, but Wi-Fi is free. Management needs to correct this without sounding argumentative.
 
 Goal:
+
 Politely clarify incorrect information in a review while keeping tone respectful.
 
 Prompt:
+
 "You are the guest relations head for a boutique hotel in Shimla. Draft a reply to a review that incorrectly states your hotel charges for Wi-Fi.
 
-Thank them for feedback.
-Politely clarify that Wi-Fi is complimentary.
-Invite them to revisit and enjoy improved service."
+1. Thank them for feedback.
+
+2. Politely clarify that Wi-Fi is complimentary.
+
+3. Invite them to revisit and enjoy improved service."
+
 Inputs Required:
 
-Review text
-Reviewer name
-Hotel’s Wi-Fi policy
+1. Review text
+
+2. Reviewer name
+
+3. Hotel’s Wi-Fi policy
 
 Prompt 12 — Social Media Graphic Caption for Review Highlights
+
 Backstory:
+
 A luxury train travel company wants to post passenger review highlights as Instagram stories with aesthetic templates.
 
 Goal:
+
 Create catchy captions for positive review highlights for Instagram stories.
 
 Prompt:
+
 "You are the social media content lead for a luxury train service in India. Write short, catchy captions (max 8 words) for Instagram story slides featuring positive passenger review snippets.
 
-Match tone to luxury travel branding.
-Include emojis sparingly.
-Encourage users to swipe up to book."
+1. Match tone to luxury travel branding.
+
+2. Include emojis sparingly.
+
+3. Encourage users to swipe up to book."
+
 Inputs Required:
 
-Exact review snippets
-Brand tone guide
+1. Exact review snippets
+
+2. Brand tone guide
 
 Prompt 13 — Template for Responding to a Mixed Review
+
 Backstory:
+
 A heritage hotel in Jaipur receives a 4-star Google review where the guest praises the royal architecture and breakfast but complains about slow check-in. The hotel wants to acknowledge the praise while addressing the issue constructively.
 
 Goal:
+
 Write a balanced and appreciative response to a mixed review, showing gratitude and willingness to improve.
 
 Prompt:
+
 "You are the guest relations manager of a heritage hotel in Jaipur. Draft a reply to a 4-star review that praises your architecture and breakfast but mentions slow check-in.
 
-Start by thanking the guest by name.
-Highlight their positive feedback.
-Address the check-in concern with an apology and mention corrective steps.
-Invite them back for a smoother experience."
+1. Start by thanking the guest by name.
+
+2. Highlight their positive feedback.
+
+3. Address the check-in concern with an apology and mention corrective steps.
+
+4. Invite them back for a smoother experience."
+
 Inputs Required:
 
-Reviewer’s name
-Exact review content
-Actions taken to improve check-in
+1. Reviewer’s name
+
+2. Exact review content
+
+3. Actions taken to improve check-in
 
 Prompt 14 — Thank You Message for Repeat Guests’ Review
+
 Backstory:
+
 A family who has stayed three times at a Goa beachfront property leaves a heartfelt review appreciating consistent service over the years.
 
 Goal:
+
 Write a warm, loyal-guest appreciation reply that strengthens the relationship.
 
 Prompt:
+
 "You are the GM of a Goa beachfront property. Draft a reply to a review from a repeat guest family (three visits in four years).
 
-Express deep gratitude for their loyalty.
-Mention memorable aspects of their past visits (from records).
-Offer a small loyalty perk for their next stay."
+1. Express deep gratitude for their loyalty.
+
+2. Mention memorable aspects of their past visits (from records).
+
+3. Offer a small loyalty perk for their next stay."
+
 Inputs Required:
 
-Reviewer’s name
-History of visits
-Loyalty offer details
+1. Reviewer’s name
+
+2. History of visits
+
+3. Loyalty offer details
 
 Prompt 15 — Email to Request Testimonial for Website
+
 Backstory:
+
 A boutique resort in Munnar recently hosted a high-profile yoga retreat for an influencer group. They want a written testimonial to feature on their website’s wellness page.
 
 Goal:
+
 Draft a polite request email for a testimonial from a recent influencer guest.
 
 Prompt:
+
 "You are the marketing manager of a boutique resort in Munnar. Write an email to a wellness influencer guest requesting a testimonial.
 
-Mention the success of their yoga retreat.
-Highlight where their testimonial will appear (website wellness page).
-Make it easy for them by suggesting 3–4 guiding questions."
+1. Mention the success of their yoga retreat.
+
+2. Highlight where their testimonial will appear (website wellness page).
+
+3. Make it easy for them by suggesting 3–4 guiding questions."
+
 Inputs Required:
 
-Guest name
-Event details
-Website link to testimonial section
+1. Guest name
+
+2. Event details
+
+3. Website link to testimonial section
 
 Prompt 16 — Handling a Cultural Misunderstanding in Review
+
 Backstory:
+
 A foreign guest leaves a 3-star review saying they felt uncomfortable with the dress code request in the hotel restaurant. Management wants to respond in a culturally sensitive manner.
 
 Goal:
+
 Politely clarify cultural context while apologising for discomfort caused.
 
 Prompt:
+
 "You are the guest relations officer at a luxury palace hotel in Udaipur. Draft a reply to a foreign guest who felt uncomfortable about the restaurant dress code.
 
-Thank them for visiting.
-Acknowledge their concern.
-Explain cultural context respectfully.
-Reassure that future communication will be clearer."
+1. Thank them for visiting.
+
+2. Acknowledge their concern.
+
+3. Explain cultural context respectfully.
+
+4. Reassure that future communication will be clearer."
+
 Inputs Required:
 
-Review text
-Dress code policy
-Guest nationality (if relevant)
+1. Review text
+
+2. Dress code policy
+
+3. Guest nationality (if relevant)
 
 Prompt 17 — Post-Stay WhatsApp Review Request Script
 Backstory:
