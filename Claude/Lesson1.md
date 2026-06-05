@@ -17,3 +17,6 @@ Format: 5 ideas`
 
 Tone: `approachable not overly corporate
 Example Style: no idea`
+
+Huzefa, that's a solid prompt! Let me first grade your prompt, then actually answer it
+for your startup!
