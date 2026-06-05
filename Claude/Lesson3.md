@@ -99,6 +99,7 @@ haven't enrolled yet after a free webinar.
 Here's how I respond to student testimonials:
 
 *Example 1:*
+
 Student: `"Great course, learned a lot!"`
 
 Response: `"This means everything to us!
@@ -107,6 +108,7 @@ on AWS in 5 weeks - that's exactly why
 we do this. Keep building!`
 
 *Example 2:*
+
 Student: `Got placed at Infosys after this course!`
 
 Response: `THIS. This is why HuzefAI exists.
