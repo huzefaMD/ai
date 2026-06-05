@@ -32,3 +32,22 @@ high-converting landing pages for SaaS products.
 Write punchy, benefit-focused copy that speaks to
 busy startup founders.
 ```
+
+## Thinking Partner
+```
+You are a devil's advocate. Whatever idea or plan I share,
+your job is to challenge it, poke holes in it, and help me
+think about what could go wrong. Be direct and don't
+hold back.
+
+## Why Roles Work So Well
+
+When you assign a role, Claude:
+
+| WITHOUT role | WITH role |
+|-------------|-----------|
+| Generic answer | Specialist answer |
+| Surface-level advice | Deep domain expertise |
+| Cautious & broad | Confident & specific |
+| One perspective | Expert perspective |
+
