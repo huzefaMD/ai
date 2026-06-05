@@ -1216,3 +1216,405 @@ Property type preference (cottages, villas, apartments)
 Price range
 Project delivery timeline
 
+Prompt 5 —Rental Market Analysis in Mumbai Suburbs
+Backstory:
+
+A property management startup wants to focus its operations on Mumbai’s suburban areas like Thane, Navi Mumbai, and Borivali. They need a report comparing rental yields, tenant demographics, and turnover rates across these areas. The startup is also interested in identifying localities with strong demand from working professionals and students, along with nearby amenities such as metro stations, malls, and corporate hubs.
+
+Goal:
+
+Generate a rental market comparison report for Mumbai’s suburbs.
+
+Prompt:
+
+"You are a rental market analyst. Prepare a comparative rental yield and demand report for Thane, Navi Mumbai, and Borivali. Include: 
+
+Average rental rates by property type 
+Tenant demographics and demand drivers 
+Turnover rates and vacancy trends 
+Proximity to transport and lifestyle amenities 
+Future rental growth potential"
+Inputs Required: 
+
+Suburbs to compare 
+Property types (1BHK, 2BHK, 3BHK) 
+Target tenant segments 
+Analysis period
+
+Prompt 6 —Affordable Housing Demand in Tier-2 Indian Cities
+Backstory:
+
+A government-backed housing finance company is looking to expand its loan portfolio into Tier-2 cities such as Indore, Coimbatore, and Lucknow. They need an in-depth market research report that examines demand for affordable housing (properties under ₹50 lakhs), availability of land parcels, and the role of government subsidy schemes like PMAY. The study should also highlight upcoming infrastructure projects that may influence demand and identify the most promising micro-markets for investment.
+
+Goal:
+
+Create a comprehensive market research report on affordable housing opportunities in selected Tier-2 Indian cities.
+
+Prompt:
+
+"You are an urban housing market analyst. Prepare a detailed report on affordable housing trends in Indore, Coimbatore, and Lucknow. Include: 
+
+Demand drivers and buyer demographics 
+Pricing trends for properties under ₹50 lakhs 
+Government subsidies and financing options 
+Infrastructure developments likely to impact housing demand 
+Micro-market recommendations for investment"
+Inputs Required: 
+
+Target cities 
+Property price ceiling 
+Type of buyer (first-time, investor, government employee)
+Timeframe for demand analysis
+
+Prompt 7 —Impact of Metro Expansion on Residential Property Prices in Pune
+Backstory:
+
+A real estate investment fund is evaluating residential property opportunities along the upcoming Pune Metro corridors. They need an analysis of current prices, projected appreciation after metro completion, and buyer sentiment in these areas. The report should also compare similar case studies from other Indian cities where metro connectivity boosted property values. Additionally, they want to know potential risks like construction delays or regulatory hurdles.
+
+Goal:
+
+Assess the impact of metro expansion on residential real estate values in Pune.
+
+Prompt:
+
+"You are a transport-linked property investment analyst. Prepare a research report on the effect of the Pune Metro expansion on residential prices. Include: 
+
+Current property rates along metro corridors 
+Expected appreciation post-completion 
+Buyer sentiment and demand shifts 
+Case studies from other cities with similar projects 
+Potential risks and mitigation strategies"
+Inputs Required: 
+
+Metro corridor names 
+Property type focus (apartments, villas, plots) 
+Project completion timelines
+Investor holding period assumptions
+
+Prompt 8 —Senior Living Real Estate Market in India
+Backstory:
+
+An international retirement community developer is considering entry into the Indian market. They need a report analyzing demand for senior living facilities, preferred amenities, pricing strategies, and cultural acceptance. The analysis should cover metro cities and emerging retirement destinations like Coimbatore, Goa, and Dehradun. It should also factor in healthcare infrastructure, climate suitability, and legal considerations for foreign developers.
+
+Goal:
+
+Provide an in-depth report on the viability of senior living real estate in India.
+
+Prompt:
+
+"You are a senior housing market researcher. Create a detailed study of India’s senior living market covering: 
+
+Demand trends and target demographics 
+Popular cities for retirement communities 
+Key amenities and services in demand 
+Pricing benchmarks 
+Healthcare access and infrastructure 
+Regulatory and legal aspects for foreign investment"
+Inputs Required: 
+
+Target regions/cities 
+Budget range for project development 
+Target resident profile (active seniors, assisted living)
+Preferred operating model (sale, lease, rental)
+
+Prompt 9 —Retail Real Estate Trends in Indian Malls
+Backstory:
+
+A retail chain is deciding whether to expand into premium malls in cities like Delhi, Mumbai, and Hyderabad. They require a report analyzing footfall patterns, rental rates, anchor tenant performance, and competition. The report should also assess the resilience of malls post-COVID and the integration of digital and experiential retail trends. Insights into which malls are likely to remain high-performing over the next 5 years will be critical.
+
+Goal:
+
+Generate a retail real estate performance analysis of top Indian malls.
+
+Prompt:
+
+"You are a retail property analyst. Develop a performance report for premium malls in Delhi, Mumbai, and Hyderabad, including: 
+
+Footfall statistics and patterns 
+Rental and common area maintenance (CAM) charges 
+Anchor tenant performance 
+Integration of digital/experiential elements 
+Long-term performance outlook"
+Inputs Required: 
+
+Target cities and specific malls 
+Retail categories of interest 
+Expansion budget range 
+Time horizon for investment
+
+Prompt 10 —Agricultural Land Investment Opportunities in India
+Backstory:
+
+An agritech startup is exploring the purchase of agricultural land for organic farming projects in Maharashtra, Karnataka, and Rajasthan. They need a report evaluating land prices, soil quality, water availability, and legal ownership restrictions. The study should also assess proximity to markets, government subsidies for organic farming, and climate risks such as drought or flooding. Recommendations on the most viable districts are required.
+
+Goal:
+
+Provide a market feasibility report on agricultural land investments for organic farming in selected Indian states.
+
+Prompt:
+
+"You are an agricultural land investment analyst. Create a research report on organic farming land opportunities in Maharashtra, Karnataka, and Rajasthan. Include: 
+
+Current land prices and appreciation trends 
+Soil quality and irrigation infrastructure 
+Legal restrictions on ownership 
+Market access for produce 
+Government subsidies and schemes 
+Climate risk assessment"
+Inputs Required: 
+
+Target states/districts 
+Crop focus for organic farming 
+Budget range for land acquisition 
+Ownership entity type (individual, company, cooperative)
+
+Prompt 11 —Impact of RERA Regulations on Residential Project Launches
+Backstory:
+
+A mid-sized real estate consultancy wants to understand how RERA (Real Estate Regulatory Authority) compliance has influenced the pace and quality of new residential project launches in Delhi NCR, Bengaluru, and Chennai. They’re looking for trends in approval timelines, project delivery reliability, and customer trust levels post-RERA. The report should also compare pre- and post-RERA investment risks for developers and buyers.
+
+Goal:
+
+Provide a comparative market research study on pre- vs. post-RERA residential project launches in key Indian metros.
+
+Prompt:
+
+"You are a compliance-focused real estate researcher. Prepare a report analyzing the impact of RERA regulations on residential project launches in Delhi NCR, Bengaluru, and Chennai. Include: 
+
+Change in launch volumes pre- and post-RERA 
+Approval timelines and compliance processes 
+Effect on delivery timelines and customer satisfaction 
+Investment risk factors for developers and buyers 
+Case studies of notable RERA-compliant projects"
+Inputs Required: 
+
+Cities to focus on 
+Project size range (small/mid/large developers) 
+Timeframe for comparison
+Primary audience (developers, investors, buyers)
+
+Prompt 12 —Co-Living Space Market Feasibility in University Towns
+Backstory:
+
+An operator of co-living spaces is exploring entry into university-dense towns like Pune, Manipal, and Vellore. They want a deep dive into demand drivers, student and young professional preferences, pricing trends, and competition from PG accommodations. The report should also assess regulatory constraints and opportunities for tie-ups with educational institutions.
+
+Goal:
+
+Evaluate the feasibility of launching co-living spaces in select Indian university towns.
+
+Prompt:
+
+"You are a shared-living market analyst. Prepare a feasibility report for co-living space investments in Pune, Manipal, and Vellore, covering: 
+
+Demand sources and seasonality 
+Pricing benchmarks vs. PG accommodations 
+Amenity preferences (Wi-Fi, housekeeping, food) 
+Regulatory approvals required 
+Partnership opportunities with local universities"
+Inputs Required: 
+
+Towns or cities for research 
+Target customer (students, young professionals) 
+Budget per bed setup 
+Branding positioning (budget, premium)
+
+Prompt 13 —Office Space Demand Post-Hybrid Work Adoption
+Backstory:
+
+A commercial real estate developer wants to reposition their office space offerings to suit hybrid work trends in Bengaluru, Hyderabad, and Gurugram. They need a study of evolving tenant requirements, popular office formats (flexible seating, hot desking, shared spaces), and the role of technology in office design. The report should also predict demand trends for Grade A vs. Grade B office spaces over the next 5 years.
+
+Goal:
+
+Provide a research-based forecast for office space demand in India’s top IT hubs under hybrid work models.
+
+Prompt:
+
+"You are a workplace real estate strategist. Create a demand forecast report for office spaces in Bengaluru, Hyderabad, and Gurugram. Include: 
+
+Impact of hybrid work on space requirements 
+Popular formats (flexible seating, managed offices) 
+Technology-driven workspace innovations 
+Grade A vs. Grade B space demand projections 
+Recommendations for developer positioning"
+Inputs Required: 
+
+Target cities 
+Tenant industry focus (IT, BFSI, startups) 
+Time horizon (3, 5, 10 years)
+Budget per sq. ft. for fit-outs
+
+Prompt 14 —Short-Term Rental Trends in Tourist Cities
+Backstory:
+
+An online travel accommodation platform wants to expand its short-term rental listings in popular Indian tourist destinations like Jaipur, Goa, and Rishikesh. They need a market research report on average occupancy rates, seasonal demand spikes, pricing trends, and competition from hotels. The report should also assess the impact of local tourism policies and regulations on short-term rental operations.
+
+Goal:
+
+Analyze short-term rental opportunities in India’s leading tourist destinations.
+
+Prompt:
+
+"You are a tourism-focused property market analyst. Prepare a market research report on short-term rental trends in Jaipur, Goa, and Rishikesh. Include: 
+
+Seasonal occupancy patterns 
+Average daily rate (ADR) trends 
+Competitive landscape (hotels vs. rentals) 
+Regulatory challenges and local policies 
+Recommendations for market entry and pricing"
+Inputs Required: 
+
+Cities and property types to study 
+Target traveler demographic (domestic, international) 
+Peak and off-peak season months 
+Preferred rental format (entire home, shared space)
+
+Prompt 15 —Industrial Warehouse Demand in E-Commerce Hubs
+Backstory:
+
+A logistics-focused REIT is assessing investment opportunities in warehousing near key e-commerce hubs such as Bhiwandi (Mumbai), Sriperumbudur (Chennai), and Dadri (Delhi NCR). They need a demand analysis considering e-commerce growth, government infrastructure push, rental yield potential, and competition. The report should also highlight sustainability trends in warehouse design and automation adoption.
+
+Goal:
+
+Create a market research report on industrial warehouse demand in major Indian e-commerce logistics hubs.
+
+Prompt:
+
+"You are a supply chain real estate researcher. Develop a report analyzing warehouse demand in Bhiwandi, Sriperumbudur, and Dadri, covering: 
+
+E-commerce and retail demand drivers 
+Current and projected rental yields 
+Infrastructure connectivity (roads, ports) 
+Sustainable warehouse trends 
+Competition analysis"
+Inputs Required: 
+
+Locations for analysis 
+Target tenant type (3PL, e-commerce, FMCG) 
+Investment size range 
+Automation level preference
+
+Prompt 16 —Affordable Housing Demand in Tier-2 Indian Cities
+Backstory:
+
+A housing finance company wants to expand its lending portfolio by targeting developers in Tier-2 cities like Indore, Lucknow, and Coimbatore. They need a report identifying demand trends for affordable housing, key buyer demographics, preferred price ranges, and government subsidies or schemes driving the market. The analysis should also explore risks like unsold inventory and regulatory bottlenecks.
+
+Goal:
+
+Create a demand analysis for affordable housing in select Tier-2 Indian cities to guide lending and investment decisions.
+
+Prompt:
+
+"You are a housing market analyst. Prepare a detailed report on affordable housing trends in Indore, Lucknow, and Coimbatore. Include: 
+
+Demand drivers and buyer income segments 
+Price band preferences 
+Impact of government subsidies (PMAY, interest subvention) 
+Risk analysis (inventory overhang, delays) 
+Recommendations for financing strategies"
+Inputs Required: 
+
+Cities to analyze 
+Price range definition for ‘affordable’ 
+Target buyer profiles 
+Time horizon for projections
+
+Prompt 17 —Luxury Property Demand Among NRIs
+Backstory:
+
+A Mumbai-based luxury developer wants to tap into the NRI market, particularly buyers from the Middle East, USA, and Singapore. They need a report on preferred property types (sea-view apartments, luxury villas), average ticket size, investment motivations, and legal/regulatory considerations for NRI buyers. The report should also highlight high-demand locations and the role of virtual property tours.
+
+Goal:
+
+Assess the demand and purchase behavior of NRIs investing in Indian luxury real estate.
+
+Prompt:
+
+"You are a global real estate researcher. Prepare a market report on NRI luxury property demand in Mumbai, Goa, and Bengaluru. Cover: 
+
+Preferred property formats and amenities 
+Average transaction sizes 
+Motivations for purchase (investment, retirement, vacation home) 
+Regulatory and taxation considerations 
+Digital marketing and virtual tour effectiveness"
+Inputs Required: 
+
+Target countries of NRI buyers 
+Indian cities of focus 
+Price range for luxury segment 
+Marketing channels to evaluate
+
+Prompt 18 —Redevelopment Opportunities in Mumbai’s Aging Societies
+Backstory:
+
+A real estate investment fund is scouting redevelopment opportunities in Mumbai, where many old housing societies are eligible for redevelopment under state policies. They require a market research report highlighting potential zones, expected project ROI, and challenges in society member consensus-building. The report should also analyze how FSI changes influence project viability.
+
+Goal:
+
+Identify and evaluate prime redevelopment opportunities in Mumbai’s aging residential societies.
+
+Prompt:
+
+"You are a redevelopment market analyst. Prepare a research report on redevelopment opportunities in Mumbai, focusing on: 
+
+Areas with highest eligible societies 
+FSI norms and recent policy updates 
+ROI projections and risk factors 
+Case studies of successful redevelopments 
+Challenges in resident approvals and legal clearances"
+Inputs Required: 
+
+Target Mumbai zones 
+Minimum project size in units/sq. ft. 
+Investment capacity 
+Preferred redevelopment model (JV, outright purchase)
+
+Prompt 19 —Impact of Metro Expansion on Property Values
+Backstory:
+
+A property consultancy is studying the effect of upcoming metro rail projects on residential and commercial property values in Pune, Ahmedabad, and Kochi. They want to analyze price appreciation patterns, pre-launch hype, and long-term connectivity benefits. The report should also compare investment prospects near metro stations versus non-connected localities.
+
+Goal:
+
+Create a research-based impact study of metro rail expansion on property values.
+
+Prompt:
+
+"You are an urban infrastructure market researcher. Prepare a report on how metro expansion affects property prices in Pune, Ahmedabad, and Kochi. Include: 
+
+Pre- and post-announcement price changes 
+Demand shifts in connected vs. unconnected areas 
+Commercial rental impact 
+Long-term appreciation forecasts 
+Investor recommendations"
+Inputs Required: 
+
+Cities and specific metro lines to focus on 
+Property type (residential/commercial) 
+Data timeframe for analysis 
+Target investor profile
+
+Prompt 20 —Second-Home Market Trends in Hill Stations
+Backstory:
+
+A hospitality-driven real estate developer is exploring second-home projects in hill stations like Shimla, Mussoorie, and Ooty. They need insights into seasonal occupancy, buyer profiles, price trends, and the role of rental income potential in purchase decisions. The report should also cover infrastructure constraints and environmental regulations.
+
+Goal:
+
+Analyze demand trends and investment viability for second homes in Indian hill stations.
+
+Prompt:
+
+"You are a leisure real estate analyst. Prepare a market research report on second-home demand in Shimla, Mussoorie, and Ooty. Include: 
+
+Buyer demographics and motivations 
+Pricing and appreciation trends 
+Rental yield potential during peak seasons 
+Infrastructure and regulatory constraints 
+Recommendations for developer positioning"
+Inputs Required: 
+
+Hill stations of focus 
+Target buyer segment (HNI, NRI, domestic tourists) 
+Price band for analysis
+Investment model (sale only, sale + rental program)
+
