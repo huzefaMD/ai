@@ -2067,3 +2067,241 @@ Remaining unit count
 Booking process
 Contact info
 
+Prompt 16 — Post-Interior Design Meeting Follow-Up
+Backstory:
+A Bangalore client met with the developer’s in-house interior team to discuss customization options for their booked apartment. The sales team wants to follow up to see if they’re ready to finalize the design package.
+
+Goal:
+Encourage closure on interior package selection.
+
+Prompt:
+"You are an interior sales follow-up specialist. Create a follow-up email for a Bangalore client post-design meeting. Include:
+
+Appreciation for attending
+Recap of customization discussed
+Deadline for finalizing choices
+Offer of further consultation"
+Inputs Required:
+
+Client’s name
+Selected package details
+Finalization deadline
+Designer’s contact info
+
+Prompt 17 — Open House Event Follow-Up
+Backstory:
+A Delhi builder hosted an open house for a new luxury apartment complex. A visitor showed strong interest but wanted to consult family before committing.
+
+Goal:
+Re-engage the lead post-event and invite them for a private viewing.
+
+Prompt:
+"You are an event lead conversion specialist. Write a follow-up for a Delhi open house visitor. Include:
+
+Thank-you for attending
+Recap of key features they liked
+Invitation for private viewing with family
+Contact for booking"
+Inputs Required:
+
+Visitor’s name
+Property highlights
+Viewing availability
+Contact info
+
+Prompt 18 — Anniversary Follow-Up
+Backstory:
+It’s been one year since a Mumbai client purchased a flat through an agent. The agent wants to check in, ask for feedback, and subtly inquire about referrals.
+
+Goal:
+Strengthen relationship and open referral opportunities.
+
+Prompt:
+"You are a relationship-building property agent. Draft a follow-up for a Mumbai client’s purchase anniversary. Include:
+
+Congratulations on the anniversary
+Inquiry about their experience
+Gentle introduction to referral program
+Invitation to connect"
+Inputs Required:
+
+Client’s name
+Purchase date
+Referral offer details
+Contact info
+
+Prompt 19 — Investment Opportunity Follow-Up
+Backstory:
+A Bengaluru NRI lead showed interest in a commercial property but went silent. The sales agent wants to follow up with updated ROI projections and recent market data.
+
+Goal:
+Reignite investment interest with fresh data.
+
+Prompt:
+"You are a property investment consultant. Create a follow-up for a Bengaluru NRI lead about a commercial property. Include:
+
+ROI projections
+Market trends update
+Invitation to discuss in detail
+Contact for scheduling call"
+Inputs Required:
+
+Lead’s name
+Updated ROI figures
+Market news
+Contact info
+
+Prompt  20— Document Submission Delay Follow-Up
+Backstory:
+A Chennai client booked a property but hasn’t submitted certain legal documents for registration due to travel. The sales manager wants to follow up politely while stressing importance.
+
+Goal:
+Encourage timely submission without creating stress.
+
+Prompt:
+"You are a property legal liaison. Draft a follow-up for a Chennai client with pending registration documents. Include:
+
+Reminder of pending documents
+Importance of timely submission
+Offer to arrange courier or pickup
+Contact for confirmation"
+Inputs Required:
+
+Client’s name
+Document list
+Submission deadline
+Assistance options
+
+Prompt21 — Price Hike Alert Follow-Up
+Backstory:
+A Noida residential project is set for a price hike next month. A lead visited last month but hasn’t booked.
+
+Goal:
+Inform about the hike and encourage booking before it.
+
+Prompt:
+"You are a property sales closer. Write a follow-up for a Noida lead about upcoming price hike. Include:
+
+Reminder of visit
+Date and percentage of hike
+Benefits of booking now
+Contact for quick booking"
+Inputs Required:
+
+Lead’s name
+Price hike details
+Booking process
+Contact info
+
+Prompt  22— Site Visit Feedback Follow-Up
+Backstory:
+After a site visit in Ahmedabad, a couple gave positive verbal feedback but hasn’t progressed. The agent wants to capture written feedback and use it to guide next steps.
+
+Goal:
+Request written feedback and re-engage interest.
+
+Prompt:
+"You are a client engagement expert. Draft a follow-up for an Ahmedabad couple post-site visit. Include:
+
+Thank-you for visiting
+Request for written feedback
+Offer to address any queries
+Contact info"
+Inputs Required:
+
+Couple’s names
+Visit date
+Feedback form link
+Contact info
+
+Prompt 23 — Virtual Tour Follow-Up
+Backstory:
+
+A Hyderabad buyer attended a virtual tour for an under-construction flat but hasn’t followed up. The agent wants to check interest and offer an in-person visit.
+
+Goal:
+
+Move from virtual interest to physical visit.
+
+Prompt:
+
+"You are a virtual-to-physical sales converter. Draft a follow-up for a Hyderabad lead post-virtual tour. Include: 
+
+Thanks for attending 
+Reminder of features they liked 
+Offer for site visit with flexible timing 
+Contact for booking"
+Inputs Required: 
+
+Lead’s name
+Property highlights
+Site visit availability
+Contact info
+
+Prompt 24 — Limited Floor Availability Follow-Up
+Backstory:
+In a Thane high-rise project, only a few units remain on higher floors. A buyer earlier expressed preference for top floors.
+
+Goal:
+Prompt decision before options vanish.
+
+Prompt:
+"You are a property urgency copywriter. Draft a follow-up for a Thane lead about limited top-floor units. Include:
+
+Reminder of their preference
+Current availability
+Benefits of booking now
+Contact info"
+Inputs Required:
+
+Lead’s name
+Remaining unit count
+Benefits of higher floors
+Contact info
+
+Prompt 25 — Post-Booking Cross-Sell Follow-Up
+Backstory:
+A Pune client booked a flat in a gated community that also has plots for sale. The sales team wants to follow up to cross-sell a plot as an investment.
+
+Goal:
+Encourage additional purchase with investment angle.
+
+Prompt:
+"You are a cross-selling property advisor. Draft a follow-up for a Pune client who booked a flat, offering plots in same community. Include:
+
+Congratulations on booking
+Benefits of plot investment
+Limited availability
+Contact for details"
+Inputs Required:
+
+Client’s name
+Plot size and price
+ROI potential
+Contact info
+
+
+Legal document summaries
+
+Prompt 1 — Sale Deed Summary
+Backstory:
+A Mumbai client is purchasing a resale apartment in Bandra. They’ve received a 25-page sale deed draft from the seller’s lawyer, but they’re overwhelmed by the legal language. The real estate consultant wants to provide a clear, one-page summary that captures key clauses, payment terms, and possession details in plain English.
+
+Goal:
+Create a concise, layman-friendly summary of the sale deed.
+
+Prompt:
+"You are a property law summarization expert. Summarize a 25-page Bandra apartment sale deed for a homebuyer. Include:
+
+Property details (location, size, registration ID)
+Parties involved
+Sale consideration and payment schedule
+Possession date and conditions
+Key legal obligations and restrictions"
+Inputs Required:
+
+Full sale deed text
+Buyer and seller names
+Payment schedule
+Possession date
+
