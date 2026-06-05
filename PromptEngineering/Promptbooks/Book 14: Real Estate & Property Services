@@ -1659,6 +1659,7 @@ Inputs Required:
 4. Time horizon for projections
 
 Prompt 17 —Luxury Property Demand Among NRIs
+
 Backstory:
 
 A Mumbai-based luxury developer wants to tap into the NRI market, particularly buyers from the Middle East, USA, and Singapore. They need a report on preferred property types (sea-view apartments, luxury villas), average ticket size, investment motivations, and legal/regulatory considerations for NRI buyers. The report should also highlight high-demand locations and the role of virtual property tours.
@@ -1671,19 +1672,28 @@ Prompt:
 
 "You are a global real estate researcher. Prepare a market report on NRI luxury property demand in Mumbai, Goa, and Bengaluru. Cover: 
 
-Preferred property formats and amenities 
-Average transaction sizes 
-Motivations for purchase (investment, retirement, vacation home) 
-Regulatory and taxation considerations 
-Digital marketing and virtual tour effectiveness"
+1. Preferred property formats and amenities 
+
+2. Average transaction sizes 
+
+3. Motivations for purchase (investment, retirement, vacation home) 
+
+4. Regulatory and taxation considerations 
+
+5. Digital marketing and virtual tour effectiveness"
+
 Inputs Required: 
 
-Target countries of NRI buyers 
-Indian cities of focus 
-Price range for luxury segment 
-Marketing channels to evaluate
+1. Target countries of NRI buyers 
+
+2. Indian cities of focus 
+
+3. Price range for luxury segment 
+
+4. Marketing channels to evaluate
 
 Prompt 18 —Redevelopment Opportunities in Mumbai’s Aging Societies
+
 Backstory:
 
 A real estate investment fund is scouting redevelopment opportunities in Mumbai, where many old housing societies are eligible for redevelopment under state policies. They require a market research report highlighting potential zones, expected project ROI, and challenges in society member consensus-building. The report should also analyze how FSI changes influence project viability.
@@ -1696,19 +1706,28 @@ Prompt:
 
 "You are a redevelopment market analyst. Prepare a research report on redevelopment opportunities in Mumbai, focusing on: 
 
-Areas with highest eligible societies 
-FSI norms and recent policy updates 
-ROI projections and risk factors 
-Case studies of successful redevelopments 
-Challenges in resident approvals and legal clearances"
+1. Areas with highest eligible societies 
+
+2. FSI norms and recent policy updates 
+
+3. ROI projections and risk factors 
+
+4. Case studies of successful redevelopments 
+
+5. Challenges in resident approvals and legal clearances"
+
 Inputs Required: 
 
-Target Mumbai zones 
-Minimum project size in units/sq. ft. 
-Investment capacity 
-Preferred redevelopment model (JV, outright purchase)
+1. Target Mumbai zones 
+
+2. Minimum project size in units/sq. ft. 
+
+3. Investment capacity 
+
+4. Preferred redevelopment model (JV, outright purchase)
 
 Prompt 19 —Impact of Metro Expansion on Property Values
+
 Backstory:
 
 A property consultancy is studying the effect of upcoming metro rail projects on residential and commercial property values in Pune, Ahmedabad, and Kochi. They want to analyze price appreciation patterns, pre-launch hype, and long-term connectivity benefits. The report should also compare investment prospects near metro stations versus non-connected localities.
@@ -1721,19 +1740,28 @@ Prompt:
 
 "You are an urban infrastructure market researcher. Prepare a report on how metro expansion affects property prices in Pune, Ahmedabad, and Kochi. Include: 
 
-Pre- and post-announcement price changes 
-Demand shifts in connected vs. unconnected areas 
-Commercial rental impact 
-Long-term appreciation forecasts 
-Investor recommendations"
+1. Pre- and post-announcement price changes 
+
+2. Demand shifts in connected vs. unconnected areas 
+
+3. Commercial rental impact 
+
+4. Long-term appreciation forecasts 
+
+5. Investor recommendations"
+
 Inputs Required: 
 
-Cities and specific metro lines to focus on 
-Property type (residential/commercial) 
-Data timeframe for analysis 
-Target investor profile
+1. Cities and specific metro lines to focus on 
+
+2. Property type (residential/commercial) 
+
+3. Data timeframe for analysis 
+
+4. Target investor profile
 
 Prompt 20 —Second-Home Market Trends in Hill Stations
+
 Backstory:
 
 A hospitality-driven real estate developer is exploring second-home projects in hill stations like Shimla, Mussoorie, and Ooty. They need insights into seasonal occupancy, buyer profiles, price trends, and the role of rental income potential in purchase decisions. The report should also cover infrastructure constraints and environmental regulations.
@@ -1746,19 +1774,28 @@ Prompt:
 
 "You are a leisure real estate analyst. Prepare a market research report on second-home demand in Shimla, Mussoorie, and Ooty. Include: 
 
-Buyer demographics and motivations 
-Pricing and appreciation trends 
-Rental yield potential during peak seasons 
-Infrastructure and regulatory constraints 
-Recommendations for developer positioning"
+1. Buyer demographics and motivations 
+
+2. Pricing and appreciation trends 
+
+3. Rental yield potential during peak seasons 
+
+4. Infrastructure and regulatory constraints 
+
+5. Recommendations for developer positioning"
+
 Inputs Required: 
 
-Hill stations of focus 
-Target buyer segment (HNI, NRI, domestic tourists) 
-Price band for analysis
-Investment model (sale only, sale + rental program)
+1. Hill stations of focus 
+
+2. Target buyer segment (HNI, NRI, domestic tourists) 
+
+3. Price band for analysis
+
+4. Investment model (sale only, sale + rental program)
 
 Prompt 21 —Green Building Market Potential in India
+
 Backstory:
 
 A sustainable construction company is assessing the market for LEED- and GRIHA-certified green buildings in Tier-1 cities. They need a market size estimate, major developers in the space, buyer willingness to pay a premium, and government incentives available. The report should also forecast demand growth over the next decade.
@@ -1771,19 +1808,28 @@ Prompt:
 
 "You are a sustainable real estate market analyst. Prepare a report on green building potential in Mumbai, Bengaluru, and Delhi NCR. Cover: 
 
-Current supply and demand 
-Major developers and their projects 
-Premium pricing willingness 
-Government incentives and subsidies 
-10-year demand forecast"
+1. Current supply and demand 
+
+2. Major developers and their projects 
+
+3. Premium pricing willingness 
+
+4. Government incentives and subsidies 
+
+5. 10-year demand forecast"
+
 Inputs Required: 
 
-Cities to analyze 
-Certification standards to focus on (LEED, GRIHA, IGBC) 
-Property type (residential, commercial, mixed-use) 
-Investor or end-user focus
+1. Cities to analyze 
+
+2. Certification standards to focus on (LEED, GRIHA, IGBC) 
+
+3. Property type (residential, commercial, mixed-use) 
+
+4. Investor or end-user focus
 
 Prompt 22 —Senior Living Housing Trends
+
 Backstory:
 
 A healthcare-focused developer is evaluating entry into the senior living segment in Coimbatore, Jaipur, and Pune. They want a detailed market study on demand growth, amenity preferences, pricing models (buy vs. lease), and healthcare integration. The report should also assess competitor offerings and customer satisfaction levels.
@@ -1796,75 +1842,96 @@ Prompt:
 
 "You are a senior housing market specialist. Prepare a report on senior living trends in Coimbatore, Jaipur, and Pune, covering: 
 
-Market size and demand projections 
-Buyer/renter preferences 
-Pricing and financing models 
-Healthcare tie-up opportunities 
-Competitive landscape"
+1. Market size and demand projections 
+
+2. Buyer/renter preferences 
+
+3. Pricing and financing models 
+
+4. Healthcare tie-up opportunities 
+
+5. Competitive landscape"
+
 Inputs Required: 
 
-Cities to study 
-Age group definition (60+, 55+) 
-Preferred housing format (apartment, villa) 
-Target market (HNI, middle-income)
+1. Cities to study 
+
+2. Age group definition (60+, 55+) 
+
+3. Preferred housing format (apartment, villa) 
+
+4. Target market (HNI, middle-income)
 
 Prompt 23 —Co-Working Space Growth in Tier-2 Cities
-Backstory:
 
+Backstory:
 
 A flexible workspace brand is expanding to cities like Surat, Bhubaneswar, and Chandigarh. They want a study of demand from startups, SMEs, and corporate satellite offices. The report should also evaluate pricing benchmarks, location preferences, and local competition from unorganized players.
 
 Goal:
 
-
 Create a market expansion report for co-working spaces in Tier-2 cities.
 
 Prompt:
 
-
 "You are a flexible workspace researcher. Prepare a report on co-working market trends in Surat, Bhubaneswar, and Chandigarh. Include:  
 
-Demand sources and customer profiles  
-Pricing benchmarks vs. Tier-1 cities  
-Preferred locations within the city  
-Competitive landscape  
-Growth forecast for the next 5 years"
+1. Demand sources and customer profiles  
+
+2. Pricing benchmarks vs. Tier-1 cities  
+
+3. Preferred locations within the city  
+
+4. Competitive landscape  
+
+5. Growth forecast for the next 5 years"
+
 Inputs Required:  
 
-Cities to analyze  
-Target customer type  
-Preferred workspace size range  
-Budget per seat per month
+1. Cities to analyze  
+
+2. Target customer type  
+
+3. Preferred workspace size range  
+
+4. Budget per seat per month
 
 Prompt 24 —Student Housing Market Potential
-Backstory:
 
+Backstory:
 
 A real estate developer wants to build purpose-built student accommodation (PBSA) in cities like Kota, Manipal, and Delhi. They need a market study on demand size, rent ranges, student lifestyle preferences, and potential for tie-ups with universities. The report should also examine operational models and investor returns.
 
 Goal:
 
-
 Evaluate the viability of PBSA in key Indian education hubs.
 
 Prompt:
 
-
 "You are a student housing market analyst. Prepare a market report for PBSA in Kota, Manipal, and Delhi, covering:  
 
-Demand volume and seasonality  
-Rent benchmarks and amenities offered  
-Tie-up opportunities with educational institutions  
-Operational models (managed vs. owner-run)  
-ROI projections"
+1. Demand volume and seasonality  
+
+2. Rent benchmarks and amenities offered  
+
+3. Tie-up opportunities with educational institutions  
+
+4. Operational models (managed vs. owner-run)  
+
+5. ROI projections"
+
 Inputs Required:  
 
-Cities to target  
-Target student segment (domestic, international)  
-Minimum bed capacity
-Investment budget
+1. Cities to target  
+
+2. Target student segment (domestic, international)  
+
+3. Minimum bed capacity
+
+4. Investment budget
 
 Prompt 25 —Real Estate Investment Trust (REIT) Awareness & Investor Sentiment
+
 Backstory:
 
 A financial advisory firm is assessing awareness and sentiment towards REIT investments among urban retail investors in India. They want a survey-based market research report analyzing knowledge levels, return expectations, risk perceptions, and preferred property sectors (office, retail, industrial).
@@ -1877,41 +1944,60 @@ Prompt:
 
 "You are a financial market researcher. Prepare a survey-driven report on REIT awareness and sentiment in Mumbai, Delhi NCR, and Bengaluru. Include: 
 
-Awareness levels and misconceptions 
-Return and risk expectations 
-Preferred sectors for REIT investment 
-Barriers to participation 
-Recommendations for investor education"
+1. Awareness levels and misconceptions 
+
+2. Return and risk expectations 
+
+3. Preferred sectors for REIT investment 
+
+4. Barriers to participation 
+
+5. Recommendations for investor education"
+
 Inputs Required: 
 
-Target cities 
-Demographic profile (age, income, occupation) 
-Investment amount range 
-REIT sectors to cover
+1. Target cities 
+
+2. Demographic profile (age, income, occupation) 
+
+3. Investment amount range 
+
+4. REIT sectors to cover
 
 
 Client follow-up scripts
 
 Prompt 1 — Post-Property Visit Follow-Up
+
 Backstory:
+
 A real estate agent in Pune has just shown a couple three 2BHK flats in Kharadi and Magarpatta. They seemed interested in one unit but wanted time to discuss financing options. The agent wants to maintain momentum without seeming pushy and also remind them about the limited availability of the flat they liked.
 
 Goal:
+
 Create a polite, persuasive follow-up script that reinforces interest, addresses potential doubts, and prompts the client to take the next step.
 
 Prompt:
+
 "You are a sales communication expert. Write a follow-up message for a Pune couple who visited 2BHK flats in Kharadi and Magarpatta. Include:
 
-A thank-you for their time
-A brief reminder of the benefits of the flat they liked
-A mention of limited availability
-An invitation to discuss financing or arrange a second visit"
+1. A thank-you for their time
+
+2. A brief reminder of the benefits of the flat they liked
+
+3. A mention of limited availability
+
+4. An invitation to discuss financing or arrange a second visit"
+
 Inputs Required:
 
-Client’s first names
-Specific property details
-Key features they liked most
-Availability timeline
+1. Client’s first names
+
+2. Specific property details
+
+3. Key features they liked most
+
+4. Availability timeline
 
 Prompt 2 — Financing Options Follow-Up
 Backstory:
