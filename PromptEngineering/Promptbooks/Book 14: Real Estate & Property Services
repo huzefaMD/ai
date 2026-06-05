@@ -1141,3 +1141,78 @@ Inputs Required:
 3. Preferred property segment (apartments, plots, villas) 
 
 4. Budget range
+
+Prompt 2 —Affordable Housing Demand Study in NCR Region
+Backstory: A real estate developer focusing on affordable housing wants to enter the NCR region with a series of projects priced below ₹40 lakhs. They need detailed insights on demand hotspots, availability of government subsidies, infrastructure readiness, and competitive landscape. They also want to understand buyer personas for this segment and the financing challenges they face.
+
+Goal: Generate an in-depth market research report for affordable housing in NCR.
+
+Prompt:
+
+"You are a market research consultant. Prepare a full report on affordable housing demand in the NCR region. Cover: 
+
+Top 5 demand hotspots with land availability 
+Price trends in the last 5 years 
+Government subsidy programs and PMAY applicability 
+Key competitors and their offerings 
+Buyer demographics and financing barriers 
+Recommendations for project size, amenities, and marketing channels"
+
+Inputs Required: 
+Specific areas of interest within NCR 
+Definition of 'affordable' (budget range) 
+Project timeline 
+Target buyer profile
+
+Prompt 3 —Commercial Real Estate Opportunities in Bengaluru’s Outer Ring Road
+Backstory:
+
+A multinational IT firm is planning to establish a new tech campus in Bengaluru’s Outer Ring Road area. They want to evaluate commercial property availability, rental yields, connectivity advantages, and upcoming infrastructure projects like metro expansion. They also seek competitor benchmarking for similar IT parks in the area and insights into government policies supporting IT infrastructure. The report should highlight long-term potential and possible risks such as traffic congestion and zoning changes.
+
+Goal:
+
+Create a detailed commercial property market research report for Bengaluru’s Outer Ring Road.
+
+Prompt:
+
+"You are a commercial real estate analyst. Prepare a comprehensive market research report for Bengaluru’s Outer Ring Road corridor, covering: 
+
+Current availability of Grade-A office spaces 
+Average rental yields and escalation trends 
+Key infrastructure developments impacting the region 
+Competitor analysis of nearby IT parks 
+Government incentives and policy outlook 
+Long-term investment potential and risks"
+Inputs Required: 
+
+Target built-up area requirement 
+Budget range for leasing or purchase 
+Timeline for project launch 
+Competitors to benchmark against
+
+Prompt 4 —Second-Home Real Estate Trends in Hill Stations
+Backstory:
+
+An Indian luxury developer is exploring second-home projects in hill stations such as Shimla, Mussoorie, and Nainital. They require insights into demand drivers like tourism patterns, climate change impact, and work-from-home adoption. The report must examine pricing trends, seasonal demand shifts, legal restrictions on non-local buyers, and the feasibility of eco-friendly construction in hilly terrain. Recommendations should include the best time to launch projects and ideal property types.
+
+Goal:
+
+Provide a market research report on second-home demand in selected Indian hill stations.
+
+Prompt:
+
+"You are a real estate market researcher. Develop a detailed second-home real estate report for Shimla, Mussoorie, and Nainital, covering: 
+
+Demand trends driven by tourism, climate, and remote work 
+Seasonal price and occupancy variations 
+Buyer profiles and preferences 
+Legal restrictions for non-local buyers 
+Feasibility of eco-friendly building methods 
+Launch timing and product mix recommendations"
+Inputs Required: 
+
+Target hill stations 
+Property type preference (cottages, villas, apartments) 
+Price range
+Project delivery timeline
+
