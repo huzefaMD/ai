@@ -211,6 +211,8 @@ Prompt:
 
 "Create a 7-month RBI Grade B preparation plan for a candidate strong in Finance/Economics but slow in Quant and Reasoning. Include daily current affairs notes, ESI and FM concept review, and a mock test schedule for both Phase 1 and Phase 2."
 
+Prompt 16 — LIC AAO Exam Study Plan
+
 Backstory:
 
 A 25-year-old commerce graduate from Indore is preparing for the LIC AAO exam to secure a stable government job. She has been out of competitive studies for 2 years while working part-time. Her strengths lie in Reasoning and English, but she struggles with Quantitative Aptitude speed and has minimal exposure to Insurance Awareness topics. She has 5 hours available on weekdays and 8 hours on weekends. Her goal is to steadily build confidence while improving accuracy in weak areas before the exam in 5 months.
@@ -278,4 +280,113 @@ Design a 6-month plan integrating Prelims and Mains preparation.
 Prompt:
 
 "Design a 6-month IBPS PO study plan integrating Prelims and Mains preparation. Include daily Quant drills, weekly GA quizzes, and descriptive writing practice for Mains along with sectional tests."
+
+Prompt 21 — State PSC Exam Plan (MPPSC)
+
+Backstory:
+
+A 25-year-old aspirant from Bhopal is preparing for the MPPSC exam. He has excellent knowledge of MP-specific history and culture but is weak in Science & Technology topics. He has failed once due to lack of consistent revision. He wants a plan that equally balances state-specific and general syllabus while ensuring periodic revisions and test practice. With 9 months before the next attempt, he can give 6–7 hours daily.
+
+Goal:
+
+Build a state-focused PSC study timetable that plugs knowledge gaps.
+
+Prompt:
+
+"Prepare a 9-month MPPSC timetable covering MP-specific topics, General Studies, and Science & Technology. Include weekly state current affairs updates, monthly test series, and dedicated revision weeks."
+
+Prompt 22 — UGC NET Commerce Timetable
+
+Backstory:
+
+A 27-year-old assistant professor from Chandigarh wants to clear UGC NET Commerce to qualify for a PhD and higher pay scale. She has strong Accounting skills but struggles with Research Aptitude and lacks time due to teaching commitments. She can only study 2 hours on weekdays and 6 hours on weekends. She has 5 months until the exam and needs a compact yet comprehensive study plan.
+
+Goal:
+
+Design a part-time study timetable for UGC NET Commerce.
+
+Prompt:
+
+"Draft a 5-month UGC NET Commerce study timetable for a lecturer strong in Accounting but weak in Research Aptitude. Include daily micro-study slots, weekend mock tests, and focused research methodology drills."
+
+Prompt 23 — RRB NTPC Exam Study Plan
+
+Backstory:
+
+A 23-year-old graduate from Kanpur is preparing for the RRB NTPC exam to secure a railway job. He is strong in General Awareness but weak in Mathematics and Reasoning. He can dedicate 4–5 hours daily and prefers solving problems in a timed environment. He has 6 months before the exam and wants to gradually increase his mock test frequency.
+
+Goal:
+
+Create a timetable focused on boosting Quant and Reasoning speed.
+
+Prompt:
+
+"Prepare a 6-month RRB NTPC timetable focusing on improving Quant and Reasoning while maintaining GA revision. Include sectional tests twice a week and monthly full-length mocks."
+
+Prompt 24 — Judiciary Exam (Delhi) Timetable
+
+Backstory:
+
+A 24-year-old law graduate from Delhi is aiming for the Delhi Judicial Service Exam. She is confident in Civil Law but has gaps in Criminal Law and Procedural Laws. She wants to cover all bare acts thoroughly and practice past papers regularly. With 12 months before the exam, she can devote 8 hours daily.
+
+Goal:
+
+Build a year-long judiciary exam study timetable.
+
+Prompt:
+
+"Create a 12-month Delhi Judicial Service exam study plan covering Civil, Criminal, and Procedural laws. Include daily bare act reading, weekly answer writing practice, and monthly mock tests with case law analysis."
+
+Prompt 25 — NEET-UG Repeat Year Timetable
+
+Backstory:
+
+A 19-year-old from Kochi is repeating NEET after scoring 580 in her first attempt. She is very strong in Biology and Chemistry but weak in Physics problem-solving speed. She wants a highly disciplined 12-month plan to target a government medical seat. She can dedicate 10–12 hours daily and wants Physics as a daily priority while keeping Biology revision frequent.
+
+Goal:
+
+Create a Physics-focused NEET repeat-year study schedule.
+
+Prompt:
+
+"Design a 12-month NEET preparation timetable for a repeater strong in Biology and Chemistry but weak in Physics. Include daily Physics drills, weekly full-syllabus mocks, and targeted concept-revision cycles."
+
+
+Policy analysis summaries
+
+Prompt 1 – Summarising a Government Policy on Electric Vehicle Subsidies
+
+Backstory:
+
+A Bengaluru-based startup is entering the electric scooter market in Karnataka. The state has announced new subsidies under the FAME II scheme and additional state-level incentives. The full notification is over 40 pages and written in dense bureaucratic language. The founders need a clear, investor-friendly summary to understand subsidy eligibility, application process, and limitations, so they can align production targets and pricing strategy accordingly. They also want a quick comparative note on how Karnataka’s policy differs from Maharashtra’s EV policy.
+
+Goal:
+
+Create a 2-page, plain-English summary of the Karnataka EV subsidy policy, highlighting eligibility criteria, benefits, application process, compliance requirements, and key differences from Maharashtra’s policy.
+
+Prompt:
+
+"You are a public policy analyst. Summarise the Karnataka EV subsidy notification into an investor-friendly brief. Include:
+
+1. Eligibility criteria for manufacturers and buyers
+
+2. Subsidy amounts and calculation method
+
+3. Application process with timelines
+
+4. Compliance and reporting obligations
+
+5. Key differences from Maharashtra’s EV policy
+
+Present in bullet points for easy reading."
+
+Inputs:
+
+1. Full policy document (PDF or link)
+
+2. Target audience (investors, internal strategy team)
+
+3. Comparator policy (if applicable)
+
+
 
