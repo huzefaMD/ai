@@ -1852,68 +1852,98 @@ Inputs:
 Prompt 23 – AIIMS Nursing Officer Interview: Public Health & Patient Care
 
 Backstory:
+
 A B.Sc. Nursing graduate has cleared AIIMS Nursing Officer recruitment. They have hospital experience but want to strengthen answers on public health policy and patient rights in a government hospital setting.
 
 Goal:
+
 Simulate an AIIMS Nursing Officer interview focusing on patient care in public health systems.
 
 Prompt:
+
 "You are an AIIMS interview panel member. Conduct a mock interview on:
 
-Ethical dilemmas in patient care
-Infection control protocols in public hospitals
-Role of nurses in national health programs
-Handling critical patients in resource-limited situations
+1. Ethical dilemmas in patient care
+
+2. Infection control protocols in public hospitals
+
+3. Role of nurses in national health programs
+
+4. Handling critical patients in resource-limited situations
+
 Provide feedback on empathy, protocol adherence, and teamwork."
+
 Inputs:
 
-Candidate’s nursing specialisation
-Years of clinical experience
-Familiarity with government health schemes
+1. Candidate’s nursing specialisation
+
+2. Years of clinical experience
+
+3. Familiarity with government health schemes
 
 Prompt 24 – UPSC CAPF Interview: Security & Leadership
 
 Backstory:
+
 A defence studies graduate has cleared UPSC CAPF mains. They want to demonstrate both tactical knowledge and people management skills. Their challenge is to balance operational readiness with community relations.
 
 Goal:
+
 Simulate a UPSC CAPF interview focusing on internal security and leadership.
 
 Prompt:
+
 "You are a CAPF interview panelist. Conduct a mock interview on:
 
-Strategies for counter-insurgency operations
-Role of CAPF in disaster relief
-Leadership challenges in high-risk zones
-Balancing force discipline with troop welfare
+1. Strategies for counter-insurgency operations
+
+2. Role of CAPF in disaster relief
+
+3. Leadership challenges in high-risk zones
+
+4. Balancing force discipline with troop welfare
+
 Provide detailed feedback on decision-making under pressure."
+
 Inputs:
 
-Candidate’s security background
-Knowledge of CAPF’s structure
-Leadership experiences
+1. Candidate’s security background
+
+2. Knowledge of CAPF’s structure
+
+3. Leadership experiences
 
 Prompt 25 – GATE PSU Interview: Engineering Problem-Solving
 
 Backstory:
+
 A mechanical engineer has cleared GATE and is shortlisted for a PSU interview in Bharat Heavy Electricals Limited (BHEL). They are confident in technical problem-solving but want to practice real-world engineering scenarios under resource constraints.
 
 Goal:
+
 Simulate a PSU engineering interview focusing on applied technical solutions.
 
 Prompt:
+
 "You are a BHEL interview board member. Conduct a mock interview on:
 
-Cost-efficient design improvements
-Quality control in mass production
-Integrating renewable technologies in heavy engineering
-Handling machinery failure in critical projects
+1. Cost-efficient design improvements
+
+2. Quality control in mass production
+
+3. Integrating renewable technologies in heavy engineering
+
+4. Handling machinery failure in critical projects
+
 Provide feedback on technical depth, innovation, and cost-awareness."
+
 Inputs:
 
-Candidate’s engineering discipline
-Internship/project experience
-Awareness of PSU operational challenges
+1. Candidate’s engineering discipline
+
+2. Internship/project experience
+
+3. Awareness of PSU operational challenges
 
 
 Application & RTI drafting
@@ -1921,20 +1951,211 @@ Application & RTI drafting
 Prompt 1 – RTI Application for Delayed Government Service
 
 Backstory:
+
 A resident of Delhi applied for a caste certificate in January but has not received it even after four months, despite repeated visits to the SDM office. The delays are affecting their college admission process. They want to file an RTI to know the reason for the delay, the current status, and the officer responsible.
 
 Goal:
+
 Draft a precise RTI application under the RTI Act, 2005, requesting status and reasons for delay.
 
 Prompt:
+
 "Draft a complete RTI application in the standard Government of India format for the following case:
 
-Applicant: Resident of Delhi, awaiting caste certificate for 4 months.
-Department: Office of the Sub-Divisional Magistrate, Delhi.
-Information sought: Date of processing, reasons for delay, responsible officer, and expected date of issuance.
+1. Applicant: Resident of Delhi, awaiting caste certificate for 4 months.
+
+2. Department: Office of the Sub-Divisional Magistrate, Delhi.
+
+3. Information sought: Date of processing, reasons for delay, responsible officer, and expected date of issuance.
+
 Ensure clarity, polite language, and compliance with RTI norms."
+
 Inputs:
 
-Applicant name and address
-Date of application submission
-Application receipt/reference number
+1. Applicant name and address
+
+2. Date of application submission
+
+3. Application receipt/reference number
+
+Prompt 2 – RTI on Public Works Expenditure Transparency
+
+Backstory:
+A social activist from Bihar suspects mismanagement in a rural road construction project under the PMGSY scheme. The road was inaugurated last month, but visible cracks and potholes have appeared already. The activist wants to know the total budget sanctioned, the contractor’s details, and the inspection reports.
+
+Goal:
+Draft an RTI to obtain financial and inspection records for a public infrastructure project.
+
+Prompt:
+"Prepare a formal RTI application addressed to the Public Works Department (PWD) of Bihar, asking for:
+
+Sanctioned budget and actual expenditure
+Name and details of the contractor
+Dates and findings of official inspections
+Ensure the draft is clear, non-accusatory, and compliant with the RTI Act format."
+Inputs:
+
+Project name and location
+Date of completion/inauguration
+Any photo evidence (optional, for annexure)
+
+Prompt 3 – Application for Government Job Age Relaxation
+
+Backstory:
+An applicant from Rajasthan is applying for a state government clerical post but is two months over the age limit. However, they belong to an OBC category that qualifies for age relaxation under state rules. They need to write a formal application to the recruitment board requesting consideration.
+
+Goal:
+Draft a professional application letter requesting age relaxation for a government recruitment process.
+
+Prompt:
+"Write a formal application to the Rajasthan Public Service Commission requesting age relaxation for an OBC category candidate who is two months over the limit.
+The application should:
+
+Cite relevant state government rules
+Mention category certificate details
+Request consideration without appearing entitled
+Maintain a formal and respectful tone."
+Inputs:
+
+Candidate’s name, DOB, and category certificate number
+Post applied for
+Notification reference number
+
+Prompt 4 – RTI for University Examination Paper Re-evaluation Timeline
+
+Backstory:
+A postgraduate student from a state university in Uttar Pradesh applied for paper re-evaluation two months ago and has not received any update. The delay is affecting their eligibility for a government fellowship. They want to file an RTI to know the status and timelines.
+
+Goal:
+Draft an RTI application seeking status and processing timeline for an exam re-evaluation request.
+
+Prompt:
+"Prepare a detailed RTI application addressed to the Controller of Examinations of the university asking for:
+
+Current status of re-evaluation request
+Date of expected completion
+Names of responsible officials processing the application
+Ensure it is polite, factual, and RTI-compliant."
+Inputs:
+
+Student name, roll number, and course
+Date of re-evaluation application
+University name and address
+
+Prompt 5 – Application for Land Mutation in Municipal Records
+
+Backstory:
+A landowner in Gujarat recently inherited agricultural land from their father. The property transfer is legally complete, but the mutation in municipal records is pending for over six months. They need to submit a formal application to the local municipal corporation to expedite the process.
+
+Goal:
+Draft a professional application for land mutation entry in municipal records.
+
+Prompt:
+"Write a formal application to the Municipal Commissioner requesting mutation of inherited agricultural land in property records.
+The letter should include:
+
+Inheritance proof details
+Survey number and property location
+Request for expedited processing due to pending loan application
+Ensure it is concise and formatted for official submission."
+Inputs:
+
+Applicant’s name and address
+Survey/property number
+Date of inheritance documentation
+
+Prompt 6 – RTI on Pending Pension Application
+
+Backstory:
+A retired government school teacher in Maharashtra applied for their pension benefits eight months ago. Despite submitting all required documents and reminders, they have not received any pension payments yet. Their only source of income is this pension, and the delay is causing financial stress. They want to file an RTI to find out the cause of the delay and the expected release date.
+
+Goal:
+Draft a clear RTI application seeking the status and reasons for delay in processing a pension application.
+
+Prompt:
+"Prepare an RTI application addressed to the Accounts and Pension Office of Maharashtra asking for:
+
+Current status of pension application
+Reasons for delay in payment
+Name and designation of the officer responsible
+Use a respectful tone and follow the official RTI Act format."
+Inputs:
+
+Applicant’s name, pension ID, and retirement date
+Department from which retired
+Date of pension application submission
+
+Prompt 7 – Application for Government Quarters Allocation
+
+Backstory:
+
+An assistant engineer newly posted in Lucknow has been allotted a posting order but not provided with official accommodation. The private rent in the area is high, and they need to formally apply for government quarters to avoid financial strain.
+
+Goal:
+
+Draft a formal application requesting allocation of government housing.
+
+Prompt:
+
+"Write an official application to the Estate Officer requesting government quarters, including: 
+
+Posting details and joining date 
+Current rented accommodation cost 
+Justification for urgent allotment
+
+Ensure it is concise, formal, and respectful."
+Inputs: 
+
+Name, designation, and department
+Posting location and date of joining
+Current rent details
+
+Prompt 8 – RTI for Transparency in Exam Results
+
+Backstory:
+A candidate for a state-level police constable exam in Tamil Nadu suspects discrepancies in the published results. Their score is significantly lower than expected. They wish to file an RTI to request their answer sheet copy and the evaluation process details.
+
+Goal:
+Draft an RTI application for obtaining exam evaluation details.
+
+Prompt:
+"Prepare a detailed RTI addressed to the Tamil Nadu Uniformed Services Recruitment Board requesting:
+
+Photocopy of the candidate’s evaluated answer sheet
+Marking scheme used
+Any moderation rules applied
+Ensure it is polite, factual, and in standard RTI format."
+Inputs:
+
+Candidate’s name, roll number, and exam date
+Recruitment notification reference number
+
+Prompt 9 – Application for Correction in Government Records
+
+Backstory:
+
+A citizen in West Bengal finds that their voter ID has an incorrect date of birth, which is preventing them from linking it with their Aadhaar. They need to file a formal correction application to the Electoral Registration Officer.
+
+Goal:
+
+Draft an official application for correction in voter ID records.
+
+Prompt:
+
+"Write a formal application to the Electoral Registration Officer requesting correction of date of birth in voter ID.
+
+The letter should:
+
+1. Include correct DOB with documentary proof reference
+
+2. Clearly state the problem being faced due to the error
+
+3. Request prompt action for correction."
+
+Inputs:
+
+1. Voter ID number
+
+2. Correct DOB and proof document details
+
+3. Applicant’s name and address
