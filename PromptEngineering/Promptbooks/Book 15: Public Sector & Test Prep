@@ -1212,186 +1212,258 @@ Inputs:
 Prompt 3 – PSU HR Management Trainee Interview Simulation
 
 Backstory:
+
 A fresh MBA graduate from IIM Indore is appearing for an HR Management Trainee position in a major Public Sector Undertaking (PSU) like NTPC. While academically strong, they lack direct PSU exposure and need help aligning their answers with PSU work culture, values, and organisational priorities.
 
 Goal:
+
 Create a PSU-specific HR trainee interview simulation.
 
 Prompt:
+
 "You are a PSU recruitment panel member. Conduct a mock interview for an HR Management Trainee role. Cover:
 
-Employee engagement and retention strategies in large public organisations
-Handling labour disputes in industrial units
-Diversity and inclusion initiatives in PSU workplaces
-Balancing profitability and social responsibility
+1. Employee engagement and retention strategies in large public organisations
+
+2. Handling labour disputes in industrial units
+
+3. Diversity and inclusion initiatives in PSU workplaces
+
+4. Balancing profitability and social responsibility
+
 Include 10 questions and provide sample ideal answers with rationale."
+
 Inputs:
 
-Candidate’s MBA specialisation
-Preferred PSU sector (energy, manufacturing, etc.)
-Any internship or prior work experience
+1. Candidate’s MBA specialisation
+
+2. Preferred PSU sector (energy, manufacturing, etc.)
+
+3. Any internship or prior work experience
 
 Prompt 4 – RBI Grade B Officer Mock Interview: Monetary Policy & Economics
 
 Backstory:
+
 A 29-year-old economics graduate has cleared the RBI Grade B Mains exam and is preparing for the final interview. They are confident in theory but struggle to connect economic concepts to real-world policy issues. They want practice articulating balanced, evidence-based answers on monetary policy, inflation, and financial stability.
 
 Goal:
+
 Simulate an RBI Grade B interview focusing on economics and policy application.
 
 Prompt:
+
 "You are an RBI interview board member. Conduct a mock interview on:
 
-Current inflation trends and RBI’s control measures
-Monetary vs fiscal policy coordination
-Financial inclusion initiatives in rural India
-Impact of global economic shocks on Indian banking
+1. Current inflation trends and RBI’s control measures
+
+2. Monetary vs fiscal policy coordination
+
+3. Financial inclusion initiatives in rural India
+
+4. Impact of global economic shocks on Indian banking
+
 Ask 8–10 questions, encourage data-backed responses, and provide evaluative feedback."
+
 Inputs:
 
-Candidate’s educational background
-Recent monetary policy statements they have read
-Preferred economic sectors of interest
+1. Candidate’s educational background
+
+2. Recent monetary policy statements they have read
+
+3. Preferred economic sectors of interest
 
 Prompt 5 – Indian Railways Group A Interview: Infrastructure Management
 
 Backstory:
+
 An engineering graduate has qualified for the Indian Engineering Services (IES) and is facing the interview for Indian Railways Group A services. They have experience in civil construction but limited knowledge of large-scale public infrastructure management. They want a mock interview that prepares them for operational, technical, and policy-level questions.
 
 Goal:
+
 Create a technical-cum-managerial mock interview for Indian Railways.
 
 Prompt:
+
 "You are a senior Indian Railways selection board member. Conduct a mock interview focusing on:
 
-Railway infrastructure modernisation projects
-Safety protocols and accident prevention
-Budget allocation for large-scale projects
-Public-private partnership opportunities in rail transport
+1. Railway infrastructure modernisation projects
+
+2. Safety protocols and accident prevention
+
+3. Budget allocation for large-scale projects
+
+4. Public-private partnership opportunities in rail transport
+
 Ask 12–15 questions and give constructive feedback on technical accuracy, leadership qualities, and public service mindset."
+
 Inputs:
 
-Candidate’s engineering branch
-Experience in infrastructure projects
-Knowledge of current railway development plans
+1. Candidate’s engineering branch
+
+2. Experience in infrastructure projects
+
+3. Knowledge of current railway development plans
 
 Prompt 6 – SSC CGL Interview: Administrative Problem-Solving
 
 Backstory:
+
 A graduate from Delhi University has cleared the Staff Selection Commission – Combined Graduate Level exam and is now preparing for the interview for an Assistant Section Officer post. They have a strong academic record but have never worked in a government setup before. They need practice in responding to administrative challenges and scenario-based questions that require logical thinking, resource allocation, and adherence to government procedures.
 
 Goal:
+
 Create a scenario-based mock interview for SSC CGL candidates focusing on administrative efficiency and coordination.
 
 Prompt:
+
 "You are an SSC interview panel member. Conduct a mock interview covering:
 
-Handling RTI requests under pressure
-Managing clerical and supervisory roles effectively
-Coordination between multiple government departments
-Digital transformation of administrative work
+1. Handling RTI requests under pressure
+
+2. Managing clerical and supervisory roles effectively
+
+3. Coordination between multiple government departments
+
+4. Digital transformation of administrative work
+
 Ask 8–10 questions, including 3 situational problem-solving cases, and provide targeted feedback on clarity, adherence to procedures, and time management."
+
 Inputs:
 
-Candidate’s graduation subject
-Preferred department or ministry
-Prior exposure to government processes
+1. Candidate’s graduation subject
+
+2. Preferred department or ministry
+
+3. Prior exposure to government processes
 
 Prompt 7 – UPSC CAPF Assistant Commandant Interview: Crisis Management
 
 Backstory:
+
 A 27-year-old candidate has cleared the written exam for the Central Armed Police Forces (CAPF) Assistant Commandant role. They are physically fit but tend to get nervous in high-pressure questioning. They need to practice interviews that combine leadership, tactical decision-making, and public service ethics.
 
 Goal:
+
 Simulate a CAPF interview focusing on crisis management and operational leadership.
 
 Prompt:
+
 "You are a senior officer on the CAPF interview panel. Conduct a mock interview with focus on:
 
-Managing a riot situation in a sensitive area
-Decision-making during natural disasters
-Coordination with state police and other agencies
-Ethical dilemmas in use-of-force situations
+1. Managing a riot situation in a sensitive area
+
+2. Decision-making during natural disasters
+
+3. Coordination with state police and other agencies
+
+4. Ethical dilemmas in use-of-force situations
+
 Ask 12 questions, mix operational, ethical, and personal motivation aspects, and provide feedback on composure, decision quality, and empathy."
+
 Inputs:
 
-Candidate’s state of domicile
-Physical fitness achievements
-Any prior NCC or police training experience
+1. Candidate’s state of domicile
+
+2. Physical fitness achievements
+
+3. Any prior NCC or police training experience
 
 Prompt 8 – Indian Forest Service (IFoS) Interview: Environmental Policy & Fieldwork
 
 Backstory:
+
 An environmental science postgraduate has cleared the written stage of the IFoS exam. They have field research experience but limited exposure to policy-level discussions. They want an interview simulation that integrates biodiversity conservation with administrative responsibilities.
 
 Goal:
+
 Create a mock interview for IFoS candidates focusing on environmental conservation and governance.
 
 Prompt:
+
 "You are an Indian Forest Service interview board member. Conduct a mock interview on:
 
-Wildlife protection policies and challenges
-Human-wildlife conflict mitigation strategies
-Forest-based livelihood programmes
-Role of technology in forest management
+1. Wildlife protection policies and challenges
+
+2. Human-wildlife conflict mitigation strategies
+
+3. Forest-based livelihood programmes
+
+4. Role of technology in forest management
+
 Include 10–12 questions, with at least 3 situational case studies, and give detailed feedback on technical depth, problem-solving, and balancing conservation with development."
+
 Inputs:
 
-Candidate’s academic background
-Region they are most familiar with
-Major environmental issues in that region
+1. Candidate’s academic background
+
+2. Region they are most familiar with
+
+3. Major environmental issues in that region
 
 Prompt 9 – Judicial Services Interview: Legal Reasoning & Ethics
 
 Backstory:
+
 A young law graduate has passed the State Judicial Services Mains exam. They have theoretical legal knowledge but need help structuring their answers in an interview setting, especially for questions on ethics, judicial conduct, and application of law in ambiguous situations.
 
 Goal:
+
 Simulate a judicial services interview focusing on ethics, reasoning, and law application.
 
 Prompt:
+
 "You are a senior High Court judge conducting a Judicial Services mock interview. Focus on:
 
-Interpretation of ambiguous legal provisions
-Ethical conduct and conflict of interest scenarios
-Speedy justice vs procedural thoroughness
-Handling public criticism of judicial decisions
+1. Interpretation of ambiguous legal provisions
+
+2. Ethical conduct and conflict of interest scenarios
+
+3. Speedy justice vs procedural thoroughness
+
+4. Handling public criticism of judicial decisions
+
 Ask 10 questions, mix case studies and opinion-based queries, and provide thorough feedback on clarity, neutrality, and legal reasoning."
+
 Inputs:
 
-Candidate’s law school background
-Specialisation areas in law
-Landmark judgments they are familiar with
+1. Candidate’s law school background
+
+2. Specialisation areas in law
+
+3. Landmark judgments they are familiar with
 
 Prompt 10 – UPSC Engineering Services Interview: Public Infrastructure Challenges
 
 Backstory:
 
-
 An electrical engineer working in a private company has cleared the Engineering Services Mains for a central government post. They have strong technical skills but need practice explaining engineering solutions in a governance and public service context.
 
 Goal:
-
 
 Create a mock interview for engineering candidates linking technical expertise with public service goals.
 
 Prompt:
 
-
 "You are a senior panelist for the Engineering Services interview. Conduct a mock interview covering:  
 
-Power infrastructure challenges in rural India  
-Smart grid technologies and their feasibility in India  
-Disaster-proofing public infrastructure  
-Cost-benefit analysis in public works projects
+1. Power infrastructure challenges in rural India  
 
+2. Smart grid technologies and their feasibility in India  
+
+3. Disaster-proofing public infrastructure  
+
+4. Cost-benefit analysis in public works projects
 
 Ask 12–15 questions, blending technical, managerial, and policy aspects, and give feedback on practical applicability and public service alignment."
+
 Inputs:  
 
-Engineering discipline  
-Past project experience  
-State or region candidate wishes to serve in
+1. Engineering discipline  
+
+2. Past project experience  
+
+3. State or region candidate wishes to serve in
 
 Prompt 11 – UPSC CSE Interview: Rural Development & Governance
 
@@ -1590,3 +1662,159 @@ Inputs:
 Candidate’s research experience
 Familiarity with specific Indian wildlife sanctuaries
 Personal conservation initiatives
+
+Prompt 20 – NABARD Grade A Interview: Rural Banking & Agri-Innovation
+
+Backstory:
+An agriculture graduate from Madhya Pradesh has cleared NABARD Grade A exams. They have knowledge of farming practices but want to link that to modern agri-financing solutions. They need help structuring answers that show how banking can accelerate rural innovation.
+
+Goal:
+Simulate a NABARD interview focusing on agri-finance and rural development.
+
+Prompt:
+"You are a NABARD interview panel member. Conduct a mock interview on:
+
+Financing Farmer Producer Organisations (FPOs)
+Digital tools for rural credit disbursement
+Crop insurance and climate resilience
+Ethical lending in distressed farmer situations
+Provide feedback on combining financial literacy with empathy."
+Inputs:
+
+Candidate’s agriculture specialisation
+Familiarity with NABARD’s flagship programs
+Awareness of rural credit challenges
+
+Prompt 21 – State Police Services Interview: Law Enforcement & Community Trust
+
+Backstory:
+A criminal justice graduate has cleared the State Police Services mains in Uttar Pradesh. They have academic knowledge of criminology but no direct field experience. They want to show readiness for real-life policing challenges, from crime prevention to public trust building.
+
+Goal:
+Simulate a State Police Services interview focusing on law enforcement in a diverse society.
+
+Prompt:
+"You are a State Police Services interview board member. Conduct a mock interview on:
+
+Modern policing strategies for urban crime
+Role of social media in law enforcement
+Handling communal tensions as an officer
+Ethical issues in custodial investigations
+Provide feedback on judgment, crisis-handling, and ethics."
+Inputs:
+
+Candidate’s district of domicile
+Exposure to community outreach programs
+Awareness of current policing reforms
+
+Prompt 22 – ISRO Scientist/Engineer Interview: Space Technology & National Security
+
+Backstory:
+An aerospace engineer has cleared ISRO’s written test and is preparing for the interview. They are technically sound but need practice explaining complex space technologies in a policy and strategic context.
+
+Goal:
+Simulate an ISRO interview focusing on India’s space program and its applications.
+
+Prompt:
+"You are an ISRO interview panelist. Conduct a mock interview on:
+
+Role of satellites in disaster management
+Balancing civilian and defence applications of space tech
+India’s space diplomacy efforts
+Ethical considerations in commercial satellite launches
+Provide 10–12 questions and feedback on clarity, depth, and relevance."
+Inputs:
+
+Candidate’s engineering branch
+Recent ISRO missions they have followed
+Preferred research domain
+
+Prompt 23 – AIIMS Nursing Officer Interview: Public Health & Patient Care
+
+Backstory:
+A B.Sc. Nursing graduate has cleared AIIMS Nursing Officer recruitment. They have hospital experience but want to strengthen answers on public health policy and patient rights in a government hospital setting.
+
+Goal:
+Simulate an AIIMS Nursing Officer interview focusing on patient care in public health systems.
+
+Prompt:
+"You are an AIIMS interview panel member. Conduct a mock interview on:
+
+Ethical dilemmas in patient care
+Infection control protocols in public hospitals
+Role of nurses in national health programs
+Handling critical patients in resource-limited situations
+Provide feedback on empathy, protocol adherence, and teamwork."
+Inputs:
+
+Candidate’s nursing specialisation
+Years of clinical experience
+Familiarity with government health schemes
+
+Prompt 24 – UPSC CAPF Interview: Security & Leadership
+
+Backstory:
+A defence studies graduate has cleared UPSC CAPF mains. They want to demonstrate both tactical knowledge and people management skills. Their challenge is to balance operational readiness with community relations.
+
+Goal:
+Simulate a UPSC CAPF interview focusing on internal security and leadership.
+
+Prompt:
+"You are a CAPF interview panelist. Conduct a mock interview on:
+
+Strategies for counter-insurgency operations
+Role of CAPF in disaster relief
+Leadership challenges in high-risk zones
+Balancing force discipline with troop welfare
+Provide detailed feedback on decision-making under pressure."
+Inputs:
+
+Candidate’s security background
+Knowledge of CAPF’s structure
+Leadership experiences
+
+Prompt 25 – GATE PSU Interview: Engineering Problem-Solving
+
+Backstory:
+A mechanical engineer has cleared GATE and is shortlisted for a PSU interview in Bharat Heavy Electricals Limited (BHEL). They are confident in technical problem-solving but want to practice real-world engineering scenarios under resource constraints.
+
+Goal:
+Simulate a PSU engineering interview focusing on applied technical solutions.
+
+Prompt:
+"You are a BHEL interview board member. Conduct a mock interview on:
+
+Cost-efficient design improvements
+Quality control in mass production
+Integrating renewable technologies in heavy engineering
+Handling machinery failure in critical projects
+Provide feedback on technical depth, innovation, and cost-awareness."
+Inputs:
+
+Candidate’s engineering discipline
+Internship/project experience
+Awareness of PSU operational challenges
+
+
+Application & RTI drafting
+
+Prompt 1 – RTI Application for Delayed Government Service
+
+Backstory:
+A resident of Delhi applied for a caste certificate in January but has not received it even after four months, despite repeated visits to the SDM office. The delays are affecting their college admission process. They want to file an RTI to know the reason for the delay, the current status, and the officer responsible.
+
+Goal:
+Draft a precise RTI application under the RTI Act, 2005, requesting status and reasons for delay.
+
+Prompt:
+"Draft a complete RTI application in the standard Government of India format for the following case:
+
+Applicant: Resident of Delhi, awaiting caste certificate for 4 months.
+Department: Office of the Sub-Divisional Magistrate, Delhi.
+Information sought: Date of processing, reasons for delay, responsible officer, and expected date of issuance.
+Ensure clarity, polite language, and compliance with RTI norms."
+Inputs:
+
+Applicant name and address
+Date of application submission
+Application receipt/reference number
