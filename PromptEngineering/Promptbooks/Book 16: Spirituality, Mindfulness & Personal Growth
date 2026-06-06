@@ -233,3 +233,227 @@ Relationship context (family, work, self)
 Language choice
 Tone (gentle, empowering, spiritual)
 
+Prompt 14 – Mindful Eating Meditation
+Backstory: With fast-paced lifestyles, many Indians eat while multitasking, leading to poor digestion and overeating. Mindful eating meditations help reconnect with the sensory experience of food and the gratitude for nourishment. This practice can be particularly helpful for those managing lifestyle diseases like diabetes or obesity.
+
+Goal: Write a meditation that encourages mindful eating practices.
+
+Prompt:
+“You are a wellness coach integrating mindfulness into daily routines. Write a 10-minute mindful eating meditation.
+
+Begin before the meal with gratitude for the food and those who prepared it.
+Guide slow, conscious chewing and sensory awareness.
+End with reflection on nourishment and satiety.”
+Inputs:
+
+Meal type (breakfast, lunch, dinner)
+Religious or cultural food context
+Tone (educational, calming)
+
+Prompt 15 – Meditation for Resilience During Challenges
+Backstory: Life in India, especially in competitive academic or work environments, often involves setbacks. Building resilience is key to bouncing back without losing motivation. A guided resilience meditation can provide mental strength, adaptability, and emotional balance during tough phases.
+
+Goal: Write a meditation that boosts resilience and mental strength.
+
+Prompt:
+“You are a resilience coach. Create a 12-minute guided meditation for overcoming challenges.
+
+Use breathing to anchor presence.
+Include visualizations of overcoming obstacles.
+Add affirmations about strength, adaptability, and growth.”
+Inputs:
+
+Type of challenge (career, health, relationships)
+Duration preference
+Language choice
+
+Prompt 16 – Meditation for Letting Go of Overthinking
+Backstory: In India’s fast-paced, competitive environment, constant mental chatter and overthinking are common, especially among students and professionals. Overthinking can drain mental energy, disrupt sleep, and cloud decision-making. This guided meditation aims to help individuals detach from repetitive thoughts and return to a state of mental clarity.
+
+Goal: Create a meditation that quiets the mind and reduces mental overactivity.
+
+Prompt:
+“You are a meditation coach focusing on mental clarity. Write a 15-minute guided meditation for letting go of overthinking.
+
+Start with breath awareness to slow down thought patterns.
+Use imagery of thoughts floating away like clouds.
+End with grounding in the present moment.”
+Inputs:
+
+Duration preference
+Imagery type
+Language
+
+Prompt 17 – Chakra Balancing Meditation
+Backstory: Rooted in yogic traditions, chakras are energy centers believed to affect physical, emotional, and spiritual well-being. Many people in India are aware of chakras but lack practical guidance to balance them. This meditation will help align the body’s energy system for overall harmony and vitality.
+
+Goal: Create a chakra-balancing meditation with Indian cultural context.
+
+Prompt:
+“You are a yoga teacher creating a 20-minute guided chakra-balancing meditation.
+
+Briefly explain each chakra and its significance.
+Guide visualization of energy flowing and balancing each center.
+Use Sanskrit names and affirmations for each chakra.”
+Inputs:
+
+Level of explanation (beginner/advanced)
+Duration preference
+Cultural elements to include
+
+Prompt 18 – Self-Love & Inner Confidence Meditation
+Backstory: In Indian society, self-worth is often tied to external validation—academic success, marriage, or career status. This meditation focuses on building intrinsic self-worth and confidence by nurturing a compassionate inner voice. It is suitable for young adults, women, and anyone seeking self-empowerment.
+
+Goal: Write a meditation that fosters self-love and confidence.
+
+Prompt:
+“You are a life coach creating a 12-minute guided self-love meditation.
+
+Start with a grounding exercise.
+Use affirmations focused on self-worth and acceptance.
+End with visualizing the listener standing in their power.”
+Inputs:
+
+Duration
+Affirmation style (spiritual, modern)
+Language
+
+Prompt 19 – Stress Relief in Traffic Meditation
+Backstory: Long commutes and traffic jams are a daily reality in many Indian cities, causing frustration and stress. This short meditation can be done in a stationary vehicle to release tension and maintain calm during unavoidable delays.
+
+Goal: Create a traffic-specific stress relief meditation.
+
+Prompt:
+“You are a mindfulness trainer. Write a 5-minute guided meditation for stress relief during traffic jams.
+
+Focus on breath awareness and body relaxation.
+Add visualizations of open roads or calming scenery.
+End with a positive intention for the day.”
+Inputs:
+
+Duration
+Imagery choice
+Tone (humorous, calming)
+
+Prompt 20 – Meditation for Exam Anxiety
+Backstory: Board exams, competitive entrance tests, and university assessments create intense pressure for Indian students. Anxiety can block memory recall and focus. This meditation can be practiced in the days leading up to an exam to enhance confidence and calmness.
+
+Goal: Write a meditation to reduce exam-related anxiety.
+
+Prompt:
+“You are an academic wellness coach. Write a 10-minute guided meditation for reducing exam stress.
+
+Start with deep breathing and relaxation.
+Visualize answering questions confidently.
+End with affirmations of preparation and clarity.”
+Inputs:
+
+Exam type
+Duration
+Language
+
+Prompt 21 – Morning Energy Boost Meditation
+Backstory: Many urban Indians wake up groggy due to irregular sleep or late nights. A quick, energizing meditation can replace or complement morning tea/coffee, using breathwork and visualization to awaken body and mind naturally.
+
+Goal: Write an energizing morning meditation.
+
+Prompt:
+“You are a wellness coach. Create an 8-minute guided meditation for boosting morning energy.
+
+Use breathwork techniques like Kapalabhati or Bhastrika.
+Visualize sunlight energizing the body.
+End with an intention for the day.”
+Inputs:
+
+Breathwork inclusion (yes/no)
+Duration
+Cultural references
+
+Prompt 22 – Mindfulness for Workplace Focus
+Backstory: Corporate employees in India often juggle multiple tasks, leading to mental fatigue and decreased productivity. A short mindfulness practice during office hours can improve concentration and reduce stress.
+
+Goal: Write a meditation to boost focus at work.
+
+Prompt:
+“You are a corporate wellness facilitator. Write a 7-minute mindfulness meditation for workplace focus.
+
+Start with posture adjustment and deep breathing.
+Guide attention to one task at a time.
+Use affirmations for clarity and efficiency.”
+Inputs:
+
+Duration
+Office setting description
+Tone (formal, casual)
+
+Prompt 23 – Guided Meditation for Grief Healing
+Backstory: Loss, whether of a loved one, a job, or a relationship, is deeply felt in Indian culture where family bonds are strong. This meditation will help listeners process grief and find emotional healing through acceptance and remembrance.
+
+Goal: Write a grief-healing meditation.
+
+Prompt:
+“You are a grief counselor. Write a 15-minute guided meditation for processing grief.
+
+Begin with breath-based relaxation.
+Use imagery of light and memory preservation.
+End with affirmations of resilience and peace.”
+Inputs:
+
+Relationship to the loss
+Duration
+Spiritual elements inclusion
+
+Prompt 24 – Meditation for Creative Inspiration
+Backstory: Artists, writers, and entrepreneurs often face creative blocks. This meditation will help listeners tap into their inner creativity by calming self-doubt and connecting to inspiration sources.
+
+Goal: Write a creativity-enhancing meditation.
+
+Prompt:
+“You are a creativity coach. Write a 12-minute guided meditation for unlocking creative potential.
+
+Start with breath awareness to clear mental clutter.
+Use visualization of a ‘creative garden’ or flowing river.
+End with affirmations of originality and flow.”
+Inputs:
+
+Creative field
+Duration
+Imagery type
+
+Prompt 25 – Evening Reflection & Release Meditation
+Backstory: Many people in India end their day carrying work stress or unresolved emotions into sleep. This meditation encourages reflection, release of negativity, and gratitude before bedtime, improving sleep quality and emotional health.
+
+Goal: Write a meditation for evening reflection.
+
+Prompt:
+“You are a mindfulness trainer. Write a 10-minute guided evening reflection meditation.
+
+Start with breathwork to relax.
+Guide the listener to review their day with gratitude.
+Release negative moments and set a peaceful intention for tomorrow.”
+Inputs:
+
+Duration
+Reflection prompts
+Language choice
+
+
+Social media content for spiritual coaches
+
+Prompt 1 – Instagram Carousel on “Daily Mindfulness Habits”
+Backstory: Many Indian spiritual coaches use Instagram to share quick, relatable tips. Carousels work well because they allow deeper explanations without overwhelming followers. This post will break down small, actionable mindfulness habits that busy professionals and homemakers can adopt without feeling pressured.
+
+Goal: Create a 7-slide Instagram carousel script for a spiritual coach, focusing on practical daily mindfulness tips.
+
+Prompt:
+“You are a content strategist for a spiritual coach. Write a 7-slide Instagram carousel post titled ‘Daily Mindfulness Habits for a Calmer Life’.
+
+Slide 1: Hook headline.
+Slides 2–6: One actionable habit per slide, explained in simple language.
+Slide 7: Call-to-action to follow and share.
+Keep the tone friendly, spiritual yet practical.”
+Inputs:
+
+Audience type
+Level of spiritual language
+Call-to-action style
