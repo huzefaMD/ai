@@ -1981,109 +1981,156 @@ Inputs:
 Prompt 2 – RTI on Public Works Expenditure Transparency
 
 Backstory:
+
 A social activist from Bihar suspects mismanagement in a rural road construction project under the PMGSY scheme. The road was inaugurated last month, but visible cracks and potholes have appeared already. The activist wants to know the total budget sanctioned, the contractor’s details, and the inspection reports.
 
 Goal:
+
 Draft an RTI to obtain financial and inspection records for a public infrastructure project.
 
 Prompt:
+
 "Prepare a formal RTI application addressed to the Public Works Department (PWD) of Bihar, asking for:
 
-Sanctioned budget and actual expenditure
-Name and details of the contractor
-Dates and findings of official inspections
+1. Sanctioned budget and actual expenditure
+
+2. Name and details of the contractor
+
+3. Dates and findings of official inspections
+
 Ensure the draft is clear, non-accusatory, and compliant with the RTI Act format."
+
 Inputs:
 
-Project name and location
-Date of completion/inauguration
-Any photo evidence (optional, for annexure)
+1. Project name and location
+
+2. Date of completion/inauguration
+
+3. Any photo evidence (optional, for annexure)
 
 Prompt 3 – Application for Government Job Age Relaxation
 
 Backstory:
+
 An applicant from Rajasthan is applying for a state government clerical post but is two months over the age limit. However, they belong to an OBC category that qualifies for age relaxation under state rules. They need to write a formal application to the recruitment board requesting consideration.
 
 Goal:
+
 Draft a professional application letter requesting age relaxation for a government recruitment process.
 
 Prompt:
+
 "Write a formal application to the Rajasthan Public Service Commission requesting age relaxation for an OBC category candidate who is two months over the limit.
+
 The application should:
 
-Cite relevant state government rules
-Mention category certificate details
-Request consideration without appearing entitled
+1. Cite relevant state government rules
+
+2. Mention category certificate details
+
+3. Request consideration without appearing entitled
+
 Maintain a formal and respectful tone."
+
 Inputs:
 
-Candidate’s name, DOB, and category certificate number
-Post applied for
-Notification reference number
+1. Candidate’s name, DOB, and category certificate number
+
+2. Post applied for
+
+3. Notification reference number
 
 Prompt 4 – RTI for University Examination Paper Re-evaluation Timeline
 
 Backstory:
+
 A postgraduate student from a state university in Uttar Pradesh applied for paper re-evaluation two months ago and has not received any update. The delay is affecting their eligibility for a government fellowship. They want to file an RTI to know the status and timelines.
 
 Goal:
+
 Draft an RTI application seeking status and processing timeline for an exam re-evaluation request.
 
 Prompt:
+
 "Prepare a detailed RTI application addressed to the Controller of Examinations of the university asking for:
 
-Current status of re-evaluation request
-Date of expected completion
-Names of responsible officials processing the application
+1. Current status of re-evaluation request
+
+2. Date of expected completion
+
+3. Names of responsible officials processing the application
+
 Ensure it is polite, factual, and RTI-compliant."
+
 Inputs:
 
-Student name, roll number, and course
-Date of re-evaluation application
-University name and address
+1. Student name, roll number, and course
+
+2. Date of re-evaluation application
+
+3. University name and address
 
 Prompt 5 – Application for Land Mutation in Municipal Records
 
 Backstory:
+
 A landowner in Gujarat recently inherited agricultural land from their father. The property transfer is legally complete, but the mutation in municipal records is pending for over six months. They need to submit a formal application to the local municipal corporation to expedite the process.
 
 Goal:
+
 Draft a professional application for land mutation entry in municipal records.
 
 Prompt:
+
 "Write a formal application to the Municipal Commissioner requesting mutation of inherited agricultural land in property records.
+
 The letter should include:
 
-Inheritance proof details
-Survey number and property location
-Request for expedited processing due to pending loan application
+1. Inheritance proof details
+
+2. Survey number and property location
+
+3. Request for expedited processing due to pending loan application
+
 Ensure it is concise and formatted for official submission."
+
 Inputs:
 
-Applicant’s name and address
-Survey/property number
-Date of inheritance documentation
+1. Applicant’s name and address
+
+2. Survey/property number
+
+3. Date of inheritance documentation
 
 Prompt 6 – RTI on Pending Pension Application
 
 Backstory:
+
 A retired government school teacher in Maharashtra applied for their pension benefits eight months ago. Despite submitting all required documents and reminders, they have not received any pension payments yet. Their only source of income is this pension, and the delay is causing financial stress. They want to file an RTI to find out the cause of the delay and the expected release date.
 
 Goal:
+
 Draft a clear RTI application seeking the status and reasons for delay in processing a pension application.
 
 Prompt:
+
 "Prepare an RTI application addressed to the Accounts and Pension Office of Maharashtra asking for:
 
-Current status of pension application
-Reasons for delay in payment
-Name and designation of the officer responsible
+1. Current status of pension application
+
+2. Reasons for delay in payment
+
+3. Name and designation of the officer responsible
+
 Use a respectful tone and follow the official RTI Act format."
+
 Inputs:
 
-Applicant’s name, pension ID, and retirement date
-Department from which retired
-Date of pension application submission
+1. Applicant’s name, pension ID, and retirement date
+
+2. Department from which retired
+
+3. Date of pension application submission
 
 Prompt 7 – Application for Government Quarters Allocation
 
@@ -2099,36 +2146,49 @@ Prompt:
 
 "Write an official application to the Estate Officer requesting government quarters, including: 
 
-Posting details and joining date 
-Current rented accommodation cost 
-Justification for urgent allotment
+1. Posting details and joining date 
+
+2. Current rented accommodation cost 
+
+3. Justification for urgent allotment
 
 Ensure it is concise, formal, and respectful."
+
 Inputs: 
 
-Name, designation, and department
-Posting location and date of joining
-Current rent details
+1. Name, designation, and department
+
+2. Posting location and date of joining
+
+3. Current rent details
 
 Prompt 8 – RTI for Transparency in Exam Results
 
 Backstory:
+
 A candidate for a state-level police constable exam in Tamil Nadu suspects discrepancies in the published results. Their score is significantly lower than expected. They wish to file an RTI to request their answer sheet copy and the evaluation process details.
 
 Goal:
+
 Draft an RTI application for obtaining exam evaluation details.
 
 Prompt:
+
 "Prepare a detailed RTI addressed to the Tamil Nadu Uniformed Services Recruitment Board requesting:
 
-Photocopy of the candidate’s evaluated answer sheet
-Marking scheme used
-Any moderation rules applied
+1. Photocopy of the candidate’s evaluated answer sheet
+
+2. Marking scheme used
+
+3. Any moderation rules applied
+
 Ensure it is polite, factual, and in standard RTI format."
+
 Inputs:
 
-Candidate’s name, roll number, and exam date
-Recruitment notification reference number
+1. Candidate’s name, roll number, and exam date
+
+2. Recruitment notification reference number
 
 Prompt 9 – Application for Correction in Government Records
 
