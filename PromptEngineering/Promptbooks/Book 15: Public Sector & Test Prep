@@ -840,3 +840,238 @@ Inputs:
 
 3. Staff availability data
 
+Prompt 16 – Digital Education Policy for Government Schools
+
+Backstory:
+The Ministry of Education has launched a nationwide digital learning initiative, providing e-content, tablets, and teacher training to government schools. While urban schools adapt quickly, rural and semi-urban schools struggle due to limited electricity and bandwidth. Teachers require clear guidelines on how to blend traditional teaching with new digital resources.
+
+Goal:
+Translate the digital education policy into an actionable plan for government school teachers.
+
+Prompt:
+"You are an education policy expert. Summarise the government’s digital education initiative for teachers in rural and semi-urban government schools. Include:
+
+Available e-content and resources
+Device distribution and maintenance
+Hybrid teaching strategies
+Offline learning solutions for low-bandwidth areas"
+Inputs:
+
+Digital education policy document
+Current school resource inventory
+Teacher training schedules
+
+Prompt 17 – Smart City Mission Policy Update
+
+Backstory:
+The Smart City Mission has entered its second phase, focusing on renewable energy, intelligent traffic systems, and integrated waste management. Municipal corporations in smaller cities often lack in-house expertise to translate these policies into actionable urban planning steps. A concise, implementation-ready brief could bridge this gap.
+
+Goal:
+Summarise the Smart City Mission Phase-2 guidelines for municipal planners.
+
+Prompt:
+"You are an urban policy consultant. Summarise the Smart City Mission Phase-2 guidelines for municipal planning teams. Include:
+
+New focus areas and funding allocations
+Recommended infrastructure projects
+Technology integration priorities
+Citizen engagement requirements"
+Inputs:
+
+Smart City Mission Phase-2 policy
+City’s current infrastructure plan
+Budget allocation details
+
+Prompt 18 – Renewable Energy Policy for State Governments
+
+Backstory:
+India’s renewable energy targets have been revised to accelerate solar and wind installations, with state governments receiving performance-linked incentives. However, states with limited renewable infrastructure face challenges in scaling up quickly while maintaining grid stability. Policymakers need a clear, state-specific execution guide.
+
+Goal:
+Summarise the updated renewable energy policy for state-level adaptation.
+
+Prompt:
+"You are an energy policy specialist. Summarise the national renewable energy policy for state governments. Include:
+
+New targets and timelines
+Available incentives and funding
+Integration with state power grids
+Recommendations for rapid project deployment"
+Inputs:
+
+Renewable energy policy document
+State’s current energy mix
+Available land and resources
+
+Prompt 19 – Urban Housing Policy Review
+
+Backstory:
+The Pradhan Mantri Awas Yojana (PMAY) has been extended with revised income eligibility criteria and an emphasis on green building designs. State housing boards need a comparative analysis of old and new guidelines to adjust application processes and outreach campaigns.
+
+Goal:
+Compare old and new PMAY guidelines for housing boards.
+
+Prompt:
+"You are a housing policy analyst. Create a comparative review of PMAY’s revised guidelines for state housing boards. Include:
+
+Changes in income eligibility and subsidy rates
+New green building requirements
+Impact on urban vs. rural applicants
+Updated application and approval processes"
+Inputs:
+
+PMAY guideline documents (old and new)
+Housing board application data
+Local construction practices
+
+Prompt 20 – Disaster Management Policy for Coastal States
+
+Backstory:
+With rising sea levels and increased cyclone frequency, the National Disaster Management Authority (NDMA) has revised its disaster preparedness guidelines for coastal states. The new framework includes early warning systems, mandatory community drills, and stricter construction norms for vulnerable areas. Many district disaster management units lack the expertise to translate these into effective local action plans.
+
+Goal:
+Summarise disaster management policy updates for coastal district administrations.
+
+Prompt:
+"You are a disaster management policy expert. Summarise the NDMA’s updated disaster preparedness guidelines for coastal states. Include:
+
+Early warning system requirements
+Community training and drill protocols
+Updated infrastructure safety standards
+Funding and resource allocation strategies"
+Inputs:
+
+NDMA policy update
+Coastal vulnerability maps
+Local infrastructure data
+
+Prompt 21 – Public Transport Electrification Policy
+
+Backstory:
+The Ministry of Road Transport & Highways has announced a 10-year roadmap to transition public transport fleets to electric vehicles (EVs). While large cities have pilot projects, smaller cities and towns face procurement, charging infrastructure, and maintenance challenges. State transport corporations need a roadmap tailored to their operational scale.
+
+Goal:
+Summarise the public transport electrification policy for state and municipal transport bodies.
+
+Prompt:
+"You are a transportation policy advisor. Summarise the national public transport EV policy for state transport corporations. Include:
+
+Targets and timelines for fleet transition
+Financial incentives and subsidies
+Charging infrastructure requirements
+Workforce training for EV maintenance"
+Inputs:
+
+Public transport EV policy document
+Current fleet inventory
+Local power grid capacity report
+
+Prompt 22 – National Water Policy Implementation Guide
+
+Backstory:
+The revised National Water Policy emphasises water-use efficiency, river rejuvenation, and community-led conservation. Many local water boards struggle with fragmented data, outdated infrastructure, and public apathy towards water conservation. A clear summary can help them design district-specific action plans aligned with national goals.
+
+Goal:
+Create a simplified policy guide for local water boards.
+
+Prompt:
+"You are a water resource policy specialist. Summarise the revised National Water Policy for district water boards. Include:
+
+Key conservation targets
+Recommended urban and rural water-use strategies
+River rejuvenation measures
+Community participation models"
+Inputs:
+
+National Water Policy document
+Local water usage data
+Existing conservation projects list
+
+Prompt 23 – Startup Incentives & Policy Compliance Guide
+
+Backstory:
+The Government of India has updated its Startup India initiative with new tax benefits, compliance relaxations, and funding schemes for early-stage ventures. Many young founders, especially outside metro cities, are unaware of how to navigate these provisions. A sector-neutral compliance guide could accelerate participation.
+
+Goal:
+Summarise Startup India benefits and compliance requirements for first-time founders.
+
+Prompt:
+"You are a startup policy advisor. Summarise the updated Startup India scheme for new entrepreneurs. Include:
+
+Eligibility criteria
+Tax exemptions and benefits
+Government funding programs
+Compliance and reporting requirements"
+Inputs:
+
+Startup India policy update
+Founder’s business registration details
+Sector-specific eligibility norms
+
+Prompt 24 – Agricultural Export Promotion Policy
+
+Backstory:
+To boost rural incomes, the government has revised its agricultural export policy with better infrastructure support, export hubs, and simplified procedures. However, small-scale farmers and FPOs (Farmer Producer Organisations) need clear, step-by-step guidance to tap into these opportunities.
+
+Goal:
+Summarise agricultural export policy for small farmers and FPOs.
+
+Prompt:
+"You are an agri-policy consultant. Summarise the updated agricultural export promotion policy for smallholder farmers. Include:
+
+Eligible crops and produce
+Export hub locations and facilities
+Application process for export licenses
+Government assistance and subsidies"
+Inputs:
+
+Agricultural export policy document
+Farmer/FPO registration details
+Crop yield and quality data
+
+Prompt 25 – Cybersecurity Policy for Government Offices
+
+Backstory:
+The Ministry of Electronics and IT has released updated cybersecurity guidelines to protect government data from increasing cyber threats. These include multi-factor authentication, regular vulnerability audits, and stricter access controls. Smaller government offices, especially at district level, often lack dedicated IT staff and need a simplified action checklist.
+
+Goal:
+Summarise the updated cybersecurity policy for district-level government offices.
+
+Prompt:
+"You are a cybersecurity policy expert. Summarise the national cybersecurity guidelines for government offices. Include:
+
+Mandatory security measures
+Frequency and scope of security audits
+Data handling and encryption requirements
+Staff training recommendations"
+Inputs:
+
+Cybersecurity policy update
+Current IT infrastructure details
+User access records
+
+
+Mock Interview Scripts
+
+Prompt 1 – IAS Civil Services Mock Interview: National Security & Policy
+
+Backstory:
+A 26-year-old UPSC aspirant has cleared the Mains and is preparing for the Personality Test round. Their optional subject is Political Science & International Relations, and they have been following recent developments in India's border security and international diplomacy. However, they often struggle to give concise, structured answers under pressure. They need a realistic mock interview to simulate high-stakes questioning on national security, diplomacy, and governance.
+
+Goal:
+Create a structured IAS mock interview focused on national security and policy issues.
+
+Prompt:
+"You are a UPSC interview board member. Conduct a mock interview for a candidate with Political Science as their optional subject. Focus on:
+
+India’s defence policy and recent border issues
+Role in multilateral organisations (e.g., BRICS, G20)
+Internal security challenges (e.g., cyber threats, terrorism)
+Ethical decision-making in governance
+Ask 10–12 questions, mix factual and opinion-based, and provide feedback after each answer."
+Inputs:
+
+Candidate’s educational background
+Optional subject
+Current affairs they’ve been following
+Strengths and weaknesses in communication
