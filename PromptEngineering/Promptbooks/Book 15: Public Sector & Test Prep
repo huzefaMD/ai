@@ -391,206 +391,302 @@ Inputs:
 Prompt 2 – Analysing a State Agricultural Loan Waiver Policy
 
 Backstory:
+
 A farmers’ cooperative in Vidarbha, Maharashtra, is trying to guide members on the recently announced agricultural loan waiver scheme. The scheme covers certain types of loans up to a specified amount, but there are conditions on eligibility, proof, and time of loan issuance. The cooperative’s president has the 25-page government resolution but needs a clear explanation for farmers with limited literacy, using simple Marathi terms. They also want a visual chart to show who qualifies and who doesn’t.
 
 Goal:
+
 Break down the loan waiver policy into a simple, farmer-friendly guide with examples, eligibility flowchart, and application checklist.
 
 Prompt:
+
 "You are a rural policy communication specialist. Create a farmer-friendly guide for the Maharashtra loan waiver scheme. Include:
 
-Eligibility conditions in simple terms
-Types of loans covered and their limits
-Step-by-step application process with required documents
-Example cases of eligible and non-eligible farmers
-A flowchart showing how to check if you qualify
+1. Eligibility conditions in simple terms
+
+2. Types of loans covered and their limits
+
+3. Step-by-step application process with required documents
+
+4. Example cases of eligible and non-eligible farmers
+
+5. A flowchart showing how to check if you qualify
+
 Provide the text in simple Marathi and English."
+
 Inputs:
 
-Full government resolution document
-Target farmer profile (region, literacy level)
-Translation requirement (e.g., Marathi)
+1. Full government resolution document
+
+2. Target farmer profile (region, literacy level)
+
+3. Translation requirement (e.g., Marathi)
 
 Prompt 3 – Decoding the New GST Rate Changes for Small Businesses
 
 Backstory:
+
 A group of small business owners in Jaipur, including boutique shopkeepers and café owners, are struggling to understand the recent GST Council changes. The changes involve rate revisions for certain goods and services, exemptions for specific turnover levels, and updated filing timelines. The official notification is packed with legal jargon, making it difficult for them to determine if they need to alter pricing or accounting processes. They want a business-focused summary that also includes a “Do This Now” checklist for compliance.
 
 Goal:
+
 Summarise the GST notification for small business owners with clear action steps for immediate compliance.
 
 Prompt:
+
 "You are a taxation policy expert. Create a small-business-friendly summary of the recent GST rate change notification. Include:
 
-List of affected goods/services and their old vs new rates
-Who is exempt and under what turnover limits
-Updated filing and payment deadlines
-Immediate compliance actions for business owners
-Recommendations for pricing strategy updates
+1. List of affected goods/services and their old vs new rates
+
+2. Who is exempt and under what turnover limits
+
+3. Updated filing and payment deadlines
+
+4. Immediate compliance actions for business owners
+
+5. Recommendations for pricing strategy updates
+
 Use simple English and include a ‘Do This Now’ checklist."
+
 Inputs:
 
-Latest GST notification document
-Target audience business type and turnover
-State-specific applicability
+1. Latest GST notification document
+
+2. Target audience business type and turnover
+
+3. State-specific applicability
 
 Prompt 4 – Analysing a State Housing Policy for Affordable Housing Projects
 
 Backstory:
+
 A real estate developer in Pune is exploring participation in a state government affordable housing project. The new housing policy outlines land allocation rules, subsidy mechanisms, and partnership models between the government and private builders. However, the 60-page document is highly technical and contains several annexures with critical details. The developer’s legal team wants a concise yet thorough summary to assess financial feasibility and compliance risks before bidding.
 
 Goal:
+
 Provide a developer-focused analysis of the affordable housing policy, highlighting opportunities and risks.
 
 Prompt:
+
 "You are a real estate policy analyst. Summarise the Maharashtra affordable housing policy for a private builder. Include:
 
-Land allocation eligibility and process
-Subsidy and incentive structure
-Cost-sharing or PPP models explained
-Compliance obligations and penalties
-Key financial viability risks
+1. Land allocation eligibility and process
+
+2. Subsidy and incentive structure
+
+3. Cost-sharing or PPP models explained
+
+4. Compliance obligations and penalties
+
+5. Key financial viability risks
+
 Use a tabular format for benefits vs risks, and highlight critical deadlines."
+
 Inputs:
 
-Full housing policy PDF or link
-State/city where the project is planned
-Intended project size and target market
+1. Full housing policy PDF or link
+
+2. State/city where the project is planned
+
+3. Intended project size and target market
 
 Prompt 5 – Interpreting the National Education Policy for EdTech Startups
 
 Backstory:
+
 An EdTech startup in Hyderabad is building an AI-based platform for school curriculum enhancement. They are keen to align their features with the goals of the National Education Policy (NEP) 2020 to tap into government partnerships and funding opportunities. However, the NEP is a broad framework spanning school and higher education, teacher training, vocational education, and technology integration. They need a section-wise digest focusing on implications for EdTech and potential collaboration points with public institutions.
 
 Goal:
+
 Condense the NEP 2020 into an EdTech-relevant strategic brief.
 
 Prompt:
+
 "You are an education policy analyst. Create a NEP 2020 strategic summary for an EdTech startup. Include:
 
-Key reforms impacting digital education
-Opportunities for public-private partnerships
-Teacher training and digital tools adoption areas
-Skill development integration possibilities
-Regulatory considerations for operating in schools
+1. Key reforms impacting digital education
+
+2. Opportunities for public-private partnerships
+
+3. Teacher training and digital tools adoption areas
+
+4. Skill development integration possibilities
+
+5. Regulatory considerations for operating in schools
+
 Present in bullet points with an action plan for product alignment."
+
 Inputs:
 
-NEP 2020 official document
-EdTech product description and target audience
-State-level education department variations
+1. NEP 2020 official document
+
+2. EdTech product description and target audience
+
+3. State-level education department variations
 
 Prompt 6 – Summarising the Draft Data Protection Bill for Startup Founders
 
 Backstory:
+
 A group of SaaS startup founders in Bengaluru have received queries from investors about their compliance readiness for the proposed Data Protection Bill in India. The bill covers rules on user data storage, cross-border data transfer, and penalties for breaches. Founders are worried about how these regulations will impact product design, server location, and marketing activities. They want a concise, business-friendly interpretation that helps them prepare before the law is passed.
 
 Goal:
+
 Create a startup-oriented summary of the Data Protection Bill highlighting compliance requirements and operational impact.
 
 Prompt:
+
 "You are a legal policy consultant for startups. Summarise the draft Data Protection Bill in India for SaaS founders. Include:
 
-Key provisions affecting data collection and storage
-Rules on cross-border data transfers
-User consent and data rights explained simply
-Fines and penalties for non-compliance
-Immediate product and infrastructure adjustments to consider
+1. Key provisions affecting data collection and storage
+
+2. Rules on cross-border data transfers
+
+3. User consent and data rights explained simply
+
+4. Fines and penalties for non-compliance
+
+5. Immediate product and infrastructure adjustments to consider
+
 Provide a 1-page actionable compliance roadmap."
+
 Inputs:
 
-Latest draft of the Data Protection Bill
-Startup’s target audience and data flow model
-Current hosting/server setup
+1. Latest draft of the Data Protection Bill
+
+2. Startup’s target audience and data flow model
+
+3. Current hosting/server setup
 
 Prompt 7 – Interpreting an RBI Circular on Digital Lending Norms
 
 Backstory:
+
 A mid-sized NBFC offering digital loans in Tier-2 cities needs to update its operations after a recent RBI circular on digital lending norms. The circular mandates changes to how lenders communicate terms, disclose charges, and handle repayment collections. The NBFC’s compliance team is struggling to interpret the operational implications for its existing mobile app and agent network. They want a clear, lender-focused breakdown that they can share with product, tech, and collections teams.
 
 Goal:
+
 Convert the RBI circular into an operational implementation guide for digital lenders.
 
 Prompt:
+
 "You are a financial policy translator for NBFCs. Break down the RBI’s latest circular on digital lending norms into:
 
-Summary of each key rule and its rationale
-Changes required in mobile app workflows
-Updates to loan agreement templates
-Adjustments for on-field agent scripts
-Compliance deadlines and penalties
+1. Summary of each key rule and its rationale
+
+2. Changes required in mobile app workflows
+
+3. Updates to loan agreement templates
+
+4. Adjustments for on-field agent scripts
+
+5. Compliance deadlines and penalties
+
 Create a checklist for each department to follow."
+
 Inputs:
 
-RBI circular document
-Current loan disbursement and repayment process flow
-Details of digital channels used
+1. RBI circular document
+
+2. Current loan disbursement and repayment process flow
+
+3. Details of digital channels used
 
 Prompt 8 – Analysis of India’s National Education Policy (NEP) 2020 for State-Level Implementation
 
 Backstory:
+
 The Education Department in a southern Indian state is planning reforms to align its school curriculum with the NEP 2020 guidelines. However, many district officers and school administrators are unclear about the phased rollout and the exact changes needed in pedagogy, assessments, and teacher training. The department needs a clear policy summary tailored for state-level execution, highlighting actionable steps for government and private schools alike.
 
 Goal:
+
 Summarise NEP 2020 with a focus on state-level policy implementation and timelines.
 
 Prompt:
+
 "You are an education policy expert. Summarise the NEP 2020 in a way that guides state education boards to implement it effectively. Include:
 
-Core changes in curriculum, pedagogy, and assessment
-Teacher training and qualification requirements
-Infrastructure and digital learning mandates
-Phased rollout plan with key deadlines
+1. Core changes in curriculum, pedagogy, and assessment
+
+2. Teacher training and qualification requirements
+
+3. Infrastructure and digital learning mandates
+
+4. Phased rollout plan with key deadlines
+
 Provide a table mapping NEP provisions to state-level action points."
+
 Inputs:
 
-NEP 2020 document
-State education board’s current curriculum plan
-Available budget and teacher capacity
+1. NEP 2020 document
+
+2. State education board’s current curriculum plan
+
+3. Available budget and teacher capacity
 
 Prompt 9 – Simplified Summary of India’s New Labour Codes for Factory Owners
 
 Backstory:
+
 A manufacturing association representing 150 small and medium-sized factories in Gujarat has been receiving mixed interpretations of the new Labour Codes. Factory owners want clarity on wages, working hours, safety compliance, and employee benefits, especially for contract workers. Without clear guidance, they risk penalties or labour disputes.
 
 Goal:
+
 Create a plain-language interpretation of the new Labour Codes for SME factory owners.
 
 Prompt:
+
 "You are an industrial relations consultant. Create a simple, actionable summary of India’s new Labour Codes for SME factory owners. Cover:
 
-Changes in wage calculation and payment schedules
-Revised safety and working hour norms
-Employee benefits for contract and full-time workers
-Penalties for non-compliance
+1. Changes in wage calculation and payment schedules
+
+2. Revised safety and working hour norms
+
+3. Employee benefits for contract and full-time workers
+
+4. Penalties for non-compliance
+
 Include a compliance checklist with deadlines."
+
 Inputs:
 
-Labour Codes documents
-Current employee policy handbook
-Factory workforce size and structure
+1. Labour Codes documents
+
+2. Current employee policy handbook
+
+3. Factory workforce size and structure
 
 Prompt 10 – GST Policy Amendments for Small Traders
 
 Backstory:
+
 In early 2025, the GST Council announced several changes impacting small traders, particularly those operating under the composition scheme. Many small shopkeepers and local traders in Tier-2 and Tier-3 cities are struggling to understand how these changes affect their tax filing process, input credit eligibility, and compliance costs. There’s a pressing need for a concise, easy-to-understand summary tailored to this demographic.
 
 Goal:
+
 Summarise the latest GST policy amendments in plain language for small traders.
 
 Prompt:
+
 "You are a tax policy expert. Summarise the 2025 GST policy amendments for small traders. Cover:
 
-Key changes in tax rates, return filing, and thresholds
-Impact on composition scheme and input credit
-Compliance timelines and penalties
-Example calculations for common scenarios
+1. Key changes in tax rates, return filing, and thresholds
+
+2. Impact on composition scheme and input credit
+
+3. Compliance timelines and penalties
+
+4. Example calculations for common scenarios
+
 Include a visual table showing old vs. new provisions."
+
 Inputs:
 
-Latest GST amendment notification
-Trader’s annual turnover
-Existing GST compliance process
+1. Latest GST amendment notification
+
+2. Trader’s annual turnover
+
+3. Existing GST compliance process
 
 Prompt 11 – Public Distribution System (PDS) Reform Analysis
 
@@ -606,98 +702,141 @@ Prompt:
 
 "You are a public policy analyst. Summarise the new PDS digitisation reforms for state and district-level officers. Include: 
 
-Objectives and benefits of the reform 
-Required infrastructure and technology 
-Changes in beneficiary verification process 
-Challenges and mitigation strategies 
-Phased rollout guidelines"
+1. Objectives and benefits of the reform 
+
+2. Required infrastructure and technology 
+
+3. Changes in beneficiary verification process 
+
+4. Challenges and mitigation strategies 
+
+5. Phased rollout guidelines"
+
 Inputs: 
 
-Official PDS reform policy document 
-Current PDS operational flow in the state 
-Beneficiary database size
+1. Official PDS reform policy document 
+
+2. Current PDS operational flow in the state 
+
+3. Beneficiary database size
 
 Prompt 12 – Policy Impact Review of India’s EV Subsidy Scheme
 
 Backstory:
+
 The Indian government has revised its FAME-II electric vehicle subsidy scheme, reducing incentives for certain models while promoting electric two-wheelers and public transport. EV startups and dealerships are concerned about the shift in demand patterns and need an impact analysis to guide their sales and marketing strategies.
 
 Goal:
+
 Analyse the revised EV subsidy scheme and its potential impact on the Indian market.
 
 Prompt:
+
 "You are an automotive policy consultant. Provide a detailed impact analysis of the revised FAME-II EV subsidy scheme. Include:
 
-Key subsidy changes for each vehicle category
-Market segments most affected
-Potential impact on sales trends in Tier-1 and Tier-2 cities
-Recommendations for dealers and startups"
+1. Key subsidy changes for each vehicle category
+
+2. Market segments most affected
+
+3. Potential impact on sales trends in Tier-1 and Tier-2 cities
+
+4. Recommendations for dealers and startups"
+
 Inputs:
 
-Latest FAME-II amendment document
-Company’s current EV product portfolio
-Sales data from past two years
+1. Latest FAME-II amendment document
+
+2. Company’s current EV product portfolio
+
+3. Sales data from past two years
 
 Prompt 13 – Agricultural MSP Policy Brief for Farmer Cooperatives
 
 Backstory:
+
 The government has announced revised Minimum Support Prices (MSP) for several crops ahead of the upcoming harvest season. Farmer cooperatives in Punjab and Haryana are confused about how these rates compare with previous seasons and how to adjust their planting decisions accordingly.
 
 Goal:
+
 Summarise MSP policy changes and suggest planning strategies for farmers.
 
 Prompt:
+
 "You are an agricultural economist. Prepare a simple policy brief on the latest MSP changes for farmer cooperatives. Cover:
 
-Revised MSP rates for major crops
-Comparison with previous year’s rates
-Market trends and price forecasts
-Recommendations on crop selection and storage"
+1. Revised MSP rates for major crops
+
+2. Comparison with previous year’s rates
+
+3. Market trends and price forecasts
+
+4. Recommendations on crop selection and storage"
+
 Inputs:
 
-MSP announcement document
-Current crop patterns in the region
-Storage and distribution capabilities
+1. MSP announcement document
+
+2. Current crop patterns in the region
+
+3. Storage and distribution capabilities
 
 Prompt 14 – Cybersecurity Guidelines for Government Departments
 
 Backstory:
+
 In response to rising cyberattacks, the Ministry of Electronics and IT has issued updated cybersecurity guidelines for all central and state government departments. These include stricter password protocols, multi-factor authentication, and regular vulnerability assessments. Many local IT officers lack clarity on implementation priorities.
 
 Goal:
+
 Summarise and operationalise the updated cybersecurity guidelines for government use.
 
 Prompt:
+
 "You are a cybersecurity policy advisor. Summarise the updated government cybersecurity guidelines in an actionable format. Include:
 
-New password and authentication requirements
-Data storage and backup protocols
-Incident reporting processes
-Training and awareness measures for staff"
+1. New password and authentication requirements
+
+2. Data storage and backup protocols
+
+3. Incident reporting processes
+
+4. Training and awareness measures for staff"
+
 Inputs:
 
-Cybersecurity guidelines document
-Department’s current IT security setup
-Staff size and skill level
+1. Cybersecurity guidelines document
+
+2. Department’s current IT security setup
+
+3. Staff size and skill level
 
 Prompt 15 – Rural Healthcare Policy Implementation Challenges
 
 Backstory:
+
 The National Health Mission has expanded rural healthcare programs, introducing telemedicine, mobile diagnostic units, and additional funding for primary health centres. However, district-level health officers in remote areas often face challenges with internet connectivity, staff shortages, and lack of awareness among rural populations. A well-structured summary could help them adapt the policy effectively without losing its intended benefits.
 
 Goal:
+
 Summarise the rural healthcare policy and highlight practical implementation steps for low-resource areas.
 
 Prompt:
+
 "You are a healthcare policy analyst. Summarise the updated rural healthcare initiatives under the National Health Mission for district-level officers. Include:
 
-New facilities and funding provisions
-Technology integration requirements
-Strategies for low-connectivity regions
-Training and awareness-building methods"
+1. New facilities and funding provisions
+
+2. Technology integration requirements
+
+3. Strategies for low-connectivity regions
+
+4. Training and awareness-building methods"
+
 Inputs:
 
-Official NHM update document
-Local infrastructure report
-Staff availability data
+1. Official NHM update document
+
+2. Local infrastructure report
+
+3. Staff availability data
 
