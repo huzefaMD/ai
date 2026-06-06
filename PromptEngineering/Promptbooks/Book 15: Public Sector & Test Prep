@@ -32,67 +32,85 @@ Prompt:
 Prompt 3 — State PCS Part-Time Preparation Schedule
 
 Backstory:
+
 A 30-year-old bank employee in Jaipur is preparing for Rajasthan Administrative Service (RAS) exam. He can dedicate only 3–4 hours on weekdays and 6–7 hours on weekends. His problem is balancing syllabus coverage with revision while keeping up with state-specific current affairs. He also needs to prepare for descriptive Mains answer writing alongside Prelims prep.
 
 Goal:
+
 Design a realistic timetable for a working professional preparing for RAS exam over 10 months.
 
 Prompt:
+
 "Prepare a 10-month RAS exam timetable for a working professional with limited weekday hours and more weekend time. Include state-specific current affairs, GS syllabus coverage, answer writing practice, and revision strategy, ensuring a smooth transition from Prelims to Mains preparation."
 
 Prompt 4 — Railway RRB NTPC Evening-Only Study Plan
 
 Backstory:
+
 A 21-year-old commerce graduate in Patna is preparing for the RRB NTPC exam. He is enrolled in a morning coaching class but needs a structured evening self-study timetable. His weak areas are General Science and Current Affairs, and he wants to maximize his performance in Maths and Reasoning where he is average.
 
 Goal:
+
 Provide a 6-month RRB NTPC evening-only timetable focusing on self-study improvement and mock test integration.
 
 Prompt:
+
 "Create a 6-month RRB NTPC study timetable for a candidate who attends morning coaching but studies independently in the evening. Focus on improving General Science and Current Affairs while maintaining strong Maths and Reasoning skills. Include daily and weekly targets, practice question sets, and mock test frequency."
 
 Prompt 5 — GATE Exam 6-Month Intensive Plan
 
 Backstory:
+
 A 24-year-old engineering student in Hyderabad has decided to take a 6-month break to prepare for the GATE Mechanical Engineering exam. He has completed the syllabus once but has not revised thoroughly. He needs a plan to do subject-wise revision, solve previous year papers, and take full-length mock tests regularly. He also wants a daily 30-minute slot for formula revision.
 
 Goal:
+
 Build a subject-wise, month-by-month GATE revision timetable for maximum score optimization.
 
 Prompt:
+
 "Develop a 6-month GATE Mechanical Engineering revision timetable that includes daily formula review, weekly full-length mock tests, and subject-wise practice. Plan for revisiting difficult topics multiple times and using previous year questions to strengthen conceptual understanding."
 
 Prompt 6 — CLAT Law Entrance Exam One-Year Plan
 
 Backstory:
+
 A 17-year-old student from Mumbai has just entered Class 12 and plans to take the CLAT exam next year. She has strong English skills but struggles with Legal Reasoning and Current Affairs. She needs a timetable that balances schoolwork, CLAT prep, and mock tests, without burnout.
 
 Goal:
+
 Create a year-long CLAT study plan balancing Class 12 board exams and CLAT syllabus.
 
 Prompt:
+
 "Design a 12-month CLAT exam preparation plan for a Class 12 student with strong English but weak Legal Reasoning and Current Affairs. Include subject-wise weekly targets, mock test frequency, and revision methods to manage both school and CLAT preparation effectively."
 
 Prompt 7 — NEET Drop Year Structured Timetable
 
 Backstory:
+
 A 19-year-old NEET aspirant from Chennai is taking a drop year to improve her score. She scored 500 marks last year but wants to cross 650. Her weak point is Physics, while she’s average in Chemistry and strong in Biology. She can dedicate 10–12 hours a day for preparation.
 
 Goal:
+
 Create a 10-month NEET timetable maximizing score improvement with focused Physics practice.
 
 Prompt:
+
 "Prepare a 10-month NEET preparation timetable for a drop-year student, dedicating extra hours to Physics while keeping Biology and Chemistry strong. Include daily practice questions, weekly mock tests, and topic-wise revision cycles."
 
 Prompt 8 — CA Foundation Exam Working Professional Plan
 
 Backstory:
+
 A 25-year-old accounting assistant in Pune wants to prepare for the CA Foundation exam while working full-time. He has 8 months before the exam and can dedicate 3–4 hours on weekdays and 7–8 hours on weekends. His struggle is covering the vast syllabus while revising effectively.
 
 Goal:
+
 Design a realistic 8-month CA Foundation study plan for a working candidate.
 
 Prompt:
+
 "Create an 8-month CA Foundation preparation timetable for a working professional with limited weekday hours. Include topic prioritization, weekend intensive study blocks, and multiple revision cycles before the exam."
 
 Prompt 9 — IBPS PO 6-Month Preparation Plan
@@ -106,103 +124,131 @@ Goal:
 Build a 6-month IBPS PO study plan focusing on balanced skill growth and practice.
 
 Prompt:
+
 "Design a 6-month IBPS PO preparation timetable for a first-time aspirant. Include daily practice sets for Quant, Reasoning, English, and GA, along with mock tests and speed-building drills."
 
 Prompt 10 — NET JRF Two-Phase Preparation Schedule
 
 Backstory:
+
 A 28-year-old M.A. graduate from Kolkata aims to clear the UGC NET JRF in English Literature. She has 7 months before the exam and plans to split preparation into a learning phase and a revision phase. She struggles with Paper 1 reasoning topics.
 
 Goal:
+
 Create a 7-month NET JRF timetable with a structured two-phase approach.
 
 Prompt:
+
 "Prepare a 7-month UGC NET JRF timetable for English Literature, dividing into a learning phase and a revision phase. Include Paper 1 practice, past paper analysis, and Paper 2 literary theory review."
 
 Prompt 11 — UPSC CSE Mains + Prelims Integrated Plan
 
 Backstory:
+
 A 24-year-old postgraduate from Jaipur is preparing for the UPSC Civil Services Exam. She has already attempted once, clearing Prelims but missing Mains by a small margin. This year, she wants to integrate Prelims and Mains preparation for maximum efficiency. She struggles with Ethics (GS Paper 4) and CSAT speed. Her day is free for 10–12 hours of study, but she wants a balanced approach that avoids burnout.
 
 Goal:
+
 Create a 12-month UPSC integrated timetable for both Prelims and Mains with a special focus on Ethics and CSAT improvement.
 
 Prompt:
+
 "Design a 12-month UPSC CSE integrated timetable for a candidate who has previously cleared Prelims but struggled in Mains. Include GS and Optional coverage, Ethics case study practice, and CSAT speed drills while ensuring Prelims test series is incorporated without losing Mains focus."
 
 Prompt 12 — SSC CGL Tier 1 + Tier 2 Combined Plan
 
 Backstory:
+
 A 22-year-old graduate from Lucknow is preparing for SSC CGL for the first time. He has average speed in Quant, decent English grammar skills, and good General Awareness. He is aiming for an income tax inspector post. His challenge is managing Tier 1 speed and accuracy while building Tier 2-level content mastery.
 
 Goal:
+
 Build a 9-month SSC CGL timetable integrating Tier 1 and Tier 2 prep from day one.
 
 Prompt:
+
 "Prepare a 9-month SSC CGL study timetable for a first-time aspirant aiming for the Income Tax Inspector role. Include daily practice schedules for Quant, Reasoning, and English, along with GK revision, Tier 2 topic expansion, and full-length mock tests every fortnight."
 
 Prompt 13 — GATE Mechanical Engineering Crash Plan
 
 Backstory:
+
 A 23-year-old final-year engineering student from Coimbatore has only 4 months left for the GATE exam. His strong subjects are Strength of Materials and Thermodynamics, but he is weak in Fluid Mechanics and Engineering Mathematics. He wants a high-intensity plan that covers weak areas while consolidating strengths.
 
 Goal:
+
 Create a 4-month GATE crash course timetable for maximum score improvement in Mechanical Engineering.
 
 Prompt:
+
 "Draft a 4-month GATE Mechanical Engineering preparation plan for a student with strengths in SOM and Thermodynamics but weak in Fluid Mechanics and Engineering Mathematics. Include weekly test series, formula revision drills, and PYQ-based topic prioritization."
 
 Prompt 14 — NDA Exam Timetable for Class 12 Student
 
 Backstory:
+
 A 17-year-old student from Pune in Class 12 wants to join the Indian Armed Forces via NDA. He is strong in Maths but struggles with General Ability Test (GAT) English and Current Affairs. He has board exams in March but wants to keep NDA prep running alongside.
 
 Goal:
+
 Create a 6-month NDA prep timetable balancing board exams and NDA syllabus.
 
 Prompt:
+
 "Prepare a 6-month NDA preparation timetable for a Class 12 student who is strong in Maths but weak in GAT English and Current Affairs. Include daily newspaper reading, English vocabulary drills, and mock tests while accommodating board exam study."
 
 Prompt 15 — RBI Grade B Officer Study Schedule
 
 Backstory:
+
 A 27-year-old economics graduate from Delhi is aiming for the RBI Grade B exam. She is comfortable with Finance and Economics but struggles in Quant and Reasoning speed. She can dedicate 6–8 hours daily and wants a systematic plan for both Phase 1 and Phase 2 preparation.
 
 Goal:
+
 Design a 7-month RBI Grade B integrated timetable covering both phases.
 
 Prompt:
+
 "Create a 7-month RBI Grade B preparation plan for a candidate strong in Finance/Economics but slow in Quant and Reasoning. Include daily current affairs notes, ESI and FM concept review, and a mock test schedule for both Phase 1 and Phase 2."
 
 Backstory:
+
 A 25-year-old commerce graduate from Indore is preparing for the LIC AAO exam to secure a stable government job. She has been out of competitive studies for 2 years while working part-time. Her strengths lie in Reasoning and English, but she struggles with Quantitative Aptitude speed and has minimal exposure to Insurance Awareness topics. She has 5 hours available on weekdays and 8 hours on weekends. Her goal is to steadily build confidence while improving accuracy in weak areas before the exam in 5 months.
 
 Goal:
+
 Create a 5-month study timetable that builds Quant speed, systematically covers Insurance Awareness, and maintains strengths in other subjects.
 
 Prompt:
+
 "Prepare a 5-month LIC AAO exam study plan for a candidate strong in Reasoning and English but weak in Quant and Insurance Awareness. Include topic-wise weekly targets, Insurance GK sources, and a mock test schedule with progressive difficulty."
 
 Prompt 17 — CAT Exam Timetable for Working Professionals
 
 Backstory:
+
 A 28-year-old IT professional in Bengaluru dreams of pursuing an MBA from a top IIM. His work hours are long, leaving him only 2–3 hours on weekdays and weekends for focused preparation. He is confident in Quantitative Ability due to his engineering background but finds Data Interpretation & Logical Reasoning (DILR) extremely challenging. Past attempts at mock tests have shown poor time management and inconsistency in accuracy. He is targeting CAT in 10 months and needs a plan that fits around his demanding job schedule.
 
 Goal:
+
 Develop a 10-month CAT preparation plan with a strong DILR focus and weekend-heavy study distribution.
 
 Prompt:
+
 "Design a 10-month CAT exam timetable for a working professional with limited weekday hours and weekends free. Include targeted DILR practice sessions, Quant revision cycles, and full-length mock test simulations every 2 weeks."
 
 Prompt 18 — UPSC EPFO EO/AO Exam Plan
 
 Backstory:
+
 A 26-year-old from Patna wants to join the Employees’ Provident Fund Organisation through the UPSC EO/AO exam. She holds a master’s degree in Economics, giving her an advantage in subject-specific knowledge. However, she struggles with General Mental Ability (GMA) speed and finds it hard to maintain a consistent current affairs routine. She has 6 months before the exam and can dedicate 6–7 hours daily. She wants a disciplined approach with strong integration of practice tests and revision.
 
 Goal:
+
 Build a 6-month plan balancing Economics revision, GMA drills, and daily current affairs.
 
 Prompt:
+
 "Draft a 6-month UPSC EPFO EO/AO exam timetable for a candidate strong in Economics but slow in GMA. Include daily current affairs coverage, weekly GMA timed practice, and monthly syllabus completion milestones."
 
 Prompt 19 — CLAT PG Study Schedule
@@ -216,16 +262,20 @@ Goal:
 Create a balanced 8-month CLAT PG plan covering all subjects with judgment revision cycles.
 
 Prompt:
+
 "Create an 8-month CLAT PG preparation plan for a law graduate strong in Constitutional Law but weak in Company Law and Jurisprudence. Include weekly landmark judgment reviews, monthly mock tests, and legal current affairs updates."
 
 Prompt 20 — IBPS PO Prelims + Mains Combined Plan
 
 Backstory:
+
 A 24-year-old BBA graduate from Nagpur is attempting IBPS PO for the first time. She excels in English Language but faces issues with Quant speed and struggles to retain General Awareness for Mains. She understands that preparing for Mains alongside Prelims is essential to avoid last-minute rush. She has 6 months before the exam and can give 5 hours daily. She wants an integrated approach that builds foundation early and intensifies with mocks closer to the exam.
 
 Goal:
+
 Design a 6-month plan integrating Prelims and Mains preparation.
 
 Prompt:
+
 "Design a 6-month IBPS PO study plan integrating Prelims and Mains preparation. Include daily Quant drills, weekly GA quizzes, and descriptive writing practice for Mains along with sectional tests."
 
