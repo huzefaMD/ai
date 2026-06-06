@@ -1180,21 +1180,413 @@ Inputs:
 Prompt 2 – State PCS Mock Interview: Rural Development & Administration
 
 Backstory:
+
 A candidate from Madhya Pradesh has cleared the written examination for the State Public Service Commission. Their background is in agriculture, and they have worked with an NGO on rural development. They need a mock interview that blends administrative duties with practical rural governance scenarios, preparing them for region-specific questions.
 
 Goal:
+
 Simulate a state PCS interview focused on rural governance and development.
 
 Prompt:
+
 "You are a State PCS interview panel member. Conduct a mock interview covering:
 
-Implementation of rural employment schemes (MGNREGA, PMGSY)
-Water resource management in drought-prone areas
-Public health challenges in rural districts
-Conflict resolution between village communities
+1. Implementation of rural employment schemes (MGNREGA, PMGSY)
+
+2. Water resource management in drought-prone areas
+
+3. Public health challenges in rural districts
+
+4. Conflict resolution between village communities
+
 Ask 8–10 scenario-based questions and give feedback on policy clarity, empathy, and practicality of responses."
+
 Inputs:
 
-State and district the candidate is applying for
-Candidate’s professional background
-Key local governance challenges
+1. State and district the candidate is applying for
+
+2. Candidate’s professional background
+
+3. Key local governance challenges
+
+Prompt 3 – PSU HR Management Trainee Interview Simulation
+
+Backstory:
+A fresh MBA graduate from IIM Indore is appearing for an HR Management Trainee position in a major Public Sector Undertaking (PSU) like NTPC. While academically strong, they lack direct PSU exposure and need help aligning their answers with PSU work culture, values, and organisational priorities.
+
+Goal:
+Create a PSU-specific HR trainee interview simulation.
+
+Prompt:
+"You are a PSU recruitment panel member. Conduct a mock interview for an HR Management Trainee role. Cover:
+
+Employee engagement and retention strategies in large public organisations
+Handling labour disputes in industrial units
+Diversity and inclusion initiatives in PSU workplaces
+Balancing profitability and social responsibility
+Include 10 questions and provide sample ideal answers with rationale."
+Inputs:
+
+Candidate’s MBA specialisation
+Preferred PSU sector (energy, manufacturing, etc.)
+Any internship or prior work experience
+
+Prompt 4 – RBI Grade B Officer Mock Interview: Monetary Policy & Economics
+
+Backstory:
+A 29-year-old economics graduate has cleared the RBI Grade B Mains exam and is preparing for the final interview. They are confident in theory but struggle to connect economic concepts to real-world policy issues. They want practice articulating balanced, evidence-based answers on monetary policy, inflation, and financial stability.
+
+Goal:
+Simulate an RBI Grade B interview focusing on economics and policy application.
+
+Prompt:
+"You are an RBI interview board member. Conduct a mock interview on:
+
+Current inflation trends and RBI’s control measures
+Monetary vs fiscal policy coordination
+Financial inclusion initiatives in rural India
+Impact of global economic shocks on Indian banking
+Ask 8–10 questions, encourage data-backed responses, and provide evaluative feedback."
+Inputs:
+
+Candidate’s educational background
+Recent monetary policy statements they have read
+Preferred economic sectors of interest
+
+Prompt 5 – Indian Railways Group A Interview: Infrastructure Management
+
+Backstory:
+An engineering graduate has qualified for the Indian Engineering Services (IES) and is facing the interview for Indian Railways Group A services. They have experience in civil construction but limited knowledge of large-scale public infrastructure management. They want a mock interview that prepares them for operational, technical, and policy-level questions.
+
+Goal:
+Create a technical-cum-managerial mock interview for Indian Railways.
+
+Prompt:
+"You are a senior Indian Railways selection board member. Conduct a mock interview focusing on:
+
+Railway infrastructure modernisation projects
+Safety protocols and accident prevention
+Budget allocation for large-scale projects
+Public-private partnership opportunities in rail transport
+Ask 12–15 questions and give constructive feedback on technical accuracy, leadership qualities, and public service mindset."
+Inputs:
+
+Candidate’s engineering branch
+Experience in infrastructure projects
+Knowledge of current railway development plans
+
+Prompt 6 – SSC CGL Interview: Administrative Problem-Solving
+
+Backstory:
+A graduate from Delhi University has cleared the Staff Selection Commission – Combined Graduate Level exam and is now preparing for the interview for an Assistant Section Officer post. They have a strong academic record but have never worked in a government setup before. They need practice in responding to administrative challenges and scenario-based questions that require logical thinking, resource allocation, and adherence to government procedures.
+
+Goal:
+Create a scenario-based mock interview for SSC CGL candidates focusing on administrative efficiency and coordination.
+
+Prompt:
+"You are an SSC interview panel member. Conduct a mock interview covering:
+
+Handling RTI requests under pressure
+Managing clerical and supervisory roles effectively
+Coordination between multiple government departments
+Digital transformation of administrative work
+Ask 8–10 questions, including 3 situational problem-solving cases, and provide targeted feedback on clarity, adherence to procedures, and time management."
+Inputs:
+
+Candidate’s graduation subject
+Preferred department or ministry
+Prior exposure to government processes
+
+Prompt 7 – UPSC CAPF Assistant Commandant Interview: Crisis Management
+
+Backstory:
+A 27-year-old candidate has cleared the written exam for the Central Armed Police Forces (CAPF) Assistant Commandant role. They are physically fit but tend to get nervous in high-pressure questioning. They need to practice interviews that combine leadership, tactical decision-making, and public service ethics.
+
+Goal:
+Simulate a CAPF interview focusing on crisis management and operational leadership.
+
+Prompt:
+"You are a senior officer on the CAPF interview panel. Conduct a mock interview with focus on:
+
+Managing a riot situation in a sensitive area
+Decision-making during natural disasters
+Coordination with state police and other agencies
+Ethical dilemmas in use-of-force situations
+Ask 12 questions, mix operational, ethical, and personal motivation aspects, and provide feedback on composure, decision quality, and empathy."
+Inputs:
+
+Candidate’s state of domicile
+Physical fitness achievements
+Any prior NCC or police training experience
+
+Prompt 8 – Indian Forest Service (IFoS) Interview: Environmental Policy & Fieldwork
+
+Backstory:
+An environmental science postgraduate has cleared the written stage of the IFoS exam. They have field research experience but limited exposure to policy-level discussions. They want an interview simulation that integrates biodiversity conservation with administrative responsibilities.
+
+Goal:
+Create a mock interview for IFoS candidates focusing on environmental conservation and governance.
+
+Prompt:
+"You are an Indian Forest Service interview board member. Conduct a mock interview on:
+
+Wildlife protection policies and challenges
+Human-wildlife conflict mitigation strategies
+Forest-based livelihood programmes
+Role of technology in forest management
+Include 10–12 questions, with at least 3 situational case studies, and give detailed feedback on technical depth, problem-solving, and balancing conservation with development."
+Inputs:
+
+Candidate’s academic background
+Region they are most familiar with
+Major environmental issues in that region
+
+Prompt 9 – Judicial Services Interview: Legal Reasoning & Ethics
+
+Backstory:
+A young law graduate has passed the State Judicial Services Mains exam. They have theoretical legal knowledge but need help structuring their answers in an interview setting, especially for questions on ethics, judicial conduct, and application of law in ambiguous situations.
+
+Goal:
+Simulate a judicial services interview focusing on ethics, reasoning, and law application.
+
+Prompt:
+"You are a senior High Court judge conducting a Judicial Services mock interview. Focus on:
+
+Interpretation of ambiguous legal provisions
+Ethical conduct and conflict of interest scenarios
+Speedy justice vs procedural thoroughness
+Handling public criticism of judicial decisions
+Ask 10 questions, mix case studies and opinion-based queries, and provide thorough feedback on clarity, neutrality, and legal reasoning."
+Inputs:
+
+Candidate’s law school background
+Specialisation areas in law
+Landmark judgments they are familiar with
+
+Prompt 10 – UPSC Engineering Services Interview: Public Infrastructure Challenges
+
+Backstory:
+
+
+An electrical engineer working in a private company has cleared the Engineering Services Mains for a central government post. They have strong technical skills but need practice explaining engineering solutions in a governance and public service context.
+
+Goal:
+
+
+Create a mock interview for engineering candidates linking technical expertise with public service goals.
+
+Prompt:
+
+
+"You are a senior panelist for the Engineering Services interview. Conduct a mock interview covering:  
+
+Power infrastructure challenges in rural India  
+Smart grid technologies and their feasibility in India  
+Disaster-proofing public infrastructure  
+Cost-benefit analysis in public works projects
+
+
+Ask 12–15 questions, blending technical, managerial, and policy aspects, and give feedback on practical applicability and public service alignment."
+Inputs:  
+
+Engineering discipline  
+Past project experience  
+State or region candidate wishes to serve in
+
+Prompt 11 – UPSC CSE Interview: Rural Development & Governance
+
+Backstory:
+A candidate from Bihar has cleared the UPSC Mains and is preparing for the personality test. While academically strong, they lack structured answers for governance-related questions. Their background is in engineering, but their optional subject was sociology. They want to connect their technical skills with grassroots administration, especially in rural development and public welfare delivery.
+
+Goal:
+Simulate a UPSC interview focusing on rural governance and sustainable development.
+
+Prompt:
+"You are a UPSC board member. Conduct a mock interview on:
+
+Effective implementation of MGNREGA
+Challenges in rural sanitation under Swachh Bharat Mission
+Use of technology in rural development schemes
+Ethical challenges in rural resource allocation
+Ask 10–12 questions, including 3 case-based rural problem scenarios, and provide detailed feedback on balancing idealism with practicality."
+Inputs:
+
+Candidate’s graduation discipline
+State of domicile
+Prior exposure to rural development issues
+
+Prompt 12 – PSU Management Trainee Interview: Corporate-Government Interface
+
+Backstory:
+A 24-year-old MBA graduate has cleared the written exam for a Management Trainee post in a Navratna PSU. They have corporate internship experience but no exposure to working in a semi-government structure. They want practice in explaining strategy, compliance, and social responsibility in a PSU setting.
+
+Goal:
+Simulate a PSU MT interview focusing on business strategy in a public sector environment.
+
+Prompt:
+"You are part of the PSU interview panel. Ask about:
+
+Balancing profitability and social obligations
+Navigating government procurement rules
+Corporate governance challenges in PSUs
+Case study: Delays in a public infrastructure project due to policy changes
+Provide feedback on strategic thinking, policy compliance awareness, and communication style."
+Inputs:
+
+Candidate’s MBA specialisation
+Sector of the PSU (Oil, Energy, Steel, etc.)
+Example of a CSR project they admire
+
+Prompt 13 – RBI Grade B Interview: Monetary Policy & Financial Stability
+
+Backstory:
+An economics post-graduate has cleared the RBI Grade B Phase 2 exam. They have solid academic understanding but find it difficult to simplify technical monetary policy answers for a lay audience. They want practice in balancing policy depth with practical communication.
+
+Goal:
+Simulate an RBI Grade B interview focusing on monetary policy and financial regulation.
+
+Prompt:
+"You are an RBI interview panelist. Conduct a mock interview on:
+
+Current inflation control measures
+Role of RBI in regulating NBFCs
+Balancing growth and price stability
+Ethical issues in banking supervision
+Ask 10–12 questions, mix technical and scenario-based, and provide feedback on clarity, relevance, and awareness of current RBI policy moves."
+Inputs:
+
+Candidate’s economic specialisation
+Recent financial news they have followed
+Region they wish to be posted in
+
+Prompt 14 – State Civil Services Interview: Disaster Management Preparedness
+
+Backstory:
+A civil services aspirant from Assam has cleared the State PSC mains and is heading to the interview stage. Their region faces annual flooding, and they want to integrate local knowledge with state-level disaster management policies in their responses.
+
+Goal:
+Create a mock interview focusing on disaster preparedness in state governance.
+
+Prompt:
+"You are a State PSC board member. Conduct a mock interview covering:
+
+State-level disaster management frameworks
+Role of Panchayats in relief operations
+Integrating technology like GIS in disaster mitigation
+Ethical allocation of relief funds during crises
+Provide feedback on local insight, administrative feasibility, and prioritisation of vulnerable populations."
+Inputs:
+
+Candidate’s district
+Prior community involvement
+Knowledge of state disaster management policy
+
+Prompt 15 – LIC AAO Interview: Insurance Sector & Public Service
+
+Backstory:
+A candidate from a commerce background has cleared the LIC AAO mains. They understand financial products but lack confidence in explaining how insurance contributes to public welfare in India. They also want practice in handling customer-service related questions in the interview.
+
+Goal:
+Simulate an LIC AAO interview focusing on insurance awareness and service delivery.
+
+Prompt:
+"You are an LIC interview panelist. Conduct a mock interview on:
+
+Importance of insurance penetration in rural India
+Ethical selling practices for insurance policies
+Managing claims disputes
+Digital transformation in insurance services
+Provide 8–10 questions and give feedback on empathy, product knowledge, and customer-first thinking."
+Inputs:
+
+Candidate’s commerce/finance expertise
+Any prior sales or service experience
+Knowledge of LIC’s latest schemes
+
+Prompt 16 – SSC CGL Interview: Administrative Efficiency & Data Management
+
+Backstory:
+A graduate in statistics has cleared SSC CGL and is preparing for the interview. They are targeting a post in the Ministry of Finance but feel they lack real-world examples of administrative efficiency. Their academic training has focused on quantitative analysis, but they want to show adaptability to bureaucratic processes.
+
+Goal:
+Simulate an SSC CGL interview focusing on administrative efficiency in public service.
+
+Prompt:
+"You are part of the SSC CGL interview panel. Ask questions on:
+
+Use of data analytics in policy implementation
+Improving file clearance times in government offices
+Challenges in inter-departmental coordination
+Ethical issues in handling sensitive data
+Ask 10 questions (mix direct and case-based) and provide feedback on clarity, practical thinking, and ethical judgment."
+Inputs:
+
+Candidate’s degree and specialisation
+Preferred ministry or department
+Example of a data-driven decision they admire
+
+Prompt 17 – Indian Railways RRB NTPC Interview: Public Transport Management
+
+Backstory:
+A mechanical engineering graduate from Maharashtra has cleared RRB NTPC exams. They want to join Indian Railways in a role that involves operations planning and passenger service improvement. However, they are unsure how to present their technical background in an operational management context.
+
+Goal:
+Simulate a railway interview focusing on passenger services and efficiency.
+
+Prompt:
+"You are an RRB NTPC interview board member. Conduct a mock interview on:
+
+Strategies to improve punctuality in passenger trains
+Integrating renewable energy in station operations
+Enhancing passenger safety measures
+Handling public complaints during service delays
+Provide feedback on linking technical knowledge to operational improvements."
+Inputs:
+
+Candidate’s engineering branch
+Knowledge of Indian Railways current reforms
+Personal travel experience with Railways
+
+Prompt 18 – UPSC Engineering Services Interview: Infrastructure Development
+
+Backstory:
+A civil engineer from Karnataka has cleared UPSC ESE mains. They have worked on small-scale private projects but now aim to transition to large-scale government infrastructure planning. They need to articulate how they can handle cost, quality, and environmental compliance in public works.
+
+Goal:
+Simulate a UPSC ESE interview focusing on infrastructure policy and execution.
+
+Prompt:
+"You are a UPSC ESE board member. Ask about:
+
+Managing delays in government construction projects
+Integrating sustainability into public infrastructure
+Public-private partnerships in highways development
+Case study: Handling cost overruns without compromising quality
+Provide detailed feedback on balancing technical, administrative, and ethical considerations."
+Inputs:
+
+Candidate’s engineering field
+Exposure to government tender processes
+Knowledge of recent national infrastructure projects
+
+Prompt 19 – Indian Forest Service Interview: Wildlife & Conservation Policy
+
+Backstory:
+A life sciences graduate from Uttarakhand has cleared IFS mains. They are passionate about wildlife conservation but need practice in explaining how ecological priorities fit into India’s development model. They also want to handle potential questions on human-animal conflict.
+
+Goal:
+Simulate an IFS interview focusing on environmental governance.
+
+Prompt:
+"You are an IFS interview panelist. Conduct a mock interview covering:
+
+Strategies for resolving human-wildlife conflict
+Afforestation policies and climate change mitigation
+Role of local communities in conservation
+Balancing tourism and wildlife protection in national parks
+Provide 12–15 questions and feedback on practical, policy-aware thinking."
+Inputs:
+
+Candidate’s research experience
+Familiarity with specific Indian wildlife sanctuaries
+Personal conservation initiatives
