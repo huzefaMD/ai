@@ -1476,16 +1476,16 @@ Inputs:
 
 2. Job roles being onboarded"
 ```
-Prompt 8 — SOP for Handling Infectious Diseases in Clinics
+## Prompt 8 — SOP for Handling Infectious Diseases in Clinics
 
-Backstory: With rising flu and COVID-19 cases, clinics need clear steps for handling suspected infectious patients to prevent spread.
+`Backstory: With rising flu and COVID-19 cases, clinics need clear steps for handling suspected infectious patients to prevent spread.`
 
-Goal: Protect patients, staff, and community while maintaining care quality.
+`Goal: Protect patients, staff, and community while maintaining care quality.`
 
-Prompt:
+`Prompt:`
 
-"You are an Infection Control Officer. Create an SOP for ‘Infectious Disease Protocol in Clinics.’
-
+`"You are an Infection Control Officer. Create an SOP for ‘Infectious Disease Protocol in Clinics.’`
+```
 1. Detail patient isolation steps from entry to exit.
 
 2. List PPE (Personal Protective Equipment) requirements.
@@ -1495,23 +1495,23 @@ Prompt:
 4. Provide staff exposure reporting guidelines.
 
 5. Add patient education handouts.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Type of infectious diseases to prioritize
 
 2. Available isolation facilities"
+```
+## Prompt 9 — SOP for Fitness Class Scheduling & Attendance Tracking
 
-Prompt 9 — SOP for Fitness Class Scheduling & Attendance Tracking
+`Backstory: Your fitness center’s class attendance is inconsistent, and double bookings occur often. A scheduling SOP can fix the chaos.`
 
-Backstory: Your fitness center’s class attendance is inconsistent, and double bookings occur often. A scheduling SOP can fix the chaos.
+`Goal: Ensure smooth scheduling and accurate attendance records.`
 
-Goal: Ensure smooth scheduling and accurate attendance records.
+`Prompt:`
 
-Prompt:
-
-"You are a Fitness Operations Manager. Write an SOP for ‘Class Scheduling & Attendance.’ 
-
+`"You are a Fitness Operations Manager. Write an SOP for ‘Class Scheduling & Attendance.’ `
+```
 1. Define booking methods (app, reception, call). 
 
 2. Set class capacity limits. 
@@ -1521,23 +1521,23 @@ Prompt:
 4. Include cancellation and waitlist rules. 
 
 5. Add monthly reporting format.
-
-Inputs: 
-
+```
+`Inputs: `
+```
 1. Class types offered 
 
 2. Peak time data"
+```
+## Prompt 10 — SOP for Prescription Dispensing in Clinics
 
-Prompt 10 — SOP for Prescription Dispensing in Clinics
+`Backstory: Some patients receive incorrect medicines due to lack of a standardized dispensing process.`
 
-Backstory: Some patients receive incorrect medicines due to lack of a standardized dispensing process.
+`Goal: Reduce medication errors and ensure patient safety.`
 
-Goal: Reduce medication errors and ensure patient safety.
+`Prompt:`
 
-Prompt:
-
-"You are a Clinical Pharmacist. Develop an SOP for ‘Prescription Dispensing in Clinics.’
-
+`"You are a Clinical Pharmacist. Develop an SOP for ‘Prescription Dispensing in Clinics.’`
+```
 1. Verify prescriptions with prescribing doctor.
 
 2. Check for dosage accuracy and allergies.
@@ -1547,23 +1547,23 @@ Prompt:
 4. Educate patient on usage and side effects.
 
 5. Document all dispensed medicines.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Clinic pharmacy size
 
 2. Electronic or manual prescription system"
+```
+## Prompt 11 — SOP for Social Media Posting for Clinics & Gyms
 
-Prompt 11 — SOP for Social Media Posting for Clinics & Gyms
+`Backstory: Your facility’s social media posts are inconsistent in branding and tone. An SOP will help maintain a professional online image.`
 
-Backstory: Your facility’s social media posts are inconsistent in branding and tone. An SOP will help maintain a professional online image.
+`Goal: Standardize content creation and posting schedules.`
 
-Goal: Standardize content creation and posting schedules.
+`Prompt:`
 
-Prompt:
-
-"You are a Digital Marketing Manager. Create an SOP for ‘Social Media Posting Guidelines.’
-
+`"You are a Digital Marketing Manager. Create an SOP for ‘Social Media Posting Guidelines.’`
+```
 1. Define content categories (health tips, offers, testimonials).
 
 2. Set posting frequency.
@@ -1573,23 +1573,23 @@ Prompt:
 4. Add image/video quality requirements.
 
 5. Outline approval process before posting.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Number of platforms used
 
 2. Brand’s target audience"
+```
+## Prompt 12 — SOP for Financial Transactions & Billing in Clinics
 
-Prompt 12 — SOP for Financial Transactions & Billing in Clinics
+`Backstory: Billing mistakes have led to disputes and revenue loss in your clinic.`
 
-Backstory: Billing mistakes have led to disputes and revenue loss in your clinic.
+`Goal: Ensure accurate and transparent billing for all patients.`
 
-Goal: Ensure accurate and transparent billing for all patients.
+`Prompt:`
 
-Prompt:
-
-"You are a Medical Billing Specialist. Draft an SOP for ‘Financial Transactions & Billing.’
-
+`"You are a Medical Billing Specialist. Draft an SOP for ‘Financial Transactions & Billing.’`
+```
 1. Outline invoice generation steps.
 
 2. Include insurance claim processing.
@@ -1599,23 +1599,23 @@ Prompt:
 4. Add cash and digital payment protocols.
 
 5. Provide monthly reconciliation steps.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Billing software used
 
 2. Insurance tie-ups"
+```
+## Prompt 13 — SOP for Handling Children in Fitness Classes
 
-Prompt 13 — SOP for Handling Children in Fitness Classes
+`Backstory: Parents are enrolling kids in fitness classes, but trainers lack clear guidelines for safety and engagement.`
 
-Backstory: Parents are enrolling kids in fitness classes, but trainers lack clear guidelines for safety and engagement.
+`Goal: Ensure child-friendly and safe sessions.`
 
-Goal: Ensure child-friendly and safe sessions.
+`Prompt:`
 
-Prompt:
-
-"You are a Youth Fitness Specialist. Create an SOP for ‘Handling Children in Fitness Classes.’
-
+`"You are a Youth Fitness Specialist. Create an SOP for ‘Handling Children in Fitness Classes.’`
+```
 1. Set age-based class structure.
 
 2. Include child safety measures.
@@ -1625,23 +1625,23 @@ Prompt:
 4. Add emergency contact verification process.
 
 5. Suggest engaging warm-up and cool-down activities.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Age range of children
 
 2. Class duration"
+```
+## Prompt 14 — SOP for Patient Follow-Up Calls in Clinics
 
-Prompt 14 — SOP for Patient Follow-Up Calls in Clinics
+`Backstory: Many patients are lost after the first consultation due to lack of follow-up.`
 
-Backstory: Many patients are lost after the first consultation due to lack of follow-up.
+`Goal: Increase patient retention and care continuity.`
 
-Goal: Increase patient retention and care continuity.
+`Prompt:`
 
-Prompt:
-
-"You are a Patient Relationship Manager. Create an SOP for ‘Follow-Up Call Procedures.’
-
+`"You are a Patient Relationship Manager. Create an SOP for ‘Follow-Up Call Procedures.’`
+```
 1. Define timelines based on case type.
 
 2. Include call script for updates and feedback.
@@ -1651,23 +1651,23 @@ Prompt:
 4. Document every follow-up in EMR.
 
 5. Include escalation if patient reports worsening symptoms.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Follow-up time frames
 
 2. EMR system"
+```
+## Prompt 15 — SOP for Fitness Center Safety Drills
 
-Prompt 15 — SOP for Fitness Center Safety Drills
+`Backstory: Your gym needs to prepare for rare but possible emergencies like fire or earthquake.`
 
-Backstory: Your gym needs to prepare for rare but possible emergencies like fire or earthquake.
+`Goal: Ensure all staff can respond quickly and keep members safe.`
 
-Goal: Ensure all staff can respond quickly and keep members safe.
+`Prompt:`
 
-Prompt:
-
-"You are a Safety & Compliance Officer. Write an SOP for ‘Emergency Safety Drills in Fitness Centers.’
-
+`"You are a Safety & Compliance Officer. Write an SOP for ‘Emergency Safety Drills in Fitness Centers.’`
+```
 1. Define drill frequency.
 
 2. Assign staff roles.
@@ -1677,13 +1677,13 @@ Prompt:
 4. Document every drill conducted.
 
 5. Add a post-drill feedback process.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Facility size
 
 2. Emergency scenarios to cover"
-
+```
 Prompt 16 — SOP for Telemedicine Consultations
 
 Backstory: Your clinic recently launched telemedicine services, but doctors follow different approaches when consulting online, leading to inconsistent patient experiences.
