@@ -981,16 +981,16 @@
 
 2. Available page space"
 ```
-Prompt 14 — School Health Awareness Talk Script
+## Prompt 14 — School Health Awareness Talk Script
 
-Backstory: You’ve been invited to a local high school to speak about teen nutrition and hygiene. Many students rely on junk food and lack awareness of personal hygiene’s role in preventing illness.
+`Backstory: You’ve been invited to a local high school to speak about teen nutrition and hygiene. Many students rely on junk food and lack awareness of personal hygiene’s role in preventing illness.`
 
-Goal: Deliver an engaging, age-appropriate talk that holds teenagers’ attention.
+`Goal: Deliver an engaging, age-appropriate talk that holds teenagers’ attention.`
 
-Prompt:
+`Prompt:`
 
-"You are a School Health Educator. Draft a 15-minute interactive talk for teens on ‘Healthy Eating & Hygiene Habits.’
-
+`"You are a School Health Educator. Draft a 15-minute interactive talk for teens on ‘Healthy Eating & Hygiene Habits.’`
+```
 1. Begin with a story or relatable incident.
 
 2. Include 3 nutrition tips and 3 hygiene tips.
@@ -1000,23 +1000,23 @@ Prompt:
 4. Add a quick quiz at the end for retention.
 
 5. Suggest one activity for students to do at home.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Student age range
 
 2. Language preference"
+```
+## Prompt 15 — Workplace Wellness Workshop Outline
 
-Prompt 15 — Workplace Wellness Workshop Outline
+`Backstory: A mid-sized company has asked you to create a 2-hour workshop for employees facing high stress and long screen times.`
 
-Backstory: A mid-sized company has asked you to create a 2-hour workshop for employees facing high stress and long screen times.
+`Goal: Equip employees with practical strategies to improve health at work.`
 
-Goal: Equip employees with practical strategies to improve health at work.
+`Prompt:`
 
-Prompt:
-
-"You are a Corporate Wellness Trainer. Create a workshop outline titled ‘Work Smart, Stay Healthy.’
-
+`"You are a Corporate Wellness Trainer. Create a workshop outline titled ‘Work Smart, Stay Healthy.’`
+```
 1. Break it into 3 segments: stress management, posture care, and nutrition.
 
 2. Include interactive activities for each segment.
@@ -1026,23 +1026,23 @@ Prompt:
 4. Provide take-home resource sheets.
 
 5. Ensure it’s suitable for a hybrid (in-person + virtual) format.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Number of participants
 
 2. Company’s work culture"
+```
+## Prompt 16 — Health Challenge Campaign
 
-Prompt 16 — Health Challenge Campaign
+`Backstory: Your hospital wants to run a 30-day fitness challenge on Instagram to engage the community and promote preventive healthcare.`
 
-Backstory: Your hospital wants to run a 30-day fitness challenge on Instagram to engage the community and promote preventive healthcare.
+`Goal: Create a fun, shareable challenge plan.`
 
-Goal: Create a fun, shareable challenge plan.
+`Prompt:`
 
-Prompt:
-
-"You are a Digital Health Campaign Planner. Design a 30-day #HealthyYou Challenge with:
-
+`"You are a Digital Health Campaign Planner. Design a 30-day #HealthyYou Challenge with:`
+```
 1. A new habit each day (hydration, walking, meditation).
 
 2. Posts with images, captions, and hashtags.
@@ -1052,23 +1052,23 @@ Prompt:
 4. A grand prize for consistent participation.
 
 5. Rules that are easy for anyone to follow.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Target demographic
 
 2. Budget for prizes"
+```
+## Prompt 17 — Telemedicine Consultation Prep Guide
 
-Prompt 17 — Telemedicine Consultation Prep Guide
+`Backstory: Many patients new to telemedicine struggle with preparation, leading to incomplete consultations.`
 
-Backstory: Many patients new to telemedicine struggle with preparation, leading to incomplete consultations.
+`Goal: Create a patient guide to improve virtual healthcare effectiveness.`
 
-Goal: Create a patient guide to improve virtual healthcare effectiveness.
+`Prompt:`
 
-Prompt:
-
-"You are a Telehealth Specialist. Write a patient guide titled ‘How to Prepare for Your Telemedicine Appointment.’
-
+`"You are a Telehealth Specialist. Write a patient guide titled ‘How to Prepare for Your Telemedicine Appointment.’`
+```
 1. Include tech setup instructions.
 
 2. List documents and reports to keep handy.
@@ -1078,23 +1078,23 @@ Prompt:
 4. Add privacy and safety reminders.
 
 5. Provide a printable checklist.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Patient age group
 
 2. Common ailments being consulted"
+```
+## Prompt 18 — YouTube Health Myths Series Plan
 
-Prompt 18 — YouTube Health Myths Series Plan
+`Backstory: Your channel will feature a weekly series debunking Indian health myths (e.g., drinking milk with fish is harmful).`
 
-Backstory: Your channel will feature a weekly series debunking Indian health myths (e.g., drinking milk with fish is harmful).
+`Goal: Educate while keeping the tone light and shareable.`
 
-Goal: Educate while keeping the tone light and shareable.
+`Prompt:`
 
-Prompt:
-
-"You are a Health Educator YouTuber. Create a 10-episode plan for ‘Busting Indian Health Myths.’
-
+`"You are a Health Educator YouTuber. Create a 10-episode plan for ‘Busting Indian Health Myths.’`
+```
 1. Include episode titles and key talking points.
 
 2. Add suggested props or visuals.
@@ -1104,23 +1104,23 @@ Prompt:
 4. Include a call-to-action at the end.
 
 5. Keep episodes under 8 minutes.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Myths to include
 
 2. Target audience age"
+```
+## Prompt 19 — Parenting Guide on Child Nutrition
 
-Prompt 19 — Parenting Guide on Child Nutrition
+`Backstory: Many parents are unaware of the nutritional needs of children aged 2–10, leading to deficiencies.`
 
-Backstory: Many parents are unaware of the nutritional needs of children aged 2–10, leading to deficiencies.
+`Goal: Provide a clear, trustworthy nutrition resource for parents.`
 
-Goal: Provide a clear, trustworthy nutrition resource for parents.
+`Prompt:`
 
-Prompt:
-
-"You are a Pediatric Nutrition Consultant. Create a guide titled ‘Building Strong Kids: Nutrition from Ages 2–10.’
-
+`"You are a Pediatric Nutrition Consultant. Create a guide titled ‘Building Strong Kids: Nutrition from Ages 2–10.’`
+```
 1. Divide content into age groups.
 
 2. Include daily nutrient requirements.
@@ -1130,23 +1130,23 @@ Prompt:
 4. Warn against common dietary mistakes.
 
 5. Include a printable grocery checklist.
-
+```
 Inputs:
-
+```
 1. Vegetarian/non-vegetarian
 
 2. Region-specific food availability"
+```
+## Prompt 20 — Monthly Health Newsletter for Subscribers
 
-Prompt 20 — Monthly Health Newsletter for Subscribers
+`Backstory: Your health website wants to send a monthly email newsletter to keep readers engaged.`
 
-Backstory: Your health website wants to send a monthly email newsletter to keep readers engaged.
+`Goal: Mix education with interactivity.`
 
-Goal: Mix education with interactivity.
+`Prompt:`
 
-Prompt:
-
-"You are a Health Newsletter Editor. Draft a monthly newsletter template with:
-
+`"You are a Health Newsletter Editor. Draft a monthly newsletter template with:`
+```
 1. A main feature article (seasonal health topic).
 
 2. 3 quick tips.
@@ -1156,23 +1156,23 @@ Prompt:
 4. A health-related quiz or poll.
 
 5. Reader Q&A section.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Newsletter tone (casual/formal)
 
 2. Primary focus (nutrition, fitness, general health)"
+```
+## Prompt 21 — Fitness Tips for Homebound Seniors
 
-Prompt 21 — Fitness Tips for Homebound Seniors
+`Backstory: Many older adults remain indoors due to mobility issues but still need safe exercise routines.`
 
-Backstory: Many older adults remain indoors due to mobility issues but still need safe exercise routines.
+`Goal: Provide a gentle, clear, and safe fitness plan.`
 
-Goal: Provide a gentle, clear, and safe fitness plan.
+`Prompt:`
 
-Prompt:
-
-"You are a Senior Fitness Instructor. Create a 7-day gentle movement plan for seniors.
-
+`"You are a Senior Fitness Instructor. Create a 7-day gentle movement plan for seniors.`
+```
 1. Focus on balance, flexibility, and light strength.
 
 2. No special equipment required.
@@ -1182,13 +1182,13 @@ Prompt:
 4. Include safety precautions.
 
 5. Suggest music or audio for motivation.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Age range
 
 2. Any health conditions"
-
+```
 Prompt 22 — Festival Food Healthy Alternatives Guide
 
 Backstory: Indian festivals often involve deep-fried and sugary foods, causing health risks for diabetics and heart patients.
