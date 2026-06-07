@@ -799,16 +799,16 @@
 
 2. Preferred color scheme"
 ```
-Prompt 7 — Corporate Wellness Email Campaign
+## Prompt 7 — Corporate Wellness Email Campaign
 
-Backstory: You’re hired by a large Indian IT firm to run a wellness month campaign for employees working long hours.
+`Backstory: You’re hired by a large Indian IT firm to run a wellness month campaign for employees working long hours.`
 
-Goal: Encourage healthier habits at the workplace.
+`Goal: Encourage healthier habits at the workplace.`
 
-Prompt:
+`Prompt:`
 
-"You are a Corporate Health Consultant. Draft a 4-week email campaign for ‘Healthy Habits at Work.’ 
-
+`"You are a Corporate Health Consultant. Draft a 4-week email campaign for ‘Healthy Habits at Work.’ `
+```
 1. Week 1: Posture & ergonomics tips. 
 
 2. Week 2: Healthy snacking ideas. 
@@ -818,23 +818,23 @@ Prompt:
 4. Week 4: Managing stress with mindfulness. 
 
 5. Include a quiz or small challenge in each email.
-
-Inputs: 
-
+```
+`Inputs: `
+```
 1. Number of employees 
 
 2. Company culture tone"
+```
+## Prompt 8 — Myth-Busting Social Media Post
 
-Prompt 8 — Myth-Busting Social Media Post
+`Backstory: Misinformation about vaccines is circulating on local WhatsApp groups.`
 
-Backstory: Misinformation about vaccines is circulating on local WhatsApp groups.
+`Goal: Dispel myths with credible, engaging content.`
 
-Goal: Dispel myths with credible, engaging content.
+`Prompt:`
 
-Prompt:
-
-"You are a Public Health Communicator. Write a 500-character post titled ‘5 Myths About Vaccines — Busted.’
-
+`"You are a Public Health Communicator. Write a 500-character post titled ‘5 Myths About Vaccines — Busted.’`
+```
 1. List each myth in one line.
 
 2. Provide a fact immediately after.
@@ -844,23 +844,23 @@ Prompt:
 4. Include WHO or ICMR references.
 
 5. Suggest a visual idea for the post.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Vaccine type in focus
 
 2. Audience’s education level"
+```
+## Prompt 9 — Diet Plan for Busy Professionals
 
-Prompt 9 — Diet Plan for Busy Professionals
+`Backstory: Many young Indian professionals skip meals or rely on fast food due to time constraints.`
 
-Backstory: Many young Indian professionals skip meals or rely on fast food due to time constraints.
+`Goal: Provide a quick, healthy meal plan that fits into their schedule.`
 
-Goal: Provide a quick, healthy meal plan that fits into their schedule.
+`Prompt:`
 
-Prompt:
-
-"You are a Clinical Dietitian. Create a 7-day meal plan for ‘Busy Indian Professionals.’
-
+`"You are a Clinical Dietitian. Create a 7-day meal plan for ‘Busy Indian Professionals.’`
+```
 1. Use easily available Indian ingredients.
 
 2. Keep prep time under 20 minutes per meal.
@@ -870,23 +870,23 @@ Prompt:
 4. Include hydration reminders.
 
 5. Provide an optional Sunday meal-prep guide.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Vegetarian/non-vegetarian preference
 
 2. Any dietary restrictions"
+```
+## Prompt 10 — Mental Health Awareness Post
 
-Prompt 10 — Mental Health Awareness Post
+`Backstory: Mental health stigma is still common in many Indian communities.`
 
-Backstory: Mental health stigma is still common in many Indian communities.
+`Goal: Educate and encourage open conversations.`
 
-Goal: Educate and encourage open conversations.
+`Prompt:`
 
-Prompt:
-
-"You are a Mental Wellness Advocate. Write a short LinkedIn post on ‘Why Mental Health Is as Important as Physical Health.’
-
+`"You are a Mental Wellness Advocate. Write a short LinkedIn post on ‘Why Mental Health Is as Important as Physical Health.’`
+```
 1. Start with a relatable real-life scenario.
 
 2. Mention 2–3 signs of stress or burnout.
@@ -896,23 +896,23 @@ Prompt:
 4. End with a message encouraging people to seek help.
 
 5. Include helpline details if appropriate.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Audience profession
 
 2. Preferred tone (professional/emotional)"
+```
+## Prompt 11 — Festival Season Health Tips
 
-Prompt 11 — Festival Season Health Tips
+`Backstory: During Diwali, overeating and pollution exposure affect many people’s health.`
 
-Backstory: During Diwali, overeating and pollution exposure affect many people’s health.
+`Goal: Provide preventive and recovery tips in a festive-friendly way.`
 
-Goal: Provide preventive and recovery tips in a festive-friendly way.
+`Prompt:`
 
-Prompt:
-
-"You are a Community Health Educator. Write a 5-point guide titled ‘Stay Healthy This Diwali.’
-
+`"You are a Community Health Educator. Write a 5-point guide titled ‘Stay Healthy This Diwali.’`
+```
 1. Cover diet moderation.
 
 2. Suggest air quality precautions.
@@ -922,23 +922,23 @@ Prompt:
 4. Use festive greetings and cultural references.
 
 5. Make it suitable for both print and WhatsApp.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. City pollution levels
 
 2. Audience age group"
+```
+## Prompt 12 — Weekly Health Podcast Script
 
-Prompt 12 — Weekly Health Podcast Script
+`Backstory: You want to launch a podcast on preventive health for Indian millennials.`
 
-Backstory: You want to launch a podcast on preventive health for Indian millennials.
+`Goal: Build trust and grow a loyal listener base.`
 
-Goal: Build trust and grow a loyal listener base.
+`Prompt:`
 
-Prompt:
-
-"You are a Podcast Host. Create Episode 1: ‘5 Everyday Habits That Improve Your Health.’
-
+`"You are a Podcast Host. Create Episode 1: ‘5 Everyday Habits That Improve Your Health.’`
+```
 1. Begin with a personal health anecdote.
 
 2. Include guest doctor insights.
@@ -948,23 +948,23 @@ Prompt:
 4. Suggest one small habit challenge for listeners.
 
 5. End with social media engagement prompts.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Target audience
 
 2. Language preference"
+```
+## Prompt 13 — Local Community Health Bulletin
 
-Prompt 13 — Local Community Health Bulletin
+`Backstory: Your NGO publishes a monthly printed bulletin for rural communities.`
 
-Backstory: Your NGO publishes a monthly printed bulletin for rural communities.
+`Goal: Share health tips in a simple, culturally relevant way.`
 
-Goal: Share health tips in a simple, culturally relevant way.
+`Prompt:`
 
-Prompt:
-
-"You are a Rural Health Content Creator. Prepare a 2-page bulletin with:
-
+`"You are a Rural Health Content Creator. Prepare a 2-page bulletin with:`
+```
 1. Seasonal illness prevention.
 
 2. Nutrition tips with local foods.
@@ -974,13 +974,13 @@ Prompt:
 4. A health quiz for engagement.
 
 5. Contact details for nearby health services.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Local language
 
 2. Available page space"
-
+```
 Prompt 14 — School Health Awareness Talk Script
 
 Backstory: You’ve been invited to a local high school to speak about teen nutrition and hygiene. Many students rely on junk food and lack awareness of personal hygiene’s role in preventing illness.
