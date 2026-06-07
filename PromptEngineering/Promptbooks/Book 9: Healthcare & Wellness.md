@@ -386,18 +386,18 @@
 
 4. Available hospital resources"
 ```
-Prompt 16 - Pediatric Vaccination Reminder & Education for New Parents
+## Prompt 16 - Pediatric Vaccination Reminder & Education for New Parents
 
-Backstory: Priya and Ankit, a young couple in Bhopal, have a 2-month-old baby due for vaccinations. They are first-time parents and slightly anxious about vaccine safety and side effects. The pediatrician wants a clear, reassuring script that explains the importance of vaccines, what to expect, and how to care for the baby afterward.
+`Backstory: Priya and Ankit, a young couple in Bhopal, have a 2-month-old baby due for vaccinations. They are first-time parents and slightly anxious about vaccine safety and side effects. The pediatrician wants a clear, reassuring script that explains the importance of vaccines, what to expect, and how to care for the baby afterward.`
 
-Goal: Create a parental guidance script for pediatric vaccination.
+`Goal: Create a parental guidance script for pediatric vaccination.`
 
-Prompt:
+`Prompt:`
 
-"You are a pediatric nurse at a community clinic. Create a simple, reassuring Hindi-English mixed script for first-time parents about their baby’s upcoming vaccination, including why it’s important, what side effects to expect, and aftercare tips.
+`"You are a pediatric nurse at a community clinic. Create a simple, reassuring Hindi-English mixed script for first-time parents about their baby’s upcoming vaccination, including why it’s important, what side effects to expect, and aftercare tips.`
 
-Inputs:
-
+`Inputs:`
+```
 1. Baby’s age
 
 2. Vaccination schedule
@@ -405,17 +405,17 @@ Inputs:
 3. Parents’ preferred language
 
 4. Clinic follow-up policy"
+```
+## Prompt 17 — Addressing Medication Non-Compliance
 
-Prompt 17 — Addressing Medication Non-Compliance
+`Backstory: A patient has not been taking their blood pressure medication regularly due to side effects.`
 
-Backstory: A patient has not been taking their blood pressure medication regularly due to side effects.
+`Goal: Resolve the issue while keeping them on a treatment plan.`
 
-Goal: Resolve the issue while keeping them on a treatment plan.
+`Prompt:`
 
-Prompt:
-
-"You are a Medication Adherence Specialist. Write a conversation script that:
-
+`"You are a Medication Adherence Specialist. Write a conversation script that:`
+```
 1. Empathizes with their concerns without judgment.
 
 2. Explores side effects in detail.
@@ -425,23 +425,23 @@ Prompt:
 4. Reinforces risks of stopping medication abruptly.
 
 5. Creates a mutually agreed action plan.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Medication type
 
 2. Reported side effects"
+```
+## Prompt 18 — Dental Hygiene Counseling
 
-Prompt 18 — Dental Hygiene Counseling
+`Backstory: A patient has recurring cavities despite regular brushing.`
 
-Backstory: A patient has recurring cavities despite regular brushing.
+`Goal: Offer tailored advice for improving dental hygiene.`
 
-Goal: Offer tailored advice for improving dental hygiene.
+`Prompt:`
 
-Prompt:
-
-"You are a Dental Health Educator. Write a script that:
-
+`"You are a Dental Health Educator. Write a script that:`
+```
 1. Reviews the patient’s current brushing and flossing habits.
 
 2. Demonstrates correct technique.
@@ -451,23 +451,23 @@ Prompt:
 4. Recommends a preventive dental check-up schedule.
 
 5. Explains the role of diet in oral health.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Patient’s age
 
 2. Recent dental history"
+```
+## Prompt 19 — Handling Appointment Delays
 
-Prompt 19 — Handling Appointment Delays
+`Backstory: Patients in your clinic often have to wait longer than expected for their turn.`
 
-Backstory: Patients in your clinic often have to wait longer than expected for their turn.
+`Goal: Reduce frustration and maintain trust.`
 
-Goal: Reduce frustration and maintain trust.
+`Prompt:`
 
-Prompt:
-
-"You are a Clinic Reception Manager. Write a script that:
-
+`"You are a Clinic Reception Manager. Write a script that:`
+```
 1. Apologizes sincerely for the delay.
 
 2. Explains the cause without blaming staff.
@@ -477,23 +477,23 @@ Prompt:
 4. Suggests interim comfort (water, magazines, rescheduling).
 
 5. Ends with appreciation for their patience.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Reason for delay
 
 2. New expected wait time"
+```
+## Prompt 20 — Explaining Physiotherapy Exercises
 
-Prompt 20 — Explaining Physiotherapy Exercises
+`Backstory: A patient needs to do at-home physiotherapy after a knee injury but struggles to follow instructions from memory.`
 
-Backstory: A patient needs to do at-home physiotherapy after a knee injury but struggles to follow instructions from memory.
+`Goal: Provide a clear, repeatable explanation.`
 
-Goal: Provide a clear, repeatable explanation.
+`Prompt:`
 
-Prompt:
-
-"You are a Physiotherapy Instructor. Write a patient script that:
-
+`"You are a Physiotherapy Instructor. Write a patient script that:`
+```
 1. Explains the purpose of each exercise.
 
 2. Describes the movement in easy steps.
@@ -503,23 +503,23 @@ Prompt:
 4. Suggests frequency and duration per session.
 
 5. Encourages them to track progress in a journal.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Injury type
 
 2. Number of exercises"
+```
+## Prompt 21 — Handling Insurance Queries
 
-Prompt 21 — Handling Insurance Queries
+`Backstory: A patient is confused about what their insurance covers for an upcoming procedure.`
 
-Backstory: A patient is confused about what their insurance covers for an upcoming procedure.
+`Goal: Clarify coverage without overwhelming them.`
 
-Goal: Clarify coverage without overwhelming them.
+`Prompt:`
 
-Prompt:
-
-"You are a Medical Insurance Advisor. Write a script that:
-
+`"You are a Medical Insurance Advisor. Write a script that:`
+```
 1. Breaks down coverage in simple language.
 
 2. Lists what is included and excluded.
@@ -529,23 +529,23 @@ Prompt:
 4. Explains the claim process step-by-step.
 
 5. Offers contact details for further queries.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Procedure type
 
 2. Insurance provider"
+```
+## Prompt 22 — Lifestyle Advice for Pregnant Patients
 
-Prompt 22 — Lifestyle Advice for Pregnant Patients
+`Backstory: A first-time mother is seeking guidance for a healthy pregnancy.`
 
-Backstory: A first-time mother is seeking guidance for a healthy pregnancy.
+`Goal: Give comprehensive yet reassuring advice.`
 
-Goal: Give comprehensive yet reassuring advice.
+`Prompt:`
 
-Prompt:
-
-"You are a Maternal Health Counselor. Write a patient script that:
-
+`"You are a Maternal Health Counselor. Write a patient script that:`
+```
 1. Covers nutrition, hydration, and rest.
 
 2. Suggests safe physical activities.
@@ -555,23 +555,23 @@ Prompt:
 4. Explains the importance of prenatal checkups.
 
 5. Includes emotional well-being tips.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Trimester stage
 
 2. Any existing health concerns"
+```
+## Prompt 23 — Managing Postpartum Depression Conversations
 
-Prompt 23 — Managing Postpartum Depression Conversations
+`Backstory: A new mother shows signs of postpartum depression but hasn’t recognized it yet.`
 
-Backstory: A new mother shows signs of postpartum depression but hasn’t recognized it yet.
+`Goal: Initiate the conversation gently and guide her to help.`
 
-Goal: Initiate the conversation gently and guide her to help.
+`Prompt:`
 
-Prompt:
-
-"You are a Postnatal Mental Health Specialist. Write a script that:
-
+`"You are a Postnatal Mental Health Specialist. Write a script that:`
+```
 1. Opens with empathy and shared understanding.
 
 2. Gently introduces the possibility of postpartum depression.
@@ -581,23 +581,23 @@ Prompt:
 4. Suggests professional support and resources.
 
 5. Offers continuous follow-up.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Baby’s age
 
 2. Mother’s current emotional state"
+```
+## Prompt 24 — Handling Emergency Triage Calls
 
-Prompt 24 — Handling Emergency Triage Calls
+`Backstory: You are receiving a call from someone with suspected heart attack symptoms.`
 
-Backstory: You are receiving a call from someone with suspected heart attack symptoms.
+`Goal: Provide immediate guidance until emergency services arrive.`
 
-Goal: Provide immediate guidance until emergency services arrive.
+`Prompt:`
 
-Prompt:
-
-"You are an Emergency Call Responder. Write a script that: 
-
+`"You are an Emergency Call Responder. Write a script that:`
+```
 1. Confirms patient location and contact immediately. 
 
 2. Instructs them to call emergency services if not already done. 
@@ -607,23 +607,23 @@ Prompt:
 4. Advises on aspirin use if appropriate. 
 
 5. Keeps them engaged until help arrives.
-
-Inputs: 
-
+```
+`Inputs:`
+```
 1. Symptoms described 
 
 2. Emergency contact availability"
+```
+## Prompt 25 — Collecting Patient Feedback
 
-Prompt 25 — Collecting Patient Feedback
+`Backstory: You want to improve your clinic’s services and need authentic patient feedback.`
 
-Backstory: You want to improve your clinic’s services and need authentic patient feedback.
+`Goal: Encourage honest responses without bias.`
 
-Goal: Encourage honest responses without bias.
+`Prompt:`
 
-Prompt:
-
-"You are a Healthcare Quality Officer. Write a feedback request script that:
-
+`"You are a Healthcare Quality Officer. Write a feedback request script that:`
+```
 1. Thanks the patient for their visit.
 
 2. Explains the purpose of the feedback.
@@ -633,15 +633,15 @@ Prompt:
 4. Offers multiple response formats (verbal, form, online).
 
 5. Ends with appreciation and assurance of privacy.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Visit date
 
 2. Type of service received"
+```
 
-
-Medical content & health tips
+# Medical content & health tips
 
 Prompt 1 — Weekly Health Tip Series for Instagram
 
