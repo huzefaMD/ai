@@ -320,16 +320,16 @@
 
 2. Patient’s level of medical knowledge"
 ```
-Prompt 13 — Addressing Vaccine Hesitancy
+## Prompt 13 — Addressing Vaccine Hesitancy
 
-Backstory: A patient is unsure about getting the flu vaccine due to misinformation.
+`Backstory: A patient is unsure about getting the flu vaccine due to misinformation.`
 
-Goal: Provide accurate information while respecting their concerns.
+`Goal: Provide accurate information while respecting their concerns.`
 
-Prompt:
+`Prompt:`
 
-"You are a Public Health Communicator. Write a script that:
-
+`"You are a Public Health Communicator. Write a script that:`
+```
 1. Listens to the patient’s reasons without judgment.
 
 2. Corrects misconceptions with verified facts.
@@ -339,25 +339,25 @@ Prompt:
 4. Addresses potential side effects transparently.
 
 5. Ends with a confident, respectful recommendation.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Vaccine type
 
 2. Common patient concerns"
+```
+## Prompt 14 - Discharge Instructions for Post-C-Section Patient in a Tier-2 Indian City
 
-Prompt 14 - Discharge Instructions for Post-C-Section Patient in a Tier-2 Indian City
+`Backstory: Sunita, 29, has delivered her baby via C-section at a district hospital in Ujjain. She lives in a joint family and will be recovering at home with her mother-in-law’s help. The doctor wants to ensure she understands wound care, dietary precautions, breastfeeding positions, and signs of complications. However, the patient has limited medical knowledge and prefers simple Hindi explanations with relatable examples.`
 
-Backstory: Sunita, 29, has delivered her baby via C-section at a district hospital in Ujjain. She lives in a joint family and will be recovering at home with her mother-in-law’s help. The doctor wants to ensure she understands wound care, dietary precautions, breastfeeding positions, and signs of complications. However, the patient has limited medical knowledge and prefers simple Hindi explanations with relatable examples.
+`Goal: Create a culturally sensitive discharge instruction script for a post-C-section patient in a Tier-2 city.`
 
-Goal: Create a culturally sensitive discharge instruction script for a post-C-section patient in a Tier-2 city.
+`Prompt:`
 
-Prompt:
+`"You are a nurse educator at a district hospital in India. Prepare a discharge instruction script in simple Hindi-English mix for a 29-year-old post-C-section patient. Include wound care tips, diet guidelines, breastfeeding techniques, and warning signs that require immediate medical attention.`
 
-"You are a nurse educator at a district hospital in India. Prepare a discharge instruction script in simple Hindi-English mix for a 29-year-old post-C-section patient. Include wound care tips, diet guidelines, breastfeeding techniques, and warning signs that require immediate medical attention.
-
-Inputs:
-
+`Inputs:`
+```
 1. Delivery date
 
 2. Hospital’s follow-up schedule
@@ -365,19 +365,19 @@ Inputs:
 3. Patient’s literacy level
 
 4. Home support availability"
+```
+## Prompt 15 - Chemotherapy Side-Effect Management Script for First-Time Cancer Patient
 
-Prompt 15 - Chemotherapy Side-Effect Management Script for First-Time Cancer Patient
+`Backstory: Aarti, 45, from Lucknow, is starting chemotherapy for breast cancer. She is anxious about side effects like hair loss, nausea, and fatigue, and her family wants to know how they can help her through the process. The oncologist needs a compassionate, step-by-step script to prepare the patient and family for what to expect and how to manage symptoms.`
 
-Backstory: Aarti, 45, from Lucknow, is starting chemotherapy for breast cancer. She is anxious about side effects like hair loss, nausea, and fatigue, and her family wants to know how they can help her through the process. The oncologist needs a compassionate, step-by-step script to prepare the patient and family for what to expect and how to manage symptoms.
+`Goal: Create a patient-friendly script for preparing a first-time chemotherapy patient and her caregivers.`
 
-Goal: Create a patient-friendly script for preparing a first-time chemotherapy patient and her caregivers.
+`Prompt:`
 
-Prompt:
+`"You are an oncology nurse at a cancer care hospital in Lucknow. Write a compassionate, step-by-step Hindi-English mixed script to explain chemotherapy side effects and self-care tips to a 45-year-old woman and her family.`
 
-"You are an oncology nurse at a cancer care hospital in Lucknow. Write a compassionate, step-by-step Hindi-English mixed script to explain chemotherapy side effects and self-care tips to a 45-year-old woman and her family.
-
-Inputs:
-
+`Inputs:`
+```
 1. Type of chemotherapy drugs
 
 2. Number of cycles planned
@@ -385,7 +385,7 @@ Inputs:
 3. Patient’s support system at home
 
 4. Available hospital resources"
-
+```
 Prompt 16 - Pediatric Vaccination Reminder & Education for New Parents
 
 Backstory: Priya and Ankit, a young couple in Bhopal, have a 2-month-old baby due for vaccinations. They are first-time parents and slightly anxious about vaccine safety and side effects. The pediatrician wants a clear, reassuring script that explains the importance of vaccines, what to expect, and how to care for the baby afterward.
