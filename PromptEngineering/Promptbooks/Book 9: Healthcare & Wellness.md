@@ -2640,22 +2640,22 @@ Backstory: Your gym offers nutrition advice, but trainers give inconsistent or i
 
 4. Target audience details (age, gender mix, fitness level)
 ```
-Prompt 2 - Mental Health Monday Series
+## Prompt 2 - Mental Health Monday Series
 
-Backstory:
+`Backstory:`
 
-You have a 30-year-old mental health advocate who runs a community page for young professionals struggling with stress, anxiety, and burnout. They want weekly “Mental Health Monday” posts offering practical tips that can be read in under 60 seconds.
+`You have a 30-year-old mental health advocate who runs a community page for young professionals struggling with stress, anxiety, and burnout. They want weekly “Mental Health Monday” posts offering practical tips that can be read in under 60 seconds.`
 
-Goal:
+`Goal:`
 
-Generate 12 short, relatable, and visually appealing mental health tips.
+`Generate 12 short, relatable, and visually appealing mental health tips.`
 
-Prompt:
+`Prompt:`
 
-"You are a clinical psychologist and copywriter. Create 12 'Mental Health Monday' posts for social media aimed at 20–35-year-old Indian professionals.
+`"You are a clinical psychologist and copywriter. Create 12 'Mental Health Monday' posts for social media aimed at 20–35-year-old Indian professionals.`
 
-For each post:
-
+`For each post:`
+```
 1. Start with a hook statement (1 line).
 
 2. Share 1 quick, practical mental health tip.
@@ -2665,9 +2665,9 @@ For each post:
 4. End with a simple call-to-action like ‘Try this today’.
 
 5. Make it conversational, inclusive, and stigma-free."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Specific mental health focus areas (stress, anxiety, burnout, etc.)
 
 2. Preferred visual style (carousel, reels, static post)
@@ -2675,23 +2675,23 @@ Inputs Required:
 3. Frequency of posting
 
 4. Target audience characteristics
+```
+## Prompt 3 - Healthy Indian Breakfast Ideas
 
-Prompt 3 - Healthy Indian Breakfast Ideas
+`Backstory:`
 
-Backstory:
+`You have a 24-year-old nutritionist who wants to create a series of posts showing quick, healthy, and budget-friendly Indian breakfast options for college students and young working professionals.`
 
-You have a 24-year-old nutritionist who wants to create a series of posts showing quick, healthy, and budget-friendly Indian breakfast options for college students and young working professionals.
+`Goal:`
 
-Goal:
+`Generate 15 breakfast ideas with recipes, nutrition details, and appealing captions.`
 
-Generate 15 breakfast ideas with recipes, nutrition details, and appealing captions.
+`Prompt:`
 
-Prompt:
+`"You are a certified nutritionist and social media strategist. Create 15 healthy Indian breakfast post ideas for young adults on a budget.`
 
-"You are a certified nutritionist and social media strategist. Create 15 healthy Indian breakfast post ideas for young adults on a budget.
-
-For each post:
-
+`For each post:`
+```
 1. Name of the breakfast item.
 
 2. Quick recipe (under 15 minutes).
@@ -2703,9 +2703,9 @@ For each post:
 5. Short, catchy Instagram caption.
 
 6. Keep the tone casual and inspiring."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Dietary preferences (veg, non-veg, vegan)
 
 2. Maximum prep time per recipe
@@ -2713,23 +2713,23 @@ Inputs Required:
 3. Target calorie range
 
 4. Audience cooking skill level
+```
+## Prompt 4 -  Workout at Home Challenges
 
-Prompt 4 -  Workout at Home Challenges
+`Backstory:`
 
-Backstory:
+`You have a 29-year-old fitness coach who wants to run monthly “home workout challenges” for beginners with no gym access. Most of the audience is sedentary and needs motivation.`
 
-You have a 29-year-old fitness coach who wants to run monthly “home workout challenges” for beginners with no gym access. Most of the audience is sedentary and needs motivation.
+`Goal:`
 
-Goal:
+`Design 4 engaging, beginner-friendly workout challenges with daily posts.`
 
-Design 4 engaging, beginner-friendly workout challenges with daily posts.
+`Prompt:`
 
-Prompt:
+`"You are a personal trainer and social media content planner. Design 4 month-long home workout challenges for beginners.`
 
-"You are a personal trainer and social media content planner. Design 4 month-long home workout challenges for beginners.
-
-For each challenge:
-
+`For each challenge:`
+```
 1. Give it a catchy name.
 
 2. Explain the goal in 2 lines.
@@ -2739,9 +2739,9 @@ For each challenge:
 4. Add 1 motivational line for each week.
 
 5. Keep it achievable for people with no gym access — only bodyweight and common household items."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Target body areas (full-body, abs, arms, legs)
 
 2. Daily time commitment (10, 15, 20 mins)
@@ -2749,23 +2749,23 @@ Inputs Required:
 3. Posting format (video, carousel)
 
 4. Equipment availability
+```
+## Prompt 5 - Health Myths in Indian Families
 
-Prompt 5 - Health Myths in Indian Families
+`Backstory:`
 
-Backstory:
+`You have a young doctor who wants to make humorous yet educational reels debunking outdated or incorrect health advice often passed down in Indian families — like “don’t drink water with meals” or “eating mangoes causes acne.”`
 
-You have a young doctor who wants to make humorous yet educational reels debunking outdated or incorrect health advice often passed down in Indian families — like “don’t drink water with meals” or “eating mangoes causes acne.”
+`Goal:`
 
-Goal:
+`Create 10 humorous yet fact-checked reel scripts.`
 
-Create 10 humorous yet fact-checked reel scripts.
+`Prompt:`
 
-Prompt:
+`"You are a doctor and comedic scriptwriter. Write 10 Instagram reel scripts debunking common Indian family health myths.`
 
-"You are a doctor and comedic scriptwriter. Write 10 Instagram reel scripts debunking common Indian family health myths.
-
-For each script:
-
+`For each script:`
+```
 1. Start with the typical dialogue elders say.
 
 2. Show a quick, funny reaction by a young person.
@@ -2775,9 +2775,9 @@ For each script:
 4. End with a friendly tip.
 
 5. Make it funny but respectful."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. List of myths to cover
 
 2. Humor style (sarcastic, lighthearted, situational)
@@ -2785,23 +2785,23 @@ Inputs Required:
 3. Preferred reel length (15s, 30s, 60s)
 
 4. Audience demographic
+```
+## Prompt 6 - Debunking Popular Diet Trends
 
-Prompt 6 - Debunking Popular Diet Trends
+`Backstory:`
 
-Backstory:
+`You have a young dietitian who wants to create Instagram reels explaining why certain fad diets like Keto, GM Diet, or Juice Cleanses may not be suitable for everyone.`
 
-You have a young dietitian who wants to create Instagram reels explaining why certain fad diets like Keto, GM Diet, or Juice Cleanses may not be suitable for everyone.
+`Goal:`
 
-Goal:
+`Make educational but engaging content to clear misinformation on diets.`
 
-Make educational but engaging content to clear misinformation on diets.
+`Prompt:`
 
-Prompt:
+`"You are a registered dietitian and content creator. Create 8 Instagram reel scripts explaining the pros and cons of popular diets (Keto, Paleo, GM, Intermittent Fasting, etc.) for Indian audiences.`
 
-"You are a registered dietitian and content creator. Create 8 Instagram reel scripts explaining the pros and cons of popular diets (Keto, Paleo, GM, Intermittent Fasting, etc.) for Indian audiences.
-
-For each diet:
-
+`For each diet:`
+```
 1. Start with a trending hook line.
 
 2. Mention the main principle of the diet.
@@ -2809,9 +2809,9 @@ For each diet:
 3. Explain risks and limitations.
 
 4. Suggest a healthier alternative or modification."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. List of diets to cover
 
 2. Target audience’s dietary preferences (veg/non-veg)
@@ -2819,7 +2819,7 @@ Inputs Required:
 3. Video length per reel
 
 4. Tone (educational, humorous, or mix)
-
+```
 Prompt 7 - Workplace Wellness Tips
 
 Backstory:
