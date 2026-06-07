@@ -1945,18 +1945,18 @@ Backstory: Your gym offers nutrition advice, but trainers give inconsistent or i
 2. Marketing budget range"
 ```
 
-Diet & workout plan creation
+# Diet & workout plan creation
 
-Prompt 1 — Personalized Weight Loss Plan
+## Prompt 1 — Personalized Weight Loss Plan
 
-Backstory: You have a 28-year-old office worker who sits for 8+ hours daily, has minimal exercise history, and wants to lose 8 kg in 3 months without crash diets. They prefer Indian vegetarian food.
+`Backstory: You have a 28-year-old office worker who sits for 8+ hours daily, has minimal exercise history, and wants to lose 8 kg in 3 months without crash diets. They prefer Indian vegetarian food.`
 
-Goal: Create a safe, sustainable, and personalized weight loss plan.
+`Goal: Create a safe, sustainable, and personalized weight loss plan.`
 
-Prompt:
+`Prompt:`
 
-"You are a Certified Nutritionist & Fitness Trainer. Design a 12-week weight loss program for a 28-year-old vegetarian office worker.
-
+`"You are a Certified Nutritionist & Fitness Trainer. Design a 12-week weight loss program for a 28-year-old vegetarian office worker.`
+```
 1. Include daily calorie goals and macronutrient breakdown.
 
 2. Suggest 3 meal options per day with Indian vegetarian recipes.
@@ -1966,25 +1966,25 @@ Prompt:
 4. Include weekly progress tracking methods.
 
 5. Suggest motivational checkpoints to keep the client on track.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Height & weight
 
 2. Any food allergies
 
 3. Current fitness level"
+```
+## Prompt 2 — Muscle Gain Program for Beginners
 
-Prompt 2 — Muscle Gain Program for Beginners
+`Backstory: A 24-year-old college student has joined the gym for the first time and wants to build lean muscle mass. They have a fast metabolism and struggle to gain weight.`
 
-Backstory: A 24-year-old college student has joined the gym for the first time and wants to build lean muscle mass. They have a fast metabolism and struggle to gain weight.
+`Goal: Create a structured muscle gain plan with diet and workouts.`
 
-Goal: Create a structured muscle gain plan with diet and workouts.
+`Prompt:`
 
-Prompt:
-
-"You are a Strength & Conditioning Coach. Prepare a 3-month lean muscle gain program for a beginner with high metabolism. 
-
+`"You are a Strength & Conditioning Coach. Prepare a 3-month lean muscle gain program for a beginner with high metabolism. `
+```
 1. Set daily calorie surplus and protein target. 
 
 2. Suggest 5 simple high-protein meals with Indian options. 
@@ -1994,23 +1994,23 @@ Prompt:
 4. Include rest and recovery guidelines. 
 
 5. Provide weekly adjustment recommendations based on progress.
-
-Inputs: 
-
+```
+`Inputs: `
+```
 1. Current body weight 
 
 2. Gym equipment availability"
+```
+## Prompt 3 — PCOS-Friendly Diet & Exercise Plan
 
-Prompt 3 — PCOS-Friendly Diet & Exercise Plan
+`Backstory: A 30-year-old woman with PCOS is struggling with weight gain, irregular cycles, and low energy. She wants a plan that’s realistic for a busy work schedule.`
 
-Backstory: A 30-year-old woman with PCOS is struggling with weight gain, irregular cycles, and low energy. She wants a plan that’s realistic for a busy work schedule.
+`Goal: Improve hormonal balance while aiding weight loss.`
 
-Goal: Improve hormonal balance while aiding weight loss.
+`Prompt:`
 
-Prompt:
-
-"You are a Women’s Health Nutritionist. Design a PCOS-friendly 8-week diet and exercise program.
-
+`"You are a Women’s Health Nutritionist. Design a PCOS-friendly 8-week diet and exercise program.`
+```
 1. Avoid high-GI foods and processed sugar.
 
 2. Suggest 3 main meals and 2 snacks daily.
@@ -2020,25 +2020,25 @@ Prompt:
 4. Include stress management techniques like yoga or meditation.
 
 5. Track progress with monthly cycle logs and weight checks.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Height & weight
 
 2. Activity level
 
 3. Medical history"
+```
+## Prompt 4 — Home Workout & Diet Plan for Busy Professionals
 
-Prompt 4 — Home Workout & Diet Plan for Busy Professionals
+`Backstory: A 35-year-old corporate employee works long hours and travels frequently, making it hard to commit to the gym. They want a home-based plan with minimal equipment.`
 
-Backstory: A 35-year-old corporate employee works long hours and travels frequently, making it hard to commit to the gym. They want a home-based plan with minimal equipment.
+`Goal: Improve fitness without disrupting their work schedule.`
 
-Goal: Improve fitness without disrupting their work schedule.
+`Prompt:`
 
-Prompt:
-
-"You are a Corporate Wellness Coach. Create a 10-week home fitness and nutrition program for a busy professional.
-
+`"You are a Corporate Wellness Coach. Create a 10-week home fitness and nutrition program for a busy professional.`
+```
 1. Provide 20–30 minute workout routines with resistance bands and bodyweight exercises.
 
 2. Suggest quick, travel-friendly healthy meals.
@@ -2048,23 +2048,23 @@ Prompt:
 4. Add stress-reducing techniques for work-life balance.
 
 5. Create a progress tracker for workouts and diet adherence.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Current fitness level
 
 2. Equipment owned"
+```
+## Prompt 5 — Diabetic-Friendly Diet & Exercise Plan
 
-Prompt 5 — Diabetic-Friendly Diet & Exercise Plan
+`Backstory: A 32-year-old man recently diagnosed with type 2 diabetes wants to control blood sugar through diet and exercise, avoiding medication if possible.`
 
-Backstory: A 32-year-old man recently diagnosed with type 2 diabetes wants to control blood sugar through diet and exercise, avoiding medication if possible.
+`Goal: Stabilize blood sugar while improving overall fitness.`
 
-Goal: Stabilize blood sugar while improving overall fitness.
+`Prompt:`
 
-Prompt:
-
-"You are a Clinical Dietitian & Fitness Specialist. Design a diabetic-friendly lifestyle plan for a newly diagnosed patient.
-
+`"You are a Clinical Dietitian & Fitness Specialist. Design a diabetic-friendly lifestyle plan for a newly diagnosed patient.`
+```
 1. Set low-GI meal plans with portion control.
 
 2. Include morning and evening walks with light resistance training.
@@ -2074,23 +2074,23 @@ Prompt:
 4. Add stress management methods like breathing exercises.
 
 5. Include a daily log for blood sugar, meals, and activity.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Age & weight
 
 2. Fasting blood sugar level"
+```
+## Prompt 6 — Bridal Fitness & Diet Program
 
-Prompt 6 — Bridal Fitness & Diet Program
+`Backstory: A 27-year-old bride-to-be wants to look toned and radiant for her wedding in 4 months. She has no prior workout experience but is highly motivated.`
 
-Backstory: A 27-year-old bride-to-be wants to look toned and radiant for her wedding in 4 months. She has no prior workout experience but is highly motivated.
+`Goal: Achieve visible toning, healthy skin, and high energy for the wedding.`
 
-Goal: Achieve visible toning, healthy skin, and high energy for the wedding.
+`Prompt:`
 
-Prompt:
-
-"You are a Bridal Transformation Specialist. Create a 16-week bridal fitness & diet program.
-
+`"You are a Bridal Transformation Specialist. Create a 16-week bridal fitness & diet program.`
+```
 1. Include a gradual workout progression from beginner to intermediate level.
 
 2. Suggest anti-inflammatory and skin-friendly foods.
@@ -2100,13 +2100,13 @@ Prompt:
 4. Add yoga/stretching sessions to reduce stress.
 
 5. Create a photo-progress tracker for motivation.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Height & weight
 
 2. Wedding date"
-
+```
 Prompt 7 — Postpartum Weight Loss & Recovery Plan
 
 Backstory: A 30-year-old new mother wants to safely lose weight after childbirth while maintaining energy for breastfeeding and childcare.
