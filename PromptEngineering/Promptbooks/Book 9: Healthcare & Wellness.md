@@ -1189,16 +1189,16 @@ Inputs:
 
 2. Any health conditions"
 ```
-Prompt 22 — Festival Food Healthy Alternatives Guide
+## Prompt 22 — Festival Food Healthy Alternatives Guide
 
-Backstory: Indian festivals often involve deep-fried and sugary foods, causing health risks for diabetics and heart patients.
+`Backstory: Indian festivals often involve deep-fried and sugary foods, causing health risks for diabetics and heart patients.`
 
-Goal: Suggest healthy swaps without losing cultural authenticity.
+`Goal: Suggest healthy swaps without losing cultural authenticity.`
 
-Prompt:
+`Prompt:`
 
-"You are a Healthy Recipe Developer. Write a guide on ‘Healthy Food Swaps for Indian Festivals.’
-
+`"You are a Healthy Recipe Developer. Write a guide on ‘Healthy Food Swaps for Indian Festivals.’`
+```
 1. Cover snacks, main dishes, and desserts.
 
 2. Include traditional alternatives with lower calories.
@@ -1208,23 +1208,23 @@ Prompt:
 4. Suggest portion control strategies.
 
 5. Add plating ideas for festive appeal.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Festival name
 
 2. Dietary restrictions"
+```
+## Prompt 23 — Emergency Health Tips for Travelers
 
-Prompt 23 — Emergency Health Tips for Travelers
+`Backstory: Many young Indians travel for work or leisure but are unprepared for health emergencies.`
 
-Backstory: Many young Indians travel for work or leisure but are unprepared for health emergencies.
+`Goal: Create a pocket guide for safe travel health.`
 
-Goal: Create a pocket guide for safe travel health.
+`Prompt:`
 
-Prompt:
-
-"You are a Travel Health Advisor. Prepare a one-page emergency health tips sheet for Indian travelers.
-
+`"You are a Travel Health Advisor. Prepare a one-page emergency health tips sheet for Indian travelers.`
+```
 1. Cover common issues (food poisoning, dehydration, minor injuries).
 
 2. List essential travel medicines.
@@ -1234,23 +1234,23 @@ Prompt:
 4. Suggest preventive measures.
 
 5. Make it easy to print or save digitally.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Travel destination
 
 2. Duration of travel"
+```
+## Prompt 24 — Daily Radio Health Tip Script
 
-Prompt 24 — Daily Radio Health Tip Script
+`Backstory: A local FM station wants short daily health tips for morning listeners.`
 
-Backstory: A local FM station wants short daily health tips for morning listeners.
+`Goal: Inform and engage in under 60 seconds.`
 
-Goal: Inform and engage in under 60 seconds.
+`Prompt:`
 
-Prompt:
-
-"You are a Radio Health Host. Write a 60-second script on ‘One Simple Daily Habit for Better Sleep.’ 
-
+`"You are a Radio Health Host. Write a 60-second script on ‘One Simple Daily Habit for Better Sleep.’ `
+```
 1. Begin with a catchy intro. 
 
 2. Share one science-backed tip. 
@@ -1260,23 +1260,23 @@ Prompt:
 4. End with a motivational sign-off. 
 
 5. Adapt language for local listeners.
-
-Inputs: 
-
+```
+`Inputs:`
+```
 1. Tip theme (nutrition, fitness, mental health) 
 
 2. City/region"
+```
+## Prompt 25 — Health App Daily Notification Ideas
 
-Prompt 25 — Health App Daily Notification Ideas
+`Backstory: You are developing a wellness app and want to send engaging, non-intrusive daily push notifications.`
 
-Backstory: You are developing a wellness app and want to send engaging, non-intrusive daily push notifications.
+`Goal: Encourage consistent health habits without annoying users.`
 
-Goal: Encourage consistent health habits without annoying users.
+`Prompt:`
 
-Prompt:
-
-"You are a Health App UX Content Writer. Draft 30 daily health notification ideas.
-
+`"You are a Health App UX Content Writer. Draft 30 daily health notification ideas.`
+```
 1. Each under 100 characters.
 
 2. Mix facts, reminders, and motivational quotes.
@@ -1286,11 +1286,11 @@ Prompt:
 4. Keep tone friendly and encouraging.
 
 5. Suggest emoji use for visual appeal.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. User’s primary goal (weight loss, stress relief, general health)"
-
+```
 
 SOPs for clinics & fitness centers
 
