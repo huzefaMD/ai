@@ -721,16 +721,16 @@
 
 2. Cultural tone preference"
 ```
-Prompt 4 — Daily WhatsApp Health Broadcast
+## Prompt 4 — Daily WhatsApp Health Broadcast
 
-Backstory: Your clinic has a WhatsApp broadcast list for patients to receive daily wellness tips without spamming.
+`Backstory: Your clinic has a WhatsApp broadcast list for patients to receive daily wellness tips without spamming.`
 
-Goal: Provide high-value content in short, engaging formats.
+`Goal: Provide high-value content in short, engaging formats.`
 
-Prompt:
+`Prompt:`
 
-"You are a Patient Engagement Specialist. Create a 30-day WhatsApp broadcast plan for ‘Small Daily Habits for Better Heart Health.’ 
-
+`"You are a Patient Engagement Specialist. Create a 30-day WhatsApp broadcast plan for ‘Small Daily Habits for Better Heart Health.’ `
+```
 1. Limit each tip to 50–70 words. 
 
 2. Use emojis for visual appeal. 
@@ -740,23 +740,23 @@ Prompt:
 4. Ensure all tips are scientifically validated. 
 
 5. Add one weekend challenge each week.
-
-Inputs: 
-
+```
+`Inputs: `
+```
 1. Patient age group 
 
 2. Language preference (English/Hindi)"
+```
+## Prompt 5 — YouTube Video Script for Fitness & Diet
 
-Prompt 5 — YouTube Video Script for Fitness & Diet
+`Backstory: You want to start a YouTube series blending exercise routines and nutrition tips for beginners in India.`
 
-Backstory: You want to start a YouTube series blending exercise routines and nutrition tips for beginners in India.
+`Goal: Provide a free, structured guide that builds credibility and encourages subscriptions.`
 
-Goal: Provide a free, structured guide that builds credibility and encourages subscriptions.
+`Prompt:`
 
-Prompt:
-
-"You are a Fitness & Nutrition Educator. Write a YouTube script for Episode 1: ‘Beginner’s Guide to a Healthy Lifestyle in India.’
-
+`"You are a Fitness & Nutrition Educator. Write a YouTube script for Episode 1: ‘Beginner’s Guide to a Healthy Lifestyle in India.’`
+```
 1. Start with an inspiring personal story or statistic.
 
 2. Include 10 minutes of easy home exercises.
@@ -766,23 +766,23 @@ Prompt:
 4. Use cultural references (Indian food, local exercises).
 
 5. End with a teaser for the next episode.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Audience fitness level
 
 2. Available filming space"
+```
+## Prompt 6 — Health Awareness Infographic
 
-Prompt 6 — Health Awareness Infographic
+`Backstory: Your hospital wants a print and digital infographic to educate people about early diabetes detection. Many in your community are unaware they’re at risk.`
 
-Backstory: Your hospital wants a print and digital infographic to educate people about early diabetes detection. Many in your community are unaware they’re at risk.
+`Goal: Create a visually appealing, easy-to-understand health resource.`
 
-Goal: Create a visually appealing, easy-to-understand health resource.
+`Prompt:`
 
-Prompt:
-
-"You are a Medical Graphic Content Planner. Design an infographic on ‘10 Early Signs of Diabetes You Shouldn’t Ignore.’ 
-
+`"You are a Medical Graphic Content Planner. Design an infographic on ‘10 Early Signs of Diabetes You Shouldn’t Ignore.’ `
+```
 1. Use a simple, clean layout with icons. 
 
 2. Keep text concise but informative. 
@@ -792,13 +792,13 @@ Prompt:
 4. Include your hospital’s branding and helpline number. 
 
 5. Provide a short caption for social media sharing.
-
-Inputs: 
-
+```
+`Inputs: `
+```
 1. Target language 
 
 2. Preferred color scheme"
-
+```
 Prompt 7 — Corporate Wellness Email Campaign
 
 Backstory: You’re hired by a large Indian IT firm to run a wellness month campaign for employees working long hours.
