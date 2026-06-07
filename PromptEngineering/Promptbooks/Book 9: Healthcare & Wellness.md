@@ -1684,16 +1684,16 @@ Inputs:
 
 2. Emergency scenarios to cover"
 ```
-Prompt 16 — SOP for Telemedicine Consultations
+## Prompt 16 — SOP for Telemedicine Consultations
 
-Backstory: Your clinic recently launched telemedicine services, but doctors follow different approaches when consulting online, leading to inconsistent patient experiences.
+`Backstory: Your clinic recently launched telemedicine services, but doctors follow different approaches when consulting online, leading to inconsistent patient experiences.`
 
-Goal: Standardize telemedicine protocols to maintain quality and compliance.
+`Goal: Standardize telemedicine protocols to maintain quality and compliance.`
 
-Prompt:
+`Prompt:`
 
-"You are a Telehealth Process Designer. Create an SOP for ‘Conducting Telemedicine Consultations.’
-
+`"You are a Telehealth Process Designer. Create an SOP for ‘Conducting Telemedicine Consultations.’`
+```
 1. Include patient verification and consent process.
 
 2. Define standard video/audio quality checks.
@@ -1703,23 +1703,23 @@ Prompt:
 4. Add post-consultation follow-up process.
 
 5. Include legal compliance points (as per Indian telemedicine guidelines).
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Specialties covered
 
 2. Telemedicine platform used"
+```
+## Prompt 17 — SOP for Membership Renewals in Fitness Centers
 
-Prompt 17 — SOP for Membership Renewals in Fitness Centers
+`Backstory: Your gym is losing revenue due to members forgetting to renew. Staff need a structured system for reminders and reactivation offers.`
 
-Backstory: Your gym is losing revenue due to members forgetting to renew. Staff need a structured system for reminders and reactivation offers.
+`Goal: Increase membership retention and reduce churn.`
 
-Goal: Increase membership retention and reduce churn.
+`Prompt:`
 
-Prompt:
-
-"You are a Membership Sales Manager. Draft an SOP for ‘Membership Renewal Process.’
-
+`"You are a Membership Sales Manager. Draft an SOP for ‘Membership Renewal Process.’`
+```
 1. Set reminder schedule (30, 15, 7 days before expiry).
 
 2. Include follow-up methods (calls, SMS, email).
@@ -1729,23 +1729,23 @@ Prompt:
 4. Track renewal conversions in CRM.
 
 5. Include escalation if member doesn’t respond.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. CRM tool used
 
 2. Average membership duration"
+```
+## Prompt 18 — SOP for Medical Record Archiving in Clinics
 
-Prompt 18 — SOP for Medical Record Archiving in Clinics
+`Backstory: Paper and digital medical records are piling up, making it hard to retrieve patient histories quickly.`
 
-Backstory: Paper and digital medical records are piling up, making it hard to retrieve patient histories quickly.
+`Goal: Implement an efficient archiving process that’s secure and organized.`
 
-Goal: Implement an efficient archiving process that’s secure and organized.
+`Prompt:`
 
-Prompt:
-
-"You are a Medical Records Manager. Create an SOP for ‘Archiving Patient Records.’
-
+`"You are a Medical Records Manager. Create an SOP for ‘Archiving Patient Records.’`
+```
 1. Define timeframes for active vs. inactive records.
 
 2. Outline digital backup and encryption protocols.
@@ -1755,23 +1755,23 @@ Prompt:
 4. Assign record destruction timelines as per law.
 
 5. Add an audit process for compliance.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Storage type (cloud/local)
 
 2. Legal retention period in region"
+```
+## Prompt 19 — SOP for Handling Walk-In Patients at Clinics
 
-Prompt 19 — SOP for Handling Walk-In Patients at Clinics
+`Backstory: Your clinic experiences random surges in walk-ins, leading to long wait times and staff stress.`
 
-Backstory: Your clinic experiences random surges in walk-ins, leading to long wait times and staff stress.
+`Goal: Streamline walk-in patient handling without affecting scheduled appointments.`
 
-Goal: Streamline walk-in patient handling without affecting scheduled appointments.
+`Prompt:`
 
-Prompt:
-
-"You are a Clinic Operations Strategist. Write an SOP for ‘Walk-In Patient Management.’
-
+`"You are a Clinic Operations Strategist. Write an SOP for ‘Walk-In Patient Management.’`
+```
 1. Define triage criteria for urgent vs. non-urgent cases.
 
 2. Set token number system process.
@@ -1781,23 +1781,23 @@ Prompt:
 4. Outline communication guidelines for wait times.
 
 5. Add daily walk-in report template.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Average daily walk-ins
 
 2. Number of doctors available"
+```
+## Prompt 20 — SOP for Handling Injuries in Fitness Centers
 
-Prompt 20 — SOP for Handling Injuries in Fitness Centers
+`Backstory: Minor injuries during workouts are common, but trainers sometimes mishandle them due to lack of a proper guide.`
 
-Backstory: Minor injuries during workouts are common, but trainers sometimes mishandle them due to lack of a proper guide.
+`Goal: Ensure safe, immediate, and professional response to any injury.`
 
-Goal: Ensure safe, immediate, and professional response to any injury.
+`Prompt:`
 
-Prompt:
-
-"You are a Fitness Safety Coordinator. Draft an SOP for ‘Responding to Injuries in Fitness Centers.’
-
+`"You are a Fitness Safety Coordinator. Draft an SOP for ‘Responding to Injuries in Fitness Centers.’`
+```
 1. Define first-aid procedures for common injuries.
 
 2. Outline incident documentation process.
@@ -1807,23 +1807,23 @@ Prompt:
 4. Add injury follow-up protocol.
 
 5. Train staff on using first-aid kits and AEDs.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Common injuries in facility
 
 2. First-aid equipment available"
+```
+## Prompt 21 — SOP for Cross-Department Communication in Clinics
 
-Prompt 21 — SOP for Cross-Department Communication in Clinics
+`Backstory: Lab reports, prescriptions, and doctor notes sometimes get lost between departments, causing delays in treatment.`
 
-Backstory: Lab reports, prescriptions, and doctor notes sometimes get lost between departments, causing delays in treatment.
+`Goal: Establish a smooth inter-department communication system.`
 
-Goal: Establish a smooth inter-department communication system.
+`Prompt:`
 
-Prompt:
-
-"You are a Healthcare Workflow Analyst. Create an SOP for ‘Cross-Department Communication.’ 
-
+`"You are a Healthcare Workflow Analyst. Create an SOP for ‘Cross-Department Communication.’ `
+```
 1. Define communication channels (internal chat, EMR notes). 
 
 2. Set response time SLAs (Service Level Agreements). 
@@ -1833,13 +1833,13 @@ Prompt:
 4. Include escalation for missed updates. 
 
 5. Add monthly review meetings.
-
-Inputs: 
-
+```
+`Inputs: `
+```
 1. Departments involved 
 
 2. Communication tools used"
-
+```
 Prompt 22 — SOP for Nutrition Counseling in Fitness Centers
 
 Backstory: Your gym offers nutrition advice, but trainers give inconsistent or incorrect dietary guidance.
