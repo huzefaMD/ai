@@ -2343,14 +2343,14 @@ Backstory: Your gym offers nutrition advice, but trainers give inconsistent or i
 ```
 ## Prompt 16 — Weight Management Plan for Thyroid Patients
 
-Backstory: A 29-year-old woman has hypothyroidism and is finding it extremely difficult to lose weight despite following generic diets.
+`Backstory: A 29-year-old woman has hypothyroidism and is finding it extremely difficult to lose weight despite following generic diets.`
 
-Goal: Create a thyroid-friendly plan that boosts metabolism.
+`Goal: Create a thyroid-friendly plan that boosts metabolism.`
 
-Prompt:
+`Prompt:`
 
-"You are a Clinical Nutritionist Specializing in Thyroid Health. Design a 12-week weight loss and energy-boosting plan for a hypothyroid patient.
-
+`"You are a Clinical Nutritionist Specializing in Thyroid Health. Design a 12-week weight loss and energy-boosting plan for a hypothyroid patient.`
+```
 1. Suggest foods that support thyroid hormone production.
 
 2. Avoid known goitrogens and high-inflammatory foods.
@@ -2360,23 +2360,23 @@ Prompt:
 4. Add sleep and stress regulation tips.
 
 5. Track energy, weight, and hormonal markers weekly.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Thyroid medication details
 
 2. Recent TSH, T3, T4 levels"
+```
+## Prompt 17 — Fat Loss Plan for Frequent Travelers
 
-Prompt 17 — Fat Loss Plan for Frequent Travelers
+`Backstory: A 32-year-old marketing executive travels 15 days a month and struggles to eat healthy on the road.`
 
-Backstory: A 32-year-old marketing executive travels 15 days a month and struggles to eat healthy on the road.
+`Goal: Maintain fat loss momentum despite constant travel.`
 
-Goal: Maintain fat loss momentum despite constant travel.
+`Prompt:`
 
-Prompt:
-
-"You are a Travel Wellness Coach. Create a 10-week fat loss plan for a frequent business traveler.
-
+`"You are a Travel Wellness Coach. Create a 10-week fat loss plan for a frequent business traveler.`
+```
 1. Suggest portable, travel-friendly meal options.
 
 2. Include bodyweight and hotel-room workout plans.
@@ -2386,23 +2386,23 @@ Prompt:
 4. Add sleep adjustment hacks for changing time zones.
 
 5. Track progress via a travel-friendly habit log.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Travel frequency & destinations
 
 2. Access to hotel gyms"
+```
+## Prompt 18 — Marathon Training & Nutrition Guide
 
-Prompt 18 — Marathon Training & Nutrition Guide
+`Backstory: A 25-year-old amateur runner is training for their first full marathon in 6 months. They have been running 3 times/week for a year.`
 
-Backstory: A 25-year-old amateur runner is training for their first full marathon in 6 months. They have been running 3 times/week for a year.
+`Goal: Build endurance, avoid injuries, and fuel optimally.`
 
-Goal: Build endurance, avoid injuries, and fuel optimally.
+`Prompt:`
 
-Prompt:
-
-"You are an Endurance Sports Coach. Develop a 24-week marathon training and nutrition program.
-
+`"You are an Endurance Sports Coach. Develop a 24-week marathon training and nutrition program.`
+```
 1. Create a progressive long-run schedule.
 
 2. Suggest carb-loading and hydration strategies.
@@ -2412,23 +2412,23 @@ Prompt:
 4. Include race-day fueling and pacing strategy.
 
 5. Track improvements in distance and pace weekly.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Current longest run distance
 
 2. Available training days"
+```
+## Prompt 19 — Weight Gain Plan for Underweight Adults
 
-Prompt 19 — Weight Gain Plan for Underweight Adults
+`Backstory: A 23-year-old man has been underweight his whole life and wants to put on healthy muscle mass without junk food.`
 
-Backstory: A 23-year-old man has been underweight his whole life and wants to put on healthy muscle mass without junk food.
+`Goal: Gain weight in a healthy, sustainable way.`
 
-Goal: Gain weight in a healthy, sustainable way.
+`Prompt:`
 
-Prompt:
-
-"You are a Muscle Gain Specialist. Create a 12-week high-calorie, high-protein weight gain plan.
-
+`"You are a Muscle Gain Specialist. Create a 12-week high-calorie, high-protein weight gain plan.`
+```
 1. Suggest 5–6 nutrient-rich meals daily.
 
 2. Include progressive resistance training.
@@ -2438,23 +2438,23 @@ Prompt:
 4. Provide hydration and electrolyte balance tips.
 
 5. Include monthly weight and muscle mass tracking.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Current weight & height
 
 2. Food preferences"
+```
+## Prompt 20 — Weight Loss Plan for Newly Weds
 
-Prompt 20 — Weight Loss Plan for Newly Weds
+`Backstory: A couple in their early 30s wants to lose the weight they gained after wedding celebrations but prefers to do it together.`
 
-Backstory: A couple in their early 30s wants to lose the weight they gained after wedding celebrations but prefers to do it together.
+`Goal: Create a joint plan for mutual motivation.`
 
-Goal: Create a joint plan for mutual motivation.
+`Prompt:`
 
-Prompt:
-
-"You are a Couple’s Fitness Coach. Create a 10-week fat loss plan for newlyweds.
-
+`"You are a Couple’s Fitness Coach. Create a 10-week fat loss plan for newlyweds.`
+```
 1. Include partner workout sessions.
 
 2. Suggest healthy home-cooked meals for two.
@@ -2464,23 +2464,23 @@ Prompt:
 4. Include stress-reduction couple activities.
 
 5. Track joint progress in weight and body fat %.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Combined grocery budget
 
 2. Cooking frequency"
+```
+## Prompt 21 — Office-Friendly Meal & Fitness Plan
 
-Prompt 21 — Office-Friendly Meal & Fitness Plan
+`Backstory: A 30-year-old accountant spends 9 hours at a desk and struggles with junk food temptations at work.`
 
-Backstory: A 30-year-old accountant spends 9 hours at a desk and struggles with junk food temptations at work.
+`Goal: Improve diet adherence and add light activity during office hours.`
 
-Goal: Improve diet adherence and add light activity during office hours.
+`Prompt:`
 
-Prompt:
-
-"You are a Workplace Wellness Advisor. Design an 8-week office-friendly nutrition and activity plan.
-
+`"You are a Workplace Wellness Advisor. Design an 8-week office-friendly nutrition and activity plan.`
+```
 1. Suggest lunchbox ideas that stay fresh.
 
 2. Add desk-based mobility stretches.
@@ -2490,23 +2490,23 @@ Prompt:
 4. Provide weekly walking step goals.
 
 5. Create a calendar-based progress tracker.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Office pantry facilities
 
 2. Daily commute duration"
+```
+## Prompt 22 — Anti-Aging Diet & Exercise Plan
 
-Prompt 22 — Anti-Aging Diet & Exercise Plan
+`Backstory: A 35-year-old woman wants to maintain youthful skin, bone health, and vitality as she ages.`
 
-Backstory: A 35-year-old woman wants to maintain youthful skin, bone health, and vitality as she ages.
+`Goal: Slow down aging signs through diet, exercise, and lifestyle changes.`
 
-Goal: Slow down aging signs through diet, exercise, and lifestyle changes.
+`Prompt:`
 
-Prompt:
-
-"You are an Anti-Aging Lifestyle Coach. Create a 12-week vitality and longevity program.
-
+`"You are an Anti-Aging Lifestyle Coach. Create a 12-week vitality and longevity program.`
+```
 1. Suggest antioxidant-rich foods.
 
 2. Include strength training for bone density.
@@ -2516,23 +2516,23 @@ Prompt:
 4. Recommend skincare routines tied to nutrition.
 
 5. Track progress in skin health, energy, and fitness.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Skin concerns
 
 2. Current fitness level"
+```
+## Prompt 23 — Stress-Relief Fitness & Nutrition Program
 
-Prompt 23 — Stress-Relief Fitness & Nutrition Program
+`Backstory: A 28-year-old IT professional is experiencing burnout and wants a holistic plan to improve mood and reduce stress.`
 
-Backstory: A 28-year-old IT professional is experiencing burnout and wants a holistic plan to improve mood and reduce stress.
+`Goal: Use diet, exercise, and relaxation to lower stress levels.`
 
-Goal: Use diet, exercise, and relaxation to lower stress levels.
+`Prompt:`
 
-Prompt:
-
-"You are a Mind-Body Wellness Coach. Create an 8-week stress-relief program.
-
+`"You are a Mind-Body Wellness Coach. Create an 8-week stress-relief program.`
+```
 1. Include mood-boosting foods like omega-3 rich meals.
 
 2. Suggest yoga and meditation routines.
@@ -2542,23 +2542,23 @@ Prompt:
 4. Provide daily journaling prompts.
 
 5. Include weekly self-care challenges.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Current stress triggers
 
 2. Sleep quality score"
+```
+## Prompt 24 — Seasonal Diet & Workout Adjustments
 
-Prompt 24 — Seasonal Diet & Workout Adjustments
+`Backstory: A 31-year-old wants to optimize their diet and exercise according to seasonal changes in India (summer, monsoon, winter).`
 
-Backstory: A 31-year-old wants to optimize their diet and exercise according to seasonal changes in India (summer, monsoon, winter).
+`Goal: Adapt nutrition and workouts to seasonal climate.`
 
-Goal: Adapt nutrition and workouts to seasonal climate.
+`Prompt:`
 
-Prompt:
-
-"You are a Seasonal Health Expert. Create a 12-month rotating fitness and diet plan.
-
+`"You are a Seasonal Health Expert. Create a 12-month rotating fitness and diet plan.`
+```
 1. Suggest seasonal foods rich in immunity-boosting nutrients.
 
 2. Adjust workout intensity based on temperature/humidity.
@@ -2568,23 +2568,23 @@ Prompt:
 4. Add seasonal mental wellness activities.
 
 5. Provide a printable seasonal health calendar.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Location in India
 
 2. Seasonal health challenges"
+```
+## Prompt 25 — Festival Season Weight Management Plan
 
-Prompt 25 — Festival Season Weight Management Plan
+`Backstory: A 30-year-old wants to enjoy Indian festivals without gaining excessive weight from sweets and feasts.`
 
-Backstory: A 30-year-old wants to enjoy Indian festivals without gaining excessive weight from sweets and feasts.
+`Goal: Maintain weight while still enjoying celebrations.`
 
-Goal: Maintain weight while still enjoying celebrations.
+`Prompt:`
 
-Prompt:
-
-"You are a Festive Wellness Coach. Create a 6-week plan for festival seasons.
-
+`"You are a Festive Wellness Coach. Create a 6-week plan for festival seasons.`
+```
 1. Suggest portion-controlled festive meals.
 
 2. Add extra activity sessions before and after big feasts.
@@ -2594,32 +2594,32 @@ Prompt:
 4. Provide hydration reminders during celebrations.
 
 5. Include a ‘post-festival detox’ week.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Upcoming festivals
 
 2. Favorite festive foods"
+```
 
+# Social media health awareness posts
 
-Social media health awareness posts
+## Prompt 1 - Busting Common Fitness Myths
 
-Prompt 1 - Busting Common Fitness Myths
+`Backstory:`
 
-Backstory:
+`You have a 26-year-old content creator who wants to run a month-long Instagram series to bust common health and fitness myths popular among young Indians — like “carbs make you fat” or “lifting weights makes women bulky.” The audience is mostly urban, health-conscious, but confused by conflicting advice online.`
 
-You have a 26-year-old content creator who wants to run a month-long Instagram series to bust common health and fitness myths popular among young Indians — like “carbs make you fat” or “lifting weights makes women bulky.” The audience is mostly urban, health-conscious, but confused by conflicting advice online.
+`Goal:`
 
-Goal:
+`Create short, engaging, and scientifically accurate myth-busting posts for social media.`
 
-Create short, engaging, and scientifically accurate myth-busting posts for social media.
+`Prompt:`
 
-Prompt:
+`"You are a certified fitness trainer and content marketer. Create 10 Instagram carousel post scripts busting popular fitness myths among young Indians.`
 
-"You are a certified fitness trainer and content marketer. Create 10 Instagram carousel post scripts busting popular fitness myths among young Indians.
-
-For each myth:
-
+`For each myth:`
+```
 1. Provide the myth as the title.
 
 2. Write 2–3 short, engaging sentences explaining why it’s false (science-backed).
@@ -2629,9 +2629,9 @@ For each myth:
 4. End with a simple actionable tip.
 
 5. Make the tone friendly, motivational, and easy for non-experts to understand."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. List of myths to be addressed
 
 2. Target platform (Instagram/Facebook)
@@ -2639,7 +2639,7 @@ Inputs Required:
 3. Preferred content style (informal/formal)
 
 4. Target audience details (age, gender mix, fitness level)
-
+```
 Prompt 2 - Mental Health Monday Series
 
 Backstory:
