@@ -1840,16 +1840,16 @@ Inputs:
 
 2. Communication tools used"
 ```
-Prompt 22 — SOP for Nutrition Counseling in Fitness Centers
+## Prompt 22 — SOP for Nutrition Counseling in Fitness Centers
 
-Backstory: Your gym offers nutrition advice, but trainers give inconsistent or incorrect dietary guidance.
+Backstory: Your gym offers nutrition advice, but trainers give inconsistent or incorrect dietary guidance.`
 
-Goal: Ensure safe and professional nutrition counseling.
+`Goal: Ensure safe and professional nutrition counseling.`
 
-Prompt:
+`Prompt:`
 
-"You are a Sports Nutritionist. Write an SOP for ‘Nutrition Counseling in Fitness Centers.’
-
+`"You are a Sports Nutritionist. Write an SOP for ‘Nutrition Counseling in Fitness Centers.’`
+```
 1. Define consultation steps (assessment, plan, follow-up).
 
 2. Include dietary customization for medical conditions.
@@ -1859,23 +1859,23 @@ Prompt:
 4. Provide a disclaimer format to avoid liability.
 
 5. Include follow-up call schedule.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Type of clients served
 
 2. In-house or outsourced nutritionists"
+```
+## Prompt 23 — SOP for Handling High-Profile Clients in Clinics & Gyms
 
-Prompt 23 — SOP for Handling High-Profile Clients in Clinics & Gyms
+`Backstory: Occasionally, celebrities or high-net-worth clients visit your facility. Staff must know how to maintain confidentiality and special handling.`
 
-Backstory: Occasionally, celebrities or high-net-worth clients visit your facility. Staff must know how to maintain confidentiality and special handling.
+`Goal: Protect privacy while providing premium service.`
 
-Goal: Protect privacy while providing premium service.
+`Prompt:`
 
-Prompt:
-
-"You are a VIP Client Services Coordinator. Draft an SOP for ‘Handling High-Profile Clients.’
-
+`"You are a VIP Client Services Coordinator. Draft an SOP for ‘Handling High-Profile Clients.’`
+```
 1. Set privacy measures for arrival and waiting areas.
 
 2. Define limited staff access.
@@ -1885,23 +1885,23 @@ Prompt:
 4. Include special billing and NDAs.
 
 5. Add media handling guidelines.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Type of VIP clients expected
 
 2. Facility security protocols"
+```
+## Prompt 24 — SOP for Waste Management in Clinics & Fitness Centers
 
-Prompt 24 — SOP for Waste Management in Clinics & Fitness Centers
+`Backstory: Improper waste disposal is causing hygiene issues and regulatory risks.`
 
-Backstory: Improper waste disposal is causing hygiene issues and regulatory risks.
+`Goal: Ensure compliance with biomedical and general waste disposal rules.`
 
-Goal: Ensure compliance with biomedical and general waste disposal rules.
+`Prompt:`
 
-Prompt:
-
-"You are an Environmental Compliance Officer. Create an SOP for ‘Waste Management.’
-
+`"You are an Environmental Compliance Officer. Create an SOP for ‘Waste Management.’`
+```
 1. Define waste segregation categories.
 
 2. Outline storage and disposal timelines.
@@ -1911,23 +1911,23 @@ Prompt:
 4. Add staff training requirements.
 
 5. Provide monthly compliance audit checklist.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Waste volume generated
 
 2. Local disposal laws"
+```
+## Prompt 25 — SOP for Marketing & Promotions Approval
 
-Prompt 25 — SOP for Marketing & Promotions Approval
+`Backstory: Random discount campaigns and unapproved ads are damaging your brand image.`
 
-Backstory: Random discount campaigns and unapproved ads are damaging your brand image.
+`Goal: Standardize marketing approvals for consistency and compliance.`
 
-Goal: Standardize marketing approvals for consistency and compliance.
+`Prompt:`
 
-Prompt:
-
-"You are a Healthcare & Fitness Marketing Manager. Draft an SOP for ‘Approval Process for Marketing & Promotions.’
-
+`"You are a Healthcare & Fitness Marketing Manager. Draft an SOP for ‘Approval Process for Marketing & Promotions.’`
+```
 1. Define who can propose campaigns.
 
 2. Set approval hierarchy and timelines.
@@ -1937,13 +1937,13 @@ Prompt:
 4. Require legal compliance check for health claims.
 
 5. Add campaign performance tracking format.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Number of campaigns per month
 
 2. Marketing budget range"
-
+```
 
 Diet & workout plan creation
 
