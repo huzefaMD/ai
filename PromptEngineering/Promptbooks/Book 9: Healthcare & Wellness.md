@@ -643,16 +643,16 @@
 
 # Medical content & health tips
 
-Prompt 1 — Weekly Health Tip Series for Instagram
+## Prompt 1 — Weekly Health Tip Series for Instagram
 
-Backstory: You run a wellness-focused Instagram page targeting young professionals in India who often neglect health due to busy schedules. You want to create a weekly carousel post with bite-sized but scientifically accurate health tips.
+`Backstory: You run a wellness-focused Instagram page targeting young professionals in India who often neglect health due to busy schedules. You want to create a weekly carousel post with bite-sized but scientifically accurate health tips.`
 
-Goal: Increase audience engagement and encourage healthy lifestyle changes.
+`Goal: Increase audience engagement and encourage healthy lifestyle changes.`
 
-Prompt:
+`Prompt:`
 
-"You are a Social Media Medical Content Creator. Draft a 5-slide Instagram carousel on ‘5 Simple Ways to Boost Immunity Naturally.’
-
+`"You are a Social Media Medical Content Creator. Draft a 5-slide Instagram carousel on ‘5 Simple Ways to Boost Immunity Naturally.’`
+```
 1. Use layman-friendly language without losing accuracy.
 
 2. Include one actionable tip per slide.
@@ -662,23 +662,23 @@ Prompt:
 4. End with a call-to-action encouraging followers to share.
 
 5. Suggest relevant hashtags for reach.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Target age group
 
 2. Tone (formal, friendly, witty)"
+```
+## Prompt 2 — Blog Article on Seasonal Wellness
 
-Prompt 2 — Blog Article on Seasonal Wellness
+`Backstory: Your clinic’s website wants to publish SEO-friendly content before monsoon season to help patients avoid seasonal illnesses.`
 
-Backstory: Your clinic’s website wants to publish SEO-friendly content before monsoon season to help patients avoid seasonal illnesses.
+`Goal: Provide preventive care tips while improving search rankings.`
 
-Goal: Provide preventive care tips while improving search rankings.
+`Prompt:`
 
-Prompt:
-
-"You are a Medical Blogger. Write a 1,200-word article titled ‘How to Stay Healthy During the Indian Monsoon.’ 
-
+`"You are a Medical Blogger. Write a 1,200-word article titled ‘How to Stay Healthy During the Indian Monsoon.’`
+```
 1. Include sections on diet, hygiene, and immunity boosters. 
 
 2. Reference credible Indian health authorities (ICMR, MoHFW). 
@@ -688,23 +688,23 @@ Prompt:
 4. Use conversational yet authoritative tone. 
 
 5. Suggest meta title & description for SEO.
-
-Inputs: 
-
+```
+`Inputs:`
+```
 1. Keywords to target 
 
 2. Primary audience (urban/rural)"
+```
+## Prompt 3 — Short Educational Reel on Women’s Health
 
-Prompt 3 — Short Educational Reel on Women’s Health
+`Backstory: Many young Indian women don’t prioritize regular gynecological check-ups due to stigma or busy lifestyles.`
 
-Backstory: Many young Indian women don’t prioritize regular gynecological check-ups due to stigma or busy lifestyles.
+`Goal: Use a quick Instagram reel to break the taboo and spread awareness.`
 
-Goal: Use a quick Instagram reel to break the taboo and spread awareness.
+`Prompt:`
 
-Prompt:
-
-"You are a Health Influencer specializing in women’s wellness. Script a 30-second Instagram reel on ‘Why Women Should Not Skip Annual Gynecological Check-ups.’ 
-
+`"You are a Health Influencer specializing in women’s wellness. Script a 30-second Instagram reel on ‘Why Women Should Not Skip Annual Gynecological Check-ups.’`
+```
 1. Start with a relatable hook. 
 
 2. Use one surprising fact to grab attention. 
@@ -714,13 +714,13 @@ Prompt:
 4. End with an empowering message. 
 
 5. Suggest trending Indian audio for maximum reach.
-
-Inputs: 
-
+```
+`Inputs:`
+```
 1. Target city/town 
 
 2. Cultural tone preference"
-
+```
 Prompt 4 — Daily WhatsApp Health Broadcast
 
 Backstory: Your clinic has a WhatsApp broadcast list for patients to receive daily wellness tips without spamming.
