@@ -1292,18 +1292,18 @@ Inputs:
 1. User’s primary goal (weight loss, stress relief, general health)"
 ```
 
-SOPs for clinics & fitness centers
+# SOPs for clinics & fitness centers
 
-Prompt 1 — Patient Intake SOP for Clinics
+## Prompt 1 — Patient Intake SOP for Clinics
 
-Backstory: Your clinic is facing inconsistent patient registration processes, leading to missing information and delays. A clear SOP is needed so all staff follow the same steps from patient arrival to file creation.
+`Backstory: Your clinic is facing inconsistent patient registration processes, leading to missing information and delays. A clear SOP is needed so all staff follow the same steps from patient arrival to file creation.`
 
-Goal: Ensure patient onboarding is smooth, professional, and legally compliant.
+`Goal: Ensure patient onboarding is smooth, professional, and legally compliant.`
 
-Prompt:
+`Prompt:`
 
-"You are a Healthcare Operations Consultant. Draft a detailed SOP for ‘Patient Intake & Registration’ at a multi-specialty clinic.
-
+`"You are a Healthcare Operations Consultant. Draft a detailed SOP for ‘Patient Intake & Registration’ at a multi-specialty clinic.`
+```
 1. Include step-by-step procedures from reception greeting to record creation.
 
 2. Outline required forms, ID checks, and consent protocols.
@@ -1313,23 +1313,23 @@ Prompt:
 4. Add escalation steps for incomplete documentation.
 
 5. Include a time target for each step.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Clinic size (number of patients/day)
 
 2. EMR system used"
+```
+## Prompt 2 — Daily Hygiene & Sanitization SOP for Fitness Centers
 
-Prompt 2 — Daily Hygiene & Sanitization SOP for Fitness Centers
+`Backstory: A chain of gyms received complaints about cleanliness and hygiene post-COVID. Management wants a strict cleaning and sanitization protocol to restore trust and prevent infections.`
 
-Backstory: A chain of gyms received complaints about cleanliness and hygiene post-COVID. Management wants a strict cleaning and sanitization protocol to restore trust and prevent infections.
+`Goal: Ensure every branch follows consistent hygiene standards daily.`
 
-Goal: Ensure every branch follows consistent hygiene standards daily.
+`Prompt:`
 
-Prompt:
-
-"You are a Fitness Facility Safety Expert. Create an SOP titled ‘Daily Cleaning & Sanitization Procedures’ for a fitness center.
-
+`"You are a Fitness Facility Safety Expert. Create an SOP titled ‘Daily Cleaning & Sanitization Procedures’ for a fitness center.`
+```
 1. Detail cleaning frequency for equipment, floors, and washrooms.
 
 2. Specify cleaning agents and their safe usage.
@@ -1339,23 +1339,23 @@ Prompt:
 4. Include end-of-day deep-cleaning checklist.
 
 5. Add compliance monitoring methods.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Number of cleaning staff per shift
 
 2. Peak hours for gym usage"
+```
+## Prompt 3 — Emergency Response SOP for Clinics
 
-Prompt 3 — Emergency Response SOP for Clinics
+`Backstory: Your clinic handles a variety of patients, but staff often panic during medical emergencies like cardiac arrest. A simple, actionable SOP will help staff act quickly and save lives.`
 
-Backstory: Your clinic handles a variety of patients, but staff often panic during medical emergencies like cardiac arrest. A simple, actionable SOP will help staff act quickly and save lives.
+`Goal: Provide a ready-to-use, role-specific emergency response guide.`
 
-Goal: Provide a ready-to-use, role-specific emergency response guide.
+`Prompt:`
 
-Prompt:
-
-"You are a Medical Safety Officer. Develop an SOP for ‘On-Site Medical Emergency Response’ for clinics.
-
+`"You are a Medical Safety Officer. Develop an SOP for ‘On-Site Medical Emergency Response’ for clinics.`
+```
 1. Define immediate steps for first responders.
 
 2. Include CPR protocol and defibrillator usage.
@@ -1365,23 +1365,23 @@ Prompt:
 4. List emergency contact numbers and hospital tie-ups.
 
 5. Include a post-incident documentation process.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Clinic specialty
 
 2. Available emergency equipment"
+```
+## Prompt 4 — Client Assessment SOP for Personal Trainers
 
-Prompt 4 — Client Assessment SOP for Personal Trainers
+`Backstory: A fitness center wants to standardize how personal trainers assess new clients before starting workout plans to avoid injuries and ensure personalized programs.`
 
-Backstory: A fitness center wants to standardize how personal trainers assess new clients before starting workout plans to avoid injuries and ensure personalized programs.
+`Goal: Ensure safety and accuracy in training prescriptions.`
 
-Goal: Ensure safety and accuracy in training prescriptions.
+`Prompt:`
 
-Prompt:
-
-"You are a Sports & Exercise Science Expert. Create an SOP for ‘Initial Client Assessment’ for personal trainers.
-
+`"You are a Sports & Exercise Science Expert. Create an SOP for ‘Initial Client Assessment’ for personal trainers.`
+```
 1. Include health history intake, physical fitness testing, and goal setting.
 
 2. Outline screening for injuries and health risks.
@@ -1391,23 +1391,23 @@ Prompt:
 4. Provide documentation format for client records.
 
 5. Suggest frequency for reassessments.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Type of fitness center (general, CrossFit, yoga, etc.)
 
 2. Age range of clients"
+```
+## Prompt 5 — Equipment Maintenance SOP for Clinics & Gyms
 
-Prompt 5 — Equipment Maintenance SOP for Clinics & Gyms
+`Backstory: Frequent equipment breakdowns are affecting service quality and safety in your facility. A preventive maintenance SOP is needed to minimize downtime.`
 
-Backstory: Frequent equipment breakdowns are affecting service quality and safety in your facility. A preventive maintenance SOP is needed to minimize downtime.
+`Goal: Extend equipment lifespan and prevent accidents.`
 
-Goal: Extend equipment lifespan and prevent accidents.
+`Prompt:`
 
-Prompt:
-
-"You are a Facility Maintenance Planner. Draft an SOP for ‘Preventive Maintenance of Medical & Fitness Equipment.’
-
+`"You are a Facility Maintenance Planner. Draft an SOP for ‘Preventive Maintenance of Medical & Fitness Equipment.’`
+```
 1. List daily, weekly, and monthly inspection tasks.
 
 2. Specify calibration protocols for medical devices.
@@ -1417,23 +1417,23 @@ Prompt:
 4. Add a reporting mechanism for malfunction.
 
 5. Provide a maintenance log template.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Equipment list
 
 2. Available maintenance staff"
+```
+## Prompt 6 — SOP for Handling Patient Complaints in Clinics
 
-Prompt 6 — SOP for Handling Patient Complaints in Clinics
+`Backstory: Your clinic is getting recurring complaints, but the responses from staff are inconsistent and sometimes unprofessional. An SOP will ensure all grievances are handled empathetically and efficiently.`
 
-Backstory: Your clinic is getting recurring complaints, but the responses from staff are inconsistent and sometimes unprofessional. An SOP will ensure all grievances are handled empathetically and efficiently.
+`Goal: Improve patient trust and resolve issues systematically.`
 
-Goal: Improve patient trust and resolve issues systematically.
+`Prompt:`
 
-Prompt:
-
-"You are a Patient Experience Manager. Create an SOP titled ‘Patient Complaint Handling Process.’ 
-
+`"You are a Patient Experience Manager. Create an SOP titled ‘Patient Complaint Handling Process.’ `
+```
 1. Define categories of complaints (service, billing, clinical). 
 
 2. Set timelines for acknowledgment and resolution. 
@@ -1443,23 +1443,23 @@ Prompt:
 4. Provide a script for staff to use when responding. 
 
 5. Add documentation requirements for every complaint.
-
-Inputs: 
-
+```
+`Inputs: `
+```
 1. Clinic size 
 
 2. Complaint tracking tool used"
+```
+## Prompt 7 — SOP for New Staff Onboarding in Fitness Centers
 
-Prompt 7 — SOP for New Staff Onboarding in Fitness Centers
+`Backstory: New hires at your gym take too long to get familiar with policies and equipment, affecting service quality. A structured onboarding SOP will cut training time.`
 
-Backstory: New hires at your gym take too long to get familiar with policies and equipment, affecting service quality. A structured onboarding SOP will cut training time.
+`Goal: Ensure all new hires are productive within their first week.`
 
-Goal: Ensure all new hires are productive within their first week.
+`Prompt:`
 
-Prompt:
-
-"You are a Fitness Center HR Specialist. Draft an SOP for ‘New Staff Onboarding.’ 
-
+`"You are a Fitness Center HR Specialist. Draft an SOP for ‘New Staff Onboarding.’ `
+```
 1. Create a 5-day induction schedule. 
 
 2. Include safety and hygiene training. 
@@ -1469,13 +1469,13 @@ Prompt:
 4. Provide checklist for ID verification and paperwork. 
 
 5. End with a probation review process.
-
-Inputs: 
-
+```
+`Inputs: `
+```
 1. Number of new hires per month 
 
 2. Job roles being onboarded"
-
+```
 Prompt 8 — SOP for Handling Infectious Diseases in Clinics
 
 Backstory: With rising flu and COVID-19 cases, clinics need clear steps for handling suspected infectious patients to prevent spread.
