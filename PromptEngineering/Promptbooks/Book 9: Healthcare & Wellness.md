@@ -2107,16 +2107,16 @@ Backstory: Your gym offers nutrition advice, but trainers give inconsistent or i
 
 2. Wedding date"
 ```
-Prompt 7 — Postpartum Weight Loss & Recovery Plan
+## Prompt 7 — Postpartum Weight Loss & Recovery Plan
 
-Backstory: A 30-year-old new mother wants to safely lose weight after childbirth while maintaining energy for breastfeeding and childcare.
+`Backstory: A 30-year-old new mother wants to safely lose weight after childbirth while maintaining energy for `breastfeeding and childcare.`
 
-Goal: Support recovery and gradual fat loss without harming milk supply.
+`Goal: Support recovery and gradual fat loss without harming milk supply.`
 
-Prompt:
+`Prompt:
 
-"You are a Postnatal Fitness & Nutrition Coach. Design a 12-week postpartum recovery plan.
-
+`"You are a Postnatal Fitness & Nutrition Coach. Design a 12-week postpartum recovery plan.`
+```
 1. Include pelvic floor and core strengthening exercises.
 
 2. Suggest nutrient-dense meals for lactation support.
@@ -2126,23 +2126,23 @@ Prompt:
 4. Add self-care and stress-reduction practices.
 
 5. Provide weekly energy and mood check-ins.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Delivery type (normal/C-section)
 
 2. Breastfeeding status"
+```
+## Prompt 8 — Fat Loss Plan for Men with Sedentary Jobs
 
-Prompt 8 — Fat Loss Plan for Men with Sedentary Jobs
+`Backstory: A 34-year-old software developer works 10 hours/day on a computer, has gained belly fat, and feels lethargic.`
 
-Backstory: A 34-year-old software developer works 10 hours/day on a computer, has gained belly fat, and feels lethargic.
+`Goal: Lose fat while maintaining muscle.`
 
-Goal: Lose fat while maintaining muscle.
+`Prompt:`
 
-Prompt:
-
-"You are a Weight Loss Specialist for Desk Jobs. Create a 10-week fat loss program for a sedentary male. 
-
+`"You are a Weight Loss Specialist for Desk Jobs. Create a 10-week fat loss program for a sedentary male. `
+```
 1. Include short, desk-friendly stretches and mobility drills. 
 
 2. Suggest low-calorie, high-protein meal options. 
@@ -2152,23 +2152,23 @@ Prompt:
 4. Include posture correction exercises. 
 
 5. Provide a daily hydration & step count goal.
-
-Inputs: 
-
+```
+`Inputs: `
+```
 1. Current weight & height 
 
 2. Work-from-home or office"
+```
+## Prompt 9 — Athlete’s Seasonal Training & Nutrition Plan
 
-Prompt 9 — Athlete’s Seasonal Training & Nutrition Plan
+`Backstory: A 22-year-old semi-professional cricket player is in the off-season and wants to focus on strength building and recovery.`
 
-Backstory: A 22-year-old semi-professional cricket player is in the off-season and wants to focus on strength building and recovery.
+`Goal: Enhance performance before the competitive season starts.`
 
-Goal: Enhance performance before the competitive season starts.
+`Prompt:`
 
-Prompt:
-
-"You are a Sports Performance Coach. Develop a 12-week off-season program for a cricket athlete.
-
+`"You are a Sports Performance Coach. Develop a 12-week off-season program for a cricket athlete.`
+```
 1. Include strength training cycles with progressive overload.
 
 2. Suggest high-energy meals for muscle growth.
@@ -2178,23 +2178,23 @@ Prompt:
 4. Include active recovery days.
 
 5. Provide a performance testing schedule.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Playing position
 
 2. Training facilities available"
+```
+## Prompt 10 — Keto Diet with Indian Foods
 
-Prompt 10 — Keto Diet with Indian Foods
+`Backstory: A 29-year-old woman wants to try a ketogenic diet but is concerned about adapting it to Indian vegetarian cuisine.`
 
-Backstory: A 29-year-old woman wants to try a ketogenic diet but is concerned about adapting it to Indian vegetarian cuisine.
+`Goal: Achieve ketosis while keeping meals culturally familiar.`
 
-Goal: Achieve ketosis while keeping meals culturally familiar.
+`Prompt:`
 
-Prompt:
-
-"You are a Low-Carb Diet Expert. Create a 6-week vegetarian keto diet plan using Indian recipes.
-
+`"You are a Low-Carb Diet Expert. Create a 6-week vegetarian keto diet plan using Indian recipes.`
+```
 1. Include daily carb limits and macronutrient breakdown.
 
 2. Suggest keto-friendly substitutes for common Indian foods.
@@ -2204,14 +2204,14 @@ Prompt:
 4. Add a list of allowed and restricted foods.
 
 5. Include weekly urine/blood ketone testing guidelines.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Current weight
 
 2. Any food intolerances"
-
-Prompt 11 — Vegan Athlete Diet & Training Program
+```
+## Prompt 11 — Vegan Athlete Diet & Training Program
 
 Backstory: A 25-year-old competitive runner follows a vegan lifestyle and needs a high-performance diet and training plan.
 
