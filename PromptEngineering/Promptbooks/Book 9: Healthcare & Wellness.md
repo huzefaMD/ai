@@ -2213,14 +2213,14 @@ Backstory: Your gym offers nutrition advice, but trainers give inconsistent or i
 ```
 ## Prompt 11 — Vegan Athlete Diet & Training Program
 
-Backstory: A 25-year-old competitive runner follows a vegan lifestyle and needs a high-performance diet and training plan.
+`Backstory: A 25-year-old competitive runner follows a vegan lifestyle and needs a high-performance diet and training plan.`
 
-Goal: Maximize endurance and speed while staying vegan.
+`Goal: Maximize endurance and speed while staying vegan.`
 
-Prompt:
+`Prompt:`
 
-"You are a Vegan Sports Nutritionist. Develop a 10-week vegan-friendly training and nutrition program for a runner.
-
+`"You are a Vegan Sports Nutritionist. Develop a 10-week vegan-friendly training and nutrition program for a runner.`
+```
 1. Suggest plant-based protein sources for muscle repair.
 
 2. Include carb-loading strategies for race prep.
@@ -2230,23 +2230,23 @@ Prompt:
 4. Provide hydration guidelines for hot climates.
 
 5. Include strength training for runners.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Race distance goal
 
 2. Current weekly mileage"
+```
+## Prompt 12 — Intermittent Fasting Fat Loss Plan
 
-Prompt 12 — Intermittent Fasting Fat Loss Plan
+`Backstory: A 31-year-old entrepreneur wants to lose fat but struggles with meal prep during a hectic day. They are open to trying intermittent fasting.`
 
-Backstory: A 31-year-old entrepreneur wants to lose fat but struggles with meal prep during a hectic day. They are open to trying intermittent fasting.
+`Goal: Use fasting to simplify eating and aid fat loss.`
 
-Goal: Use fasting to simplify eating and aid fat loss.
+`Prompt:`
 
-Prompt:
-
-"You are an Intermittent Fasting Coach. Create a 12-week fat loss program using a 16:8 fasting schedule.
-
+`"You are an Intermittent Fasting Coach. Create a 12-week fat loss program using a 16:8 fasting schedule.`
+```
 1. Suggest nutrient-rich meals for the eating window.
 
 2. Include hydration strategies during fasting.
@@ -2256,23 +2256,23 @@ Prompt:
 4. Provide tips for controlling hunger.
 
 5. Include weekly progress check-ins.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Preferred eating window
 
 2. Current activity level"
+```
+## Prompt 13 — Senior-Friendly Diet & Light Exercise Plan
 
-Prompt 13 — Senior-Friendly Diet & Light Exercise Plan
+`Backstory: A 35-year-old client wants to help their 65-year-old father stay healthy and active through diet and exercise.`
 
-Backstory: A 35-year-old client wants to help their 65-year-old father stay healthy and active through diet and exercise.
+`Goal: Improve mobility, energy, and overall health.`
 
-Goal: Improve mobility, energy, and overall health.
+`Prompt:`
 
-Prompt:
-
-"You are a Senior Wellness Coach. Design an 8-week health plan for a 65-year-old male.
-
+`"You are a Senior Wellness Coach. Design an 8-week health plan for a 65-year-old male.`
+```
 1. Include easy-to-digest meals with adequate protein.
 
 2. Suggest light exercise (walking, yoga, resistance bands).
@@ -2282,23 +2282,23 @@ Prompt:
 4. Provide daily hydration goals.
 
 5. Track improvements in stamina and flexibility.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Medical history
 
 2. Activity restrictions"
+```
+## Prompt 14 — Busy Mom’s 20-Minute Daily Workout & Diet Plan
 
-Prompt 14 — Busy Mom’s 20-Minute Daily Workout & Diet Plan
+`Backstory: A 33-year-old working mother of two has no time for long workouts but wants to get fit without extreme diets.`
 
-Backstory: A 33-year-old working mother of two has no time for long workouts but wants to get fit without extreme diets.
+`Goal: Build strength and stamina in short, manageable sessions.`
 
-Goal: Build strength and stamina in short, manageable sessions.
+`Prompt:`
 
-Prompt:
-
-"You are a Time-Efficient Fitness Coach. Create an 8-week plan for a working mother.
-
+`"You are a Time-Efficient Fitness Coach. Create an 8-week plan for a working mother.`
+```
 1. Provide 20-minute at-home workout routines.
 
 2. Suggest quick, nutritious family meals.
@@ -2308,23 +2308,23 @@ Prompt:
 4. Add weekend family activity ideas.
 
 5. Include weekly checklists for workouts and diet.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Available workout equipment
 
 2. Cooking time available"
+```
+## Prompt 15 — Gym-Free Body Recomposition Plan
 
-Prompt 15 — Gym-Free Body Recomposition Plan
+`Backstory: A 26-year-old wants to lose fat while building muscle but doesn’t want to join a gym. They are willing to invest in small equipment for home.`
 
-Backstory: A 26-year-old wants to lose fat while building muscle but doesn’t want to join a gym. They are willing to invest in small equipment for home.
+`Goal: Achieve lean, toned physique without gym membership.`
 
-Goal: Achieve lean, toned physique without gym membership.
+`Prompt:`
 
-Prompt:
-
-"You are a Home Fitness & Nutrition Specialist. Create a 12-week body recomposition plan.
-
+`"You are a Home Fitness & Nutrition Specialist. Create a 12-week body recomposition plan.`
+```
 1. Include strength training with resistance bands, dumbbells, and bodyweight.
 
 2. Provide high-protein, moderate-carb diet plans.
@@ -2334,14 +2334,14 @@ Prompt:
 4. Suggest tracking methods for body fat percentage.
 
 5. Include recovery and mobility routines.
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Current weight & body fat %
 
 2. Available home equipment"
-
-Prompt 16 — Weight Management Plan for Thyroid Patients
+```
+## Prompt 16 — Weight Management Plan for Thyroid Patients
 
 Backstory: A 29-year-old woman has hypothyroidism and is finding it extremely difficult to lose weight despite following generic diets.
 
