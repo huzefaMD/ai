@@ -2439,38 +2439,52 @@ Inputs:
 4. Available computational resources
 
 Prompt 2 – AI-Powered Waste Segregation System
+
 Backstory:
+
 A smart city initiative in Pune is exploring automation in waste management. Currently, waste segregation is manual, inconsistent, and error-prone. The city wants to pilot AI-powered image recognition systems at waste collection points to automatically sort recyclables, organics, and landfill waste. The implementation team needs a practical guide to setting up the AI model, integrating it with conveyor belts, and ensuring compliance with municipal waste rules.
 
 Goal:
+
 Create an AI adoption guide for automated waste segregation.
 
 Prompt:
+
 "You are a computer vision engineer. Create an implementation guide for an AI-powered waste segregation system in Pune. Include image dataset creation, model training (CNN, YOLO), hardware integration with sorting conveyors, accuracy monitoring, and real-time reporting."
 
 Inputs:
 
-Number of sorting stations
-Waste category definitions
-Budget for AI hardware/software
-Expected daily waste volume
+1. Number of sorting stations
+
+2. Waste category definitions
+
+3. Budget for AI hardware/software
+
+4. Expected daily waste volume
 
 Prompt 3 – AI-Based Energy Consumption Optimisation in Manufacturing
+
 Backstory:
+
 A steel manufacturing plant in Jharkhand spends nearly 25% of its operational budget on electricity. Energy usage is currently monitored manually, making it hard to identify inefficiencies in real time. Management wants an AI-driven system that can analyse sensor data from machinery and suggest optimal operating schedules to reduce consumption without affecting output.
 
 Goal:
+
 Develop an AI-powered energy optimisation plan for a manufacturing plant.
 
 Prompt:
+
 "You are an industrial AI solutions architect. Create a guide for implementing an AI-based energy consumption optimisation system for a steel plant in Jharkhand. Include sensor integration, data pipeline design, anomaly detection algorithms, predictive scheduling, and monthly savings estimation."
 
 Inputs:
 
-Number of production lines
-Current energy consumption data
-Budget for AI deployment
-Desired energy savings target
+1. Number of production lines
+
+2. Current energy consumption data
+
+3. Budget for AI deployment
+
+4. Desired energy savings target
 
 Prompt 4 – AI-Enhanced Crop Yield Prediction for Sustainable Farming
 Backstory:
