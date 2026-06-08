@@ -154,8 +154,7 @@
 
 `"You are an accounting data cleanup specialist. Review and clean the provided ledger for FY 2024–25.`
 
-```
-Tasks:
+`Tasks:`
 ```
 1. Remove duplicate entries.
 
