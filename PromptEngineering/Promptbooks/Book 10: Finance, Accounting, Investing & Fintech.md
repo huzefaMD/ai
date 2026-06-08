@@ -106,32 +106,32 @@
 
 4. Expense categories (e.g., supplies, refreshments, maintenance)
 ```
-Prompt 4 — Automating UPI Payment Reconciliation
+## Prompt 4 — Automating UPI Payment Reconciliation
 
-Backstory:
+`Backstory:`
 
-A café owner in Pune uses multiple UPI handles (GPay, PhonePe, Paytm) to accept payments. End-of-month reconciliation is messy because transaction IDs differ in the café’s billing software and bank passbook. They want an automated way to match UPI payments to daily sales.
+`A café owner in Pune uses multiple UPI handles (GPay, PhonePe, Paytm) to accept payments. End-of-month reconciliation is messy because transaction IDs differ in the café’s billing software and bank passbook. They want an automated way to match UPI payments to daily sales.`
 
-Goal:
+`Goal:`
 
-Match UPI transaction data with daily sales data to confirm no payments are missing.
+`Match UPI transaction data with daily sales data to confirm no payments are missing.`
 
-Prompt:
+`Prompt:`
 
-"You are a fintech reconciliation expert. Match the UPI transaction log with the daily sales records for the month.
+`"You are a fintech reconciliation expert. Match the UPI transaction log with the daily sales records for the month.`
 
-Steps:
-
+`Steps:`
+```
 1. Standardize date/time format for both datasets.
 
 2. Match transactions based on amount and nearest timestamp.
 
 3. Highlight sales with no corresponding payment and vice versa.
+```
+`Output a reconciliation report with unmatched entries for review."`
 
-Output a reconciliation report with unmatched entries for review."
-
-Inputs Required:
-
+`Inputs Required:`
+```
 1. UPI transaction log (CSV/Excel)
 
 2. Daily sales report from POS/billing system
@@ -139,23 +139,24 @@ Inputs Required:
 3. Tolerance for time mismatch (minutes)
 
 4. Any known discount or refund data
+```
+## Prompt 5 — Annual Ledger Cleanup
 
-Prompt 5 — Annual Ledger Cleanup
+`Backstory:`
 
-Backstory:
+`A 35-year-old manufacturing SME in Coimbatore has an annual ledger cluttered with duplicate entries, misspelled vendor names, and inconsistent expense categories. Before the annual audit, they need the ledger cleaned and standardized.`
 
-A 35-year-old manufacturing SME in Coimbatore has an annual ledger cluttered with duplicate entries, misspelled vendor names, and inconsistent expense categories. Before the annual audit, they need the ledger cleaned and standardized.
+`Goal:`
 
-Goal:
+`Prepare a clean, consistent ledger for the fiscal year.`
 
-Prepare a clean, consistent ledger for the fiscal year.
+`Prompt:`
 
-Prompt:
+`"You are an accounting data cleanup specialist. Review and clean the provided ledger for FY 2024–25.`
 
-"You are an accounting data cleanup specialist. Review and clean the provided ledger for FY 2024–25.
-
+```
 Tasks:
-
+```
 1. Remove duplicate entries.
 
 2. Standardize vendor and client names.
@@ -165,7 +166,7 @@ Tasks:
 4. Flag unusual or suspicious transactions.
 
 5. Provide a before-and-after summary showing corrections made."
-
+```
 Prompt 6 — Vendor Payment Tracking
 
 Backstory:
