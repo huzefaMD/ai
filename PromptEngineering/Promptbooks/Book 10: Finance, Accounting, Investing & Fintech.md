@@ -1,33 +1,33 @@
-Bookkeeping & reconciliation
+# Bookkeeping & reconciliation
 
-Prompt 1 — Monthly Expense Categorization for Small Businesses
+## Prompt 1 — Monthly Expense Categorization for Small Businesses
 
-Backstory:
+`Backstory:`
 
-You have a 31-year-old entrepreneur running a boutique in Jaipur who uses UPI, bank transfers, and occasional cash payments for business transactions. They struggle to track and categorize monthly expenses, especially distinguishing between personal and business spending. They want a clean breakdown for GST filing and internal tracking.
+`You have a 31-year-old entrepreneur running a boutique in Jaipur who uses UPI, bank transfers, and occasional cash payments for business transactions. They struggle to track and categorize monthly expenses, especially distinguishing between personal and business spending. They want a clean breakdown for GST filing and internal tracking.`
 
-Goal:
+`Goal:`
 
-Generate a categorized monthly expense report ready for accounting and compliance.
+`Generate a categorized monthly expense report ready for accounting and compliance.`
 
-Prompt:
+`Prompt:`
 
-"You are a professional accountant. Create a categorized monthly expense report for a small business in India.
+`"You are a professional accountant. Create a categorized monthly expense report for a small business in India.`
 
-For each transaction: 
-
-1. Categorize it as operational, marketing, utilities, payroll, or personal. 
+`For each transaction: `
+```
+1. Categorize it as operational, marketing, utilities, payroll, or personal.
 
 2. Add payment method (cash, UPI, bank transfer, cheque). 
 
 3. Flag potential tax-deductible expenses. 
 
 4. Summarize total spend per category in INR.
+```
+`Output should be a clean, table-formatted report ready for GST filing."`
 
-Output should be a clean, table-formatted report ready for GST filing."
-
-Inputs Required: 
-
+`Inputs Required:`
+```
 1. List of all transactions with date, amount, and payment method 
 
 2. Business nature and industry 
@@ -35,23 +35,23 @@ Inputs Required:
 3. GST applicability (yes/no) 
 
 4. List of known recurring expenses
+```
+## Prompt 2 — Bank Statement Reconciliation
 
-Prompt 2 — Bank Statement Reconciliation
+`Backstory:`
 
-Backstory:
+`A 27-year-old freelancer from Bengaluru earns from multiple sources — Upwork, Fiverr, and direct clients. Payments come in via PayPal, bank transfers, and UPI. At month-end, they need to reconcile their bank statement with project invoices to ensure all payments are received and recorded.`
 
-A 27-year-old freelancer from Bengaluru earns from multiple sources — Upwork, Fiverr, and direct clients. Payments come in via PayPal, bank transfers, and UPI. At month-end, they need to reconcile their bank statement with project invoices to ensure all payments are received and recorded.
+`Goal:`
 
-Goal:
+`Generate a reconciled statement showing matched and unmatched transactions.`
 
-Generate a reconciled statement showing matched and unmatched transactions.
+`Prompt:`
 
-Prompt:
+`"You are a certified bookkeeper. Reconcile the given bank statement with the provided invoice list.`
 
-"You are a certified bookkeeper. Reconcile the given bank statement with the provided invoice list.
-
-Steps:
-
+`Steps:`
+```
 1. Match each payment in the bank statement to a specific invoice.
 
 2. Highlight unmatched entries and flag them for follow-up.
@@ -59,9 +59,9 @@ Steps:
 3. Identify duplicate or erroneous transactions.
 
 4. Provide a summary of total matched, pending, and disputed amounts."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Bank statement (CSV, PDF, or Excel)
 
 2. Invoice list with invoice numbers, amounts, and client names
@@ -69,23 +69,23 @@ Inputs Required:
 3. Payment dates tolerance range (e.g., ±3 days)
 
 4. Currency conversion rate if foreign payments exist
+```
+## Prompt 3 — Petty Cash Tracking for Retail Stores
 
-Prompt 3 — Petty Cash Tracking for Retail Stores
+`Backstory:`
 
-Backstory:
+`A family-owned stationery shop in Lucknow uses petty cash for small daily expenses — tea for staff, packaging materials, and urgent stock buys. The store owner often forgets to record cash withdrawals and wants a transparent petty cash ledger to monitor leakage.`
 
-A family-owned stationery shop in Lucknow uses petty cash for small daily expenses — tea for staff, packaging materials, and urgent stock buys. The store owner often forgets to record cash withdrawals and wants a transparent petty cash ledger to monitor leakage.
+`Goal:`
 
-Goal:
+`Create a daily petty cash log with balances updated after every transaction.`
 
-Create a daily petty cash log with balances updated after every transaction.
+`Prompt:`
 
-Prompt:
+`"You are a retail accounting specialist. Create a petty cash log for one month.`
 
-"You are a retail accounting specialist. Create a petty cash log for one month.
-
-Include:
-
+`Include:`
+```
 1. Date of transaction
 
 2. Description of expense or deposit
@@ -95,9 +95,9 @@ Include:
 4. Running balance after each entry
 
 5. Weekly summary of total spent vs replenished cash"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Starting petty cash amount
 
 2. List of daily petty cash transactions
@@ -105,7 +105,7 @@ Inputs Required:
 3. Cash replenishment dates and amounts
 
 4. Expense categories (e.g., supplies, refreshments, maintenance)
-
+```
 Prompt 4 — Automating UPI Payment Reconciliation
 
 Backstory:
