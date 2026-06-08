@@ -1669,19 +1669,28 @@ Backstory: Many urban Indians are rediscovering Ayurveda as a natural way to boo
 Goal: Create a 4-day Ayurveda retreat agenda focused on seasonal health and balance.
 
 Prompt:
+
 "You are an Ayurvedic wellness retreat planner. Create a 4-day schedule including:
 
-Morning herbal drink rituals
-Ayurvedic self-massage workshops
-Seasonal meal preparation demos
-Guided meditation for mind-body harmony
-Evening herbal steam and rest"
+1. Morning herbal drink rituals
+
+2. Ayurvedic self-massage workshops
+
+3. Seasonal meal preparation demos
+
+4. Guided meditation for mind-body harmony
+
+5. Evening herbal steam and rest"
+
 Inputs Required:
 
-Participant dosha assessment results
-Season of the retreat
-Available therapy treatments
-Dietary restrictions
+1. Participant dosha assessment results
+
+2. Season of the retreat
+
+3. Available therapy treatments
+
+4. Dietary restrictions
 
 Prompt 17 – Mindfulness for Educators Retreat
 
@@ -1690,19 +1699,28 @@ Backstory: Teachers in India often face burnout due to heavy workloads, large cl
 Goal: Create a retreat program that supports teachers in adopting mindfulness for personal and professional growth.
 
 Prompt:
+
 "You are a mindfulness coach for educators. Design a 2-day retreat including:
 
-Morning grounding and breathing
-Mindfulness in classroom activities
-Reflective journaling
-Peer sharing circles
-Evening relaxation practices"
+1. Morning grounding and breathing
+
+2. Mindfulness in classroom activities
+
+3. Reflective journaling
+
+4. Peer sharing circles
+
+5. Evening relaxation practices"
+
 Inputs Required:
 
-Teaching experience levels
-Subjects taught
-School environment challenges
-Group size
+1. Teaching experience levels
+
+2. Subjects taught
+
+3. School environment challenges
+
+4. Group size
 
 Prompt 18 – Digital Detox & Nature Immersion
 
@@ -1711,19 +1729,28 @@ Backstory: In India’s metro cities, screen fatigue is becoming a serious menta
 Goal: Design a tech-free retreat agenda that helps participants unwind and reconnect with nature.
 
 Prompt:
+
 "You are a digital detox retreat planner. Create a 3-day program including:
 
-Morning sunrise walks
-Mindful eating sessions
-Nature-inspired creative workshops
-Group campfire discussions
-Evening stargazing"
+1. Morning sunrise walks
+
+2. Mindful eating sessions
+
+3. Nature-inspired creative workshops
+
+4. Group campfire discussions
+
+5. Evening stargazing"
+
 Inputs Required:
 
-Number of participants
-Accessibility to natural trails
-Accommodation style
-Backup plans for rainy weather
+1. Number of participants
+
+2. Accessibility to natural trails
+
+3. Accommodation style
+
+4. Backup plans for rainy weather
 
 Prompt 19 – Grief Healing & Emotional Resilience Workshop
 
@@ -1732,19 +1759,28 @@ Backstory: With rising mental health awareness in India, more people are seeking
 Goal: Build a one-day workshop for grief healing using mindfulness and emotional release tools.
 
 Prompt:
+
 "You are a grief healing facilitator. Create a 1-day workshop plan including:
 
-Safe space introduction
-Guided meditation for emotional release
-Creative expression exercises
-Sharing circles with active listening
-Closing candlelight ceremony"
+1. Safe space introduction
+
+2. Guided meditation for emotional release
+
+3. Creative expression exercises
+
+4. Sharing circles with active listening
+
+5. Closing candlelight ceremony"
+
 Inputs Required:
 
-Age group of participants
-Type of grief addressed
-Number of facilitators
-Space requirements
+1. Age group of participants
+
+2. Type of grief addressed
+
+3. Number of facilitators
+
+4. Space requirements
 
 Prompt 20 – Sacred Masculinity Retreat
 
@@ -1753,19 +1789,28 @@ Backstory: Conversations around conscious masculinity are slowly gaining tractio
 Goal: Create a men’s retreat program fostering self-awareness and emotional openness.
 
 Prompt:
+
 "You are a men’s personal growth coach. Create a 2-day retreat schedule including:
 
-Morning movement and breathwork
-Emotional intelligence workshops
-Group dialogues on healthy masculinity
-Traditional cultural activities
-Evening reflection circles"
+1. Morning movement and breathwork
+
+2. Emotional intelligence workshops
+
+3. Group dialogues on healthy masculinity
+
+4. Traditional cultural activities
+
+5. Evening reflection circles"
+
 Inputs Required:
 
-Participant age range
-Cultural backgrounds
-Preferred physical activity levels
-Retreat setting
+1. Participant age range
+
+2. Cultural backgrounds
+
+3. Preferred physical activity levels
+
+4. Retreat setting
 
 Prompt 21 – Women’s Empowerment & Self-Love Retreat
 
@@ -1774,19 +1819,28 @@ Backstory: Across India, many women juggle multiple roles, often neglecting thei
 Goal: Design a retreat that empowers women to cultivate self-love and resilience.
 
 Prompt:
+
 "You are a women’s wellness coach. Create a 3-day empowerment retreat plan including:
 
-Morning affirmation circles
-Self-care and body awareness workshops
-Creative expression through art or dance
-Group sharing and support sessions
-Evening gratitude rituals"
+1. Morning affirmation circles
+
+2. Self-care and body awareness workshops
+
+3. Creative expression through art or dance
+
+4. Group sharing and support sessions
+
+5. Evening gratitude rituals"
+
 Inputs Required:
 
-Age range of participants
-Cultural sensitivity considerations
-Preferred physical activity level
-Facilitator expertise
+1. Age range of participants
+
+2. Cultural sensitivity considerations
+
+3. Preferred physical activity level
+
+4. Facilitator expertise
 
 Prompt 22 – Stress Relief Through Sound Healing
 
@@ -1795,19 +1849,28 @@ Backstory: In India’s fast-paced urban lifestyle, many professionals are battl
 Goal: Build a one-day sound healing workshop that promotes relaxation and mental clarity.
 
 Prompt:
+
 "You are a sound healing facilitator. Create a 1-day workshop including:
 
-Introduction to sound therapy benefits
-Guided sound bath meditation
-Breathwork for emotional release
-Partner-based listening exercises
-Closing integration session"
+1. Introduction to sound therapy benefits
+
+2. Guided sound bath meditation
+
+3. Breathwork for emotional release
+
+4. Partner-based listening exercises
+
+5. Closing integration session"
+
 Inputs Required:
 
-Group size
-Type of instruments available
-Space acoustics
-Participant prior exposure to sound therapy
+1. Group size
+
+2. Type of instruments available
+
+3. Space acoustics
+
+4. Participant prior exposure to sound therapy
 
 Prompt 23 – Yoga & Mindful Leadership Retreat
 
@@ -1816,19 +1879,28 @@ Backstory: Corporate leaders in India are increasingly seeking ways to lead with
 Goal: Create a program for leaders to combine mindfulness with practical leadership skills.
 
 Prompt:
+
 "You are a corporate mindfulness coach. Create a 2-day retreat plan including:
 
-Morning yoga for energy and focus
-Mindful decision-making exercises
-Team empathy and communication workshops
-Reflection journaling
-Evening guided relaxation"
+1. Morning yoga for energy and focus
+
+2. Mindful decision-making exercises
+
+3. Team empathy and communication workshops
+
+4. Reflection journaling
+
+5. Evening guided relaxation"
+
 Inputs Required:
 
-Industry background of leaders
-Size of leadership team
-Accommodation and activity space details
-Any physical limitations of participants
+1. Industry background of leaders
+
+2. Size of leadership team
+
+3. Accommodation and activity space details
+
+4. Any physical limitations of participants
 
 Prompt 24 – Couples Connection & Communication Retreat
 
@@ -1837,19 +1909,28 @@ Backstory: Many Indian couples, especially in urban centers, struggle to balance
 Goal: Design a couples’ retreat that deepens connection and strengthens communication.
 
 Prompt:
+
 "You are a relationship coach. Create a 2-day couples’ retreat including:
 
-Morning partner yoga
-Communication skill-building workshops
-Shared goal-setting exercises
-Playful team activities
-Evening bonding rituals"
+1. Morning partner yoga
+
+2. Communication skill-building workshops
+
+3. Shared goal-setting exercises
+
+4. Playful team activities
+
+5. Evening bonding rituals"
+
 Inputs Required:
 
-Relationship stage of couples
-Privacy preferences
-Accommodation type
-Cultural sensitivities
+1. Relationship stage of couples
+
+2. Privacy preferences
+
+3. Accommodation type
+
+4. Cultural sensitivities
 
 Prompt 25 – Inner Child Healing Retreat
 
@@ -1858,19 +1939,28 @@ Backstory: Many adults carry unprocessed childhood wounds that affect their pres
 Goal: Build a retreat that supports deep emotional healing through inner child work.
 
 Prompt:
+
 "You are a trauma-informed mindfulness coach. Create a 2-day inner child healing retreat including:
 
-Morning guided inner child meditation
-Play-based therapy exercises
-Art and storytelling for self-expression
-Group sharing circles
-Evening closing ceremony with symbolic release"
+1. Morning guided inner child meditation
+
+2. Play-based therapy exercises
+
+3. Art and storytelling for self-expression
+
+4. Group sharing circles
+
+5. Evening closing ceremony with symbolic release"
+
 Inputs Required:
 
-Age range of participants
-Prior therapy experience
-Group size
-Available creative materials
+1. Age range of participants
+
+2. Prior therapy experience
+
+3. Group size
+
+4. Available creative materials
 
 
 Manifestation & Goal Setting Using Indian Spiritual Principles
@@ -1882,12 +1972,16 @@ Backstory: Aarav, a 27-year-old software developer in Bengaluru, feels stagnant 
 Goal: Create a 6-week manifestation plan using sankalpa to help him visualize, affirm, and attract career growth aligned with his values.
 
 Prompt:
+
 "You are a Spiritual Coach specializing in Indian manifestation practices. Design a 6-week sankalpa-based manifestation routine for a 27-year-old software developer in Bengaluru who wants career growth. Include morning affirmations, visualization meditations, action steps, and gratitude practices. Integrate teachings from Bhagavad Gita and yoga philosophy. Suggest ways to measure signs of alignment and progress."
 
 Inputs:
 
-Current job role & skills
-Specific career goals
-Work schedule & free time
-Spiritual practices already followed
+1. Current job role & skills
+
+2. Specific career goals
+
+3. Work schedule & free time
+
+4. Spiritual practices already followed
 
