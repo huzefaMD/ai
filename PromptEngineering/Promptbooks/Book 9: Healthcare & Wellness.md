@@ -2820,22 +2820,22 @@ Backstory: Your gym offers nutrition advice, but trainers give inconsistent or i
 
 4. Tone (educational, humorous, or mix)
 ```
-Prompt 7 - Workplace Wellness Tips
+## Prompt 7 - Workplace Wellness Tips
 
-Backstory:
+`Backstory:`
 
-A 27-year-old corporate wellness coach wants to post daily tips to help office workers stay active and healthy despite sitting for 8+ hours.
+`A 27-year-old corporate wellness coach wants to post daily tips to help office workers stay active and healthy despite sitting for 8+ hours.`
 
-Goal:
+`Goal:`
 
-Generate 30 short tips for corporate health.
+`Generate 30 short tips for corporate health.`
 
-Prompt:
+`Prompt:`
 
-"You are a corporate wellness consultant. Create 30 bite-sized Instagram post ideas with quick health tips for office workers in India.
+`"You are a corporate wellness consultant. Create 30 bite-sized Instagram post ideas with quick health tips for office workers in India.`
 
-For each tip: 
-
+`For each tip: `
+```
 1. Use a catchy title. 
 
 2. Give a one-line actionable tip. 
@@ -2843,299 +2843,298 @@ For each tip:
 3. Add a brief reason why it’s important. 
 
 4. End with a reminder to take action today."
-
-Inputs Required: 
-
+```
+`Inputs Required: `
+```
 1. Office environment type (remote, hybrid, in-office) 
 
 2. Available facilities (standing desks, office gym) 
 
 3. Preferred posting frequency
+```
+## Prompt 8 - Festival Season Health Guide
 
-Prompt 8 - Festival Season Health Guide
+`Backstory:`
 
-Backstory:
+`An influencer wants to guide people on how to enjoy Diwali, Holi, Eid, and Christmas without overindulging and harming health.`
 
-An influencer wants to guide people on how to enjoy Diwali, Holi, Eid, and Christmas without overindulging and harming health.
+`Goal:`
 
-Goal:
+`Create seasonal health awareness content.`
 
-Create seasonal health awareness content.
+`Prompt:`
 
-Prompt:
+`"You are a health coach. Create 8 Instagram carousel posts on staying healthy during Indian festivals.`
 
-"You are a health coach. Create 8 Instagram carousel posts on staying healthy during Indian festivals.
-
-For each festival:
-
+`For each festival:`
+```
 1. Share common health challenges (overeating, dehydration, lack of sleep).
 
 2. Give 3 practical tips to stay balanced.
 
 3. Suggest 1 healthy swap for a popular festive food."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Festivals to be covered
 
 2. Audience dietary restrictions
 
 3. Cultural sensitivity requirements
+```
+## Prompt 9 - Weekly Immunity Booster Series
 
-Prompt 9 - Weekly Immunity Booster Series
+`Backstory:`
 
-Backstory:
+`A nutrition page wants to post natural immunity tips every week for young adults prone to seasonal flu.`
 
-A nutrition page wants to post natural immunity tips every week for young adults prone to seasonal flu.
+`Goal:`
 
-Goal:
+`Share science-backed immunity tips in short posts.`
 
-Share science-backed immunity tips in short posts.
+`Prompt:`
 
-Prompt:
+`"You are an Ayurvedic nutritionist. Create 12 posts on immunity-boosting foods and habits for Indian youth.`
 
-"You are an Ayurvedic nutritionist. Create 12 posts on immunity-boosting foods and habits for Indian youth.
-
-Each post should include:
-
+`Each post should include:`
+```
 1. Food/herb name
 
 2. Why it boosts immunity (1–2 lines)
 
 3. Quick way to consume it daily."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Type of diet (veg/non-veg)
 
 2. Preferred posting format
 
 3. Allergies to avoid
+```
+## Prompt 10 - Sleep Hygiene Tips
 
-Prompt 10 - Sleep Hygiene Tips
+`Backstory:`
 
-Backstory:
+`A wellness coach wants to educate people on improving sleep quality through lifestyle changes.`
 
-A wellness coach wants to educate people on improving sleep quality through lifestyle changes.
+`Goal:`
 
-Goal:
+`Share actionable and relatable sleep improvement posts.`
 
-Share actionable and relatable sleep improvement posts.
+`Prompt:`
 
-Prompt:
+`"You are a sleep therapist and content planner. Create 10 short Instagram posts on sleep hygiene for 20–35-year-olds.`
 
-"You are a sleep therapist and content planner. Create 10 short Instagram posts on sleep hygiene for 20–35-year-olds.
-
-For each tip:
-
+`For each tip:`
+```
 1. Give a catchy title.
 
 2. Explain the tip in 2 lines.
 
 3. Suggest 1 small action to try tonight."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Average sleep duration of audience
 
 2. Common issues (insomnia, late-night scrolling)
+```
+## Prompt 11 - Healthy Office Snacks
 
-Prompt 11 - Healthy Office Snacks
+`Backstory:`
 
-Backstory:
+`A dietitian wants to help office workers replace junk snacks with healthy ones without sacrificing taste.`
 
-A dietitian wants to help office workers replace junk snacks with healthy ones without sacrificing taste.
+`Goal:`
 
-Goal:
+`Create a healthy snacking guide for social media.`
 
-Create a healthy snacking guide for social media.
+`Prompt:`
 
-Prompt:
+`"You are a dietitian and recipe developer. Create 12 healthy office snack ideas for Indian professionals.`
 
-"You are a dietitian and recipe developer. Create 12 healthy office snack ideas for Indian professionals.
-
-For each snack:
-
+`For each snack:`
+```
 1. Name and ingredients
 
 2. Quick recipe (under 5 mins prep)
 
 3. Health benefit in 1 line."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Budget per snack
 
 2. Storage options (fridge, desk drawer)
+```
+## Prompt 12 - Menstrual Health Awareness
 
-Prompt 12 - Menstrual Health Awareness
+`Backstory:`
 
-Backstory:
+`A reproductive health NGO wants to run a month-long series on menstrual health education for young women.`
 
-A reproductive health NGO wants to run a month-long series on menstrual health education for young women.
+`Goal:`
 
-Goal:
+`Make easy-to-understand posts that break stigma.`
 
-Make easy-to-understand posts that break stigma.
+`Prompt:`
 
-Prompt:
+`"You are a gynecologist and social media educator. Create 15 carousel posts explaining menstrual health basics, common issues, and hygiene tips.`
 
-"You are a gynecologist and social media educator. Create 15 carousel posts explaining menstrual health basics, common issues, and hygiene tips.
-
-Each post should:
-
+`Each post should:`
+```
 1. Start with a relatable hook.
 
 2. Share 3 key points in layman’s language.
 
 3. End with a myth-busting fact."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Cultural sensitivity notes
 
 2. Target age group
 
 3. Preferred tone (serious, friendly)
+```
+## Prompt 13 - Daily 1-Minute Fitness Routines
 
-Prompt 13 - Daily 1-Minute Fitness Routines
+`Backstory:`
 
-Backstory:
+`A gym trainer wants to attract beginners by sharing quick workouts they can do anywhere.`
 
-A gym trainer wants to attract beginners by sharing quick workouts they can do anywhere.
+`Goal:`
 
-Goal:
+`Make short, reel-friendly fitness videos.`
 
-Make short, reel-friendly fitness videos.
+`Prompt:`
 
-Prompt:
+`"You are a fitness trainer. Create 10 one-minute workout routines for beginners that can be done at home or office without equipment.`
 
-"You are a fitness trainer. Create 10 one-minute workout routines for beginners that can be done at home or office without equipment.
-
-For each workout:
-
+`For each workout:`
+```
 1. Name it
 
 2. Show 3–4 exercises
 
 3. Add 1 tip for correct form."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Target muscle groups
 
 2. Audience fitness level
+```
+## Prompt 14 - Skin Health Awareness
 
-Prompt 14 - Skin Health Awareness
+`Backstory:`
 
-Backstory:
+`A dermatologist wants to create educational Instagram posts on common skin problems faced by young Indians — acne, tanning, pigmentation.`
 
-A dermatologist wants to create educational Instagram posts on common skin problems faced by young Indians — acne, tanning, pigmentation.
+`Goal:`
 
-Goal:
+`Make skin health content relatable and actionable.`
 
-Make skin health content relatable and actionable.
+`Prompt:`
 
-Prompt:
+`"You are a dermatologist. Create 12 Instagram posts covering common skin concerns.`
 
-"You are a dermatologist. Create 12 Instagram posts covering common skin concerns.
-
-Each should: 
-
+`Each should:`
+```
 1. Start with a myth or problem statement. 
 
 2. Explain the truth in simple terms. 
 
 3. Suggest 1 easy home-care tip."
-
-Inputs Required: 
-
+```
+`Inputs Required:`
+```
 1. Skin type focus 
 
 2. Seasonal relevance
+```
+## Prompt 15 - Gut Health Simplified
 
-Prompt 15 - Gut Health Simplified
+`Backstory:`
 
-Backstory:
+`A nutritionist wants to educate people on gut health and its link to mood and immunity.`
 
-A nutritionist wants to educate people on gut health and its link to mood and immunity.
+`Goal:`
 
-Goal:
+`Create fun and informative gut health posts.`
 
-Create fun and informative gut health posts.
+`Prompt:`
 
-Prompt:
+`"You are a gut health specialist. Create 10 Instagram carousels explaining gut health basics, Indian gut-friendly foods, and lifestyle tips.`
 
-"You are a gut health specialist. Create 10 Instagram carousels explaining gut health basics, Indian gut-friendly foods, and lifestyle tips.
-
-For each: 
-
+`For each: `
+```
 1. Use a catchy headline. 
 
 2. Explain the concept in layman’s language. 
 
 3. Add 1 daily habit for better gut health."
-
-Inputs Required: 
-
+```
+`Inputs Required:`
+```
 1. Audience diet pattern 
 
 2. Common gut issues
+```
+## Prompt 16 - Water Intake Awareness
 
-Prompt 16 - Water Intake Awareness
+`Backstory:`
 
-Backstory:
+`A wellness brand wants to run a summer hydration awareness campaign.`
 
-A wellness brand wants to run a summer hydration awareness campaign.
+`Goal:`
 
-Goal:
+`Encourage young people to drink enough water daily.`
 
-Encourage young people to drink enough water daily.
+`Prompt:`
 
-Prompt:
+`"You are a wellness educator. Create 7 social media posts on the importance of hydration.`
 
-
-"You are a wellness educator. Create 7 social media posts on the importance of hydration.
-
-Each post should:   
-
+`Each post should:  ` 
+```
 1. Share a surprising fact about dehydration.   
 
 2. Give a quick tip to increase water intake.   
 
 3. Suggest 1 hydrating Indian drink recipe."
-
-Inputs Required:   
-
+```
+`Inputs Required:` 
+```
 1. Audience lifestyle (office, field, student)
+```
+## Prompt 17 - Healthy Relationships & Boundaries
 
-Prompt 17 - Healthy Relationships & Boundaries
+`Backstory:`
 
-Backstory:
+`A psychologist wants to make awareness posts about emotional health and boundaries.`
 
-A psychologist wants to make awareness posts about emotional health and boundaries.
+`Goal:`
 
-Goal:
+`Educate on emotional well-being in relationships.`
 
-Educate on emotional well-being in relationships.
+`Prompt:`
 
-Prompt:
+`"You are a relationship therapist. Create 10 carousel posts about healthy boundaries and emotional health for young adults in India.`
 
-"You are a relationship therapist. Create 10 carousel posts about healthy boundaries and emotional health for young adults in India.
-
-Each should:
-
+`Each should:`
+```
 1. Use a relatable scenario.
 
 2. Share 3 tips for handling it.
 
 3. End with an encouraging takeaway."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Relationship context (romantic, family, work)
-
-Prompt 18 - Mindfulness for Beginners
+```
+## Prompt 18 - Mindfulness for Beginners
 
 Backstory:
 
