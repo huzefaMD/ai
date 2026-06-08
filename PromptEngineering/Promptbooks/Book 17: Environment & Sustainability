@@ -1487,4 +1487,279 @@ CSR budget allocation
 Target village population size
 Maintenance partner options
 
+Prompt 17 – CSR-Sponsored Waste Management in Slums
+Backstory:
+A consumer goods company in Mumbai wants to improve sanitation in informal settlements near its factories. The proposed CSR project will introduce waste segregation points, weekly collection drives, and community awareness campaigns. The plan is to partner with local NGOs for execution while involving residents directly to ensure long-term adoption.
+
+Goal:
+Develop a CSR proposal for waste management in urban slums.
+
+Prompt:
+"You are an urban sanitation CSR consultant. Create a proposal for setting up a waste management system in Mumbai slums, including segregation point installation, regular collection services, community training workshops, and waste-to-compost initiatives."
+
+Inputs:
+
+Number of households targeted
+CSR budget allocation
+Local NGO partners
+Waste processing options
+
+Prompt 18 – CSR for Afforestation in Mining-Affected Areas
+Backstory:
+A mining company in Odisha is mandated under CSR compliance to rehabilitate degraded land. The company wants to invest in large-scale afforestation projects using native plant species to restore biodiversity and stabilise the soil. They also want to involve local tribal communities for plantation and upkeep, providing them with sustainable livelihoods.
+
+Goal:
+Draft a CSR proposal for afforestation in mining-affected areas.
+
+Prompt:
+"You are a land restoration CSR expert. Prepare a proposal for afforestation projects in Odisha’s mining-affected zones. Include native species selection, community engagement plans, soil rehabilitation techniques, and biodiversity monitoring."
+
+Inputs:
+
+Area (in hectares) for afforestation
+CSR budget allocation
+Native plant species list
+Project timeline
+
+Prompt 19 – CSR-Funded Public EV Charging Stations
+Backstory:
+An automotive company in Gurugram wants to accelerate EV adoption by funding public charging infrastructure. The CSR project aims to install fast-charging stations in key locations like malls, metro stations, and public parking lots. The proposal should highlight environmental benefits, expected usage rates, and maintenance arrangements with local authorities.
+
+Goal:
+Create a CSR proposal for public EV charging station installation.
+
+Prompt:
+"You are a sustainable transport CSR consultant. Draft a proposal for installing public EV charging stations in Gurugram. Include site selection, technical specifications, projected usage, partnership models, and environmental impact metrics."
+
+Inputs:
+
+Number of charging stations
+CSR budget allocation
+Target installation locations
+Preferred technology partners
+
+Prompt 20 – CSR-Backed Eco-Tourism Development
+Backstory:
+A travel company in Kerala wants to promote eco-tourism while benefiting local communities. Their CSR initiative involves developing eco-friendly homestays, guided nature trails, and cultural experiences in rural areas. The proposal should outline how the project will boost local incomes, preserve natural resources, and attract responsible travellers.
+
+Goal:
+Draft a CSR proposal for eco-tourism infrastructure and community training.
+
+Prompt:
+"You are a rural tourism CSR strategist. Create a proposal for eco-tourism projects in Kerala, including infrastructure development, local guide training, waste management measures, and marketing plans."
+
+Inputs:
+
+Target villages
+CSR budget allocation
+Type of eco-tourism activities planned
+Local partner organisations
+
+Prompt 21 – CSR for River Cleanup and Pollution Control
+Backstory:
+An industrial conglomerate in Kanpur wants to improve its environmental footprint by funding river cleanup operations along the Ganga. The project will include waste removal, industrial effluent monitoring, and community-led pollution prevention drives. The CSR proposal should showcase measurable pollution reduction targets and sustainable maintenance plans.
+
+Goal:
+Prepare a CSR project proposal for river cleanup and pollution prevention.
+
+Prompt:
+"You are a water quality CSR consultant. Draft a proposal for Ganga river cleanup in Kanpur. Include waste removal logistics, pollution source monitoring, community awareness campaigns, and partnerships with environmental agencies."
+
+Inputs:
+
+Target stretch length (km)
+CSR budget allocation
+Local NGO/government partners
+Project duration
+
+Prompt 22 – CSR for Sustainable Agriculture Practices
+Backstory:
+An agri-tech company in Indore wants to promote sustainable farming through its CSR budget. The idea is to train small farmers in organic farming techniques, water-efficient irrigation, and natural pest control. The proposal must outline training modules, demonstration farms, and potential yield improvements, with an emphasis on long-term soil health.
+
+Goal:
+Draft a CSR proposal for promoting sustainable agriculture.
+
+Prompt:
+"You are an agricultural CSR planner. Create a proposal for training farmers in sustainable agriculture practices in Madhya Pradesh. Include training schedules, demonstration plot designs, input support packages, and yield tracking systems."
+
+Inputs:
+
+Number of farmers targeted
+CSR budget allocation
+Preferred training partners
+Crops under focus
+
+Prompt 23 – CSR-Backed Green Campus Transformation
+Backstory:
+A cement manufacturing company in Chhattisgarh wants to help local colleges reduce their carbon footprint. The CSR project will involve installing solar power, rainwater harvesting, composting pits, and green landscaping on campuses. The proposal should provide a clear roadmap for achieving a “green campus” certification within two years.
+
+Goal:
+Create a CSR proposal for transforming college campuses into green campuses.
+
+Prompt:
+"You are an educational infrastructure CSR expert. Draft a proposal for green campus transformation in Chhattisgarh colleges. Include renewable energy installations, water conservation measures, waste management systems, and student engagement programs."
+
+Inputs:
+
+Number of campuses
+CSR budget allocation
+Implementation partners
+Certification standards to follow
+
+Prompt 24 – CSR for Wildlife Corridor Restoration
+Backstory:
+An infrastructure company in Assam is exploring CSR projects that support biodiversity. They are considering restoring wildlife corridors that connect fragmented habitats for elephants and other large mammals. The proposal must detail land acquisition or community agreements, habitat restoration methods, and wildlife monitoring systems.
+
+Goal:
+Draft a CSR proposal for restoring wildlife corridors in Assam.
+
+Prompt:
+"You are a wildlife conservation CSR planner. Create a proposal for restoring elephant corridors in Assam. Include mapping, habitat restoration activities, conflict mitigation with local communities, and biodiversity tracking methods."
+
+Inputs:
+
+Corridor length and location
+CSR budget allocation
+Implementation partners
+Target wildlife species
+
+Prompt 25 – CSR for Green Public Parks in Urban Areas
+Backstory:
+A bank headquartered in Delhi wants to invest its CSR funds into developing green public spaces for urban residents. The idea is to transform neglected open areas into landscaped parks with native trees, walking tracks, and waste management facilities. The proposal should also integrate community ownership models to ensure upkeep.
+
+Goal:
+Create a CSR proposal for urban public park development.
+
+Prompt:
+"You are an urban landscape CSR consultant. Draft a proposal for developing green public parks in Delhi. Include design layouts, plant selection, waste management plans, community engagement strategies, and annual maintenance budgeting."
+
+Inputs:
+
+Number of parks targeted
+CSR budget allocation
+Average size of each park
+Local authority partners
+
+
+Renewable energy adoption guides
+
+Prompt 1 – Solar Rooftop Adoption for Residential Societies
+Backstory:
+A premium apartment complex in Gurugram with 300 flats is struggling with high monthly electricity bills, especially for common area lighting, lifts, and water pumps. The residents are environmentally conscious but hesitant about the upfront costs of solar. The society’s management committee wants a comprehensive guide that explains solar rooftop installation benefits, ROI timelines, subsidy options under MNRE schemes, and vendor selection tips. They also want clarity on legal approvals and maintenance requirements to make an informed decision.
+
+Goal:
+Create a step-by-step solar rooftop adoption guide for a large residential society.
+
+Prompt:
+"You are a renewable energy consultant. Develop a comprehensive solar rooftop adoption guide for a 300-flat housing society in Gurugram. Include cost-benefit analysis, government subsidy details, vendor evaluation checklists, legal compliance steps, and maintenance best practices."
+
+Inputs:
+
+Number of flats
+Average monthly electricity consumption
+Roof space available
+Budget for installation
+
+Prompt 2 – Solar Water Heater Adoption for Small Hotels
+Backstory:
+A boutique hotel chain with 15 rooms each in Jaipur and Udaipur spends a significant portion of its energy budget on heating water for guests. The owners want to switch to solar water heating systems to save on costs and market their hotels as eco-friendly. They are unsure about sizing the system, estimating savings, and choosing between flat plate and evacuated tube collectors. They also need to factor in seasonal variations in sunlight.
+
+Goal:
+Create an adoption guide for solar water heating systems in small hotels.
+
+Prompt:
+"You are a hospitality energy efficiency expert. Prepare a solar water heating adoption guide for a small hotel chain in Rajasthan. Include system sizing calculations, technology comparisons, ROI projections, maintenance guidelines, and integration with existing water systems."
+
+Inputs:
+
+Number of rooms per hotel
+Average hot water demand per day
+Available roof space
+Budget for installation
+
+Prompt 3 – Wind Energy Adoption for Industrial Parks
+Backstory:
+An industrial park in Tamil Nadu, housing multiple textile factories, is exploring renewable energy to reduce reliance on grid electricity and diesel generators. Wind energy is a viable option due to consistent wind speeds in the region. However, the park’s management needs a detailed adoption guide explaining feasibility studies, land requirements, CAPEX vs. OPEX models, and potential partnerships with IPPs (Independent Power Producers).
+
+Goal:
+Create a wind energy adoption guide for industrial park operators.
+
+Prompt:
+"You are an industrial renewable energy advisor. Develop a wind energy adoption guide for a textile-focused industrial park in Tamil Nadu. Include wind resource assessment methods, land and infrastructure requirements, financing models, power purchase agreements, and maintenance frameworks."
+
+Inputs:
+
+Size of industrial park
+Current annual electricity consumption
+Available land area
+Budget and financing preferences
+
+Prompt 4 – Hybrid Solar-Wind System for Remote Villages
+Backstory:
+A social enterprise in Odisha is working in remote tribal villages with no access to the grid. They want to install hybrid solar-wind microgrids to power homes, schools, and small businesses. The community leaders are enthusiastic but require a clear, easy-to-understand guide on how these systems work, the costs involved, maintenance needs, and benefits compared to diesel generators.
+
+Goal:
+Create a simple community-friendly guide for adopting hybrid solar-wind microgrids.
+
+Prompt:
+"You are a rural energy specialist. Create an adoption guide for hybrid solar-wind microgrids in remote Odisha villages. Include system design basics, cost and financing options, maintenance roles for community members, and comparisons to diesel generator alternatives."
+
+Inputs:
+
+Number of households
+Average daily energy demand
+Local wind and solar resource availability
+Project budget
+
+Prompt 5 – Solar-Powered Cold Storage for Farmers
+Backstory:
+A farmer cooperative in Nashik faces post-harvest losses of fruits and vegetables due to lack of refrigeration facilities. They want to adopt solar-powered cold storage units to preserve produce and sell at better prices. The cooperative leaders need a guide that explains sizing the unit, battery storage needs, cost-benefit analysis, available subsidies, and potential financing options.
+
+Goal:
+Create an adoption guide for solar-powered cold storage units for farmer cooperatives.
+
+Prompt:
+"You are an agricultural renewable energy consultant. Develop a solar-powered cold storage adoption guide for a farmer cooperative in Nashik. Include capacity planning, technical specifications, cost and ROI analysis, government subsidy details, and operational best practices."
+
+Inputs:
+
+Average daily produce volume
+Storage temperature requirements
+Available land/roof space
+Budget and financing options
+
+Prompt 6 – Community Biogas Plant for Semi-Urban Areas
+Backstory:
+A semi-urban municipality in Karnataka has several dairy farms, poultry units, and vegetable markets generating large amounts of organic waste daily. The local council is considering setting up a centralised biogas plant to generate clean cooking fuel for low-income households and power for street lighting. However, they need a guide that explains feedstock requirements, plant sizing, CAPEX/OPEX estimates, and potential revenue from byproducts like organic fertiliser.
+
+Goal:
+Create a biogas plant adoption guide for semi-urban municipalities.
+
+Prompt:
+"You are a renewable energy process consultant. Develop an adoption guide for a community-scale biogas plant in Karnataka. Include feedstock assessment, technology options, cost-benefit analysis, byproduct utilisation, and public-private partnership models."
+
+Inputs:
+
+Daily organic waste volume
+Number of target households for fuel supply
+Available land for the plant
+Budget for installation
+
+Prompt 7 – Rooftop Solar Adoption for MSMEs
+Backstory:
+A cluster of small manufacturing units in Surat’s textile sector faces rising energy bills and frequent power cuts. Owners are exploring rooftop solar to cut costs and increase energy security but have limited technical knowledge. They need a guide that outlines system sizing, financing schemes, maintenance, and integration with backup diesel generators.
+
+Goal:
+Prepare a rooftop solar adoption guide for MSME manufacturing clusters.
+
+Prompt:
+"You are an MSME renewable energy advisor. Create an adoption guide for textile MSMEs in Surat to install rooftop solar. Include system sizing calculations, financing schemes, hybrid integration with diesel generators, and maintenance contracts."
+
+Inputs:
+
+Number of units in the cluster
+Average monthly electricity bill
+Roof space availability per unit
+Preferred financing model
+
 
