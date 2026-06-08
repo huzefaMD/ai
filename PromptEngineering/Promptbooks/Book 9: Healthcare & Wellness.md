@@ -3136,225 +3136,226 @@ Backstory: Your gym offers nutrition advice, but trainers give inconsistent or i
 ```
 ## Prompt 18 - Mindfulness for Beginners
 
-Backstory:
+`Backstory:`
 
-A yoga teacher wants to introduce mindfulness to people with busy lives.
+`A yoga teacher wants to introduce mindfulness to people with busy lives.`
 
-Goal:
+`Goal:`
 
-Make easy-to-practice mindfulness content.
+`Make easy-to-practice mindfulness content.`
 
-Prompt:
+`Prompt:`
 
-"You are a meditation coach. Create 12 Instagram posts on simple mindfulness practices for beginners.
+`"You are a meditation coach. Create 12 Instagram posts on simple mindfulness practices for beginners.`
 
-Each post should:
-
+`Each post should:`
+```
 1. Introduce the technique.
 
 2. Explain the benefit in 1–2 lines.
 
 3. Suggest a quick practice under 5 mins."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Audience stress triggers
 
 2. Preferred format (carousel, reel)
+```
+## Prompt 19 - First Aid Basics
 
-Prompt 19 - First Aid Basics
+`Backstory:`
 
-Backstory:
+`A health NGO wants to educate people on common first aid situations.`
 
-A health NGO wants to educate people on common first aid situations.
+`Goal:`
 
-Goal:
+`Share life-saving tips in easy-to-read posts.`
 
-Share life-saving tips in easy-to-read posts.
+`Prompt:`
 
-Prompt:
+`"You are a first aid trainer. Create 8 Instagram posts on emergency first aid (burns, choking, bleeding, fainting).`
 
-"You are a first aid trainer. Create 8 Instagram posts on emergency first aid (burns, choking, bleeding, fainting).
-
-For each:
-
+`For each:`
+```
 1. Describe the situation in 1 line.
 
 2. Give 3 immediate actions to take.
 
 3. Mention 1 thing to avoid."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. List of conditions
 
 2. Language preference
+```
+## Prompt 20 - Dental Health Awareness
 
-Prompt 20 - Dental Health Awareness
+`Backstory:`
 
-Backstory:
+`A dentist wants to promote oral hygiene in a fun way.`
 
-A dentist wants to promote oral hygiene in a fun way.
+`Goal:`
 
-Goal:
+`Make dental tips engaging for social media.`
 
-Make dental tips engaging for social media.
+`Prompt:`
 
-Prompt:
+`"You are a dentist. Create 10 Instagram post ideas on oral hygiene.`
 
-"You are a dentist. Create 10 Instagram post ideas on oral hygiene.
-
-Each should:
-
+`Each should:`
+```
 1. Start with a common dental mistake.
 
 2. Explain the correct approach.
 
 3. Suggest 1 preventive habit."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Age group focus
 
 2. Common issues (cavities, bad breath)
+```
+## Prompt 21 - Heart Health Awareness
 
-Prompt 21 - Heart Health Awareness
+`Backstory:`
 
-Backstory:
-
-A cardiologist wants to raise awareness on preventing heart disease in young people.
+`A cardiologist wants to raise awareness on preventing heart disease in young people.`
 
 
-Goal:
+`Goal:`
 
-Educate on heart-friendly lifestyle.
+`Educate on heart-friendly lifestyle.`
 
-Prompt:
+`Prompt:`
 
-"You are a cardiologist. Create 12 Instagram posts about heart health for 20–35-year-olds.
+`"You are a cardiologist. Create 12 Instagram posts about heart health for 20–35-year-olds.`
 
-Each should:
-
+`Each should:`
+```
 1. Share a risk factor.
 
 2. Suggest a prevention tip.
 
 3. Include 1 inspiring fact about heart health."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Audience activity level
 
 2. Family history considerations
+```
+## Prompt 22 - Desk Posture Correction
 
-Prompt 22 - Desk Posture Correction
+`Backstory:`
 
-Backstory:
+`A physiotherapist wants to teach office workers how to avoid posture-related pain.`
 
-A physiotherapist wants to teach office workers how to avoid posture-related pain.
+`Goal:`
 
-Goal:
+`Make posture correction tips easy and visual.`
 
-Make posture correction tips easy and visual.
+`Prompt:`
 
-Prompt:
+`"You are a physiotherapist. Create 10 posture correction post ideas for office workers.`
 
-"You are a physiotherapist. Create 10 posture correction post ideas for office workers.
-
-Each should:
-
+`Each should:`
+```
 1. Describe a bad posture.
 
 2. Show a correct posture.
 
 3. Suggest 1 daily stretch."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Office setup details
 
 2. Audience physical limitations
+```
+## Prompt 23 - Stress Management Hacks
 
-Prompt 23 - Stress Management Hacks
+`Backstory:`
 
-Backstory:
+`A mental health influencer wants to share quick ways to de-stress after work.`
 
-A mental health influencer wants to share quick ways to de-stress after work.
+`Goal:`
 
-Goal:
+`Offer realistic stress relief methods.`
 
-Offer realistic stress relief methods.
+`Prompt:`
 
-Prompt:
+`"You are a stress management coach. Create 15 Instagram post ideas with quick stress relief methods.`
 
-"You are a stress management coach. Create 15 Instagram post ideas with quick stress relief methods.
-
-Each should:
-
+`Each should:`
+```
 1. Use a relatable work stress example.
 
 2. Share 1 practical method.
 
 3. Explain why it works in 1 line."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Common stress triggers of audience
 
 2. Preferred post format
+```
+## Prompt 24 - Alcohol Awareness for Youth
 
-Prompt 24 - Alcohol Awareness for Youth
+`Backstory:`
 
-Backstory:
+`A health educator wants to raise awareness on alcohol misuse without being preachy.`
 
-A health educator wants to raise awareness on alcohol misuse without being preachy.
+`Goal:`
 
-Goal:
+`Make balanced, informative alcohol-related posts.`
 
-Make balanced, informative alcohol-related posts.
+`Prompt:`
 
-Prompt:
+`"You are a public health educator. Create 8 Instagram posts on alcohol awareness for young adults.`
 
-"You are a public health educator. Create 8 Instagram posts on alcohol awareness for young adults.
-
-Each should:
-
+`Each should:`
+```
 1. Start with a surprising fact.
 
 2. Explain the risk in 1–2 lines.
 
 3. Share a healthier alternative for socializing."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Tone (light, serious)
 
 2. Cultural context sensitivity
+```
+## Prompt 25 - Digital Detox Challenge
 
-Prompt 25 - Digital Detox Challenge
+`Backstory:`
 
-Backstory:
+`A wellness influencer wants to start a 7-day challenge to reduce screen time.`
 
-A wellness influencer wants to start a 7-day challenge to reduce screen time.
+`Goal:`
 
-Goal:
+`Promote digital balance.`
 
-Promote digital balance.
+`Prompt:`
 
-Prompt:
+`"You are a lifestyle coach. Create a 7-day digital detox challenge for Instagram.`
 
-"You are a lifestyle coach. Create a 7-day digital detox challenge for Instagram.
-
-For each day:
-
+`For each day:`
+```
 1. Give a task.
 
 2. Explain benefit in 1–2 lines.
 
 3. Suggest a tip to stick to it."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Average screen time of audience
 
 2. Available offline activity suggestions
+```
