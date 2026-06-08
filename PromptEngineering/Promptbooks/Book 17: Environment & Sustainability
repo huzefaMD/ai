@@ -1762,4 +1762,330 @@ Average monthly electricity bill
 Roof space availability per unit
 Preferred financing model
 
+Prompt 8 – Solar-Powered Irrigation Pumps
+Backstory:
+Farmers in drought-prone districts of Maharashtra are spending heavily on diesel pumps for irrigation. A local agricultural NGO wants to promote solar-powered pumps to reduce costs and environmental impact. They need a practical guide that covers pump sizing based on acreage, water requirements, subsidies under KUSUM scheme, and installation tips.
+
+Goal:
+Create a farmer-friendly adoption guide for solar irrigation pumps.
+
+Prompt:
+"You are an agricultural energy consultant. Develop an adoption guide for solar irrigation pumps in Maharashtra, including pump capacity selection, KUSUM scheme subsidy details, installation best practices, and ROI analysis compared to diesel pumps."
+
+Inputs:
+
+Farm size
+Water source depth
+Average irrigation hours per day
+Farmer budget
+
+Prompt 9 – Net-Metering Guide for Urban Homeowners
+Backstory:
+Urban homeowners in Chennai are increasingly installing rooftop solar panels but are unclear about how net-metering works. Confusion around approvals, metering equipment, and bill adjustments often discourages adoption. The city’s renewable energy society wants a clear, illustrated guide for homeowners that simplifies the process while explaining potential savings.
+
+Goal:
+Create a step-by-step net-metering adoption guide for residential solar users.
+
+Prompt:
+"You are a solar policy expert. Create an illustrated net-metering adoption guide for Chennai homeowners. Include application procedures, equipment requirements, billing adjustment examples, and troubleshooting tips."
+
+Inputs:
+
+State DISCOM net-metering rules
+Average home electricity consumption
+Rooftop size
+Existing or planned solar capacity
+
+Prompt 10 – Off-Grid Solar for Eco-Resorts
+Backstory:
+An eco-resort chain in Himachal Pradesh operates in remote areas without reliable grid connectivity. Diesel generators are expensive and harm the brand’s sustainability image. The owners are evaluating off-grid solar with battery storage but are concerned about upfront costs and energy reliability during winter. They want a guide that covers system sizing, battery technology options, seasonal performance, and financing models.
+
+Goal:
+Develop an off-grid solar adoption guide for remote eco-resorts.
+
+Prompt:
+"You are a hospitality renewable energy planner. Draft an adoption guide for off-grid solar systems with battery storage for eco-resorts in Himachal Pradesh. Include system sizing, battery type comparison (Li-ion vs. lead-acid), seasonal performance optimisation, and financing schemes."
+
+Inputs:
+
+Average daily energy load
+Roof/land space available
+Budget for installation
+Backup system requirements
+
+Prompt 11 – Solar-Powered Street Lighting for Municipalities
+Backstory:
+A municipal corporation in Andhra Pradesh is facing high electricity bills for street lighting, particularly in rural wards. They are considering solar-powered streetlights but need a clear guide for technology selection, installation process, and long-term maintenance contracts. They also want to explore smart lighting features for energy savings.
+
+Goal:
+Create an adoption guide for solar-powered street lighting in rural municipalities.
+
+Prompt:
+"You are an urban infrastructure renewable energy consultant. Create a detailed adoption guide for installing solar-powered streetlights in Andhra Pradesh’s rural wards. Include technology types, smart lighting options, installation best practices, and maintenance contracts."
+
+Inputs:
+
+Number of streetlights planned
+Lighting hours per day
+CSR/government funding availability
+Local vendor options
+
+Prompt 12 – Floating Solar Plants for Water Reservoirs
+Backstory:
+A state water board in Kerala manages large reservoirs that could host floating solar panels. They are interested in using this space for renewable energy generation without land acquisition issues. The board needs a guide covering feasibility studies, anchoring systems, maintenance, and integration with the grid.
+
+Goal:
+Prepare a floating solar adoption guide for state water utilities.
+
+Prompt:
+"You are a renewable energy project designer. Develop a floating solar adoption guide for large water reservoirs in Kerala. Include feasibility assessment, panel anchoring systems, maintenance access, and grid integration methods."
+
+Inputs:
+
+Reservoir surface area
+Average sunlight hours
+Grid connection feasibility
+Budget and funding sources
+
+Prompt 13 – Community Solar Cooperatives
+Backstory:
+A rural development NGO in Bihar wants to set up solar cooperatives where multiple households invest jointly in a shared solar power system. The NGO needs a guide explaining cooperative formation, cost-sharing models, ownership agreements, and power distribution among members.
+
+Goal:
+Create a community solar cooperative adoption guide.
+
+Prompt:
+"You are a rural renewable energy strategist. Draft an adoption guide for forming solar cooperatives in Bihar villages. Include cooperative legal structures, investment models, power allocation methods, and maintenance responsibilities."
+
+Inputs:
+
+Number of households in cooperative
+Average household energy needs
+Total budget
+Local governance support
+
+Prompt 14 – Battery Storage for Solar Installations
+Backstory:
+A mid-sized IT firm in Pune has a rooftop solar setup but faces power shortages at night due to lack of storage. They are considering battery backup systems to improve reliability but are confused about technologies, lifespan, and cost-effectiveness. They need a clear adoption guide comparing lithium-ion, lead-acid, and emerging battery options.
+
+Goal:
+Create a battery storage adoption guide for commercial solar users.
+
+Prompt:
+"You are a solar storage expert. Create a detailed adoption guide for adding battery storage to commercial rooftop solar in Pune. Include technology comparisons, sizing calculations, cost-benefit analysis, and maintenance guidelines."
+
+Inputs:
+
+Current solar capacity
+Night-time energy needs
+Budget for storage
+Backup duration requirement
+
+Prompt 15 – Solar-Powered EV Charging Stations
+Backstory:
+A start-up in Delhi is planning to enter the EV charging market with a focus on renewable energy. They want to set up solar-powered charging stations in urban and peri-urban areas but need a clear guide on capacity planning, battery integration, and revenue models.
+
+Goal:
+Prepare an adoption guide for solar-powered EV charging infrastructure.
+
+Prompt:
+"You are an EV infrastructure renewable energy consultant. Develop a guide for setting up solar-powered EV charging stations in Delhi, including system sizing, grid/battery hybrid setups, location selection, and pricing models."
+
+Inputs:
+
+Number of stations planned
+Target EV types (two-wheeler, four-wheeler)
+Budget per station
+Available roof/land space
+
+Prompt 16 – Solar-Powered Water Desalination Units
+Backstory:
+A coastal village cluster in Gujarat struggles with saline groundwater, forcing residents to rely on expensive bottled water. A CSR foundation wants to fund small-scale solar desalination plants to provide safe drinking water. The implementing team needs a guide explaining capacity planning, technology options (RO vs. distillation), maintenance needs, and cost-sharing models with the community.
+
+Goal:
+Create an adoption guide for solar-powered desalination plants in coastal areas.
+
+Prompt:
+"You are a rural water energy consultant. Develop a guide for setting up solar-powered desalination units in Gujarat’s coastal villages. Include technology comparisons, capacity calculations, maintenance protocols, and community ownership models."
+
+Inputs:
+
+Number of households to serve
+Water quality data
+Available budget
+Preferred desalination technology
+
+Prompt 17 – Biomass Gasifier for Agro-Processing Units
+Backstory:
+A rice mill in West Bengal produces tons of husk waste every month. The owner wants to install a biomass gasifier to generate electricity and heat for milling operations, reducing dependence on the grid. They need a guide covering technology selection, fuel processing, efficiency optimisation, and safety compliance.
+
+Goal:
+Prepare an adoption guide for biomass gasifiers in agro-processing industries.
+
+Prompt:
+"You are an industrial renewable energy advisor. Create a biomass gasifier adoption guide for a rice mill in West Bengal, including fuel preparation methods, system sizing, efficiency optimisation, and safety protocols."
+
+Inputs:
+
+Monthly biomass availability
+Energy requirements
+Budget for installation
+Operational manpower availability
+
+Prompt 18 – Community Micro-Hydro Projects
+Backstory:
+A hilly district in Uttarakhand has several small streams that could power micro-hydro projects. A local NGO wants to help villages set up community-owned micro-hydro plants for electricity and irrigation pumping. They need a simple guide explaining site assessment, water rights, seasonal flow considerations, and maintenance routines.
+
+Goal:
+Create an adoption guide for village-level micro-hydro plants.
+
+Prompt:
+"You are a rural hydro energy consultant. Draft an adoption guide for community micro-hydro projects in Uttarakhand, including site surveys, technology choices, community ownership models, and long-term maintenance plans."
+
+Inputs:
+
+Stream flow data
+Number of households to serve
+Available budget
+Local governance involvement
+
+Prompt 19 – Rooftop Solar for Educational Institutions
+Backstory:
+A chain of private schools in Hyderabad wants to cut energy bills and teach students about sustainability. They plan to install rooftop solar panels across all campuses. The management requires a guide explaining system sizing, financing models (loans, leases, PPAs), safety compliance, and integration with educational programs.
+
+Goal:
+Develop a solar rooftop adoption guide for educational campuses.
+
+Prompt:
+"You are an institutional renewable energy planner. Create a rooftop solar adoption guide for private schools in Hyderabad, including sizing calculations, financing options, safety compliance, and student engagement activities."
+
+Inputs:
+
+Number of campuses
+Average monthly energy consumption per campus
+Roof space availability
+Budget allocation
+
+Prompt 20 – Hybrid Solar-Diesel Systems for Remote Hospitals
+Backstory:
+A rural hospital in Jharkhand depends on a diesel generator for power, but fuel costs are high and supply is unreliable. The hospital director is interested in installing a solar-diesel hybrid system with battery backup to ensure uninterrupted operations. They need a guide on system design, load prioritisation, cost savings, and maintenance planning.
+
+Goal:
+Create an adoption guide for hybrid solar-diesel systems in rural hospitals.
+
+Prompt:
+"You are an off-grid energy systems consultant. Develop a solar-diesel hybrid adoption guide for rural hospitals in Jharkhand, including load management strategies, cost-benefit analysis, battery storage sizing, and maintenance schedules."
+
+Inputs:
+
+Daily energy demand
+Current diesel usage
+Available budget
+Critical equipment load list
+
+Prompt 21 – Solar-Powered Aquaculture Systems
+Backstory:
+Fish farmers in Andhra Pradesh are facing rising electricity costs for aeration and pumping in aquaculture ponds. A local cooperative wants to switch to solar-powered systems to improve profitability and reduce environmental impact. They need a guide that covers system sizing, seasonal performance, and return on investment.
+
+Goal:
+Prepare a solar adoption guide for aquaculture applications.
+
+Prompt:
+"You are an aquaculture renewable energy specialist. Create a guide for solar-powered aeration and pumping systems in Andhra Pradesh fish farms, including system sizing, seasonal performance, ROI analysis, and maintenance tips."
+
+Inputs:
+
+Pond size and depth
+Current energy usage
+Budget for transition
+Equipment type (aerators/pumps)
+
+Prompt 22 – Waste-to-Energy for Municipalities
+Backstory:
+A mid-sized city in Madhya Pradesh is exploring a waste-to-energy plant to handle its growing solid waste problem. The municipality needs a guide that covers technology options (incineration, anaerobic digestion), feedstock requirements, emissions control, and power sales to the grid.
+
+Goal:
+Create a waste-to-energy adoption guide for municipal authorities.
+
+Prompt:
+"You are an urban waste-to-energy consultant. Draft a guide for setting up a municipal waste-to-energy plant in Madhya Pradesh, including technology comparisons, feedstock assessments, emissions compliance, and power purchase agreements."
+
+Inputs:
+
+Daily waste volume
+Waste composition data
+Available land for plant
+Budget and funding sources
+
+Prompt 23 – Solar-Powered Mobile Health Clinics
+Backstory:
+An NGO in Rajasthan runs mobile health vans serving remote desert villages. Currently, they use diesel generators for refrigeration and diagnostic equipment, which is costly and polluting. They are considering solar-powered systems with battery storage to make the vans cleaner and quieter. They need a guide covering system integration, space optimisation, and cost savings.
+
+Goal:
+Develop an adoption guide for solar-powered mobile healthcare vans.
+
+Prompt:
+"You are a mobile infrastructure renewable energy consultant. Create a guide for integrating solar power into mobile health vans in Rajasthan, including system sizing, space optimisation, cost analysis, and maintenance guidelines."
+
+Inputs:
+
+Number of vans
+Equipment power needs
+Roof space available per van
+Budget for retrofitting
+
+Prompt 24 – Corporate Renewable Energy Transition Roadmap
+Backstory:
+A large FMCG company in Mumbai wants to transition all its manufacturing facilities to renewable energy within 10 years. Management needs a comprehensive roadmap that includes phased adoption of solar, wind, and biomass, along with carbon footprint reduction targets. They also want to explore corporate PPAs and carbon credit monetisation.
+
+Goal:
+Create a renewable energy transition roadmap for a large corporate.
+
+Prompt:
+"You are a corporate sustainability strategist. Develop a 10-year renewable energy adoption roadmap for an FMCG company in Mumbai, including technology mix, investment planning, PPA negotiations, carbon credit revenue, and annual progress tracking."
+
+Inputs:
+
+Number of manufacturing sites
+Current energy consumption per site
+Budget allocation per year
+Carbon reduction targets
+
+Prompt 25 – Solar-Powered Desalination for Island Resorts
+Backstory:
+Luxury resorts in the Lakshadweep Islands spend heavily on importing fresh water. Resort owners are exploring solar-powered desalination units to meet their water needs sustainably. They need a detailed guide covering plant sizing, operational costs, environmental impact, and branding advantages for eco-tourism.
+
+Goal:
+Prepare a solar desalination adoption guide for luxury resorts.
+
+Prompt:
+"You are a hospitality renewable water solutions consultant. Create an adoption guide for solar-powered desalination units in Lakshadweep resorts, including capacity planning, operational workflows, environmental considerations, and marketing benefits."
+
+Inputs:
+
+Daily water demand per resort
+Available land or jetty space
+Budget for installation
+Preferred water quality standards
+
+
+Embedding AI with Environment & Sustainability
+
+Prompt 1 – AI-Driven Air Quality Prediction Model
+Backstory:
+A municipal corporation in Delhi is trying to combat worsening air pollution during winter. Current air quality reports are reactive, showing data after pollution levels have already spiked. The environment department wants an AI-based prediction system that can forecast AQI levels 48–72 hours in advance. This would allow them to pre-emptively implement traffic restrictions, construction halts, and public advisories. The team needs a guide on building, training, and deploying such a predictive model using historical weather, pollution, and traffic data.
+
+Goal:
+Create an AI implementation guide for forecasting urban air quality.
+
+Prompt:
+"You are an environmental data scientist. Develop a step-by-step guide for creating an AI-based air quality prediction system for Delhi. Include dataset requirements, preprocessing steps, model selection (LSTM, Prophet, etc.), accuracy evaluation, and deployment options for municipal dashboards."
+
+Inputs:
+
+Historical AQI data source
+Weather and traffic datasets
+Prediction time horizon
+Available computational resources
+
 
