@@ -459,313 +459,439 @@ Inputs:
 4. PR budget
 
 Prompt 20 – Green Influencer Campaign with Micro-Creators
+
 Backstory:
+
 A refillable household products startup in Chennai wants to focus on micro-influencers with 5k–20k followers for its next marketing push. They believe this audience is more authentic and engaged compared to celebrity endorsements. The challenge is building a scalable campaign that coordinates multiple creators without losing brand consistency.
 
 Goal:
+
 Create a micro-influencer campaign framework for a green brand.
 
 Prompt:
+
 "You are an influencer marketing expert. Design a multi-city micro-influencer campaign for a refillable household products startup. Include influencer selection criteria, content guidelines, posting schedules, and a centralised tracking system for performance measurement."
 
 Inputs:
 
-Target cities
-Number of influencers
-Campaign duration
-Content themes
+1. Target cities
+
+2. Number of influencers
+
+3. Campaign duration
+
+4. Content themes
 
 Prompt 21 – Eco-Friendly Packaging Awareness Campaign
+
 Backstory:
+
 A mid-sized organic tea company in Assam has recently shifted from plastic pouches to biodegradable paper-based packaging. While this move aligns with their sustainability values, most of their customers are unaware of the change or the environmental impact it brings. The marketing team wants to launch an awareness campaign that not only educates consumers but also uses the packaging switch as a brand differentiator. They want to reach both online buyers through e-commerce platforms and offline customers in local stores. The aim is to make sustainability a selling point rather than just a CSR note.
 
 Goal:
+
 Create an educational marketing campaign highlighting the shift to eco-friendly packaging.
 
 Prompt:
+
 "You are a product marketing strategist. Design a 3-month awareness campaign for an organic tea brand transitioning to biodegradable packaging. Include e-commerce product page redesign, educational Instagram posts, in-store posters, influencer unboxing videos, and a PR press release to industry media. Make sure the narrative focuses on environmental benefits and brand leadership in sustainability."
 
 Inputs:
 
-Packaging material details
-Campaign budget
-Sales channels (offline/online mix)
-Target customer profile
+1. Packaging material details
+
+2. Campaign budget
+
+3. Sales channels (offline/online mix)
+
+4. Target customer profile
 
 Prompt 22 – Corporate Partnership Sustainability Drive
+
 Backstory:
+
 A solar panel manufacturer in Noida is looking to expand its sales through partnerships with large real estate developers. They believe that offering co-branded sustainability campaigns can help position their product as the go-to solar solution for premium residential and commercial projects. The marketing team wants a partnership plan that benefits both the developer and the solar company while driving adoption of renewable energy.
 
 Goal:
+
 Develop a co-branded marketing strategy for a solar company and real estate developer partnership.
 
 Prompt:
+
 "You are a B2B partnership marketing strategist. Create a co-branded sustainability drive plan between a solar panel company and a real estate developer in India. Include joint press releases, co-branded video tours of solar-powered properties, shared social media campaigns, and customer education events. Ensure the strategy highlights cost savings, environmental benefits, and long-term value for property buyers."
 
 Inputs:
 
-Developer’s brand positioning
-Solar product USP
-Target project locations
-Budget for co-marketing
+1. Developer’s brand positioning
+
+2. Solar product USP
+
+3. Target project locations
+
+4. Budget for co-marketing
 
 Prompt 23 – Employee Green Engagement Program
+
 Backstory:
+
 A mid-sized apparel manufacturing company in Tiruppur has invested in sustainable textile production, but employees are only passively aware of the company’s eco-efforts. The HR and marketing teams want to create an internal engagement program that inspires employees to adopt eco-friendly practices both at work and at home. They believe a structured initiative can turn staff into active brand advocates and improve company culture.
 
 Goal:
+
 Create an employee engagement program centred on sustainability.
 
 Prompt:
+
 "You are an internal communications strategist. Design a year-long employee engagement program for a sustainable apparel company, including monthly eco-challenges, green awards, training workshops, and an internal newsletter showcasing sustainability tips. Ensure the program creates personal and professional alignment with the company’s environmental goals."
 
 Inputs:
 
-Employee headcount
-Available internal communication channels
-HR budget allocation
-Existing sustainability practices
+1. Employee headcount
+
+2. Available internal communication channels
+
+3. HR budget allocation
+
+4. Existing sustainability practices
 
 Prompt 24 – Green Loyalty Program for Retail Customers
+
 Backstory:
+
 A chain of eco-friendly home décor stores in Mumbai and Pune wants to encourage repeat purchases from its existing customer base. The marketing head believes a loyalty program can work best if it rewards sustainable behaviour, such as returning packaging, attending green workshops, or purchasing eco-certified products. The brand wants a unique loyalty system that goes beyond traditional points-based models.
 
 Goal:
+
 Develop a customer loyalty program that rewards sustainable behaviour.
 
 Prompt:
+
 "You are a retail loyalty program consultant. Create a sustainability-based loyalty program for an eco-friendly home décor store chain. Include reward tiers, eco-action badges, exclusive workshop invitations, and special discounts for bringing back packaging or old products for recycling. Ensure the program integrates both in-store and online purchases."
 
 Inputs:
 
-Number of stores
-Average customer purchase frequency
-Tech platform for loyalty tracking
-Program budget
+1. Number of stores
+
+2. Average customer purchase frequency
+
+3. Tech platform for loyalty tracking
+
+4. Program budget
 
 Prompt 25 – City-Wide Green Brand Awareness Stunt
+
 Backstory:
+
 A plant-based milk brand in Bengaluru wants to create a viral, city-wide marketing stunt to boost brand recall. The founders believe that one high-visibility campaign can generate buzz among young professionals and students while positioning their product as a cool, eco-conscious choice. They want something experiential and highly shareable on social media—something that can get covered by local press and food bloggers alike.
 
 Goal:
+
 Design a creative city-wide awareness stunt for a plant-based milk brand.
 
 Prompt:
+
 "You are a guerrilla marketing strategist. Create a high-impact brand stunt for a plant-based milk company in Bengaluru. Ideas could include eco-themed pop-up cafés in metro stations, 3D chalk art installations about dairy alternatives, free tasting booths at IT parks, and influencer-led flash mob events. Include a detailed execution plan, budget split, and post-event engagement strategy."
 
 Inputs:
 
-Brand USP
-Campaign duration
-City activation budget
-Preferred stunt type (art, event, digital hybrid)
+1. Brand USP
+
+2. Campaign duration
+
+3. City activation budget
+
+4. Preferred stunt type (art, event, digital hybrid)
 
 
 Waste management process design
 
 Prompt 1 – Residential Society Waste Segregation System
+
 Backstory:
+
 Arjun, 30, recently became the secretary of his 200-flat apartment complex in Pune. The society has been fined twice by the municipal corporation for improper waste segregation. Currently, residents dump all waste into common bins, making it difficult to recycle or compost. Arjun believes that if there were a proper segregation system—supported by clear processes, resident education, and vendor tie-ups—the society could reduce its waste sent to landfill by at least 60%. However, he needs a practical, step-by-step design that considers resident behaviour, costs, and local waste disposal rules.
 
 Goal:
+
 Design a complete waste segregation process for a large residential society in Pune.
 
 Prompt:
+
 "You are a municipal waste management consultant. Create a step-by-step waste segregation and disposal plan for a 200-flat society in Pune. Include colour-coded bin placement strategy, resident awareness drives, vendor partnerships for recyclables, composting setup for wet waste, and monthly impact tracking. Ensure compliance with Pune Municipal Corporation guidelines."
 
 Inputs:
 
-Number of households
-Current waste volume per day
-Available budget
-Local municipal segregation rules
+1. Number of households
+
+2. Current waste volume per day
+
+3. Available budget
+
+4. Local municipal segregation rules
 
 Prompt 2 – Hospital Bio-Medical Waste Handling Process
+
 Backstory:
+
 A 50-bed private hospital in Lucknow has recently received a warning from the health department about improper biomedical waste disposal. Currently, different departments follow their own informal processes, leading to mixing of infectious waste with regular trash. The hospital administrator wants a standardised, compliant, and safe waste handling process to protect staff, patients, and the environment. He also wants training material for staff to ensure consistent implementation.
 
 Goal:
+
 Create a compliant biomedical waste management process for a medium-sized hospital in Lucknow.
 
 Prompt:
+
 "You are a healthcare waste management specialist. Design a biomedical waste handling process for a 50-bed hospital in Lucknow. Include waste categorisation, collection schedules, storage protocols, tie-ups with authorised disposal facilities, and staff training modules. Ensure the plan aligns with Bio-Medical Waste Management Rules, 2016 (India)."
 
 Inputs:
 
-Number of hospital departments
-Current waste disposal methods
-Storage capacity
-Local authorised waste treatment facility details
+1. Number of hospital departments
+
+2. Current waste disposal methods
+
+3. Storage capacity
+
+4. Local authorised waste treatment facility details
 
 Prompt 3 – Zero-Waste Café Operations Manual
+
 Backstory:
+
 Meera, 28, runs a popular café in Jaipur that prides itself on sustainability. However, despite using compostable plates and cups, she still ends up sending a lot of waste to landfill due to poor internal sorting and food waste management. She wants a detailed operational guide that trains staff, organises waste collection points, partners with composting vendors, and reduces packaging waste. Meera’s goal is to market her café as “Zero Waste” within the next 12 months.
 
 Goal:
+
 Create a step-by-step waste management operations manual for a café aiming for zero waste.
 
 Prompt:
+
 "You are a hospitality sustainability consultant. Create a detailed waste management operations manual for a café in Jaipur. Include waste source reduction strategies, staff training protocols, composting methods for food waste, recycling vendor tie-ups, and tracking metrics. Ensure all processes are practical for a busy café environment."
 
 Inputs:
 
-Café seating capacity
-Current waste generation estimate
-Available storage space for segregation
-Preferred composting method (in-house/vendor)
+1. Café seating capacity
+
+2. Current waste generation estimate
+
+3. Available storage space for segregation
+
+4. Preferred composting method (in-house/vendor)
 
 Prompt 4 – IT Park E-Waste Recycling Workflow
+
 Backstory:
+
 A large IT park in Bengaluru houses 15 different companies, generating huge amounts of e-waste like old computers, cables, and printers. Currently, most of it is discarded with general waste or sold informally, risking data security and environmental harm. The park’s facility manager wants a formal e-waste collection, storage, and recycling process that complies with Indian e-waste regulations while making it easy for all tenant companies to participate.
 
 Goal:
+
 Design an e-waste recycling workflow for a multi-company IT park.
 
 Prompt:
+
 "You are an e-waste compliance expert. Create an e-waste recycling workflow for an IT park in Bengaluru with 15 tenant companies. Include secure collection points, data destruction protocols, authorised recycler partnerships, quarterly collection drives, and awareness campaigns. Ensure compliance with E-Waste (Management) Rules, 2022."
 
 Inputs:
 
-Number of employees in IT park
-Storage facility availability
-Frequency of e-waste generation
-Local authorised recycler details
+1. Number of employees in IT park
+
+2. Storage facility availability
+
+3. Frequency of e-waste generation
+
+4. Local authorised recycler details
 
 Prompt 5 – Municipal Composting Plant Process Design
+
 Backstory:
+
 The municipality of Indore, already recognised for its clean city ranking, wants to expand its composting facilities to handle the growing amount of organic waste from markets and residential colonies. The existing plant operates at full capacity and struggles with seasonal spikes during festivals. Officials want a scalable, efficient composting process that reduces odour issues, improves throughput, and produces high-quality compost for sale.
 
 Goal:
+
 Design a scalable composting plant process for a municipal corporation.
 
 Prompt:
+
 "You are a municipal solid waste process engineer. Create a detailed process design for expanding a composting plant in Indore, including waste pre-processing steps, aeration and curing techniques, seasonal load management, quality control for compost output, and marketing strategies for selling compost to farmers."
 
 Inputs:
 
-Current plant capacity
-Average daily organic waste volume
-Land availability for expansion
-Compost end-use target market
+1. Current plant capacity
+
+2. Average daily organic waste volume
+
+3. Land availability for expansion
+
+4. Compost end-use target market
 
 Prompt 6 – School Waste Reduction Program
+
 Backstory:
+
 St. Mary’s High School in Nagpur, with over 1,200 students, has been facing issues with overflowing trash bins and high waste disposal costs. Most waste comes from the cafeteria and classrooms, and there is no current segregation policy. The school principal wants to implement a waste reduction and recycling program that engages both students and staff, turning waste management into a part of environmental education. The program should be fun, measurable, and easy to maintain year-round.
 
 Goal:
+
 Design a school-wide waste reduction and recycling program.
 
 Prompt:
+
 "You are an educational sustainability consultant. Create a school waste management program for St. Mary’s High School in Nagpur. Include cafeteria food waste composting, classroom recycling stations, monthly student-led awareness drives, and waste reduction competitions. Provide a 12-month implementation plan with tracking metrics."
 
 Inputs:
 
-Number of classrooms
-Waste generation estimate
-Available space for composting
-Budget for awareness activities
+1. Number of classrooms
+
+2. Waste generation estimate
+
+3. Available space for composting
+
+4. Budget for awareness activities
 
 Prompt 7 – Market Waste Management for Vendors
+
 Backstory:
+
 The central vegetable market in Patna serves over 500 vendors and produces tons of organic waste daily. Most of it is dumped in nearby open areas, causing foul smells and attracting stray animals. The municipal officer in charge wants a vendor-friendly waste management process that ensures organic waste is collected, composted, or sent to a biogas plant. Vendors are willing to cooperate but only if the process is simple and cost-effective.
 
 Goal:
+
 Develop a market-level waste management process for fresh produce vendors.
 
 Prompt:
+
 "You are a public market waste management planner. Create a waste segregation and collection process for a 500-vendor vegetable market in Patna. Include on-site collection points, vendor training, composting or biogas processing, and revenue-sharing models from compost sales. Ensure minimal disruption to daily market activities."
 
 Inputs:
 
-Number of vendors
-Daily organic waste volume
-Available processing facilities
-Municipal waste budget allocation
+1. Number of vendors
+
+2. Daily organic waste volume
+
+3. Available processing facilities
+
+4. Municipal waste budget allocation
 
 Prompt 8 – Airport Waste Management System
+
 Backstory:
+
 A newly operational airport in Goa wants to implement a modern waste management system from day one. Passenger traffic is expected to grow rapidly, bringing a mix of organic waste, packaging materials, and hazardous waste from maintenance areas. The airport director wants a process that ensures quick collection, high segregation rates, and compliance with aviation safety regulations. They also want a public awareness element for passengers.
 
 Goal:
+
 Design a waste management system for a medium-sized airport.
 
 Prompt:
+
 "You are an airport operations waste management expert. Create a waste handling process for a mid-sized airport in Goa, including waste type mapping, colour-coded bin placement across terminals, hazardous waste handling for maintenance areas, and passenger awareness campaigns. Include monitoring and audit mechanisms for compliance."
 
 Inputs:
 
-Expected daily passenger footfall
-Waste volume estimates per category
-Available waste storage space
-Budget for infrastructure
+1. Expected daily passenger footfall
+
+2. Waste volume estimates per category
+
+3. Available waste storage space
+
+4. Budget for infrastructure
 
 Prompt 9 – Festival Waste Management Plan
+
 Backstory:
+
 Every year, the Ganesh Chaturthi festival in Mumbai generates massive amounts of waste from decorations, offerings, and single-use plastics. The Brihanmumbai Municipal Corporation wants to implement a proactive waste management plan that works with organisers, local communities, and vendors to minimise waste during the festival. The goal is to combine traditional celebrations with modern environmental responsibility.
 
 Goal:
+
 Create a large-scale waste management plan for a public festival.
 
 Prompt:
+
 "You are a public event sustainability planner. Design a waste management plan for the Ganesh Chaturthi festival in Mumbai. Include biodegradable decoration incentives, on-site waste segregation zones, volunteer-led collection drives, and post-festival waste impact reporting. Ensure the plan respects cultural practices while promoting eco-consciousness."
 
 Inputs:
 
-Number of festival venues
-Average daily visitor count
-Waste collection budget
-Local composting/recycling facilities
+1. Number of festival venues
+
+2. Average daily visitor count
+
+3. Waste collection budget
+
+4. Local composting/recycling facilities
 
 Prompt 10 – Hotel Chain Waste Minimisation Strategy
+
 Backstory:
+
 A luxury hotel chain with properties in Delhi, Jaipur, and Goa wants to achieve a “Zero Landfill” certification within five years. Currently, waste is managed individually at each property, leading to inconsistent practices and poor tracking. The group’s sustainability director wants a standardised process that can be applied across all hotels while maintaining guest satisfaction and brand image.
 
 Goal:
+
 Develop a standardised waste minimisation process for a hotel chain.
 
 Prompt:
+
 "You are a hospitality sustainability strategist. Create a standardised waste minimisation and recycling process for a luxury hotel chain. Include guest awareness initiatives, staff training modules, composting for kitchen waste, linen reuse programs, and centralised waste data tracking."
 
 Inputs:
 
-Number of hotels
-Average occupancy rate
-Waste types generated
-Budget for sustainability initiatives
+1. Number of hotels
+
+2. Average occupancy rate
+
+3. Waste types generated
+
+4. Budget for sustainability initiatives
 
 Prompt 11 – E-Waste Collection Drive for College Campuses
+
 Backstory:
+
 A youth-led NGO in Hyderabad wants to launch an e-waste collection drive across 10 engineering and arts colleges in the city. The aim is to collect old laptops, chargers, and mobile phones for safe recycling. The NGO needs a process that ensures proper collection, data wiping, and authorised recycling, while also making it a fun, student-driven campaign.
 
 Goal:
+
 Plan a city-wide e-waste collection campaign for colleges.
 
 Prompt:
+
 "You are an environmental campaign planner. Design a college e-waste collection drive in Hyderabad. Include campus ambassador programs, secure data destruction protocols, partnerships with certified recyclers, and gamified reward systems for student participation."
 
 Inputs:
 
-Number of participating colleges
-Drive duration
-Expected collection volume
-Budget for marketing and rewards
+1. Number of participating colleges
+
+2. Drive duration
+
+3. Expected collection volume
+
+4. Budget for marketing and rewards
 
 Prompt 12 – Small Restaurant Waste Management System
+
 Backstory:
+
 A family-run restaurant in Kochi serves 150 customers a day and wants to reduce its landfill waste. Most waste comes from food scraps, single-use packaging, and disposable cutlery. The owners are willing to switch to reusable or compostable materials, but they need a simple, low-cost process that works in a small kitchen space.
 
 Goal:
+
 Create a low-cost waste management process for a small restaurant.
 
 Prompt:
+
 "You are a restaurant sustainability consultant. Develop a waste management system for a small restaurant in Kochi, including food waste composting, reusable packaging options, vendor partnerships for recycling, and daily waste tracking logs."
 
 Inputs:
 
-Daily customer count
-Current waste disposal method
-Available storage/composting space
-Budget for changes
+1. Daily customer count
+
+2. Current waste disposal method
+
+3. Available storage/composting space
+
+4. Budget for changes
 
 Prompt 13 – Corporate Office Paperless Transition Plan
 Backstory:
