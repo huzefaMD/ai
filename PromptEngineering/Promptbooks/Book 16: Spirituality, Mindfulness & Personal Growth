@@ -1257,19 +1257,28 @@ Backstory: In urban India, women juggle careers, family responsibilities, and so
 Goal: Design a three-day retreat agenda that blends self-love practices, creativity, and spiritual healing for women.
 
 Prompt:
+
 "You are a women’s empowerment retreat facilitator. Create a 3-day agenda for an Indian audience that includes:
 
-Morning grounding rituals
-Self-love and confidence-building workshops
-Creative arts therapy sessions
-Evening spiritual circles
-Community bonding activities"
+1. Morning grounding rituals
+
+2. Self-love and confidence-building workshops
+
+3. Creative arts therapy sessions
+
+4. Evening spiritual circles
+
+5. Community bonding activities"
+
 Inputs Required:
 
-Age range of participants
-Location type (beach, mountains, etc.)
-Availability of facilitators for specialized workshops
-Dietary preferences
+1. Age range of participants
+
+2. Location type (beach, mountains, etc.)
+
+3. Availability of facilitators for specialized workshops
+
+4. Dietary preferences
 
 Prompt 3 – Spiritual Awakening & Inner Peace Workshop
 
@@ -1278,19 +1287,28 @@ Backstory: Young adults in metropolitan India are increasingly seeking spiritual
 Goal: Create a one-day workshop flow for young adults seeking spiritual awakening, blending traditional Indian wisdom with modern techniques.
 
 Prompt:
+
 "You are a spiritual workshop designer. Create a 1-day agenda that includes:
 
-Welcome & intention setting
-Guided meditations
-Teachings from Indian spiritual texts
-Partner/group reflection activities
-Closing gratitude ritual"
+1. Welcome & intention setting
+
+2. Guided meditations
+
+3. Teachings from Indian spiritual texts
+
+4. Partner/group reflection activities
+
+5. Closing gratitude ritual"
+
 Inputs Required:
 
-Group size
-Indoor/outdoor setting availability
-Preferred spiritual themes
-Participant familiarity with meditation
+1. Group size
+
+2. Indoor/outdoor setting availability
+
+3. Preferred spiritual themes
+
+4. Participant familiarity with meditation
 
 Prompt 4 – Mindful Parenting Retreat
 
@@ -1299,18 +1317,26 @@ Backstory: Parents in urban India are struggling to balance work commitments wit
 Goal: Create a two-day retreat agenda that supports parents in cultivating mindful and conscious parenting skills.
 
 Prompt:
+
 "You are a parenting and mindfulness expert. Design a 2-day retreat plan including:
 
-Parent-only learning sessions
-Family bonding activities
-Mindfulness exercises suitable for children
-Evening reflection circles"
+1. Parent-only learning sessions
+
+2. Family bonding activities
+
+3. Mindfulness exercises suitable for children
+
+4. Evening reflection circles"
+
 Inputs Required:
 
-Age range of children attending
-Number of families
-Venue facilities (indoor, outdoor, childcare support)
-Languages spoken by participants
+1. Age range of children attending
+
+2. Number of families
+
+3. Venue facilities (indoor, outdoor, childcare support)
+
+4. Languages spoken by participants
 
 Prompt 5 – Stress Management Retreat for Students Preparing for Exams
 
@@ -1319,18 +1345,26 @@ Backstory: Competitive exam aspirants in India often experience extreme stress, 
 Goal: Create a two-day retreat agenda that helps students preparing for competitive exams manage stress and maintain motivation.
 
 Prompt:
+
 "You are a youth wellness retreat planner. Create a 2-day agenda for exam aspirants that includes:
 
-Morning yoga and breathing exercises
-Workshops on time management and focus
-Guided meditations for stress relief
-Group discussions for peer support"
+1. Morning yoga and breathing exercises
+
+2. Workshops on time management and focus
+
+3. Guided meditations for stress relief
+
+4. Group discussions for peer support"
+
 Inputs Required:
 
-Age group of students
-Number of attendees
-Location and amenities available
-Subjects/exams they are preparing for
+1. Age group of students
+
+2. Number of attendees
+
+3. Location and amenities available
+
+4. Subjects/exams they are preparing for
 
 Prompt 6 – Healing Through Nature – Forest Therapy Retreat
 
@@ -1339,19 +1373,28 @@ Backstory: In India, urban dwellers are increasingly drawn to eco-spiritual retr
 Goal: Create a 3-day retreat plan that blends mindfulness, environmental awareness, and gentle adventure.
 
 Prompt:
+
 "You are an eco-spiritual retreat designer. Plan a 3-day forest therapy retreat in India, including:
 
-Guided forest bathing sessions
-Nature-based mindfulness practices
-Educational talks on ecology and conservation
-Evening campfire reflections
-Rest periods for integration"
+1. Guided forest bathing sessions
+
+2. Nature-based mindfulness practices
+
+3. Educational talks on ecology and conservation
+
+4. Evening campfire reflections
+
+5. Rest periods for integration"
+
 Inputs Required:
 
-Participant fitness levels
-Group size
-Season and climate conditions
-Local wildlife safety measures
+1. Participant fitness levels
+
+2. Group size
+
+3. Season and climate conditions
+
+4. Local wildlife safety measures
 
 Prompt 7 – Yoga & Ayurveda Wellness Retreat
 
@@ -1360,19 +1403,28 @@ Backstory: Many Indians are turning to traditional healing systems like Yoga and
 Goal: Create a 5-day retreat plan integrating yoga, meditation, and Ayurveda-based healing practices.
 
 Prompt:
+
 "You are a wellness retreat planner. Design a 5-day agenda for a Kerala-based Yoga & Ayurveda retreat, including:
 
-Morning yoga sequences
-Midday Ayurvedic cooking classes
-Afternoon meditation and pranayama sessions
-Evening cultural programs
-Daily Ayurvedic therapies"
+1. Morning yoga sequences
+
+2. Midday Ayurvedic cooking classes
+
+3. Afternoon meditation and pranayama sessions
+
+4. Evening cultural programs
+
+5. Daily Ayurvedic therapies"
+
 Inputs Required:
 
-Number of participants
-Facilities available for therapy and classes
-Dietary needs
-Yoga proficiency levels
+1. Number of participants
+
+2 Facilities available for therapy and classes
+
+3. Dietary needs
+
+4. Yoga proficiency levels
 
 Prompt 8 – Men’s Emotional Healing & Brotherhood Retreat
 
@@ -1381,19 +1433,28 @@ Backstory: In Indian society, men often face cultural pressure to suppress emoti
 Goal: Create a 2-day retreat plan to help men reconnect emotionally and build supportive peer bonds.
 
 Prompt:
+
 "You are a facilitator of men’s emotional wellness programs. Create a 2-day agenda for an Indian audience that includes:
 
-Icebreaker activities
-Emotional literacy workshops
-Guided sharing circles
-Outdoor bonding activities
-Closing brotherhood rituals"
+1. Icebreaker activities
+
+2. Emotional literacy workshops
+
+3. Guided sharing circles
+
+4. Outdoor bonding activities
+
+5. Closing brotherhood rituals"
+
 Inputs Required:
 
-Age range of participants
-Comfort with physical activity
-Preferred privacy measures
-Facilitator expertise available
+1. Age range of participants
+
+2. Comfort with physical activity
+
+3. Preferred privacy measures
+
+4. Facilitator expertise available
 
 Prompt 9 – Silent Meditation Retreat (Vipassana-inspired)
 
@@ -1402,18 +1463,26 @@ Backstory: Silence can be deeply transformative, but many in India hesitate to c
 Goal: Create a 4-day silent meditation retreat schedule that eases beginners into sustained mindfulness.
 
 Prompt:
+
 "You are a meditation retreat planner. Create a detailed 4-day silent retreat agenda for beginners, including:
 
-Meditation session timings
-Mindful walking schedules
-Meal and rest periods
-Gentle evening reflections without breaking silence"
+1. Meditation session timings
+
+2. Mindful walking schedules
+
+3. Meal and rest periods
+
+4. Gentle evening reflections without breaking silence"
+
 Inputs Required:
 
-Number of participants
-Meditation experience level
-Climate and location
-Facility layout for minimal disturbance
+1. Number of participants
+
+2. Meditation experience level
+
+3. Climate and location
+
+4. Facility layout for minimal disturbance
 
 Prompt 10 – Creative Manifestation & Vision Board Workshop
 
@@ -1422,18 +1491,26 @@ Backstory: Many urban Indians are exploring manifestation practices but lack str
 Goal: Create a one-day retreat agenda blending creativity and manifestation practices.
 
 Prompt:
+
 "You are a manifestation and creativity coach. Create a 1-day workshop plan that includes:
 
-Morning meditation to set intentions
-Guided goal visualization exercises
-Vision board creation time
-Sharing circles for accountability"
+1. Morning meditation to set intentions
+
+2. Guided goal visualization exercises
+
+3. Vision board creation time
+
+4. Sharing circles for accountability"
+
 Inputs Required:
 
-Group size
-Material budget for vision boards
-Space requirements
-Level of participant familiarity with manifestation practices
+1. Group size
+
+2. Material budget for vision boards
+
+3. Space requirements
+
+4. Level of participant familiarity with manifestation practices
 
 Prompt 11 – Women’s Sacred Circle & Inner Healing Retreat
 
@@ -1442,19 +1519,28 @@ Backstory: Across India, women are seeking safe spaces to share, heal, and redis
 Goal: Design a 3-day women-only retreat agenda that blends emotional healing with community bonding.
 
 Prompt:
+
 "You are a women’s wellness retreat planner. Create a 3-day agenda including:
 
-Morning grounding meditations
-Healing art therapy sessions
-Sisterhood sharing circles
-Gentle yoga and breathwork
-Evening gratitude rituals"
+1. Morning grounding meditations
+
+2. Healing art therapy sessions
+
+3. Sisterhood sharing circles
+
+4. Gentle yoga and breathwork
+
+5. Evening gratitude rituals"
+
 Inputs Required:
 
-Group size and age range
-Location facilities
-Any cultural or dietary preferences
-Experience level of facilitators
+1. Group size and age range
+
+2. Location facilities
+
+3. Any cultural or dietary preferences
+
+4. Experience level of facilitators
 
 Prompt 12 – Corporate Mindfulness & Stress Release Workshop
 
@@ -1463,19 +1549,28 @@ Backstory: Indian corporate employees face high-pressure work cultures leading t
 Goal: Create a corporate-friendly mindfulness workshop that’s practical and engaging.
 
 Prompt:
+
 "You are a corporate wellness trainer. Create a 1-day workshop agenda including:
 
-Introduction to mindfulness and benefits
-Guided breathing techniques for stress relief
-Short meditation practices for the workplace
-Mindful communication exercises
-End-of-day reflection and Q&A"
+1. Introduction to mindfulness and benefits
+
+2. Guided breathing techniques for stress relief
+
+3. Short meditation practices for the workplace
+
+4. Mindful communication exercises
+
+5. End-of-day reflection and Q&A"
+
 Inputs Required:
 
-Employee demographics
-Available workshop space
-Time allocation
-Desired outcomes (stress relief, focus, team bonding)
+1. Employee demographics
+
+2. Available workshop space
+
+3. Time allocation
+
+4. Desired outcomes (stress relief, focus, team bonding)
 
 Prompt 13 – Bhakti Yoga & Kirtan Immersion
 
@@ -1484,19 +1579,28 @@ Backstory: Bhakti yoga, the yoga of devotion, is attracting spiritual seekers wh
 Goal: Plan a 2-day Bhakti Yoga immersion blending music, devotion, and philosophy.
 
 Prompt:
+
 "You are a Bhakti yoga facilitator. Create a 2-day retreat plan that includes:
 
-Morning mantra meditation
-Afternoon kirtan sessions with live instruments
-Storytelling from sacred texts
-Group discussions on devotion in daily life
-Evening aarti and reflection"
+1. Morning mantra meditation
+
+2. Afternoon kirtan sessions with live instruments
+
+3. Storytelling from sacred texts
+
+4. Group discussions on devotion in daily life
+
+5. Evening aarti and reflection"
+
 Inputs Required:
 
-Music and instrument availability
-Number of facilitators
-Participant familiarity with bhakti practices
-Space for both sitting and musical performances
+1. Music and instrument availability
+
+2. Number of facilitators
+
+3. Participant familiarity with bhakti practices
+
+4. Space for both sitting and musical performances
 
 Prompt 14 – Mindful Parenting Retreat
 
@@ -1505,19 +1609,28 @@ Backstory: Urban parents in India are juggling careers and child-rearing, often 
 Goal: Create a 2-day retreat plan to help parents become more mindful and emotionally present.
 
 Prompt:
+
 "You are a conscious parenting coach. Design a 2-day retreat including:
 
-Morning mindfulness for parents
-Emotional regulation workshops
-Role-play for conflict resolution
-Family playtime and bonding exercises
-Closing gratitude ceremony with children"
+1. Morning mindfulness for parents
+
+2. Emotional regulation workshops
+
+3. Role-play for conflict resolution
+
+4. Family playtime and bonding exercises
+
+5. Closing gratitude ceremony with children"
+
 Inputs Required:
 
-Number of families attending
-Age range of children
-On-site childcare facilities
-Facilitator expertise
+1. Number of families attending
+
+2. Age range of children
+
+3. On-site childcare facilities
+
+4. Facilitator expertise
 
 Prompt 15 – Sound Healing & Chakra Balancing Retreat
 
@@ -1526,19 +1639,28 @@ Backstory: Sound therapy is gaining popularity in India as a deep relaxation and
 Goal: Create a 3-day retreat plan for sound healing and chakra alignment.
 
 Prompt:
+
 "You are a sound healer designing a retreat. Create a 3-day schedule including:
 
-Morning chakra meditation
-Sound baths using singing bowls and gongs
-Guided breathwork sessions
-Group reflection and journaling time
-Evening relaxation rituals"
+1. Morning chakra meditation
+
+2. Sound baths using singing bowls and gongs
+
+3. Guided breathwork sessions
+
+4. Group reflection and journaling time
+
+5. Evening relaxation rituals"
+
 Inputs Required:
 
-Number of participants
-Sound healing equipment available
-Venue acoustics
-Participant familiarity with meditation
+1. Number of participants
+
+2. Sound healing equipment available
+
+3. Venue acoustics
+
+4. Participant familiarity with meditation
 
 Prompt 16 – Ayurveda & Seasonal Wellness Retreat
 
