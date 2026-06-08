@@ -2352,14 +2352,18 @@ Backstory: Sunita, 32, in Jaipur, has chronic back pain and wants to combine Ayu
 Goal: Create a 90-day healing manifestation plan.
 
 Prompt:
+
 "You are a Health Manifestation Guide integrating Ayurveda and visualization. Create a 90-day plan for a 32-year-old with chronic pain, including Panchakarma preparation, daily positive imaging, and gentle movement practices."
 
 Inputs:
 
-Medical restrictions
-Pain triggers
-Access to Ayurvedic clinics
-Meditation comfort
+1. Medical restrictions
+
+2. Pain triggers
+
+3. Access to Ayurvedic clinics
+
+4. Meditation comfort
 
 Prompt 21 – Manifesting Academic Success through Saraswati Vandana & Study Flow Rituals
 
@@ -2368,14 +2372,18 @@ Backstory: Arjun, 22, a final-year engineering student in Nagpur, is preparing f
 Goal: Create a 100-day manifestation blueprint for excelling in final-year exams and competitive tests.
 
 Prompt:
+
 "You are an Academic Success Coach integrating Indian spiritual rituals. Create a 100-day manifestation plan for a 22-year-old engineering student in Nagpur to achieve top exam results. Include Saraswati Vandana chanting schedules, morning focus meditations, and smart study planning."
 
 Inputs:
 
-Exam dates
-Weak subject areas
-Study hours available
-Comfort with chanting/meditation
+1. Exam dates
+
+2. Weak subject areas
+
+3. Study hours available
+
+4. Comfort with chanting/meditation
 
 Prompt 22 – Manifesting Public Speaking Confidence through Hanuman Chalisa Energy Activation
 
@@ -2384,14 +2392,18 @@ Backstory: Ishita, 27, a marketing professional in Delhi, has been offered the c
 Goal: Design a 30-day courage manifestation plan for a public speaking event.
 
 Prompt:
+
 "You are a Confidence Coach specializing in Indian spiritual practices. Create a 30-day manifestation plan for a 27-year-old marketing professional to deliver a confident stage speech, using Hanuman Chalisa chanting, power-posture training, and speech visualization."
 
 Inputs:
 
-Date of event
-Speech topic
-Current comfort level
-Daily time commitment
+1. Date of event
+
+2. Speech topic
+
+3. Current comfort level
+
+4. Daily time commitment
 
 Prompt 23 – Manifesting a Fitness Transformation through Surya Namaskar & Affirmations
 
@@ -2400,14 +2412,18 @@ Backstory: Neeraj, 31, an IT consultant in Noida, struggles with low stamina, ex
 Goal: Create a 90-day manifestation plan for physical transformation.
 
 Prompt:
+
 "You are a Holistic Health Coach integrating yoga and manifestation. Create a 90-day plan for a 31-year-old IT consultant to lose weight and boost energy through Surya Namaskar, affirmations, and mindful eating practices."
 
 Inputs:
 
-Current fitness level
-Dietary preferences
-Medical restrictions
-Morning availability
+1. Current fitness level
+
+2. Dietary preferences
+
+3. Medical restrictions
+
+4. Morning availability
 
 Prompt 24 – Manifesting Startup Funding through Lakshmi Energy Activation & Networking Rituals
 
@@ -2416,14 +2432,18 @@ Backstory: Rahul, 29, an entrepreneur from Bengaluru, has a promising agri-tech 
 Goal: Build a 60-day manifestation roadmap for securing startup investment.
 
 Prompt:
+
 "You are a Business Abundance Coach blending finance strategy with Lakshmi energy practices. Create a 60-day plan for a 29-year-old founder to attract startup funding, including wealth rituals, pitch preparation, and intentional investor networking."
 
 Inputs:
 
-Funding target
-Upcoming investor events
-Business stage
-Comfort with spiritual rituals
+1. Funding target
+
+2. Upcoming investor events
+
+3. Business stage
+
+4. Comfort with spiritual rituals
 
 Prompt 25 – Manifesting Artistic Recognition through Raga Meditation & Creative Flow States
 
@@ -2432,14 +2452,18 @@ Backstory: Kavya, 26, a classical singer from Chennai, dreams of being recognize
 Goal: Design a 6-month artistic recognition manifestation plan.
 
 Prompt:
+
 "You are a Creative Arts Manifestation Mentor integrating Indian classical music traditions. Create a 6-month plan for a 26-year-old singer to manifest national recognition, using Raga meditation, performance visualization, and gratitude-based networking."
 
 Inputs:
 
-Genre focus
-Upcoming performance dates
-Daily practice hours
-Comfort with journaling
+1. Genre focus
+
+2. Upcoming performance dates
+
+3. Daily practice hours
+
+4. Comfort with journaling
 
 
 Affirmations & visualisation exercises
@@ -2451,13 +2475,16 @@ Backstory: Radhika, 32, a working professional in Pune, wants to start her morni
 Goal: Create a set of short, powerful morning affirmations inspired by Indian spiritual wisdom, focusing on gratitude, self-worth, and abundance.
 
 Prompt:
+
 "You are a spiritual content creator. Draft 15 short morning affirmations inspired by the Bhagavad Gita, Upanishads, and Indian spiritual thought. They should be positive, easy to repeat, and focused on gratitude, abundance, and self-worth."
 
 Inputs:
 
-User’s preferred language (Hindi/English/mix)
-Key life goals (career, relationships, health)
-Daily time available for affirmation practice
+1. User’s preferred language (Hindi/English/mix)
+
+2. Key life goals (career, relationships, health)
+
+3. Daily time available for affirmation practice
 
 Prompt 2 – Visualization Script for Achieving Career Goals Using Sankalpa Principle
 
@@ -2466,14 +2493,18 @@ Backstory: Aarav, 28, is preparing for competitive exams in Delhi. He’s been f
 Goal: Write a guided visualization exercise that uses the Sankalpa principle to help a young professional envision and achieve career success.
 
 Prompt:
+
 "You are a meditation guide. Write a detailed 10-minute guided visualization script based on the yogic principle of Sankalpa. Tailor it for a 28-year-old preparing for competitive exams, focusing on calm confidence, sharp focus, and belief in success."
 
 Inputs:
 
-Exam date
-Desired job role
-Main distraction triggers
-Preferred visualization length
+1. Exam date
+
+2. Desired job role
+
+3. Main distraction triggers
+
+4. Preferred visualization length
 
 Prompt 3 – Healing Heartbreak Affirmations Using Bhakti Tradition
 
@@ -2482,13 +2513,16 @@ Backstory: Meera, 26, from Jaipur, recently ended a long relationship. She wants
 Goal: Create affirmations for emotional healing after heartbreak, rooted in the Indian Bhakti tradition.
 
 Prompt:
+
 "You are a spiritual mentor. Create 12 short, compassionate affirmations inspired by the Bhakti tradition and stories of divine love, to help a young woman heal from heartbreak and rediscover trust in life."
 
 Inputs:
 
-Religious/spiritual background
-Emotional intensity level (1–10)
-Preferred tone (gentle/motivating)
+1. Religious/spiritual background
+
+2. Emotional intensity level (1–10)
+
+3. Preferred tone (gentle/motivating)
 
 Prompt 4 – Visualization Exercise for Health Recovery with Ayurveda Imagery
 
@@ -2502,9 +2536,11 @@ Prompt:
 
 Inputs: 
 
-Dominant dosha imbalance (Vata, Pitta, or Kapha) 
-Current health limitations 
-Preferred imagery (nature, light, elements)
+1. Dominant dosha imbalance (Vata, Pitta, or Kapha) 
+
+2. Current health limitations 
+
+3. Preferred imagery (nature, light, elements)
 
 Prompt 5 – Affirmations for Overcoming Self-Doubt Using Gita’s Karma Yoga Teachings
 
@@ -2518,9 +2554,11 @@ Prompt:
 
 Inputs: 
 
-Type of business 
-Main fear or mental block 
-Preferred affirmation format (short/extended)
+1. Type of business 
+
+2. Main fear or mental block 
+
+3. Preferred affirmation format (short/extended)
 
 Prompt 6 – Affirmations for Students Before Exams Using Saraswati Vandana Themes
 
@@ -2534,9 +2572,11 @@ Prompt:
 
 Inputs: 
 
-Subject focus 
-Preferred language (Hindi, Sanskrit, English) 
-Duration of affirmations (short/extended)
+1. Subject focus 
+
+2. Preferred language (Hindi, Sanskrit, English) 
+
+3. Duration of affirmations (short/extended)
 
 Prompt 7 – Visualization for Attracting the Right Life Partner Using Indian Astrology Imagery
 
@@ -2550,9 +2590,11 @@ Prompt:
 
 Inputs: 
 
-Birth date, time, place 
-Key personality traits desired in a partner 
-Preferred setting for visualization (temple, nature, light imagery)
+1. Birth date, time, place 
+
+2. Key personality traits desired in a partner 
+
+3. Preferred setting for visualization (temple, nature, light imagery)
 
 Prompt 8 – Affirmations for Financial Abundance Using Lakshmi Mantra Energy
 
@@ -2566,9 +2608,11 @@ Prompt:
 
 Inputs: 
 
-Current financial goal 
-Business or career type 
-Preferred affirmation style (chant-like / modern)
+1. Current financial goal 
+
+2. Business or career type 
+
+3. Preferred affirmation style (chant-like / modern)
 
 Prompt 9 – Visualization for Healing Family Relationships Using Ramayana’s Values
 
@@ -2582,9 +2626,11 @@ Prompt:
 
 Inputs: 
 
-Relationship to heal 
-Key conflict points 
-Preferred tone (soothing / motivational)
+1. Relationship to heal 
+
+2. Key conflict points 
+
+3. Preferred tone (soothing / motivational)
 
 Prompt 10 – Affirmations for Overcoming Career Stress Using Yogic Breathing
 
@@ -2593,13 +2639,16 @@ Backstory: Devika, 29, from Gurgaon, works in IT and experiences frequent burnou
 Goal: Create affirmations that can be integrated with yogic breathing practices to relieve career-related stress.
 
 Prompt:
+
 "You are a mindfulness trainer. Write 10 affirmations that can be silently repeated during yogic breathing (Anulom Vilom, Bhramari) to reduce stress and promote focus."
 
 Inputs:
 
-Nature of work stress
-Time available for practice
-Breathing technique preference
+1. Nature of work stress
+
+2. Time available for practice
+
+3. Breathing technique preference
 
 Prompt 11 – Visualization for Attracting Dream Job Using Indian Temple Imagery
 
