@@ -1836,225 +1836,316 @@ Inputs:
 4. Budget for installation
 
 Prompt 2 – Solar Water Heater Adoption for Small Hotels
+
 Backstory:
+
 A boutique hotel chain with 15 rooms each in Jaipur and Udaipur spends a significant portion of its energy budget on heating water for guests. The owners want to switch to solar water heating systems to save on costs and market their hotels as eco-friendly. They are unsure about sizing the system, estimating savings, and choosing between flat plate and evacuated tube collectors. They also need to factor in seasonal variations in sunlight.
 
 Goal:
+
 Create an adoption guide for solar water heating systems in small hotels.
 
 Prompt:
+
 "You are a hospitality energy efficiency expert. Prepare a solar water heating adoption guide for a small hotel chain in Rajasthan. Include system sizing calculations, technology comparisons, ROI projections, maintenance guidelines, and integration with existing water systems."
 
 Inputs:
 
-Number of rooms per hotel
-Average hot water demand per day
-Available roof space
-Budget for installation
+1. Number of rooms per hotel
+
+2. Average hot water demand per day
+
+3. Available roof space
+
+4. Budget for installation
 
 Prompt 3 – Wind Energy Adoption for Industrial Parks
+
 Backstory:
+
 An industrial park in Tamil Nadu, housing multiple textile factories, is exploring renewable energy to reduce reliance on grid electricity and diesel generators. Wind energy is a viable option due to consistent wind speeds in the region. However, the park’s management needs a detailed adoption guide explaining feasibility studies, land requirements, CAPEX vs. OPEX models, and potential partnerships with IPPs (Independent Power Producers).
 
 Goal:
+
 Create a wind energy adoption guide for industrial park operators.
 
 Prompt:
+
 "You are an industrial renewable energy advisor. Develop a wind energy adoption guide for a textile-focused industrial park in Tamil Nadu. Include wind resource assessment methods, land and infrastructure requirements, financing models, power purchase agreements, and maintenance frameworks."
 
 Inputs:
 
-Size of industrial park
-Current annual electricity consumption
-Available land area
-Budget and financing preferences
+1. Size of industrial park
+
+2. Current annual electricity consumption
+
+3. Available land area
+
+4. Budget and financing preferences
 
 Prompt 4 – Hybrid Solar-Wind System for Remote Villages
+
 Backstory:
+
 A social enterprise in Odisha is working in remote tribal villages with no access to the grid. They want to install hybrid solar-wind microgrids to power homes, schools, and small businesses. The community leaders are enthusiastic but require a clear, easy-to-understand guide on how these systems work, the costs involved, maintenance needs, and benefits compared to diesel generators.
 
 Goal:
+
 Create a simple community-friendly guide for adopting hybrid solar-wind microgrids.
 
 Prompt:
+
 "You are a rural energy specialist. Create an adoption guide for hybrid solar-wind microgrids in remote Odisha villages. Include system design basics, cost and financing options, maintenance roles for community members, and comparisons to diesel generator alternatives."
 
 Inputs:
 
-Number of households
-Average daily energy demand
-Local wind and solar resource availability
-Project budget
+1. Number of households
+
+2. Average daily energy demand
+
+3. Local wind and solar resource availability
+
+4. Project budget
 
 Prompt 5 – Solar-Powered Cold Storage for Farmers
+
 Backstory:
+
 A farmer cooperative in Nashik faces post-harvest losses of fruits and vegetables due to lack of refrigeration facilities. They want to adopt solar-powered cold storage units to preserve produce and sell at better prices. The cooperative leaders need a guide that explains sizing the unit, battery storage needs, cost-benefit analysis, available subsidies, and potential financing options.
 
 Goal:
+
 Create an adoption guide for solar-powered cold storage units for farmer cooperatives.
 
 Prompt:
+
 "You are an agricultural renewable energy consultant. Develop a solar-powered cold storage adoption guide for a farmer cooperative in Nashik. Include capacity planning, technical specifications, cost and ROI analysis, government subsidy details, and operational best practices."
 
 Inputs:
 
-Average daily produce volume
-Storage temperature requirements
-Available land/roof space
-Budget and financing options
+1. Average daily produce volume
+
+2. Storage temperature requirements
+
+3. Available land/roof space
+
+4. Budget and financing options
 
 Prompt 6 – Community Biogas Plant for Semi-Urban Areas
+
 Backstory:
+
 A semi-urban municipality in Karnataka has several dairy farms, poultry units, and vegetable markets generating large amounts of organic waste daily. The local council is considering setting up a centralised biogas plant to generate clean cooking fuel for low-income households and power for street lighting. However, they need a guide that explains feedstock requirements, plant sizing, CAPEX/OPEX estimates, and potential revenue from byproducts like organic fertiliser.
 
 Goal:
+
 Create a biogas plant adoption guide for semi-urban municipalities.
 
 Prompt:
+
 "You are a renewable energy process consultant. Develop an adoption guide for a community-scale biogas plant in Karnataka. Include feedstock assessment, technology options, cost-benefit analysis, byproduct utilisation, and public-private partnership models."
 
 Inputs:
 
-Daily organic waste volume
-Number of target households for fuel supply
-Available land for the plant
-Budget for installation
+1. Daily organic waste volume
+
+2. Number of target households for fuel supply
+
+3. Available land for the plant
+
+4. Budget for installation
 
 Prompt 7 – Rooftop Solar Adoption for MSMEs
+
 Backstory:
+
 A cluster of small manufacturing units in Surat’s textile sector faces rising energy bills and frequent power cuts. Owners are exploring rooftop solar to cut costs and increase energy security but have limited technical knowledge. They need a guide that outlines system sizing, financing schemes, maintenance, and integration with backup diesel generators.
 
 Goal:
+
 Prepare a rooftop solar adoption guide for MSME manufacturing clusters.
 
 Prompt:
+
 "You are an MSME renewable energy advisor. Create an adoption guide for textile MSMEs in Surat to install rooftop solar. Include system sizing calculations, financing schemes, hybrid integration with diesel generators, and maintenance contracts."
 
 Inputs:
 
-Number of units in the cluster
-Average monthly electricity bill
-Roof space availability per unit
-Preferred financing model
+1. Number of units in the cluster
+
+2. Average monthly electricity bill
+
+3. Roof space availability per unit
+
+4. Preferred financing model
 
 Prompt 8 – Solar-Powered Irrigation Pumps
+
 Backstory:
+
 Farmers in drought-prone districts of Maharashtra are spending heavily on diesel pumps for irrigation. A local agricultural NGO wants to promote solar-powered pumps to reduce costs and environmental impact. They need a practical guide that covers pump sizing based on acreage, water requirements, subsidies under KUSUM scheme, and installation tips.
 
 Goal:
+
 Create a farmer-friendly adoption guide for solar irrigation pumps.
 
 Prompt:
+
 "You are an agricultural energy consultant. Develop an adoption guide for solar irrigation pumps in Maharashtra, including pump capacity selection, KUSUM scheme subsidy details, installation best practices, and ROI analysis compared to diesel pumps."
 
 Inputs:
 
-Farm size
-Water source depth
-Average irrigation hours per day
-Farmer budget
+1. Farm size
+
+2. Water source depth
+
+3. Average irrigation hours per day
+
+4. Farmer budget
 
 Prompt 9 – Net-Metering Guide for Urban Homeowners
+
 Backstory:
+
 Urban homeowners in Chennai are increasingly installing rooftop solar panels but are unclear about how net-metering works. Confusion around approvals, metering equipment, and bill adjustments often discourages adoption. The city’s renewable energy society wants a clear, illustrated guide for homeowners that simplifies the process while explaining potential savings.
 
 Goal:
+
 Create a step-by-step net-metering adoption guide for residential solar users.
 
 Prompt:
+
 "You are a solar policy expert. Create an illustrated net-metering adoption guide for Chennai homeowners. Include application procedures, equipment requirements, billing adjustment examples, and troubleshooting tips."
 
 Inputs:
 
-State DISCOM net-metering rules
-Average home electricity consumption
-Rooftop size
-Existing or planned solar capacity
+1. State DISCOM net-metering rules
+
+2. Average home electricity consumption
+
+3. Rooftop size
+
+4. Existing or planned solar capacity
 
 Prompt 10 – Off-Grid Solar for Eco-Resorts
+
 Backstory:
+
 An eco-resort chain in Himachal Pradesh operates in remote areas without reliable grid connectivity. Diesel generators are expensive and harm the brand’s sustainability image. The owners are evaluating off-grid solar with battery storage but are concerned about upfront costs and energy reliability during winter. They want a guide that covers system sizing, battery technology options, seasonal performance, and financing models.
 
 Goal:
+
 Develop an off-grid solar adoption guide for remote eco-resorts.
 
 Prompt:
+
 "You are a hospitality renewable energy planner. Draft an adoption guide for off-grid solar systems with battery storage for eco-resorts in Himachal Pradesh. Include system sizing, battery type comparison (Li-ion vs. lead-acid), seasonal performance optimisation, and financing schemes."
 
 Inputs:
 
-Average daily energy load
-Roof/land space available
-Budget for installation
-Backup system requirements
+1. Average daily energy load
+
+2. Roof/land space available
+
+3. Budget for installation
+
+4. Backup system requirements
 
 Prompt 11 – Solar-Powered Street Lighting for Municipalities
+
 Backstory:
+
 A municipal corporation in Andhra Pradesh is facing high electricity bills for street lighting, particularly in rural wards. They are considering solar-powered streetlights but need a clear guide for technology selection, installation process, and long-term maintenance contracts. They also want to explore smart lighting features for energy savings.
 
 Goal:
+
 Create an adoption guide for solar-powered street lighting in rural municipalities.
 
 Prompt:
+
 "You are an urban infrastructure renewable energy consultant. Create a detailed adoption guide for installing solar-powered streetlights in Andhra Pradesh’s rural wards. Include technology types, smart lighting options, installation best practices, and maintenance contracts."
 
 Inputs:
 
-Number of streetlights planned
-Lighting hours per day
-CSR/government funding availability
-Local vendor options
+1. Number of streetlights planned
+
+2. Lighting hours per day
+
+3. CSR/government funding availability
+
+4. Local vendor options
 
 Prompt 12 – Floating Solar Plants for Water Reservoirs
+
 Backstory:
+
 A state water board in Kerala manages large reservoirs that could host floating solar panels. They are interested in using this space for renewable energy generation without land acquisition issues. The board needs a guide covering feasibility studies, anchoring systems, maintenance, and integration with the grid.
 
 Goal:
+
 Prepare a floating solar adoption guide for state water utilities.
 
 Prompt:
+
 "You are a renewable energy project designer. Develop a floating solar adoption guide for large water reservoirs in Kerala. Include feasibility assessment, panel anchoring systems, maintenance access, and grid integration methods."
 
 Inputs:
 
-Reservoir surface area
-Average sunlight hours
-Grid connection feasibility
-Budget and funding sources
+1. Reservoir surface area
+
+2. Average sunlight hours
+
+3. Grid connection feasibility
+
+4. Budget and funding sources
 
 Prompt 13 – Community Solar Cooperatives
+
 Backstory:
+
 A rural development NGO in Bihar wants to set up solar cooperatives where multiple households invest jointly in a shared solar power system. The NGO needs a guide explaining cooperative formation, cost-sharing models, ownership agreements, and power distribution among members.
 
 Goal:
+
 Create a community solar cooperative adoption guide.
 
 Prompt:
+
 "You are a rural renewable energy strategist. Draft an adoption guide for forming solar cooperatives in Bihar villages. Include cooperative legal structures, investment models, power allocation methods, and maintenance responsibilities."
 
 Inputs:
 
-Number of households in cooperative
-Average household energy needs
-Total budget
-Local governance support
+1. Number of households in cooperative
+
+2. Average household energy needs
+
+3. Total budget
+
+4. Local governance support
 
 Prompt 14 – Battery Storage for Solar Installations
+
 Backstory:
+
 A mid-sized IT firm in Pune has a rooftop solar setup but faces power shortages at night due to lack of storage. They are considering battery backup systems to improve reliability but are confused about technologies, lifespan, and cost-effectiveness. They need a clear adoption guide comparing lithium-ion, lead-acid, and emerging battery options.
 
 Goal:
+
 Create a battery storage adoption guide for commercial solar users.
 
 Prompt:
+
 "You are a solar storage expert. Create a detailed adoption guide for adding battery storage to commercial rooftop solar in Pune. Include technology comparisons, sizing calculations, cost-benefit analysis, and maintenance guidelines."
 
 Inputs:
 
-Current solar capacity
-Night-time energy needs
-Budget for storage
-Backup duration requirement
+1. Current solar capacity
+
+2. Night-time energy needs
+
+3. Budget for storage
+
+4. Backup duration requirement
 
 Prompt 15 – Solar-Powered EV Charging Stations
 Backstory:
