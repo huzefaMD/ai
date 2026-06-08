@@ -531,3 +531,362 @@ Average daily organic waste volume
 Land availability for expansion
 Compost end-use target market
 
+Prompt 6 – School Waste Reduction Program
+Backstory:
+St. Mary’s High School in Nagpur, with over 1,200 students, has been facing issues with overflowing trash bins and high waste disposal costs. Most waste comes from the cafeteria and classrooms, and there is no current segregation policy. The school principal wants to implement a waste reduction and recycling program that engages both students and staff, turning waste management into a part of environmental education. The program should be fun, measurable, and easy to maintain year-round.
+
+Goal:
+Design a school-wide waste reduction and recycling program.
+
+Prompt:
+"You are an educational sustainability consultant. Create a school waste management program for St. Mary’s High School in Nagpur. Include cafeteria food waste composting, classroom recycling stations, monthly student-led awareness drives, and waste reduction competitions. Provide a 12-month implementation plan with tracking metrics."
+
+Inputs:
+
+Number of classrooms
+Waste generation estimate
+Available space for composting
+Budget for awareness activities
+
+Prompt 7 – Market Waste Management for Vendors
+Backstory:
+The central vegetable market in Patna serves over 500 vendors and produces tons of organic waste daily. Most of it is dumped in nearby open areas, causing foul smells and attracting stray animals. The municipal officer in charge wants a vendor-friendly waste management process that ensures organic waste is collected, composted, or sent to a biogas plant. Vendors are willing to cooperate but only if the process is simple and cost-effective.
+
+Goal:
+Develop a market-level waste management process for fresh produce vendors.
+
+Prompt:
+"You are a public market waste management planner. Create a waste segregation and collection process for a 500-vendor vegetable market in Patna. Include on-site collection points, vendor training, composting or biogas processing, and revenue-sharing models from compost sales. Ensure minimal disruption to daily market activities."
+
+Inputs:
+
+Number of vendors
+Daily organic waste volume
+Available processing facilities
+Municipal waste budget allocation
+
+Prompt 8 – Airport Waste Management System
+Backstory:
+A newly operational airport in Goa wants to implement a modern waste management system from day one. Passenger traffic is expected to grow rapidly, bringing a mix of organic waste, packaging materials, and hazardous waste from maintenance areas. The airport director wants a process that ensures quick collection, high segregation rates, and compliance with aviation safety regulations. They also want a public awareness element for passengers.
+
+Goal:
+Design a waste management system for a medium-sized airport.
+
+Prompt:
+"You are an airport operations waste management expert. Create a waste handling process for a mid-sized airport in Goa, including waste type mapping, colour-coded bin placement across terminals, hazardous waste handling for maintenance areas, and passenger awareness campaigns. Include monitoring and audit mechanisms for compliance."
+
+Inputs:
+
+Expected daily passenger footfall
+Waste volume estimates per category
+Available waste storage space
+Budget for infrastructure
+
+Prompt 9 – Festival Waste Management Plan
+Backstory:
+Every year, the Ganesh Chaturthi festival in Mumbai generates massive amounts of waste from decorations, offerings, and single-use plastics. The Brihanmumbai Municipal Corporation wants to implement a proactive waste management plan that works with organisers, local communities, and vendors to minimise waste during the festival. The goal is to combine traditional celebrations with modern environmental responsibility.
+
+Goal:
+Create a large-scale waste management plan for a public festival.
+
+Prompt:
+"You are a public event sustainability planner. Design a waste management plan for the Ganesh Chaturthi festival in Mumbai. Include biodegradable decoration incentives, on-site waste segregation zones, volunteer-led collection drives, and post-festival waste impact reporting. Ensure the plan respects cultural practices while promoting eco-consciousness."
+
+Inputs:
+
+Number of festival venues
+Average daily visitor count
+Waste collection budget
+Local composting/recycling facilities
+
+Prompt 10 – Hotel Chain Waste Minimisation Strategy
+Backstory:
+A luxury hotel chain with properties in Delhi, Jaipur, and Goa wants to achieve a “Zero Landfill” certification within five years. Currently, waste is managed individually at each property, leading to inconsistent practices and poor tracking. The group’s sustainability director wants a standardised process that can be applied across all hotels while maintaining guest satisfaction and brand image.
+
+Goal:
+Develop a standardised waste minimisation process for a hotel chain.
+
+Prompt:
+"You are a hospitality sustainability strategist. Create a standardised waste minimisation and recycling process for a luxury hotel chain. Include guest awareness initiatives, staff training modules, composting for kitchen waste, linen reuse programs, and centralised waste data tracking."
+
+Inputs:
+
+Number of hotels
+Average occupancy rate
+Waste types generated
+Budget for sustainability initiatives
+
+Prompt 11 – E-Waste Collection Drive for College Campuses
+Backstory:
+A youth-led NGO in Hyderabad wants to launch an e-waste collection drive across 10 engineering and arts colleges in the city. The aim is to collect old laptops, chargers, and mobile phones for safe recycling. The NGO needs a process that ensures proper collection, data wiping, and authorised recycling, while also making it a fun, student-driven campaign.
+
+Goal:
+Plan a city-wide e-waste collection campaign for colleges.
+
+Prompt:
+"You are an environmental campaign planner. Design a college e-waste collection drive in Hyderabad. Include campus ambassador programs, secure data destruction protocols, partnerships with certified recyclers, and gamified reward systems for student participation."
+
+Inputs:
+
+Number of participating colleges
+Drive duration
+Expected collection volume
+Budget for marketing and rewards
+
+Prompt 12 – Small Restaurant Waste Management System
+Backstory:
+A family-run restaurant in Kochi serves 150 customers a day and wants to reduce its landfill waste. Most waste comes from food scraps, single-use packaging, and disposable cutlery. The owners are willing to switch to reusable or compostable materials, but they need a simple, low-cost process that works in a small kitchen space.
+
+Goal:
+Create a low-cost waste management process for a small restaurant.
+
+Prompt:
+"You are a restaurant sustainability consultant. Develop a waste management system for a small restaurant in Kochi, including food waste composting, reusable packaging options, vendor partnerships for recycling, and daily waste tracking logs."
+
+Inputs:
+
+Daily customer count
+Current waste disposal method
+Available storage/composting space
+Budget for changes
+
+Prompt 13 – Corporate Office Paperless Transition Plan
+Backstory:
+A large BPO in Gurugram generates massive amounts of paper waste from printing invoices, reports, and onboarding documents. Management wants to transition to a fully paperless office within 18 months to cut costs and improve their sustainability rating. They need a step-by-step plan covering technology adoption, staff training, and process redesign.
+
+Goal:
+Create a paperless office transition plan for a large corporate.
+
+Prompt:
+"You are a digital transformation consultant. Create an 18-month roadmap for a corporate office in Gurugram to go paperless. Include software recommendations, document digitisation workflows, staff training, and change management strategies."
+
+Inputs:
+
+Number of employees
+Current paper usage per month
+Available IT budget
+Preferred document management software
+
+Prompt 14 – Manufacturing Plant Hazardous Waste Protocol
+Backstory:
+A mid-sized chemical manufacturing plant in Gujarat produces paints and coatings for industrial clients. Alongside regular production waste, the plant generates hazardous materials such as solvent residues and chemical sludge. Currently, hazardous waste is stored in makeshift containers until disposal, creating safety and compliance risks. The operations head wants a formal hazardous waste management process that ensures safe handling, storage, and disposal while meeting all environmental regulations. They also want regular employee safety training to reduce accidents.
+
+Goal:
+Develop a compliant hazardous waste management process for a chemical manufacturing plant.
+
+Prompt:
+"You are an industrial waste compliance consultant. Create a hazardous waste management protocol for a paint and coatings plant in Gujarat. Include categorisation of waste streams, safe storage requirements, approved transporter tie-ups, disposal documentation, and staff safety training modules. Ensure compliance with the Hazardous and Other Wastes (Management and Transboundary Movement) Rules, 2016."
+
+Inputs:
+
+Daily hazardous waste volume
+Waste types generated
+Current storage infrastructure
+Local authorised disposal facilities
+
+Prompt 15 – Housing Society Composting Program
+Backstory:
+A gated community in Chennai with 400 apartments produces nearly 300 kg of organic waste daily. Currently, all waste is collected and sent to the municipal dump, leading to foul odours and rodent problems. The residents’ welfare association wants to set up a community composting program to manage wet waste on-site and produce compost for gardening. They also want to involve children and volunteers to ensure it becomes a long-term habit rather than a one-off project.
+
+Goal:
+Create a community composting process for a large residential complex.
+
+Prompt:
+"You are a community waste management planner. Design a composting program for a 400-apartment housing society in Chennai. Include selection of composting technology, segregation enforcement methods, volunteer training, and compost utilisation plans for landscaping or sale."
+
+Inputs:
+
+Number of households
+Available space for composting
+Monthly budget
+Willingness for resident participation
+
+Prompt 16 – Food Processing Unit Waste-to-Energy Plan
+Backstory:
+A large food processing unit in Nashik produces packaged fruit juices for domestic and export markets. The factory generates tons of organic pulp waste daily, which is currently discarded at cost. Management wants to explore converting this waste into biogas for internal use, reducing energy bills and waste disposal expenses. They also want the project to qualify for green certifications that can boost their export appeal.
+
+Goal:
+Design a waste-to-energy conversion plan for a food processing plant.
+
+Prompt:
+"You are an industrial energy consultant. Create a biogas conversion plan for a fruit juice manufacturing plant in Nashik. Include waste preprocessing steps, biogas plant sizing, energy output projections, cost-benefit analysis, and green certification pathways."
+
+Inputs:
+
+Daily organic waste volume
+Energy consumption data
+Land availability for biogas plant
+Budget for installation
+
+Prompt 17 – Shopping Mall Waste Sorting System
+Backstory:
+A popular shopping mall in Noida sees over 20,000 visitors daily and generates large quantities of mixed waste from food courts, retail stores, and events. Currently, waste is sent directly to municipal collection without any sorting, which prevents recycling. The mall management wants an in-house waste sorting facility to increase recycling rates and reduce landfill contributions, while also running public awareness campaigns for shoppers.
+
+Goal:
+Create a mall-wide waste sorting and recycling process.
+
+Prompt:
+"You are a facility management waste consultant. Design an in-house waste sorting system for a shopping mall in Noida. Include waste collection point design, sorting station layout, staffing requirements, vendor tie-ups for recyclables, and shopper awareness activities."
+
+Inputs:
+
+Daily waste volume
+Mall floor plan
+Number of food outlets and stores
+Waste management budget
+
+Prompt 18 – Small Town Plastic Ban Implementation Plan
+Backstory:
+The municipal council of a small town in Kerala has officially banned single-use plastics but is struggling with enforcement. Shops continue to distribute plastic carry bags, and there is little public awareness about alternatives. The council wants a practical implementation plan combining awareness, incentives, and penalties to ensure compliance within six months.
+
+Goal:
+Develop an enforcement and awareness strategy for a municipal plastic ban.
+
+Prompt:
+"You are a public policy waste management advisor. Create a 6-month plastic ban enforcement plan for a small Kerala town. Include retailer education, alternative product promotion, community awareness drives, and fine collection systems. Provide metrics to track compliance progress."
+
+Inputs:
+
+Number of retail shops
+Local population size
+Budget for awareness campaigns
+Availability of plastic alternatives locally
+
+Prompt 19 – Luxury Resort Waste Management Process
+Backstory:
+A luxury eco-resort in the Andaman Islands markets itself as a sustainable destination but still sends a significant portion of waste to mainland disposal facilities. This is expensive and environmentally damaging due to transportation emissions. The resort manager wants a complete waste management process that maximises on-site processing—through composting, recycling, and upcycling—while minimising what needs to be shipped out.
+
+Goal:
+Create a zero-waste process for an island-based luxury resort.
+
+Prompt:
+"You are a hospitality waste systems designer. Develop a complete zero-waste management process for a luxury resort in the Andamans. Include guest engagement programs, on-site composting, recyclable material storage and shipment plans, and partnerships with local artisans for upcycling."
+
+Inputs:
+
+Number of rooms
+Average occupancy rate
+Waste volume estimates by category
+Available land for waste processing
+
+Prompt 20 – Corporate E-Waste Buyback Program
+Backstory:
+A multinational IT company in Bengaluru replaces thousands of laptops and monitors every three years. Currently, the devices are sold through brokers without proper recycling assurance. The company’s CSR head wants to implement a formal e-waste buyback program with certified recyclers, ensuring data security and sustainable disposal. They also want to publicise the program as part of their sustainability report.
+
+Goal:
+Design an e-waste buyback program for a corporate IT company.
+
+Prompt:
+"You are a corporate sustainability consultant. Create a buyback program for decommissioned IT equipment, including secure data wiping, authorised recycler contracts, employee purchase options, and annual reporting formats for CSR purposes."
+
+Inputs:
+
+Number of devices replaced annually
+Data security protocols
+CSR budget allocation
+Preferred recycler criteria
+
+Prompt 21 – Village-Level Waste Management Model
+Backstory:
+A social enterprise in Rajasthan is working to develop model villages for sustainable living. One key challenge is unmanaged waste—most is burned or dumped in open areas. They want to design a decentralised waste collection and composting system that works with minimal infrastructure, creates local jobs, and can be replicated across other villages.
+
+Goal:
+Create a decentralised waste management model for rural villages.
+
+Prompt:
+"You are a rural development waste management expert. Create a low-cost, decentralised waste collection and processing model for a Rajasthan village. Include segregation training, local compost pit construction, recyclable sales channels, and community volunteer engagement."
+
+Inputs:
+
+Village population size
+Available community land
+Waste volume estimates
+Local NGO partnerships
+
+Prompt 22 – Corporate Food Waste Donation Program
+Backstory:
+A large corporate campus in Hyderabad serves thousands of meals daily in its cafeteria. While the food is high quality, large amounts go to waste due to overproduction. The CSR team wants a process to safely collect surplus food and donate it to local NGOs, while ensuring hygiene and compliance with food safety regulations.
+
+Goal:
+Develop a safe and compliant food donation process for a corporate campus.
+
+Prompt:
+"You are a food waste management consultant. Design a surplus food donation process for a corporate campus in Hyderabad. Include real-time tracking of leftovers, safe storage, quick transport to NGOs, and volunteer coordination. Ensure compliance with FSSAI guidelines for food safety."
+
+Inputs:
+
+Number of meals served daily
+Storage and transport capacity
+NGO partners available
+CSR budget
+
+Prompt 23 – Sports Stadium Waste Management Plan
+Backstory:
+A cricket stadium in Ahmedabad with a seating capacity of 50,000 generates massive waste during matches, including food wrappers, cups, and banners. Currently, waste is collected at the end of events and sent directly to landfill. The stadium management wants a plan to manage waste in real time during events, increase recycling, and reduce post-match cleanup costs.
+
+Goal:
+Create a live event waste management plan for a sports stadium.
+
+Prompt:
+"You are a large-event waste logistics planner. Create a waste management system for a 50,000-capacity cricket stadium in Ahmedabad. Include bin placement strategy, waste collection staff deployment, real-time segregation, vendor tie-ups, and fan engagement campaigns."
+
+Inputs:
+
+Event frequency per month
+Waste volume per event
+Staff availability
+Waste management budget
+
+Prompt 24 – Coastal Fishing Village Plastic Waste Plan
+Backstory:
+A fishing community in Tamil Nadu has seen its local beaches littered with plastic from both fishing gear and tourist activity. The village council wants a waste management plan that addresses both marine debris prevention and onshore waste segregation. They also want to involve local youth in the cleanup and recycling process to create jobs.
+
+Goal:
+Design a plastic waste reduction plan for a coastal fishing village.
+
+Prompt:
+"You are a coastal waste management expert. Create a plastic waste reduction plan for a Tamil Nadu fishing village, including gear recycling programs, beach clean-up events, community recycling centres, and partnerships with NGOs for marine debris tracking."
+
+Inputs:
+
+Number of households
+Fishing gear types used
+Local recycling capacity
+Available youth volunteers
+
+Prompt 25 – College Campus Zero-Waste Roadmap
+Backstory:
+A top university in Delhi has pledged to become a zero-waste campus within five years. The administration wants a clear roadmap that covers all waste streams, including hostel food waste, classroom paper waste, and laboratory chemical waste. They want a phased plan that involves students, faculty, and administrative staff in implementation.
+
+Goal:
+Create a 5-year zero-waste roadmap for a large university campus.
+
+Prompt:
+"You are an academic sustainability planner. Develop a zero-waste roadmap for a Delhi university, including waste audits, composting infrastructure, e-waste collection, laboratory waste protocols, and awareness campaigns. Provide phased milestones and KPIs."
+
+Inputs:
+
+Number of students and staff
+Waste volume estimates by category
+Available campus space for waste processing
+Budget allocation for sustainability projects
+
+
+CSR project proposals
+
+Prompt 1 – Renewable Energy Installation for Rural Schools
+Backstory:
+An FMCG company headquartered in Mumbai is looking for impactful CSR projects in renewable energy. The CSR head wants to fund solar panel installations in rural schools across Maharashtra. The objective is to provide uninterrupted electricity for lighting, fans, and basic digital education tools. Currently, many of these schools experience power cuts of 6–8 hours daily, disrupting classes. The proposal must highlight social impact, sustainability benefits, and long-term maintenance plans to ensure the panels remain operational for years.
+
+Goal:
+Draft a CSR project proposal for solar installations in rural schools.
+
+Prompt:
+"You are a CSR project writer specialising in renewable energy. Create a detailed CSR proposal for installing solar panels in rural Maharashtra schools. Include project objectives, beneficiary selection criteria, budget breakdown, impact measurement methods, and long-term maintenance strategies."
+
+Inputs:
+
+Number of schools targeted
+Average student population per school
+CSR budget allocation
+Project timeline
