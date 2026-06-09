@@ -2982,51 +2982,77 @@ Inputs:
 4. Preferred communication style (formal/informal)
 
 Prompt 4 — Performance Review SOP for Remote Teams
+
 Backstory:
+
 Vikram, 35, manages a fully remote development team across India. He finds performance reviews difficult because there’s no in-person rapport and tracking individual contributions is tricky. He wants an SOP that ensures fair, transparent, and growth-oriented reviews without creating anxiety among team members.
 
 Goal:
+
 Standardize the performance review process for remote teams, making it transparent, supportive, and data-driven.
 
 Prompt:
+
 "You are a remote HR policy writer. Create a performance review SOP for a 12-member remote software team. Include:
 
-A quarterly review schedule with deadlines for self-assessments and manager feedback.
-KPIs tailored for remote performance (output quality, collaboration, responsiveness).
-A process for collecting 360-degree peer feedback.
-Templates for review forms.
-Guidelines for delivering feedback constructively over video calls."
+1. A quarterly review schedule with deadlines for self-assessments and manager feedback.
+
+2. KPIs tailored for remote performance (output quality, collaboration, responsiveness).
+
+3. A process for collecting 360-degree peer feedback.
+
+4. Templates for review forms.
+
+5. Guidelines for delivering feedback constructively over video calls."
+
 Inputs:
 
-Team size
-Review frequency
-Key performance metrics
-Feedback channels
+1. Team size
+
+2. Review frequency
+
+3. Key performance metrics
+
+4. Feedback channels
 
 Prompt 5 — Conflict Resolution SOP for Remote Teams
+
 Backstory:
+
 Meera, 30, manages a hybrid marketing team where half the staff work remotely from Mumbai, Delhi, and Ahmedabad. She notices conflicts often get escalated because tone is misinterpreted over text, and there’s no standard way to resolve disagreements. She needs an SOP that helps managers identify, address, and resolve remote team conflicts quickly and respectfully.
 
 Goal:
+
 Create a conflict resolution SOP specifically for remote and hybrid teams to maintain trust and team cohesion.
 
 Prompt:
+
 "You are a workplace conflict management specialist. Write a conflict resolution SOP for a hybrid marketing team of 20 members. Include:
 
-A system for flagging conflicts early.
-Steps for private one-on-one discussions before group escalation.
-Video call etiquette for conflict resolution.
-Guidelines for involving HR when needed.
-A conflict log template for tracking issues and outcomes."
+1. A system for flagging conflicts early.
+
+2. Steps for private one-on-one discussions before group escalation.
+
+3. Video call etiquette for conflict resolution.
+
+4. Guidelines for involving HR when needed.
+
+5. A conflict log template for tracking issues and outcomes."
+
 Inputs:
 
-Team size
-Nature of work (collaborative/individual)
-Preferred conflict resolution style
-HR escalation process
+1. Team size
+
+2. Nature of work (collaborative/individual)
+
+3. Preferred conflict resolution style
+
+4. HR escalation process
 
 Prompt 6 — Task Handoff SOP for Multi-Time Zone Teams
+
 Backstory:
+
 Shreya, 28, works as a project lead at a SaaS company where developers are spread across Bengaluru, Warsaw, and Toronto. Because of the time differences, handoffs often get delayed or incomplete, which causes bottlenecks. She needs an SOP that makes sure task handoffs are seamless, fully documented, and ready for the next person to pick up without confusion.
 
 Goal:
