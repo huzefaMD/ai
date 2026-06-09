@@ -2980,3 +2980,507 @@ Inputs:
 3. Tools in use
 
 4. Preferred communication style (formal/informal)
+
+Prompt 4 — Performance Review SOP for Remote Teams
+Backstory:
+Vikram, 35, manages a fully remote development team across India. He finds performance reviews difficult because there’s no in-person rapport and tracking individual contributions is tricky. He wants an SOP that ensures fair, transparent, and growth-oriented reviews without creating anxiety among team members.
+
+Goal:
+Standardize the performance review process for remote teams, making it transparent, supportive, and data-driven.
+
+Prompt:
+"You are a remote HR policy writer. Create a performance review SOP for a 12-member remote software team. Include:
+
+A quarterly review schedule with deadlines for self-assessments and manager feedback.
+KPIs tailored for remote performance (output quality, collaboration, responsiveness).
+A process for collecting 360-degree peer feedback.
+Templates for review forms.
+Guidelines for delivering feedback constructively over video calls."
+Inputs:
+
+Team size
+Review frequency
+Key performance metrics
+Feedback channels
+
+Prompt 5 — Conflict Resolution SOP for Remote Teams
+Backstory:
+Meera, 30, manages a hybrid marketing team where half the staff work remotely from Mumbai, Delhi, and Ahmedabad. She notices conflicts often get escalated because tone is misinterpreted over text, and there’s no standard way to resolve disagreements. She needs an SOP that helps managers identify, address, and resolve remote team conflicts quickly and respectfully.
+
+Goal:
+Create a conflict resolution SOP specifically for remote and hybrid teams to maintain trust and team cohesion.
+
+Prompt:
+"You are a workplace conflict management specialist. Write a conflict resolution SOP for a hybrid marketing team of 20 members. Include:
+
+A system for flagging conflicts early.
+Steps for private one-on-one discussions before group escalation.
+Video call etiquette for conflict resolution.
+Guidelines for involving HR when needed.
+A conflict log template for tracking issues and outcomes."
+Inputs:
+
+Team size
+Nature of work (collaborative/individual)
+Preferred conflict resolution style
+HR escalation process
+
+Prompt 6 — Task Handoff SOP for Multi-Time Zone Teams
+Backstory:
+Shreya, 28, works as a project lead at a SaaS company where developers are spread across Bengaluru, Warsaw, and Toronto. Because of the time differences, handoffs often get delayed or incomplete, which causes bottlenecks. She needs an SOP that makes sure task handoffs are seamless, fully documented, and ready for the next person to pick up without confusion.
+
+Goal:
+Develop a task handoff SOP that ensures no work stalls due to unclear communication across time zones.
+
+Prompt:
+"You are a remote workflow consultant. Create a task handoff SOP for a SaaS development team across three time zones. The SOP must include:
+
+A standard template for task handoff notes, including current status, pending items, blockers, and next steps.
+Guidelines for recording short Loom or video walkthroughs when handing off complex work.
+A shared folder structure for storing related documentation.
+Time zone–aware scheduling tips to maximize overlap hours.
+A responsibility tracker (e.g., in Notion or Jira) to log each handoff."
+Inputs:
+
+Number of time zones involved
+Task complexity level
+Tools used for documentation
+Overlap hours available
+
+Prompt 7 — Remote Security & Data Access SOP
+Backstory:
+Manish, 31, manages a distributed finance team handling sensitive client data. Employees work from different cities in India, and he’s concerned about security breaches and unauthorized file sharing. He needs an SOP that balances easy access for authorized team members with strong security measures to protect confidential data.
+
+Goal:
+Create a security and data access SOP that ensures safe handling of sensitive files while maintaining productivity.
+
+Prompt:
+"You are a cybersecurity policy writer. Draft a remote security SOP for a distributed finance team. The SOP must:
+
+Define secure login procedures (VPN, MFA).
+Specify approved file-sharing platforms and encryption standards.
+Outline monthly password update rules.
+Include steps for immediate revocation of access for departing employees.
+Add a protocol for reporting suspected breaches within 2 hours."
+Inputs:
+
+Type of data handled
+Security tools in use
+Compliance requirements (e.g., ISO, GDPR)
+Number of employees with access
+
+Prompt 8 — Remote Brainstorming Session SOP
+Backstory:
+Aisha, 27, leads the creative team of an ad agency. Since going remote, brainstorming sessions feel dull, with only a few people speaking while others remain passive. She needs an SOP that turns remote brainstorming into a dynamic, idea-rich, and collaborative process.
+
+Goal:
+Design a remote brainstorming SOP that encourages participation, creativity, and actionable outcomes.
+
+Prompt:
+"You are a creative facilitation expert. Write a remote brainstorming SOP for a 10-person creative team. Include:
+
+Pre-session prep tasks and inspiration decks to be sent 24 hours before.
+A structure for a 60-minute session with icebreakers, breakout rooms, and voting rounds.
+Tools to use (e.g., Miro, MURAL) and access setup steps.
+A rotating facilitator role for each session.
+A follow-up process to turn ideas into project briefs within 48 hours."
+Inputs:
+
+Team size
+Meeting length
+Creative tools available
+Nature of projects
+
+Prompt 9 — Async Project Update SOP
+Backstory:
+Rohit, 30, manages a hybrid product design team that struggles with scheduling live meetings due to different work hours. He wants an SOP that ensures asynchronous project updates are clear, timely, and tracked, so no one is left out of the loop.
+
+Goal:
+Create an asynchronous update SOP to replace unnecessary live meetings and keep projects moving smoothly.
+
+Prompt:
+"You are a remote productivity expert. Create an async update SOP for a product design team. Include:
+
+A standard update format with key milestones, blockers, and next actions.
+Weekly deadlines for posting updates in the shared project board.
+Use of short recorded video updates for visual work.
+Guidelines for tagging relevant stakeholders.
+Archiving rules to keep update history searchable."
+Inputs:
+
+Project type
+Tools for async communication
+Update frequency
+Level of stakeholder involvement
+
+Prompt 10 — Remote Cultural Integration SOP for New Hires
+Backstory:
+Priya, 33, leads HR for a growing startup. While technical onboarding is smooth, new hires often take months to feel connected to the company culture, especially when working remotely. She wants an SOP that speeds up cultural integration through deliberate remote activities.
+
+Goal:
+Create a cultural integration SOP that helps remote employees feel like part of the team quickly.
+
+Prompt:
+"You are an organizational culture consultant. Design a cultural integration SOP for a fully remote startup. Include:
+
+Virtual coffee chats with different team members in the first month.
+A digital ‘culture handbook’ with values, traditions, and team rituals.
+Monthly virtual team-building games.
+An internal social media channel for casual conversations.
+A 60-day culture check-in survey."
+Inputs:
+
+Company values
+Size of team
+Budget for activities
+Available digital tools
+
+Prompt 11 — Remote Leave Management SOP
+Backstory:
+Arjun, 29, runs a content marketing team where members take leave without enough notice, causing delivery delays. He needs a transparent SOP so all leave requests and approvals are tracked and visible without micromanaging.
+
+Goal:
+Build a leave management SOP that ensures fair, clear, and timely leave planning for remote teams.
+
+Prompt:
+"You are an HR process designer. Draft a leave management SOP for a remote content team. Include:
+
+Minimum notice period for leave requests.
+A shared leave calendar visible to all members.
+Steps for arranging coverage during absences.
+Emergency leave protocol.
+Monthly leave report format for managers."
+Inputs:
+
+Team size
+Leave policies (paid/unpaid)
+Coverage options
+Communication tools
+
+Prompt 12 — Remote Mentorship Program SOP
+Backstory:
+Sanya, 26, is an L&D coordinator for a tech company. She wants to launch a mentorship program for remote employees to support career growth and skill development. Without in-person interaction, she needs a structured SOP to make mentorship engaging and impactful.
+
+Goal:
+Create a mentorship program SOP for remote employees to foster skill growth and engagement.
+
+Prompt:
+"You are an employee development strategist. Write a mentorship program SOP for a 100-member remote tech company. Include:
+
+Mentor-mentee matching process.
+Monthly one-on-one meeting schedule.
+Goal-setting templates for mentorship.
+Mid-program feedback loops.
+End-of-program impact assessment."
+Inputs:
+
+Number of participants
+Mentorship goals
+Available mentors
+Duration of program
+
+Prompt 13 — Remote Work Wellness SOP
+Backstory:
+Varun, 34, is a department head who notices remote employees facing burnout from long screen hours. He wants an SOP that encourages wellness habits without feeling forced.
+
+Goal:
+Create a wellness SOP for remote employees that promotes mental and physical health.
+
+Prompt:
+"You are a workplace wellness consultant. Draft a wellness SOP for remote teams. Include:
+
+Weekly optional meditation or yoga sessions.
+Guidelines for regular screen breaks.
+Ergonomic setup recommendations.
+Mental health day policy.
+Wellness challenges with incentives."
+Inputs:
+
+Team size
+Wellness budget
+Available facilitators
+Frequency of sessions
+
+Prompt 14 — Virtual Performance Incentive SOP
+Backstory:
+Deepak, 32, leads a sales team spread across India. He wants a fair SOP for rewarding top performers remotely, with transparent criteria and easy disbursement.
+
+Goal:
+Design an incentive SOP that motivates remote employees without causing resentment.
+
+Prompt:
+"You are a sales performance consultant. Create an incentive SOP for a remote sales team. Include:
+
+Performance tracking metrics.
+Monthly leaderboard format.
+Incentive tiers and rewards.
+Announcement protocols.
+Annual review and recalibration."
+Inputs:
+
+Team size
+KPI metrics
+Incentive budget
+Reward preferences
+
+Prompt 15 — Remote Crisis Management SOP
+Backstory:
+Nidhi, 30, manages customer support for an ed-tech platform. When a sudden platform outage happened, her remote team scrambled without a clear plan. She needs an SOP that outlines exactly what to do during crises.
+
+Goal:
+Create a crisis management SOP for remote teams to handle emergencies smoothly.
+
+Prompt:
+"You are a business continuity expert. Draft a crisis management SOP for a remote support team. Include:
+
+Crisis classification system.
+Immediate communication protocols.
+Escalation matrix.
+Tools and backups to use.
+Post-crisis review process."
+Inputs:
+
+Type of crises expected
+Team structure
+Escalation contacts
+Communication channels
+
+Prompt 16 — Remote Client Handoff SOP for Multi-Department Projects
+Backstory:
+Ritika, 33, works as an account manager in a mid-sized digital agency with remote teams spread across India, Singapore, and Dubai. Her projects involve multiple departments — design, development, content, and client servicing — all working in different time zones and schedules. Whenever a client project moves from one department to another, essential information is often missed, resulting in client dissatisfaction and scope creep. Ritika wants a clear, replicable SOP that outlines exactly how client handoffs between departments should be done in a remote environment, ensuring that all necessary files, instructions, and updates are passed without loss of context. The system also needs to work even if a key person is unavailable due to leave or illness.
+
+Goal:
+Create a remote client handoff SOP that ensures a smooth, fully documented, and accountable transfer of work between departments without any information gaps.
+
+Prompt:
+"You are a remote operations process expert. Develop a Client Handoff SOP for multi-department remote projects that ensures continuity, zero data loss, and accountability. The SOP must include:
+
+Pre-Handoff Checklist — detailing exact documents, files, and notes that must be provided before the handoff is considered complete.
+Communication Protocol — how and where handoff details must be communicated (email, Slack, project management tools) and the standard format to follow.
+Handoff Meeting Guidelines — a short, structured video call or async Loom recording explaining the current status, blockers, and next steps.
+Ownership Tracker — a shared document or dashboard showing who is responsible for which stage of the project post-handoff.
+Fallback Protocol — what happens if the primary point of contact is unavailable, including backup personnel and escalation steps.
+Audit Trail Requirement — a system for recording handoff details for compliance and quality assurance."
+Inputs:
+
+Number of departments involved
+Type of projects handled
+Preferred communication platforms
+File storage tools in use
+Client reporting requirements
+Level of confidentiality and NDA restrictions
+
+Prompt 17 — Remote Knowledge Base Maintenance SOP
+Backstory:
+Kabir, 29, manages a fully remote software support team for an enterprise SaaS product. The team maintains a knowledge base (KB) used by both employees and customers, but updates are inconsistent. Some articles are outdated, others are duplicated, and certain crucial troubleshooting guides are buried deep in folders. Because of this, employees waste time searching for the right answer, and customers get conflicting information. Kabir needs a structured SOP to keep the KB accurate, searchable, and up-to-date, with clear accountability assigned to specific roles in the team.
+
+Goal:
+Develop a knowledge base maintenance SOP that ensures every document is reviewed, updated, and tagged regularly so remote teams can find accurate information quickly.
+
+Prompt:
+"You are a documentation workflow consultant. Write a Knowledge Base Maintenance SOP for a remote SaaS support team. This SOP must include:
+
+Ownership Assignments — define who is responsible for each category/topic.
+Update Frequency Rules — exact timelines for mandatory reviews (e.g., every 90 days).
+Approval Process — workflow for fact-checking and approving changes.
+Version Control Guidelines — how to track and store previous document versions.
+Search Optimization — rules for tags, keywords, and titles to make documents easy to find.
+Retirement Protocol — process for archiving or deleting outdated content.
+Emergency Update Protocol — for urgent changes like security patches or major product updates."
+Inputs:
+
+Size of knowledge base (number of articles)
+Team roles involved in KB maintenance
+KB platform in use (Confluence, Notion, Zendesk)
+Compliance requirements (if any)
+Frequency of major product changes
+
+Prompt 18 — Remote Performance Review SOP
+Backstory:
+Nandita, 31, is the HR manager for a 120-person IT company that went fully remote after the pandemic. While quarterly performance reviews are scheduled, the process is inconsistent across teams. Some managers conduct detailed evaluations, while others send vague feedback emails. Employees feel demotivated and unclear about their growth path. Nandita wants a unified, transparent performance review SOP tailored for remote teams, with guidelines for collecting peer feedback, reviewing goals, and documenting the discussion digitally for easy reference.
+
+Goal:
+Create a remote performance review SOP that standardizes evaluations across the company, promotes growth, and documents progress effectively.
+
+Prompt:
+"You are an HR policy specialist. Create a Performance Review SOP for a remote IT company. The SOP must detail:
+
+Pre-Review Preparation — employee self-assessment templates and manager data-gathering guidelines.
+Review Meeting Structure — step-by-step agenda for a 45–60 minute virtual review.
+Goal-Setting Protocol — setting and documenting SMART goals for the next quarter.
+Feedback Documentation — storing review notes securely in HR systems.
+Peer & Client Feedback Integration — process for gathering and incorporating third-party insights.
+Follow-Up Actions — scheduling check-ins and tracking progress toward goals."
+Inputs:
+
+Review frequency (quarterly/half-yearly)
+Number of employees per manager
+Tools for performance tracking
+Feedback sources (peers, clients, managers)
+Specific KPIs used
+
+Prompt 19 — Remote Onboarding SOP for High-Volume Hiring
+Backstory:
+Sameer, 28, runs talent acquisition for a rapidly scaling ed-tech company. They hire 20–30 new employees per month across sales, operations, and tech roles. Since the team is fully remote, onboarding is done via Zoom calls and shared Google Docs, but the process is chaotic. New hires don’t know where to start, and managers are overwhelmed with repetitive questions. Sameer needs a detailed onboarding SOP that scales for high-volume remote hiring while ensuring every new employee feels welcomed, trained, and productive quickly.
+
+Goal:
+Develop a high-volume remote onboarding SOP that delivers a consistent experience, reduces manager workload, and accelerates new hire productivity.
+
+Prompt:
+"You are an employee experience designer. Draft a High-Volume Remote Onboarding SOP for a fast-growing company. The SOP must include:
+
+Pre-Onboarding Checklist — tools, accounts, and welcome kits sent before Day 1.
+First Week Structure — daily agendas with training sessions, team introductions, and culture orientation.
+Role-Specific Tracks — separate onboarding paths for sales, tech, and ops roles.
+Resource Hub Setup — centralized location for FAQs, guides, and recorded trainings.
+Buddy System Protocol — pairing each new hire with a peer mentor.
+First 90 Days Milestone Map — clear expectations and progress checkpoints."
+Inputs:
+
+Number of hires per month
+Roles being hired
+Onboarding tools available
+Cultural onboarding requirements
+Language preferences for training
+
+Prompt 20 — Remote Meeting Recording & Archiving SOP
+Backstory:
+Aravind, 35, leads operations for a consultancy that conducts multiple remote client calls daily. Often, key decisions made in meetings are forgotten or misremembered, leading to disputes. While they record meetings, the storage is disorganized and retrieval is difficult. Aravind needs a proper SOP that ensures every meeting is recorded, summarized, tagged, and stored in a way that makes it easy to retrieve at any point in the future.
+
+Goal:
+Create a remote meeting recording and archiving SOP that ensures secure, searchable, and easy-to-access meeting history.
+
+Prompt:
+"You are a remote knowledge management specialist. Create a Meeting Recording & Archiving SOP for a consultancy handling multiple daily client calls. The SOP must specify:
+
+Recording Standards — when to record, what tools to use, and consent protocols.
+File Naming Conventions — standardized format with client name, date, and meeting type.
+Storage Structure — folder hierarchy by client, project, and date.
+Meeting Summaries — quick bullet-point notes stored alongside recordings.
+Access Control — who can view/download recordings.
+Archival Policy — retention period and deletion protocols."
+Inputs:
+
+Number of meetings per day
+Storage platform in use (Google Drive, Dropbox, SharePoint)
+Client confidentiality requirements
+Access permissions hierarchy
+File retention policies
+
+Prompt 21 — Remote Escalation & Crisis Management SOP
+Backstory:
+Priya, 34, is the project director of a marketing agency with remote teams in Mumbai, Delhi, and Bengaluru. Recently, a high-profile client campaign almost failed because a critical issue was not escalated on time — team members assumed someone else was handling it. This caused last-minute chaos, unnecessary overtime, and strained client relations. Priya wants a crystal-clear SOP that defines exactly when and how to escalate an issue in a remote setting, who to contact, and how to document actions taken, ensuring no crisis slips through unnoticed.
+
+Goal:
+Create a remote escalation and crisis management SOP that eliminates ambiguity, reduces downtime, and ensures swift coordinated action during emergencies.
+
+Prompt:
+"You are a remote operations strategist. Draft a Crisis Management & Escalation SOP for a distributed marketing agency. This SOP must include:
+
+Escalation Triggers — clear criteria for when an issue qualifies for escalation (e.g., missed deadlines, client dissatisfaction, legal risks).
+Escalation Levels — step-by-step hierarchy of who to contact at each severity level.
+Communication Protocol — approved channels (Slack, Zoom, WhatsApp) and message templates for urgency.
+Incident Documentation — creating a time-stamped log with actions taken and outcomes.
+Post-Mortem Review — a standardized debrief template to capture lessons learned and process improvements.
+Business Continuity Plan — backup steps to keep client work on track during crisis."
+Inputs:
+
+Team size & structure
+Time zones covered
+Communication platforms in use
+Client SLA requirements
+Legal/regulatory compliance needs
+
+Prompt 22 — Remote Time Zone Coordination SOP
+Backstory:
+Aditya, 30, manages a SaaS development team with members in India, Germany, and Canada. Coordinating meetings and deadlines across time zones is a constant headache — some members are forced into late-night calls, and others miss updates entirely. Deadlines are often misunderstood due to different local times. Aditya needs a repeatable SOP to ensure smooth time zone management, minimizing burnout and missed communication.
+
+Goal:
+Create a time zone coordination SOP that standardizes meeting scheduling, deadline setting, and asynchronous communication for global remote teams.
+
+Prompt:
+"You are a global remote workflow consultant. Write a Time Zone Coordination SOP for a SaaS team. Include:
+
+Preferred Working Hours Overlap — guidelines for finding 2–4 hours of common availability.
+Asynchronous Update Protocol — how to structure daily updates for those who can’t attend live meetings.
+Deadline Setting Rules — always specify deadlines in UTC and local time.
+Scheduling Tools Usage — standardized use of tools like World Time Buddy or Google Calendar with time zone conversion enabled.
+Meeting Rotation Policy — rotating inconvenient meeting times fairly across time zones.
+Holiday Awareness System — tracking public holidays for all team regions."
+Inputs:
+
+Team locations and time zones
+Meeting frequency
+Collaboration tools used
+Client-facing vs internal project types
+Flexibility level in work hours
+
+Prompt 23 — Remote Task Handover for Leave & Absence SOP
+Backstory:
+Meera, 32, is a senior content strategist working with a remote editorial team. Every time someone goes on vacation or medical leave, their ongoing work is left in limbo, causing delays and confusion. Meera wants an SOP that ensures smooth task handovers before any planned absence and a clear plan for unplanned absences, so deadlines are met without overloading other team members.
+
+Goal:
+Design a remote task handover SOP that covers both planned and unplanned absences, ensuring work continuity and accountability.
+
+Prompt:
+"You are a workflow process designer. Create a Remote Task Handover SOP for a distributed editorial team. Include:
+
+Pre-Leave Handover Checklist — mandatory status updates, file links, and next-step instructions.
+Emergency Absence Protocol — who gets notified and how work is reassigned.
+Knowledge Transfer Guidelines — short Loom videos or written briefs explaining context.
+Task Tracker Updates — marking ownership changes in project management tools.
+Return-to-Work Briefing — a catch-up process to get the returning employee back up to speed quickly."
+Inputs:
+
+Team size
+Nature of tasks (creative/technical)
+Project management tools in use
+Backup staffing capacity
+Leave policy details
+
+Prompt 24 — Remote Feedback Loop SOP for Continuous Improvement
+Backstory:
+Vikram, 29, is a product lead managing a hybrid engineering team. While feedback is encouraged, most suggestions get lost in chat threads or buried in emails. Team members feel unheard, and the same mistakes repeat across sprints. Vikram wants an SOP to formalize a feedback loop system so that every suggestion, bug report, and improvement idea is logged, reviewed, prioritized, and acted upon — even in a fully remote setup.
+
+Goal:
+Establish a structured feedback loop SOP that ensures continuous improvement in processes, products, and team communication.
+
+Prompt:
+"You are an agile process consultant. Draft a Remote Feedback Loop SOP for a hybrid engineering team. Include:
+
+Feedback Submission Format — standard template with problem, evidence, and suggestion.
+Centralized Logging Tool — using Jira/Trello/Notion to track all feedback items.
+Review Cadence — weekly or sprint-end review meetings for feedback prioritization.
+Action Assignment — clearly documenting who will address each feedback item and by when.
+Tracking Improvements — updating the log once feedback is implemented and sharing results.
+Anonymous Feedback Option — to encourage honesty without fear of backlash."
+Inputs:
+
+Team’s workflow methodology (Agile/Scrum/Kanban)
+Tools used for project tracking
+Feedback review frequency
+Types of feedback encouraged (process, product, culture)
+
+Prompt 25 — Remote Security & Data Protection SOP
+Backstory:
+Rohit, 35, is CTO of a fintech startup working entirely remotely. Given the sensitive nature of financial data, they face strict compliance requirements under Indian IT laws and GDPR for overseas clients. Team members work from personal laptops, coffee shops, and co-working spaces — increasing the risk of security breaches. Rohit needs a robust SOP that ensures maximum data protection while enabling productivity.
+
+Goal:
+Develop a security and data protection SOP for a remote fintech team that prevents breaches, ensures compliance, and promotes safe work habits.
+
+Prompt:
+"You are a cybersecurity policy expert. Write a Remote Security & Data Protection SOP for a fintech startup. Include:
+
+Device Security Requirements — antivirus, encryption, and automatic locking protocols.
+Network Security Rules — mandatory VPN use and restrictions on public Wi-Fi.
+Access Control — least-privilege principle for data access.
+Password & Authentication Guidelines — MFA, rotation schedules, and storage rules.
+Incident Response Plan — what to do in case of a suspected data breach.
+Compliance Checklist — aligning with Indian IT Act, GDPR, and any client-specific policies."
+Inputs:
+
+Compliance frameworks applicable
+Tools for secure file sharing
+Number of remote employees
+Types of sensitive data handled
+Current security infrastructure
