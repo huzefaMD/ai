@@ -2625,3 +2625,116 @@ Topics to be covered
 Duration of mentorship
 Tracking method for progress
 
+Prompt 18 — Sustainability Challenge Month
+Backstory:
+Neha, 26, is part of the employee engagement committee in a Noida-based e-commerce company. She wants to combine team-building with environmental responsibility. She envisions a “Sustainability Challenge Month” where employees earn points for eco-friendly actions — carpooling, using reusable bottles, or planting trees.
+
+Goal:
+Promote environmental consciousness while fostering healthy competition between teams.
+
+Prompt:
+"You are an environmental workplace engagement planner. Create a 4-week ‘Sustainability Challenge’ for 120 employees. The plan should:
+
+List daily and weekly eco-friendly challenges (public transport days, zero-waste lunches).
+Provide a digital leaderboard updated in real time.
+Include a mid-month awareness workshop with an environmental NGO.
+End with awards for ‘Green Champion’ individuals and teams.
+Offer ideas for documenting participation through photos or short write-ups.
+Ensure hybrid participation for both on-site and remote workers."
+Inputs:
+
+Number of teams
+Duration of challenge
+Types of challenges allowed
+Budget for awards
+
+Prompt 19 — Mystery Coffee Chats
+Backstory:
+Ritika, 28, works in HR for a fintech company in Bengaluru. She notices employees tend to network within their own departments, missing opportunities to build wider professional relationships. She wants to introduce “Mystery Coffee Chats” where employees are randomly paired to meet over coffee once a month.
+
+Goal:
+Break silos and encourage casual networking across the company.
+
+Prompt:
+"You are a corporate networking facilitator. Design a 12-month ‘Mystery Coffee Chats’ program for 200 employees. The plan must:
+
+Randomly pair employees from different departments each month using a simple tool.
+Provide conversation starter cards (work and personal life topics).
+Offer coffee vouchers redeemable at the office café or partnered coffee shops.
+Collect feedback on each meeting to refine pairings over time.
+Create a yearly ‘Networking Wall’ showcasing the most interesting cross-department collaborations born from these chats."
+Inputs:
+
+Number of participants
+Meeting frequency
+Budget for vouchers
+Preferred coffee venues
+
+Prompt 20 — ‘Pay It Forward’ Week
+
+Backstory:
+
+Manoj, 33, works in HR for a mid-sized logistics firm in Chennai. He wants to introduce a culture of kindness by encouraging small acts of service among employees. His idea: a “Pay It Forward” week where each person does something thoughtful for a colleague, and that colleague continues the chain.
+
+Goal:
+
+Strengthen trust, empathy, and interpersonal connection in the workplace.
+
+Prompt:
+
+"You are a workplace culture strategist. Design a 1-week ‘Pay It Forward’ program for 60 employees. The plan should:
+
+1. Provide each participant with a card describing the concept and examples of small acts (helping with a task, bringing a snack, leaving an appreciation note).
+
+2. Set rules to ensure inclusivity and no financial burden.
+
+3. Track the chain by having each recipient sign and pass on the card.
+
+4. Share anonymous stories in a weekly newsletter.
+
+5. Conclude with a group reflection session on how the activity impacted morale."
+
+Inputs:
+
+1. Number of participants
+
+2. Duration of activity
+
+3. Examples of allowed acts
+
+4. Tracking method
+
+Prompt 21 — Book Club for Professional & Personal Growth
+
+Backstory:
+
+Priya, 27, is in L&D for a consulting firm in Mumbai. She believes reading is a powerful way to grow both personally and professionally. She wants to start a company-wide book club that covers leadership books, fiction for empathy building, and Indian business case studies.
+
+Goal:
+
+Encourage continuous learning, empathy, and cross-functional discussion through a structured book club.
+
+Prompt:
+
+"You are a workplace learning and engagement consultant. Create a quarterly ‘Workplace Book Club’ program for 50 employees. The plan should:
+
+1. Alternate between professional books and personal development/fiction.
+
+2. Provide discussion guides for each session.
+
+3. Use both physical meetups and online discussion boards.
+
+4. Offer small incentives for completing reading assignments.
+
+5. End each quarter with a summary newsletter featuring member reviews and key takeaways."
+
+Inputs:
+
+1. Number of members
+
+2. Genres to cover
+
+3. Meeting frequency
+
+4. Budget for books/incentives
+
