@@ -783,24 +783,24 @@
 3. Withdrawal records
 ```
 
-Investment portfolio analysis
+# Investment portfolio analysis
 
-Prompt 1 — Diversification Review for a Young Investor
+## Prompt 1 — Diversification Review for a Young Investor
 
-Backstory:
+`Backstory:`
 
-You are assisting a 29-year-old IT professional from Pune who started investing 5 years ago. His portfolio includes a mix of Indian equities, mutual funds, and a small allocation to gold ETFs. With the recent market volatility, he’s unsure if his investments are well-diversified or too concentrated in certain sectors like tech and banking. He wants a clear analysis of his holdings to check if he’s managing risk effectively and how he can rebalance for stability.
+`You are assisting a 29-year-old IT professional from Pune who started investing 5 years ago. His portfolio includes a mix of Indian equities, mutual funds, and a small allocation to gold ETFs. With the recent market volatility, he’s unsure if his investments are well-diversified or too concentrated in certain sectors like tech and banking. He wants a clear analysis of his holdings to check if he’s managing risk effectively and how he can rebalance for stability.`
 
-Goal:
+`Goal:`
 
-Evaluate the diversification of the portfolio and provide sector/asset allocation recommendations.
+`Evaluate the diversification of the portfolio and provide sector/asset allocation recommendations.`
 
-Prompt:
+`Prompt:`
 
-"You are a SEBI-registered investment advisor. Review the investor’s portfolio for diversification across asset classes, sectors, and geographies.
+`"You are a SEBI-registered investment advisor. Review the investor’s portfolio for diversification across asset classes, sectors, and geographies.`
 
-For the given portfolio:
-
+`For the given portfolio:`
+```
 1. Show % allocation by asset class (equity, debt, gold, etc.)
 
 2. Show % allocation by sector within equities
@@ -810,9 +810,9 @@ For the given portfolio:
 4. Recommend rebalancing moves with target % for each category
 
 5. Suggest 2–3 new investment options to improve diversification"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. List of current holdings with quantities and purchase prices
 
 2. Current market values of holdings
@@ -820,23 +820,23 @@ Inputs Required:
 3. Risk tolerance (low, medium, high)
 
 4. Investment horizon (years)
+```
+## Prompt 2 — Mutual Fund Performance Tracker
 
-Prompt 2 — Mutual Fund Performance Tracker
+`Backstory:`
 
-Backstory:
+`You are working with a 32-year-old marketing professional from Delhi who has invested in 8 different mutual funds over the past 3 years. She regularly adds SIP contributions but has never compared their performance against benchmarks or peers. With inflation rising, she wants to know which funds are underperforming and if she should stop or switch her SIPs.`
 
-You are working with a 32-year-old marketing professional from Delhi who has invested in 8 different mutual funds over the past 3 years. She regularly adds SIP contributions but has never compared their performance against benchmarks or peers. With inflation rising, she wants to know which funds are underperforming and if she should stop or switch her SIPs.
+`Goal:`
 
-Goal:
+`Analyze mutual fund performance and recommend corrective actions.`
 
-Analyze mutual fund performance and recommend corrective actions.
+`Prompt:`
 
-Prompt:
+`"You are a mutual fund analyst. Review the investor’s mutual fund portfolio.`
 
-"You are a mutual fund analyst. Review the investor’s mutual fund portfolio.
-
-For each fund: 
-
+`For each fund:`
+```
 1. Compare 1-year, 3-year, and 5-year CAGR against benchmark indices 
 
 2. Check consistency of returns (rolling returns analysis) 
@@ -844,9 +844,9 @@ For each fund:
 3. Flag underperforming funds 
 
 4. Recommend whether to hold, switch, or stop SIPs"
-
-Inputs Required: 
-
+```
+`Inputs Required:` 
+```
 1. Fund names and codes 
 
 2. Number of units and current NAV 
@@ -854,23 +854,23 @@ Inputs Required:
 3. SIP amount and start date for each fund 
 
 4. Benchmark index for each fund
+```
+## Prompt 3 — Risk-Return Analysis of Stock Portfolio
 
-Prompt 3 — Risk-Return Analysis of Stock Portfolio
+`Backstory:`
 
-Backstory:
+`A 26-year-old engineer from Bengaluru started direct stock investing during the pandemic and now holds 15 Indian stocks, mostly in mid-cap companies. His returns look impressive, but he suspects the portfolio is riskier than he can handle, especially as he plans to use the money for a home down payment in 4 years. He wants a clear view of the portfolio’s volatility and whether his returns justify the risks.`
 
-A 26-year-old engineer from Bengaluru started direct stock investing during the pandemic and now holds 15 Indian stocks, mostly in mid-cap companies. His returns look impressive, but he suspects the portfolio is riskier than he can handle, especially as he plans to use the money for a home down payment in 4 years. He wants a clear view of the portfolio’s volatility and whether his returns justify the risks.
+`Goal:`
 
-Goal:
+`Calculate and interpret portfolio risk and return metrics.`
 
-Calculate and interpret portfolio risk and return metrics.
+`Prompt:`
 
-Prompt:
+`"You are an equity research analyst. Analyze the stock portfolio’s historical performance.`
 
-"You are an equity research analyst. Analyze the stock portfolio’s historical performance.
-
-Tasks: 
-
+`Tasks:` 
+```
 1. Calculate annualized return for the portfolio 
 
 2. Compute standard deviation and beta (volatility and market risk) 
@@ -878,9 +878,9 @@ Tasks:
 3. Compare portfolio returns against Nifty 50 
 
 4. Suggest adjustments to align with a moderate risk profile"
-
-Inputs Required: 
-
+```
+`Inputs Required:` 
+```
 1. Stock holdings with purchase dates and prices 
 
 2. Current stock prices 
@@ -888,8 +888,8 @@ Inputs Required:
 3. Historical price data (last 3–5 years) 
 
 4. Risk tolerance
-
-Prompt 4 — Portfolio Stress Test Under Market Crash
+```
+## Prompt 4 — Portfolio Stress Test Under Market Crash
 
 Backstory:
 
