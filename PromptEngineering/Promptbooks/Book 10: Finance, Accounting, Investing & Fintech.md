@@ -891,20 +891,20 @@
 ```
 ## Prompt 4 — Portfolio Stress Test Under Market Crash
 
-Backstory:
+`Backstory:`
 
-You’re working with a 30-year-old business analyst in Hyderabad who has a ₹15 lakh portfolio split between equity mutual funds, large-cap stocks, and REITs. After hearing about the 2020 COVID market crash, he’s anxious about how his portfolio would perform in a sudden 25–30% market fall. He wants to see simulated outcomes and understand if he needs more defensive assets to protect his capital.
+`You’re working with a 30-year-old business analyst in Hyderabad who has a ₹15 lakh portfolio split between equity mutual funds, large-cap stocks, and REITs. After hearing about the 2020 COVID market crash, he’s anxious about how his portfolio would perform in a sudden 25–30% market fall. He wants to see simulated outcomes and understand if he needs more defensive assets to protect his capital.`
 
-Goal:
+`Goal:`
 
-Simulate a portfolio’s performance during a sharp market downturn.
+`Simulate a portfolio’s performance during a sharp market downturn.`
 
-Prompt:
+`Prompt:`
 
-"You are a financial risk analyst. Perform a stress test on the portfolio to model a 30% equity market drop.
+`"You are a financial risk analyst. Perform a stress test on the portfolio to model a 30% equity market drop.`
 
-For the given holdings:
-
+`For the given holdings:`
+```
 1. Apply simulated price drops based on asset correlation to equities
 
 2. Show projected portfolio value post-crash
@@ -912,9 +912,9 @@ For the given holdings:
 3. Estimate time to recover based on historical recovery patterns
 
 4. Recommend defensive reallocations (debt, gold, cash) to reduce drawdown"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Current holdings with market values
 
 2. Asset correlation data
@@ -922,31 +922,31 @@ Inputs Required:
 3. Historical market crash data for relevant indices
 
 4. Risk tolerance level
+```
+## Prompt 5 — SIP Portfolio Future Value Projection
 
-Prompt 5 — SIP Portfolio Future Value Projection
+`Backstory:`
 
-Backstory:
+`A 28-year-old software developer from Pune invests ₹15,000 monthly via SIPs in equity mutual funds and wants to see how much she could accumulate in 15 years. She also wants to check how different return assumptions (8%, 10%, 12%) change the final amount.`
 
-A 28-year-old software developer from Pune invests ₹15,000 monthly via SIPs in equity mutual funds and wants to see how much she could accumulate in 15 years. She also wants to check how different return assumptions (8%, 10%, 12%) change the final amount.
+`Goal:`
 
-Goal:
+`Project future value of an SIP portfolio under multiple return scenarios.`
 
-Project future value of an SIP portfolio under multiple return scenarios.
+`Prompt:`
 
-Prompt:
+`"You are a personal finance planner. Calculate future value of the SIP portfolio under 3 return scenarios (8%, 10%, 12%).`
 
-"You are a personal finance planner. Calculate future value of the SIP portfolio under 3 return scenarios (8%, 10%, 12%).
-
-For each scenario:
-
+`For each scenario:`
+```
 1. Show corpus at year 5, 10, and 15
 
 2. Display total invested vs. total returns
 
 3. Provide a chart showing growth over time"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Monthly SIP amount
 
 2. Number of years for projection
@@ -954,51 +954,52 @@ Inputs Required:
 3. Assumed annual return rates
 
 4. Frequency of compounding
+```
+## Prompt 6 — ESG Portfolio Assessment
 
-Prompt 6 — ESG Portfolio Assessment
+`Backstory:`
 
-Backstory:
+`A 31-year-old HR manager in Mumbai wants her investments to be environmentally and socially responsible. She has a mix of Indian mutual funds, foreign ETFs, and some direct stocks, but isn’t sure how ESG-friendly they are. She wants an evaluation of her portfolio based on ESG scores.`
 
-A 31-year-old HR manager in Mumbai wants her investments to be environmentally and socially responsible. She has a mix of Indian mutual funds, foreign ETFs, and some direct stocks, but isn’t sure how ESG-friendly they are. She wants an evaluation of her portfolio based on ESG scores.
+`Goal:`
 
-Goal:
+`Assess portfolio for ESG compliance and suggest improvements.`
 
-Assess portfolio for ESG compliance and suggest improvements.
+`Prompt:`
 
-Prompt:
+`"You are an ESG investment analyst. Review the portfolio holdings and assign ESG ratings (high, medium, low) using available data.`
 
-"You are an ESG investment analyst. Review the portfolio holdings and assign ESG ratings (high, medium, low) using available data.
-
-For each holding:
-
+`For each holding:`
+```
 1. Show ESG score
 
 2. Highlight major ESG risks (if any)
 
 3. Recommend replacement or additional ESG-friendly investments"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. List of holdings with ticker/codes
 
 2. Source for ESG ratings
 
 3. Minimum ESG score threshold desired
+```
+## Prompt 7 — Portfolio Overlap Analysis
 
-Prompt 7 — Portfolio Overlap Analysis
+`Backstory:`
 
-Backstory:
+`A 25-year-old content creator from Jaipur has invested in 6 mutual funds and suspects they might be holding the same stocks. This could lead to over-concentration in certain companies and reduce diversification benefits. She wants to know the degree of portfolio overlap.`
 
-A 25-year-old content creator from Jaipur has invested in 6 mutual funds and suspects they might be holding the same stocks. This could lead to over-concentration in certain companies and reduce diversification benefits. She wants to know the degree of portfolio overlap.
+`Goal:`
 
-Goal:
+`Identify duplicate stock holdings across multiple funds.`
 
-Identify duplicate stock holdings across multiple funds.
+`Prompt:`
 
-Prompt:
+`"You are a mutual fund data analyst. Perform an overlap analysis across all holdings.`
 
-"You are a mutual fund data analyst. Perform an overlap analysis across all holdings.
-
+```
 Tasks:
 
 1. List all unique stocks held across funds
@@ -1008,29 +1009,29 @@ Tasks:
 3. Highlight any stock with >10% cumulative exposure
 
 4. Recommend alternative funds to reduce duplication"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. List of mutual funds in portfolio
 
 2. Latest fund factsheets or holdings data
+```
+## Prompt 8 — Sector Rotation Strategy Review
 
-Prompt 8 — Sector Rotation Strategy Review
+`Backstory:`
 
-Backstory:
+`A 33-year-old entrepreneur from Delhi actively rotates sectors based on market trends (IT, banking, FMCG). He wants a review of his last 3 years’ performance versus simply staying invested in a broad index.`
 
-A 33-year-old entrepreneur from Delhi actively rotates sectors based on market trends (IT, banking, FMCG). He wants a review of his last 3 years’ performance versus simply staying invested in a broad index.
+`Goal:`
 
-Goal:
+`Evaluate effectiveness of past sector rotation strategy.`
 
-Evaluate effectiveness of past sector rotation strategy.
+`Prompt:`
 
-Prompt:
+`"You are an equity strategist. Compare past sector allocation returns against Nifty 50.`
 
-"You are an equity strategist. Compare past sector allocation returns against Nifty 50.
-
-For each year:
-
+`For each year:`
+```
 1. Show returns from the chosen sectors
 
 2. Show index returns for the same period
@@ -1038,91 +1039,91 @@ For each year:
 3. Calculate alpha generated or lost
 
 4. Suggest whether to continue or adjust sector rotation approach"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Historical sector allocation data
 
 2. Index benchmark data
 
 3. Transaction dates for each rotation
+```
+## Prompt 9 — Asset Allocation Rebalancing Plan
 
-Prompt 9 — Asset Allocation Rebalancing Plan
+`Backstory:`
 
-Backstory:
+`A 29-year-old finance manager in Bengaluru targets 70% equity, 20% debt, and 10% gold allocation. After 2 years of market rallies, his equity allocation has grown to 82%, creating excess exposure to market volatility. He wants a plan to rebalance without triggering large tax liabilities.`
 
-A 29-year-old finance manager in Bengaluru targets 70% equity, 20% debt, and 10% gold allocation. After 2 years of market rallies, his equity allocation has grown to 82%, creating excess exposure to market volatility. He wants a plan to rebalance without triggering large tax liabilities.
+`Goal:`
 
-Goal:
+`Create a tax-efficient rebalancing plan to restore target allocation.`
 
-Create a tax-efficient rebalancing plan to restore target allocation.
+`Prompt:`
 
-Prompt:
+`"You are a portfolio rebalancing advisor. Suggest steps to move from current allocation to target 70/20/10 mix.`
 
-"You are a portfolio rebalancing advisor. Suggest steps to move from current allocation to target 70/20/10 mix.
-
-Include:
-
+`Include:`
+```
 1. Amounts to be shifted between asset classes
 
 2. Priority order for selling assets to minimize tax impact
 
 3. Suggest STP/SWP options if gradual rebalancing is better"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Current portfolio value by asset class
 
 2. Target allocation percentages
 
 3. Tax holding period status for each asset
+```
+## Prompt 10 — Real Estate vs. Equity Portfolio Contribution
 
-Prompt 10 — Real Estate vs. Equity Portfolio Contribution
+`Backstory:`
 
-Backstory:
+`A 34-year-old architect in Ahmedabad has both a rental property and an equity portfolio. He wants to know which investment has contributed more to his net worth over the last 5 years, factoring in rental income, price appreciation, dividends, and capital gains.`
 
-A 34-year-old architect in Ahmedabad has both a rental property and an equity portfolio. He wants to know which investment has contributed more to his net worth over the last 5 years, factoring in rental income, price appreciation, dividends, and capital gains.
+`Goal:`
 
-Goal:
+`Compare performance of real estate and equity holdings.`
 
-Compare performance of real estate and equity holdings.
+`Prompt:`
 
-Prompt:
+`"You are a wealth analyst. Calculate and compare total returns from real estate and equity investments over the given period.`
 
-"You are a wealth analyst. Calculate and compare total returns from real estate and equity investments over the given period.
-
-Include:
-
+`Include:`
+```
 1. Rental income + property appreciation
 
 2. Dividends + capital gains from equities
 
 3. Annualized return % for each asset type"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Purchase price and date for property
 
 2. Rental income records
 
 3. Equity portfolio transaction history
+```
+## Prompt 11 — Dividend Income Forecast
 
-Prompt 11 — Dividend Income Forecast
+`Backstory:`
 
-Backstory:
+`A 28-year-old marketing executive from Chennai has gradually built a portfolio of dividend-paying stocks and REITs worth ₹8 lakhs. She enjoys receiving passive income but has no clear estimate of how much she can expect over the next 12 months. She wants a forecast that accounts for past dividend trends, announced payouts, and possible changes due to market conditions.`
 
-A 28-year-old marketing executive from Chennai has gradually built a portfolio of dividend-paying stocks and REITs worth ₹8 lakhs. She enjoys receiving passive income but has no clear estimate of how much she can expect over the next 12 months. She wants a forecast that accounts for past dividend trends, announced payouts, and possible changes due to market conditions.
+`Goal:`
 
-Goal:
+`Project the expected annual dividend income and payout schedule.`
 
-Project the expected annual dividend income and payout schedule.
+`Prompt:`
 
-Prompt:
+`"You are an equity income analyst. Forecast dividend income for the portfolio.`
 
-"You are an equity income analyst. Forecast dividend income for the portfolio.
-
-Include:
-
+`Include:`
+```
 1. Estimated annual payout for each holding based on historical yield and declared dividends
 
 2. Expected payout dates
@@ -1130,99 +1131,99 @@ Include:
 3. Total annual dividend income in INR
 
 4. Dividend yield of the entire portfolio"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. List of holdings with quantities
 
 2. Historical dividend data for each holding
 
 3. Corporate announcements of upcoming dividends
+```
+## Prompt 12 — Inflation-Adjusted Return Analysis
 
-Prompt 12 — Inflation-Adjusted Return Analysis
+`Backstory:`
 
-Backstory:
+`A 31-year-old product manager in Noida is proud of his portfolio returns but realizes inflation might be eroding real gains. Over the last 5 years, his equity and debt investments have earned an average of 9% annually, but inflation averaged around 6%. He wants to see his real returns to evaluate true wealth growth.`
 
-A 31-year-old product manager in Noida is proud of his portfolio returns but realizes inflation might be eroding real gains. Over the last 5 years, his equity and debt investments have earned an average of 9% annually, but inflation averaged around 6%. He wants to see his real returns to evaluate true wealth growth.
+`Goal:`
 
-Goal:
+`Calculate portfolio returns adjusted for inflation.`
 
-Calculate portfolio returns adjusted for inflation.
+`Prompt:`
 
-Prompt:
+`"You are a financial analyst. Calculate the portfolio’s real annualized return over the given period.`
 
-"You are a financial analyst. Calculate the portfolio’s real annualized return over the given period.
-
-Steps:
-
+`Steps:`
+```
 1. Calculate nominal returns
 
 2. Subtract average annual inflation to get real returns
 
 3. Show real vs. nominal return graph over time"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Historical portfolio value by year
 
 2. Inflation rate per year (CPI)
 
 3. Investment start and end dates
+```
+## Prompt 13 — Portfolio Liquidity Assessment
 
-Prompt 13 — Portfolio Liquidity Assessment
+`Backstory:`
 
-Backstory:
+`A 25-year-old MBA student in Mumbai holds a mix of PPF, EPF, equity mutual funds, and NPS. She plans to start her own business in 3 years and needs to know how quickly she can liquidate her investments if required.`
 
-A 25-year-old MBA student in Mumbai holds a mix of PPF, EPF, equity mutual funds, and NPS. She plans to start her own business in 3 years and needs to know how quickly she can liquidate her investments if required.
+`Goal:`
 
-Goal:
+`Evaluate liquidity of each investment in the portfolio.`
 
-Evaluate liquidity of each investment in the portfolio.
+`Prompt:`
 
-Prompt:
+`"You are a wealth planner. Assess liquidity for each portfolio component.`
 
-"You are a wealth planner. Assess liquidity for each portfolio component.
-
-For each holding:
-
+`For each holding:`
+```
 1. Indicate lock-in period (if any)
 
 2. Estimate time to convert to cash
 
 3. Highlight any penalties for early withdrawal"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Full list of investments with start dates
 
 2. Applicable lock-in rules
 
 3. Withdrawal penalties or restrictions
+```
+## Prompt 14 — SIP Step-Up Impact Analysis
 
-Prompt 14 — SIP Step-Up Impact Analysis
+`Backstory:`
 
-Backstory:
+`A 27-year-old banker in Kolkata invests ₹10,000/month in SIPs and plans to increase contributions by 10% each year as his salary grows. He wants to know the impact of this step-up strategy over 20 years compared to keeping SIP amounts fixed.`
 
-A 27-year-old banker in Kolkata invests ₹10,000/month in SIPs and plans to increase contributions by 10% each year as his salary grows. He wants to know the impact of this step-up strategy over 20 years compared to keeping SIP amounts fixed.
+`Goal:`
 
-Goal:
+`Project future value of step-up SIP strategy.`
 
-Project future value of step-up SIP strategy.
+`Prompt:`
 
-Prompt:
+`"You are a mutual fund planner. Compare corpus from a fixed SIP vs. 10% annual step-up SIP over 20 years.`
 
-"You are a mutual fund planner. Compare corpus from a fixed SIP vs. 10% annual step-up SIP over 20 years.
-
-Show:
-
+`Show:`
+```
 1. Year-wise contribution and total corpus for both methods
 
 2. Additional returns generated by step-up strategy
 
 3. Chart comparing growth curves"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Base SIP amount
 
 2. Step-up percentage per year
@@ -1230,51 +1231,52 @@ Inputs Required:
 3. Investment duration
 
 4. Expected return rate
+```
+## Prompt 15 — Currency Risk Analysis for Global Investments
 
-Prompt 15 — Currency Risk Analysis for Global Investments
+`Backstory:`
 
-Backstory:
+`A 34-year-old fashion designer from Delhi has invested in US ETFs and global mutual funds. She’s concerned about the effect of INR depreciation on her returns, especially as she plans to use the funds in India.`
 
-A 34-year-old fashion designer from Delhi has invested in US ETFs and global mutual funds. She’s concerned about the effect of INR depreciation on her returns, especially as she plans to use the funds in India.
+`Goal:`
 
-Goal:
+`Assess portfolio’s currency risk exposure.`
 
-Assess portfolio’s currency risk exposure.
+`Prompt:`
 
-Prompt:
+`"You are a forex investment analyst. Analyze currency risk for global holdings.`
 
-"You are a forex investment analyst. Analyze currency risk for global holdings.
-
-Include:
-
+`Include:`
+```
 1. Historical INR vs. USD exchange rate trends
 
 2. Effect of currency changes on returns
 
 3. Hedging strategies to reduce risk"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. List of global holdings with currencies
 
 2. Purchase and current values in foreign currency
 
 3. Historical exchange rate data
+```
+## Prompt 16 — Tax Efficiency Analysis
 
-Prompt 16 — Tax Efficiency Analysis
+`Backstory:`
 
-Backstory:
+`A 30-year-old chartered accountant in Ahmedabad has investments in equities, debt funds, and FDs. He wants to understand how much tax he is paying on his returns and whether he can improve post-tax gains through tax-efficient instruments.`
 
-A 30-year-old chartered accountant in Ahmedabad has investments in equities, debt funds, and FDs. He wants to understand how much tax he is paying on his returns and whether he can improve post-tax gains through tax-efficient instruments.
+`Goal:`
 
-Goal:
+`Analyze portfolio for tax efficiency and suggest improvements.`
 
-Analyze portfolio for tax efficiency and suggest improvements.
+`Prompt:`
 
-Prompt:
+`"You are a tax-focused investment advisor. Review portfolio returns and tax impact.`
 
-"You are a tax-focused investment advisor. Review portfolio returns and tax impact.
-
+```
 Tasks:
 
 1. Calculate post-tax returns for each asset
@@ -1282,15 +1284,15 @@ Tasks:
 2. Identify tax-inefficient holdings
 
 3. Suggest alternative instruments with better after-tax yields"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Investment type, holding period, returns
 
 2. Applicable tax rates for each asset
 
 3. Tax-saving preferences (ELSS, PPF, etc.)
-
+```
 Prompt 17 — Historical Drawdown Analysis
 
 Backstory:
