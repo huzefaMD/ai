@@ -1558,24 +1558,24 @@ Tasks:
 3. Annual transaction history
 ```
 
-Tax planning & GST compliance
+# Tax planning & GST compliance
 
-Prompt 1 — Annual Tax Saving Plan for Salaried Employee
+## Prompt 1 — Annual Tax Saving Plan for Salaried Employee
 
-Backstory:
+`Backstory:`
 
-You are working with a 29-year-old software engineer from Bengaluru earning ₹14 LPA. His salary structure includes HRA, special allowance, and performance bonuses. While he has an EPF contribution, he has not fully utilized deductions under Section 80C, 80D, or other available exemptions. He wants a complete annual tax-saving plan that minimizes his liability without risky investments.
+`You are working with a 29-year-old software engineer from Bengaluru earning ₹14 LPA. His salary structure includes HRA, special allowance, and performance bonuses. While he has an EPF contribution, he has not fully utilized deductions under Section 80C, 80D, or other available exemptions. He wants a complete annual tax-saving plan that minimizes his liability without risky investments.`
 
-Goal:
+`Goal:`
 
-Prepare a personalized tax-saving plan using legal deductions and exemptions.
+`Prepare a personalized tax-saving plan using legal deductions and exemptions.`
 
-Prompt:
+`Prompt:`
 
-"You are a tax consultant. Design a 12-month tax-saving plan for a salaried professional.
+`"You are a tax consultant. Design a 12-month tax-saving plan for a salaried professional.`
 
-For the given salary structure:
-
+`For the given salary structure:`
+```
 1. Identify applicable deductions (80C, 80D, 80G, etc.)
 
 2. Suggest investment options to fully utilize exemptions
@@ -1583,9 +1583,9 @@ For the given salary structure:
 3. Show estimated taxable income after deductions
 
 4. Provide month-by-month investment schedule"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Salary breakup with allowances
 
 2. Current investments and insurance premiums
@@ -1593,23 +1593,23 @@ Inputs Required:
 3. Medical expenses and dependent details
 
 4. Preferred risk level for investments
+```
+## Prompt 2 — GST Return Filing Checklist
 
-Prompt 2 — GST Return Filing Checklist
+`Backstory:`
 
-Backstory:
+`A 32-year-old small business owner in Jaipur runs a boutique selling clothes both offline and through Instagram. She is GST registered and files monthly returns but often misses claiming input tax credit because invoices aren’t matched in GSTR-2B. She needs a clear pre-filing checklist to avoid errors.`
 
-A 32-year-old small business owner in Jaipur runs a boutique selling clothes both offline and through Instagram. She is GST registered and files monthly returns but often misses claiming input tax credit because invoices aren’t matched in GSTR-2B. She needs a clear pre-filing checklist to avoid errors.
+`Goal:`
 
-Goal:
+`Create a step-by-step GST return filing checklist.`
 
-Create a step-by-step GST return filing checklist.
+`Prompt:`
 
-Prompt:
+`"You are a GST compliance expert. Create a checklist for accurate monthly GST return filing.`
 
-"You are a GST compliance expert. Create a checklist for accurate monthly GST return filing.
-
-Include:
-
+`Include:`
+```
 1. Verifying sales invoices and GSTIN
 
 2. Matching purchase invoices for ITC claims
@@ -1617,9 +1617,9 @@ Include:
 3. Reconciling GSTR-1, GSTR-2B, and books of accounts
 
 4. Reviewing late fees and interest applicability"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. GSTIN of the business
 
 2. Sales and purchase invoice lists
@@ -1627,31 +1627,31 @@ Inputs Required:
 3. GST filing frequency (monthly/quarterly)
 
 4. Accounting software used
+```
+## Prompt 3 — Advance Tax Calculation for Freelancers
 
-Prompt 3 — Advance Tax Calculation for Freelancers
+`Backstory:`
 
-Backstory:
+`A 27-year-old freelance content writer from Pune earns income from Indian clients via UPI/bank transfers and foreign clients via PayPal. Her income is irregular, and she often forgets to pay advance tax, leading to penalties. She wants a quarterly advance tax calculation plan based on estimated earnings.`
 
-A 27-year-old freelance content writer from Pune earns income from Indian clients via UPI/bank transfers and foreign clients via PayPal. Her income is irregular, and she often forgets to pay advance tax, leading to penalties. She wants a quarterly advance tax calculation plan based on estimated earnings.
+`Goal:`
 
-Goal:
+`Prepare an advance tax schedule with payment amounts and due dates.`
 
-Prepare an advance tax schedule with payment amounts and due dates.
+`Prompt:`
 
-Prompt:
+`"You are a tax advisor. Calculate quarterly advance tax amounts for a freelancer based on projected income.`
 
-"You are a tax advisor. Calculate quarterly advance tax amounts for a freelancer based on projected income.
-
-For each quarter: 
-
+`For each quarter: `
+```
 1. Show estimated tax liability 
 
 2. Deduct TDS already paid by clients 
 
 3. Provide payment challan details and due dates"
-
-Inputs Required: 
-
+```
+`Inputs Required: `
+```
 1. Estimated annual income split by quarter 
 
 2. Applicable deductions under 80C/80D 
@@ -1659,23 +1659,23 @@ Inputs Required:
 3. TDS certificates received 
 
 4. Previous year’s tax rate slab
+```
+## Prompt 4 — Comparing Old vs. New Tax Regime
 
-Prompt 4 — Comparing Old vs. New Tax Regime
+`Backstory:`
 
-Backstory:
+`A 30-year-old corporate lawyer in Delhi earns ₹22 LPA and has investments in ELSS, NPS, and life insurance. With the government’s introduction of the new tax regime, she is unsure which structure would save her more money. She wants a side-by-side comparison of her tax liability under both regimes, considering all exemptions and deductions she is eligible for.`
 
-A 30-year-old corporate lawyer in Delhi earns ₹22 LPA and has investments in ELSS, NPS, and life insurance. With the government’s introduction of the new tax regime, she is unsure which structure would save her more money. She wants a side-by-side comparison of her tax liability under both regimes, considering all exemptions and deductions she is eligible for.
+`Goal:`
 
-Goal:
+`Help choose between old and new tax regimes for maximum savings.`
 
-Help choose between old and new tax regimes for maximum savings.
+`Prompt:`
 
-Prompt:
+`"You are a tax planner. Compare the old and new tax regimes for the given income and deductions.`
 
-"You are a tax planner. Compare the old and new tax regimes for the given income and deductions.
-
-Include: 
-
+`Include: `
+```
 1. Gross taxable income under each regime 
 
 2. Deductions allowed 
@@ -1683,9 +1683,9 @@ Include:
 3. Final tax payable under both 
 
 4. Clear recommendation with reason"
-
-Inputs Required: 
-
+```
+`Inputs Required: `
+```
 1. Salary breakup and other income sources 
 
 2. List of deductions claimed (80C, 80D, 80G, HRA, etc.) 
@@ -1693,23 +1693,23 @@ Inputs Required:
 3. Age and residential status 
 
 4. Expected annual income for the year
+```
+## Prompt 5 — GST Input Tax Credit Maximization Plan
 
-Prompt 5 — GST Input Tax Credit Maximization Plan
+`Backstory:`
 
-Backstory:
+`A 28-year-old e-commerce seller from Surat is GST registered but claims less ITC than possible because many supplier invoices are missing or not GST compliant. She wants a system to track and maximize ITC every month.`
 
-A 28-year-old e-commerce seller from Surat is GST registered but claims less ITC than possible because many supplier invoices are missing or not GST compliant. She wants a system to track and maximize ITC every month.
+`Goal:`
 
-Goal:
+`Create a process to ensure maximum GST ITC claim.`
 
-Create a process to ensure maximum GST ITC claim.
+`Prompt:`
 
-Prompt:
+`"You are a GST specialist. Create a monthly ITC maximization plan.`
 
-"You are a GST specialist. Create a monthly ITC maximization plan.
-
-Include:
-
+`Include:`
+```
 1. Checking supplier GST compliance
 
 2. Matching GSTR-2B with purchase register
@@ -1717,39 +1717,39 @@ Include:
 3. Following up on missing invoices
 
 4. Avoiding blocked credit categories"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Supplier list with GSTINs
 
 2. Purchase register
 
 3. Current ITC claimed vs. eligible ITC
+```
+## Prompt 6 — HRA Exemption Calculator
 
-Prompt 6 — HRA Exemption Calculator
+`Backstory:`
 
-Backstory:
+`A 27-year-old IT professional in Bengaluru pays ₹25,000/month in rent but is unsure if she is claiming the correct HRA exemption. She wants an accurate exemption calculation considering her basic salary, DA, and metro city status.`
 
-A 27-year-old IT professional in Bengaluru pays ₹25,000/month in rent but is unsure if she is claiming the correct HRA exemption. She wants an accurate exemption calculation considering her basic salary, DA, and metro city status.
+`Goal:`
 
-Goal:
+`Calculate maximum allowable HRA exemption.`
 
-Calculate maximum allowable HRA exemption.
+`Prompt:`
 
-Prompt:
+`"You are a payroll tax expert. Calculate HRA exemption as per Section 10(13A).`
 
-"You are a payroll tax expert. Calculate HRA exemption as per Section 10(13A).
-
-Consider:
-
+`Consider:`
+```
 1. Actual HRA received
 
 2. Rent paid – 10% of basic + DA
 
 3. 50% of basic + DA (metro city)"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Monthly basic salary and DA
 
 2. Monthly rent paid
@@ -1757,52 +1757,52 @@ Inputs Required:
 3. City type (metro/non-metro)
 
 4. Actual HRA received per month
+```
+## Prompt 7 — Late GST Filing Penalty Estimator
 
-Prompt 7 — Late GST Filing Penalty Estimator
+`Backstory:`
 
-Backstory:
+`A 33-year-old small business owner in Kolkata missed filing GSTR-3B for two months due to personal emergencies. She wants to know the exact late fee and interest payable before filing.`
 
-A 33-year-old small business owner in Kolkata missed filing GSTR-3B for two months due to personal emergencies. She wants to know the exact late fee and interest payable before filing.
+`Goal:`
 
-Goal:
+`Calculate GST late fee and interest charges.`
 
-Calculate GST late fee and interest charges.
+`Prompt:`
 
-Prompt:
+`"You are a GST compliance calculator. Estimate late fees and interest for delayed GSTR-3B filing.`
 
-"You are a GST compliance calculator. Estimate late fees and interest for delayed GSTR-3B filing.
-
-Include:
-
+`Include:`
+```
 1. Late fee per day (CGST + SGST)
 
 2. Interest on net tax liability
 
 3. Total payable amount"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Filing frequency (monthly/quarterly)
 
 2. Number of days delayed
 
 3. Net tax liability for each month
+```
+## Prompt 8 — Freelance Income Tax Filing Template
 
-Prompt 8 — Freelance Income Tax Filing Template
+`Backstory:`
 
-Backstory:
+`A 26-year-old freelance videographer in Mumbai earns from both Indian and international clients. She needs a simple, pre-filled Excel template to record her earnings, expenses, TDS, and foreign remittances to make ITR filing easier.`
 
-A 26-year-old freelance videographer in Mumbai earns from both Indian and international clients. She needs a simple, pre-filled Excel template to record her earnings, expenses, TDS, and foreign remittances to make ITR filing easier.
+`Goal:`
+`Create a ready-to-use income tax filing template for freelancers.`
 
-Goal:
-Create a ready-to-use income tax filing template for freelancers.
+`Prompt:`
 
-Prompt:
+`"You are a tax documentation expert. Create an Excel template for freelance income tax filing.`
 
-"You are a tax documentation expert. Create an Excel template for freelance income tax filing.
-
-Include:
-
+`Include:`
+```
 1. Client name and country
 
 2. Invoice amount and payment date
@@ -1812,15 +1812,15 @@ Include:
 4. Expenses with category
 
 5. Net taxable income"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Nature of freelance work
 
 2. Usual expense categories
 
 3. Average number of invoices per month
-
+```
 Prompt 9 — GST E-invoice Implementation Guide
 
 Backstory:
