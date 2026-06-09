@@ -2968,113 +2968,172 @@ Inputs:
 Prompt 8 — CSR Volunteering Day
 
 Backstory:
+
 Deepak, 34, is the CSR lead at a manufacturing company in Gujarat. He wants employees to feel more connected to the company’s values by participating in a hands-on volunteering day. His challenge is to make it enjoyable and impactful, rather than just another formality.
 
 Goal:
+
 Plan a corporate volunteering day that blends social impact with team bonding.
 
 Prompt:
+
 "You are a CSR engagement strategist. Create a 1-day corporate volunteering plan for 100 employees. The plan should:
 
-Partner with local NGOs.
-Include team-based activities (tree plantation, skill workshops for underprivileged youth).
-Provide branded volunteer T-shirts and refreshments.
-End with a reflection session to discuss learnings.
+1. Partner with local NGOs.
+
+2. Include team-based activities (tree plantation, skill workshops for underprivileged youth).
+
+3. Provide branded volunteer T-shirts and refreshments.
+
+4. End with a reflection session to discuss learnings.
+
 Ensure the plan aligns with the company’s sustainability goals."
+
 Inputs:
 
-Number of volunteers
-Cause/theme of volunteering
-Location options
-Budget limit
+1. Number of volunteers
+
+2. Cause/theme of volunteering
+
+3. Location options
+
+4. Budget limit
 
 Prompt 9 — Monthly Recognition Wall
+
 Backstory:
+
 Tanvi, 26, is an HR associate in a mid-size marketing firm in Delhi. While the company gives annual awards, she notices employees crave more frequent recognition. She wants a visible and interactive way to celebrate small wins every month.
 
 Goal:
+
 Create a recognition system that is public, interactive, and ongoing throughout the year.
 
 Prompt:
+
 "You are a workplace culture consultant. Design a ‘Monthly Recognition Wall’ program for a company of 80 employees. The program should:
 
-Allow employees to nominate peers for contributions.
-Display nominations physically in the office and virtually for remote workers.
-Feature rotating monthly themes (e.g., Teamwork Star, Innovation Hero).
-Include a small monthly reward for top-voted employees.
+1. Allow employees to nominate peers for contributions.
+
+2. Display nominations physically in the office and virtually for remote workers.
+
+3. Feature rotating monthly themes (e.g., Teamwork Star, Innovation Hero).
+
+4. Include a small monthly reward for top-voted employees.
+
 Keep it budget-friendly and easy to maintain."
+
 Inputs:
 
-Number of employees
-Recognition categories
-Budget per month
-Display method (physical, digital, hybrid)
+1. Number of employees
+
+2. Recognition categories
+
+3. Budget per month
+
+4. Display method (physical, digital, hybrid)
 
 Prompt 10 — Department Swap Day
+
 Backstory:
+
 Amit, 29, works at a large logistics company in Mumbai. Employees often don’t understand what other departments do, leading to miscommunication. Amit wants to introduce a “Department Swap Day” where employees experience a different role for a few hours.
 
 Goal:
+
 Encourage cross-functional understanding through a fun, role-swapping activity.
 
 Prompt:
+
 "You are a team culture facilitator. Create a ‘Department Swap Day’ plan for 50 employees across 5 departments. The plan should:
 
-Match employees with complementary roles.
-Include a guided observation period and a task simulation.
-Allow a post-activity discussion to share learnings.
-Provide a participation certificate for everyone.
+1. Match employees with complementary roles.
+
+2. Include a guided observation period and a task simulation.
+
+3. Allow a post-activity discussion to share learnings.
+
+4. Provide a participation certificate for everyone.
+
 Ensure no critical operations are disrupted."
+
 Inputs:
 
-Number of employees
-Departments involved
-Duration of swap
-Type of roles
+1. Number of employees
+
+2. Departments involved
+
+3. Duration of swap
+
+4. Type of roles
 
 Prompt 11 — Innovation Pitch Day
+
 Backstory:
+
 Riya, 31, heads the innovation committee at a healthcare start-up in Chennai. She wants employees to feel empowered to share new ideas without fear of rejection. She decides to host a fun “Pitch Day” where anyone can present a business improvement idea.
 
 Goal:
+
 Create a non-intimidating platform for employees to pitch creative ideas.
 
 Prompt:
+
 "You are a workplace innovation coach. Design a quarterly ‘Innovation Pitch Day’ for 70 employees. The plan should:
 
-Provide idea submission guidelines.
-Offer a short presentation slot for each participant.
-Use a friendly voting system with small prizes.
-Commit to implementing at least one winning idea each quarter.
+1. Provide idea submission guidelines.
+
+2. Offer a short presentation slot for each participant.
+
+3. Use a friendly voting system with small prizes.
+
+4. Commit to implementing at least one winning idea each quarter.
+
 Keep it casual, inspiring, and supportive."
+
 Inputs:
 
-Number of participants
-Type of ideas allowed (product, process, culture)
-Duration of pitches
-Budget for prizes
+1. Number of participants
+
+2. Type of ideas allowed (product, process, culture)
+
+3. Duration of pitches
+
+4. Budget for prizes
 
 Prompt 12 — Fun Friday Game Hour
+
 Backstory:
+
 Vikram, 25, is the youngest member of HR at a retail company in Kolkata. He believes ending the week with lighthearted fun can improve morale. He wants to host a recurring “Fun Friday” game session.
 
 Goal:
+
 Boost morale and social connection through regular, casual game sessions.
 
 Prompt:
+
 "You are a team engagement planner. Create a ‘Fun Friday’ schedule for a company of 40 employees. The plan should:
 
-Alternate between online and offline games.
-Include team-based challenges.
-Keep sessions under 1 hour.
-Maintain a scoreboard for ongoing friendly competition.
+1. Alternate between online and offline games.
+
+2. Include team-based challenges.
+
+3. Keep sessions under 1 hour.
+
+4. Maintain a scoreboard for ongoing friendly competition.
+
 Ensure games are inclusive and require no special skills."
+
 Inputs:
 
-Number of employees
-Game type preference (online/offline)
-Frequency of sessions
-Budget for prizes
+1. Number of employees
+
+2. Game type preference (online/offline)
+
+3. Frequency of sessions
+
+4. Budget for prizes
 
 Prompt 13 — Pet Day at Work
 Backstory:
