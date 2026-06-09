@@ -1,21 +1,21 @@
-Helpdesk FAQ creation
+# Helpdesk FAQ creation
 
-Prompt 1 — E-commerce Return & Refund FAQ
+## Prompt 1 — E-commerce Return & Refund FAQ
 
-Backstory:
+`Backstory:`
 
-A 27-year-old operations manager at a Delhi-based online fashion store is struggling with repetitive queries about returns and refunds. Customers often get frustrated because they can’t find clear answers on the website, leading to unnecessary calls to customer care. She wants a comprehensive FAQ page that explains timelines, conditions, and refund modes in plain English and Hindi.
+`A 27-year-old operations manager at a Delhi-based online fashion store is struggling with repetitive queries about returns and refunds. Customers often get frustrated because they can’t find clear answers on the website, leading to unnecessary calls to customer care. She wants a comprehensive FAQ page that explains timelines, conditions, and refund modes in plain English and Hindi.`
 
-Goal:
+`Goal:`
 
-Create a customer-friendly FAQ for returns and refunds.
+`Create a customer-friendly FAQ for returns and refunds.`
 
-Prompt:
+`Prompt:`
 
-"You are an e-commerce helpdesk content specialist. Create a bilingual (English + Hindi) FAQ section for returns and refunds.
+`"You are an e-commerce helpdesk content specialist. Create a bilingual (English + Hindi) FAQ section for returns and refunds.`
 
-Include:
-
+`Include:`
+```
 1. Return eligibility criteria
 
 2. Step-by-step return request process
@@ -23,9 +23,9 @@ Include:
 3. Refund timeline and mode of refund
 
 4. Common exceptions (e.g., clearance items)
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Return policy document
 
 2. Refund timelines
@@ -33,23 +33,23 @@ Inputs Required:
 3. List of exceptions or special cases
 
 4. Preferred tone (formal, casual, etc.)
+```
+## Prompt 2 — Bank Loan Application FAQ
 
-Prompt 2 — Bank Loan Application FAQ
+`Backstory:`
 
-Backstory:
+`A 32-year-old relationship manager in a private bank in Mumbai wants to reduce branch traffic caused by basic queries about personal loans. She needs a concise yet thorough FAQ section on the bank’s app and website that covers everything from eligibility and documents to EMI calculation.`
 
-A 32-year-old relationship manager in a private bank in Mumbai wants to reduce branch traffic caused by basic queries about personal loans. She needs a concise yet thorough FAQ section on the bank’s app and website that covers everything from eligibility and documents to EMI calculation.
+`Goal:`
 
-Goal:
+`Develop an FAQ section for personal loan applications.`
 
-Develop an FAQ section for personal loan applications.
+`Prompt:`
 
-Prompt:
+`"You are a banking content writer. Prepare a clear FAQ for personal loan applicants.`
 
-"You are a banking content writer. Prepare a clear FAQ for personal loan applicants.
-
-Cover:
-
+`Cover:`
+```
 1. Eligibility requirements
 
 2. Required documents
@@ -57,31 +57,31 @@ Cover:
 3. Loan approval timelines
 
 4. EMI calculation and repayment terms"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Bank’s personal loan product details
 
 2. Documentation checklist
 
 3. Processing fee and interest rate table
+```
+## Prompt 3 — Tech Product Troubleshooting FAQ
 
-Prompt 3 — Tech Product Troubleshooting FAQ
+`Backstory:`
 
-Backstory:
+`A 25-year-old customer success executive at a Noida-based electronics company keeps getting the same calls from customers facing Wi-Fi connectivity issues with their smart home device. She wants an FAQ that includes easy-to-follow troubleshooting steps with images or short videos.`
 
-A 25-year-old customer success executive at a Noida-based electronics company keeps getting the same calls from customers facing Wi-Fi connectivity issues with their smart home device. She wants an FAQ that includes easy-to-follow troubleshooting steps with images or short videos.
+`Goal:`
 
-Goal:
+`Build a self-service troubleshooting FAQ for Wi-Fi issues.`
 
-Build a self-service troubleshooting FAQ for Wi-Fi issues.
+`Prompt:`
 
-Prompt:
+`"You are a tech support content creator. Write a troubleshooting FAQ for smart home device Wi-Fi issues.`
 
-"You are a tech support content creator. Write a troubleshooting FAQ for smart home device Wi-Fi issues.
-
-Include:
-
+`Include:`
+```
 1. Common causes of connection failure
 
 2. Step-by-step reset and reconnection guide
@@ -89,29 +89,29 @@ Include:
 3. Links to video tutorials
 
 4. Contact escalation process if problem persists"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Technical troubleshooting steps from engineering team
 
 2. User manual
 
 3. Photo or video assets for visual guides
+```
+## Prompt 4 — Healthcare Appointment FAQ
 
-Prompt 4 — Healthcare Appointment FAQ
+`Backstory:`
 
-Backstory:
+`A 30-year-old administrator at a private hospital in Pune is facing patient frustration due to confusion over appointment booking, cancellations, and telemedicine procedures. She wants an FAQ that answers these questions clearly for both in-person and online consultations.`
 
-A 30-year-old administrator at a private hospital in Pune is facing patient frustration due to confusion over appointment booking, cancellations, and telemedicine procedures. She wants an FAQ that answers these questions clearly for both in-person and online consultations.
+`Goal:`
 
-Goal:
+`Create a patient-friendly appointment and telemedicine FAQ.`
 
-Create a patient-friendly appointment and telemedicine FAQ.
+`Prompt:`
 
-Prompt:
-
-"You are a healthcare communications writer. Develop an FAQ covering:
-
+`"You are a healthcare communications writer. Develop an FAQ covering:`
+```
 1. How to book in-person and online appointments
 
 2. Cancellation and rescheduling policy
@@ -119,31 +119,31 @@ Prompt:
 3. Telemedicine technology requirements
 
 4. Payment methods accepted"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Hospital’s booking process flow
 
 2. Telemedicine software requirements
 
 3. Cancellation policy document
+```
+## Prompt 5 — Travel Agency Visa FAQ
 
-Prompt 5 — Travel Agency Visa FAQ
+`Backstory:`
 
-Backstory:
+`A 28-year-old travel consultant in Gurgaon handles international tour bookings but spends hours answering basic visa-related questions. She needs a destination-wise visa FAQ that travelers can read before calling the agency.`
 
-A 28-year-old travel consultant in Gurgaon handles international tour bookings but spends hours answering basic visa-related questions. She needs a destination-wise visa FAQ that travelers can read before calling the agency.
+`Goal:`
 
-Goal:
+`Prepare a country-specific visa FAQ for travelers.`
 
-Prepare a country-specific visa FAQ for travelers.
+`Prompt:`
 
-Prompt:
+`"You are a travel operations specialist. Create a visa FAQ for top 10 travel destinations.`
 
-"You are a travel operations specialist. Create a visa FAQ for top 10 travel destinations.
-
-For each destination, include: 
-
+`For each destination, include: `
+```
 1. Visa type and validity 
 
 2. Processing time 
@@ -151,29 +151,29 @@ For each destination, include:
 3. Required documents 
 
 4. Fees and payment methods"
-
-Inputs Required: 
-
+```
+`Inputs Required: `
+```
 1. Updated visa requirements for each country 
 
 2. Processing time and fee data 
 
 3. Any travel agency-specific guidelines
+```
+## Prompt 6 — Food Delivery App Order Issue FAQ
 
-Prompt 6 — Food Delivery App Order Issue FAQ
+`Backstory:`
 
-Backstory:
+`A 26-year-old support lead at a food delivery startup in Bengaluru is overwhelmed with calls about missing items, delayed orders, and refund eligibility. She needs an FAQ that customers can quickly refer to in the app before raising a ticket.`
 
-A 26-year-old support lead at a food delivery startup in Bengaluru is overwhelmed with calls about missing items, delayed orders, and refund eligibility. She needs an FAQ that customers can quickly refer to in the app before raising a ticket.
+`Goal:`
 
-Goal:
+`Create an app-based FAQ for common order issues.`
 
-Create an app-based FAQ for common order issues.
+`Prompt:`
 
-Prompt:
-
-"You are a customer support content designer. Create a mobile-friendly FAQ that covers:
-
+`"You are a customer support content designer. Create a mobile-friendly FAQ that covers:`
+```
 1. What to do if an item is missing
 
 2. How to track a delayed order
@@ -181,29 +181,29 @@ Prompt:
 3. Refund/credit policy for order issues
 
 4. Contact process for urgent complaints"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Refund policy
 
 2. Order tracking flow
 
 3. Escalation process guidelines
+```
+## Prompt 7 — Telecom Service Activation FAQ
 
-Prompt 7 — Telecom Service Activation FAQ
+`Backstory:`
 
-Backstory:
+`A 31-year-old regional customer care manager at a telecom provider in Kolkata is struggling with repeated calls about SIM activation, porting, and eSIM setup. She wants an FAQ that answers these queries in plain, jargon-free language.`
 
-A 31-year-old regional customer care manager at a telecom provider in Kolkata is struggling with repeated calls about SIM activation, porting, and eSIM setup. She wants an FAQ that answers these queries in plain, jargon-free language.
+`Goal:`
 
-Goal:
+`Build a customer-friendly telecom service activation FAQ.`
 
-Build a customer-friendly telecom service activation FAQ.
+`Prompt:`
 
-Prompt:
-
-"You are a telecom helpdesk writer. Prepare an FAQ covering:
-
+`"You are a telecom helpdesk writer. Prepare an FAQ covering:`
+```
 1. New SIM activation process
 
 2. Number portability (MNP) steps
@@ -211,29 +211,29 @@ Prompt:
 3. eSIM activation
 
 4. Common errors and their solutions"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Telecom activation process docs
 
 2. Regulatory timelines for porting
 
 3. Error code list with fixes
+```
+## Prompt 8 — Online Education Platform FAQ
 
-Prompt 8 — Online Education Platform FAQ
+`Backstory:`
 
-Backstory:
+`A 29-year-old course coordinator at an edtech startup in Hyderabad finds that students often drop out because they can’t find clear answers about course access, live class links, and recorded lectures.`
 
-A 29-year-old course coordinator at an edtech startup in Hyderabad finds that students often drop out because they can’t find clear answers about course access, live class links, and recorded lectures.
+`Goal:`
 
-Goal:
+`Create a comprehensive FAQ for online course access.`
 
-Create a comprehensive FAQ for online course access.
+`Prompt:`
 
-Prompt:
-
-"You are an edtech support writer. Build an FAQ covering: 
-
+`"You are an edtech support writer. Build an FAQ covering:` 
+```
 1. Accessing course materials 
 
 2. Live class link procedures 
@@ -241,29 +241,29 @@ Prompt:
 3. Availability of recordings 
 
 4. Troubleshooting login issues"
-
-Inputs Required: 
-
+```
+`Inputs Required:`
+```
 1. LMS platform guide 
 
 2. Class schedule 
 
 3. Support escalation contacts
+```
+## Prompt 9 — Ride-Hailing Driver FAQ
 
-Prompt 9 — Ride-Hailing Driver FAQ
+`Backstory:`
 
-Backstory:
+`A 33-year-old driver partner manager at a ride-hailing service in Delhi NCR is dealing with constant queries from new drivers about payouts, penalties, and customer ratings.`
 
-A 33-year-old driver partner manager at a ride-hailing service in Delhi NCR is dealing with constant queries from new drivers about payouts, penalties, and customer ratings.
+`Goal:`
 
-Goal:
+`Create a driver partner onboarding FAQ.`
 
-Create a driver partner onboarding FAQ.
+`Prompt:`
 
-Prompt:
-
-"You are a driver relations specialist. Build an FAQ for new drivers covering:
-
+`"You are a driver relations specialist. Build an FAQ for new drivers covering:`
+```
 1. How payouts are calculated
 
 2. Penalty conditions
@@ -271,29 +271,29 @@ Prompt:
 3. Understanding customer ratings
 
 4. Support contacts for disputes"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Payment structure document
 
 2. Penalty rules list
 
 3. Driver rating policy
+```
+## Prompt 10 — Banking Credit Card FAQ
 
-Prompt 10 — Banking Credit Card FAQ
+`Backstory:`
 
-Backstory:
+`A 28-year-old banking call center manager in Chennai is getting high call volumes for credit card activation, bill payment, and reward redemption queries.`
 
-A 28-year-old banking call center manager in Chennai is getting high call volumes for credit card activation, bill payment, and reward redemption queries.
+`Goal:`
 
-Goal:
+`Prepare a credit card usage FAQ.`
 
-Prepare a credit card usage FAQ.
+`Prompt:`
 
-Prompt:
-
-"You are a banking customer education writer. Create an FAQ covering:
-
+`"You are a banking customer education writer. Create an FAQ covering:`
+```
 1. How to activate the card
 
 2. Payment methods and due dates
@@ -301,29 +301,29 @@ Prompt:
 3. Reward points earning and redemption
 
 4. Fraud prevention tips"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Card product features
 
 2. Payment gateway links
 
 3. Rewards catalog
+```
+## Prompt 11 — Airline Check-in & Baggage FAQ
 
-Prompt 11 — Airline Check-in & Baggage FAQ
+`Backstory:`
 
-Backstory:
+`A 30-year-old customer service officer at a domestic airline in India wants to reduce check-in counter congestion by giving passengers an online FAQ about baggage allowances, check-in times, and prohibited items.`
 
-A 30-year-old customer service officer at a domestic airline in India wants to reduce check-in counter congestion by giving passengers an online FAQ about baggage allowances, check-in times, and prohibited items.
+`Goal:`
 
-Goal:
+`Create a passenger-friendly check-in FAQ.`
 
-Create a passenger-friendly check-in FAQ.
+`Prompt:`
 
-Prompt:
-
-"You are an airline support content writer. Develop an FAQ covering:
-
+`"You are an airline support content writer. Develop an FAQ covering:`
+```
 1. Cabin and check-in baggage limits
 
 2. Check-in and boarding timelines
@@ -331,29 +331,29 @@ Prompt:
 3. Prohibited items list
 
 4. Online check-in process"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Airline baggage policy
 
 2. Security rules
 
 3. Boarding process guide
+```
+## Prompt 12 — Insurance Claim FAQ
 
-Prompt 12 — Insurance Claim FAQ
+`Backstory:`
 
-Backstory:
+`A 32-year-old claims manager at a general insurance company in Pune is dealing with repeated policyholder queries about the claim filing process and required documents.`
 
-A 32-year-old claims manager at a general insurance company in Pune is dealing with repeated policyholder queries about the claim filing process and required documents.
+`Goal:`
 
-Goal:
+`Develop a claim filing FAQ.`
 
-Develop a claim filing FAQ.
+`Prompt:`
 
-Prompt:
-
-"You are an insurance helpdesk writer. Create an FAQ covering:
-
+`"You are an insurance helpdesk writer. Create an FAQ covering:`
+```
 1. Claim eligibility and coverage limits
 
 2. Required documents
@@ -361,29 +361,29 @@ Prompt:
 3. Claim submission steps
 
 4. Claim status tracking"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Policy T&Cs
 
 2. Document checklist
 
 3. Claim tracking process
+```
+## Prompt 13 — Gym Membership FAQ
 
-Prompt 13 — Gym Membership FAQ
+`Backstory:`
 
-Backstory:
+`A 25-year-old front desk manager at a fitness chain in Noida is constantly asked about membership freeze policies, class bookings, and locker usage.`
 
-A 25-year-old front desk manager at a fitness chain in Noida is constantly asked about membership freeze policies, class bookings, and locker usage.
+`Goal:`
 
-Goal:
+`Create a gym membership FAQ.`
 
-Create a gym membership FAQ.
+`Prompt:`
 
-Prompt:
-
-"You are a fitness center operations writer. Create an FAQ covering:
-
+`"You are a fitness center operations writer. Create an FAQ covering:`
+```
 1. Membership plans and renewals
 
 2. Freeze/suspension policies
@@ -391,29 +391,29 @@ Prompt:
 3. Class booking rules
 
 4. Locker use and safety"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Membership T&Cs
 
 2. Class schedule
 
 3. Locker policy
+```
+## Prompt 14 — NGO Volunteer FAQ
 
-Prompt 14 — NGO Volunteer FAQ
+`Backstory:`
 
-Backstory:
+`A 27-year-old volunteer coordinator at an NGO in Jaipur is tired of repeating onboarding steps to new volunteers.`
 
-A 27-year-old volunteer coordinator at an NGO in Jaipur is tired of repeating onboarding steps to new volunteers.
+`Goal:`
 
-Goal:
+`Create a volunteer onboarding FAQ.`
 
-Create a volunteer onboarding FAQ.
+`Prompt:`
 
-Prompt:
-
-"You are a nonprofit support writer. Prepare an FAQ covering:
-
+`"You are a nonprofit support writer. Prepare an FAQ covering:`
+```
 1. Volunteer eligibility and roles
 
 2. Registration process
@@ -421,29 +421,29 @@ Prompt:
 3. Activity schedules
 
 4. Reimbursement policy (if any)"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Volunteer policy
 
 2. Activity calendar
 
 3. Registration forms
+```
+## Prompt 15 — OTT Subscription FAQ
 
-Prompt 15 — OTT Subscription FAQ
+`Backstory:`
 
-Backstory:
+`A 26-year-old customer support lead at a streaming service in Mumbai is facing ticket overload from users about subscription plans, renewal, and download limits.`
 
-A 26-year-old customer support lead at a streaming service in Mumbai is facing ticket overload from users about subscription plans, renewal, and download limits.
+`Goal:`
 
-Goal:
+`Create an OTT subscription FAQ.`
 
-Create an OTT subscription FAQ.
+`Prompt:`
 
-Prompt:
-
-"You are an OTT helpdesk content creator. Create an FAQ covering:
-
+`"You are an OTT helpdesk content creator. Create an FAQ covering:`
+```
 1. Subscription plans and pricing
 
 2. Renewal and cancellation
@@ -451,27 +451,27 @@ Prompt:
 3. Download limits and offline viewing
 
 4. Troubleshooting playback issues"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Plan details
 
 2. Renewal policies
+```
+## Prompt 16 — Government Service Portal FAQ
 
-Prompt 16 — Government Service Portal FAQ
+`Backstory:`
 
-Backstory:
+`A 31-year-old IT officer in a state e-governance department in Lucknow is tasked with reducing citizen complaints about logging into the government services portal.`
 
-A 31-year-old IT officer in a state e-governance department in Lucknow is tasked with reducing citizen complaints about logging into the government services portal.
+`Goal:`
 
-Goal:
+`Create a citizen-friendly FAQ for portal access.`
 
-Create a citizen-friendly FAQ for portal access.
+`Prompt:`
 
-Prompt:
-
-"You are an e-governance communication officer. Build an FAQ covering:
-
+`"You are an e-governance communication officer. Build an FAQ covering:`
+```
 1. How to create an account
 
 2. Password reset process
@@ -479,29 +479,29 @@ Prompt:
 3. Common errors and fixes
 
 4. Contact support details"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Portal user manual
 
 2. Support contacts
 
 3. Error code explanations
+```
+## Prompt 17 — Event Ticket Booking FAQ
 
-Prompt 17 — Event Ticket Booking FAQ
+`Backstory:`
 
-Backstory:
+`A 29-year-old event manager in Hyderabad is managing a music festival and getting too many repetitive calls about ticket booking, QR codes, and seating arrangements.`
 
-A 29-year-old event manager in Hyderabad is managing a music festival and getting too many repetitive calls about ticket booking, QR codes, and seating arrangements.
+`Goal:`
 
-Goal:
+`Create an event ticketing FAQ.`
 
-Create an event ticketing FAQ.
+`Prompt:`
 
-Prompt:
-
-"You are an event customer service writer. Build an FAQ covering:
-
+`"You are an event customer service writer. Build an FAQ covering:`
+```
 1. Online booking process
 
 2. E-ticket/QR code access
@@ -509,29 +509,29 @@ Prompt:
 3. Seating chart and upgrades
 
 4. Refund policy"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Ticketing platform guide
 
 2. Seating map
 
 3. Refund policy
+```
+## Prompt 18 — College Admission FAQ
 
-Prompt 18 — College Admission FAQ
+`Backstory:`
 
-Backstory:
+`A 33-year-old admissions officer at a Delhi university faces endless calls from parents and students about eligibility, application timelines, and document submission.`
 
-A 33-year-old admissions officer at a Delhi university faces endless calls from parents and students about eligibility, application timelines, and document submission.
+`Goal:`
 
-Goal:
+`Create an admission FAQ.`
 
-Create an admission FAQ.
+`Prompt:`
 
-Prompt:
-
-"You are a higher education communications officer. Create an FAQ covering:
-
+`"You are a higher education communications officer. Create an FAQ covering:`
+```
 1. Eligibility criteria
 
 2. Application process
@@ -539,29 +539,29 @@ Prompt:
 3. Document submission
 
 4. Fee payment methods"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Admission policy
 
 2. Calendar of deadlines
 
 3. Fee structure
+```
+## Prompt 19 — Real Estate Buyer FAQ
 
-Prompt 19 — Real Estate Buyer FAQ
+`Backstory:`
 
-Backstory:
+`A 32-year-old sales manager at a property firm in Gurgaon is flooded with calls about payment plans, possession timelines, and legal clearances.`
 
-A 32-year-old sales manager at a property firm in Gurgaon is flooded with calls about payment plans, possession timelines, and legal clearances.
+`Goal:`
 
-Goal:
+`Create a property purchase FAQ.`
 
-Create a property purchase FAQ.
+`Prompt:`
 
-Prompt:
-
-"You are a real estate support writer. Develop an FAQ covering:
-
+`"You are a real estate support writer. Develop an FAQ covering:`
+```
 1. Payment schedule
 
 2. Possession dates
@@ -569,29 +569,29 @@ Prompt:
 3. Legal documents provided
 
 4. Loan assistance details"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Payment plan
 
 2. Project timeline
 
 3. Legal clearance list
+```
+## Prompt 20 — Courier Tracking FAQ
 
-Prompt 20 — Courier Tracking FAQ
+`Backstory:`
 
-Backstory:
+`A 25-year-old customer care agent at a logistics company in Indore is constantly asked about shipment delays and tracking updates.`
 
-A 25-year-old customer care agent at a logistics company in Indore is constantly asked about shipment delays and tracking updates.
+`Goal:`
 
-Goal:
+`Create a shipment tracking FAQ.`
 
-Create a shipment tracking FAQ.
+`Prompt:`
 
-Prompt:
-
-"You are a logistics support content writer. Create an FAQ covering:
-
+`"You are a logistics support content writer. Create an FAQ covering:`
+```
 1. How to track a shipment
 
 2. Common reasons for delay
@@ -599,29 +599,29 @@ Prompt:
 3. Delivery attempt policies
 
 4. Contact escalation process"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Tracking process flow
 
 2. Delay reason codes
 
 3. Escalation SOP
+```
+## Prompt 21 — Corporate IT Helpdesk FAQ
 
-Prompt 21 — Corporate IT Helpdesk FAQ
+`Backstory:`
 
-Backstory:
+`A 30-year-old IT manager in a Gurugram-based MNC is tasked with reducing employee tickets for password resets, VPN access, and printer issues.`
 
-A 30-year-old IT manager in a Gurugram-based MNC is tasked with reducing employee tickets for password resets, VPN access, and printer issues.
+`Goal:`
 
-Goal:
+`Create an IT helpdesk FAQ for employees.`
 
-Create an IT helpdesk FAQ for employees.
+`Prompt:`
 
-Prompt:
-
-"You are a corporate IT support writer. Build an FAQ covering:
-
+`"You are a corporate IT support writer. Build an FAQ covering:`
+```
 1. Password reset
 
 2. VPN setup and access
@@ -629,29 +629,29 @@ Prompt:
 3. Printer troubleshooting
 
 4. IT asset request process"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. IT policies
 
 2. Setup guides
 
 3. Troubleshooting flowcharts
+```
+## Prompt 22 — Hospital Insurance Tie-Up FAQ
 
-Prompt 22 — Hospital Insurance Tie-Up FAQ
+`Backstory:`
 
-Backstory:
+`A 34-year-old patient services head at a multispeciality hospital in Chennai needs an FAQ to answer patient queries about cashless treatment and insurance tie-ups.`
 
-A 34-year-old patient services head at a multispeciality hospital in Chennai needs an FAQ to answer patient queries about cashless treatment and insurance tie-ups.
+`Goal:`
 
-Goal:
+`Create a hospital insurance FAQ.`
 
-Create a hospital insurance FAQ.
+`Prompt:`
 
-Prompt:
-
-"You are a healthcare insurance liaison. Create an FAQ covering:
-
+`"You are a healthcare insurance liaison. Create an FAQ covering:`
+```
 1. List of insurance partners
 
 2. Cashless claim process
@@ -659,29 +659,29 @@ Prompt:
 3. Documents required
 
 4. Reimbursement timelines"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Insurance partner list
 
 2. Claim forms
 
 3. Process timelines
+```
+## Prompt 23 — SaaS Software Pricing FAQ
 
-Prompt 23 — SaaS Software Pricing FAQ
+`Backstory:`
 
-Backstory:
+`A 29-year-old sales engineer at a SaaS startup in Pune is facing repetitive questions about subscription tiers, free trials, and add-on costs.`
 
-A 29-year-old sales engineer at a SaaS startup in Pune is facing repetitive questions about subscription tiers, free trials, and add-on costs.
+`Goal:`
 
-Goal:
+`Create a SaaS pricing FAQ.`
 
-Create a SaaS pricing FAQ.
+`Prompt:`
 
-Prompt:
-
-"You are a SaaS product support writer. Develop an FAQ covering:
-
+`"You are a SaaS product support writer. Develop an FAQ covering:`
+```
 1. Pricing tiers and inclusions
 
 2. Free trial terms
@@ -689,29 +689,29 @@ Prompt:
 3. Add-on features and costs
 
 4. Upgrade/downgrade process"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Pricing sheet
 
 2. Feature list
 
 3. Trial policy
+```
+## Prompt 24 — Hotel Booking FAQ
 
-Prompt 24 — Hotel Booking FAQ
+`Backstory:`
 
-Backstory:
+`A 28-year-old reservations manager at a resort in Goa is getting repetitive queries about cancellation policies, room upgrades, and check-in timings.`
 
-A 28-year-old reservations manager at a resort in Goa is getting repetitive queries about cancellation policies, room upgrades, and check-in timings.
+`Goal:`
 
-Goal:
+`Create a hotel booking FAQ.`
 
-Create a hotel booking FAQ.
+`Prompt:`
 
-Prompt:
-
-"You are a hospitality communications specialist. Create an FAQ covering:
-
+`"You are a hospitality communications specialist. Create an FAQ covering:`
+```
 1. Booking process
 
 2. Cancellation policy
@@ -719,29 +719,29 @@ Prompt:
 3. Upgrade options
 
 4. Check-in/check-out timings"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Hotel policies
 
 2. Room upgrade list
 
 3. Booking system guide
+```
+## Prompt 25 — Digital Wallet FAQ
 
-Prompt 25 — Digital Wallet FAQ
+`Backstory:`
 
-Backstory:
+`A 26-year-old support executive at a fintech app in Mumbai gets constant calls about wallet loading, UPI limits, and failed transaction refunds.`
 
-A 26-year-old support executive at a fintech app in Mumbai gets constant calls about wallet loading, UPI limits, and failed transaction refunds.
+`Goal:`
 
-Goal:
+`Create a digital wallet FAQ.`
 
-Create a digital wallet FAQ.
+`Prompt:`
 
-Prompt:
-
-"You are a fintech support writer. Build an FAQ covering:
-
+`"You are a fintech support writer. Build an FAQ covering:`
+```
 1. Adding money to wallet
 
 2. UPI transaction limits
@@ -749,17 +749,17 @@ Prompt:
 3. Refund timelines for failed transactions
 
 4. Account security tips"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Wallet policy document
 
 2. RBI guidelines on UPI limits
 
 3. Refund SLA
+```
 
-
-Complaint resolution templates
+# Complaint resolution templates
 
 Prompt 1 — E-commerce Damaged Product Complaint Resolution
 
