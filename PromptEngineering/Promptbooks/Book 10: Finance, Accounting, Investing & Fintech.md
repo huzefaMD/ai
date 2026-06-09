@@ -1821,22 +1821,22 @@ Tasks:
 
 3. Average number of invoices per month
 ```
-Prompt 9 — GST E-invoice Implementation Guide
+## Prompt 9 — GST E-invoice Implementation Guide
 
-Backstory:
+`Backstory:`
 
-A 30-year-old wholesale distributor in Ahmedabad has crossed the ₹5 crore turnover threshold and is now required to issue GST e-invoices. He has no idea how to integrate the system with his current billing software.
+`A 30-year-old wholesale distributor in Ahmedabad has crossed the ₹5 crore turnover threshold and is now required to issue GST e-invoices. He has no idea how to integrate the system with his current billing software.`
 
-Goal:
+`Goal:`
 
-Provide a step-by-step e-invoice implementation guide.
+`Provide a step-by-step e-invoice implementation guide.`
 
-Prompt:
+`Prompt:`
 
-"You are a GST technology consultant. Create a step-by-step process to implement e-invoicing.
+`"You are a GST technology consultant. Create a step-by-step process to implement e-invoicing.`
 
-Include:
-
+`Include:`
+```
 1. Registration on GST e-invoice portal
 
 2. API integration with billing software
@@ -1844,205 +1844,205 @@ Include:
 3. Invoice data format requirements
 
 4. Troubleshooting common errors"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Billing software details
 
 2. Turnover for last financial year
 
 3. Existing invoice format
+```
+## Prompt 10 — Advance Tax Reminder System
 
-Prompt 10 — Advance Tax Reminder System
+`Backstory:`
 
-Backstory:
+`A 34-year-old self-employed interior designer in Delhi often forgets to pay advance tax on time, leading to penalties. She wants a system that sends her reminders and pre-calculates each installment based on updated income estimates.`
 
-A 34-year-old self-employed interior designer in Delhi often forgets to pay advance tax on time, leading to penalties. She wants a system that sends her reminders and pre-calculates each installment based on updated income estimates.
+`Goal:`
 
-Goal:
+`Set up an automated advance tax reminder and calculation plan.`
 
-Set up an automated advance tax reminder and calculation plan.
+`Prompt:`
 
-Prompt:
+`"You are a financial automation consultant. Design a reminder system for advance tax payments. `
 
-"You are a financial automation consultant. Design a reminder system for advance tax payments.
-
-Include:
-
+`Include:`
+```
 1. Due dates for each quarter
 
 2. Estimated payment amounts
 
 3. Method to adjust for income fluctuations"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Estimated annual income pattern
 
 2. Previous year’s advance tax paid
 
 3. Current quarter’s income data
+```
+## Prompt 11 — Section 80D Health Insurance Tax Benefit Calculator
 
-Prompt 11 — Section 80D Health Insurance Tax Benefit Calculator
+`Backstory:`
 
-Backstory:
+`A 28-year-old teacher from Pune has purchased health insurance for herself and her parents but is unsure how much tax benefit she can claim under Section 80D.`
 
-A 28-year-old teacher from Pune has purchased health insurance for herself and her parents but is unsure how much tax benefit she can claim under Section 80D.
+`Goal:`
 
-Goal:
+`Calculate maximum deduction under Section 80D.`
 
-Calculate maximum deduction under Section 80D.
+`Prompt:`
 
-Prompt:
+`"You are a personal tax planner. Calculate deduction under Section 80D for self and family.`
 
-"You are a personal tax planner. Calculate deduction under Section 80D for self and family.
-
-Include:
-
+`Include:`
+```
 1. Premium paid for self/spouse/children
 
 2. Premium paid for parents (senior/non-senior)
 
 3. Preventive health check-up limit"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Premium amounts and insured persons
 
 2. Age of each insured person
+```
+## Prompt 12 — GST Annual Return Preparation Plan
 
-Prompt 12 — GST Annual Return Preparation Plan
+`Backstory:`
 
-Backstory:
+`A 32-year-old GST-registered trader in Jaipur needs to prepare GSTR-9 for the first time. He wants a clear plan to gather all documents and reconcile data before filing.`
 
-A 32-year-old GST-registered trader in Jaipur needs to prepare GSTR-9 for the first time. He wants a clear plan to gather all documents and reconcile data before filing.
+`Goal:`
 
-Goal:
+`Create a preparation checklist for GSTR-9.`
 
-Create a preparation checklist for GSTR-9.
+`Prompt:`
 
-Prompt:
+`"You are a GST return expert. Create a step-by-step GSTR-9 preparation checklist.`
 
-"You are a GST return expert. Create a step-by-step GSTR-9 preparation checklist.
-
-Include: 
-
+`Include: `
+```
 1. Reconciling GSTR-1, GSTR-3B, and books 
 
 2. Checking ITC claimed vs. available 
 
 3. Reviewing HSN summary"
-
-Inputs Required: 
-
+```
+`Inputs Required:`
+```
 1. GST returns filed during the year 
 
 2. Purchase and sales registers 
 
 3. ITC ledger
+```
+## Prompt 13 — Capital Gains Tax Calculator
 
-Prompt 13 — Capital Gains Tax Calculator
+`Backstory:`
 
-Backstory:
+`A 27-year-old equity investor in Mumbai has booked profits in stocks, mutual funds, and one real estate property this year. She wants to know her short-term and long-term capital gains tax liability.`
 
-A 27-year-old equity investor in Mumbai has booked profits in stocks, mutual funds, and one real estate property this year. She wants to know her short-term and long-term capital gains tax liability.
+`Goal:`
 
-Goal:
+`Calculate total capital gains tax payable.`
 
-Calculate total capital gains tax payable.
+`Prompt:`
 
-Prompt:
+`"You are a capital gains tax expert. Calculate STCG and LTCG for all assets sold.`
 
-"You are a capital gains tax expert. Calculate STCG and LTCG for all assets sold.
-
-Include: 
-
+`Include: `
+```
 1. Indexed cost for property 
 
 2. Separate calculation for equity and debt funds 
 
 3. Applicable tax rates"
-
-Inputs Required: 
-
+```
+`Inputs Required: `
+```
 1. Purchase and sale details for each asset 
 
 2. Holding period 
 
 3. CII (Cost Inflation Index) for relevant years
+```
+## Prompt 14 — GST Reverse Charge Mechanism Compliance
 
-Prompt 14 — GST Reverse Charge Mechanism Compliance
+`Backstory:`
 
-Backstory:
+`A 30-year-old event manager in Bengaluru hires foreign artists for shows in India. She wants to ensure proper GST payment under the reverse charge mechanism (RCM).`
 
-A 30-year-old event manager in Bengaluru hires foreign artists for shows in India. She wants to ensure proper GST payment under the reverse charge mechanism (RCM).
+`Goal:`
 
-Goal:
+`Create a compliance guide for GST RCM payments.`
 
-Create a compliance guide for GST RCM payments.
+`Prompt:`
 
-Prompt:
+`"You are a GST compliance trainer. Prepare an RCM payment guide for services from foreign suppliers.`
 
-"You are a GST compliance trainer. Prepare an RCM payment guide for services from foreign suppliers.
-
-Include:
-
+`Include:`
+```
 1. Identifying RCM applicability
 
 2. GST payment process under RCM
 
 3. Reporting in GSTR-3B"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Nature of imported service
 
 2. Contract/payment details
 
 3. GST registration type
+```
+## Prompt 15 — Professional Tax Calculation
 
-Prompt 15 — Professional Tax Calculation
+`Backstory:`
 
-Backstory:
+`A 25-year-old designer in Mumbai works for a private firm and earns ₹45,000/month. She wants to know her monthly professional tax deduction and annual liability.`
 
-A 25-year-old designer in Mumbai works for a private firm and earns ₹45,000/month. She wants to know her monthly professional tax deduction and annual liability.
+`Goal:`
 
-Goal:
+`Calculate professional tax payable.`
 
-Calculate professional tax payable.
+`Prompt:`
 
-Prompt:
+`"You are a payroll tax advisor. Calculate monthly and annual professional tax for Maharashtra.`
 
-"You are a payroll tax advisor. Calculate monthly and annual professional tax for Maharashtra.
-
-Include:
-
+`Include:`
+```
 1. Applicable slab rate
 
 2. Annual total payable"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Monthly salary
 
 2. State of employment
+```
+## Prompt 16 — Tax Planning for First-Time Home Buyer
 
-Prompt 16 — Tax Planning for First-Time Home Buyer
+`Backstory:`
 
-Backstory:
+`A 30-year-old banking professional from Hyderabad has just booked her first apartment worth ₹55 lakhs, with a home loan sanctioned for 80% of the value. She is aware that there are multiple tax benefits under Section 24(b) for interest payment and Section 80C for principal repayment, but she’s unsure how to maximize these in the first year since her EMIs start mid-year. She wants a clear, optimized plan to ensure no eligible deduction is missed.`
 
-A 30-year-old banking professional from Hyderabad has just booked her first apartment worth ₹55 lakhs, with a home loan sanctioned for 80% of the value. She is aware that there are multiple tax benefits under Section 24(b) for interest payment and Section 80C for principal repayment, but she’s unsure how to maximize these in the first year since her EMIs start mid-year. She wants a clear, optimized plan to ensure no eligible deduction is missed.
+`Goal:`
 
-Goal:
+`Prepare a year-wise tax benefit plan for a first-time home buyer.`
 
-Prepare a year-wise tax benefit plan for a first-time home buyer.
+`Prompt:`
 
-Prompt:
+`"You are a housing loan tax specialist. For the given home loan details, prepare a plan to maximize deductions in the current and following years.`
 
-"You are a housing loan tax specialist. For the given home loan details, prepare a plan to maximize deductions in the current and following years.
-
-Include:
-
+`Include:`
+```
 1. Deduction under Section 80C for principal repayment
 
 2. Deduction under Section 24(b) for interest paid
@@ -2050,9 +2050,9 @@ Include:
 3. First-time buyer benefits under Section 80EEA (if eligible)
 
 4. Tips to align EMI start date and pre-EMI interest for better deductions"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Home loan sanction letter with EMI start date
 
 2. Loan amount, tenure, and interest rate
@@ -2060,23 +2060,23 @@ Inputs Required:
 3. Date of possession/registration
 
 4. Annual income and tax regime
+```
+## Prompt 17 — NRI Tax Compliance Checklist
 
-Prompt 17 — NRI Tax Compliance Checklist
+`Backstory:`
 
-Backstory:
+`A 33-year-old software engineer from Bengaluru is currently working in Singapore but has investments in Indian FDs, mutual funds, and an apartment rented out in India. She files her taxes from abroad but often misses details about DTAA benefits, repatriation rules, and rental income TDS compliance. She needs a consolidated annual checklist to ensure she meets all NRI tax obligations without penalties.`
 
-A 33-year-old software engineer from Bengaluru is currently working in Singapore but has investments in Indian FDs, mutual funds, and an apartment rented out in India. She files her taxes from abroad but often misses details about DTAA benefits, repatriation rules, and rental income TDS compliance. She needs a consolidated annual checklist to ensure she meets all NRI tax obligations without penalties.
+`Goal:`
 
-Goal:
+`Create a comprehensive tax compliance checklist for NRIs with Indian income.`
 
-Create a comprehensive tax compliance checklist for NRIs with Indian income.
+`Prompt:`
 
-Prompt:
+`"You are an NRI taxation consultant. Prepare a checklist for annual tax compliance for an NRI with Indian investments.`
 
-"You are an NRI taxation consultant. Prepare a checklist for annual tax compliance for an NRI with Indian investments.
-
-Include:
-
+`Include:`
+```
 1. DTAA applicability and claiming benefits
 
 2. Reporting and paying tax on rental income
@@ -2084,9 +2084,9 @@ Include:
 3. Capital gains tax on Indian asset sales
 
 4. Repatriation and FEMA compliance"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Country of residence
 
 2. List of Indian income sources
@@ -2094,23 +2094,23 @@ Inputs Required:
 3. Details of property ownership and tenants
 
 4. Any recent asset sales
+```
+## Prompt 18 — GST Compliance Calendar for Startups
 
-Prompt 18 — GST Compliance Calendar for Startups
+`Backstory:`
 
-Backstory:
+`A 26-year-old founder of a D2C skincare startup in Mumbai is newly GST-registered and unsure about filing timelines, advance tax due dates, and annual compliance requirements. She needs a startup-friendly GST + tax compliance calendar that her team can follow to avoid missing deadlines.`
 
-A 26-year-old founder of a D2C skincare startup in Mumbai is newly GST-registered and unsure about filing timelines, advance tax due dates, and annual compliance requirements. She needs a startup-friendly GST + tax compliance calendar that her team can follow to avoid missing deadlines.
+`Goal:`
 
-Goal:
+`Create a GST and tax compliance calendar tailored for startups.`
 
-Create a GST and tax compliance calendar tailored for startups.
+`Prompt:`
 
-Prompt:
+`"You are a business compliance advisor. Prepare a full-year GST and income tax compliance calendar for a newly registered startup.`
 
-"You are a business compliance advisor. Prepare a full-year GST and income tax compliance calendar for a newly registered startup.
-
-Include: 
-
+`Include: `
+```
 1. Monthly/quarterly GST filing dates 
 
 2. Advance tax payment dates 
@@ -2118,31 +2118,31 @@ Include:
 3. Annual return filing deadlines 
 
 4. Audit requirements if turnover exceeds limits"
-
-Inputs Required: 
-
+```
+`Inputs Required: `
+```
 1. GST registration type (monthly/quarterly) 
 
 2. Startup turnover projection 
 
 3. Company incorporation date
+```
+## Prompt 19 —  Capital Gains Exemption Planning (54/54F)
 
-Prompt 19 —  Capital Gains Exemption Planning (54/54F)
+`Backstory:`
 
-Backstory:
+`A 32-year-old doctor in Pune recently sold a piece of inherited land and made a long-term capital gain of ₹35 lakhs. She wants to invest the amount in a new residential property but is confused about which section — 54 or 54F — will give her maximum exemption. She also wants guidance on timelines and documentation to avoid losing the exemption claim.`
 
-A 32-year-old doctor in Pune recently sold a piece of inherited land and made a long-term capital gain of ₹35 lakhs. She wants to invest the amount in a new residential property but is confused about which section — 54 or 54F — will give her maximum exemption. She also wants guidance on timelines and documentation to avoid losing the exemption claim.
+`Goal:`
 
-Goal:
+`Advise on the best exemption strategy for reinvesting capital gains.`
 
-Advise on the best exemption strategy for reinvesting capital gains.
+`Prompt:`
 
-Prompt:
+`"You are a capital gains tax planner. Recommend the best section (54/54F) for claiming exemption on sale of property.`
 
-"You are a capital gains tax planner. Recommend the best section (54/54F) for claiming exemption on sale of property.
-
-Include:
-
+`Include:`
+```
 1. Eligibility criteria for each section
 
 2. Maximum exemption available
@@ -2150,9 +2150,9 @@ Include:
 3. Investment timelines and conditions
 
 4. Documentation required"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Sale deed details (date, amount)
 
 2. Type of asset sold
@@ -2160,171 +2160,171 @@ Inputs Required:
 3. Current property ownership status
 
 4. Planned investment details
+```
+## Prompt 20 — GST Composition Scheme Evaluation
 
-Prompt 20 — GST Composition Scheme Evaluation
+`Backstory:`
 
-Backstory:
+`A 27-year-old cafe owner in Jaipur has an annual turnover of ₹65 lakhs and is considering switching from the regular GST scheme to the composition scheme to simplify compliance. However, he’s unsure if it will be financially beneficial, especially since he won’t be able to claim ITC.`
 
-A 27-year-old cafe owner in Jaipur has an annual turnover of ₹65 lakhs and is considering switching from the regular GST scheme to the composition scheme to simplify compliance. However, he’s unsure if it will be financially beneficial, especially since he won’t be able to claim ITC.
+`Goal:`
 
-Goal:
+`Compare regular GST vs. composition scheme and suggest the best choice.`
 
-Compare regular GST vs. composition scheme and suggest the best choice.
+`Prompt:`
 
-Prompt:
+`"You are a GST advisor. Evaluate whether the composition scheme is beneficial for the business.`
 
-"You are a GST advisor. Evaluate whether the composition scheme is beneficial for the business.
-
-Include: 
-
+`Include: `
+```
 1. Tax liability under both schemes 
 
 2. Compliance requirements for each 
 
 3. Pros and cons based on business nature and supplier type"
-
-Inputs Required: 
-
+```
+`Inputs Required: `
+```
 1. Annual turnover 
 
 2. Percentage of purchases with GST 
 
 3. Industry type (goods/services)
+```
+## Prompt 21 — Section 80G Donation Deduction Planner
 
-Prompt 21 — Section 80G Donation Deduction Planner
+`Backstory:`
 
-Backstory:
+`A 25-year-old corporate employee in Gurgaon regularly donates to NGOs but is unaware of the deduction limits under Section 80G. She wants to know how much of her donations are eligible for a 50% or 100% deduction and how to structure her donations for maximum tax benefit.`
 
-A 25-year-old corporate employee in Gurgaon regularly donates to NGOs but is unaware of the deduction limits under Section 80G. She wants to know how much of her donations are eligible for a 50% or 100% deduction and how to structure her donations for maximum tax benefit.
+`Goal:`
 
-Goal:
+`Optimize donation amounts for maximum 80G tax deduction.`
 
-Optimize donation amounts for maximum 80G tax deduction.
+`Prompt:`
 
-Prompt:
+`"You are a charitable tax benefit consultant. For the given donations, calculate total eligible deduction under Section 80G.`
 
-"You are a charitable tax benefit consultant. For the given donations, calculate total eligible deduction under Section 80G.
-
-Include:
-
+`Include:`
+```
 1. Classification of donations (50%/100% with/without restriction)
 
 2. Maximum claimable deduction based on gross total income
 
 3. Suggested donation structuring for next year"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. List of donations with NGO name, amount, and registration status
 
 2. Annual gross total income
+```
+## Prompt 22 — GST ITC Reconciliation with GSTR-2B
 
-Prompt 22 — GST ITC Reconciliation with GSTR-2B
+`Backstory:`
 
-Backstory:
+`A 29-year-old electronics retailer in Delhi files GST returns monthly but often faces ITC mismatches because suppliers upload invoices late. She wants an automated process to reconcile ITC claimed in her books with ITC available in GSTR-2B.`
 
-A 29-year-old electronics retailer in Delhi files GST returns monthly but often faces ITC mismatches because suppliers upload invoices late. She wants an automated process to reconcile ITC claimed in her books with ITC available in GSTR-2B.
+`Goal:`
 
-Goal:
+`Create a monthly GST ITC reconciliation workflow.`
 
-Create a monthly GST ITC reconciliation workflow.
+`Prompt:`
 
-Prompt:
+`"You are a GST reconciliation expert. Develop a monthly process to match ITC in purchase register with GSTR-2B data.`
 
-"You are a GST reconciliation expert. Develop a monthly process to match ITC in purchase register with GSTR-2B data.
-
-Include:
-
+`Include:`
+```
 1. Identifying mismatched invoices
 
 2. Communicating with suppliers for corrections
 
 3. Updating ITC claims before filing GSTR-3B"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Purchase register for the month
 
 2. GSTR-2B download from portal
 
 3. Supplier list and contact details
+```
+## Prompt 23 — Salary Structure Optimization for Tax Savings
 
-Prompt 23 — Salary Structure Optimization for Tax Savings
+`Backstory:`
 
-Backstory:
+`A 30-year-old sales manager in Bengaluru receives a fixed CTC but can request changes to salary components during annual appraisal. He wants to restructure his salary to reduce taxable income — possibly adding meal vouchers, LTA, or higher HRA — without reducing in-hand pay.`
 
-A 30-year-old sales manager in Bengaluru receives a fixed CTC but can request changes to salary components during annual appraisal. He wants to restructure his salary to reduce taxable income — possibly adding meal vouchers, LTA, or higher HRA — without reducing in-hand pay.
+`Goal:`
 
-Goal:
+`Design a tax-optimized salary structure.`
 
-Design a tax-optimized salary structure.
+`Prompt:`
 
-Prompt:
+`"You are a payroll tax planner. Suggest changes to salary components to reduce taxable income without lowering net pay.`
 
-"You are a payroll tax planner. Suggest changes to salary components to reduce taxable income without lowering net pay.
-
-Include: 
-
+`Include: `
+```
 1. Allowances and reimbursements with tax benefits 
 
 2. Revised gross and taxable salary comparison 
 
 3. Justification for each change"
-
-Inputs Required: 
-
+```
+`Inputs Required: `
+```
 1. Current salary structure with components 
 
 2. Living city (metro/non-metro) 
 
 3. Eligible reimbursements from employer policy
+```
+## Prompt 24 — GST Refund Claim for Exporters
 
-Prompt 24 — GST Refund Claim for Exporters
+`Backstory:`
 
-Backstory:
+`A 28-year-old handicraft exporter in Jaipur ships products to Europe and the US. She pays GST on raw material purchases but exports goods without charging GST (zero-rated supplies). She wants to claim a refund of accumulated ITC quickly and without errors.`
 
-A 28-year-old handicraft exporter in Jaipur ships products to Europe and the US. She pays GST on raw material purchases but exports goods without charging GST (zero-rated supplies). She wants to claim a refund of accumulated ITC quickly and without errors.
+`Goal:`
 
-Goal:
+`Guide through GST refund claim for exporters.`
 
-Guide through GST refund claim for exporters.
+`Prompt:`
 
-Prompt:
+`"You are a GST export compliance advisor. Create a step-by-step guide to claim refund of unutilized ITC for exports.`
 
-"You are a GST export compliance advisor. Create a step-by-step guide to claim refund of unutilized ITC for exports.
-
-Include: 
-
+`Include: `
+```
 1. Preparing required documentation 
 
 2. Filing refund application on GST portal 
 
 3. Common mistakes to avoid"
-
-Inputs Required: 
-
+```
+`Inputs Required: `
+```
 1. Purchase invoices with GST paid 
 
 2. Export invoices and shipping bills 
 
 3. Bank realization certificates
+```
+## Prompt 25 — Pre-Filing Personal Tax Health Check
 
-Prompt 25 — Pre-Filing Personal Tax Health Check
+`Backstory:`
 
-Backstory:
+`A 33-year-old HR manager in Pune files her taxes every July but often scrambles last minute to collect documents, leading to missed deductions. She wants a “tax health check” 3 months before filing to prepare everything in advance.`
 
-A 33-year-old HR manager in Pune files her taxes every July but often scrambles last minute to collect documents, leading to missed deductions. She wants a “tax health check” 3 months before filing to prepare everything in advance.
+`Goal:`
 
-Goal:
+`Create a pre-filing personal tax readiness checklist.`
 
-Create a pre-filing personal tax readiness checklist.
+`Prompt:`
 
-Prompt:
+`"You are a personal tax consultant. Prepare a pre-filing tax readiness checklist for salaried individuals.`
 
-"You are a personal tax consultant. Prepare a pre-filing tax readiness checklist for salaried individuals.
-
-Include:
-
+`Include:`
+```
 1. Collecting Form 16, 26AS, and AIS
 
 2. Reviewing investment proofs
@@ -2332,15 +2332,15 @@ Include:
 3. Listing all deduction documents
 
 4. Cross-checking income sources"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Salary structure
 
 2. List of deductions claimed
 
 3. Investment and insurance documents
-
+```
 
 Financial reporting templates
 
