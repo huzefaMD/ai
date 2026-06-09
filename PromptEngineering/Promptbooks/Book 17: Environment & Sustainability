@@ -2726,205 +2726,289 @@ Inputs:
 4. Cleanup frequency
 
 Prompt 14 – AI for Optimising EV Charging Station Placement
+
 Backstory:
+
 A renewable energy startup in Bengaluru wants to expand its EV charging network but needs to choose the best locations for new stations. They want to use AI to analyse traffic patterns, EV adoption rates, and proximity to renewable power sources.
 
 Goal:
+
 Prepare an AI adoption guide for EV charging location optimisation.
 
 Prompt:
+
 "You are a geospatial AI infrastructure planner. Create a guide for using AI to select optimal EV charging station locations in Bengaluru. Include dataset requirements (traffic, EV density, renewable energy availability), clustering algorithms, and ROI projections."
 
 Inputs:
 
-Target number of new stations
-Geographic coverage area
-Available datasets
-Budget for AI analysis
+1. Target number of new stations
+
+2. Geographic coverage area
+
+3. Available datasets
+
+4. Budget for AI analysis
 
 Prompt 15 – AI for Predicting Renewable Energy Generation
+
 Backstory:
+
 A utility company in Gujarat operates both wind and solar farms but faces challenges in accurately predicting output for grid balancing. They want an AI system that integrates weather forecasts, historical generation data, and seasonal patterns to make hour-by-hour production forecasts.
 
 Goal:
+
 Create an AI adoption guide for renewable energy generation prediction.
 
 Prompt:
+
 "You are a renewable energy forecasting AI consultant. Develop a guide for building an AI model that predicts solar and wind generation in Gujarat. Include data preprocessing, model choice (Hybrid CNN-LSTM), forecast validation, and integration with grid management systems."
 
 Inputs:
 
-Historical generation data
-Weather forecast sources
-Forecast time horizon
-Budget for AI development
+1. Historical generation data
+
+2. Weather forecast sources
+
+3. Forecast time horizon
+
+4. Budget for AI development
 
 Prompt 16 – AI for Urban Heat Island Mapping
+
 Backstory:
+
 In Delhi, summer temperatures are rising due to dense construction and lack of green cover, creating “urban heat islands” that trap heat. The municipal corporation wants to identify these zones accurately to prioritise tree plantation and reflective roofing projects. Manual surveys are expensive and limited in coverage. They want an AI-based mapping system that uses thermal satellite imagery, building density data, and vegetation indexes to generate an up-to-date heat map.
 
 Goal:
+
 Develop an AI implementation guide for urban heat island detection and mapping.
 
 Prompt:
+
 "You are an urban climate AI analyst. Create a guide for building an AI-powered urban heat island mapping system for Delhi. Include data sourcing from satellites (e.g., Landsat, Sentinel), preprocessing methods, model training for hotspot detection, and integration into a public planning dashboard."
 
 Inputs:
 
-City boundaries and zoning data
-Thermal imagery sources
-Budget for AI development
-Preferred map visualisation tool
+1. City boundaries and zoning data
+
+2. Thermal imagery sources
+
+3. Budget for AI development
+
+4. Preferred map visualisation tool
 
 Prompt 17 – AI for Industrial Emissions Monitoring
+
 Backstory:
+
 A manufacturing cluster in Maharashtra is under pressure to comply with stricter air quality standards. Current emissions reporting is done manually by factory staff, leading to inconsistencies. They want an AI system that uses IoT sensors on chimneys to track particulate matter, NOx, and SOx emissions in real-time, flagging anomalies and generating compliance reports automatically.
 
 Goal:
+
 Create an AI adoption guide for real-time industrial emissions tracking.
 
 Prompt:
+
 "You are an environmental AI compliance consultant. Develop a guide for deploying AI-enabled IoT sensor networks to monitor industrial emissions in Maharashtra. Include sensor calibration, data cleaning, anomaly detection algorithms, and automated reporting formats aligned with CPCB standards."
 
 Inputs:
 
-Number of factories to monitor
-Sensor specifications
-Reporting frequency
-Regulatory compliance requirements
+1. Number of factories to monitor
+
+2. Sensor specifications
+
+3. Reporting frequency
+
+4. Regulatory compliance requirements
 
 Prompt 18 – AI-Powered Wildlife Poaching Prevention
+
 Backstory:
+
 A wildlife reserve in Madhya Pradesh is home to endangered tigers and leopards. Poachers often enter at night using forest trails. The reserve authority wants to install AI-based camera traps that can identify humans and vehicles, triggering instant alerts to rangers via mobile apps. They also want to integrate historical poaching incident data to predict high-risk zones.
 
 Goal:
+
 Develop an AI system plan for anti-poaching surveillance.
 
 Prompt:
+
 "You are a conservation AI specialist. Create a guide for implementing AI-enabled poaching detection in Madhya Pradesh’s tiger reserve. Include camera trap placement, image recognition model training, risk prediction mapping, and alert automation workflows."
 
 Inputs:
 
-Reserve size and terrain type
-Camera budget and placement density
-Historical poaching data
-Ranger response protocols
+1. Reserve size and terrain type
+
+2. Camera budget and placement density
+
+3. Historical poaching data
+
+4. Ranger response protocols
 
 Prompt 19 – AI for Waste Segregation in Smart Cities
+
 Backstory:
+
 A smart city project in Surat has installed waste collection points across the city but segregation of wet and dry waste is inconsistent, reducing recycling efficiency. They want to use AI-powered vision systems at collection points to automatically detect and sort waste, reducing manual labour and contamination.
 
 Goal:
+
 Prepare an AI adoption guide for automated waste segregation.
 
 Prompt:
+
 "You are a waste management AI engineer. Design a guide for integrating AI-powered waste segregation into Surat’s smart city project. Include camera/sensor setup, dataset creation for waste classification, real-time sorting mechanisms, and integration with recycling facilities."
 
 Inputs:
 
-Number of collection points
-Type of waste to classify
-Budget for hardware and AI development
-Desired sorting accuracy percentage
+1. Number of collection points
+
+2. Type of waste to classify
+
+3. Budget for hardware and AI development
+
+4. Desired sorting accuracy percentage
 
 Prompt 20 – AI for Sustainable Fisheries Management
+
 Backstory:
+
 Fishermen in Kerala face declining fish stocks due to overfishing and changing sea temperatures. The fisheries department wants an AI-based advisory system that predicts fishing zones based on satellite sea surface temperature data, chlorophyll levels, and historical catch patterns, while ensuring sustainable quotas.
 
 Goal:
+
 Develop an AI adoption guide for sustainable fishing advisory systems.
 
 Prompt:
+
 "You are a marine AI resource planner. Create a detailed guide for building an AI system that predicts optimal and sustainable fishing zones in Kerala. Include satellite data integration, predictive algorithms, quota enforcement logic, and multilingual SMS advisory systems for fishermen."
 
 Inputs:
 
-Historical catch data
-Satellite data sources
-Sustainability quota limits
-Languages for communication
+1. Historical catch data
+
+2. Satellite data sources
+
+3. Sustainability quota limits
+
+4. Languages for communication
 
 Prompt 21 – AI for Monitoring Renewable Energy Asset Lifespan
+
 Backstory:
+
 A company in Tamil Nadu operates 200 wind turbines. Maintenance is reactive and based on breakdowns, causing high repair costs and downtime. They want an AI model to predict turbine component failures months in advance using vibration, temperature, and operational data, helping extend asset lifespan.
 
 Goal:
+
 Create a predictive maintenance AI plan for wind turbines.
 
 Prompt:
+
 "You are a renewable energy AI maintenance consultant. Develop a plan for predictive analytics on wind turbine lifespan in Tamil Nadu. Include sensor integration, historical data usage, failure prediction models, and maintenance scheduling dashboards."
 
 Inputs:
 
-Number of turbines
-Sensor data availability
-Maintenance budget
-Target uptime percentage
+1. Number of turbines
+
+2. Sensor data availability
+
+3. Maintenance budget
+
+4. Target uptime percentage
 
 Prompt 22 – AI for Carbon Footprint Tracking in Manufacturing
+
 Backstory:
+
 A textile factory in Gujarat exports to Europe and must meet strict carbon footprint disclosure requirements. They want an AI tool to track carbon emissions across the production cycle—from raw material sourcing to shipping—helping them identify areas to reduce emissions and generate EU-compliant reports.
 
 Goal:
+
 Develop an AI-powered carbon tracking and reporting system.
 
 Prompt:
+
 "You are a manufacturing AI sustainability consultant. Create a guide for implementing AI-based carbon footprint monitoring for a textile factory in Gujarat. Include data collection points, calculation methodology, AI dashboard design, and automated compliance reporting features."
 
 Inputs:
 
-Production workflow details
-Energy source mix
-Reporting format requirements
-Reduction targets
+1. Production workflow details
+
+2. Energy source mix
+
+3. Reporting format requirements
+
+4. Reduction targets
 
 Prompt 23 – AI for Climate-Resilient Crop Planning
+
 Backstory:
+
 Farmers in Andhra Pradesh face unpredictable rainfall and temperature shifts. The agriculture department wants an AI system that recommends climate-resilient crops based on soil health, seasonal forecasts, and historical yield data. It should also suggest planting schedules and water management plans.
 
 Goal:
+
 Create an AI adoption blueprint for climate-smart agriculture.
 
 Prompt:
+
 "You are an agri-tech AI strategist. Develop a guide for building an AI crop planning system for Andhra Pradesh farmers. Include soil and weather data integration, yield prediction models, multilingual mobile app interface, and farmer training modules."
 
 Inputs:
 
-Soil test data
-Historical yield records
-Weather forecast APIs
-Target farmer demographics
+1. Soil test data
+
+2. Historical yield records
+
+3. Weather forecast APIs
+
+4. Target farmer demographics
 
 Prompt 24 – AI for Water Quality Monitoring in Rivers
+
 Backstory:
+
 The Ganga River in Uttar Pradesh faces industrial and domestic pollution. The pollution control board wants an AI system that uses IoT sensors and satellite imagery to monitor water quality indicators like pH, turbidity, and chemical contamination in real-time, issuing alerts for unsafe levels.
 
 Goal:
+
 Develop an AI water quality monitoring and alert system.
 
 Prompt:
+
 "You are an environmental AI water specialist. Create a guide for implementing AI-based water quality monitoring for the Ganga River. Include sensor placement strategy, data cleaning techniques, anomaly detection models, and public alert mechanisms."
 
 Inputs:
 
-Monitoring stations count
-Water quality parameters
-Alert channels (SMS, app, public boards)
-Data update frequency
+1. Monitoring stations count
+
+2. Water quality parameters
+
+3. Alert channels (SMS, app, public boards)
+
+4. Data update frequency
 
 Prompt 25 – AI for Sustainable Urban Mobility Planning
+
 Backstory:
+
 Bengaluru’s traffic congestion is worsening, leading to higher emissions and commuter stress. The urban planning authority wants to use AI to model traffic flows, predict peak congestion times, and recommend policy interventions like dynamic traffic light control, carpool incentives, and dedicated cycling lanes.
 
 Goal:
+
 Create an AI-powered sustainable mobility planning framework.
 
 Prompt:
+
 "You are an urban AI mobility planner. Develop a guide for deploying AI to improve sustainable urban transport in Bengaluru. Include traffic data integration, simulation models, optimisation algorithms, and impact assessment metrics."
 
 Inputs:
 
-Traffic sensor coverage
-Public transport schedules
-Mobility policy goals
-Implementation budget
+1. Traffic sensor coverage
+
+2. Public transport schedules
+
+3. Mobility policy goals
+
+4. Implementation budget
