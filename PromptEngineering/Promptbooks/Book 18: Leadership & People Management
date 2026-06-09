@@ -1217,3 +1217,277 @@ Past quarter project summaries
 Upcoming industry trends relevant to client’s domain
 Account team roster
 
+Prompt 16 – Budget Planning Meeting Agenda
+Backstory:
+A Mumbai-based D2C fashion brand is preparing its annual budget. In the past, finance meetings have been heavily number-focused, leaving little room for strategic discussion. The CFO wants a structured budget planning meeting that encourages department heads to link budget requests directly to measurable business outcomes and marketing ROI.
+
+Goal:
+Develop an agenda that ensures budget decisions are tied to strategy, not just departmental wish lists.
+
+Prompt:
+*"You are a financial planning consultant. Create an annual budget planning meeting agenda for a consumer brand, covering:
+
+Opening & Budget Principles – Review company growth targets and budget philosophy.
+Revenue Projections – Present sales forecasts by channel.
+Departmental Budget Requests – Each head presents request with ROI rationale.
+Cost Optimization Review – Identify areas to cut or reallocate spend.
+Investment Priorities – Decide on high-return projects to fund.
+Final Allocation Decisions – Assign approved budgets and timelines.
+Action Items & Follow-Up – Document final numbers and next review date.
+Ensure agenda keeps discussions evidence-based, with a template for each department’s request."*
+Inputs:
+
+Annual growth target
+Sales forecasts
+Departmental budget request forms
+Current cost breakdown
+
+Prompt 17 – Sales Pipeline Review Meeting Agenda
+Backstory:
+A B2B SaaS company in Chennai holds monthly sales pipeline reviews, but they often turn into long debates about individual deals instead of focusing on pipeline health. The VP of Sales wants an agenda that prioritises data-driven insights, identifies bottlenecks, and ensures sales reps leave with clear next steps.
+
+Goal:
+Create an agenda for a sales pipeline review that focuses on deal velocity, conversion rates, and forecast accuracy.
+
+Prompt:
+*"You are a sales operations strategist. Draft a monthly sales pipeline review agenda that includes:
+
+Pipeline Health Overview – Summary of total pipeline value, stage distribution, and conversion rates.
+Stage-by-Stage Analysis – Identify bottlenecks and drop-off points.
+High-Value Deal Spotlight – Review top 5 deals for risks/opportunities.
+Rep Performance Review – Compare activity metrics and close rates.
+Forecast Update – Adjust revenue forecast based on latest insights.
+Action Planning – Assign tasks to move deals forward.
+Limit meeting to 90 minutes and provide pre-read reports to save time."*
+Inputs:
+
+CRM data export
+Sales targets and quotas
+Number of deals in each stage
+Key risk/opportunity flags
+
+Prompt 18 – Diversity & Inclusion Committee Meeting Agenda
+Backstory:
+A large IT company in Hyderabad has formed a Diversity & Inclusion (D&I) committee to drive initiatives across gender balance, accessibility, and inclusive hiring. The first few meetings have lacked focus, with discussions jumping between unrelated topics. The Chief People Officer wants a structured agenda that progresses from strategy to action, while tracking measurable impact over time.
+
+Goal:
+Design a D&I committee meeting agenda that moves from big-picture goals to concrete next steps, ensuring initiatives are tracked and reported.
+
+Prompt:
+*"You are a workplace inclusivity advisor. Create a monthly D&I committee meeting agenda including:
+
+Review of Strategic Goals – Gender parity targets, accessibility benchmarks, inclusive hiring KPIs.
+Progress Updates – Report on ongoing initiatives and metrics.
+New Proposals – Present and evaluate new initiatives.
+Training & Awareness Programs – Plan internal campaigns or workshops.
+Policy Review – Identify changes needed to support inclusivity.
+Action Item Assignment – Assign owners, set deadlines, define success measures.
+Include space for open discussion but keep main items time-bound."*
+Inputs:
+
+Company D&I goals
+Current metrics
+Upcoming HR policies
+Committee member list
+
+Prompt 19 – Marketing Campaign Kick-off Agenda
+Backstory:
+A lifestyle brand in Delhi is launching its largest influencer-driven marketing campaign ahead of Diwali. Previous campaign kick-off meetings have been chaotic, with unclear ownership, missed media deadlines, and last-minute creative changes. The CMO wants a kick-off agenda that gets all stakeholders — creative, media buying, influencer management, analytics — aligned before execution starts.
+
+Goal:
+Create a campaign kick-off meeting agenda that sets clear deliverables, timelines, and reporting structures from day one.
+
+Prompt:
+*"You are a marketing operations planner. Draft a 90-minute campaign kick-off meeting agenda including:
+
+Campaign Vision & Objectives – Define target audience, success metrics, and key message.
+Creative Overview – Present approved creative assets and storytelling approach.
+Channel Strategy – Assign media mix, influencer slots, and launch sequence.
+Timeline Review – Map deadlines for asset delivery, posting, and reporting.
+Roles & Responsibilities – Define ownership for each campaign element.
+Risk Assessment – Identify possible blockers and backup plans.
+Reporting & Analytics – Agree on metrics, dashboards, and reporting frequency.
+Provide a shared campaign tracker as part of the meeting output."*
+Inputs:
+
+Campaign brief
+Creative asset list
+Budget allocation by channel
+Key dates (launch, mid-review, wrap-up)
+
+Prompt 20 – Product Launch Readiness Review Agenda
+Backstory:
+A Pune-based consumer electronics company is preparing to launch a new smart home device. In the past, launches have faced last-minute hiccups because product, marketing, sales, and customer service teams were not aligned. The COO wants a readiness review meeting that serves as a final checklist before launch.
+
+Goal:
+Design a readiness review agenda ensuring all departments confirm readiness and dependencies are addressed.
+
+Prompt:
+*"You are a product launch coordinator. Draft a 2-hour product launch readiness review agenda including:
+
+Launch Goal Review – Sales targets, market positioning, unique features.
+Product Status – Final QA report, certifications, and inventory readiness.
+Marketing Plan Finalization – Campaign timelines, content readiness.
+Sales Enablement – Training completion, sales kit distribution.
+Customer Support Readiness – FAQs, support scripts, escalation matrix.
+Logistics & Supply Chain Check – Fulfilment readiness, delivery timelines.
+Go/No-Go Decision – Stakeholder consensus before final green light.
+Ensure agenda includes a risk mitigation checklist and post-launch monitoring plan."*
+Inputs:
+
+Launch date
+Departmental readiness reports
+Risk register
+Sales and marketing targets
+
+Prompt 21 – All-Hands Company Update Agenda
+Backstory:
+A growing fintech company in Mumbai holds quarterly all-hands meetings but struggles with keeping employees engaged. These sessions often turn into monologues from leadership, with minimal interaction or transparency. The HR team wants an engaging all-hands agenda that updates, inspires, and involves employees.
+
+Goal:
+Create an all-hands meeting agenda that balances business updates with team recognition and employee Q&A.
+
+Prompt:
+*"You are an internal communications manager. Create a 60-minute all-hands meeting agenda for a fintech company including:
+
+Opening & Company Vision Update – CEO shares progress towards long-term goals.
+Business Performance Summary – Financial highlights, market wins, customer growth.
+Department Spotlights – Rotating deep dives into 2–3 teams’ recent projects.
+Recognition Segment – Celebrate top performers, milestones, and customer praise.
+Open Q&A – Employees submit and vote on questions in advance.
+Closing Motivation – Leadership shares key priorities for next quarter.
+Include live polls or breakout chats to increase participation."*
+Inputs:
+
+Latest company KPIs
+Department highlights
+Employee recognition nominations
+Q&A platform setup
+
+Prompt 22 – Agile Sprint Planning Meeting Agenda
+Backstory:
+A product team in Hyderabad follows Scrum but often struggles to keep sprint planning sessions concise. Discussions tend to wander into problem-solving for specific tasks, delaying the overall process. The Scrum Master wants an agenda that structures discussions around priorities and commitments.
+
+Goal:
+Create a sprint planning meeting agenda that sets realistic sprint goals and task allocations while avoiding scope creep.
+
+Prompt:
+*"You are a Scrum Master. Draft a 2-hour sprint planning meeting agenda including:
+
+Review of Previous Sprint – Completed tasks, incomplete items, retrospective notes.
+Sprint Goal Definition – Agree on 1–2 primary outcomes for the sprint.
+Backlog Review & Prioritization – Select items aligned with sprint goal.
+Capacity Planning – Assign tasks based on team availability and velocity.
+Risk & Dependency Check – Address blockers before sprint starts.
+Commitment & Kick-Off – Team confirms ownership of sprint backlog.
+Use visual task boards and timebox discussions to prevent overruns."*
+Inputs:
+
+Updated backlog
+Team availability
+Previous sprint velocity data
+Known dependencies
+
+Prompt 23 – Crisis Management Meeting Agenda
+Backstory:
+A food delivery startup in Gurgaon faced a major PR crisis after a viral customer complaint. The leadership team needs a crisis management meeting agenda to coordinate damage control across PR, legal, operations, and customer service.
+
+Goal:
+Create a fast-paced, solution-oriented crisis meeting agenda.
+
+Prompt:
+*"You are a crisis communication strategist. Draft a 60-minute crisis management meeting agenda including:
+
+Situation Overview – Confirm facts and timeline of events.
+Impact Assessment – Review social media sentiment, media coverage, and legal exposure.
+Containment Measures – Immediate steps to limit damage.
+Communication Plan – Messaging for customers, media, and employees.
+Root Cause Analysis – Identify underlying issue to prevent recurrence.
+Action Assignment – Define owners for each recovery step.
+Follow-Up Schedule – Set review points until crisis is resolved.
+Ensure agenda includes decision-making authority and escalation triggers."*
+Inputs:
+
+Crisis details and timeline
+PR and social listening reports
+Legal and compliance input
+Recovery resources available
+
+Prompt 24 – Innovation Brainstorm Agenda
+Backstory:
+An edtech startup in Bengaluru wants to hold quarterly innovation sessions to crowdsource ideas from employees for new products and process improvements. Previous attempts at brainstorming have resulted in unfocused discussions and few actionable outcomes.
+
+Goal:
+Create an innovation brainstorming agenda that channels creativity into practical, testable ideas.
+
+Prompt:
+*"You are an innovation workshop facilitator. Draft a 2-hour brainstorming meeting agenda including:
+
+Inspiration Segment – Share industry trends, customer insights, and competitor moves.
+Idea Generation Round 1 – Individual silent brainstorming.
+Idea Sharing & Clustering – Group similar ideas and identify themes.
+Idea Prioritization – Vote on top ideas based on impact and feasibility.
+Action Planning – Assign small teams to develop top 3 ideas into prototypes.
+Closing & Next Steps – Schedule follow-up to review progress.
+Use creative exercises like 'How Might We' framing to focus thinking."*
+Inputs:
+
+Recent market research
+Company strategic priorities
+Workshop facilitation tools
+Budget for prototyping
+
+Prompt 25 – Customer Feedback Review Meeting Agenda
+Backstory:
+A mid-sized hospitality chain collects guest feedback through surveys and online reviews but rarely acts on it systematically. The COO wants a monthly meeting to review customer insights and translate them into service improvements.
+
+Goal:
+Design a customer feedback review agenda that links guest sentiment directly to operational changes.
+
+Prompt:
+*"You are a customer experience strategist. Create a 90-minute customer feedback review meeting agenda including:
+
+Feedback Summary – Review survey scores, online ratings, and key trends.
+Positive Highlights – Identify what guests love to maintain consistency.
+Improvement Areas – Discuss recurring complaints or low-rated experiences.
+Root Cause Analysis – Link service issues to operational gaps.
+Action Item Assignment – Assign owners to fix specific issues.
+Follow-Up Mechanism – Track if changes improve future feedback.
+Include pre-meeting data dashboards to save time."*
+Inputs:
+
+Latest feedback reports
+Service quality benchmarks
+Department leads for follow-up
+Budget for service improvements
+
+
+Conflict resolution scripts
+
+Prompt 1 – Conflict Between Two Team Members Over Credit for Work
+Backstory:
+
+In a digital marketing agency in Gurugram, two young executives — both in their late 20s — have been working on a high-profile campaign for a luxury brand. After the campaign's success, both claimed to have been the primary contributor. The disagreement has escalated into passive-aggressive emails and visible tension in team meetings. The account manager needs a conflict resolution script to address both parties, ensure credit is shared fairly, and restore team harmony without causing further resentment.
+
+Goal:
+
+Create a step-by-step script for mediating a dispute between two employees over project credit, ensuring both feel heard and valued while focusing on collective team success.
+
+Prompt:
+
+"You are an HR conflict resolution specialist. Draft a mediation script for a manager to resolve a dispute between two team members over credit for a successful project. The script should include: 
+
+Opening & Setting the Tone – Neutral, non-accusatory start. 
+Individual Sharing – Allow each person to share their perspective without interruptions. 
+Fact-Finding – Ask clarifying questions to understand contributions. 
+Acknowledgment & Validation – Recognize each person’s effort explicitly. 
+Reframing Towards Team Success – Shift focus from individual credit to collective achievement. 
+Agreement & Next Steps – Define how credit will be communicated to stakeholders and set expectations for future collaborations.
+
+Include language tips to prevent defensiveness and ensure both parties leave the meeting with a sense of fairness."*
+Inputs: 
+
+Details of the project 
+Specific contributions from each member 
+Company policy on recognition and awards 
+Any past conflicts between the two employees
