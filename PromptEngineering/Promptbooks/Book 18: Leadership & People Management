@@ -2293,4 +2293,335 @@ Wellness focus areas (physical, mental, nutritional)
 Budget limit
 Hybrid or fully in-office
 
+Prompt 3 — Cross-Department Collaboration Challenge
+Backstory:
+Meera, 27, recently joined as an engagement coordinator at a mid-sized FMCG company in Mumbai. She noticed that employees mostly interact within their own departments, which limits idea exchange and innovation. She wants to design a fun “Collaboration Challenge” that encourages employees from different teams to work together.
+
+Goal:
+Develop a one-week cross-department collaboration program that fosters idea-sharing, creativity, and healthy competition.
+
+Prompt:
+"You are a corporate engagement specialist. Create a ‘Collaboration Challenge’ for 80 employees across 4 departments. The program should:
+
+Assign mixed-department teams.
+Give them fun, innovation-based tasks (e.g., design a mock product, pitch a marketing campaign).
+Include a scoring system and panel of judges.
+End with a showcase and prize ceremony.
+Ensure the challenge builds long-term interdepartmental relationships."
+Inputs:
+
+Number of participants
+Departments involved
+Duration (days)
+Type of tasks (innovation, creative, social impact)
+
+Prompt 4 — Employee Birthday Celebration Calendar
+Backstory:
+Karan, 31, works in HR at a start-up in Gurugram. Employees often forget each other’s birthdays due to hectic schedules, which misses opportunities for bonding. Karan wants a simple but memorable birthday engagement plan that makes each employee feel valued without spending much.
+
+Goal:
+Create an annual employee birthday celebration plan that is budget-friendly and personalised.
+
+Prompt:
+"You are a workplace culture consultant. Design a 12-month employee birthday celebration calendar for a team of 50 people. Include:
+
+A system for tracking and announcing birthdays.
+Low-cost yet thoughtful celebration ideas.
+A virtual option for remote staff.
+A small personalised gift idea for each month.
+Budget: ₹500 per person annually."
+Inputs:
+
+Number of employees
+Celebration style (in-person, hybrid, virtual)
+Budget per employee
+
+Prompt 5 — Gamified Learning Program
+Backstory:
+Sonia, 28, is an L&D (Learning and Development) officer in a large IT company in Hyderabad. Many employees attend training sessions but forget most of the content after a few weeks. She wants to make learning fun by gamifying the process and offering rewards for consistent participation.
+
+Goal:
+Create a gamified corporate learning plan that encourages employees to actively participate and retain knowledge.
+
+Prompt:
+"You are a corporate learning designer. Create a gamified training program for 200 employees that:
+
+Converts training modules into interactive challenges.
+Assigns points for participation and completion.
+Includes leaderboards, badges, and rewards.
+Offers a quarterly ‘Champion Learner’ award.
+Keep the platform accessible via mobile and desktop. Ensure the plan is engaging for employees aged 20–35."
+Inputs:
+
+Number of employees
+Training topics
+Duration of program
+Budget for rewards
+
+Prompt 6 — Office Décor Competition
+Backstory:
+Rahul, 30, works at a creative agency in Pune. The office environment has started to feel dull, with blank walls and outdated furniture. Rahul believes a lively, visually stimulating workspace can boost motivation. He wants to run an “Office Décor Competition” where teams can transform their work areas into inspiring zones.
+
+Goal:
+Design a team-based office décor challenge that encourages creativity, collaboration, and pride in the workplace.
+
+Prompt:
+"You are a workplace engagement designer. Create an ‘Office Décor Competition’ plan for 60 employees divided into 6 teams. The plan should:
+
+Provide clear décor guidelines (budget, materials, safety rules).
+Have a theme (e.g., “Future of Work” or “Sustainable Spaces”).
+Include judging criteria for creativity, functionality, and teamwork.
+End with a reveal day and award ceremony.
+Ensure inclusivity for remote teams by allowing them to submit virtual workspace makeovers."
+Inputs:
+
+Number of teams
+Theme of decoration
+Budget per team
+Duration of competition
+
+Prompt 7 — ‘Lunch & Learn’ Knowledge Sharing
+Backstory:
+Shreya, 32, manages HR at a fintech company in Bengaluru. She wants employees to learn from each other’s skills without it feeling like another mandatory training. She envisions short, interactive lunch sessions where employees present topics they’re passionate about — from investing tips to photography.
+
+Goal:
+Create a monthly “Lunch & Learn” program that encourages peer-to-peer learning in a relaxed, social setting.
+
+Prompt:
+"You are a workplace learning consultant. Design a 12-month ‘Lunch & Learn’ plan for 40 employees. The program should:
+
+Feature one volunteer speaker each month.
+Cover both professional skills and personal hobbies.
+Provide a lunch budget and snacks.
+Include a voting system for the most engaging session, with small rewards.
+Offer hybrid participation for remote employees."
+Inputs:
+
+Number of employees
+Budget for lunch per session
+Preferred session duration
+Topics allowed (work-only, or personal too)
+
+Prompt 8 — CSR Volunteering Day
+
+Backstory:
+Deepak, 34, is the CSR lead at a manufacturing company in Gujarat. He wants employees to feel more connected to the company’s values by participating in a hands-on volunteering day. His challenge is to make it enjoyable and impactful, rather than just another formality.
+
+Goal:
+Plan a corporate volunteering day that blends social impact with team bonding.
+
+Prompt:
+"You are a CSR engagement strategist. Create a 1-day corporate volunteering plan for 100 employees. The plan should:
+
+Partner with local NGOs.
+Include team-based activities (tree plantation, skill workshops for underprivileged youth).
+Provide branded volunteer T-shirts and refreshments.
+End with a reflection session to discuss learnings.
+Ensure the plan aligns with the company’s sustainability goals."
+Inputs:
+
+Number of volunteers
+Cause/theme of volunteering
+Location options
+Budget limit
+
+Prompt 9 — Monthly Recognition Wall
+Backstory:
+Tanvi, 26, is an HR associate in a mid-size marketing firm in Delhi. While the company gives annual awards, she notices employees crave more frequent recognition. She wants a visible and interactive way to celebrate small wins every month.
+
+Goal:
+Create a recognition system that is public, interactive, and ongoing throughout the year.
+
+Prompt:
+"You are a workplace culture consultant. Design a ‘Monthly Recognition Wall’ program for a company of 80 employees. The program should:
+
+Allow employees to nominate peers for contributions.
+Display nominations physically in the office and virtually for remote workers.
+Feature rotating monthly themes (e.g., Teamwork Star, Innovation Hero).
+Include a small monthly reward for top-voted employees.
+Keep it budget-friendly and easy to maintain."
+Inputs:
+
+Number of employees
+Recognition categories
+Budget per month
+Display method (physical, digital, hybrid)
+
+Prompt 10 — Department Swap Day
+Backstory:
+Amit, 29, works at a large logistics company in Mumbai. Employees often don’t understand what other departments do, leading to miscommunication. Amit wants to introduce a “Department Swap Day” where employees experience a different role for a few hours.
+
+Goal:
+Encourage cross-functional understanding through a fun, role-swapping activity.
+
+Prompt:
+"You are a team culture facilitator. Create a ‘Department Swap Day’ plan for 50 employees across 5 departments. The plan should:
+
+Match employees with complementary roles.
+Include a guided observation period and a task simulation.
+Allow a post-activity discussion to share learnings.
+Provide a participation certificate for everyone.
+Ensure no critical operations are disrupted."
+Inputs:
+
+Number of employees
+Departments involved
+Duration of swap
+Type of roles
+
+Prompt 11 — Innovation Pitch Day
+Backstory:
+Riya, 31, heads the innovation committee at a healthcare start-up in Chennai. She wants employees to feel empowered to share new ideas without fear of rejection. She decides to host a fun “Pitch Day” where anyone can present a business improvement idea.
+
+Goal:
+Create a non-intimidating platform for employees to pitch creative ideas.
+
+Prompt:
+"You are a workplace innovation coach. Design a quarterly ‘Innovation Pitch Day’ for 70 employees. The plan should:
+
+Provide idea submission guidelines.
+Offer a short presentation slot for each participant.
+Use a friendly voting system with small prizes.
+Commit to implementing at least one winning idea each quarter.
+Keep it casual, inspiring, and supportive."
+Inputs:
+
+Number of participants
+Type of ideas allowed (product, process, culture)
+Duration of pitches
+Budget for prizes
+
+Prompt 12 — Fun Friday Game Hour
+Backstory:
+Vikram, 25, is the youngest member of HR at a retail company in Kolkata. He believes ending the week with lighthearted fun can improve morale. He wants to host a recurring “Fun Friday” game session.
+
+Goal:
+Boost morale and social connection through regular, casual game sessions.
+
+Prompt:
+"You are a team engagement planner. Create a ‘Fun Friday’ schedule for a company of 40 employees. The plan should:
+
+Alternate between online and offline games.
+Include team-based challenges.
+Keep sessions under 1 hour.
+Maintain a scoreboard for ongoing friendly competition.
+Ensure games are inclusive and require no special skills."
+Inputs:
+
+Number of employees
+Game type preference (online/offline)
+Frequency of sessions
+Budget for prizes
+
+Prompt 13 — Pet Day at Work
+Backstory:
+Nisha, 28, works in HR for a creative agency in Bengaluru. Many employees have pets and often share stories about them. She wants to create a “Pet Day” where employees can bring their pets to the office for a bonding experience.
+
+Goal:
+Strengthen workplace relationships through a pet-friendly event.
+
+Prompt:
+"You are an event engagement specialist. Create a ‘Pet Day’ plan for 30 employees. The plan should:
+
+Include safety guidelines for pets and people.
+Feature fun activities like pet fashion shows or obedience challenges.
+Provide treats for both pets and owners.
+Capture the event in photos for social media.
+Ensure inclusivity for employees without pets by assigning them as event hosts or judges."
+Inputs:
+
+Number of participants
+Pet types allowed
+Space and facilities available
+Budget limit
+
+Prompt 14 — Office Talent Show
+Backstory:
+Harsh, 35, manages HR at a multinational in Gurugram. He wants employees to showcase their hidden talents beyond work skills. He decides on an annual “Office Talent Show” that welcomes everything from singing to stand-up comedy.
+
+Goal:
+Celebrate employee diversity and creativity through a talent showcase.
+
+Prompt:
+"You are a workplace culture events planner. Design an ‘Office Talent Show’ for 150 employees. The plan should:
+
+Offer performance categories (music, dance, comedy, art).
+Have a registration process with time slots.
+Include live voting by the audience.
+Provide participation certificates and small prizes.
+Ensure the event runs under 3 hours and is family-friendly."
+Inputs:
+
+Number of employees
+Talent categories
+Duration of event
+Budget for prizes
+
+Prompt 15 — Microlearning Challenge
+Backstory:
+Ishaan, 27, works in L&D for a SaaS company in Hyderabad. Employees are too busy for long training sessions, so he wants to introduce “Microlearning Challenges” — short, engaging learning bites.
+
+Goal:
+Enhance skill development through quick, fun, and competitive learning modules.
+
+Prompt:
+"You are a corporate learning strategist. Create a 4-week ‘Microlearning Challenge’ for 100 employees. The plan should:
+
+Deliver 5-minute lessons daily via email or app.
+End each lesson with a mini quiz.
+Keep a leaderboard and reward the top scorers.
+Rotate topics weekly (product knowledge, soft skills, industry trends).
+Ensure mobile-first accessibility."
+Inputs:
+
+Number of employees
+Duration of challenge
+Topics covered
+Budget for rewards
+
+Prompt 16 — Cultural Potluck Day
+Backstory:
+Sana, 29, works in HR for an ed-tech startup in Delhi with employees from across India. She notices that despite the diversity, most people eat lunch with their immediate team and rarely interact beyond their department. To encourage cultural exchange, she wants to organize a “Cultural Potluck Day” where everyone brings a homemade dish representing their culture or region. The aim is not just about food, but also about storytelling — each participant shares a short story behind their dish.
+
+Goal:
+Foster cross-departmental bonding, cultural appreciation, and informal conversation through a shared food experience.
+
+Prompt:
+"You are a workplace culture designer. Create a detailed plan for a ‘Cultural Potluck Day’ for 80 employees from multiple regions of India. Your plan must include:
+
+A sign-up sheet categorizing dishes into vegetarian, non-vegetarian, vegan, and dessert options to ensure variety.
+Guidelines for safe food handling, allergen labeling, and portion sizes.
+A 2-minute storytelling segment for each participant to share the cultural background of their dish.
+An optional cooking demo for interested employees.
+A friendly award segment with titles like ‘Most Unique Dish’ or ‘Best Story’.
+Ensure inclusion of remote employees by allowing them to share recipes and photos of their dishes virtually."
+Inputs:
+
+Number of participants
+Office kitchen/facility availability
+Food categories allowed
+Budget for decorations and awards
+
+Prompt 17 — Reverse Mentorship Program
+Backstory:
+Arjun, 34, works at a large IT services firm in Pune. While senior leadership has years of industry knowledge, many are unfamiliar with new tools, Gen Z work culture, or emerging tech trends. Arjun proposes a “Reverse Mentorship Program” where younger employees mentor senior leaders on topics like AI tools, social media, or UX design, while also learning leadership skills in return.
+
+Goal:
+Encourage knowledge exchange between generations, improve digital literacy among senior leaders, and empower young employees.
+
+Prompt:
+"You are a workplace mentorship architect. Design a 6-month ‘Reverse Mentorship Program’ for 40 mentor-mentee pairs. Your plan must include:
+
+A matching system based on skills offered and skills sought.
+A structured monthly meeting agenda template.
+Guidelines for setting mutual learning goals.
+Tracking metrics for progress (knowledge tests, project outcomes).
+A final showcase event where pairs present their learnings.
+Incorporate remote-friendly features like video call templates and shared digital workbooks."
+Inputs:
+
+Number of mentor-mentee pairs
+Topics to be covered
+Duration of mentorship
+Tracking method for progress
 
