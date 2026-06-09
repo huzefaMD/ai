@@ -1293,170 +1293,170 @@ Tasks:
 
 3. Tax-saving preferences (ELSS, PPF, etc.)
 ```
-Prompt 17 — Historical Drawdown Analysis
+## Prompt 17 — Historical Drawdown Analysis
 
-Backstory:
+`Backstory:`
 
-A 26-year-old civil engineer from Nagpur wants to see how much his portfolio value could drop in extreme market conditions, based on historical price movements of his holdings over the last 10 years.
+`A 26-year-old civil engineer from Nagpur wants to see how much his portfolio value could drop in extreme market conditions, based on historical price movements of his holdings over the last 10 years.`
 
-Goal:
+`Goal:`
 
-Identify maximum historical drawdowns and recovery times.
+`Identify maximum historical drawdowns and recovery times.`
 
-Prompt:
+`Prompt:`
 
-"You are a market risk analyst. Calculate max drawdown for the portfolio over last 10 years.
+`"You are a market risk analyst. Calculate max drawdown for the portfolio over last 10 years.`
 
-Include:
-
+`Include:`
+```
 1. Largest peak-to-trough decline (%)
 
 2. Recovery duration
 
 3. Chart showing drawdown periods"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Historical price data for holdings
 
 2. Portfolio allocation history
+```
+## Prompt 18 — Portfolio Alignment with Goals
 
-Prompt 18 — Portfolio Alignment with Goals
+`Backstory:`
 
-Backstory:
+`A 32-year-old lawyer from Lucknow has 3 major goals — buying a house in 5 years, child’s education in 15 years, and retirement in 30 years. She wants to know if her current portfolio allocation supports these timelines.`
 
-A 32-year-old lawyer from Lucknow has 3 major goals — buying a house in 5 years, child’s education in 15 years, and retirement in 30 years. She wants to know if her current portfolio allocation supports these timelines.
+`Goal:`
 
-Goal:
+`Match investments to specific life goals.`
 
-Match investments to specific life goals.
+`Prompt:`
 
-Prompt:
+`"You are a goal-based financial planner. Align portfolio with stated financial goals.`
 
-"You are a goal-based financial planner. Align portfolio with stated financial goals.
-
-For each goal:
-
+`For each goal:`
+```
 1. Estimate required corpus
 
 2. Map suitable investments from current portfolio
 
 3. Identify shortfall and suggest new investments"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Current portfolio details
 
 2. Goal timelines and estimated costs
 
 3. Inflation assumption
+```
+## Prompt 19 — Portfolio Cost Analysis
 
-Prompt 19 — Portfolio Cost Analysis
+`Backstory:`
 
-Backstory:
+`A 28-year-old entrepreneur from Jaipur suspects that high expense ratio mutual funds and frequent stock trades are eating into his returns. He wants to quantify total annual portfolio costs.`
 
-A 28-year-old entrepreneur from Jaipur suspects that high expense ratio mutual funds and frequent stock trades are eating into his returns. He wants to quantify total annual portfolio costs.
+`Goal:`
 
-Goal:
+`Calculate and summarize portfolio costs.`
 
-Calculate and summarize portfolio costs.
+`Prompt:`
 
-Prompt:
+`"You are a cost-efficiency analyst. Review portfolio for annual costs.`
 
-"You are a cost-efficiency analyst. Review portfolio for annual costs.
-
-Include:
-
+`Include:`
+```
 1. Expense ratios for mutual funds
 
 2. Brokerage and transaction fees for stocks
 
 3. Total costs as % of portfolio value"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. List of mutual funds and expense ratios
 
 2. Stock trade history with brokerage rates
+```
+## Prompt 20 — Portfolio Concentration Risk Report
 
-Prompt 20 — Portfolio Concentration Risk Report
+`Backstory:`
 
-Backstory:
+`A 30-year-old mechanical engineer from Chennai holds 70% of his equity investments in just 3 companies. He wants to understand the risk of such concentration and its effect on volatility.`
 
-A 30-year-old mechanical engineer from Chennai holds 70% of his equity investments in just 3 companies. He wants to understand the risk of such concentration and its effect on volatility.
+`Goal:`
 
-Goal:
+`Assess and visualize portfolio concentration risk.`
 
-Assess and visualize portfolio concentration risk.
+`Prompt:`
 
-Prompt:
+`"You are a portfolio risk analyst. Create a report showing % allocation to top holdings.`
 
-"You are a portfolio risk analyst. Create a report showing % allocation to top holdings.
-
-Highlight:
-
+`Highlight:`
+```
 1. Any single holding >10% of portfolio
 
 2. Impact of 20% drop in top holdings"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Portfolio holdings and values
 
 2. Risk tolerance level
+```
+## Prompt 21 — Factor-Based Portfolio Analysis
 
-Prompt 21 — Factor-Based Portfolio Analysis
+`Backstory:`
 
-Backstory:
+`A 34-year-old fund enthusiast in Bengaluru follows factor investing (value, momentum, low volatility) but isn’t sure which factors his portfolio is tilted towards.`
 
-A 34-year-old fund enthusiast in Bengaluru follows factor investing (value, momentum, low volatility) but isn’t sure which factors his portfolio is tilted towards.
+`Goal:`
 
-Goal:
+`Identify factor exposure of the portfolio.`
 
-Identify factor exposure of the portfolio.
+`Prompt:`
 
-Prompt:
+`"You are a quant analyst. Map portfolio to factor exposures.`
 
-"You are a quant analyst. Map portfolio to factor exposures.
-
-Include:
-
+`Include:`
+```
 1. % tilt towards each factor
 
 2. Compare returns to factor indices
 
 3. Suggest rebalancing for desired factor mix"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. List of stocks and weights
 
 2. Factor score database
+```
+## Prompt 22 — Retirement Corpus Projection
 
-Prompt 22 — Retirement Corpus Projection
+`Backstory:`
 
-Backstory:
+`A 29-year-old architect from Kochi wants to retire at 55. She invests in mutual funds and EPF, but isn’t sure if her current pace will meet her desired lifestyle.`
 
-A 29-year-old architect from Kochi wants to retire at 55. She invests in mutual funds and EPF, but isn’t sure if her current pace will meet her desired lifestyle.
+`Goal:`
 
-Goal:
+`Project retirement corpus and identify gaps.`
 
-Project retirement corpus and identify gaps.
+`Prompt:`
 
-Prompt:
+`"You are a retirement planner. Project corpus at retirement age based on current portfolio and contributions.`
 
-"You are a retirement planner. Project corpus at retirement age based on current portfolio and contributions.
-
-Show:
-
+`Show:`
+```
 1. Total projected corpus
 
 2. Required corpus for desired lifestyle
 
 3. Additional investment needed"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Current portfolio value
 
 2. Monthly investment amount
@@ -1464,83 +1464,83 @@ Inputs Required:
 3. Expected annual return
 
 4. Inflation rate
+```
+## Prompt 23 — Reinvestment Strategy for Maturity Proceeds
 
-Prompt 23 — Reinvestment Strategy for Maturity Proceeds
+`Backstory:`
 
-Backstory:
+`A 31-year-old dentist in Hyderabad has an FD maturing next month and wants to reinvest the amount to improve returns without taking excessive risk.`
 
-A 31-year-old dentist in Hyderabad has an FD maturing next month and wants to reinvest the amount to improve returns without taking excessive risk.
+`Goal:`
 
-Goal:
+`Suggest reinvestment options based on risk profile.`
 
-Suggest reinvestment options based on risk profile.
+`Prompt:`
 
-Prompt:
+`"You are a personal investment consultant. Recommend reinvestment options for maturity proceeds.`
 
-"You are a personal investment consultant. Recommend reinvestment options for maturity proceeds.
-
-Include:
-
+`Include:`
+```
 1. At least 3 options with risk/return profile
 
 2. Tax implications
 
 3. Liquidity considerations"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Maturity amount
 
 2. Risk tolerance
 
 3. Investment horizon
+```
+## Prompt 24 — Goal-Based SIP Allocation
 
-Prompt 24 — Goal-Based SIP Allocation
+`Backstory:`
 
-Backstory:
+`A 25-year-old fresher in Mumbai wants to start 3 SIPs for different goals — a bike purchase in 3 years, a master’s degree in 5 years, and a house down payment in 10 years.`
 
-A 25-year-old fresher in Mumbai wants to start 3 SIPs for different goals — a bike purchase in 3 years, a master’s degree in 5 years, and a house down payment in 10 years.
+`Goal:`
 
-Goal:
+`Allocate SIP amounts to each goal for optimal growth.`
 
-Allocate SIP amounts to each goal for optimal growth.
+`Prompt:`
 
-Prompt:
+`"You are a SIP allocation planner. Suggest fund types and amounts for each goal.`
 
-"You are a SIP allocation planner. Suggest fund types and amounts for each goal.
-
-For each goal:
-
+`For each goal:`
+```
 1. Recommended asset class/fund category
 
 2. Monthly contribution required
 
 3. Expected return and maturity value"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Goal timelines and cost estimates
 
 2. Risk appetite
 
 3. Total monthly budget for SIPs
+```
+## Prompt 25 — Annual Portfolio Review Report
 
-Prompt 25 — Annual Portfolio Review Report
+`Backstory:`
 
-Backstory:
+`A 33-year-old finance professional in Delhi does ad-hoc investments but never a full portfolio review. He wants an annual summary that covers performance, asset allocation, risks, and recommendations.`
 
-A 33-year-old finance professional in Delhi does ad-hoc investments but never a full portfolio review. He wants an annual summary that covers performance, asset allocation, risks, and recommendations.
+`Goal:`
 
-Goal:
+`Create a comprehensive annual portfolio review.`
 
-Create a comprehensive annual portfolio review.
+`Prompt:`
 
-Prompt:
+`"You are a portfolio manager. Prepare a full-year review of the portfolio.`
 
-"You are a portfolio manager. Prepare a full-year review of the portfolio.
-
-Include:
-
+`Include:`
+```
 1. Annual returns vs benchmark
 
 2. Asset allocation chart
@@ -1548,15 +1548,15 @@ Include:
 3. Major risks and recommendations
 
 4. Action plan for next year"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Portfolio holdings with purchase data
 
 2. Benchmark indices
 
 3. Annual transaction history
-
+```
 
 Tax planning & GST compliance
 
