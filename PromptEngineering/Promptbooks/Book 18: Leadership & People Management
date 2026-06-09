@@ -4173,119 +4173,188 @@ Access permissions hierarchy
 File retention policies
 
 Prompt 21 — Remote Escalation & Crisis Management SOP
+
 Backstory:
+
 Priya, 34, is the project director of a marketing agency with remote teams in Mumbai, Delhi, and Bengaluru. Recently, a high-profile client campaign almost failed because a critical issue was not escalated on time — team members assumed someone else was handling it. This caused last-minute chaos, unnecessary overtime, and strained client relations. Priya wants a crystal-clear SOP that defines exactly when and how to escalate an issue in a remote setting, who to contact, and how to document actions taken, ensuring no crisis slips through unnoticed.
 
 Goal:
+
 Create a remote escalation and crisis management SOP that eliminates ambiguity, reduces downtime, and ensures swift coordinated action during emergencies.
 
 Prompt:
+
 "You are a remote operations strategist. Draft a Crisis Management & Escalation SOP for a distributed marketing agency. This SOP must include:
 
-Escalation Triggers — clear criteria for when an issue qualifies for escalation (e.g., missed deadlines, client dissatisfaction, legal risks).
-Escalation Levels — step-by-step hierarchy of who to contact at each severity level.
-Communication Protocol — approved channels (Slack, Zoom, WhatsApp) and message templates for urgency.
-Incident Documentation — creating a time-stamped log with actions taken and outcomes.
-Post-Mortem Review — a standardized debrief template to capture lessons learned and process improvements.
-Business Continuity Plan — backup steps to keep client work on track during crisis."
+1. Escalation Triggers — clear criteria for when an issue qualifies for escalation (e.g., missed deadlines, client dissatisfaction, legal risks).
+
+2. Escalation Levels — step-by-step hierarchy of who to contact at each severity level.
+
+3. Communication Protocol — approved channels (Slack, Zoom, WhatsApp) and message templates for urgency.
+
+4. Incident Documentation — creating a time-stamped log with actions taken and outcomes.
+
+5. Post-Mortem Review — a standardized debrief template to capture lessons learned and process improvements.
+
+6. Business Continuity Plan — backup steps to keep client work on track during crisis."
+
 Inputs:
 
-Team size & structure
-Time zones covered
-Communication platforms in use
-Client SLA requirements
-Legal/regulatory compliance needs
+1. Team size & structure
+
+2. Time zones covered
+
+3. Communication platforms in use
+
+4. Client SLA requirements
+
+5. Legal/regulatory compliance needs
 
 Prompt 22 — Remote Time Zone Coordination SOP
+
 Backstory:
+
 Aditya, 30, manages a SaaS development team with members in India, Germany, and Canada. Coordinating meetings and deadlines across time zones is a constant headache — some members are forced into late-night calls, and others miss updates entirely. Deadlines are often misunderstood due to different local times. Aditya needs a repeatable SOP to ensure smooth time zone management, minimizing burnout and missed communication.
 
 Goal:
+
 Create a time zone coordination SOP that standardizes meeting scheduling, deadline setting, and asynchronous communication for global remote teams.
 
 Prompt:
+
 "You are a global remote workflow consultant. Write a Time Zone Coordination SOP for a SaaS team. Include:
 
-Preferred Working Hours Overlap — guidelines for finding 2–4 hours of common availability.
-Asynchronous Update Protocol — how to structure daily updates for those who can’t attend live meetings.
-Deadline Setting Rules — always specify deadlines in UTC and local time.
-Scheduling Tools Usage — standardized use of tools like World Time Buddy or Google Calendar with time zone conversion enabled.
-Meeting Rotation Policy — rotating inconvenient meeting times fairly across time zones.
-Holiday Awareness System — tracking public holidays for all team regions."
+1. Preferred Working Hours Overlap — guidelines for finding 2–4 hours of common availability.
+
+2. Asynchronous Update Protocol — how to structure daily updates for those who can’t attend live meetings.
+
+3. Deadline Setting Rules — always specify deadlines in UTC and local time.
+
+4. Scheduling Tools Usage — standardized use of tools like World Time Buddy or Google Calendar with time zone conversion enabled.
+
+5. Meeting Rotation Policy — rotating inconvenient meeting times fairly across time zones.
+
+6. Holiday Awareness System — tracking public holidays for all team regions."
+
 Inputs:
 
-Team locations and time zones
-Meeting frequency
-Collaboration tools used
-Client-facing vs internal project types
-Flexibility level in work hours
+1. Team locations and time zones
+
+2. Meeting frequency
+
+3. Collaboration tools used
+
+4. Client-facing vs internal project types
+
+5. Flexibility level in work hours
 
 Prompt 23 — Remote Task Handover for Leave & Absence SOP
+
 Backstory:
+
 Meera, 32, is a senior content strategist working with a remote editorial team. Every time someone goes on vacation or medical leave, their ongoing work is left in limbo, causing delays and confusion. Meera wants an SOP that ensures smooth task handovers before any planned absence and a clear plan for unplanned absences, so deadlines are met without overloading other team members.
 
 Goal:
+
 Design a remote task handover SOP that covers both planned and unplanned absences, ensuring work continuity and accountability.
 
 Prompt:
+
 "You are a workflow process designer. Create a Remote Task Handover SOP for a distributed editorial team. Include:
 
-Pre-Leave Handover Checklist — mandatory status updates, file links, and next-step instructions.
-Emergency Absence Protocol — who gets notified and how work is reassigned.
-Knowledge Transfer Guidelines — short Loom videos or written briefs explaining context.
-Task Tracker Updates — marking ownership changes in project management tools.
-Return-to-Work Briefing — a catch-up process to get the returning employee back up to speed quickly."
+1. Pre-Leave Handover Checklist — mandatory status updates, file links, and next-step instructions.
+
+2. Emergency Absence Protocol — who gets notified and how work is reassigned.
+
+3. Knowledge Transfer Guidelines — short Loom videos or written briefs explaining context.
+
+4. Task Tracker Updates — marking ownership changes in project management tools.
+
+5. Return-to-Work Briefing — a catch-up process to get the returning employee back up to speed quickly."
+
 Inputs:
 
-Team size
-Nature of tasks (creative/technical)
-Project management tools in use
-Backup staffing capacity
-Leave policy details
+1. Team size
+
+2. Nature of tasks (creative/technical)
+
+3. Project management tools in use
+
+4. Backup staffing capacity
+
+5. Leave policy details
 
 Prompt 24 — Remote Feedback Loop SOP for Continuous Improvement
+
 Backstory:
+
 Vikram, 29, is a product lead managing a hybrid engineering team. While feedback is encouraged, most suggestions get lost in chat threads or buried in emails. Team members feel unheard, and the same mistakes repeat across sprints. Vikram wants an SOP to formalize a feedback loop system so that every suggestion, bug report, and improvement idea is logged, reviewed, prioritized, and acted upon — even in a fully remote setup.
 
 Goal:
+
 Establish a structured feedback loop SOP that ensures continuous improvement in processes, products, and team communication.
 
 Prompt:
+
 "You are an agile process consultant. Draft a Remote Feedback Loop SOP for a hybrid engineering team. Include:
 
-Feedback Submission Format — standard template with problem, evidence, and suggestion.
-Centralized Logging Tool — using Jira/Trello/Notion to track all feedback items.
-Review Cadence — weekly or sprint-end review meetings for feedback prioritization.
-Action Assignment — clearly documenting who will address each feedback item and by when.
-Tracking Improvements — updating the log once feedback is implemented and sharing results.
-Anonymous Feedback Option — to encourage honesty without fear of backlash."
+1. Feedback Submission Format — standard template with problem, evidence, and suggestion.
+
+2. Centralized Logging Tool — using Jira/Trello/Notion to track all feedback items.
+
+3. Review Cadence — weekly or sprint-end review meetings for feedback prioritization.
+
+4. Action Assignment — clearly documenting who will address each feedback item and by when.
+
+5. Tracking Improvements — updating the log once feedback is implemented and sharing results.
+
+6. Anonymous Feedback Option — to encourage honesty without fear of backlash."
+
 Inputs:
 
-Team’s workflow methodology (Agile/Scrum/Kanban)
-Tools used for project tracking
-Feedback review frequency
-Types of feedback encouraged (process, product, culture)
+
+1. Team’s workflow methodology (Agile/Scrum/Kanban)
+
+2. Tools used for project tracking
+
+3. Feedback review frequency
+
+4. Types of feedback encouraged (process, product, culture)
 
 Prompt 25 — Remote Security & Data Protection SOP
+
 Backstory:
+
 Rohit, 35, is CTO of a fintech startup working entirely remotely. Given the sensitive nature of financial data, they face strict compliance requirements under Indian IT laws and GDPR for overseas clients. Team members work from personal laptops, coffee shops, and co-working spaces — increasing the risk of security breaches. Rohit needs a robust SOP that ensures maximum data protection while enabling productivity.
 
 Goal:
+
 Develop a security and data protection SOP for a remote fintech team that prevents breaches, ensures compliance, and promotes safe work habits.
 
 Prompt:
+
 "You are a cybersecurity policy expert. Write a Remote Security & Data Protection SOP for a fintech startup. Include:
 
-Device Security Requirements — antivirus, encryption, and automatic locking protocols.
-Network Security Rules — mandatory VPN use and restrictions on public Wi-Fi.
-Access Control — least-privilege principle for data access.
-Password & Authentication Guidelines — MFA, rotation schedules, and storage rules.
-Incident Response Plan — what to do in case of a suspected data breach.
-Compliance Checklist — aligning with Indian IT Act, GDPR, and any client-specific policies."
+1. Device Security Requirements — antivirus, encryption, and automatic locking protocols.
+
+2. Network Security Rules — mandatory VPN use and restrictions on public Wi-Fi.
+
+3. Access Control — least-privilege principle for data access.
+
+4. Password & Authentication Guidelines — MFA, rotation schedules, and storage rules.
+
+5. Incident Response Plan — what to do in case of a suspected data breach.
+
+6. Compliance Checklist — aligning with Indian IT Act, GDPR, and any client-specific policies."
+
 Inputs:
 
-Compliance frameworks applicable
-Tools for secure file sharing
-Number of remote employees
-Types of sensitive data handled
-Current security infrastructure
+1. Compliance frameworks applicable
+
+2. Tools for secure file sharing
+
+3. Number of remote employees
+
+4. Types of sensitive data handled
+
+5. Current security infrastructure
