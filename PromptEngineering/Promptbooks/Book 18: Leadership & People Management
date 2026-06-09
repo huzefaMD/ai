@@ -2738,3 +2738,245 @@ Inputs:
 
 4. Budget for books/incentives
 
+Prompt 22 — Themed Dress-Up Days
+
+Backstory:
+
+Kabir, 25, works in HR at a digital marketing firm in Hyderabad. He wants to inject some fun into the workweek by introducing monthly themed dress-up days, such as Retro Bollywood, Monochrome Monday, or Superhero Day.
+
+Goal:
+
+Boost employee morale and create lighthearted shared experiences.
+
+Prompt:
+
+"You are a workplace culture creator. Design a 12-month ‘Themed Dress-Up Day’ calendar for 80 employees. Your plan must:
+
+1. Suggest monthly themes, ensuring cultural sensitivity.
+
+2. Provide photo booth setups for social media sharing.
+
+3. Include a mini runway show or best-dressed contest each month.
+
+4. Offer participation badges or points for a leaderboard.
+
+5. Integrate hybrid participation by encouraging remote employees to post themed selfies."
+
+Inputs:
+
+1. Number of themes per year
+
+2. Types of themes allowed
+
+3. Budget for photo booth and prizes
+
+4. Participation tracking method
+
+Prompt 23 — DIY Skill Swap Fair
+
+Backstory:
+
+Ananya, 30, works for a co-working space in Bengaluru. She notices employees have unique personal skills — baking, photography, coding shortcuts — but no platform to share them. She wants to host a “Skill Swap Fair” where employees teach each other in short, hands-on sessions.
+
+Goal:
+
+Foster peer learning, creativity, and appreciation of colleagues’ talents.
+
+Prompt:
+
+"You are a workplace learning event organizer. Plan a 1-day ‘DIY Skill Swap Fair’ for 100 employees. The plan should:
+
+1. Invite employees to sign up as skill teachers or learners.
+
+2. Organize parallel 30-minute sessions for small groups.
+
+3. Provide basic materials or resources for each session.
+
+4. Have a closing ceremony where participants share what they learned.
+
+5. Encourage ongoing skill exchange beyond the event."
+
+Inputs:
+
+1. Number of participants
+
+2. Types of skills allowed
+
+3. Venue size and facilities
+
+4. Budget for materials
+
+Prompt 24 — Well-being Passport
+
+Backstory:
+
+Megha, 31, works in HR for a large retail chain in Jaipur. She wants to encourage employees to take part in wellness activities — from yoga classes to mindfulness workshops — by gamifying the process through a “Well-being Passport.”
+
+Goal:
+
+Increase employee participation in wellness initiatives through gamification.
+
+Prompt:
+
+"You are a workplace wellness strategist. Design a 6-month ‘Well-being Passport’ program for 150 employees. The plan should:
+
+1. Provide each employee with a physical or digital passport to track wellness activities attended.
+
+2. Assign points for each completed activity.
+
+3. Offer tiered rewards (e.g., Bronze, Silver, Gold achievers).
+
+4. Include monthly challenges like hydration tracking or 10,000 steps a day.
+
+5. Host a closing wellness carnival with rewards distribution."
+
+Inputs:
+
+1. Number of participants
+
+2. Types of wellness activities
+
+3. Reward tiers
+
+4. Tracking method (physical, app-based)
+
+Prompt 25 — Annual Gratitude Week
+
+Backstory:
+
+Rohit, 35, leads HR at a mid-sized IT services company in Gurgaon. He wants employees to end the year on a positive note by reflecting on achievements, appreciating colleagues, and recognizing team contributions through a “Gratitude Week.”
+
+Goal:
+
+Build a culture of appreciation, reflection, and positivity at year-end.
+
+Prompt:
+
+"You are a corporate culture consultant. Plan a 5-day ‘Gratitude Week’ for 200 employees. Your plan should:
+
+1. Assign a theme for each day (Thank a Colleague, Gratitude Wall, Reflect & Reset).
+
+2. Provide an online gratitude board for hybrid teams.
+
+3. Encourage handwritten appreciation notes for peers.
+
+4. Host a closing celebration with a slideshow of moments from the year.
+
+5. Include a time capsule activity where employees write future hopes."
+
+Inputs:
+
+1. Number of participants
+
+2. Duration of week
+
+3. Themes per day
+
+4. Budget for activities
+
+
+Remote Team Management SOPs
+
+Prompt 1 — Daily Stand-up Protocol for Remote Teams
+
+Backstory:
+
+Ria, 29, is a project manager at a digital marketing agency in Bengaluru. Her remote team spans three time zones — India, Dubai, and Singapore. While the team uses Slack and Trello, updates are inconsistent, causing delays and miscommunication. She wants an SOP for a 15-minute daily stand-up that ensures everyone shares progress, blockers, and priorities in a structured way, without eating into work time.
+
+Goal:
+
+Create a standardized remote daily stand-up SOP that improves communication, accountability, and alignment across time zones.
+
+Prompt:
+
+"You are a remote team operations expert. Design a daily stand-up SOP for a 10-member remote marketing team working across India, Dubai, and Singapore. Your SOP should include:
+
+1. The exact daily schedule adjusted for all time zones.
+
+2. A 3-question format (yesterday’s work, today’s priorities, blockers).
+
+3. Rules for keeping updates under 60 seconds per person.
+
+4. A shared Google Doc format for recording stand-up notes.
+
+5. A process for flagging urgent blockers immediately to the project lead.
+
+Output the SOP in a clear bullet-point checklist format ready to share with the team."
+
+Inputs:
+
+1. Team size and roles
+
+2. Time zones involved
+
+3. Tools already in use
+
+4. Maximum meeting length
+
+Prompt 2 — Remote Onboarding SOP
+
+Backstory:
+
+Kabir, 26, works in HR for a fintech company that has gone fully remote. He finds that new hires often feel lost during their first week because there’s no clear onboarding process tailored for remote employees. They miss introductions, fail to set up tools properly, and take longer to get productive. Kabir wants an SOP that standardizes remote onboarding so every new hire feels welcome and confident from day one.
+
+Goal:
+
+Develop a detailed remote onboarding SOP that ensures smooth integration of new hires into the company’s culture and workflow.
+
+Prompt:
+
+"You are a remote work HR consultant. Create a remote onboarding SOP for a fintech company with 50% international hires. Your SOP should include:
+
+1. A pre-onboarding checklist (sending equipment, account creation, welcome email).
+
+2. A day-by-day plan for the first week with introductions, tool training, and team bonding.
+
+3. Guidelines for assigning an onboarding buddy.
+
+4. A 30-day success checklist for the new hire.
+
+5. Templates for welcome messages and first-week feedback forms."
+
+Inputs:
+
+1. Company size
+
+2. Roles being onboarded
+
+3. Tools/software required
+
+4. Duration of onboarding
+
+Prompt 3 — Communication Cadence SOP
+
+Backstory:
+
+Ananya, 32, leads a product team working remotely from Pune, Jaipur, and Kochi. She’s struggling with overcommunication (too many messages) and undercommunication (missed updates). She wants an SOP that sets a predictable communication cadence so the team knows exactly when and how to share updates without micromanagement.
+
+Goal:
+
+Create a communication cadence SOP that balances efficiency, clarity, and team connectivity for remote workers.
+
+Prompt:
+
+"You are a remote communication strategist. Design a communication cadence SOP for a 15-person product team. The SOP must:
+
+1. Define which topics go in instant messages, email, and project management tools.
+
+2. Establish meeting frequencies (weekly sync, monthly review).
+
+3. Include guidelines for async updates with deadlines.
+
+4. Set rules for response times by channel.
+
+5. Outline quarterly team town halls with clear prep guidelines."
+
+Inputs:
+
+1. Team size
+
+2. Number of active projects
+
+3. Tools in use
+
+4. Preferred communication style (formal/informal)
