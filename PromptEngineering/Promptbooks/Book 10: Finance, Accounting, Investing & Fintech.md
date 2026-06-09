@@ -460,22 +460,22 @@
 
 3. Settlement time lag in days
 ```
-Prompt 15 — E-commerce Payment Gateway Reconciliation
+## Prompt 15 — E-commerce Payment Gateway Reconciliation
 
-Backstory:
+`Backstory:`
 
-A seller on Amazon and Flipkart from Ahmedabad gets payouts via Razorpay. They want to ensure every order shipped is paid for after deductions.
+`A seller on Amazon and Flipkart from Ahmedabad gets payouts via Razorpay. They want to ensure every order shipped is paid for after deductions.`
 
-Goal:
+`Goal:`
 
-Match order IDs to payment gateway payouts.
+`Match order IDs to payment gateway payouts.`
 
-Prompt:
+`Prompt:`
 
-"You are an e-commerce finance specialist. Match shipped orders to payment gateway deposits.
+`"You are an e-commerce finance specialist. Match shipped orders to payment gateway deposits.`
 
-Include: 
-
+`Include:`
+```
 1. Order ID 
 
 2. Gross order value 
@@ -483,29 +483,29 @@ Include:
 3. Platform commission deducted 
 
 4. Final payout amount"
-
-Inputs Required: 
-
+```
+`Inputs Required:` 
+```
 1. Order shipment report 
 
 2. Payment gateway settlement report 
 
 3. Commission rate per platform
+```
+## Prompt 16 — Subscription Payment Tracking
 
-Prompt 16 — Subscription Payment Tracking
+`Backstory:`
 
-Backstory:
+`A SaaS startup in Noida charges monthly subscriptions but struggles to track renewals and failed payments.`
 
-A SaaS startup in Noida charges monthly subscriptions but struggles to track renewals and failed payments.
+`Goal:`
 
-Goal:
+`Track subscription renewals and failed transactions.`
 
-Track subscription renewals and failed transactions.
+`Prompt:`
 
-Prompt:
-
-"You are a subscription finance tracker. Create a subscription payment log with:
-
+`"You are a subscription finance tracker. Create a subscription payment log with:`
+```
 1. Customer name
 
 2. Subscription start/end date
@@ -513,61 +513,61 @@ Prompt:
 3. Payment status (paid/failed)
 
 4. Renewal reminders"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Customer subscription database
 
 2. Payment processor logs
 
 3. Subscription plan pricing
+```
+## Prompt 17 — Credit Card Expense Reconciliation
 
-Prompt 17 — Credit Card Expense Reconciliation
+`Backstory:`
 
-Backstory:
+`A consultancy in Hyderabad uses a corporate credit card for travel and entertainment expenses. The finance team needs to reconcile card statements with receipts.`
 
-A consultancy in Hyderabad uses a corporate credit card for travel and entertainment expenses. The finance team needs to reconcile card statements with receipts.
+`Goal:`
 
-Goal:
+`Match card statement entries to receipts for expense verification.`
 
-Match card statement entries to receipts for expense verification.
+`Prompt:`
 
-Prompt:
+`"You are a corporate expense auditor. Reconcile credit card transactions to provided receipts.`
 
-"You are a corporate expense auditor. Reconcile credit card transactions to provided receipts.
-
-Flag:
-
+`Flag:`
+```
 1. Missing receipts
 
 2. Amount mismatches
 
 3. Unauthorized transactions"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Credit card statement
 
 2. Digital/paper receipts scanned
 
 3. Expense category mapping
+```
+## Prompt 18 — Advance Payment Settlement
 
-Prompt 18 — Advance Payment Settlement
+`Backstory:`
 
-Backstory:
+`A wedding planner in Chandigarh takes advance payments from clients and vendors but struggles to match them to final invoices.`
 
-A wedding planner in Chandigarh takes advance payments from clients and vendors but struggles to match them to final invoices.
+`Goal:`
 
-Goal:
+`Track advance payments and settlement status.`
 
-Track advance payments and settlement status.
+`Prompt:`
 
-Prompt:
+`"You are a project finance tracker. Create a log for advances taken and settled.`
 
-"You are a project finance tracker. Create a log for advances taken and settled.
-
-Include:
-
+`Include:`
+```
 1. Client/vendor name
 
 2. Advance amount and date
@@ -575,59 +575,59 @@ Include:
 3. Final invoice amount
 
 4. Settlement balance"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. List of all advances taken
 
 2. Final invoices issued
 
 3. Payment history
+```
+## Prompt 19 — Payroll Reconciliation
 
-Prompt 19 — Payroll Reconciliation
+`Backstory:`
 
-Backstory:
+`A mid-sized school in Patna processes monthly salaries but finds mismatches between payroll register and bank transfers.`
 
-A mid-sized school in Patna processes monthly salaries but finds mismatches between payroll register and bank transfers.
+`Goal:`
 
-Goal:
+`Reconcile payroll payouts to bank credits.`
 
-Reconcile payroll payouts to bank credits.
+`Prompt:`
 
-Prompt:
+`"You are a payroll reconciliation specialist. Match payroll register entries with bank transfer statements.`
 
-"You are a payroll reconciliation specialist. Match payroll register entries with bank transfer statements.
-
-Flag:
-
+`Flag:`
+```
 1. Missing payments
 
 2. Extra payments
 
 3. Amount mismatches"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Payroll register
 
 2. Bank transfer statement
 
 3. Pay period
+```
+## Prompt 20 — Cheque Clearing Tracker
 
-Prompt 20 — Cheque Clearing Tracker
+`Backstory:`
 
-Backstory:
+`A construction company in Nagpur receives large payments via cheques. They want to track clearing status and bounced cheques.`
 
-A construction company in Nagpur receives large payments via cheques. They want to track clearing status and bounced cheques.
+`Goal:`
 
-Goal:
+`Track cheque deposits and clearance.`
 
-Track cheque deposits and clearance.
+`Prompt:`
 
-Prompt:
-
-"You are a cheque processing tracker. Create a report showing:
-
+`"You are a cheque processing tracker. Create a report showing:`
+```
 1. Cheque number
 
 2. Bank
@@ -635,137 +635,137 @@ Prompt:
 3. Deposit date
 
 4. Clearance date or bounce reason"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. List of cheques received
 
 2. Bank deposit slips
 
 3. Clearance status updates
+```
+## Prompt 21 — Year-End Trial Balance Preparation
 
-Prompt 21 — Year-End Trial Balance Preparation
+`Backstory:`
 
-Backstory:
+`An NGO in Bhopal needs a trial balance ready for audit but their accounts are scattered across bank statements, receipts, and Excel sheets.`
 
-An NGO in Bhopal needs a trial balance ready for audit but their accounts are scattered across bank statements, receipts, and Excel sheets.
+`Goal:`
 
-Goal:
+`Prepare a complete trial balance.`
 
-Prepare a complete trial balance.
+`Prompt:`
 
-Prompt:
+`"You are an accountant. Prepare a trial balance from provided data.`
 
-"You are an accountant. Prepare a trial balance from provided data.
-
-Include:
-
+`Include:`
+```
 1. Ledger accounts with debit/credit balances
 
 2. Totals matching
 
 3. Highlight accounts needing clarification"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Ledger data
 
 2. Journal entries
 
 3. Bank reconciliations
+```
+## Prompt 22 — Fixed Asset Register Reconciliation
 
-Prompt 22 — Fixed Asset Register Reconciliation
+`Backstory:`
 
-Backstory:
+`A factory in Rajkot maintains a fixed asset register but hasn’t updated disposals and new purchases this year.`
 
-A factory in Rajkot maintains a fixed asset register but hasn’t updated disposals and new purchases this year.
+`Goal:`
 
-Goal:
+`Reconcile fixed asset register with actual purchases/disposals.`
 
-Reconcile fixed asset register with actual purchases/disposals.
+`Prompt:`
 
-Prompt:
-
-"You are an asset accountant. Update the fixed asset register by:
-
+`"You are an asset accountant. Update the fixed asset register by:`
+```
 1. Adding new assets purchased
 
 2. Removing disposed assets
 
 3. Updating depreciation till date"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Current asset register
 
 2. Purchase invoices
 
 3. Disposal records
+```
+## Prompt 23 — Internal Fund Transfer Reconciliation
 
-Prompt 23 — Internal Fund Transfer Reconciliation
+`Backstory:`
 
-Backstory:
+`A company with multiple bank accounts transfers funds internally. They want to match debits in one account with credits in another.`
 
-A company with multiple bank accounts transfers funds internally. They want to match debits in one account with credits in another.
+`Goal:`
 
-Goal:
+`Match internal transfers across accounts.`
 
-Match internal transfers across accounts.
+`Prompt:`
 
-Prompt:
+`"You are a treasury reconciliation specialist. Match all internal transfers between bank accounts by date and amount.`
 
-"You are a treasury reconciliation specialist. Match all internal transfers between bank accounts by date and amount.
+`Flag unmatched entries"`
 
-Flag unmatched entries"
-
-Inputs Required:
-
+`Inputs Required:`
+```
 1. Statements for all accounts
 
 2. Date tolerance (±1 day)
+```
+## Prompt 24 — Prepaid Expense Amortization
 
-Prompt 24 — Prepaid Expense Amortization
+`Backstory:`
 
-Backstory:
+`A firm in Chennai has prepaid annual insurance and software subscriptions. They want monthly amortization entries for accurate books.`
 
-A firm in Chennai has prepaid annual insurance and software subscriptions. They want monthly amortization entries for accurate books.
+`Goal:`
 
-Goal:
+`Create monthly expense recognition for prepaids.`
 
-Create monthly expense recognition for prepaids.
+`Prompt:`
 
-Prompt:
+`"You are an accountant. Amortize prepaid expenses across relevant months.`
 
-"You are an accountant. Amortize prepaid expenses across relevant months.
-
-Show: 
-
+`Show:` 
+```
 1. Original amount 
 
 2. Monthly amortization amount 
 
 3. Remaining balance"
-
-Inputs Required: 
-
+```
+`Inputs Required:` 
+```
 1. List of prepaid expenses with start/end dates 
 
 2. Expense category
+```
+## Prompt 25 — Partner Capital Account Reconciliation
 
-Prompt 25 — Partner Capital Account Reconciliation
+`Backstory:`
 
-Backstory:
+`A partnership firm in Jaipur needs to reconcile partner capital accounts after profit distribution and withdrawals.`
 
-A partnership firm in Jaipur needs to reconcile partner capital accounts after profit distribution and withdrawals.
+`Goal:`
 
-Goal:
+`Prepare final partner capital balances.`
 
-Prepare final partner capital balances.
+`Prompt:`
 
-Prompt:
-
-"You are a partnership accounts specialist. Reconcile capital accounts showing:
-
+`"You are a partnership accounts specialist. Reconcile capital accounts showing:`
+```
 1. Opening balance
 
 2. Profit share credited
@@ -773,15 +773,15 @@ Prompt:
 3. Withdrawals
 
 4. Closing balance"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Partner agreement terms
 
 2. Profit allocation ratio
 
 3. Withdrawal records
-
+```
 
 Investment portfolio analysis
 
