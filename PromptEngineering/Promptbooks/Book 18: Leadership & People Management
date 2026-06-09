@@ -2081,54 +2081,83 @@ Inputs:
 4. Current workload of each project team
 
 Prompt 9 – Conflict Due to Micromanagement
+
 Backstory:
+
 A 28-year-old designer in a Jaipur-based branding agency feels suffocated by a manager who constantly checks in on their work progress. The manager argues they are just ensuring quality and meeting deadlines, but the designer perceives it as a lack of trust. The relationship is strained, and productivity is dropping.
 
 Goal:
+
 Draft a resolution script that addresses concerns over micromanagement while maintaining accountability.
 
 Prompt:
+
 "You are a workplace relationship facilitator. Draft a conflict resolution script for a meeting between a manager and an employee over micromanagement concerns. Include:
 
-Opening & Framing – Explain that the meeting is to improve workflow trust and efficiency.
-Employee Concerns – Invite the employee to share how frequent check-ins affect their productivity.
-Manager’s Perspective – Allow the manager to explain why they follow up so often.
-Expectation Alignment – Define clear checkpoints and autonomy boundaries.
-Trial Period – Implement a 2-week test of the new arrangement.
-Review Session – Assess if both parties feel the balance has improved.
+1. Opening & Framing – Explain that the meeting is to improve workflow trust and efficiency.
+
+2. Employee Concerns – Invite the employee to share how frequent check-ins affect their productivity.
+
+3. Manager’s Perspective – Allow the manager to explain why they follow up so often.
+
+4. Expectation Alignment – Define clear checkpoints and autonomy boundaries.
+
+5. Trial Period – Implement a 2-week test of the new arrangement.
+
+6. Review Session – Assess if both parties feel the balance has improved.
+
 Include non-confrontational language to encourage openness."
+
 Inputs:
 
-Number of check-ins currently happening per week
-Project complexity level
-Employee’s performance track record
-Deadlines and quality expectations
+1. Number of check-ins currently happening per week
+
+2. Project complexity level
+
+3. Employee’s performance track record
+
+4. Deadlines and quality expectations
 
 Prompt 10 – Conflict Between Co-Founders Over Strategic Direction
+
 Backstory:
+
 Two co-founders of a Bengaluru-based edtech startup, both aged 32, are disagreeing on the next growth phase. One believes the company should focus on scaling fast, while the other insists on strengthening the core product first. The ongoing disagreement is confusing the leadership team and stalling decision-making.
 
 Goal:
+
 Create a resolution script to help co-founders align on a unified strategic direction.
 
 Prompt:
+
 *"You are a startup strategy mediator. Draft a resolution script for a meeting between two co-founders with differing growth strategies. Include:
 
-Opening & Vision Reminder – Restate the company’s mission and shared long-term goals.
-Strategic Position Sharing – Allow each founder to present their approach with data-backed reasoning.
-Risk-Benefit Analysis – Compare potential outcomes of each strategy.
-Hybrid Strategy Exploration – Identify ways to combine both approaches.
-Decision Framework – Agree on a decision-making process for future strategic disputes.
-Execution Agreement – Define next steps and assign responsibilities.
+1. Opening & Vision Reminder – Restate the company’s mission and shared long-term goals.
+
+2. Strategic Position Sharing – Allow each founder to present their approach with data-backed reasoning.
+
+3. Risk-Benefit Analysis – Compare potential outcomes of each strategy.
+
+4. Hybrid Strategy Exploration – Identify ways to combine both approaches.
+
+5. Decision Framework – Agree on a decision-making process for future strategic disputes.
+
+6. Execution Agreement – Define next steps and assign responsibilities.
+
 Provide neutral language to maintain mutual respect."*
+
 Inputs:
 
-Current company growth metrics
-Market competition data
-Product development stage
-Funding runway and investor expectations
+1. Current company growth metrics
+
+2. Market competition data
+
+3. Product development stage
+
+4. Funding runway and investor expectations
 
 Prompt 11 – Customer Service & Product Team Misalignment
+
 Backstory:
 
 At a consumer electronics company in Noida, the customer service team blames the product team for frequent issues, while the product team accuses customer service of poor troubleshooting. The constant blame-shifting has resulted in delayed issue resolution and frustrated customers.
@@ -2141,140 +2170,219 @@ Prompt:
 
 "You are a cross-functional problem-solving facilitator. Draft a script for a joint meeting between customer service and product teams to address recurring customer issue disputes. Include: 
 
-Shared Objective Reminder – Reinforce that customer satisfaction is the joint priority. 
-Issue Mapping – Each team shares recurring challenges they face. 
-Responsibility Clarification – Define which issues belong to which team. 
-Process Agreement – Create an escalation workflow for unresolved cases. 
-Feedback Loop Setup – Establish regular review meetings. 
-Positive Closure – End with commitments from both sides to collaborate better.
+1. Shared Objective Reminder – Reinforce that customer satisfaction is the joint priority. 
+
+2. Issue Mapping – Each team shares recurring challenges they face. 
+
+3. Responsibility Clarification – Define which issues belong to which team. 
+
+4. Process Agreement – Create an escalation workflow for unresolved cases. 
+
+5. Feedback Loop Setup – Establish regular review meetings. 
+
+6. Positive Closure – End with commitments from both sides to collaborate better.
 
 Include phrasing that keeps focus on solving customer problems, not assigning blame."
+
 Inputs: 
 
-Examples of recent disputes 
-Current escalation process 
-Customer satisfaction metrics 
-Team performance reports
+1. Examples of recent disputes 
+
+2. Current escalation process 
+
+3. Customer satisfaction metrics 
+
+4. Team performance reports
 
 Prompt 12 – Conflict Over Meeting Schedules
+
 Backstory:
+
 A project team in Kochi has members working across multiple time zones. A 27-year-old team member feels excluded because most meetings are scheduled late at night in their time zone. The project manager argues the schedule is optimal for the majority. Frustration is building, with the team member threatening to step back from the project.
 
 Goal:
+
 Create a resolution script to find an equitable meeting schedule that accommodates time zones fairly.
 
 Prompt:
+
 "You are a global team meeting facilitator. Draft a resolution script for addressing time zone meeting conflicts. Include:
 
-Opening & Acknowledgment – Recognize the challenge of multiple time zones.
-Current Schedule Review – Assess meeting times and attendance data.
-Impact Discussion – Allow the affected member to share how the timing impacts them.
-Rotation Proposal – Suggest rotating meeting times to share inconvenience.
-Documentation – Record the new schedule and agreement.
-Follow-Up Check – Review after 1 month to assess effectiveness.
+1. Opening & Acknowledgment – Recognize the challenge of multiple time zones.
+
+2. Current Schedule Review – Assess meeting times and attendance data.
+
+3. Impact Discussion – Allow the affected member to share how the timing impacts them.
+
+4. Rotation Proposal – Suggest rotating meeting times to share inconvenience.
+
+5. Documentation – Record the new schedule and agreement.
+
+6. Follow-Up Check – Review after 1 month to assess effectiveness.
+
 Include inclusive phrasing that makes all members feel valued."
+
 Inputs:
 
-Current meeting schedule
-Team members’ time zones
-Project urgency level
-Company policy on global team scheduling
+1. Current meeting schedule
+
+2. Team members’ time zones
+
+3. Project urgency level
+
+4. Company policy on global team scheduling
 
 Prompt 13 – Disagreement Between HR and Department Heads on Hiring Needs
+
 Backstory:
+
 In a Kolkata manufacturing firm, HR wants to slow down hiring to manage costs, while department heads argue that understaffing is hurting productivity. The standoff is delaying recruitment decisions and increasing stress on existing employees.
 
 Goal:
+
 Draft a resolution script that balances cost control with operational efficiency.
 
 Prompt:
+
 "You are a workforce planning mediator. Draft a script for resolving a hiring needs dispute between HR and department heads. Include:
 
-Opening & Context – Acknowledge both cost concerns and workload issues.
-Data Presentation – Each side presents relevant data (costs vs. output loss).
-Scenario Analysis – Explore outcomes of hiring now vs. delaying.
-Middle Ground – Consider phased hiring or temporary contracts.
-Final Agreement – Document the hiring plan.
-Review Mechanism – Assess progress after the first hires are made.
+1. Opening & Context – Acknowledge both cost concerns and workload issues.
+
+2. Data Presentation – Each side presents relevant data (costs vs. output loss).
+
+3. Scenario Analysis – Explore outcomes of hiring now vs. delaying.
+
+4. Middle Ground – Consider phased hiring or temporary contracts.
+
+5. Final Agreement – Document the hiring plan.
+
+6. Review Mechanism – Assess progress after the first hires are made.
+
 Include language that reinforces shared company goals."
+
 Inputs:
 
-Current staffing levels
-Cost of unfilled positions
-Productivity data
-Budget constraints
+1. Current staffing levels
+
+2. Cost of unfilled positions
+
+3. Productivity data
+
+4. Budget constraints
 
 Prompt 14 – Conflict Over Creative Direction in a Marketing Campaign
+
 Backstory:
+
 In a Delhi-based fashion brand, the marketing head and creative director disagree over the campaign theme for the upcoming season. The marketing head wants a mass-market appeal, while the creative director wants an artistic, niche approach. The launch date is near, and delays are becoming costly.
 
 Goal:
+
 Create a resolution script that aligns creative and business priorities.
 
 Prompt:
+
 "You are a creative-business alignment coach. Draft a conflict resolution script for a marketing vs. creative team dispute. Include:
 
-Opening & Project Goal Reminder – Restate campaign objectives.
-Creative Vision Presentation – Let the creative director explain their approach.
-Market Perspective Presentation – Allow the marketing head to present market research data.
-Idea Fusion – Find elements of each approach that can be combined.
-Decision Confirmation – Agree on the final direction.
-Execution Plan – Define next steps to meet deadlines.
+1. Opening & Project Goal Reminder – Restate campaign objectives.
+
+2. Creative Vision Presentation – Let the creative director explain their approach.
+
+3. Market Perspective Presentation – Allow the marketing head to present market research data.
+
+4. Idea Fusion – Find elements of each approach that can be combined.
+
+5. Decision Confirmation – Agree on the final direction.
+
+6. Execution Plan – Define next steps to meet deadlines.
+
 Use language that validates both artistic and commercial priorities."
+
 Inputs:
 
-Campaign objectives
-Market research data
-Brand positioning
-Timeline for launch
+1. Campaign objectives
+
+2. Market research data
+
+3. Brand positioning
+
+4. Timeline for launch
 
 Prompt 15 – Dispute Over Performance Metrics
+
 Backstory:
+
 At a logistics firm in Ahmedabad, the operations team feels the performance metrics set by the management are unrealistic and demotivating. Management insists the targets are achievable based on industry benchmarks. The disagreement has led to a drop in morale and growing friction.
 
 Goal:
+
 Draft a resolution script to reassess and agree on performance metrics that are both ambitious and fair.
 
 Prompt:
+
 "You are a performance management facilitator. Draft a mediation script for resolving disputes over performance metrics. Include:
 
-Opening & Objective Setting – Clarify the aim is to ensure metrics drive motivation, not frustration.
-Current Metrics Review – Present the existing targets and results.
-Employee Feedback – Hear concerns about achievability.
-Benchmark Analysis – Compare with industry data.
-Metric Adjustment – Agree on revised, realistic targets.
-Monitoring Plan – Review results after 1 quarter.
+1. Opening & Objective Setting – Clarify the aim is to ensure metrics drive motivation, not frustration.
+
+2. Current Metrics Review – Present the existing targets and results.
+
+3. Employee Feedback – Hear concerns about achievability.
+
+4. Benchmark Analysis – Compare with industry data.
+
+5. Metric Adjustment – Agree on revised, realistic targets.
+
+6. Monitoring Plan – Review results after 1 quarter.
+
 Include non-blaming language to keep discussion constructive."
+
 Inputs:
 
-Current performance metrics
-Past achievement data
-Industry benchmarks
-Employee workload levels
+1. Current performance metrics
+
+2. Past achievement data
+
+3. Industry benchmarks
+
+4. Employee workload levels
 
 Prompt 16 – Conflict Over Remote Work vs. Office Attendance
+
 Backstory:
+
 A Mumbai fintech startup implemented a hybrid work policy, but one team wants to work fully remotely, citing productivity and commute savings. The leadership insists on at least three days in the office for better collaboration. Frustrations are rising, with threats of resignation from some employees.
 
 Goal:
+
 Draft a resolution script that balances flexibility with team cohesion.
 
 Prompt:
+
 "You are a workplace flexibility mediator. Draft a resolution script for addressing disputes over remote work vs. office attendance. Include:
 
-Opening & Context – Recognize both the need for collaboration and flexibility.
-Productivity Data Review – Present actual performance metrics from remote vs. office work.
-Employee Concerns – Allow employees to share challenges and benefits of remote work.
-Hybrid Adjustment Plan – Propose a trial period with flexible arrangements.
-Accountability Measures – Define KPIs for the trial.
-Follow-Up – Review after 6 weeks to make a final decision.
+1. Opening & Context – Recognize both the need for collaboration and flexibility.
+
+2. Productivity Data Review – Present actual performance metrics from remote vs. office work.
+
+3. Employee Concerns – Allow employees to share challenges and benefits of remote work.
+
+4. Hybrid Adjustment Plan – Propose a trial period with flexible arrangements.
+
+5. Accountability Measures – Define KPIs for the trial.
+
+6. Follow-Up – Review after 6 weeks to make a final decision.
+
 Use phrasing that frames the solution as a shared experiment, not a mandate."
+
 Inputs:
 
-Productivity data
-Current hybrid policy details
-Employee commute times
-Project collaboration needs
+1. Productivity data
+
+2. Current hybrid policy details
+
+3. Employee commute times
+
+4. Project collaboration needs
 
 Prompt 17 – Disagreement Between Finance and Operations Over Expense Approvals
 Backstory:
