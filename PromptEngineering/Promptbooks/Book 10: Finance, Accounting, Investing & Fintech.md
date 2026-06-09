@@ -2512,22 +2512,22 @@ Tasks:
 
 3. Product cost data
 ```
-Prompt 6 — Department-Wise Expense Report
+## Prompt 6 — Department-Wise Expense Report
 
-Backstory:
+`Backstory:`
 
-A 31-year-old finance manager at a mid-sized IT company in Noida needs to present a quarterly expense breakdown by department (HR, Marketing, IT, Operations) to the CEO. Currently, all expenses are in one lump sum, making it hard to see which department is overspending. The CEO wants an easy-to-read report with color-coded variance indicators.
+`A 31-year-old finance manager at a mid-sized IT company in Noida needs to present a quarterly expense breakdown by department (HR, Marketing, IT, Operations) to the CEO. Currently, all expenses are in one lump sum, making it hard to see which department is overspending. The CEO wants an easy-to-read report with color-coded variance indicators.`
 
-Goal:
+`Goal:`
 
-Prepare a quarterly department-wise expense report with variance analysis.
+`Prepare a quarterly department-wise expense report with variance analysis.`
 
-Prompt:
+`Prompt:`
 
-"You are a corporate finance analyst. Prepare a department-wise expense report for the quarter.
+`"You are a corporate finance analyst. Prepare a department-wise expense report for the quarter.`
 
-Include:
-
+`Include:`
+```
 1. Total spend per department
 
 2. Budgeted vs. actual spend
@@ -2535,31 +2535,31 @@ Include:
 3. Variance in ₹ and %
 
 4. Highlight overspending in red and underspending in green"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Expense data categorized by department
 
 2. Quarterly budgets for each department
 
 3. Variance threshold for highlighting
+```
+## Prompt 7 — GST Collection & Payment Summary
 
-Prompt 7 — GST Collection & Payment Summary
+`Backstory:`
 
-Backstory:
+`A 28-year-old owner of a small electronics store in Surat wants a monthly GST report summarizing total GST collected from customers and GST paid to suppliers, along with net payable or refundable amounts. This helps him prepare for GST return filing without last-minute stress.`
 
-A 28-year-old owner of a small electronics store in Surat wants a monthly GST report summarizing total GST collected from customers and GST paid to suppliers, along with net payable or refundable amounts. This helps him prepare for GST return filing without last-minute stress.
+`Goal:`
 
-Goal:
+`Create a GST collection and payment summary for the month.`
 
-Create a GST collection and payment summary for the month.
+`Prompt:`
 
-Prompt:
+`"You are a GST accountant. Prepare a monthly GST summary report.`
 
-"You are a GST accountant. Prepare a monthly GST summary report.
-
-Include: 
-
+`Include:` 
+```
 1. Total GST collected on sales 
 
 2. Total GST paid on purchases 
@@ -2567,31 +2567,31 @@ Include:
 3. Net GST payable or refundable 
 
 4. Invoice count for sales and purchases"
-
-Inputs Required: 
-
+```
+`Inputs Required:`
+```
 1. Sales invoice list with GST amounts 
 
 2. Purchase invoice list with GST amounts 
 
 3. GST rate applicable
+```
+## Prompt 8 — Project-Based Profitability Report
 
-Prompt 8 — Project-Based Profitability Report
+`Backstory:`
 
-Backstory:
+`A 30-year-old project manager in a construction company in Pune handles multiple client projects. Management wants to know which projects are most profitable by comparing revenue generated with direct costs and allocated overheads.`
 
-A 30-year-old project manager in a construction company in Pune handles multiple client projects. Management wants to know which projects are most profitable by comparing revenue generated with direct costs and allocated overheads.
+`Goal:`
 
-Goal:
+`Prepare a profitability report for each active project.`
 
-Prepare a profitability report for each active project.
+`Prompt:`
 
-Prompt:
+`"You are a project finance analyst. Create a profitability report for all projects.`
 
-"You are a project finance analyst. Create a profitability report for all projects.
-
-Include:
-
+`Include:`
+```
 1. Revenue earned
 
 2. Direct costs (materials, labor)
@@ -2599,31 +2599,31 @@ Include:
 3. Overhead allocation
 
 4. Net profit and profit margin % per project"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Project revenue and cost data
 
 2. Overhead allocation method
 
 3. Project timelines
+```
+## Prompt 9 — Sales Performance Report by Region
 
-Prompt 9 — Sales Performance Report by Region
+`Backstory:`
 
-Backstory:
+`A 25-year-old sales analyst at a consumer goods company in Kolkata needs to prepare a monthly report showing sales performance across North, South, East, and West India. The company uses this to adjust regional marketing budgets.`
 
-A 25-year-old sales analyst at a consumer goods company in Kolkata needs to prepare a monthly report showing sales performance across North, South, East, and West India. The company uses this to adjust regional marketing budgets.
+`Goal:`
 
-Goal:
+`Create a region-wise sales performance report.`
 
-Create a region-wise sales performance report.
+`Prompt:`
 
-Prompt:
+`"You are a sales reporting specialist. Prepare a monthly regional sales report.`
 
-"You are a sales reporting specialist. Prepare a monthly regional sales report.
-
-Include:
-
+`Include:`
+```
 1. Total sales per region
 
 2. Growth rate vs. last month
@@ -2631,31 +2631,31 @@ Include:
 3. Contribution % of each region to total sales
 
 4. Top-selling products per region"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Monthly sales data by region
 
 2. Previous month’s sales data
 
 3. Product category mapping
+```
+## Prompt 10 — Startup Burn Rate & Runway Report
 
-Prompt 10 — Startup Burn Rate & Runway Report
+`Backstory:`
 
-Backstory:
+`A 27-year-old startup founder in Bengaluru needs to present the company’s financial health to potential investors. She wants a burn rate (monthly net cash outflow) and runway (months before funds run out) calculation based on current expenses and bank balance.`
 
-A 27-year-old startup founder in Bengaluru needs to present the company’s financial health to potential investors. She wants a burn rate (monthly net cash outflow) and runway (months before funds run out) calculation based on current expenses and bank balance.
+`Goal:`
 
-Goal:
+`Create a burn rate and runway report for a startup.`
 
-Create a burn rate and runway report for a startup.
+`Prompt:`
 
-Prompt:
+`"You are a startup finance analyst. Prepare a burn rate and runway calculation.`
 
-"You are a startup finance analyst. Prepare a burn rate and runway calculation.
-
-Include:
-
+`Include:`
+```
 1. Average monthly operating expense
 
 2. Current bank balance
@@ -2663,31 +2663,31 @@ Include:
 3. Estimated months of runway
 
 4. Scenario analysis for reduced or increased spending"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Last 6 months’ expense data
 
 2. Current cash reserves
 
 3. Any expected large future expenses
+```
+## Prompt 11 — Balance Sheet Template for MSMEs
 
-Prompt 11 — Balance Sheet Template for MSMEs
+`Backstory:`
 
-Backstory:
+`A 32-year-old owner of a small textile manufacturing unit in Tiruppur needs a professional balance sheet format for bank loan applications. His current records are handwritten and lack standard accounting presentation.`
 
-A 32-year-old owner of a small textile manufacturing unit in Tiruppur needs a professional balance sheet format for bank loan applications. His current records are handwritten and lack standard accounting presentation.
+`Goal:`
 
-Goal:
+`Provide a clean, MSME-friendly balance sheet template.`
 
-Provide a clean, MSME-friendly balance sheet template.
+`Prompt:`
 
-Prompt:
+`"You are an accounting documentation expert. Create a balance sheet template for MSMEs.`
 
-"You are an accounting documentation expert. Create a balance sheet template for MSMEs.
-
-Include:
-
+`Include:`
+```
 1. Assets (current, non-current)
 
 2. Liabilities (short-term, long-term)
@@ -2695,31 +2695,31 @@ Include:
 3. Equity section
 
 4. Automated total calculation formulas"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Asset and liability lists with values
 
 2. Preferred reporting currency
 
 3. Reporting date
+```
+## Prompt 12 — Expense Claim Reimbursement Report
 
-Prompt 12 — Expense Claim Reimbursement Report
+`Backstory:`
 
-Backstory:
+`A 26-year-old HR coordinator in Delhi needs to submit a monthly reimbursement report for employee travel, meals, and office purchases. The finance department requires itemized claims with approval status.`
 
-A 26-year-old HR coordinator in Delhi needs to submit a monthly reimbursement report for employee travel, meals, and office purchases. The finance department requires itemized claims with approval status.
+`Goal:`
 
-Goal:
+`Prepare an expense claim reimbursement report.`
 
-Prepare an expense claim reimbursement report.
+`Prompt:`
 
-Prompt:
+`"You are a corporate HR accountant. Create a monthly employee expense reimbursement report.`
 
-"You are a corporate HR accountant. Create a monthly employee expense reimbursement report.
-
-Include:
-
+`Include:`
+```
 1. Employee name and ID
 
 2. Expense date and category
@@ -2727,31 +2727,31 @@ Include:
 3. Amount claimed vs. approved
 
 4. Approval status"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Employee expense claim data
 
 2. Approval records
 
 3. Company expense categories
+```
+## Prompt 13 — Inventory Valuation Report
 
-Prompt 13 — Inventory Valuation Report
+`Backstory:`
 
-Backstory:
+`A 29-year-old warehouse manager in Ahmedabad needs a quarterly inventory valuation for the finance team using the weighted average cost method. This helps determine accurate COGS and year-end stock value for reporting.`
 
-A 29-year-old warehouse manager in Ahmedabad needs a quarterly inventory valuation for the finance team using the weighted average cost method. This helps determine accurate COGS and year-end stock value for reporting.
+`Goal:`
 
-Goal:
+`Prepare a weighted average cost inventory valuation report.`
 
-Prepare a weighted average cost inventory valuation report.
+`Prompt:`
 
-Prompt:
+`"You are a supply chain finance specialist. Create a quarterly inventory valuation report.`
 
-"You are a supply chain finance specialist. Create a quarterly inventory valuation report.
-
-Include:
-
+`Include:`
+```
 1. Item name and code
 
 2. Quantity on hand
@@ -2759,61 +2759,61 @@ Include:
 3. Weighted average unit cost
 
 4. Total inventory value"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Purchase and sales records
 
 2. Opening inventory quantity and value
 
 3. Valuation method
+```
+## Prompt 14 — Loan Repayment Schedule Report
 
-Prompt 14 — Loan Repayment Schedule Report
+`Backstory:`
 
-Backstory:
+`A 30-year-old business owner in Jaipur has taken multiple loans for equipment purchases. The bank requires a detailed loan repayment schedule showing principal, interest, and outstanding balance each month.`
 
-A 30-year-old business owner in Jaipur has taken multiple loans for equipment purchases. The bank requires a detailed loan repayment schedule showing principal, interest, and outstanding balance each month.
+`Goal:`
 
-Goal:
+`Prepare a loan repayment schedule report.`
 
-Prepare a loan repayment schedule report.
+`Prompt:`
 
-Prompt:
+`"You are a loan accounting expert. Create a loan repayment schedule.`
 
-"You are a loan accounting expert. Create a loan repayment schedule.
-
-Include:
-
+`Include:`
+```
 1. EMI amount split into principal and interest
 
 2. Outstanding balance after each payment
 
 3. Payment due dates"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Loan amount, tenure, and interest rate
 
 2. EMI start date
 
 3. Prepayment details (if any)
+```
+## Prompt 15 — Profitability Report by Product Line
 
-Prompt 15 — Profitability Report by Product Line
+`Backstory:`
 
-Backstory:
+`A 28-year-old FMCG entrepreneur in Lucknow sells snacks, beverages, and condiments. She wants to see which product line has the highest gross and net profitability so she can focus marketing efforts accordingly.`
 
-A 28-year-old FMCG entrepreneur in Lucknow sells snacks, beverages, and condiments. She wants to see which product line has the highest gross and net profitability so she can focus marketing efforts accordingly.
+`Goal:`
 
-Goal:
+`Prepare a product-line profitability report.`
 
-Prepare a product-line profitability report.
+`Prompt:`
 
-Prompt:
+`"You are a product finance analyst. Prepare a profitability report for each product line.`
 
-"You are a product finance analyst. Prepare a profitability report for each product line.
-
-Include:
-
+`Include:`
+```
 1. Revenue per product line
 
 2. Direct cost and gross margin %
@@ -2821,31 +2821,31 @@ Include:
 3. Overhead allocation
 
 4. Net profit"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Sales data by product line
 
 2. Direct cost details
 
 3. Overhead allocation rules
+```
+## Prompt 16 — Monthly Management Report for SMEs
 
-Prompt 16 — Monthly Management Report for SMEs
+`Backstory:`
 
-Backstory:
+`A 33-year-old owner of a 50-employee packaging company in Indore wants a monthly management report that summarizes the company’s performance in a way that’s easy to discuss with his leadership team. He wants a mix of financial and operational KPIs, such as revenue, expenses, production volumes, and order fulfillment rates, in a single document that is clear enough for non-finance managers to understand.`
 
-A 33-year-old owner of a 50-employee packaging company in Indore wants a monthly management report that summarizes the company’s performance in a way that’s easy to discuss with his leadership team. He wants a mix of financial and operational KPIs, such as revenue, expenses, production volumes, and order fulfillment rates, in a single document that is clear enough for non-finance managers to understand.
+`Goal:`
 
-Goal:
+`Create a monthly management report combining financial and operational KPIs.`
 
-Create a monthly management report combining financial and operational KPIs.
+`Prompt:`
 
-Prompt:
+`"You are an SME performance analyst. Prepare a monthly management report.`
 
-"You are an SME performance analyst. Prepare a monthly management report.
-
-Include:
-
+`Include:`
+```
 1. Revenue and expense summary
 
 2. Gross and net profit margins
@@ -2855,31 +2855,31 @@ Include:
 4. Commentary on performance trends
 
 5. Action points for management"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Monthly sales and expense data
 
 2. Operational KPI data
 
 3. Previous month’s report for comparison
+```
+## Prompt 17 — Fund Utilization Report for Grant-Funded Projects
 
-Prompt 17 — Fund Utilization Report for Grant-Funded Projects
+`Backstory:`
 
-Backstory:
+`A 29-year-old project coordinator in a Delhi-based NGO has received a ₹25 lakh grant for a year-long education project. The donor requires quarterly fund utilization reports showing how much money was spent, in which categories, and how much remains unspent. The format must be transparent and audit-friendly.`
 
-A 29-year-old project coordinator in a Delhi-based NGO has received a ₹25 lakh grant for a year-long education project. The donor requires quarterly fund utilization reports showing how much money was spent, in which categories, and how much remains unspent. The format must be transparent and audit-friendly.
+`Goal:`
 
-Goal:
+`Prepare a quarterly fund utilization report for a grant project.`
 
-Prepare a quarterly fund utilization report for a grant project.
+`Prompt:`
 
-Prompt:
+`"You are an NGO finance officer. Create a quarterly fund utilization report.`
 
-"You are an NGO finance officer. Create a quarterly fund utilization report.
-
-Include:
-
+`Include:`
+```
 1. Grant amount received and opening balance
 
 2. Category-wise expenditure (training, materials, staff salaries)
@@ -2887,31 +2887,31 @@ Include:
 3. Closing balance at quarter-end
 
 4. % of funds utilized vs. planned"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Grant agreement details
 
 2. Expenditure records by category
 
 3. Project timelines
+```
+## Prompt 18 — Year-End Financial Summary for Investors
 
-Prompt 18 — Year-End Financial Summary for Investors
+`Backstory:`
 
-Backstory:
+`A 31-year-old founder of an agri-tech startup in Hyderabad needs to send an annual financial summary to existing investors. The report should show key numbers, growth vs. last year, and future projections, while maintaining a clean, professional look for investor confidence.`
 
-A 31-year-old founder of an agri-tech startup in Hyderabad needs to send an annual financial summary to existing investors. The report should show key numbers, growth vs. last year, and future projections, while maintaining a clean, professional look for investor confidence.
+`Goal:`
 
-Goal:
+`Create a year-end financial performance summary.`
 
-Create a year-end financial performance summary.
+`Prompt:`
 
-Prompt:
+`"You are a startup investor relations analyst. Prepare an annual financial summary.`
 
-"You are a startup investor relations analyst. Prepare an annual financial summary.
-
-Include:
-
+`Include:`
+```
 1. Yearly revenue, expenses, and profit/loss
 
 2. Growth % vs. previous year
@@ -2919,31 +2919,31 @@ Include:
 3. Major cost drivers and savings achieved
 
 4. Forecast for next year"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Annual P&L
 
 2. Previous year’s financials
 
 3. Growth projection figures
+```
+## Prompt 19 — Break-Even Analysis Report
 
-Prompt 19 — Break-Even Analysis Report
+`Backstory:`
 
-Backstory:
+`A 25-year-old entrepreneur from Surat is launching a handcrafted jewelry line. She needs a break-even analysis to know how many units she must sell to cover fixed and variable costs. This will guide pricing and marketing spend decisions.`
 
-A 25-year-old entrepreneur from Surat is launching a handcrafted jewelry line. She needs a break-even analysis to know how many units she must sell to cover fixed and variable costs. This will guide pricing and marketing spend decisions.
+`Goal:`
 
-Goal:
+`Calculate break-even point in units and revenue.`
 
-Calculate break-even point in units and revenue.
+`Prompt:`
 
-Prompt:
+`"You are a business finance analyst. Prepare a break-even analysis report.`
 
-"You are a business finance analyst. Prepare a break-even analysis report.
-
-Include:
-
+`Include:`
+```
 1. Fixed costs total
 
 2. Variable cost per unit
@@ -2953,59 +2953,59 @@ Include:
 4. Break-even point in units and ₹
 
 5. Visual chart of cost vs. revenue"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Fixed cost details
 
 2. Variable cost per product
 
 3. Selling price per product
+```
+## Prompt 20 — Comparative Financial Statements
 
-Prompt 20 — Comparative Financial Statements
+`Backstory:`
 
-Backstory:
+`A 34-year-old finance head at a chain of gyms in Mumbai wants side-by-side P&L statements for the last three years to show financial trends during the annual board meeting. The focus is on identifying cost control areas and revenue growth opportunities.`
 
-A 34-year-old finance head at a chain of gyms in Mumbai wants side-by-side P&L statements for the last three years to show financial trends during the annual board meeting. The focus is on identifying cost control areas and revenue growth opportunities.
+`Goal:`
 
-Goal:
+`Create comparative P&L statements for three years.`
 
-Create comparative P&L statements for three years.
+`Prompt:`
 
-Prompt:
+`"You are a corporate reporting analyst. Prepare comparative P&L statements for 3 years.`
 
-"You are a corporate reporting analyst. Prepare comparative P&L statements for 3 years.
-
-Include:
-
+`Include:`
+```
 1. Year-wise side-by-side format
 
 2. % change year-on-year for each line item
 
 3. Commentary on major shifts"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. P&L statements for the last 3 years
 
 2. Notes on significant events affecting results
+```
+## Prompt 21 — Cost Centre Report for Multi-Branch Company
 
-Prompt 21 — Cost Centre Report for Multi-Branch Company
+`Backstory:`
 
-Backstory:
+`A 30-year-old finance manager at a retail chain in Chennai needs to prepare monthly reports for each store location (cost centre). The head office wants to know which locations are profitable and which are running at a loss.`
 
-A 30-year-old finance manager at a retail chain in Chennai needs to prepare monthly reports for each store location (cost centre). The head office wants to know which locations are profitable and which are running at a loss.
+`Goal:`
 
-Goal:
+`Prepare a branch-wise cost centre report.`
 
-Prepare a branch-wise cost centre report.
+`Prompt:`
 
-Prompt:
+`"You are a retail finance analyst. Create a monthly cost centre report.`
 
-"You are a retail finance analyst. Create a monthly cost centre report.
-
-Include: 
-
+`Include:`
+```
 1. Revenue per branch 
 
 2. Operating costs per branch 
@@ -3013,115 +3013,115 @@ Include:
 3. Profit/loss per branch 
 
 4. Ranking branches by profitability"
-
-Inputs Required: 
-
+```
+`Inputs Required:` 
+```
 1. Sales and expense data by branch 
 
 2. Overhead allocation rules
+```
+## Prompt 22 — Expense Ratio Analysis for Mutual Fund House
 
-Prompt 22 — Expense Ratio Analysis for Mutual Fund House
+`Backstory:`
 
-Backstory:
+`A 28-year-old performance analyst at a mutual fund company in Mumbai wants to analyze operating expense ratios for different fund categories to ensure they are competitive with industry averages.`
 
-A 28-year-old performance analyst at a mutual fund company in Mumbai wants to analyze operating expense ratios for different fund categories to ensure they are competitive with industry averages.
+`Goal:`
 
-Goal:
+`Prepare an expense ratio analysis report.`
 
-Prepare an expense ratio analysis report.
+`Prompt:`
 
-Prompt:
+`"You are a mutual fund reporting analyst. Prepare an expense ratio analysis by fund category.`
 
-"You are a mutual fund reporting analyst. Prepare an expense ratio analysis by fund category.
-
-Include:
-
+`Include:`
+```
 1. Expense ratio for each fund
 
 2. Industry average comparison
 
 3. Recommendations for cost optimization"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Fund NAV and expense data
 
 2. Industry benchmarks
+```
+## Prompt 23 — Monthly Sales & Expense Consolidated Report
 
-Prompt 23 — Monthly Sales & Expense Consolidated Report
+`Backstory:`
 
-Backstory:
+`A 27-year-old entrepreneur in Delhi runs two separate businesses — a café and an online bakery. She wants a consolidated monthly report combining sales and expenses for both ventures to get a single profitability view.`
 
-A 27-year-old entrepreneur in Delhi runs two separate businesses — a café and an online bakery. She wants a consolidated monthly report combining sales and expenses for both ventures to get a single profitability view.
+`Goal:`
 
-Goal:
+`Prepare a consolidated monthly sales and expense report.`
 
-Prepare a consolidated monthly sales and expense report.
+`Prompt:`
 
-Prompt:
+`"You are a multi-business finance analyst. Prepare a monthly consolidated report.`
 
-"You are a multi-business finance analyst. Prepare a monthly consolidated report.
-
-Include:
-
+`Include:`
+```
 1. Sales total for each business and combined total
 
 2. Expense total for each business and combined total
 
 3. Net profit/loss for each business and combined"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Monthly sales and expense data for both businesses
 
 2. Allocation of shared expenses
+```
+## Prompt 24 — Variance Analysis for Manufacturing Costs
 
-Prompt 24 — Variance Analysis for Manufacturing Costs
+`Backstory:`
 
-Backstory:
+`A 32-year-old production head in a chemical manufacturing company in Gujarat wants to analyze the difference between standard cost estimates and actual manufacturing costs for the quarter. This helps in improving cost control measures.`
 
-A 32-year-old production head in a chemical manufacturing company in Gujarat wants to analyze the difference between standard cost estimates and actual manufacturing costs for the quarter. This helps in improving cost control measures.
+`Goal:`
 
-Goal:
+`Prepare a manufacturing cost variance report.`
 
-Prepare a manufacturing cost variance report.
+`Prompt:`
 
-Prompt:
+`"You are a manufacturing cost analyst. Prepare a quarterly variance report.`
 
-"You are a manufacturing cost analyst. Prepare a quarterly variance report.
-
-Include:
-
+`Include:`
+```
 1. Standard cost vs. actual cost for materials, labor, and overheads
 
 2. Variance amount and %
 
 3. Root cause analysis of major variances"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Standard cost sheet
 
 2. Actual cost records
 
 3. Production volume data
+```
+## Prompt 25 — Annual Compliance Reporting Template
 
-Prompt 25 — Annual Compliance Reporting Template
+`Backstory:`
 
-Backstory:
+`A 29-year-old compliance officer at a fintech company in Bengaluru needs an annual report format that includes financial performance, compliance activities, and statutory audit summaries for submission to regulators.`
 
-A 29-year-old compliance officer at a fintech company in Bengaluru needs an annual report format that includes financial performance, compliance activities, and statutory audit summaries for submission to regulators.
+`Goal:`
 
-Goal:
+`Create a structured compliance and performance annual report template.`
 
-Create a structured compliance and performance annual report template.
+`Prompt:`
 
-Prompt:
+`"You are a corporate governance reporting expert. Create an annual compliance and performance report template.`
 
-"You are a corporate governance reporting expert. Create an annual compliance and performance report template.
-
-Include:
-
+`Include:`
+```
 1. Financial summary section
 
 2. Compliance activities and audits section
@@ -3129,17 +3129,17 @@ Include:
 3. Risk assessment section
 
 4. Future compliance plan"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Annual financial statements
 
 2. Compliance activity records
 
 3. Audit reports
+```
 
-
-Business valuation & ROI calculation
+# Business valuation & ROI calculation
 
 Prompt 1 — Pre-Funding Startup Valuation
 
