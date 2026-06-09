@@ -2487,174 +2487,243 @@ Inputs:
 4. Desired energy savings target
 
 Prompt 4 – AI-Enhanced Crop Yield Prediction for Sustainable Farming
+
 Backstory:
+
 A farmer producer organisation (FPO) in Madhya Pradesh works with 1,200 smallholder farmers growing wheat and soybeans. Climate change is making yields unpredictable. The FPO wants an AI model that uses weather forecasts, soil sensor data, and historical yield records to predict output and guide sustainable farming practices. This will help farmers make informed decisions on irrigation and fertiliser use.
 
 Goal:
+
 Create an AI adoption guide for crop yield prediction.
 
 Prompt:
+
 "You are an agricultural AI specialist. Develop a guide for building an AI-based crop yield prediction model for smallholder farmers in Madhya Pradesh. Include data collection methods, preprocessing steps, model choices (XGBoost, Random Forest, etc.), and farmer-friendly result visualisations."
 
 Inputs:
 
-Crop types and acreage
-Historical yield data
-Weather and soil sensor availability
-Budget for AI development
+1. Crop types and acreage
+
+2. Historical yield data
+
+3. Weather and soil sensor availability
+
+4. Budget for AI development
 
 Prompt 5 – AI for Real-Time Water Leak Detection in Urban Networks
+
 Backstory:
+
 A water utility in Bengaluru loses nearly 20% of its treated water due to leaks in underground pipelines. Manual inspections are slow and costly. The operations team wants to deploy an AI-powered leak detection system that uses IoT sensors, flow data, and anomaly detection algorithms to pinpoint leaks in real time.
 
 Goal:
+
 Prepare an AI implementation guide for water leak detection in urban networks.
 
 Prompt:
+
 "You are an IoT-AI integration consultant. Create a step-by-step guide for implementing an AI-based water leak detection system in Bengaluru. Include sensor network design, data streaming setup, anomaly detection models, alert mechanisms, and maintenance protocols."
 
 Inputs:
 
-Length of pipeline network
-Existing sensor infrastructure
-Budget for deployment
-Alert system preferences (SMS, dashboard)
+1. Length of pipeline network
+
+2. Existing sensor infrastructure
+
+3. Budget for deployment
+
+4. Alert system preferences (SMS, dashboard)
 
 Prompt 6 – AI-Powered Smart Irrigation System
+
 Backstory:
+
 A horticulture company in Karnataka manages 500 acres of fruit orchards. They currently follow a fixed irrigation schedule, which often leads to overwatering during monsoons and under-watering during heat waves. The company wants to deploy an AI-powered irrigation system that uses soil moisture sensors, satellite imagery, and weather forecasts to optimise water usage. The aim is to save water, reduce costs, and improve crop quality.
 
 Goal:
+
 Create an AI adoption guide for a smart irrigation system in commercial farming.
 
 Prompt:
+
 "You are an agricultural AI engineer. Develop a detailed guide for implementing an AI-based smart irrigation system for a 500-acre orchard in Karnataka. Include sensor network setup, data integration, predictive watering algorithms, mobile app control features, and water savings calculations."
 
 Inputs:
 
-Orchard size and crop types
-Current irrigation method
-Budget for AI deployment
-Internet connectivity availability on site
+1. Orchard size and crop types
+
+2. Current irrigation method
+
+3. Budget for AI deployment
+
+4. Internet connectivity availability on site
 
 Prompt 7 – AI for Renewable Energy Demand Forecasting
+
 Backstory:
+
 A wind and solar power company in Tamil Nadu struggles with fluctuating demand from its industrial clients. Overproduction wastes energy, while underproduction leads to penalties. They want an AI-driven forecasting model that predicts hourly and daily electricity demand using historical usage patterns, weather data, and client schedules.
 
 Goal:
 Develop an AI-powered demand forecasting solution for a renewable energy company.
 
 Prompt:
+
 "You are an energy analytics AI specialist. Create a guide for building an AI-based demand forecasting system for a renewable energy provider in Tamil Nadu. Include data requirements, model selection (ARIMA, LSTM), accuracy evaluation, and integration with energy dispatch systems."
 
 Inputs:
 
-Historical energy usage data
-Weather forecast API access
-Client industry profiles
-Desired prediction time frame
+1. Historical energy usage data
+
+2. Weather forecast API access
+
+3. Client industry profiles
+
+4. Desired prediction time frame
 
 Prompt 8 – AI-Based Deforestation Monitoring
+
 Backstory:
+
 A conservation NGO in the Northeast monitors illegal logging in forest reserves but relies on manual field inspections, which are slow and cover limited areas. They want to use AI with satellite and drone imagery to automatically detect deforestation activities in near real-time and alert forest rangers.
 
 Goal:
+
 Create an AI adoption guide for deforestation detection and monitoring.
 
 Prompt:
+
 "You are a geospatial AI expert. Develop a guide for using AI-based image analysis to monitor deforestation in Northeast India. Include satellite/drone data sourcing, image preprocessing, deep learning model training (e.g., U-Net), and automated alert workflows."
 
 Inputs:
 
-Geographic area to monitor
-Available imagery sources
-Frequency of analysis
-Budget for AI and drone operations
+1. Geographic area to monitor
+
+2. Available imagery sources
+
+3. Frequency of analysis
+
+4. Budget for AI and drone operations
 
 Prompt 9 – AI-Driven Solar Panel Maintenance Scheduling
+
 Backstory:
+
 A solar farm in Rajasthan has thousands of panels spread over 50 acres. Dust buildup and minor faults reduce output significantly, but manual inspections take days. The operations team wants an AI-based predictive maintenance system that uses panel output data, weather conditions, and thermal imaging to schedule cleaning and repairs only when needed.
 
 Goal:
+
 Develop an AI implementation guide for predictive solar panel maintenance.
 
 Prompt:
+
 "You are a renewable asset AI maintenance consultant. Create a guide for deploying an AI-based predictive maintenance system for a solar farm in Rajasthan. Include data collection from sensors, machine learning model design, maintenance trigger thresholds, and cost-benefit projections."
 
 Inputs:
 
-Number of panels
-Sensor/monitoring infrastructure
-Maintenance cost per cycle
-Target downtime reduction percentage
+1. Number of panels
+
+2. Sensor/monitoring infrastructure
+
+3. Maintenance cost per cycle
+
+4. Target downtime reduction percentage
 
 Prompt 10 – AI for Flood Risk Mapping
+
 Backstory:
+
 A disaster management authority in Assam faces severe floods every monsoon season. Current flood risk maps are outdated and reactive. They want an AI model that combines historical flood data, rainfall forecasts, and river level measurements to generate dynamic, real-time flood risk maps for early evacuation planning.
 
 Goal:
+
 Prepare an AI adoption guide for predictive flood risk mapping.
 
 Prompt:
+
 "You are a climate risk AI modeller. Create a step-by-step guide for developing an AI-based flood risk mapping system for Assam. Include data ingestion pipelines, model selection (Gradient Boosting, CNN), integration with GIS tools, and community alert mechanisms."
 
 Inputs:
 
-Historical flood maps and data
-Rainfall and river monitoring data
-GIS platform choice
-Budget for AI integration
+1. Historical flood maps and data
+
+2. Rainfall and river monitoring data
+
+3. GIS platform choice
+
+4. Budget for AI integration
 
 Prompt 11 – AI for Sustainable Supply Chain Optimisation
+
 Backstory:
+
 A large FMCG company in Mumbai sources raw materials from multiple suppliers across India. Transport inefficiencies and poor route planning increase carbon emissions. The supply chain head wants to deploy AI to optimise routes, consolidate shipments, and select eco-friendly transport modes.
 
 Goal:
+
 Create an AI adoption guide for green supply chain management.
 
 Prompt:
+
 "You are a supply chain AI optimisation expert. Develop a guide for implementing an AI-powered route and load optimisation system for FMCG logistics in India. Include data inputs needed, algorithm recommendations (Linear Programming, Reinforcement Learning), emission tracking, and cost savings reporting."
 
 Inputs:
 
-Number of transport routes
-Current transport modes
-Emission reduction targets
-Budget for AI implementation
+1. Number of transport routes
+
+2. Current transport modes
+
+3. Emission reduction targets
+
+4. Budget for AI implementation
 
 Prompt 12 – AI for Smart Building Energy Management
+
 Backstory:
+
 A tech park in Hyderabad has multiple office buildings with high energy consumption due to lighting, HVAC, and server rooms running 24/7. They want an AI-driven system to monitor real-time energy use, detect anomalies, and automatically adjust systems to save energy.
 
 Goal:
+
 Develop an AI guide for intelligent building energy management.
 
 Prompt:
+
 "You are a smart building AI engineer. Create an adoption guide for deploying an AI-based energy management system in Hyderabad’s tech park. Include sensor deployment, predictive algorithms, automation protocols, and integration with building management systems."
 
 Inputs:
 
-Number of buildings
-Current energy consumption data
-Budget for AI integration
-Control system compatibility
+1. Number of buildings
+
+2. Current energy consumption data
+
+3. Budget for AI integration
+
+4. Control system compatibility
 
 Prompt 13 – AI for Marine Plastic Waste Detection
+
 Backstory:
+
 A coastal cleanup NGO in Chennai wants to monitor marine plastic pollution along 200 km of shoreline. Manual surveys are slow and inconsistent. They are exploring AI-based image recognition from drones and beach cameras to detect and classify waste types for targeted cleanup efforts.
 
 Goal:
+
 Create an AI adoption guide for marine plastic waste monitoring.
 
 Prompt:
+
 "You are a computer vision AI marine specialist. Develop a guide for implementing AI-based detection of marine plastic waste in Chennai’s coastal areas. Include drone/camera deployment, dataset creation, waste classification models, and dashboard visualisation."
 
 Inputs:
 
-Length of coastline to cover
-Available drone/camera budget
-Waste category taxonomy
-Cleanup frequency
+1. Length of coastline to cover
+
+2. Available drone/camera budget
+
+3. Waste category taxonomy
+
+4. Cleanup frequency
 
 Prompt 14 – AI for Optimising EV Charging Station Placement
 Backstory:
