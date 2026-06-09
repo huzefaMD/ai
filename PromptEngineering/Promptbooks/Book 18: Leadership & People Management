@@ -1817,6 +1817,7 @@ Inputs:
 4. Any past conflicts between the two employees
 
 Prompt 2 – Manager-Employee Conflict Over Workload
+
 Backstory:
 
 A 29-year-old software developer in Bengaluru feels overwhelmed by unrealistic deadlines set by their project manager. They believe the workload distribution is unfair compared to other team members. The manager, however, thinks the developer is underestimating their own capacity. Tension has been building over months, leading to disengagement and missed deadlines.
@@ -1829,22 +1830,32 @@ Prompt:
 
 "You are a workplace mediator. Draft a conflict resolution script for a meeting between a manager and an employee over workload concerns. The script should include: 
 
-Opening & Objective Setting – Clarify that the purpose is to find a balanced, fair workload plan. 
-Employee Perspective – Invite the employee to share their current challenges and specific examples. 
-Manager Perspective – Allow the manager to share expectations and project constraints. 
-Common Ground Identification – Highlight areas of agreement (e.g., project importance, quality goals). 
-Workload Adjustment Plan – Suggest task reprioritization, deadline shifts, or resource allocation. 
-Follow-Up Commitment – Agree on check-ins to ensure ongoing balance.
+1. Opening & Objective Setting – Clarify that the purpose is to find a balanced, fair workload plan. 
+
+2. Employee Perspective – Invite the employee to share their current challenges and specific examples. 
+
+3. Manager Perspective – Allow the manager to share expectations and project constraints. 
+
+4. Common Ground Identification – Highlight areas of agreement (e.g., project importance, quality goals). 
+
+5. Workload Adjustment Plan – Suggest task reprioritization, deadline shifts, or resource allocation. 
+
+6. Follow-Up Commitment – Agree on check-ins to ensure ongoing balance.
 
 Provide empathetic yet professional phrasing to keep the discussion solution-focused."*
+
 Inputs: 
 
-Current project deadlines and workload distribution 
-Employee’s performance history 
-Availability of additional resources or support 
-Company policy on work hours and overtime
+1. Current project deadlines and workload distribution 
+
+2. Employee’s performance history 
+
+3. Availability of additional resources or support 
+
+4. Company policy on work hours and overtime
 
 Prompt 3 – Conflict Over Remote Work vs. In-Office Policy
+
 Backstory:
 
 A fintech startup in Mumbai recently implemented a mandatory 3-day in-office policy. A 30-year-old senior analyst, who has been performing exceptionally well remotely, feels the policy is unnecessary and disruptive to their work-life balance. The department head insists on in-person collaboration for better team synergy. The disagreement has reached HR, and a mediation is scheduled.
@@ -1857,70 +1868,108 @@ Prompt:
 
 "You are an HR policy mediator. Draft a conflict resolution script between an employee and a manager over remote work flexibility. The script should include: 
 
-Opening & Policy Clarification – Outline the reason for the policy without defensiveness. 
-Employee Concerns – Allow the employee to explain how the change impacts their work and personal commitments. 
-Manager’s Rationale – Present the need for in-office collaboration with examples. 
-Exploring Middle Ground – Consider trial arrangements (e.g., 2 days in office, 1 remote) or flexible hours. 
-Agreement & Documentation – Confirm the agreed terms and document them for accountability. 
-Review Timeline – Set a date to revisit the arrangement and assess results.
+1. Opening & Policy Clarification – Outline the reason for the policy without defensiveness. 
+
+2. Employee Concerns – Allow the employee to explain how the change impacts their work and personal commitments. 
+
+3. Manager’s Rationale – Present the need for in-office collaboration with examples. 
+
+4. Exploring Middle Ground – Consider trial arrangements (e.g., 2 days in office, 1 remote) or flexible hours. 
+
+5. Agreement & Documentation – Confirm the agreed terms and document them for accountability. 
+
+6. Review Timeline – Set a date to revisit the arrangement and assess results.
 
 Include respectful, non-judgmental phrasing to avoid personal attacks."
+
 Inputs: 
 
-Company’s hybrid work policy 
-Employee’s performance metrics from remote period 
-Team collaboration requirements 
-Possible flexible arrangements allowed by policy
+1. Company’s hybrid work policy 
+
+2. Employee’s performance metrics from remote period 
+
+3. Team collaboration requirements 
+
+4. Possible flexible arrangements allowed by policy
 
 Prompt 4 – Cultural Misunderstanding Between Team Members
+
 Backstory:
+
 In a multinational IT firm in Hyderabad, a 27-year-old Indian team lead and a 31-year-old foreign colleague have had recurring misunderstandings during project discussions. The foreign team member feels the lead’s communication style is too direct and abrupt, while the lead finds the colleague’s indirectness frustrating. The tension is starting to impact project delivery timelines.
 
 Goal:
+
 Create a culturally sensitive conflict resolution script to clear misunderstandings and improve collaboration.
 
 Prompt:
+
 *"You are an intercultural workplace coach. Draft a conflict resolution script for addressing a cultural communication misunderstanding between two colleagues. The script should include:
 
-Neutral Opening – Acknowledge cultural diversity as a strength.
-Clarification of Concerns – Each person explains their interpretation of specific interactions.
-Cultural Awareness Briefing – Briefly highlight how cultural norms influence communication styles.
-Mutual Understanding – Facilitate empathy by having each person reframe the other’s intent.
-Communication Agreement – Define shared communication norms for the team.
-Ongoing Support Plan – Suggest periodic check-ins to ensure improved collaboration.
+1. Neutral Opening – Acknowledge cultural diversity as a strength.
+
+2. Clarification of Concerns – Each person explains their interpretation of specific interactions.
+
+3. Cultural Awareness Briefing – Briefly highlight how cultural norms influence communication styles.
+
+4. Mutual Understanding – Facilitate empathy by having each person reframe the other’s intent.
+
+5. Communication Agreement – Define shared communication norms for the team.
+
+6. Ongoing Support Plan – Suggest periodic check-ins to ensure improved collaboration.
+
 Use language that prevents stereotyping while promoting respect."*
+
 Inputs:
 
-Examples of past misunderstandings
-Cultural background of both parties
-Company diversity and inclusion policy
-Project timeline and urgency
+1. Examples of past misunderstandings
+
+2. Cultural background of both parties
+
+3. Company diversity and inclusion policy
+
+4. Project timeline and urgency
 
 Prompt 5 – Disagreement Between Sales and Operations Teams
+
 Backstory:
+
 A large FMCG company in Chennai is facing friction between its sales and operations teams. Sales promises quick delivery timelines to clients to close deals, while operations struggles to meet these commitments due to supply chain constraints. The ongoing blame game is affecting customer satisfaction and internal morale.
 
 Goal:
+
 Draft a conflict resolution script for a joint meeting between sales and operations to establish realistic commitments and improve interdepartmental trust.
 
 Prompt:
+
 *"You are a cross-functional collaboration facilitator. Draft a mediation script for resolving recurring conflicts between sales and operations teams. The script should include:
 
-Opening & Shared Goal Reminder – Reiterate that both teams aim for customer satisfaction and business growth.
-Issue Identification – Each team presents their challenges and constraints.
-Root Cause Analysis – Identify why commitments and execution timelines are misaligned.
-Solution Brainstorm – Develop mutually acceptable delivery timelines and escalation processes.
-Commitment Agreement – Document new guidelines for promises made to clients.
-Follow-Up Mechanism – Set a joint review meeting to monitor improvements.
+1. Opening & Shared Goal Reminder – Reiterate that both teams aim for customer satisfaction and business growth.
+
+2. Issue Identification – Each team presents their challenges and constraints.
+
+3. Root Cause Analysis – Identify why commitments and execution timelines are misaligned.
+
+4. Solution Brainstorm – Develop mutually acceptable delivery timelines and escalation processes.
+
+5. Commitment Agreement – Document new guidelines for promises made to clients.
+
+6. Follow-Up Mechanism – Set a joint review meeting to monitor improvements.
+
 Provide phrasing that focuses on problem-solving rather than blame."*
+
 Inputs:
 
-Current sales promises and delivery records
-Supply chain capacity data
-Past client complaints related to delays
-Company policy on delivery commitments
+1. Current sales promises and delivery records
+
+2. Supply chain capacity data
+
+3. Past client complaints related to delays
+
+4. Company policy on delivery commitments
 
 Prompt 6 – Conflict Over Budget Allocation Between Departments
+
 Backstory:
 
 In a mid-sized health-tech company in Pune, the R&D department and the Marketing team are clashing over budget distribution for the next quarter. R&D argues that more funds are needed for product improvements to maintain competitiveness, while Marketing insists on higher budgets for promotional campaigns to boost sales. The CEO has asked the operations head to mediate before the disagreement escalates into open hostility.
@@ -1933,22 +1982,32 @@ Prompt:
 
 "You are a corporate budget mediator. Draft a step-by-step script for resolving a dispute between two departments over quarterly budget allocation. Include: 
 
-Opening with Neutral Context – Acknowledge both teams’ contributions and importance. 
-Priority Sharing – Let each department present their needs with supporting data. 
-Impact Mapping – Show how each proposed budget allocation affects company-wide goals. 
-Trade-Off Negotiation – Identify areas where each department can compromise. 
-Agreement Summary – Clearly define the final budget split and rationale. 
-Follow-Up Accountability – Assign metrics to track whether the allocation delivers results.
+1. Opening with Neutral Context – Acknowledge both teams’ contributions and importance. 
+
+2. Priority Sharing – Let each department present their needs with supporting data. 
+
+3. Impact Mapping – Show how each proposed budget allocation affects company-wide goals. 
+
+4. Trade-Off Negotiation – Identify areas where each department can compromise. 
+
+5. Agreement Summary – Clearly define the final budget split and rationale. 
+
+6. Follow-Up Accountability – Assign metrics to track whether the allocation delivers results.
 
 Provide respectful phrasing to prevent framing the issue as a win/lose battle."
+
 Inputs: 
 
-Current quarterly budget 
-Departmental budget proposals 
-Company’s strategic priorities 
-ROI data from previous budgets
+1. Current quarterly budget 
+
+2. Departmental budget proposals 
+
+3. Company’s strategic priorities 
+
+4. ROI data from previous budgets
 
 Prompt 7 – Interpersonal Clash Between New Joiner and Senior Employee
+
 Backstory:
 
 A 25-year-old new recruit in a Bengaluru e-commerce startup feels undermined by a senior colleague who often dismisses their ideas in meetings. The senior employee claims the new joiner lacks industry experience and should “learn first, suggest later.” The growing tension is creating an unhealthy team environment.
@@ -1961,21 +2020,30 @@ Prompt:
 
 "You are an HR culture coach. Draft a mediation script for addressing tension between a new joiner and a senior team member. Include: 
 
-Opening & Purpose – State the aim is to build mutual respect and collaboration. 
-Perspective Sharing – Allow each party to express their concerns without interruption. 
-Identifying Strengths – Highlight what each brings to the team (fresh perspective vs. experience). 
-Mutual Commitment Plan – Define ways for the senior to mentor and for the junior to contribute ideas constructively. 
-Follow-Up Review – Schedule regular check-ins to ensure improvement.
+1. Opening & Purpose – State the aim is to build mutual respect and collaboration. 
+
+2. Perspective Sharing – Allow each party to express their concerns without interruption. 
+
+3. Identifying Strengths – Highlight what each brings to the team (fresh perspective vs. experience). 
+
+4. Mutual Commitment Plan – Define ways for the senior to mentor and for the junior to contribute ideas constructively. 
+
+5. Follow-Up Review – Schedule regular check-ins to ensure improvement.
 
 Include language tips to prevent defensive reactions from either party."
+
 Inputs: 
 
-Employee tenure and roles 
-Specific incidents causing friction 
-Company values related to teamwork 
-Current performance metrics
+1. Employee tenure and roles 
+
+2. Specific incidents causing friction 
+
+3. Company values related to teamwork 
+
+4. Current performance metrics
 
 Prompt 8 – Conflict Between Team Leads Over Resource Sharing
+
 Backstory:
 
 In a Gurugram-based SaaS firm, two team leads are at odds over sharing a key software developer between their projects. Each believes their project is more critical to the company’s success. The resource allocation dispute has already caused delays in both projects.
@@ -1988,20 +2056,29 @@ Prompt:
 
 "You are a project resource allocation mediator. Draft a resolution script for two team leads disputing over shared resource usage. Include: 
 
-Opening & Context – Outline the importance of both projects without favouritism. 
-Needs Assessment – Have each lead present the scope, timelines, and dependencies. 
-Business Impact Analysis – Discuss potential consequences of delay in either project. 
-Resource Allocation Proposal – Suggest a fair division (time split, phased allocation). 
-Agreement Documentation – Define exact hours/days the shared resource will work for each team. 
-Monitoring Plan – Create a weekly review process to adapt if priorities shift.
+1. Opening & Context – Outline the importance of both projects without favouritism. 
+
+2. Needs Assessment – Have each lead present the scope, timelines, and dependencies. 
+
+3. Business Impact Analysis – Discuss potential consequences of delay in either project. 
+
+4. Resource Allocation Proposal – Suggest a fair division (time split, phased allocation). 
+
+5. Agreement Documentation – Define exact hours/days the shared resource will work for each team. 
+
+6. Monitoring Plan – Create a weekly review process to adapt if priorities shift.
 
 Provide phrasing that keeps focus on company goals rather than personal project wins."
+
 Inputs: 
 
-Project timelines and deadlines 
-Developer’s skill set and availability 
-Business impact projections
-Current workload of each project team
+1. Project timelines and deadlines 
+
+2. Developer’s skill set and availability 
+
+3. Business impact projections
+
+4. Current workload of each project team
 
 Prompt 9 – Conflict Due to Micromanagement
 Backstory:
