@@ -2342,24 +2342,24 @@ Tasks:
 3. Investment and insurance documents
 ```
 
-Financial reporting templates
+# Financial reporting templates
 
-Prompt 1 — Monthly Profit & Loss Report for Startup
+## Prompt 1 — Monthly Profit & Loss Report for Startup
 
-Backstory:
+`Backstory:`
 
-A 27-year-old founder in Bengaluru runs a food delivery cloud kitchen. She receives payments from Swiggy, Zomato, and direct orders, while paying for rent, salaries, raw materials, and delivery partners. At month-end, she struggles to put together a P&L because income comes in different formats and expenses are logged inconsistently. She wants a standardized monthly P&L report to track growth and investor readiness.
+`A 27-year-old founder in Bengaluru runs a food delivery cloud kitchen. She receives payments from Swiggy, Zomato, and direct orders, while paying for rent, salaries, raw materials, and delivery partners. At month-end, she struggles to put together a P&L because income comes in different formats and expenses are logged inconsistently. She wants a standardized monthly P&L report to track growth and investor readiness.`
 
-Goal:
+`Goal:`
 
-Create a clean, standardized monthly profit and loss report for a small business.
+`Create a clean, standardized monthly profit and loss report for a small business.`
 
-Prompt:
+`Prompt:`
 
-"You are a startup finance analyst. Prepare a monthly P&L report in Excel format.
+`"You are a startup finance analyst. Prepare a monthly P&L report in Excel format.`
 
-Include:
-
+`Include:`
+```
 1. Revenue split by channel (Swiggy, Zomato, direct orders)
 
 2. COGS calculation (raw materials, packaging)
@@ -2369,9 +2369,9 @@ Include:
 4. Net profit/loss calculation
 
 5. Month-over-month percentage change"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Monthly sales data by channel
 
 2. List of expenses with amounts
@@ -2379,23 +2379,23 @@ Inputs Required:
 3. Previous month’s P&L for comparison
 
 4. GST-inclusive or exclusive figures
+```
+## Prompt 2 — Cash Flow Statement for Freelancers
 
-Prompt 2 — Cash Flow Statement for Freelancers
+`Backstory:`
 
-Backstory:
+`A 29-year-old freelance UI/UX designer in Pune receives payments from clients in India and abroad, often months apart. She sometimes faces cash shortages because her expense planning isn’t aligned with irregular income. She wants a monthly cash flow statement showing inflows, outflows, and projected balances to plan better.`
 
-A 29-year-old freelance UI/UX designer in Pune receives payments from clients in India and abroad, often months apart. She sometimes faces cash shortages because her expense planning isn’t aligned with irregular income. She wants a monthly cash flow statement showing inflows, outflows, and projected balances to plan better.
+`Goal:`
 
-Goal:
+`Prepare a monthly cash flow statement with projections.`
 
-Prepare a monthly cash flow statement with projections.
+`Prompt:`
 
-Prompt:
+`"You are a personal finance tracker. Prepare a cash flow statement for the freelancer.`
 
-"You are a personal finance tracker. Prepare a cash flow statement for the freelancer.
-
-Include:
-
+`Include:`
+```
 1. Total cash inflows by source
 
 2. Total cash outflows by category (software subscriptions, rent, marketing)
@@ -2403,9 +2403,9 @@ Include:
 3. Net cash flow (surplus/deficit)
 
 4. Projected cash position for next 3 months"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Monthly income by source
 
 2. Monthly expenses by category
@@ -2413,21 +2413,21 @@ Inputs Required:
 3. Outstanding client invoices with due dates
 
 4. Expected large future expenses
+```
+## Prompt 3 — Quarterly Investor Update Report
 
-Prompt 3 — Quarterly Investor Update Report
+`Backstory:`
 
-Backstory:
+`A 30-year-old co-founder of a SaaS startup in Hyderabad has seed investors who require quarterly performance updates. They expect financial KPIs, revenue growth, expense ratios, and future plans in a professional, visually appealing format. The founders have raw numbers but no structured presentation.`
 
-A 30-year-old co-founder of a SaaS startup in Hyderabad has seed investors who require quarterly performance updates. They expect financial KPIs, revenue growth, expense ratios, and future plans in a professional, visually appealing format. The founders have raw numbers but no structured presentation.
+`Goal:`
 
-Goal:
+`Create a polished quarterly investor update report with financial metrics.`
 
-Create a polished quarterly investor update report with financial metrics.
+`Prompt:`
 
-Prompt:
-
-"You are a startup reporting specialist. Create a quarterly investor update with:
-
+`"You are a startup reporting specialist. Create a quarterly investor update with:`
+```
 1. Revenue growth % (QoQ)
 
 2. Gross and net profit margins
@@ -2437,31 +2437,31 @@ Prompt:
 4. Customer acquisition cost and lifetime value
 
 5. Graphs showing financial trends"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Quarterly financial statements
 
 2. Operational KPIs
 
 3. Investor reporting preferences (Excel, PDF, Slides)
+```
+## Prompt 4 — Annual Budget vs. Actual Report
 
-Prompt 4 — Annual Budget vs. Actual Report
+`Backstory:`
 
-Backstory:
+`A 32-year-old operations head at a digital marketing agency in Delhi prepared an annual budget at the start of the year. Now, management wants to compare actuals with the budget to identify overspending areas and better plan next year’s targets.`
 
-A 32-year-old operations head at a digital marketing agency in Delhi prepared an annual budget at the start of the year. Now, management wants to compare actuals with the budget to identify overspending areas and better plan next year’s targets.
+`Goal:`
 
-Goal:
+`Prepare a detailed budget vs. actual variance report.`
 
-Prepare a detailed budget vs. actual variance report.
+`Prompt:`
 
-Prompt:
+`"You are a budgeting analyst. Prepare an annual budget vs. actual report.`
 
-"You are a budgeting analyst. Prepare an annual budget vs. actual report.
-
-Include:
-
+`Include:`
+```
 1. Budgeted vs. actual revenue and expense figures
 
 2. Variance amount and % for each line item
@@ -2469,31 +2469,31 @@ Include:
 3. Color-coded highlights for >10% deviations
 
 4. Notes explaining key variances"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Original annual budget
 
 2. Actual financial results
 
 3. Variance threshold for highlighting
+```
+## Prompt 5 — KPI Dashboard for E-commerce Store
 
-Prompt 5 — KPI Dashboard for E-commerce Store
+`Backstory:`
 
-Backstory:
+`A 25-year-old online store owner in Mumbai sells fashion accessories on Shopify. She wants a financial KPI dashboard showing sales trends, gross margins, and ad spend ROI so she can decide whether to increase marketing budgets.`
 
-A 25-year-old online store owner in Mumbai sells fashion accessories on Shopify. She wants a financial KPI dashboard showing sales trends, gross margins, and ad spend ROI so she can decide whether to increase marketing budgets.
+`Goal:`
 
-Goal:
+`Create a visual KPI dashboard linking sales, expenses, and profitability.`
 
-Create a visual KPI dashboard linking sales, expenses, and profitability.
+`Prompt:`
 
-Prompt:
+`"You are an e-commerce analytics expert. Create a KPI dashboard in Excel/Google Sheets.`
 
-"You are an e-commerce analytics expert. Create a KPI dashboard in Excel/Google Sheets.
-
-Include:
-
+`Include:`
+```
 1. Daily/weekly/monthly sales chart
 
 2. Gross profit margin %
@@ -2503,15 +2503,15 @@ Include:
 4. Customer acquisition cost
 
 5. Return rate analysis"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Sales data by day/month
 
 2. Ad spend records
 
 3. Product cost data
-
+```
 Prompt 6 — Department-Wise Expense Report
 
 Backstory:
