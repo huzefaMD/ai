@@ -166,22 +166,22 @@
 
 5. Provide a before-and-after summary showing corrections made."
 ```
-Prompt 6 — Vendor Payment Tracking
+## Prompt 6 — Vendor Payment Tracking
 
-Backstory:
+`Backstory:`
 
-A 29-year-old procurement manager at a small catering business in Delhi handles 12–15 vendors supplying everything from vegetables to packaging. Payments are made partly in advance and partly after delivery. She needs a monthly vendor payment tracker to ensure no supplier is overpaid or missed.
+`A 29-year-old procurement manager at a small catering business in Delhi handles 12–15 vendors supplying everything from vegetables to packaging. Payments are made partly in advance and partly after delivery. She needs a monthly vendor payment tracker to ensure no supplier is overpaid or missed.`
 
-Goal:
+`Goal:`
 
-Maintain a clear vendor payment status sheet for the month.
+`Maintain a clear vendor payment status sheet for the month.`
 
-Prompt:
+`Prompt:`
 
-"You are an accounts payable specialist. Create a vendor payment tracker for the given month.
+`"You are an accounts payable specialist. Create a vendor payment tracker for the given month.`
 
-Include:
-
+`Include:`
+```
 1. Vendor name and contact
 
 2. Invoice number and date
@@ -191,11 +191,11 @@ Include:
 4. Amount invoiced, paid, and pending
 
 5. Payment mode
+```
+`Highlight overdue payments in red."`
 
-Highlight overdue payments in red."
-
-Inputs Required:
-
+`Inputs Required:`
+```
 1. List of vendor invoices with amounts and due dates
 
 2. Payment history for each vendor
@@ -203,23 +203,23 @@ Inputs Required:
 3. Agreed payment terms (e.g., 50% advance, 50% on delivery)
 
 4. Contact details for follow-up
+```
+## Prompt 7 — Client Receivables Aging Report
 
-Prompt 7 — Client Receivables Aging Report
+`Backstory:`
 
-Backstory:
+`A freelance graphic designer in Mumbai works with multiple clients, some paying late. She wants to know how long payments have been pending so she can follow up professionally without losing clients.`
 
-A freelance graphic designer in Mumbai works with multiple clients, some paying late. She wants to know how long payments have been pending so she can follow up professionally without losing clients.
+`Goal:`
 
-Goal:
+`Generate a receivables aging report categorizing clients by overdue days.`
 
-Generate a receivables aging report categorizing clients by overdue days.
+`Prompt:`
 
-Prompt:
+`"You are an accounts receivable analyst. Create an aging report for all unpaid client invoices.`
 
-"You are an accounts receivable analyst. Create an aging report for all unpaid client invoices.
-
-Break down by:
-
+`Break down by:`
+```
 1. Current (0–30 days)
 
 2. 31–60 days overdue
@@ -227,11 +227,11 @@ Break down by:
 3. 61–90 days overdue
 
 4. 90+ days overdue
+```
+`Show total outstanding in each category and list top overdue accounts separately."`
 
-Show total outstanding in each category and list top overdue accounts separately."
-
-Inputs Required:
-
+`Inputs Required:`
+```
 1. Client invoice list with issue dates and amounts
 
 2. Record of payments received
@@ -239,23 +239,23 @@ Inputs Required:
 3. Follow-up notes (if any)
 
 4. Credit terms with each client
+```
+## Prompt 8 — GST Input-Output Reconciliation
 
-Prompt 8 — GST Input-Output Reconciliation
+`Backstory:`
 
-Backstory:
+`A boutique clothing brand in Surat needs to reconcile GST input tax credit from supplier invoices with GST output liability from sales invoices to prepare for monthly filing.`
 
-A boutique clothing brand in Surat needs to reconcile GST input tax credit from supplier invoices with GST output liability from sales invoices to prepare for monthly filing.
+`Goal:`
 
-Goal:
+`Reconcile GST input vs. output with discrepancies flagged.`
 
-Reconcile GST input vs. output with discrepancies flagged.
+`Prompt:`
 
-Prompt:
+`"You are a GST compliance specialist. Match supplier GSTIN invoices against sales invoices to reconcile input and output GST.`
 
-"You are a GST compliance specialist. Match supplier GSTIN invoices against sales invoices to reconcile input and output GST.
-
-Tasks: 
-
+`Tasks: `
+```
 1. Match GSTIN and invoice numbers 
 
 2. Calculate total GST payable vs credit 
@@ -263,9 +263,9 @@ Tasks:
 3. Flag mismatches or missing GST details 
 
 4. Provide final net GST liability for filing"
-
-Inputs Required: 
-
+```
+`Inputs Required:` 
+```
 1. Purchase invoices with GST details 
 
 2. Sales invoices with GST details 
@@ -273,31 +273,31 @@ Inputs Required:
 3. GST rate applicable to goods/services 
 
 4. Filing frequency (monthly/quarterly)
+```
+## Prompt 9 — Foreign Currency Transaction Reconciliation
 
-Prompt 9 — Foreign Currency Transaction Reconciliation
+`Backstory:`
 
-Backstory:
+`A startup in Hyderabad exports software services and receives payments in USD and EUR. Exchange rates fluctuate, and the finance head needs a monthly reconciliation showing INR equivalents and forex gain/loss.`
 
-A startup in Hyderabad exports software services and receives payments in USD and EUR. Exchange rates fluctuate, and the finance head needs a monthly reconciliation showing INR equivalents and forex gain/loss.
+`Goal:`
 
-Goal:
+`Reconcile foreign currency inflows with correct INR conversions.`
 
-Reconcile foreign currency inflows with correct INR conversions.
+`Prompt:`
 
-Prompt:
+`"You are a forex accounting specialist. Reconcile foreign currency receipts with invoice amounts and bank credits.`
 
-"You are a forex accounting specialist. Reconcile foreign currency receipts with invoice amounts and bank credits.
-
-Steps:
-
+`Steps:`
+```
 1. Convert each payment to INR at the applicable bank rate on the credit date
 
 2. Show any forex gain/loss compared to invoice rate
 
 3. Summarize totals per currency"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Invoice list with currency and rates used
 
 2. Bank credit statement with INR amounts
@@ -305,23 +305,23 @@ Inputs Required:
 3. Official daily exchange rate source
 
 4. Forex charges/fees
+```
+## Prompt 10 — Loan Payment Tracking
 
-Prompt 10 — Loan Payment Tracking
+`Backstory:`
 
-Backstory:
+`A manufacturing unit in Ludhiana has 3 active business loans with different banks. The owner struggles to track EMI dates, amounts, and interest components.`
 
-A manufacturing unit in Ludhiana has 3 active business loans with different banks. The owner struggles to track EMI dates, amounts, and interest components.
+`Goal:`
 
-Goal:
+`Maintain a monthly loan payment tracker with due dates and outstanding balances.`
 
-Maintain a monthly loan payment tracker with due dates and outstanding balances.
+`Prompt:`
 
-Prompt:
+`"You are a business finance tracker. Create a loan repayment schedule for all active loans.`
 
-"You are a business finance tracker. Create a loan repayment schedule for all active loans.
-
-Include:
-
+`Include:`
+```
 1. Bank name and loan account number
 
 2. EMI amount split into principal and interest
@@ -329,31 +329,31 @@ Include:
 3. Due dates
 
 4. Outstanding principal after each payment"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Loan sanction letters or repayment schedules
 
 2. Payment history till date
 
 3. Interest rate for each loan
+```
+## Prompt 11 — Annual Cash Flow Summary
 
-Prompt 11 — Annual Cash Flow Summary
+`Backstory:`
 
-Backstory:
+`A home bakery in Kochi accepts online and cash payments and spends on ingredients, packaging, and marketing. At year-end, they want a summary showing total inflows vs. outflows.`
 
-A home bakery in Kochi accepts online and cash payments and spends on ingredients, packaging, and marketing. At year-end, they want a summary showing total inflows vs. outflows.
+`Goal:`
 
-Goal:
+`Create a visual annual cash flow report.`
 
-Create a visual annual cash flow report.
+`Prompt:`
 
-Prompt:
+`"You are a financial analyst. Summarize annual cash inflows and outflows for the given year.`
 
-"You are a financial analyst. Summarize annual cash inflows and outflows for the given year.
-
-Include:
-
+`Include:`
+```
 1. Total sales receipts
 
 2. Major expense categories
@@ -361,61 +361,61 @@ Include:
 3. Monthly inflow/outflow chart
 
 4. Net cash position per month"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. List of all transactions
 
 2. Expense category mapping
 
 3. Bank and cash data combined
+```
+## Prompt 12 — Duplicate Payment Audit
 
-Prompt 12 — Duplicate Payment Audit
+`Backstory:`
 
-Backstory:
+`An NGO in Kolkata suspects that a few suppliers have been accidentally paid twice for the same invoice. They want a review of last year’s transactions to confirm.`
 
-An NGO in Kolkata suspects that a few suppliers have been accidentally paid twice for the same invoice. They want a review of last year’s transactions to confirm.
+`Goal:`
 
-Goal:
+`Identify and flag duplicate payments.`
 
-Identify and flag duplicate payments.
+`Prompt:`
 
-Prompt:
+`"You are an audit specialist. Review all supplier payments for possible duplicates.`
 
-"You are an audit specialist. Review all supplier payments for possible duplicates.
-
-Criteria:
-
+`Criteria:`
+```
 1. Same vendor name and invoice number
 
 2. Same amount within ±₹5
 
 3. Payment dates within 15 days"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Supplier payment register
 
 2. Vendor master list
 
 3. Duplicate detection criteria
+```
+## Prompt 13 — Expense Approval Workflow
 
-Prompt 13 — Expense Approval Workflow
+`Backstory:`
 
-Backstory:
+`A digital marketing agency in Gurgaon reimburses employee expenses for client work. The accounts team wants a simple approval tracker to avoid delays.`
 
-A digital marketing agency in Gurgaon reimburses employee expenses for client work. The accounts team wants a simple approval tracker to avoid delays.
+`Goal:`
 
-Goal:
+`Track expense approval status for each claim.`
 
-Track expense approval status for each claim.
+`Prompt:`
 
-Prompt:
+`"You are a process documentation specialist. Create an expense claim tracker.`
 
-"You are a process documentation specialist. Create an expense claim tracker.
-
-Fields:
-
+`Fields:`
+```
 1. Employee name and ID
 
 2. Claim date and amount
@@ -423,43 +423,43 @@ Fields:
 3. Approver name and status
 
 4. Payment date if approved"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. List of claims
 
 2. Approval rules
 
 3. Employee department list
+```
+## Prompt 14 — POS Sales vs Bank Credit Reconciliation
 
-Prompt 14 — POS Sales vs Bank Credit Reconciliation
+`Backstory:`
 
-Backstory:
+`A grocery store in Indore uses a POS machine for card transactions but sees delays before money reflects in the bank account. They want to match POS receipts to bank credits.`
 
-A grocery store in Indore uses a POS machine for card transactions but sees delays before money reflects in the bank account. They want to match POS receipts to bank credits.
+`Goal:`
 
-Goal:
+`Reconcile POS daily sales to bank deposits.`
 
-Reconcile POS daily sales to bank deposits.
+`Prompt:`
 
-Prompt:
+`"You are a POS reconciliation expert. Match POS transaction list with bank statement credits.`
 
-"You are a POS reconciliation expert. Match POS transaction list with bank statement credits.
-
-Highlight: 
-
+`Highlight:`
+```
 1. Transactions missing in bank credit 
 
 2. Bank credits without matching POS entry"
-
-Inputs Required: 
-
+```
+`Inputs Required:`
+```
 1. POS transaction report 
 
 2. Bank statement 
 
 3. Settlement time lag in days
-
+```
 Prompt 15 — E-commerce Payment Gateway Reconciliation
 
 Backstory:
