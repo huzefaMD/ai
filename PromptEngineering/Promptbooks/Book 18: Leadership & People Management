@@ -3765,132 +3765,202 @@ Backstory:
 Shreya, 28, works as a project lead at a SaaS company where developers are spread across Bengaluru, Warsaw, and Toronto. Because of the time differences, handoffs often get delayed or incomplete, which causes bottlenecks. She needs an SOP that makes sure task handoffs are seamless, fully documented, and ready for the next person to pick up without confusion.
 
 Goal:
+
 Develop a task handoff SOP that ensures no work stalls due to unclear communication across time zones.
 
 Prompt:
+
 "You are a remote workflow consultant. Create a task handoff SOP for a SaaS development team across three time zones. The SOP must include:
 
-A standard template for task handoff notes, including current status, pending items, blockers, and next steps.
-Guidelines for recording short Loom or video walkthroughs when handing off complex work.
-A shared folder structure for storing related documentation.
-Time zone–aware scheduling tips to maximize overlap hours.
-A responsibility tracker (e.g., in Notion or Jira) to log each handoff."
+1. A standard template for task handoff notes, including current status, pending items, blockers, and next steps.
+
+2. Guidelines for recording short Loom or video walkthroughs when handing off complex work.
+
+3. A shared folder structure for storing related documentation.
+
+4. Time zone–aware scheduling tips to maximize overlap hours.
+
+5. A responsibility tracker (e.g., in Notion or Jira) to log each handoff."
+
 Inputs:
 
-Number of time zones involved
-Task complexity level
-Tools used for documentation
-Overlap hours available
+1. Number of time zones involved
+
+2. Task complexity level
+
+3. Tools used for documentation
+
+4. Overlap hours available
 
 Prompt 7 — Remote Security & Data Access SOP
+
 Backstory:
+
 Manish, 31, manages a distributed finance team handling sensitive client data. Employees work from different cities in India, and he’s concerned about security breaches and unauthorized file sharing. He needs an SOP that balances easy access for authorized team members with strong security measures to protect confidential data.
 
 Goal:
+
 Create a security and data access SOP that ensures safe handling of sensitive files while maintaining productivity.
 
 Prompt:
+
 "You are a cybersecurity policy writer. Draft a remote security SOP for a distributed finance team. The SOP must:
 
-Define secure login procedures (VPN, MFA).
-Specify approved file-sharing platforms and encryption standards.
-Outline monthly password update rules.
-Include steps for immediate revocation of access for departing employees.
-Add a protocol for reporting suspected breaches within 2 hours."
+1. Define secure login procedures (VPN, MFA).
+
+2. Specify approved file-sharing platforms and encryption standards.
+
+3. Outline monthly password update rules.
+
+4. Include steps for immediate revocation of access for departing employees.
+
+5. Add a protocol for reporting suspected breaches within 2 hours."
+
 Inputs:
 
-Type of data handled
-Security tools in use
-Compliance requirements (e.g., ISO, GDPR)
-Number of employees with access
+1. Type of data handled
+
+2. Security tools in use
+
+3. Compliance requirements (e.g., ISO, GDPR)
+
+4. Number of employees with access
 
 Prompt 8 — Remote Brainstorming Session SOP
+
 Backstory:
+
 Aisha, 27, leads the creative team of an ad agency. Since going remote, brainstorming sessions feel dull, with only a few people speaking while others remain passive. She needs an SOP that turns remote brainstorming into a dynamic, idea-rich, and collaborative process.
 
 Goal:
+
 Design a remote brainstorming SOP that encourages participation, creativity, and actionable outcomes.
 
 Prompt:
+
 "You are a creative facilitation expert. Write a remote brainstorming SOP for a 10-person creative team. Include:
 
-Pre-session prep tasks and inspiration decks to be sent 24 hours before.
-A structure for a 60-minute session with icebreakers, breakout rooms, and voting rounds.
-Tools to use (e.g., Miro, MURAL) and access setup steps.
-A rotating facilitator role for each session.
-A follow-up process to turn ideas into project briefs within 48 hours."
+1. Pre-session prep tasks and inspiration decks to be sent 24 hours before.
+
+2. A structure for a 60-minute session with icebreakers, breakout rooms, and voting rounds.
+
+3. Tools to use (e.g., Miro, MURAL) and access setup steps.
+
+4. A rotating facilitator role for each session.
+
+5. A follow-up process to turn ideas into project briefs within 48 hours."
+
 Inputs:
 
-Team size
-Meeting length
-Creative tools available
-Nature of projects
+1. Team size
+
+2. Meeting length
+
+3. Creative tools available
+
+4. Nature of projects
 
 Prompt 9 — Async Project Update SOP
+
 Backstory:
+
 Rohit, 30, manages a hybrid product design team that struggles with scheduling live meetings due to different work hours. He wants an SOP that ensures asynchronous project updates are clear, timely, and tracked, so no one is left out of the loop.
 
 Goal:
+
 Create an asynchronous update SOP to replace unnecessary live meetings and keep projects moving smoothly.
 
 Prompt:
+
 "You are a remote productivity expert. Create an async update SOP for a product design team. Include:
 
-A standard update format with key milestones, blockers, and next actions.
-Weekly deadlines for posting updates in the shared project board.
-Use of short recorded video updates for visual work.
-Guidelines for tagging relevant stakeholders.
-Archiving rules to keep update history searchable."
+1. A standard update format with key milestones, blockers, and next actions.
+
+2. Weekly deadlines for posting updates in the shared project board.
+
+3. Use of short recorded video updates for visual work.
+
+4. Guidelines for tagging relevant stakeholders.
+
+5. Archiving rules to keep update history searchable."
+
 Inputs:
 
-Project type
-Tools for async communication
-Update frequency
-Level of stakeholder involvement
+1. Project type
+
+2. Tools for async communication
+
+3. Update frequency
+
+4. Level of stakeholder involvement
 
 Prompt 10 — Remote Cultural Integration SOP for New Hires
+
 Backstory:
+
 Priya, 33, leads HR for a growing startup. While technical onboarding is smooth, new hires often take months to feel connected to the company culture, especially when working remotely. She wants an SOP that speeds up cultural integration through deliberate remote activities.
 
 Goal:
+
 Create a cultural integration SOP that helps remote employees feel like part of the team quickly.
 
 Prompt:
+
 "You are an organizational culture consultant. Design a cultural integration SOP for a fully remote startup. Include:
 
-Virtual coffee chats with different team members in the first month.
-A digital ‘culture handbook’ with values, traditions, and team rituals.
-Monthly virtual team-building games.
-An internal social media channel for casual conversations.
-A 60-day culture check-in survey."
+1. Virtual coffee chats with different team members in the first month.
+
+2. A digital ‘culture handbook’ with values, traditions, and team rituals.
+
+3. Monthly virtual team-building games.
+
+4. An internal social media channel for casual conversations.
+
+5. A 60-day culture check-in survey."
+
 Inputs:
 
-Company values
-Size of team
-Budget for activities
-Available digital tools
+1. Company values
+
+2. Size of team
+
+3. Budget for activities
+
+4. Available digital tools
 
 Prompt 11 — Remote Leave Management SOP
+
 Backstory:
+
 Arjun, 29, runs a content marketing team where members take leave without enough notice, causing delivery delays. He needs a transparent SOP so all leave requests and approvals are tracked and visible without micromanaging.
 
 Goal:
+
 Build a leave management SOP that ensures fair, clear, and timely leave planning for remote teams.
 
 Prompt:
+
 "You are an HR process designer. Draft a leave management SOP for a remote content team. Include:
 
-Minimum notice period for leave requests.
-A shared leave calendar visible to all members.
-Steps for arranging coverage during absences.
-Emergency leave protocol.
-Monthly leave report format for managers."
+1. Minimum notice period for leave requests.
+
+2. A shared leave calendar visible to all members.
+
+3. Steps for arranging coverage during absences.
+
+4. Emergency leave protocol.
+
+5. Monthly leave report format for managers."
+
 Inputs:
 
-Team size
-Leave policies (paid/unpaid)
-Coverage options
-Communication tools
+1. Team size
+
+2. Leave policies (paid/unpaid)
+
+3. Coverage options
+
+4. Communication tools
 
 Prompt 12 — Remote Mentorship Program SOP
 Backstory:
