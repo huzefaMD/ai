@@ -2736,153 +2736,234 @@ Backstory:
 Priya, 29, leads a fully remote design team across India. The team members work from different cities and rarely meet in person, which has led to a feeling of disconnection. With Diwali approaching, Priya wants to organise a virtual engagement plan that celebrates the festival while boosting team bonding. She is looking for creative activities that combine fun, cultural connection, and light-hearted competition.
 
 Goal:
+
 Create a detailed festival-themed virtual engagement plan that celebrates Diwali while fostering team spirit, inclusivity, and creativity in a remote setting.
 
 Prompt:
+
 "You are an HR culture strategist. Create a virtual Diwali engagement plan for a remote team of 15 people spread across India. Include:
 
-A themed activity schedule for 3 days.
-Games and ice-breakers inspired by Diwali traditions.
-A ‘cultural exchange’ segment for team members to share their local customs.
-A low-cost gift or recognition idea for each participant.
+1. A themed activity schedule for 3 days.
+
+2. Games and ice-breakers inspired by Diwali traditions.
+
+3. A ‘cultural exchange’ segment for team members to share their local customs.
+
+4. A low-cost gift or recognition idea for each participant.
+
 Ensure inclusivity for all religions and dietary preferences. Provide step-by-step execution guidelines and a budget under ₹5,000."
+
 Inputs:
 
-Number of team members
-Festival theme (Diwali, Holi, etc.)
-Budget limit
-Duration of celebration (in days)
+1. Number of team members
+
+2. Festival theme (Diwali, Holi, etc.)
+
+3. Budget limit
+
+4. Duration of celebration (in days)
 
 Prompt 2 — Wellness Week for a Corporate Office
+
 Backstory:
+
 Anil, 33, is an HR executive at a tech company in Bengaluru. Many employees have complained of burnout and back pain due to long hours of sitting. Management wants to address wellness in a way that’s fun, not preachy. Anil is tasked with organising a “Wellness Week” that includes both physical and mental health activities.
 
 Goal:
+
 Design a 5-day wellness engagement program that encourages employees to participate without feeling pressured, combining physical fitness, mindfulness, and nutrition.
 
 Prompt:
+
 "You are a workplace wellness consultant. Create a ‘Wellness Week’ plan for 100 employees in a corporate office. The plan should include:
 
-Daily themed activities (e.g., Mindful Monday, Fitness Friday).
-Interactive workshops (yoga, posture correction, healthy snacking).
-Friendly competitions with small rewards.
-A feedback system to measure participation and impact.
+1. Daily themed activities (e.g., Mindful Monday, Fitness Friday).
+
+2. Interactive workshops (yoga, posture correction, healthy snacking).
+
+3. Friendly competitions with small rewards.
+
+4. A feedback system to measure participation and impact.
+
 Keep the budget under ₹20,000 and suggest both in-person and virtual participation options."
+
 Inputs:
 
-Number of employees
-Wellness focus areas (physical, mental, nutritional)
-Budget limit
-Hybrid or fully in-office
+1. Number of employees
+
+2. Wellness focus areas (physical, mental, nutritional)
+
+3. Budget limit
+
+4. Hybrid or fully in-office
 
 Prompt 3 — Cross-Department Collaboration Challenge
+
 Backstory:
+
 Meera, 27, recently joined as an engagement coordinator at a mid-sized FMCG company in Mumbai. She noticed that employees mostly interact within their own departments, which limits idea exchange and innovation. She wants to design a fun “Collaboration Challenge” that encourages employees from different teams to work together.
 
 Goal:
+
 Develop a one-week cross-department collaboration program that fosters idea-sharing, creativity, and healthy competition.
 
 Prompt:
+
 "You are a corporate engagement specialist. Create a ‘Collaboration Challenge’ for 80 employees across 4 departments. The program should:
 
-Assign mixed-department teams.
-Give them fun, innovation-based tasks (e.g., design a mock product, pitch a marketing campaign).
-Include a scoring system and panel of judges.
-End with a showcase and prize ceremony.
+1. Assign mixed-department teams.
+
+2. Give them fun, innovation-based tasks (e.g., design a mock product, pitch a marketing campaign).
+
+3. Include a scoring system and panel of judges.
+
+4. End with a showcase and prize ceremony.
+
 Ensure the challenge builds long-term interdepartmental relationships."
+
 Inputs:
 
-Number of participants
-Departments involved
-Duration (days)
-Type of tasks (innovation, creative, social impact)
+1. Number of participants
+
+2. Departments involved
+
+3. Duration (days)
+
+4. Type of tasks (innovation, creative, social impact)
 
 Prompt 4 — Employee Birthday Celebration Calendar
+
 Backstory:
+
 Karan, 31, works in HR at a start-up in Gurugram. Employees often forget each other’s birthdays due to hectic schedules, which misses opportunities for bonding. Karan wants a simple but memorable birthday engagement plan that makes each employee feel valued without spending much.
 
 Goal:
+
 Create an annual employee birthday celebration plan that is budget-friendly and personalised.
 
 Prompt:
+
 "You are a workplace culture consultant. Design a 12-month employee birthday celebration calendar for a team of 50 people. Include:
 
-A system for tracking and announcing birthdays.
-Low-cost yet thoughtful celebration ideas.
-A virtual option for remote staff.
-A small personalised gift idea for each month.
+1. A system for tracking and announcing birthdays.
+
+2. Low-cost yet thoughtful celebration ideas.
+
+3. A virtual option for remote staff.
+
+4. A small personalised gift idea for each month.
+
 Budget: ₹500 per person annually."
+
 Inputs:
 
-Number of employees
-Celebration style (in-person, hybrid, virtual)
-Budget per employee
+1. Number of employees
+
+2. Celebration style (in-person, hybrid, virtual)
+
+3. Budget per employee
 
 Prompt 5 — Gamified Learning Program
+
 Backstory:
+
 Sonia, 28, is an L&D (Learning and Development) officer in a large IT company in Hyderabad. Many employees attend training sessions but forget most of the content after a few weeks. She wants to make learning fun by gamifying the process and offering rewards for consistent participation.
 
 Goal:
+
 Create a gamified corporate learning plan that encourages employees to actively participate and retain knowledge.
 
 Prompt:
+
 "You are a corporate learning designer. Create a gamified training program for 200 employees that:
 
-Converts training modules into interactive challenges.
-Assigns points for participation and completion.
-Includes leaderboards, badges, and rewards.
-Offers a quarterly ‘Champion Learner’ award.
+1. Converts training modules into interactive challenges.
+
+2. Assigns points for participation and completion.
+
+3. Includes leaderboards, badges, and rewards.
+
+4. Offers a quarterly ‘Champion Learner’ award.
+
 Keep the platform accessible via mobile and desktop. Ensure the plan is engaging for employees aged 20–35."
+
 Inputs:
 
-Number of employees
-Training topics
-Duration of program
-Budget for rewards
+1. Number of employees
+
+2. Training topics
+
+3. Duration of program
+
+4. Budget for rewards
 
 Prompt 6 — Office Décor Competition
+
 Backstory:
+
 Rahul, 30, works at a creative agency in Pune. The office environment has started to feel dull, with blank walls and outdated furniture. Rahul believes a lively, visually stimulating workspace can boost motivation. He wants to run an “Office Décor Competition” where teams can transform their work areas into inspiring zones.
 
 Goal:
+
 Design a team-based office décor challenge that encourages creativity, collaboration, and pride in the workplace.
 
 Prompt:
+
 "You are a workplace engagement designer. Create an ‘Office Décor Competition’ plan for 60 employees divided into 6 teams. The plan should:
 
-Provide clear décor guidelines (budget, materials, safety rules).
-Have a theme (e.g., “Future of Work” or “Sustainable Spaces”).
-Include judging criteria for creativity, functionality, and teamwork.
-End with a reveal day and award ceremony.
+1. Provide clear décor guidelines (budget, materials, safety rules).
+
+2. Have a theme (e.g., “Future of Work” or “Sustainable Spaces”).
+
+3. Include judging criteria for creativity, functionality, and teamwork.
+
+4. End with a reveal day and award ceremony.
+
 Ensure inclusivity for remote teams by allowing them to submit virtual workspace makeovers."
+
 Inputs:
 
-Number of teams
-Theme of decoration
-Budget per team
-Duration of competition
+1. Number of teams
+
+2. Theme of decoration
+
+3. Budget per team
+
+4. Duration of competition
 
 Prompt 7 — ‘Lunch & Learn’ Knowledge Sharing
+
 Backstory:
+
 Shreya, 32, manages HR at a fintech company in Bengaluru. She wants employees to learn from each other’s skills without it feeling like another mandatory training. She envisions short, interactive lunch sessions where employees present topics they’re passionate about — from investing tips to photography.
 
 Goal:
+
 Create a monthly “Lunch & Learn” program that encourages peer-to-peer learning in a relaxed, social setting.
 
 Prompt:
+
 "You are a workplace learning consultant. Design a 12-month ‘Lunch & Learn’ plan for 40 employees. The program should:
 
-Feature one volunteer speaker each month.
-Cover both professional skills and personal hobbies.
-Provide a lunch budget and snacks.
-Include a voting system for the most engaging session, with small rewards.
+1. Feature one volunteer speaker each month.
+
+2. Cover both professional skills and personal hobbies.
+
+3. Provide a lunch budget and snacks.
+
+4. Include a voting system for the most engaging session, with small rewards.
+
 Offer hybrid participation for remote employees."
+
 Inputs:
 
-Number of employees
-Budget for lunch per session
-Preferred session duration
-Topics allowed (work-only, or personal too)
+1. Number of employees
+
+2. Budget for lunch per session
+
+3. Preferred session duration
+
+4. Topics allowed (work-only, or personal too)
 
 Prompt 8 — CSR Volunteering Day
 
