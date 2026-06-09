@@ -1958,4 +1958,339 @@ Cost of unfilled positions
 Productivity data
 Budget constraints
 
+Prompt 14 – Conflict Over Creative Direction in a Marketing Campaign
+Backstory:
+In a Delhi-based fashion brand, the marketing head and creative director disagree over the campaign theme for the upcoming season. The marketing head wants a mass-market appeal, while the creative director wants an artistic, niche approach. The launch date is near, and delays are becoming costly.
+
+Goal:
+Create a resolution script that aligns creative and business priorities.
+
+Prompt:
+"You are a creative-business alignment coach. Draft a conflict resolution script for a marketing vs. creative team dispute. Include:
+
+Opening & Project Goal Reminder – Restate campaign objectives.
+Creative Vision Presentation – Let the creative director explain their approach.
+Market Perspective Presentation – Allow the marketing head to present market research data.
+Idea Fusion – Find elements of each approach that can be combined.
+Decision Confirmation – Agree on the final direction.
+Execution Plan – Define next steps to meet deadlines.
+Use language that validates both artistic and commercial priorities."
+Inputs:
+
+Campaign objectives
+Market research data
+Brand positioning
+Timeline for launch
+
+Prompt 15 – Dispute Over Performance Metrics
+Backstory:
+At a logistics firm in Ahmedabad, the operations team feels the performance metrics set by the management are unrealistic and demotivating. Management insists the targets are achievable based on industry benchmarks. The disagreement has led to a drop in morale and growing friction.
+
+Goal:
+Draft a resolution script to reassess and agree on performance metrics that are both ambitious and fair.
+
+Prompt:
+"You are a performance management facilitator. Draft a mediation script for resolving disputes over performance metrics. Include:
+
+Opening & Objective Setting – Clarify the aim is to ensure metrics drive motivation, not frustration.
+Current Metrics Review – Present the existing targets and results.
+Employee Feedback – Hear concerns about achievability.
+Benchmark Analysis – Compare with industry data.
+Metric Adjustment – Agree on revised, realistic targets.
+Monitoring Plan – Review results after 1 quarter.
+Include non-blaming language to keep discussion constructive."
+Inputs:
+
+Current performance metrics
+Past achievement data
+Industry benchmarks
+Employee workload levels
+
+Prompt 16 – Conflict Over Remote Work vs. Office Attendance
+Backstory:
+A Mumbai fintech startup implemented a hybrid work policy, but one team wants to work fully remotely, citing productivity and commute savings. The leadership insists on at least three days in the office for better collaboration. Frustrations are rising, with threats of resignation from some employees.
+
+Goal:
+Draft a resolution script that balances flexibility with team cohesion.
+
+Prompt:
+"You are a workplace flexibility mediator. Draft a resolution script for addressing disputes over remote work vs. office attendance. Include:
+
+Opening & Context – Recognize both the need for collaboration and flexibility.
+Productivity Data Review – Present actual performance metrics from remote vs. office work.
+Employee Concerns – Allow employees to share challenges and benefits of remote work.
+Hybrid Adjustment Plan – Propose a trial period with flexible arrangements.
+Accountability Measures – Define KPIs for the trial.
+Follow-Up – Review after 6 weeks to make a final decision.
+Use phrasing that frames the solution as a shared experiment, not a mandate."
+Inputs:
+
+Productivity data
+Current hybrid policy details
+Employee commute times
+Project collaboration needs
+
+Prompt 17 – Disagreement Between Finance and Operations Over Expense Approvals
+Backstory:
+In a Chennai manufacturing firm, finance insists on strict pre-approval for all expenses, while operations complains that delays in approvals disrupt urgent purchases. The tension is slowing down projects and creating mutual resentment.
+
+Goal:
+Create a script to streamline approvals without compromising financial control.
+
+Prompt:
+"You are a process efficiency coach. Draft a conflict resolution script for finance and operations over expense approval delays. Include:
+
+Opening & Objective – Emphasize balancing speed with accountability.
+Pain Point Sharing – Let operations explain delays caused by current rules.
+Risk Awareness – Allow finance to present risks of loose approvals.
+Process Redesign – Create a fast-track system for urgent expenses.
+Clear Guidelines – Define what qualifies as urgent.
+Review Plan – Audit the new process after 1 month.
+Include collaborative language that highlights joint ownership of the solution."
+Inputs:
+
+Current approval workflow
+Number of urgent purchases per month
+Risks identified by finance
+Cost implications of delays
+
+Prompt 18 – Conflict Over Role Overlap Between Departments
+Backstory:
+In a Hyderabad-based BPO, the sales and account management teams are clashing over client communication responsibilities. Both teams sometimes duplicate efforts or contradict each other in client calls, confusing customers.
+
+Goal:
+Draft a resolution script to clearly define roles and prevent overlap.
+
+Prompt:
+"You are an organizational role clarity consultant. Draft a resolution script for overlapping responsibilities between two teams. Include:
+
+Opening & Acknowledgment – Appreciate both teams’ client dedication.
+Overlap Identification – Map areas where responsibilities clash.
+Role Definition – Clearly assign ownership of tasks.
+Communication Protocol – Establish internal update processes before contacting clients.
+Documentation – Create a shared playbook.
+Follow-Up – Review after 1 month for smoothness.
+Use wording that keeps focus on improving client experience."
+Inputs:
+
+Current task lists of each team
+Client feedback data
+Frequency of duplicate communications
+Current reporting lines
+
+Prompt 19 – Dispute Over Bonus Allocation
+Backstory:
+In a Pune software firm, the product team believes bonuses should be tied to collective project success, while the sales team insists on individual sales performance. HR is stuck mediating the disagreement before the annual payout.
+
+Goal:
+Create a resolution script that establishes a fair, transparent bonus structure.
+
+Prompt:
+"You are a compensation strategy mediator. Draft a resolution script for conflicting views on bonus allocation. Include:
+
+Opening & Transparency – Outline the current bonus budget and constraints.
+Perspective Sharing – Let each team explain their preferred model.
+Pros & Cons Analysis – Compare collective vs. individual performance models.
+Hybrid Model Proposal – Combine elements from both.
+Agreement Documentation – Detail final criteria.
+Future Review – Reassess after one bonus cycle.
+Use language that frames the final decision as a balance of fairness and motivation."
+Inputs:
+
+Current bonus pool
+Historical payout data
+Performance metrics for each team
+Company profitability
+
+Prompt 20 – Disagreement Between Marketing and Legal Over Campaign Messaging
+Backstory:
+A Delhi tech startup’s marketing team wants edgy, bold messaging for a product launch. The legal team warns some taglines may breach advertising regulations. The launch date is close, and both teams feel the other is being unreasonable.
+
+Goal:
+Draft a resolution script to align creative ambition with legal compliance.
+
+Prompt:
+"You are a compliance-creative alignment coach. Draft a resolution script for marketing and legal over ad campaign messaging. Include:
+
+Opening & Goal – Launch a successful yet compliant campaign.
+Risk Presentation – Legal shares potential violations with examples.
+Creative Defense – Marketing presents brand value of the messaging.
+Alternatives Exploration – Brainstorm legally safe yet impactful wording.
+Final Approval Process – Decide how final slogans get greenlit.
+Documentation – Record compliant messaging guidelines.
+Use language that respects both creativity and risk management."
+Inputs:
+
+Campaign slogans proposed
+Regulatory guidelines
+Competitor messaging examples
+Timeline to launch
+
+Prompt 21 – Conflict Over Team Workload Distribution
+Backstory:
+In a Lucknow digital agency, some team members feel overburdened while others are perceived as underutilized. Resentment is growing, and deadlines are slipping because work is unevenly allocated.
+
+Goal:
+Create a script to re-balance workloads fairly.
+
+Prompt:
+"You are a workload balancing facilitator. Draft a resolution script for redistributing tasks in a team. Include:
+
+Opening & Purpose – Clarify the aim is fairness, not criticism.
+Workload Mapping – Present current distribution of tasks.
+Input Collection – Hear from each member on capacity and skill match.
+Reallocation Plan – Adjust tasks for balance.
+Monitoring – Track progress for 2 weeks.
+Feedback Round – Reassess after trial.
+Use inclusive wording to avoid singling out individuals."
+Inputs:
+
+Task allocation chart
+Project deadlines
+Skills and availability of each member
+Productivity reports
+
+Prompt 22 – Disagreement Over Tool Adoption
+Backstory:
+An Ahmedabad consulting firm’s IT team wants to roll out a new project management tool. The delivery teams resist, citing learning curve and disruption. The standoff is delaying implementation.
+
+Goal:
+Draft a script to resolve resistance and agree on tool adoption.
+
+Prompt:
+"You are a change management facilitator. Draft a resolution script for adopting new tools. Include:
+
+Opening & Vision – Explain why the tool is being considered.
+Concerns Sharing – Let delivery teams list worries.
+Benefit Demonstration – IT presents long-term gains.
+Transition Plan – Phase in adoption with training.
+Support Structure – Assign tool champions.
+Review – Assess after pilot run.
+Use wording that emphasizes collaboration and shared benefit."
+Inputs:
+
+Tool features
+Current pain points in project management
+Training resources available
+Project timelines
+
+Prompt 23 – Conflict Between Manager and HR Over Disciplinary Action
+Backstory:
+In a Jaipur hospitality company, a manager wants to fire an underperforming employee immediately, while HR insists on following a formal improvement process. The disagreement is delaying action and frustrating both sides.
+
+Goal:
+Draft a resolution script that ensures due process while addressing performance issues.
+
+Prompt:
+"You are an HR-policy mediator. Draft a conflict resolution script for disputes over disciplinary action. Include:
+
+Opening & Policy Reminder – State legal and policy requirements.
+Case Review – Manager explains reasons for immediate action.
+Process Explanation – HR outlines the improvement plan steps.
+Middle Ground – Agree on a shorter improvement plan if possible.
+Documentation – Record agreed timeline.
+Follow-Up – Review progress after agreed period.
+Use respectful language to keep focus on fairness."
+Inputs:
+
+Employee performance records
+HR policy documents
+Legal requirements
+Manager’s specific concerns
+
+Prompt 24 – Conflict Over Leadership Style
+Backstory:
+At a Coimbatore IT firm, a new department head’s direct, results-driven style is clashing with a team used to a more collaborative, nurturing leader. Misunderstandings and resignations are becoming a risk.
+
+Goal:
+Create a script to bridge leadership style differences.
+
+Prompt:
+"You are a leadership adaptation coach. Draft a resolution script for leadership style clashes. Include:
+
+Opening & Alignment – Restate team and department goals.
+Leader’s Perspective – New head explains their approach.
+Team’s Experience – Team shares what’s working and what’s not.
+Style Blending Plan – Identify ways to adapt leadership style to team needs.
+Trial Period – Implement adjustments for 1 month.
+Review Session – Gather feedback and adjust again.
+Use neutral language to avoid personal criticism."
+Inputs:
+
+Team performance metrics
+Leader’s past leadership track record
+Team feedback surveys
+Current department objectives
+
+Prompt 25 – Inter-Generational Workplace Conflict
+Backstory:
+In a Gurgaon design agency, younger employees prefer rapid experimentation, while older employees emphasize tried-and-tested methods. The cultural gap is creating frustration and slowing decision-making.
+
+Goal:
+Draft a resolution script to integrate innovative thinking with proven approaches.
+
+Prompt:
+"You are a workplace culture integrator. Draft a resolution script for inter-generational team conflicts. Include:
+
+Opening & Common Ground – Highlight shared passion for quality work.
+Perspective Exchange – Younger employees explain innovation benefits, seniors share risk concerns.
+Hybrid Approach Design – Combine both fast experimentation and risk control steps.
+Role Assignment – Assign roles that suit strengths of each group.
+Pilot Project – Test hybrid method on a small project.
+Review – Assess results and refine approach.
+Use language that values both tradition and innovation."
+Inputs:
+
+Team demographics
+Recent project timelines
+Examples of past successes from both approaches
+Client feedback
+
+
+Employee Engagement Ideas
+
+Prompt 1 — Festival-Themed Virtual Engagement Plan
+Backstory:
+Priya, 29, leads a fully remote design team across India. The team members work from different cities and rarely meet in person, which has led to a feeling of disconnection. With Diwali approaching, Priya wants to organise a virtual engagement plan that celebrates the festival while boosting team bonding. She is looking for creative activities that combine fun, cultural connection, and light-hearted competition.
+
+Goal:
+Create a detailed festival-themed virtual engagement plan that celebrates Diwali while fostering team spirit, inclusivity, and creativity in a remote setting.
+
+Prompt:
+"You are an HR culture strategist. Create a virtual Diwali engagement plan for a remote team of 15 people spread across India. Include:
+
+A themed activity schedule for 3 days.
+Games and ice-breakers inspired by Diwali traditions.
+A ‘cultural exchange’ segment for team members to share their local customs.
+A low-cost gift or recognition idea for each participant.
+Ensure inclusivity for all religions and dietary preferences. Provide step-by-step execution guidelines and a budget under ₹5,000."
+Inputs:
+
+Number of team members
+Festival theme (Diwali, Holi, etc.)
+Budget limit
+Duration of celebration (in days)
+
+Prompt 2 — Wellness Week for a Corporate Office
+Backstory:
+Anil, 33, is an HR executive at a tech company in Bengaluru. Many employees have complained of burnout and back pain due to long hours of sitting. Management wants to address wellness in a way that’s fun, not preachy. Anil is tasked with organising a “Wellness Week” that includes both physical and mental health activities.
+
+Goal:
+Design a 5-day wellness engagement program that encourages employees to participate without feeling pressured, combining physical fitness, mindfulness, and nutrition.
+
+Prompt:
+"You are a workplace wellness consultant. Create a ‘Wellness Week’ plan for 100 employees in a corporate office. The plan should include:
+
+Daily themed activities (e.g., Mindful Monday, Fitness Friday).
+Interactive workshops (yoga, posture correction, healthy snacking).
+Friendly competitions with small rewards.
+A feedback system to measure participation and impact.
+Keep the budget under ₹20,000 and suggest both in-person and virtual participation options."
+Inputs:
+
+Number of employees
+Wellness focus areas (physical, mental, nutritional)
+Budget limit
+Hybrid or fully in-office
+
 
