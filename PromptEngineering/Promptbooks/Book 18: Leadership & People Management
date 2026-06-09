@@ -918,279 +918,434 @@ Inputs:
 3. Review month focus (e.g., milestones or risks)
 
 Prompt 3 – Quarterly Strategy Alignment Meeting
+
 Backstory:
+
 A renewable energy startup in Pune wants leadership and team members aligned every quarter on big-picture goals. The founder believes quarterly strategic recalibration keeps everyone motivated and ensures resources are allocated to the most impactful work.
 
 Goal:
+
 Create a quarterly strategy alignment agenda.
 
 Prompt:
+
 *"You are a business strategy facilitator. Create a quarterly strategy meeting agenda that includes:
 
-Review of quarterly performance against KPIs
-Discussion of market and competitor shifts
-New strategic initiatives for next quarter
-Resource and budget planning
-Open Q&A to address employee concerns
+1. Review of quarterly performance against KPIs
+
+2. Discussion of market and competitor shifts
+
+3. New strategic initiatives for next quarter
+
+4. Resource and budget planning
+
+5. Open Q&A to address employee concerns
+
 Add breaks for informal networking between sessions."*
+
 Inputs:
 
-Strategic priorities
-KPI data
-Next quarter’s focus areas
+1. Strategic priorities
+
+2. KPI data
+
+3. Next quarter’s focus areas
 
 Prompt 4 – Daily Standup Agenda (Agile/Scrum)
+
 Backstory:
+
 A software development team in Hyderabad follows Agile methodology. They hold daily 15-minute standups to report on progress, plan for the day, and surface blockers. The Scrum Master wants a standardised agenda to keep the standups sharp and on-track.
 
 Goal:
+
 Design a daily standup meeting agenda.
 
 Prompt:
+
 *"You are an Agile coach. Create a daily standup agenda that includes:
 
-What did you complete yesterday?
-What will you work on today?
-Any blockers or dependencies?
-Keep responses concise and limit each member to 2 minutes."*
+1. What did you complete yesterday?
+
+2. What will you work on today?
+
+3. Any blockers or dependencies?
+
+4. Keep responses concise and limit each member to 2 minutes."*
+
 Inputs:
 
-Team size
-Sprint duration
-Time zone differences
+1. Team size
+
+2. Sprint duration
+
+3. Time zone differences
 
 Prompt 5 – Brainstorming Session Agenda
+
 Backstory:
+
 An ad agency in Delhi needs a structure for creative brainstorming meetings. Without an agenda, discussions become chaotic, and many ideas get lost. The Creative Director wants a format that encourages free-flowing ideas but also documents them for action.
 
 Goal:
+
 Create a brainstorming session agenda.
 
 Prompt:
+
 *"You are a creative facilitator. Draft a brainstorming meeting agenda that includes:
 
-Icebreaker activity to spark creativity
-Problem statement and desired outcome
-Individual silent ideation
-Group sharing and idea clustering
-Shortlisting and next steps
+1. Icebreaker activity to spark creativity
+
+2. Problem statement and desired outcome
+
+3. Individual silent ideation
+
+4. Group sharing and idea clustering
+
+5. Shortlisting and next steps
+
 Add clear roles for note-taking and idea ownership."*
+
 Inputs:
 
-Topic or challenge
-Time allocated
-Number of participants
+1. Topic or challenge
+
+2. Time allocated
+
+3. Number of participants
 
 Prompt 6 – All-Hands Company Meeting Agenda
+
 Backstory:
+
 A fast-growing healthtech startup in Gurugram wants to hold monthly all-hands meetings to keep employees informed and engaged. These sessions should cover company performance, departmental highlights, and employee recognition.
 
 Goal:
+
 Design an all-hands meeting agenda.
 
 Prompt:
+
 *"You are an internal communications strategist. Create a monthly all-hands agenda that includes:
 
-CEO/founder update on company progress
-Department highlights and success stories
-Financial health snapshot
-Employee recognition and awards
-Q&A segment
+1. CEO/founder update on company progress
+
+2. Department highlights and success stories
+
+3. Financial health snapshot
+
+4. Employee recognition and awards
+
+5. Q&A segment
+
 Ensure agenda keeps energy high and fosters transparency."*
+
 Inputs:
 
-Company size
-Key metrics to share
-Recognition categories
+1. Company size
+
+2. Key metrics to share
+
+3. Recognition categories
 
 Prompt 7 – Cross-Functional Collaboration Meeting
+
 Backstory:
+
 A fashion e-commerce brand in Jaipur often struggles with coordination between design, marketing, and supply chain teams. The COO wants a recurring meeting to ensure smoother collaboration and timely campaign launches.
 
 Goal:
+
 Create a cross-functional meeting agenda.
 
 Prompt:
+
 *"You are a workflow efficiency expert. Draft an agenda for a cross-functional meeting covering:
 
-Project status updates from each function
-Pain points affecting timelines
-Interdependency mapping
-Quick decisions to unblock progress
-Clear action item assignments
+1. Project status updates from each function
+
+2. Pain points affecting timelines
+
+3. Interdependency mapping
+
+4. Quick decisions to unblock progress
+
+5. Clear action item assignments
+
 Limit discussions to decision-making, not long debates."*
+
 Inputs:
 
-Departments involved
-Project cycle stage
-Meeting frequency
+1. Departments involved
+
+2. Project cycle stage
+
+3. Meeting frequency
 
 Prompt 8 – Client Project Kickoff Agenda
+
 Backstory:
+
 A PR agency in Chennai wants a structured kickoff agenda for new client projects to ensure smooth onboarding. This agenda should cover introductions, scope, timelines, and communication protocols.
 
 Goal:
+
 Design a client project kickoff agenda.
 
 Prompt:
+
 *"You are a client success manager. Create a kickoff meeting agenda that includes:
 
-Introductions and roles
-Project scope and objectives
-Timeline and milestone agreement
-Communication and reporting cadence
-Initial Q&A
+1. Introductions and roles
+
+2. Project scope and objectives
+
+3. Timeline and milestone agreement
+
+4. Communication and reporting cadence
+
+5. Initial Q&A
+
 Include space for noting any client-specific preferences or risks."*
+
 Inputs:
 
-Client industry
-Project scope document
-Contract terms
+1. Client industry
+
+2. Project scope document
+
+3. Contract terms
 
 Prompt 9 – Remote Team Catch-Up Agenda
+
 Backstory:
+
 A content writing team spread across India meets virtually every Friday to maintain connection and share progress. Without a set agenda, these calls drift into unrelated topics. The manager wants a lightweight but structured approach.
 
 Goal:
+
 Create a remote team catch-up agenda.
 
 Prompt:
+
 *"You are a remote work consultant. Draft a remote team catch-up agenda with:
 
-Personal check-in round
-Project updates
-Shout-outs for good work
-Planning for next week
-Fun, non-work activity to close the call
+1. Personal check-in round
+
+2. Project updates
+
+3. Shout-outs for good work
+
+4. Planning for next week
+
+5. Fun, non-work activity to close the call
+
 Keep it warm, engaging, and under 45 minutes."*
+
 Inputs:
 
-Team size
-Project types
-Call platform features (polls, breakout rooms, etc.)
+1. Team size
+
+2. Project types
+
+3. Call platform features (polls, breakout rooms, etc.)
 
 Prompt 10 – Performance Review Prep Meeting
+
 Backstory:
+
 A BPO company in Noida wants a short pre-appraisal meeting agenda between managers and team leads to align on evaluation criteria before formal reviews. This ensures consistency in scoring and feedback delivery.
 
 Goal:
+
 Design a performance review prep agenda.
 
 Prompt:
+
 *"You are an HR operations specialist. Create a meeting agenda for pre-performance review alignment that includes:
 
-Review of scoring rubrics
-Calibration of rating expectations
-Identifying outliers and discussing justifications
-Agreement on key talking points for feedback delivery
-Timeline for completing reviews
+1. Review of scoring rubrics
+
+2. Calibration of rating expectations
+
+3. Identifying outliers and discussing justifications
+
+4. Agreement on key talking points for feedback delivery
+
+5. Timeline for completing reviews
+
 Keep the session under 1 hour."*
+
 Inputs:
 
-Performance review form
-Team size under each lead
-Review deadlines
+1. Performance review form
+
+2. Team size under each lead
+
+3. Review deadlines
 
 Prompt 11 – Product Launch Planning Meeting Agenda
+
 Backstory:
+
 A mid-sized electronics company in Pune is preparing to launch a new smart home device in the Indian market within 90 days. The cross-functional launch team includes members from product development, marketing, supply chain, and customer service. In the past, product launches have been delayed due to unclear responsibilities and last-minute coordination issues. The VP of Product wants a detailed kickoff meeting to set the tone, align deliverables, and ensure all departments understand timelines and dependencies.
 
 Goal:
+
 Design a structured agenda for a product launch planning meeting that ensures complete clarity on objectives, responsibilities, deadlines, and risk mitigation strategies. Success means all stakeholders leave the meeting knowing their exact roles, timelines, and communication protocols, with no ambiguity.
 
 Prompt:
+
 *"You are a product launch strategist. Create a comprehensive agenda for a cross-functional product launch planning meeting, covering:
 
-Welcome & Context – 5 min overview of market opportunity and launch vision.
-Product Overview – Key features, USP, and value proposition.
-Marketing & PR Strategy – Campaign timelines, media channels, launch events.
-Supply Chain Readiness – Inventory levels, vendor deadlines, logistics plans.
-Customer Service Preparation – Training, FAQ documents, escalation protocols.
-Risk & Contingency Planning – Identifying potential delays or disruptions and assigning owners.
-Action Items & Next Steps – Assign owners, confirm deadlines, agree on reporting cadence.
+1. Welcome & Context – 5 min overview of market opportunity and launch vision.
+
+2. Product Overview – Key features, USP, and value proposition.
+
+3. Marketing & PR Strategy – Campaign timelines, media channels, launch events.
+
+4. Supply Chain Readiness – Inventory levels, vendor deadlines, logistics plans.
+
+5. Customer Service Preparation – Training, FAQ documents, escalation protocols.
+
+6. Risk & Contingency Planning – Identifying potential delays or disruptions and assigning owners.
+
+7. Action Items & Next Steps – Assign owners, confirm deadlines, agree on reporting cadence.
+
 Include time allocation for each item and ensure the meeting ends with a recap and documented summary."*
+
 Inputs:
 
-Launch date
-Core team member list & roles
-Budget allocations by department
-Known potential risks (supplier delays, regulatory approval)
-Communication platform for updates
+1. Launch date
+
+2. Core team member list & roles
+
+3. Budget allocations by department
+
+4. Known potential risks (supplier delays, regulatory approval)
+
+5. Communication platform for updates
 
 Prompt 12 – Crisis Response Coordination Meeting Agenda
+
 Backstory:
+
 A popular food delivery startup in Delhi faced a PR crisis when a video showing poor hygiene at one of its partner kitchens went viral. The leadership team needs to convene urgently with PR, operations, legal, and customer service to address the situation. Past crisis meetings have been chaotic, with overlapping conversations and no clear resolution path. The COO wants a hyper-structured agenda that balances speed with thoroughness.
 
 Goal:
+
 Create a time-bound agenda that allows the team to assess the crisis, take immediate action, and prepare public communication without losing focus. The outcome should be a clear response plan that protects brand reputation and customer trust.
 
 Prompt:
+
 *"You are a corporate crisis management consultant. Design a crisis coordination meeting agenda with:
 
-Incident Recap – Factual summary of what happened and current impact.
-Reputation Risk Assessment – Public sentiment, media coverage, social media trends.
-Operational Containment Measures – Actions to prevent further incidents.
-Legal & Compliance Check – Review potential liabilities and required disclosures.
-Public Communication Strategy – Drafting press release, social media responses, customer email.
-Owner Assignment & Timelines – Who does what in the next 24 hours.
-Follow-up Check-in – Schedule for status updates until the issue is resolved.
+1. Incident Recap – Factual summary of what happened and current impact.
+
+2. Reputation Risk Assessment – Public sentiment, media coverage, social media trends.
+
+3. Operational Containment Measures – Actions to prevent further incidents.
+
+4. Legal & Compliance Check – Review potential liabilities and required disclosures.
+
+5. Public Communication Strategy – Drafting press release, social media responses, customer email.
+
+6. Owner Assignment & Timelines – Who does what in the next 24 hours.
+
+7. Follow-up Check-in – Schedule for status updates until the issue is resolved.
+
 Allocate specific minutes to each section to keep total meeting time under 60 minutes."*
+
 Inputs:
 
-Nature and severity of crisis
-Latest media/social media reports
-Existing PR templates or guidelines
-Legal constraints for public statements
-Key decision-makers available in the meeting
+1. Nature and severity of crisis
+
+2. Latest media/social media reports
+
+3. Existing PR templates or guidelines
+
+4. Legal constraints for public statements
+
+5. Key decision-makers available in the meeting
 
 Prompt 13 – Innovation Lab Quarterly Update Meeting Agenda
+
 Backstory:
+
 An Indian fintech company runs an “Innovation Lab” where employees experiment with new payment solutions. Every quarter, the lab team presents prototypes, test results, and learnings to senior leadership. In previous updates, presentations have gone off-track, focusing too much on tech details and too little on business impact. The Head of Innovation wants an agenda that keeps the focus on strategic outcomes, scalability, and ROI.
 
 Goal:
+
 Develop a presentation-focused meeting agenda that ensures innovation updates are aligned with company goals and help leadership decide which projects to scale, pivot, or discontinue.
 
 Prompt:
+
 *"You are an innovation program facilitator. Draft a quarterly update agenda for an innovation lab, with the following structure:
 
-Opening & Purpose – Recap lab objectives and evaluation criteria.
-Project Showcase – For each project: problem statement, prototype demo, user feedback summary.
-Business Impact Review – Potential revenue streams, cost savings, market opportunity.
-Scalability Assessment – Technical feasibility, resource needs, partnership requirements.
-Leadership Feedback & Decisions – Go/No-Go, pivot, or scale decision per project.
-Next Quarter Priorities – New ideas to explore, skill gaps to fill, budget requests.
+1. Opening & Purpose – Recap lab objectives and evaluation criteria.
+
+2. Project Showcase – For each project: problem statement, prototype demo, user feedback summary.
+
+3. Business Impact Review – Potential revenue streams, cost savings, market opportunity.
+
+4. Scalability Assessment – Technical feasibility, resource needs, partnership requirements.
+
+5. Leadership Feedback & Decisions – Go/No-Go, pivot, or scale decision per project.
+
+6. Next Quarter Priorities – New ideas to explore, skill gaps to fill, budget requests.
+
 Include strict time limits for each project presentation to ensure all get equal attention."*
+
 Inputs:
 
-Number of projects to present
-Evaluation criteria for go/no-go decisions
-Key stakeholders attending
-Budget constraints for next quarter
+1. Number of projects to present
+
+2. Evaluation criteria for go/no-go decisions
+
+3. Key stakeholders attending
+
+4. Budget constraints for next quarter
 
 Prompt 14 – Remote Team Weekly Sync Agenda
+
 Backstory:
+
 A SaaS startup based in Bengaluru has employees spread across India, working remotely since its inception. While productivity is high, team alignment is slipping — duplicate work, missed deadlines, and miscommunications have become common. The CEO wants to implement a crisp yet structured weekly sync for the whole team to align priorities, surface blockers, and foster some informal bonding. Past attempts at weekly syncs either dragged too long or missed important points.
 
 Goal:
+
 Create a balanced remote weekly sync agenda that ensures alignment on key priorities, quick resolution of blockers, and some time for team culture building. The outcome should be a shared understanding of priorities and deadlines for the week.
 
 Prompt:
+
 *"You are a remote work facilitator. Design a 45–60 minute remote weekly sync agenda for a distributed SaaS team, covering:
 
-Welcome & Quick Wins – 5 min for celebrating small wins and announcements.
-Priority Review – Each team lead shares top 3 priorities for the week.
-Blockers & Dependencies – Identify issues and assign resolution owners.
-Metrics Snapshot – Key performance numbers from the previous week.
-Cross-Team Collaboration – Opportunities to support each other’s projects.
-Culture Moment – 5 min light activity or share-your-week segment to build rapport.
-Wrap-Up & Next Steps – Confirm who is doing what by when.
+1. Welcome & Quick Wins – 5 min for celebrating small wins and announcements.
+
+2. Priority Review – Each team lead shares top 3 priorities for the week.
+
+3. Blockers & Dependencies – Identify issues and assign resolution owners.
+
+4. Metrics Snapshot – Key performance numbers from the previous week.
+
+5. Cross-Team Collaboration – Opportunities to support each other’s projects.
+
+6. Culture Moment – 5 min light activity or share-your-week segment to build rapport.
+
+7. Wrap-Up & Next Steps – Confirm who is doing what by when.
+
 Ensure the agenda works for hybrid video calls and can be documented in project management tools."*
+
 Inputs:
 
-Team size and structure
-Time zones involved
-Key metrics to track weekly
-Preferred meeting platform (Zoom, Google Meet, MS Teams)
+1. Team size and structure
+
+2. Time zones involved
+
+3. Key metrics to track weekly
+
+4. Preferred meeting platform (Zoom, Google Meet, MS Teams)
 
 Prompt 15 – Quarterly Business Review (QBR) Agenda
 Backstory:
