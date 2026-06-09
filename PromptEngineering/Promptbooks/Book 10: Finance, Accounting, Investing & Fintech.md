@@ -3517,190 +3517,190 @@ Tasks:
 
 4. Discount rate
 ```
-Prompt 14 — Franchise ROI Evaluation
+## Prompt 14 — Franchise ROI Evaluation
 
-Backstory:
+`Backstory:`
 
-A 27-year-old entrepreneur in Jaipur is considering buying a fast-food franchise for ₹35 lakhs upfront and ₹3 lakhs/month operating costs. Expected monthly revenue is ₹6 lakhs.
+`A 27-year-old entrepreneur in Jaipur is considering buying a fast-food franchise for ₹35 lakhs upfront and ₹3 lakhs/month operating costs. Expected monthly revenue is ₹6 lakhs.`
 
-Goal:
+`Goal:`
 
-Evaluate ROI and feasibility of the franchise.
+`Evaluate ROI and feasibility of the franchise.`
 
-Prompt:
+`Prompt:`
 
-*"You are a franchise ROI consultant. Calculate:
-
+`*"You are a franchise ROI consultant. Calculate:`
+```
 1. Monthly and annual ROI %
 
 2. Break-even point
 
 3. 5-year payback analysis"*
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Franchise investment cost
 
 2. Monthly operating cost
 
 3. Expected monthly revenue
+```
+## Prompt 15 — Valuation of E-commerce Business for Sale
 
-Prompt 15 — Valuation of E-commerce Business for Sale
+`Backstory:`
 
-Backstory:
+`A 32-year-old e-commerce entrepreneur in Mumbai runs an Amazon store with ₹5 crores in annual revenue and ₹80 lakhs profit. She wants to sell the business and needs a valuation based on profit multiples and market comparables.`
 
-A 32-year-old e-commerce entrepreneur in Mumbai runs an Amazon store with ₹5 crores in annual revenue and ₹80 lakhs profit. She wants to sell the business and needs a valuation based on profit multiples and market comparables.
+`Goal:`
 
-Goal:
+`Calculate e-commerce business valuation.`
 
-Calculate e-commerce business valuation.
+`Prompt:`
 
-Prompt:
-
-*"You are an e-commerce business broker. Calculate valuation using:
-
+`*"You are an e-commerce business broker. Calculate valuation using:`
+```
 1. Seller’s Discretionary Earnings (SDE) multiple
 
 2. Comparable online store sales data"*
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Annual revenue and profit
 
 2. SDE adjustments
 
 3. Comparable sales data
+```
+## Prompt 16 — ROI of Influencer Marketing
 
-Prompt 16 — ROI of Influencer Marketing
+`Backstory:`
 
-Backstory:
+`A 26-year-old fashion startup founder in Delhi spent ₹12 lakhs on influencer campaigns. She wants to measure the ROI by comparing sales generated directly from influencer links vs. the cost.`
 
-A 26-year-old fashion startup founder in Delhi spent ₹12 lakhs on influencer campaigns. She wants to measure the ROI by comparing sales generated directly from influencer links vs. the cost.
+`Goal:`
 
-Goal:
+`Calculate influencer marketing ROI.`
 
-Calculate influencer marketing ROI.
+`Prompt:`
 
-Prompt:
-
-*"You are a marketing analytics consultant. Calculate:
-
+`*"You are a marketing analytics consultant. Calculate:`
+```
 1. Total revenue from influencer-driven sales
 
 2. ROI %
 
 3. CAC vs. LTV of customers acquired"*
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Campaign cost
 
 2. Sales from tracked influencer links
 
 3. Average customer lifetime value
+```
+## Prompt 17 — Valuation for Partnership Buyout
 
-Prompt 17 — Valuation for Partnership Buyout
+`Backstory:`
 
-Backstory:
+`A 31-year-old co-owner of a small manufacturing unit in Ahmedabad wants to buy out his partner’s 50% stake. He needs a valuation that is fair to both parties using earnings multiples and asset valuations.`
 
-A 31-year-old co-owner of a small manufacturing unit in Ahmedabad wants to buy out his partner’s 50% stake. He needs a valuation that is fair to both parties using earnings multiples and asset valuations.
+`Goal:`
 
-Goal:
+`Calculate a fair buyout value.`
 
-Calculate a fair buyout value.
+`Prompt:`
 
-Prompt:
-
-*"You are a partnership valuation expert. Calculate buyout value using:
-
+`*"You are a partnership valuation expert. Calculate buyout value using:`
+```
 1. Earnings multiple method
 
 2. Net asset value method
 
 3. Final blended value"*
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Annual profit and assets list
 
 2. Industry multiple range
+```
+## Prompt 18 — ROI for Event Sponsorship
 
-Prompt 18 — ROI for Event Sponsorship
+`Backstory:`
 
-Backstory:
+`A 28-year-old beverage brand owner in Bengaluru sponsored a major sports event for ₹20 lakhs. She wants to calculate ROI in terms of increased sales and brand awareness.`
 
-A 28-year-old beverage brand owner in Bengaluru sponsored a major sports event for ₹20 lakhs. She wants to calculate ROI in terms of increased sales and brand awareness.
+`Goal:`
 
-Goal:
+`Evaluate event sponsorship ROI.`
 
-Evaluate event sponsorship ROI.
+`Prompt:`
 
-Prompt:
-
-*"You are a brand ROI analyst. Calculate:
-
+`*"You are a brand ROI analyst. Calculate:`
+```
 1. Incremental sales revenue post-event
 
 2. ROI %
 
 3. Intangible benefits summary"*
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Sponsorship cost
 
 2. Sales before and after event
 
 3. Brand awareness survey data
+```
+## Prompt 19 — Liquidation Value Estimation
 
-Prompt 19 — Liquidation Value Estimation
+`Backstory:`
 
-Backstory:
+`A 33-year-old manufacturing business owner in Pune needs to shut down operations and sell assets. She wants to know the liquidation value of machinery, inventory, and other assets for settlement planning.`
 
-A 33-year-old manufacturing business owner in Pune needs to shut down operations and sell assets. She wants to know the liquidation value of machinery, inventory, and other assets for settlement planning.
+`Goal:`
 
-Goal:
+`Estimate liquidation value of assets.`
 
-Estimate liquidation value of assets.
+`Prompt:`
 
-Prompt:
-
-*"You are an asset valuation consultant. Calculate:
-
+`*"You are an asset valuation consultant. Calculate:`
+```
 1. Current market resale value for each asset
 
 2. Total liquidation value after disposal costs"*
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Asset list with purchase details
 
 2. Current market price estimates
 
 3. Disposal costs
+```
+## Prompt 20 — ROI for R&D Project
 
-Prompt 20 — ROI for R&D Project
+`Backstory:`
 
-Backstory:
+`A 30-year-old pharma company R&D head in Hyderabad is testing a new drug formulation. The project costs ₹2 crores and could generate ₹50 lakhs annually for 8 years if approved.`
 
-A 30-year-old pharma company R&D head in Hyderabad is testing a new drug formulation. The project costs ₹2 crores and could generate ₹50 lakhs annually for 8 years if approved.
+`Goal:`
 
-Goal:
+`Calculate ROI and NPV for the R&D project.`
 
-Calculate ROI and NPV for the R&D project.
+`Prompt:`
 
-Prompt:
-
-*"You are a pharma project analyst. Calculate:
-
+`*"You are a pharma project analyst. Calculate:`
+```
 1. Annual ROI %
 
 2. Payback period
 
 3. NPV over 8 years"*
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Project cost
 
 2. Annual revenue projections
@@ -3708,137 +3708,138 @@ Inputs Required:
 3. Approval success probability
 
 4. Discount rate
+```
+## Prompt 21 — Valuation for Joint Venture Negotiation
 
-Prompt 21 — Valuation for Joint Venture Negotiation
+`Backstory:`
 
-Backstory:
+`A 29-year-old agri-business owner in Punjab is forming a joint venture with a logistics company. She needs a valuation of her business to determine equity split.`
 
-A 29-year-old agri-business owner in Punjab is forming a joint venture with a logistics company. She needs a valuation of her business to determine equity split.
+`Goal:`
 
-Goal:
+`Value business for JV equity discussions.`
 
-Value business for JV equity discussions.
+`Prompt:`
 
-Prompt:
-
-*"You are a joint venture valuation advisor. Calculate valuation using:
-
+`*"You are a joint venture valuation advisor. Calculate valuation using:`
+```
 1. Comparable transactions method
 
 2. Earnings multiple method"*
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Business revenue and profits
 
 2. Comparable JV deal data
+```
+## Prompt 22 — ROI of Employee Wellness Program
 
-Prompt 22 — ROI of Employee Wellness Program
+`Backstory:`
 
-Backstory:
+`A 32-year-old HR head in Gurgaon implemented a wellness program costing ₹10 lakhs. She wants to evaluate its ROI through reduced sick days and improved productivity.`
 
-A 32-year-old HR head in Gurgaon implemented a wellness program costing ₹10 lakhs. She wants to evaluate its ROI through reduced sick days and improved productivity.
+`Goal:`
 
-Goal:
+`Calculate ROI for wellness programs.`
 
-Calculate ROI for wellness programs.
+`Prompt:`
 
-Prompt:
-
-*"You are an HR ROI analyst. Calculate:
-
+`*"You are an HR ROI analyst. Calculate:`
+```
 1. Tangible savings from reduced absenteeism
 
 2. Productivity gains in ₹ terms
 
 3. ROI %"*
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Program cost
 
 2. Sick leave data before and after program
 
 3. Productivity measurement metrics
+```
+## Prompt 23 — Pre-Merger Synergy Valuation
 
-Prompt 23 — Pre-Merger Synergy Valuation
+`Backstory:`
 
-Backstory:
+`A 34-year-old founder in Bengaluru is merging with a competitor. She needs to estimate the additional value generated from synergies like shared distribution and reduced marketing costs.`
 
-A 34-year-old founder in Bengaluru is merging with a competitor. She needs to estimate the additional value generated from synergies like shared distribution and reduced marketing costs.
+`Goal:`
 
-Goal:
+`Calculate synergy value for a merger.`
 
-Calculate synergy value for a merger.
+`Prompt:`
 
-Prompt:
-
-*"You are an M&A consultant. Calculate:
-
+`*"You are an M&A consultant. Calculate:`
+```
 1. Cost savings from synergy
 
 2. Incremental revenue potential
 
 3. Total synergy valuation"*
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Current cost structures of both companies
 
 2. Expected revenue increase
 
 3. Industry synergy benchmarks
+```
+## Prompt 24 — ROI of Export Market Expansion
 
-Prompt 24 — ROI of Export Market Expansion
+`Backstory:`
 
-Backstory:
+`A 30-year-old textile exporter in Tiruppur invested ₹25 lakhs in entering the European market. She wants to know the ROI based on first-year export orders and projected growth.`
 
-A 30-year-old textile exporter in Tiruppur invested ₹25 lakhs in entering the European market. She wants to know the ROI based on first-year export orders and projected growth.
+`Goal:`
 
-Goal:
+`Evaluate export expansion ROI.`
 
-Evaluate export expansion ROI.
+`Prompt:`
 
-Prompt:
-
-*"You are an export business analyst. Calculate:
-
+`*"You are an export business analyst. Calculate:`
+```
 1. ROI % in first year
 
 2. Payback period
 
 3. 3-year ROI projection"*
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Market entry costs
 
 2. Export sales data
 
 3. Growth assumptions
+```
+## Prompt 25 — Valuation for Buy-Sell Agreement
 
-Prompt 25 — Valuation for Buy-Sell Agreement
+`Backstory:`
 
-Backstory:
+`A 33-year-old partner in a law firm in Delhi wants a formal valuation for their buy-sell agreement in case one partner exits. The valuation must consider earnings, client base value, and goodwill.`
 
-A 33-year-old partner in a law firm in Delhi wants a formal valuation for their buy-sell agreement in case one partner exits. The valuation must consider earnings, client base value, and goodwill.
+`Goal:`
 
-Goal:
+`Prepare a valuation for a professional services partnership.`
 
-Prepare a valuation for a professional services partnership.
+`Prompt:`
 
-Prompt:
-
-*"You are a professional services valuation expert. Calculate:
-
+`*"You are a professional services valuation expert. Calculate:`
+```
 1. Earnings-based valuation
 
 2. Goodwill valuation based on client retention rate"*
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Annual revenue and profits
 
 2. Client list and retention rate
 
 3. Comparable firm multiples
+```
