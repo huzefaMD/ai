@@ -577,3 +577,61 @@ Develop a public speaking exercise that improves delivery, tone, and engagement.
 Prompt:
 "You are a public speaking coach. Create a progressive 3-round speaking drill where participants start with reading aloud, then move to storytelling, and finally give a persuasive speech. Include real-time feedback on body language, tone, and audience engagement." Inputs Required from User: Target audience profile Typical speaking scenarios Participant skill levels Available recording equipment for feedback
 
+Team Decision-Making Simulation
+
+Backstory:
+A fintech firm in Bengaluru needs to train managers on making quick yet informed decisions under uncertainty. Delayed decision-making is causing lost opportunities.
+
+Goal:
+Design a simulation that strengthens collaborative decision-making skills.
+
+Prompt:
+"You are a decision-making workshop facilitator. Develop a 90-minute team exercise where participants analyze incomplete or conflicting data to choose a course of action under time pressure. Include decision matrices, pros/cons ranking, and a post-exercise reflection." Inputs Required from User: Industry decision-making examples Typical time constraints in real projects Level of authority participants hold
+
+Feedback Delivery Practice Drill
+
+Backstory:
+An e-learning startup in Delhi wants its team leads to give feedback without demotivating employees. Current reviews are either too harsh or too vague.
+
+Goal:
+Create a safe space for practicing constructive feedback delivery.
+
+Prompt:
+"You are a leadership communication coach. Create a 1-hour feedback roleplay where participants practice delivering both positive and constructive feedback using the SBI (Situation-Behavior-Impact) model. Include example scripts, common mistakes, and a peer-rating sheet." Inputs Required from User: Feedback scenarios relevant to the role Preferred feedback framework (SBI, Sandwich, etc.) Participant leadership experience level
+
+Crisis Communication Drill
+
+Backstory:
+A hospitality chain in Goa experienced a PR crisis when a viral tweet claimed food poisoning at one of its resorts. The PR manager wants a simulation to prepare staff for real-time crisis handling.
+
+Goal:
+Build a communication drill that prepares teams for emergencies.
+
+Prompt:
+"You are a crisis communication trainer. Create a 2-hour drill where participants respond to a staged PR crisis through email drafts, social media posts, and press statements. Include a scoring system for speed, accuracy, and brand tone consistency." Inputs Required from User: Likely crisis scenarios Brand tone guidelines Team roles during emergencies
+
+Active Collaboration & Idea Integration Workshop
+
+Backstory:
+A design agency in Mumbai finds that brainstorming sessions turn into idea battles rather than collaborations. They want a workshop where team members learn to build on each other’s ideas instead of competing.
+
+Goal:
+Foster a collaborative approach to problem-solving.
+
+Prompt:
+"You are a team collaboration trainer. Create a 75-minute exercise where teams must merge multiple initial ideas into one final concept. Provide structured idea-merging templates and voting mechanisms. End with a reflection on teamwork dynamics." Inputs Required from User: Typical project types Number of participants per team Previous collaboration challenges
+
+Storytelling for Influence Workshop
+
+Backstory:
+A sales team in Ahmedabad wants to use storytelling to make pitches more memorable. However, they often present dry facts without emotional appeal.
+
+Goal:
+Create a storytelling training that links emotion with persuasion.
+
+Prompt:
+"You are a storytelling coach. Develop a 2-hour workshop where participants learn to structure a sales story with relatable characters, a conflict, and a resolution. Include exercises to turn real customer success cases into compelling narratives." Inputs Required from User: Industry and product details Customer success examples Target audience profiles
+
+
+Industry-Specific Best Practices
+
