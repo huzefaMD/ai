@@ -37,3 +37,124 @@ Design a topic-priority study plan that maximizes scoring potential while ensuri
 Prompt:
 "You are a CFA exam prep specialist. Create a 5-month CFA Level 1 study schedule covering: topic prioritization (by exam weightage), reading assignments, practice question sets, formula review sessions, ethics case studies, mock exam timelines, and final-month high-intensity revision tactics." Inputs Required from User: Exam date and number of available study hours per week Background in finance/accounting Access to CFA prep materials (Kaplan Schweser, CFA Institute portal) Areas of confidence and difficulty
 
+Google Data Analytics Professional Certificate Prep Plan
+
+Backstory:
+A marketing analyst in Hyderabad wants to transition into a full-time data analytics role. They have enrolled in the Google Data Analytics Professional Certificate on Coursera and want to complete it in 8 weeks while building a portfolio of real-world projects.
+
+Goal:
+Create a week-by-week plan to finish all modules, apply learnings to practical datasets, and prepare a polished portfolio for job applications.
+
+Prompt:
+"You are a data analytics mentor. Design an 8-week plan to complete the Google Data Analytics Professional Certificate, including: daily lesson goals, practice dataset assignments, hands-on projects for each module, portfolio-building tasks, and interview preparation exercises for analytics roles." Inputs Required from User: Current Excel/SQL/Tableau skill level Career goal (marketing analytics, business analytics, data science) Time availability per day/week Preferred datasets for practice (industry-specific)
+
+Certified Ethical Hacker (CEH) Exam Study Plan
+
+Backstory:
+A network administrator in Chennai wants to earn the CEH certification to move into a cybersecurity penetration testing role. They have 10 weeks before their exam date and access to a home lab for practice. Their main struggle is balancing theory-heavy topics like cryptography with hands-on hacking simulations.
+
+Goal:
+Create a practical study schedule that combines exam blueprint coverage, real-world lab exercises, and timed practice tests.
+
+Prompt:
+"You are a cybersecurity exam coach. Create a 10-week CEH certification prep plan including: EC-Council domain-by-domain study schedule, daily lab practice tasks, recommended hacking simulation tools, weekly quiz challenges, red vs. blue team scenario practice, and final week mock exam strategy." Inputs Required from User: Exam date and hours available for study Lab setup details (VMs, OS, tools installed) Prior cybersecurity knowledge level Specific topics they find challenging (e.g., malware, scanning, enumeration)
+
+Chartered Accountant (CA) Final Exam Preparation Blueprint
+
+Backstory:
+A CA intermediate-qualified student in Jaipur has 6 months before their final exams. They’re doing articleship full-time and can only dedicate 3 hours daily on weekdays and 6–7 hours on weekends. The biggest challenge is balancing audit, direct tax, indirect tax, and financial reporting with mock tests and revisions.
+
+Goal:
+Develop a practical CA Final prep plan that ensures syllabus coverage, intensive revision, and strong test practice under time pressure.
+
+Prompt:
+"You are a CA exam strategist. Design a 6-month CA Final study plan, dividing time between all papers (FR, SFM, Audit, Law, DT, IDT, Elective), integrating ICAI module practice, past paper solving, RTP & MTP analysis, revision schedules, and exam day time management tips." Inputs Required from User: Exam group(s) being attempted (Group 1, Group 2, or both) Available study hours per day/week Subject strengths and weaknesses Access to ICAI materials and coaching
+
+IELTS Academic 8+ Band Preparation Plan
+
+Backstory:
+A software engineer in Chandigarh wants to apply for a master’s program in Canada and needs an overall IELTS Academic band score of 8. They have 2 months before the test and can spend 2–3 hours daily practicing. They struggle mainly with Listening and Writing tasks.
+
+Goal:
+Prepare a focused IELTS Academic prep plan to achieve 8+ in all sections through targeted practice.
+
+Prompt:
+"You are an IELTS expert coach. Create a 2-month IELTS Academic prep plan including: daily speaking drills, listening practice with varied accents, writing task 1 & 2 templates, reading comprehension strategies, mock test schedules, and error analysis for weak areas." Inputs Required from User: Current IELTS score or skill assessment Target country and university requirements Daily time commitment Preferred study resources (online/offline)
+
+NEET-PG Exam Strategy Plan for Medical Graduates
+
+Backstory:
+A final-year MBBS student in Lucknow wants to crack NEET-PG on their first attempt to secure a seat in MD Pediatrics. They have 8 months before the exam and aim for a top 500 rank. They are looking for a subject-priority approach with repeated revisions and maximum MCQ practice.
+
+Goal:
+Design a systematic NEET-PG study strategy with subject ranking, integrated mock exams, and repeated high-yield topic coverage.
+
+Prompt:
+"You are a NEET-PG preparation mentor. Build an 8-month NEET-PG study plan covering: subject prioritization (high-yield first), daily MCQ practice targets, weekly grand tests, integrated notes revision, image-based question prep, and last 2-month rapid revision cycles." Inputs Required from User: Current subject strengths and weaknesses Access to prep platforms (e.g., Marrow, Prepladder) Target specialty Study hours available daily
+
+UPSC Civil Services Prelims + Mains Integrated Plan
+
+Backstory:
+An aspiring IAS officer from Indore wants a 12-month integrated preparation plan for both Prelims and Mains. They have quit their job to prepare full-time and need a month-by-month breakdown for GS papers, optional subject, essay writing, and test series.
+
+Goal:
+Create a structured 1-year plan that integrates Prelims and Mains preparation to maximize retention and answer writing skills.
+
+Prompt:
+"You are a UPSC mentor. Develop a 12-month integrated UPSC CSE preparation plan with: GS paper-wise syllabus mapping, optional subject study strategy, daily answer writing practice, current affairs integration, mock test schedules, and revision cycles aligned with exam dates." Inputs Required from User: Optional subject chosen Current preparation stage (beginner/intermediate) Availability for coaching/test series Strength in static vs. dynamic subjects
+
+GATE Mechanical Engineering Exam Study Framework
+
+Backstory:
+A mechanical engineering graduate in Visakhapatnam wants to crack GATE ME in the top 200 ranks to get into IIT Bombay. They have 9 months before the exam and can study 4–5 hours daily alongside a part-time job.
+
+Goal:
+Prepare a topic-wise GATE ME study plan with problem-solving focus and numerical accuracy improvement.
+
+Prompt:
+"You are a GATE ME expert. Create a 9-month GATE Mechanical Engineering study plan including: topic-wise scheduling by weightage, daily numerical practice targets, past year question analysis, formula sheet preparation, mock test integration, and last-month time management strategy." Inputs Required from User: Subjects already covered in-depth Target score and rank Access to GATE coaching or self-study resources Weakness in theory vs. numerical solving
+
+PMP (Project Management Professional) Exam 90-Day Crash Plan
+
+Backstory:
+A senior operations manager in Hyderabad with 10 years of experience in construction project management wants to earn the PMP certification for career advancement. They have already attended a 35-hour training course and now have only 3 months before the exam. Their biggest hurdle is balancing preparation with ongoing project deadlines.
+
+Goal:
+Create a 90-day PMP exam crash plan focusing on PMBOK Guide concepts, process group mastery, and mock exam readiness.
+
+Prompt:
+"You are a PMP exam mentor. Design a 3-month PMP preparation plan with: week-by-week coverage of the PMBOK Guide process groups & knowledge areas, situational question-solving techniques, formula memorization drills, mock test schedules, and time management tips for the 4-hour exam." Inputs Required from User: Current PMP knowledge level Available daily/weekly study hours Preferred learning style (visual, text, practice-heavy) Access to mock exam platforms
+
+CFA Level 1 Exam Preparation Roadmap
+
+Backstory:
+A finance graduate in Mumbai aims to pass CFA Level 1 in the upcoming December session. They have 6 months and are working full-time at an investment bank. They can commit 12–15 hours per week but need a clear plan to cover ethics, quant, and financial reporting thoroughly.
+
+Goal:
+Create a CFA Level 1 preparation roadmap with topic prioritization, mock exams, and ethics mastery strategies.
+
+Prompt:
+"You are a CFA training expert. Build a 6-month CFA Level 1 prep plan with: study hour allocation per topic based on weightage, ethics question drills, formula sheet preparation, mock exam scheduling, and strategies for maintaining accuracy under time pressure." Inputs Required from User: Current familiarity with CFA curriculum Number of weekly hours available Target exam month/session Weakest subjects in finance
+
+Google Data Analytics Professional Certificate Plan
+
+Backstory:
+A marketing analyst in Pune wants to transition into a full-time data analytics role. They’ve enrolled in the Google Data Analytics Professional Certificate but are struggling to maintain consistency while working. They have 4 months to finish the certification and start applying for jobs.
+
+Goal:
+Design a structured weekly plan for completing the Google Data Analytics Certificate and building a job-ready portfolio.
+
+Prompt:
+"You are a data analytics career coach. Create a 4-month Google Data Analytics Certificate plan including: module completion targets, guided project timelines, portfolio-building steps, LinkedIn profile optimization, and job application strategies upon completion." Inputs Required from User: Weekly time availability Current Excel/SQL/Tableau skills Job role preference after certification Deadline for course completion
+
+AWS DevOps Engineer Professional Exam Strategy
+
+Backstory:
+A DevOps engineer in Delhi wants to upgrade from AWS Certified Developer – Associate to AWS Certified DevOps Engineer – Professional. They have 5 months before their target exam date and need a preparation plan with an emphasis on automation, CI/CD pipelines, and infrastructure as code.
+
+Goal:
+Create a 5-month AWS DevOps Engineer Professional study plan focusing on advanced AWS services and real-world architecture patterns.
+
+Prompt:
+"You are a cloud certification strategist. Build a 5-month AWS DevOps Engineer Professional exam prep plan including: domain-based topic breakdown, hands-on lab exercises (CloudFormation, CodePipeline, ECS/EKS), practice test integration, and high-yield revision cycles." Inputs Required from User: Current AWS certifications Strength in scripting/automation Daily study availability Access to AWS sandbox
+
