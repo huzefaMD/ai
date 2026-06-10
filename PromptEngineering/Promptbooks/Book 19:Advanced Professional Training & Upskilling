@@ -707,3 +707,201 @@ Prompt:
 
 Industry-Specific Best Practices
 
+Healthcare Industry Best Practices Manual
+
+Backstory:
+A private hospital chain in Hyderabad is onboarding 200 new nurses across its facilities. The management wants to ensure that all new staff members follow a uniform standard of patient care, documentation, and hygiene protocols. In the past, inconsistent practices have led to patient dissatisfaction and compliance issues with NABH accreditation standards.
+
+Goal:
+Create a comprehensive healthcare best practices manual for nurses that can be used for onboarding and ongoing reference.
+
+Prompt:
+"You are a healthcare training consultant. Draft a best practices manual for nurses working in a NABH-accredited hospital in India, covering patient admission and discharge protocols, medication administration safety, infection control procedures, patient communication etiquette, emergency response steps, medical record documentation, and regular audit checklists." Inputs Required from User: Hospital size and specialty departments Current SOPs in place NABH compliance requirements Training duration and format (print, digital, or blended)
+
+Retail Industry Customer Service Excellence Guide
+
+Backstory:
+A premium apparel retail chain with 50 outlets across India is facing declining customer loyalty scores. Feedback suggests staff lack consistency in greeting customers, assisting with purchases, and handling complaints. The CEO wants a "gold standard" customer service guide that every employee can follow to ensure brand consistency.
+
+Goal:
+Develop a retail customer service best practices handbook.
+
+Prompt:
+"You are a retail operations consultant. Create a customer service excellence guide for a premium fashion retail chain, including greeting and approach techniques, product recommendation strategies, upselling and cross-selling methods, handling difficult customers, loyalty program promotion, post-purchase follow-ups, and daily performance review routines." Inputs Required from User: Brand positioning (luxury, mid-range, budget) Customer demographic details Common customer complaints and scenarios Existing training materials
+
+Banking & Financial Services Compliance Best Practices
+
+Backstory:
+A mid-sized private bank in Mumbai is expanding its personal loan division and must ensure strict compliance with RBI guidelines. Recent audits revealed gaps in documentation, data privacy handling, and KYC verification processes. Senior management wants a ready-reference guide for employees that aligns operations with compliance rules.
+
+Goal:
+Create a compliance-focused best practices document for BFSI employees.
+
+Prompt:
+"You are a banking compliance trainer. Draft a best practices guide for personal loan processing in an Indian bank, covering KYC and AML requirements, RBI documentation rules, ethical sales practices, data privacy under the DPDP Act, customer consent management, grievance redressal timelines, and internal audit preparation steps." Inputs Required from User: Loan types offered Current KYC/AML processes Average customer profile Audit history and common non-compliance points
+
+IT Industry Code Quality & Deployment Standards
+
+Backstory:
+A software development firm in Pune has faced repeated client complaints about bugs in production releases. The CTO wants a best practices document that standardizes coding, testing, and deployment processes to ensure higher product quality and client satisfaction.
+
+Goal:
+Build a code quality and deployment standards guide for IT teams.
+
+Prompt:
+"You are a software engineering process consultant. Create a best practices manual for an IT services company, covering coding style guidelines, peer review processes, automated testing integration, continuous integration/continuous deployment (CI/CD) workflows, rollback procedures, release documentation standards, and security vulnerability checks." Inputs Required from User: Preferred tech stack and frameworks Current development and release process Client SLAs and delivery timelines Testing infrastructure availability
+
+Hospitality Industry Guest Experience SOP
+
+Backstory:
+A luxury resort chain in Goa wants to ensure that every guest has a flawless and memorable stay. Mystery audits revealed inconsistency in room preparation, welcome rituals, and complaint resolution. The General Manager wants a best practices SOP that standardizes guest experience touchpoints from booking to checkout.
+
+Goal:
+Create a guest experience SOP for luxury hospitality services.
+
+Prompt:
+"You are a hospitality service excellence consultant. Draft a detailed guest experience best practices SOP covering reservation handling, personalized welcome greetings, room readiness checklists, proactive service touchpoints, complaint resolution protocols, upselling premium services, and guest farewell procedures." Inputs Required from User: Property type and amenities Target guest profile Current service process gaps Brand tone and hospitality philosophy
+
+Logistics & Supply Chain Efficiency Protocols
+
+Backstory:
+A national FMCG distributor based in Delhi manages deliveries to 5,000 retail outlets across India. Delays, inventory miscounts, and damaged goods have increased operational costs by 12% in the past year. The COO wants a standardized set of supply chain best practices to optimize transportation, warehousing, and inventory handling while ensuring customer satisfaction.
+
+Goal:
+Create a logistics and supply chain efficiency best practices document.
+
+Prompt:
+"You are a logistics and supply chain optimization consultant. Draft a best practices manual for a nationwide FMCG distributor, covering warehouse layout optimization, barcode & RFID use for inventory tracking, packaging and damage-prevention measures, route planning and scheduling tools, temperature-controlled storage for perishable goods, reverse logistics handling, and KPI monitoring for on-time delivery performance." Inputs Required from User: Type of products handled Warehouse and distribution network details Current tracking systems used Average delivery timelines & challenges
+
+Education Sector Teaching Excellence Framework
+
+Backstory:
+A chain of private schools in Bengaluru wants to uplift academic quality by ensuring consistent teaching practices across all branches. Parent surveys show variations in teaching styles and student engagement, which affects exam performance and student retention. The academic director wants a set of best practices that teachers can follow while still allowing creativity in lesson delivery.
+
+Goal:
+Build a teaching excellence framework for K-12 education.
+
+Prompt:
+"You are an education quality consultant. Create a best practices handbook for K-12 teachers in a private school network, covering lesson planning templates, differentiated instruction strategies, interactive classroom engagement methods, student performance tracking, parent-teacher communication protocols, integration of digital learning tools, and regular peer review sessions for teachers." Inputs Required from User: Curriculum followed (CBSE, ICSE, IB, etc.) Student-teacher ratio Existing teacher training programs Available digital tools and resources
+
+Manufacturing Industry Lean Operations Guidelines
+
+Backstory:
+An automotive parts manufacturer in Pune is experiencing high defect rates and excess raw material wastage. The plant head wants a Lean Manufacturing best practices guide to reduce waste, improve productivity, and maintain ISO 9001 compliance without compromising worker safety.
+
+Goal:
+Prepare a Lean Manufacturing best practices guide for the shop floor.
+
+Prompt:
+"You are a lean manufacturing specialist. Draft a best practices guide for an automotive parts production unit, covering 5S workplace organization, Kaizen continuous improvement practices, preventive maintenance schedules, just-in-time inventory systems, defect tracking and root cause analysis, employee safety protocols, and daily production performance dashboards." Inputs Required from User: Product categories manufactured Current quality control processes Plant size and workforce count Existing safety certifications
+
+Legal Industry Case Management Best Practices
+
+Backstory:
+A mid-sized corporate law firm in Mumbai has grown rapidly but struggles to maintain consistent client communication and case tracking. Missed deadlines have affected client trust. The managing partner wants a standard set of best practices for case management and client servicing.
+
+Goal:
+Develop a legal practice best practices framework.
+
+Prompt:
+"You are a legal operations consultant. Create a best practices handbook for a corporate law firm, covering case intake and conflict checks, document management protocols, client communication standards, court filing timelines, use of legal tech tools, billable hours tracking, and quarterly client relationship review processes." Inputs Required from User: Type of legal services offered Team size and structure Current case management tools used Major client industries
+
+Renewable Energy Project Execution Guidelines
+
+Backstory:
+A solar energy company in Gujarat is expanding operations to install large-scale solar farms in multiple states. Inconsistent project execution standards across teams have led to delays and cost overruns. The project director wants a comprehensive set of best practices to standardize the execution process from site survey to commissioning.
+
+Goal:
+Create a renewable energy project execution best practices guide.
+
+Prompt:
+"You are a renewable energy project consultant. Draft a best practices guide for solar farm development, covering pre-installation site surveys, vendor and equipment quality checks, project timeline management, safety compliance protocols, environmental impact mitigation steps, stakeholder reporting schedules, and post-installation performance monitoring procedures." Inputs Required from User: Project capacity (MW scale) Installation geography & climate factors Current vendor and contractor network Regulatory compliance requirements
+
+Hospitality Sector Guest Experience Excellence Standards
+
+Backstory:
+A luxury resort chain in Goa is facing inconsistent guest satisfaction ratings across its properties. While some hotels are praised for exceptional service, others receive complaints about delays, cleanliness, and lack of personalized attention. The COO wants a standardized guest experience best practices document that ensures every guest receives the same high level of care, regardless of location.
+
+Goal:
+Create a hospitality guest experience excellence guide for luxury resorts.
+
+Prompt:
+"You are a hospitality service excellence consultant. Draft a best practices manual for luxury resorts, covering personalized guest greeting and check-in protocols, in-room service standards, housekeeping quality benchmarks, proactive problem resolution techniques, food and beverage presentation guidelines, cultural sensitivity training for staff, and post-stay guest feedback loops." Inputs Required from User: Number of properties & average guest demographics Current customer satisfaction score trends Available technology for guest tracking (CRM, apps) Special services offered (spa, tours, events)
+
+E-commerce Customer Service & Returns Policy Framework
+
+Backstory:
+An online fashion marketplace in Mumbai is experiencing a surge in return requests and customer service complaints. The operations head wants to implement consistent service and return handling best practices that improve customer trust and reduce unnecessary losses.
+
+Goal:
+Develop a customer service and returns best practices framework for e-commerce.
+
+Prompt:
+"You are an e-commerce operations strategist. Draft a best practices handbook for managing customer service and returns, covering order confirmation and shipping notifications, proactive delivery updates, handling return requests efficiently, quality inspection protocols for returned items, refund/replacement timelines, customer loyalty recovery strategies, and training scripts for customer service representatives." Inputs Required from User: Product categories sold Average monthly orders and return rates Current refund timelines Logistics partners and policies
+
+Healthcare Patient Care & Safety Standards
+
+Backstory:
+A network of multi-specialty hospitals in India wants to standardize patient care practices after several incidents of miscommunication between departments caused delays in treatment. The medical director aims to introduce a best practices guide that enhances patient safety and treatment coordination.
+
+Goal:
+Create a patient care and safety standards document for hospitals.
+
+Prompt:
+"You are a healthcare quality and safety consultant. Draft a best practices manual for multi-specialty hospitals, covering patient admission protocols, inter-department communication procedures, surgical safety checklists, infection control measures, medication error prevention steps, patient discharge and follow-up processes, and staff emergency preparedness training." Inputs Required from User: Hospital size and specialties offered Average patient turnover Current patient feedback ratings Existing safety certifications/accreditations
+
+Construction Site Safety & Compliance Guidelines
+
+Backstory:
+A large construction firm in Hyderabad is working on multiple high-rise projects. Recent safety inspections revealed lapses in protective equipment use and emergency evacuation readiness. The safety officer needs an industry-standard best practices guide to enforce compliance and prevent accidents.
+
+Goal:
+Prepare a construction site safety and compliance best practices guide.
+
+Prompt:
+"You are a construction safety expert. Draft a best practices manual for high-rise construction sites, covering personal protective equipment (PPE) requirements, fall protection systems, equipment handling and maintenance protocols, safety briefing schedules, on-site hazard identification, regulatory inspection readiness, and worker health monitoring procedures." Inputs Required from User: Type and scale of construction projects Number of workers and contractors Current safety incident history Regulatory requirements in operation area
+
+Banking & Financial Services Compliance Operations Manual
+
+Backstory:
+A private bank in India is expanding into digital lending but is concerned about maintaining operational compliance with RBI regulations, KYC norms, and anti-money laundering (AML) requirements. The compliance team wants a comprehensive set of best practices to standardize operations across branches and online platforms.
+
+Goal:
+Develop a compliance operations manual for a private bank.
+
+Prompt:
+"You are a banking compliance consultant. Draft a best practices guide for a private bank, covering KYC verification processes, transaction monitoring systems, suspicious activity reporting protocols, customer data protection measures, employee compliance training, audit preparation steps, and integration of compliance checks into loan approval workflows." Inputs Required from User: Number of branches and digital platforms used Types of banking products offered Current compliance audit results Transaction monitoring systems in place
+
+Retail Visual Merchandising & Store Operations Excellence
+
+Backstory:
+A mid-sized apparel retail chain in Tier-1 and Tier-2 Indian cities is struggling with inconsistent store displays, leading to poor conversion rates in some locations. The COO wants a standard visual merchandising and store operations best practices guide to ensure every store reflects the brand identity and maximizes sales potential.
+
+Goal:
+Create a retail store operations and visual merchandising best practices manual.
+
+Prompt:
+"You are a retail operations and visual merchandising consultant. Draft a best practices guide for apparel retail stores, covering in-store layout planning, window display refresh schedules, seasonal product placement strategies, lighting and signage standards, customer flow optimization, staff grooming and greeting protocols, and end-of-day operational checklists." Inputs Required from User: Number of stores and city locations Product categories and pricing range Average customer footfall per store Current merchandising team structure
+
+EdTech Content Quality & Student Engagement Standards
+
+Backstory:
+An Indian EdTech platform offering online courses for competitive exams has noticed declining student engagement after the first few weeks of enrollment. The product head wants a best practices framework that ensures high-quality content delivery and sustained learner motivation.
+
+Goal:
+Develop a content quality and engagement best practices manual for EdTech.
+
+Prompt:
+"You are an online learning engagement strategist. Draft a best practices guide for an EdTech platform, covering content structuring techniques, interactive quiz integration, gamification features, instructor responsiveness guidelines, progress tracking tools, community discussion facilitation, and periodic feedback collection from students." Inputs Required from User: Subjects and exam categories offered Average course length and batch size Current engagement metrics (completion rates, quiz participation) Tech tools used for content delivery
+
+Logistics & Supply Chain Optimization Playbook
+
+Backstory:
+A Bangalore-based logistics company handling B2B deliveries across South India is facing high turnaround times and inconsistent on-time delivery performance. The COO wants a standardized best practices playbook to streamline operations and improve reliability.
+
+Goal:
+Create a logistics and supply chain best practices playbook.
+
+Prompt:
+"You are a logistics process optimization consultant. Draft a best practices playbook for regional logistics operations, covering fleet maintenance schedules, real-time tracking technology integration, load optimization protocols, driver shift management, route optimization strategies, warehouse receiving and dispatch SOPs, and customer delivery confirmation processes." Inputs Required from User: Service regions and fleet size Type of goods transported Current average delivery time metrics Technology stack for tracking and scheduling
+
