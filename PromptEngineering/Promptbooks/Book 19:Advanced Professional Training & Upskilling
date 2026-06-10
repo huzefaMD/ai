@@ -1,1 +1,39 @@
+Certification Exam Prep Plans
+
+IT Certification Exam Prep Plan (AWS Solutions Architect)
+
+Backstory:
+
+A mid-level cloud engineer in Bengaluru wants to earn the AWS Certified Solutions Architect – Associate certification to improve their career prospects. They have 3 months before their exam date, work full-time, and can dedicate 2 hours on weekdays and 4 hours on weekends for study. They need a structured preparation plan that balances theory, hands-on practice, and mock tests.
+
+Goal:
+
+Create a weekly breakdown study plan for passing the AWS Solutions Architect – Associate exam in 3 months, focusing on core domains, practical labs, and revision strategy.
+
+Prompt:
+
+"You are a cloud certification coach. Create a 12-week study plan for the AWS Solutions Architect – Associate exam. Include: domain-wise topic breakdown (per AWS blueprint), recommended study resources (AWS docs, whitepapers, and training), hands-on lab exercises, practice test schedules, weekly revision targets, and tips for exam day readiness." Inputs Required from User: Exam date and availability per week Current level of AWS experience Preferred learning format (videos, reading, labs) Access to AWS free-tier or sandbox
+
+
+PMP Certification Exam Prep Plan (Project Management Professional)
+
+Backstory:
+A senior operations manager in Pune wants to transition into a strategic project management role. They have enrolled for the PMP exam and have 16 weeks to prepare while working full-time. Their biggest challenge is balancing dense theory from the PMBOK Guide with practical application and exam question practice. They prefer a highly structured, milestone-based learning plan.
+
+Goal:
+Create a step-by-step, 16-week PMP preparation schedule that integrates concept learning, process group mapping, mock tests, and exam strategy sessions.
+
+Prompt:
+"You are a PMP-certified trainer. Develop a 16-week PMP certification study plan covering: PMBOK Guide mastery by knowledge areas, integration of Agile concepts, weekly practice quizzes, case study reviews, formula sheet memorization sessions, exam simulator schedules, and a final 2-week intensive revision plan." Inputs Required from User: Exam date and study time per week Preferred learning method (self-study, group, coaching) Access to PMP prep platforms (e.g., PMTraining, Rita Mulcahy) Strength/weakness areas in process groups or knowledge areas
+
+CFA Level 1 Exam Study Plan
+
+Backstory:
+A finance graduate in Delhi wants to clear the CFA Level 1 exam in their first attempt. They have 5 months before the test date and can dedicate 3–4 hours daily on weekdays and 6 hours on weekends. The challenge is managing 10 topic areas effectively while building the analytical and ethical reasoning skills tested on the exam.
+
+Goal:
+Design a topic-priority study plan that maximizes scoring potential while ensuring mastery of Ethics and Financial Reporting & Analysis.
+
+Prompt:
+"You are a CFA exam prep specialist. Create a 5-month CFA Level 1 study schedule covering: topic prioritization (by exam weightage), reading assignments, practice question sets, formula review sessions, ethics case studies, mock exam timelines, and final-month high-intensity revision tactics." Inputs Required from User: Exam date and number of available study hours per week Background in finance/accounting Access to CFA prep materials (Kaplan Schweser, CFA Institute portal) Areas of confidence and difficulty
 
