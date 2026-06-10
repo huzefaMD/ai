@@ -3963,214 +3963,334 @@ Inputs:
 4. Communication tools
 
 Prompt 12 — Remote Mentorship Program SOP
+
 Backstory:
+
 Sanya, 26, is an L&D coordinator for a tech company. She wants to launch a mentorship program for remote employees to support career growth and skill development. Without in-person interaction, she needs a structured SOP to make mentorship engaging and impactful.
 
 Goal:
+
 Create a mentorship program SOP for remote employees to foster skill growth and engagement.
 
 Prompt:
+
 "You are an employee development strategist. Write a mentorship program SOP for a 100-member remote tech company. Include:
 
-Mentor-mentee matching process.
-Monthly one-on-one meeting schedule.
-Goal-setting templates for mentorship.
-Mid-program feedback loops.
-End-of-program impact assessment."
+1. Mentor-mentee matching process.
+
+2. Monthly one-on-one meeting schedule.
+
+3. Goal-setting templates for mentorship.
+
+4. Mid-program feedback loops.
+
+5. End-of-program impact assessment."
+
 Inputs:
 
-Number of participants
-Mentorship goals
-Available mentors
-Duration of program
+1. Number of participants
+
+2. Mentorship goals
+
+3. Available mentors
+
+4. Duration of program
 
 Prompt 13 — Remote Work Wellness SOP
+
 Backstory:
+
 Varun, 34, is a department head who notices remote employees facing burnout from long screen hours. He wants an SOP that encourages wellness habits without feeling forced.
 
 Goal:
+
 Create a wellness SOP for remote employees that promotes mental and physical health.
 
 Prompt:
+
 "You are a workplace wellness consultant. Draft a wellness SOP for remote teams. Include:
 
-Weekly optional meditation or yoga sessions.
-Guidelines for regular screen breaks.
-Ergonomic setup recommendations.
-Mental health day policy.
-Wellness challenges with incentives."
+1. Weekly optional meditation or yoga sessions.
+
+2. Guidelines for regular screen breaks.
+
+3. Ergonomic setup recommendations.
+
+4. Mental health day policy.
+
+5. Wellness challenges with incentives."
+
 Inputs:
 
-Team size
-Wellness budget
-Available facilitators
-Frequency of sessions
+1. Team size
+
+2. Wellness budget
+
+3. Available facilitators
+
+4. Frequency of sessions
 
 Prompt 14 — Virtual Performance Incentive SOP
+
 Backstory:
+
 Deepak, 32, leads a sales team spread across India. He wants a fair SOP for rewarding top performers remotely, with transparent criteria and easy disbursement.
 
 Goal:
+
 Design an incentive SOP that motivates remote employees without causing resentment.
 
 Prompt:
+
 "You are a sales performance consultant. Create an incentive SOP for a remote sales team. Include:
 
-Performance tracking metrics.
-Monthly leaderboard format.
-Incentive tiers and rewards.
-Announcement protocols.
-Annual review and recalibration."
+1. Performance tracking metrics.
+
+2. Monthly leaderboard format.
+
+3. Incentive tiers and rewards.
+
+4. Announcement protocols.
+
+5. Annual review and recalibration."
+
 Inputs:
 
-Team size
-KPI metrics
-Incentive budget
-Reward preferences
+1. Team size
+
+2. KPI metrics
+
+3. Incentive budget
+
+4. Reward preferences
 
 Prompt 15 — Remote Crisis Management SOP
+
 Backstory:
+
 Nidhi, 30, manages customer support for an ed-tech platform. When a sudden platform outage happened, her remote team scrambled without a clear plan. She needs an SOP that outlines exactly what to do during crises.
 
 Goal:
+
 Create a crisis management SOP for remote teams to handle emergencies smoothly.
 
 Prompt:
+
 "You are a business continuity expert. Draft a crisis management SOP for a remote support team. Include:
 
-Crisis classification system.
-Immediate communication protocols.
-Escalation matrix.
-Tools and backups to use.
-Post-crisis review process."
+1. Crisis classification system.
+
+2. Immediate communication protocols.
+
+3. Escalation matrix.
+
+4. Tools and backups to use.
+
+5. Post-crisis review process."
+
 Inputs:
 
-Type of crises expected
-Team structure
-Escalation contacts
-Communication channels
+1. Type of crises expected
+
+2. Team structure
+
+3. Escalation contacts
+
+4. Communication channels
 
 Prompt 16 — Remote Client Handoff SOP for Multi-Department Projects
+
 Backstory:
+
 Ritika, 33, works as an account manager in a mid-sized digital agency with remote teams spread across India, Singapore, and Dubai. Her projects involve multiple departments — design, development, content, and client servicing — all working in different time zones and schedules. Whenever a client project moves from one department to another, essential information is often missed, resulting in client dissatisfaction and scope creep. Ritika wants a clear, replicable SOP that outlines exactly how client handoffs between departments should be done in a remote environment, ensuring that all necessary files, instructions, and updates are passed without loss of context. The system also needs to work even if a key person is unavailable due to leave or illness.
 
 Goal:
+
 Create a remote client handoff SOP that ensures a smooth, fully documented, and accountable transfer of work between departments without any information gaps.
 
 Prompt:
+
 "You are a remote operations process expert. Develop a Client Handoff SOP for multi-department remote projects that ensures continuity, zero data loss, and accountability. The SOP must include:
 
-Pre-Handoff Checklist — detailing exact documents, files, and notes that must be provided before the handoff is considered complete.
-Communication Protocol — how and where handoff details must be communicated (email, Slack, project management tools) and the standard format to follow.
-Handoff Meeting Guidelines — a short, structured video call or async Loom recording explaining the current status, blockers, and next steps.
-Ownership Tracker — a shared document or dashboard showing who is responsible for which stage of the project post-handoff.
-Fallback Protocol — what happens if the primary point of contact is unavailable, including backup personnel and escalation steps.
-Audit Trail Requirement — a system for recording handoff details for compliance and quality assurance."
+1. Pre-Handoff Checklist — detailing exact documents, files, and notes that must be provided before the handoff is considered complete.
+
+2. Communication Protocol — how and where handoff details must be communicated (email, Slack, project management tools) and the standard format to follow.
+
+3. Handoff Meeting Guidelines — a short, structured video call or async Loom recording explaining the current status, blockers, and next steps.
+
+4. Ownership Tracker — a shared document or dashboard showing who is responsible for which stage of the project post-handoff.
+
+5. Fallback Protocol — what happens if the primary point of contact is unavailable, including backup personnel and escalation steps.
+
+6. Audit Trail Requirement — a system for recording handoff details for compliance and quality assurance."
+
 Inputs:
 
-Number of departments involved
-Type of projects handled
-Preferred communication platforms
-File storage tools in use
-Client reporting requirements
-Level of confidentiality and NDA restrictions
+1. Number of departments involved
+
+2. Type of projects handled
+
+3. Preferred communication platforms
+
+4. File storage tools in use
+
+5. Client reporting requirements
+
+6. Level of confidentiality and NDA restrictions
 
 Prompt 17 — Remote Knowledge Base Maintenance SOP
+
 Backstory:
+
 Kabir, 29, manages a fully remote software support team for an enterprise SaaS product. The team maintains a knowledge base (KB) used by both employees and customers, but updates are inconsistent. Some articles are outdated, others are duplicated, and certain crucial troubleshooting guides are buried deep in folders. Because of this, employees waste time searching for the right answer, and customers get conflicting information. Kabir needs a structured SOP to keep the KB accurate, searchable, and up-to-date, with clear accountability assigned to specific roles in the team.
 
 Goal:
+
 Develop a knowledge base maintenance SOP that ensures every document is reviewed, updated, and tagged regularly so remote teams can find accurate information quickly.
 
 Prompt:
+
 "You are a documentation workflow consultant. Write a Knowledge Base Maintenance SOP for a remote SaaS support team. This SOP must include:
 
-Ownership Assignments — define who is responsible for each category/topic.
-Update Frequency Rules — exact timelines for mandatory reviews (e.g., every 90 days).
-Approval Process — workflow for fact-checking and approving changes.
-Version Control Guidelines — how to track and store previous document versions.
-Search Optimization — rules for tags, keywords, and titles to make documents easy to find.
-Retirement Protocol — process for archiving or deleting outdated content.
-Emergency Update Protocol — for urgent changes like security patches or major product updates."
+1. Ownership Assignments — define who is responsible for each category/topic.
+
+2. Update Frequency Rules — exact timelines for mandatory reviews (e.g., every 90 days).
+
+3. Approval Process — workflow for fact-checking and approving changes.
+
+4. Version Control Guidelines — how to track and store previous document versions.
+
+5. Search Optimization — rules for tags, keywords, and titles to make documents easy to find.
+
+6. Retirement Protocol — process for archiving or deleting outdated content.
+
+7. Emergency Update Protocol — for urgent changes like security patches or major product updates."
+
 Inputs:
 
-Size of knowledge base (number of articles)
-Team roles involved in KB maintenance
-KB platform in use (Confluence, Notion, Zendesk)
-Compliance requirements (if any)
-Frequency of major product changes
+1. Size of knowledge base (number of articles)
+
+2. Team roles involved in KB maintenance
+
+3. KB platform in use (Confluence, Notion, Zendesk)
+
+4. Compliance requirements (if any)
+
+5. Frequency of major product changes
 
 Prompt 18 — Remote Performance Review SOP
+
 Backstory:
+
 Nandita, 31, is the HR manager for a 120-person IT company that went fully remote after the pandemic. While quarterly performance reviews are scheduled, the process is inconsistent across teams. Some managers conduct detailed evaluations, while others send vague feedback emails. Employees feel demotivated and unclear about their growth path. Nandita wants a unified, transparent performance review SOP tailored for remote teams, with guidelines for collecting peer feedback, reviewing goals, and documenting the discussion digitally for easy reference.
 
 Goal:
+
 Create a remote performance review SOP that standardizes evaluations across the company, promotes growth, and documents progress effectively.
 
 Prompt:
+
 "You are an HR policy specialist. Create a Performance Review SOP for a remote IT company. The SOP must detail:
 
-Pre-Review Preparation — employee self-assessment templates and manager data-gathering guidelines.
-Review Meeting Structure — step-by-step agenda for a 45–60 minute virtual review.
-Goal-Setting Protocol — setting and documenting SMART goals for the next quarter.
-Feedback Documentation — storing review notes securely in HR systems.
-Peer & Client Feedback Integration — process for gathering and incorporating third-party insights.
-Follow-Up Actions — scheduling check-ins and tracking progress toward goals."
+1. Pre-Review Preparation — employee self-assessment templates and manager data-gathering guidelines.
+
+2. Review Meeting Structure — step-by-step agenda for a 45–60 minute virtual review.
+
+3. Goal-Setting Protocol — setting and documenting SMART goals for the next quarter.
+
+4. Feedback Documentation — storing review notes securely in HR systems.
+
+5. Peer & Client Feedback Integration — process for gathering and incorporating third-party insights.
+
+6. Follow-Up Actions — scheduling check-ins and tracking progress toward goals."
+
 Inputs:
 
-Review frequency (quarterly/half-yearly)
-Number of employees per manager
-Tools for performance tracking
-Feedback sources (peers, clients, managers)
-Specific KPIs used
+1. Review frequency (quarterly/half-yearly)
+
+2. Number of employees per manager
+
+3. Tools for performance tracking
+
+4. Feedback sources (peers, clients, managers)
+
+5. Specific KPIs used
 
 Prompt 19 — Remote Onboarding SOP for High-Volume Hiring
+
 Backstory:
+
 Sameer, 28, runs talent acquisition for a rapidly scaling ed-tech company. They hire 20–30 new employees per month across sales, operations, and tech roles. Since the team is fully remote, onboarding is done via Zoom calls and shared Google Docs, but the process is chaotic. New hires don’t know where to start, and managers are overwhelmed with repetitive questions. Sameer needs a detailed onboarding SOP that scales for high-volume remote hiring while ensuring every new employee feels welcomed, trained, and productive quickly.
 
 Goal:
+
 Develop a high-volume remote onboarding SOP that delivers a consistent experience, reduces manager workload, and accelerates new hire productivity.
 
 Prompt:
+
 "You are an employee experience designer. Draft a High-Volume Remote Onboarding SOP for a fast-growing company. The SOP must include:
 
-Pre-Onboarding Checklist — tools, accounts, and welcome kits sent before Day 1.
-First Week Structure — daily agendas with training sessions, team introductions, and culture orientation.
-Role-Specific Tracks — separate onboarding paths for sales, tech, and ops roles.
-Resource Hub Setup — centralized location for FAQs, guides, and recorded trainings.
-Buddy System Protocol — pairing each new hire with a peer mentor.
-First 90 Days Milestone Map — clear expectations and progress checkpoints."
+1. Pre-Onboarding Checklist — tools, accounts, and welcome kits sent before Day 1.
+
+2. First Week Structure — daily agendas with training sessions, team introductions, and culture orientation.
+
+3. Role-Specific Tracks — separate onboarding paths for sales, tech, and ops roles.
+
+4. Resource Hub Setup — centralized location for FAQs, guides, and recorded trainings.
+
+5. Buddy System Protocol — pairing each new hire with a peer mentor.
+
+6. First 90 Days Milestone Map — clear expectations and progress checkpoints."
+
 Inputs:
 
-Number of hires per month
-Roles being hired
-Onboarding tools available
-Cultural onboarding requirements
-Language preferences for training
+1. Number of hires per month
+
+2. Roles being hired
+
+3. Onboarding tools available
+
+4. Cultural onboarding requirements
+
+5. Language preferences for training
 
 Prompt 20 — Remote Meeting Recording & Archiving SOP
+
 Backstory:
+
 Aravind, 35, leads operations for a consultancy that conducts multiple remote client calls daily. Often, key decisions made in meetings are forgotten or misremembered, leading to disputes. While they record meetings, the storage is disorganized and retrieval is difficult. Aravind needs a proper SOP that ensures every meeting is recorded, summarized, tagged, and stored in a way that makes it easy to retrieve at any point in the future.
 
 Goal:
+
 Create a remote meeting recording and archiving SOP that ensures secure, searchable, and easy-to-access meeting history.
 
 Prompt:
+
 "You are a remote knowledge management specialist. Create a Meeting Recording & Archiving SOP for a consultancy handling multiple daily client calls. The SOP must specify:
 
-Recording Standards — when to record, what tools to use, and consent protocols.
-File Naming Conventions — standardized format with client name, date, and meeting type.
-Storage Structure — folder hierarchy by client, project, and date.
-Meeting Summaries — quick bullet-point notes stored alongside recordings.
-Access Control — who can view/download recordings.
-Archival Policy — retention period and deletion protocols."
+1. Recording Standards — when to record, what tools to use, and consent protocols.
+
+2. File Naming Conventions — standardized format with client name, date, and meeting type.
+
+3. Storage Structure — folder hierarchy by client, project, and date.
+
+4. Meeting Summaries — quick bullet-point notes stored alongside recordings.
+
+5. Access Control — who can view/download recordings.
+
+6. Archival Policy — retention period and deletion protocols."
+
 Inputs:
 
-Number of meetings per day
-Storage platform in use (Google Drive, Dropbox, SharePoint)
-Client confidentiality requirements
-Access permissions hierarchy
-File retention policies
+1. Number of meetings per day
+
+2. Storage platform in use (Google Drive, Dropbox, SharePoint)
+
+3. Client confidentiality requirements
+
+4. Access permissions hierarchy
+
+5. File retention policies
 
 Prompt 21 — Remote Escalation & Crisis Management SOP
 
