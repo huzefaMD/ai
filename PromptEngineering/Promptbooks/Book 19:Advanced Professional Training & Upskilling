@@ -351,3 +351,20 @@ Prompt:
 
 "You are a CMA exam preparation consultant. Create a 12-month study plan for CMA Part 1 & Part 2 including: month-by-month topic sequencing, MCQ and essay question drills, integrated review cycles, mock exams under timed conditions, and study break strategies to avoid burnout." Inputs Required from User: Current familiarity with CMA topics Number of hours available weekly Target exam months for Part 1 & Part 2 Access to CMA study resources
 
+
+Soft Skills Training Exercises
+
+Active Listening Skills Training Exercise
+
+Backstory:
+
+A customer support outsourcing firm in Noida is receiving complaints that agents are not fully understanding client issues before offering solutions. This leads to repeated follow-ups and low CSAT (Customer Satisfaction) scores. The operations manager wants an engaging, practical exercise to help employees practice and improve active listening skills. The goal is to make agents more empathetic, attentive, and accurate in their responses during calls. This exercise will be included in onboarding and quarterly refresher training.
+
+Goal:
+
+Develop an interactive exercise that improves active listening among employees.
+
+Prompt:
+
+"You are a corporate soft skills trainer. Create a step-by-step active listening training exercise for customer service staff, including: short roleplay scenarios, paraphrasing and summarization drills, empathy-building activities, and real call review sessions. Provide a scoring rubric to measure listening accuracy and emotional responsiveness." Inputs Required from User: Job roles of participants Common customer interaction challenges Call duration averages Languages used in customer communication
+
