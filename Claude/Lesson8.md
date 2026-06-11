@@ -63,3 +63,5 @@ The precise voice, style and personality
 Specific word or paragraph count
 </length>
 ```
+You don't need ALL sections every time - use what's relevant. But for high-stakes,
+important outputs - use them all.
