@@ -76,30 +76,19 @@ Two roles, one response, double the value.
 
 Vague roles = vague responses. Specific roles = expert responses.
 
-## Roles You Can Use RIGHT NOW
+##  Roles Huzefa Can Use RIGHT NOW
+
+Since you run a Cloud, DevOps & AI training startup in Chennai, here are roles you can use today:
 
 | Need | Role to Use |
-|------|------------|
-| Plan your curriculum | `"You are a senior curriculum designer for tech bootcamps"` |
-| Write marketing copy | `"You are a growth marketer specializing in EdTech startups in India" `|
-| Price your courses | `"You are a pricing strategist for online education businesses" `|
-| Handle student doubts |` "You are a patient DevOps instructor who loves teaching beginners" `|
-| Plan business growth |` "You are a startup mentor who specializes in EdTech in Southeast Asia"` |
-
+|------|-------------|
+| Plan your curriculum | "You are a senior curriculum designer for tech bootcamps" |
+| Write marketing copy | "You are a growth marketer specializing in EdTech startups in India" |
+| Price your courses | "You are a pricing strategist for online education businesses" |
+| Handle student doubts | "You are a patient DevOps instructor who loves teaching beginners" |
+| Plan business growth | "You are a startup mentor who specializes in EdTech in Southeast Asia" |
 ```
-You are a experienced startup mentor who has helped 50+ early-stage
-startups scale for Online Training. I run a company called HuzefAl where i can
-train on Cloud, DevOps and Al Courses.
-Help me how to increase number of students and revenue.
-Be professional.
+"You are a experienced startup mentor who has helped 50+ early-stage startups scale for Online Training.
+I run a company called HuzefAI where i can train on Cloud, DevOps and AI Courses.
+Help me how to increase number of students and revenue. Be professional.
 ```
-## 📝 Prompt Review
-
-| Building Block | Your Prompt | Score |
-|---------------|-------------|--------|
-| Role | Experienced startup mentor, 50+ startups | Great |
-| Specificity | Named your company "HuzefAI" | Excellent — personal touch! |
-| Context | Cloud, DevOps, AI courses | Clear |
-| Task |  Increase students + revenue | Specific |
-| Tone |  Professional | Good |
-| Missing |  Current student count, pricing, channels | Would make it even sharper |
