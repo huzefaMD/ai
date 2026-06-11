@@ -834,4 +834,293 @@ Prompt:
 
 Regulatory Compliance Checklists
 
+Startup Compliance Checklist for India
+
+Backstory:
+A first-time entrepreneur in Bengaluru is launching a D2C (Direct-to-Consumer) skincare brand. She’s aware of legal requirements like GST registration, trademark filing, and product safety certifications but isn’t sure about timelines or the order in which to complete them. Missing deadlines could result in fines or legal issues, affecting brand credibility.
+
+Goal:
+Create a step-by-step compliance checklist tailored for Indian startups in the cosmetics sector.
+
+Prompt:
+"You are a compliance consultant for Indian startups. Prepare a detailed regulatory compliance checklist for a newly launched cosmetics brand that includes: company registration, GST registration, trademark application, FSSAI licensing (if applicable), Bureau of Indian Standards (BIS) certifications, labelling requirements, import/export licenses (if sourcing ingredients abroad), periodic tax filings, and annual corporate filings. Structure the checklist chronologically with timelines, responsible parties, and potential penalties for non-compliance." Inputs Required from User: Business type (private limited, LLP, proprietorship) Target market (domestic/export) Product categories Preferred timeline for launch
+
+Data Protection & Privacy Compliance Checklist (India)
+
+Backstory:
+An edtech platform collects large amounts of student data, including names, addresses, and progress reports. With the rollout of India’s Digital Personal Data Protection Act (DPDPA), the founders need a compliance checklist to ensure all user data is collected, stored, and processed lawfully.
+
+Goal:
+Build a practical, actionable checklist for DPDPA compliance.
+
+Prompt:
+"You are a data privacy compliance expert in India. Create a comprehensive compliance checklist for an edtech company to meet the requirements of the Digital Personal Data Protection Act. Include: appointment of a Data Protection Officer (DPO), drafting a privacy policy, obtaining user consent, secure storage & encryption of personal data, breach reporting protocols, periodic audits, and employee training requirements. Present the checklist in a format that allows easy tracking of completed tasks." Inputs Required from User: Industry type Type & volume of personal data collected Data storage location (cloud/on-premise) Number of employees handling personal data
+
+E-commerce Compliance Checklist
+
+Backstory:
+An online fashion retailer operating across India wants to ensure compliance with Consumer Protection (E-commerce) Rules, IT Act provisions, and GST laws. They recently received a customer complaint about misleading product descriptions and want to avoid future violations.
+
+Goal:
+Create a compliance checklist that covers e-commerce-specific laws and guidelines.
+
+Prompt:
+"You are an e-commerce legal advisor. Draft a detailed compliance checklist for an Indian online retail store to ensure compliance with Consumer Protection (E-commerce) Rules, GST laws, IT Act provisions, and other applicable regulations. Cover areas such as transparent pricing, returns/refund policy, seller verification, accurate product descriptions, secure payment gateways, grievance redressal mechanisms, and mandatory display of company details. Include timelines for regular audits and checks." Inputs Required from User: E-commerce platform type (marketplace/inventory-based) Product categories sold Number of sellers onboarded Payment modes offered
+
+Environmental Compliance Checklist for Manufacturing Units
+
+Backstory:
+A mid-sized textile manufacturer in Gujarat is expanding production. To operate legally, they need to comply with environmental regulations such as the Air Act, Water Act, and hazardous waste disposal norms. Failure could lead to shutdowns or penalties.
+
+Goal:
+Prepare a manufacturing-focused environmental compliance checklist.
+
+Prompt:
+"You are an environmental compliance consultant in India. Create a detailed environmental compliance checklist for a textile manufacturing unit that includes: consent to operate from State Pollution Control Board, air & water emission limits, hazardous waste disposal procedures, wastewater treatment plant requirements, renewable energy adoption incentives, periodic reporting formats, and penalties for non-compliance. Arrange the checklist by frequency of compliance (daily, monthly, annually)." Inputs Required from User: State of operation Manufacturing processes used Waste types generated Energy sources used
+
+Corporate Compliance Calendar for Listed Companies
+
+Backstory:
+A publicly listed IT services company needs a compliance calendar to ensure timely SEBI filings, board meetings, shareholder communications, and annual returns. Missing these can affect stock prices and invite regulatory action.
+
+Goal:
+Create a structured, date-based compliance calendar.
+
+Prompt:
+"You are a corporate governance specialist. Develop a detailed annual compliance calendar for an Indian listed company, covering SEBI disclosures, MCA filings, stock exchange announcements, quarterly financial results, AGM requirements, CSR reporting, and director KYC updates. Format the calendar month-wise with due dates, responsible departments, and penalty risks." Inputs Required from User: Industry sector Financial year start & end dates Stock exchange listings Number of board meetings scheduled annually
+
+E-Waste Management Compliance Checklist
+
+Backstory:
+A consumer electronics retailer in Bengaluru has expanded its product line to include refurbished laptops and accessories. Under India’s E-Waste Management Rules (2022), they are now required to maintain proper disposal channels, track end-of-life product collection, and submit compliance reports to the Central Pollution Control Board (CPCB). The founder wants a comprehensive checklist to ensure no legal gaps before an upcoming audit.
+
+Goal:
+Create a regulatory compliance checklist that ensures adherence to India’s e-waste handling and reporting obligations for electronics retailers.
+
+Prompt:
+"You are an environmental compliance officer. Prepare a detailed e-waste management compliance checklist for a consumer electronics retailer in India. Cover: product labeling requirements, extended producer responsibility (EPR) registration, customer take-back programs, transportation & disposal documentation, quarterly and annual CPCB reporting, tie-ups with authorized recyclers, penalties for non-compliance, and staff training needs." Inputs Required from User: Product categories handled Annual sales volume Disposal partners (if any) Current compliance status
+
+Labour Law Compliance Checklist for SMEs
+
+Backstory:
+A small garment manufacturing unit in Tirupur employs 45 workers, including contract staff. With recent amendments to India’s labour codes, the owner is unsure about updated wage requirements, leave policies, and safety obligations. An investor has requested proof of labour law compliance before finalizing funding.
+
+Goal:
+Create a step-by-step labour law compliance checklist tailored to small and medium-sized enterprises in India.
+
+Prompt:
+"You are a labour law consultant. Draft a comprehensive labour law compliance checklist for an SME in India, covering: minimum wage notifications, working hours, leave entitlements, PF & ESI registration, contract worker agreements, safety standards under the Factories Act, anti-harassment policies, mandatory display requirements, and annual return filings." Inputs Required from User: State of operation Number of employees Nature of contracts (permanent/contractual) Industry type
+
+Food Safety & Standards Authority of India (FSSAI) Compliance Checklist
+
+Backstory:
+A home-based cloud kitchen in Hyderabad is scaling operations to serve corporate catering. They must upgrade from a basic FSSAI registration to a state license and comply with hygiene, storage, and labeling norms to avoid fines during surprise inspections.
+
+Goal:
+Create an FSSAI compliance checklist for small food businesses expanding operations.
+
+Prompt:
+"You are a food safety compliance expert. Draft a detailed FSSAI compliance checklist for a cloud kitchen business in India, covering: license/registration type, kitchen hygiene requirements, storage temperature control, allergen labeling, expiry date marking, employee hygiene protocols, pest control measures, documentation for inspections, and renewal timelines." Inputs Required from User: Cuisine type Scale of operations (meals/day) Current license type Storage facilities available
+
+Import-Export (EXIM) Compliance Checklist
+
+Backstory:
+A handicraft exporter from Jaipur has started selling to buyers in Europe and Southeast Asia. They need a compliance checklist to navigate customs paperwork, DGFT licensing, and export incentives without delays or penalties.
+
+Goal:
+Create a regulatory compliance checklist for small exporters in India.
+
+Prompt:
+"You are an international trade compliance specialist. Prepare a detailed import-export compliance checklist for a handicraft exporter in India, covering: IEC (Import Export Code) registration, product HS codes, export documentation (invoice, packing list, bill of lading), DGFT filings, customs duties, GST refunds on exports, packaging & labeling requirements, and participation in export promotion schemes." Inputs Required from User: Product type & materials Target countries Export frequency Current certifications
+
+GST Compliance Checklist for Service Providers
+
+Backstory:
+A digital marketing agency in Pune offers services to clients in India and abroad. They need a GST compliance checklist to ensure accurate invoicing, timely return filing, and correct application of export of services rules for zero-rated supplies.
+
+Goal:
+Develop a GST compliance checklist specifically for service-oriented businesses.
+
+Prompt:
+"You are a taxation compliance expert. Draft a GST compliance checklist for an Indian service provider, covering: GST registration type, correct invoicing format (with HSN/SAC codes), applicability of IGST vs CGST+SGST, return filing deadlines (GSTR-1, GSTR-3B), handling input tax credit, export of services documentation, reconciliation process, and penalties for non-compliance." Inputs Required from User: Type of services offered Client locations (domestic/international) Billing cycle Current GST filing method (monthly/quarterly)
+
+Cybersecurity Compliance Checklist under India’s DPDP Act (2023)
+
+Backstory:
+A SaaS startup in Gurugram collects and stores user data from across India, including financial and personal information. With the new Digital Personal Data Protection (DPDP) Act in force, the founders need to ensure full compliance before launching a high-profile B2B product. The CTO wants a granular checklist that covers both technical safeguards and legal obligations to avoid penalties and loss of client trust.
+
+Goal:
+Create a cybersecurity compliance checklist aligned with the DPDP Act (2023) and global data protection standards.
+
+Prompt:
+"You are a cybersecurity compliance officer. Draft a detailed DPDP Act compliance checklist for an Indian SaaS company, covering: classification of personal data, data processing consent mechanisms, privacy policy requirements, data storage encryption standards, breach notification timelines, data retention & deletion policies, employee access control protocols, and annual third-party security audits." Inputs Required from User: Type of personal data collected Number of data subjects (users) Cloud/on-premise storage model Presence in international markets
+
+Fire Safety Compliance Checklist for Commercial Offices
+
+Backstory:
+A co-working space in Mumbai houses 35 small businesses. The property management team wants to implement a fire safety compliance protocol to meet the National Building Code (NBC) of India and local fire department guidelines. They must pass inspection before expanding to another floor.
+
+Goal:
+Develop a fire safety compliance checklist for multi-tenant office spaces.
+
+Prompt:
+"You are a workplace safety consultant. Prepare a detailed fire safety compliance checklist for a commercial office in India, covering: NBC and local fire authority requirements, installation & maintenance of extinguishers, fire alarm systems, emergency exit signage, evacuation drill frequency, staff fire warden training, maintenance logbooks, and annual certification renewals." Inputs Required from User: Building size & floor count Occupancy capacity Type of businesses housed Current fire safety equipment inventory
+
+CSR (Corporate Social Responsibility) Compliance Checklist
+
+Backstory:
+A mid-sized IT firm in Chennai has crossed the threshold under Section 135 of the Companies Act, making CSR spending mandatory. The CSR committee needs a structured checklist to ensure proper selection, execution, and reporting of CSR projects that meet legal criteria and withstand audit scrutiny.
+
+Goal:
+Create a CSR compliance checklist to guide corporate governance and statutory adherence.
+
+Prompt:
+"You are a CSR compliance advisor. Draft a comprehensive CSR compliance checklist for an Indian company, covering: eligibility determination, CSR committee formation, annual CSR budget calculation, permissible activity categories, partner NGO due diligence, board approvals, implementation tracking, impact assessment, and mandatory disclosures in the annual report." Inputs Required from User: Annual turnover & net profit figures Existing CSR activities (if any) Preferred focus areas (education, health, environment) Projected CSR spend
+
+Environmental Impact Assessment (EIA) Compliance Checklist
+
+Backstory:
+A solar panel manufacturing plant in Gujarat is expanding operations. Under the Environment Protection Act and EIA Notification, the company must submit an updated EIA report and comply with environmental clearance (EC) conditions before breaking ground. The project manager needs a step-by-step compliance framework to avoid project delays.
+
+Goal:
+Prepare an EIA compliance checklist for industrial expansion projects in India.
+
+Prompt:
+"You are an environmental compliance consultant. Create a detailed EIA compliance checklist for an Indian manufacturing plant expansion, covering: screening & scoping process, baseline environmental data collection, public consultation procedures, EIA report structure, EC application filing, mitigation measures, periodic compliance reporting, and post-clearance monitoring." Inputs Required from User: Industry type Project location Expansion scale (capacity increase %) Existing environmental clearance status
+
+SEBI Compliance Checklist for Listed Companies
+
+Backstory:
+A publicly listed fintech firm in India is preparing for its annual general meeting (AGM). The company’s legal and investor relations teams must ensure compliance with SEBI’s Listing Obligations and Disclosure Requirements (LODR), insider trading regulations, and quarterly reporting mandates to maintain investor trust and avoid penalties.
+
+Goal:
+Create a SEBI compliance checklist tailored for listed companies in India.
+
+Prompt:
+"You are a securities compliance specialist. Draft a SEBI compliance checklist for a listed company, covering: quarterly and annual disclosures, insider trading prevention measures, AGM notice requirements, corporate governance reports, related-party transaction approvals, board meeting documentation, shareholding pattern filings, and investor grievance redressal mechanisms." Inputs Required from User: Industry sector Board composition details Shareholding structure Upcoming corporate actions
+
+Labour Law Compliance Checklist for Startups
+
+Backstory:
+A 3-year-old e-commerce startup in Bengaluru has grown to 80 employees and now falls under multiple labour laws, including the Payment of Gratuity Act, the Maternity Benefit Act, and the Shops & Establishments Act. The HR head is overwhelmed trying to track all statutory requirements while managing rapid hiring.
+
+Goal:
+Create a labour law compliance checklist to help startups maintain legal HR practices and avoid penalties.
+
+Prompt:
+"You are an HR compliance consultant. Draft a comprehensive labour law compliance checklist for an Indian startup with over 50 employees, covering: mandatory employment contracts, working hours & leave policies, statutory registers, employee welfare provisions, social security contributions (EPF, ESI), maternity benefits, gratuity eligibility, sexual harassment policy compliance (POSH Act), and monthly/annual filings." Inputs Required from User: Industry type Employee strength (permanent & contract) Office location(s) Existing HR systems/software
+
+GST Compliance Checklist for Service-based Businesses
+
+Backstory:
+A digital marketing agency in Delhi services clients across India and overseas. While GST registration is complete, the finance team struggles with correctly classifying interstate vs intrastate supplies, claiming input tax credit (ITC), and filing returns on time.
+
+Goal:
+Prepare a GST compliance checklist tailored for service-based firms to avoid interest and penalties.
+
+Prompt:
+"You are a GST compliance expert. Create a detailed GST compliance checklist for a service-oriented business, covering: registration verification, SAC code classification, GST invoicing rules, advance payment tax treatment, reverse charge mechanism applicability, ITC documentation, monthly GSTR-3B & quarterly GSTR-1 filing schedules, annual return preparation, and reconciliation with accounting records." Inputs Required from User: GST registration type (regular/composition) States of operation Major services offered Software used for billing/accounting
+
+Import-Export (EXIM) Compliance Checklist
+
+Backstory:
+A textile manufacturer in Surat is starting to export products to the Middle East and Europe. They need to comply with India’s Foreign Trade Policy, customs regulations, and documentation standards, while also aligning with the buyer’s country requirements to avoid shipment delays.
+
+Goal:
+Create an import-export compliance checklist for Indian exporters.
+
+Prompt:
+"You are an international trade compliance advisor. Draft a detailed EXIM compliance checklist for an Indian manufacturer, covering: IEC (Import Export Code) registration, export license requirements, HS code classification, product-specific quality certifications, export documentation (invoice, packing list, bill of lading), customs clearance process, payment terms (LC, advance, DP), and DGFT reporting obligations." Inputs Required from User: Product category Export destination countries Shipping method (sea/air) Trade finance arrangements
+
+Pharmaceutical Regulatory Compliance Checklist
+
+Backstory:
+A nutraceutical startup in Hyderabad is launching a new line of herbal supplements. They must comply with FSSAI regulations for dietary supplements, advertising guidelines, and GMP (Good Manufacturing Practices) before going to market.
+
+Goal:
+Develop a pharmaceutical/nutraceutical compliance checklist for India.
+
+Prompt:
+"You are a regulatory affairs specialist. Prepare a compliance checklist for an Indian nutraceutical company, covering: FSSAI licensing, product label & claim approvals, ingredient verification against permitted lists, batch testing protocols, GMP certification, packaging compliance, adverse event reporting, and periodic renewal of licenses." Inputs Required from User: Product formulations Target market (domestic/export) Manufacturing facility type (own/contract) Distribution model
+
+Non-Profit Organisation (NGO) Compliance Checklist
+
+Backstory:
+An NGO in Lucknow works on rural education projects funded by both domestic and foreign donors. The management must ensure compliance with the Societies Registration Act, Income Tax exemptions under 12A/80G, and FCRA (Foreign Contribution Regulation Act) requirements to continue receiving grants.
+
+Goal:
+Create an NGO compliance checklist for Indian charitable organisations.
+
+Prompt:
+"You are a non-profit compliance advisor. Draft a comprehensive compliance checklist for an Indian NGO, covering: registration and renewal procedures, FCRA registration & reporting, 12A/80G exemption maintenance, annual audit requirements, donor receipt formats, activity report submissions, utilisation certificate filing, and state-specific NGO rules." Inputs Required from User: Type of registration (society/trust/section 8 company) Sources of funding (domestic/foreign) Annual turnover Number of active projects
+
+IT & Data Privacy Compliance Checklist
+
+Backstory:
+A fintech startup in Mumbai is collecting sensitive personal and financial data from customers for loan processing. With India’s Digital Personal Data Protection (DPDP) Act now in effect, the CTO wants to ensure that all data collection, storage, and sharing practices are compliant, while also maintaining cybersecurity protocols.
+
+Goal:
+Create a compliance checklist that ensures adherence to the DPDP Act and IT Act, covering both data privacy and cybersecurity.
+
+Prompt:
+"You are a data privacy compliance consultant. Draft a step-by-step IT and data privacy compliance checklist for an Indian fintech company, covering: data classification, privacy notices & consent collection, user rights requests handling, data retention & deletion policies, encryption standards, breach notification procedures, security audit schedules, and vendor data-sharing agreements." Inputs Required from User: Industry type and services offered Categories of personal data collected Current security measures in place Third-party vendor relationships
+
+Environmental Compliance Checklist for Manufacturing Units
+
+Backstory:
+A ceramic tile manufacturer in Morbi, Gujarat, wants to expand production but must comply with environmental laws like the Air (Prevention and Control of Pollution) Act, Water Act, and Hazardous Waste Management Rules. Non-compliance could result in plant shutdowns and hefty fines.
+
+Goal:
+Develop an environmental compliance checklist for Indian manufacturing facilities.
+
+Prompt:
+"You are an environmental compliance advisor. Create a manufacturing plant compliance checklist for India, covering: environmental clearance requirements, pollution control board approvals, emission monitoring protocols, effluent treatment plant (ETP) maintenance, hazardous waste handling & disposal rules, periodic environmental audits, and CSR environmental reporting obligations." Inputs Required from User: Type of manufacturing process Location and applicable state PCB rules Types of waste generated Energy consumption patterns
+
+Corporate Governance Compliance Checklist for Private Limited Companies
+
+Backstory:
+A growing tech company in Pune recently received Series A funding. Investors are demanding stronger corporate governance practices to ensure transparency and reduce legal risks. The CFO needs a practical checklist that aligns with the Companies Act, 2013 requirements.
+
+Goal:
+Prepare a governance compliance checklist for private limited companies.
+
+Prompt:
+"You are a corporate governance consultant. Draft a governance compliance checklist for a private limited company in India, covering: board meeting requirements, statutory register maintenance, filing of annual returns (MGT-7), director appointment & resignation compliance, shareholder agreement obligations, related-party transaction disclosures, and statutory audit procedures." Inputs Required from User: Company structure (shareholding pattern) Number of directors & board committees Annual turnover Investor agreements in place
+
+Food Safety Compliance Checklist for Restaurants & Cafes
+
+Backstory:
+A multi-outlet café chain in Delhi-NCR is planning to expand into Tier-2 cities. Before scaling, they want to ensure strict adherence to FSSAI guidelines to avoid license suspension or customer complaints.
+
+Goal:
+Create a food safety compliance checklist to be used across all outlets.
+
+Prompt:
+"You are a food safety compliance officer. Prepare a checklist for a multi-location café chain in India, covering: FSSAI licensing & renewal, hygiene and sanitation SOPs, food handler training, temperature control for storage & cooking, pest control schedules, allergen disclosure requirements, packaging & labeling rules, and food waste disposal compliance." Inputs Required from User: Type of cuisine/menu items Number of outlets & locations Supply chain model (central kitchen/local sourcing) Existing safety inspection records
+
+Annual Legal & Compliance Health Check for SMEs
+
+Backstory:
+A small IT services firm in Chennai has been operating for 6 years but has never done a comprehensive compliance health check. The founder now wants a yearly review process to ensure the company is fully compliant with all laws — corporate, labour, tax, and sector-specific.
+
+Goal:
+Develop a comprehensive annual legal and compliance audit checklist for SMEs.
+
+Prompt:
+"You are an SME compliance auditor. Draft a one-stop annual compliance health check checklist for an Indian SME, covering: company law filings, tax compliance (income tax, GST, TDS), labour law adherence, sector-specific licenses, contract review procedures, intellectual property renewals, environmental/safety requirements, and risk assessment documentation." Inputs Required from User: Industry sector Company size (revenue & employees) Locations of operation Past compliance audit history
+
+
+Contract Drafting Templates
+
+Freelance Graphic Design Service Agreement for a Startup
+
+Backstory:
+Rohit, 28, is a freelance graphic designer in Bengaluru who has just been approached by a newly launched fashion startup to design their brand identity, including the logo, packaging, and website banners. The startup has promised staged payments but has not provided any formal contract. Rohit wants to ensure he has clear terms around deliverables, payment schedules, intellectual property ownership, confidentiality, revision limits, and termination clauses. He also wants the language to be simple enough for both parties to understand without a lawyer present.
+
+Goal:
+Create a professional yet simple freelance service agreement that safeguards Rohit’s payment rights, defines deliverables and timelines, protects intellectual property, and includes clauses for dispute resolution in India.
+
+Prompt:
+"You are an experienced contract lawyer specialising in creative service agreements for freelancers in India. Draft a comprehensive yet easy-to-read freelance service agreement between a freelance graphic designer and a startup. Include sections for: scope of work, deliverables with timelines, payment terms (including late fees), intellectual property transfer, confidentiality, revision policy, termination rights, and dispute resolution under Indian law. Use clear, plain English and avoid overly complex legal jargon." Inputs Required from User: Freelancer name & address Client name & address Scope of work description Total project fee & payment milestones Maximum number of revisions Preferred dispute resolution method (e.g., arbitration, court)
+
 
