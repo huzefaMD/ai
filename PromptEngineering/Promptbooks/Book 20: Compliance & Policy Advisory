@@ -709,276 +709,351 @@ Privacy Policy & T&C Generation
 E-commerce Website Privacy Policy Draft (India-specific)
 
 Backstory:
+
 A 29-year-old entrepreneur in Bengaluru is launching a home décor e-commerce platform targeting urban millennials. The website collects customer data such as names, addresses, payment details, and browsing history to personalize recommendations and process orders. Since the Digital Personal Data Protection (DPDP) Act, 2023 is now enforceable in India, the founder wants a clear, legally compliant privacy policy that builds user trust and avoids penalties.
 
 Goal:
+
 Create a privacy policy tailored for an Indian e-commerce business that covers all DPDP Act requirements, explains data usage clearly, and instills confidence in customers.
 
 Prompt:
+
 "You are a legal content specialist for Indian startups. Draft a Privacy Policy for an Indian e-commerce website that complies with the DPDP Act, IT Act, and Consumer Protection (E-Commerce) Rules. Structure it with clear headings: Introduction, Information Collected, Purpose of Data Processing, Data Sharing & Third Parties, Cookies & Tracking Tools, User Rights (Access, Correction, Deletion), Data Retention Periods, Security Measures, International Data Transfers, and Contact Details for Grievance Redressal. Ensure plain language, mobile-friendly formatting, and no legal jargon for general readers." Inputs Required from User: Nature of e-commerce products/services Types of personal and sensitive data collected Data storage & encryption practices Third-party integrations (payment gateways, analytics tools) Customer grievance contact point
 
 Mobile App Privacy Policy for Health & Fitness Startup
 
 Backstory:
+
 A Gurugram-based fitness-tech startup has launched a mobile app offering personalized workout plans and diet tracking. The app collects sensitive health data like weight, BMI, daily calorie intake, and wearable device integrations. With India’s DPDP Act in force and health data classified as “sensitive personal data,” the founder needs a privacy policy that explicitly addresses health data security, third-party integrations (wearables, payment gateways), and user consent mechanisms. The startup also wants to display trustworthiness to attract global users.
 
 Goal:
+
 Draft a privacy policy for an Indian health-tech app that is compliant with Indian laws and aligned with international privacy best practices.
 
 Prompt:
+
 "You are a legal & compliance advisor for Indian health-tech startups. Draft a privacy policy for a mobile health & fitness application that complies with the DPDP Act, IT Act, and Medical Council of India guidelines where applicable. Include sections for: Data Collection (health, biometric, location), Purpose of Use, Consent & Withdrawal Process, Third-party Integrations (wearables, nutrition APIs), Data Retention Policy, User Rights (access, correction, deletion), Security & Encryption Standards, Breach Notification Protocols, and Contact Details for Queries. Write in simple, app-friendly formatting for in-app display." Inputs Required from User: Type of health data collected Third-party services integrated Storage and encryption methods Retention period for health data Contact details for data-related grievances
 
 Privacy Policy for EdTech Platform Serving Minors
 
 Backstory:
+
 An EdTech startup in Hyderabad offers live classes for school children. The platform collects personal data from students under 18, including their names, age, school details, recorded class sessions, and parents’ contact info. Since the DPDP Act and COPPA-equivalent protections for minors are becoming stricter, the founders want a privacy policy that ensures parental consent, limited data retention, and safe online interaction between students and teachers.
 
 Goal:
+
 Draft a privacy policy for an Indian EdTech platform catering to minors that ensures compliance with child data protection standards.
 
 Prompt:
+
 "You are a child data protection specialist. Draft a privacy policy for an Indian EdTech platform that collects information from minors. Include: Scope & Applicability, Data Collection Practices, Parental Consent Process, Data Sharing Limits, Security Measures for Live Video & Chat Features, Retention Periods for Recorded Content, Rights of Parents/Guardians, and Contact Information. Ensure the language is friendly, simple, and understandable for parents while meeting DPDP Act requirements." Inputs Required from User: Age group of students served Data points collected Storage & deletion policies for video classes Parental consent workflow Third-party education tools integrated
 
 SaaS B2B Privacy Policy with Global Client Base
 
 Backstory:
+
 A Pune-based SaaS company provides CRM tools to clients in India, the US, and Europe. It collects both client business data and personal data of their customers. Since the business serves multiple jurisdictions, the privacy policy must comply with India’s DPDP Act, GDPR (EU), and CCPA (California). The CTO wants a single unified privacy policy that covers cross-border data transfers, multiple regulatory frameworks, and security certifications.
 
 Goal:
+
 Draft a privacy policy for a global SaaS provider based in India, harmonizing compliance with Indian and international laws.
 
 Prompt:
+
 "You are a global privacy compliance consultant. Draft a privacy policy for a SaaS CRM platform with an international client base. Address: Types of Data Collected, Legal Basis for Processing (per jurisdiction), Cross-border Data Transfers & Safeguards, Third-party Hosting Providers, Data Security Measures (ISO/IEC 27001 compliance), User Rights (DPDP, GDPR, CCPA), Data Retention Timelines, and Contact Details for Multi-region Support. Ensure clarity for both Indian and foreign clients." Inputs Required from User: Client locations & markets served Data hosting locations Security certifications in place Cross-border transfer mechanisms (SCCs, adequacy) Support contact information
 
 Privacy Policy for Fintech Lending App
 
 Backstory:
+
 A Mumbai-based digital lending platform collects sensitive financial data such as PAN, Aadhaar, bank statements, and credit scores from customers to process instant loans. RBI guidelines require explicit disclosure of data handling practices, and the DPDP Act demands user consent before collection. The founder needs a privacy policy that reassures customers about security while satisfying RBI and legal obligations.
 
 Goal:
+
 Draft a privacy policy for an Indian fintech lending app with strong emphasis on financial data security and RBI compliance.
 
 Prompt:
+
 "You are a fintech legal compliance expert. Draft a privacy policy for a digital lending application in India that complies with the DPDP Act, IT Act, RBI’s Digital Lending Guidelines, and relevant KYC norms. Include sections for: Data Collection & Use, Consent Mechanisms, Data Storage & Encryption, Data Sharing with NBFC Partners, User Rights & Complaint Handling, Retention & Deletion Policies, and Security Audit Practices. Write in customer-friendly language with clear disclosures." Inputs Required from User: Loan processing workflow Types of KYC and financial data collected Partnerships with NBFCs or banks Data storage & security measures Complaint redressal contact info
 
 Privacy Policy for Telemedicine Platform
 
 Backstory:
+
 A telemedicine startup in Kochi offers online doctor consultations and digital prescriptions. The platform stores sensitive health information, patient IDs, consultation recordings, and prescription history. It also integrates with pharmacies and diagnostic labs. With telemedicine guidelines from the Medical Council of India and the DPDP Act in effect, the co-founders want a privacy policy that reassures patients, clearly outlines third-party integrations, and meets medical confidentiality standards.
 
 Goal:
+
 Draft a privacy policy for an Indian telemedicine service that is compliant with both health sector rules and data privacy laws.
 
 Prompt:
+
 "You are a healthcare data privacy consultant. Draft a privacy policy for a telemedicine platform in India, covering: Data Collected (health records, prescriptions, consultation recordings), Purpose & Use, Consent & Withdrawal Process, Data Sharing with Pharmacies & Labs, Security Measures for Video Consultations, Retention Periods for Medical Records, Patient Rights (access, correction, deletion), and Contact Details for Grievance Handling. Write in clear, non-technical language suitable for patients." Inputs Required from User: Types of medical data stored Third-party service providers (labs, pharmacies) Storage & encryption practices Retention timelines for patient data Grievance officer details
 
 Privacy Policy for Real Estate Aggregator Platform
 
 Backstory:
+
 A Noida-based real estate portal connects buyers, sellers, and brokers. It collects user profile data, location information, property search history, and uploaded property documents. Since users often share sensitive personal details like ID proofs and bank info during transactions, the company wants a privacy policy that covers verification processes, data storage, and fraud prevention measures.
 
 Goal:
+
 Create a privacy policy for an Indian property listing and brokerage platform that inspires user trust and complies with DPDP Act norms.
 
 Prompt:
+
 "You are a real estate legal compliance expert. Draft a privacy policy for an Indian real estate aggregator website, covering: Data Collected (identity, property documents, transaction details), Purpose of Collection, Fraud Prevention Mechanisms, Data Sharing with Verified Brokers, Retention & Deletion Policies, User Rights under the DPDP Act, and Grievance Redressal Process. Use straightforward language to reassure users." Inputs Required from User: Verification process details Types of documents collected Data sharing with third parties Fraud detection measures Retention policy
 
 Privacy Policy for Food Delivery App
 
 Backstory:
+
 A Chennai-based food delivery startup collects customer addresses, GPS location, payment data, and order history. It also tracks delivery personnel through GPS. With concerns about customer location data misuse, the startup needs a privacy policy that explains exactly how location tracking works and ensures transparency in sharing data with restaurants and delivery partners.
 
 Goal:
+
 Draft a privacy policy for an Indian food delivery platform that clearly addresses location tracking and payment security.
 
 Prompt:
+
 "You are a digital platform privacy advisor. Draft a privacy policy for an Indian food delivery application, covering: Personal & Location Data Collected, Purpose of Tracking, Sharing Data with Restaurants & Delivery Partners, Payment Information Security, Data Retention Timelines, User Rights & Opt-out Mechanisms, and Grievance Contact Info. Write in a concise, mobile-friendly format." Inputs Required from User: GPS tracking policies Payment gateway details Data retention duration Third-party sharing practices Support contact info
 
 Privacy Policy for Social Networking App
 
 Backstory:
+
 A Bengaluru-based startup has built a niche social networking app for Indian college students. It collects personal profiles, photos, friend connections, and chat history. The founders want a privacy policy that emphasizes safe online interactions, clearly defines moderation practices, and explains data retention for deleted accounts.
 
 Goal:
+
 Write a privacy policy for an Indian social networking app with strong user safety and moderation guidelines.
 
 Prompt:
+
 "You are a social media compliance consultant. Draft a privacy policy for a social networking app, covering: Information Collected (profiles, images, messages), Purpose & Use, Moderation & Reporting Mechanisms, Data Sharing with Law Enforcement, Retention for Deleted Accounts, User Rights under the DPDP Act, and Security Practices for Chat Encryption. Use friendly, youth-oriented language while keeping it legally compliant." Inputs Required from User: Moderation policy details Encryption standards for chats Retention policy for deleted data Law enforcement cooperation process
 
 Privacy Policy for Online Learning Management System (LMS)
 
 Backstory:
+
 A Delhi-based LMS provider serves universities and corporate clients. It collects students’ and employees’ learning progress, test scores, and assignment submissions. Since it hosts sensitive educational records, the provider needs a privacy policy that covers both student data and corporate training data, while complying with data protection laws.
 
 Goal:
+
 Draft a privacy policy for an Indian LMS platform that safeguards educational and corporate training records.
 
 Prompt:
+
 "You are an EdTech legal consultant. Draft a privacy policy for an LMS serving both educational institutions and corporates in India. Include: Types of Data Collected (student records, performance metrics), Purpose of Processing, Data Sharing with Institutions/Employers, Retention Policies, User Rights (access, correction, deletion), and Contact Details for Queries. Ensure compliance with DPDP Act requirements." Inputs Required from User: Types of clients served (schools, corporates) Data retention timelines Third-party integrations (e.g., proctoring tools) Access control policies
 
 Privacy Policy for Online Job Portal
 
 Backstory:
+
 A Gurugram-based recruitment platform matches job seekers with employers. It collects résumés, educational records, work history, salary expectations, and sometimes Aadhaar/PAN for background checks. The founders are concerned about data leaks and want a privacy policy that reassures both candidates and employers while meeting compliance standards.
 
 Goal:
+
 Create a privacy policy for an Indian job portal that protects sensitive career and identity data.
 
 Prompt:
+
 "You are a recruitment compliance advisor. Draft a privacy policy for an Indian job portal, covering: Data Collected from Candidates & Employers, Purpose of Processing, Data Sharing with Verified Employers, Retention Policies for Inactive Accounts, Background Verification Practices, Security Measures, User Rights under the DPDP Act, and Grievance Contact Information." Inputs Required from User: Verification process details Retention period for inactive accounts Third-party background check vendors Security protocols
 
 Privacy Policy for Digital Payment App
 
 Backstory:
+
 A Mumbai-based fintech company runs a UPI-enabled wallet app that stores transaction histories, bank details, and KYC documents. The company wants a transparent privacy policy explaining how financial data is protected, especially with RBI guidelines in mind.
 
 Goal:
+
 Write a privacy policy for a digital payment platform in India that’s compliant with RBI security and DPDP Act requirements.
 
 Prompt:
+
 "You are a fintech compliance consultant. Draft a privacy policy for an Indian payment app, covering: Transaction Data Handling, KYC Document Storage, Fraud Detection Practices, Data Sharing with Banking Partners, RBI & DPDP Compliance, Data Retention, and User Rights. Write in simple, jargon-free language to build trust." Inputs Required from User: Payment gateway integrations Fraud detection mechanisms Data encryption practices KYC process details
 
 Privacy Policy for NGO Donation Platform
 
 Backstory:
+
 A Delhi-based non-profit runs an online donation portal for social causes. It collects donor names, addresses, PAN numbers (for tax receipts), and payment details. The NGO needs a privacy policy that assures donors their details are safe and will not be sold or misused.
 
 Goal:
+
 Draft a privacy policy for a donation platform that focuses on donor trust and compliance with data protection laws.
 
 Prompt:
+
 "You are a non-profit legal advisor. Draft a privacy policy for an NGO’s donation portal, covering: Donor Data Collection & Purpose, Payment Data Security, PAN & Tax Receipt Handling, Data Sharing with Regulatory Authorities (if required), Retention Periods, and Contact Details for Queries." Inputs Required from User: Donation processing methods Data sharing with auditors or authorities Payment gateway used Data retention policy
 
 Privacy Policy for Subscription-based Streaming Platform
 
 Backstory:
+
 A Bengaluru-based OTT platform offers regional language content. It collects viewer profiles, watch history, device information, and payment details. The founders want a privacy policy that’s compliant with Indian IT rules and addresses user profiling concerns.
 
 Goal:
+
 Create a privacy policy for a subscription streaming service in India.
 
 Prompt:
+
 "You are a digital media legal consultant. Draft a privacy policy for an Indian streaming platform, covering: User Data Collected, Purpose of Profiling & Recommendations, Payment Information Handling, Device Tracking Policies, Data Retention, and User Rights. Ensure transparency around how algorithms use viewer data." Inputs Required from User: Recommendation engine details Payment processors used Device tracking methods Retention timelines
 
 Privacy Policy for Online Travel Booking Portal
 
 Backstory:
+
 A Pune-based travel tech startup provides hotel and flight bookings. It collects customer names, contact info, passport details, and payment information. Since it works with multiple international travel partners, the privacy policy must address cross-border data transfers.
 
 Goal:
+
 Write a privacy policy for an Indian travel booking platform with international data sharing disclosures.
 
 Prompt:
+
 "You are a travel industry compliance expert. Draft a privacy policy for an Indian travel booking site, covering: Data Collected, Purpose of Processing, Data Sharing with Airlines & Hotels (including abroad), Cross-Border Transfer Safeguards, Payment Data Security, Retention, and Grievance Contact Details." Inputs Required from User: List of international partners Payment encryption measures Cross-border transfer agreements Retention period
 
 Privacy Policy for Crowdfunding Platform
 
 Backstory:
+
 A Hyderabad-based crowdfunding portal collects donor details, campaign creator profiles, and payment transactions. It must ensure transparency around how donor and campaign data is stored, displayed, and shared.
 
 Goal:
+
 Draft a privacy policy for a crowdfunding site that protects both donors and campaign creators.
 
 Prompt:
+
 "You are a fintech and legal compliance expert. Draft a privacy policy for an Indian crowdfunding platform, covering: Donor Data Privacy, Campaign Creator Verification, Display of Public Information, Payment Security, Retention Policies, and DPDP Compliance." Inputs Required from User: Campaign creator verification process Public vs. private data display rules Payment handling methods Retention policy
 
 Privacy Policy for Ride-hailing App
 
 Backstory:
+
 An Ahmedabad-based ride-hailing service collects GPS location data, driver details, and payment history. Riders are increasingly concerned about how their location history is stored and shared.
 
 Goal:
+
 Write a privacy policy for a ride-hailing app that ensures location tracking transparency.
 
 Prompt:
+
 "You are a mobility services compliance advisor. Draft a privacy policy for an Indian ride-hailing service, covering: Real-Time Location Tracking, Driver & Passenger Data Handling, Data Sharing with Law Enforcement, Payment Security, Retention Timelines, and User Rights." Inputs Required from User: Location data retention policy Payment gateway integrations Data sharing with authorities Driver onboarding verification
 
 Privacy Policy for Online Marketplace for Handicrafts
 
 Backstory:
+
 A Jaipur-based marketplace sells handmade goods from rural artisans. It stores buyer and seller profiles, bank details for seller payouts, and transaction history.
 
 Goal:
+
 Draft a privacy policy for an online handicraft marketplace in India.
 
 Prompt:
+
 "You are an e-commerce compliance specialist. Draft a privacy policy for a handicraft marketplace, covering: Buyer & Seller Data Collection, Payment & Bank Info Handling, Data Sharing with Logistics Partners, Retention Policies, and DPDP Compliance." Inputs Required from User: Bank payout process details Logistics data sharing rules Retention period Payment processor used
 
 Privacy Policy for Dating App
 
 Backstory:
+
 A Mumbai-based dating app collects personal details, location, chat history, and profile photos. It also uses AI to suggest matches.
 
 Goal:
+
 Write a privacy policy for an Indian dating app with strong emphasis on user consent and safety.
 
 Prompt:
+
 "You are an online safety compliance consultant. Draft a privacy policy for a dating app in India, covering: Data Collected, Purpose of AI-based Matchmaking, Location Tracking Policies, Security for Chat History & Photos, Retention Timelines, and User Rights." Inputs Required from User: AI recommendation details Retention of deleted data Location tracking practices Safety reporting process
 
 Privacy Policy for Fitness & Wellness App
 
 Backstory:
+
 A Delhi-based health and fitness app tracks workouts, diet logs, and integrates with wearable devices. Since it collects health-related data, it needs a policy aligned with health data privacy norms.
 
 Goal:
+
 Create a privacy policy for a wellness app in India.
 
 Prompt:
+
 "You are a wellness tech compliance advisor. Draft a privacy policy for a health & fitness app, covering: Data Collected (workouts, diet, wearable sync), Purpose, Third-Party Sharing (nutritionists, trainers), Security Measures, Retention Policies, and User Rights." Inputs Required from User: Wearable integrations used Retention period for health logs Trainer/nutritionist data sharing rules Encryption practices
 
 T&C for SaaS Productivity Tool
 
 Backstory:
+
 A Chennai-based SaaS platform offers task management software to corporates. They want Terms & Conditions that clearly define usage rights, subscription terms, and liability limitations.
 
 Goal:
+
 Draft Terms & Conditions for an Indian SaaS platform.
 
 Prompt:
+
 "You are a SaaS contract drafting expert. Draft T&C for a productivity SaaS tool, covering: User License Terms, Subscription & Renewal Policies, Limitations of Liability, Data Ownership, Termination Clause, and Governing Law (India)." Inputs Required from User: Subscription model details Data ownership policy Termination triggers Refund policy
 
 T&C for Online Retail Store
 
 Backstory:
+
 An Indore-based fashion retailer sells products via their own website. They need T&C covering orders, returns, and disputes.
 
 Goal:
+
 Write Terms & Conditions for an Indian online retail store.
 
 Prompt:
+
 "You are an e-commerce legal consultant. Draft T&C for an Indian retail site, covering: Ordering Process, Payment Terms, Return/Refund Policy, Delivery Timelines, and Governing Law." Inputs Required from User: Return & refund window Shipping policies Payment gateways used Dispute resolution mechanism
 
 T&C for Event Ticketing Platform
 
 Backstory:
+
 A Bengaluru-based ticketing site sells passes for concerts and sports events. They need T&C addressing cancellations and resales.
 
 Goal:
+
 Draft T&C for an event ticketing platform in India.
 
 Prompt:
+
 "You are an events compliance consultant. Draft T&C for an Indian ticketing site, covering: Ticket Purchase Terms, Cancellation/Refund Rules, Resale Restrictions, Event Changes/Cancellations, and Governing Law." Inputs Required from User: Refund policy timeline Event change notification process Ticket transfer rules Delivery method (digital/physical)
 
 T&C for Digital Marketing Agency Website
 
 Backstory:
+
 A marketing agency in Kolkata offers SEO, PPC, and branding services. They need T&C that covers service scope and payment terms.
 
 Goal:
 Write Terms & Conditions for a marketing services website.
 
+
 Prompt:
+
 "You are a business contract consultant. Draft T&C for a digital marketing agency in India, covering: Scope of Services, Payment Schedule, Client Responsibilities, Confidentiality, Termination, and Governing Law." Inputs Required from User: Service packages offered Payment milestones Confidentiality clauses Termination notice period
 
 T&C for Mobile Gaming App
 
 Backstory:
+
 A Hyderabad-based gaming studio has launched a mobile game with in-app purchases. They need T&C to cover virtual goods, user conduct, and dispute resolution.
 
 Goal:
+
 Draft Terms & Conditions for an Indian mobile game.
 
 Prompt:
+
 "You are a gaming industry legal advisor. Draft T&C for a mobile game, covering: User Conduct Rules, Virtual Goods Ownership, Payment Terms, Refunds (if any), and Governing Law." Inputs Required from User: Virtual currency usage rules Refund policy Age restrictions User reporting mechanism
 
 
@@ -987,276 +1062,351 @@ Regulatory Compliance Checklists
 Startup Compliance Checklist for India
 
 Backstory:
+
 A first-time entrepreneur in Bengaluru is launching a D2C (Direct-to-Consumer) skincare brand. She’s aware of legal requirements like GST registration, trademark filing, and product safety certifications but isn’t sure about timelines or the order in which to complete them. Missing deadlines could result in fines or legal issues, affecting brand credibility.
 
 Goal:
+
 Create a step-by-step compliance checklist tailored for Indian startups in the cosmetics sector.
 
 Prompt:
+
 "You are a compliance consultant for Indian startups. Prepare a detailed regulatory compliance checklist for a newly launched cosmetics brand that includes: company registration, GST registration, trademark application, FSSAI licensing (if applicable), Bureau of Indian Standards (BIS) certifications, labelling requirements, import/export licenses (if sourcing ingredients abroad), periodic tax filings, and annual corporate filings. Structure the checklist chronologically with timelines, responsible parties, and potential penalties for non-compliance." Inputs Required from User: Business type (private limited, LLP, proprietorship) Target market (domestic/export) Product categories Preferred timeline for launch
 
 Data Protection & Privacy Compliance Checklist (India)
 
 Backstory:
+
 An edtech platform collects large amounts of student data, including names, addresses, and progress reports. With the rollout of India’s Digital Personal Data Protection Act (DPDPA), the founders need a compliance checklist to ensure all user data is collected, stored, and processed lawfully.
 
 Goal:
+
 Build a practical, actionable checklist for DPDPA compliance.
 
 Prompt:
+
 "You are a data privacy compliance expert in India. Create a comprehensive compliance checklist for an edtech company to meet the requirements of the Digital Personal Data Protection Act. Include: appointment of a Data Protection Officer (DPO), drafting a privacy policy, obtaining user consent, secure storage & encryption of personal data, breach reporting protocols, periodic audits, and employee training requirements. Present the checklist in a format that allows easy tracking of completed tasks." Inputs Required from User: Industry type Type & volume of personal data collected Data storage location (cloud/on-premise) Number of employees handling personal data
 
 E-commerce Compliance Checklist
 
 Backstory:
+
 An online fashion retailer operating across India wants to ensure compliance with Consumer Protection (E-commerce) Rules, IT Act provisions, and GST laws. They recently received a customer complaint about misleading product descriptions and want to avoid future violations.
 
 Goal:
+
 Create a compliance checklist that covers e-commerce-specific laws and guidelines.
 
 Prompt:
+
 "You are an e-commerce legal advisor. Draft a detailed compliance checklist for an Indian online retail store to ensure compliance with Consumer Protection (E-commerce) Rules, GST laws, IT Act provisions, and other applicable regulations. Cover areas such as transparent pricing, returns/refund policy, seller verification, accurate product descriptions, secure payment gateways, grievance redressal mechanisms, and mandatory display of company details. Include timelines for regular audits and checks." Inputs Required from User: E-commerce platform type (marketplace/inventory-based) Product categories sold Number of sellers onboarded Payment modes offered
 
 Environmental Compliance Checklist for Manufacturing Units
 
 Backstory:
+
 A mid-sized textile manufacturer in Gujarat is expanding production. To operate legally, they need to comply with environmental regulations such as the Air Act, Water Act, and hazardous waste disposal norms. Failure could lead to shutdowns or penalties.
 
 Goal:
+
 Prepare a manufacturing-focused environmental compliance checklist.
 
 Prompt:
+
 "You are an environmental compliance consultant in India. Create a detailed environmental compliance checklist for a textile manufacturing unit that includes: consent to operate from State Pollution Control Board, air & water emission limits, hazardous waste disposal procedures, wastewater treatment plant requirements, renewable energy adoption incentives, periodic reporting formats, and penalties for non-compliance. Arrange the checklist by frequency of compliance (daily, monthly, annually)." Inputs Required from User: State of operation Manufacturing processes used Waste types generated Energy sources used
 
 Corporate Compliance Calendar for Listed Companies
 
 Backstory:
+
 A publicly listed IT services company needs a compliance calendar to ensure timely SEBI filings, board meetings, shareholder communications, and annual returns. Missing these can affect stock prices and invite regulatory action.
 
 Goal:
+
 Create a structured, date-based compliance calendar.
 
 Prompt:
+
 "You are a corporate governance specialist. Develop a detailed annual compliance calendar for an Indian listed company, covering SEBI disclosures, MCA filings, stock exchange announcements, quarterly financial results, AGM requirements, CSR reporting, and director KYC updates. Format the calendar month-wise with due dates, responsible departments, and penalty risks." Inputs Required from User: Industry sector Financial year start & end dates Stock exchange listings Number of board meetings scheduled annually
 
 E-Waste Management Compliance Checklist
 
 Backstory:
+
 A consumer electronics retailer in Bengaluru has expanded its product line to include refurbished laptops and accessories. Under India’s E-Waste Management Rules (2022), they are now required to maintain proper disposal channels, track end-of-life product collection, and submit compliance reports to the Central Pollution Control Board (CPCB). The founder wants a comprehensive checklist to ensure no legal gaps before an upcoming audit.
 
 Goal:
+
 Create a regulatory compliance checklist that ensures adherence to India’s e-waste handling and reporting obligations for electronics retailers.
 
 Prompt:
+
 "You are an environmental compliance officer. Prepare a detailed e-waste management compliance checklist for a consumer electronics retailer in India. Cover: product labeling requirements, extended producer responsibility (EPR) registration, customer take-back programs, transportation & disposal documentation, quarterly and annual CPCB reporting, tie-ups with authorized recyclers, penalties for non-compliance, and staff training needs." Inputs Required from User: Product categories handled Annual sales volume Disposal partners (if any) Current compliance status
 
 Labour Law Compliance Checklist for SMEs
 
 Backstory:
+
 A small garment manufacturing unit in Tirupur employs 45 workers, including contract staff. With recent amendments to India’s labour codes, the owner is unsure about updated wage requirements, leave policies, and safety obligations. An investor has requested proof of labour law compliance before finalizing funding.
 
 Goal:
+
 Create a step-by-step labour law compliance checklist tailored to small and medium-sized enterprises in India.
 
 Prompt:
+
 "You are a labour law consultant. Draft a comprehensive labour law compliance checklist for an SME in India, covering: minimum wage notifications, working hours, leave entitlements, PF & ESI registration, contract worker agreements, safety standards under the Factories Act, anti-harassment policies, mandatory display requirements, and annual return filings." Inputs Required from User: State of operation Number of employees Nature of contracts (permanent/contractual) Industry type
 
 Food Safety & Standards Authority of India (FSSAI) Compliance Checklist
 
 Backstory:
+
 A home-based cloud kitchen in Hyderabad is scaling operations to serve corporate catering. They must upgrade from a basic FSSAI registration to a state license and comply with hygiene, storage, and labeling norms to avoid fines during surprise inspections.
 
 Goal:
+
 Create an FSSAI compliance checklist for small food businesses expanding operations.
 
 Prompt:
+
 "You are a food safety compliance expert. Draft a detailed FSSAI compliance checklist for a cloud kitchen business in India, covering: license/registration type, kitchen hygiene requirements, storage temperature control, allergen labeling, expiry date marking, employee hygiene protocols, pest control measures, documentation for inspections, and renewal timelines." Inputs Required from User: Cuisine type Scale of operations (meals/day) Current license type Storage facilities available
 
 Import-Export (EXIM) Compliance Checklist
 
 Backstory:
+
 A handicraft exporter from Jaipur has started selling to buyers in Europe and Southeast Asia. They need a compliance checklist to navigate customs paperwork, DGFT licensing, and export incentives without delays or penalties.
 
 Goal:
+
 Create a regulatory compliance checklist for small exporters in India.
 
 Prompt:
+
 "You are an international trade compliance specialist. Prepare a detailed import-export compliance checklist for a handicraft exporter in India, covering: IEC (Import Export Code) registration, product HS codes, export documentation (invoice, packing list, bill of lading), DGFT filings, customs duties, GST refunds on exports, packaging & labeling requirements, and participation in export promotion schemes." Inputs Required from User: Product type & materials Target countries Export frequency Current certifications
 
 GST Compliance Checklist for Service Providers
 
 Backstory:
+
 A digital marketing agency in Pune offers services to clients in India and abroad. They need a GST compliance checklist to ensure accurate invoicing, timely return filing, and correct application of export of services rules for zero-rated supplies.
 
 Goal:
+
 Develop a GST compliance checklist specifically for service-oriented businesses.
 
 Prompt:
+
 "You are a taxation compliance expert. Draft a GST compliance checklist for an Indian service provider, covering: GST registration type, correct invoicing format (with HSN/SAC codes), applicability of IGST vs CGST+SGST, return filing deadlines (GSTR-1, GSTR-3B), handling input tax credit, export of services documentation, reconciliation process, and penalties for non-compliance." Inputs Required from User: Type of services offered Client locations (domestic/international) Billing cycle Current GST filing method (monthly/quarterly)
 
 Cybersecurity Compliance Checklist under India’s DPDP Act (2023)
 
 Backstory:
+
 A SaaS startup in Gurugram collects and stores user data from across India, including financial and personal information. With the new Digital Personal Data Protection (DPDP) Act in force, the founders need to ensure full compliance before launching a high-profile B2B product. The CTO wants a granular checklist that covers both technical safeguards and legal obligations to avoid penalties and loss of client trust.
 
 Goal:
+
 Create a cybersecurity compliance checklist aligned with the DPDP Act (2023) and global data protection standards.
 
 Prompt:
+
 "You are a cybersecurity compliance officer. Draft a detailed DPDP Act compliance checklist for an Indian SaaS company, covering: classification of personal data, data processing consent mechanisms, privacy policy requirements, data storage encryption standards, breach notification timelines, data retention & deletion policies, employee access control protocols, and annual third-party security audits." Inputs Required from User: Type of personal data collected Number of data subjects (users) Cloud/on-premise storage model Presence in international markets
 
 Fire Safety Compliance Checklist for Commercial Offices
 
 Backstory:
+
 A co-working space in Mumbai houses 35 small businesses. The property management team wants to implement a fire safety compliance protocol to meet the National Building Code (NBC) of India and local fire department guidelines. They must pass inspection before expanding to another floor.
 
 Goal:
+
 Develop a fire safety compliance checklist for multi-tenant office spaces.
 
 Prompt:
+
 "You are a workplace safety consultant. Prepare a detailed fire safety compliance checklist for a commercial office in India, covering: NBC and local fire authority requirements, installation & maintenance of extinguishers, fire alarm systems, emergency exit signage, evacuation drill frequency, staff fire warden training, maintenance logbooks, and annual certification renewals." Inputs Required from User: Building size & floor count Occupancy capacity Type of businesses housed Current fire safety equipment inventory
 
 CSR (Corporate Social Responsibility) Compliance Checklist
 
 Backstory:
+
 A mid-sized IT firm in Chennai has crossed the threshold under Section 135 of the Companies Act, making CSR spending mandatory. The CSR committee needs a structured checklist to ensure proper selection, execution, and reporting of CSR projects that meet legal criteria and withstand audit scrutiny.
 
 Goal:
+
 Create a CSR compliance checklist to guide corporate governance and statutory adherence.
 
 Prompt:
+
 "You are a CSR compliance advisor. Draft a comprehensive CSR compliance checklist for an Indian company, covering: eligibility determination, CSR committee formation, annual CSR budget calculation, permissible activity categories, partner NGO due diligence, board approvals, implementation tracking, impact assessment, and mandatory disclosures in the annual report." Inputs Required from User: Annual turnover & net profit figures Existing CSR activities (if any) Preferred focus areas (education, health, environment) Projected CSR spend
 
 Environmental Impact Assessment (EIA) Compliance Checklist
 
 Backstory:
+
 A solar panel manufacturing plant in Gujarat is expanding operations. Under the Environment Protection Act and EIA Notification, the company must submit an updated EIA report and comply with environmental clearance (EC) conditions before breaking ground. The project manager needs a step-by-step compliance framework to avoid project delays.
 
 Goal:
+
 Prepare an EIA compliance checklist for industrial expansion projects in India.
 
 Prompt:
+
 "You are an environmental compliance consultant. Create a detailed EIA compliance checklist for an Indian manufacturing plant expansion, covering: screening & scoping process, baseline environmental data collection, public consultation procedures, EIA report structure, EC application filing, mitigation measures, periodic compliance reporting, and post-clearance monitoring." Inputs Required from User: Industry type Project location Expansion scale (capacity increase %) Existing environmental clearance status
 
 SEBI Compliance Checklist for Listed Companies
 
 Backstory:
+
 A publicly listed fintech firm in India is preparing for its annual general meeting (AGM). The company’s legal and investor relations teams must ensure compliance with SEBI’s Listing Obligations and Disclosure Requirements (LODR), insider trading regulations, and quarterly reporting mandates to maintain investor trust and avoid penalties.
 
 Goal:
+
 Create a SEBI compliance checklist tailored for listed companies in India.
 
 Prompt:
+
 "You are a securities compliance specialist. Draft a SEBI compliance checklist for a listed company, covering: quarterly and annual disclosures, insider trading prevention measures, AGM notice requirements, corporate governance reports, related-party transaction approvals, board meeting documentation, shareholding pattern filings, and investor grievance redressal mechanisms." Inputs Required from User: Industry sector Board composition details Shareholding structure Upcoming corporate actions
 
 Labour Law Compliance Checklist for Startups
 
 Backstory:
+
 A 3-year-old e-commerce startup in Bengaluru has grown to 80 employees and now falls under multiple labour laws, including the Payment of Gratuity Act, the Maternity Benefit Act, and the Shops & Establishments Act. The HR head is overwhelmed trying to track all statutory requirements while managing rapid hiring.
 
 Goal:
+
 Create a labour law compliance checklist to help startups maintain legal HR practices and avoid penalties.
 
 Prompt:
+
 "You are an HR compliance consultant. Draft a comprehensive labour law compliance checklist for an Indian startup with over 50 employees, covering: mandatory employment contracts, working hours & leave policies, statutory registers, employee welfare provisions, social security contributions (EPF, ESI), maternity benefits, gratuity eligibility, sexual harassment policy compliance (POSH Act), and monthly/annual filings." Inputs Required from User: Industry type Employee strength (permanent & contract) Office location(s) Existing HR systems/software
 
 GST Compliance Checklist for Service-based Businesses
 
 Backstory:
+
 A digital marketing agency in Delhi services clients across India and overseas. While GST registration is complete, the finance team struggles with correctly classifying interstate vs intrastate supplies, claiming input tax credit (ITC), and filing returns on time.
 
 Goal:
+
 Prepare a GST compliance checklist tailored for service-based firms to avoid interest and penalties.
 
 Prompt:
+
 "You are a GST compliance expert. Create a detailed GST compliance checklist for a service-oriented business, covering: registration verification, SAC code classification, GST invoicing rules, advance payment tax treatment, reverse charge mechanism applicability, ITC documentation, monthly GSTR-3B & quarterly GSTR-1 filing schedules, annual return preparation, and reconciliation with accounting records." Inputs Required from User: GST registration type (regular/composition) States of operation Major services offered Software used for billing/accounting
 
 Import-Export (EXIM) Compliance Checklist
 
 Backstory:
+
 A textile manufacturer in Surat is starting to export products to the Middle East and Europe. They need to comply with India’s Foreign Trade Policy, customs regulations, and documentation standards, while also aligning with the buyer’s country requirements to avoid shipment delays.
 
 Goal:
+
 Create an import-export compliance checklist for Indian exporters.
 
 Prompt:
+
 "You are an international trade compliance advisor. Draft a detailed EXIM compliance checklist for an Indian manufacturer, covering: IEC (Import Export Code) registration, export license requirements, HS code classification, product-specific quality certifications, export documentation (invoice, packing list, bill of lading), customs clearance process, payment terms (LC, advance, DP), and DGFT reporting obligations." Inputs Required from User: Product category Export destination countries Shipping method (sea/air) Trade finance arrangements
 
 Pharmaceutical Regulatory Compliance Checklist
 
 Backstory:
+
 A nutraceutical startup in Hyderabad is launching a new line of herbal supplements. They must comply with FSSAI regulations for dietary supplements, advertising guidelines, and GMP (Good Manufacturing Practices) before going to market.
 
 Goal:
+
 Develop a pharmaceutical/nutraceutical compliance checklist for India.
 
 Prompt:
+
 "You are a regulatory affairs specialist. Prepare a compliance checklist for an Indian nutraceutical company, covering: FSSAI licensing, product label & claim approvals, ingredient verification against permitted lists, batch testing protocols, GMP certification, packaging compliance, adverse event reporting, and periodic renewal of licenses." Inputs Required from User: Product formulations Target market (domestic/export) Manufacturing facility type (own/contract) Distribution model
 
 Non-Profit Organisation (NGO) Compliance Checklist
 
 Backstory:
+
 An NGO in Lucknow works on rural education projects funded by both domestic and foreign donors. The management must ensure compliance with the Societies Registration Act, Income Tax exemptions under 12A/80G, and FCRA (Foreign Contribution Regulation Act) requirements to continue receiving grants.
 
 Goal:
+
 Create an NGO compliance checklist for Indian charitable organisations.
 
 Prompt:
+
 "You are a non-profit compliance advisor. Draft a comprehensive compliance checklist for an Indian NGO, covering: registration and renewal procedures, FCRA registration & reporting, 12A/80G exemption maintenance, annual audit requirements, donor receipt formats, activity report submissions, utilisation certificate filing, and state-specific NGO rules." Inputs Required from User: Type of registration (society/trust/section 8 company) Sources of funding (domestic/foreign) Annual turnover Number of active projects
 
 IT & Data Privacy Compliance Checklist
 
 Backstory:
+
 A fintech startup in Mumbai is collecting sensitive personal and financial data from customers for loan processing. With India’s Digital Personal Data Protection (DPDP) Act now in effect, the CTO wants to ensure that all data collection, storage, and sharing practices are compliant, while also maintaining cybersecurity protocols.
 
 Goal:
+
 Create a compliance checklist that ensures adherence to the DPDP Act and IT Act, covering both data privacy and cybersecurity.
 
 Prompt:
+
 "You are a data privacy compliance consultant. Draft a step-by-step IT and data privacy compliance checklist for an Indian fintech company, covering: data classification, privacy notices & consent collection, user rights requests handling, data retention & deletion policies, encryption standards, breach notification procedures, security audit schedules, and vendor data-sharing agreements." Inputs Required from User: Industry type and services offered Categories of personal data collected Current security measures in place Third-party vendor relationships
 
 Environmental Compliance Checklist for Manufacturing Units
 
 Backstory:
+
 A ceramic tile manufacturer in Morbi, Gujarat, wants to expand production but must comply with environmental laws like the Air (Prevention and Control of Pollution) Act, Water Act, and Hazardous Waste Management Rules. Non-compliance could result in plant shutdowns and hefty fines.
 
 Goal:
+
 Develop an environmental compliance checklist for Indian manufacturing facilities.
 
 Prompt:
+
 "You are an environmental compliance advisor. Create a manufacturing plant compliance checklist for India, covering: environmental clearance requirements, pollution control board approvals, emission monitoring protocols, effluent treatment plant (ETP) maintenance, hazardous waste handling & disposal rules, periodic environmental audits, and CSR environmental reporting obligations." Inputs Required from User: Type of manufacturing process Location and applicable state PCB rules Types of waste generated Energy consumption patterns
 
 Corporate Governance Compliance Checklist for Private Limited Companies
 
 Backstory:
+
 A growing tech company in Pune recently received Series A funding. Investors are demanding stronger corporate governance practices to ensure transparency and reduce legal risks. The CFO needs a practical checklist that aligns with the Companies Act, 2013 requirements.
 
 Goal:
+
 Prepare a governance compliance checklist for private limited companies.
 
 Prompt:
+
 "You are a corporate governance consultant. Draft a governance compliance checklist for a private limited company in India, covering: board meeting requirements, statutory register maintenance, filing of annual returns (MGT-7), director appointment & resignation compliance, shareholder agreement obligations, related-party transaction disclosures, and statutory audit procedures." Inputs Required from User: Company structure (shareholding pattern) Number of directors & board committees Annual turnover Investor agreements in place
 
 Food Safety Compliance Checklist for Restaurants & Cafes
 
 Backstory:
+
 A multi-outlet café chain in Delhi-NCR is planning to expand into Tier-2 cities. Before scaling, they want to ensure strict adherence to FSSAI guidelines to avoid license suspension or customer complaints.
 
 Goal:
+
 Create a food safety compliance checklist to be used across all outlets.
 
 Prompt:
+
 "You are a food safety compliance officer. Prepare a checklist for a multi-location café chain in India, covering: FSSAI licensing & renewal, hygiene and sanitation SOPs, food handler training, temperature control for storage & cooking, pest control schedules, allergen disclosure requirements, packaging & labeling rules, and food waste disposal compliance." Inputs Required from User: Type of cuisine/menu items Number of outlets & locations Supply chain model (central kitchen/local sourcing) Existing safety inspection records
 
 Annual Legal & Compliance Health Check for SMEs
 
 Backstory:
+
 A small IT services firm in Chennai has been operating for 6 years but has never done a comprehensive compliance health check. The founder now wants a yearly review process to ensure the company is fully compliant with all laws — corporate, labour, tax, and sector-specific.
 
 Goal:
+
 Develop a comprehensive annual legal and compliance audit checklist for SMEs.
 
 Prompt:
+
 "You are an SME compliance auditor. Draft a one-stop annual compliance health check checklist for an Indian SME, covering: company law filings, tax compliance (income tax, GST, TDS), labour law adherence, sector-specific licenses, contract review procedures, intellectual property renewals, environmental/safety requirements, and risk assessment documentation." Inputs Required from User: Industry sector Company size (revenue & employees) Locations of operation Past compliance audit history
 
 
