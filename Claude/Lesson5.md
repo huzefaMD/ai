@@ -170,3 +170,13 @@ Direct, data-driven, no fluff
 </courses>
 ```
 This gives Claude incredibly precise instructions for complex multi-part tasks.
+
+## Common Mistakes
+
+| Mistake | Fix |
+|----------|-----|
+| Using tags inconsistently | Always open AND close every tag |
+| Too many tags | Stick to 4-6 most relevant tags |
+| Vague content inside tags | Be specific inside every tag |
+| Wrong tag for content | Match tag name to content type |
+| Forgetting closing tags | Every `<tag>` needs a `</tag>` |
