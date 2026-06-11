@@ -123,3 +123,24 @@ Q: What if I miss a class?
 A: Lifetime access to all recordings - never
 miss anything.
 ```
+## PART 3: Controlling LENGTH
+
+Length control is the most underused technique. Be specific - vague length instructions
+give vague results.
+
+### Vague Length Instructions:
+```
+"Keep it short"
+"Make it detailed"
+"Write a long response"
+"Be brief"
+```
+### Specific Length Instructions:
+```
+"Under 50 words"
+"Exactly 3 paragraphs"
+"150-200 words maximum"
+"One sentence only"
+"5 bullet points, each under 15 words"
+"A 30-second read"
+```
