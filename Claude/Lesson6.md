@@ -76,3 +76,28 @@ Format is the **structure and layout** of Claude's response.
 | Bold key points | Scannable content | "Bold the most important points" |
 | Code blocks | Technical content | "Put code in code blocks" |
 | Q&A format | FAQs, interviews | "Format as Q&A" |
+
+## Same Content, Different Formats
+
+The content: Benefits of HuzefAI's AWS course
+
+### Bullet Points
+
+```
+Benefits of HuzefAI AWS Course:
+- Hands-on labs with real AWS console
+- Certification guidance included
+- Placement support after completion
+- Lifetime access to recordings
+- Small batches – max 30 students
+```
+
+### Table
+
+| Feature | What You Get |
+|----------|-------------|
+| Learning style | Hands-on labs, real projects |
+| Certification | Full AWS exam guidance |
+| Support | Placement assistance |
+| Access | Lifetime recording access |
+| Batch size | Max 30 students |
