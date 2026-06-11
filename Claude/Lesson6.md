@@ -171,3 +171,18 @@ give vague results.
 | Tweet/X post | Under 280 characters |
 | Landing page headline | 5-10 words |
 | Call to action | 3-7 words |
+
+## Combining All Three: The Tone+Format+Length Formula
+```
+<tone>
+[Specific tone description]
+</tone>
+
+<format>
+[Exact structure you want]
+</format>
+
+<length>
+[Specific word/paragraph count]
+</length>
+```
