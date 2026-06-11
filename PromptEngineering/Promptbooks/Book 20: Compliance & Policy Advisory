@@ -3,276 +3,351 @@ Legal research summaries
 Summary of Landmark Supreme Court Judgment on Data Privacy
 
 Backstory:
+
 A Bengaluru-based healthtech startup is developing a telemedicine app that will store patient health records in the cloud. The legal head wants a concise yet comprehensive summary of the Justice K.S. Puttaswamy vs. Union of India judgment (2017), where the Supreme Court declared the Right to Privacy as a fundamental right. This summary will help the product team understand the legal implications for data handling under Indian constitutional law.
 
 Goal:
+
 Produce a legal research summary highlighting the case background, key constitutional principles, and practical business implications for startups handling sensitive personal data.
 
 Prompt:
+
 "You are a legal research analyst. Draft a structured summary of the Supreme Court’s 2017 Puttaswamy judgment, covering: case facts, arguments from both sides, key findings, constitutional articles invoked, legal reasoning, and the verdict. Include a section on implications for businesses handling sensitive personal data under Indian law. Use plain English while retaining accuracy." Inputs Required from User: Intended audience (lawyers, executives, product managers) Sector of business (e.g., healthtech, fintech, e-commerce) Depth level (brief, detailed, exhaustive)
 
 Summary of Arbitration Act Amendments (2015, 2019, 2021)
 
 Backstory:
+
 A mid-sized construction company in Noida is regularly involved in contractual disputes and often opts for arbitration instead of lengthy litigation. Their in-house counsel wants a clear research summary of all recent amendments to the Arbitration and Conciliation Act to ensure contracts are aligned with the latest legal provisions.
 
 Goal:
+
 Prepare a concise yet actionable summary of the Arbitration Act amendments and how they change dispute resolution practices for Indian companies.
 
 Prompt:
+
 "You are a corporate legal researcher. Create a comparative summary of the 2015, 2019, and 2021 amendments to the Arbitration and Conciliation Act, highlighting: changes in timelines, appointment of arbitrators, confidentiality provisions, institutional arbitration rules, and enforcement of awards. Conclude with a section on best practices for contract drafting post-amendments." Inputs Required from User: Type of contracts company handles Frequency of arbitration usage Jurisdiction of operations
 
 Summary of Labour Codes Impact on IT Companies
 
 Backstory:
+
 A Pune-based IT services firm with 1,200 employees is reviewing its HR policies in light of India’s new Labour Codes (Wages, Social Security, Occupational Safety, Industrial Relations). The HR head wants a clear research summary to align policies with legal requirements and avoid penalties.
 
 Goal:
+
 Generate a legal research summary focusing on how the new Labour Codes affect IT companies’ compliance obligations.
 
 Prompt:
+
 "You are an employment law researcher. Draft a summary of India’s four new Labour Codes, covering: key provisions, changes from old laws, applicability to IT/ITES sector, employer obligations, employee benefits, and penalty provisions. Include a checklist for HR policy updates specific to IT companies." Inputs Required from User: Current HR policy framework Employee strength Locations of operation
 
 Summary of GST E-Invoicing Rules for SMEs
 
 Backstory:
+
 A Jaipur-based SME in the textile export business is required to implement GST e-invoicing from the next financial quarter. The finance manager wants a simple, legally accurate summary of the latest e-invoicing provisions to train the accounts team.
 
 Goal:
+
 Produce a legal summary of GST e-invoicing provisions applicable to SMEs, with compliance steps.
 
 Prompt:
+
 "You are a tax law researcher. Summarise the GST e-invoicing provisions, covering: eligibility thresholds, mandatory invoice fields, reporting timelines, IRN generation process, integration with ERP, penalties for non-compliance, and export invoice requirements. Provide an easy-to-follow implementation checklist." Inputs Required from User: Annual turnover figures Export/import activities Current invoicing process
 
 Summary of Indian Competition Act Provisions for M&A
 
 Backstory:
+
 A Mumbai-based private equity firm is evaluating the acquisition of a mid-sized manufacturing company. The legal team needs a research summary on Competition Commission of India (CCI) provisions for mergers and acquisitions to assess whether the deal requires CCI approval.
 
 Goal:
+
 Create a legal research note summarising the Competition Act provisions on mergers and acquisitions, focusing on deal thresholds and approval timelines.
 
 Prompt:
+
 "You are an M&A legal analyst. Draft a research summary on CCI regulations for mergers and acquisitions under the Competition Act, covering: asset and turnover thresholds, notification process, scrutiny timelines, exemption criteria, and penalties for non-compliance. Include a decision tree to help determine if a deal requires CCI approval." Inputs Required from User: Estimated deal value Sector of target company Presence in domestic vs. international markets
 
 Summary of FEMA Regulations for Startups Receiving Foreign Investment
 
 Backstory:
+
 A Delhi-based SaaS startup has secured interest from a Singapore-based VC firm. Before finalizing the investment, the founder needs to understand the relevant provisions of the Foreign Exchange Management Act (FEMA) and RBI guidelines for foreign direct investment (FDI) in Indian startups. This summary will guide them in structuring the investment without triggering compliance issues.
 
 Goal:
+
 Summarise FEMA and RBI guidelines on FDI for startups in plain, actionable terms.
 
 Prompt:
+
 "You are a startup legal advisor. Draft a legal research summary of FEMA and RBI regulations for FDI in Indian startups, covering: eligible sectors, automatic vs. government approval routes, share valuation requirements, reporting to RBI (FC-GPR/FC-TRS), timelines for fund receipt and allotment, and penalties for non-compliance. Include a step-by-step compliance checklist." Inputs Required from User: Sector in which startup operates Amount of proposed investment Country of investor’s origin Current company valuation
 
 Summary of SEBI Insider Trading Regulations for Listed Companies
 
 Backstory:
+
 A newly listed company on the NSE wants to train its leadership team on the Prohibition of Insider Trading Regulations issued by SEBI. The compliance officer needs a concise research summary to explain permissible and prohibited activities, reporting obligations, and penalties.
 
 Goal:
+
 Create a research note on SEBI insider trading rules for listed companies.
 
 Prompt:
+
 "You are a securities law researcher. Prepare a structured summary of SEBI’s Prohibition of Insider Trading Regulations, covering: definition of unpublished price sensitive information (UPSI), trading window restrictions, disclosure requirements, role of compliance officers, penalties for violations, and preventive measures. Include examples of compliant vs. non-compliant scenarios." Inputs Required from User: Industry sector of the listed company Number of designated employees covered Current compliance monitoring practices
 
 Summary of Environmental Clearance Rules for Real Estate Projects
 
 Backstory:
+
 A real estate developer in Gurugram plans to build a large residential township. Before starting construction, they need to comply with environmental clearance norms under the EIA Notification, 2006 and subsequent amendments. The legal team wants a concise summary to avoid project delays or fines.
 
 Goal:
+
 Summarise environmental clearance requirements for large real estate developments.
 
 Prompt:
+
 "You are an environmental law researcher. Draft a legal research summary on environmental clearance rules for real estate projects in India, covering: applicability thresholds, documents required for EC application, environmental impact assessment process, public consultation procedures, compliance reporting timelines, and consequences of non-compliance." Inputs Required from User: Project size (land area and built-up area) Location (state and city) Type of real estate project (residential/commercial/mixed-use)
 
 Summary of Cybercrime Laws Relevant to E-commerce Platforms
 
 Backstory:
+
 An e-commerce company based in Mumbai is expanding into high-value electronics sales. With increasing cyber fraud cases, the CTO wants a summary of cybercrime laws under the IT Act, 2000 and related provisions of the Indian Penal Code to strengthen the platform’s legal safeguards.
 
 Goal:
+
 Provide a legal research summary of applicable cybercrime laws for e-commerce platforms.
 
 Prompt:
+
 "You are a cyber law analyst. Prepare a summary of cybercrime-related provisions in the IT Act, 2000 and IPC applicable to e-commerce platforms, covering: identity theft, phishing, hacking, data breaches, cyber fraud, intermediary liability, and reporting obligations. Include preventive compliance measures and incident response steps." Inputs Required from User: Nature of products sold Volume of monthly transactions Current cybersecurity measures in place
 
 Summary of Intellectual Property Laws for Digital Content Creators
 
 Backstory:
+
 An independent content creator in Mumbai produces educational videos and is concerned about unauthorized copying and re-uploading of her content. She wants a legal research summary of copyright and trademark protections available in India for online creators.
 
 Goal:
+
 Summarise Indian IP laws relevant to digital content creators in simple, actionable terms.
 
 Prompt:
+
 "You are an IP law researcher. Draft a legal research summary of copyright, trademark, and design protections for digital content creators in India, covering: registration process, scope of protection, enforcement mechanisms, takedown procedures under the IT Act, and remedies for infringement." Inputs Required from User: Type of content produced (videos, images, articles) Whether the content is monetized Platforms used for distribution
 
 Summary of Consumer Protection Act Provisions for E-Commerce
 
 Backstory:
+
 A Bengaluru-based online fashion marketplace has recently received multiple complaints from customers regarding delayed deliveries and misleading product descriptions. The legal team wants a crisp but comprehensive research summary of the Consumer Protection Act, 2019 provisions applicable to e-commerce businesses to ensure compliance and avoid penalties from the Central Consumer Protection Authority (CCPA).
 
 Goal:
+
 Provide a business-friendly legal research summary of the CPA, 2019 e-commerce provisions.
 
 Prompt:
+
 "You are a consumer law analyst. Draft a structured summary of the Consumer Protection Act, 2019 and related E-commerce Rules, covering: liability for misleading ads, refund and replacement obligations, disclosure requirements, grievance redressal mechanisms, penalty provisions, and the role of the CCPA. Include a compliance checklist for e-commerce sellers and marketplaces." Inputs Required from User: Product categories sold Current grievance redressal process Average monthly order volume
 
 Summary of Motor Vehicles Act Changes for Logistics Companies
 
 Backstory:
+
 A logistics company operating across North India is updating its compliance manuals after the 2019 amendments to the Motor Vehicles Act. The operations head needs a legal research summary to train drivers, fleet managers, and compliance officers on new safety standards and penalties.
 
 Goal:
+
 Summarise the Motor Vehicles Act amendments with a focus on logistics operations.
 
 Prompt:
+
 "You are a transport compliance researcher. Prepare a summary of the Motor Vehicles (Amendment) Act, 2019, highlighting: revised penalty amounts, fitness certification norms, driver training requirements, vehicle tracking mandates, insurance provisions, and goods carriage regulations. Provide a table mapping old vs. new penalties for easy reference." Inputs Required from User: Fleet size and vehicle types Routes and states of operation Current safety and compliance measures
 
 Summary of RERA Provisions for Real Estate Developers
 
 Backstory:
+
 A mid-sized property developer in Hyderabad is planning to launch two new residential projects and wants to ensure full compliance with the Real Estate (Regulation and Development) Act, 2016 (RERA). The marketing team also needs clarity on permissible advertising claims under the Act.
 
 Goal:
+
 Create a RERA compliance research summary for developers.
 
 Prompt:
+
 "You are a real estate law specialist. Draft a legal research summary of RERA provisions applicable to developers, covering: project registration process, escrow account requirements, disclosure norms, timelines for possession, penalty provisions, and restrictions on marketing claims. Include a compliance timeline from project conception to handover." Inputs Required from User: State of project location Number of units planned Estimated project value
 
 Summary of SEZ Rules for Export-Oriented IT Companies
 
 Backstory:
+
 An IT services firm operating from an SEZ in Chennai wants to expand its export operations. The CFO has requested a summary of SEZ rules, benefits, and compliance requirements to ensure smooth expansion without risking the loss of SEZ incentives.
 
 Goal:
+
 Summarise SEZ rules and compliance requirements for IT companies.
 
 Prompt:
+
 "You are a trade and export compliance researcher. Prepare a structured summary of SEZ Act and Rules provisions applicable to IT/ITES companies, covering: eligibility criteria, tax incentives, customs duty exemptions, performance obligations, reporting requirements, and exit procedures. Include a risk matrix for non-compliance." Inputs Required from User: Size of SEZ unit (employees and floor area) Annual export turnover Countries served
 
 Summary of Factories Act Compliance for Manufacturing SMEs
 
 Backstory:
+
 A small-scale engineering goods manufacturer in Ludhiana has recently increased its workforce from 15 to 45 employees, triggering additional compliance obligations under the Factories Act. The owner wants a research summary to understand safety, welfare, and working hours requirements.
 
 Goal:
+
 Summarise the Factories Act compliance obligations for SMEs.
 
 Prompt:
+
 "You are an industrial law researcher. Draft a legal research summary of the Factories Act provisions applicable to SMEs, covering: worker safety measures, working hours and overtime limits, welfare amenities, health inspections, annual return filings, and penalty provisions. Include a compliance calendar for SMEs." Inputs Required from User: Industry type Total number of employees Factory location and state
 
 Summary of Prevention of Sexual Harassment (POSH) Act Compliance
 
 Backstory:
+
 A growing media company in Mumbai with 60 employees is updating its workplace policies and wants a research summary on POSH Act requirements to implement an Internal Committee and awareness programs.
 
 Goal:
+
 Summarise POSH Act compliance requirements for private companies.
 
 Prompt:
+
 "You are an employment compliance researcher. Prepare a legal research summary on the POSH Act, covering: constitution of the Internal Committee, roles and responsibilities, complaint handling process, confidentiality provisions, employer obligations, annual reporting requirements, and penalties for non-compliance. Include a model awareness program outline." Inputs Required from User: Number of employees Presence of multiple branches or offices Existing HR grievance mechanisms
 
 Summary of CSR Compliance under Companies Act
 
 Backstory:
+
 A listed pharmaceutical company in Ahmedabad wants to revise its CSR activities for the upcoming year. The CSR head needs a legal research summary to ensure compliance with Section 135 of the Companies Act and recent amendments.
 
 Goal:
+
 Summarise CSR obligations and reporting requirements.
 
 Prompt:
+
 "You are a corporate law researcher. Draft a structured summary of CSR provisions under the Companies Act, covering: eligibility thresholds, minimum spending requirements, approved CSR activities, reporting formats, unspent CSR amount treatment, and penalties. Provide examples of compliant CSR projects in the pharmaceutical sector." Inputs Required from User: Average net profit over the last 3 years Current CSR focus areas Geographic scope of CSR projects
 
 Summary of Income Tax Provisions for Freelancers
 
 Backstory:
+
 A graphic designer based in Pune works with clients across India and abroad. She wants a legal research summary on her tax obligations, deductions available, and GST applicability to her freelancing work.
 
 Goal:
+
 Provide a freelancer-specific tax compliance summary.
 
 Prompt:
+
 "You are a tax law researcher. Prepare a legal research summary of income tax provisions applicable to freelancers in India, covering: tax slab applicability, advance tax rules, allowable deductions, GST registration thresholds, invoicing requirements, and foreign payment tax treatment under DTAA." Inputs Required from User: Annual turnover Type of services provided Domestic vs. foreign client split
 
 Summary of Data Retention Laws for Financial Institutions
 
 Backstory:
+
 A mid-sized NBFC in Delhi wants to upgrade its IT systems to align with RBI data retention and reporting requirements. The compliance team needs a legal research summary to guide system changes.
 
 Goal:
+
 Summarise RBI data retention guidelines for NBFCs and banks.
 
 Prompt:
+
 "You are a financial regulatory researcher. Draft a legal research summary of data retention requirements for Indian financial institutions, covering: retention timelines, permitted formats, confidentiality provisions, customer data disposal guidelines, and penalties for premature deletion." Inputs Required from User: Type of financial institution Volume of customer data stored Current IT infrastructure
 
 Summary of Labour Law Applicability for Gig Economy Platforms
 
 Backstory:
+
 A Bengaluru-based ride-hailing app is reviewing its worker classification policies in light of ongoing debates on gig worker rights. The legal team wants a research summary of labour law applicability to gig platforms.
 
 Goal:
+
 Summarise Indian labour law implications for gig economy companies.
 
 Prompt:
+
 "You are a labour law policy researcher. Prepare a legal research summary on the applicability of Indian labour laws to gig workers, covering: minimum wage applicability, social security benefits, insurance obligations, contract structuring, and state-level policy developments." Inputs Required from User: Type of gig platform (delivery, transport, freelance marketplace) Number of active gig workers Revenue model
 
 Summary of Foreign Trade Policy Provisions for Export Startups
 
 Backstory:
+
 A handicraft export startup in Jaipur wants to expand to new markets. The founder needs a research summary of India’s Foreign Trade Policy to identify incentives and compliance obligations.
 
 Goal:
+
 Summarise Foreign Trade Policy provisions for small exporters.
 
 Prompt:
+
 "You are a trade policy researcher. Draft a legal research summary of India’s Foreign Trade Policy, covering: export promotion schemes, duty drawback provisions, export documentation requirements, eligibility for SEIS benefits, and DGFT compliance." Inputs Required from User: Product category Export volume Target markets
 
 Summary of Patents Act for Technology Startups
 
 Backstory:
+
 A deep-tech startup in Hyderabad has developed a novel AI algorithm and wants to explore patent protection in India. The CTO needs a legal research summary of the Patents Act and filing process.
 
 Goal:
+
 Summarise patent law provisions for Indian tech startups.
 
 Prompt:
+
 "You are an IP law researcher. Prepare a summary of the Indian Patents Act provisions relevant to technology startups, covering: patentability criteria, filing process, provisional vs. complete specification, timelines, examination procedures, and infringement remedies." Inputs Required from User: Type of innovation Stage of development (prototype/pilot) Planned filing jurisdictions
 
 Summary of FEMA Provisions on Overseas Direct Investment (ODI)
 
 Backstory:
+
 An Indian healthcare company is planning to acquire a minority stake in a UK-based wellness chain. The CFO wants a legal research summary of FEMA provisions on ODI.
 
 Goal:
+
 Summarise ODI compliance requirements for Indian companies.
 
 Prompt:
+
 "You are a foreign exchange law analyst. Draft a legal research summary of FEMA provisions on ODI, covering: eligibility criteria, investment limits, approval requirements, reporting to RBI, repatriation rules, and penalties." Inputs Required from User: Investment amount Destination country Nature of investment (equity, JV, WOS)
 
 Summary of Insolvency and Bankruptcy Code (IBC) Provisions for SMEs
 
 Backstory:
+
 A small manufacturing company in Gujarat is facing cash flow problems and wants to explore restructuring options under the IBC. The founder needs a legal research summary.
 
 Goal:
+
 Summarise IBC provisions applicable to SMEs.
 
 Prompt:
+
 "You are a corporate insolvency researcher. Draft a legal research summary of IBC provisions for MSMEs, covering: applicability thresholds, pre-pack insolvency process, timelines, creditor rights, resolution plan requirements, and liquidation provisions." Inputs Required from User: Company size (turnover and debt) Type of creditors involved Restructuring objectives
 
 Summary of DPDP Act for Mobile App Developers
 
 Backstory:
+
 An app development company in Pune creates lifestyle and health tracking apps that collect user data. The product head needs a research summary on the Digital Personal Data Protection (DPDP) Act to align product features with legal obligations.
 
 Goal:
+
 Summarise DPDP Act compliance requirements for app developers.
 
 Prompt:
+
 "You are a data privacy law researcher. Draft a legal research summary of the DPDP Act, covering: user consent requirements, purpose limitation, data minimisation, retention timelines, user rights handling, breach notification, and penalties. Include best practices for app-based consent flows." Inputs Required from User: Type of user data collected Number of active users Whether data is shared with third parties
 
 
@@ -281,276 +356,351 @@ Tender Documentation Guides
 Government Supply Tender Submission Guide
 
 Backstory:
+
 A manufacturing company in Pune produces eco-friendly office furniture. They’ve spotted a Central Government tender for supplying workstations to a ministry. This is their first time participating in a government e-procurement process, and they’re overwhelmed by the paperwork — EMD, technical bids, financial bids, compliance certificates, and past performance records. They want a clear, step-by-step guide to ensure a flawless submission.
 
 Goal:
+
 Create a structured tender submission checklist for a first-time government supplier.
 
 Prompt:
+
 "You are a government procurement consultant. Draft a step-by-step tender documentation guide for an Indian SME bidding for a central government contract, covering: e-procurement portal registration, document verification, EMD submission, technical bid requirements, financial bid format, compliance certificate preparation, and final submission protocols." Inputs Required from User: Tender issuing department Product/service category Tender value Submission deadline
 
 EPC Project Tender Preparation Guide
 
 Backstory:
+
 A mid-sized engineering firm in Hyderabad is bidding for an EPC (Engineering, Procurement & Construction) project under a state public works department. The tender demands detailed technical drawings, project execution timelines, safety compliance documents, and proof of similar past projects. The project manager needs a documentation template to assemble all requirements.
 
 Goal:
+
 Create a comprehensive tender document checklist for EPC project bids.
 
 Prompt:
+
 "You are a construction tender specialist. Prepare a tender documentation guide for an EPC project bid in India, covering: eligibility documents, technical specifications, execution timelines, resource deployment plans, quality & safety compliance documents, price bid structure, and annexure preparation." Inputs Required from User: Scope of EPC work Past project references Safety certifications held Estimated project duration
 
 Service Outsourcing Tender Bid Guide
 
 Backstory:
+
 An IT outsourcing company in Bengaluru is bidding for a municipal corporation’s data digitization project. The tender specifies staff qualification requirements, software security protocols, and service level agreements (SLAs). The business development team needs a clear plan to present their bid professionally and ensure compliance.
 
 Goal:
+
 Create a tender preparation guide for IT outsourcing service providers.
 
 Prompt:
+
 "You are an IT procurement advisor. Draft a tender documentation checklist for an outsourcing bid, covering: company profile preparation, SLA drafting, staff qualification proof, cybersecurity compliance documents, pilot project proposal, financial bid format, and submission schedule." Inputs Required from User: Number of staff proposed SLA terms offered Security compliance standards met Project timeline
 
 Infrastructure Maintenance Tender Guide
 
 Backstory:
+
 A facilities management company in Delhi is bidding for an airport maintenance contract. The tender requires detailed cleaning schedules, equipment maintenance logs, manpower deployment charts, and safety protocols for high-traffic public areas. The operations head wants a standardized template to ensure every document is complete.
 
 Goal:
+
 Prepare a maintenance tender documentation checklist for large public infrastructure projects.
 
 Prompt:
+
 "You are a facilities contract consultant. Draft a tender documentation guide for an airport maintenance contract, covering: cleaning & maintenance SOPs, manpower rosters, equipment maintenance schedules, safety compliance plans, and cost breakdowns for each service category." Inputs Required from User: Types of maintenance services offered Equipment list Staffing plan Safety certifications
 
 Defence Supply Tender Compliance Guide
 
 Backstory:
+
 A defence equipment supplier in Pune is bidding for a Ministry of Defence contract to supply specialized tactical gear. The tender requires strict adherence to procurement rules, security clearance certificates, and quality testing reports from accredited labs. The company needs a compliance-oriented documentation plan.
 
 Goal:
+
 Develop a tender documentation checklist for defence supply contracts.
 
 Prompt:
+
 "You are a defence procurement compliance expert. Draft a tender documentation guide for supplying tactical equipment to the Ministry of Defence, covering: vendor registration on defence procurement portals, security clearance processes, product quality certification, past performance documentation, and pricing formats." Inputs Required from User: Type of defence gear supplied Quality testing certifications Security clearance status Prior defence contract references
 
 Healthcare Equipment Supply Tender Guide
 
 Backstory:
+
 A Mumbai-based medical equipment distributor wants to bid for a state government tender to supply ventilators to district hospitals. The tender requires detailed product technical sheets, certifications from medical device regulators, proof of past installations, and service maintenance contracts. Since the healthcare sector is highly regulated, the company must ensure every document meets medical compliance norms.
 
 Goal:
+
 Prepare a detailed tender documentation checklist for healthcare equipment supply.
 
 Prompt:
+
 "You are a healthcare procurement consultant. Draft a tender documentation guide for a company supplying ventilators to Indian government hospitals, covering: product technical specification sheets, BIS & CDSCO certifications, proof of past installations, warranty & AMC agreements, delivery schedules, and cost break-up." Inputs Required from User: Type & model of equipment Certifications held (BIS, CDSCO, CE) Past installation references Service & warranty terms
 
 Renewable Energy Project Tender Guide
 
 Backstory:
+
 A solar energy startup in Jaipur is bidding for a government contract to install rooftop solar systems in schools. The tender mandates detailed energy generation projections, safety compliance reports, installation timelines, and financial viability documents. The founders need a step-by-step documentation framework.
 
 Goal:
+
 Create a solar energy project tender preparation guide.
 
 Prompt:
+
 "You are a renewable energy tender specialist. Draft a documentation checklist for bidding in a government solar installation project, covering: eligibility criteria, energy output projections, safety compliance reports, technical team profiles, funding & financial stability proofs, installation timelines, and maintenance commitments." Inputs Required from User: Capacity of installation Funding sources Technical team qualifications Safety certifications
 
 NGO Grant Tender Proposal Guide
 
 Backstory:
+
 A non-profit in Bengaluru focuses on rural education and is applying for a CSR grant tender floated by a PSU. The tender requires a detailed project proposal, impact measurement framework, legal compliance proof under FCRA (if foreign funds involved), and past project success stories.
 
 Goal:
+
 Prepare a grant tender documentation guide for NGOs.
 
 Prompt:
+
 "You are a non-profit tender consultant. Draft a grant tender preparation guide for an NGO applying for a CSR funding tender, covering: project proposal drafting, budget breakdown, monitoring & evaluation framework, legal compliance documents (FCRA, 12A, 80G), impact case studies, and reporting formats." Inputs Required from User: Nature of project Target beneficiaries Past impact reports Legal compliance documents
 
 IT Infrastructure Tender Guide
 
 Backstory:
+
 An IT hardware company in Noida is bidding for a government project to supply and install servers and networking equipment. The tender requires detailed technical configurations, OEM authorizations, warranty details, and network security compliance documents.
 
 Goal:
+
 Create a tender guide for IT infrastructure supply projects.
 
 Prompt:
+
 "You are an IT procurement advisor. Draft a tender documentation checklist for supplying servers & networking hardware to a government department, covering: technical specification sheets, OEM authorization letters, warranty & AMC terms, installation plans, and security compliance documentation." Inputs Required from User: Type of IT equipment OEM partnership details Installation capabilities Warranty & support terms
 
 Event Management Tender Guide
 
 Backstory:
+
 An event company in Delhi wants to bid for a state tourism department tender to organize a cultural festival. The tender needs venue plans, artist rosters, stage & lighting specifications, safety arrangements, and financial proposals.
 
 Goal:
+
 Develop a documentation guide for event management tenders.
 
 Prompt:
+
 "You are an event tender consultant. Draft a tender documentation checklist for a government cultural festival contract, covering: event concept proposal, venue layout plans, artist & vendor agreements, stage & lighting specs, safety compliance measures, and budget proposals." Inputs Required from User: Event theme & size Venue details Artist/vendor partnerships Safety protocols
 
 Public Transport Tender Guide
 
 Backstory:
+
 A bus manufacturing company in Chennai is bidding for a municipal corporation tender to supply electric buses. The tender specifies vehicle technical specs, battery performance certifications, charging infrastructure plans, and after-sales service guarantees.
 
 Goal:
+
 Prepare a documentation checklist for public transport supply tenders.
 
 Prompt:
+
 "You are a transport procurement consultant. Draft a tender documentation guide for supplying electric buses, covering: vehicle technical specifications, battery performance certifications, charging infrastructure plans, after-sales service commitments, and cost schedules." Inputs Required from User: Vehicle model & specs Battery supplier details Service center locations Warranty terms
 
 Hospitality Service Tender Guide
 
 Backstory:
+
 A catering and housekeeping company in Goa is bidding for a tender to manage services at a government guesthouse. The tender asks for manpower deployment plans, food safety certifications, housekeeping SOPs, and equipment lists.
 
 Goal:
+
 Create a tender documentation guide for hospitality service contracts.
 
 Prompt:
+
 "You are a hospitality contract consultant. Draft a tender documentation checklist for managing a government guesthouse, covering: staff deployment rosters, FSSAI certifications, housekeeping SOPs, equipment inventory lists, and financial bid formats." Inputs Required from User: Staffing numbers Service scope Certifications held Equipment available
 
 Road Construction Tender Guide
 
 Backstory:
+
 A civil contractor in Indore wants to bid for a national highway construction project. The tender requires design blueprints, material sourcing details, machinery deployment schedules, and safety compliance plans.
 
 Goal:
+
 Draft a tender guide for large-scale road construction projects.
 
 Prompt:
+
 "You are a civil works tender expert. Draft a tender documentation checklist for highway construction, covering: design blueprints, material sourcing plans, equipment deployment schedules, workforce safety measures, and cost estimates." Inputs Required from User: Project length & scope Material suppliers Machinery availability Workforce safety plans
 
 Water Supply Project Tender Guide
 
 Backstory:
+
 A water infrastructure company in Ahmedabad is bidding for a state water board tender to install pipelines. The tender demands technical layouts, environmental clearance certificates, and proof of past municipal projects.
 
 Goal:
+
 Create a documentation guide for water supply tenders.
 
 Prompt:
+
 "You are an infrastructure procurement consultant. Draft a tender documentation checklist for a water pipeline installation project, covering: technical drawings, environmental clearances, project execution timelines, and quality control protocols." Inputs Required from User: Project area coverage Pipe specifications Environmental impact reports Past project records
 
 Defence Supply Tender Guide
 
 Backstory:
+
 A defence equipment supplier in Pune is bidding for a Ministry of Defence tender to provide tactical communication devices. The tender requires DRDO-approved product specifications, secure communication compliance documents, and proof of defence project experience. The process is highly regulated, with strict submission formats and security clearances.
 
 Goal:
+
 Prepare a tender documentation checklist for defence supply contracts.
 
 Prompt:
+
 "You are a defence procurement specialist. Draft a tender documentation guide for supplying tactical communication devices to the Ministry of Defence, covering: DRDO product approval certificates, secure communication compliance documentation, proof of past defence contracts, production capacity statements, and delivery timelines." Inputs Required from User: Product type & specifications Defence clearances held Past defence project records Manufacturing capacity details
 
 Real Estate Development Tender Guide
 
 Backstory:
+
 A real estate company in Hyderabad is bidding for a smart city housing project tender. The documentation must include architectural plans, environmental sustainability certifications, construction timelines, and financing proof from banks.
 
 Goal:
+
 Draft a tender preparation guide for real estate infrastructure projects.
 
 Prompt:
+
 "You are a real estate procurement advisor. Draft a documentation checklist for bidding on a government housing project, covering: detailed architectural drawings, green building certifications, project financing proofs, construction timelines, and quality control procedures." Inputs Required from User: Number of housing units Sustainability certifications Financing partners Construction capacity
 
 Airport Ground Handling Tender Guide
 
 Backstory:
+
 An aviation service company in Delhi is applying for a tender to manage ground handling services at an international airport. The tender demands proof of DGCA approvals, equipment lists, safety training programs, and service quality standards.
 
 Goal:
+
 Create a tender guide for airport ground handling contracts.
 
 Prompt:
+
 "You are an aviation service tender consultant. Draft a documentation checklist for an airport ground handling tender, covering: DGCA approvals, equipment inventory, staff training records, service quality KPIs, and safety compliance protocols." Inputs Required from User: Airport name & capacity Ground handling equipment list Staff size & certifications Past airport service contracts
 
 Mining Operation Tender Guide
 
 Backstory:
+
 A mining firm in Odisha wants to bid for a government coal mining contract. The tender requires environmental impact assessments, land acquisition approvals, mining safety plans, and heavy equipment deployment schedules.
 
 Goal:
+
 Prepare a tender documentation checklist for mining projects.
 
 Prompt:
+
 "You are a mining project tender expert. Draft a documentation checklist for coal mining contracts, covering: environmental clearance certificates, land acquisition documents, mining safety plans, heavy machinery deployment schedules, and workforce training protocols." Inputs Required from User: Type of mineral Mine location & size Machinery available Safety certifications
 
 Telecom Network Expansion Tender Guide
 
 Backstory:
+
 A telecom company in Gurugram is bidding for a state government tender to expand 5G infrastructure in rural areas. The tender asks for network deployment plans, equipment sourcing details, regulatory compliance proofs, and projected coverage maps.
 
 Goal:
+
 Draft a documentation guide for telecom infrastructure tenders.
 
 Prompt:
+
 "You are a telecom procurement consultant. Draft a tender documentation checklist for 5G rural network expansion, covering: network rollout plans, vendor equipment certifications, DoT compliance documents, projected coverage maps, and maintenance schedules." Inputs Required from User: Network area coverage target Equipment suppliers DoT compliance status Maintenance strategy
 
 Educational Institution Infrastructure Tender Guide
 
 Backstory:
+
 An architecture firm in Kolkata is applying for a tender to design and build a government university campus. The tender requires master plans, structural safety certifications, project timelines, and budget proposals.
 
 Goal:
+
 Create a tender guide for educational infrastructure projects.
 
 Prompt:
+
 "You are an educational infrastructure consultant. Draft a tender documentation checklist for designing and constructing a university campus, covering: master plans, structural safety approvals, green building certifications, phased timelines, and detailed budget estimates." Inputs Required from User: Campus size & facilities Sustainability plans Safety compliance documents Budget breakdown
 
 Logistics & Warehousing Tender Guide
 
 Backstory:
+
 A logistics company in Ahmedabad wants to bid for a central government tender to manage a nationwide warehouse network for food grain storage. The tender includes requirements for storage capacity proofs, temperature control technology, pest management protocols, and delivery schedules.
 
 Goal:
+
 Prepare a tender documentation guide for logistics and warehousing services.
 
 Prompt:
+
 "You are a logistics tender specialist. Draft a documentation checklist for managing government food grain warehouses, covering: storage capacity certifications, temperature & humidity control technology details, pest control SOPs, delivery timelines, and staff deployment plans." Inputs Required from User: Number & size of warehouses Storage tech specifications Pest control vendor details Delivery capabilities
 
 Port & Shipping Tender Guide
 
 Backstory:
+
 A shipping company in Kochi is bidding for a tender to operate container handling services at a major port. The tender requires equipment capability reports, staff certifications, safety compliance documentation, and cargo handling efficiency metrics.
 
 Goal:
+
 Draft a tender guide for port service contracts.
 
 Prompt:
+
 "You are a maritime procurement advisor. Draft a tender documentation checklist for operating container handling services, covering: equipment capability reports, safety compliance documentation, crew training records, cargo handling efficiency metrics, and operational cost breakdowns." Inputs Required from User: Port location & capacity Equipment list Crew certifications Safety compliance status
 
 Public Sanitation Tender Guide
 
 Backstory:
+
 A facilities management company in Jaipur is bidding for a municipal tender to maintain public toilets across the city. The tender requires cleaning schedules, waste disposal methods, water supply management, and public feedback systems.
 
 Goal:
+
 Prepare a tender documentation checklist for public sanitation projects.
 
 Prompt:
+
 "You are a public sanitation tender consultant. Draft a documentation checklist for maintaining public toilets, covering: cleaning & maintenance schedules, waste disposal protocols, water supply arrangements, staff deployment, and grievance redressal mechanisms." Inputs Required from User: Number of facilities Cleaning frequency Waste disposal arrangements Staff details
 
 Agriculture Supply Tender Guide
 
 Backstory:
+
 A seed supplier in Lucknow is applying for a state agriculture department tender to supply hybrid seeds to farmers. The tender requires seed quality certifications, distribution logistics, farmer training programs, and after-sales support plans.
 
 Goal:
+
 Draft a tender documentation guide for agriculture supply contracts.
 
 Prompt:
+
 "You are an agriculture procurement expert. Draft a tender documentation checklist for supplying hybrid seeds, covering: seed quality certifications, distribution logistics plans, farmer training programs, after-sales support strategies, and payment terms." Inputs Required from User: Seed types & varieties Certification status Distribution network details Training program plans
 
 Disaster Management Tender Guide
 
 Backstory:
+
 A relief services company in Patna is bidding for a government tender to supply emergency shelters during floods. The tender needs product durability reports, delivery timelines, disaster response training plans, and post-disaster maintenance commitments.
 
 Goal:
+
 Create a tender documentation checklist for disaster management services.
 
 Prompt:
+
 "You are a disaster management procurement advisor. Draft a tender documentation checklist for supplying flood relief shelters, covering: product durability certifications, rapid deployment timelines, disaster response staff training plans, and post-disaster maintenance commitments." Inputs Required from User: Shelter capacity & specifications Delivery lead time Staff training details Maintenance strategy
 
 
