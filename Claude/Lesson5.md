@@ -180,3 +180,50 @@ This gives Claude incredibly precise instructions for complex multi-part tasks.
 | Vague content inside tags | Be specific inside every tag |
 | Wrong tag for content | Match tag name to content type |
 | Forgetting closing tags | Every `<tag>` needs a `</tag>` |
+
+## XML Tags + Roles + CoT = Master Level
+### Combine everything you've learned so far:
+```
+<role>
+You are a senior EdTech growth strategist with
+10 years experience scaling online training
+businesses in India.
+</role>
+
+<context>
+HuzefAI is a Chennai-based startup teaching
+Cloud, DevOps, and AI. Currently at 50 students,
+goal is 500 students in 6 months.
+</context>
+
+<task>
+Build a complete 6-month growth strategy.
+</task>
+
+<thinking>
+Think step by step:
+1. Diagnose current growth blockers
+2. Identify top 3 acquisition channels
+3. Build month by month milestones
+4. Define success metrics
+5. Flag top 3 risks
+</thinking>
+
+<format>
+- Executive summary (3 sentences)
+- Month by month plan (table format)
+- Top 3 risks with mitigation
+- Single most important action this week
+</format>
+
+<tone>
+Direct, strategic, no fluff - like a
+paid consultant giving real advice
+</tone>
+```
+## That is a master-level prompt combining:
+
+- Role (Lesson 2)
+- Few-Shot ready structure (Lesson 3)
+- Chain of Thought (Lesson 4)
+- XMLTags (Lesson 5)
