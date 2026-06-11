@@ -709,276 +709,351 @@ Change Management Communication
 Communicating a Department Restructure to Employees
 
 Backstory:
+
 A mid-sized IT services firm in Pune is reorganising its departments to improve efficiency. Two teams will be merged, and some roles will be redefined. Employees are anxious about job security, and rumours are spreading in WhatsApp groups. The HR head wants a transparent yet reassuring internal communication to explain the reasons, timeline, and support measures.
 
 Goal:
+
 Draft a clear and empathetic internal email announcing the restructure.
 
 Prompt:
+
 "You are an HR communication specialist. Draft an internal email to announce a departmental restructure. Open with a transparent explanation of why the change is happening. Outline exactly what is changing and what remains the same. Provide a clear timeline for the restructure. Address potential employee concerns (job security, reporting lines). Reassure staff about support measures like training or redeployment assistance. Tone: Professional, empathetic, and transparent." Inputs Required: Department names Key changes in structure Implementation date Support resources available
 
 Announcing a Change in Leadership
 
 Backstory:
+
 A popular Indian e-commerce startup is seeing its Head of Marketing step down, with a new leader joining from another major brand. The company needs a formal announcement to staff, blending gratitude for the outgoing leader’s contributions with excitement about the incoming leader’s vision.
 
 Goal:
+
 Write a leadership transition announcement.
 
 Prompt:
+
 "You are an internal communications manager. Draft a staff announcement email for a leadership change in the marketing department. Acknowledge the contributions of the outgoing leader with specifics. Introduce the incoming leader, highlighting their experience and vision. Reassure the team about continuity in strategy during the transition. Provide a date when the new leader officially takes over. Tone: Warm, appreciative, and forward-looking." Inputs Required: Outgoing leader’s name and achievements Incoming leader’s name and credentials Transition timeline
 
 Communicating Policy Changes on Remote Work
 
 Backstory:
+
 A Bengaluru-based fintech firm has decided to revise its remote work policy after realising hybrid work improves collaboration. Employees will now be required to attend the office three days a week instead of full remote. Management fears pushback and wants to frame the message positively, highlighting benefits.
 
 Goal:
+
 Draft a positive and clear communication for a policy change.
 
 Prompt:
+
 "You are a corporate communication specialist. Write an internal announcement about a new hybrid work policy. Start with the reason for the change (collaboration benefits, team bonding). Clearly outline the new policy (days in office, flexibility options). Highlight benefits to employees and the organisation. Include FAQs to address common concerns. Tone: Positive, encouraging, and inclusive." Inputs Required: Policy start date Office attendance requirements Any exceptions or flexibility provisions
 
 Announcing New Compliance Requirements
 
 Backstory:
+
 A pharmaceutical company in Gujarat has updated its compliance guidelines following new government regulations. Employees must now complete an online certification course within 45 days. The compliance head needs a formal communication to ensure awareness and compliance without creating panic.
 
 Goal:
+
 Inform employees of new compliance obligations and deadlines.
 
 Prompt:
+
 "You are a compliance communication expert. Draft a company-wide memo to announce new compliance training requirements. Briefly explain the regulatory change and why compliance matters. Clearly state what employees need to do and by when. Provide a link to the online course and instructions. Outline consequences of non-compliance. Tone: Clear, authoritative, and supportive." Inputs Required: Name of the regulation Training completion deadline Access link to the course
 
 Communicating Office Relocation
 
 Backstory:
+
 A Mumbai-based advertising agency is relocating its office to a larger space to accommodate growth. Employees are attached to the current location and may feel nostalgic. Management wants the announcement to convey excitement, address logistical concerns, and highlight the benefits of the move.
 
 Goal:
+
 Write an upbeat office relocation announcement.
 
 Prompt:
+
 "You are an internal communications writer. Draft an internal email announcing the office relocation. Share the reason for the move (growth, better facilities). Highlight benefits of the new location (amenities, accessibility). Provide the relocation timeline and moving-day instructions. Address practical matters (commute options, parking, seating plans). Tone: Upbeat, inclusive, and motivating." Inputs Required: New office address Move-in date Key facility highlights
 
 Communicating a New Organisational Culture Initiative
 
 Backstory:
+
 A Delhi-based consulting firm is rolling out a “Culture First” programme to improve collaboration and inclusivity across teams. The initiative includes monthly team-building sessions, leadership workshops, and a peer-recognition system. Some employees are sceptical, thinking it’s just “HR talk.” The HR director wants the first communication to feel authentic and action-oriented.
 
 Goal:
+
 Draft an inspiring internal launch message for a cultural transformation programme.
 
 Prompt:
+
 "You are an internal engagement strategist. Write a company-wide announcement introducing a new organisational culture initiative. Explain the current challenges that prompted this change (low engagement scores, siloed teams). Share the vision for the desired culture, using relatable and inspiring language. Outline the key activities planned, and how employees will participate. Highlight leadership’s commitment and ways employees can provide feedback. Tone: Inspirational, inclusive, and authentic." Inputs Required: Name of the programme List of key activities Participation requirements Leadership sponsors
 
 Announcing a Merger or Acquisition
 
 Backstory:
+
 A Pune-based SaaS startup has been acquired by a larger global software company. Employees are concerned about layoffs, cultural fit, and changes in leadership. The CEO needs a carefully crafted announcement to build trust, address fears, and communicate the growth opportunities this acquisition brings.
 
 Goal:
+
 Draft a transparent and optimistic communication about a merger/acquisition.
 
 Prompt:
+
 "You are a corporate communication consultant. Draft an internal memo announcing a company acquisition. Clearly state the facts about the acquisition (who, what, when). Highlight benefits for employees and customers (new markets, resources). Address common fears (job security, culture changes). Provide a roadmap for the integration process. Tone: Clear, reassuring, and optimistic." Inputs Required: Names of both companies Acquisition date Key benefits for staff and customers Integration plan timeline
 
 Communicating a Major Technology Upgrade
 
 Backstory:
+
 A logistics company in Chennai is replacing its decade-old ERP system with a cloud-based solution. The upgrade will require a week of phased downtime for certain processes. Employees need clear communication on how this change impacts daily work, with reassurance that training will be provided.
 
 Goal:
+
 Create an informative and confidence-building communication for a tech upgrade.
 
 Prompt:
+
 "You are an internal IT communications manager. Draft an email about an upcoming ERP system upgrade. Explain why the upgrade is happening and the benefits for employees. Provide a clear timeline of the upgrade phases. Detail the expected downtime and workarounds. Share training plans and support channels. Tone: Informative, reassuring, and solution-focused." Inputs Required: System name Upgrade dates and phases Training resources Contact point for issues
 
 Communicating a Change in Performance Evaluation Process
 
 Backstory:
+
 An EdTech company in Hyderabad is shifting from annual reviews to quarterly check-ins to encourage continuous feedback. Employees are unsure if this will mean more workload or scrutiny. HR wants a message that explains the rationale, benefits, and how the new process works.
 
 Goal:
+
 Write a clear announcement explaining a performance evaluation change.
 
 Prompt:
+
 "You are an HR process communication expert. Draft a company-wide message introducing a shift from annual to quarterly performance reviews. Explain why the change is happening (continuous improvement, timely feedback). Detail how the new process works, step-by-step. Highlight benefits to employees (more growth opportunities, faster recognition). Address concerns about time commitment. Tone: Transparent, positive, and supportive." Inputs Required: New review frequency Process steps Expected time per review Support/training available
 
 Communicating Cost-Cutting Measures
 
 Backstory:
+
 A travel-tech company in Bengaluru has experienced a revenue dip due to global market changes. Management has decided on cost-cutting measures, including reducing travel budgets and pausing certain perks, but no layoffs. They want to communicate this in a way that is honest yet morale-preserving.
 
 Goal:
+
 Draft a sensitive cost-cutting announcement.
 
 Prompt:
+
 "You are a corporate communication advisor. Draft an internal memo outlining cost-control measures without damaging morale. Explain the market context that led to these changes. Clearly list the measures being taken. Emphasise that jobs are not being cut. Reaffirm the company’s long-term vision and recovery plans. Tone: Honest, empathetic, and forward-looking." Inputs Required: Specific measures being taken Reason for financial action Timeline for review of measures
 
 Announcing a New Corporate Social Responsibility (CSR) Focus
 
 Backstory:
+
 A Noida-based manufacturing company is shifting its CSR focus from rural education to environmental sustainability projects. This decision came after consultations with employees and local communities. The CSR head needs to explain the new focus and invite employees to volunteer.
 
 Goal:
+
 Write a CSR shift announcement.
 
 Prompt:
+
 "You are a CSR communications lead. Draft an internal announcement about a change in CSR focus. Share why the shift is happening (data, feedback, impact potential). Introduce the new sustainability projects. Explain how employees can contribute or volunteer. Provide project timelines and goals. Tone: Inspiring, transparent, and action-oriented." Inputs Required: Old CSR focus New focus area and projects Volunteer opportunities Project milestones
 
 Communicating a Change in Dress Code Policy
 
 Backstory:
+
 A fast-growing startup in Gurgaon is moving to a more relaxed dress code to align with modern workplace culture. The current formal dress policy is being replaced with “smart casuals,” except for client-facing roles. The HR team wants the change to feel progressive yet maintain professionalism.
 
 Goal:
+
 Draft a friendly dress code update.
 
 Prompt:
+
 "You are an HR communications specialist. Write a message announcing a shift to a smart casual dress code. Share the reasoning (modern workplace trends, comfort). Define what “smart casual” means with examples. State exceptions for client meetings. Encourage employees to embrace the change while maintaining professionalism. Tone: Friendly, inclusive, and clear." Inputs Required: Start date of new dress code Allowed and disallowed attire Exceptions for certain roles
 
 Announcing Flexible Working Hours Policy
 
 Backstory:
+
 A Gurugram-based BPO is introducing flexible work hours to help employees balance personal and professional commitments. The operations head needs to communicate how this will work without affecting productivity targets.
 
 Goal:
+
 Write a flexible work hours announcement.
 
 Prompt:
+
 "You are a workplace policy communication expert. Draft a memo introducing flexible working hours. Explain why flexibility is being introduced. Detail the parameters (core hours, total hours required). Outline how productivity will be tracked. Share examples of approved schedules. Tone: Positive, clear, and reassuring." Inputs Required: Start date Core working hours Tracking method
 
 Communicating Diversity & Inclusion (D&I) Initiatives
 
 Backstory:
+
 A Bengaluru-based MNC is launching a new Diversity & Inclusion framework, including bias training, mentorship programmes, and inclusive hiring practices. Leadership wants to ensure employees see it as a real commitment, not a PR stunt.
 
 Goal:
+
 Create an inspiring D&I launch message.
 
 Prompt:
+
 "You are a D&I communications consultant. Draft an internal announcement introducing a new Diversity & Inclusion initiative. Share the company’s vision for inclusivity. Outline the specific actions being taken. Invite employees to participate in training and initiatives. Provide a way to give feedback or suggest ideas. Tone: Empowering, authentic, and inclusive." Inputs Required: Name of the initiative List of activities Participation methods
 
 Communicating Change in Client Management Processes
 
 Backstory:
+
 A Mumbai-based digital marketing agency is shifting from account managers handling multiple clients to a “dedicated account” model. Clients will now have a single point of contact for all needs. Employees need clarity on their new roles and reporting structures.
 
 Goal:
+
 Draft a clear process change announcement.
 
 Prompt:
+
 "You are a client services communication lead. Draft a message explaining a shift to a dedicated account management model. Explain why the change is being made. Detail how the new model works. Highlight benefits for clients and employees. Outline transition steps and support available. Tone: Professional, explanatory, and encouraging." Inputs Required: Old model vs new model details Start date Role reassignments
 
 Announcing a Relocation of Office Premises
 
 Backstory:
+
 A Kolkata-based fintech firm is moving its headquarters from a congested downtown building to a modern business park with better facilities. The relocation will happen over the next three months, with teams moving in phases. Employees need clarity on logistics, facilities, and commute options.
 
 Goal:
+
 Draft a relocation announcement with full logistical details.
 
 Prompt:
+
 "You are an internal communications manager. Draft a company-wide message announcing an office relocation. Share the reason for the move (better facilities, improved collaboration spaces, accessibility). Provide the relocation timeline with phases. Outline transport, parking, and cafeteria arrangements. Detail how employees will receive moving support. Tone: Practical, transparent, and upbeat." Inputs Required: New office address Relocation dates and phases Transport and parking details Support contact point
 
 Communicating Leadership Transition
 
 Backstory:
+
 A Hyderabad-based healthtech startup’s co-founder and CTO is stepping down, and a new CTO is joining from a global tech firm. The company needs to maintain stability, acknowledge the outgoing leader’s contributions, and introduce the new leader warmly.
 
 Goal:
+
 Write a leadership transition announcement.
 
 Prompt:
+
 "You are a corporate communications consultant. Draft an email announcing a leadership change. Thank and recognise the contributions of the outgoing leader. Introduce the new leader with their background and achievements. Share the vision for the future under their leadership. Provide details on upcoming meet-and-greet sessions. Tone: Respectful, welcoming, and forward-looking." Inputs Required: Names of outgoing and incoming leaders Effective date of transition Key achievements of both Next engagement opportunity
 
 Announcing Organisational Restructuring
 
 Backstory:
+
 A Mumbai-based FMCG company is realigning its business units to focus more on e-commerce and digital sales. The restructuring affects reporting lines but does not involve layoffs. Employees need to understand the new org chart and why this shift will benefit the business.
 
 Goal:
+
 Create an org restructuring communication.
 
 Prompt:
+
 "You are an organisational change communication strategist. Draft a company-wide message about a restructuring. Explain the strategic reasons for the change. Share the updated reporting structure and departments. Highlight how this benefits the company and employees. Provide a visual org chart link. Tone: Clear, transparent, and confident." Inputs Required: Restructuring rationale New structure outline Effective date Org chart link
 
 Communicating Compliance Policy Changes
 
 Backstory:
+
 A Chennai-based pharmaceutical company is updating its compliance policies to meet new government regulations. The policies affect documentation, reporting, and audit timelines. Employees need clear guidance on what’s changing and how to comply.
 
 Goal:
+
 Draft a compliance update announcement.
 
 Prompt:
+
 "You are a compliance communication expert. Draft an internal email about updates to compliance policies. State the regulatory reason for the changes. Outline the specific changes and their impact. Provide step-by-step instructions for compliance. Share resources and contacts for queries. Tone: Clear, formal, and supportive." Inputs Required: Regulatory source Specific changes Compliance deadline Support contact
 
 Announcing a Change in Benefits Package
 
 Backstory:
+
 An Ahmedabad-based IT company is enhancing its employee benefits to include mental health support, expanded parental leave, and a wellness stipend. HR wants to position this as a positive step towards employee well-being.
 
 Goal:
+
 Create an engaging benefits update announcement.
 
 Prompt:
+
 "You are an HR communication advisor. Draft a message announcing changes to the employee benefits package. Highlight the new benefits being added. Explain how these align with employee needs and feedback. Provide details on how to access the benefits. Include FAQs or a link for more information. Tone: Positive, appreciative, and motivating." Inputs Required: List of new benefits Eligibility criteria Activation steps Benefits FAQ link
 
 Communicating Changes in Travel Policy
 
 Backstory:
+
 A Pune-based consulting firm is updating its travel policy to include stricter expense caps and more sustainable travel options. The change is aimed at cost control and reducing the carbon footprint.
 
 Goal:
+
 Write a travel policy update.
 
 Prompt:
+
 "You are a corporate travel policy communication specialist. Draft an internal memo announcing travel policy changes. Share the reasons for the update (cost, sustainability). List the new expense caps and approved travel modes. Explain the approval process. Provide a link to the full policy. Tone: Professional, concise, and informative." Inputs Required: Expense caps Approved travel modes Approval process steps Policy link
 
 Announcing Shift to Remote/Hybrid Work Model
 
 Backstory:
+
 A Bengaluru-based SaaS startup is moving from fully remote work to a hybrid model requiring two days a week in-office. Leadership wants to communicate the business reasoning, schedule flexibility, and in-office benefits.
 
 Goal:
+
 Draft a hybrid work transition announcement.
 
 Prompt:
+
 "You are a workplace change communication consultant. Draft an email about moving to a hybrid work model. Explain the business need for this change. Detail the expected in-office days and flexibility options. Highlight benefits of in-office collaboration. Share next steps for scheduling. Tone: Balanced, empathetic, and clear." Inputs Required: Hybrid work start date In-office days requirement Flexibility rules
 
 Communicating Change in Client Onboarding Process
 
 Backstory:
+
 A Gurgaon-based SaaS company is streamlining its client onboarding by automating contract signing and training schedules. Sales and customer success teams need to know the new process in detail to avoid delays.
 
 Goal:
+
 Create a process change announcement.
 
 Prompt:
+
 "You are a process change communication expert. Draft an internal note about a new client onboarding workflow. Explain why the change is being made (efficiency, automation). Outline the new steps in detail. Share benefits for clients and teams. Provide training resources. Tone: Process-focused, informative, and supportive." Inputs Required: New workflow steps Automation tools used Training resources link
 
 Announcing Policy on AI Use in the Workplace
 
 Backstory:
+
 A tech consulting firm in Noida is introducing guidelines for safe and ethical use of AI tools in daily work. This includes rules on data privacy, bias checks, and acceptable use cases.
 
 Goal:
+
 Write an AI policy introduction.
 
 Prompt:
+
 "You are a policy communication strategist. Draft an internal communication introducing AI usage guidelines. Explain why the guidelines are being introduced. Outline key do’s and don’ts. Provide examples of approved use cases. Share training and compliance monitoring plans. Tone: Educational, forward-thinking, and clear." Inputs Required: Key policy points Examples of good use Examples of misuse Training resources
 
 Communicating Emergency Preparedness Plan Update
 
 Backstory:
+
 A Delhi-based corporate headquarters is updating its emergency preparedness plan after recent extreme weather events. This includes evacuation protocols, work-from-home arrangements during emergencies, and contact trees.
 
 Goal:
+
 Draft an emergency preparedness communication.
 
 Prompt:
+
 "You are a corporate safety communications officer. Draft a company-wide message updating employees on emergency preparedness. Explain the reason for the update. Outline evacuation and remote work protocols. Share important emergency contacts. Provide a link to the full safety manual. Tone: Reassuring, safety-focused, and precise." Inputs Required: Emergency protocols Contact list Safety manual link
 
 
@@ -987,351 +1062,451 @@ Industry Trend Reports
 Annual Tech Industry Trends Report for India (2025 Edition)
 
 Backstory:
+
 A Bengaluru-based corporate strategy team wants to prepare an annual industry trends report focused on India’s technology sector for 2025. This report will be presented to the board and also shared with key investors. The audience expects deep market insights on emerging technologies like AI, blockchain, quantum computing, and cloud adoption, along with sector-specific growth forecasts. The team also wants to include policy changes, major mergers/acquisitions, and funding trends.
 
 Goal:
+
 Produce a comprehensive, data-driven annual trends report on the Indian tech sector for 2025.
 
 Prompt:
+
 "You are a senior industry analyst. Create a 20-page trends report for the Indian technology industry (2025). Cover macroeconomic factors influencing the sector. Analyse emerging technologies (AI, blockchain, quantum, IoT). Identify key funding and M&A activities. Include policy/regulatory changes impacting growth. Add market forecasts for the next 3 years.
 
 Output format:
+
 Executive summary, sector analysis, data visualisations, and strategic recommendations." Inputs Required: Target audience (board, investors, or public) Data sources available Preferred visualisation style Report length
 
 Quarterly FMCG Consumer Trends Analysis
 
 Backstory:
+
 A Mumbai-based FMCG conglomerate wants a Q2 trends report capturing shifting consumer preferences in packaged foods, beverages, and personal care products in urban and semi-urban India. The company is particularly interested in post-pandemic spending patterns, health-conscious purchases, and the rise of D2C brands. The goal is to inform product innovation and marketing strategies.
 
 Goal:
+
 Generate a quarterly FMCG trends report with actionable insights.
 
 Prompt:
+
 "You are a consumer insights specialist. Compile a Q2 FMCG trends report for India. Identify top-selling product categories and growth drivers. Analyse consumer sentiment and brand switching behaviour. Track D2C brand penetration and marketing tactics. Highlight regional differences in consumption trends.
 
 Output format:
+
 Slide deck with charts, case studies, and recommendations for product teams." Inputs Required: Sales data access Competitor benchmarks Regions to focus on Presentation format preference
 
 Renewable Energy Investment Trends in India
 
 Backstory:
+
 A New Delhi-based clean energy consultancy wants to publish a mid-year investment trends report on solar, wind, and green hydrogen projects in India. The report will be used to attract foreign investors by showing growth potential, policy support, and technology cost reductions.
 
 Goal:
+
 Create an investor-friendly renewable energy trend report.
 
 Prompt:
+
 "You are a renewable energy market analyst. Prepare a mid-year investment trends report for India’s clean energy sector. Include installed capacity growth by segment (solar, wind, hydrogen). Analyse investment flows and major project announcements. Summarise government incentives and policy updates. Compare India’s performance with global benchmarks.
 
 Output format:
+
 PDF with infographics, investment tables, and a summary for investors." Inputs Required: Time period to cover Target investor markets Level of technical detail required
 
 Indian E-commerce Industry Trends (Festive Season Insights)
 
 Backstory:
+
 An e-commerce analytics company in Gurugram is preparing a report for sellers and brands ahead of India’s festive season sales. They want to analyse product category performance, payment method preferences, and consumer demographics from last year’s festive season to forecast trends for the coming one.
 
 Goal:
+
 Deliver a pre-festive season e-commerce trend forecast.
 
 Prompt:
+
 "You are an e-commerce trend analyst. Create a festive season forecast report for the Indian online retail sector. Identify top product categories likely to grow. Analyse payment trends (UPI, BNPL, COD). Map customer demographics and spending patterns. Predict sales volume growth based on historical data.
 
 Output format:
+
 Dashboard-style report with charts, heatmaps, and SKU-level recommendations." Inputs Required: Previous year’s festive sales data Number of product categories to track Target audience (sellers, brands, investors)
 
 Healthcare Industry Emerging Technologies Report
 
 Backstory:
+
 A Pune-based healthcare innovation firm is preparing a trends report on AI diagnostics, telemedicine, wearables, and personalised medicine in India. The report will be distributed at a healthcare innovation conference to position the company as a thought leader.
 
 Goal:
+
 Produce a technology adoption trend report for the healthcare sector.
 
 Prompt:
+
 "You are a healthcare technology research analyst. Prepare a trends report on emerging technologies in Indian healthcare. Analyse adoption rates of telemedicine, AI diagnostics, and wearables. Highlight key startups, funding activity, and strategic partnerships. Cover policy changes (e.g., telemedicine guidelines, data privacy laws). Predict adoption trajectory over the next 5 years.
 
 Output format:
+
 PDF with graphs, technology adoption timelines, and startup spotlight features." Inputs Required: Conference audience profile Data access (public or proprietary) Technologies to prioritise
 
 Indian Real Estate Market Quarterly Update
 
 Backstory:
+
 A Chennai-based property advisory firm wants to publish a quarterly real estate trends report for residential, commercial, and industrial segments in Tier 1 and Tier 2 cities. The report will be used by property developers, institutional investors, and banks to make lending and investment decisions. They want to highlight price changes, demand hotspots, and policy changes like RERA amendments.
 
 Goal:
+
 Produce a quarterly Indian real estate trends and forecast report.
 
 Prompt:
+
 "You are a real estate market analyst. Create a quarterly trends report for the Indian real estate sector covering Tier 1 and Tier 2 cities. Track residential, commercial, and industrial property price changes. Identify demand hotspots using transaction volume data. Summarise policy and regulatory changes impacting the market. Forecast the next quarter’s performance.
 
 Output format:
+
 20-slide deck with city-level data tables, heatmaps, and a strategic recommendation section for developers and investors." Inputs Required: Cities to include in the analysis Time period for comparison Data source preference (government, private, or both)
 
 Fintech Adoption Trends in India
 
 Backstory:
+
 A Delhi-based fintech accelerator wants to prepare a trends report on mobile banking, UPI growth, digital lending, and insurtech adoption in India. They aim to use the report to attract global partners and investors by showcasing market scalability and consumer readiness.
 
 Goal:
+
 Create a fintech adoption trends report highlighting growth opportunities.
 
 Prompt:
+
 "You are a fintech industry researcher. Prepare a trends report on India’s digital finance ecosystem. Analyse UPI transaction growth and user adoption rates. Map the rise of digital lending platforms. Identify key insurtech innovations and adoption challenges. Include funding trends and top 10 fintech deals of the year.
 
 Output format:
+
 PDF with data charts, trend timelines, and investor-friendly opportunity mapping." Inputs Required: Target investor regions (Asia, EU, US) Data cut-off period Sub-segments to focus on (banking, lending, insurance)
 
 Indian Tourism & Hospitality Trends Post-2025
 
 Backstory:
+
 A Goa-based tourism board is creating a trends report to reposition the state as a high-value destination post-2025. They want to analyse domestic and inbound tourism recovery, wellness tourism trends, and hospitality innovations like AI-driven booking and personalised travel itineraries.
 
 Goal:
+
 Deliver a tourism and hospitality recovery trends report with strategic positioning advice.
 
 Prompt:
+
 "You are a tourism market analyst. Prepare a trends report for India’s tourism and hospitality industry post-2025. Analyse domestic and international tourist traffic patterns. Identify growth in niche segments like wellness tourism, eco-tourism, and adventure travel. Review tech adoption in hospitality services. Recommend positioning strategies for state tourism boards.
 
 Output format:
+
 15-page report with case studies, traffic statistics, and experience innovation recommendations." Inputs Required: Target audience (policy makers, operators, investors) Regions to focus on Available tourism data sources
 
 Indian Education Technology (EdTech) Growth Report
 
 Backstory:
+
 A Bengaluru-based EdTech VC firm wants to produce a trends report on online learning, hybrid education models, and skill-based certification adoption. This report will help guide investment decisions for 2026–2028.
 
 Goal:
+
 Prepare a comprehensive EdTech trends report for investment planning.
 
 Prompt:
+
 "You are an education industry researcher. Create a trends report on India’s EdTech market. Analyse K-12, higher education, and upskilling segments. Track adoption of AI-based adaptive learning tools. Highlight top-funded startups and exits. Include user demographics and retention trends.
 
 Output format:
+
 Excel dashboard + PDF with visualisations and strategic recommendations for investors." Inputs Required: Focus segments (K-12, higher ed, upskilling) Time horizon for forecast Geographical scope
 
 India’s Electric Vehicle Industry Trends
 
 Backstory:
+
 A Pune-based EV manufacturing startup wants a trends report to pitch to Series B investors. The focus will be on EV adoption rates, charging infrastructure expansion, battery technology improvements, and government subsidies.
 
 Goal:
+
 Produce an EV sector trends report to strengthen investor pitches.
 
 Prompt:
+
 "You are an EV market analyst. Create a trends report for India’s electric vehicle industry. Track adoption rates for two-wheelers, cars, and commercial EVs. Map charging infrastructure growth. Summarise battery innovation progress and cost trends. Highlight policy incentives and global partnerships.
 
 Output format:
+
 Investor-ready slide deck with charts, adoption maps, and strategic projections." Inputs Required: Investor type (VC, PE, corporate) EV segments to focus on Data coverage period
 
 Indian Renewable Energy Market Outlook
 
 Backstory:
+
 A Hyderabad-based renewable energy consultancy is preparing an industry trends report to present at a national clean energy summit. They want to focus on the solar, wind, and biomass sectors in India, analysing capacity additions, project pipelines, and tariff changes. The report will also compare India’s progress with global renewable adoption trends to attract foreign partnerships.
 
 Goal:
+
 Deliver a renewable energy market outlook with actionable investment insights.
 
 Prompt:
+
 "You are a renewable energy market researcher. Create a trends report for India’s renewable energy sector. Analyse solar, wind, and biomass installed capacity growth over the last 5 years. Highlight policy updates, tariff changes, and financing opportunities. Compare India’s renewable progress with global benchmarks. Identify top-performing states for investment.
 
 Output format:
+
 20-slide presentation with state-level maps, charts, and investment recommendations." Inputs Required: Specific energy segments to focus on Target audience (investors, policymakers, developers) Time horizon for forecast
 
 Indian Pharma & Biotech Trends Report
 
 Backstory:
+
 A Mumbai-based pharmaceutical research firm wants a trends report on India’s pharma and biotech innovation landscape. This will include vaccine research pipelines, generics market competitiveness, biotech startups, and government R&D funding initiatives. The goal is to position the firm as a thought leader in the global health industry.
 
 Goal:
+
 Prepare a pharma & biotech trends report with innovation and funding insights.
 
 Prompt:
+
 "You are a healthcare market analyst. Develop a trends report for India’s pharma and biotech sectors. Track R&D investment trends and government incentives. Map upcoming vaccine and biotech product pipelines. Highlight India’s export competitiveness in generics. Identify top biotech startups and funding patterns.
 
 Output format:
+
 PDF with infographics, trend timelines, and policy analysis." Inputs Required: Therapeutic areas to prioritise Data sources (public health, industry associations) Time period for analysis
 
 India’s AI & Machine Learning Industry Trends
 
 Backstory:
+
 A Bengaluru AI startup incubator wants to publish an industry trends report on AI adoption across sectors like BFSI, healthcare, manufacturing, and retail. They aim to position India as a competitive AI hub and attract corporate partnerships.
 
 Goal:
+
 Create an AI industry trends report showing adoption patterns and growth areas.
 
 Prompt:
+
 "You are an AI industry researcher. Prepare a trends report on India’s AI & ML adoption. Analyse sector-wise adoption levels and investment trends. Identify talent availability and upskilling initiatives. Map major AI research hubs and corporate AI projects. Forecast adoption growth for the next 5 years.
 
 Output format:
+
 PDF + Tableau dashboard with adoption heatmaps and opportunity zones." Inputs Required: Sectors to focus on Data availability level (primary, secondary) Time frame for forecast
 
 Indian Agriculture & AgriTech Trends
 
 Backstory:
+
 An agri-business venture fund wants to create a trends report covering digital farming adoption, precision agriculture tools, supply chain digitisation, and crop yield optimisation technologies. They will use this to decide investment priorities for the coming year.
 
 Goal:
+
 Deliver an agriculture and AgriTech trends report for investor decision-making.
 
 Prompt:
+
 "You are an AgriTech industry analyst. Prepare a trends report for India’s agriculture sector. Analyse adoption of farm mechanisation and IoT in agriculture. Track investment in AgriTech startups. Highlight government subsidy schemes and digital platforms adoption. Provide a 3-year yield improvement projection.
 
 Output format:
+
 Excel dashboard + PDF with farmer-level case studies and policy insights." Inputs Required: Crop types to focus on Region-specific data needs Policy schemes of interest
 
 India’s Start-up Ecosystem Funding Trends
 
 Backstory:
+
 A Delhi-based venture debt fund wants to prepare a report on India’s startup funding landscape, segmented by stage (seed, Series A, growth) and sector (fintech, healthtech, SaaS, consumer). This will guide their portfolio expansion strategy.
 
 Goal:
+
 Produce a startup funding trends report segmented by stage and sector.
 
 Prompt:
+
 "You are a startup ecosystem researcher. Create a funding trends report for India. Break down funding volume and deal count by stage. Identify top sectors by capital inflow. Highlight major exits and IPO activity. Provide insights into emerging investment hotspots.
 
 Output format:
+
 Interactive dashboard + executive summary PDF." Inputs Required: Funding stages to include Time frame for analysis Sectors of primary interest
 
 Indian E-commerce Trends Report
 
 Backstory:
+
 An e-commerce SaaS platform wants to publish a trends report on online retail growth in India, focusing on consumer spending patterns, regional adoption differences, and category-wise performance (fashion, electronics, groceries).
 
 Goal:
+
 Develop an e-commerce trends report highlighting growth opportunities.
 
 Prompt:
+
 "You are an e-commerce market analyst. Create a trends report for India’s online retail sector. Analyse transaction growth by category. Highlight mobile commerce vs desktop usage trends. Identify emerging Tier 2/3 markets. Forecast GMV growth over the next 3 years.
 
 Output format:
+
 PDF with market maps, purchase funnel charts, and strategic recommendations." Inputs Required: Product categories to prioritise Data cut-off date Target audience (retailers, investors)
 
 Indian Electric Vehicle (EV) Industry Trends
 
 Backstory:
+
 A Pune-based automotive parts manufacturer is considering entering the EV components market. Before making the investment, they want a trends report covering India’s EV adoption rates, charging infrastructure growth, government incentives, and major OEM strategies. They also need insights into consumer preferences and projected market share shifts between two-wheelers, three-wheelers, and four-wheelers.
 
 Goal:
+
 Provide an EV market trends report that informs product line expansion decisions.
 
 Prompt:
+
 "You are an automotive industry analyst. Create an EV industry trends report for India. Track EV sales growth by vehicle type over the last 5 years. Map charging infrastructure expansion by state. Analyse FAME II and other government incentives’ impact. Compare OEM strategies for EV penetration. Provide a 5-year adoption forecast with risks and opportunities.
 
 Output format:
+
 25-slide PPT + Excel forecast model." Inputs Required: Vehicle types to focus on States/regions of interest Time horizon for forecast
 
 India’s Digital Payments & Fintech Trends
 
 Backstory:
+
 A Noida-based fintech startup wants to attract Series A funding by showcasing their deep understanding of India’s digital payments ecosystem. They need a trends report that analyses UPI transaction volumes, wallet adoption, BNPL (Buy Now Pay Later) growth, and regulatory changes affecting payment aggregators.
 
 Goal:
+
 Deliver a digital payments trends report highlighting innovation and growth hotspots.
 
 Prompt:
+
 "You are a fintech industry researcher. Prepare a trends report for India’s digital payments sector. Analyse UPI, wallets, and BNPL transaction trends. Highlight regulatory updates impacting payment systems. Identify major payment tech innovations and market disruptors. Provide competitive positioning of top fintech players.
 
 Output format:
+
 PDF + data visualisation dashboard." Inputs Required: Specific payment modes to focus on Target investor profile Time frame for historical data
 
 Indian Hospitality & Tourism Trends Report
 
 Backstory:
+
 A Goa-based resort chain is planning expansion into wellness tourism. They need an industry trends report covering post-pandemic travel recovery, domestic vs international tourist flows, preferred destinations, and spending habits. They also want insights into government tourism promotion schemes.
 
 Goal:
+
 Produce a hospitality trends report that guides expansion strategy into wellness tourism.
 
 Prompt:
+
 "You are a tourism industry analyst. Create a trends report for India’s hospitality and tourism sector. Analyse domestic vs inbound tourist growth rates. Identify top emerging destinations. Map trends in wellness and eco-tourism demand. Review government policies supporting tourism growth.
 
 Output format:
+
 PDF + infographic on traveller demographics." Inputs Required: Tourism segments of focus Data cut-off year Specific states to analyse
 
 India’s Real Estate & Housing Trends
 
 Backstory:
+
 A Gurugram-based real estate investment trust (REIT) wants to forecast demand shifts in residential, commercial, and co-living spaces. They need a trends report that includes urbanisation rates, rental yield trends, regulatory changes (RERA updates), and infrastructure project impacts.
 
 Goal:
+
 Provide a real estate trends report with actionable investment signals.
 
 Prompt:
+
 "You are a real estate market researcher. Prepare a trends report for India’s property sector. Analyse residential, commercial, and co-living space demand. Track infrastructure projects influencing property values. Review RERA and other regulatory impacts. Provide a 3-year rental yield projection by city tier.
 
 Output format:
+
 Excel model + investor summary PDF." Inputs Required: Property segment focus Target cities/tiers Investment time frame
 
 Indian EdTech Industry Trends
 
 Backstory:
+
 A Bengaluru-based EdTech startup is preparing for global expansion. They want a trends report covering online learning adoption, government digital education initiatives, funding trends in EdTech, and competitive benchmarking of top players in India.
 
 Goal:
+
 Create an EdTech industry trends report highlighting market opportunities.
 
 Prompt:
+
 "You are an EdTech industry analyst. Develop a trends report for India’s online education market. Analyse K-12, higher education, and skilling market segments. Track funding volumes and M&A activity in EdTech. Benchmark top EdTech players by revenue, users, and offerings. Forecast sector growth over 3 years.
 
 Output format:
+
 PDF + comparison charts + opportunity heatmap." Inputs Required: Education segment focus Data sources preference Time horizon for forecast
 
 Indian Healthcare & MedTech Trends
 
 Backstory:
+
 A Chennai-based MedTech device manufacturer wants to explore new product lines. They need a trends report covering diagnostic device adoption, telemedicine usage growth, health insurance penetration, and government healthcare spending trends.
 
 Goal:
+
 Provide a healthcare trends report guiding new product innovation.
 
 Prompt:
+
 "You are a healthcare market researcher. Create a trends report for India’s MedTech and healthcare sector. Analyse adoption trends for diagnostic devices and telemedicine. Review insurance penetration rates by state. Map government healthcare spending patterns. Forecast demand for MedTech products over 5 years.
 
 Output format:
+
 PDF + dashboard with state-level demand forecast." Inputs Required: Device categories to focus on Target customer segments Time frame for analysis
 
 Indian Logistics & Supply Chain Trends
 
 Backstory:
+
 A Kolkata-based logistics tech startup is building a pitch deck for investors. They want a trends report covering e-commerce-driven logistics demand, cold chain growth, port capacity utilisation, and last-mile delivery innovations.
 
 Goal:
+
 Deliver a logistics and supply chain trends report for investor engagement.
 
 Prompt:
+
 "You are a logistics industry analyst. Prepare a trends report for India’s logistics and supply chain sector. Analyse growth in e-commerce-driven logistics. Track cold chain infrastructure expansion. Map port utilisation and capacity enhancements. Highlight last-mile delivery technology adoption.
 
 Output format:
+
 15-page PDF + interactive logistics map." Inputs Required: Logistics segment to prioritise Region or state focus Time frame for forecast
 
 India’s Media & Entertainment Trends
 
 Backstory:
+
 A Mumbai-based OTT platform wants a trends report on the Indian media & entertainment sector, focusing on OTT subscriber growth, regional language content consumption, advertising revenue shifts, and competition from global streaming services.
 
 Goal:
+
 Produce a media & entertainment trends report highlighting growth strategies.
 
 Prompt:
+
 "You are a media industry researcher. Create a trends report for India’s media & entertainment sector. Analyse OTT subscriber growth by platform. Track regional language content consumption trends. Review advertising spend shifts from TV to digital. Provide competitive landscape analysis with global vs local OTT services.
 
 Output format:
+
 PDF with charts + consumer behaviour infographics." Inputs Required: Media segment to focus on Target audience type (investors, advertisers) Data cut-off date
 
 India’s FMCG Market Trends
 
 Backstory:
+
 A Delhi-based FMCG conglomerate is considering diversifying into organic packaged foods. They want a trends report on FMCG growth patterns, rural vs urban consumption differences, D2C brand growth, and consumer wellness product preferences.
 
 Goal:
+
 Deliver an FMCG trends report to guide diversification strategy.
 
 Prompt:
+
 "You are an FMCG market analyst. Develop a trends report for India’s fast-moving consumer goods sector. Analyse growth in rural vs urban markets. Identify fastest-growing FMCG categories. Map D2C brand penetration and success stories. Forecast growth in organic and wellness product segments.
 
 Output format:
+
 PDF + dashboard + consumer persona profiles." Inputs Required: FMCG sub-category to prioritise Target geographies Forecast period
 
 
