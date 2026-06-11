@@ -154,3 +154,19 @@ Analyze this data and give me business insights.
 Direct, data-driven, no fluff
 </tone>
 ```
+## 4 Advanced: Nested XML Tags
+### For complex prompts you can nest tags inside each other:
+```
+<task>
+<primary>Write course descriptions for HuzefAI</primary>
+<secondary>Optimize them for Google search</secondary>
+<constraint>Under 150 words each</constraint>
+</task>
+
+<courses>
+<course1>AWS Fundamentals</course1>
+<course2>DevOps Bootcamp</course2>
+<course3>Generative AI</course3>
+</courses>
+```
+This gives Claude incredibly precise instructions for complex multi-part tasks.
