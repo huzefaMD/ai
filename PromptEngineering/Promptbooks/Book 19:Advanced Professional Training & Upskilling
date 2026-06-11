@@ -1095,3 +1095,182 @@ Develop a 4-week executive brand-building program to help leaders increase visib
 Prompt:
 "You are an executive branding consultant. Create a 4-week curriculum for senior leaders on building personal and corporate brand influence, covering: executive presence, media training, keynote speaking skills, thought leadership content creation, and social media strategy for executives. Include mock interviews, public speaking drills, and content calendar planning exercises." Inputs Required from User: Industry and audience profile Current brand visibility level Platforms where influence is desired Speaking and writing comfort level
 
+Mergers & Acquisitions Leadership Program (7 Weeks)
+
+Backstory:
+A conglomerate headquartered in Gurugram is actively acquiring smaller companies to diversify its portfolio. The leadership team needs to sharpen its M&A skills to handle due diligence, integration planning, and post-merger cultural alignment. The CEO wants them trained not just in financial evaluation but also in people and process integration.
+
+Goal:
+Create a 7-week executive course that equips leaders to lead M&A deals from inception to integration.
+
+Prompt:
+"You are an M&A strategy consultant. Design a 7-week curriculum for senior executives covering: M&A strategy formulation, due diligence checklists, deal structuring and valuation, negotiation techniques, integration planning, cultural alignment strategies, and post-merger performance tracking. Include real-world M&A case studies, financial modeling exercises, and mock negotiation simulations." Inputs Required from User: Industry sectors for M&A Size and complexity of target acquisitions Leadership experience in deal-making Available M&A advisory support
+
+ESG & Sustainable Business Leadership (6 Weeks)
+
+Backstory:
+A top FMCG company in India is under investor pressure to improve its ESG (Environmental, Social, Governance) ratings. Senior executives need to align business operations with sustainability goals without compromising profitability.
+
+Goal:
+Develop a 6-week executive training program on embedding ESG into core business strategies.
+
+Prompt:
+"You are a sustainability strategist. Create a 6-week executive course covering: ESG frameworks and reporting standards, sustainability-driven innovation, supply chain decarbonization, diversity & inclusion leadership, circular economy models, and investor communication on ESG metrics. Include case studies from global leaders, ESG impact measurement tools, and sustainability roadmap creation exercises." Inputs Required from User: Current ESG ratings and initiatives Industry-specific environmental impact Corporate social responsibility budget Investor expectations and compliance needs
+
+High-Impact Negotiation Skills for Executives (5 Weeks)
+
+Backstory:
+A senior VP at a multinational real estate firm in Mumbai regularly negotiates multi-crore property deals with both domestic and international clients. They want to upgrade their negotiation skills to close deals faster and with better margins.
+
+Goal:
+Create a 5-week advanced negotiation skills program tailored for executives.
+
+Prompt:
+"You are a high-stakes negotiation coach. Design a 5-week curriculum for executives covering: advanced persuasion techniques, BATNA/WATNA analysis, cross-cultural negotiation, handling deadlocks, and using emotional intelligence in negotiations. Include role-play simulations, contract review exercises, and post-negotiation debriefs." Inputs Required from User: Nature of deals (value, frequency, type) Common negotiation challenges Cultural contexts of negotiation partners Existing negotiation frameworks in use
+
+Advanced Data-Driven Leadership Program (8 Weeks)
+
+Backstory:
+A fast-growing edtech startup in Bengaluru wants its top leadership to make decisions backed by analytics rather than gut instinct. They need training in interpreting dashboards, asking the right data questions, and using analytics for long-term strategic planning.
+
+Goal:
+Develop an 8-week executive program to integrate data-driven decision-making into leadership.
+
+Prompt:
+"You are a data analytics leadership trainer. Create an 8-week curriculum for executives covering: key analytics concepts, interpreting KPIs, predictive modeling for strategy, data storytelling, and integrating analytics into board-level decisions. Include hands-on work with dashboards, real business case data analysis, and decision-scenario simulations." Inputs Required from User: Data sources currently in use Leadership familiarity with analytics tools Key business metrics tracked Industry-specific data challenges
+
+Advanced Risk Management & Compliance Leadership (6 Weeks)
+
+Backstory:
+A large Indian bank’s senior leadership team must oversee regulatory compliance across multiple jurisdictions while mitigating operational, financial, and cyber risks. The Chief Risk Officer wants a structured program to enhance strategic risk oversight skills.
+
+Goal:
+Design a 6-week executive course that strengthens risk management capabilities in leadership.
+
+Prompt:
+"You are a corporate risk strategist. Create a 6-week executive curriculum covering: enterprise risk management frameworks, regulatory compliance oversight, cyber risk mitigation, stress testing, crisis escalation procedures, and board reporting for risk. Include real-world failure case studies, compliance audit walkthroughs, and scenario-based risk assessment exercises." Inputs Required from User: Regulatory frameworks applicable Types of risks most relevant Current risk governance structure History of compliance issues
+
+Global Expansion Strategy for Executives (6 Weeks)
+
+Backstory:
+An Indian D2C fashion brand has dominated the domestic market and now plans to enter Southeast Asian and Middle Eastern markets. Senior leadership needs to understand international market entry models, cross-border compliance, and cultural marketing nuances to avoid costly mistakes.
+
+Goal:
+Create a 6-week executive program that equips leaders to manage global expansion effectively.
+
+Prompt:
+"You are an international business strategist. Develop a 6-week executive curriculum covering: market selection frameworks, entry mode strategies (JV, franchising, wholly-owned subsidiaries), international legal compliance, supply chain adaptation, cross-cultural marketing, and global team integration. Include country-specific risk analysis, competitor mapping exercises, and go-to-market simulations." Inputs Required from User: Target countries for expansion Budget allocation for global expansion Existing international partnerships Product localization requirements
+
+Strategic Innovation & Product Leadership Program (7 Weeks)
+
+Backstory:
+A leading electronics manufacturer in Pune faces aggressive competition from global brands. The CEO wants executives to adopt a culture of innovation and launch market-winning products faster while managing R&D budgets efficiently.
+
+Goal:
+Develop a 7-week executive course on driving innovation and product leadership.
+
+Prompt:
+"You are a product innovation consultant. Create a 7-week curriculum covering: innovation frameworks (Design Thinking, Lean Startup), product lifecycle management, cross-functional innovation teams, rapid prototyping, market validation techniques, and scaling innovative products. Include hands-on innovation workshops, competitor product tear-downs, and new product pitch simulations." Inputs Required from User: Industry/product category focus R&D team structure and capabilities Existing innovation processes Product launch timelines
+
+Advanced Leadership for Crisis Management (5 Weeks)
+
+Backstory:
+A top logistics firm in Delhi has faced multiple crises — from political disruptions to cyberattacks. The leadership team needs training to handle emergencies swiftly while maintaining operational continuity and stakeholder trust.
+
+Goal:
+Design a 5-week course to strengthen leadership crisis management skills.
+
+Prompt:
+"You are a corporate crisis management expert. Build a 5-week executive course covering: crisis identification and escalation, media handling during crises, business continuity planning, stakeholder communication, and post-crisis recovery strategies. Include real-world crisis case studies, mock crisis drills, and cross-department coordination exercises." Inputs Required from User: Types of crises most likely in their industry Existing crisis management plan Key internal and external stakeholders Past crisis handling experiences
+
+Ethical Leadership & Corporate Integrity Program (6 Weeks)
+
+Backstory:
+A multinational IT services firm in Hyderabad has recently faced allegations of unethical vendor practices. The CEO wants the leadership to strengthen corporate integrity, ethical decision-making, and transparency to protect the brand’s reputation.
+
+Goal:
+Develop a 6-week executive program to embed ethics into leadership decision-making.
+
+Prompt:
+"You are an ethics and governance coach. Create a 6-week curriculum covering: ethical decision-making frameworks, whistleblower policy implementation, managing conflicts of interest, vendor ethics audits, and transparent stakeholder reporting. Include case studies of ethical failures, role-play decision dilemmas, and ethics scorecard design." Inputs Required from User: Corporate code of conduct Industry-specific ethical risks Leadership exposure to ethics training Past integrity challenges faced
+
+Public Speaking & Thought Leadership for Executives (5 Weeks)
+
+Backstory:
+A CEO of a mid-sized renewable energy company in Chennai is being invited to high-profile conferences but struggles to deliver compelling speeches that position the company as an industry leader.
+
+Goal:
+Create a 5-week course to transform executives into confident public speakers and thought leaders.
+
+Prompt:
+"You are a public speaking and branding coach. Develop a 5-week executive program covering: crafting impactful keynote speeches, storytelling for influence, stage presence mastery, handling Q&A confidently, and leveraging media interviews. Include video feedback sessions, speechwriting workshops, and mock conference presentations." Inputs Required from User: Speaking engagements scheduled Target audience types Core topics the executive wants to be known for Current public speaking experience level
+
+Digital Transformation Leadership Program (8 Weeks)
+
+Backstory:
+A 30-year-old manufacturing conglomerate in India is undergoing a massive digital transformation, introducing IoT-enabled production lines, AI-powered supply chain forecasting, and a new ERP system. The top management needs to be trained to lead this transformation without disrupting day-to-day operations.
+
+Goal:
+Create an 8-week executive course to equip leaders with the skills and mindset to successfully lead digital transformation initiatives.
+
+Prompt:
+"You are a digital transformation strategist. Design an 8-week program covering: assessing digital maturity, identifying technology priorities, aligning transformation with business goals, managing cross-department adoption, cybersecurity risk considerations, and measuring ROI from digital investments. Include case studies from Indian and global companies, interactive tech demos, and transformation readiness assessments." Inputs Required from User: Industry type and size Current digital tools in use Transformation budget and timeline Key business challenges expected during adoption
+
+Advanced Negotiation Skills for Global Business Leaders (6 Weeks)
+
+Backstory:
+An export-import business in Mumbai is expanding trade partnerships in Africa and Europe. Executives need to master negotiation techniques that work across cultures, legal systems, and economic conditions.
+
+Goal:
+Create a 6-week program focused on high-stakes negotiation in international contexts.
+
+Prompt:
+"You are a cross-cultural negotiation coach. Develop a 6-week curriculum covering: international negotiation frameworks, cultural sensitivity in deal-making, contract structuring, handling stalemates, leveraging BATNA (Best Alternative to a Negotiated Agreement), and post-deal relationship management. Include mock negotiation role plays, cross-cultural case studies, and contract review simulations." Inputs Required from User: Target countries for negotiation Industry-specific negotiation challenges Typical deal sizes and timelines Past negotiation success/failure examples
+
+Executive Program in Mergers & Acquisitions Strategy (7 Weeks)
+
+Backstory:
+A large tech services company in Bengaluru plans to acquire two smaller AI startups. Senior leaders need to understand the full M&A lifecycle, from deal sourcing to post-merger integration, while avoiding cultural and operational clashes.
+
+Goal:
+Develop a 7-week executive course on M&A strategy, execution, and integration.
+
+Prompt:
+"You are an M&A strategist. Build a 7-week curriculum covering: deal sourcing methods, valuation techniques, due diligence checklists, regulatory compliance in India and abroad, cultural integration planning, and post-acquisition synergy tracking. Include real M&A case breakdowns, valuation simulations, and integration planning workshops." Inputs Required from User: Industry focus for acquisitions Target company profiles Available budget for acquisitions Integration success metrics
+
+Executive Sustainability & ESG Strategy Program (6 Weeks)
+
+Backstory:
+A retail conglomerate in India is facing pressure from investors and customers to improve sustainability practices and report on ESG (Environmental, Social, and Governance) performance. Senior leadership requires structured training to build ESG strategies that align with business growth.
+
+Goal:
+Create a 6-week course on building and implementing ESG strategies at an executive level.
+
+Prompt:
+"You are a sustainability and ESG advisor. Design a 6-week program covering: ESG frameworks (GRI, SASB), carbon footprint reduction planning, ethical sourcing policies, diversity & inclusion leadership, sustainability-linked financing, and ESG reporting standards in India. Include industry-specific ESG case studies, sustainability action plan workshops, and impact measurement exercises." Inputs Required from User: Industry and scale of operations Current sustainability initiatives ESG reporting obligations Key ESG risks in the supply chain
+
+High-Impact Decision-Making for CXOs (5 Weeks)
+
+Backstory:
+A fast-growing fintech startup in Gurugram is experiencing rapid market shifts due to regulatory changes and AI-driven disruption. The leadership team needs to improve their decision-making process to be faster, data-backed, and less risky.
+
+Goal:
+Develop a 5-week executive program on high-impact decision-making for senior leaders.
+
+Prompt:
+"You are a decision-making and business strategy expert. Create a 5-week curriculum covering: decision-making models (RAPID, OODA loop, weighted scoring), data-driven decision frameworks, scenario planning, risk assessment techniques, and decision post-mortems for continuous learning. Include real-time decision simulations, cross-functional problem-solving sessions, and bias-awareness workshops." Inputs Required from User: Industry-specific decision-making challenges Types of decisions most frequently made by CXOs Data availability and analytics capability Risk tolerance level in the organization
+
+
+Workshop Content Templates
+
+Design Thinking Workshop for Product Innovation (1-Day Format)
+
+Backstory:
+A consumer electronics company in Bengaluru is facing intense competition from global brands. The product team needs a crash-course, hands-on workshop in Design Thinking to generate innovative ideas for their next product line. The company wants the workshop to be engaging, with practical exercises rather than long lectures, so participants leave with real concepts they can refine further.
+
+Goal:
+Create a 1-day workshop plan that introduces Design Thinking fundamentals and applies them to a live product challenge.
+
+Prompt:
+"You are a Design Thinking facilitator. Draft a 1-day workshop content template including: session objectives, icebreaker activities, Design Thinking framework introduction (Empathize, Define, Ideate, Prototype, Test), group brainstorming activities, rapid prototyping sessions, and feedback presentations. Include instructions for facilitators, timing for each activity, required materials, and tips for encouraging creative participation." Inputs Required from User: Target product or problem statement Number of participants and their roles Available workshop space and equipment Desired outcome (concept sketches, prototypes, etc.)
+
