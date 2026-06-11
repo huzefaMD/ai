@@ -141,3 +141,42 @@ specific to my situation"
 10. "Avoid starting consecutive sentences
 with the same word"
 ```
+## Negative + Positive = Perfect Prompt
+The master technique is combining positive AND negative instructions:
+```
+<role>
+You are HuzefAI's content writer with deep
+knowledge of Cloud and DevOps.
+</role>
+
+<task>
+Write a LinkedIn post announcing our new
+Generative AI course launching Monday.
+</task>
+
+<do>
+- Start with a scroll-stopping hook
+- Tell a mini story or share a surprising fact
+- Write like a real person, not a brand
+- End with an engaging question
+- Use 1-2 relevant emojis naturally
+</do>
+
+<dont>
+- Start with "Excited to announce"
+- Use bullet points
+
+<dont>
+- Start with "Excited to announce"
+- Use bullet points
+- Sound like an advertisement
+- Use corporate buzzwords
+- Add more than 2 hashtags
+- Exceed 200 words
+</dont>
+
+<tone>
+Authentic founder voice - passionate about
+teaching, genuinely excited, not salesy
+</tone>
+```
