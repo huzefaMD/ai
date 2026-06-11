@@ -129,18 +129,20 @@ my career trajectory completely!"
 ### Mistake 1: Inconsistent Examples
 
 Example 1: `Formal corporate tone`
+
 Example 2: `Super casual slang`
+
 Example 3: `Technical jargon heavy`
 
 Claude gets confused - pick ONE consistent style.
 
 ### Mistake 2: Too Few Examples
 
-Example 1: (only one example)
-Now do 10 more like this.
+Example 1: `(only one example)
+Now do 10 more like this.`
 
 One example rarely captures enough pattern. Use 2-3 minimum.
 
 ### Mistake 3: Examples That Don't Match Your Task
-Showing examples of blog posts when you wa***ocial media captions. Match examples to
-the actual task.
+`Showing examples of blog posts when you wa***ocial media captions. Match examples to
+the actual task.`
