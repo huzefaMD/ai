@@ -88,7 +88,8 @@ Since you run a Cloud, DevOps & AI training startup in Chennai, here are roles y
 | Handle student doubts | "You are a patient DevOps instructor who loves teaching beginners" |
 | Plan business growth | "You are a startup mentor who specializes in EdTech in Southeast Asia" |
 ```
-"You are a experienced startup mentor who has helped 50+ early-stage startups scale for Online Training.
+"You are a experienced startup mentor who has helped 50+ early-stage
+startups scale for Online Training.
 I run a company called HuzefAI where i can train on Cloud, DevOps and AI Courses.
 Help me how to increase number of students and revenue. Be professional.
 ```
