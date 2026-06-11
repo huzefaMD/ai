@@ -157,3 +157,17 @@ give vague results.
 | Tweet/X post | Under 280 characters |
 | Landing page headline | 5-10 words |
 | Call to action | 3-7 words |
+
+## Length Reference Guide
+
+| Content Type | Ideal Length |
+|-------------|-------------|
+| WhatsApp message | 50-80 words |
+| LinkedIn post | 150-300 words |
+| Instagram caption | 50-150 words |
+| Email | 100-200 words |
+| Blog post intro | 100-150 words |
+| Course description | 75-125 words |
+| Tweet/X post | Under 280 characters |
+| Landing page headline | 5-10 words |
+| Call to action | 3-7 words |
