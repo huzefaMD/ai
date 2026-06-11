@@ -1461,3 +1461,80 @@ Prepare a 2-day workshop that equips participants with digital marketing skills.
 Prompt:
 "You are a digital marketing strategist. Create a 2-day workshop content plan covering: SEO basics, social media strategy, Google Ads fundamentals, content marketing, and basic analytics. Include live campaign setup demos, keyword research exercises, and competitor analysis activities." Inputs Required from User: Business niche and target audience Marketing budget Current online presence status Preferred social media platforms
 
+Emotional Intelligence (EI) in the Workplace Workshop (1-Day Format)
+
+Backstory:
+A healthcare startup in Gurugram has been facing conflicts among employees due to stress and poor emotional regulation. Management wants to build stronger EI skills to improve collaboration and workplace harmony.
+
+Goal:
+Create a 1-day workshop that develops emotional awareness, empathy, and self-regulation.
+
+Prompt:
+"You are an emotional intelligence coach. Develop a 1-day workshop content template covering: self-awareness, self-regulation, empathy, active listening, and conflict resolution. Include EI self-assessment tools, group roleplays, and guided mindfulness sessions." Inputs Required from User: Common workplace stress triggers Employee demographics and roles Previous EI or soft skills training history Organizational culture type
+
+Cybersecurity Awareness for Non-Tech Staff Workshop (Half-Day Format)
+
+Backstory:
+A law firm in Delhi has experienced multiple phishing attempts and password leaks. Most employees have little understanding of cybersecurity risks. The IT head wants a short workshop to educate them.
+
+Goal:
+Create a half-day cybersecurity awareness workshop for non-technical employees.
+
+Prompt:
+"You are a cybersecurity awareness trainer. Prepare a half-day workshop content plan covering: common cyber threats (phishing, ransomware, social engineering), password hygiene, secure use of public Wi-Fi, and safe data sharing practices. Include real phishing email identification exercises and password strength-building activities." Inputs Required from User: Types of data handled by staff Commonly used devices and platforms Past security incidents Company IT policies
+
+Conflict Resolution & Negotiation Skills Workshop (1-Day Format)
+
+Backstory:
+A real estate company in Mumbai often faces disputes during client negotiations and between internal departments. Management wants employees to learn structured conflict resolution and negotiation techniques.
+
+Goal:
+Create a 1-day workshop that equips employees with effective negotiation skills.
+
+Prompt:
+"You are a workplace negotiation expert. Draft a 1-day workshop content template covering: identifying conflict triggers, negotiation frameworks (BATNA, ZOPA), active listening, and win-win solutions. Include mock negotiation exercises, roleplay case studies, and feedback analysis sessions." Inputs Required from User: Nature of conflicts (internal, client, vendor) Typical deal values and stakes Participant roles and responsibilities Existing negotiation practices
+
+Agile Project Management Workshop (2-Day Format)
+
+Backstory:
+A fintech startup in Hyderabad wants to shift from traditional project management to Agile to improve delivery speed. Most employees have limited exposure to Agile practices.
+
+Goal:
+Design a 2-day Agile fundamentals workshop.
+
+Prompt:
+"You are an Agile coach. Create a 2-day workshop content plan covering: Agile principles, Scrum framework, roles & responsibilities, sprint planning, daily standups, and retrospectives. Include team-based sprint simulations, backlog grooming exercises, and real-world Agile case studies." Inputs Required from User: Current project management approach Team size and composition Software tools available Client delivery timelines
+
+Sales Mastery for B2B Teams Workshop (3-Day Format)
+
+Backstory:
+An industrial equipment manufacturer in Chennai wants to train its sales team to improve B2B deal closures. The company has great products but loses deals due to poor consultative selling skills.
+
+Goal:
+Develop a 3-day B2B sales mastery workshop.
+
+Prompt:
+"You are a B2B sales trainer. Prepare a 3-day workshop content template covering: prospecting strategies, needs assessment, solution presentation, objection handling, and closing techniques. Include real client case roleplays, sales pitch refinement sessions, and CRM usage exercises." Inputs Required from User: Industry and product details Typical sales cycle length Competitor landscape Average deal size
+
+Creative Problem-Solving Skills Workshop (1-Day Format)
+
+Backstory:
+A consumer goods company in Kolkata wants its teams to think outside the box to solve production and marketing challenges.
+
+Goal:
+Design a 1-day creative problem-solving workshop.
+
+Prompt:
+"You are a corporate creativity facilitator. Create a 1-day workshop plan covering: divergent thinking exercises, lateral thinking tools, idea evaluation frameworks, and creative brainstorming techniques. Include gamified challenges, idea prototyping, and cross-functional collaboration exercises." Inputs Required from User: Type of problems commonly faced Team structure Innovation budget Past creative initiatives
+
+Workplace Wellness & Stress Management Workshop (Half-Day Format)
+
+Backstory:
+A large call center in Gurugram is facing high employee burnout and turnover rates. The HR team wants to introduce a stress management workshop.
+
+Goal:
+Create a half-day workshop that teaches employees to manage stress and maintain mental well-being.
+
+Prompt:
+"You are a corporate wellness coach. Prepare a half-day workshop plan covering: identifying stress triggers, quick relaxation techniques, work-life balance strategies, and building mental resilience. Include guided breathing exercises, journaling prompts, and interactive stress-busting games." Inputs Required from User: Main stress factors in the workplace Average work hours and shifts Employee age group and health profile Available wellness facilities
+
