@@ -65,3 +65,24 @@ Good headline style: "Launch Your Cloud Career in 6 Weeks"
 </example>
 ```
 Claude now knows exactly what each part me*** Output will be precise every time.
+
+## Most Useful XML Tags for You
+
+| Tag | What It's For |
+|------|--------------|
+| `<context>` | Background info, who you are |
+| `<task>` | What you want Claude to do |
+| `<format>` | How to structure the output |
+| `<tone>` | Style and voice |
+| `<example>` | Sample of good output |
+| `<rules>` | Constraints and limitations |
+| `<data>` | Raw data for analysis |
+| `<question>` | The specific question to answer |
+| `<goal>` | The end objective |
+| `<audience>` | Who the output is for |
+| `<steps>` | Step-by-step instructions |
+| `<output>` | Expected final output |
+| `<constraints>` | Additional restrictions |
+| `<references>` | Supporting resources or links |
+| `<persona>` | Role the AI should act as |
+| `<success_criteria>` | What defines a successful answer |
