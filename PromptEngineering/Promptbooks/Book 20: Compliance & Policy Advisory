@@ -1123,4 +1123,268 @@ Create a professional yet simple freelance service agreement that safeguards Roh
 Prompt:
 "You are an experienced contract lawyer specialising in creative service agreements for freelancers in India. Draft a comprehensive yet easy-to-read freelance service agreement between a freelance graphic designer and a startup. Include sections for: scope of work, deliverables with timelines, payment terms (including late fees), intellectual property transfer, confidentiality, revision policy, termination rights, and dispute resolution under Indian law. Use clear, plain English and avoid overly complex legal jargon." Inputs Required from User: Freelancer name & address Client name & address Scope of work description Total project fee & payment milestones Maximum number of revisions Preferred dispute resolution method (e.g., arbitration, court)
 
+Influencer Collaboration Contract for a Brand Campaign
+
+Backstory:
+Priya, 25, is a lifestyle influencer based in Mumbai with 120k Instagram followers. A skincare brand has approached her to promote their new product line over a 3-month campaign involving reels, stories, and one live session. Priya has worked without contracts before but faced payment delays and vague deliverable expectations. This time, she wants a written agreement detailing content deliverables, posting schedule, compensation, usage rights, exclusivity terms, and disclosure requirements as per ASCI guidelines in India.
+
+Goal:
+Draft a detailed influencer-brand collaboration contract that outlines deliverables, payment schedule, brand approval process, and compliance with Indian advertising laws.
+
+Prompt:
+"You are a legal expert specialising in influencer marketing agreements in India. Create a professional collaboration contract between a brand and an influencer for a 3-month campaign. Include clauses for: scope of work (content deliverables and posting schedule), approval process, payment terms, intellectual property & usage rights, exclusivity during the campaign, ASCI and disclosure compliance, termination rights, and dispute resolution. Ensure the language is legally sound yet easy for both parties to understand." Inputs Required from User: Influencer name & address Brand name & address Campaign start & end dates Number & type of deliverables (reels, stories, live sessions) Payment amount & schedule Exclusivity period (if any)
+
+Co-Founders Agreement for an Indian Private Limited Company
+
+Backstory:
+Amit, 31, and Neha, 29, are co-founders starting a health-tech startup in Delhi. They have verbally agreed on roles, equity split, and decision-making responsibilities, but a mentor advised them to formalise these in writing to avoid disputes. They need a co-founders agreement that outlines equity ownership, capital contributions, decision-making authority, vesting schedules, exit clauses, and handling of intellectual property.
+
+Goal:
+Prepare a legally binding co-founders agreement that clearly defines roles, responsibilities, and ownership, while protecting the business from future disputes.
+
+Prompt:
+"You are a corporate lawyer specialising in startup founder agreements in India. Draft a co-founders agreement for an Indian Private Limited Company that includes: roles & responsibilities, equity distribution, capital contribution terms, vesting schedules, decision-making process, non-compete and confidentiality clauses, intellectual property ownership, founder exit procedures, and dispute resolution under Indian law. Ensure clarity while maintaining legal enforceability." Inputs Required from User: Names & addresses of co-founders Proposed equity split Capital contributions (cash or assets) Vesting period (if any) Decision-making rules (e.g., unanimous or majority)
+
+Vendor Agreement for an E-commerce Business
+
+Backstory:
+Shreya runs an online home décor marketplace and partners with multiple small vendors to sell handmade products. She wants a standardised vendor agreement to ensure quality, timely delivery, payment security, and compliance with return/refund policies. Her past experiences with verbal agreements have led to disputes over damaged goods and delayed shipping.
+
+Goal:
+Create a vendor agreement template that clearly defines terms for supply, payment, quality checks, returns, and liability.
+
+Prompt:
+"You are a commercial contracts lawyer in India. Draft a vendor agreement for an e-commerce business that covers: product supply terms, quality standards, packaging requirements, delivery timelines, payment terms, return/refund policy, liability for damaged goods, intellectual property rights for product images, and dispute resolution. Use clear, concise, and enforceable clauses suitable for recurring use with multiple vendors." Inputs Required from User: Vendor name & address Product categories supplied Payment schedule & method Delivery timeframes Return/refund policy details
+
+Employment Contract for a Tech Startup
+
+Backstory:
+Vikram, 30, is the founder of a SaaS startup in Pune hiring his first full-time developer. Since he’s operating on seed funding, he wants to offer a combination of fixed salary and ESOPs. He needs an employment contract that covers job role, salary structure, ESOP vesting, confidentiality, non-compete, and termination terms — all while being compliant with Indian labour laws.
+
+Goal:
+Draft an employment contract that is legally compliant, protects intellectual property, and includes clear ESOP terms.
+
+Prompt:
+"You are an HR and employment law expert in India. Create a detailed employment contract for a tech startup hiring a software developer. Include clauses for: position & responsibilities, working hours, salary breakdown, ESOP grant & vesting schedule, confidentiality, non-compete, intellectual property assignment, termination process, and compliance with Indian labour regulations. Keep the language professional and precise." Inputs Required from User: Employer name & address Employee name & address Job title & description Salary details & ESOP percentage Working hours & location Termination notice period
+
+Non-Disclosure Agreement (NDA) for Startup Investor Meetings
+
+Backstory:
+Karan, 33, is the founder of a fintech startup preparing to pitch to multiple investors. He plans to share sensitive details such as proprietary algorithms, client acquisition strategies, and unreleased product features. He’s concerned about these investors potentially using the information to invest in competitors or start similar ventures. He needs an NDA that protects his confidential information while remaining investor-friendly to avoid scaring them off.
+
+Goal:
+Create a balanced NDA that protects proprietary information without being overly restrictive for potential investors.
+
+Prompt:
+"You are a legal specialist in early-stage startup fundraising. Draft a mutual NDA between a startup founder and potential investors that covers: definition of confidential information, obligations of confidentiality, permitted disclosures, duration of confidentiality, exceptions to obligations, and remedies for breach. Ensure it is investor-friendly, concise, and compliant with Indian contract law while providing adequate protection to the founder’s sensitive business data." Inputs Required from User: Founder name & address Investor name & address Duration of confidentiality obligation Governing law & jurisdiction
+
+Joint Venture Agreement for Manufacturing Partnership
+
+Backstory:
+An Indian furniture company wants to partner with a Singapore-based design firm to produce a premium furniture line for the Asian market. Both parties will invest equally, share profits, and manage operations jointly. Past experiences in the industry show that without a clear JV agreement, disputes over profit-sharing, IP rights, and exit clauses can derail operations.
+
+Goal:
+Draft a comprehensive joint venture agreement that sets clear terms for capital contribution, profit-sharing, management, and dispute resolution.
+
+Prompt:
+"You are a corporate contracts lawyer experienced in international partnerships. Draft a Joint Venture Agreement between an Indian manufacturing company and a Singapore-based design firm that includes: formation details, capital contribution, profit/loss sharing ratio, management structure, intellectual property ownership, confidentiality, dispute resolution (cross-border), exit clauses, and governing law. Ensure clarity and legal enforceability for both jurisdictions." Inputs Required from User: Names & addresses of both parties Capital contribution amounts Profit/loss sharing ratio Management roles & decision-making process Governing law preference
+
+Franchise Agreement for a Café Brand
+
+Backstory:
+An established café brand in Delhi is offering its first franchise to an entrepreneur in Jaipur. The franchisor wants to ensure brand consistency in operations, quality, and marketing while the franchisee wants clarity on support, territory rights, and termination clauses.
+
+Goal:
+Prepare a detailed franchise agreement that balances brand protection and franchisee rights.
+
+Prompt:
+"You are a commercial lawyer specialising in franchise agreements. Draft a franchise agreement for a café business in India that includes: franchise grant & territory rights, initial & ongoing fees, operational guidelines, quality standards, training & support obligations, marketing requirements, intellectual property use, audit rights, termination & post-termination obligations, and dispute resolution. Use a tone that is professional yet clear for entrepreneurs new to franchising." Inputs Required from User: Franchisee name & address Territory/location rights Initial franchise fee & royalty percentage Support & training details Termination notice period
+
+Partnership Deed for a Small Business
+
+Backstory:
+Two cousins are starting a bakery in Lucknow and plan to split profits 60-40. They’ve agreed verbally on capital contributions and responsibilities but want a written partnership deed to avoid misunderstandings later.
+
+Goal:
+Draft a legally valid partnership deed under Indian law with clear clauses on profit-sharing, responsibilities, and dissolution.
+
+Prompt:
+"You are an expert in Indian partnership laws. Draft a partnership deed for a small bakery business that includes: firm name & address, partner details, capital contributions, profit/loss sharing ratio, roles & responsibilities, decision-making process, withdrawal of capital, admission of new partners, dissolution procedure, and dispute resolution. Ensure the language is clear and accessible for non-lawyers while maintaining legal enforceability." Inputs Required from User: Partner names & addresses Capital contributions Profit/loss split Decision-making rules Dispute resolution method
+
+Service Level Agreement (SLA) for IT Services
+
+Backstory:
+A mid-sized Indian company is outsourcing its IT support to a vendor for network management, cybersecurity monitoring, and helpdesk services. The company previously suffered downtime and slow issue resolution due to vague contracts.
+
+Goal:
+Create a clear SLA that defines performance standards, response times, and penalties for non-compliance.
+
+Prompt:
+"You are a technology contracts specialist. Draft a Service Level Agreement between a company and an IT service provider that includes: scope of services, performance metrics, uptime guarantees, response & resolution times, reporting obligations, penalties for breach, confidentiality, data security requirements, and termination clauses. Make it specific enough to hold the vendor accountable while remaining fair and enforceable." Inputs Required from User: Client name & address Vendor name & address Scope of IT services Uptime targets Penalty amounts for non-compliance
+
+Licensing Agreement for Software Distribution
+
+Backstory:
+A SaaS startup in Bengaluru has developed a project management tool and wants to license it to corporate clients while retaining full ownership of the source code. The founder wants a licensing agreement that outlines usage rights, restrictions, support terms, and renewal clauses.
+
+Goal:
+Draft a licensing agreement that protects IP while allowing flexible usage.
+
+Prompt:
+"You are an intellectual property lawyer in India. Draft a licensing agreement for a SaaS product that includes: scope of license (per-user or company-wide), usage restrictions, payment & renewal terms, software updates & support obligations, confidentiality, intellectual property rights retention, warranty disclaimers, termination terms, and dispute resolution. Ensure clauses are clear and enforceable under Indian law." Inputs Required from User: Licensee name & address Scope of license (e.g., users, locations) License fee & payment terms Support & update frequency
+
+Supply Agreement for Retail Products
+
+Backstory:
+A Mumbai-based organic skincare brand sources raw ingredients from a supplier in Kerala. To prevent supply chain disruptions, they want a supply agreement specifying delivery schedules, quality standards, and pricing terms.
+
+Goal:
+Create a binding supply agreement that ensures consistency and timely delivery.
+
+Prompt:
+"You are a commercial contracts expert. Draft a supply agreement for retail products that includes: product specifications, quality control standards, packaging requirements, delivery timelines, pricing & payment terms, inspection rights, remedies for defective goods, force majeure, and termination clauses. Make the terms clear to prevent disputes and maintain long-term relationships." Inputs Required from User: Supplier name & address Product types & specifications Delivery frequency & timelines Payment terms
+
+Consultancy Agreement for Business Advisors
+
+Backstory:
+A real estate development firm is hiring a consultant to advise on market entry strategies for Tier-2 cities in India. The firm wants to define deliverables, fees, and confidentiality obligations clearly.
+
+Goal:
+Draft a consultancy agreement that clearly defines scope, payment, and liability.
+
+Prompt:
+"You are a legal advisor specialising in consultancy contracts. Draft a consultancy agreement between a business and an independent consultant that includes: scope of work, deliverables & timelines, consultancy fees & payment terms, confidentiality obligations, intellectual property ownership, indemnity clauses, termination rights, and dispute resolution. Keep it professional yet clear for both parties." Inputs Required from User: Consultant name & address Scope of work details Payment terms Duration of engagement
+
+Memorandum of Understanding (MoU) for Collaboration
+
+Backstory:
+Two NGOs want to collaborate on a rural education initiative without forming a formal legal entity yet. They need an MoU outlining roles, responsibilities, funding commitments, and a non-binding statement of intent.
+
+Goal:
+Prepare an MoU that clearly defines collaboration terms while keeping it non-binding.
+
+Prompt:
+"You are an NGO legal advisor. Draft a non-binding Memorandum of Understanding for collaboration between two NGOs that includes: purpose of collaboration, roles & responsibilities, funding or resource commitments, timelines, reporting requirements, confidentiality, dispute resolution, and termination rights. Keep it formal yet flexible for potential adjustments." Inputs Required from User: Names & addresses of NGOs Purpose & scope of collaboration Funding/resource commitments Timeline
+
+Lease Agreement for Commercial Property
+
+Backstory:
+A startup in Hyderabad is leasing office space for three years. They need a lease agreement that covers rent, maintenance, usage restrictions, and renewal options.
+
+Goal:
+Create a legally sound lease agreement for commercial property.
+
+Prompt:
+"You are a real estate contracts specialist in India. Draft a commercial lease agreement that includes: premises details, lease term, rent amount & payment schedule, security deposit, permitted use, maintenance responsibilities, renewal options, termination clauses, and dispute resolution. Ensure compliance with local property laws." Inputs Required from User: Lessor & lessee details Property address Lease term & rent amount Security deposit amount Renewal terms
+
+Co-Founder Agreement for a Bootstrapped Startup
+
+Backstory:
+Two college friends are starting a health tech company. One is contributing capital, while the other is contributing technical expertise. They want a contract that clearly defines equity split, responsibilities, vesting schedules, decision-making powers, and exit clauses to avoid future disputes.
+
+Goal:
+Draft a co-founder agreement that protects both parties and outlines operational clarity.
+
+Prompt:
+"You are a startup legal consultant. Create a detailed co-founder agreement for a health tech startup in India, covering: equity ownership, capital contributions, vesting schedule, founder responsibilities, decision-making process, IP ownership, non-compete clauses, conflict resolution mechanisms, and exit provisions. Format it in legal contract style with clearly numbered clauses." Inputs Required from User: Founder names and roles Equity split percentage Capital & non-cash contributions Jurisdiction of registration
+
+Freelance Service Agreement for International Clients
+
+Backstory:
+A graphic designer in Mumbai regularly works with clients from the USA and UK. She wants a standard service agreement that ensures timely payment in foreign currency, ownership rights transfer upon payment, and clauses to handle disputes under international law.
+
+Goal:
+Draft a freelancer-client agreement suitable for cross-border work.
+
+Prompt:
+"You are a legal advisor for creative freelancers. Draft a freelance service agreement for an Indian graphic designer working with international clients, covering: scope of work, project timelines, payment currency & method, IP transfer on payment, confidentiality, termination conditions, dispute resolution (international arbitration), and applicable governing law." Inputs Required from User: Client country Payment method (PayPal, bank transfer) Type of design work Average project duration
+
+Software Development Contract for SaaS Platforms
+
+Backstory:
+A SaaS company is outsourcing backend development to an external agency. The founders want a contract that specifies milestones, payment schedules, bug-fixing responsibilities, and ownership of code.
+
+Goal:
+Draft a legally binding software development contract.
+
+Prompt:
+"You are a technology contracts specialist. Draft a software development contract for a SaaS company hiring an external agency, covering: detailed project scope, milestone-based payment structure, delivery timelines, quality assurance requirements, bug-fix warranty periods, IP ownership, confidentiality, and termination clauses." Inputs Required from User: Project scope description Development timeline Payment milestones Jurisdiction for disputes
+
+Non-Compete & Non-Solicitation Agreement
+
+Backstory:
+A senior sales executive is leaving a company, and the employer wants to ensure they don’t join a direct competitor or poach clients for at least one year post-exit.
+
+Goal:
+Draft a non-compete & non-solicitation agreement enforceable under Indian law.
+
+Prompt:
+"You are an employment law specialist. Create a non-compete and non-solicitation agreement for a sales executive leaving a company in India, including: definition of ‘competitor,’ duration of restriction, geographical limitations, client protection clauses, confidentiality terms, and remedies in case of breach." Inputs Required from User: Employee role & seniority Industry sector Restriction duration Restricted territories
+
+Joint Venture Agreement for Real Estate Development
+
+Backstory:
+A landowner and a construction firm are partnering to build a commercial complex. The landowner will contribute the plot, and the construction firm will handle development and sales.
+
+Goal:
+Draft a joint venture agreement that clearly defines contributions, revenue share, and dispute handling.
+
+Prompt:
+"You are a real estate legal consultant. Draft a joint venture agreement between a landowner and a construction firm for developing a commercial property, covering: ownership structure, capital & land contributions, revenue-sharing model, development timeline, marketing responsibilities, dispute resolution, and exit strategies." Inputs Required from User: Parties involved Land location & valuation Revenue share ratio Development timeline
+
+White-Label Partnership Agreement
+
+Backstory:
+A wellness app based in Bengaluru wants to license its platform to a health coach in Delhi who will rebrand it under their own name. The founder wants a white-label agreement that protects IP, sets revenue-sharing terms, and prevents misuse of proprietary technology.
+
+Goal:
+Draft a white-label partnership agreement that clearly defines branding rights, limitations, and payment terms.
+
+Prompt:
+"You are a commercial contracts specialist. Draft a white-label partnership agreement for an Indian SaaS wellness platform, covering: scope of license, branding and rebranding rules, technical support responsibilities, revenue-sharing percentages, restrictions on code modification, confidentiality clauses, and termination procedures." Inputs Required from User: Platform name & description Partner’s brand name Revenue-sharing structure Duration of license
+
+Manufacturing & Supply Agreement
+
+Backstory:
+A small D2C skincare brand is outsourcing product manufacturing to a third-party factory in Himachal Pradesh. They need a supply agreement to ensure quality control, timely delivery, and compliance with cosmetic regulations.
+
+Goal:
+Draft a manufacturing & supply contract that safeguards product quality and timelines.
+
+Prompt:
+"You are a manufacturing contracts expert. Draft a manufacturing and supply agreement for a D2C skincare brand, covering: product specifications, raw material sourcing, quality control checks, delivery timelines, packaging requirements, regulatory compliance, payment terms, and liability for defective products." Inputs Required from User: Product types Delivery frequency Quality standards Payment schedule
+
+Confidentiality & Non-Disclosure Agreement for M&A Talks
+
+Backstory:
+A mid-sized tech company in Hyderabad is in acquisition discussions with a larger multinational. They want an NDA to protect sensitive financial data, trade secrets, and client lists during the due diligence process.
+
+Goal:
+Draft an NDA that ensures mutual confidentiality during M&A negotiations.
+
+Prompt:
+"You are a mergers & acquisitions legal advisor. Draft a mutual confidentiality and non-disclosure agreement for two companies engaged in acquisition talks, covering: definition of confidential information, permitted use, duration of confidentiality, return or destruction of data, and remedies for breach." Inputs Required from User: Parties’ names & jurisdictions Duration of confidentiality Scope of information shared Applicable law
+
+Influencer Collaboration Agreement
+
+Backstory:
+A fashion e-commerce platform is partnering with a social media influencer to promote a new ethnic wear collection. The agreement needs to specify content deliverables, posting schedules, usage rights, and FTC compliance guidelines.
+
+Goal:
+Draft an influencer collaboration agreement that protects both brand and influencer interests.
+
+Prompt:
+"You are a media & entertainment contracts expert. Draft an influencer collaboration agreement for a fashion e-commerce brand, covering: content deliverables (videos, posts, stories), posting timeline, payment terms, usage rights for brand marketing, disclosure requirements for sponsored content, exclusivity clauses, and termination terms." Inputs Required from User: Influencer handle & follower count Campaign duration Deliverable formats Payment structure
+
+Franchise Agreement for Quick-Service Restaurant Chain
+
+Backstory:
+A fast-growing quick-service restaurant brand from Mumbai is franchising its operations in Tier-2 cities. The franchise agreement must outline brand usage, operational guidelines, training support, and royalty structures.
+
+Goal:
+Draft a franchise agreement that ensures brand consistency and operational compliance.
+
+Prompt:
+"You are a franchise law specialist. Draft a franchise agreement for a quick-service restaurant chain in India, covering: territory rights, brand & logo usage, mandatory training programs, menu standardization, royalty and fee structures, audit rights, quality control measures, and renewal/termination procedures." Inputs Required from User: Franchise territory Royalty percentage Training program details Duration of agreement
+
 
