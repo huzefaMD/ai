@@ -25,3 +25,37 @@ Tone is the **personality and emotion** behind the words.
 | Humorous | Casual content | "Spoiler: it's not what you think " |
 | Urgent | Limited offers | "Seats closing in 48 hours..." |
 | Inspirational | Motivational content | "One year ago, he couldn't spell AWS..." |
+
+## Same Message, Different Tones
+
+The message: HuzefAI's new AI course is launching next week.
+
+### Professional:
+```
+"HuzefAI is pleased to announce the launch of our
+Generative AI program commencing next week.
+This comprehensive course has been designed for
+IT professionals seeking to advance their careers
+in artificial intelligence."
+```
+### Conversational:
+```
+"Hey! Big news - our AI course is finally dropping
+next week and honestly, we've been working on this
+for months. If you've been waiting to get into AI,
+this is your moment."
+```
+### Urgent:
+```
+"Last chance. Our AI course opens next week and
+we're capping it at 30 students.
+Once it's full, it's full.
+Are you in or out?"
+```
+### Inspirational:
+```
+"Six months from now, you could be the person
+your company calls when AI questions come up.
+It starts next week. It starts with you."
+```
+Same information. Completely different impact.
