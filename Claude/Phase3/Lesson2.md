@@ -178,3 +178,51 @@ Target: IT professionals and freshers.
 Current gap we see: [describe what you notice]
 </context>
 ```
+## PART 2: Competitive Analysis
+Understanding your competition is critical for HuzefAI. Claude makes this fast and
+structured.
+
+### The HuzefAI Competitor Analysis Template
+```
+<role>
+You are a business strategist specializing
+in EdTech market analysis in India.
+</role>
+
+<task>
+Analyze the competitive landscape for
+online Cloud, DevOps, and AI training
+in India. Focus on:
+
+1. MAJOR PLAYERS
+- Who are the top 5 competitors?
+- What do they offer?
+- How are they positioned?
+
+2. PRICING LANDSCAPE
+- What price ranges exist?
+
+2. PRICING LANDSCAPE
+- What price ranges exist?
+- Where are the gaps?
+- What does premium vs budget look like?
+
+3. CONTENT GAPS
+- What topics are overcrowded?
+- What's underserved?
+- What emerging topics nobody covers well?
+
+4. AUDIENCE GAPS
+- Who is everyone targeting?
+- Who is being ignored?
+
+5. HUZEFAI'S OPPORTUNITY
+- Where can we win?
+- What's our unfair advantage?
+- What position should we own?
+</task>
+
+<context>
+HuzefAI is Chennai-based, teaches Cloud/
+DevOps/AI, currently 50 students,
+```
