@@ -291,3 +291,35 @@ Save these 5 prompts - use them every single day:
 <format>Concept + analogy + example + exercise</format>
 <length>300-400 words</length>
 ```
+## Your Exercise, Huzefa!
+
+Here are 3 real tasks - do ALL 3 right now:
+
+### Task 1 - Write
+
+Use Claude to write a welcome email
+for new HuzefAI students joining
+their first course.
+
+Use the Quick Email Writer template above.
+
+### Task 2- Edit
+
+Take any message or post you've
+written recently for HuzefAI.
+
+Paste it into Claude with this prompt:
+"Edit this for clarity and impact.
+Make the opening stronger.
+Cut anything unnecessary."
+
+Share before and after here!
+
+### Task 3 -Summarize
+
+Find any long article about Cloud
+or AI trends online.
+
+Paste it into Claude and ask for
+a 5-bullet summary focused on
+what matters for HuzefAI.
