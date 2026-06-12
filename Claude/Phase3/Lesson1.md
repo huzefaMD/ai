@@ -1,4 +1,4 @@
-# _Phase 3 - Personal Productivity_
+# `Phase 3 - Personal Productivity`
 
 # Lesson 1
 
