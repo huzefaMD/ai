@@ -278,4 +278,282 @@ Prompt:
 
 Asset Transfer Documentation Guides
 
+Real Estate Transfer Documentation for Generational Handover
+
+Backstory:
+A third-generation textile family in Surat is transferring ownership of their commercial property — a textile market building — from the father to his two children. The family wants to avoid disputes later by creating clear legal documentation for ownership division, rental income rights, and usage restrictions while staying compliant with Gujarat property laws and stamp duty requirements.
+
+Goal:
+Create a detailed real estate asset transfer documentation checklist for smooth generational handover.
+
+Prompt:
+"You are a property law documentation expert. Draft a step-by-step real estate asset transfer documentation checklist for a family-owned textile business in Gujarat, including: title verification, stamp duty & registration compliance, co-ownership agreements, rental income apportionment clauses, dispute resolution terms, and mutation entry updates." Inputs Required from User: Location & type of property Current ownership structure Intended division of rights (income/usage/sale) Existing property encumbrances or disputes
+
+Agricultural Land Transfer Protocol Between Family Members
+
+Backstory:
+A farming family in Maharashtra is dividing 50 acres of agricultural land among three siblings after the patriarch’s retirement. They must comply with agricultural land transfer restrictions under state law and maintain farming eligibility while ensuring irrigation rights are clearly documented.
+
+Goal:
+Create an agricultural land transfer protocol that covers legal compliance and operational clarity.
+
+Prompt:
+"You are an agricultural property compliance specialist. Prepare a step-by-step agricultural land transfer protocol for a Maharashtra farming family, covering: eligibility verification for transferees, division maps & survey approvals, irrigation rights allocation, mutation & revenue record updates, crop-sharing agreements, and succession tax considerations." Inputs Required from User: State and district of land Type of crops grown Current irrigation sources Intended division (equal/weighted)
+
+Transfer of Company-Owned Assets to Next-Gen Directors
+
+Backstory:
+A Delhi-based logistics company owned by a family is transferring key assets — trucks, warehouses, and office equipment — from the current directors to their successors. They need documentation that ensures seamless business continuity and avoids GST or capital gains tax pitfalls.
+
+Goal:
+Develop a corporate asset transfer documentation framework.
+
+Prompt:
+"You are a corporate compliance and asset transfer consultant. Draft a corporate asset transfer documentation guide for a family-owned logistics firm, including: board resolutions for asset transfer, updated depreciation schedules, GST input credit adjustments, warehouse lease transfer agreements, and asset insurance policy changes." Inputs Required from User: Company structure (Pvt Ltd/LLP/Partnership) List of assets to be transferred Transfer timeline Taxation approach (gift/sale/lease)
+
+Intellectual Property (IP) Transfer Deed for Family Businesses
+
+Backstory:
+A family-run ayurvedic cosmetics brand in Kerala is passing trademarks, product formulas, and branding rights from the founder to her two daughters. They want watertight legal documentation to avoid future disputes over IP usage, licensing, and international expansion rights.
+
+Goal:
+Create a formal IP transfer deed template for family-owned brands.
+
+Prompt:
+"You are an intellectual property transfer specialist. Create an IP transfer deed template for a family-run ayurvedic brand, covering: trademark and copyright assignment clauses, licensing terms for third-party manufacturers, geographic usage rights, quality control obligations, and royalty-sharing agreements." Inputs Required from User: List of registered IP assets Intended ownership split Licensing requirements International trademark plans
+
+Jewellery & Movable Asset Transfer Records for Inheritance
+
+Backstory:
+A Marwari family in Kolkata wants to pass down ancestral gold jewellery, silverware, and antiques to the next generation. They want a clear inventory and transfer deed to avoid any ambiguity over ownership after the matriarch’s passing.
+
+Goal:
+Create a movable asset transfer record and deed format for family inheritances.
+
+Prompt:
+"You are an inheritance documentation advisor. Draft a movable asset transfer record template for jewellery and antiques, including: detailed asset inventory with photographs, valuation certificates, gift/inheritance deed language, insurance policy updates, and dispute prevention clauses." Inputs Required from User: Type & quantity of assets Intended recipients Valuation reports (if available) Any sentimental or symbolic transfer conditions
+
+Family Shareholding Transfer Agreement for Private Limited Companies
+
+Backstory:
+A Chennai-based private limited engineering firm is transferring 40% of its shares from the father (founder) to his daughter, who will also join as a director. They want a share transfer agreement that complies with the Companies Act, 2013, maintains pre-emptive rights for other shareholders, and includes non-compete clauses.
+
+Goal:
+Draft a legally compliant shareholding transfer agreement for family-owned companies.
+
+Prompt:
+"You are a corporate law specialist. Prepare a shareholding transfer agreement for an Indian private limited company, including: board resolution templates, share transfer form SH-4, valuation method clauses, rights of first refusal for other shareholders, non-compete agreements, and post-transfer directorship updates with the ROC." Inputs Required from User: Current shareholding pattern Number of shares to be transferred Transfer consideration (gift, sale, nominal) Intended role of transferee in company
+
+Asset Transfer Protocol for Family Trusts
+
+Backstory:
+A wealthy family in Mumbai has multiple assets — real estate, mutual funds, and art collections — under a family trust. They want to redistribute trust assets to specific beneficiaries while complying with trust deed terms and tax laws.
+
+Goal:
+Design a trust asset transfer protocol ensuring compliance and transparency.
+
+Prompt:
+"You are a trust law advisor. Draft an asset transfer protocol for a family trust, including: trustee resolution templates, beneficiary consent documentation, valuation requirements, tax reporting obligations, and trust deed amendment procedures." Inputs Required from User: Trust deed provisions List of assets under trust Beneficiary list with shares Jurisdiction of trust registration
+
+Transfer of Business Licenses in Family Handover
+
+Backstory:
+A family-owned restaurant chain in Goa is being handed over from the parents to their children. Apart from physical assets, the transfer must include all business licenses — FSSAI, GST registration, liquor permits — without operational downtime.
+
+Goal:
+Create a step-by-step guide for transferring business licenses in family successions.
+
+Prompt:
+"You are a business compliance consultant. Create a business license transfer checklist for an Indian restaurant chain, covering: ownership change notifications to licensing authorities, re-issuance procedures, mandatory display updates, and renewal synchronization post-transfer." Inputs Required from User: List of licenses held Number of outlets and jurisdictions Timeline for handover Existing license expiry dates
+
+Asset Transfer Audit Checklist for Family-Owned Enterprises
+
+Backstory:
+A Delhi-based manufacturing family is transferring plant machinery and vehicles to the next generation. The process needs an internal audit to ensure no assets are missed, valuations are accurate, and liabilities are identified.
+
+Goal:
+Develop an asset transfer audit checklist for internal use.
+
+Prompt:
+"You are an internal audit expert. Draft an asset transfer audit checklist for a family-owned manufacturing firm, covering: physical verification of assets, ledger reconciliation, depreciation recalculation, insurance coverage updates, and pending maintenance obligations." Inputs Required from User: Industry and asset types Asset register format Transfer timeline Any pre-existing asset encumbrances
+
+Inter-Generational Asset Gift Deeds for Tax Efficiency
+
+Backstory:
+A family in Ahmedabad is gifting commercial office space and fixed deposits to their children before the patriarch retires. They want to structure the gift deed to minimize capital gains and ensure stamp duty compliance.
+
+Goal:
+Prepare tax-efficient gift deed templates for asset transfers within a family.
+
+Prompt:
+"You are a tax and property documentation expert. Draft a gift deed template for inter-generational asset transfer, including: asset description, valuation records, donor and donee details, income tax exemption clauses, stamp duty calculation, and registration steps." Inputs Required from User: Asset types & locations Relationship between donor and donee Valuation method chosen Intended date of transfer
+
+Cross-Border Asset Transfer Compliance for NRI Beneficiaries
+
+Backstory:
+A Pune-based business family has two children settled abroad — one in the US and another in Singapore. The father wants to transfer both immovable property in India and overseas bank accounts to them. The family is concerned about FEMA (Foreign Exchange Management Act) compliance, RBI reporting, and double taxation issues.
+
+Goal:
+Create a cross-border asset transfer documentation guide for NRI beneficiaries.
+
+Prompt:
+"You are an international estate planning advisor. Prepare a step-by-step compliance guide for transferring assets to NRI beneficiaries, covering: FEMA regulations, RBI remittance reporting, DTAA (Double Tax Avoidance Agreement) implications, Power of Attorney execution abroad, and embassy attestation requirements." Inputs Required from User: Countries of beneficiary residence Type & value of assets being transferred Existing NRE/NRO account status of beneficiaries Transfer mode (sale, gift, inheritance)
+
+Digital Asset Transfer Protocol in Family Succession
+
+Backstory:
+A Bangalore-based entrepreneur is retiring and wishes to pass on his digital assets — domain names, cloud storage accounts, cryptocurrency holdings, and business software subscriptions — to his son. The family has no central record of access credentials, which could cause disputes.
+
+Goal:
+Develop a digital asset transfer documentation protocol for family handovers.
+
+Prompt:
+"You are a digital estate planning consultant. Create a transfer protocol for family-owned digital assets, covering: inventory creation, secure password vault setup, legal recognition of digital assets in wills, multi-factor authentication transfer, and renewal tracking for domains and subscriptions." Inputs Required from User: Types of digital assets held Current ownership & access details Security measures in place Intended legal mechanism (will, gift deed, transfer agreement)
+
+Agricultural Land Transfer Compliance Checklist
+
+Backstory:
+A family in Haryana is transferring ownership of agricultural land from the father to his two sons. Since agricultural land transfers in India are subject to state-specific laws and restrictions on non-agriculturists, compliance is critical to avoid litigation.
+
+Goal:
+Create a compliance checklist for agricultural land transfer within families.
+
+Prompt:
+"You are a property law expert. Draft a compliance checklist for agricultural land transfer within a family, covering: mutation application to revenue department, applicable stamp duty exemptions, patwari verification, partition deed registration, and updating land records (Khasra/Khatoni)." Inputs Required from User: State where land is located Landholding size & type of cultivation Relationship of transferor & transferee Any existing tenancy or lease agreements
+
+Family Business IP Rights Transfer Agreement
+
+Backstory:
+A third-generation textile business in Surat has registered trademarks, design patents, and proprietary weaving techniques. The founder wants to ensure these IP rights are formally transferred to the next generation as part of the succession plan.
+
+Goal:
+Develop an intellectual property transfer agreement for family businesses.
+
+Prompt:
+"You are an IP law consultant. Draft an intellectual property rights transfer agreement for a family business, covering: trademark assignment deeds, patent assignment procedures, confidentiality clauses, royalty-free licensing terms, and IP registry updates." Inputs Required from User: List of registered & unregistered IP assets Jurisdiction of IP registration Transfer method (assignment vs. license) Intended future use of IP
+
+Succession-linked Asset Valuation Report Template
+
+Backstory:
+A real estate-focused family office in Hyderabad is preparing to distribute assets worth ₹500 crores among four siblings. They want a transparent valuation report to prevent disputes and ensure fair division.
+
+Goal:
+Create a standard template for asset valuation reports in succession planning.
+
+Prompt:
+"You are a certified valuation professional. Prepare a valuation report template for family-owned assets, including: valuation methodology, market comparables, independent appraiser certification, asset condition photographs, and a summary table of allocated values per beneficiary." Inputs Required from User: Asset categories & locations Preferred valuation method (market, cost, income) Distribution ratio among heirs Date of valuation
+
+Asset Transfer Compliance for Partnership to Private Limited Conversion
+
+Backstory:
+A family-run logistics business in Indore, currently operating as a partnership firm, is converting into a private limited company. The change requires the transfer of trucks, warehouses, and customer contracts to the new entity, while maintaining legal continuity and avoiding stamp duty complications.
+
+Goal:
+Create a documentation checklist for asset transfer during entity conversion.
+
+Prompt:
+"You are a corporate restructuring consultant. Draft a step-by-step compliance and documentation checklist for transferring assets during conversion from partnership to private limited, covering: NOC from lenders, property transfer deeds, vehicle ownership updates at RTO, GST registration migration, and contract novation agreements." Inputs Required from User: Nature and number of assets Current debt/loan obligations Conversion method (direct registration or slump sale) Existing contractual obligations
+
+Gift Deed Template for High-Value Family Assets
+
+Backstory:
+A wealthy family in Kolkata is gifting a luxury penthouse to their daughter as part of her wedding arrangements. They want a legally sound gift deed to ensure tax compliance and prevent future disputes from other family members.
+
+Goal:
+Prepare a comprehensive gift deed template for high-value immovable assets.
+
+Prompt:
+"You are a property law expert. Draft a high-value asset gift deed template, covering: clear description of the asset, unconditional transfer clause, stamp duty applicability, acceptance clause by the donee, and mutation instructions post-transfer." Inputs Required from User: Property details and location Relationship between donor and donee Market value of asset State-specific stamp duty rates
+
+Succession-linked Bank & Investment Account Transfer Checklist
+
+Backstory:
+After the sudden demise of a patriarch in Ahmedabad, the family needs to transfer multiple bank accounts, fixed deposits, mutual funds, and demat holdings to the legal heirs. The family is unfamiliar with nominee processes and probate requirements.
+
+Goal:
+Develop a transfer checklist for financial assets after succession events.
+
+Prompt:
+"You are a financial compliance advisor. Prepare a checklist for transferring financial assets to heirs, covering: death certificate submission, bank nomination claim forms, mutual fund transmission requests, demat account transfer via DP, and probate court requirements where applicable." Inputs Required from User: Number and type of financial assets Nominee details in existing records Whether a will exists and is registered Jurisdiction of deceased’s residence
+
+Business Asset Sale Agreement Template for Family Firms
+
+Backstory:
+A second-generation family-run printing business in Jaipur is selling one of its three printing units to an unrelated buyer, while retaining the brand name and other facilities. They need a robust asset sale agreement to protect ongoing operations.
+
+Goal:
+Prepare an asset sale agreement template tailored for family businesses.
+
+Prompt:
+"You are a business law consultant. Draft an asset sale agreement for a family-owned unit, covering: detailed asset schedule, payment terms, non-compete clauses, transitional service agreements, and transfer of employees linked to the sold unit." Inputs Required from User: List of assets being sold Buyer’s profile and payment structure Duration of transitional support Any retained IP or brand usage terms
+
+Heritage Property Transfer with Conservation Obligations
+
+Backstory:
+A family in Udaipur owns a 200-year-old haveli recognized as a heritage property. They plan to transfer ownership to the next generation but must ensure preservation in compliance with state heritage laws.
+
+Goal:
+Create a transfer deed template incorporating conservation clauses.
+
+Prompt:
+"You are a heritage property legal advisor. Draft a property transfer deed template for heritage assets, including: state heritage registration reference, maintenance obligations, restrictions on alterations, and rights to apply for government conservation grants." Inputs Required from User: Property heritage classification Applicable state conservation laws Planned usage post-transfer Existing maintenance or restoration grants
+
+Will-based Asset Transfer Execution Plan
+
+Backstory:
+A retired businessman in Pune has left a registered will detailing the distribution of multiple properties, shares, and gold assets among his three children. The executor wants a clear execution plan that minimizes delays and ensures legal compliance under the Indian Succession Act.
+
+Goal:
+Develop a step-by-step execution plan for transferring assets via will.
+
+Prompt:
+"You are a succession planning consultant. Create a will execution plan covering: probate application process, asset-wise distribution list, transfer forms for properties and securities, tax clearance requirements, and timelines for completion." Inputs Required from User: Jurisdiction where probate is to be filed List of assets in the will Names and contact details of beneficiaries Presence of any disputed clauses
+
+Trust-to-Beneficiary Asset Distribution Guide
+
+Backstory:
+A family trust in Chennai is dissolving after 25 years, with the intention to distribute its real estate and equity investments to the named beneficiaries. The trustees need a detailed legal guide to avoid capital gains tax surprises and meet trust deed obligations.
+
+Goal:
+Prepare a comprehensive process guide for asset transfer from a trust to beneficiaries.
+
+Prompt:
+"You are a trust law advisor. Draft a distribution process covering: trust deed review, valuation of assets, preparation of distribution deeds, tax implications on capital gains, and necessary filings with the registrar of trusts." Inputs Required from User: Trust deed and dissolution clause Asset inventory and valuation reports Beneficiary details and share allocation Applicable tax exemptions
+
+Agricultural Land Transfer Compliance Template
+
+Backstory:
+A farming family in Punjab is transferring ownership of 40 acres of agricultural land from parents to their children. They must comply with state-specific agricultural land transfer restrictions and mutation requirements.
+
+Goal:
+Develop a documentation template for agricultural land transfer in India.
+
+Prompt:
+"You are a land records and compliance expert. Prepare a template for agricultural land transfer, covering: mutation application forms, no-dues certificate, revenue department approval, and agricultural landholding limit compliance checks." Inputs Required from User: State where the land is located Size and type of agricultural land Relationship between transferor and transferee Whether the transferee is an agriculturist
+
+Intellectual Property Transfer Agreement for Family Businesses
+
+Backstory:
+A family-owned textile company in Surat is transferring its trademark and design copyrights to a newly formed private limited company managed by the next generation. They need a formal IP transfer agreement that protects future use rights and royalty clauses.
+
+Goal:
+Create a legal agreement template for IP transfer within family entities.
+
+Prompt:
+"You are an IP law consultant. Draft an intellectual property transfer agreement covering: description of IP assets, consideration amount or royalty terms, recordal with IP offices, warranties, and future usage rights clauses." Inputs Required from User: List of IP assets with registration details Whether transfer is permanent or license-based Consideration/royalty payment structure Applicable jurisdiction for disputes
+
+Multi-Property Partition Deed for Siblings
+
+Backstory:
+Three siblings in Hyderabad jointly inherited six residential and commercial properties from their parents. They want to amicably divide ownership through a partition deed that clearly allocates each asset and prevents future legal disputes.
+
+Goal:
+Prepare a partition deed template for multiple jointly owned properties.
+
+Prompt:
+"You are a property documentation specialist. Draft a multi-property partition deed covering: detailed property descriptions, valuation basis for division, clear allocation of each asset to an individual sibling, mutation instructions, and dispute resolution clauses." Inputs Required from User: Number and type of properties Agreed-upon allocation ratios Property valuations Whether any property will be sold and proceeds divided
+
+
+Conflict Resolution Protocols
+
 
