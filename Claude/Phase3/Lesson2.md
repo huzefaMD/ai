@@ -1,6 +1,6 @@
 # Lesson 2
 
-#`Research & Analysis`
+# `Research & Analysis`
 
 ## Why This is a Game-Changer
 
