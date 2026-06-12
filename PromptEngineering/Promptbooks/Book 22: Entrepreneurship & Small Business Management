@@ -706,4 +706,282 @@ Prompt:
 
 Investor Pitch Deck Prompts
 
+Seed-Stage Pitch Deck for a Sustainable Packaging Startup
+
+Backstory:
+Ritika, 29, from Bengaluru, has developed biodegradable packaging made from sugarcane waste for FMCG and e-commerce companies. She has early traction with two local clients but needs ₹1.5 crore in seed funding to scale production. She’s pitching to angel investors with limited exposure to the sustainable packaging sector, so she needs to clearly communicate both the environmental impact and market opportunity.
+
+Goal:
+Create a compelling seed-stage pitch deck that balances problem awareness, market validation, and financial growth projections.
+
+Prompt:
+"You are a startup pitch consultant. Create a 10–12 slide seed-stage investor pitch deck for a sustainable packaging company. The deck should include: Problem statement — plastic waste crisis in India and regulatory push for alternatives. Solution — sugarcane waste packaging technology and benefits. Market opportunity with TAM, SAM, and SOM. Competitive landscape and differentiators. Traction and pilot results with current clients. Revenue model and pricing. Go-to-market plan. Financial projections for 3 years. Funding ask and utilisation. Team profile and credentials. Environmental impact metrics." Inputs Required: Annual revenue target Current production capacity Cost per unit and selling price Client case studies or testimonials
+
+Series A Pitch Deck for a HealthTech Mobile App
+
+Backstory:
+Aditya, 32, runs a telemedicine app providing instant doctor consultations for Tier 2 & Tier 3 cities. The app has crossed 1 million downloads and 50,000 monthly active users, but to improve AI-based triaging and expand into 5 more languages, he needs ₹20 crore in Series A funding. His investors are venture capitalists familiar with HealthTech but keen on clear monetisation and scalability plans.
+
+Goal:
+Prepare a growth-focused pitch deck that demonstrates traction, scalability, and strong revenue potential.
+
+Prompt:
+"You are a venture pitch strategist. Create a 12–15 slide Series A pitch deck for a telemedicine mobile app. Include: Problem — lack of accessible quality healthcare in smaller Indian cities. Product demo with key AI features. Current traction and user metrics. Revenue streams — subscription, consultation fee share, diagnostics partnerships. Unit economics. Customer acquisition cost (CAC) vs. lifetime value (LTV). Market expansion roadmap. Partnerships and integrations. Funding requirement and breakdown. Exit opportunities in the HealthTech space." Inputs Required: Current monthly revenue Average consultation fee and margins Number of doctors onboarded CAC and LTV
+
+Angel Pitch Deck for a Regional Language EdTech Platform
+
+Backstory:
+Megha, 27, has built an online learning platform for competitive exams entirely in Gujarati and Marathi. She has 10,000 paying users and wants to expand to 5 more regional languages within a year. She’s seeking ₹75 lakh from angel investors who often prefer tech-enabled, high-retention businesses but may not fully understand the power of regional content.
+
+Goal:
+Design a pitch deck that highlights the niche, scalability, and early monetisation.
+
+Prompt:
+"You are an EdTech pitch consultant. Create a 10-slide investor pitch deck for a regional-language online learning platform. Include: Problem — underserved regional-language learners. Product walkthrough. User acquisition and retention data. Market size and growth of regional edtech. Competitive advantages. Revenue model. Marketing strategy. Funding ask and use of funds. Team and advisors. Social impact potential." Inputs Required: Current churn rate Number of courses offered CAC and marketing channels used Partnerships with coaching institutes
+
+Pre-Seed Pitch Deck for a Hyperlocal Delivery Service
+
+Backstory:
+Rohit, 25, wants to launch a delivery service focusing on essential items for elderly residents in Indore. The service offers phone-call ordering, cash on delivery, and trusted delivery agents from the same locality. He needs ₹30 lakh in pre-seed funding to build the app and hire initial staff.
+
+Goal:
+Build a relatable, problem-focused pitch deck targeting impact-driven angel investors.
+
+Prompt:
+"You are a startup storytelling expert. Create a pre-seed pitch deck (8–10 slides) for a hyperlocal delivery service for senior citizens. Include: Personal story and empathy-driven problem statement. Solution — local, familiar delivery agents. Market validation and demand insights. Pilot testing feedback. Revenue model. Community partnerships. Funding requirements. Impact measurement framework." Inputs Required: Expected monthly delivery volume Pricing model Partnerships with local stores Pilot run results
+
+Series B Pitch Deck for a D2C Skincare Brand
+
+Backstory:
+Priya, 34, runs a natural skincare brand targeted at urban millennials. She has ₹10 crore ARR, strong online sales, and is now expanding offline. She needs ₹50 crore in Series B funding to scale manufacturing and open 20 experience stores across India.
+
+Goal:
+Create a pitch deck for institutional investors focused on aggressive expansion and brand dominance.
+
+Prompt:
+"You are a consumer brand pitch expert. Create a 15-slide Series B pitch deck for a D2C skincare brand. Include: Brand story and positioning. Sales growth trends. Omnichannel strategy. Product range and hero products. Customer loyalty metrics. Market share analysis. Offline expansion plan. Financial projections. Manufacturing capacity scale-up. ESG and sustainability initiatives. Exit strategy." Inputs Required: Current online/offline sales split Repeat purchase rate Manufacturing lead times Store location strategy
+
+Crowdfunding Pitch Deck for an Eco-Friendly Fashion Brand
+
+Backstory:
+Neha, 28, is launching a slow fashion brand using organic cotton and natural dyes sourced from rural women’s cooperatives in Rajasthan. She wants to run a crowdfunding campaign on platforms like Ketto and Kickstarter to raise ₹20 lakh. Her backers will be socially conscious millennials who care about sustainability but need emotional storytelling to connect with the brand.
+
+Goal:
+Create a crowdfunding-focused pitch deck that inspires trust, emotional connection, and urgency to pledge.
+
+Prompt:
+"You are a crowdfunding storytelling specialist. Create a 7–9 slide pitch deck for an eco-friendly fashion brand targeting socially conscious backers. The deck should include: Founder story with authenticity. Problem — fast fashion waste and exploitation. Solution — sustainable fabrics and fair trade. Product photos and prototypes. Social impact metrics — jobs created, water saved. Reward tiers and delivery timelines. Call-to-action for pledging." Inputs Required: Number of artisans involved Average production cost per garment Photos of sample products Environmental savings data
+
+Strategic Partnership Pitch Deck for a FoodTech Startup
+
+Backstory:
+Sameer, 31, runs a cloud kitchen network specialising in regional Indian cuisines. He wants to partner with a major food delivery app for exclusive promotions. The pitch must convince the partner that collaboration will increase orders and brand visibility.
+
+Goal:
+Develop a pitch deck for strategic partnerships, focusing on mutual benefits and integration potential.
+
+Prompt:
+"You are a business partnership consultant. Create an 8–10 slide pitch deck for a FoodTech startup proposing an exclusive tie-up with a delivery platform. Include: Introduction and USP — unique regional menu offerings. Data on current order volumes. Potential uplift from partnership. Revenue-sharing model. Marketing collaboration plan. Integration requirements. Long-term partnership roadmap." Inputs Required: Current monthly orders Average order value Partnership proposal terms Delivery coverage area
+
+Impact Investment Pitch Deck for a Rural Solar Energy Company
+
+Backstory:
+Arvind, 34, operates a company providing solar-powered irrigation pumps to farmers in Bihar. He’s seeking ₹5 crore from impact investors to expand into Jharkhand. His pitch must balance financial return with measurable social and environmental impact.
+
+Goal:
+Design an impact-focused pitch deck for investors who prioritise ESG outcomes alongside profitability.
+
+Prompt:
+"You are an impact investment pitch expert. Create a 12-slide deck for a rural solar energy company. Include: Problem — unreliable grid access and costly diesel pumps. Solution — affordable solar pump systems. Farmer testimonials. Market size for solar irrigation. Business model and repayment plans. Impact metrics — CO₂ saved, income growth for farmers. Financial projections. Funding requirement and ROI potential. Scaling roadmap." Inputs Required: Number of pumps deployed to date Cost per pump and repayment period Environmental savings Target number of farmers for expansion
+
+Pre-Series A Pitch Deck for a Mental Wellness App
+
+Backstory:
+Isha, 30, built a mental wellness app offering guided meditations, therapist consultations, and AI mood tracking. She has 100,000 downloads and 5,000 paying subscribers. She’s raising ₹3 crore in pre-Series A funding to expand content in Hindi and Tamil.
+
+Goal:
+Prepare a traction-driven pitch deck for health-focused venture funds.
+
+Prompt:
+"You are a HealthTech pitch strategist. Create a 10–12 slide pre-Series A pitch deck for a mental wellness app. Include: Problem — rising mental health issues among young Indians. Product demo. User growth and engagement metrics. Retention rates. Revenue model — subscription tiers. Expansion plans. Financials and funding ask. Team expertise." Inputs Required: Monthly active users Subscriber growth rate Content creation costs Languages planned for rollout
+
+Franchise Expansion Pitch Deck for a Quick-Service Restaurant (QSR)
+
+Backstory:
+Kunal, 33, runs a profitable QSR chain in Pune serving healthy wraps and bowls. He wants to attract franchise partners to expand into Mumbai and Bengaluru. His pitch must appeal to both investors and franchisees by showing profitability and brand potential.
+
+Goal:
+Develop a franchise recruitment deck with clear ROI projections.
+
+Prompt:
+"You are a franchise growth consultant. Create an 8–10 slide pitch deck for a healthy QSR brand’s franchise expansion. Include: Brand story and positioning. Menu highlights. Existing outlet performance. Franchise model and costs. Expected ROI timeline. Operational support offered. Territory exclusivity terms. Testimonials from current partners." Inputs Required: Average monthly revenue per outlet Initial franchise fee and royalty percentage Marketing support plan Expansion target cities
+
+Seed Funding Pitch Deck for an AgriTech Supply Chain Startup
+
+Backstory:
+Vikram, 29, is digitising procurement for small grocery stores by connecting them directly with farmers via a mobile app. He needs ₹2 crore seed funding to expand to 3 more states. His investors will be early-stage VCs who want proof of cost savings and operational efficiency.
+
+Goal:
+Create a pitch deck that showcases efficiency, scalability, and margin improvements.
+
+Prompt:
+"You are an AgriTech startup pitch designer. Create a 10-slide seed funding pitch deck. Include: Problem — inefficient supply chain and middlemen costs. Solution — direct farm-to-store app. Pilot results — cost savings achieved. Market opportunity. Revenue streams. Competitive differentiation. Expansion plan. Funding ask and projected impact." Inputs Required: Cost savings per transaction Average order volume Number of farmers onboarded Gross margin percentage
+
+Social Impact Pitch Deck for an NGO Skill Development Initiative
+
+Backstory:
+Shweta, 31, runs an NGO that trains rural youth in digital skills. She needs ₹1 crore in funding from CSR arms of large corporates. Her pitch must show alignment with CSR mandates and measurable social outcomes.
+
+Goal:
+Create a CSR-focused deck that inspires corporate sponsorship.
+
+Prompt:
+"You are a CSR proposal consultant. Create a 9–11 slide pitch deck for a rural digital skills NGO. Include: Problem — unemployment and lack of digital literacy. Solution — structured training programs. Impact metrics — number of youth trained and placed. Case studies. CSR alignment with Schedule VII. Funding requirement and usage. Long-term sustainability plan." Inputs Required: Number of beneficiaries Training duration and curriculum highlights Corporate partners engaged so far Placement rate
+
+Pre-IPO Investor Roadshow Pitch Deck for a SaaS Company
+
+Backstory:
+Rajeev, 35, runs a profitable SaaS company in workforce management. After crossing ₹100 crore ARR, he’s preparing for IPO and wants to create an investor roadshow presentation to attract institutional investors.
+
+Goal:
+Develop a sophisticated, data-rich deck for public market investors.
+
+Prompt:
+"You are a capital markets pitch expert. Create a 15–18 slide pre-IPO investor deck for a SaaS company. Include: Business overview. Product suite. Historical financials. Growth drivers. Market leadership proof. Expansion into global markets. Corporate governance and ESG. IPO use of proceeds. Risk management." Inputs Required: Current valuation Year-on-year revenue growth International client share Key IPO timeline milestones
+
+Cross-Border Expansion Pitch Deck for a D2C Brand
+
+Backstory:
+Ayesha, 28, runs a premium herbal tea brand selling mainly in India. She’s targeting the Middle East and Europe for export. She needs ₹8 crore funding to set up distribution channels abroad.
+
+Goal:
+Create a cross-border expansion pitch for investors interested in global growth.
+
+Prompt:
+"You are a global brand expansion consultant. Create a 12-slide pitch deck for a herbal tea brand’s international expansion. Include: Brand positioning and story. Target foreign markets and entry strategy. Distribution partnerships. Regulatory compliance steps. Marketing campaigns for foreign audiences. Projected overseas sales. Funding needs and allocation." Inputs Required: Export readiness status Target countries Projected demand and pricing Distribution partner leads
+
+Technology Upgrade Pitch Deck for a Manufacturing SME
+
+Backstory:
+Manoj, 34, owns a mid-sized manufacturing unit producing automotive components. He wants to raise ₹4 crore to upgrade machinery and adopt Industry 4.0 technologies. His investors are likely to be private equity funds focused on efficiency gains.
+
+Goal:
+Create a tech-upgrade pitch that blends ROI projections with operational benefits.
+
+Prompt:
+"You are an SME growth consultant. Create a 10–12 slide pitch deck for a manufacturing SME’s technology upgrade. Include: Current production process. Gaps and inefficiencies. Proposed tech upgrades. Cost-benefit analysis. Productivity improvement projections. Funding requirement and ROI period. Risk mitigation." Inputs Required: Current production capacity Downtime percentage Estimated efficiency gains Cost of new technology
+
+Sustainability Grant Pitch Deck for a Waste Management Startup
+
+Backstory:
+Pratik, 30, has built a startup that converts organic waste from hotels and restaurants into biogas and organic fertiliser. He’s applying for a ₹50 lakh government sustainability grant. The pitch must demonstrate environmental impact, scalability, and alignment with government green initiatives.
+
+Goal:
+Create a grant-focused pitch deck with impact evidence and scalability plan.
+
+Prompt:
+"You are a sustainability funding strategist. Create an 8–10 slide pitch deck for a waste-to-energy startup applying for a government grant. Include: Problem — urban waste management crisis. Solution — biogas and compost production. Environmental benefits — reduced landfill waste, lower methane emissions. Market potential and demand. Alignment with government sustainability policies. Scalability plan. Funding requirement and utilisation breakdown." Inputs Required: Tonnes of waste processed monthly Biogas output per tonne Fertiliser sales figures List of current hotel/restaurant partners
+
+Angel Investor Pitch Deck for an EdTech Skill Training Platform
+
+Backstory:
+Pooja, 27, founded an online platform that offers industry-specific skill training for graduates. With 20,000 registered learners, she’s looking to raise ₹1.5 crore from angel investors to expand into tier-2 and tier-3 cities.
+
+Goal:
+Design a pitch deck that shows strong market demand and clear revenue potential.
+
+Prompt:
+"You are an EdTech investment pitch expert. Create a 10–12 slide deck for a skill training platform raising funds from angel investors. Include: Education gap and employability problem. Product demo and features. Learner success stories. Pricing model. Growth metrics. Expansion strategy for smaller cities. Funding ask and projected ROI." Inputs Required: Number of paid vs. free learners Course completion rates Revenue per learner Partnership with universities/colleges
+
+Series B Pitch Deck for a FinTech Lending Platform
+
+Backstory:
+Aman, 32, operates a digital lending app that has disbursed ₹500 crore in small business loans. He’s seeking ₹50 crore in Series B funding to expand underwriting technology and partnerships with banks.
+
+Goal:
+Create a growth-stage investor deck that highlights scale, competitive advantage, and profitability trajectory.
+
+Prompt:
+"You are a FinTech fundraising consultant. Create a 12–14 slide Series B pitch deck for a digital lending platform. Include: Problem — MSME credit gap. Solution — fast, collateral-free loans. Loan performance and default rates. Market size and competitive positioning. Proprietary underwriting algorithm. Financial performance. Partnerships with banks/NBFCs. Funding ask and usage plan." Inputs Required: Disbursal volume per month NPA (Non-Performing Asset) percentage Customer acquisition cost Repeat loan customer percentage
+
+Acquisition Pitch Deck for Selling a Profitable E-commerce Brand
+
+Backstory:
+Ritika, 29, has built a profitable D2C skincare brand with annual revenues of ₹12 crore. She wants to sell the brand to a larger beauty conglomerate. The pitch must make a compelling case for brand acquisition value.
+
+Goal:
+Create an acquisition pitch deck that highlights brand equity, customer loyalty, and financial stability.
+
+Prompt:
+"You are a business acquisition pitch designer. Create a 10-slide pitch deck for selling a D2C skincare brand. Include: Brand story and positioning. Product portfolio. Customer demographics. Revenue and profit margins. Brand awareness metrics. Growth potential under larger ownership. Acquisition price expectations." Inputs Required: Customer retention rate Annual growth rate SKU profitability breakdown Social media engagement stats
+
+Seed Pitch Deck for a Hyperlocal Logistics Startup
+
+Backstory:
+Rohan, 26, is building a hyperlocal delivery platform targeting kirana stores in small towns. He needs ₹1 crore seed funding to expand to 15 new towns in Uttar Pradesh.
+
+Goal:
+Create a pitch deck that emphasises operational efficiency and untapped market opportunity.
+
+Prompt:
+"You are a logistics startup pitch consultant. Create an 8–10 slide seed funding deck for a hyperlocal delivery platform. Include: Problem — lack of affordable delivery in small towns. Solution — efficient localised delivery model. Pilot city performance metrics. Market size and expansion potential. Revenue model. Funding requirement and use. Roadmap for scale." Inputs Required: Average delivery cost per order Number of partner kirana stores Delivery time averages Towns shortlisted for expansion
+
+Government Tender Bid Pitch Deck for a Tech Services Company
+
+Backstory:
+Saurabh, 35, runs an IT services company and is bidding for a ₹25 crore government tender to digitise public health records. He needs a presentation that wins over bureaucrats and procurement officers.
+
+Goal:
+Create a government-tender-focused pitch deck with compliance and execution proof.
+
+Prompt:
+"You are a public sector tender pitch expert. Create a 10–12 slide deck for an IT company bidding for a public health record digitisation contract. Include: Company background and credentials. Problem statement from the government’s perspective. Proposed technical solution. Case studies of similar work. Compliance with tender requirements. Implementation roadmap. Pricing and value proposition." Inputs Required: Years in operation Past government projects handled Technical team strength Estimated project delivery time
+
+Strategic Investor Pitch Deck for a Co-Living Space Startup
+
+Backstory:
+Ananya, 28, runs a co-living space company for working professionals in metro cities. She wants ₹7 crore investment from a strategic real estate partner.
+
+Goal:
+Create a partnership-focused pitch deck showcasing market demand, brand value, and expansion potential.
+
+Prompt:
+"You are a real estate partnership strategist. Create an 8–10 slide pitch deck for a co-living startup. Include: Problem — lack of affordable, community-driven housing. Solution — fully furnished, flexible rental spaces. Occupancy rates and revenue. Target market insights. Expansion locations. Strategic fit for the investor partner." Inputs Required: Current occupancy percentage Average rent per occupant Churn rate Number of properties in portfolio
+
+Follow-on Funding Pitch Deck for a Health Supplement Brand
+
+Backstory:
+Mehul, 31, runs a plant-based protein supplement brand. After raising ₹2 crore in seed funding, he now seeks ₹5 crore in follow-on investment to launch new SKUs and expand online marketing.
+
+Goal:
+Prepare a follow-on funding deck with growth proof and product diversification plan.
+
+Prompt:
+"You are a consumer brand pitch deck consultant. Create a 9–11 slide deck for a plant-based supplement brand raising follow-on funding. Include: Seed funding utilisation report. Sales growth metrics. Product portfolio expansion plan. Marketing strategy for new SKUs. Revenue projections post-expansion. Funding ask and allocation." Inputs Required: Sales growth percentage since seed funding Best-selling SKUs Marketing ROI from past campaigns Projected revenue from new products
+
+Technology Licensing Pitch Deck for a DeepTech Patent Holder
+
+Backstory:
+Dr. Ajay, 38, has patented a low-cost water purification technology. He wants to license it to manufacturing companies. His pitch must explain the tech’s uniqueness, scalability, and commercial potential.
+
+Goal:
+Create a licensing pitch deck that attracts corporate manufacturing partners.
+
+Prompt:
+"You are a technology commercialisation specialist. Create an 8–10 slide licensing pitch deck for a patented water purification technology. Include: Problem — lack of affordable clean drinking water. Technology overview and patent proof. Cost advantage over competitors. Use cases. Market size and adoption potential. Licensing terms and revenue model." Inputs Required: Patent number and filing details Production cost per unit Target industries for licensing Expected royalty rates
+
+Diversity & Inclusion Impact Pitch Deck for an HRTech Startup
+
+Backstory:
+Tanya, 30, founded an HRTech platform that helps companies improve workplace diversity. She’s seeking ₹3 crore from ESG-focused funds to enhance AI analytics and onboarding tools.
+
+Goal:
+Create an ESG-aligned pitch deck highlighting social impact and product strength.
+
+Prompt:
+"You are an ESG investment pitch expert. Create a 10–12 slide deck for an HRTech diversity platform. Include: Workplace diversity problem and business impact. Platform features for inclusive hiring. Case studies of client success. Market opportunity. Impact metrics — diversity ratios improved. Financial projections and funding ask." Inputs Required: Number of client companies Diversity improvement metrics Pricing model Roadmap for feature upgrades
+
+
+Marketing Calendar Planning
+
 
