@@ -1,4 +1,4 @@
-# Prompt Engineering Phase 2
+# _Prompt Engineering Phase 2_
 # Lesson1
 
 ## Your Exercise, Huzefa!
