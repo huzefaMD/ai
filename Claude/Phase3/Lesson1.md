@@ -157,3 +157,70 @@ Review this piece of writing and give me:
 [paste your writing here]
 </text>
 ```
+## PART 3: Summarizing with Claude
+
+Summarizing is one of Claude's superpower skills. It can read and condense massive
+amounts of text in seconds.
+
+### 5 Summarizing Use Cases for HuzefAI
+
+### Use Case 1- Summarize Long Articles
+
+"Summarize this article in 5 bullet points.
+Focus on what's relevant to someone
+running an EdTech startup in India.
+Each bullet under 20 words."
+
+[paste article]
+
+### Use Case 2- Summarize Student Feedback
+
+"Here are 50 student feedback responses
+from our last AWS course batch.
+
+Summarize:
+1. Top 3 things students loved
+2. Top 3 complaints or suggestions
+3. Overall sentiment score (1-10)
+4. One key action I should take
+
+[paste all feedback]
+
+### Use Case 3- Summarize Long Documents
+
+"Summarize this 20-page document into
+a 1-page executive summary.
+
+Structure it as:
+- Main purpose (2 sentences)
+- Key findings (5 bullets)
+- Recommendations (3 bullets)
+- Bottom line (1 sentence)"
+
+[paste document]
+
+### Use Case 4 - Summarize YouTube Videos
+
+"Here is a transcript from a 1-hour
+YouTube video about DevOps trends.
+
+Give me:
+1. The 5 most important points
+2. Any statistics or data mentioned
+3. What's relevant for teaching
+DevOps in India in 2026
+
+[paste transcript]
+
+### Use Case 5- Summarize Email Threads
+
+"Here is a long email thread with
+a corporate client about training.
+
+Summarize:
+1. What they want
+2. What we've agreed to so far
+3. What's still unresolved
+4. What my next action should be
+
+[paste email thread]
