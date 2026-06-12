@@ -68,3 +68,42 @@ in this specific area.
 - Don't overwhelm with details
 </dont>
 ```
+## Real Example for Huzefa:
+```
+<role>
+Expert in EdTech business models who
+teaches founders simply.
+</role>
+
+<task>
+Explain the cohort-based course model
+vs self-paced course model. I run
+HuzefAI and need to decide which
+works better for my Cloud/DevOps/AI courses.
+</task>
+
+<format>
+1. How each model works
+2. Revenue comparison
+3. Student experience comparison
+4. Operational complexity comparison
+5. Which is better for HuzefAI right now and why
+</format>
+```
+## Mode 2- Compare For Me
+### Best for: Making decisions between options
+```
+<task>
+Compare [Option A] vs [Option B] vs [Option C]
+
+Evaluate each on these criteria:
+1. [Criterion 1]
+2. [Criterion 2]
+3. [Criterion 3]
+4. [Criterion 4]
+
+Present as a comparison table.
+End with a clear recommendation
+for my specific situation: [context]
+</task>
+```
