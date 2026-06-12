@@ -107,7 +107,7 @@ Claude is an exceptional editor - better than most humans at catching issues.
 ### The 5 Types of Editing Claude Does Best
 
 ### Type 1-Clarity Editing
-
+```
 "Edit this for clarity.
 Simplify complex sentences.
 Make it understandable for someone
@@ -115,33 +115,33 @@ with no technical background.
 Keep the meaning exactly the same."
 
 [paste your text]
-
+```
 ### Type 2-Tone Editing
-
+```
 "Rewrite this in a warmer, more
 personal tone. It currently sounds
 too formal and corporate.
 Keep all the facts the same."
 
 [paste your text]
-
+```
 ### Type 3-Conciseness Editing
-
+```
 "Cut this down by 40% without
 losing any important information.
 Every sentence must earn its place."
 
 [paste your text]
-
+```
 ### Type 4- Power Editing
-
+```
 "Make this more persuasive and
 compelling. Strengthen weak phrases.
 Replace passive voice with active.
 Make the opening hook stronger."
 
 [paste your text]
-
+```
 ### Type 5-Full Review
 ```
 <task>
@@ -165,16 +165,16 @@ amounts of text in seconds.
 ### 5 Summarizing Use Cases for HuzefAI
 
 ### Use Case 1- Summarize Long Articles
-
+```
 "Summarize this article in 5 bullet points.
 Focus on what's relevant to someone
 running an EdTech startup in India.
 Each bullet under 20 words."
 
 [paste article]
-
+```
 ### Use Case 2- Summarize Student Feedback
-
+```
 "Here are 50 student feedback responses
 from our last AWS course batch.
 
@@ -185,9 +185,9 @@ Summarize:
 4. One key action I should take
 
 [paste all feedback]
-
+```
 ### Use Case 3- Summarize Long Documents
-
+```
 "Summarize this 20-page document into
 a 1-page executive summary.
 
@@ -198,9 +198,9 @@ Structure it as:
 - Bottom line (1 sentence)"
 
 [paste document]
-
+```
 ### Use Case 4 - Summarize YouTube Videos
-
+```
 "Here is a transcript from a 1-hour
 YouTube video about DevOps trends.
 
@@ -211,9 +211,9 @@ Give me:
 DevOps in India in 2026
 
 [paste transcript]
-
+```
 ### Use Case 5- Summarize Email Threads
-
+```
 "Here is a long email thread with
 a corporate client about training.
 
@@ -224,13 +224,13 @@ Summarize:
 4. What my next action should be
 
 [paste email thread]
-
+```
 ## The Writing Productivity Stack
 Here's how to use Claude for ALL your writing needs at HuzefAI:
 
 ### DAILY WRITING WORKFLOW
 
-Monday:
+`Monday:
 > Use Claude to draft week's
 LinkedIn posts in one session
 > Schedule them out across the week
@@ -246,7 +246,7 @@ Friday:
 
 Weekend:
 > Use Claude to create webinar content
-> Write proposals for corporate clients
+> Write proposals for corporate clients`
 
 ## The HuzefAI Writing Toolkit
 Save these 5 prompts - use them every single day:
@@ -296,15 +296,15 @@ Save these 5 prompts - use them every single day:
 Here are 3 real tasks - do ALL 3 right now:
 
 ### Task 1 - Write
-
+```
 Use Claude to write a welcome email
 for new HuzefAI students joining
 their first course.
 
 Use the Quick Email Writer template above.
-
+```
 ### Task 2- Edit
-
+```
 Take any message or post you've
 written recently for HuzefAI.
 
@@ -314,12 +314,13 @@ Make the opening stronger.
 Cut anything unnecessary."
 
 Share before and after here!
-
+```
 ### Task 3 -Summarize
-
+```
 Find any long article about Cloud
 or AI trends online.
 
 Paste it into Claude and ask for
 a 5-bullet summary focused on
 what matters for HuzefAI.
+```
