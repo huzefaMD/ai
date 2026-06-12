@@ -224,3 +224,70 @@ Summarize:
 4. What my next action should be
 
 [paste email thread]
+
+## The Writing Productivity Stack
+Here's how to use Claude for ALL your writing needs at HuzefAI:
+
+### DAILY WRITING WORKFLOW
+
+Monday:
+> Use Claude to draft week's
+LinkedIn posts in one session
+> Schedule them out across the week
+
+Tuesday-Thursday:
+Use Claude to answer student
+queries faster
+> Use Claude to write course content
+
+Friday:
+> Use Claude to summarize the week
+> Draft next week's email newsletter
+
+Weekend:
+> Use Claude to create webinar content
+> Write proposals for corporate clients
+
+## The HuzefAI Writing Toolkit
+Save these 5 prompts - use them every single day:
+
+### 1. Quick Email Writer
+```
+<task>Write a professional email</task>
+<context>[situation]</context>
+<tone>Warm and direct</tone>
+<length>Under 100 words</length>
+<dont>No "I hope this email finds you well"</dont>
+```
+### 2. LinkedIn Post Writer
+```
+<task>Write a LinkedIn post about [topic]</task>
+<audience>IT professionals in Chennai</audience>
+<tone>Authentic founder voice</tone>
+<format>Hook + story + insight + question</format>
+<length>150-200 words</length>
+<dont>No bullet points, no "Excited to share"</dont>
+```
+### 3. Quick Summarizer
+```
+<task>Summarize this in 5 bullet points</task>
+<focus>What matters for EdTech startup founder</focus>
+<length>Each bullet under 20 words</length>
+[paste content]
+```
+### 4. Instant Editor
+```
+<task>Edit this for clarity and impact</task>
+<keep>Same meaning and facts</keep>
+<improve>Clarity, flow, opening hook</improve>
+<dont>Don't make it longer</dont>
+[paste content]
+```
+### 5. Course Content Writer
+```
+<role>Expert DevOps/Cloud/AI instructor</role>
+<task>Write lesson content for [topic]</task>
+<audience>IT freshers, zero experience</audience>
+<format>Concept + analogy + example + exercise</format>
+<length>300-400 words</length>
+```
