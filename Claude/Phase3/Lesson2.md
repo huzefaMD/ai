@@ -23,3 +23,48 @@ Part 2: Competitive Analysis
 Part 3: Market Research
 Part 4: Data Analysis
 Part 5: Learning Any Topic Fast
+
+## PART 1: Research Techniques
+
+### The 4 Research Modes
+
+MODE 1: EXPLAIN IT TO ME
+Understanding a new topic fast
+
+MODE 2: COMPARE FOR ME
+Evaluating options side by side
+
+MODE 3: ANALYZE THIS FOR ME
+Making sense of data or content
+
+MODE 4: FIND GAPS FOR ME
+Spotting opportunities others miss
+
+## Mode 1 - Explain It To Me
+### Best for: Learning something new quickly
+```
+<role>
+You are an expert in [topic] who specializes
+in teaching complex concepts simply.
+</role>
+
+<task>
+Explain [topic] to me as if I'm a smart
+professional but complete beginner
+in this specific area.
+</task>
+
+<format>
+1. What it is (simple definition)
+2. Why it matters (real-world impact)
+3. How it works (simple explanation)
+4. Real example I can relate to
+5. What I should know next
+</format>
+
+<dont>
+- No jargon without explanation
+- No academic language
+- Don't overwhelm with details
+</dont>
+```
