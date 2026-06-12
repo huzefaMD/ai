@@ -225,4 +225,201 @@ in India. Focus on:
 <context>
 HuzefAI is Chennai-based, teaches Cloud/
 DevOps/AI, currently 50 students,
+</task>
+
+<context>
+HuzefAI is Chennai-based, teaches Cloud/
+DevOps/AI, currently 50 students,
+founder-led, focuses on practical
+hands-on training.
+</context>
+
+<format>
+Section by section with clear headers.
+End with a positioning statement
+HuzefAI should own in the market.
+</format>
+```
+## PART 3: Market Research
+
+### Research Any Market in Minutes
+```
+<role>
+Market research analyst specializing
+in Indian tech education sector.
+</role>
+
+<task>
+Give me a complete market research
+report on [specific topic].
+</task>
+
+<format>
+1. Market size and growth rate
+2. Target customer profile
+3. Key buying triggers
+4. Key objections to buying
+5. Price sensitivity analysis
+6. Best marketing channels to reach them
+7. Seasonal trends if any
+8. Bottom line opportunity assessment
+</format>
+```
+## Real HuzefAI Examples:
+
+### Research 1: Your Target Student
+```
+<task>
+Build a detailed profile of HuzefAI's
+ideal student - a Chennai IT professional
+looking to upskill in Cloud and AI.
+
+Include:
+1. Demographics (age, income, education)
+2. Current job situation and pain points
+3. Career goals and fears
+4. What they search for online
+5. Where they spend time online
+6. What makes them buy a course
+7. What makes them hesitate
+8. Their dream outcome from training
+</task>
+```
+### Research 2: Pricing Research
+```
+<task>
+Research and analyze course pricing
+for Cloud, DevOps, and AI training in India.
+
+Cover:
+1. What platforms charge (Udemy, Coursera,
+local bootcamps)
+2. Price points that convert best
+3. What justifies premium pricing
+4. Psychological pricing strategies
+that work in Indian EdTech
+5. Recommended pricing ladder for HuzefAI
+</task>
+```
+### Research 3: Trend Research
+```
+<task>
+What are the top 5 emerging technology
+trends in 2026 that Chennai IT professionals
+should be learning right now?
+
+For each trend tell me:
+1. What it is
+2. Why it matters for Indian IT market
+3. Job market demand for this skill
+4. How hard it is to learn
+5. Should HuzefAI build a course on this?
+</task>
+```
+## PART 4: Data Analysis
+Claude can analyze data you paste directly - no Excel formulas needed.
+
+### Simple Data Analysis
+```
+<task>
+Analyze this data and give me insights:
+
+[paste your data as text or table]
+
+Tell me:
+1. Key trends you notice
+2. Best performing item and why
+3. Worst performing item and why
+4. Surprising patterns
+5. What I should do based on this data
+</task>
+```
+## PART 5: Learning Any Topic Fast
+This is one of the most powerful uses of Claude - becoming a quick expert on any topic
+you need for HuzefAI.
+
+### The Fast Learning Framework
+```
+<role>
+You are a world-class teacher in [topic]
+who specializes in rapid skill transfer.
+</role>
+
+<task>
+Teach me [topic] using the 80/20 principle.
+I need to understand the 20% of knowledge
+that gives me 80% of practical value.
+
+I am: [describe your background]
+My goal: [what you need this knowledge for]
+Time available: [how quickly you need to learn]
+</task>
+
+<format>
+1. The core concept in one paragraph
+2. The 5 most important things to know
+3. Common misconceptions to avoid
+4. 3 practical applications immediately
+5. What to learn next if I want to go deeper
+</format>
+```
+## Rapid Learning Examples for Huzefa
+
+### Learn: Google Cloud (to teach it)
+```
+<role>
+Senior Google Cloud architect and educator.
+</role>
+
+<task>
+I currently teach AWS at HuzefAI.
+I want to add Google Cloud to my curriculum.
+
+Teach me the key differences between
+AWS and GCP so I can:
+1. Explain GCP to my AWS-familiar students
+2. Know which GCP services map to which AWS services
+3. Understand where GCP is stronger than AWS
+4. Build a 4-week GCP course outline
+</task>
+```
+## Learn: Business Finance (to run HuzefAI better)
+```
+<role>
+CFO mentor who helps startup founders
+understand their numbers simply.
+</role>
+
+<task>
+I'm a technical founder running HuzefAI.
+Teach me the 5 most important financial
+metrics I must track monthly to know
+if my EdTech business is healthy.
+
+Explain each metric:
+- What it is (simple definition)
+- How to calculate it
+- What good looks like for EdTech
+- What to do if mine is bad
+</task>
+```
+## Learn: SEO (to grow HuzefAI online)
+```
+<role>
+SEO specialist who has grown EdTech
+websites in India from 0 to 100K visitors.
+</role>
+
+<task>
+Teach me the minimum SEO I need to know
+to rank HuzefAI's website for terms like
+"cloud course Chennai" and
+"DevOps training India."
+
+Focus on:
+1. What actually moves the needle in 2026
+2. What I can do myself without hiring anyone
+3. Quick wins in first 30 days
+4. Mistakes to avoid
+</task>
 ```
