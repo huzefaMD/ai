@@ -1,1 +1,281 @@
+Feasibility Study Frameworks
+
+Residential Township Feasibility Study Framework
+
+Backstory:
+A mid-sized real estate developer in Pune is considering launching a 150-acre residential township with integrated schools, hospitals, and retail spaces. The board wants to assess the commercial viability before committing ₹800 crore in capital. They need a structured feasibility framework that evaluates market demand, cost projections, and expected returns over a 10-year horizon, along with socio-environmental impact considerations.
+
+Goal:
+Create a feasibility study framework for a large-scale residential township in India.
+
+Prompt:
+"You are a real estate feasibility consultant. Create a detailed framework for evaluating a proposed 150-acre residential township in Pune, covering: market demand assessment (demographics, affordability index, buyer preferences), competitive analysis, regulatory and land acquisition due diligence, infrastructure & amenities planning, phased construction and sales strategy, cost estimation, funding models, ROI projections, and socio-environmental impact analysis." Inputs Required from User: Project size and location details Target buyer segment demographics Proposed amenities and facilities Available financing options
+
+Commercial IT Park Feasibility Study Framework
+
+Backstory:
+An infrastructure company in Hyderabad is exploring the development of a new IT park aimed at attracting global tech companies. The project includes four office towers, co-working spaces, and integrated retail. Before committing to land purchase, they need a feasibility framework focusing on occupancy forecasts, lease structures, and market absorption capacity in the current post-pandemic office real estate scenario.
+
+Goal:
+Design a feasibility study framework for a commercial IT park.
+
+Prompt:
+"You are a property investment advisor. Draft a comprehensive feasibility study framework for a proposed IT park in Hyderabad, covering: market demand and absorption analysis, competitor benchmarking, zoning and environmental clearances, tenant mix strategy, lease rate projections, infrastructure requirements (connectivity, utilities), capex & opex estimates, financial modeling with NPV & IRR, and risk assessment with mitigation strategies." Inputs Required from User: Land parcel location and size Target tenant profile (startups, MNCs, co-working) Proposed amenities and sustainability features Anticipated project timeline
+
+Mixed-use Development Feasibility Study Framework
+
+Backstory:
+A Mumbai-based developer is evaluating a prime plot in Bandra for a high-rise mixed-use development combining luxury apartments, serviced residences, a boutique mall, and office floors. They require a feasibility study to determine if the mix of uses will optimize returns and align with zoning laws, while meeting high-end market demand in a saturated urban environment.
+
+Goal:
+Create a feasibility study framework for a mixed-use high-rise in Mumbai.
+
+Prompt:
+"You are an urban development strategist. Build a detailed feasibility study framework for a high-rise mixed-use project in Bandra, covering: market segmentation & demand analysis for each use type, zoning compliance checks, space allocation optimization, pricing strategy per segment, construction cost breakdown by component, financing & joint venture structures, projected cash flows, marketing positioning, and lifecycle maintenance planning." Inputs Required from User: Plot size and FSI details Proposed ratio of residential, retail, and office spaces Target market profile for each segment Partnership or funding model
+
+Affordable Housing Project Feasibility Study Framework
+
+Backstory:
+A real estate firm in Nagpur is considering entry into the affordable housing segment under the Pradhan Mantri Awas Yojana (PMAY) scheme. They need a feasibility framework that focuses on subsidy eligibility, demand mapping in lower-income brackets, low-cost construction techniques, and phased delivery to minimize financial risk.
+
+Goal:
+Develop a feasibility study framework for an affordable housing project in India.
+
+Prompt:
+"You are a housing policy and real estate consultant. Prepare a detailed feasibility study framework for an affordable housing development in Nagpur under PMAY, covering: demand & affordability mapping, land acquisition feasibility, construction technology assessment (precast, modular, etc.), government scheme eligibility & subsidy calculations, financing models for buyers, project phasing strategy, cost & margin analysis, and community infrastructure planning." Inputs Required from User: Project scale and location Target buyer income groups Planned unit sizes and configurations Available construction technologies
+
+Resort & Hospitality Project Feasibility Study Framework
+
+Backstory:
+An investor group from Goa is planning a luxury beachfront resort targeting international tourists and high-net-worth domestic travelers. They want a feasibility framework to validate investment returns, seasonal occupancy potential, competitive positioning, and regulatory hurdles related to CRZ (Coastal Regulation Zone) norms.
+
+Goal:
+Create a feasibility study framework for a luxury resort in a coastal zone.
+
+Prompt:
+"You are a hospitality investment consultant. Develop a detailed feasibility study framework for a luxury beachfront resort in Goa, covering: target market profiling & segmentation, seasonal demand forecasts, competitive analysis, regulatory compliance with CRZ norms, resort design & amenity planning, operational cost modeling, revenue per available room (RevPAR) projections, marketing & brand positioning, and long-term ROI calculations." Inputs Required from User: Resort location and land title details Target market demographics Planned number of rooms and amenities Projected operational model (management contract, self-operated)
+
+Logistics & Warehousing Hub Feasibility Study Framework
+
+Backstory:
+A logistics company in Ahmedabad is considering building a large-scale warehousing and distribution hub along the Delhi-Mumbai Industrial Corridor. The hub will cater to FMCG, e-commerce, and cold chain industries. They need a feasibility framework that focuses on location suitability, demand from anchor clients, and scalability for future expansion.
+
+Goal:
+Create a feasibility study framework for a logistics and warehousing hub in India.
+
+Prompt:
+"You are a logistics real estate consultant. Draft a detailed feasibility study framework for a warehousing hub along the Delhi-Mumbai Industrial Corridor, covering: location suitability analysis (connectivity, access to ports, highways, airports), demand mapping by industry, anchor client acquisition strategy, zoning & land use compliance, infrastructure design (cold storage, automation), cost modeling, revenue projections from leases, and scalability planning for expansion." Inputs Required from User: Exact land location and size Target industry segments Anticipated automation/technology level Proposed ownership vs. leaseback model
+
+Retail Mall Feasibility Study Framework
+
+Backstory:
+A retail developer in Lucknow wants to build a premium mall with multiplex, luxury brands, and dining experiences. They require a feasibility framework that balances tenant mix, rental yield, and footfall projections, while avoiding oversaturation in the market.
+
+Goal:
+Develop a feasibility study framework for a premium retail mall.
+
+Prompt:
+"You are a retail property analyst. Build a feasibility study framework for a premium mall in Lucknow, covering: catchment area demographic profiling, competitive mall analysis, ideal tenant mix & zoning of retail categories, footfall estimation, rental yield and revenue share modeling, construction and fit-out cost breakdown, marketing and launch strategy, and risk analysis related to market saturation." Inputs Required from User: Proposed mall size and floor layout Anchor tenant preferences Catchment area population and income data Planned entertainment & dining components
+
+Industrial Park Feasibility Study Framework
+
+Backstory:
+A state government in Tamil Nadu is partnering with private developers to establish an industrial park for automobile and EV manufacturing. The feasibility framework must assess infrastructure needs, investor demand, and economic viability, while aligning with state incentives and SEZ regulations.
+
+Goal:
+Create a feasibility study framework for an industrial park.
+
+Prompt:
+"You are an industrial infrastructure consultant. Prepare a feasibility study framework for an automobile and EV-focused industrial park in Tamil Nadu, covering: target industry and investor profiling, state and central incentive mapping, infrastructure requirements (roads, power, water, waste management), SEZ and zoning compliance, land development phasing, investment and operational cost analysis, projected lease rates, and long-term employment & economic impact forecasts." Inputs Required from User: Proposed site details Industry focus areas Available government incentives Planned development timeline
+
+Senior Living Community Feasibility Study Framework
+
+Backstory:
+A real estate developer in Bengaluru wants to explore the senior living segment, offering assisted care and community amenities for retirees. They need a feasibility framework to determine demand, pricing, care service models, and long-term operational sustainability.
+
+Goal:
+Design a feasibility study framework for a senior living project in India.
+
+Prompt:
+"You are a senior housing consultant. Create a feasibility study framework for a senior living community in Bengaluru, covering: market demand assessment (demographics, income levels, health needs), competitor analysis, medical and support service integration, unit design & accessibility planning, pricing and payment models (lease, sale, membership), staffing and operational planning, projected ROI, and strategies for building trust in the segment." Inputs Required from User: Target income segment for residents Planned healthcare facilities and services Community size and layout plan Operational management model
+
+Co-living Space Feasibility Study Framework
+
+Backstory:
+An investor in Gurugram is looking to convert a mid-sized commercial property into a co-living facility for working professionals and students. They require a feasibility framework that examines occupancy potential, pricing strategies, operational costs, and competitive differentiation.
+
+Goal:
+Develop a feasibility study framework for a co-living project.
+
+Prompt:
+"You are a shared living space consultant. Draft a feasibility study framework for converting a commercial property into a co-living facility in Gurugram, covering: demand and target market segmentation, property layout adaptation, amenity planning (Wi-Fi, co-working, community spaces), pricing strategy, operational cost modeling, marketing approach, competitive analysis, and legal compliance for residential conversions." Inputs Required from User: Property size and current layout Target resident profile Planned amenities and services Desired occupancy rate
+
+Hospitality Resort Feasibility Study Framework
+
+Backstory:
+A hospitality group in Goa is considering developing an eco-luxury resort targeting high-end domestic and international travelers. They want a feasibility study framework to assess location appeal, market positioning, revenue potential, and seasonality risks before committing investment.
+
+Goal:
+Design a feasibility study framework for a high-end resort project.
+
+Prompt:
+"You are a hospitality development consultant. Draft a feasibility study framework for an eco-luxury resort in Goa, covering: site selection analysis (beachfront access, connectivity, zoning), competitive benchmarking against other luxury resorts, room and villa configuration planning, amenity mix (spa, dining, wellness, adventure activities), occupancy and ADR projections, seasonal demand forecasting, investment cost breakdown, environmental sustainability measures, and projected payback period." Inputs Required from User: Proposed resort size and unit mix Target market demographics and geographies Planned service and amenity offerings Preferred sustainability certifications (e.g., LEED)
+
+Data Center Feasibility Study Framework
+
+Backstory:
+A tech investment fund in Hyderabad is exploring a large-scale data center project to serve the cloud computing and AI sectors. They require a feasibility framework that addresses infrastructure readiness, power availability, cooling systems, and compliance with India’s data protection regulations.
+
+Goal:
+Create a feasibility study framework for a tier-III or tier-IV data center.
+
+Prompt:
+"You are a data infrastructure consultant. Build a feasibility study framework for a large-scale data center in Hyderabad, covering: site selection based on power and fiber connectivity, cooling and energy efficiency design, compliance with DPDP Act and sector-specific security standards, modular expansion planning, cost estimation for construction and operations, revenue modeling (co-location vs. managed services), disaster recovery and backup systems, and sustainability measures (renewable energy integration)." Inputs Required from User: Target data center tier Anticipated client industries Preferred ownership or leasing model Expected capacity in MW
+
+Port & Maritime Facility Feasibility Study Framework
+
+Backstory:
+A consortium is considering developing a private port terminal in Gujarat to handle container, bulk, and liquid cargo. They need a feasibility framework to evaluate trade potential, compliance, and infrastructure investment viability.
+
+Goal:
+Develop a feasibility study framework for a port facility in India.
+
+Prompt:
+"You are a maritime infrastructure consultant. Create a feasibility study framework for a private port terminal in Gujarat, covering: trade volume forecasting by commodity type, competitor port benchmarking, environmental impact assessment, dredging and berthing capacity planning, hinterland connectivity evaluation, capex & opex modeling, concession agreement terms, and risk mitigation strategies for regulatory and environmental compliance." Inputs Required from User: Target cargo mix Proposed berth capacity Target clientele (shipping lines, traders) Expected concession period
+
+Healthcare Super-Specialty Hospital Feasibility Study Framework
+
+Backstory:
+A healthcare trust in Pune wants to set up a 500-bed super-specialty hospital focusing on oncology, cardiology, and organ transplants. They require a feasibility study framework to assess demand, medical equipment investment, staffing needs, and operational sustainability.
+
+Goal:
+Design a feasibility study framework for a super-specialty hospital in India.
+
+Prompt:
+"You are a healthcare infrastructure consultant. Draft a feasibility study framework for a 500-bed super-specialty hospital in Pune, covering: demand and patient catchment analysis, service mix planning (departments, specialties), medical equipment procurement, staffing and training requirements, facility design for patient flow, accreditation requirements (NABH, JCI), revenue and expense projections, and long-term sustainability planning." Inputs Required from User: Target specialties and departments Funding model (private equity, trust, government) Expected bed occupancy rate Medical technology preferences
+
+Affordable Housing Feasibility Study Framework
+
+Backstory:
+A real estate developer in Nagpur wants to launch a government-subsidized affordable housing project under PMAY. They require a feasibility framework to ensure pricing meets eligibility criteria while maintaining profitability.
+
+Goal:
+Create a feasibility study framework for an affordable housing development.
+
+Prompt:
+"You are an affordable housing consultant. Prepare a feasibility study framework for a PMAY-aligned housing project in Nagpur, covering: demand and eligibility assessment, land acquisition and approval process, optimal unit size and layout, cost-effective construction techniques, pricing models compliant with subsidy rules, funding and financing structures, marketing strategies to target eligible buyers, and compliance with state housing policies." Inputs Required from User: Project location and land size Planned unit mix (1BHK, 2BHK, etc.) Target buyer income group Construction technology preference
+
+Mixed-Use Urban Development Feasibility Study Framework
+
+Backstory:
+A city-based developer in Bengaluru is evaluating a 25-acre mixed-use project combining residential towers, office spaces, retail areas, and a convention center. The challenge is to balance asset classes for profitability while ensuring urban integration and community appeal.
+
+Goal:
+Design a feasibility study framework for a large-scale mixed-use development.
+
+Prompt:
+"You are a mixed-use real estate strategist. Create a feasibility study framework for a 25-acre mixed-use urban project in Bengaluru, covering: optimal land-use allocation (residential, commercial, retail, public spaces), demand assessment for each asset type, integration of transport and connectivity, phased development strategy, financial modeling for cross-subsidization, green building certification requirements, community amenities planning, and long-term asset management strategies." Inputs Required from User: Proposed floor area ratio (FAR) Target demographics and buyer/tenant profiles Planned project timeline Expected funding structure
+
+Industrial Park Feasibility Study Framework
+
+Backstory:
+A state government in Tamil Nadu is inviting private developers to set up a multi-sector industrial park focused on automotive, electronics, and renewable energy manufacturing. Investors require a feasibility framework to assess market demand, utility provisioning, and tenant acquisition potential.
+
+Goal:
+Develop a feasibility study framework for an industrial park project.
+
+Prompt:
+"You are an industrial infrastructure consultant. Draft a feasibility study framework for a multi-sector industrial park in Tamil Nadu, covering: market demand analysis by sector, competitor park benchmarking, utility infrastructure planning (power, water, waste), logistics and connectivity assessment, zoning and compliance with state industrial policies, cost and revenue projections (lease/rent models), marketing strategies for tenant acquisition, and ESG (Environmental, Social, Governance) considerations." Inputs Required from User: Target industries and manufacturing clusters Land size and location details Planned amenities for tenants Incentives offered by state government
+
+Renewable Energy Solar Farm Feasibility Study Framework
+
+Backstory:
+An investment consortium is exploring a 200 MW solar farm in Rajasthan under India’s renewable energy expansion program. They need a feasibility framework that covers technical, financial, and regulatory aspects to ensure bankability.
+
+Goal:
+Create a feasibility study framework for a utility-scale solar project.
+
+Prompt:
+"You are a renewable energy project consultant. Develop a feasibility study framework for a 200 MW solar farm in Rajasthan, covering: solar irradiation and yield analysis, land acquisition and clearance procedures, technology selection (mono-PERC, bifacial panels), grid connection and evacuation planning, capital expenditure and operating cost modeling, power purchase agreement (PPA) negotiations, financial viability metrics (IRR, DSCR), and environmental and social impact assessments." Inputs Required from User: Project location and land status Preferred solar technology Target PPA buyer (utility, corporate) Funding mix (equity, debt, subsidies)
+
+Logistics & Warehousing Hub Feasibility Study Framework
+
+Backstory:
+A private equity-backed logistics company is considering a 50-acre warehousing and distribution hub along the Delhi-Mumbai Industrial Corridor (DMIC). They require a feasibility framework to optimize location, design, and revenue models.
+
+Goal:
+Prepare a feasibility study framework for a large-scale logistics hub.
+
+Prompt:
+"You are a logistics infrastructure advisor. Draft a feasibility study framework for a 50-acre warehousing hub on the DMIC, covering: location accessibility and transport network analysis, modular warehouse design for multiple clients, cold storage and specialized handling facilities, automation and technology integration, competitive rent benchmarking, multi-client leasing strategy, operational efficiency metrics, and scalability potential." Inputs Required from User: Target industries (FMCG, pharma, e-commerce) Planned built-up area Automation level preference Intended ownership/lease model
+
+Theme Park & Entertainment Complex Feasibility Study Framework
+
+Backstory:
+A leisure and entertainment company in Maharashtra is exploring a theme park combined with a water park and retail promenade. The project requires a feasibility framework to validate tourist footfall potential, ticket pricing strategy, and partnership models.
+
+Goal:
+Design a feasibility study framework for a theme park development.
+
+Prompt:
+"You are a leisure and attractions consultant. Prepare a feasibility study framework for a theme park and entertainment complex in Maharashtra, covering: market demand and tourist flow analysis, ride and attraction mix planning, safety and compliance standards, ticket pricing and membership models, retail and F&B integration, capex and operational expenditure forecasts, seasonal marketing strategies, and long-term brand positioning." Inputs Required from User: Target audience demographics Proposed land size and location Planned attractions and features Partnership models (franchise, licensing)
+
+Affordable Housing Township Feasibility Study Framework
+
+Backstory:
+A real estate developer in Gujarat is considering a 3,000-unit affordable housing township under the Pradhan Mantri Awas Yojana (PMAY) scheme. They need a feasibility framework that balances government subsidy compliance with profitability, while ensuring the project attracts first-time buyers from nearby industrial areas.
+
+Goal:
+Prepare a feasibility study framework for an affordable housing township.
+
+Prompt:
+"You are a housing policy and real estate consultant. Create a feasibility study framework for a PMAY-linked affordable housing township in Gujarat, covering: eligibility and subsidy calculation under PMAY, demand mapping for low-to-middle income groups, cost-effective design and construction strategies, infrastructure and amenities planning, financing structures (bank tie-ups, microfinance), competitive pricing analysis, compliance with state urban housing policies, and community engagement strategies." Inputs Required from User: Land location and size Target buyer income segment Proposed unit sizes and price ranges Planned amenities
+
+Senior Living Community Feasibility Study Framework
+
+Backstory:
+A healthcare and real estate joint venture in Pune wants to create a premium senior living community with healthcare support, leisure amenities, and assisted living facilities. They need a feasibility framework to test the concept against market demand, affordability, and operational sustainability.
+
+Goal:
+Design a feasibility study framework for a senior living project.
+
+Prompt:
+"You are a senior living real estate specialist. Draft a feasibility study framework for a premium assisted living community in Pune, covering: market demand and willingness-to-pay analysis, healthcare integration (clinics, 24x7 nurse care), amenities and lifestyle programming, staff recruitment and training models, capex and operational cost projections, pricing models (lease, ownership, hybrid), regulatory compliance for healthcare facilities, and partnerships with insurance providers." Inputs Required from User: Land size and location Healthcare service integration plans Target customer age group & income level Planned amenities and activities
+
+Coastal Resort Development Feasibility Study Framework
+
+Backstory:
+A hospitality group is considering developing a luxury coastal resort in Goa with villas, a spa, and adventure tourism packages. They need a feasibility framework that evaluates tourist seasonality, environmental clearances, and premium positioning strategies.
+
+Goal:
+Create a feasibility study framework for a coastal luxury resort.
+
+Prompt:
+"You are a hospitality development consultant. Prepare a feasibility study framework for a luxury resort in Goa, covering: market analysis for domestic and international tourists, competition mapping, architectural design guidelines for coastal zones, environmental clearance requirements (CRZ norms), seasonality-based revenue forecasts, marketing and distribution channel strategies, high-value guest experience design, and partnerships with tour operators." Inputs Required from User: Exact coastal location Planned resort size and amenities Target market (domestic, international, or mixed) Branding and positioning goals
+
+Urban Co-Living Space Feasibility Study Framework
+
+Backstory:
+A startup in Hyderabad is exploring a co-living facility targeting young professionals and students, offering furnished rooms, community events, and flexible lease terms. They require a feasibility framework that covers pricing models, occupancy targets, and operational efficiency.
+
+Goal:
+Develop a feasibility study framework for an urban co-living project.
+
+Prompt:
+"You are a shared living space consultant. Draft a feasibility study framework for a co-living project in Hyderabad, covering: market demand assessment by location, competitive pricing analysis, community-building strategies, shared amenities planning, technology-enabled property management, occupancy and churn projections, legal compliance for rental housing, and financial modeling for scalability." Inputs Required from User: Target customer segments Proposed number of units and lease terms Planned amenities and events Technology integration level
+
+Airport Commercial Zone Feasibility Study Framework
+
+Backstory:
+An infrastructure developer is planning a commercial and hospitality hub near a Tier-2 city airport in India. The zone would include hotels, retail, office spaces, and MICE (Meetings, Incentives, Conferences, Exhibitions) facilities. They need a feasibility framework to assess viability, considering changing air traffic trends and business travel patterns.
+
+Goal:
+Design a feasibility study framework for an airport commercial zone.
+
+Prompt:
+"You are an infrastructure and commercial development consultant. Create a feasibility study framework for a mixed-use commercial hub near an airport, covering: air traffic and passenger flow analysis, demand mapping for business travel services, hotel and retail space planning, conference and exhibition facility sizing, transport connectivity assessment, capex and revenue forecasting, competitive landscape analysis, and regulatory and zoning compliance." Inputs Required from User: Airport location and passenger statistics Land parcel size and ownership status Planned components (hotel rooms, retail area, office space) Investment and partnership model
+
+
+Project Proposal Templates
+
 
