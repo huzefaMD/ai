@@ -107,3 +107,74 @@ End with a clear recommendation
 for my specific situation: [context]
 </task>
 ```
+## Real Example for Huzefa:
+```
+<task>
+Compare these 3 platforms for hosting
+HuzefAI's online courses:
+- Teachable
+- Thinkific
+- Building our own on WordPress
+
+Evaluate on:
+1. Cost for 500 students
+2. Features for live + recorded content
+3. Payment gateway options for India
+4. Student experience quality
+5. Customization flexibility
+
+Present as a table.
+Recommend the best for a Chennai-based
+EdTech startup at early growth stage.
+</task>
+```
+## Mode 3- Analyze This For Me
+### Best for: Making sense of content, feedback, or data you already have
+```
+<task>
+Analyze this [content/data/feedback] and tell me:
+1. Key patterns you notice
+2. What's working well
+3. What's not working
+4. Hidden insights I might be missing
+5. Top 3 actionable recommendations
+</task>
+
+<data>
+[paste your content here]
+</data>
+```
+## Real Example for Huzefa:
+```
+<task>
+Analyze these student reviews from
+HuzefAI's last AWS batch and tell me:
+
+1. Most common praise (top 3 themes)
+2. Most common complaints (top 3 themes)
+3. Sentiment score overall (1-10)
+4. Any surprising or unexpected feedback
+5. Top 3 changes to make for next batch
+</task>
+
+<data>
+[paste 20-30 student reviews here]
+</data>
+```
+## Mode 4- Find Gaps For Me
+### Best for: Spotting opportunities competitors are missing
+```
+<task>
+Analyze the [market/industry/niche] and:
+1. Identify underserved needs
+2. Spot gaps competitors aren't filling
+3. Find emerging trends nobody is teaching yet
+4. Suggest 3 opportunities HuzefAI could own
+</task>
+
+<context>
+HuzefAI teaches Cloud, DevOps, AI in Chennai.
+Target: IT professionals and freshers.
+Current gap we see: [describe what you notice]
+</context>
+```
