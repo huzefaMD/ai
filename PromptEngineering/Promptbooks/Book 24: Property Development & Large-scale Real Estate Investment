@@ -1337,4 +1337,279 @@ Prompt:
 
 Government Approval Checklists
 
+Building Plan Approval Checklist for Urban High-Rise Projects
+
+Backstory:
+A developer in Mumbai is planning a 40-storey luxury residential tower in a prime location. Before construction can begin, they must secure approvals from the local municipal corporation, fire department, environmental authorities, and other statutory bodies. The process involves multiple departments and detailed technical documentation, and any missing step can cause months of delay.
+
+Goal:
+Create a step-by-step building plan approval checklist for urban high-rise projects in India.
+
+Prompt:
+"You are a real estate compliance consultant. Draft a detailed building plan approval checklist for a high-rise residential project in Mumbai, covering: land title verification, zoning clearance, floor space index (FSI) calculation, architectural plan submission, structural safety certification, environmental clearance, fire safety NOC, traffic impact assessment, and payment of applicable development charges." Inputs Required from User: Project location and plot details Proposed building height and FSI utilization Intended use (residential/commercial/mixed) Local municipal corporation jurisdiction
+
+Environmental Clearance Checklist for Coastal Projects
+
+Backstory:
+A resort developer in Goa is building a beachfront property within 500 meters of the high tide line. As per Coastal Regulation Zone (CRZ) norms, they must undergo environmental impact assessment (EIA) and secure clearance from the Ministry of Environment, Forest and Climate Change (MoEFCC). The process is complex and requires coordination between state coastal zone management authorities and central government bodies.
+
+Goal:
+Prepare an environmental clearance checklist for projects in coastal regulation zones.
+
+Prompt:
+"You are an environmental compliance advisor. Create a detailed CRZ project approval checklist covering: CRZ classification mapping, EIA study requirements, public hearing protocols, biodiversity impact mitigation measures, construction restrictions within specific zones, MoEFCC application submission, and ongoing environmental monitoring obligations post-approval." Inputs Required from User: Exact project location and distance from high tide line Type of development (hotel, resort, housing) Land ownership and current use Anticipated environmental impact factors
+
+Land Use Conversion Approval Checklist
+
+Backstory:
+A commercial developer in Bengaluru has purchased agricultural land on the outskirts of the city and intends to convert it into a logistics park. Under Karnataka land revenue laws, they must obtain land use conversion approval before applying for building permits. This involves multiple stages, from revenue department clearance to urban planning authority approval.
+
+Goal:
+Draft a land use conversion approval checklist for developers.
+
+Prompt:
+"You are a land development compliance consultant. Prepare a land use conversion approval checklist covering: revenue department application submission, payment of conversion charges, no-objection certificates (NOCs) from local bodies, urban planning authority clearance, mutation of land records, and final issuance of conversion order." Inputs Required from User: Current land classification and location Intended future land use Total plot size and boundaries Applicable state land revenue authority
+
+Fire Safety NOC Checklist for Commercial Buildings
+
+Backstory:
+A company in Gurugram is developing a commercial office tower with multiple floors of coworking spaces, retail, and dining areas. To obtain occupancy certification, they must secure a Fire Safety NOC from the state fire department. This involves meeting design, equipment, and evacuation standards as per the National Building Code (NBC).
+
+Goal:
+Create a fire safety compliance checklist for commercial properties.
+
+Prompt:
+"You are a fire safety compliance officer. Draft a fire safety NOC checklist for a commercial high-rise in Gurugram, covering: fire suppression system design approvals, hydrant and sprinkler installation verification, evacuation route and signage requirements, fire-resistant building material specifications, periodic fire drills and training, and submission of maintenance logs for approval renewal." Inputs Required from User: Total built-up area and height of the building Number of floors and occupants per floor Proposed fire suppression systems NBC compliance drawings
+
+Airport Authority Clearance Checklist for Projects Near Flight Paths
+
+Backstory:
+A developer in Ahmedabad is building a commercial complex just 5 km from the airport. The project’s height and lighting features require clearance from the Airports Authority of India (AAI) to ensure no obstruction to flight operations. Failure to comply could lead to demolition orders or project suspension.
+
+Goal:
+Prepare an AAI clearance checklist for real estate projects near airports.
+
+Prompt:
+"You are an aviation compliance consultant. Create an AAI clearance checklist covering: submission of project coordinates and elevation details, obstacle limitation surface (OLS) analysis, height clearance application, aviation hazard lighting specifications, final NOC issuance, and post-construction verification procedures." Inputs Required from User: Project site coordinates and elevation Proposed building height Distance from nearest airport Presence of any rooftop structures (towers, masts)
+
+Heritage Conservation Approval Checklist for Redevelopment Projects
+
+Backstory:
+A boutique hotel chain in Jaipur has purchased a 120-year-old haveli within the city’s heritage zone. Any renovation or adaptive reuse must comply with heritage conservation laws and secure approvals from the state archaeology department and heritage committees. These rules are designed to preserve original architectural features while allowing for modern upgrades.
+
+Goal:
+Prepare a heritage building redevelopment approval checklist.
+
+Prompt:
+"You are a heritage compliance advisor. Draft a detailed approval checklist for redeveloping a heritage property in Jaipur, covering: historical building documentation, structural condition assessment, heritage conservation plan preparation, NOCs from archaeology and urban development authorities, material usage guidelines, façade preservation requirements, and periodic heritage inspection compliance." Inputs Required from User: Property location and heritage classification Proposed redevelopment plans Age and condition of the building Any prior heritage modifications
+
+RERA Registration Approval Checklist for Residential Projects
+
+Backstory:
+A residential developer in Pune is launching a gated community of 200 apartments. As per the Real Estate (Regulation and Development) Act, they must register the project with the state RERA authority before marketing or selling any units. RERA compliance requires submission of detailed project documentation, financial disclosures, and timelines.
+
+Goal:
+Create a RERA registration compliance checklist for residential developments.
+
+Prompt:
+"You are a real estate regulation consultant. Prepare a step-by-step RERA registration checklist covering: promoter details submission, land title verification, sanctioned plan upload, project layout & specifications disclosure, cost estimate filing, escrow account creation for project funds, and quarterly project progress report requirements." Inputs Required from User: Project type and size Land ownership documentation Approved layout and building plans Estimated cost and completion timeline
+
+Water Supply and Sewerage Connection Approval Checklist
+
+Backstory:
+A commercial complex in Hyderabad is nearing completion and requires municipal water supply and sewerage connections before occupancy. The process involves securing approvals from the Hyderabad Metropolitan Water Supply and Sewerage Board (HMWSSB) and complying with water usage and wastewater treatment regulations.
+
+Goal:
+Draft a water and sewerage connection approval checklist for large developments.
+
+Prompt:
+"You are a municipal services compliance consultant. Create a checklist for obtaining water supply and sewerage approvals for a commercial complex, covering: application form submission, site inspection scheduling, metering system installation, sewer connection design approvals, wastewater treatment plant compliance, and payment of applicable connection fees." Inputs Required from User: Total built-up area and expected water usage Location and applicable water board Wastewater treatment method planned Building completion status
+
+Power Supply Approval Checklist for New Housing Townships
+
+Backstory:
+A large-scale housing project in Noida is ready for possession but must first obtain a power supply connection from the state electricity distribution company. This includes ensuring adequate transformer capacity, underground cabling, and safety certifications before energizing the supply.
+
+Goal:
+Create an electricity connection approval checklist for housing projects.
+
+Prompt:
+"You are an electrical infrastructure compliance consultant. Draft a detailed power supply approval checklist for new housing townships, covering: load requirement calculation, electrical layout submission, safety compliance certificate issuance, transformer installation & testing, underground cable approvals, and final energization authorization from the electricity board." Inputs Required from User: Number of housing units Expected peak load requirement Electrical layout plans State electricity distribution company jurisdiction
+
+Labour Welfare Compliance Approval Checklist for Construction Sites
+
+Backstory:
+A real estate developer in Chennai is commencing construction on a large IT park. Labour laws require them to register under the Building and Other Construction Workers (BOCW) Act, ensure on-site safety measures, and contribute to the welfare fund before construction begins.
+
+Goal:
+Prepare a labour compliance approval checklist for large-scale construction sites.
+
+Prompt:
+"You are a construction labour compliance expert. Create a checklist for meeting labour welfare approval requirements, covering: BOCW registration process, payment of cess to welfare fund, worker accommodation and sanitation facilities setup, personal protective equipment (PPE) provision, safety officer appointment, and periodic safety audits." Inputs Required from User: Estimated number of construction workers Duration of construction phase On-site safety infrastructure planned Applicable state labour department
+
+Environmental Clearance Approval Checklist for High-Rise Projects
+
+Backstory:
+A real estate group in Mumbai plans to construct a 50-storey luxury residential tower. As per MoEFCC guidelines, high-rise buildings exceeding certain height and built-up area require environmental clearance. This involves extensive studies on air quality, noise pollution, waste management, and traffic impact before approval is granted.
+
+Goal:
+Prepare an environmental clearance approval checklist for high-rise projects.
+
+Prompt:
+"You are an environmental clearance consultant. Draft a detailed checklist for obtaining MoEFCC approval for high-rise buildings, covering: baseline environmental studies, Environmental Impact Assessment (EIA) preparation, traffic impact study submission, waste management plan, green building compliance, public consultation process, and final clearance documentation." Inputs Required from User: Project height and total built-up area Location and environmental sensitivity of the site Planned waste management and sustainability measures Projected traffic and infrastructure load
+
+Fire Safety Approval Checklist for Commercial Complexes
+
+Backstory:
+A corporate developer in Gurugram is nearing completion of a large IT park and must obtain fire safety clearance from the state fire department before occupancy. This requires compliance with the National Building Code of India and state-specific fire safety guidelines.
+
+Goal:
+Create a fire safety clearance approval checklist.
+
+Prompt:
+"You are a fire safety compliance specialist. Prepare a comprehensive checklist for obtaining fire safety clearance for commercial complexes, covering: fire alarm system installation, hydrant and sprinkler system testing, emergency exit compliance, evacuation drills, fire safety signage placement, fire control room setup, and submission of safety audit reports." Inputs Required from User: Building floor plans and fire safety layouts Installed fire suppression systems Number of occupants and usage type Applicable state fire department rules
+
+Coastal Regulation Zone (CRZ) Approval Checklist
+
+Backstory:
+A resort developer in Goa wants to build luxury cottages along the beachfront. Since the site falls under the Coastal Regulation Zone, approvals from the Coastal Zone Management Authority are required to ensure ecological protection and adherence to CRZ norms.
+
+Goal:
+Prepare a CRZ compliance approval checklist.
+
+Prompt:
+"You are a coastal regulation compliance advisor. Draft a CRZ approval checklist for beachfront development, covering: CRZ zone classification verification, distance measurement from High Tide Line (HTL), environmental sensitivity mapping, structural restrictions compliance, public access preservation, waste disposal safeguards, and final authority clearance process." Inputs Required from User: Exact site coordinates and CRZ category Proposed building structure and height Distance from HTL Planned waste management and drainage systems
+
+Airport Authority Height Clearance Checklist
+
+Backstory:
+A developer in Delhi NCR is constructing a high-rise commercial tower near the airport. Due to its proximity to the flight path, they must secure height clearance from the Airports Authority of India (AAI) to ensure air traffic safety.
+
+Goal:
+Create a height clearance approval checklist for buildings near airports.
+
+Prompt:
+"You are an aviation compliance consultant. Draft a checklist for securing AAI height clearance, covering: submission of site coordinates, proposed building height, obstacle limitation surface (OLS) assessment, No Objection Certificate (NOC) application process, lighting and marking requirements, and post-construction compliance verification." Inputs Required from User: Exact site coordinates and elevation Planned building height and structure type Proximity to airport runways Any previous aviation clearance history
+
+Road Access and Traffic Impact Approval Checklist
+
+Backstory:
+A shopping mall developer in Lucknow must obtain approval from the Public Works Department (PWD) for road access and traffic management plans before opening. This ensures the development does not cause congestion or safety hazards in surrounding areas.
+
+Goal:
+Draft a traffic impact and road access approval checklist.
+
+Prompt:
+"You are a traffic engineering compliance expert. Prepare a detailed checklist for obtaining road access approvals, covering: traffic impact study submission, site access road design compliance, pedestrian safety measures, parking space planning, coordination with local traffic police, and post-opening traffic monitoring requirements." Inputs Required from User: Project size and expected visitor volume Proposed site entry and exit points Parking capacity plans Local traffic congestion patterns
+
+Heritage Building Renovation Approval Checklist
+
+Backstory:
+A developer in Kolkata has purchased an old colonial-era building to convert into a boutique hotel. The building is listed as a heritage property under state heritage regulations, meaning any renovation requires multiple approvals to ensure historical authenticity is preserved.
+
+Goal:
+Create a heritage building renovation approval checklist.
+
+Prompt:
+"You are a heritage conservation compliance consultant. Draft a checklist for obtaining renovation approvals for heritage properties, covering: heritage classification verification, structural integrity assessment, original façade preservation requirements, use of approved restoration materials, archaeological department consultation, public heritage committee approval, and final compliance certification." Inputs Required from User: Heritage classification level and listing authority Proposed renovation scope Building condition and age Architect and contractor experience in heritage work
+
+Labour Welfare & Construction Worker Safety Compliance Checklist
+
+Backstory:
+A large residential township project in Pune is in the excavation stage. Before continuing heavy construction, the developer must ensure compliance with the Building and Other Construction Workers (Regulation of Employment and Conditions of Service) Act, including worker safety, health facilities, and welfare benefits.
+
+Goal:
+Prepare a construction worker welfare compliance checklist.
+
+Prompt:
+"You are a construction labour compliance expert. Create a checklist for ensuring compliance with labour safety and welfare laws, covering: worker registration, on-site safety gear and PPE distribution, sanitation and drinking water facilities, first-aid provisions, safety training sessions, accident reporting mechanisms, and welfare fund contributions." Inputs Required from User: Number of construction workers employed Current on-site safety infrastructure Location of project Contractor/subcontractor agreements
+
+Sewage Treatment Plant (STP) Approval Checklist
+
+Backstory:
+A luxury villa community in Hyderabad needs to install an on-site sewage treatment plant as per municipal wastewater disposal regulations. Approval from the Pollution Control Board is mandatory before commissioning.
+
+Goal:
+Create a sewage treatment plant approval checklist.
+
+Prompt:
+"You are an environmental engineering consultant. Draft a checklist for obtaining STP approvals, covering: wastewater generation estimation, STP design and capacity compliance, Pollution Control Board application process, water reuse and recycling plans, sludge disposal guidelines, and periodic testing requirements." Inputs Required from User: Project population and water usage estimates STP technology to be used Reuse plans for treated water Location and regulatory jurisdiction
+
+Electricity Connection and Load Approval Checklist
+
+Backstory:
+A mixed-use development in Chennai requires a high-capacity electricity connection to power residential, commercial, and entertainment spaces. Tamil Nadu Electricity Board approval is needed for load sanction and metering.
+
+Goal:
+Prepare an electricity load approval checklist.
+
+Prompt:
+"You are a power infrastructure compliance specialist. Create a checklist for securing electricity connection and load approval, covering: load requirement calculation, sanctioned load application, transformer installation compliance, safety inspection reports, metering arrangements, and payment of security deposits." Inputs Required from User: Total connected load estimate Electrical design drawings Proposed transformer capacity Project completion timeline
+
+Rainwater Harvesting Approval Checklist
+
+Backstory:
+A high-rise residential tower in Gurugram is mandated to install a rainwater harvesting system under local building bylaws. Approval from the municipal water department is required before occupancy.
+
+Goal:
+Create a rainwater harvesting compliance checklist.
+
+Prompt:
+"You are a sustainable water management consultant. Draft a checklist for obtaining rainwater harvesting approval, covering: rooftop catchment area calculation, design and storage tank specifications, filtration system compliance, overflow arrangements, recharge well design, and periodic maintenance commitments." Inputs Required from User: Building rooftop area Estimated rainfall in the region Planned storage capacity Intended use of harvested water
+
+Metro Rail Proximity Clearance Checklist
+
+Backstory:
+A developer in Delhi NCR is building a commercial complex adjacent to a metro line. Delhi Metro Rail Corporation (DMRC) clearance is required to ensure construction does not impact metro infrastructure.
+
+Goal:
+Create a metro proximity clearance checklist.
+
+Prompt:
+"You are a metro infrastructure compliance consultant. Draft a checklist for obtaining clearance for projects near metro rail lines, covering: structural safety analysis, vibration impact studies, foundation design approvals, construction scheduling coordination with metro authorities, and post-construction inspection." Inputs Required from User: Exact site distance from metro alignment Foundation depth and type Structural design drawings Construction timeline
+
+Disaster Management Approval Checklist for High-Density Projects
+
+Backstory:
+A township in Bhubaneswar is located in a cyclone-prone region. As per state disaster management authority requirements, the developer must incorporate disaster preparedness measures into the project design and obtain formal approval.
+
+Goal:
+Prepare a disaster management compliance checklist.
+
+Prompt:
+"You are a disaster risk reduction consultant. Create a checklist for obtaining disaster management approval, covering: hazard risk assessment, structural resilience compliance, emergency evacuation planning, disaster response resource allocation, authority coordination protocols, and annual disaster drills." Inputs Required from User: Local disaster risk profile Building resilience measures planned Population density of the project Emergency infrastructure availability
+
+Telecom Infrastructure Clearance Checklist
+
+Backstory:
+A commercial high-rise in Bengaluru wants to install rooftop telecom towers for enhanced connectivity. Approval from the Department of Telecommunications (DoT) and municipal authorities is required.
+
+Goal:
+Create a telecom tower installation clearance checklist.
+
+Prompt:
+"You are a telecom infrastructure compliance consultant. Draft a checklist for rooftop telecom tower approval, covering: structural safety certification, radiation compliance reports, DoT application process, municipal NOC, lease agreements, and post-installation audits." Inputs Required from User: Tower type and height Building structural details Service provider agreements Location of installation
+
+Green Building Certification Approval Checklist
+
+Backstory:
+A corporate office tower in Pune is aiming for IGBC Platinum certification. To qualify, it must meet several sustainability criteria and pass third-party audits.
+
+Goal:
+Prepare a green building certification checklist.
+
+Prompt:
+"You are a green building certification advisor. Draft a checklist for IGBC Platinum certification approval, covering: energy efficiency compliance, renewable energy integration, indoor air quality testing, water efficiency measures, sustainable material usage, waste reduction programs, and audit documentation requirements." Inputs Required from User: Green building certification target (IGBC/LEED/Griha) Planned sustainability measures Building design and layout plans Energy performance modeling data
+
+Final Occupancy Certificate Approval Checklist
+
+Backstory:
+A mixed-use skyscraper in Ahmedabad has completed construction and now requires the Occupancy Certificate (OC) from the municipal corporation to allow residents and businesses to move in.
+
+Goal:
+Create a final occupancy approval checklist.
+
+Prompt:
+"You are a real estate compliance officer. Draft a checklist for obtaining an Occupancy Certificate, covering: as-built drawing submission, fire safety clearance, electrical inspection reports, water and sanitation approval, structural stability certificate, property tax clearance, and compliance with sanctioned building plans." Inputs Required from User: Final as-built drawings List of all previous approvals obtained Completion date and inspection readiness Any deviations from original sanctioned plans
+
 
