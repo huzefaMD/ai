@@ -27,7 +27,7 @@
 Fill in the blanks
 Output focused`
 
-Example: Email draft
+*Example:* Email draft
 
 *WHEN TO USE TEMPLATE:*
 
@@ -41,7 +41,7 @@ Communicating`
 Follow the steps
 Process focused`
 
-Example: How to onboard
+*Example:* How to onboard
 a new student
 
 *WHEN TO USE SOP:*
