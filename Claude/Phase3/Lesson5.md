@@ -27,9 +27,9 @@
 Fill in the blanks
 Output focused`
 
-*Example:* Email draft
+**Example:** Email draft
 
-*WHEN TO USE TEMPLATE:*
+**WHEN TO USE TEMPLATE:**
 
 `Writing something
 Creating content
@@ -41,10 +41,10 @@ Communicating`
 Follow the steps
 Process focused`
 
-*Example:* How to onboard
+**Example:** How to onboard
 a new student
 
-*WHEN TO USE SOP:*
+**WHEN TO USE SOP:**
 
 `Doing something
 Following a process
