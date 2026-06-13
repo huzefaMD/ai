@@ -1112,4 +1112,48 @@ Prompt:
 
 Retirement Planning Worksheets
 
+Early Career Retirement Blueprint
+
+Backstory:
+Ravi, a 27-year-old IT professional in Bengaluru, has been working for three years and earns ₹9 LPA. He recently cleared his education loan and wants to start saving for retirement early so he can retire by 50. He is aware of inflation, changing lifestyles, and wants to plan for a comfortable retirement that includes travel, healthcare, and a home in the hills. He isn’t sure how much to save monthly or which investment avenues to choose.
+
+Goal:
+Create a retirement planning worksheet that calculates required monthly savings, adjusts for inflation, and factors in long-term returns from mutual funds, PPF, and NPS.
+
+Prompt:
+"Act as a certified financial planner and create a detailed retirement planning worksheet for a 27-year-old earning ₹9 LPA. Include: current age, target retirement age, expected lifespan, inflation rate (5%), annual salary increment (7%), expected return rates for different investment types (equity 12%, debt 7%, hybrid 9%). Break down: (1) future corpus needed, (2) monthly SIP amount required, (3) diversification between mutual funds, PPF, and NPS, (4) projection table year-wise till retirement, (5) visual charts for contribution vs growth."
+
+Retirement Planning for Women Entrepreneurs
+
+Backstory:
+Priya, 32, runs a small bakery business in Pune and earns ₹1.5 LPA in net profits. She doesn’t have a fixed salary and income fluctuates seasonally. She has minimal investments and wants to ensure she can retire at 55 with enough savings to maintain a ₹60,000/month lifestyle. She wants a worksheet that helps her plan even with inconsistent monthly income.
+
+Goal:
+Build a flexible worksheet for business owners with irregular incomes to plan retirement savings.
+
+Prompt:
+"Design a flexible retirement planning worksheet for a 32-year-old woman entrepreneur in India with irregular monthly income. Include: (1) Annual and monthly income tracking with seasonal variations, (2) Target lifestyle cost in retirement adjusted for 5% inflation, (3) Corpus required at age 55, (4) Recommended minimum and maximum monthly investments based on income fluctuation, (5) Safe investment options for business owners like PPF, FDs, NPS, debt funds, (6) Visual income vs investment vs corpus projections."
+
+FIRE (Financial Independence, Retire Early) Plan
+
+Backstory:
+Amit, 29, a digital marketer in Mumbai, wants to adopt the FIRE model. He earns ₹14 LPA, saves aggressively, and spends minimally. His goal is to retire by 45 with enough corpus to live off investments, travel the world, and pursue creative hobbies.
+
+Goal:
+Create a FIRE-focused worksheet calculating aggressive savings and high-return investment paths.
+
+Prompt:
+"Prepare a FIRE (Financial Independence, Retire Early) model worksheet for a 29-year-old earning ₹14 LPA, target retirement age 45, post-retirement monthly needs ₹80,000, inflation 5%, equity return 12%, debt return 7%. Include: (1) Corpus calculation for 40 years of post-retirement life, (2) Monthly investment needed, (3) Asset allocation split between equity-heavy and safe assets, (4) Annual rebalancing chart, (5) Graphs showing savings trajectory and corpus growth, (6) Contingency plan for market downturns."
+
+Retirement Plan for NRIs Returning to India
+
+Backstory:
+Neha, 34, has been working in Dubai for 8 years and plans to return to India at 45. She currently earns AED 22,000/month and invests in Indian mutual funds and UAE savings plans. She needs a plan to merge her foreign savings with Indian investment options for a smooth retirement in India by 60.
+
+Goal:
+Build a worksheet for NRIs to consolidate international and Indian assets for retirement planning.
+
+Prompt:
+"Develop a retirement planning worksheet for a 34-year-old NRI earning AED 22,000/month, target retirement age 60 in India. Include: (1) Conversion of current and future foreign savings to INR, (2) Tax implications for NRI investments, (3) Inflation-adjusted lifestyle costs in India, (4) Asset allocation between global equity, Indian mutual funds, PPF, and real estate, (5) Annual projection till age 60, (6) Plan for systematic withdrawal post-retirement."
+
 
