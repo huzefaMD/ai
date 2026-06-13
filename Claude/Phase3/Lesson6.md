@@ -27,21 +27,11 @@ Builds a personal memory over time.
 Available on Claude.ai (can be enabled).
 
 ## The Memory Hierarchy
-+----------------------------------+
-|         CLAUDE PROJECTS          |
-| Your business context lives      | ← Permanent, structured context you control
-| here across all chats            |
-+----------------------------------+
+## The Memory Hierarchy
 
-+----------------------------------+
-|          CLAUDE MEMORY           |
-| Facts Claude learns about        |← Auto-saved facts from conversations
-| you automatically                |
-+----------------------------------+
-
-
-+----------------------------------+
-|        IN-CONVERSATION           |
-| Everything in current chat       |← Temporary, resets each new chat
-+----------------------------------+
+| Level | Description | Notes |
+|---------|-------------|-------|
+| **CLAUDE PROJECTS**|  Your business context lives here across all chats | ` ← Permanent, structured context you control` |
+| **CLAUDE MEMORY** | Facts Claude learns about you automatically |` ← Auto-saved facts from conversations` |
+| **IN-CONVERSATION** | Everything in current chat |` ← Temporary, resets each new chat` |
 
