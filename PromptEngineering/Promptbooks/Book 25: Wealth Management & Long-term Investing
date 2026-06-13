@@ -1156,4 +1156,235 @@ Build a worksheet for NRIs to consolidate international and Indian assets for re
 Prompt:
 "Develop a retirement planning worksheet for a 34-year-old NRI earning AED 22,000/month, target retirement age 60 in India. Include: (1) Conversion of current and future foreign savings to INR, (2) Tax implications for NRI investments, (3) Inflation-adjusted lifestyle costs in India, (4) Asset allocation between global equity, Indian mutual funds, PPF, and real estate, (5) Annual projection till age 60, (6) Plan for systematic withdrawal post-retirement."
 
+Retirement Plan for Government Employees
+
+Backstory:
+Anil, 40, is a government school teacher in Rajasthan. He has a pension but knows it may not be enough to cover healthcare costs and inflation. He also has two kids whose education will impact his savings. He wants a worksheet that helps him calculate supplemental savings needed for a secure retirement at 60.
+
+Goal:
+Create a retirement worksheet factoring in existing pension and future needs.
+
+Prompt:
+"Create a retirement planning worksheet for a 40-year-old Indian government employee with a pension plan. Include: (1) Projected pension income at age 60, (2) Expected monthly expenses adjusted for 5% inflation, (3) Gap analysis showing shortfall between pension and expenses, (4) Monthly SIP needed to cover shortfall, (5) Investment mix between debt funds, PPF, and equity, (6) Year-wise projections till retirement, (7) Charts showing pension vs additional savings growth."
+
+Retirement Planning for Freelancers
+
+Backstory:
+Shreya, 26, is a freelance graphic designer in Delhi. Her monthly income varies between ₹35,000–₹1,20,000 depending on projects. She has no PF, no fixed employer contributions, and minimal existing savings. She fears she won’t be able to retire comfortably if she doesn’t start structured planning now. She wants a worksheet that works even with unpredictable income and helps her stay disciplined.
+
+Goal:
+Provide a tool that allows freelancers with fluctuating income to create a sustainable retirement corpus.
+
+Prompt:
+"Design a retirement planning worksheet for a 26-year-old freelancer with irregular monthly income (₹35k–₹1.2L). Include: (1) Income recording section with variability tracking, (2) Monthly percentage-based savings target instead of fixed amount, (3) Inflation-adjusted retirement corpus calculation, (4) Split between liquid emergency funds, equity mutual funds, and long-term PPF, (5) Automatic corpus projection graphs for different investment return scenarios, (6) Safety buffer in case of income dips."
+
+Retirement Planning for Dual-Income Couples
+
+Backstory:
+Arjun (31) and Meera (29) both work in the IT sector in Hyderabad with a combined annual income of ₹25 LPA. They have a home loan and no children yet. They want to retire together at 55 and travel extensively post-retirement. They need a combined worksheet that merges both their incomes, expenses, and investments into one plan.
+
+Goal:
+Create a joint retirement planning worksheet for couples with multiple income streams.
+
+Prompt:
+"Build a dual-income couple’s retirement planning worksheet for a 31-year-old male and 29-year-old female in India, combined annual income ₹25 LPA, home loan EMI ₹65,000/month. Include: (1) Consolidated income and expense tracking, (2) Separate and combined asset allocation, (3) Corpus required for joint lifestyle at 55, (4) Monthly investment breakdown for each partner, (5) Loan repayment impact on savings, (6) Projection charts for combined corpus growth, (7) Option to simulate early repayment of loan."
+
+Retirement Planning for Doctors
+
+Backstory:
+Dr. Nikhil, 36, runs his own clinic in Pune. He earns ₹18 LPA but also reinvests heavily into his clinic. He wants to retire at 60 but maintain his current lifestyle, which costs ₹1.5 lakh/month. He has a few FDs and mutual funds but no structured retirement plan.
+
+Goal:
+Build a retirement planning worksheet tailored for high-income professionals with business expenses.
+
+Prompt:
+"Create a retirement planning worksheet for a 36-year-old doctor in India earning ₹18 LPA, business expenses ₹4 LPA/year, lifestyle cost ₹1.5L/month. Include: (1) Corpus required for post-retirement lifestyle adjusted for 5% inflation, (2) Asset allocation between equity-heavy instruments and safe assets like debt funds, (3) Annual rebalancing strategy, (4) Separate section for business asset liquidation before retirement, (5) Charts showing growth of corpus vs withdrawal rates."
+
+Retirement Planning for People in the Gig Economy
+
+Backstory:
+Ramesh, 30, drives for a ride-hailing app and earns ₹50,000–₹70,000 monthly. He has no formal retirement benefits and spends a large portion of his income on fuel, vehicle maintenance, and EMI. He needs a very simple but effective worksheet to start saving small amounts for retirement.
+
+Goal:
+Create a minimal but actionable retirement worksheet for gig workers.
+
+Prompt:
+"Prepare a simple retirement planning worksheet for a 30-year-old gig worker earning ₹50k–₹70k/month in India. Include: (1) Monthly expense and EMI tracking, (2) Recommended percentage of income for savings (starting small and increasing over time), (3) Low-risk investment options, (4) Corpus projection for retirement at 60, (5) Visual breakdown of needs vs savings, (6) Clear targets with reminders for consistency."
+
+Retirement Planning with Real Estate Assets
+
+Backstory:
+Anita, 40, owns two rental properties in Jaipur generating ₹55,000/month in rent. She plans to retire at 58 and live off rental income plus investments. She wants a worksheet that factors in rental income growth and property value appreciation along with her financial assets.
+
+Goal:
+Integrate real estate income into a retirement plan.
+
+Prompt:
+"Build a retirement planning worksheet for a 40-year-old in India with ₹55k/month rental income from two properties, retirement target at 58. Include: (1) Forecast of rental income growth at 4% annually, (2) Property value appreciation at 6% annually, (3) Integration of rental income into retirement corpus calculations, (4) Tax implications, (5) Investment allocation for surplus rental income, (6) Graphs showing total corpus growth including real estate."
+
+Retirement Planning for Start-up Founders
+
+Backstory:
+Vivek, 33, runs a tech start-up in Bengaluru. Most of his wealth is tied up in company equity, and he draws only a modest salary. He wants a plan that factors in the uncertainty of start-up exits and sets aside personal investments for retirement security.
+
+Goal:
+Design a retirement planning worksheet considering illiquid assets and exit timelines.
+
+Prompt:
+"Create a retirement planning worksheet for a 33-year-old start-up founder in India with most assets in company equity. Include: (1) Valuation projection scenarios for exit events, (2) Personal investment plan independent of company performance, (3) Retirement corpus calculation for age 60, (4) Risk mitigation strategies, (5) Charts showing impact of different exit valuations on retirement."
+
+Retirement Planning for Families with Special Needs Children
+
+Backstory:
+Rohit and Anjali, both 38, have a child with special needs who will require lifelong care. They want to plan for their own retirement at 60 while ensuring their child’s financial security.
+
+Goal:
+Create a dual-purpose retirement worksheet that also covers special needs trust planning.
+
+Prompt:
+"Prepare a retirement planning worksheet for a 38-year-old couple with a special needs child in India. Include: (1) Retirement corpus for the couple, (2) Dedicated corpus for child’s lifelong care, (3) Inflation-adjusted healthcare costs, (4) Integration of insurance and special needs trust, (5) Investment allocation for stability and long-term security, (6) Projection charts for both retirement and care funds."
+
+Retirement Planning for People with Late Career Start
+
+Backstory:
+Naveen, 35, started earning late because of extended education. He has only ₹2 lakh in savings and wants to retire at 60. He needs an aggressive savings and investment plan to make up for lost time.
+
+Goal:
+Provide a catch-up retirement plan with higher investment rates.
+
+Prompt:
+"Design a retirement planning worksheet for a 35-year-old in India who started saving late, with only ₹2 lakh saved so far. Include: (1) Aggressive investment strategy with 60% equity, (2) Required monthly savings, (3) Annual corpus growth projections, (4) Catch-up milestones, (5) Charts showing progress towards retirement goal."
+
+Retirement Planning for Creative Professionals
+
+Backstory:
+Ananya, 28, is a musician earning from performances, teaching, and streaming. Income varies seasonally. She wants to retire at 55 with enough funds to still travel and perform occasionally.
+
+Goal:
+Tailor a flexible, creative-friendly retirement plan.
+
+Prompt:
+"Create a retirement planning worksheet for a 28-year-old musician in India with seasonal income. Include: (1) Income tracking with performance months highlighted, (2) Percentage-based savings plan, (3) Investment mix for liquidity and growth, (4) Retirement corpus projection for age 55, (5) Charts showing impact of consistent vs inconsistent savings."
+
+Retirement Planning for Early Mid-Career Switchers
+
+Backstory:
+Kiran, 33, is leaving a corporate job to start a farm stay business in Coorg. This shift will reduce her income initially but may increase it in the long run. She wants a retirement plan that accounts for fluctuating income over the next decade.
+
+Goal:
+Account for income transitions in a retirement plan.
+
+Prompt:
+"Prepare a retirement planning worksheet for a 33-year-old transitioning from corporate to entrepreneurial life. Include: (1) Initial income drop of 50% for first 5 years, (2) Gradual income increase projections, (3) Minimum retirement savings contribution during low-income years, (4) Aggressive catch-up plan, (5) Graphs showing how early business losses affect retirement corpus."
+
+Retirement Planning for NRIs Returning to India
+
+Backstory:
+Sandeep, 40, has been working in Dubai for 12 years and plans to return to India permanently at 50. He earns in AED now, has no PF in India, but owns a flat in Mumbai. He wants a worksheet that considers foreign currency savings, repatriation costs, and Indian investment options upon return.
+
+Goal:
+Build a plan integrating NRI earnings and repatriation strategy into retirement.
+
+Prompt:
+"Create a retirement planning worksheet for a 40-year-old NRI working in Dubai, returning to India at 50. Include: (1) Converting AED savings to INR with currency fluctuation buffer, (2) Indian investment allocation plan post-return, (3) Retirement corpus target for age 60, (4) Inflation-adjusted projections in INR, (5) Tax implications on foreign savings, (6) Graphs comparing corpus growth if investments are started in India now vs after return."
+
+Retirement Planning for Government Employees
+
+Backstory:
+Sunita, 42, is a government school teacher in Rajasthan. She has a pension plan but wants to supplement it with personal savings to enjoy more financial freedom after retirement.
+
+Goal:
+Integrate pension income into a retirement worksheet while showing extra investment needs.
+
+Prompt:
+"Prepare a retirement planning worksheet for a 42-year-old government employee with a pension. Include: (1) Projected pension income starting at retirement age, (2) Additional investment required to maintain lifestyle, (3) Corpus needed over pension income, (4) Inflation-adjusted projections, (5) Investment mix for stability and moderate growth, (6) Graphs showing impact of starting additional savings now vs delaying."
+
+Retirement Planning for People with Existing Large Corpus
+
+Backstory:
+Kavita, 50, already has ₹1.5 crore in mutual funds and FDs. She wants to retire at 58 and ensure she doesn’t outlive her money while keeping a comfortable lifestyle.
+
+Goal:
+Plan withdrawals and rebalancing for those with existing large savings.
+
+Prompt:
+"Create a retirement planning worksheet for a 50-year-old in India with ₹1.5 crore already invested. Include: (1) Withdrawal rate strategy, (2) Asset rebalancing every 2 years, (3) Lifestyle expense projections with inflation, (4) Emergency fund allocation, (5) Scenario testing for higher medical costs, (6) Charts showing corpus depletion timeline."
+
+Retirement Planning for Part-time Workers
+
+Backstory:
+Mahesh, 45, works part-time due to health issues, earning ₹25,000/month. He has limited savings and needs a plan that accounts for low income but ensures basic retirement security.
+
+Goal:
+Make a minimal but essential retirement plan for low-income earners.
+
+Prompt:
+"Design a retirement planning worksheet for a 45-year-old part-time worker earning ₹25,000/month. Include: (1) Minimum corpus requirement for basic needs, (2) High-safety investment options, (3) Step-by-step monthly savings targets, (4) Healthcare cost allocation, (5) Visuals showing progress even with small contributions."
+
+Retirement Planning for Women Re-entering Workforce
+
+Backstory:
+Priya, 38, took a career break for 8 years to raise her kids and is now rejoining the workforce. She feels behind in retirement savings and needs a plan to catch up.
+
+Goal:
+Create a catch-up strategy for mid-career women restarting work.
+
+Prompt:
+"Prepare a retirement planning worksheet for a 38-year-old woman rejoining the workforce after 8 years. Include: (1) Aggressive savings percentage, (2) Balanced risk investment portfolio, (3) Catch-up corpus milestones, (4) Inflation-adjusted projections for age 60, (5) Graph showing progress if starting immediately vs delaying 5 years."
+
+Retirement Planning for Self-employed Farmers
+
+Backstory:
+Raghav, 44, owns agricultural land and earns seasonal income from crops. He wants a worksheet that treats his land as an asset and also helps build a liquid retirement corpus.
+
+Goal:
+Blend land value and seasonal income into retirement planning.
+
+Prompt:
+"Create a retirement planning worksheet for a 44-year-old farmer in India with seasonal crop income. Include: (1) Annual income projection based on crop cycles, (2) Land valuation appreciation at 5% yearly, (3) Allocation of surplus income into liquid investments, (4) Retirement corpus projection for age 60, (5) Graphs integrating both agricultural and financial assets."
+
+Retirement Planning for Teachers in Private Schools
+
+Backstory:
+Anjali, 35, teaches in a private school with no pension benefits. Her monthly salary is ₹40,000, and she spends ₹15,000/month on her child’s education.
+
+Goal:
+Create a realistic plan despite moderate salary and high expenses.
+
+Prompt:
+"Design a retirement planning worksheet for a 35-year-old private school teacher in India earning ₹40,000/month. Include: (1) Realistic monthly savings percentage, (2) Low-cost investment options, (3) Education expense adjustment in 10 years, (4) Corpus projection for age 60, (5) Graphs showing progress with different saving rates."
+
+Retirement Planning for Professionals with International Investments
+
+Backstory:
+Amit, 37, invests in US stocks and ETFs via an Indian brokerage. He wants his retirement plan to include both domestic and international holdings, with currency risk factored in.
+
+Goal:
+Integrate multi-currency investments into retirement projections.
+
+Prompt:
+"Build a retirement planning worksheet for a 37-year-old in India with 40% investments in US markets and 60% in Indian markets. Include: (1) Currency fluctuation risk impact, (2) Diversified withdrawal strategy, (3) Inflation-adjusted projections, (4) Tax implications of foreign investments, (5) Graph comparing returns with and without international exposure."
+
+Retirement Planning for Business Owners Passing on Family Business
+
+Backstory:
+Devendra, 55, runs a family textile business and plans to hand it over to his son at 60. He wants a retirement plan that ensures personal financial security regardless of how the business performs under his son.
+
+Goal:
+Separate personal retirement security from business succession.
+
+Prompt:
+"Prepare a retirement planning worksheet for a 55-year-old business owner in India handing over business at 60. Include: (1) Personal asset protection strategy, (2) Business valuation for optional sale, (3) Retirement corpus independent of business income, (4) Withdrawal plan, (5) Graph showing personal vs business-linked assets."
+
+Retirement Planning for People Wanting FIRE (Financial Independence, Retire Early)
+
+Backstory:
+Shalini, 29, works in IT and wants to achieve financial independence by 45. She earns ₹22 LPA and is willing to save aggressively for 16 years.
+
+Goal:
+Make an accelerated retirement worksheet for FIRE aspirants.
+
+Prompt:
+"Create a FIRE-focused retirement planning worksheet for a 29-year-old earning ₹22 LPA in India, target retirement at 45. Include: (1) Savings rate target (50–60%), (2) High-growth investment portfolio, (3) Corpus target for 40+ years of retirement, (4) Withdrawal strategy using 4% rule, (5) Graphs showing corpus growth with aggressive vs moderate saving."
+
 
