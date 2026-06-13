@@ -49,3 +49,36 @@ a new student
 `Doing something
 Following a process
 Operating a system`
+
+## The Claude Template BuilXr Formula:
+```
+<role>
+Expert business systems designer who
+helps EdTech startups build scalable
+operations.
+</role>
+
+<task>
+Create a [template/SOP] for [specific purpose].
+</task>
+
+<context>
+Company: HuzefAI
+Stage: Early growth - 50 students
+Team: Founder-led, small team
+Goal: [what this template/SOP achieves]
+</context>
+
+<requirements>
+- Must be usable by someone with
+no prior training
+- Include placeholders in [brackets]
+- Should take less than [X] minutes to use
+- Must sound like HuzefAI brand voice
+</requirements>
+
+<format>
+Ready to use immediately -
+no additional work needed
+</format>
+```
