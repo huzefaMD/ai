@@ -35,3 +35,24 @@ Available on Claude.ai (can be enabled).
 | **CLAUDE MEMORY** | Facts Claude learns about you automatically |` ← Auto-saved facts from conversations` |
 | **IN-CONVERSATION** | Everything in current chat |` ← Temporary, resets each new chat` |
 
+## PART 2: Claude Projects - Deep Dive
+
+### What is a Claude Project?
+
+A Project is a dedicated workspace in Claude that contains:
+
+**1. SYSTEM PROMPT (Instructions)**
+- Permanent instructions for how
+Claude should behave in this project
+- Your business context
+- Your preferences and style
+
+**2. PROJECT FILES (Knowledge Base)**
+- Documents you upload
+- SOPs, templates, course content
+- Student data, pricing, FAQs
+
+**3. CONVERSATION HISTORY**
+- All chats within the project
+- Searchable and organized
+- Claude learns from previous chats
