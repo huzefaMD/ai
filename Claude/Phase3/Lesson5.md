@@ -34,3 +34,18 @@ Example: Email draft
 `Writing something
 Creating content
 Communicating`
+
+*SOP*
+
+`A step-by-step process
+Follow the steps
+Process focused`
+
+Example: How to onboard
+a new student
+
+*WHEN TO USE SOP:*
+
+`Doing something
+Following a process
+Operating a system`
