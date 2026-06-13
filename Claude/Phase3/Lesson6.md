@@ -56,3 +56,13 @@ Claude should behave in this project
 - All chats within the project
 - Searchable and organized
 - Claude learns from previous chats
+
+## Why Projects are Powerful
+
+| Without Projects | With Projects |
+|------------------|---------------|
+| Repeat context every chat | Context always loaded |
+| Generic responses | Responses tailored to HuzefAI |
+| Start from scratch daily | Builds on previous work |
+| One context for everything | Different contexts per purpose |
+| No file reference | Files always available |
