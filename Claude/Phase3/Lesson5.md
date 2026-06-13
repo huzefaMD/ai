@@ -21,7 +21,7 @@
 
 ### What's the Difference?
 
-*TEMPLATE*
+### TEMPLATE
 
 `A reusable document
 Fill in the blanks
@@ -35,7 +35,7 @@ Example: Email draft
 Creating content
 Communicating`
 
-*SOP*
+### SOP
 
 `A step-by-step process
 Follow the steps
