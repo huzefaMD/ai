@@ -66,3 +66,87 @@ Claude should behave in this project
 | Start from scratch daily | Builds on previous work |
 | One context for everything | Different contexts per purpose |
 | No file reference | Files always available |
+
+## PART 3: Setting Up Your HuzefAI Project
+
+### Step by Step Setup
+
+STEP 1:` Go to claude.ai`
+
+STEP 2: `Click "Projects" in left sidebar`
+
+STEP 3: `Click "New Project"`
+
+STEP 4:` Name it "HuzefAI - Main"`
+
+STEP 5: `Add your System Prompt
+(we'll build this below)`
+
+STEP 6: `Upload relevant files`
+
+STEP 7:` Start chatting - Claude now
+knows your business!`
+
+## PART 4: The Perfec
+This is the most important setup step. Your system prompt tells Claude exactly who it is,
+what it knows, and how to behave in every conversation.
+
+### Building HuzefAI's Master System Prompt
+Here's how to create it using Claude itself:
+```
+<task>
+Help me create a perfect system prompt
+for a Claude Project dedicated to
+running HuzefAI efficiently.
+
+This system prompt should make Claude
+act as my dedicated business assistant
+who knows everything about HuzefAI.
+</task>
+
+<include>
+1. Who I am and what HuzefAI is
+2. Our courses, pricing, and target students
+3. My communication style and preferences
+4. How Claude should respond to me
+5. What Claude should always remember
+6. What Claude should never do
+7. How to handle different types of requests
+</include>
+```
+## PART 5: Managing Multiple Projects
+
+### The HuzefAI Project System
+
+DAILY WORKFLOW:
+
+Morning > Open "HuzefAI Main" project
+Quick decisions, emails, planning
+
+Content day > Open "Content Creation" project
+LinkedIn posts, webinar content
+
+Course work > Open "Course Development" project
+Curriculum, labs, exercises
+
+Student queries > Open "Student Support" project
+Quick answers, troubleshooting
+
+Personal > Open "Personal Growth" project
+Strategy, learning, reflection
+
+## PART 6: Memory Best Practices
+
+### Building Claude's Memory Over Time
+The more you use Claude Projects consistently, the more useful it becomes. Here's how to
+maximize it:
+
+### Practice 1-Weekly Context Update
+Once a week, update your system prompt with new information:
+
+"Update my system prompt to add:
+- We now have [X] students (up from [Y])
+- New course launched: [name] at [price]
+- Key win this week: [achievement]
+- Current challenge: [problem]
+- Next goal: [target]"
