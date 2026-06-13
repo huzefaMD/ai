@@ -29,7 +29,7 @@ Available on Claude.ai (can be enabled).
 ## The Memory Hierarchy
 ## The Memory Hierarchy
 
-
+|  |  | |
 |---------|-------------|-------|
 | **CLAUDE PROJECTS**|  Your business context lives here across all chats | ` ← Permanent, structured context you control` |
 | **CLAUDE MEMORY** | Facts Claude learns about you automatically |` ← Auto-saved facts from conversations` |
