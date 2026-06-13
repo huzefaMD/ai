@@ -25,3 +25,23 @@ Claude automatically saves facts
 about you from conversations.
 Builds a personal memory over time.
 Available on Claude.ai (can be enabled).
+
+## The Memory Hierarchy
++----------------------------------+
+|         CLAUDE PROJECTS          |
+| Your business context lives      | ← Permanent, structured context you control
+| here across all chats            |
++----------------------------------+
+
++----------------------------------+
+|          CLAUDE MEMORY           |
+| Facts Claude learns about        |← Auto-saved facts from conversations
+| you automatically                |
++----------------------------------+
+
+
++----------------------------------+
+|        IN-CONVERSATION           |
+| Everything in current chat       |← Temporary, resets each new chat
++----------------------------------+
+
