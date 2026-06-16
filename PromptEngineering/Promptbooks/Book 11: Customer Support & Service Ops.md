@@ -1111,18 +1111,18 @@
 ```
 ## Prompt 12 — E-commerce Late Delivery Complaint
 
-Backstory:
+`Backstory:`
 
-At a fast-growing e-commerce company in Bangalore, a 26-year-old logistics coordinator handles complaints from customers who didn’t receive their orders on the promised date. Delays often result from third-party courier issues, but customers blame the brand directly. With increased competition, even a 1–2 day delay can lead to order cancellations and loss of repeat business. A well-crafted resolution must be empathetic, transparent, and include a goodwill gesture to protect customer loyalty.
+`At a fast-growing e-commerce company in Bangalore, a 26-year-old logistics coordinator handles complaints from customers who didn’t receive their orders on the promised date. Delays often result from third-party courier issues, but customers blame the brand directly. With increased competition, even a 1–2 day delay can lead to order cancellations and loss of repeat business. A well-crafted resolution must be empathetic, transparent, and include a goodwill gesture to protect customer loyalty.`
 
-Goal:
+`Goal:`
 
-Create a late delivery complaint resolution template for e-commerce businesses.
+`Create a late delivery complaint resolution template for e-commerce businesses.`
 
-Prompt:
+`Prompt:`
 
-"You are an e-commerce customer care strategist. Draft a late delivery resolution template that includes:
-
+`"You are an e-commerce customer care strategist. Draft a late delivery resolution template that includes:`
+```
 1. Polite acknowledgment of the delay and its impact
 
 2. Honest reason for the delay without shifting blame
@@ -1130,15 +1130,15 @@ Prompt:
 3. New estimated delivery date
 
 4. Optional goodwill offer (e.g., discount coupon, free shipping on next order)"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Delivery tracking data
 
 2. Refund/discount policy
 
 3. Brand tone guidelines
-
+```
 Prompt 13 — Bank Transaction Failure Complaint
 
 Backstory:
