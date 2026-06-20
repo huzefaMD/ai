@@ -2394,20 +2394,20 @@
 
 # Service quality audits
 
-Prompt 1 — Call Center QA Checklist Creation
+## Prompt 1 — Call Center QA Checklist Creation
 
-Backstory:
+`Backstory:`
 
-A large telecom company has a call center with over 200 agents handling billing, technical, and service upgrade queries. Customer churn has increased, and management suspects inconsistent call handling quality. They want to standardize evaluations so that every agent is scored fairly across communication skills, product knowledge, and resolution effectiveness.
+`A large telecom company has a call center with over 200 agents handling billing, technical, and service upgrade queries. Customer churn has increased, and management suspects inconsistent call handling quality. They want to standardize evaluations so that every agent is scored fairly across communication skills, product knowledge, and resolution effectiveness.`
 
-Goal:
+`Goal:`
 
-Create a detailed call quality checklist for QA teams to use during monitoring.
+`Create a detailed call quality checklist for QA teams to use during monitoring.`
 
-Prompt:
+`Prompt:`
 
-"You are a customer service quality consultant. Create a comprehensive call center QA checklist that includes:
-
+`"You are a customer service quality consultant. Create a comprehensive call center QA checklist that includes:`
+```
 1. Greeting and tone assessment
 
 2. Active listening and empathy indicators
@@ -2419,9 +2419,9 @@ Prompt:
 5. Compliance with legal/brand guidelines
 
 6. Closing remarks and call wrap-up quality"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Industry type
 
 2. List of core services/products
@@ -2429,21 +2429,21 @@ Inputs Required:
 3. Legal or compliance requirements
 
 4. Company tone/style guidelines
+```
+## Prompt 2  — Email Response Quality Audit Template
 
-Prompt 2  — Email Response Quality Audit Template
+`Backstory:`
 
-Backstory:
+`A SaaS company receives 1,000+ customer support emails per week. While response times are good, customer satisfaction ratings suggest issues with clarity, tone, and completeness of email replies. Management wants a structured scoring sheet for email audits.`
 
-A SaaS company receives 1,000+ customer support emails per week. While response times are good, customer satisfaction ratings suggest issues with clarity, tone, and completeness of email replies. Management wants a structured scoring sheet for email audits.
+`Goal:`
 
-Goal:
+`Develop a scoring template for evaluating support emails.`
 
-Develop a scoring template for evaluating support emails.
+`Prompt:`
 
-Prompt:
-
-"You are a service quality auditor. Create an email response quality scoring template including:
-
+`"You are a service quality auditor. Create an email response quality scoring template including:`
+```
 1. Subject line relevance
 
 2. Personalization and greeting tone
@@ -2455,9 +2455,9 @@ Prompt:
 5. Resolution completeness
 
 6. Proper sign-off with support contact"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Industry
 
 2. Expected tone (formal, casual, friendly)
@@ -2465,21 +2465,21 @@ Inputs Required:
 3. Brand style guide
 
 4. Typical email categories
+```
+## Prompt 3 — Live Chat Audit Guide
 
-Prompt 3 — Live Chat Audit Guide
+`Backstory:`
 
-Backstory:
+`An e-commerce marketplace uses live chat for customer queries. Agents tend to give quick responses, but not always complete ones, leading to repeated chats from the same customer. Management wants a quality audit framework that evaluates both speed and accuracy.`
 
-An e-commerce marketplace uses live chat for customer queries. Agents tend to give quick responses, but not always complete ones, leading to repeated chats from the same customer. Management wants a quality audit framework that evaluates both speed and accuracy.
+`Goal:`
 
-Goal:
+`Build a live chat quality evaluation guide.`
 
-Build a live chat quality evaluation guide.
+`Prompt:`
 
-Prompt:
-
-"You are a CX (Customer Experience) auditor. Create a live chat quality audit guide with parameters for:
-
+`"You are a CX (Customer Experience) auditor. Create a live chat quality audit guide with parameters for:`
+```
 1. Response time per message
 
 2. Relevance and completeness of answers
@@ -2489,9 +2489,9 @@ Prompt:
 4. Use of quick reply templates vs. custom responses
 
 5. Proper escalation when needed"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Industry and chat platform
 
 2. Average expected response time
@@ -2499,21 +2499,21 @@ Inputs Required:
 3. Escalation criteria
 
 4. Brand tone
+```
+## Prompt 4 — Service Visit Field Audit Checklist
 
-Prompt 4 — Service Visit Field Audit Checklist
+`Backstory:`
 
-Backstory:
+`A home appliance repair company sends technicians to customer locations. Management suspects that some visits are rushed and lack thoroughness, leading to repeat complaints. They want a standardized field visit audit checklist.`
 
-A home appliance repair company sends technicians to customer locations. Management suspects that some visits are rushed and lack thoroughness, leading to repeat complaints. They want a standardized field visit audit checklist.
+`Goal:`
 
-Goal:
+`Create an on-site service quality checklist.`
 
-Create an on-site service quality checklist.
+`Prompt:`
 
-Prompt:
-
-"You are a field service quality inspector. Develop an on-site service visit audit checklist covering:
-
+`"You are a field service quality inspector. Develop an on-site service visit audit checklist covering:`
+```
 1. Technician punctuality
 
 2. Professional appearance and behavior
@@ -2525,9 +2525,9 @@ Prompt:
 5. Explanation of work done to customer
 
 6. Cleanup and courtesy after service"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Service type (repair/installation)
 
 2. Safety guidelines
@@ -2535,21 +2535,21 @@ Inputs Required:
 3. Minimum customer interaction steps
 
 4. Tools/equipment standards
+```
+## Prompt 5 — First Contact Resolution (FCR) Audit Form
 
-Prompt 5 — First Contact Resolution (FCR) Audit Form
+`Backstory:`
 
-Backstory:
+`A subscription box service wants to track how often customer issues are resolved in the first contact. Currently, they lack a formal metric to measure this, making it hard to improve agent performance.`
 
-A subscription box service wants to track how often customer issues are resolved in the first contact. Currently, they lack a formal metric to measure this, making it hard to improve agent performance.
+`Goal:`
 
-Goal:
+`Design an FCR audit form to capture key resolution metrics.`
 
-Design an FCR audit form to capture key resolution metrics.
+`Prompt:`
 
-Prompt:
-
-"You are a metrics-driven service auditor. Create a First Contact Resolution (FCR) audit form including:
-
+`"You are a metrics-driven service auditor. Create a First Contact Resolution (FCR) audit form including:`
+```
 1. Customer issue type
 
 2. Resolution status on first contact (Y/N)
@@ -2559,31 +2559,31 @@ Prompt:
 4. Time taken to resolve
 
 5. Escalation path used"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Common customer issues
 
 2. Definition of “resolved” for the business
 
 3. Escalation rules
+```
+## Prompt 6 — IVR Journey Quality Audit
 
-Prompt 6 — IVR Journey Quality Audit
+`Backstory:`
 
-Backstory:
+`A Mumbai-based D2C brand recently upgraded its IVR but call drop-offs have spiked during option selection. Customers complain they can’t reach a human agent quickly, and the menu vocabulary confuses first-time callers. Leadership suspects misaligned menu logic and long sub-menu paths. They want a rigorous IVR audit to identify friction, dead ends, and noncompliant messages.`
 
-A Mumbai-based D2C brand recently upgraded its IVR but call drop-offs have spiked during option selection. Customers complain they can’t reach a human agent quickly, and the menu vocabulary confuses first-time callers. Leadership suspects misaligned menu logic and long sub-menu paths. They want a rigorous IVR audit to identify friction, dead ends, and noncompliant messages.
+`Goal:`
 
-Goal:
+`Evaluate the entire IVR journey for clarity, completion rate, compliance, and escalation availability.`
 
-Evaluate the entire IVR journey for clarity, completion rate, compliance, and escalation availability.
+`Prompt:`
 
-Prompt:
+`“You are a contact center QA consultant. Audit the IVR experience end-to-end.`
 
-“You are a contact center QA consultant. Audit the IVR experience end-to-end.
-
-Include:
-
+`Include:`
+```
 1. Map of menu tree (levels, options, loops).
 
 2. Time-to-agent and average steps-to-resolution benchmarks.
@@ -2595,9 +2595,9 @@ Include:
 5. Regulatory/compliance message presence (recording consent, T&Cs).
 
 6. Recommendations to reduce steps, add natural language intents, and improve zero-out to agent.”
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Current IVR call flows & audio scripts
 
 2. Call volume by IVR path, drop-off analytics
@@ -2605,23 +2605,23 @@ Inputs Required:
 3. Compliance requirements (recording, consent)
 
 4. Target SLAs (max steps, time-to-agent)
+```
+## Prompt 7 — Social Media Response Quality Audit
 
-Prompt 7 — Social Media Response Quality Audit
+`Backstory:`
 
-Backstory:
+`A Bangalore fintech sees rising Twitter/Instagram queries but CSAT is lagging versus email and chat. Agents respond fast yet replies feel templated and miss key next steps, causing repeat posts. Brand wants tone alignment, accurate redirections, and lower public escalations. A structured social care audit is needed.`
 
-A Bangalore fintech sees rising Twitter/Instagram queries but CSAT is lagging versus email and chat. Agents respond fast yet replies feel templated and miss key next steps, causing repeat posts. Brand wants tone alignment, accurate redirections, and lower public escalations. A structured social care audit is needed.
+`Goal:`
 
-Goal:
+`Assess social care replies for tone, accuracy, completeness, and deflection effectiveness.`
 
-Assess social care replies for tone, accuracy, completeness, and deflection effectiveness.
+`Prompt:`
 
-Prompt:
+`“You are a social CX auditor. Review a sample of social media interactions.`
 
-“You are a social CX auditor. Review a sample of social media interactions.
-
-Evaluate:
-
+`Evaluate:`
+```
 1. First response time vs. target.
 
 2. Tone fit (empathetic, concise, brand voice).
@@ -2633,9 +2633,9 @@ Evaluate:
 5. Resolution vs. re-contact rate.
 
 6. Provide a scorecard and prioritized fixes.”
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Sample posts/DMs with timestamps
 
 2. Tone/style guide
@@ -2643,21 +2643,21 @@ Inputs Required:
 3. Escalation and privacy policy
 
 4. SLA targets for social channels
+```
+## Prompt 8 — Knowledge Base (KB) Accuracy & Findability Audit
 
-Prompt 8 — Knowledge Base (KB) Accuracy & Findability Audit
+``Backstory:`
 
-Backstory:
+`Agents in a Hyderabad support hub complain that KB articles are outdated and hard to search. New hires over-rely on seniors, inflating handle times and errors. Customers report contradictory instructions between email and chat. Management needs a KB truth-source audit.`
 
-Agents in a Hyderabad support hub complain that KB articles are outdated and hard to search. New hires over-rely on seniors, inflating handle times and errors. Customers report contradictory instructions between email and chat. Management needs a KB truth-source audit.
+`Goal:`
 
-Goal:
+`Measure KB content quality, freshness, and search discoverability.`
 
-Measure KB content quality, freshness, and search discoverability.
+`Prompt:`
 
-Prompt:
-
-“You are a service documentation auditor. Audit the KB for:
-
+`“You are a service documentation auditor. Audit the KB for:`
+```
 1. Article freshness (last update, owner).
 
 2. Instruction accuracy (replicate steps).
@@ -2669,9 +2669,9 @@ Prompt:
 5. Broken links, missing screenshots, non-inclusive language.
 
 6. Deliver a gap list and an update roadmap by risk.”
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. KB export (titles, content, owners, last updated)
 
 2. Top internal/external search queries
@@ -2679,21 +2679,21 @@ Inputs Required:
 3. Known policy/process changes
 
 4. Style guide & accessibility standards
+```
+## Prompt 9 — CSAT/DSAT Post-Interaction Audit
 
-Prompt 9 — CSAT/DSAT Post-Interaction Audit
+`Backstory:`
 
-Backstory:
+`Although overall CSAT at a Pune BPO is stable, DSAT comments cite “partial answers” and “no ownership.” Ops suspects survey bias and tagging gaps. Leadership wants a forensic look linking DSAT reasons to agent behaviors and process issues.`
 
-Although overall CSAT at a Pune BPO is stable, DSAT comments cite “partial answers” and “no ownership.” Ops suspects survey bias and tagging gaps. Leadership wants a forensic look linking DSAT reasons to agent behaviors and process issues.
+`Goal:`
 
-Goal:
+`Correlate satisfaction outcomes with interaction attributes to find fixable drivers.`
 
-Correlate satisfaction outcomes with interaction attributes to find fixable drivers.
+`Prompt:`
 
-Prompt:
-
-“You are a CX analytics auditor. Analyze survey and interaction data to:
-
+`“You are a CX analytics auditor. Analyze survey and interaction data to:`
+```
 1. Segment CSAT/DSAT by channel, queue, agent tenure.
 
 2. Thematize verbatims (ownership, clarity, policy barriers).
@@ -2703,9 +2703,9 @@ Prompt:
 4. Recommend top-5 behavioral/process changes.
 
 5. Provide visuals and a simple playbook for supervisors.”
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Survey results (CSAT/NPS, comments)
 
 2. Interaction metadata (AHT, transfers, channel)
@@ -2713,21 +2713,21 @@ Inputs Required:
 3. Agent roster (tenure/skills)
 
 4. KB access logs (if available)
+```
+## Prompt 10 — QA Calibration Workshop Pack
 
-Prompt 10 — QA Calibration Workshop Pack
+`Backstory:`
 
-Backstory:
+`Different QA reviewers in a Chennai center score the same calls differently, triggering agent distrust. Appeals are frequent and time-consuming. Leadership wants a calibration framework to align scoring and reduce variance.`
 
-Different QA reviewers in a Chennai center score the same calls differently, triggering agent distrust. Appeals are frequent and time-consuming. Leadership wants a calibration framework to align scoring and reduce variance.
+`Goal:`
 
-Goal:
+`Create a repeatable QA calibration process and toolkit.`
 
-Create a repeatable QA calibration process and toolkit.
+`Prompt:`
 
-Prompt:
-
-“You are a QA enablement lead. Build a calibration pack:
-
+`“You are a QA enablement lead. Build a calibration pack:`
+```
 1. Pick a gold-standard call set across scenarios.
 
 2. Define rubric anchors with exemplar snippets.
@@ -2737,9 +2737,9 @@ Prompt:
 4. Document tie-break rules and update the rubric.
 
 5. Publish calibration cadence and reviewer scorecards.”
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Current QA rubric & weightages
 
 2. Sample interactions (audio/chat/email)
@@ -2747,21 +2747,21 @@ Inputs Required:
 3. Disputed scores history
 
 4. Cadence goals (monthly/weekly)
+```
+## Prompt 11 — Speech Analytics Quality & Compliance Audit
 
-Prompt 11 — Speech Analytics Quality & Compliance Audit
+`Backstory:`
 
-Backstory:
+`A Gurgaon contact center installed speech analytics but insights haven’t improved QA outcomes. Agents don’t trust keyword flags; compliance misses are still discovered manually. Management needs an audit to tighten model accuracy and governance.`
 
-A Gurgaon contact center installed speech analytics but insights haven’t improved QA outcomes. Agents don’t trust keyword flags; compliance misses are still discovered manually. Management needs an audit to tighten model accuracy and governance.
+`Goal:`
 
-Goal:
+`Evaluate speech analytics performance vs. QA/compliance objectives.`
 
-Evaluate speech analytics performance vs. QA/compliance objectives.
+`Prompt:`
 
-Prompt:
-
-“You are a speech analytics auditor. Review:
-
+`“You are a speech analytics auditor. Review:`
+```
 1. Keyword/phrase precision & recall (vs. human QA).
 
 2. False positives/negatives on critical intents (cancellation, threat, legal).
@@ -2771,9 +2771,9 @@ Prompt:
 4. Tuning plan (dictionaries, acoustic models).
 
 5. Governance: model change control, audits, drift checks.”
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Model config (keywords, thresholds)
 
 2. Ground truth QA samples
@@ -2781,21 +2781,21 @@ Inputs Required:
 3. Compliance rules (consent, PII)
 
 4. Current alert workflows
+```
+## Prompt 12 — Escalation Handling Quality Audit
 
-Prompt 12 — Escalation Handling Quality Audit
+`Backstory:`
 
-Backstory:
+`Escalations at a Kolkata e-commerce support team often jump straight to L3, bypassing L1/L2 fixes. Customers face long waits and repeat contacts. Senior leaders want gatekeeping quality and customer reassurance improved.`
 
-Escalations at a Kolkata e-commerce support team often jump straight to L3, bypassing L1/L2 fixes. Customers face long waits and repeat contacts. Senior leaders want gatekeeping quality and customer reassurance improved.
+`Goal:`
 
-Goal:
+`Assess escalation accuracy, communication, and recovery steps.`
 
-Assess escalation accuracy, communication, and recovery steps.
+`Prompt:`
 
-Prompt:
-
-“You are a tiered support auditor. Evaluate:
-
+`“You are a tiered support auditor. Evaluate:`
+```
 1. Escalation eligibility vs. SOP.
 
 2. Info completeness in tickets (repro steps, logs).
@@ -2805,9 +2805,9 @@ Prompt:
 4. Containment actions at lower tiers.
 
 5. Recommend SOP tweaks, templates, and training focus.”
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Escalation SOPs & SLAs
 
 2. Ticket samples by tier
@@ -2815,21 +2815,21 @@ Inputs Required:
 3. Update templates & cadence rules
 
 4. Reopen/repeat contact stats
+```
+## Prompt 13 — After-Call Work (ACW) Documentation Audit
 
-Prompt 13 — After-Call Work (ACW) Documentation Audit
+`Backstory:`
 
-Backstory:
+`Supervisors in a Jaipur center notice ACW notes are sparse, hurting handoffs and follow-ups. Duplicate work and customer re-explanations rise. Ops needs a documentation quality audit to set a higher bar.`
 
-Supervisors in a Jaipur center notice ACW notes are sparse, hurting handoffs and follow-ups. Duplicate work and customer re-explanations rise. Ops needs a documentation quality audit to set a higher bar.
+`Goal:`
 
-Goal:
+`Improve completeness, clarity, and standardization of ACW notes.`
 
-Improve completeness, clarity, and standardization of ACW notes.
+`Prompt:`
 
-Prompt:
-
-“You are a service documentation QA. Audit ACW notes for:
-
+`“You are a service documentation QA. Audit ACW notes for:`
+```
 1. Context captured (issue, steps taken, outcome).
 
 2. Use of standard tags and templates.
@@ -2839,9 +2839,9 @@ Prompt:
 4. Hand-off readiness and searchability.
 
 5. Deliver examples of ‘poor vs. good’ notes and a checklist.”
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Sample ACW logs
 
 2. Tag taxonomy & templates
@@ -2849,21 +2849,21 @@ Inputs Required:
 3. PII policy
 
 4. Handoff SLAs
+```
+## Prompt 14 — Average Handle Time (AHT) vs. Quality Audit
 
-Prompt 14 — Average Handle Time (AHT) vs. Quality Audit
+`Backstory:`
 
-Backstory:
+`To hit aggressive AHT targets, agents at a Noida center rush calls, causing DSAT growth. Leadership wants a balanced scorecard that rewards resolution quality, not speed alone.`
 
-To hit aggressive AHT targets, agents at a Noida center rush calls, causing DSAT growth. Leadership wants a balanced scorecard that rewards resolution quality, not speed alone.
+`Goal:`
 
-Goal:
+`Audit AHT practices and propose a balanced metric model.`
 
-Audit AHT practices and propose a balanced metric model.
+`Prompt:`
 
-Prompt:
-
-“You are a CX metrics auditor. Analyze:
-
+`“You are a CX metrics auditor. Analyze:`
+```
 1. AHT vs. FCR/DSAT correlation.
 
 2. Behaviors driving short-but-poor calls (script adherence, discovery).
@@ -2873,9 +2873,9 @@ Prompt:
 4. Propose a composite scoring model (AHT, FCR, Quality).
 
 5. Supply coaching guidance and exception rules.”
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. AHT by queue/agent
 
 2. QA scores, CSAT/DSAT
@@ -2883,21 +2883,21 @@ Inputs Required:
 3. Call reason taxonomy
 
 4. Policy on complex-case exceptions
+```
+## Prompt 15 — Email/Chat Tone & Empathy Audit
 
-Prompt 15 — Email/Chat Tone & Empathy Audit
+`Backstory:`
 
-Backstory:
+`Though factual accuracy is decent, a Hyderabad SaaS support team gets feedback that replies feel “robotic.” Leaders want empathy without verbosity and consistent brand voice across agents.`
 
-Though factual accuracy is decent, a Hyderabad SaaS support team gets feedback that replies feel “robotic.” Leaders want empathy without verbosity and consistent brand voice across agents.
+`Goal:`
 
-Goal:
+`Measure tone, empathy, and brand voice adherence; recommend improvements.`
 
-Measure tone, empathy, and brand voice adherence; recommend improvements.
+`Prompt:`
 
-Prompt:
-
-“You are a communications QA specialist. Audit written interactions for:
-
+`“You are a communications QA specialist. Audit written interactions for:`
+```
 1. Personalization (name, context acknowledgement).
 
 2. Empathy markers and assurance language.
@@ -2907,9 +2907,9 @@ Prompt:
 4. Brand voice (formal vs. friendly) and inclusive language.
 
 5. Deliver a tone rubric, exemplars, and a micro-writing playbook.”
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Sample emails/chats
 
 2. Brand voice guide
@@ -2917,21 +2917,21 @@ Inputs Required:
 3. Prohibited phrases list
 
 4. SLA for reply length/format
+```
+## Prompt 16 — Omnichannel Consistency Audit
 
-Prompt 16 — Omnichannel Consistency Audit
+`Backstory:`
 
-Backstory:
+`Customers in an Ahmedabad retailer get different answers across phone, chat, and store counters. Refund rules and timelines vary by agent. The COO wants “one truth” regardless of channel.`
 
-Customers in an Ahmedabad retailer get different answers across phone, chat, and store counters. Refund rules and timelines vary by agent. The COO wants “one truth” regardless of channel.
+`Goal:`
 
-Goal:
+`Verify policy consistency and outcome parity across channels.`
 
-Verify policy consistency and outcome parity across channels.
+`Prompt:`
 
-Prompt:
-
-“You are an omnichannel QA auditor.
-
+`“You are an omnichannel QA auditor.`
+```
 1. Test the same scenarios across phone/chat/email/social/store.
 
 2. Compare outcomes (eligibility, timelines, documents).
@@ -2939,9 +2939,9 @@ Prompt:
 3. Identify policy drift, KB gaps, and training gaps.
 
 4. Recommend governance to keep channels aligned (KB ownership, release notes, audits).”
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Policy set & KB links
 
 2. Channel-specific scripts/templates
@@ -2949,21 +2949,21 @@ Inputs Required:
 3. Mystery-shop scenarios
 
 4. Channel SLAs
+```
+## Prompt 17 — Queue & Workforce Management Audit
 
-Prompt 17 — Queue & Workforce Management Audit
+`Backstory:`
 
-Backstory:
+`A Chennai contact center misses SLAs during peak hours despite spare capacity off-peak. Leaders suspect forecasting and scheduling inefficiencies. They need a WFM audit tied to service impact.`
 
-A Chennai contact center misses SLAs during peak hours despite spare capacity off-peak. Leaders suspect forecasting and scheduling inefficiencies. They need a WFM audit tied to service impact.
+`Goal:`
 
-Goal:
+`Assess forecasting accuracy, staffing, and routing rules.`
 
-Assess forecasting accuracy, staffing, and routing rules.
+`Prompt:`
 
-Prompt:
-
-“You are a WFM auditor. Analyze:
-
+`“You are a WFM auditor. Analyze:`
+```
 1. Forecast vs. actual arrival patterns (MAE/MAPE).
 
 2. Schedule adherence & shrinkage.
@@ -2973,9 +2973,9 @@ Prompt:
 4. Impact on SLA, abandonment, and recontact.
 
 5. Provide quick wins (routing tweaks) and long-term fixes (forecast model updates).”
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Interval-level volume & AHT
 
 2. Forecasts & staffing rosters
@@ -2983,21 +2983,21 @@ Inputs Required:
 3. Routing configs
 
 4. SLA/abandon targets
+```
+## Prompt 18 — Complaint Turnaround Time (TAT) & Resolution Quality Audit
 
-Prompt 18 — Complaint Turnaround Time (TAT) & Resolution Quality Audit
+`Backstory:`
 
-Backstory:
+`Regulatory complaints in a Delhi fintech must be resolved within strict timelines. TAT is met, but customers claim “no real fix,” triggering repeats. Compliance wants speed with substance.`
 
-Regulatory complaints in a Delhi fintech must be resolved within strict timelines. TAT is met, but customers claim “no real fix,” triggering repeats. Compliance wants speed with substance.
+`Goal:`
 
-Goal:
+`Audit complaint lifecycle for timeliness and fix effectiveness.`
 
-Audit complaint lifecycle for timeliness and fix effectiveness.
+`Prompt:`
 
-Prompt:
-
-“You are a complaints QA auditor. Review:
-
+`“You are a complaints QA auditor. Review:`
+```
 1. TAT adherence by severity.
 
 2. Root-cause identification and corrective action detail.
@@ -3007,9 +3007,9 @@ Prompt:
 4. Reopen/recontact rate within 30 days.
 
 5. Recommend RCA templates and governance for recurring issues.”
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Complaint logs by severity
 
 2. SLA policies
@@ -3017,21 +3017,21 @@ Inputs Required:
 3. RCA artifacts & CAPA logs
 
 4. Reopen stats
+```
+## Prompt 19 — Data Privacy & PII Handling Audit
 
-Prompt 19 — Data Privacy & PII Handling Audit
+`Backstory:`
 
-Backstory:
+`A Mumbai health-tech startup handles sensitive patient data. Recordings and chat logs sometimes contain excess PII. Legal wants proof of robust redaction and least-privilege practices.`
 
-A Mumbai health-tech startup handles sensitive patient data. Recordings and chat logs sometimes contain excess PII. Legal wants proof of robust redaction and least-privilege practices.
+`Goal:`
 
-Goal:
+`Verify privacy-by-design in customer interactions and systems.`
 
-Verify privacy-by-design in customer interactions and systems.
+`Prompt:`
 
-Prompt:
-
-“You are a privacy compliance auditor. 
-
+`“You are a privacy compliance auditor.` 
+```
 1. Sample interactions for improper PII capture/storage. 
 
 2. Check redaction tools efficacy and agent behaviors. 
@@ -3039,9 +3039,9 @@ Prompt:
 3. Validate data access controls & retention schedules. 
 
 4. Provide remediation steps (training, tooling, SOPs) and a monitoring plan.”
-
-Inputs Required: 
-
+```
+`Inputs Required: `
+```
 1. Privacy policy & data map 
 
 2. Redaction tool settings 
@@ -3049,21 +3049,21 @@ Inputs Required:
 3. Access/role matrix 
 
 4. Retention schedule
+```
+## Prompt 20 — Agent Coaching Effectiveness Audit
 
-Prompt 20 — Agent Coaching Effectiveness Audit
+`Backstory:`
 
-Backstory:
+`Supervisors run weekly huddles, yet QA scores plateau. Agents say coaching is “generic” and not tied to their actual calls. Leadership wants coaching to drive measurable uplift.`
 
-Supervisors run weekly huddles, yet QA scores plateau. Agents say coaching is “generic” and not tied to their actual calls. Leadership wants coaching to drive measurable uplift.
+`Goal:`
 
-Goal:
+`Audit coaching practices and tie them to performance outcomes.`
 
-Audit coaching practices and tie them to performance outcomes.
+`Prompt:`
 
-Prompt:
-
-“You are a performance QA specialist.
-
+`“You are a performance QA specialist.`
+```
 1. Review coaching logs vs. agent KPI trends.
 
 2. Assess specificity (call references, behaviors, deadlines).
@@ -3071,9 +3071,9 @@ Prompt:
 3. Evaluate follow-up cadence and reinforcement.
 
 4. Recommend a coaching framework (SMART goals, call-of-the-week, peer shadowing).”
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Coaching records & templates
 
 2. Agent KPIs (QA, AHT, CSAT, FCR)
@@ -3081,21 +3081,21 @@ Inputs Required:
 3. Call references used in coaching
 
 4. Supervisor-to-agent ratios
+```
+## Prompt 21 — First-Response Quality (FRQ) Audit for Email/Chat
 
-Prompt 21 — First-Response Quality (FRQ) Audit for Email/Chat
+`Backstory:`
 
-Backstory:
+`A Jaipur marketplace meets first response SLA but customers still recontact for clarity. Leaders suspect the first reply acknowledges but doesn’t advance resolution. They want FRQ measured beyond time.`
 
-A Jaipur marketplace meets first response SLA but customers still recontact for clarity. Leaders suspect the first reply acknowledges but doesn’t advance resolution. They want FRQ measured beyond time.
+`Goal:`
 
-Goal:
+`Score first responses on utility, not just speed.`
 
-Score first responses on utility, not just speed.
+`Prompt:`
 
-Prompt:
-
-“You are a service quality auditor.
-
+`“You are a service quality auditor.`
+```
 1. Define FRQ rubric (acknowledge, answer, advance, assure).
 
 2. Score a sample of first replies.
@@ -3103,9 +3103,9 @@ Prompt:
 3. Identify patterns (missing steps, policy links).
 
 4. Recommend templates/macros that improve FRQ without bloating text.”
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. First-reply samples with timestamps
 
 2. SLA targets
@@ -3113,21 +3113,21 @@ Inputs Required:
 3. KB/policy links
 
 4. Current macros/templates
+```
+## Prompt 22 — Accessibility & Inclusivity Audit (Language/Disability)
 
-Prompt 22 — Accessibility & Inclusivity Audit (Language/Disability)
+`Backstory:`
 
-Backstory:
+`In a nationwide rollout, a government service desk receives feedback from visually impaired users and non-English speakers about poor accessibility. IVR lacks clear pacing; emails lack alt text. Admins need an inclusivity audit.`
 
-In a nationwide rollout, a government service desk receives feedback from visually impaired users and non-English speakers about poor accessibility. IVR lacks clear pacing; emails lack alt text. Admins need an inclusivity audit.
+`Goal:`
 
-Goal:
+`Ensure interactions meet accessibility standards and language inclusivity.`
 
-Ensure interactions meet accessibility standards and language inclusivity.
+`Prompt:`
 
-Prompt:
-
-“You are an accessibility auditor. 
-
+`“You are an accessibility auditor. `
+```
 1. Test channels against WCAG and plain language standards. 
 
 2. Check alt text, heading hierarchy, color contrast, link clarity. 
@@ -3135,9 +3135,9 @@ Prompt:
 3. Assess IVR speed, accent clarity, and language options. 
 
 4. Recommend fixes and a governance checklist.”
-
-Inputs Required: 
-
+```
+`Inputs Required: `
+```
 1. Samples across channels (email, chat, app, IVR) 
 
 2. Accessibility standards adopted 
@@ -3145,21 +3145,21 @@ Inputs Required:
 3. Language support policy 
 
 4. Brand voice guide
+```
+## Prompt 23 — Proactive Notifications Quality Audit
 
-Prompt 23 — Proactive Notifications Quality Audit
+`Backstory:`
 
-Backstory:
+`A logistics firm sends outage and delay alerts, yet customers still call asking “what now?” Messages lack next steps and personalization. Ops wants proactive comms that actually deflect calls.`
 
-A logistics firm sends outage and delay alerts, yet customers still call asking “what now?” Messages lack next steps and personalization. Ops wants proactive comms that actually deflect calls.
+`Goal:`
 
-Goal:
+`Audit outbound notices for clarity, personalization, and call-deflection.`
 
-Audit outbound notices for clarity, personalization, and call-deflection.
+`Prompt:`
 
-Prompt:
-
-“You are a proactive CX auditor.
-
+`“You are a proactive CX auditor.`
+```
 1. Evaluate samples for who/what/when/next-steps clarity.
 
 2. Check personalization (name, order, slot).
@@ -3167,9 +3167,9 @@ Prompt:
 3. Measure deflection (calls after send).
 
 4. Propose message templates and trigger rules to reduce recontact.”
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Outbound message samples & send logs
 
 2. Post-send contact volumes
@@ -3177,21 +3177,21 @@ Inputs Required:
 3. Personalization fields available
 
 4. Event/trigger map
+```
+## Prompt 24 — Bot & Automation Quality Audit
 
-Prompt 24 — Bot & Automation Quality Audit
+`Backstory:`
 
-Backstory:
+`A Delhi EdTech’s chatbot handles 40% of queries but NPS dips when the bot loops or dead-ends. Handoffs to humans lack context, frustrating customers. Leadership wants a bot QA audit.`
 
-A Delhi EdTech’s chatbot handles 40% of queries but NPS dips when the bot loops or dead-ends. Handoffs to humans lack context, frustrating customers. Leadership wants a bot QA audit.
+`Goal:`
 
-Goal:
+`Evaluate conversation coverage, accuracy, and handoff quality.`
 
-Evaluate conversation coverage, accuracy, and handoff quality.
+`Prompt:`
 
-Prompt:
-
-“You are a conversational AI auditor. 
-
+`“You are a conversational AI auditor. `
+```
 1. Analyze top intents, containment, and fallback rates. 
 
 2. Check response accuracy, tone, and KB alignment. 
@@ -3199,9 +3199,9 @@ Prompt:
 3. Evaluate human handoff (context, transcript, priority). 
 
 4. Recommend training data gaps, flows to retire, and handoff SOP.”
-
-Inputs Required: 
-
+```
+`Inputs Required: `
+```
 1. Bot transcripts & intent analytics 
 
 2. KB links used by bot 
@@ -3209,21 +3209,21 @@ Inputs Required:
 3. Handoff rules & agent tools 
 
 4. Success metrics (containment, CSAT)
+```
+## Prompt 25 — Root Cause Analysis (RCA) & Continuous Improvement Audit
 
-Prompt 25 — Root Cause Analysis (RCA) & Continuous Improvement Audit
+`Backstory:`
 
-Backstory:
+`A Bengaluru insurer runs monthly RCAs but the same issues recur (address updates, premium reversals). Fixes seem tactical, not systemic. The COO wants durable improvements with owners and deadlines.`
 
-A Bengaluru insurer runs monthly RCAs but the same issues recur (address updates, premium reversals). Fixes seem tactical, not systemic. The COO wants durable improvements with owners and deadlines.
+`Goal:`
 
-Goal:
+`Audit RCA depth, actionability, and follow-through.`
 
-Audit RCA depth, actionability, and follow-through.
+`Prompt:`
 
-Prompt:
-
-“You are a continuous improvement auditor.
-
+`“You are a continuous improvement auditor.`
+```
 1. Evaluate RCA method (5 Whys/Fishbone) quality and evidence.
 
 2. Check CAPA actions for ownership, timelines, and metrics.
@@ -3231,9 +3231,9 @@ Prompt:
 3. Verify closure and post-implementation results.
 
 4. Propose a governance loop (RCA council, dashboards, reoccurrence gates).”
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. RCA reports (last 6–12 months)
 
 2. CAPA registers & owners
@@ -3241,24 +3241,24 @@ Inputs Required:
 3. Post-fix KPI trends
 
 4. Governance cadence and forums
+```
 
+# Training guides for agents
 
-Training guides for agents
+## Prompt 1 — Onboarding Guide for New Support Agents
 
-Prompt 1 — Onboarding Guide for New Support Agents
+`Backstory:`
 
-Backstory:
+`A mid-sized SaaS company has grown its support team from 10 to 40 agents in the last year. Many new hires have no prior experience in customer support, leading to inconsistent communication styles and knowledge gaps. Management wants a structured onboarding guide to quickly bring agents up to speed on company policies, tools, and customer interaction standards.`
 
-A mid-sized SaaS company has grown its support team from 10 to 40 agents in the last year. Many new hires have no prior experience in customer support, leading to inconsistent communication styles and knowledge gaps. Management wants a structured onboarding guide to quickly bring agents up to speed on company policies, tools, and customer interaction standards.
+`Goal:`
 
-Goal:
+`Create a comprehensive onboarding training guide for new support agents.`
 
-Create a comprehensive onboarding training guide for new support agents.
+`Prompt:`
 
-Prompt:
-
-*"You are a customer support training manager. Create a detailed onboarding training guide for new agents that includes:
-
+`*"You are a customer support training manager. Create a detailed onboarding training guide for new agents that includes:`
+```
 1. Overview of company mission, values, and target customers
 
 2. Introduction to support tools (ticketing system, CRM, chat software)
@@ -3270,9 +3270,9 @@ Prompt:
 5. Escalation procedures and reporting lines
 
 6. Performance metrics and expectations for the first 90 days"*
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Company profile and mission statement
 
 2. List of tools/software used
@@ -3280,7 +3280,7 @@ Inputs Required:
 3. Most common customer issues
 
 4. Escalation hierarchy chart
-
+```
 Prompt 2 — Product Knowledge Training Module
 
 Backstory:
