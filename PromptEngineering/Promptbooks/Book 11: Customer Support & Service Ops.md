@@ -3281,20 +3281,20 @@
 
 4. Escalation hierarchy chart
 ```
-Prompt 2 — Product Knowledge Training Module
+## Prompt 2 — Product Knowledge Training Module
 
-Backstory:
+`Backstory:`
 
-An electronics retailer found that many agents give vague or incorrect answers about product specifications. This not only confuses customers but also results in higher product returns. The company needs a focused training module to improve product knowledge retention among support staff.
+`An electronics retailer found that many agents give vague or incorrect answers about product specifications. This not only confuses customers but also results in higher product returns. The company needs a focused training module to improve product knowledge retention among support staff.`
 
-Goal:
+`Goal:`
 
-Develop a product knowledge training module for customer support agents.
+`Develop a product knowledge training module for customer support agents.`
 
-Prompt:
+`Prompt:`
 
-*"You are a training content developer. Create a product knowledge training module for customer support agents that includes:
-
+`*"You are a training content developer. Create a product knowledge training module for customer support agents that includes:`
+```
 1. Key specifications and features of top-selling products
 
 2. Comparative advantages over competitor products
@@ -3304,9 +3304,9 @@ Prompt:
 4. How to handle product-related objections or misconceptions
 
 5. Interactive quiz questions for knowledge reinforcement"*
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Product list with specifications
 
 2. Competitor comparison data
@@ -3314,21 +3314,21 @@ Inputs Required:
 3. List of FAQs from past tickets
 
 4. Customer objections/responses database
+```
+## Prompt 3 — Difficult Customer Handling Playbook
 
-Prompt 3 — Difficult Customer Handling Playbook
+`Backstory:`
 
-Backstory:
+`A financial services call center deals with clients who are often stressed due to account issues or payment delays. Some agents tend to get defensive, which escalates situations. The company needs a playbook that teaches agents how to remain calm, empathize, and resolve issues without losing control of the conversation.`
 
-A financial services call center deals with clients who are often stressed due to account issues or payment delays. Some agents tend to get defensive, which escalates situations. The company needs a playbook that teaches agents how to remain calm, empathize, and resolve issues without losing control of the conversation.
+`Goal:`
 
-Goal:
+`Create a handling guide for interactions with frustrated or angry customers.`
 
-Create a handling guide for interactions with frustrated or angry customers.
+`Prompt:`
 
-Prompt:
-
-*"You are a customer conflict resolution trainer. Create a detailed playbook for handling difficult customers that includes:
-
+`*"You are a customer conflict resolution trainer. Create a detailed playbook for handling difficult customers that includes:`
+```
 1. Common scenarios that trigger customer frustration
 
 2. Verbal and tonal de-escalation techniques
@@ -3338,9 +3338,9 @@ Prompt:
 4. Structured problem-solving approach
 
 5. Role-play exercises for practice"*
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. List of top complaint types
 
 2. Company’s tone and language policy
@@ -3348,21 +3348,21 @@ Inputs Required:
 3. Examples of past escalations
 
 4. Escalation process flowchart
+```
+## Prompt 4 — Escalation Process Training Guide
 
-Prompt 4 — Escalation Process Training Guide
+`Backstory:`
 
-Backstory:
+`A tech company’s support team has inconsistent escalation practices—some agents escalate too early, others too late. This creates delays in issue resolution and affects customer satisfaction scores. A formal training document is needed to define when and how escalations should happen.`
 
-A tech company’s support team has inconsistent escalation practices—some agents escalate too early, others too late. This creates delays in issue resolution and affects customer satisfaction scores. A formal training document is needed to define when and how escalations should happen.
+`Goal:`
 
-Goal:
+`Develop a clear escalation process training guide.`
 
-Develop a clear escalation process training guide.
+`Prompt:`
 
-Prompt:
-
-*"You are a service process consultant. Create an escalation process training guide for agents that covers:
-
+`*"You are a service process consultant. Create an escalation process training guide for agents that covers:`
+```
 1. Definition of escalation and when it is necessary
 
 2. Tiers of escalation and corresponding contacts
@@ -3372,9 +3372,9 @@ Prompt:
 4. How to communicate escalation to the customer
 
 5. Do’s and don’ts of escalation handling"*
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Escalation tier chart
 
 2. Typical resolution SLAs
@@ -3382,21 +3382,21 @@ Inputs Required:
 3. List of team leads/managers by department
 
 4. Communication templates for escalations
+```
+## Prompt 5 — Cross-Selling & Upselling Script Training
 
-Prompt 5 — Cross-Selling & Upselling Script Training
+`Backstory:`
 
-Backstory:
+`An online insurance company wants agents to identify opportunities to offer upgrades and additional products during routine service calls. Currently, attempts feel pushy and lead to low conversion rates. The company needs training that teaches subtle, value-driven sales techniques integrated into support conversations.`
 
-An online insurance company wants agents to identify opportunities to offer upgrades and additional products during routine service calls. Currently, attempts feel pushy and lead to low conversion rates. The company needs training that teaches subtle, value-driven sales techniques integrated into support conversations.
+`Goal:`
 
-Goal:
+`Design a cross-selling and upselling training module.`
 
-Design a cross-selling and upselling training module.
+`Prompt:`
 
-Prompt:
-
-*"You are a sales-in-service coach. Create a cross-selling/upselling training module for agents that includes:
-
+`*"You are a sales-in-service coach. Create a cross-selling/upselling training module for agents that includes:`
+```
 1. Identifying customer needs through active listening
 
 2. Transition phrases from service to sales
@@ -3406,9 +3406,9 @@ Prompt:
 4. Handling price objections politely
 
 5. Ethical selling guidelines"*
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. List of products/services for cross-sell
 
 2. Customer persona profiles
@@ -3416,21 +3416,21 @@ Inputs Required:
 3. Competitive pricing data
 
 4. Case studies of successful conversions
+```
+## Prompt 6 — Remote Agent Communication Skills Training
 
-Prompt 6 — Remote Agent Communication Skills Training
+`Backstory:`
 
-Backstory:
+`A hybrid contact center has agents working both on-site and remotely. Managers have noticed remote agents sometimes struggle to maintain professional tone and consistent communication styles without in-person supervision. The company wants a dedicated communication skills guide for remote teams.`
 
-A hybrid contact center has agents working both on-site and remotely. Managers have noticed remote agents sometimes struggle to maintain professional tone and consistent communication styles without in-person supervision. The company wants a dedicated communication skills guide for remote teams.
+`Goal:`
 
-Goal:
+`Create a training guide for communication best practices for remote agents.`
 
-Create a training guide for communication best practices for remote agents.
+`Prompt:`
 
-Prompt:
-
-*"You are a remote work communication coach. Develop a training guide for remote agents that includes:
-
+`*"You are a remote work communication coach. Develop a training guide for remote agents that includes:`
+```
 1. Professional tone in written and verbal communication
 
 2. Using video calls effectively for internal collaboration
@@ -3440,9 +3440,9 @@ Prompt:
 4. Reducing misunderstandings in chat/email
 
 5. Tools for tone-checking and clarity improvement"*
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. List of internal communication tools
 
 2. Company tone guidelines
@@ -3450,12 +3450,12 @@ Inputs Required:
 3. Remote team structure and time zones
 
 4. Examples of poor vs. good communication
+```
+## Prompt 7 — Data Privacy & Compliance Training
 
-Prompt 7 — Data Privacy & Compliance Training
+`Backstory:`
 
-Backstory:
-
-A healthcare customer support team handles sensitive patient information daily. With growing concerns around data breaches, management wants a training module that ensures every agent knows the rules, follows HIPAA-equivalent protocols, and avoids common security mistakes.
+`A healthcare customer support team handles sensitive patient information daily. With growing concerns around data breaches, management wants a training module that ensures every agent knows the rules, follows HIPAA-equivalent protocols, and avoids common security mistakes.`
 
 Goal:
 
