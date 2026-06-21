@@ -3541,10 +3541,12 @@ Inputs Required:
 3. Locations of return processing centers
 
 4. Costs for refurbishment, disposal, or resale
-````Customs & export documentation
-Prompt 1 — End-to-End Export Documentation Checklist
+```
+Customs & export documentation
 
-Backstory:
+## Prompt 1 — End-to-End Export Documentation Checklist
+
+`Backstory:`
 
 A small manufacturing company in Gujarat is preparing its first export order to Europe. The team is nervous about missing critical customs paperwork, which could cause shipment delays or fines. They need a comprehensive checklist to ensure all documentation is prepared correctly and in compliance with EU regulations.
 
