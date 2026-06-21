@@ -387,20 +387,20 @@ Prompt:
 
 5. RFQ submission deadline
 ```
-Prompt 11 — RFQ for Warehouse Management System (WMS)
+## Prompt 11 — RFQ for Warehouse Management System (WMS)
 
-Backstory:
+`Backstory:`
 
-A logistics company is upgrading its warehouse operations and needs a software system to handle inventory management, shipment tracking, and integration with their ERP. The system must be scalable for future expansion and offer robust customer support.
+`A logistics company is upgrading its warehouse operations and needs a software system to handle inventory management, shipment tracking, and integration with their ERP. The system must be scalable for future expansion and offer robust customer support.`
 
-Goal:
+`Goal:`
 
-Prepare a detailed RFQ for a WMS vendor.
+`Prepare a detailed RFQ for a WMS vendor.`
 
-Prompt:
+`Prompt:`
 
-"You are the IT head drafting an RFQ email for WMS providers. Your email should:
-
+`"You are the IT head drafting an RFQ email for WMS providers. Your email should:`
+```
 1. Describe your current warehouse operations and challenges
 
 2. List required software features (inventory tracking, order management, analytics)
@@ -412,9 +412,9 @@ Prompt:
 5. Request pricing for setup and subscription plans
 
 6. Provide RFQ submission deadline"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Warehouse details (size, operations)
 
 2. List of desired features/modules
@@ -426,21 +426,21 @@ Inputs Required:
 5. Go-live timeline
 
 6. RFQ submission deadline
+```
+## Prompt 12 — RFQ for Office Furniture
 
-Prompt 12 — RFQ for Office Furniture
+`Backstory:`
 
-Backstory:
+`A rapidly growing tech startup is moving into a new workspace and needs ergonomic office furniture to support employee comfort and productivity. They are looking for bulk supply of desks, chairs, storage units, and meeting room tables. Vendors must offer warranty coverage and the ability to customize designs to match the company’s branding.`
 
-A rapidly growing tech startup is moving into a new workspace and needs ergonomic office furniture to support employee comfort and productivity. They are looking for bulk supply of desks, chairs, storage units, and meeting room tables. Vendors must offer warranty coverage and the ability to customize designs to match the company’s branding.
+`Goal:`
 
-Goal:
+`Prepare a comprehensive RFQ for office furniture suppliers.`
 
-Prepare a comprehensive RFQ for office furniture suppliers.
+`Prompt:`
 
-Prompt:
-
-"You are the admin manager drafting an RFQ email for furniture suppliers. Your email should:
-
+`"You are the admin manager drafting an RFQ email for furniture suppliers. Your email should:`
+```
 1. List all required furniture types with dimensions and materials
 
 2. Include ergonomic requirements and brand color preferences
@@ -452,9 +452,9 @@ Prompt:
 5. Require warranty details and after-sales service information
 
 6. Provide RFQ submission deadline"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Furniture type and quantity
 
 2. Preferred materials and colors
@@ -466,21 +466,21 @@ Inputs Required:
 5. Installation requirements
 
 6. RFQ submission date
+```
+## Prompt 13 — RFQ for IT Hardware
 
-Prompt 13 — RFQ for IT Hardware
+`Backstory:`
 
-Backstory:
+`A corporate office is upgrading its IT infrastructure to accommodate new hires. They require laptops, monitors, docking stations, and peripherals from reliable vendors who can offer volume discounts and post-purchase technical support.`
 
-A corporate office is upgrading its IT infrastructure to accommodate new hires. They require laptops, monitors, docking stations, and peripherals from reliable vendors who can offer volume discounts and post-purchase technical support.
+`Goal:`
 
-Goal:
+`Draft an RFQ email for IT hardware procurement.`
 
-Draft an RFQ email for IT hardware procurement.
+`Prompt:`
 
-Prompt:
-
-"You are the IT procurement lead preparing an RFQ for hardware suppliers. Your email should:
-
+`"You are the IT procurement lead preparing an RFQ for hardware suppliers. Your email should:`
+```
 1. Specify the type and configuration of each hardware item
 
 2. Include brand/model preferences, if any
@@ -490,9 +490,9 @@ Prompt:
 4. Request delivery schedule and installation/setup services
 
 5. Include payment terms and submission deadline"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Hardware types and specifications
 
 2. Quantity for each item
@@ -504,21 +504,21 @@ Inputs Required:
 5. Warranty/support expectations
 
 6. RFQ submission date
+```
+## Prompt 14 — RFQ for Event Management Services
 
-Prompt 14 — RFQ for Event Management Services
+`Backstory:`
 
-Backstory:
+`A company is planning a large annual conference for its partners and clients. They need an event management firm to handle venue booking, décor, catering, entertainment, and audio-visual setups. The chosen vendor must have experience in corporate events and a proven track record of managing large gatherings.`
 
-A company is planning a large annual conference for its partners and clients. They need an event management firm to handle venue booking, décor, catering, entertainment, and audio-visual setups. The chosen vendor must have experience in corporate events and a proven track record of managing large gatherings.
+`Goal:`
 
-Goal:
+`Create a detailed RFQ for event management companies.`
 
-Create a detailed RFQ for event management companies.
+`Prompt:`
 
-Prompt:
-
-"You are the corporate communications head drafting an RFQ for event managers. Your email should:
-
+`"You are the corporate communications head drafting an RFQ for event managers. Your email should:`
+```
 1. Describe the event size, audience profile, and objectives
 
 2. List required services (venue, décor, catering, AV, entertainment)
@@ -528,9 +528,9 @@ Prompt:
 4. Ask for portfolio of past events and references
 
 5. Include expected timelines and RFQ submission deadline"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Event date and duration
 
 2. Number of attendees
@@ -542,21 +542,21 @@ Inputs Required:
 5. Budget range
 
 6. RFQ submission date
+```
+## Prompt 15 — RFQ for Packaging Materials
 
-Prompt 15 — RFQ for Packaging Materials
+`Backstory:`
 
-Backstory:
+`An e-commerce brand needs sustainable and durable packaging for shipping fragile items nationwide. They want eco-friendly materials, custom branding on packaging, and bulk supply capacity. Vendors must comply with environmental regulations.`
 
-An e-commerce brand needs sustainable and durable packaging for shipping fragile items nationwide. They want eco-friendly materials, custom branding on packaging, and bulk supply capacity. Vendors must comply with environmental regulations.
+`Goal:`
 
-Goal:
+`Prepare an RFQ for eco-friendly packaging material suppliers.`
 
-Prepare an RFQ for eco-friendly packaging material suppliers.
+`Prompt:`
 
-Prompt:
-
-"You are the operations head creating an RFQ for packaging vendors. Your email should:
-
+`"You are the operations head creating an RFQ for packaging vendors. Your email should:`
+```
 1. List packaging types (boxes, fillers, tapes, labels) with sizes
 
 2. Specify material preferences (recycled, biodegradable)
@@ -568,9 +568,9 @@ Prompt:
 5. Require delivery timelines and quality guarantees
 
 6. Provide RFQ submission deadline"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Packaging types and sizes
 
 2. Material preferences
@@ -582,7 +582,7 @@ Inputs Required:
 5. Order quantity
 
 6. RFQ submission date
-
+```
 Prompt 16 — RFQ for Solar Energy Installation
 
 Backstory:
