@@ -82,9 +82,9 @@
 
 `Goal:`
 
-Draft a detailed RFQ for procuring ergonomic office furniture.
+`Draft a detailed RFQ for procuring ergonomic office furniture.`
 
-Prompt:
+`Prompt:`
 
 `"You are the office admin preparing an RFQ email for furniture vendors. Your email should:`
 ```
