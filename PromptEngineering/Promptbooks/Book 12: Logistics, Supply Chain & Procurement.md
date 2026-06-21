@@ -2766,22 +2766,22 @@ Inputs Required:
 5. Simulation period
 
 
-Cost analysis & efficiency reports
+# Cost analysis & efficiency reports
 
-Prompt 1 — Transportation Cost Efficiency Report
+## Prompt 1 — Transportation Cost Efficiency Report
 
-Backstory:
+`Backstory:`
 
-A nationwide food distributor operates a fleet of 50 trucks delivering to 120 cities. Rising fuel prices have increased transportation costs by 18% in the last year. Management suspects that inefficient route planning and underutilized truck capacity are driving costs higher. They want a comprehensive cost efficiency report to identify cost drivers and recommend optimization strategies.
+`A nationwide food distributor operates a fleet of 50 trucks delivering to 120 cities. Rising fuel prices have increased transportation costs by 18% in the last year. Management suspects that inefficient route planning and underutilized truck capacity are driving costs higher. They want a comprehensive cost efficiency report to identify cost drivers and recommend optimization strategies.`
 
-Goal:
+`Goal:`
 
-Analyse transportation costs, identify inefficiencies, and recommend cost-saving measures.
+`Analyse transportation costs, identify inefficiencies, and recommend cost-saving measures.`
 
-Prompt:
+`Prompt:`
 
-"You are a Supply Chain Cost Analyst. Create a transportation cost efficiency report for a distributor with 50 trucks serving 120 cities.
-
+`"You are a Supply Chain Cost Analyst. Create a transportation cost efficiency report for a distributor with 50 trucks serving 120 cities.`
+```
 1. Analyse cost per kilometer and cost per delivery route.
 
 2. Compare truck capacity utilization rates.
@@ -2791,9 +2791,9 @@ Prompt:
 4. Recommend route optimization and load consolidation strategies.
 
 5. Provide monthly and quarterly savings projections."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Delivery route list with distances
 
 2. Fuel costs and maintenance expenses
@@ -2803,21 +2803,21 @@ Inputs Required:
 4. Delivery frequency per route
 
 5. Historical cost data (12 months)
+```
+## Prompt 2 — Warehouse Operations Cost Audit
 
-Prompt 2 — Warehouse Operations Cost Audit
+`Backstory:`
 
-Backstory:
+`A retail chain operates 4 warehouses across India. Over the past year, warehouse operational costs have increased by 25%, with electricity, labor, and storage being the biggest contributors. Management wants to understand the cost structure and find areas for automation or process improvement without disrupting operations.`
 
-A retail chain operates 4 warehouses across India. Over the past year, warehouse operational costs have increased by 25%, with electricity, labor, and storage being the biggest contributors. Management wants to understand the cost structure and find areas for automation or process improvement without disrupting operations.
+`Goal:`
 
-Goal:
+`Identify warehouse cost inefficiencies and propose automation-driven savings.`
 
-Identify warehouse cost inefficiencies and propose automation-driven savings.
+`Prompt:`
 
-Prompt:
-
-"You are a Logistics Efficiency Consultant. Conduct a warehouse operations cost audit for 4 locations.
-
+`"You are a Logistics Efficiency Consultant. Conduct a warehouse operations cost audit for 4 locations.`
+```
 1. Break down costs into labor, utilities, storage, and maintenance.
 
 2. Benchmark against industry averages for similar-sized facilities.
@@ -2827,9 +2827,9 @@ Prompt:
 4. Recommend automation tools or workflow changes.
 
 5. Provide a projected ROI for implementing changes."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Monthly warehouse cost breakdown
 
 2. Staff headcount and shift details
@@ -2839,21 +2839,21 @@ Inputs Required:
 4. Equipment and automation usage data
 
 5. Industry benchmark data
+```
+## Prompt 3 — Supplier Cost Comparison Report
 
-Prompt 3 — Supplier Cost Comparison Report
+`Backstory:`
 
-Backstory:
+`A manufacturing company works with 15 suppliers for raw materials. Procurement is decentralized, and different plants pay different rates for the same materials. The CFO suspects overpaying due to lack of consolidated data. They need a supplier cost comparison report to identify cost disparities and standardize pricing.`
 
-A manufacturing company works with 15 suppliers for raw materials. Procurement is decentralized, and different plants pay different rates for the same materials. The CFO suspects overpaying due to lack of consolidated data. They need a supplier cost comparison report to identify cost disparities and standardize pricing.
+`Goal:`
 
-Goal:
+`Compare supplier pricing and negotiate standardized rates.`
 
-Compare supplier pricing and negotiate standardized rates.
+`Prompt:`
 
-Prompt:
-
-"You are a Procurement Cost Analyst. Prepare a supplier cost comparison report for 15 vendors.
-
+`"You are a Procurement Cost Analyst. Prepare a supplier cost comparison report for 15 vendors.`
+```
 1. List all materials with supplier-wise pricing.
 
 2. Highlight cost differences for identical items.
@@ -2863,9 +2863,9 @@ Prompt:
 4. Suggest potential for bulk negotiation agreements.
 
 5. Provide a cost-saving forecast post-negotiation."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Material master list
 
 2. Supplier price lists
@@ -2875,21 +2875,21 @@ Inputs Required:
 4. Purchase volumes per supplier
 
 5. Contract terms and validity
+```
+## Prompt 4 — Inventory Holding Cost Analysis
 
-Prompt 4 — Inventory Holding Cost Analysis
+`Backstory:`
 
-Backstory:
+`A furniture retailer stocks large items in a central warehouse. Inventory holding costs, including rent, insurance, and capital lock-in, have increased significantly. Some slow-moving items are occupying prime space for months. Management wants a holding cost analysis to determine optimal stock levels.`
 
-A furniture retailer stocks large items in a central warehouse. Inventory holding costs, including rent, insurance, and capital lock-in, have increased significantly. Some slow-moving items are occupying prime space for months. Management wants a holding cost analysis to determine optimal stock levels.
+`Goal:`
 
-Goal:
+`Calculate holding costs and recommend optimal inventory levels.`
 
-Calculate holding costs and recommend optimal inventory levels.
+`Prompt:`
 
-Prompt:
-
-"You are an Inventory Cost Specialist. Perform a holding cost analysis for a furniture retailer.
-
+`"You are an Inventory Cost Specialist. Perform a holding cost analysis for a furniture retailer.`
+```
 1. Calculate total cost of holding per SKU.
 
 2. Classify products by holding cost impact (A/B/C).
@@ -2899,9 +2899,9 @@ Prompt:
 4. Recommend reorder point adjustments to reduce costs.
 
 5. Provide annual cost-saving projections."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. SKU stock levels and turnover rates
 
 2. Warehouse cost breakdown
@@ -2911,21 +2911,21 @@ Inputs Required:
 4. Insurance and depreciation rates
 
 5. Sales forecast
+```
+## Prompt 5 — Last-Mile Delivery Cost Efficiency
 
-Prompt 5 — Last-Mile Delivery Cost Efficiency
+`Backstory:`
 
-Backstory:
+`An online grocery delivery service offers same-day delivery. While customer satisfaction is high, last-mile delivery costs are eating into profit margins. The operations team wants a cost efficiency report to explore options like delivery slot optimization, batch deliveries, or micro-fulfillment centers.`
 
-An online grocery delivery service offers same-day delivery. While customer satisfaction is high, last-mile delivery costs are eating into profit margins. The operations team wants a cost efficiency report to explore options like delivery slot optimization, batch deliveries, or micro-fulfillment centers.
+`Goal:`
 
-Goal:
+`Reduce last-mile delivery costs without affecting service quality.`
 
-Reduce last-mile delivery costs without affecting service quality.
+`Prompt:`
 
-Prompt:
-
-"You are a Logistics Cost Reduction Consultant. Prepare a last-mile delivery cost efficiency report for an online grocery service.
-
+`"You are a Logistics Cost Reduction Consultant. Prepare a last-mile delivery cost efficiency report for an online grocery service.`
+```
 1. Break down costs per order for delivery staff, fuel, and packaging.
 
 2. Analyse delivery time slots and order batching potential.
@@ -2935,9 +2935,9 @@ Prompt:
 4. Recommend operational changes to cut costs.
 
 5. Estimate cost-per-order reduction percentage."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Delivery cost breakdown per order
 
 2. Average orders per delivery route
@@ -2947,21 +2947,21 @@ Inputs Required:
 4. Customer delivery time slot preferences
 
 5. Fulfillment center operating costs
+```
+## Prompt 6 — Production Cost Breakdown & Optimization
 
-Prompt 6 — Production Cost Breakdown & Optimization
+`Backstory:`
 
-Backstory:
+`A mid-sized electronics manufacturer is struggling to maintain profit margins despite steady sales. Management suspects inefficiencies in production cost allocation, especially in assembly and quality testing stages. They need a cost breakdown and actionable recommendations to optimize operations without compromising product quality.`
 
-A mid-sized electronics manufacturer is struggling to maintain profit margins despite steady sales. Management suspects inefficiencies in production cost allocation, especially in assembly and quality testing stages. They need a cost breakdown and actionable recommendations to optimize operations without compromising product quality.
+`Goal:`
 
-Goal:
+`Identify and reduce production cost inefficiencies.`
 
-Identify and reduce production cost inefficiencies.
+`Prompt:`
 
-Prompt:
-
-"You are a Manufacturing Cost Analyst. Create a production cost breakdown report for an electronics manufacturer.
-
+`"You are a Manufacturing Cost Analyst. Create a production cost breakdown report for an electronics manufacturer.`
+```
 1. Separate costs into materials, labor, overhead, and quality control.
 
 2. Identify cost-heavy stages in production.
@@ -2969,9 +2969,9 @@ Prompt:
 3. Recommend workflow changes, lean manufacturing techniques, or automation.
 
 4. Provide estimated annual savings from recommended changes."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Production cost ledger
 
 2. Labor hours per stage
@@ -2981,21 +2981,21 @@ Inputs Required:
 4. Quality control failure rates
 
 5. Machine downtime reports
+```
+## Prompt 7 — Procurement Cost vs. Market Price Analysis
 
-Prompt 7 — Procurement Cost vs. Market Price Analysis
+`Backstory:`
 
-Backstory:
+`A large FMCG company suspects it is overpaying for certain raw materials compared to market rates. They want a procurement cost analysis that benchmarks their current supplier prices against real-time market averages and historical trends to inform negotiation strategy.`
 
-A large FMCG company suspects it is overpaying for certain raw materials compared to market rates. They want a procurement cost analysis that benchmarks their current supplier prices against real-time market averages and historical trends to inform negotiation strategy.
+`Goal:`
 
-Goal:
+`Identify overpriced procurement items and prepare for supplier negotiations.`
 
-Identify overpriced procurement items and prepare for supplier negotiations.
+`Prompt:`
 
-Prompt:
-
-"You are a Procurement Analyst. Prepare a cost vs. market price comparison for all raw materials purchased in the last year.
-
+`"You are a Procurement Analyst. Prepare a cost vs. market price comparison for all raw materials purchased in the last year.`
+```
 1. Show percentage differences from market averages.
 
 2. Highlight materials with over 10% premium paid.
@@ -3003,9 +3003,9 @@ Prompt:
 3. Suggest alternative suppliers or negotiation strategies.
 
 4. Provide estimated savings from switching suppliers or renegotiating contracts."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Purchase records (item, price, supplier)
 
 2. Market price data for each material
@@ -3013,8 +3013,8 @@ Inputs Required:
 3. Historical supplier agreements
 
 4. Quality specifications and tolerance limits
-
-Prompt 8 — Energy Efficiency & Cost Reduction Report
+```
+## Prompt 8 — Energy Efficiency & Cost Reduction Report
 
 Backstory:
 
