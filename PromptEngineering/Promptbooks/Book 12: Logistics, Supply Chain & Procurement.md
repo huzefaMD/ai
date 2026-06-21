@@ -3548,16 +3548,16 @@ Customs & export documentation
 
 `Backstory:`
 
-A small manufacturing company in Gujarat is preparing its first export order to Europe. The team is nervous about missing critical customs paperwork, which could cause shipment delays or fines. They need a comprehensive checklist to ensure all documentation is prepared correctly and in compliance with EU regulations.
+`A small manufacturing company in Gujarat is preparing its first export order to Europe. The team is nervous about missing critical customs paperwork, which could cause shipment delays or fines. They need a comprehensive checklist to ensure all documentation is prepared correctly and in compliance with EU regulations.`
 
-Goal:
+`Goal:`
 
-Create a complete, step-by-step export documentation checklist.
+`Create a complete, step-by-step export documentation checklist.`
 
-Prompt:
+`Prompt:`
 
-"You are an International Trade Compliance Consultant. Prepare an end-to-end export documentation checklist for a first-time exporter shipping goods from India to the EU.
-
+`"You are an International Trade Compliance Consultant. Prepare an end-to-end export documentation checklist for a first-time exporter shipping goods from India to the EU.`
+```
 1. Include commercial, transport, and compliance documents.
 
 2. Mention required certifications for the destination country.
@@ -3565,9 +3565,9 @@ Prompt:
 3. Highlight timelines for preparing each document.
 
 4. Suggest best practices to avoid customs delays."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Product category and HS code
 
 2. Destination country
@@ -3575,29 +3575,29 @@ Inputs Required:
 3. Mode of transport (air/sea)
 
 4. Exporter registration details
+```
+## Prompt 2 — Harmonized System (HS) Code Classification
 
-Prompt 2 — Harmonized System (HS) Code Classification
+`Backstory:`
 
-Backstory:
+`An apparel exporter frequently faces customs delays because officers question their HS code classification. This not only increases clearance times but also leads to inconsistent duty calculations.`
 
-An apparel exporter frequently faces customs delays because officers question their HS code classification. This not only increases clearance times but also leads to inconsistent duty calculations.
+`Goal:`
 
-Goal:
+`Determine the correct HS code for export goods.`
 
-Determine the correct HS code for export goods.
+`Prompt:`
 
-Prompt:
-
-"You are a Customs Classification Specialist. Verify and confirm the correct HS code for a batch of export products.
-
+`"You are a Customs Classification Specialist. Verify and confirm the correct HS code for a batch of export products.`
+```
 1. Explain why this classification is correct.
 
 2. Outline the associated duty rates for the destination country.
 
 3. Provide examples of similar classified products."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Detailed product description
 
 2. Product material composition
@@ -3605,8 +3605,8 @@ Inputs Required:
 3. Intended use of the product
 
 4. Images or product samples (if available)
-
-Prompt 3 — Certificate of Origin Preparation
+```
+## Prompt 3 — Certificate of Origin Preparation
 
 Backstory:
 
