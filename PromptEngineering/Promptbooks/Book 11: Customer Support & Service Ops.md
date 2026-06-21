@@ -3457,14 +3457,14 @@
 
 `A healthcare customer support team handles sensitive patient information daily. With growing concerns around data breaches, management wants a training module that ensures every agent knows the rules, follows HIPAA-equivalent protocols, and avoids common security mistakes.`
 
-Goal:
+`Goal:`
 
-Build a compliance-focused training module for data privacy.
+`Build a compliance-focused training module for data privacy.`
 
-Prompt:
+`Prompt:`
 
-*"You are a compliance training specialist. Create a data privacy and compliance training module for customer support agents that includes:
-
+`*"You are a compliance training specialist. Create a data privacy and compliance training module for customer support agents that includes:`
+```
 1. Overview of applicable privacy laws (HIPAA, GDPR, etc.)
 
 2. Secure data handling practices during calls and chats
@@ -3474,9 +3474,9 @@ Prompt:
 4. Steps to follow if a breach is suspected
 
 5. Regular refresher quiz questions"*
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Industry-specific compliance standards
 
 2. Current internal security policy
@@ -3484,21 +3484,21 @@ Inputs Required:
 3. Incident response plan
 
 4. Data retention rules
+```
+## Prompt 8 — Soft Skills & Empathy Development Workshop
 
-Prompt 8 — Soft Skills & Empathy Development Workshop
+`Backstory:`
 
-Backstory:
+`A luxury hotel chain values emotional connection with guests, but some agents rely too heavily on scripted lines, making interactions sound robotic. Management wants a workshop that helps agents develop genuine empathy and adaptability in conversations.`
 
-A luxury hotel chain values emotional connection with guests, but some agents rely too heavily on scripted lines, making interactions sound robotic. Management wants a workshop that helps agents develop genuine empathy and adaptability in conversations.
+`Goal:`
 
-Goal:
+`Create a soft skills and empathy training workshop plan.`
 
-Create a soft skills and empathy training workshop plan.
+`Prompt:`
 
-Prompt:
-
-*"You are a hospitality training expert. Design a workshop for soft skills and empathy development including:
-
+`*"You are a hospitality training expert. Design a workshop for soft skills and empathy development including:`
+```
 1. Active listening exercises
 
 2. Role-play with emotionally charged customer scenarios
@@ -3508,9 +3508,9 @@ Prompt:
 4. Cultural sensitivity awareness
 
 5. Feedback and reflection activities"*
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Example customer scenarios from past cases
 
 2. Brand tone guide
@@ -3518,21 +3518,21 @@ Inputs Required:
 3. Cultural diversity data of customer base
 
 4. List of non-verbal communication guidelines
+```
+## Prompt 9 — Knowledge Base Usage Training
 
-Prompt 9 — Knowledge Base Usage Training
+`Backstory:`
 
-Backstory:
+`A subscription software company invested heavily in an internal knowledge base, but agents rarely use it during calls, leading to inconsistent answers. Management wants training that teaches agents how to quickly find and share accurate information from the system.`
 
-A subscription software company invested heavily in an internal knowledge base, but agents rarely use it during calls, leading to inconsistent answers. Management wants training that teaches agents how to quickly find and share accurate information from the system.
+`Goal:`
 
-Goal:
+`Develop a knowledge base usage training manual.`
 
-Develop a knowledge base usage training manual.
+`Prompt:`
 
-Prompt:
-
-*"You are an instructional designer. Create a training manual for knowledge base usage that includes:
-
+`*"You are an instructional designer. Create a training manual for knowledge base usage that includes:`
+```
 1. Step-by-step guide to search effectively
 
 2. Categorization of information by issue type
@@ -3542,9 +3542,9 @@ Prompt:
 4. When to update or suggest edits to KB articles
 
 5. Measuring agent usage and accuracy"*
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Access to current KB system
 
 2. Common search queries by agents
@@ -3552,21 +3552,21 @@ Inputs Required:
 3. List of article categories
 
 4. KB updating workflow
+```
+## Prompt 10 — Call Flow Mastery Training
 
-Prompt 10 — Call Flow Mastery Training
+`Backstory:`
 
-Backstory:
+`A large retail chain uses a structured call flow to ensure consistency, but new agents often skip or reorder steps. This causes confusion and impacts customer satisfaction. Management wants a refresher training focused on mastering the official call flow structure.`
 
-A large retail chain uses a structured call flow to ensure consistency, but new agents often skip or reorder steps. This causes confusion and impacts customer satisfaction. Management wants a refresher training focused on mastering the official call flow structure.
+`Goal:`
 
-Goal:
+`Create a call flow mastery training session.`
 
-Create a call flow mastery training session.
+`Prompt:`
 
-Prompt:
-
-*"You are a process training consultant. Create a training session plan for mastering call flow, covering:
-
+`*"You are a process training consultant. Create a training session plan for mastering call flow, covering:`
+```
 1. Overview of call flow stages (Greeting → Discovery → Resolution → Closing)
 
 2. Importance of following sequence
@@ -3576,9 +3576,9 @@ Prompt:
 4. Common mistakes and how to avoid them
 
 5. Practice role-plays with scoring rubrics"*
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Official call flow chart
 
 2. Examples of calls with perfect vs. poor flow
@@ -3586,21 +3586,21 @@ Inputs Required:
 3. Brand greeting and closing scripts
 
 4. Agent evaluation form
+```
+## Prompt 11 — Handling Multiple Chat Conversations Training
 
-Prompt 11 — Handling Multiple Chat Conversations Training
+`Backstory:`
 
-Backstory:
+`A fashion e-commerce site allows agents to handle up to 5 live chat windows at once. New agents are finding it overwhelming to balance speed with quality, resulting in dropped chats and unsatisfied customers. Management needs a training plan that teaches multitasking without compromising service quality.`
 
-A fashion e-commerce site allows agents to handle up to 5 live chat windows at once. New agents are finding it overwhelming to balance speed with quality, resulting in dropped chats and unsatisfied customers. Management needs a training plan that teaches multitasking without compromising service quality.
+`Goal:`
 
-Goal:
+`Develop a multitasking training module for live chat agents.`
 
-Develop a multitasking training module for live chat agents.
+`Prompt:`
 
-Prompt:
-
-*"You are a live chat operations trainer. Create a training module for handling multiple simultaneous chats that covers:
-
+`*"You are a live chat operations trainer. Create a training module for handling multiple simultaneous chats that covers:`
+```
 1. Time allocation strategies per conversation
 
 2. Prioritizing chats based on urgency
@@ -3610,9 +3610,9 @@ Prompt:
 4. Tools for managing multiple chat tabs efficiently
 
 5. Reducing agent stress while multitasking"*
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Average concurrent chat count per agent
 
 2. Common chat topics
@@ -3620,21 +3620,21 @@ Inputs Required:
 3. Current response time targets
 
 4. List of existing chat templates
+```
+## Prompt 12 — Email Support Excellence Guide
 
-Prompt 12 — Email Support Excellence Guide
+`Backstory:`
 
-Backstory:
+`An online education platform receives hundreds of email queries daily. Customers often complain about slow replies and impersonal responses. The company wants a guide that helps agents write clear, empathetic, and concise responses that maintain brand voice.`
 
-An online education platform receives hundreds of email queries daily. Customers often complain about slow replies and impersonal responses. The company wants a guide that helps agents write clear, empathetic, and concise responses that maintain brand voice.
+`Goal:`
 
-Goal:
+`Create a training guide for high-quality email responses.`
 
-Create a training guide for high-quality email responses.
+`Prompt:`
 
-Prompt:
-
-*"You are a customer email communication expert. Create a training guide for email support that includes:
-
+`*"You are a customer email communication expert. Create a training guide for email support that includes:`
+```
 1. Structuring emails for clarity and speed
 
 2. Personalizing replies while using templates
@@ -3644,9 +3644,9 @@ Prompt:
 4. Avoiding jargon and overcomplicated language
 
 5. Checklist for proofreading before sending"*
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Brand tone guide
 
 2. Common email query types
@@ -3654,21 +3654,21 @@ Inputs Required:
 3. SLA for email responses
 
 4. Sample high-quality replies
+```
+## Prompt 13 — Time Management for Support Agents
 
-Prompt 13 — Time Management for Support Agents
+`Backstory:`
 
-Backstory:
+`A telecom provider’s agents often struggle with balancing long call durations and pending backlogs. Without proper time management skills, cases pile up, increasing stress and lowering customer satisfaction. The leadership team wants a training program to improve daily workflow efficiency.`
 
-A telecom provider’s agents often struggle with balancing long call durations and pending backlogs. Without proper time management skills, cases pile up, increasing stress and lowering customer satisfaction. The leadership team wants a training program to improve daily workflow efficiency.
+`Goal:`
 
-Goal:
+`Build a time management training guide for support teams.`
 
-Build a time management training guide for support teams.
+`Prompt:`
 
-Prompt:
-
-*"You are a productivity coach. Create a time management training program for support agents that includes:
-
+`*"You are a productivity coach. Create a time management training program for support agents that includes:`
+```
 1. Prioritization techniques for tickets and calls
 
 2. Time-blocking strategies for peak hours
@@ -3678,9 +3678,9 @@ Prompt:
 4. Using downtime effectively for follow-ups
 
 5. Tools for tracking time and productivity"*
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Average ticket/call volumes
 
 2. Shift schedules
@@ -3688,21 +3688,21 @@ Inputs Required:
 3. Current backlog trends
 
 4. List of available time-tracking tools
+```
+## Prompt 14 — Cross-Department Collaboration Training
 
-Prompt 14 — Cross-Department Collaboration Training
+`Backstory:`
 
-Backstory:
+`A subscription box company requires support agents to frequently coordinate with logistics, marketing, and product teams. Miscommunication often leads to delays and customer dissatisfaction. They need a training module that improves cross-department collaboration skills.`
 
-A subscription box company requires support agents to frequently coordinate with logistics, marketing, and product teams. Miscommunication often leads to delays and customer dissatisfaction. They need a training module that improves cross-department collaboration skills.
+`Goal:`
 
-Goal:
+`Develop a collaboration skills training program for agents.`
 
-Develop a collaboration skills training program for agents.
+`Prompt:`
 
-Prompt:
-
-*"You are a workplace collaboration trainer. Create a training program for cross-department coordination that covers:
-
+`*"You are a workplace collaboration trainer. Create a training program for cross-department coordination that covers:`
+```
 1. Understanding each department’s role in customer resolution
 
 2. Setting clear expectations when requesting assistance
@@ -3712,9 +3712,9 @@ Prompt:
 4. Using project management tools effectively
 
 5. Conflict resolution techniques"*
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. List of departments and key contacts
 
 2. Common inter-department dependencies
@@ -3722,21 +3722,21 @@ Inputs Required:
 3. Preferred internal communication channels
 
 4. Examples of past collaboration issues
+```
+## Prompt 15 — Handling Service Interruptions Training
 
-Prompt 15 — Handling Service Interruptions Training
+`Backstory:`
 
-Backstory:
+`During a nationwide outage of a cloud service, customer support lines flooded with calls. Some agents panicked, giving inconsistent updates, which worsened customer frustration. Management wants a training protocol for handling such crises calmly and consistently.`
 
-During a nationwide outage of a cloud service, customer support lines flooded with calls. Some agents panicked, giving inconsistent updates, which worsened customer frustration. Management wants a training protocol for handling such crises calmly and consistently.
+`Goal:`
 
-Goal:
+`Create a crisis communication training guide.`
 
-Create a crisis communication training guide.
+`Prompt:`
 
-Prompt:
-
-*"You are a crisis management trainer. Create a protocol for agents during service interruptions that includes:
-
+`*"You are a crisis management trainer. Create a protocol for agents during service interruptions that includes:`
+```
 1. Gathering verified information quickly
 
 2. Delivering consistent and accurate updates
@@ -3746,9 +3746,9 @@ Prompt:
 4. Avoiding speculative responses
 
 5. Post-outage customer follow-up strategies"*
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Crisis communication chain of command
 
 2. Examples of past outages
@@ -3756,8 +3756,8 @@ Inputs Required:
 3. Pre-approved holding statements
 
 4. Escalation contacts for urgent updates
-
-Prompt 16 — AI Tool Integration Training
+```
+## Prompt 16 — AI Tool Integration Training
 
 Backstory:
 
