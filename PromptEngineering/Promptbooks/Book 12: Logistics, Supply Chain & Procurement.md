@@ -1,19 +1,19 @@
-Vendor RFQs & sourcing emails
+# Vendor RFQs & sourcing emails
 
-Prompt 1 — Upskilling Program for Experienced Agents
+## Prompt 1 — Upskilling Program for Experienced Agents
 
-Backstory:
+`Backstory:`
 
-A BPO has agents who have been in their roles for over 5 years. While experienced, their skills haven’t evolved to match newer technologies and customer expectations. Management wants an upskilling program to refresh and expand their capabilities.
+`A BPO has agents who have been in their roles for over 5 years. While experienced, their skills haven’t evolved to match newer technologies and customer expectations. Management wants an upskilling program to refresh and expand their capabilities.`
 
-Goal:
+`Goal:`
 
-Develop an upskilling program for seasoned customer support agents.
+`Develop an upskilling program for seasoned customer support agents.`
 
-Prompt:
+`Prompt:`
 
-*"You are a corporate training designer. Create an upskilling program that includes:
-
+`*"You are a corporate training designer. Create an upskilling program that includes:`
+```
 1. Refresher modules on communication and empathy
 
 2. Training on emerging customer support tools and AI systems
@@ -23,9 +23,9 @@ Prompt:
 4. Peer-led workshops for sharing expertise
 
 5. Certification pathways to recognize advanced skills"*
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Current skill assessment reports
 
 2. List of new tools to be adopted
@@ -33,21 +33,21 @@ Inputs Required:
 3. Examples of modern customer issues vs. 5 years ago
 
 4. Recognition and certification policy
+```
+## Prompt 2 — RFQ for Bulk Raw Material Purchase
 
-Prompt 2 — RFQ for Bulk Raw Material Purchase
+`Backstory:`
 
-Backstory:
+`A mid-sized FMCG manufacturer is scaling up production for the festive season and requires 50 tons of high-grade packaging material. They have identified a list of pre-qualified vendors but want to ensure they get competitive prices without compromising quality. The procurement team must clearly communicate specifications, delivery requirements, and payment terms so vendors can submit accurate quotes.`
 
-A mid-sized FMCG manufacturer is scaling up production for the festive season and requires 50 tons of high-grade packaging material. They have identified a list of pre-qualified vendors but want to ensure they get competitive prices without compromising quality. The procurement team must clearly communicate specifications, delivery requirements, and payment terms so vendors can submit accurate quotes.
+`Goal:`
 
-Goal:
+`Prepare a professional RFQ email for sourcing bulk raw materials.`
 
-Prepare a professional RFQ email for sourcing bulk raw materials.
+`Prompt:`
 
-Prompt:
-
-"You are a procurement manager drafting an RFQ email for bulk packaging material. Your email should:
-
+`"You are a procurement manager drafting an RFQ email for bulk packaging material. Your email should:`
+```
 1. Introduce your company and state the purpose of the RFQ
 
 2. Detail the exact quantity, quality grade, and technical specifications
@@ -59,9 +59,9 @@ Prompt:
 5. Ask for warranty terms, quality certifications, and sample submissions
 
 6. Mention preferred payment terms and the deadline for quote submission"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Company name and short profile
 
 2. Material specifications (grade, compliance requirements)
@@ -73,21 +73,21 @@ Inputs Required:
 5. Preferred payment terms
 
 6. RFQ submission deadline
+```
+## Prompt 3 — RFQ for Office Furniture Supply
 
-Prompt 3 — RFQ for Office Furniture Supply
+`Backstory:`
 
-Backstory:
+`A new IT firm is setting up a 200-seat office space and requires ergonomic chairs, modular desks, and storage units. The HR and Admin teams want furniture that meets ergonomic standards, offers durability, and comes with a warranty. They will be sending this RFQ to multiple vendors to compare prices and delivery timelines.`
 
-A new IT firm is setting up a 200-seat office space and requires ergonomic chairs, modular desks, and storage units. The HR and Admin teams want furniture that meets ergonomic standards, offers durability, and comes with a warranty. They will be sending this RFQ to multiple vendors to compare prices and delivery timelines.
-
-Goal:
+`Goal:`
 
 Draft a detailed RFQ for procuring ergonomic office furniture.
 
 Prompt:
 
-"You are the office admin preparing an RFQ email for furniture vendors. Your email should:
-
+`"You are the office admin preparing an RFQ email for furniture vendors. Your email should:`
+```
 1. Briefly describe your company’s setup and need for ergonomic furniture
 
 2. Provide a list of required items with quantity and specifications
@@ -99,9 +99,9 @@ Prompt:
 5. Specify the expected delivery date and installation requirements
 
 6. State the RFQ submission deadline"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. List of furniture items with specifications
 
 2. Total quantity for each item
@@ -113,21 +113,21 @@ Inputs Required:
 5. Warranty expectations
 
 6. RFQ submission deadline
+```
+## Prompt 4 — RFQ for IT Hardware Procurement
 
-Prompt 4 — RFQ for IT Hardware Procurement
+`Backstory:`
 
-Backstory:
+`A growing SaaS startup is onboarding 50 new employees and needs laptops, docking stations, and monitors. They want reliable hardware with strong after-sales support and must ensure compatibility with their existing systems. The procurement lead is tasked with drafting an RFQ to shortlist suitable vendors.`
 
-A growing SaaS startup is onboarding 50 new employees and needs laptops, docking stations, and monitors. They want reliable hardware with strong after-sales support and must ensure compatibility with their existing systems. The procurement lead is tasked with drafting an RFQ to shortlist suitable vendors.
+`Goal:`
 
-Goal:
+`Create a detailed RFQ for sourcing IT hardware.`
 
-Create a detailed RFQ for sourcing IT hardware.
+`Prompt:`
 
-Prompt:
-
-"You are the IT procurement officer preparing an RFQ email for IT hardware suppliers. Your email should:
-
+`"You are the IT procurement officer preparing an RFQ email for IT hardware suppliers. Your email should:`
+```
 1. Introduce your company and explain the procurement need
 
 2. List hardware items with technical specifications
@@ -139,9 +139,9 @@ Prompt:
 5. Mention delivery timelines and installation requirements
 
 6. Set a clear RFQ submission deadline"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. List of required hardware items
 
 2. Technical specifications for each item
@@ -153,21 +153,21 @@ Inputs Required:
 5. Warranty and support requirements
 
 6. RFQ submission date
+```
+## Prompt 5 — RFQ for Logistics & Freight Services
 
-Prompt 5 — RFQ for Logistics & Freight Services
+`Backstory:`
 
-Backstory:
+`An electronics distributor is expanding into new states and requires a reliable logistics partner for both inbound and outbound shipments. The company needs multi-modal transport options (road + air) and must ensure strict adherence to delivery schedules to avoid delays in fulfilling customer orders. The RFQ should solicit pricing, delivery guarantees, and damage liability clauses from multiple logistics firms.`
 
-An electronics distributor is expanding into new states and requires a reliable logistics partner for both inbound and outbound shipments. The company needs multi-modal transport options (road + air) and must ensure strict adherence to delivery schedules to avoid delays in fulfilling customer orders. The RFQ should solicit pricing, delivery guarantees, and damage liability clauses from multiple logistics firms.
+`Goal:`
 
-Goal:
-
-Prepare an RFQ email for domestic logistics and freight services.
+`Prepare an RFQ email for domestic logistics and freight services.`
 
 Prompt:
 
-"You are the supply chain manager preparing an RFQ email to logistics companies. Your email should:
-
+`"You are the supply chain manager preparing an RFQ email to logistics companies. Your email should:`
+```
 1. Describe the nature and volume of goods shipped monthly
 
 2. Outline pickup and delivery locations, including interstate requirements
@@ -179,9 +179,9 @@ Prompt:
 5. Specify insurance coverage requirements
 
 6. Provide a deadline for submitting the quotation"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Type of goods shipped
 
 2. Average monthly shipment volume
@@ -195,7 +195,7 @@ Inputs Required:
 6. Insurance requirements
 
 7. RFQ submission deadline
-
+```
 Prompt 6 — RFQ for Corporate Uniforms
 
 Backstory:
