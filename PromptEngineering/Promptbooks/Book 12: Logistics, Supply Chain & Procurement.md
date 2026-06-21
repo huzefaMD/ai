@@ -164,7 +164,7 @@ Prompt:
 
 `Prepare an RFQ email for domestic logistics and freight services.`
 
-Prompt:
+`Prompt:`
 
 `"You are the supply chain manager preparing an RFQ email to logistics companies. Your email should:`
 ```
@@ -196,20 +196,20 @@ Prompt:
 
 7. RFQ submission deadline
 ```
-Prompt 6 — RFQ for Corporate Uniforms
+## Prompt 6 — RFQ for Corporate Uniforms
 
-Backstory:
+`Backstory:`
 
-A large hospitality chain is rebranding and wants to roll out new uniforms for all front-line and back-office staff. They need a vendor who can handle custom designs, provide multiple size fittings, and ensure durable fabric quality for long-term use. The procurement team plans to distribute the uniforms across 20 locations nationwide.
+`A large hospitality chain is rebranding and wants to roll out new uniforms for all front-line and back-office staff. They need a vendor who can handle custom designs, provide multiple size fittings, and ensure durable fabric quality for long-term use. The procurement team plans to distribute the uniforms across 20 locations nationwide.`
 
-Goal:
+`Goal:`
 
-Draft an RFQ for sourcing custom corporate uniforms.
+`Draft an RFQ for sourcing custom corporate uniforms.`
 
-Prompt:
+`Prompt:`
 
-"You are the brand operations manager preparing an RFQ for uniform suppliers. Your email should: 
-
+`"You are the brand operations manager preparing an RFQ for uniform suppliers. Your email should: `
+```
 1. Introduce your brand and outline the rebranding initiative 
 
 2. Specify types of uniforms required (front desk, housekeeping, F&B, admin) 
@@ -221,9 +221,9 @@ Prompt:
 5. Include delivery timelines for each branch location 
 
 6. State warranty/replacement policies and submission deadline"
-
-Inputs Required: 
-
+```
+`Inputs Required: `
+```
 1. List of uniform types 
 
 2. Quantity per location 
@@ -235,21 +235,21 @@ Inputs Required:
 5. Delivery schedule per location 
 
 6. RFQ submission deadline
+```
+## Prompt 7 — RFQ for Industrial Cleaning Services
 
-Prompt 7 — RFQ for Industrial Cleaning Services
+`Backstory:`
 
-Backstory:
+`A large manufacturing facility requires monthly deep cleaning of production floors, warehouses, and administrative areas. Vendors must use industrial-grade cleaning equipment, adhere to occupational safety standards, and provide documentation of health and safety compliance. The RFQ must detail chemical usage guidelines and waste disposal processes.`
 
-A large manufacturing facility requires monthly deep cleaning of production floors, warehouses, and administrative areas. Vendors must use industrial-grade cleaning equipment, adhere to occupational safety standards, and provide documentation of health and safety compliance. The RFQ must detail chemical usage guidelines and waste disposal processes.
+`Goal:`
 
-Goal:
+`Create a comprehensive RFQ for industrial cleaning service providers.`
 
-Create a comprehensive RFQ for industrial cleaning service providers.
+`Prompt:`
 
-Prompt:
-
-"You are the facility manager preparing an RFQ email for industrial cleaning vendors. Your email should: 
-
+`"You are the facility manager preparing an RFQ email for industrial cleaning vendors. Your email should: `
+```
 1. Describe the size and type of facility areas to be cleaned 
 
 2. Mention cleaning frequency and preferred hours for operations 
@@ -261,9 +261,9 @@ Prompt:
 5. Ask for cost per service and monthly package pricing 
 
 6. Set expectations for insurance coverage and RFQ submission deadline"
-
-Inputs Required: 
-
+```
+`Inputs Required: `
+```
 1. Facility size and layout details 
 
 2. Cleaning frequency 
@@ -275,21 +275,21 @@ Inputs Required:
 5. Insurance and compliance requirements 
 
 6. RFQ submission deadline
+```
+## Prompt 8 — RFQ for Corporate Catering
 
-Prompt 8 — RFQ for Corporate Catering
+`Backstory:`
 
-Backstory:
+`A company with 500 employees wants to introduce a daily lunch service to improve employee satisfaction and health. They require vendors who can provide balanced meals, accommodate dietary restrictions, and ensure timely delivery to their premises. The RFQ should request menus, cost per meal, and hygiene compliance certifications.`
 
-A company with 500 employees wants to introduce a daily lunch service to improve employee satisfaction and health. They require vendors who can provide balanced meals, accommodate dietary restrictions, and ensure timely delivery to their premises. The RFQ should request menus, cost per meal, and hygiene compliance certifications.
+`Goal:`
 
-Goal:
+`Draft a vendor RFQ for daily corporate catering services.`
 
-Draft a vendor RFQ for daily corporate catering services.
+`Prompt:`
 
-Prompt:
-
-"You are the office admin preparing an RFQ email for corporate catering vendors. Your email should:
-
+`"You are the office admin preparing an RFQ email for corporate catering vendors. Your email should:`
+```
 1. State the total headcount and meal type requirements
 
 2. Ask for sample menus with vegetarian, vegan, and non-veg options
@@ -301,9 +301,9 @@ Prompt:
 5. Ask for pricing per meal and monthly contracts
 
 6. Require hygiene certifications and submission deadline"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Number of employees to serve
 
 2. Meal preferences/dietary restrictions
@@ -313,21 +313,21 @@ Inputs Required:
 4. Serving format (buffet, packed meals)
 
 5. RFQ submission deadline
+```
+## Prompt 9 — RFQ for Safety Equipment
 
-Prompt 9 — RFQ for Safety Equipment
+`Backstory:`
 
-Backstory:
+`A new infrastructure project requires personal protective equipment (PPE) for all site workers. Items include helmets, gloves, safety shoes, and high-visibility jackets. Vendors must supply BIS/ISO-certified gear and ensure timely delivery before project commencement.`
 
-A new infrastructure project requires personal protective equipment (PPE) for all site workers. Items include helmets, gloves, safety shoes, and high-visibility jackets. Vendors must supply BIS/ISO-certified gear and ensure timely delivery before project commencement.
+`Goal:`
 
-Goal:
+`Draft a detailed RFQ for PPE procurement.`
 
-Draft a detailed RFQ for PPE procurement.
+`Prompt:`
 
-Prompt:
-
-"You are the site safety officer preparing an RFQ email for PPE vendors. Your email should:
-
+`"You are the site safety officer preparing an RFQ email for PPE vendors. Your email should:`
+```
 1. List all PPE items required with relevant certifications
 
 2. Mention size variations and customization (logo printing) if needed
@@ -337,9 +337,9 @@ Prompt:
 4. Include delivery timelines and compliance with safety standards
 
 5. Specify insurance coverage and RFQ submission deadline"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. List of PPE items and specifications
 
 2. Quantity per item
@@ -349,21 +349,20 @@ Inputs Required:
 4. Delivery location and deadline
 
 5. RFQ submission date
+```
+## Prompt 10 — RFQ for Printing & Branding Services
 
-Prompt 10 — RFQ for Printing & Branding Services
+`Backstory:`
 
-Backstory:
+`A retail chain is launching a seasonal sale and needs banners, posters, and brochures printed in bulk. The vendor must deliver high-quality prints with color accuracy and meet strict deadlines to align with the campaign launch.`
 
-A retail chain is launching a seasonal sale and needs banners, posters, and brochures printed in bulk. The vendor must deliver high-quality prints with color accuracy and meet strict deadlines to align with the campaign launch.
+`Goal:`
+`Create an RFQ for printing and branding services.`
 
-Goal:
+`Prompt:`
 
-Create an RFQ for printing and branding services.
-
-Prompt:
-
-"You are the marketing manager preparing an RFQ for printing vendors. Your email should:
-
+`"You are the marketing manager preparing an RFQ for printing vendors. Your email should:`
+```
 1. Specify the types of materials to be printed (banners, flyers, posters)
 
 2. Mention size, paper quality, and finish requirements
@@ -375,9 +374,9 @@ Prompt:
 5. Ask for pricing with bulk discounts and delivery terms
 
 6. Provide RFQ submission deadline"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. List of print materials with specifications
 
 2. Quantity per item
@@ -387,7 +386,7 @@ Inputs Required:
 4. Delivery date
 
 5. RFQ submission deadline
-
+```
 Prompt 11 — RFQ for Warehouse Management System (WMS)
 
 Backstory:
