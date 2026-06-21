@@ -777,20 +777,20 @@ Prompt:
 
 6. RFQ submission date
 ```
-Prompt 21 — RFQ for Corporate Travel Services
+## Prompt 21 — RFQ for Corporate Travel Services
 
-Backstory:
+`Backstory:`
 
-A consultancy firm requires a travel management partner to handle domestic and international bookings for 100+ employees. They want negotiated rates, 24/7 support, and expense reporting.
+`A consultancy firm requires a travel management partner to handle domestic and international bookings for 100+ employees. They want negotiated rates, 24/7 support, and expense reporting.`
 
-Goal:
+`Goal:`
 
-Draft an RFQ for corporate travel agencies.
+`Draft an RFQ for corporate travel agencies.`
 
-Prompt:
+`Prompt:`
 
-"You are the admin coordinator preparing an RFQ for corporate travel providers. Your email should:
-
+`"You are the admin coordinator preparing an RFQ for corporate travel providers. Your email should:`
+```
 1. Describe travel requirements (domestic/international) and volume
 
 2. Request details on booking processes, discounts, and partnerships
@@ -800,9 +800,9 @@ Prompt:
 4. Include customer service expectations and reporting needs
 
 5. Provide RFQ submission deadline"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Annual travel volume estimates
 
 2. Destinations and frequency
@@ -812,21 +812,21 @@ Inputs Required:
 4. Preferred travel class and budget range
 
 5. RFQ submission date
+```
+## Prompt 22 — RFQ for Security Services
 
-Prompt 22 — RFQ for Security Services
+`Backstory:`
 
-Backstory:
+`A manufacturing facility needs 24/7 on-site security personnel, CCTV monitoring, and access control systems. They require a vendor with licensed and trained security staff, plus the ability to integrate technology into security operations.`
 
-A manufacturing facility needs 24/7 on-site security personnel, CCTV monitoring, and access control systems. They require a vendor with licensed and trained security staff, plus the ability to integrate technology into security operations.
+`Goal:`
 
-Goal:
+`Prepare an RFQ for security service providers.`
 
-Prepare an RFQ for security service providers.
+`Prompt:`
 
-Prompt:
-
-"You are the facility manager preparing an RFQ for security vendors. Your email should: 
-
+`"You are the facility manager preparing an RFQ for security vendors. Your email should: `
+```
 1. List security requirements (guards, CCTV, access control) 
 
 2. Request proof of licenses, training, and certifications 
@@ -836,9 +836,9 @@ Prompt:
 4. Ask for pricing and contract terms 
 
 5. Provide RFQ submission deadline"
-
-Inputs Required: 
-
+```
+`Inputs Required: `
+```
 1. Security service scope 
 
 2. Number of personnel required 
@@ -848,21 +848,21 @@ Inputs Required:
 4. Contract duration 
 
 5. RFQ submission date
+```
+## Prompt 23 — RFQ for Printing & Branding
 
-Prompt 23 — RFQ for Printing & Branding
+`Backstory:`
 
-Backstory:
+`A company is launching a marketing campaign and needs a vendor to handle printing of brochures, banners, and merchandise branding. They require high-quality printing with fast turnaround times.`
 
-A company is launching a marketing campaign and needs a vendor to handle printing of brochures, banners, and merchandise branding. They require high-quality printing with fast turnaround times.
+`Goal:`
 
-Goal:
+`Draft an RFQ for printing and branding vendors.`
 
-Draft an RFQ for printing and branding vendors.
+`Prompt:`
 
-Prompt:
-
-"You are the marketing manager drafting an RFQ for printing vendors. Your email should:
-
+`"You are the marketing manager drafting an RFQ for printing vendors. Your email should:`
+```
 1. Describe the printing items, quantities, and sizes
 
 2. Include material and finish preferences
@@ -872,9 +872,9 @@ Prompt:
 4. Request delivery timelines and quality guarantees
 
 5. Provide RFQ submission deadline"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Printing items and specs
 
 2. Quantity for each item
@@ -884,21 +884,21 @@ Inputs Required:
 4. Delivery date
 
 5. RFQ submission date
+```   
+## Prompt 24 — RFQ for HVAC Maintenance
 
-Prompt 24 — RFQ for HVAC Maintenance
+`Backstory:`
 
-Backstory:
+`A corporate building requires regular maintenance for its HVAC systems to ensure efficiency and air quality. The vendor must offer quarterly inspections, emergency repairs, and compliance with safety standards.`
 
-A corporate building requires regular maintenance for its HVAC systems to ensure efficiency and air quality. The vendor must offer quarterly inspections, emergency repairs, and compliance with safety standards.
+`Goal:`
 
-Goal:
+`Create an RFQ for HVAC maintenance providers.`
 
-Create an RFQ for HVAC maintenance providers.
+`Prompt:`
 
-Prompt:
-
-"You are the facility operations lead preparing an RFQ for HVAC maintenance. Your email should:
-
+`"You are the facility operations lead preparing an RFQ for HVAC maintenance. Your email should:`
+```
 1. List HVAC systems and current service requirements
 
 2. Include inspection frequency and emergency response time
@@ -908,9 +908,9 @@ Prompt:
 4. Require compliance with safety and environmental regulations
 
 5. Provide RFQ submission deadline"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. HVAC system details
 
 2. Maintenance frequency
@@ -920,21 +920,21 @@ Inputs Required:
 4. Budget range
 
 5. RFQ submission date
+```
+## Prompt 25 — RFQ for Logistics Services
 
-Prompt 25 — RFQ for Logistics Services
+`Backstory:`
 
-Backstory:
+`A retail chain wants a logistics partner to handle warehousing and last-mile delivery across multiple cities. They require scalability, technology-enabled tracking, and cost efficiency.`
 
-A retail chain wants a logistics partner to handle warehousing and last-mile delivery across multiple cities. They require scalability, technology-enabled tracking, and cost efficiency.
+`Goal:`
 
-Goal:
+`Draft an RFQ for logistics vendors.`
 
-Draft an RFQ for logistics vendors.
+`Prompt:`
 
-Prompt:
-
-"You are the supply chain manager preparing an RFQ for logistics companies. Your email should:
-
+`"You are the supply chain manager preparing an RFQ for logistics companies. Your email should:`
+```
 1. Outline delivery volume, locations, and timelines
 
 2. Request tracking technology and performance metrics
@@ -944,9 +944,9 @@ Prompt:
 4. Include service level agreement expectations
 
 5. Provide RFQ submission deadline"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Delivery locations and frequency
 
 2. Delivery volume per month
@@ -956,7 +956,7 @@ Inputs Required:
 4. Budget range
 
 5. RFQ submission date
-
+```
 
 Route optimisation & delivery scheduling
 
