@@ -3759,17 +3759,17 @@
 ```
 ## Prompt 16 — AI Tool Integration Training
 
-Backstory:
+`Backstory:`
 
-A growing startup has introduced AI chat assistance for agents to speed up responses. However, some agents misuse it, relying entirely on AI outputs without verifying accuracy. The company needs training on integrating AI tools into daily workflows responsibly.
+`A growing startup has introduced AI chat assistance for agents to speed up responses. However, some agents misuse it, relying entirely on AI outputs without verifying accuracy. The company needs training on integrating AI tools into daily workflows responsibly.`
 
-Goal:
+`Goal:`
 
-Develop a training module for AI-assisted customer service.
+`Develop a training module for AI-assisted customer service.`
 
-Prompt:
-*"You are a digital tools trainer. Create a training module for integrating AI tools into customer support that covers:
-
+`Prompt:`
+`*"You are a digital tools trainer. Create a training module for integrating AI tools into customer support that covers:`
+```
 1. How to prompt AI effectively for relevant results
 
 2. Fact-checking AI responses before sending to customers
@@ -3779,9 +3779,9 @@ Prompt:
 4. Combining AI speed with human empathy
 
 5. Reporting AI tool errors for improvement"*
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. AI tools in use
 
 2. Company guidelines for AI usage
@@ -3789,21 +3789,21 @@ Inputs Required:
 3. Examples of correct and incorrect AI-assisted responses
 
 4. AI escalation policy
+```
+## Prompt 17 — Call Recording Review & Feedback Training
 
-Prompt 17 — Call Recording Review & Feedback Training
+`Backstory:`
 
-Backstory:
+`A fintech company records all customer calls for quality checks, but most agents see reviews as punitive rather than developmental. Management wants training on using call recordings constructively to improve performance.`
 
-A fintech company records all customer calls for quality checks, but most agents see reviews as punitive rather than developmental. Management wants training on using call recordings constructively to improve performance.
+`Goal:`
 
-Goal:
+`Build a positive call review training program.`
 
-Build a positive call review training program.
+`Prompt:`
 
-Prompt:
-
-*"You are a quality assurance trainer. Create a guide for call recording reviews that includes:
-
+`*"You are a quality assurance trainer. Create a guide for call recording reviews that includes:`
+```
 1. How to self-assess using call recordings
 
 2. Identifying improvement areas without defensiveness
@@ -3813,9 +3813,9 @@ Prompt:
 4. Sharing best practices from top-performing calls
 
 5. Creating an improvement action plan"*
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Call scoring criteria
 
 2. Examples of high- and low-scoring calls
@@ -3823,21 +3823,21 @@ Inputs Required:
 3. Feedback delivery guidelines
 
 4. Agent self-review templates
+```
+## Prompt 18 — Stress Management Workshop
 
-Prompt 18 — Stress Management Workshop
+`Backstory:`
 
-Backstory:
+`Support agents in a high-volume environment report burnout and emotional fatigue. Without stress management skills, absenteeism rises, and morale drops. The company wants a workshop that equips agents to handle pressure healthily.`
 
-Support agents in a high-volume environment report burnout and emotional fatigue. Without stress management skills, absenteeism rises, and morale drops. The company wants a workshop that equips agents to handle pressure healthily.
+`Goal:`
 
-Goal:
+`Create a stress management workshop tailored for support teams.`
 
-Create a stress management workshop tailored for support teams.
+`Prompt:`
 
-Prompt:
-
-*"You are a workplace wellness coach. Create a stress management workshop plan that includes:
-
+`*"You are a workplace wellness coach. Create a stress management workshop plan that includes:`
+```
 1. Recognizing early signs of burnout
 
 2. Breathing and relaxation exercises
@@ -3847,9 +3847,9 @@ Prompt:
 4. Creating daily micro-break routines
 
 5. Accessing company wellness resources"*
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Average daily ticket volume per agent
 
 2. Current wellness resources available
@@ -3857,21 +3857,21 @@ Inputs Required:
 3. Shift duration and break schedules
 
 4. Stress-related absenteeism data
+````
+## Prompt 19 — Cultural Sensitivity Training
 
-Prompt 19 — Cultural Sensitivity Training
+`Backstory:`
 
-Backstory:
+`An airline serves a global customer base, but some agents unintentionally use phrases or gestures that offend certain cultures. The company needs cultural sensitivity training to avoid misunderstandings and strengthen global relationships.`
 
-An airline serves a global customer base, but some agents unintentionally use phrases or gestures that offend certain cultures. The company needs cultural sensitivity training to avoid misunderstandings and strengthen global relationships.
+`Goal:
 
-Goal:
+`Develop a cultural sensitivity guide for agents.`
 
-Develop a cultural sensitivity guide for agents.
+`Prompt:`
 
-Prompt:
-
-*"You are a cross-cultural communication trainer. Create a cultural sensitivity training module that covers:
-
+`*"You are a cross-cultural communication trainer. Create a cultural sensitivity training module that covers:`
+```
 1. Understanding cultural norms of top customer regions
 
 2. Words, gestures, and topics to avoid
@@ -3881,9 +3881,9 @@ Prompt:
 4. Respecting time zones and holidays
 
 5. Role-playing cross-cultural scenarios"*
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. List of customer regions served
 
 2. Examples of past cultural missteps
@@ -3891,21 +3891,21 @@ Inputs Required:
 3. Brand language guidelines
 
 4. Cultural holiday calendar
+```
+## Prompt 20 — Service Recovery Training
 
-Prompt 20 — Service Recovery Training
+`Backstory:`
 
-Backstory:
+`A subscription meal service occasionally misses deliveries or sends incorrect orders. Agents need training on turning these negative experiences into loyalty-building opportunities.`
 
-A subscription meal service occasionally misses deliveries or sends incorrect orders. Agents need training on turning these negative experiences into loyalty-building opportunities.
+`Goal:`
 
-Goal:
+`Build a service recovery training plan.`
 
-Build a service recovery training plan.
+`Prompt:`
 
-Prompt:
-
-*"You are a customer retention strategist. Create a service recovery training guide that includes:
-
+`*"You are a customer retention strategist. Create a service recovery training guide that includes:`
+```
 1. Acknowledging the mistake sincerely
 
 2. Offering appropriate compensation or solution
@@ -3915,9 +3915,9 @@ Prompt:
 4. Turning service recovery into a loyalty moment
 
 5. Tracking recovery cases for trend analysis"*
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Common service failure scenarios
 
 2. Approved compensation options
@@ -3925,21 +3925,21 @@ Inputs Required:
 3. Brand’s apology language
 
 4. Follow-up communication templates
+```
+## Prompt 21 — Conflict De-escalation Masterclass
 
-Prompt 21 — Conflict De-escalation Masterclass
+`Backstory:`
 
-Backstory:
+`A home services platform often receives calls from frustrated customers who have faced multiple service delays. Some agents inadvertently escalate situations by sounding defensive or dismissive. Leadership wants a masterclass training that equips agents with de-escalation skills to turn heated calls into constructive problem-solving conversations.`
 
-A home services platform often receives calls from frustrated customers who have faced multiple service delays. Some agents inadvertently escalate situations by sounding defensive or dismissive. Leadership wants a masterclass training that equips agents with de-escalation skills to turn heated calls into constructive problem-solving conversations.
+`Goal:`
 
-Goal:
+`Create a de-escalation masterclass guide for support agents.`
 
-Create a de-escalation masterclass guide for support agents.
+`Prompt:`
 
-Prompt:
-
-*"You are a conflict resolution coach. Design a masterclass training for agents that covers:
-
+`*"You are a conflict resolution coach. Design a masterclass training for agents that covers:`
+```
 1. Identifying verbal and tonal cues that signal rising tension
 
 2. Techniques to lower emotional temperature (pausing, pacing, mirroring)
@@ -3949,9 +3949,9 @@ Prompt:
 4. Building rapport in the first 30 seconds of the call
 
 5. Follow-up actions that restore trust and prevent repeat conflict"*
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. List of frequent conflict triggers
 
 2. Recordings of escalated vs. successfully de-escalated calls
@@ -3959,21 +3959,21 @@ Inputs Required:
 3. Company-approved language for apologies
 
 4. Average resolution timelines for complaints
+```
+## Prompt 22 — First-Call Resolution Skills Training
 
-Prompt 22 — First-Call Resolution Skills Training
+`Backstory:`
 
-Backstory:
+`An insurance company has noticed repeat calls from the same customers because issues aren’t being resolved on the first attempt. This wastes time and frustrates clients. The management wants a training module focused on achieving first-call resolution without compromising accuracy.`
 
-An insurance company has noticed repeat calls from the same customers because issues aren’t being resolved on the first attempt. This wastes time and frustrates clients. The management wants a training module focused on achieving first-call resolution without compromising accuracy.
+`Goal:`
 
-Goal:
+`Develop a training program to improve first-call resolution rates.`
 
-Develop a training program to improve first-call resolution rates.
+`Prompt:`
 
-Prompt:
-
-*"You are a customer service efficiency consultant. Create a training guide that includes:
-
+`*"You are a customer service efficiency consultant. Create a training guide that includes:`
+```
 1. Diagnosing the full scope of the customer’s problem early in the call
 
 2. Using probing questions to uncover hidden details
@@ -3983,9 +3983,9 @@ Prompt:
 4. Avoiding unnecessary transfers and escalations
 
 5. Closing the call with confirmation that all concerns are addressed"*
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Current first-call resolution percentage
 
 2. Examples of incomplete resolutions
@@ -3993,21 +3993,21 @@ Inputs Required:
 3. Knowledge base access instructions
 
 4. List of problems that require escalation
+```
+## Prompt 23 — Soft Skills for Difficult Customers
 
-Prompt 23 — Soft Skills for Difficult Customers
+`Backstory:`
 
-Backstory:
+`A luxury travel agency serves high-net-worth clients who expect top-tier service. Even minor inconveniences can lead to dissatisfaction. Agents must have impeccable soft skills to handle demanding customers without compromising the brand image.`
 
-A luxury travel agency serves high-net-worth clients who expect top-tier service. Even minor inconveniences can lead to dissatisfaction. Agents must have impeccable soft skills to handle demanding customers without compromising the brand image.
+`Goal:`
 
-Goal:
+`Create a soft skills training guide for dealing with difficult customers.`
 
-Create a soft skills training guide for dealing with difficult customers.
+`Prompt:`
 
-Prompt:
-
-*"You are a hospitality soft skills trainer. Develop a training program that covers:
-
+`*"You are a hospitality soft skills trainer. Develop a training program that covers:`
+```
 1. Active listening techniques to make customers feel heard
 
 2. Phrases that communicate empathy without overpromising
@@ -4017,9 +4017,9 @@ Prompt:
 4. Adapting tone to match customer personality types
 
 5. Turning complaints into upsell opportunities"*
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Brand’s tone-of-voice guide
 
 2. Examples of difficult customer scenarios
@@ -4027,21 +4027,21 @@ Inputs Required:
 3. Approved offers/compensations for recovery
 
 4. Past positive feedback from challenging cases
+```
+## Prompt 24 — Remote Agent Work Best Practices
 
-Prompt 24 — Remote Agent Work Best Practices
+`Backstory:`
 
-Backstory:
+`Since moving to a remote work model, a tech support team struggles with consistency in response times and collaboration. Some agents also face distractions at home, lowering productivity. The company needs a training guide for remote work efficiency tailored to support roles.`
 
-Since moving to a remote work model, a tech support team struggles with consistency in response times and collaboration. Some agents also face distractions at home, lowering productivity. The company needs a training guide for remote work efficiency tailored to support roles.
+`Goal:`
 
-Goal:
+`Design a best practices guide for remote customer support agents.`
 
-Design a best practices guide for remote customer support agents.
+`Prompt:`
 
-Prompt:
-
-*"You are a remote work consultant. Create a training manual for remote support agents that includes:
-
+`*"You are a remote work consultant. Create a training manual for remote support agents that includes:`
+```
 1. Setting up an ergonomic and distraction-free home workspace
 
 2. Maintaining team communication in virtual settings
@@ -4051,9 +4051,9 @@ Prompt:
 4. Using collaboration tools for seamless ticket handoffs
 
 5. Self-monitoring performance against SLAs"*
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. List of collaboration tools used
 
 2. Current SLA targets
@@ -4061,21 +4061,21 @@ Inputs Required:
 3. Examples of remote work challenges from agents
 
 4. IT and equipment policies
+```
+## Prompt 25 — Upskilling Program for Experienced Agents
 
-Prompt 25 — Upskilling Program for Experienced Agents
+`Backstory:`
 
-Backstory:
+`A BPO has agents who have been in their roles for over 5 years. While experienced, their skills haven’t evolved to match newer technologies and customer expectations. Management wants an upskilling program to refresh and expand their capabilities.`
 
-A BPO has agents who have been in their roles for over 5 years. While experienced, their skills haven’t evolved to match newer technologies and customer expectations. Management wants an upskilling program to refresh and expand their capabilities.
+`Goal:`
 
-Goal:
+`Develop an upskilling program for seasoned customer support agents.`
 
-Develop an upskilling program for seasoned customer support agents.
+`Prompt:`
 
-Prompt:
-
-*"You are a corporate training designer. Create an upskilling program that includes:
-
+`*"You are a corporate training designer. Create an upskilling program that includes:`
+```
 1. Refresher modules on communication and empathy
 
 2. Training on emerging customer support tools and AI systems
@@ -4085,9 +4085,9 @@ Prompt:
 4. Peer-led workshops for sharing expertise
 
 5. Certification pathways to recognize advanced skills"*
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Current skill assessment reports
 
 2. List of new tools to be adopted
@@ -4095,4 +4095,4 @@ Inputs Required:
 3. Examples of modern customer issues vs. 5 years ago
 
 4. Recognition and certification policy
-
+```
