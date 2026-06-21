@@ -3016,18 +3016,18 @@ Inputs Required:
 ```
 ## Prompt 8 — Energy Efficiency & Cost Reduction Report
 
-Backstory:
+`Backstory:`
 
-A manufacturing plant’s monthly electricity bill has doubled over two years due to outdated machinery and poor energy management. The sustainability team wants an energy efficiency cost reduction report to secure budget approval for green upgrades.
+`A manufacturing plant’s monthly electricity bill has doubled over two years due to outdated machinery and poor energy management. The sustainability team wants an energy efficiency cost reduction report to secure budget approval for green upgrades.`
 
-Goal:
+`Goal:`
 
-Identify energy wastage and recommend cost-effective solutions.
+`Identify energy wastage and recommend cost-effective solutions.`
 
-Prompt:
+`Prompt:`
 
-"You are an Energy Cost Optimization Specialist. Prepare an energy efficiency report for a manufacturing plant.
-
+`"You are an Energy Cost Optimization Specialist. Prepare an energy efficiency report for a manufacturing plant.`
+```
 1. Identify high-consumption equipment and processes.
 
 2. Compare against energy-efficient alternatives.
@@ -3035,9 +3035,9 @@ Prompt:
 3. Recommend operational adjustments to lower usage.
 
 4. Estimate upfront investment and payback period for upgrades."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Monthly electricity consumption per machine
 
 2. Equipment specifications
@@ -3047,21 +3047,21 @@ Inputs Required:
 4. Production output data
 
 5. Cost of potential upgrades
+```
+## Prompt 9 — Freight Cost Benchmarking
 
-Prompt 9 — Freight Cost Benchmarking
+`Backstory:`
 
-Backstory:
+`A global exporter ships products to multiple regions and uses various freight forwarders. Freight costs have become unpredictable, and the logistics manager wants a benchmarking report to identify cost variations across forwarders, routes, and shipment sizes.`
 
-A global exporter ships products to multiple regions and uses various freight forwarders. Freight costs have become unpredictable, and the logistics manager wants a benchmarking report to identify cost variations across forwarders, routes, and shipment sizes.
+`Goal:`
 
-Goal:
+`Benchmark freight costs and recommend cost optimization strategies.`
 
-Benchmark freight costs and recommend cost optimization strategies.
+`Prompt:`
 
-Prompt:
-
-"You are a Freight Cost Analyst. Create a benchmarking report for an exporter using multiple forwarders.
-
+`"You are a Freight Cost Analyst. Create a benchmarking report for an exporter using multiple forwarders.`
+```
 1. Compare per-ton and per-container shipping costs.
 
 2. Highlight routes with excessive charges.
@@ -3069,9 +3069,9 @@ Prompt:
 3. Identify potential for bulk discounts or contract renegotiation.
 
 4. Suggest alternative forwarders or shipping modes."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Freight invoices (last 12 months)
 
 2. Route details and shipment sizes
@@ -3079,21 +3079,21 @@ Inputs Required:
 3. Forwarder contracts
 
 4. Delivery timelines and SLAs
+```
+## Prompt 10 — Cross-Department Cost Allocation Report
 
-Prompt 10 — Cross-Department Cost Allocation Report
+`Backstory:`
 
-Backstory:
+`A diversified company with manufacturing, sales, and R&D divisions struggles with fair cost allocation. Some departments claim they’re unfairly charged for shared resources like IT support, utilities, and admin staff. The CFO wants a transparent, data-backed allocation model.`
 
-A diversified company with manufacturing, sales, and R&D divisions struggles with fair cost allocation. Some departments claim they’re unfairly charged for shared resources like IT support, utilities, and admin staff. The CFO wants a transparent, data-backed allocation model.
+`Goal:`
 
-Goal:
+`Create a fair and transparent cost allocation framework.`
 
-Create a fair and transparent cost allocation framework.
+`Prompt:`
 
-Prompt:
-
-"You are a Financial Controller. Prepare a cost allocation report for shared services across departments.
-
+`"You are a Financial Controller. Prepare a cost allocation report for shared services across departments.`
+```
 1. Break down costs by department usage.
 
 2. Propose allocation keys (e.g., headcount, floor space, machine hours).
@@ -3101,9 +3101,9 @@ Prompt:
 3. Highlight over- and undercharged departments.
 
 4. Recommend adjustments to improve fairness and efficiency."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Department-wise usage data for shared resources
 
 2. Current allocation percentages
@@ -3111,21 +3111,21 @@ Inputs Required:
 3. Total cost pool for each shared service
 
 4. Organizational structure
+```
+## Prompt 11 — Warehouse Cost Efficiency Audit
 
-Prompt 11 — Warehouse Cost Efficiency Audit
+`Backstory:`
 
-Backstory:
+`A retail chain operates multiple regional warehouses, but storage and handling costs have been rising faster than sales. The operations head suspects inefficient space usage, overstaffing, and outdated handling processes. They need a comprehensive warehouse cost audit to identify savings opportunities.`
 
-A retail chain operates multiple regional warehouses, but storage and handling costs have been rising faster than sales. The operations head suspects inefficient space usage, overstaffing, and outdated handling processes. They need a comprehensive warehouse cost audit to identify savings opportunities.
+`Goal:`
 
-Goal:
+`Assess warehouse operations to reduce storage and handling costs`.
 
-Assess warehouse operations to reduce storage and handling costs.
+`Prompt:`
 
-Prompt:
-
-"You are a Warehouse Efficiency Auditor. Conduct a cost audit for a retail chain’s warehouses.
-
+`"You are a Warehouse Efficiency Auditor. Conduct a cost audit for a retail chain’s warehouses.`
+```
 1. Analyze cost per square foot, labor costs, and handling efficiency.
 
 2. Highlight underutilized space and overstaffing issues.
@@ -3133,9 +3133,9 @@ Prompt:
 3. Recommend process improvements (e.g., vertical storage, automated picking).
 
 4. Estimate potential savings from each improvement."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Warehouse floor plans and capacity data
 
 2. Monthly labor costs per location
@@ -3145,21 +3145,21 @@ Inputs Required:
 4. Inventory turnover rates
 
 5. Equipment maintenance records
+```
+## Prompt 12 — Supplier Contract Cost Impact Analysis
 
-Prompt 12 — Supplier Contract Cost Impact Analysis
+`Backstory:`
 
-Backstory:
+`A mid-tier manufacturer recently signed long-term contracts with multiple suppliers. While stable supply is assured, the finance team wants to understand the total cost impact of these deals compared to shorter-term sourcing.`
 
-A mid-tier manufacturer recently signed long-term contracts with multiple suppliers. While stable supply is assured, the finance team wants to understand the total cost impact of these deals compared to shorter-term sourcing.
+`Goal:`
 
-Goal:
+`Evaluate the cost implications of long-term supplier contracts.`
 
-Evaluate the cost implications of long-term supplier contracts.
+`Prompt:`
 
-Prompt:
-
-"You are a Procurement Cost Strategist. Analyze the cost impact of long-term supplier contracts versus short-term procurement.
-
+`"You are a Procurement Cost Strategist. Analyze the cost impact of long-term supplier contracts versus short-term procurement.`
+```
 1. Calculate cost stability vs. market volatility risk.
 
 2. Identify savings from bulk purchase agreements.
@@ -3167,9 +3167,9 @@ Prompt:
 3. Highlight any overpayment risks due to market price drops.
 
 4. Recommend renegotiation or diversification strategies."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Supplier contract terms and pricing
 
 2. Historical market price trends
@@ -3177,21 +3177,20 @@ Inputs Required:
 3. Forecasted commodity prices
 
 4. Annual purchase quantities
+```
+## Prompt 13 — Packaging Cost Efficiency Study
 
-Prompt 13 — Packaging Cost Efficiency Study
+`Backstory:`
 
-Backstory:
+`A beverage company wants to cut packaging costs without harming product shelf life or brand appeal. The marketing and operations teams are debating over design changes, but need a cost efficiency study with clear data.`
 
-A beverage company wants to cut packaging costs without harming product shelf life or brand appeal. The marketing and operations teams are debating over design changes, but need a cost efficiency study with clear data.
+`Goal:`
 
-Goal:
 
-Find cost-effective packaging solutions that maintain quality and branding.
+`Prompt:`
 
-Prompt:
-
-"You are a Packaging Cost Analyst. Evaluate packaging material costs, supplier options, and alternative designs for a beverage company.
-
+`"You are a Packaging Cost Analyst. Evaluate packaging material costs, supplier options, and alternative designs for a beverage company.`
+```
 1. Compare costs of current vs. eco-friendly alternatives.
 
 2. Assess the impact on shelf life and durability.
@@ -3199,9 +3198,9 @@ Prompt:
 3. Suggest cost savings without reducing brand appeal.
 
 4. Include supplier recommendations."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Current packaging specifications
 
 2. Supplier price lists
@@ -3209,21 +3208,21 @@ Inputs Required:
 3. Packaging failure rates during shipping
 
 4. Branding requirements
+```
+## Prompt 14 — Overtime & Labor Cost Review
 
-Prompt 14 — Overtime & Labor Cost Review
+`Backstory:`
 
-Backstory:
+`A manufacturing unit has seen a steady rise in overtime payments over the past six months. The HR and production teams suspect poor shift planning is driving unnecessary labor costs.`
 
-A manufacturing unit has seen a steady rise in overtime payments over the past six months. The HR and production teams suspect poor shift planning is driving unnecessary labor costs.
+`Goal:`
 
-Goal:
+`Identify causes of excessive overtime and propose solutions.``
 
-Identify causes of excessive overtime and propose solutions.
+`Prompt:`
 
-Prompt:
-
-"You are a Labor Cost Analyst. Review overtime trends and labor allocation for a manufacturing unit.
-
+`"You are a Labor Cost Analyst. Review overtime trends and labor allocation for a manufacturing unit.`
+```
 1. Identify departments with the highest overtime costs.
 
 2. Correlate overtime with production schedules and output.
@@ -3231,9 +3230,9 @@ Prompt:
 3. Recommend staffing or scheduling changes to reduce overtime.
 
 4. Estimate annual savings."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Overtime payroll data
 
 2. Production shift schedules
@@ -3241,29 +3240,29 @@ Inputs Required:
 3. Department output data
 
 4. Worker-to-shift ratios
+```
+## Prompt 15 — Maintenance Cost vs. Replacement Analysis
 
-Prompt 15 — Maintenance Cost vs. Replacement Analysis
+`Backstory:`
 
-Backstory:
+`A logistics firm spends heavily on vehicle and equipment maintenance. Management wants to compare the cost of ongoing repairs with the cost of replacing older assets.`
 
-A logistics firm spends heavily on vehicle and equipment maintenance. Management wants to compare the cost of ongoing repairs with the cost of replacing older assets.
+`Goal:`
 
-Goal:
+`Determine when to replace vs. repair assets for cost efficiency.`
 
-Determine when to replace vs. repair assets for cost efficiency.
+`Prompt:`
 
-Prompt:
-
-"You are an Asset Management Analyst. Compare the total maintenance costs of vehicles/equipment to the cost of replacing them.
-
+`"You are an Asset Management Analyst. Compare the total maintenance costs of vehicles/equipment to the cost of replacing them.`
+```
 1. Include downtime cost implications.
 
 2. Identify break-even points for replacement.
 
 3. Recommend an asset replacement schedule."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Maintenance logs and repair costs
 
 2. Age and condition of assets
@@ -3271,21 +3270,21 @@ Inputs Required:
 3. Replacement costs for each asset
 
 4. Downtime cost per day
+```
+## Prompt 16 — Energy Cost Reduction Plan
 
-Prompt 16 — Energy Cost Reduction Plan
+`Backstory:`
 
-Backstory:
+`A large cold storage facility has seen its electricity bills spike due to increasing energy tariffs and outdated cooling systems. The management team wants a detailed plan to cut energy costs while maintaining required storage conditions for perishable goods.`
 
-A large cold storage facility has seen its electricity bills spike due to increasing energy tariffs and outdated cooling systems. The management team wants a detailed plan to cut energy costs while maintaining required storage conditions for perishable goods.
+`Goal:`
 
-Goal:
+`Create a cost-reduction strategy focused on energy efficiency.`
 
-Create a cost-reduction strategy focused on energy efficiency.
+`Prompt:`
 
-Prompt:
-
-"You are an Energy Cost Analyst. Evaluate the current power consumption of a cold storage facility.
-
+`"You are an Energy Cost Analyst. Evaluate the current power consumption of a cold storage facility.`
+```
 1. Identify inefficiencies in cooling systems.
 
 2. Recommend upgrades or automation solutions for temperature control.
@@ -3293,9 +3292,9 @@ Prompt:
 3. Estimate potential monthly and annual savings.
 
 4. Include ROI calculations for suggested changes."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Monthly electricity bills (12 months)
 
 2. Cooling system specifications and age
@@ -3303,29 +3302,28 @@ Inputs Required:
 3. Current temperature control process
 
 4. Facility floor area and insulation type
+```
+## Prompt 17 — Freight Cost vs. Delivery Time Analysis
 
-Prompt 17 — Freight Cost vs. Delivery Time Analysis
+`Backstory:`
+`An e-commerce brand is trying to balance delivery speed with shipping costs. Customers demand faster deliveries, but expedited shipping has significantly increased freight expenses.`
 
-Backstory:
+`Goal:`
 
-An e-commerce brand is trying to balance delivery speed with shipping costs. Customers demand faster deliveries, but expedited shipping has significantly increased freight expenses.
+`Find the optimal trade-off between delivery time and cost.`
 
-Goal:
+`Prompt:`
 
-Find the optimal trade-off between delivery time and cost.
-
-Prompt:
-
-"You are a Freight Optimization Analyst. Compare the cost and customer satisfaction impact of different delivery speed options.
-
+`"You are a Freight Optimization Analyst. Compare the cost and customer satisfaction impact of different delivery speed options.`
+```
 1. Analyze cost per shipment for standard vs. express deliveries.
 
 2. Determine break-even points for offering free expedited shipping.
 
 3. Recommend a tiered delivery plan to control costs."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Freight cost breakdown by delivery type
 
 2. Average delivery times by region
@@ -3333,29 +3331,29 @@ Inputs Required:
 3. Customer satisfaction ratings per delivery type
 
 4. Monthly shipment volumes
+```
+## Prompt 18 — Procurement Cost Leak Detection
 
-Prompt 18 — Procurement Cost Leak Detection
+`Backstory:`
 
-Backstory:
+`A mid-size electronics retailer suspects small but consistent cost leaks in procurement due to invoice mismatches and unverified supplier charges. They want a forensic-style review to pinpoint losses.`
 
-A mid-size electronics retailer suspects small but consistent cost leaks in procurement due to invoice mismatches and unverified supplier charges. They want a forensic-style review to pinpoint losses.
+`Goal:`
 
-Goal:
+`Identify hidden procurement cost leaks and suggest prevention measures.`
 
-Identify hidden procurement cost leaks and suggest prevention measures.
+`Prompt:`
 
-Prompt:
-
-"You are a Procurement Audit Specialist. Conduct a detailed review of supplier invoices and purchase orders.
-
+`"You are a Procurement Audit Specialist. Conduct a detailed review of supplier invoices and purchase orders.`
+```
 1. Flag discrepancies in unit prices and quantities.
 
 2. Detect recurring overcharges or unauthorized fees.
 
 3. Recommend process changes to prevent future leaks."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Supplier invoices (last 6 months)
 
 2. Purchase order records
@@ -3363,29 +3361,29 @@ Inputs Required:
 3. Approved pricing agreements
 
 4. Internal procurement SOPs
+```
+## Prompt 19 — Multi-Warehouse Cost Allocation Model
 
-Prompt 19 — Multi-Warehouse Cost Allocation Model
+`Backstory:`
 
-Backstory:
+`A distributor operates three warehouses across India but struggles to allocate operational costs fairly. Management wants a transparent model that accounts for both fixed and variable costs.`
 
-A distributor operates three warehouses across India but struggles to allocate operational costs fairly. Management wants a transparent model that accounts for both fixed and variable costs.
+`Goal:`
 
-Goal:
+`Develop a cost allocation model for multi-warehouse operations.`
 
-Develop a cost allocation model for multi-warehouse operations.
+`Prompt:`
 
-Prompt:
-
-"You are a Logistics Cost Planner. Create a cost allocation model for three warehouses.
-
+`"You are a Logistics Cost Planner. Create a cost allocation model for three warehouses.`
+```
 1. Split fixed costs (rent, security) evenly or by size.
 
 2. Distribute variable costs (labor, utilities) based on activity levels.
 
 3. Provide monthly cost-per-warehouse dashboards."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Monthly cost data per warehouse
 
 2. Warehouse floor area
@@ -3393,29 +3391,29 @@ Inputs Required:
 3. Number of orders processed per location
 
 4. Headcount per site
+```
+## Prompt 20 — Cost Impact of Stockouts
 
-Prompt 20 — Cost Impact of Stockouts
+`Backstory:`
 
-Backstory:
+`A consumer goods company experiences periodic stockouts of fast-moving items, leading to lost sales and emergency restocking costs. They want to quantify the total cost impact of stockouts.`````````
 
-A consumer goods company experiences periodic stockouts of fast-moving items, leading to lost sales and emergency restocking costs. They want to quantify the total cost impact of stockouts.
+`Goal:`
 
-Goal:
+`Calculate the full cost of stockouts and identify reduction strategies.`
 
-Calculate the full cost of stockouts and identify reduction strategies.
+`Prompt:`
 
-Prompt:
-
-"You are a Supply Chain Cost Analyst. Calculate the cost of stockouts for key products.
-
+`"You are a Supply Chain Cost Analyst. Calculate the cost of stockouts for key products.`
+```
 1. Include lost sales, expedited shipping, and brand impact.
 
 2. Identify the most frequent stockout items.
 
 3. Recommend inventory buffer or forecasting changes."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Sales data for out-of-stock products
 
 2. Emergency restocking costs
@@ -3423,23 +3421,23 @@ Inputs Required:
 3. Historical stockout frequency
 
 4. Customer complaints related to stockouts
+```
+## Prompt 21 — End-to-End Logistics Cost Breakdown for an E-commerce Company
 
-Prompt 21 — End-to-End Logistics Cost Breakdown for an E-commerce Company
+`Backstory:`
 
-Backstory:
+`A mid-sized e-commerce company based in Bengaluru delivers across India using a hybrid logistics model — in-house fleet for metro cities and 3PL (third-party logistics) partners for Tier-2 and Tier-3 cities. The CFO suspects that last-mile delivery costs are eating into profits, but lacks a clear, visual breakdown of expenses.`
 
-A mid-sized e-commerce company based in Bengaluru delivers across India using a hybrid logistics model — in-house fleet for metro cities and 3PL (third-party logistics) partners for Tier-2 and Tier-3 cities. The CFO suspects that last-mile delivery costs are eating into profits, but lacks a clear, visual breakdown of expenses.
+`Goal:`
 
-Goal:
+`Prepare a comprehensive cost breakdown and efficiency report for the logistics process from warehouse to customer.`
 
-Prepare a comprehensive cost breakdown and efficiency report for the logistics process from warehouse to customer.
+`Prompt:`
 
-Prompt:
+`"You are a supply chain analyst. Prepare an end-to-end logistics cost breakdown report for an Indian e-commerce company covering: warehousing costs, first-mile, middle-mile, and last-mile delivery costs, reverse logistics expenses, packaging costs, fuel and toll charges, and 3PL partner fees. Include efficiency KPIs such as cost per shipment, delivery time variance, and return-to-origin (RTO) rates. Provide both tabular and visual charts."`
 
-"You are a supply chain analyst. Prepare an end-to-end logistics cost breakdown report for an Indian e-commerce company covering: warehousing costs, first-mile, middle-mile, and last-mile delivery costs, reverse logistics expenses, packaging costs, fuel and toll charges, and 3PL partner fees. Include efficiency KPIs such as cost per shipment, delivery time variance, and return-to-origin (RTO) rates. Provide both tabular and visual charts."
-
-Inputs Required from User:
-
+`Inputs Required from User:`
+```
 1. Order volume (monthly)
 
 2. Delivery coverage area (regions)
@@ -3447,23 +3445,23 @@ Inputs Required from User:
 3. Current delivery model (in-house/3PL/hybrid)
 
 4. Historical cost data per logistics stage
+```
+## Prompt 22 — Warehouse Operations Cost vs. Efficiency Benchmarking
 
-Prompt 22 — Warehouse Operations Cost vs. Efficiency Benchmarking
+`Backstory:`
 
-Backstory:
+`A consumer electronics distributor in Pune operates three regional warehouses. Management wants to compare their operational costs and productivity metrics against industry benchmarks to identify where automation or process improvements can cut costs.`
 
-A consumer electronics distributor in Pune operates three regional warehouses. Management wants to compare their operational costs and productivity metrics against industry benchmarks to identify where automation or process improvements can cut costs.
+`Goal:`
 
-Goal:
+`Analyze warehouse operational costs and benchmark efficiency against industry standards.`
 
-Analyze warehouse operational costs and benchmark efficiency against industry standards.
+`Prompt:`
 
-Prompt:
+`"You are a warehouse performance consultant. Create a cost and efficiency benchmarking report covering: storage costs per square foot, labor cost per unit handled, picking and packing time per order, inventory accuracy rate, and cost per SKU stored. Include a gap analysis comparing the company’s metrics to industry benchmarks and recommend actionable cost-saving strategies."`
 
-"You are a warehouse performance consultant. Create a cost and efficiency benchmarking report covering: storage costs per square foot, labor cost per unit handled, picking and packing time per order, inventory accuracy rate, and cost per SKU stored. Include a gap analysis comparing the company’s metrics to industry benchmarks and recommend actionable cost-saving strategies."
-
-Inputs Required from User:
-
+`Inputs Required from User:`
+```
 1. Warehouse size, layout, and location
 
 2. Monthly throughput (orders processed)
@@ -3471,23 +3469,23 @@ Inputs Required from User:
 3. Workforce size and labor costs
 
 4. Existing automation tools and WMS (Warehouse Management System)
+```
+## Prompt 23 — Transportation Mode Cost-Efficiency Analysis
 
-Prompt 23 — Transportation Mode Cost-Efficiency Analysis
+`Backstory:`
 
-Backstory:
+`A FMCG company in Gujarat ships products nationwide using a mix of road, rail, and air transport. The supply chain head suspects that air shipments for urgent orders are driving up costs without significant ROI.`
 
-A FMCG company in Gujarat ships products nationwide using a mix of road, rail, and air transport. The supply chain head suspects that air shipments for urgent orders are driving up costs without significant ROI.
+`Goal:`
 
-Goal:
+`Determine the most cost-efficient transport mode mix while balancing delivery timelines.`
 
-Determine the most cost-efficient transport mode mix while balancing delivery timelines.
+`Prompt:`
 
-Prompt:
+`"You are a logistics cost optimization expert. Prepare a cost-efficiency analysis comparing road, rail, and air transportation for FMCG distribution in India. Include cost per ton-km, transit time, reliability scores, fuel surcharges, and seasonal price fluctuations. Recommend the optimal mode mix for different order urgency levels and regions."`
 
-"You are a logistics cost optimization expert. Prepare a cost-efficiency analysis comparing road, rail, and air transportation for FMCG distribution in India. Include cost per ton-km, transit time, reliability scores, fuel surcharges, and seasonal price fluctuations. Recommend the optimal mode mix for different order urgency levels and regions."
-
-Inputs Required from User:
-
+`Inputs Required from User:`
+```
 1. Product type and shelf life
 
 2. Shipment frequency and average load size
@@ -3495,23 +3493,23 @@ Inputs Required from User:
 3. Regional distribution points
 
 4. Current mode split (road/rail/air)
+```
+## Prompt  24 — Supplier Procurement Cost Variance Report
 
-Prompt  24 — Supplier Procurement Cost Variance Report
+`Backstory:`
 
-Backstory:
+`A mid-sized manufacturing firm in Tamil Nadu sources raw materials from 12 suppliers. The procurement manager noticed significant cost fluctuations for the same materials over the past year and wants a variance analysis to identify patterns and negotiate better contracts.`
 
-A mid-sized manufacturing firm in Tamil Nadu sources raw materials from 12 suppliers. The procurement manager noticed significant cost fluctuations for the same materials over the past year and wants a variance analysis to identify patterns and negotiate better contracts.
+`Goal:`
 
-Goal:
+`Analyze procurement costs over time and detect efficiency gaps.`
 
-Analyze procurement costs over time and detect efficiency gaps.
+`Prompt:`
 
-Prompt:
+`"You are a procurement cost analyst. Create a supplier cost variance report showing: price changes per supplier over the past 12 months, variance percentage, supplier reliability index, and potential cost savings from consolidation or renegotiation. Include visual dashboards to highlight trends and outliers."`
 
-"You are a procurement cost analyst. Create a supplier cost variance report showing: price changes per supplier over the past 12 months, variance percentage, supplier reliability index, and potential cost savings from consolidation or renegotiation. Include visual dashboards to highlight trends and outliers."
-
-Inputs Required from User:
-
+`Inputs Required from User:`
+```
 1. List of suppliers and items sourced
 
 2. Historical price data (per unit)
@@ -3519,23 +3517,23 @@ Inputs Required from User:
 3. Supplier lead times and delivery performance
 
 4. Contract terms (fixed or variable pricing)
+```
+## Prompt 25 — Reverse Logistics Cost Optimization Report
 
-Prompt 25 — Reverse Logistics Cost Optimization Report
+`Backstory:`
 
-Backstory:
+`A fashion retailer with 200 outlets across India is struggling with high costs from returned goods due to size mismatches and damages. They want to assess their reverse logistics process to identify cost-saving opportunities without compromising customer experience.`
 
-A fashion retailer with 200 outlets across India is struggling with high costs from returned goods due to size mismatches and damages. They want to assess their reverse logistics process to identify cost-saving opportunities without compromising customer experience.
+`Goal:`
 
-Goal:
+`Evaluate reverse logistics costs and propose optimization strategies.`
 
-Evaluate reverse logistics costs and propose optimization strategies.
+`Prompt:`
 
-Prompt:
+`"You are a reverse logistics consultant. Prepare a cost and efficiency report for handling returned goods, covering: cost per return, transportation and handling costs, refurbishment expenses, resale vs. disposal rates, and impact on overall profitability. Recommend strategies for cost reduction such as localized return centers, improved sizing guides, and AI-powered return predictions."`
 
-"You are a reverse logistics consultant. Prepare a cost and efficiency report for handling returned goods, covering: cost per return, transportation and handling costs, refurbishment expenses, resale vs. disposal rates, and impact on overall profitability. Recommend strategies for cost reduction such as localized return centers, improved sizing guides, and AI-powered return predictions."
-
-Inputs Required from User:
-
+`Inputs Required from User:`
+```
 1. Return rate and reasons for return
 
 2. Current reverse logistics process flow
@@ -3543,10 +3541,7 @@ Inputs Required from User:
 3. Locations of return processing centers
 
 4. Costs for refurbishment, disposal, or resale
-
-
-Customs & export documentation
-
+````Customs & export documentation
 Prompt 1 — End-to-End Export Documentation Checklist
 
 Backstory:
