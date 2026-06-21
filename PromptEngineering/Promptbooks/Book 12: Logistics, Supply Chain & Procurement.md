@@ -583,20 +583,20 @@ Prompt:
 
 6. RFQ submission date
 ```
-Prompt 16 — RFQ for Solar Energy Installation
+## Prompt 16 — RFQ for Solar Energy Installation
 
-Backstory:
+`Backstory:`
 
-A manufacturing plant wants to reduce energy costs by installing a solar power system. They require a vendor who can design, supply, and install the system, handle government approvals, and provide long-term maintenance.
+`A manufacturing plant wants to reduce energy costs by installing a solar power system. They require a vendor who can design, supply, and install the system, handle government approvals, and provide long-term maintenance.`
 
-Goal:
+`Goal:`
 
-Draft an RFQ for solar energy installation providers.
+`Draft an RFQ for solar energy installation providers.`
 
-Prompt:
+`Prompt:`
 
-"You are the facility energy manager preparing an RFQ for solar installation companies. Your email should:
-
+`"You are the facility energy manager preparing an RFQ for solar installation companies. Your email should:`
+```
 1. Describe the plant’s energy consumption and available installation space
 
 2. Request system design, panel specifications, and expected output
@@ -606,9 +606,9 @@ Prompt:
 4. Include maintenance terms and warranty coverage
 
 5. Provide RFQ submission deadline"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Current energy consumption data
 
 2. Installation site details (area, location)
@@ -620,21 +620,21 @@ Inputs Required:
 5. Maintenance expectations
 
 6. RFQ submission date
+```
+## Prompt 17 — RFQ for Corporate Catering Services
 
-Prompt 17 — RFQ for Corporate Catering Services
+`Backstory:`
 
-Backstory:
+`A multinational company is looking for a reliable catering partner to serve daily meals to 300 employees at its corporate headquarters. The menu must include vegetarian, non-vegetarian, and vegan options, with strict hygiene standards. The company is seeking a vendor who can deliver variety, nutritional balance, and competitive pricing.`
 
-A multinational company is looking for a reliable catering partner to serve daily meals to 300 employees at its corporate headquarters. The menu must include vegetarian, non-vegetarian, and vegan options, with strict hygiene standards. The company is seeking a vendor who can deliver variety, nutritional balance, and competitive pricing.
+`Goal:`
 
-Goal:
+`Draft an RFQ for corporate meal catering vendors.`
 
-Draft an RFQ for corporate meal catering vendors.
+`Prompt:`
 
-Prompt:
-
-"You are the admin lead preparing an RFQ for catering vendors. Your email should:
-
+`"You are the admin lead preparing an RFQ for catering vendors. Your email should:`
+```
 1. Describe the meal service requirement (breakfast/lunch/dinner) and frequency
 
 2. Include dietary variety and nutritional standards
@@ -646,9 +646,9 @@ Prompt:
 5. Include delivery logistics and setup requirements
 
 6. Provide RFQ submission deadline"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Number of employees to be served
 
 2. Meal frequency (daily/weekly)
@@ -660,21 +660,21 @@ Inputs Required:
 5. Budget per head
 
 6. RFQ submission date
+```
+## Prompt 18 — RFQ for Digital Marketing Services
 
-Prompt 18 — RFQ for Digital Marketing Services
+`Backstory:`
 
-Backstory:
+`A mid-sized retail brand wants to expand its online presence through SEO, social media campaigns, and influencer collaborations. They need a digital marketing agency that can create and execute a 6-month strategy with measurable KPIs.`
 
-A mid-sized retail brand wants to expand its online presence through SEO, social media campaigns, and influencer collaborations. They need a digital marketing agency that can create and execute a 6-month strategy with measurable KPIs.
+`Goal:`
 
-Goal:
+`Prepare an RFQ for digital marketing agencies.`
 
-Prepare an RFQ for digital marketing agencies.
+`Prompt:`
 
-Prompt:
-
-"You are the brand manager preparing an RFQ for digital marketing vendors. Your email should: 
-
+`"You are the brand manager preparing an RFQ for digital marketing vendors. Your email should: `
+```
 1. Outline your brand’s current online presence and objectives 
 
 2. Request a proposed marketing strategy with deliverables 
@@ -686,9 +686,9 @@ Prompt:
 5. Request timeline, performance metrics, and reporting structure 
 
 6. Provide RFQ submission deadline"
-
-Inputs Required: 
-
+```
+`Inputs Required: `
+```
 1. Brand overview and objectives 
 
 2. Duration of campaign (e.g., 6 months) 
@@ -700,21 +700,21 @@ Inputs Required:
 5. Budget range 
 
 6. RFQ submission date
+```
+## Prompt 19 — RFQ for Uniform Supply
 
-Prompt 19 — RFQ for Uniform Supply
+`Backstory:`
 
-Backstory:
+`A hotel chain is looking for a vendor to supply uniforms for its staff across multiple locations. The uniforms must be durable, easy to maintain, and aligned with the brand’s colors and style guidelines.`
 
-A hotel chain is looking for a vendor to supply uniforms for its staff across multiple locations. The uniforms must be durable, easy to maintain, and aligned with the brand’s colors and style guidelines.
+`Goal:`
 
-Goal:
+`Draft an RFQ for uniform suppliers.`
 
-Draft an RFQ for uniform suppliers.
+`Prompt:`
 
-Prompt:
-
-"You are the procurement manager creating an RFQ for uniform suppliers. Your email should: 
-
+`"You are the procurement manager creating an RFQ for uniform suppliers. Your email should: `
+```
 1. Describe the types of uniforms required for different staff roles 
 
 2. Include material specifications and color scheme 
@@ -724,9 +724,9 @@ Prompt:
 4. Ask for pricing, sample pieces, and delivery timelines 
 
 5. Include RFQ submission deadline"
-
-Inputs Required: 
-
+```
+`Inputs Required: `
+```
 1. List of staff roles and uniform types 
 
 2. Material and color requirements 
@@ -738,21 +738,21 @@ Inputs Required:
 5. Delivery schedule 
 
 6. RFQ submission date
+```
+## Prompt 20 — RFQ for Warehouse Management System
 
-Prompt 20 — RFQ for Warehouse Management System
+`Backstory:`
 
-Backstory:
+`A distribution company needs a robust Warehouse Management System (WMS) to handle inventory tracking, order processing, and reporting. They are looking for vendors with experience in integrating WMS into existing ERP systems.`
 
-A distribution company needs a robust Warehouse Management System (WMS) to handle inventory tracking, order processing, and reporting. They are looking for vendors with experience in integrating WMS into existing ERP systems.
+`Goal:`
 
-Goal:
+`Create an RFQ for WMS software vendors.`
 
-Create an RFQ for WMS software vendors.
+`Prompt:`
 
-Prompt:
-
-"You are the operations IT head drafting an RFQ for WMS providers. Your email should:
-
+`"You are the operations IT head drafting an RFQ for WMS providers. Your email should:`
+```
 1. Outline warehouse operations and system requirements
 
 2. Request features like barcode scanning, order tracking, and reporting
@@ -762,9 +762,9 @@ Prompt:
 4. Include pricing models, licensing details, and training support
 
 5. Provide RFQ submission deadline"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Current warehouse operations description
 
 2. Required WMS features
@@ -776,7 +776,7 @@ Inputs Required:
 5. Budget range
 
 6. RFQ submission date
-
+```
 Prompt 21 — RFQ for Corporate Travel Services
 
 Backstory:
