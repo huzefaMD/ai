@@ -3608,26 +3608,26 @@ Customs & export documentation
 ```
 ## Prompt 3 — Certificate of Origin Preparation
 
-Backstory:
+`Backstory:`
 
-An Indian spice exporter to the Middle East has been informed by buyers that they need a Certificate of Origin to qualify for preferential duty rates. The exporter is unsure of the correct format and issuing authority.
+`An Indian spice exporter to the Middle East has been informed by buyers that they need a Certificate of Origin to qualify for preferential duty rates. The exporter is unsure of the correct format and issuing authority.`
 
-Goal:
+`Goal:`
 
-Guide the preparation and application process for a Certificate of Origin.
+`Guide the preparation and application process for a Certificate of Origin.`
 
-Prompt:
+`Prompt:`
 
-"You are a Trade Documentation Advisor. Create step-by-step instructions for obtaining a Certificate of Origin for Indian agricultural exports to the UAE.
-
+`"You are a Trade Documentation Advisor. Create step-by-step instructions for obtaining a Certificate of Origin for Indian agricultural exports to the UAE.`
+```
 1. Specify required documents for the application.
 
 2. Mention recognized issuing bodies in India.
 
 3. Provide tips to ensure acceptance by UAE customs."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Exporter details and registration numbers
 
 2. Product details and HS code
@@ -3635,29 +3635,29 @@ Inputs Required:
 3. Destination country
 
 4. Type of trade agreement (if any)
+```
+## Prompt 4 — Export Invoice Compliance Audit
 
-Prompt 4 — Export Invoice Compliance Audit
+`Backstory:`
 
-Backstory:
+`A medium-sized handicraft exporter was recently penalized for discrepancies between their commercial invoice and packing list. They want a compliance-friendly export invoice template to avoid future issues.`
 
-A medium-sized handicraft exporter was recently penalized for discrepancies between their commercial invoice and packing list. They want a compliance-friendly export invoice template to avoid future issues.
+`Goal:`
 
-Goal:
+`Create a customs-compliant export invoice template.`
 
-Create a customs-compliant export invoice template.
+`Prompt:`
 
-Prompt:
-
-"You are a Customs Compliance Officer. Audit an exporter’s existing invoice and prepare a compliant export invoice template for shipments from India to the US.
-
+`"You are a Customs Compliance Officer. Audit an exporter’s existing invoice and prepare a compliant export invoice template for shipments from India to the US.`
+```
 1. Include all required data fields for customs.
 
 2. Highlight common mistakes and how to avoid them.
 
 3. Suggest formatting that speeds up clearance."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Current invoice format
 
 2. Product categories and quantities
@@ -3665,29 +3665,29 @@ Inputs Required:
 3. Destination country
 
 4. Buyer details
+```
+## Prompt 5 — Export Packing List Standardization
 
-Prompt 5 — Export Packing List Standardization
+`Backstory:`
 
-Backstory:
+`An electronics exporter to Africa often receives clearance delays due to incomplete packing list details. Customs authorities have warned them to standardize the document.`
 
-An electronics exporter to Africa often receives clearance delays due to incomplete packing list details. Customs authorities have warned them to standardize the document.
+`Goal:`
 
-Goal:
+`Create a standard export packing list template.`
 
-Create a standard export packing list template.
+`Prompt:`
 
-Prompt:
-
-"You are a Logistics Documentation Specialist. Design a standardized export packing list template for electronics shipments from India to Nigeria.
-
+`"You are a Logistics Documentation Specialist. Design a standardized export packing list template for electronics shipments from India to Nigeria.`
+```
 1. Include all customs-required fields.
 
 2. Ensure it matches the invoice for faster clearance.
 
 3. Provide a sample filled-out version."
-
-Inputs Required:
-
+```
+`Inputs Required: `  
+```
 1. Product details and HS codes
 
 2. Dimensions and weight per package
@@ -3695,7 +3695,7 @@ Inputs Required:
 3. Mode of shipment
 
 4. Consignee details
-
+```
 Prompt 6 — Export License Application Guide
 
 Backstory:
