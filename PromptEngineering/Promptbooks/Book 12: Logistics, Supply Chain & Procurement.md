@@ -1322,20 +1322,20 @@
 
 5. Delivery time goals for each urgency level
 ```
-Prompt 11 — Shared Ride Parcel Deliveries
+## Prompt 11 — Shared Ride Parcel Deliveries
 
-Backstory:
+`Backstory:`
 
-You run a parcel delivery startup in Bengaluru that partners with ride-hailing drivers to deliver small packages during their downtime between passenger trips. However, current route assignments are inefficient, often sending drivers far out of their passenger route to deliver parcels, which reduces willingness to participate. You need a scheduling system that intelligently assigns parcels only if they fit naturally along a driver’s planned route.
+`You run a parcel delivery startup in Bengaluru that partners with ride-hailing drivers to deliver small packages during their downtime between passenger trips. However, current route assignments are inefficient, often sending drivers far out of their passenger route to deliver parcels, which reduces willingness to participate. You need a scheduling system that intelligently assigns parcels only if they fit naturally along a driver’s planned route.`
 
-Goal:
+`Goal:`
 
-Create an integrated ride-hail and parcel delivery route system that maximises efficiency without disrupting passenger trips.
+`Create an integrated ride-hail and parcel delivery route system that maximises efficiency without disrupting passenger trips.`
 
-Prompt:
+`Prompt:`
 
-"You are a Shared Mobility Logistics Expert. Design a parcel delivery system for ride-hailing drivers in Bengaluru:
-
+`"You are a Shared Mobility Logistics Expert. Design a parcel delivery system for ride-hailing drivers in Bengaluru:`
+```
 1. Match parcels to drivers based on current and next passenger trip locations.
 
 2. Prioritise deliveries with minimal route deviation.
@@ -1345,9 +1345,9 @@ Prompt:
 4. Provide driver incentives for efficient completion.
 
 5. Track delivery success and optimise assignments over time."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Active driver locations and trip routes
 
 2. Parcel pickup and drop-off points
@@ -1357,21 +1357,21 @@ Inputs Required:
 4. Driver incentive structure
 
 5. Real-time traffic data
+```
+## Prompt 12 — E-Grocery Dark Store Route Planning
 
-Prompt 12 — E-Grocery Dark Store Route Planning
+`Backstory:`
 
-Backstory:
+`You manage an e-grocery service in Hyderabad operating from multiple “dark stores” — mini warehouses without walk-in customers. Your promise is 30-minute delivery, but overlapping delivery zones between stores sometimes cause duplicate dispatches and confusion. You want a system that assigns orders to the closest store and optimises driver routes to handle multiple deliveries in a single trip.`
 
-You manage an e-grocery service in Hyderabad operating from multiple “dark stores” — mini warehouses without walk-in customers. Your promise is 30-minute delivery, but overlapping delivery zones between stores sometimes cause duplicate dispatches and confusion. You want a system that assigns orders to the closest store and optimises driver routes to handle multiple deliveries in a single trip.
+`Goal:`
 
-Goal:
+`Create a zone-based route allocation system for dark stores to ensure fastest grocery delivery.`
 
-Create a zone-based route allocation system for dark stores to ensure fastest grocery delivery.
+`Prompt:`
 
-Prompt:
-
-"You are an E-Grocery Operations Manager. Build a delivery schedule for multiple dark stores in Hyderabad:
-
+`"You are an E-Grocery Operations Manager. Build a delivery schedule for multiple dark stores in Hyderabad:`
+```
 1. Assign each order to the nearest store with inventory availability.
 
 2. Batch orders geographically to reduce delivery trips.
@@ -1381,9 +1381,9 @@ Prompt:
 4. Avoid overlap between store delivery zones.
 
 5. Include a real-time performance dashboard for store managers."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Dark store locations & delivery radius
 
 2. Inventory availability per store
@@ -1393,21 +1393,21 @@ Inputs Required:
 4. Number of delivery riders available per store
 
 5. Average delivery time per route
+```
+## Prompt 13 — School Bus Route Optimisation
 
-Prompt 13 — School Bus Route Optimisation
+`Backstory:`
 
-Backstory:
+`You manage school transport for a chain of private schools in Lucknow. The challenge is to minimise total travel time while ensuring that no student spends more than 45 minutes on the bus. Parents often request custom drop-off points, creating inefficient detours. You need a schedule that balances route efficiency with student safety and parental preferences.`
 
-You manage school transport for a chain of private schools in Lucknow. The challenge is to minimise total travel time while ensuring that no student spends more than 45 minutes on the bus. Parents often request custom drop-off points, creating inefficient detours. You need a schedule that balances route efficiency with student safety and parental preferences.
+`Goal:`
 
-Goal:
+`Optimise school bus routes for minimal travel time and maximum safety.`
 
-Optimise school bus routes for minimal travel time and maximum safety.
+`Prompt:`
 
-Prompt:
-
-"You are a School Transport Coordinator. Create an optimised school bus route plan for Lucknow:
-
+`"You are a School Transport Coordinator. Create an optimised school bus route plan for Lucknow:`
+```
 1. Assign buses to students based on proximity and capacity.
 
 2. Ensure no single trip exceeds 45 minutes.
@@ -1417,9 +1417,9 @@ Prompt:
 4. Schedule pickup and drop-off times consistently.
 
 5. Provide GPS tracking for parental monitoring."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Student addresses and preferred drop points
 
 2. Bus capacities and availability
@@ -1429,21 +1429,21 @@ Inputs Required:
 4. School start and end times
 
 5. Safety protocols for student transport
+```
+## Prompt 14 — Port-to-Warehouse Freight Scheduling
 
-Prompt 14 — Port-to-Warehouse Freight Scheduling
+`Backstory:`
 
-Backstory:
+`Your company handles freight logistics from Nhava Sheva Port to warehouses across Maharashtra. Ship arrivals are often delayed, causing trucks to wait idly and increasing demurrage costs. You need a scheduling system that reacts dynamically to ship ETA changes and reassigns trucks to avoid idle time while still meeting delivery commitments.`
 
-Your company handles freight logistics from Nhava Sheva Port to warehouses across Maharashtra. Ship arrivals are often delayed, causing trucks to wait idly and increasing demurrage costs. You need a scheduling system that reacts dynamically to ship ETA changes and reassigns trucks to avoid idle time while still meeting delivery commitments.
+`Goal:`
 
-Goal:
+`Develop a dynamic freight pickup and delivery schedule that reduces waiting time and costs.`
 
-Develop a dynamic freight pickup and delivery schedule that reduces waiting time and costs.
+`Prompt:`
 
-Prompt:
-
-"You are a Port Logistics Scheduler. Build a port-to-warehouse delivery plan for Nhava Sheva:
-
+`"You are a Port Logistics Scheduler. Build a port-to-warehouse delivery plan for Nhava Sheva:`
+```
 1. Sync truck arrivals with updated ship ETAs.
 
 2. Allocate trucks based on cargo priority and destination.
@@ -1453,9 +1453,9 @@ Prompt:
 4. Provide real-time updates to warehouse managers.
 
 5. Analyse cost savings from reduced idle time."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Ship arrival schedules & updates
 
 2. Cargo priority classification
@@ -1465,21 +1465,21 @@ Inputs Required:
 4. Number of trucks available
 
 5. Loading/unloading time per truck
+```
+## Prompt 15 — Reverse Logistics Pickup Scheduling
 
-Prompt 15 — Reverse Logistics Pickup Scheduling
+`Backstory:
 
-Backstory:
+`You operate a large e-commerce returns processing centre in Gurugram. Customers schedule pickups for returned products, but routes are not optimised, causing multiple trips to the same area in a single day. You want a system that batches returns by locality and assigns them to the most efficient driver routes.`
 
-You operate a large e-commerce returns processing centre in Gurugram. Customers schedule pickups for returned products, but routes are not optimised, causing multiple trips to the same area in a single day. You want a system that batches returns by locality and assigns them to the most efficient driver routes.
+`Goal:`
 
-Goal:
+`Create a reverse logistics route plan that reduces fuel costs and pickup times.`
 
-Create a reverse logistics route plan that reduces fuel costs and pickup times.
+`Prompt:`
 
-Prompt:
-
-"You are a Reverse Logistics Planner. Design a returns pickup schedule for Gurugram:
-
+`"You are a Reverse Logistics Planner. Design a returns pickup schedule for Gurugram:`
+```
 1. Batch pickups by location and customer availability.
 
 2. Prioritise high-value returns for early pickup.
@@ -1489,9 +1489,9 @@ Prompt:
 4. Assign drivers based on proximity to starting points.
 
 5. Track pickup success rates and reassign failed pickups."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Customer return addresses and preferred pickup times
 
 2. Value classification of returned items
@@ -1501,7 +1501,7 @@ Inputs Required:
 4. Average pickup duration
 
 5. Traffic data for pickup hours
-
+```
 Prompt 16 — Festival Season Delivery Surge Plan
 
 Backstory:
