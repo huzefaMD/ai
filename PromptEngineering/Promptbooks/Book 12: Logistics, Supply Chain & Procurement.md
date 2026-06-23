@@ -1865,20 +1865,20 @@ Prompt 24 — Event Equipment Logistics Planning
 
 # Inventory tracking sheets
 
-Prompt 1 — Automated Inventory Restocking for FMCG
+## Prompt 1 — Automated Inventory Restocking for FMCG
 
-Backstory:
+`Backstory:`
 
-You are managing inventory for a mid-sized FMCG distributor in Mumbai. Your warehouse handles over 2,000 SKUs, and sales fluctuate based on seasonal demand. Stockouts have become a recurring problem, especially for high-demand items, leading to missed sales opportunities. You want an automated restocking system that alerts you before critical inventory levels are reached and suggests reorder quantities based on sales trends and supplier lead times.
+`You are managing inventory for a mid-sized FMCG distributor in Mumbai. Your warehouse handles over 2,000 SKUs, and sales fluctuate based on seasonal demand. Stockouts have become a recurring problem, especially for high-demand items, leading to missed sales opportunities. You want an automated restocking system that alerts you before critical inventory levels are reached and suggests reorder quantities based on sales trends and supplier lead times.`
 
-Goal:
+`Goal:`
 
-Create a restocking alert system that prevents stockouts and maintains optimal inventory levels.
+`Create a restocking alert system that prevents stockouts and maintains optimal inventory levels.`
 
-Prompt:
+`Prompt:`
 
-"You are a Supply Chain Data Analyst. Develop an automated restocking alert system for an FMCG distributor handling 2,000 SKUs.
-
+`"You are a Supply Chain Data Analyst. Develop an automated restocking alert system for an FMCG distributor handling 2,000 SKUs.`
+```
 1. Set minimum and maximum stock thresholds for each SKU.
 
 2. Use past 12 months’ sales data to predict reorder needs.
@@ -1888,9 +1888,9 @@ Prompt:
 4. Generate a daily email/SMS alert for items nearing reorder levels.
 
 5. Provide suggested reorder quantities for each product."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. SKU list with current stock levels
 
 2. Minimum & maximum stock thresholds
@@ -1900,21 +1900,21 @@ Inputs Required:
 4. Supplier lead times
 
 5. Safety stock percentage
+```
+## Prompt 2 — Inventory Tracking Dashboard for E-commerce
 
-Prompt 2 — Inventory Tracking Dashboard for E-commerce
+`Backstory:`
 
-Backstory:
+`You operate a small but growing e-commerce business that sells fashion accessories across India. You stock products in two warehouses—Delhi and Bengaluru—but inventory updates are often delayed, causing inaccurate stock counts on your website. This leads to overselling items you no longer have in stock and losing customer trust. You need a live inventory tracking dashboard that updates in real-time and supports multi-location stock management.`
 
-You operate a small but growing e-commerce business that sells fashion accessories across India. You stock products in two warehouses—Delhi and Bengaluru—but inventory updates are often delayed, causing inaccurate stock counts on your website. This leads to overselling items you no longer have in stock and losing customer trust. You need a live inventory tracking dashboard that updates in real-time and supports multi-location stock management.
+`Goal:`
 
-Goal:
+`Build a live, multi-location inventory tracking dashboard that syncs with the website.`
 
-Build a live, multi-location inventory tracking dashboard that syncs with the website.
+`Prompt:`
 
-Prompt:
-
-"You are an Inventory Management Specialist. Create a real-time inventory tracking dashboard for an e-commerce business with two warehouses.
-
+`"You are an Inventory Management Specialist. Create a real-time inventory tracking dashboard for an e-commerce business with two warehouses.`
+```
 1. Integrate live stock data feeds from both warehouses.
 
 2. Display available, reserved, and incoming stock for each product.
@@ -1924,9 +1924,9 @@ Prompt:
 4. Sync updates instantly to the e-commerce platform.
 
 5. Include a weekly inventory turnover report."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. List of products and SKUs
 
 2. Stock levels per warehouse
@@ -1936,21 +1936,21 @@ Inputs Required:
 4. Integration details for e-commerce platform
 
 5. Preferred dashboard tool (Excel, Google Data Studio, Power BI, etc.)
+```
+## Prompt 3 — Inventory Ageing & Dead Stock Alerts
 
-Prompt 3 — Inventory Ageing & Dead Stock Alerts
+`Backstory:`
 
-Backstory:
+`Your electronics retail chain often finds products sitting in the warehouse for months without selling, tying up capital. Some items, like mobile accessories, lose value quickly due to market changes. You need an inventory ageing system that flags items nearing expiry or becoming outdated so you can create clearance sales or promotional offers before they lose value.`
 
-Your electronics retail chain often finds products sitting in the warehouse for months without selling, tying up capital. Some items, like mobile accessories, lose value quickly due to market changes. You need an inventory ageing system that flags items nearing expiry or becoming outdated so you can create clearance sales or promotional offers before they lose value.
+`Goal:`
 
-Goal:
+`Implement an inventory ageing tracker that identifies slow-moving and obsolete stock.`
 
-Implement an inventory ageing tracker that identifies slow-moving and obsolete stock.
+`Prompt:`
 
-Prompt:
-
-"You are a Retail Inventory Analyst. Build an inventory ageing and dead stock alert system for an electronics retail chain.
-
+`"You are a Retail Inventory Analyst. Build an inventory ageing and dead stock alert system for an electronics retail chain.`
+```
 1. Track the age of stock from the date of purchase.
 
 2. Classify items as fast-moving, slow-moving, or dead stock.
@@ -1960,9 +1960,9 @@ Prompt:
 4. Suggest clearance pricing or bundling offers.
 
 5. Provide a monthly dead stock report with financial impact."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. SKU purchase dates and quantities
 
 2. Sales velocity per product
@@ -1972,21 +1972,21 @@ Inputs Required:
 4. Clearance sale pricing rules
 
 5. Reporting format preference
+```
+## Prompt 4 — Vendor-based Restocking Prioritisation
 
-Prompt 4 — Vendor-based Restocking Prioritisation
+`Backstory:`
 
-Backstory:
+`Your manufacturing unit sources raw materials from multiple vendors, but each has different lead times and reliability rates. Some materials arrive late, affecting production timelines. You want an inventory restocking plan that prioritises reorders with faster and more reliable vendors while balancing costs.`
 
-Your manufacturing unit sources raw materials from multiple vendors, but each has different lead times and reliability rates. Some materials arrive late, affecting production timelines. You want an inventory restocking plan that prioritises reorders with faster and more reliable vendors while balancing costs.
+`Goal:`
 
-Goal:
+`Create a vendor-prioritised restocking plan to ensure uninterrupted production.`
 
-Create a vendor-prioritised restocking plan to ensure uninterrupted production.
+`Prompt:`
 
-Prompt:
-
-"You are a Procurement & Inventory Planner. Develop a vendor-prioritised restocking system for a manufacturing unit.
-
+`"You are a Procurement & Inventory Planner. Develop a vendor-prioritised restocking system for a manufacturing unit.`
+```
 1. Maintain vendor performance scores based on delivery speed, accuracy, and cost.
 
 2. Prioritise reorders from high-performing vendors.
@@ -1996,9 +1996,9 @@ Prompt:
 4. Include backup vendor suggestions for each material.
 
 5. Provide a monthly vendor performance and cost efficiency report."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. List of raw materials and stock levels
 
 2. Vendor details with delivery lead times
@@ -2008,21 +2008,21 @@ Inputs Required:
 4. Cost per unit from each vendor
 
 5. Minimum stock requirements
+```
+## Prompt 5 — Seasonal Restocking Forecast
 
-Prompt 5 — Seasonal Restocking Forecast
+`Backstory:`
 
-Backstory:
+`Your sports equipment store sees significant seasonal demand changes—cricket gear spikes in March, football gear during monsoons, and gym equipment in January. Restocking decisions are currently based on guesswork, leading to excess stock in some categories and shortages in others. You need a forecast-driven restocking plan that aligns with seasonal demand.`
 
-Your sports equipment store sees significant seasonal demand changes—cricket gear spikes in March, football gear during monsoons, and gym equipment in January. Restocking decisions are currently based on guesswork, leading to excess stock in some categories and shortages in others. You need a forecast-driven restocking plan that aligns with seasonal demand.
+`Goal:`
 
-Goal:
+`Design a seasonal restocking forecast to match demand patterns.`
 
-Design a seasonal restocking forecast to match demand patterns.
+`Prompt:`
 
-Prompt:
-
-"You are a Demand Forecasting Specialist. Build a seasonal restocking plan for a sports equipment store.
-
+`"You are a Demand Forecasting Specialist. Build a seasonal restocking plan for a sports equipment store.`
+```
 1. Analyse past 3 years’ monthly sales data per category.
 
 2. Identify seasonal peaks for each product category.
@@ -2032,9 +2032,9 @@ Prompt:
 4. Include promotional campaigns in demand projections.
 
 5. Provide a quarterly restocking schedule."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Historical sales data by product category
 
 2. Current stock levels
@@ -2044,21 +2044,21 @@ Inputs Required:
 4. Marketing campaign calendar
 
 5. Supplier lead times
+```
+## Prompt 6 — Automated Inventory Reconciliation
 
-Prompt 6 — Automated Inventory Reconciliation
+`Backstory:`
 
-Backstory:
+`Your mid-sized grocery chain uses multiple sales channels—physical stores, online orders, and third-party delivery apps. Stock discrepancies occur frequently between system records and actual warehouse counts, leading to customer cancellations. You need an automated reconciliation process that flags mismatches and corrects them before sales are impacted.`
 
-Your mid-sized grocery chain uses multiple sales channels—physical stores, online orders, and third-party delivery apps. Stock discrepancies occur frequently between system records and actual warehouse counts, leading to customer cancellations. You need an automated reconciliation process that flags mismatches and corrects them before sales are impacted.
+`Goal:`
 
-Goal:
+`Implement a real-time reconciliation system for multi-channel inventory accuracy.`
 
-Implement a real-time reconciliation system for multi-channel inventory accuracy.
+`Prompt:`
 
-Prompt:
-
-"You are an Inventory Accuracy Specialist. Create an automated reconciliation workflow for a grocery chain with both online and offline sales.
-
+`"You are an Inventory Accuracy Specialist. Create an automated reconciliation workflow for a grocery chain with both online and offline sales.`
+```
 1. Pull sales and stock data from POS, website, and third-party delivery platforms.
 
 2. Compare system counts with physical counts daily.
@@ -2068,9 +2068,9 @@ Prompt:
 4. Trigger immediate restocking or manual verification.
 
 5. Generate weekly reconciliation reports with loss analysis."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Access to POS & online sales data
 
 2. Current warehouse stock levels
@@ -2080,21 +2080,21 @@ Inputs Required:
 4. Integration details for each sales platform
 
 5. Reporting format preference
+```
+## Prompt 7 — Predictive Stockout Prevention
 
-Prompt 7 — Predictive Stockout Prevention
+`Backstory:`
 
-Backstory:
+`A popular organic food brand has products that sell out quickly once they go viral on Instagram, leaving stock empty for weeks until the next batch arrives. The brand wants a predictive model to detect social media spikes and adjust inventory alerts accordingly, preventing stockouts during sudden demand surges.`
 
-A popular organic food brand has products that sell out quickly once they go viral on Instagram, leaving stock empty for weeks until the next batch arrives. The brand wants a predictive model to detect social media spikes and adjust inventory alerts accordingly, preventing stockouts during sudden demand surges.
+`Goal:`
 
-Goal:
+`Create a predictive alert system that links social media trends to stock levels.`
 
-Create a predictive alert system that links social media trends to stock levels.
+`Prompt:`
 
-Prompt:
-
-"You are a Demand Signal Analyst. Design a predictive stockout prevention system for an organic food brand.
-
+`"You are a Demand Signal Analyst. Design a predictive stockout prevention system for an organic food brand.`
+```
 1. Monitor social media mentions and engagement for key products.
 
 2. Identify demand spikes and predict sales acceleration.
@@ -2104,9 +2104,9 @@ Prompt:
 4. Trigger emergency restock orders during high-demand periods.
 
 5. Provide a post-campaign stock performance review."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. SKU list with current inventory
 
 2. Social media monitoring tool API access
@@ -2116,21 +2116,21 @@ Inputs Required:
 4. Supplier lead times
 
 5. Emergency restocking capacity
+```
+## Prompt 8 — Warehouse Bin-level Inventory Alerts
 
-Prompt 8 — Warehouse Bin-level Inventory Alerts
+`Backstory:`
 
-Backstory:
+`Your warehouse stores thousands of items in bins, but stock checks happen only at SKU level. This leads to cases where some bins run empty while others still have stock, causing inefficient picking routes. You want an alert system that tracks inventory at the bin location level and signals replenishment within the warehouse before it impacts outbound orders.`
 
-Your warehouse stores thousands of items in bins, but stock checks happen only at SKU level. This leads to cases where some bins run empty while others still have stock, causing inefficient picking routes. You want an alert system that tracks inventory at the bin location level and signals replenishment within the warehouse before it impacts outbound orders.
+`Goal:`
 
-Goal:
+`Build a bin-location inventory alert system for warehouse efficiency.`
 
-Build a bin-location inventory alert system for warehouse efficiency.
+`Prompt:`
 
-Prompt:
-
-"You are a Warehouse Operations Specialist. Develop a bin-level stock alert system for a distribution warehouse.
-
+`"You are a Warehouse Operations Specialist. Develop a bin-level stock alert system for a distribution warehouse.`
+```
 1. Assign bin codes to all SKUs.
 
 2. Track quantity per bin in real-time.
@@ -2140,9 +2140,9 @@ Prompt:
 4. Show a visual warehouse map with low-bin highlights.
 
 5. Include weekly bin replenishment reports."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Bin mapping with SKU assignments
 
 2. Threshold levels for each bin
@@ -2152,21 +2152,21 @@ Inputs Required:
 4. Warehouse floor layout for mapping
 
 5. Preferred alert method (email, app, dashboard)
+```
+## Prompt 9 — Multi-Store Restocking Coordination
 
-Prompt 9 — Multi-Store Restocking Coordination
+`Backstory:`
 
-Backstory:
+`A retail apparel chain has 25 outlets across India, each with different sales velocities. Some stores overstock while others run out, leading to uneven distribution and unnecessary procurement costs. You want a system to coordinate restocking by shifting inventory between stores before placing new supplier orders.`
 
-A retail apparel chain has 25 outlets across India, each with different sales velocities. Some stores overstock while others run out, leading to uneven distribution and unnecessary procurement costs. You want a system to coordinate restocking by shifting inventory between stores before placing new supplier orders.
+`Goal:`
 
-Goal:
+`Create an inter-store transfer-based restocking system.`
 
-Create an inter-store transfer-based restocking system.
+`Prompt:`
 
-Prompt:
-
-"You are a Retail Supply Chain Planner. Design a restocking plan for a multi-store apparel chain.
-
+`"You are a Retail Supply Chain Planner. Design a restocking plan for a multi-store apparel chain.`
+```
 1. Track weekly sales velocity for each store.
 
 2. Identify surplus stock locations and shortage locations.
@@ -2176,9 +2176,9 @@ Prompt:
 4. Calculate cost savings from reduced procurement.
 
 5. Provide a monthly store balance scorecard."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Store list with stock levels
 
 2. Sales velocity per SKU per store
@@ -2188,21 +2188,21 @@ Inputs Required:
 4. Supplier lead times
 
 5. Restocking threshold rules
+```
+## Prompt 10 — Perishable Goods Expiry Alerts
 
-Prompt 10 — Perishable Goods Expiry Alerts
+`Backstory:`
 
-Backstory:
+`Your bakery supplies fresh products to supermarkets, but some items expire before being sold, causing wastage and financial loss. You want an expiry-based alert system that prompts early discounts or redistribution to other outlets before spoilage occurs.`
 
-Your bakery supplies fresh products to supermarkets, but some items expire before being sold, causing wastage and financial loss. You want an expiry-based alert system that prompts early discounts or redistribution to other outlets before spoilage occurs.
+`Goal:`
 
-Goal:
+`Set up a perishable goods expiry tracking and alert system.`
 
-Set up a perishable goods expiry tracking and alert system.
+`Prompt:`
 
-Prompt:
-
-"You are a Fresh Food Inventory Manager. Create an expiry alert system for bakery products.
-
+`"You are a Fresh Food Inventory Manager. Create an expiry alert system for bakery products.`
+```
 1. Tag SKUs with production and expiry dates.
 
 2. Flag products within 48 hours of expiry.
@@ -2212,9 +2212,9 @@ Prompt:
 4. Generate waste tracking reports for loss reduction.
 
 5. Provide weekly wastage-to-sales ratio analysis."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. SKU list with expiry details
 
 2. Current stock levels per outlet
@@ -2224,21 +2224,21 @@ Inputs Required:
 4. Discount rules for near-expiry items
 
 5. Redistribution logistics
+```
+## Prompt 11 — Spare Parts Restocking for Manufacturing
 
-Prompt 11 — Spare Parts Restocking for Manufacturing
+`Backstory:`
 
-Backstory:
+`Your manufacturing plant runs multiple production lines that frequently stop due to missing spare parts. Currently, there’s no systematic tracking, and maintenance teams only request parts when breakdowns occur. You want a preventive inventory system for spare parts that restocks before machinery downtime happens.`
 
-Your manufacturing plant runs multiple production lines that frequently stop due to missing spare parts. Currently, there’s no systematic tracking, and maintenance teams only request parts when breakdowns occur. You want a preventive inventory system for spare parts that restocks before machinery downtime happens.
+`Goal:`
 
-Goal:
+`Create a preventive restocking plan for critical spare parts.`
 
-Create a preventive restocking plan for critical spare parts.
+`Prompt:`
 
-Prompt:
-
-"You are a Maintenance Inventory Planner. Develop a spare parts inventory management system for a manufacturing plant.
-
+`"You are a Maintenance Inventory Planner. Develop a spare parts inventory management system for a manufacturing plant.`
+```
 1. Identify critical parts per production line.
 
 2. Track usage patterns and failure rates.
@@ -2248,9 +2248,9 @@ Prompt:
 4. Keep emergency stock for high-risk components.
 
 5. Generate monthly downtime prevention reports."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Spare parts list with usage data
 
 2. Machinery breakdown history
@@ -2260,21 +2260,21 @@ Inputs Required:
 4. Criticality rating of each part
 
 5. Reorder point rules
+```
+## Prompt 12 — Inventory Shrinkage Alerts
 
-Prompt 12 — Inventory Shrinkage Alerts
+`Backstory:`
 
-Backstory:
+`A chain of convenience stores is experiencing unexplained inventory losses due to theft, misplacement, or accounting errors. You need an alert system that detects unusual shrinkage patterns in real time and flags high-risk products or locations.`
 
-A chain of convenience stores is experiencing unexplained inventory losses due to theft, misplacement, or accounting errors. You need an alert system that detects unusual shrinkage patterns in real time and flags high-risk products or locations.
+`Goal:`
 
-Goal:
+`Implement an inventory shrinkage detection and alert mechanism.`
 
-Implement an inventory shrinkage detection and alert mechanism.
+`Prompt:`
 
-Prompt:
-
-"You are a Loss Prevention Analyst. Create an inventory shrinkage alert system for convenience stores.
-
+`"You are a Loss Prevention Analyst. Create an inventory shrinkage alert system for convenience stores.`
+```
 1. Compare expected stock vs. actual sales and current stock.
 
 2. Flag discrepancies above normal shrinkage rates.
@@ -2284,9 +2284,9 @@ Prompt:
 4. Trigger alerts to store managers for immediate investigation.
 
 5. Provide monthly loss trend reports."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Historical shrinkage rates
 
 2. Current stock vs. sales data
@@ -2296,21 +2296,21 @@ Inputs Required:
 4. Product category risk ratings
 
 5. Alert threshold settings
+```
+## Prompt 13 — Inventory Buffer Planning for Festivals
 
-Prompt 13 — Inventory Buffer Planning for Festivals
+`Backstory:`
 
-Backstory:
+`Your cosmetic products business sees a huge spike during Diwali, Raksha Bandhan, and Valentine’s Day. Last year, late restocking led to missed opportunities. You need an inventory buffer system that pre-orders additional stock ahead of festivals while avoiding overstocking.`
 
-Your cosmetic products business sees a huge spike during Diwali, Raksha Bandhan, and Valentine’s Day. Last year, late restocking led to missed opportunities. You need an inventory buffer system that pre-orders additional stock ahead of festivals while avoiding overstocking.
+`Goal:`
 
-Goal:
+`Plan inventory buffers for peak festival sales.`
 
-Plan inventory buffers for peak festival sales.
+`Prompt:`
 
-Prompt:
-
-"You are a Seasonal Demand Planner. Develop a festival inventory buffer plan for a cosmetics brand.
-
+`"You are a Seasonal Demand Planner. Develop a festival inventory buffer plan for a cosmetics brand.`
+```
 1. Analyse past 3 years’ festival sales trends.
 
 2. Set buffer stock targets for each SKU.
@@ -2320,9 +2320,9 @@ Prompt:
 4. Create an early procurement schedule.
 
 5. Provide post-festival stock liquidation strategies."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Festival sales history by SKU
 
 2. Current inventory levels
@@ -2332,8 +2332,8 @@ Inputs Required:
 4. Buffer stock percentage rules
 
 5. Festival dates calendar
-
-Prompt 14 — Automated Vendor Restock Requests
+```
+## Prompt 14 — Automated Vendor Restock Requests
 
 Backstory:
 
