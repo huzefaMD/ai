@@ -1502,20 +1502,20 @@
 
 5. Traffic data for pickup hours
 ```
-Prompt 16 — Festival Season Delivery Surge Plan
+## Prompt 16 — Festival Season Delivery Surge Plan
 
-Backstory:
+`Backstory:`
 
-Your courier company in Mumbai experiences a 3× spike in orders during Diwali, with a high concentration of deliveries in narrow lanes and residential colonies. Previous years saw missed deadlines, driver fatigue, and excessive overtime costs. You want a surge-specific routing strategy that balances workload, maintains promised delivery times, and factors in pedestrian-heavy streets during festive hours.
+`Your courier company in Mumbai experiences a 3× spike in orders during Diwali, with a high concentration of deliveries in narrow lanes and residential colonies. Previous years saw missed deadlines, driver fatigue, and excessive overtime costs. You want a surge-specific routing strategy that balances workload, maintains promised delivery times, and factors in pedestrian-heavy streets during festive hours.`
 
-Goal:
+`Goal:`
 
-Design a festive season delivery plan that ensures timely completion despite high order volume.
+`Design a festive season delivery plan that ensures timely completion despite high order volume.`
 
-Prompt:
+`Prompt:`
 
-"You are a Seasonal Logistics Strategist. Create a Diwali delivery surge plan for Mumbai:
-
+`"You are a Seasonal Logistics Strategist. Create a Diwali delivery surge plan for Mumbai:`
+```
 1. Predict delivery clusters based on historical order data.
 
 2. Use smaller vehicles/bikes for congested areas.
@@ -1525,9 +1525,9 @@ Prompt:
 4. Distribute workload evenly among drivers.
 
 5. Include overtime cost projections and efficiency improvements."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Historical order volume per area during Diwali
 
 2. Driver availability and vehicle type mix
@@ -1537,21 +1537,21 @@ Inputs Required:
 4. Delivery time promises per order
 
 5. Cost per overtime hour
+```
+## Prompt 17 — AI-Powered Food Delivery Routing
 
-Prompt 17 — AI-Powered Food Delivery Routing
+`Backstory:`
 
-Backstory:
+`You run a food delivery service in Pune that partners with 200+ restaurants. Delays often occur because orders are assigned based on distance alone, without considering prep time or kitchen delays. This results in riders arriving too early or too late, lowering customer satisfaction. You want a smart dispatch system that factors in restaurant preparation time along with delivery route optimisation.`
 
-You run a food delivery service in Pune that partners with 200+ restaurants. Delays often occur because orders are assigned based on distance alone, without considering prep time or kitchen delays. This results in riders arriving too early or too late, lowering customer satisfaction. You want a smart dispatch system that factors in restaurant preparation time along with delivery route optimisation.
+`Goal:`
 
-Goal:
+`Create a delivery assignment and routing system that aligns pickup timing with food readiness.`
 
-Create a delivery assignment and routing system that aligns pickup timing with food readiness.
+`Prompt:`
 
-Prompt:
-
-"You are a FoodTech Logistics Expert. Design an AI-powered delivery routing model for Pune:
-
+`"You are a FoodTech Logistics Expert. Design an AI-powered delivery routing model for Pune:`
+```
 1. Match riders to orders based on both location and estimated preparation time.
 
 2. Sequence multiple deliveries for the same rider in optimal order.
@@ -1561,9 +1561,9 @@ Prompt:
 4. Reduce rider wait times at pickup points.
 
 5. Monitor delivery ETA accuracy and improve continuously."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Restaurant locations and prep time averages
 
 2. Rider GPS locations and capacity
@@ -1573,21 +1573,21 @@ Inputs Required:
 4. Traffic patterns by zone
 
 5. Restaurant integration capability
+```
+## Prompt 18 — Heavy Equipment Transport Scheduling
 
-Prompt 18 — Heavy Equipment Transport Scheduling
+`Backstory:`
 
-Backstory:
+`Your construction logistics firm in Gujarat moves large cranes, bulldozers, and cement mixers between project sites. These vehicles require special permits and escorts, and some roads are off-limits due to weight restrictions. Poor planning often leads to rescheduling and fines. You need a compliance-first routing plan that ensures legal clearance while optimising travel distance and escort resource allocation.`
 
-Your construction logistics firm in Gujarat moves large cranes, bulldozers, and cement mixers between project sites. These vehicles require special permits and escorts, and some roads are off-limits due to weight restrictions. Poor planning often leads to rescheduling and fines. You need a compliance-first routing plan that ensures legal clearance while optimising travel distance and escort resource allocation.
+`Goal:
 
-Goal:
+`Plan compliant and efficient heavy equipment transport routes.`
 
-Plan compliant and efficient heavy equipment transport routes.
+`Prompt:`
 
-Prompt:
-
-"You are a Heavy Transport Planner. Create a movement schedule for large construction equipment in Gujarat: 
-
+`"You are a Heavy Transport Planner. Create a movement schedule for large construction equipment in Gujarat: `
+```
 1. Identify legal routes and secure permits in advance. 
 
 2. Allocate escort vehicles efficiently. 
@@ -1597,9 +1597,9 @@ Prompt:
 4. Factor in bridge load limits and restricted zones. 
 
 5. Include a contingency plan for rerouting in emergencies."
-
-Inputs Required: 
-
+```
+`Inputs Required: `
+```
 1. Equipment dimensions and weight 
 
 2. Pickup and drop locations 
@@ -1609,21 +1609,21 @@ Inputs Required:
 4. Escort vehicle availability 
 
 5. Permit approval timelines
+```
+## Prompt 19 — Urban E-Bike Courier Network
 
-Prompt 19 — Urban E-Bike Courier Network
+`Backstory:`
 
-Backstory:
+`Your startup in Chennai uses electric bikes for last-mile delivery. The challenge is optimising battery usage while covering maximum orders per trip. Riders sometimes run low on charge before completing all deliveries, causing delays and reroutes. You need a system that plans routes according to both delivery clusters and battery capacity.`
 
-Your startup in Chennai uses electric bikes for last-mile delivery. The challenge is optimising battery usage while covering maximum orders per trip. Riders sometimes run low on charge before completing all deliveries, causing delays and reroutes. You need a system that plans routes according to both delivery clusters and battery capacity.
+`Goal:`
 
-Goal:
+`Optimise e-bike delivery routes for battery efficiency and speed.`
 
-Optimise e-bike delivery routes for battery efficiency and speed.
+`Prompt:`
 
-Prompt:
-
-"You are a Sustainable Logistics Planner. Create a delivery plan for e-bike couriers in Chennai:
-
+`"You are a Sustainable Logistics Planner. Create a delivery plan for e-bike couriers in Chennai:`
+```
 1. Assign routes based on battery charge range.
 
 2. Include nearby charging stations for mid-shift top-ups.
@@ -1633,9 +1633,9 @@ Prompt:
 4. Track energy consumption patterns for optimisation.
 
 5. Provide riders with live recharging alerts."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Battery range per bike
 
 2. Charging station locations
@@ -1645,21 +1645,21 @@ Inputs Required:
 4. Rider shift schedules
 
 5. Average traffic speed per route
+```
+## Prompt 20 — Multi-Warehouse Dispatch Planning
 
-Prompt 20 — Multi-Warehouse Dispatch Planning
+`Backstory:`
 
-Backstory:
+`You operate an online furniture store with warehouses in Jaipur, Udaipur, and Kota. Orders are sometimes shipped from farther warehouses due to inventory mismatches, increasing delivery costs. You want a dispatch logic that selects the best warehouse for each order while still meeting delivery time commitments.`
 
-You operate an online furniture store with warehouses in Jaipur, Udaipur, and Kota. Orders are sometimes shipped from farther warehouses due to inventory mismatches, increasing delivery costs. You want a dispatch logic that selects the best warehouse for each order while still meeting delivery time commitments.
+`Goal:`
 
-Goal:
+`Create a warehouse-aware routing and dispatch plan to reduce cost and delivery time.`
 
-Create a warehouse-aware routing and dispatch plan to reduce cost and delivery time.
+`Prompt:`
 
-Prompt:
-
-"You are a Warehouse Dispatch Strategist. Build a multi-warehouse delivery plan for Rajasthan:
-
+`"You are a Warehouse Dispatch Strategist. Build a multi-warehouse delivery plan for Rajasthan:`
+```
 1. Assign orders to the nearest warehouse with available stock.
 
 2. Optimise truck loading to combine multiple area deliveries.
@@ -1669,9 +1669,9 @@ Prompt:
 4. Track inter-warehouse transfer requirements.
 
 5. Provide daily cost and efficiency reports."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Warehouse locations and stock levels
 
 2. Order delivery addresses and deadlines
@@ -1681,21 +1681,21 @@ Inputs Required:
 4. Transfer timelines between warehouses
 
 5. Cost per km for transport
+```
+## Prompt 21 — Cold Chain Delivery Route Planning
 
-Prompt 21 — Cold Chain Delivery Route Planning
+`Backstory:`
 
-Backstory:
+`You manage cold chain logistics for a dairy products company in Punjab. Deliveries must maintain a temperature of 4°C or below, and vehicle refrigeration systems consume extra fuel. Poor route planning leads to delays, risking spoilage and wastage. You need an optimised cold chain routing plan that minimises travel time and ensures temperature compliance.`
 
-You manage cold chain logistics for a dairy products company in Punjab. Deliveries must maintain a temperature of 4°C or below, and vehicle refrigeration systems consume extra fuel. Poor route planning leads to delays, risking spoilage and wastage. You need an optimised cold chain routing plan that minimises travel time and ensures temperature compliance.
+`Goal:`
 
-Goal:
+`Design a cold chain delivery route that preserves product integrity.`
 
-Design a cold chain delivery route that preserves product integrity.
+`Prompt:`
 
-Prompt:
-
-"You are a Cold Chain Logistics Specialist. Plan delivery routes for dairy products in Punjab:
-
+`"You are a Cold Chain Logistics Specialist. Plan delivery routes for dairy products in Punjab:`
+```
 1. Prioritise high-risk perishables for earliest delivery.
 
 2. Minimise idle time with refrigeration on.
@@ -1705,9 +1705,9 @@ Prompt:
 4. Include sensor-based alerts for temperature breaches.
 
 5. Track fuel consumption vs. delivery efficiency."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Vehicle refrigeration capacity
 
 2. Product type and temperature requirements
@@ -1717,21 +1717,21 @@ Inputs Required:
 4. Fuel consumption rates
 
 5. Ambient temperature forecast
+```
+## Prompt 22 — Postal Service Route Digitisation
 
-Prompt 22 — Postal Service Route Digitisation
+`Backstory:`
 
-Backstory:
+`A government postal service in Kerala wants to modernise its daily route assignments. Current paper-based route planning does not adapt to changing workloads, leading to overburdened postmen in some zones. You need to create a digital route assignment tool that automatically adjusts workloads in real time.`
 
-A government postal service in Kerala wants to modernise its daily route assignments. Current paper-based route planning does not adapt to changing workloads, leading to overburdened postmen in some zones. You need to create a digital route assignment tool that automatically adjusts workloads in real time.
+`Goal:`
 
-Goal:
+`Digitise and optimise postal delivery route allocation.`
 
-Digitise and optimise postal delivery route allocation.
+`Prompt:`
 
-Prompt:
-
-"You are a Postal Route Optimisation Expert. Design a digital route planning tool for Kerala’s postal service:
-
+`"You are a Postal Route Optimisation Expert. Design a digital route planning tool for Kerala’s postal service:`
+```
 1. Map zones and delivery points digitally.
 
 2. Auto-adjust assignments based on daily volume.
@@ -1741,9 +1741,9 @@ Prompt:
 4. Allow mobile app access for postmen to track routes.
 
 5. Maintain historical route efficiency data."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Delivery addresses and volume per zone
 
 2. Staff availability
@@ -1753,21 +1753,21 @@ Inputs Required:
 4. GPS mapping data
 
 5. Device availability for staff
+```
+## Prompt 23 — B2B Wholesale Distribution Planning
 
-Prompt 23 — B2B Wholesale Distribution Planning
+`Backstory:`
 
-Backstory:
+`You run a wholesale FMCG distribution network in Gujarat supplying over 300 retailers weekly. Some retailers order only once a week, while others order daily. Sending the same route daily wastes resources. You want a frequency-based route plan that schedules deliveries according to retailer order patterns.`
 
-You run a wholesale FMCG distribution network in Gujarat supplying over 300 retailers weekly. Some retailers order only once a week, while others order daily. Sending the same route daily wastes resources. You want a frequency-based route plan that schedules deliveries according to retailer order patterns.
+`Goal:`
 
-Goal:
+`Create a variable-frequency delivery schedule that maximises resource use.`
 
-Create a variable-frequency delivery schedule that maximises resource use.
+`Prompt:`
 
-Prompt:
-
-"You are a Wholesale Distribution Planner. Build a delivery plan for FMCG products in Gujarat:
-
+`"You are a Wholesale Distribution Planner. Build a delivery plan for FMCG products in Gujarat:`
+```
 1. Assign high-frequency retailers to daily routes.
 
 2. Schedule low-frequency clients on fixed days.
@@ -1777,9 +1777,9 @@ Prompt:
 4. Minimise empty truck space.
 
 5. Provide route cost-per-delivery analysis."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Retailer order frequency and volume
 
 2. Delivery address clusters
@@ -1789,21 +1789,21 @@ Inputs Required:
 4. Historical delivery times
 
 5. Cost metrics
-
+```
 Prompt 24 — Event Equipment Logistics Planning
 
-Backstory:
+`Backstory:`
 
-You operate a logistics firm that supplies staging, lighting, and audio equipment for events in Goa. Events often require equipment to be delivered at specific times for setup, sometimes late at night. Current routing causes delays, and drivers sometimes arrive before venues are ready. You need a time-sensitive delivery plan that aligns with event schedules.
+`You operate a logistics firm that supplies staging, lighting, and audio equipment for events in Goa. Events often require equipment to be delivered at specific times for setup, sometimes late at night. Current routing causes delays, and drivers sometimes arrive before venues are ready. You need a time-sensitive delivery plan that aligns with event schedules.`
 
-Goal:
+`Goal:`
 
-Synchronise event equipment delivery with venue readiness.
+`Synchronise event equipment delivery with venue readiness.`
 
-Prompt:
+`Prompt:`
 
-"You are an Event Logistics Coordinator. Create a delivery schedule for event equipment in Goa:
-
+`"You are an Event Logistics Coordinator. Create a delivery schedule for event equipment in Goa:`
+```
 1. Match delivery arrival with venue setup readiness.
 
 2. Factor in multiple event deliveries in a single night.
@@ -1813,9 +1813,9 @@ Prompt:
 4. Minimise overtime driver hours.
 
 5. Track delivery punctuality for each client."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Event locations and setup timelines
 
 2. Equipment size and load requirements
@@ -1825,21 +1825,21 @@ Inputs Required:
 4. Venue access restrictions
 
 5. Traffic patterns for event hours
+```
+## Prompt 25 — Cross-Border E-Commerce Delivery
 
-Prompt 25 — Cross-Border E-Commerce Delivery
+`Backstory:`
 
-Backstory:
+`You manage cross-border deliveries from India to Nepal for an e-commerce marketplace. Customs clearance delays and varying road conditions cause unpredictable delivery times. You want a route and scheduling system that accounts for border wait times and provides accurate ETAs to customers.`
 
-You manage cross-border deliveries from India to Nepal for an e-commerce marketplace. Customs clearance delays and varying road conditions cause unpredictable delivery times. You want a route and scheduling system that accounts for border wait times and provides accurate ETAs to customers.
+`Goal:`
 
-Goal:
+`Plan cross-border e-commerce delivery routes with accurate ETAs.`
 
-Plan cross-border e-commerce delivery routes with accurate ETAs.
+`Prompt:`
 
-Prompt:
-
-"You are a Cross-Border Logistics Specialist. Develop a delivery plan from India to Nepal:
-
+`"You are a Cross-Border Logistics Specialist. Develop a delivery plan from India to Nepal:`
+```
 1. Include average customs clearance times in ETA calculations.
 
 2. Select routes with best road conditions for heavy loads.
@@ -1849,9 +1849,9 @@ Prompt:
 4. Provide real-time updates to customers on delays.
 
 5. Track performance against promised ETAs."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Origin and destination cities
 
 2. Customs processing times
@@ -1861,9 +1861,9 @@ Inputs Required:
 4. Vehicle type and load
 
 5. Delivery priority list
+```
 
-
-Inventory tracking sheets
+# Inventory tracking sheets
 
 Prompt 1 — Automated Inventory Restocking for FMCG
 
