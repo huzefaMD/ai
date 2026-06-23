@@ -1142,20 +1142,20 @@
 
 5. Priority orders list
 ```
-Prompt 6 — Hyperlocal Pharmacy Delivery Scheduling
+## Prompt 6 — Hyperlocal Pharmacy Delivery Scheduling
 
-Backstory:
+`Backstory:`
 
-You run a chain of 8 pharmacies in Chennai offering 2-hour delivery for medicines within a 6 km radius. Many orders are urgent (e.g., diabetic medications), while others are routine refills. Currently, your riders follow a first-come, first-served approach, which leads to urgent orders sometimes being delayed. You want a route and schedule plan that prioritises urgent deliveries while still batching nearby orders for efficiency.
+`You run a chain of 8 pharmacies in Chennai offering 2-hour delivery for medicines within a 6 km radius. Many orders are urgent (e.g., diabetic medications), while others are routine refills. Currently, your riders follow a first-come, first-served approach, which leads to urgent orders sometimes being delayed. You want a route and schedule plan that prioritises urgent deliveries while still batching nearby orders for efficiency.`
 
-Goal:
+`Goal:`
 
-Create a hyperlocal delivery schedule for pharmacies that prioritises urgency while minimising travel time.
+`Create a hyperlocal delivery schedule for pharmacies that prioritises urgency while minimising travel time.`
 
-Prompt:
+`Prompt:`
 
-"You are a Hyperlocal Delivery Planner. Design a 2-hour delivery routing system for 8 pharmacies in Chennai:
-
+`"You are a Hyperlocal Delivery Planner. Design a 2-hour delivery routing system for 8 pharmacies in Chennai:`
+```
 1. Prioritise urgent prescriptions over routine deliveries.
 
 2. Batch orders from the same locality to save travel time.
@@ -1165,9 +1165,9 @@ Prompt:
 4. Provide alternate riders in case of delays or unavailability.
 
 5. Include a real-time tracking dashboard for pharmacy managers."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Pharmacy locations & service radius
 
 2. Urgent vs. routine order classification
@@ -1177,21 +1177,21 @@ Inputs Required:
 4. Delivery address list with GPS coordinates
 
 5. Average delivery times per zone
+```
+## Prompt 7 — Cold Chain Delivery Scheduling for Perishables
 
-Prompt 7 — Cold Chain Delivery Scheduling for Perishables
+`Backstory:`
 
-Backstory:
+`You operate a cold chain logistics business in Pune, delivering perishable goods like dairy, seafood, and fresh produce to supermarkets, restaurants, and hotels. Your refrigerated trucks must maintain specific temperature ranges, and every hour of delay risks spoilage. Current routes are planned manually, leading to inefficiencies when there’s unexpected traffic or a last-minute high-priority delivery. You need an optimised plan that considers delivery deadlines, product sensitivity, and shortest travel paths while maintaining temperature control.`
 
-You operate a cold chain logistics business in Pune, delivering perishable goods like dairy, seafood, and fresh produce to supermarkets, restaurants, and hotels. Your refrigerated trucks must maintain specific temperature ranges, and every hour of delay risks spoilage. Current routes are planned manually, leading to inefficiencies when there’s unexpected traffic or a last-minute high-priority delivery. You need an optimised plan that considers delivery deadlines, product sensitivity, and shortest travel paths while maintaining temperature control.
+`Goal:`
 
-Goal:
+`Develop an optimised cold chain delivery schedule that ensures timely deliveries while preserving product quality.`
 
-Develop an optimised cold chain delivery schedule that ensures timely deliveries while preserving product quality.
+`Prompt:`
 
-Prompt:
-
-"You are a Cold Chain Logistics Expert. Create a delivery plan for refrigerated trucks in Pune:
-
+`"You are a Cold Chain Logistics Expert. Create a delivery plan for refrigerated trucks in Pune:`
+```
 1. Prioritise perishable goods based on shelf life and urgency.
 
 2. Group deliveries geographically to minimise travel time.
@@ -1201,9 +1201,9 @@ Prompt:
 4. Schedule temperature checks at every delivery point.
 
 5. Include contingency plans for vehicle breakdowns or route closures."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. List of delivery addresses with deadlines
 
 2. Product category & temperature requirements
@@ -1213,21 +1213,21 @@ Inputs Required:
 4. Real-time traffic data access
 
 5. Priority customer list
+```
+## Prompt 8 — Multi-City Fleet Route Coordination
 
-Prompt 8 — Multi-City Fleet Route Coordination
+`Backstory:`
 
-Backstory:
+`You manage a fleet of 50 trucks transporting goods between Bengaluru, Chennai, and Hyderabad. Each city has its own delivery schedule, but sometimes routes overlap unnecessarily, increasing fuel costs. Additionally, overnight layovers add expenses for driver accommodations. You want a route plan that coordinates trips across cities, reduces redundancy, and schedules deliveries in a way that maximises vehicle usage while keeping driver shifts compliant with labour laws.`
 
-You manage a fleet of 50 trucks transporting goods between Bengaluru, Chennai, and Hyderabad. Each city has its own delivery schedule, but sometimes routes overlap unnecessarily, increasing fuel costs. Additionally, overnight layovers add expenses for driver accommodations. You want a route plan that coordinates trips across cities, reduces redundancy, and schedules deliveries in a way that maximises vehicle usage while keeping driver shifts compliant with labour laws.
+`Goal:`
 
-Goal:
+`Create an intercity fleet schedule that maximises efficiency and reduces costs.`
 
-Create an intercity fleet schedule that maximises efficiency and reduces costs.
+`Prompt:`
 
-Prompt:
-
-"You are a Fleet Operations Strategist. Create a coordinated delivery schedule for 50 trucks operating between Bengaluru, Chennai, and Hyderabad:
-
+`"You are a Fleet Operations Strategist. Create a coordinated delivery schedule for 50 trucks operating between Bengaluru, Chennai, and Hyderabad:`
+```
 1. Assign routes to avoid overlapping paths.
 
 2. Coordinate delivery and pickup schedules to enable round trips.
@@ -1237,9 +1237,9 @@ Prompt:
 4. Allocate deliveries to match truck capacity and load type.
 
 5. Provide a cost comparison between current and optimised plans."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. City-to-city delivery requirements
 
 2. Vehicle capacities and availability
@@ -1249,21 +1249,21 @@ Inputs Required:
 4. Driver shift limitations
 
 5. Fuel and accommodation cost data
+```
+## Prompt 9 — Last-Mile Delivery Optimisation for Rural Areas
 
-Prompt 9 — Last-Mile Delivery Optimisation for Rural Areas
+`Backstory:`
 
-Backstory:
+`Your logistics company is expanding into rural Maharashtra, where road infrastructure is inconsistent and GPS coverage is poor. Deliveries often require drivers to navigate small lanes or unmarked roads. Current routing methods fail in these areas, leading to missed deliveries and return-to-origin costs. You need a route optimisation system that incorporates local knowledge, offline mapping, and driver coordination for effective last-mile deliveries.`
 
-Your logistics company is expanding into rural Maharashtra, where road infrastructure is inconsistent and GPS coverage is poor. Deliveries often require drivers to navigate small lanes or unmarked roads. Current routing methods fail in these areas, leading to missed deliveries and return-to-origin costs. You need a route optimisation system that incorporates local knowledge, offline mapping, and driver coordination for effective last-mile deliveries.
+`Goal:`
 
-Goal:
+`Design a rural delivery routing plan that minimises delays and maximises delivery success rates.`
 
-Design a rural delivery routing plan that minimises delays and maximises delivery success rates.
+`Prompt:`
 
-Prompt:
-
-"You are a Rural Logistics Planner. Design a last-mile delivery system for rural Maharashtra:
-
+`"You are a Rural Logistics Planner. Design a last-mile delivery system for rural Maharashtra:`
+```
 1. Incorporate offline GPS mapping and locally sourced route data.
 
 2. Assign drivers based on familiarity with specific villages.
@@ -1273,9 +1273,9 @@ Prompt:
 4. Schedule buffer time for difficult-to-reach areas.
 
 5. Include backup delivery arrangements in case of road closures or bad weather."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Rural delivery locations with map coordinates (if available)
 
 2. Vehicle types suitable for rural terrain
@@ -1285,21 +1285,21 @@ Inputs Required:
 4. Delivery deadlines and urgency
 
 5. Weather forecast patterns
+```
+## Prompt 10 — Priority Medical Supply Transport
 
-Prompt 10 — Priority Medical Supply Transport
+`Backstory:`
 
-Backstory:
+`You manage emergency logistics for a hospital network in Delhi that frequently needs to move critical medical supplies such as blood units, oxygen cylinders, and transplant organs between facilities. Delays can cost lives, but the routes often cross congested traffic zones. Current dispatch methods do not differentiate between critical and non-critical medical items, causing slower response times. You want a priority-based transport system that guarantees fastest delivery for life-saving cargo.`
 
-You manage emergency logistics for a hospital network in Delhi that frequently needs to move critical medical supplies such as blood units, oxygen cylinders, and transplant organs between facilities. Delays can cost lives, but the routes often cross congested traffic zones. Current dispatch methods do not differentiate between critical and non-critical medical items, causing slower response times. You want a priority-based transport system that guarantees fastest delivery for life-saving cargo.
+`Goal:`
 
-Goal:
+`Design an emergency medical transport routing plan that guarantees minimum delivery times for critical supplies.`
 
-Design an emergency medical transport routing plan that guarantees minimum delivery times for critical supplies.
+`Prompt:`
 
-Prompt:
-
-"You are an Emergency Medical Logistics Planner. Develop a routing system for critical medical supplies in Delhi:
-
+`"You are an Emergency Medical Logistics Planner. Develop a routing system for critical medical supplies in Delhi:`
+```
 1. Categorise deliveries based on urgency and medical priority.
 
 2. Create fast-track routes with traffic police coordination.
@@ -1309,9 +1309,9 @@ Prompt:
 4. Integrate live traffic data for real-time rerouting.
 
 5. Include post-delivery reports for compliance and quality checks."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. List of hospitals & coordinates
 
 2. Item urgency classification
@@ -1321,7 +1321,7 @@ Inputs Required:
 4. Traffic pattern data
 
 5. Delivery time goals for each urgency level
-
+```
 Prompt 11 — Shared Ride Parcel Deliveries
 
 Backstory:
