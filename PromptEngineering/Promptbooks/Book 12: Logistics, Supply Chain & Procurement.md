@@ -3696,28 +3696,28 @@ Customs & export documentation
 
 4. Consignee details
 ```
-Prompt 6 — Export License Application Guide
+## Prompt 6 — Export License Application Guide
 
-Backstory:
+`Backstory:`
 
-A pharmaceutical exporter received a large overseas order but is unsure about the required export licenses and permits for regulated products. Delays in licensing could cost them the deal.
+`A pharmaceutical exporter received a large overseas order but is unsure about the required export licenses and permits for regulated products. Delays in licensing could cost them the deal.`
 
-Goal:
+`Goal:`
 
-Guide the exporter through the license application process.
+`Guide the exporter through the license application process.`
 
-Prompt:
+`Prompt:`
 
-"You are an Export Licensing Consultant. Outline the complete process for obtaining export licenses for pharmaceutical products from India to the UK.
-
+`"You are an Export Licensing Consultant. Outline the complete process for obtaining export licenses for pharmaceutical products from India to the UK.`
+```
 1. Include timelines, costs, and authorities involved.
 
 2. Highlight mandatory compliance checks.
 
 3. Suggest ways to expedite the process."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Product description and HS code
 
 2. Destination country
@@ -3725,29 +3725,29 @@ Inputs Required:
 3. Company registration and licensing history
 
 4. Intended export volume and frequency
+```
+## Prompt 7 — Digital Customs Filing Process
 
-Prompt 7 — Digital Customs Filing Process
+`Backstory:`
 
-Backstory:
+`An exporter is transitioning to electronic filing for customs clearance but finds the online portals confusing and error-prone. They want a detailed guide for smooth digital submissions.`
 
-An exporter is transitioning to electronic filing for customs clearance but finds the online portals confusing and error-prone. They want a detailed guide for smooth digital submissions.
+`Goal:`
 
-Goal:
+`Explain the digital customs filing process for exports.`
 
-Explain the digital customs filing process for exports.
+`Prompt:`
 
-Prompt:
-
-"You are a Digital Trade Process Expert. Create a detailed, screenshot-supported guide for filing export declarations online via ICEGATE (India Customs).
-
+`"You are a Digital Trade Process Expert. Create a detailed, screenshot-supported guide for filing export declarations online via ICEGATE (India Customs).`
+```
 1. Include step-by-step navigation instructions.
 
 2. Highlight required document uploads.
 
 3. Explain common error messages and fixes."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Exporter registration ID
 
 2. HS codes and product details
@@ -3755,29 +3755,29 @@ Inputs Required:
 3. Chosen port of export
 
 4. Mode of transport
+```
+## Prompt 8 — Pre-Shipment Inspection Report Preparation
 
-Prompt 8 — Pre-Shipment Inspection Report Preparation
+`Backstory:`
 
-Backstory:
+`A furniture exporter shipping to Australia must provide a pre-shipment inspection report from a recognized agency to comply with import rules.`
 
-A furniture exporter shipping to Australia must provide a pre-shipment inspection report from a recognized agency to comply with import rules.
+`Goal:`
 
-Goal:
+`Guide the preparation and completion of a pre-shipment inspection report.`
 
-Guide the preparation and completion of a pre-shipment inspection report.
+`Prompt:`
 
-Prompt:
-
-"You are a Quality & Compliance Specialist. Outline how to arrange and complete a pre-shipment inspection report for furniture exports to Australia.
-
+`"You are a Quality & Compliance Specialist. Outline how to arrange and complete a pre-shipment inspection report for furniture exports to Australia.`
+```
 1. List recognized inspection agencies.
 
 2. Mention key elements the report must include.
 
 3. Suggest ways to coordinate with inspectors to avoid delays."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Product details and HS codes
 
 2. Destination country requirements
@@ -3785,29 +3785,29 @@ Inputs Required:
 3. Chosen inspection agency
 
 4. Shipment readiness date
+```
+## Prompt 9 — Export Duty Calculation Tool
 
-Prompt 9 — Export Duty Calculation Tool
+`Backstory:`
 
-Backstory:
+`An auto parts exporter often underestimates customs duties in quotes, leading to reduced profit margins. They need a reliable method to calculate export duties for various countries.`
 
-An auto parts exporter often underestimates customs duties in quotes, leading to reduced profit margins. They need a reliable method to calculate export duties for various countries.
+`Goal:`
 
-Goal:
+`Provide a duty calculation framework for exporters.`
 
-Provide a duty calculation framework for exporters.
+`Prompt:`
 
-Prompt:
-
-"You are a Trade Tariff Analyst. Create a simple tool or framework for calculating customs duties for Indian auto parts exports.
-
+`"You are a Trade Tariff Analyst. Create a simple tool or framework for calculating customs duties for Indian auto parts exports.`
+```
 1. Include base duty, surcharges, and preferential rates.
 
 2. Explain how to look up rates in the destination country’s tariff database.
 
 3. Provide examples for key export markets."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. HS codes for all products
 
 2. Destination country
@@ -3815,29 +3815,29 @@ Inputs Required:
 3. Mode of shipment
 
 4. Trade agreements applicable
+```
+## Prompt 10 — Export Compliance Risk Assessment
 
-Prompt 10 — Export Compliance Risk Assessment
+`Backstory:`
 
-Backstory:
+`A textile exporter has expanded into new markets without fully understanding each country’s compliance requirements, risking shipment holds.`
 
-A textile exporter has expanded into new markets without fully understanding each country’s compliance requirements, risking shipment holds.
+`Goal:`
 
-Goal:
+`Assess and mitigate export compliance risks.`
 
-Assess and mitigate export compliance risks.
+`Prompt:`
 
-Prompt:
-
-"You are an International Trade Risk Consultant. Prepare a compliance risk assessment for an Indian textile exporter.
-
+`"You are an International Trade Risk Consultant. Prepare a compliance risk assessment for an Indian textile exporter.`
+```
 1. Identify potential customs or documentation risks for each market.
 
 2. Rank risks by likelihood and severity.
 
 3. Suggest preventive measures for top risks."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Export market list
 
 2. Product descriptions and HS codes
@@ -3845,29 +3845,29 @@ Inputs Required:
 3. Past compliance issues
 
 4. Export volumes per market
+```
+## Prompt 11 — Importer Security Filing (ISF) for US Shipments
 
-Prompt 11 — Importer Security Filing (ISF) for US Shipments
+`Backstory:`
 
-Backstory:
+`An Indian marble exporter sending goods to the US is confused about the “10+2” ISF requirements. Missing deadlines could result in hefty fines, so they need clear guidance on what to file, when, and how.`
 
-An Indian marble exporter sending goods to the US is confused about the “10+2” ISF requirements. Missing deadlines could result in hefty fines, so they need clear guidance on what to file, when, and how.
+`Goal:`
 
-Goal:
+`Prepare a step-by-step guide for ISF compliance.`
 
-Prepare a step-by-step guide for ISF compliance.
+`Prompt:`
 
-Prompt:
-
-"You are a US Customs Compliance Advisor. Provide a complete guide for preparing and submitting the Importer Security Filing for goods exported from India to the US.
-
+`"You are a US Customs Compliance Advisor. Provide a complete guide for preparing and submitting the Importer Security Filing for goods exported from India to the US.`
+```
 1. Include data elements required.
 
 2. Specify deadlines and penalties for delays.
 
 3. Provide a sample ISF form with explanations."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Exporter details
 
 2. Product details and HS codes
@@ -3875,29 +3875,29 @@ Inputs Required:
 3. US consignee details
 
 4. Shipment schedule
+```
+## Prompt 12 — Dangerous Goods Declaration
 
-Prompt 12 — Dangerous Goods Declaration
+`Backstory:`
 
-Backstory:
+`A chemical exporter to Southeast Asia must comply with IMO regulations and file a Dangerous Goods Declaration. They’ve faced multiple shipment rejections due to incomplete declarations.`
 
-A chemical exporter to Southeast Asia must comply with IMO regulations and file a Dangerous Goods Declaration. They’ve faced multiple shipment rejections due to incomplete declarations.
+`Goal:`
 
-Goal:
+`Create a compliant Dangerous Goods Declaration template.`
 
-Create a compliant Dangerous Goods Declaration template.
+`Prompt:`
 
-Prompt:
-
-"You are a Hazardous Cargo Compliance Specialist. Design a Dangerous Goods Declaration form for chemical exports from India.
-
+`"You are a Hazardous Cargo Compliance Specialist. Design a Dangerous Goods Declaration form for chemical exports from India.`
+```
 1. Include all IMO/IMDG code requirements.
 
 2. Provide guidance on correct labeling and packaging.
 
 3. Offer tips to reduce inspection failures."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Product chemical composition
 
 2. UN number and hazard classification
@@ -3905,29 +3905,29 @@ Inputs Required:
 3. Packaging details
 
 4. Destination country
+```
+## Prompt 13 — Letter of Credit Documentation Checklist
 
-Prompt 13 — Letter of Credit Documentation Checklist
+`Backstory:`
 
-Backstory:
+`An engineering goods exporter receives payment via letter of credit but often struggles with matching documents to the LC terms, risking non-payment.`
 
-An engineering goods exporter receives payment via letter of credit but often struggles with matching documents to the LC terms, risking non-payment.
+`Goal:`
 
-Goal:
+`Create a documentation checklist for LC compliance.`
 
-Create a documentation checklist for LC compliance.
+`Prompt:`
 
-Prompt:
-
-"You are a Trade Finance Documentation Expert. Prepare a checklist for aligning export documents with a buyer’s LC terms.
-
+`"You are a Trade Finance Documentation Expert. Prepare a checklist for aligning export documents with a buyer’s LC terms.`
+```
 1. List common LC document requirements.
 
 2. Provide tips to avoid discrepancies.
 
 3. Suggest a document review timeline before submission."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Copy of LC terms
 
 2. Product and shipment details
@@ -3935,29 +3935,29 @@ Inputs Required:
 3. Bank details
 
 4. Buyer’s documentation preferences
+```
+## Prompt 14 — ATA Carnet Preparation Guide
 
-Prompt 14 — ATA Carnet Preparation Guide
+`Backstory:`
 
-Backstory:
+`An events company is temporarily exporting exhibition goods to Dubai and wants to use an ATA Carnet to simplify customs clearance.`
 
-An events company is temporarily exporting exhibition goods to Dubai and wants to use an ATA Carnet to simplify customs clearance.
+`Goal:`
 
-Goal:
+`Guide preparation and use of an ATA Carnet.`
 
-Guide preparation and use of an ATA Carnet.
+`Prompt:`
 
-Prompt:
-
-"You are a Temporary Export Documentation Consultant. Create a complete ATA Carnet preparation and usage guide for Indian exporters. 
-
+`"You are a Temporary Export Documentation Consultant. Create a complete ATA Carnet preparation and usage guide for Indian exporters. `
+```
 1. Include application steps and authorities. 
 
 2. List goods eligible under ATA Carnet. 
 
 3. Provide best practices for re-importation."
-
-Inputs Required: 
-
+```
+`Inputs Required: `
+```
 1. List of goods for temporary export 
 
 2. Destination country 
@@ -3965,29 +3965,29 @@ Inputs Required:
 3. Event dates 
 
 4. Applicant’s company details
+```
+## Prompt 15 — Export Health Certificate for Food Products
 
-Prompt 15 — Export Health Certificate for Food Products
+`Backstory:`
 
-Backstory:
+`A dairy exporter to Singapore needs a health certificate issued by Indian authorities to meet the importing country’s food safety standards.`
 
-A dairy exporter to Singapore needs a health certificate issued by Indian authorities to meet the importing country’s food safety standards.
+`Goal:`
 
-Goal:
+`Provide steps for obtaining an export health certificate.`
 
-Provide steps for obtaining an export health certificate.
+`Prompt:`
 
-Prompt:
-
-"You are a Food Export Compliance Advisor. Outline the process to obtain an export health certificate for dairy products from India to Singapore.
-
+`"You are a Food Export Compliance Advisor. Outline the process to obtain an export health certificate for dairy products from India to Singapore.`
+```
 1. Include necessary lab testing.
 
 2. List recognized issuing authorities.
 
 3. Mention validity period and renewal steps."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Product details
 
 2. Destination country regulations
@@ -3995,29 +3995,29 @@ Inputs Required:
 3. Production facility address
 
 4. Lab testing results
+```
+## Prompt 16 — Export Permit Renewal Process
 
-Prompt 16 — Export Permit Renewal Process
+`Backstory:`
 
-Backstory:
+`An agro-commodity exporter holds a 1-year export permit but risks expiry in the middle of peak season. They want to renew well in advance.`
 
-An agro-commodity exporter holds a 1-year export permit but risks expiry in the middle of peak season. They want to renew well in advance.
+`Goal:`
 
-Goal:
+`Create a step-by-step permit renewal guide.`
 
-Create a step-by-step permit renewal guide.
+`Prompt:`
 
-Prompt:
-
-"You are a Government Licensing Liaison. Prepare a guide for renewing export permits in India without operational downtime.
-
+`"You are a Government Licensing Liaison. Prepare a guide for renewing export permits in India without operational downtime.`
+```
 1. Mention lead times for renewal.
 
 2. Include documents required.
 
 3. Suggest follow-up methods to avoid delays."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Current permit copy
 
 2. Product categories
@@ -4025,29 +4025,29 @@ Inputs Required:
 3. Export history for past year
 
 4. Destination markets
+```
+## Prompt 17 — Bill of Lading Accuracy Checklist
 
-Prompt 17 — Bill of Lading Accuracy Checklist
+`Backstory:`
 
-Backstory:
+`A machinery exporter faced demurrage charges when incorrect consignee details on the Bill of Lading delayed release at the port.`
 
-A machinery exporter faced demurrage charges when incorrect consignee details on the Bill of Lading delayed release at the port.
+`Goal:`
 
-Goal:
+`Provide a Bill of Lading accuracy checklist.`
 
-Provide a Bill of Lading accuracy checklist.
+`Prompt:`
 
-Prompt:
-
-"You are a Freight Documentation Specialist. Create a pre-shipment checklist to verify Bill of Lading accuracy for Indian exporters.
-
+`"You are a Freight Documentation Specialist. Create a pre-shipment checklist to verify Bill of Lading accuracy for Indian exporters.`
+```
 1. Include mandatory fields.
 
 2. Suggest a verification workflow.
 
 3. Highlight common causes of discrepancies."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Shipment booking details
 
 2. Consignee information
@@ -4055,29 +4055,29 @@ Inputs Required:
 3. Cargo description
 
 4. Port of loading and discharge
+```
+## Prompt 18 — Export Declaration Form Guidance
 
-Prompt 18 — Export Declaration Form Guidance
+`Backstory:`
 
-Backstory:
+`A jewelry exporter regularly files export declarations but struggles to keep up with changing requirements from Indian Customs.`
 
-A jewelry exporter regularly files export declarations but struggles to keep up with changing requirements from Indian Customs.
+`Goal:`
 
-Goal:
+`Provide updated export declaration guidelines.`
 
-Provide updated export declaration guidelines.
+`Prompt:`
 
-Prompt:
-
-"You are a Customs Declaration Expert. Provide a 2025-updated guide to filing the Export Declaration Form in India.
-
+`"You are a Customs Declaration Expert. Provide a 2025-updated guide to filing the Export Declaration Form in India.`
+```
 1. Include field-by-field explanations.
 
 2. Mention required supporting documents.
 
 3. Highlight recent changes in the form."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Exporter registration number
 
 2. HS codes
@@ -4085,29 +4085,29 @@ Inputs Required:
 3. Shipment value and currency
 
 4. Mode of transport
+```
+## Prompt 19 — Proforma Invoice for International Buyers
 
-Prompt 19 — Proforma Invoice for International Buyers
+`Backstory:`
 
-Backstory:
+`A furniture exporter is expanding into Europe and wants to issue professional, customs-friendly proforma invoices for new buyers.`
 
-A furniture exporter is expanding into Europe and wants to issue professional, customs-friendly proforma invoices for new buyers.
+`Goal:`
 
-Goal:
+`Create a proforma invoice template aligned with customs needs.`
 
-Create a proforma invoice template aligned with customs needs.
+`Prompt:`
 
-Prompt:
-
-"You are an Export Sales Documentation Expert. Design a proforma invoice template for Indian exporters to EU buyers.
-
+`"You are an Export Sales Documentation Expert. Design a proforma invoice template for Indian exporters to EU buyers.`
+```
 1. Include required trade terms.
 
 2. Suggest clear item descriptions.
 
 3. Provide a sample filled-in version."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Product details
 
 2. Buyer details
@@ -4115,29 +4115,29 @@ Inputs Required:
 3. Chosen Incoterms
 
 4. Payment terms
+```
+## Prompt 20 — Country-Specific Export Restrictions Guide
 
-Prompt 20 — Country-Specific Export Restrictions Guide
+`Backstory:`
 
-Backstory:
+`A technology exporter needs to understand export control laws in different countries to avoid shipping restricted products.`
 
-A technology exporter needs to understand export control laws in different countries to avoid shipping restricted products.
+`Goal:`
 
-Goal:
+`List export restrictions for target countries.`
 
-List export restrictions for target countries.
+`Prompt:`
 
-Prompt:
-
-"You are a Global Trade Compliance Analyst. Prepare a guide outlining export restrictions for Indian technology products in key markets.
-
+`"You are a Global Trade Compliance Analyst. Prepare a guide outlining export restrictions for Indian technology products in key markets.`
+```
 1. Include prohibited and restricted items.
 
 2. Mention required permits.
 
 3. Provide official resources for reference."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Product category and HS codes
 
 2. Target export markets
@@ -4145,29 +4145,29 @@ Inputs Required:
 3. Export frequency
 
 4. Previous compliance records
+```
+## Prompt 21 — Incoterms 2025 Documentation Checklist
 
-Prompt 21 — Incoterms 2025 Documentation Checklist
+`Backstory:`
 
-Backstory:
+`A first-time exporter agreed to DDP (Delivered Duty Paid) without understanding the additional documents and responsibilities involved.`
 
-A first-time exporter agreed to DDP (Delivered Duty Paid) without understanding the additional documents and responsibilities involved.
+`Goal:`
 
-Goal:
+`Provide an Incoterms-specific documentation checklist.`
 
-Provide an Incoterms-specific documentation checklist.
+`Prompt:`
 
-Prompt:
-
-"You are an International Logistics Trainer. Create a customs documentation checklist for exporters based on each Incoterm, focusing on DDP obligations.
-
+`"You are an International Logistics Trainer. Create a customs documentation checklist for exporters based on each Incoterm, focusing on DDP obligations.`
+```
 1. Include duties, permits, and licenses required.
 
 2. Explain cost responsibilities.
 
 3. Provide sample document flow charts."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Chosen Incoterm
 
 2. Product category
@@ -4175,29 +4175,29 @@ Inputs Required:
 3. Destination country
 
 4. Mode of transport
+```
+## Prompt 22 — Export Insurance Claim Documentation
 
-Prompt 22 — Export Insurance Claim Documentation
+`Backstory:`
 
-Backstory:
+`A textile exporter suffered water damage to goods in transit but couldn’t claim insurance due to missing documentation.`
 
-A textile exporter suffered water damage to goods in transit but couldn’t claim insurance due to missing documentation.
+`Goal:`
 
-Goal:
+`Create an insurance claim documentation guide.`
 
-Create an insurance claim documentation guide.
+`Prompt:`
 
-Prompt:
-
-"You are an Export Risk Mitigation Consultant. Outline all documents needed for a successful marine cargo insurance claim.
-
+`"You are an Export Risk Mitigation Consultant. Outline all documents needed for a successful marine cargo insurance claim.`
+```
 1. Provide a checklist for different claim types.
 
 2. Mention timelines for claim submission.
 
 3. Suggest methods for evidence collection."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Insurance policy details
 
 2. Nature of loss/damage
@@ -4205,29 +4205,29 @@ Inputs Required:
 3. Transport documents
 
 4. Incident reports
+```
+## Prompt 23 — Export Compliance SOP for SMEs
 
-Prompt 23 — Export Compliance SOP for SMEs
+`Backstory:`
 
-Backstory:
+`A small handicraft exporter wants to formalize their export compliance process to train new staff.`
 
-A small handicraft exporter wants to formalize their export compliance process to train new staff.
+`Goal:`
 
-Goal:
+`Create an export compliance SOP.`
 
-Create an export compliance SOP.
+`Prompt:`
 
-Prompt:
-
-"You are a Trade Compliance Process Designer. Draft a standard operating procedure for export compliance in SMEs.
-
+`"You are a Trade Compliance Process Designer. Draft a standard operating procedure for export compliance in SMEs`
+```
 1. Include step-by-step documentation flow.
 
 2. Assign roles and responsibilities.
 
 3. Suggest audit checkpoints."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Company size and team structure
 
 2. Export product range
@@ -4235,29 +4235,29 @@ Inputs Required:
 3. Key export markets
 
 4. Current compliance challenges
+```
+## Prompt 24 — Electronic Certificate of Origin (eCO) Filing
 
-Prompt 24 — Electronic Certificate of Origin (eCO) Filing
+`Backstory:`
 
-Backstory:
+`An auto parts exporter wants to switch from paper to electronic certificate filing to save time.`
 
-An auto parts exporter wants to switch from paper to electronic certificate filing to save time.
+`Goal:`
 
-Goal:
+`Provide an eCO filing guide.`
 
-Provide an eCO filing guide.
+`Prompt:`
 
-Prompt:
-
-"You are an International Trade Digitalization Specialist. Prepare a guide for filing an Electronic Certificate of Origin from India.
-
+`"You are an International Trade Digitalization Specialist. Prepare a guide for filing an Electronic Certificate of Origin from India.`
+```
 1. List online platforms and authorities.
 
 2. Explain step-by-step process.
 
 3. Mention potential rejection reasons and fixes."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Exporter ID
 
 2. HS codes
@@ -4265,29 +4265,29 @@ Inputs Required:
 3. Destination country
 
 4. Trade agreement applicability
+```
+## Prompt 25 — Export Document Archiving Policy
 
-Prompt 25 — Export Document Archiving Policy
+`Backstory:`
 
-Backstory:
+`A large exporter is facing an internal audit and needs a proper document storage policy to comply with legal retention requirements.`
 
-A large exporter is facing an internal audit and needs a proper document storage policy to comply with legal retention requirements.
+`Goal:`
 
-Goal:
+`Create an export document archiving policy.`
 
-Create an export document archiving policy.
+`Prompt:`
 
-Prompt:
-
-"You are a Trade Records Management Expert. Develop an archiving policy for export documents in line with Indian and international regulations.
-
+`"You are a Trade Records Management Expert. Develop an archiving policy for export documents in line with Indian and international regulations.`
+```
 1. Specify retention periods.
 
 2. Suggest digital archiving tools.
 
 3. Provide security and access guidelines."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Company size and export volume
 
 2. Document types handled
@@ -4295,3 +4295,4 @@ Inputs Required:
 3. Storage method (digital/physical)
 
 4. Legal requirements in target markets
+```
