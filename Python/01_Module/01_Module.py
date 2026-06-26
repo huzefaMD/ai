@@ -17,3 +17,9 @@ print()
 # print() multiple things separated by comma
 print("Score:", "Math", 95)
 # Output: Score: Math 95
+
+#Common Beginner Mistakes
+
+Print("Hello")Capital P is wrong → use lowercase print
+print(Hello)Missing quotes → use print("Hello")
+print("Hello')Mismatched quotes → both must match
