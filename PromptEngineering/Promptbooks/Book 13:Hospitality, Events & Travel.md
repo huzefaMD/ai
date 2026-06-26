@@ -2361,9 +2361,9 @@ Target audience: Indian and NRI luxury travelers aged 25–40."
 
 3. Brand colour scheme for post design
 ```
-Prompt 6 — Responding to a Positive Guest Review on TripAdvisor
+## Prompt 6 — Responding to a Positive Guest Review on TripAdvisor
 
-`Backstory:
+`Backstory:`
 
 `A beachfront resort in Varkala just received a glowing 5-star TripAdvisor review from a honeymoon couple praising the candlelight dinner setup, ocean views, and spa treatments. Management wants to reply publicly to strengthen their brand image.`
 
