@@ -22,18 +22,18 @@
 
 5. Accommodation details
 ```
-Prompt 2 — International Trade Expo
+## Prompt 2 — International Trade Expo
 
-Backstory: An Indian startup in the renewable energy sector is exhibiting at an international trade expo in Dubai. The goal is to generate leads, showcase new products, and network with potential investors. The company needs a planning checklist for booth setup, marketing materials, travel arrangements, and post-event follow-ups.
+`Backstory: An Indian startup in the renewable energy sector is exhibiting at an international trade expo in Dubai. The goal is to generate leads, showcase new products, and network with potential investors. The company needs a planning checklist for booth setup, marketing materials, travel arrangements, and post-event follow-ups.`
 
-Goal: Provide an end-to-end checklist for a successful international expo participation.
+`Goal: Provide an end-to-end checklist for a successful international expo participation.`
 
-Prompt:
+`Prompt:`
 
-"You are an international trade event coordinator. Develop a checklist for a renewable energy startup participating in a 3-day trade expo in Dubai. Include booth design, shipping of products, marketing collateral, travel & accommodation for staff, lead capture methods, networking events, and post-event follow-up process."
+`"You are an international trade event coordinator. Develop a checklist for a renewable energy startup participating in a 3-day trade expo in Dubai. Include booth design, shipping of products, marketing collateral, travel & accommodation for staff, lead capture methods, networking events, and post-event follow-up process."`
 
-Inputs Required:
-
+`Inputs Required:`
+```
 1. Expo dates & location
 
 2. Booth size & design requirements
@@ -43,19 +43,19 @@ Inputs Required:
 4. Marketing material needs
 
 5. Target audience at expo
+```
+## Prompt 3 — Music Festival
 
-Prompt 3 — Music Festival
+`Backstory: A production house is organizing a 2-day outdoor music festival in Goa featuring 20 artists and expecting 5,000 attendees. They must plan stage setups, sound checks, artist hospitality, security, crowd control, ticketing, and food stalls.`
 
-Backstory: A production house is organizing a 2-day outdoor music festival in Goa featuring 20 artists and expecting 5,000 attendees. They must plan stage setups, sound checks, artist hospitality, security, crowd control, ticketing, and food stalls.
+`Goal: Create a music festival planning checklist that ensures smooth execution and attendee satisfaction.`
 
-Goal: Create a music festival planning checklist that ensures smooth execution and attendee satisfaction.
+`Prompt:`
 
-Prompt:
+`"You are an experienced festival operations manager. Build a 2-day music festival checklist for 5,000 attendees in Goa. Cover artist scheduling, stage design, lighting, sound equipment, vendor selection for food & beverages, security protocols, medical facilities, ticketing system setup, and waste management."`
 
-"You are an experienced festival operations manager. Build a 2-day music festival checklist for 5,000 attendees in Goa. Cover artist scheduling, stage design, lighting, sound equipment, vendor selection for food & beverages, security protocols, medical facilities, ticketing system setup, and waste management."
-
-Inputs Required:
-
+`Inputs Required:`
+```
 1. Festival dates & venue
 
 2. Number of artists & genres
@@ -65,19 +65,19 @@ Inputs Required:
 4. Food & beverage requirements
 
 5. Ticket pricing strategy
+```
+## Prompt 4 — Product Launch Event
 
-Prompt 4 — Product Launch Event
+`Backstory: A premium Indian skincare brand is launching a new organic product line in Delhi. The event will have influencers, journalists, and industry experts. The brand wants a checklist covering branding, media invitations, sampling stations, and live social media coverage.`
 
-Backstory: A premium Indian skincare brand is launching a new organic product line in Delhi. The event will have influencers, journalists, and industry experts. The brand wants a checklist covering branding, media invitations, sampling stations, and live social media coverage.
+`Goal: Prepare a product launch event checklist for maximum brand impact.`
 
-Goal: Prepare a product launch event checklist for maximum brand impact.
+`Prompt:`
 
-Prompt:
+`"You are a luxury brand event planner. Create a detailed checklist for a skincare product launch in Delhi with 150 attendees. Include venue setup, branding displays, influencer invitations, press kits, sampling areas, catering, photo booth arrangements, live streaming, and post-event media coverage."`
 
-"You are a luxury brand event planner. Create a detailed checklist for a skincare product launch in Delhi with 150 attendees. Include venue setup, branding displays, influencer invitations, press kits, sampling areas, catering, photo booth arrangements, live streaming, and post-event media coverage."
-
-Inputs Required:
-
+`Inputs Required:`
+```
 1. Launch date & venue
 
 2. Target guest list
@@ -87,19 +87,19 @@ Inputs Required:
 4. Sampling product details
 
 5. Media coverage preferences
+```
+## Prompt 5 — CSR Community Event
 
-Prompt 5 — CSR Community Event
+`Backstory: A large FMCG company is hosting a community clean-up drive and tree plantation as part of its CSR program. They expect 200 volunteers, including employees and local residents. The checklist must cover permissions, equipment, volunteer coordination, safety measures, and media coverage.`
 
-Backstory: A large FMCG company is hosting a community clean-up drive and tree plantation as part of its CSR program. They expect 200 volunteers, including employees and local residents. The checklist must cover permissions, equipment, volunteer coordination, safety measures, and media coverage.
+`Goal: Develop a CSR community event planning checklist.`
 
-Goal: Develop a CSR community event planning checklist.
+`Prompt:`
 
-Prompt:
+`"You are a CSR event coordinator. Prepare a checklist for a community clean-up and tree plantation drive with 200 participants. Include municipal permissions, volunteer registration, safety briefings, logistics for equipment & plants, refreshments, media invitations, and post-event reporting."`
 
-"You are a CSR event coordinator. Prepare a checklist for a community clean-up and tree plantation drive with 200 participants. Include municipal permissions, volunteer registration, safety briefings, logistics for equipment & plants, refreshments, media invitations, and post-event reporting."
-
-Inputs Required:
-
+`Inputs Required:`
+```
 1. Event date & location
 
 2. Number of volunteers
@@ -109,19 +109,19 @@ Inputs Required:
 4. Safety requirements
 
 5. Media outreach plans
+```
+## Prompt 6 — Corporate Team Building Retreat
 
-Prompt 6 — Corporate Team Building Retreat
+`Backstory: A fintech company is arranging a 2-day offsite team-building retreat for 60 employees in Rishikesh. Activities include rafting, leadership games, and mindfulness sessions. The checklist should cover travel, accommodation, facilitators, and safety protocols.`
 
-Backstory: A fintech company is arranging a 2-day offsite team-building retreat for 60 employees in Rishikesh. Activities include rafting, leadership games, and mindfulness sessions. The checklist should cover travel, accommodation, facilitators, and safety protocols.
+`Goal: Create a team-building retreat checklist.`
 
-Goal: Create a team-building retreat checklist.
+`Prompt:`
 
-Prompt:
+`"You are a corporate retreat planner. Create a 2-day offsite checklist for 60 employees in Rishikesh with activities like rafting, leadership games, and mindfulness. Include transport, accommodation booking, activity scheduling, facilitators, safety gear, and evening entertainment."`
 
-"You are a corporate retreat planner. Create a 2-day offsite checklist for 60 employees in Rishikesh with activities like rafting, leadership games, and mindfulness. Include transport, accommodation booking, activity scheduling, facilitators, safety gear, and evening entertainment."
-
-Inputs Required:
-
+`Inputs Required:`
+```
 1. Dates & location
 
 2. Number of employees
@@ -131,19 +131,19 @@ Inputs Required:
 4. Accommodation & meal details
 
 5. Safety considerations
+```
+## Prompt 7 — Award Ceremony
 
-Prompt 7 — Award Ceremony
+`Backstory: A media company is hosting an annual award ceremony for film and television artists in Mumbai. The event involves celebrity arrivals, red carpet coverage, stage performances, award presentations, and VIP after-parties.`
 
-Backstory: A media company is hosting an annual award ceremony for film and television artists in Mumbai. The event involves celebrity arrivals, red carpet coverage, stage performances, award presentations, and VIP after-parties.
+`Goal: Develop a high-profile award ceremony checklist.`
 
-Goal: Develop a high-profile award ceremony checklist.
+`Prompt:`
 
-Prompt:
+`"You are an entertainment event manager. Prepare a checklist for an award ceremony with 800 attendees in Mumbai. Include red carpet arrangements, media coverage, stage rehearsals, lighting & sound checks, performer coordination, VIP seating, security, and after-party logistics."`
 
-"You are an entertainment event manager. Prepare a checklist for an award ceremony with 800 attendees in Mumbai. Include red carpet arrangements, media coverage, stage rehearsals, lighting & sound checks, performer coordination, VIP seating, security, and after-party logistics."
-
-Inputs Required:
-
+`Inputs Required:`
+```
 1. Event date & venue
 
 2. Number of award categories
@@ -153,8 +153,8 @@ Inputs Required:
 4. Stage & décor requirements
 
 5. Media broadcast details
-
-Prompt 8 — Charity Gala Dinner
+```
+## Prompt 8 — Charity Gala Dinner
 
 Backstory: A non-profit is organizing a black-tie charity dinner to raise funds for underprivileged children. The event will host 200 donors, feature a live auction, and have a keynote speech by a celebrity ambassador.
 
