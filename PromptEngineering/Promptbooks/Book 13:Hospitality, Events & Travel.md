@@ -1015,16 +1015,16 @@ Also, suggest caption ideas with hashtags relevant to Indian travel trends."
 
 4. Property images
 ```
-Prompt 16 — Influencer Collaboration Pitch Deck
+## Prompt 16 — Influencer Collaboration Pitch Deck
 
-Backstory: A high-end eco-resort in Coorg wants to partner with 5 travel influencers who focus on sustainability. They need a professional pitch deck that will persuade influencers to collaborate, highlighting the resort’s eco-friendly architecture, farm-to-table dining, and zero-waste operations. The property is targeting influencers with 50k–200k engaged Indian followers.
+`Backstory: A high-end eco-resort in Coorg wants to partner with 5 travel influencers who focus on sustainability. They need a professional pitch deck that will persuade influencers to collaborate, highlighting the resort’s eco-friendly architecture, farm-to-table dining, and zero-waste operations. The property is targeting influencers with 50k–200k engaged Indian followers.`
 
-Goal: Write the copy and slide breakdown for an influencer partnership deck.
+`Goal: Write the copy and slide breakdown for an influencer partnership deck.`
 
-Prompt:
+`Prompt:`
 
-"You are a Hospitality PR Consultant. Draft a 10-slide influencer collaboration pitch deck for a Coorg eco-resort. Include:
-
+`"You are a Hospitality PR Consultant. Draft a 10-slide influencer collaboration pitch deck for a Coorg eco-resort. Include:`
+```
 1. Resort story and sustainability USP
 
 2. Target audience overlap data
@@ -1034,11 +1034,11 @@ Prompt:
 4. Incentives for influencers
 
 5. Partnership terms and next steps
+```
+`Tone: Professional, eco-conscious, and enticing."`
 
-Tone: Professional, eco-conscious, and enticing."
-
-Inputs Required:
-
+`Inputs Required:`
+```
 1. Sustainability certifications
 
 2. Influencer deliverables list
@@ -1046,17 +1046,17 @@ Inputs Required:
 3. Resort amenities & imagery
 
 4. Target guest profile
+```
+## Prompt 17 — Midnight Beach Party Event Page
 
-Prompt 17 — Midnight Beach Party Event Page
+`Backstory: A luxury resort in Gokarna is hosting a New Year’s Eve “Midnight by the Shore” party. The event will feature live DJs, fireworks, unlimited gourmet food, and a midnight champagne toast. They need an event landing page that drives ticket sales and room bookings together.`
 
-Backstory: A luxury resort in Gokarna is hosting a New Year’s Eve “Midnight by the Shore” party. The event will feature live DJs, fireworks, unlimited gourmet food, and a midnight champagne toast. They need an event landing page that drives ticket sales and room bookings together.
+`Goal: Write a high-conversion event page with strong CTAs.`
 
-Goal: Write a high-conversion event page with strong CTAs.
+`Prompt:`
 
-Prompt:
-
-"You are a Hospitality Event Copywriter. Write a New Year’s Eve party landing page for a Gokarna resort. Include:
-
+`"You are a Hospitality Event Copywriter. Write a New Year’s Eve party landing page for a Gokarna resort. Include:`
+```
 1. A captivating headline and teaser intro
 
 2. Event details (time, lineup, inclusions)
@@ -1066,11 +1066,11 @@ Prompt:
 4. Guest testimonials placeholder
 
 5. Booking urgency triggers
+```
+`Tone: Glamorous, energetic, and premium."`
 
-Tone: Glamorous, energetic, and premium."
-
-Inputs Required:
-
+`Inputs Required:`
+```
 1. Event schedule
 
 2. Ticket price & bundles
@@ -1078,17 +1078,17 @@ Inputs Required:
 3. DJ lineup & entertainment list
 
 4. Photos & video snippets
+```
+## Prompt 18 — Luxury Resort Blog Series
 
-Prompt 18 — Luxury Resort Blog Series
+`Backstory: A luxury tea estate resort in Darjeeling wants to create a blog series for SEO that positions it as a must-visit luxury destination in Northeast India. Articles will cover local culture, tea experiences, and seasonal travel guides.`
 
-Backstory: A luxury tea estate resort in Darjeeling wants to create a blog series for SEO that positions it as a must-visit luxury destination in Northeast India. Articles will cover local culture, tea experiences, and seasonal travel guides.
+`Goal: Outline a 6-blog content plan with SEO keywords and article summaries.`
 
-Goal: Outline a 6-blog content plan with SEO keywords and article summaries.
+`Prompt:`
 
-Prompt:
-
-"You are an SEO Travel Content Planner. Create a 6-blog series plan for a Darjeeling luxury resort. Each blog should:
-
+`"You are an SEO Travel Content Planner. Create a 6-blog series plan for a Darjeeling luxury resort. Each blog should:`
+```
 1. Have an engaging title with SEO keywords
 
 2. Include a 50-word meta description
@@ -1098,9 +1098,9 @@ Prompt:
 4. Blend luxury travel tone with cultural insights
 
 Target audience: Indian and NRI luxury travelers aged 25–40."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Target keywords
 
 2. Blog length per post
@@ -1108,17 +1108,17 @@ Inputs Required:
 3. Content tone guide
 
 4. Seasonal events list
+```
+## Prompt 19 — Off-Season Stay Offers Email Campaign
 
-Prompt 19 — Off-Season Stay Offers Email Campaign
+`Backstory: A luxury resort in Kerala’s backwaters struggles with low occupancy during the pre-monsoon months. They want to launch a segmented email campaign to past guests and new leads with personalized stay offers.`
 
-Backstory: A luxury resort in Kerala’s backwaters struggles with low occupancy during the pre-monsoon months. They want to launch a segmented email campaign to past guests and new leads with personalized stay offers.
+`Goal: Draft a 3-email sequence to boost bookings in low season.`
 
-Goal: Draft a 3-email sequence to boost bookings in low season.
+`Prompt:`
 
-Prompt:
-
-"You are a Hospitality Email Marketing Specialist. Write 3 emails for an off-season Kerala resort offer. Each email should:
-
+`"You are a Hospitality Email Marketing Specialist. Write 3 emails for an off-season Kerala resort offer. Each email should:`
+```
 1. Target a specific guest segment (families, couples, solo travelers)
 
 2. Include subject lines and preview text
@@ -1126,11 +1126,11 @@ Prompt:
 3. Offer limited-time incentives (e.g., spa credits, room upgrades)
 
 4. End with a clear CTA
+```
+`Tone: Warm, exclusive, and persuasive."`
 
-Tone: Warm, exclusive, and persuasive."
-
-Inputs Required:
-
+`Inputs Required:`
+```
 1. Offer details
 
 2. Guest segment profiles
@@ -1138,27 +1138,27 @@ Inputs Required:
 3. Email platform specs
 
 4. Brand imagery
+```
+## Prompt 20 — Local Experience Partnership Campaign (Tourism angle)
 
-Prompt 20 — Local Experience Partnership Campaign (Tourism angle)
+`Backstory: A luxury resort in Udaipur has partnered with local artisans, folk dancers, and chefs to offer authentic Rajasthani experiences. Guests can attend pottery workshops, cooking classes, and traditional performances. The resort wants to promote this as a cultural immersion package.`
 
-Backstory: A luxury resort in Udaipur has partnered with local artisans, folk dancers, and chefs to offer authentic Rajasthani experiences. Guests can attend pottery workshops, cooking classes, and traditional performances. The resort wants to promote this as a cultural immersion package.
+`Goal: Create a cross-platform marketing plan to sell the package.`
 
-Goal: Create a cross-platform marketing plan to sell the package.
+`Prompt:`
 
-Prompt:
-
-"You are a Cultural Tourism Marketer. Design a 10-day multi-platform campaign (Instagram, Facebook, YouTube shorts) for a Udaipur resort’s cultural immersion package. Include:
-
+`"You are a Cultural Tourism Marketer. Design a 10-day multi-platform campaign (Instagram, Facebook, YouTube shorts) for a Udaipur resort’s cultural immersion package. Include:`
+```
 1. 5 social media post ideas (captions + visual themes)
 
 2. 2 short video scripts
 
 3. A brochure concept outline
+```
+`Tone: Vibrant, authentic, and story-driven."`
 
-Tone: Vibrant, authentic, and story-driven."
-
-Inputs Required:
-
+`Inputs Required:`
+```
 1. List of local experiences
 
 2. Pricing & availability
@@ -1166,27 +1166,27 @@ Inputs Required:
 3. Partner profiles
 
 4. Media library
+```
+## Prompt 21 — Scenic Road Trip Package Ads (Tourism angle)
 
-Prompt 21 — Scenic Road Trip Package Ads (Tourism angle)
+`Backstory: A hill station resort in Manali is collaborating with a luxury car rental company to offer “Scenic Drive & Stay” packages for Delhi NCR travelers. The campaign should highlight both the journey and the stay experience.`
 
-Backstory: A hill station resort in Manali is collaborating with a luxury car rental company to offer “Scenic Drive & Stay” packages for Delhi NCR travelers. The campaign should highlight both the journey and the stay experience.
+`Goal: Write ad copy variations for multiple digital platforms.`
 
-Goal: Write ad copy variations for multiple digital platforms.
+`Prompt:`
 
-Prompt:
-
-"You are a Travel-Luxury Ad Specialist. Write 3 Google Search Ads, 3 Instagram captions, and 2 YouTube ad scripts for a Manali ‘Drive & Stay’ luxury package. Focus on:
-
+`"You are a Travel-Luxury Ad Specialist. Write 3 Google Search Ads, 3 Instagram captions, and 2 YouTube ad scripts for a Manali ‘Drive & Stay’ luxury package. Focus on:`
+```
 1. Road trip appeal
 
 2. Comfort & scenic beauty
 
 3. Premium travel experience
+```
+`Tone: Adventurous, romantic, and premium."`
 
-Tone: Adventurous, romantic, and premium."
-
-Inputs Required:
-
+`Inputs Required:`
+```
 1. Package inclusions
 
 2. Car rental details
@@ -1194,25 +1194,25 @@ Inputs Required:
 3. Travel time & route highlights
 
 4. Booking info
+```
+## Prompt 22 — Heritage Trail Stay Promotion (Tourism angle)
 
-Prompt 22 — Heritage Trail Stay Promotion (Tourism angle)
+`Backstory: A palace hotel in Bikaner offers a “Heritage Trail Stay” package where guests enjoy guided tours of nearby forts, markets, and stepwells. The target market is Indian history lovers and culture enthusiasts.`
 
-Backstory: A palace hotel in Bikaner offers a “Heritage Trail Stay” package where guests enjoy guided tours of nearby forts, markets, and stepwells. The target market is Indian history lovers and culture enthusiasts.
+`Goal: Draft a promotional flyer and Instagram reel script.`
 
-Goal: Draft a promotional flyer and Instagram reel script.
+`Prompt:`
 
-Prompt:
-
-"You are a Heritage Tourism Copywriter. Write:
-
+`"You are a Heritage Tourism Copywriter. Write:`
+```
 1. A one-page flyer copy for a Bikaner heritage package
 
 2. A 30-second Instagram reel script with voiceover lines
+```
+`Tone: Elegant, historical, and immersive."`
 
-Tone: Elegant, historical, and immersive."
-
-Inputs Required:
-
+`Inputs Required:`
+```
 1. Tour itinerary
 
 2. Pricing
@@ -1220,27 +1220,27 @@ Inputs Required:
 3. Guide profiles
 
 4. Photo assets
+```
+## Prompt 23 — Island Adventure Stay Package (Tourism angle)
 
-Prompt 23 — Island Adventure Stay Package (Tourism angle)
+`Backstory: A private island resort in the Andamans offers snorkeling, kayaking, and guided treks as part of its stay package. They want a campaign targeting adventure-loving young professionals from metro cities.`
 
-Backstory: A private island resort in the Andamans offers snorkeling, kayaking, and guided treks as part of its stay package. They want a campaign targeting adventure-loving young professionals from metro cities.
+`Goal: Create an ad set for social + search platforms.`
 
-Goal: Create an ad set for social + search platforms.
+`Prompt:`
 
-Prompt:
-
-"You are an Adventure Travel Campaign Creator. Write:
-
+`"You are an Adventure Travel Campaign Creator. Write:`
+```
 1. 3 Facebook ad copies
 
 2. 3 Instagram caption ideas
 
 3. 2 Google ad headlines & descriptions
+```
+`Highlight: exclusivity, thrill, and natural beauty."`
 
-Highlight: exclusivity, thrill, and natural beauty."
-
-Inputs Required:
-
+`Inputs Required:`
+```
 1. Adventure activities list
 
 2. Seasonal weather info
@@ -1248,19 +1248,19 @@ Inputs Required:
 3. Safety certifications
 
 4. Booking URL
+```
+## Prompt 24 — Winter Honeymoon Package Campaign (Tourism angle)
 
-Prompt 24 — Winter Honeymoon Package Campaign (Tourism angle)
+`Backstory: A Shimla luxury resort is launching a winter honeymoon package with private fireplaces, candlelit dinners, and snow activities. The aim is to attract newlyweds from North India and NRIs visiting during wedding season.`
 
-Backstory: A Shimla luxury resort is launching a winter honeymoon package with private fireplaces, candlelit dinners, and snow activities. The aim is to attract newlyweds from North India and NRIs visiting during wedding season.
+`Goal: Create an emotional, romance-focused campaign for Instagram and Pinterest.`
 
-Goal: Create an emotional, romance-focused campaign for Instagram and Pinterest.
+`Prompt:`
 
-Prompt:
+`"You are a Romantic Travel Content Creator. Design 5 Instagram carousel ideas and 3 Pinterest pin captions for a Shimla honeymoon package. Highlight: intimacy, winter charm, and luxury amenities."`
 
-"You are a Romantic Travel Content Creator. Design 5 Instagram carousel ideas and 3 Pinterest pin captions for a Shimla honeymoon package. Highlight: intimacy, winter charm, and luxury amenities."
-
-Inputs Required:
-
+`Inputs Required:`
+```
 1. Package inclusions
 
 2. Winter imagery
@@ -1268,27 +1268,27 @@ Inputs Required:
 3. Target market profile
 
 4. Booking process
+```
+## Prompt 25 — Summer Festival Stay + Local Tours (Tourism angle)
 
-Prompt 25 — Summer Festival Stay + Local Tours (Tourism angle)
+`Backstory: A resort in Rishikesh is promoting its summer stay packages alongside the International Yoga Festival and local river rafting tours. They want to position this as a mix of adventure and spirituality.`
 
-Backstory: A resort in Rishikesh is promoting its summer stay packages alongside the International Yoga Festival and local river rafting tours. They want to position this as a mix of adventure and spirituality.
+`Goal: Write a campaign concept that blends wellness and thrill-seeking.`
 
-Goal: Write a campaign concept that blends wellness and thrill-seeking.
+`Prompt:`
 
-Prompt:
-
-"You are a Mixed-Experience Travel Marketer. Create a 7-day social media content plan for a Rishikesh resort’s summer package. Include:
-
+`"You are a Mixed-Experience Travel Marketer. Create a 7-day social media content plan for a Rishikesh resort’s summer package. Include:`
+```
 1. 4 Instagram post ideas (captions + imagery)
 
 2. 2 reel scripts
 
 3. 1 email newsletter outline
+```
+`Tone: Balanced between energetic and serene."`
 
-Tone: Balanced between energetic and serene."
-
-Inputs Required:
-
+`Inputs Required:`
+```
 1. Event dates & details
 
 2. Rafting safety info
@@ -1296,7 +1296,7 @@ Inputs Required:
 3. Yoga festival program
 
 4. High-res images
-
+```
 
 Itinerary creation
 
