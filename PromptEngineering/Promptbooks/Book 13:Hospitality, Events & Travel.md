@@ -1373,20 +1373,20 @@ Target audience: Indian and NRI luxury travelers aged 25–40."
 
 5. Preferred pace of travel (relaxed, moderate, packed)
 ```
-Prompt 3 — Himachal Road Trip – 10 Days
+## Prompt 3 — Himachal Road Trip – 10 Days
 
-Backstory:
+`Backstory:`
 
-A group of five friends from Pune is planning their first long road trip to Himachal Pradesh. They want to cover key destinations like Manali, Kasol, Dharamshala, and Bir, but also include offbeat spots along the way. They are looking for a mix of adventure sports, café culture, and scenic drives. Budget is mid-range, but they don’t mind splurging on unique stays.
+`A group of five friends from Pune is planning their first long road trip to Himachal Pradesh. They want to cover key destinations like Manali, Kasol, Dharamshala, and Bir, but also include offbeat spots along the way. They are looking for a mix of adventure sports, café culture, and scenic drives. Budget is mid-range, but they don’t mind splurging on unique stays.`
 
-Goal:
+`Goal:`
 
-Map a 10-day Himachal itinerary for a road trip that balances scenic drives, adventure, and local experiences.
+`Map a 10-day Himachal itinerary for a road trip that balances scenic drives, adventure, and local experiences.`
 
-Prompt:
+`Prompt:`
 
-"You are a travel consultant planning a 10-day Himachal road trip itinerary for five friends.
-
+`"You are a travel consultant planning a 10-day Himachal road trip itinerary for five friends.`
+```
 1. Start and end in Chandigarh.
 
 2. Include Manali, Kasol, Dharamshala, Bir, and 2 offbeat stops.
@@ -1396,9 +1396,9 @@ Prompt:
 4. Recommend driving distances and timings for each leg.
 
 5. Add weather and packing tips for the travel month."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Month of travel
 
 2. Type of car (SUV/Sedan)
@@ -1408,21 +1408,21 @@ Inputs Required:
 4. Budget range per person
 
 5. Must-visit preferences (monasteries, waterfalls, markets, etc.)
+```
+## Prompt 4 — Rajasthan Cultural Heritage Trail – 8 Days
 
-Prompt 4 — Rajasthan Cultural Heritage Trail – 8 Days
+`Backstory:`
 
-Backstory:
+`An Australian solo female traveller in her early 30s is visiting India for the first time, focusing on Rajasthan. She wants a safe, culturally immersive itinerary covering Jaipur, Jodhpur, and Udaipur, with some unique workshops and local experiences. She prefers heritage hotels and wants to take plenty of photographs.`
 
-An Australian solo female traveller in her early 30s is visiting India for the first time, focusing on Rajasthan. She wants a safe, culturally immersive itinerary covering Jaipur, Jodhpur, and Udaipur, with some unique workshops and local experiences. She prefers heritage hotels and wants to take plenty of photographs.
+`Goal:`
 
-Goal:
+`Create an 8-day cultural heritage-focused itinerary in Rajasthan tailored for solo travellers.`
 
-Create an 8-day cultural heritage-focused itinerary in Rajasthan tailored for solo travellers.
+`Prompt:`
 
-Prompt:
-
-"You are an expert in Rajasthan tourism. Design an 8-day itinerary for a solo female traveller.
-
+`"You are an expert in Rajasthan tourism. Design an 8-day itinerary for a solo female traveller.`
+```
 1. Include Jaipur, Jodhpur, and Udaipur.
 
 2. Suggest safe, central heritage hotel options.
@@ -1432,9 +1432,9 @@ Prompt:
 4. Add photo-friendly spots for each city.
 
 5. Mention best modes of transport between cities."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Month of travel
 
 2. Interest in night events (Y/N)
@@ -1444,7 +1444,7 @@ Inputs Required:
 4. Specific crafts or cultural interests
 
 5. Photography priorities (architecture, markets, nature)
-
+```
 Prompt 5 — Kerala Backwaters & Hill Stations – 7 Days
 
 Backstory:
