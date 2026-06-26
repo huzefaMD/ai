@@ -2203,22 +2203,22 @@ Target audience: Indian and NRI luxury travelers aged 25–40."
 5. Pace preference (fast/slow)
 ```
 
-Customer feedback & reviews handling
+# Customer feedback & reviews handling
 
-Prompt 1 — Handling Negative Hotel Reviews on Google
+## Prompt 1 — Handling Negative Hotel Reviews on Google
 
-Backstory:
+`Backstory:`
 
-A boutique hotel in Jaipur recently received a 2-star review on Google citing slow room service and noisy surroundings. The management wants to respond in a way that addresses the complaint, offers a resolution, and maintains a professional image for future guests reading the review.
+`A boutique hotel in Jaipur recently received a 2-star review on Google citing slow room service and noisy surroundings. The management wants to respond in a way that addresses the complaint, offers a resolution, and maintains a professional image for future guests reading the review.`
 
-Goal:
+`Goal:`
 
-Create a professional, empathetic, and solution-oriented reply to a negative hotel review on Google.
+`Create a professional, empathetic, and solution-oriented reply to a negative hotel review on Google.`
 
-Prompt:
+`Prompt:`
 
-"You are the PR and guest relations manager for a boutique hotel in Jaipur. Write a polite, empathetic, and professional response to a 2-star Google review mentioning slow room service and noise disturbance. 
-
+`"You are the PR and guest relations manager for a boutique hotel in Jaipur. Write a polite, empathetic, and professional response to a 2-star Google review mentioning slow room service and noise disturbance. `
+```
 1. Acknowledge the guest’s concerns sincerely. 
 
 2. Apologise for the inconvenience caused. 
@@ -2228,9 +2228,9 @@ Prompt:
 4. Invite the guest to revisit with a special discount code. 
 
 5. Keep the tone warm, not defensive."
-
-Inputs Required: 
-
+```
+`Inputs Required: `
+```
 1. Guest name (if available) 
 
 2. Specific dates of stay 
@@ -2238,21 +2238,21 @@ Inputs Required:
 3. Any compensatory offer details 
 
 4. Hotel’s unique value points to highlight
+```
+## Prompt 2 — Requesting Post-Event Feedback for a Wedding Banquet
 
-Prompt 2 — Requesting Post-Event Feedback for a Wedding Banquet
+`Backstory:`
 
-Backstory:
+`A luxury resort in Goa hosted a destination wedding for an NRI family. They want to collect detailed feedback on the banquet services, decoration, and guest experience to improve future events and build testimonials.`
 
-A luxury resort in Goa hosted a destination wedding for an NRI family. They want to collect detailed feedback on the banquet services, decoration, and guest experience to improve future events and build testimonials.
+`Goal:`
 
-Goal:
+`Write a personalised follow-up email requesting feedback and potential testimonials.`
 
-Write a personalised follow-up email requesting feedback and potential testimonials.
+`Prompt:`
 
-Prompt:
-
-"You are the events coordinator for a luxury resort in Goa. Draft a warm, personalised follow-up email to the wedding hosts asking for feedback on banquet arrangements, décor, food quality, and guest experience.
-
+`"You are the events coordinator for a luxury resort in Goa. Draft a warm, personalised follow-up email to the wedding hosts asking for feedback on banquet arrangements, décor, food quality, and guest experience.`
+```
 1. Express gratitude for choosing the resort.
 
 2. Mention memorable highlights from the event.
@@ -2260,9 +2260,9 @@ Prompt:
 3. Provide a direct link to the feedback form.
 
 4. Request permission to use positive comments as testimonials."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Host’s name
 
 2. Event date
@@ -2270,21 +2270,21 @@ Inputs Required:
 3. Any unique service provided during the wedding
 
 4. Contact method (email/WhatsApp)
+```
+## Prompt 3 — Automating Guest Review Requests via WhatsApp
 
-Prompt 3 — Automating Guest Review Requests via WhatsApp
+`Backstory:`
 
-Backstory:
+`A mid-sized hotel chain in Kerala wants to automate their review collection process. They plan to send a short, friendly WhatsApp message post-checkout with a direct Google review link.`
 
-A mid-sized hotel chain in Kerala wants to automate their review collection process. They plan to send a short, friendly WhatsApp message post-checkout with a direct Google review link.
+`Goal:`
 
-Goal:
+`Write an engaging, mobile-friendly WhatsApp template for automated review requests.`
 
-Write an engaging, mobile-friendly WhatsApp template for automated review requests.
+`Prompt:`
 
-Prompt:
-
-"You are a hotel marketing copywriter. Create a short, warm WhatsApp template to request reviews from guests post-checkout.
-
+`"You are a hotel marketing copywriter. Create a short, warm WhatsApp template to request reviews from guests post-checkout.`
+```
 1. Keep it under 3 sentences.
 
 2. Include the guest’s first name dynamically.
@@ -2292,29 +2292,29 @@ Prompt:
 3. Provide a clickable Google review link.
 
 4. Use friendly emojis without being unprofessional."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Hotel name
 
 2. Review link
 
 3. Personalisation token for guest’s first name
+```
+## Prompt 4 — Managing Mixed Reviews for a Corporate Event Venue
 
-Prompt 4 — Managing Mixed Reviews for a Corporate Event Venue
+`Backstory:`
 
-Backstory:
+`A convention centre in Bengaluru hosted a corporate seminar for 300 attendees. Some praised the facilities, but others complained about the parking space and air-conditioning. The venue wants to publicly address both the positives and the negatives in a single reply.`
 
-A convention centre in Bengaluru hosted a corporate seminar for 300 attendees. Some praised the facilities, but others complained about the parking space and air-conditioning. The venue wants to publicly address both the positives and the negatives in a single reply.
+`Goal:`
 
-Goal:
+`Write a balanced, appreciative, and improvement-focused response to a mixed review.`
 
-Write a balanced, appreciative, and improvement-focused response to a mixed review.
+`Prompt:`
 
-Prompt:
-
-"You are the corporate communications lead for a Bengaluru convention centre. Draft a public response to a mixed review that: 
-
+`"You are the corporate communications lead for a Bengaluru convention centre. Draft a public response to a mixed review that: `
+```
 1. Thanks the reviewer for highlighting the positives. 
 
 2. Acknowledges the negative points without defensiveness. 
@@ -2322,16 +2322,16 @@ Prompt:
 3. Shares plans for improvement in parking and AC. 
 
 4. Ends with an open invitation to future events."
-
-Inputs Required: 
-
+```
+`Inputs Required: `
+```
 1. Reviewer’s name (if available) 
 
 2. Event date 
 
 3. Facility upgrades already planned
-
-Prompt 5 — Social Media Post Showcasing Guest Testimonials
+```
+## Prompt 5 — Social Media Post Showcasing Guest Testimonials
 
 Backstory:
 
