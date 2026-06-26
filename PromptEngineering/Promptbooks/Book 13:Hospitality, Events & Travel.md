@@ -2645,20 +2645,20 @@ Prompt 6 — Responding to a Positive Guest Review on TripAdvisor
 
 3. Website link to testimonial section
 ```
-Prompt 16 — Handling a Cultural Misunderstanding in Review
+## Prompt 16 — Handling a Cultural Misunderstanding in Review
 
-Backstory:
+`Backstory:`
 
-A foreign guest leaves a 3-star review saying they felt uncomfortable with the dress code request in the hotel restaurant. Management wants to respond in a culturally sensitive manner.
+`A foreign guest leaves a 3-star review saying they felt uncomfortable with the dress code request in the hotel restaurant. Management wants to respond in a culturally sensitive manner.`
 
-Goal:
+`Goal:`
 
-Politely clarify cultural context while apologising for discomfort caused.
+`Politely clarify cultural context while apologising for discomfort caused.`
 
-Prompt:
+`Prompt:`
 
-"You are the guest relations officer at a luxury palace hotel in Udaipur. Draft a reply to a foreign guest who felt uncomfortable about the restaurant dress code.
-
+`"You are the guest relations officer at a luxury palace hotel in Udaipur. Draft a reply to a foreign guest who felt uncomfortable about the restaurant dress code.`
+```
 1. Thank them for visiting.
 
 2. Acknowledge their concern.
@@ -2666,118 +2666,118 @@ Prompt:
 3. Explain cultural context respectfully.
 
 4. Reassure that future communication will be clearer."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Review text
 
 2. Dress code policy
 
 3. Guest nationality (if relevant)
+```
+## Prompt 17 — Post-Stay WhatsApp Review Request Script
 
-Prompt 17 — Post-Stay WhatsApp Review Request Script
+`Backstory:`
 
-Backstory:
+`A chain of business hotels in metro cities wants to automate WhatsApp review requests 24 hours after checkout.``
 
-A chain of business hotels in metro cities wants to automate WhatsApp review requests 24 hours after checkout.
+`Goal:`
 
-Goal:
+`Create a concise WhatsApp message template encouraging guests to leave a review.`
 
-Create a concise WhatsApp message template encouraging guests to leave a review.
+`Prompt:`
 
-Prompt:
-
-"You are the CRM head for a business hotel chain in India. Write a short, friendly WhatsApp script to send guests 24 hours post-checkout encouraging reviews on Google.
-
+`"You are the CRM head for a business hotel chain in India. Write a short, friendly WhatsApp script to send guests 24 hours post-checkout encouraging reviews on Google.`
+```
 1. Thank them for staying.
 
 2. Include direct review link.
 
 3. Keep tone casual and inviting."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Guest name placeholder
 
 2. Review link
+```
+## Prompt 18 — Responding to a Review with Staff Mention
 
-Prompt 18 — Responding to a Review with Staff Mention
+`Backstory:`
 
-Backstory:
+`A guest leaves a 5-star TripAdvisor review praising a staff member named Ramesh for exceptional service.`
 
-A guest leaves a 5-star TripAdvisor review praising a staff member named Ramesh for exceptional service.
+`Goal:`
 
-Goal:
+`Respond to the review and highlight Ramesh’s contribution publicly. `
 
-Respond to the review and highlight Ramesh’s contribution publicly.
+`Prompt:`
 
-Prompt:
-
-"You are the hotel manager of a premium property in Chennai. Draft a public TripAdvisor reply to a 5-star review that praises staff member Ramesh.
-
+`"You are the hotel manager of a premium property in Chennai. Draft a public TripAdvisor reply to a 5-star review that praises staff member Ramesh.`
+```
 1. Thank the guest.
 
 2. Praise Ramesh’s dedication.
 
 3. Mention you’ll recognise him internally."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Review text
 
 2. Staff member’s name
+```
+## Prompt 19 — Follow-up Email for Low Rating Without Review Text
 
-Prompt 19 — Follow-up Email for Low Rating Without Review Text
+`Backstory:`
 
-Backstory:
+`A guest leaves a 2-star rating on Booking.com without any written comment. The hotel wants to gather more details privately.`
 
-A guest leaves a 2-star rating on Booking.com without any written comment. The hotel wants to gather more details privately.
+`Goal:`
 
-Goal:
+`Write a polite email asking for more feedback.`
 
-Write a polite email asking for more feedback.
+`Prompt:`
 
-Prompt:
-
-"You are the guest feedback coordinator for a luxury resort in Kerala. Draft a short, polite email to a guest who left a 2-star rating with no review.
-
+`"You are the guest feedback coordinator for a luxury resort in Kerala. Draft a short, polite email to a guest who left a 2-star rating with no review.`
+```
 1. Express concern.
 
 2. Invite them to share details privately.
 
 3. Offer to address their issues."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Guest name
 
 2. Contact email
+```
+## Prompt 20 — Social Media Video Script for Showcasing Reviews
 
-Prompt 20 — Social Media Video Script for Showcasing Reviews
+`Backstory:`
 
-Backstory:
+`A hill station resort in Manali wants to create a 30-second Instagram reel showcasing guest reviews with scenic footage.`
 
-A hill station resort in Manali wants to create a 30-second Instagram reel showcasing guest reviews with scenic footage.
+`Goal:`
 
-Goal:
+`Write a short script combining visuals and review text.`
 
-Write a short script combining visuals and review text.
+`Prompt:`
 
-Prompt:
-
-"You are the social media manager of a resort in Manali. Write a 30-second reel script that overlays positive guest reviews on scenic video shots.
-
+`"You are the social media manager of a resort in Manali. Write a 30-second reel script that overlays positive guest reviews on scenic video shots.`
+```
 1. Include call to action to book.
 
 2. Use upbeat background music suggestion."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Review snippets
 
 2. Video footage list
-
-Prompt 21 — Responding to an Emotional Review About a Family Event
+```
+## Prompt 21 — Responding to an Emotional Review About a Family Event
 
 Backstory:
 
