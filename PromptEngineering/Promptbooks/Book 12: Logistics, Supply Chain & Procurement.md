@@ -2450,7 +2450,7 @@
 `Goal:`
 
 `Automate seasonal restocking for recurring demand patterns.`
-```
+
 `Prompt:`
 
 `"You are a Seasonal Supply Planner. Develop an automated restocking trigger for seasonal beverage SKUs.`
@@ -2477,20 +2477,20 @@
 
 5. PO generation template
 ```
-Prompt 18 — Vendor Lead Time Alert System
+## Prompt 18 — Vendor Lead Time Alert System
 
-Backstory:
+`Backstory:`
 
 An electronics retailer deals with multiple suppliers, each with different lead times. Late awareness of lead time changes causes urgent air freight costs. You want an alert system that detects when supplier lead times shift, allowing proactive restocking adjustments.
 
-Goal:
+`Goal:`
 
-Track and respond to supplier lead time changes.
+`Track and respond to supplier lead time changes.`
 
-Prompt:
+`Prompt:`
 
-"You are a Vendor Performance Analyst. Create a vendor lead time alert system for an electronics retailer.
-
+`"You are a Vendor Performance Analyst. Create a vendor lead time alert system for an electronics retailer.`
+```
 1. Store lead time data for each supplier.
 
 2. Monitor purchase order deliveries vs. promised timelines.
@@ -2500,9 +2500,9 @@ Prompt:
 4. Adjust restocking schedules accordingly.
 
 5. Provide monthly vendor reliability reports."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Vendor list with current lead times
 
 2. PO history with actual delivery dates
@@ -2512,21 +2512,21 @@ Inputs Required:
 4. Alert thresholds for lead time changes
 
 5. Supplier contact database
+```
+## Prompt 19 — Kanban-Based Inventory Alerts
 
-Prompt 19 — Kanban-Based Inventory Alerts
+`Backstory:`
 
-Backstory:
+`A small-scale auto parts manufacturer wants to adopt a Kanban system for its assembly line components. The current manual card system is slow and often misplaced. You need a digital Kanban alert system that notifies replenishment teams instantly when a bin is empty.`
 
-A small-scale auto parts manufacturer wants to adopt a Kanban system for its assembly line components. The current manual card system is slow and often misplaced. You need a digital Kanban alert system that notifies replenishment teams instantly when a bin is empty.
+`Goal:`
 
-Goal:
+`Implement a digital Kanban-based replenishment alert system.`
 
-Implement a digital Kanban-based replenishment alert system.
+`Prompt:`
 
-Prompt:
-
-"You are a Lean Manufacturing Inventory Specialist. Develop a digital Kanban inventory alert system for an auto parts plant.
-
+`"You are a Lean Manufacturing Inventory Specialist. Develop a digital Kanban inventory alert system for an auto parts plant.`
+```
 1. Digitally track component bins at each workstation.
 
 2. Send alerts to replenishment teams when a bin reaches its Kanban limit.
@@ -2536,9 +2536,9 @@ Prompt:
 4. Provide daily Kanban fulfilment metrics.
 
 5. Include visual dashboards for supervisors."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Component bin mapping
 
 2. Kanban limits per SKU
@@ -2548,21 +2548,21 @@ Inputs Required:
 4. Alert delivery method preferences
 
 5. Supervisor dashboard specs
+```
+## Prompt 20 — Multi-Currency Inventory Valuation
 
-Prompt 20 — Multi-Currency Inventory Valuation
+`Backstory:`
 
-Backstory:
+`A global distributor stocks products sourced from multiple countries. Exchange rate fluctuations make it difficult to track accurate inventory value in real-time, affecting restocking decisions. You want a valuation system that adjusts inventory costs dynamically based on currency changes.`
 
-A global distributor stocks products sourced from multiple countries. Exchange rate fluctuations make it difficult to track accurate inventory value in real-time, affecting restocking decisions. You want a valuation system that adjusts inventory costs dynamically based on currency changes.
+`Goal:`
 
-Goal:
+`Create a real-time multi-currency inventory valuation system.`
 
-Create a real-time multi-currency inventory valuation system.
+`Prompt:`
 
-Prompt:
-
-"You are a Global Inventory Finance Analyst. Build a multi-currency valuation system for stock in multiple countries.
-
+`"You are a Global Inventory Finance Analyst. Build a multi-currency valuation system for stock in multiple countries.`
+```
 1. Track stock quantities in all warehouses.
 
 2. Fetch live currency exchange rates.
@@ -2572,9 +2572,9 @@ Prompt:
 4. Adjust reorder points based on updated valuations.
 
 5. Provide monthly FX impact analysis reports."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Inventory quantities per location
 
 2. Currency of purchase for each SKU
@@ -2584,21 +2584,21 @@ Inputs Required:
 4. Base currency definition
 
 5. Reporting format preferences
+```
+## Prompt 21 — Safety Stock Optimization
 
-Prompt 21 — Safety Stock Optimization
+`Backstory:`
 
-Backstory:
+`Your pharmaceutical wholesale business keeps high safety stock to avoid shortages, but this ties up too much capital. You want a system to calculate optimal safety stock levels per SKU while maintaining service level targets.`
 
-Your pharmaceutical wholesale business keeps high safety stock to avoid shortages, but this ties up too much capital. You want a system to calculate optimal safety stock levels per SKU while maintaining service level targets.
+`Goal:`
 
-Goal:
+`Optimise safety stock for cost efficiency without stockouts.`
 
-Optimise safety stock for cost efficiency without stockouts.
+`Prompt:`
 
-Prompt:
-
-"You are a Pharma Supply Planner. Develop a safety stock optimisation model for pharmaceutical distribution.
-
+`"You are a Pharma Supply Planner. Develop a safety stock optimisation model for pharmaceutical distribution.`
+```
 1. Analyse demand variability and supplier reliability.
 
 2. Calculate optimal safety stock per SKU using service level targets.
@@ -2608,9 +2608,9 @@ Prompt:
 4. Adjust monthly based on demand changes.
 
 5. Provide safety stock vs. service level charts."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Demand history per SKU
 
 2. Supplier lead time variability
@@ -2620,21 +2620,21 @@ Inputs Required:
 4. Holding cost per SKU
 
 5. Demand forecast model details
+```
+## Prompt 22 — Geo-Fenced Inventory Alerts
 
-Prompt 22 — Geo-Fenced Inventory Alerts
+`Backstory:`
 
-Backstory:
+`A construction equipment rental company needs to track equipment location and stock availability across multiple yards. Equipment is sometimes transferred without system updates, causing rental delays. You want a geo-fenced alert system to detect when equipment leaves or enters a yard.`
 
-A construction equipment rental company needs to track equipment location and stock availability across multiple yards. Equipment is sometimes transferred without system updates, causing rental delays. You want a geo-fenced alert system to detect when equipment leaves or enters a yard.
+`Goal:`
 
-Goal:
+`Track equipment inventory using geo-fencing.`
 
-Track equipment inventory using geo-fencing.
+`Prompt:`
 
-Prompt:
-
-"You are an Asset Tracking Specialist. Build a geo-fenced alert system for rental equipment inventory.
-
+`"You are an Asset Tracking Specialist. Build a geo-fenced alert system for rental equipment inventory.`
+```
 1. Tag each equipment unit with GPS trackers.
 
 2. Create geo-fences for each yard location.
@@ -2644,9 +2644,9 @@ Prompt:
 4. Update inventory counts automatically.
 
 5. Provide weekly movement and utilisation reports."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Equipment list with GPS tracker IDs
 
 2. Yard location coordinates
@@ -2656,21 +2656,21 @@ Inputs Required:
 4. Inventory database integration details
 
 5. Preferred reporting frequency
+```
+## Prompt 23 — Returns Processing Inventory Updates
 
-Prompt 23 — Returns Processing Inventory Updates
+`Backstory:`
 
-Backstory:
+`An online fashion retailer receives thousands of returns weekly, but restocking delays occur because returned items take too long to be updated in inventory. You want an automated system that updates inventory the moment return inspection is complete.`
 
-An online fashion retailer receives thousands of returns weekly, but restocking delays occur because returned items take too long to be updated in inventory. You want an automated system that updates inventory the moment return inspection is complete.
+`Goal:`
 
-Goal:
+`Accelerate inventory availability from returned goods.`
 
-Accelerate inventory availability from returned goods.
+`Prompt:`
 
-Prompt:
-
-"You are a Reverse Logistics Coordinator. Design a returns processing inventory update system.
-
+`"You are a Reverse Logistics Coordinator. Design a returns processing inventory update system.`
+```
 1. Link return inspection stations with inventory system.
 
 2. Update SKU availability instantly after quality check.
@@ -2680,9 +2680,9 @@ Prompt:
 4. Track restocking time per return batch.
 
 5. Provide weekly return-to-restock performance metrics."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Return processing workflow
 
 2. Quality check pass/fail criteria
@@ -2692,21 +2692,21 @@ Inputs Required:
 4. SKU categorisation rules
 
 5. Reporting dashboard format
+```
+## Prompt 24 — Supplier Minimum Order Consolidation
 
-Prompt 24 — Supplier Minimum Order Consolidation
+`Backstory:`
 
-Backstory:
+`A food service distributor deals with suppliers who have high minimum order quantities (MOQs). Often, urgent restocks fail because the MOQ isn’t met. You want a system to consolidate orders across multiple branches to meet MOQ faster.`
 
-A food service distributor deals with suppliers who have high minimum order quantities (MOQs). Often, urgent restocks fail because the MOQ isn’t met. You want a system to consolidate orders across multiple branches to meet MOQ faster.
+`Goal:`
 
-Goal:
+`Enable MOQ-based consolidated restocking.`
 
-Enable MOQ-based consolidated restocking.
+`Prompt:`
 
-Prompt:
-
-"You are a Procurement Efficiency Planner. Create a consolidated ordering system for MOQ suppliers.
-
+`"You are a Procurement Efficiency Planner. Create a consolidated ordering system for MOQ suppliers.`
+```
 1. Aggregate orders from all branches.
 
 2. Identify when combined demand meets supplier MOQ.
@@ -2716,9 +2716,9 @@ Prompt:
 4. Split deliveries to branches upon arrival.
 
 5. Provide monthly MOQ compliance and cost savings reports."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Branch order data
 
 2. Supplier MOQ list
@@ -2728,21 +2728,21 @@ Inputs Required:
 4. Order aggregation frequency
 
 5. Reporting format
+```
+## Prompt 25 — Inventory Reorder Simulation Tool
 
-Prompt 25 — Inventory Reorder Simulation Tool
+`Backstory:`
 
-Backstory:
+`A home appliance retailer wants to experiment with different reorder points to see how it affects stockouts and holding costs before making policy changes. You need a simulation tool that models various reorder scenarios.`
 
-A home appliance retailer wants to experiment with different reorder points to see how it affects stockouts and holding costs before making policy changes. You need a simulation tool that models various reorder scenarios.
+`Goal:`
 
-Goal:
+`Create a reorder policy simulation tool.`
 
-Create a reorder policy simulation tool.
+`Prompt:`
 
-Prompt:
-
-"You are an Inventory Policy Analyst. Build a simulation tool for testing different reorder points.
-
+`"You are an Inventory Policy Analyst. Build a simulation tool for testing different reorder points.`
+```
 1. Input SKU demand and lead time data.
 
 2. Simulate stock levels over a 12-month period.
@@ -2752,9 +2752,9 @@ Prompt:
 4. Recommend optimal reorder points.
 
 5. Provide visual charts for decision-making."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. SKU demand history
 
 2. Lead times
@@ -2764,7 +2764,7 @@ Inputs Required:
 4. Service level targets
 
 5. Simulation period
-
+```
 
 # Cost analysis & efficiency reports
 
