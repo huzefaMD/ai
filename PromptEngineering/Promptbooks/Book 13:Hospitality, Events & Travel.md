@@ -2481,98 +2481,98 @@ Prompt 6 — Responding to a Positive Guest Review on TripAdvisor
 ```
 ## Prompt 10 — Encouraging Reviews in Regional Languages
 
-Backstory:
+`Backstory:`
 
-A resort in Coorg wants to increase visibility among Kannada-speaking travellers by encouraging reviews in Kannada.
+`A resort in Coorg wants to increase visibility among Kannada-speaking travellers by encouraging reviews in Kannada.`
 
-Goal:
+`Goal:`
 
-Create a culturally warm message encouraging regional language reviews.
+`Create a culturally warm message encouraging regional language reviews.`
 
-Prompt:
+`Prompt:`
 
-"You are the marketing manager for a resort in Coorg. Write a warm message encouraging guests to leave reviews in Kannada on Google and TripAdvisor.
-
+`"You are the marketing manager for a resort in Coorg. Write a warm message encouraging guests to leave reviews in Kannada on Google and TripAdvisor.`
+```
 1. Highlight that local language reviews help fellow travellers.
 
 2. Keep tone friendly and inclusive.
 
 3. Provide step-by-step instructions if needed."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Review platform links
 
 2. Guest name if personalising
+```
+## Prompt 11 — Responding to a Review with Incorrect Information
 
-Prompt 11 — Responding to a Review with Incorrect Information
+`Backstory:`
 
-Backstory:
+`A guest posted a 1-star review on MakeMyTrip claiming the hotel charged for Wi-Fi, but Wi-Fi is free. Management needs to correct this without sounding argumentative.`
 
-A guest posted a 1-star review on MakeMyTrip claiming the hotel charged for Wi-Fi, but Wi-Fi is free. Management needs to correct this without sounding argumentative.
+`Goal:`
 
-Goal:
+`Politely clarify incorrect information in a review while keeping tone respectful.`
 
-Politely clarify incorrect information in a review while keeping tone respectful.
+`Prompt:`
 
-Prompt:
-
-"You are the guest relations head for a boutique hotel in Shimla. Draft a reply to a review that incorrectly states your hotel charges for Wi-Fi.
-
+`"You are the guest relations head for a boutique hotel in Shimla. Draft a reply to a review that incorrectly states your hotel charges for Wi-Fi.`
+```
 1. Thank them for feedback.
 
 2. Politely clarify that Wi-Fi is complimentary.
 
 3. Invite them to revisit and enjoy improved service."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Review text
 
 2. Reviewer name
 
 3. Hotel’s Wi-Fi policy
+```
+## Prompt 12 — Social Media Graphic Caption for Review Highlights
 
-Prompt 12 — Social Media Graphic Caption for Review Highlights
+`Backstory:`
 
-Backstory:
+`A luxury train travel company wants to post passenger review highlights as Instagram stories with aesthetic templates.`
 
-A luxury train travel company wants to post passenger review highlights as Instagram stories with aesthetic templates.
+`Goal:`
 
-Goal:
+`Create catchy captions for positive review highlights for Instagram stories.`
 
-Create catchy captions for positive review highlights for Instagram stories.
+`Prompt:`
 
-Prompt:
-
-"You are the social media content lead for a luxury train service in India. Write short, catchy captions (max 8 words) for Instagram story slides featuring positive passenger review snippets.
-
+`"You are the social media content lead for a luxury train service in India. Write short, catchy captions (max 8 words) for Instagram story slides featuring positive passenger review snippets.`
+```
 1. Match tone to luxury travel branding.
 
 2. Include emojis sparingly.
 
 3. Encourage users to swipe up to book."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Exact review snippets
 
 2. Brand tone guide
+```
+## Prompt 13 — Template for Responding to a Mixed Review
 
-Prompt 13 — Template for Responding to a Mixed Review
+`Backstory:`
 
-Backstory:
+`A heritage hotel in Jaipur receives a 4-star Google review where the guest praises the royal architecture and breakfast but complains about slow check-in. The hotel wants to acknowledge the praise while addressing the issue constructively.`
 
-A heritage hotel in Jaipur receives a 4-star Google review where the guest praises the royal architecture and breakfast but complains about slow check-in. The hotel wants to acknowledge the praise while addressing the issue constructively.
+`Goal:`
 
-Goal:
+`Write a balanced and appreciative response to a mixed review, showing gratitude and willingness to improve.`
 
-Write a balanced and appreciative response to a mixed review, showing gratitude and willingness to improve.
+`Prompt:`
 
-Prompt:
-
-"You are the guest relations manager of a heritage hotel in Jaipur. Draft a reply to a 4-star review that praises your architecture and breakfast but mentions slow check-in.
-
+`"You are the guest relations manager of a heritage hotel in Jaipur. Draft a reply to a 4-star review that praises your architecture and breakfast but mentions slow check-in.`
+```
 1. Start by thanking the guest by name.
 
 2. Highlight their positive feedback.
@@ -2580,71 +2580,71 @@ Prompt:
 3. Address the check-in concern with an apology and mention corrective steps.
 
 4. Invite them back for a smoother experience."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Reviewer’s name
 
 2. Exact review content
 
 3. Actions taken to improve check-in
+```    
+## Prompt 14 — Thank You Message for Repeat Guests’ Review
 
-Prompt 14 — Thank You Message for Repeat Guests’ Review
+`Backstory:`
 
-Backstory:
+`A family who has stayed three times at a Goa beachfront property leaves a heartfelt review appreciating consistent service over the years.`
 
-A family who has stayed three times at a Goa beachfront property leaves a heartfelt review appreciating consistent service over the years.
+`Goal:`
 
-Goal:
+`Write a warm, loyal-guest appreciation reply that strengthens the relationship.`
 
-Write a warm, loyal-guest appreciation reply that strengthens the relationship.
+`Prompt:`
 
-Prompt:
-
-"You are the GM of a Goa beachfront property. Draft a reply to a review from a repeat guest family (three visits in four years).
-
+`"You are the GM of a Goa beachfront property. Draft a reply to a review from a repeat guest family (three visits in four years).`
+```
 1. Express deep gratitude for their loyalty.
 
 2. Mention memorable aspects of their past visits (from records).
 
 3. Offer a small loyalty perk for their next stay."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Reviewer’s name
 
 2. History of visits
 
 3. Loyalty offer details
+```
+## Prompt 15 — Email to Request Testimonial for Website
 
-Prompt 15 — Email to Request Testimonial for Website
+`Backstory:`
 
-Backstory:
+`A boutique resort in Munnar recently hosted a high-profile yoga retreat for an influencer group. They want a written testimonial to feature on their website’s wellness page.`
 
-A boutique resort in Munnar recently hosted a high-profile yoga retreat for an influencer group. They want a written testimonial to feature on their website’s wellness page.
+`Goal:`
 
-Goal:
+`Draft a polite request email for a testimonial from a recent influencer guest.`
 
-Draft a polite request email for a testimonial from a recent influencer guest.
+`Prompt:`
 
-Prompt:
-
-"You are the marketing manager of a boutique resort in Munnar. Write an email to a wellness influencer guest requesting a testimonial.
-
+`"You are the marketing manager of a boutique resort in Munnar. Write an email to a wellness influencer guest requesting a testimonial.`
+```
 1. Mention the success of their yoga retreat.
 
 2. Highlight where their testimonial will appear (website wellness page).
 
 3. Make it easy for them by suggesting 3–4 guiding questions."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Guest name
 
 2. Event details
 
 3. Website link to testimonial section
-
+```
 Prompt 16 — Handling a Cultural Misunderstanding in Review
 
 Backstory:
