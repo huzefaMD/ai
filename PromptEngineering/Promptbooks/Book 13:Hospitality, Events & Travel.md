@@ -721,18 +721,18 @@ Also, suggest caption ideas with hashtags relevant to Indian travel trends."
 
 3. Target destinations
 ```
-Prompt 6 — Pre-Wedding Photoshoot Package Promotion
+## Prompt 6 — Pre-Wedding Photoshoot Package Promotion
 
-Backstory: A luxury resort in Kerala is introducing a pre-wedding photoshoot package for couples. They want social media captions that feel romantic and aspirational.
+`Backstory: A luxury resort in Kerala is introducing a pre-wedding photoshoot package for couples. They want social media captions that feel romantic and aspirational.`
 
-Goal: Create 5 Instagram captions for the photoshoot package promotion.
+`Goal: Create 5 Instagram captions for the photoshoot package promotion.`
 
-Prompt:
+`Prompt:`
 
-"You are a Social Media Copywriter. Write 5 romantic, aspirational Instagram captions for a luxury resort in Kerala offering a pre-wedding photoshoot package.
+`"You are a Social Media Copywriter. Write 5 romantic, aspirational Instagram captions for a luxury resort in Kerala offering a pre-wedding photoshoot package.`
 
-Each caption should:
-
+`Each caption should:`
+```
 1. Evoke emotion & storytelling
 
 2. Highlight the scenic beauty of the location
@@ -740,27 +740,27 @@ Each caption should:
 3. Mention the package inclusions
 
 4. End with a booking CTA and relevant hashtags."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Package details
 
 2. Key scenic spots
 
 3. Photographer credits (if any)
+```
+## Prompt 7 — YouTube Video Script for Hotel Tour
 
-Prompt 7 — YouTube Video Script for Hotel Tour
+`Backstory: A new boutique hotel in Pondicherry wants to showcase its French-inspired architecture and bohemian vibe through a YouTube video tour.`
 
-Backstory: A new boutique hotel in Pondicherry wants to showcase its French-inspired architecture and bohemian vibe through a YouTube video tour.
+`Goal: Write a 3-minute YouTube video script highlighting the hotel’s unique features.`
 
-Goal: Write a 3-minute YouTube video script highlighting the hotel’s unique features.
+`Prompt:`
 
-Prompt:
+`"You are a Video Scriptwriter for hospitality brands. Write a 3-minute YouTube video script for a Pondicherry boutique hotel tour.`
 
-"You are a Video Scriptwriter for hospitality brands. Write a 3-minute YouTube video script for a Pondicherry boutique hotel tour.
-
-Include:
-
+`Include:`
+```
 1. A captivating introduction
 
 2. Walkthrough of rooms, dining areas, and amenities
@@ -768,27 +768,27 @@ Include:
 3. Lifestyle shots of guests enjoying spaces
 
 4. Closing CTA for bookings with website link."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Key hotel features
 
 2. Filming schedule
 
 3. Target audience
+```
+## Prompt 8 — Seasonal Package Brochure Copy
 
-Prompt 8 — Seasonal Package Brochure Copy
+`Backstory: A resort in Himachal is offering a “Snow & Serenity” winter package for January–February. They need brochure text for print and digital distribution.`
 
-Backstory: A resort in Himachal is offering a “Snow & Serenity” winter package for January–February. They need brochure text for print and digital distribution.
+`Goal: Write concise yet persuasive brochure copy.`
 
-Goal: Write concise yet persuasive brochure copy.
+`Prompt:`
 
-Prompt:
+`"You are a Hospitality Marketing Writer. Create brochure text for a Snow & Serenity winter package in Himachal.`
 
-"You are a Hospitality Marketing Writer. Create brochure text for a Snow & Serenity winter package in Himachal.
-
-Include:
-
+`Include:`
+```
 1. An emotional opening line about winter escapes
 
 2. Package inclusions in bullet points
@@ -796,27 +796,27 @@ Include:
 3. Special activities (snow treks, bonfire nights)
 
 4. Booking CTA with limited availability note."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Package details
 
 2. Activity list
 
 3. Booking link
+```
+## Prompt 9 — Tourism-Oriented Social Media Plan: Heritage Trail
 
-Prompt 9 — Tourism-Oriented Social Media Plan: Heritage Trail
+`Backstory: A resort in Varanasi wants to promote a “Spiritual Heritage Trail” itinerary for its guests, combining guided tours, cultural workshops, and local cuisine experiences.`
 
-Backstory: A resort in Varanasi wants to promote a “Spiritual Heritage Trail” itinerary for its guests, combining guided tours, cultural workshops, and local cuisine experiences.
+`Goal: Create a 5-post Instagram plan for promoting the itinerary.`
 
-Goal: Create a 5-post Instagram plan for promoting the itinerary.
+`Prompt:`
 
-Prompt:
+`"You are a Tourism Social Media Planner. Create 5 Instagram post ideas to market a Spiritual Heritage Trail in Varanasi.`
 
-"You are a Tourism Social Media Planner. Create 5 Instagram post ideas to market a Spiritual Heritage Trail in Varanasi.
-
-Each post should have:
-
+`Each post should have:`
+```
 1. A unique theme (temple tours, Ganga aarti, local food, craft workshops, guest testimonials)
 
 2. Suggested captions and hashtags
@@ -824,27 +824,27 @@ Each post should have:
 3. Image or reel ideas
 
 4. CTA to book the itinerary via the resort."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Itinerary details
 
 2. Photographer/videographer availability
 
 3. Target audience demographics
+```
+## Prompt 10 — Tourism-Oriented Blog Post: Monsoon Getaways
 
-Prompt 10 — Tourism-Oriented Blog Post: Monsoon Getaways
+`Backstory: A resort chain with properties in Coorg, Munnar, and Lonavala wants a blog article to drive monsoon bookings from young couples and solo travellers.`
 
-Backstory: A resort chain with properties in Coorg, Munnar, and Lonavala wants a blog article to drive monsoon bookings from young couples and solo travellers.
+`Goal: Write a blog post highlighting monsoon experiences in these locations.`
 
-Goal: Write a blog post highlighting monsoon experiences in these locations.
+`Prompt:`
 
-Prompt:
+`"You are a Travel Content Writer. Write a 1200-word blog post titled ‘Why Monsoon is the Best Time to Escape to Coorg, Munnar & Lonavala’.`
 
-"You are a Travel Content Writer. Write a 1200-word blog post titled ‘Why Monsoon is the Best Time to Escape to Coorg, Munnar & Lonavala’.
-
-Include:
-
+`Include:`
+```
 1. Romantic & adventurous experiences in each location
 
 2. Seasonal offers from the resort chain
@@ -852,15 +852,15 @@ Include:
 3. High-quality imagery placement suggestions
 
 4. SEO keywords for monsoon travel in India."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Offer details
 
 2. Property descriptions
 
 3. Images
-
+```
 Prompt 11— Seasonal Food Festival Promotion
 
 Backstory: A five-star heritage hotel in Delhi is launching its annual “Flavours of India” monsoon food festival. The event will feature 12 award-winning chefs representing different states, from Kashmiri Wazwan to Chettinad curries. The marketing team wants to target both local residents looking for a unique dining experience and international tourists staying nearby. They aim to fill all dining slots across 10 days, while reinforcing the hotel’s image as a culinary hub.
