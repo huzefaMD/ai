@@ -1790,7 +1790,7 @@
 
 5. Cost metrics
 ```
-Prompt 24 — Event Equipment Logistics Planning
+## Prompt 24 — Event Equipment Logistics Planning
 
 `Backstory:`
 
@@ -2335,18 +2335,18 @@ Prompt 24 — Event Equipment Logistics Planning
 ```
 ## Prompt 14 — Automated Vendor Restock Requests
 
-Backstory:
+`Backstory:`
 
-A hardware tools distributor works with multiple suppliers and currently sends restock requests manually. This delays procurement and often leads to missed sales. You want an automated system that sends restock purchase orders to vendors based on pre-set inventory triggers.
+`A hardware tools distributor works with multiple suppliers and currently sends restock requests manually. This delays procurement and often leads to missed sales. You want an automated system that sends restock purchase orders to vendors based on pre-set inventory triggers.`
 
-Goal:
+`Goal:`
 
-Automate vendor restock request generation.
+`Automate vendor restock request generation.`
 
-Prompt:
+`Prompt:`
 
-"You are a Procurement Automation Specialist. Create an automated vendor restock request system for a hardware tools distributor.
-
+`"You are a Procurement Automation Specialist. Create an automated vendor restock request system for a hardware tools distributor.`
+```
 1. Link inventory thresholds with PO generation.
 
 2. Auto-send POs to respective vendors when stock falls below threshold.
@@ -2356,9 +2356,9 @@ Prompt:
 4. Track vendor acknowledgements and expected delivery dates.
 
 5. Generate weekly vendor fulfilment reports."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. SKU list with reorder thresholds
 
 2. Vendor contact & order format details
@@ -2368,21 +2368,21 @@ Inputs Required:
 4. Purchase order template
 
 5. Approval workflow rules
+```
+## Prompt 15 — Overstock Clearance Trigger
 
-Prompt 15 — Overstock Clearance Trigger
+`Backstory:`
 
-Backstory:
+`A home décor retailer often over-orders certain designs that remain unsold for months, occupying valuable warehouse space. You need an automated system that flags overstock situations and triggers clearance campaigns to free up space.`
 
-A home décor retailer often over-orders certain designs that remain unsold for months, occupying valuable warehouse space. You need an automated system that flags overstock situations and triggers clearance campaigns to free up space.
+`Goal:`
 
-Goal:
+`Detect and clear overstocked items efficiently.`
 
-Detect and clear overstocked items efficiently.
+`Prompt:`
 
-Prompt:
-
-"You are a Retail Inventory Optimiser. Build an overstock clearance trigger system for a home décor retailer.
-
+`"You are a Retail Inventory Optimiser. Build an overstock clearance trigger system for a home décor retailer.`
+```
 1. Identify items exceeding 150% of average stock cover.
 
 2. Flag them for clearance campaigns.
@@ -2392,9 +2392,9 @@ Prompt:
 4. Track clearance campaign results and adjust strategy.
 
 5. Provide quarterly space utilisation reports."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Stock cover rules
 
 2. Current stock levels
@@ -2404,21 +2404,21 @@ Inputs Required:
 4. Clearance pricing strategy
 
 5. Campaign performance tracking
+```
+## Prompt 16 — Cross-Dock Inventory Flow Monitoring
 
-Prompt 16 — Cross-Dock Inventory Flow Monitoring
+`Backstory:`
 
-Backstory:
+`A logistics company operates multiple cross-dock facilities where goods are quickly transferred from inbound to outbound trucks. Due to poor inventory visibility, pallets sometimes sit unshipped for days, leading to missed deliveries and unhappy clients. You need a real-time system to track cross-dock movements and trigger alerts for delayed transfers.`
 
-A logistics company operates multiple cross-dock facilities where goods are quickly transferred from inbound to outbound trucks. Due to poor inventory visibility, pallets sometimes sit unshipped for days, leading to missed deliveries and unhappy clients. You need a real-time system to track cross-dock movements and trigger alerts for delayed transfers.
+`Goal:`
 
-Goal:
+`Ensure seamless inventory flow through cross-docking operations.`
 
-Ensure seamless inventory flow through cross-docking operations.
+`Prompt:`
 
-Prompt:
-
-"You are a Logistics Flow Analyst. Create a monitoring system for cross-dock inventory movements.
-
+`"You are a Logistics Flow Analyst. Create a monitoring system for cross-dock inventory movements.`
+```
 1. Track each pallet from inbound arrival to outbound loading.
 
 2. Flag pallets that remain at the dock beyond 8 hours.
@@ -2428,9 +2428,9 @@ Prompt:
 4. Integrate with carrier schedules for better coordination.
 
 5. Provide daily flow efficiency reports."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Dock facility layout and process maps
 
 2. Pallet ID tracking data
@@ -2440,21 +2440,21 @@ Inputs Required:
 4. Supervisor contact details
 
 5. Carrier delivery schedules
+```
+## Prompt 17 — Seasonal Restocking Automation
 
-Prompt 17 — Seasonal Restocking Automation
+`Backstory:`
 
-Backstory:
+`Your beverage distribution business experiences predictable seasonal demand for certain flavors—like mango in summer and cranberry in winter. Currently, seasonal orders are placed manually, often late. You want an automated seasonal restocking trigger to ensure timely supplier orders ahead of peak periods.`
 
-Your beverage distribution business experiences predictable seasonal demand for certain flavors—like mango in summer and cranberry in winter. Currently, seasonal orders are placed manually, often late. You want an automated seasonal restocking trigger to ensure timely supplier orders ahead of peak periods.
+`Goal:`
 
-Goal:
+`Automate seasonal restocking for recurring demand patterns.`
+```
+`Prompt:`
 
-Automate seasonal restocking for recurring demand patterns.
-
-Prompt:
-
-"You are a Seasonal Supply Planner. Develop an automated restocking trigger for seasonal beverage SKUs.
-
+`"You are a Seasonal Supply Planner. Develop an automated restocking trigger for seasonal beverage SKUs.`
+```
 1. Analyse historical sales for seasonal patterns.
 
 2. Pre-set seasonal reorder points months in advance.
@@ -2464,9 +2464,9 @@ Prompt:
 4. Factor in regional variations in demand.
 
 5. Provide post-season stock turnover reports."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Seasonal sales history by SKU
 
 2. Supplier lead times & minimum order quantities
@@ -2476,7 +2476,7 @@ Inputs Required:
 4. Seasonal SKU list
 
 5. PO generation template
-
+```
 Prompt 18 — Vendor Lead Time Alert System
 
 Backstory:
