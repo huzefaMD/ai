@@ -488,87 +488,87 @@ Listing for online PG rental platforms and student groups.
 
 ## Prompt 23 — Hilltop Bungalow in Kodaikanal
 
-Backstory:
+`Backstory:`
 
-Perched on a secluded hilltop in Kodaikanal, this 4-bedroom bungalow offers sweeping valley views, landscaped gardens, and an indoor fireplace. The property spans 2 acres, featuring a tea plantation and a glasshouse for year-round gardening. Designed for those seeking an escape from urban life, it offers complete privacy while being just 15 minutes from the town center. Ideal for personal use or as a boutique homestay, the bungalow comes with full furnishing and caretaker quarters.
+`Perched on a secluded hilltop in Kodaikanal, this 4-bedroom bungalow offers sweeping valley views, landscaped gardens, and an indoor fireplace. The property spans 2 acres, featuring a tea plantation and a glasshouse for year-round gardening. Designed for those seeking an escape from urban life, it offers complete privacy while being just 15 minutes from the town center. Ideal for personal use or as a boutique homestay, the bungalow comes with full furnishing and caretaker quarters.`
 
-Goal:
+`Goal:`
 
-Create a listing that appeals to buyers seeking tranquility, exclusivity, and nature.
+`Create a listing that appeals to buyers seeking tranquility, exclusivity, and nature.`
 
-Constraints:
-
+`Constraints:`
+```
 1. 200–220 words
 
 2. Emphasize retreat lifestyle and potential for hospitality use
 
 3. Use emotive, scenic language
+```
+`Output Format:`
 
-Output Format:
+`Premium residential listing for lifestyle magazines and high-end property portals.`
 
-Premium residential listing for lifestyle magazines and high-end property portals.
+## Prompt 24 — Retail Showroom Space in Mumbai
 
-Prompt 24 — Retail Showroom Space in Mumbai
+`Backstory:`
 
-Backstory:
+`Located on Linking Road, one of Mumbai’s most prominent retail hubs, this 3,500 sq. ft. showroom space offers unparalleled visibility and foot traffic. The property boasts a double-height glass façade, ample parking, and a modern HVAC system. Surrounded by premium fashion brands, eateries, and entertainment venues, the location ensures consistent customer inflow and brand exposure. Suitable for luxury retail, electronics, or flagship brand outlets.`
 
-Located on Linking Road, one of Mumbai’s most prominent retail hubs, this 3,500 sq. ft. showroom space offers unparalleled visibility and foot traffic. The property boasts a double-height glass façade, ample parking, and a modern HVAC system. Surrounded by premium fashion brands, eateries, and entertainment venues, the location ensures consistent customer inflow and brand exposure. Suitable for luxury retail, electronics, or flagship brand outlets.
+`Goal:`
 
-Goal:
+`Draft a property listing aimed at retail chains and franchise owners.`
 
-Draft a property listing aimed at retail chains and franchise owners.
-
-Constraints:
-
+`Constraints:`
+```
 1. 160–180 words
 
 2. Maintain a commercial and persuasive tone
 
 3. Emphasize location benefits and footfall statistics
+```
+`Output Format:`
 
-Output Format:
+`Retail space listing for commercial property portals and trade publications.`
 
-Retail space listing for commercial property portals and trade publications.
+## Prompt 25 — Smart Luxury Apartment in Ahmedabad
 
-Prompt 25 — Smart Luxury Apartment in Ahmedabad
+`Backstory:`
 
-Backstory:
+`A 3BHK smart apartment in Ahmedabad’s fastest-growing residential area, Prahlad Nagar, comes equipped with voice-controlled lighting, climate control, and integrated home security systems. The building offers a rooftop infinity pool, fitness center, and co-working lounge. With top schools, shopping malls, and hospitals within a 5 km radius, the apartment caters to modern, tech-savvy families seeking both convenience and style.`
 
-A 3BHK smart apartment in Ahmedabad’s fastest-growing residential area, Prahlad Nagar, comes equipped with voice-controlled lighting, climate control, and integrated home security systems. The building offers a rooftop infinity pool, fitness center, and co-working lounge. With top schools, shopping malls, and hospitals within a 5 km radius, the apartment caters to modern, tech-savvy families seeking both convenience and style.
+`Goal:`
 
-Goal:
+`Produce a listing that blends technology, comfort, and urban lifestyle appeal.`
 
-Produce a listing that blends technology, comfort, and urban lifestyle appeal.
-
-Constraints:
-
+`Constraints:`
+```
 1. 180–200 words
 
 2. Highlight smart-home features and location advantages
 
 3. Maintain a modern, aspirational tone
+```
+`Output Format:`
 
-Output Format:
-
-Residential property listing for premium online real estate platforms.
+`Residential property listing for premium online real estate platforms.`
 
 
-Lead generation campaigns
+`Lead generation campaigns`
 
-Prompt 1 — Luxury Apartment Launch – Social Media Funnel
+## Prompt 1 — Luxury Apartment Launch – Social Media Funnel
 
-Backstory:
+`Backstory:`
 
-A premium real estate developer in South Delhi is launching a luxury apartment project targeting HNIs, NRIs, and corporate executives. The challenge is to create a high-conversion campaign that appeals to aspirational buyers, builds brand trust, and drives them from awareness to booking site visits. Competitors are running aggressive ad campaigns, so the brand needs a differentiated approach that blends storytelling, virtual tours, and exclusivity.
+`A premium real estate developer in South Delhi is launching a luxury apartment project targeting HNIs, NRIs, and corporate executives. The challenge is to create a high-conversion campaign that appeals to aspirational buyers, builds brand trust, and drives them from awareness to booking site visits. Competitors are running aggressive ad campaigns, so the brand needs a differentiated approach that blends storytelling, virtual tours, and exclusivity.`
 
-Goal: Design a 4-week social media ad funnel to generate at least 150 qualified leads.
+`Goal: Design a 4-week social media ad funnel to generate at least 150 qualified leads.`
 
-Prompt:
+`Prompt:`
 
-"You are a luxury real estate marketing consultant. Create a 4-week Facebook & Instagram ad funnel for a luxury apartment launch in South Delhi. Include ad copy, creatives concept, targeting details, and lead magnet ideas. Suggest WhatsApp automation flow for quick follow-ups. Mention how to retarget engaged users."
+`"You are a luxury real estate marketing consultant. Create a 4-week Facebook & Instagram ad funnel for a luxury apartment launch in South Delhi. Include ad copy, creatives concept, targeting details, and lead magnet ideas. Suggest WhatsApp automation flow for quick follow-ups. Mention how to retarget engaged users."`
 
-Inputs Required:
-
+`Inputs Required:`
+```
 1. Property USPs
 
 2. Ad budget
@@ -576,21 +576,21 @@ Inputs Required:
 3. Target cities & audience demographics
 
 4. Creative asset availability
+```
+## Prompt 2 — Affordable Housing Scheme – WhatsApp Lead Drive
 
-Prompt 2 — Affordable Housing Scheme – WhatsApp Lead Drive
+`Backstory:`
 
-Backstory:
+`A developer in Jaipur is selling 2BHK units under ₹35 lakhs under a government subsidy scheme. The audience includes salaried employees and small business owners who prefer WhatsApp for communication. The aim is to bypass traditional website forms and directly collect and nurture leads via WhatsApp, using a drip campaign with info packs and EMI calculators.`
 
-A developer in Jaipur is selling 2BHK units under ₹35 lakhs under a government subsidy scheme. The audience includes salaried employees and small business owners who prefer WhatsApp for communication. The aim is to bypass traditional website forms and directly collect and nurture leads via WhatsApp, using a drip campaign with info packs and EMI calculators.
+`Goal: Develop a WhatsApp-first lead generation system for affordable housing.`
 
-Goal: Develop a WhatsApp-first lead generation system for affordable housing.
+`Prompt:`
 
-Prompt:
+`"You are a real estate digital automation expert. Design a WhatsApp lead generation and follow-up system for affordable housing in Jaipur. Include entry points (QR codes, click-to-chat ads), message flow, follow-up intervals, and lead scoring criteria."`
 
-"You are a real estate digital automation expert. Design a WhatsApp lead generation and follow-up system for affordable housing in Jaipur. Include entry points (QR codes, click-to-chat ads), message flow, follow-up intervals, and lead scoring criteria."
-
-Inputs Required:
-
+`Inputs Required:`
+```
 1. Property brochure
 
 2. Eligibility criteria
@@ -598,21 +598,21 @@ Inputs Required:
 3. Sample offers & incentives
 
 4. Customer persona
+```
+## Prompt 3 — NRI Buyer Webinar Campaign
 
-Prompt 3 — NRI Buyer Webinar Campaign
+`Backstory:`
 
-Backstory:
+`An Indian builder is targeting NRIs in the UAE and Singapore for a premium residential project in Pune. They want to host a live webinar with legal advisors and architects to address NRI concerns about investing in India. The main goal is to gather registrations and convert them into high-quality leads post-event through personalized consultation offers.`
 
-An Indian builder is targeting NRIs in the UAE and Singapore for a premium residential project in Pune. They want to host a live webinar with legal advisors and architects to address NRI concerns about investing in India. The main goal is to gather registrations and convert them into high-quality leads post-event through personalized consultation offers.
+`Goal: Drive at least 200 webinar sign-ups from NRI audiences and convert 10% into sales calls.`
 
-Goal: Drive at least 200 webinar sign-ups from NRI audiences and convert 10% into sales calls.
+`Prompt:`
 
-Prompt:
+`"You are a real estate webinar marketing strategist. Create a cross-platform campaign to attract NRIs for a webinar on Pune property investment. Suggest ad channels, email sequences, landing page copy, and post-webinar nurturing tactics."`
 
-"You are a real estate webinar marketing strategist. Create a cross-platform campaign to attract NRIs for a webinar on Pune property investment. Suggest ad channels, email sequences, landing page copy, and post-webinar nurturing tactics."
-
-Inputs Required:
-
+`Inputs Required:`
+```
 1. Webinar date & time
 
 2. Speaker bios
@@ -620,21 +620,21 @@ Inputs Required:
 3. Registration link
 
 4. Target countries
+```
+## Prompt 4 — Co-Working Space Lease Campaign
 
-Prompt 4 — Co-Working Space Lease Campaign
+`Backstory:`
 
-Backstory:
+`A commercial real estate firm in Bengaluru is launching a new co-working facility near tech parks. They aim to attract startups, freelancers, and SMEs through LinkedIn and performance marketing. The campaign needs to emphasize affordability, flexible terms, and community networking opportunities while competing with established brands like WeWork.`
 
-A commercial real estate firm in Bengaluru is launching a new co-working facility near tech parks. They aim to attract startups, freelancers, and SMEs through LinkedIn and performance marketing. The campaign needs to emphasize affordability, flexible terms, and community networking opportunities while competing with established brands like WeWork.
+`Goal: Generate 100 qualified inquiries in 30 days.`
 
-Goal: Generate 100 qualified inquiries in 30 days.
+`Prompt:`
 
-Prompt:
+`"You are a commercial space lead generation expert. Design a LinkedIn + Google Ads campaign for a new co-working space in Bengaluru. Include ad copy angles, targeting filters, keyword suggestions, and lead form optimization tips."`
 
-"You are a commercial space lead generation expert. Design a LinkedIn + Google Ads campaign for a new co-working space in Bengaluru. Include ad copy angles, targeting filters, keyword suggestions, and lead form optimization tips."
-
-Inputs Required:
-
+`Inputs Required:`
+```
 1. Price plans
 
 2. Amenities list
@@ -642,21 +642,21 @@ Inputs Required:
 3. Competitor benchmarks
 
 4. Photos/videos of space
+```
+## Prompt 5 — Exclusive Villa Project – Influencer Collab
 
-Prompt 5 — Exclusive Villa Project – Influencer Collab
+`Backstory:`
 
-Backstory:
+`A Goa-based luxury villa developer wants to tap into lifestyle influencers to attract HNIs and ultra-wealthy buyers. The challenge is to design a campaign that authentically integrates the influencer experience into the sales funnel, rather than just producing vanity content.`
 
-A Goa-based luxury villa developer wants to tap into lifestyle influencers to attract HNIs and ultra-wealthy buyers. The challenge is to design a campaign that authentically integrates the influencer experience into the sales funnel, rather than just producing vanity content.
+`Goal: Shortlist influencer types, create campaign flow, and integrate leads into CRM.`
 
-Goal: Shortlist influencer types, create campaign flow, and integrate leads into CRM.
+`Prompt:`
 
-Prompt:
+`"You are an influencer marketing strategist for luxury real estate. Plan an influencer-led lead generation campaign for a Goa villa project. Include influencer selection criteria, collaboration formats (stay experience, virtual tours), tracking links, and lead capture integration."`
 
-"You are an influencer marketing strategist for luxury real estate. Plan an influencer-led lead generation campaign for a Goa villa project. Include influencer selection criteria, collaboration formats (stay experience, virtual tours), tracking links, and lead capture integration."
-
-Inputs Required:
-
+`Inputs Required:`
+```
 1. Influencer budget
 
 2. Ideal buyer persona
@@ -664,21 +664,21 @@ Inputs Required:
 3. Villa USPs
 
 4. Timeline for launch
+```
+## Prompt 6 — Student Housing Lead Drive via Campus Ambassadors
 
-Prompt 6 — Student Housing Lead Drive via Campus Ambassadors
+`Backstory:`
 
-Backstory:
+`A developer in Pune is launching fully-furnished student accommodations near top universities. Instead of traditional ads, they plan to use campus ambassadors to spread the word and collect leads from students and parents. They want a strategy that blends offline outreach with digital capture forms, ensuring the data flows directly into their CRM for nurturing.`
 
-A developer in Pune is launching fully-furnished student accommodations near top universities. Instead of traditional ads, they plan to use campus ambassadors to spread the word and collect leads from students and parents. They want a strategy that blends offline outreach with digital capture forms, ensuring the data flows directly into their CRM for nurturing.
+`Goal: Recruit 20 campus ambassadors and generate 300 leads within 45 days.`
 
-Goal: Recruit 20 campus ambassadors and generate 300 leads within 45 days.
+`Prompt:`
 
-Prompt:
+`"You are a real estate youth marketing consultant. Design a student housing lead generation plan using campus ambassadors in Pune. Include recruitment guidelines, incentive structures, offline event ideas, lead capture methods, and CRM integration."`
 
-"You are a real estate youth marketing consultant. Design a student housing lead generation plan using campus ambassadors in Pune. Include recruitment guidelines, incentive structures, offline event ideas, lead capture methods, and CRM integration."
-
-Inputs Required:
-
+`Inputs Required:`
+```
 1. University list
 
 2. Pricing & amenities
@@ -686,21 +686,21 @@ Inputs Required:
 3. CRM tool details
 
 4. Incentive budget
+```
+## Prompt 7 — Google Local Service Ads for Builder Floors
 
-Prompt 7 — Google Local Service Ads for Builder Floors
+`Backstory:`
 
-Backstory:
+`A Gurgaon builder specializing in builder floors is struggling with low visibility on Google. They want to use Google Local Service Ads (LSAs) to appear in “near me” searches and directly capture calls from interested buyers. They need an optimized profile, review strategy, and budget plan to ensure maximum ROI.`
 
-A Gurgaon builder specializing in builder floors is struggling with low visibility on Google. They want to use Google Local Service Ads (LSAs) to appear in “near me” searches and directly capture calls from interested buyers. They need an optimized profile, review strategy, and budget plan to ensure maximum ROI.
+`Goal: Achieve at least 50 qualified call leads in the first month.`
 
-Goal: Achieve at least 50 qualified call leads in the first month.
+`Prompt:`
 
-Prompt:
+`"You are a local SEO and LSA expert. Create a step-by-step plan to set up and optimize Google Local Service Ads for a builder floor developer in Gurgaon. Include keyword targeting, review generation strategy, and call handling SOPs."`
 
-"You are a local SEO and LSA expert. Create a step-by-step plan to set up and optimize Google Local Service Ads for a builder floor developer in Gurgaon. Include keyword targeting, review generation strategy, and call handling SOPs."
-
-Inputs Required:
-
+`Inputs Required:`
+```
 1. Service areas
 
 2. Ad budget
@@ -708,21 +708,21 @@ Inputs Required:
 3. USPs of builder floors
 
 4. Current reviews/ratings
+```
+## Prompt 8 — Referral Program for Existing Buyers
 
-Prompt 8 — Referral Program for Existing Buyers
+`Backstory:`
 
-Backstory:
+`A Mumbai-based luxury apartment developer has many satisfied customers. They want to turn these happy buyers into brand advocates through a referral program. The challenge is to design attractive rewards while maintaining brand exclusivity and tracking referrals accurately to prevent misuse.`
 
-A Mumbai-based luxury apartment developer has many satisfied customers. They want to turn these happy buyers into brand advocates through a referral program. The challenge is to design attractive rewards while maintaining brand exclusivity and tracking referrals accurately to prevent misuse.
+`Goal: Generate 25 high-quality leads in 60 days from referrals.`
 
-Goal: Generate 25 high-quality leads in 60 days from referrals.
+`Prompt:`
 
-Prompt:
+`"You are a real estate loyalty program designer. Create a referral campaign for a Mumbai luxury apartment project. Suggest reward structures, tracking mechanisms, promotional messaging, and follow-up scripts."`
 
-"You are a real estate loyalty program designer. Create a referral campaign for a Mumbai luxury apartment project. Suggest reward structures, tracking mechanisms, promotional messaging, and follow-up scripts."
-
-Inputs Required:
-
+`Inputs Required:`
+```
 1. Buyer database size
 
 2. Reward budget
@@ -730,21 +730,21 @@ Inputs Required:
 3. Legal guidelines
 
 4. Communication channels
+```
+## Prompt 9 — Real Estate Investment Fair – Lead Capture
 
-Prompt 9 — Real Estate Investment Fair – Lead Capture
+`Backstory:`
 
-Backstory:
+`A Hyderabad developer is participating in a national real estate investment expo. The footfall will be high, but they need a system to capture, qualify, and nurture leads efficiently during the event. They want both physical and digital capture methods.`
 
-A Hyderabad developer is participating in a national real estate investment expo. The footfall will be high, but they need a system to capture, qualify, and nurture leads efficiently during the event. They want both physical and digital capture methods.
+`Goal: Collect 500 leads and qualify 50% for follow-up sales calls.`
 
-Goal: Collect 500 leads and qualify 50% for follow-up sales calls.
+`Prompt:`
 
-Prompt:
+`"You are an event marketing strategist. Design a lead capture plan for a real estate expo booth. Include booth design tips, interactive elements, data collection methods, and post-event email/WhatsApp nurturing flows."`
 
-"You are an event marketing strategist. Design a lead capture plan for a real estate expo booth. Include booth design tips, interactive elements, data collection methods, and post-event email/WhatsApp nurturing flows."
-
-Inputs Required:
-
+`Inputs Required:`
+```
 1. Booth size/layout
 
 2. Available staff
@@ -752,21 +752,21 @@ Inputs Required:
 3. CRM tool
 
 4. Brochures & giveaways
+```
+## Prompt 10 — Micro-Targeted Facebook Campaign for NRIs
 
-Prompt 10 — Micro-Targeted Facebook Campaign for NRIs
+`Backstory:`
 
-Backstory:
+`A Kochi-based villa project wants to attract NRIs from the Gulf region. They aim to run Facebook campaigns in Malayalam and English, targeting high-income Gulf-based Indians who are looking to invest back home. They need audience segmentation and creative ideas that resonate culturally.`
 
-A Kochi-based villa project wants to attract NRIs from the Gulf region. They aim to run Facebook campaigns in Malayalam and English, targeting high-income Gulf-based Indians who are looking to invest back home. They need audience segmentation and creative ideas that resonate culturally.
+`Goal: Generate 150 NRI leads in 30 days.`
 
-Goal: Generate 150 NRI leads in 30 days.
+`Prompt:`
 
-Prompt:
+`"You are an NRI-focused ad strategist. Create a Facebook campaign plan for a villa project in Kochi targeting Gulf-based NRIs. Include audience segmentation, ad copy angles, language versions, and lead form optimization."`
 
-"You are an NRI-focused ad strategist. Create a Facebook campaign plan for a villa project in Kochi targeting Gulf-based NRIs. Include audience segmentation, ad copy angles, language versions, and lead form optimization."
-
-Inputs Required:
-
+`Inputs Required:`
+```
 1. Villa brochure
 
 2. Target countries/cities
@@ -774,21 +774,21 @@ Inputs Required:
 3. Cultural elements to highlight
 
 4. Ad spend budget
+```
+## Prompt 11 — SEO Landing Pages for Localities
 
-Prompt 11 — SEO Landing Pages for Localities
+`Backstory:`
 
-Backstory:
+`A Noida real estate firm wants to rank organically for “2BHK in [Locality Name]” searches. They need SEO-optimized landing pages for multiple micro-markets, with the right structure to drive organic leads without spending heavily on ads.`
 
-A Noida real estate firm wants to rank organically for “2BHK in [Locality Name]” searches. They need SEO-optimized landing pages for multiple micro-markets, with the right structure to drive organic leads without spending heavily on ads.
+`Goal: Rank top 3 for at least 5 locality-based keywords in 90 days.`
 
-Goal: Rank top 3 for at least 5 locality-based keywords in 90 days.
+`Prompt:`
 
-Prompt:
+`"You are an SEO content strategist. Create a blueprint for 10 SEO landing pages targeting specific Noida localities for real estate lead generation. Include keyword clusters, page structure, CTAs, and internal linking strategy."`
 
-"You are an SEO content strategist. Create a blueprint for 10 SEO landing pages targeting specific Noida localities for real estate lead generation. Include keyword clusters, page structure, CTAs, and internal linking strategy."
-
-Inputs Required:
-
+`Inputs Required:`
+```
 1. Locality list
 
 2. Property types
@@ -796,21 +796,21 @@ Inputs Required:
 3. USP for each location
 
 4. Existing website CMS
+```
+## Prompt 12 — Video Walkthrough Lead Ads
 
-Prompt 12 — Video Walkthrough Lead Ads
+`Backstory:`
 
-Backstory:
+`A Chandigarh builder has professionally shot video walkthroughs of their premium flats. They want to repurpose these into Facebook and YouTube lead ads, optimized to capture contact details mid-video. The aim is to combine immersive content with performance marketing.`
 
-A Chandigarh builder has professionally shot video walkthroughs of their premium flats. They want to repurpose these into Facebook and YouTube lead ads, optimized to capture contact details mid-video. The aim is to combine immersive content with performance marketing.
+`Goal: Convert at least 8% of viewers into leads.`
 
-Goal: Convert at least 8% of viewers into leads.
+`Prompt:`
 
-Prompt:
+`"You are a video ad strategist. Design a Facebook + YouTube lead ad campaign using video walkthroughs for a Chandigarh premium flat project. Include hook ideas, CTA placement, retargeting plans, and video length recommendations."`
 
-"You are a video ad strategist. Design a Facebook + YouTube lead ad campaign using video walkthroughs for a Chandigarh premium flat project. Include hook ideas, CTA placement, retargeting plans, and video length recommendations."
-
-Inputs Required:
-
+`Inputs Required:`
+```
 1. Video files
 
 2. CTA offers
@@ -818,21 +818,21 @@ Inputs Required:
 3. Ad budget
 
 4. Target audience
+```
+## Prompt 13 — Instagram Influencer Collaboration for Lifestyle Positioning
 
-Prompt 13 — Instagram Influencer Collaboration for Lifestyle Positioning
+`Backstory:`
 
-Backstory:
+`A Bangalore-based high-rise developer wants to position their project as the ultimate luxury lifestyle choice for young professionals. They’re considering collaborations with lifestyle influencers who can showcase the property’s amenities, location, and aspirational living. The campaign must balance brand aesthetics with lead generation through trackable links and landing pages.`
 
-A Bangalore-based high-rise developer wants to position their project as the ultimate luxury lifestyle choice for young professionals. They’re considering collaborations with lifestyle influencers who can showcase the property’s amenities, location, and aspirational living. The campaign must balance brand aesthetics with lead generation through trackable links and landing pages.
+`Goal: Generate 120 qualified leads in 30 days from influencer-driven traffic.`
 
-Goal: Generate 120 qualified leads in 30 days from influencer-driven traffic.
+`Prompt:`
 
-Prompt:
+`"You are a luxury real estate influencer marketing strategist. Create a plan for collaborating with Instagram lifestyle influencers to promote a Bangalore high-rise. Include influencer selection criteria, content guidelines, trackable CTAs, and performance metrics."`
 
-"You are a luxury real estate influencer marketing strategist. Create a plan for collaborating with Instagram lifestyle influencers to promote a Bangalore high-rise. Include influencer selection criteria, content guidelines, trackable CTAs, and performance metrics."
-
-Inputs Required:
-
+`Inputs Required:`
+```
 1. Project brochure
 
 2. Amenity highlights
@@ -840,21 +840,21 @@ Inputs Required:
 3. Target influencer niche
 
 4. Collaboration budget
+```
+## Prompt 14 — Webinar Funnel for First-Time Homebuyers
 
-Prompt 14 — Webinar Funnel for First-Time Homebuyers
+`Backstory:`
 
-Backstory:
+`A Jaipur real estate agency wants to educate first-time homebuyers about the process, financing options, and available projects. They plan to host a free webinar, capture sign-ups, and then follow up with personalized property recommendations. The challenge is to position it as both educational and lead-generating.`
 
-A Jaipur real estate agency wants to educate first-time homebuyers about the process, financing options, and available projects. They plan to host a free webinar, capture sign-ups, and then follow up with personalized property recommendations. The challenge is to position it as both educational and lead-generating.
+`Goal: 500 webinar sign-ups, with 20% converting to qualified leads.`
 
-Goal: 500 webinar sign-ups, with 20% converting to qualified leads.
+`Prompt:`
 
-Prompt:
+`"You are a webinar funnel expert. Design a real estate webinar campaign for first-time buyers in Jaipur. Include landing page copy, ad targeting, email reminders, webinar structure, and post-event follow-up."`
 
-"You are a webinar funnel expert. Design a real estate webinar campaign for first-time buyers in Jaipur. Include landing page copy, ad targeting, email reminders, webinar structure, and post-event follow-up."
-
-Inputs Required:
-
+`Inputs Required:`
+```
 1. Webinar topic outline
 
 2. Available speaker(s)
@@ -862,21 +862,21 @@ Inputs Required:
 3. Platform to host webinar
 
 4. Follow-up CRM process
+```
+## Prompt 15 — LinkedIn Outreach for Commercial Spaces
 
-Prompt 15 — LinkedIn Outreach for Commercial Spaces
+`Backstory:`
 
-Backstory:
+`A Gurugram developer is launching a new commercial complex and wants to attract startups, SMEs, and established businesses. Instead of cold-calling, they want to leverage LinkedIn to connect with decision-makers, share content, and schedule site visits.`
 
-A Gurugram developer is launching a new commercial complex and wants to attract startups, SMEs, and established businesses. Instead of cold-calling, they want to leverage LinkedIn to connect with decision-makers, share content, and schedule site visits.
+`Goal: Book 40 site visits from LinkedIn-generated leads in 60 days.`
 
-Goal: Book 40 site visits from LinkedIn-generated leads in 60 days.
+`Prompt:`
 
-Prompt:
+`"You are a B2B LinkedIn marketing strategist. Create a targeted outreach and content plan to generate commercial real estate leads for a Gurugram business complex. Include connection request scripts, follow-up messaging, and content calendar ideas."`
 
-"You are a B2B LinkedIn marketing strategist. Create a targeted outreach and content plan to generate commercial real estate leads for a Gurugram business complex. Include connection request scripts, follow-up messaging, and content calendar ideas."
-
-Inputs Required:
-
+`Inputs Required:`
+```
 1. Project details
 
 2. Target industry list
@@ -884,21 +884,21 @@ Inputs Required:
 3. LinkedIn Sales Navigator access
 
 4. Number of outreach messages per day
+```
+## Prompt 16 — WhatsApp Drip Campaign for Hot Leads
 
-Prompt 16 — WhatsApp Drip Campaign for Hot Leads
+`Backstory:`
 
-Backstory:
+`A Thane real estate sales team collects many inquiries from ads, but conversion rates drop because prospects lose interest. They want a structured WhatsApp drip campaign that sends project videos, testimonials, and offers over 7–10 days to keep leads engaged.`
 
-A Thane real estate sales team collects many inquiries from ads, but conversion rates drop because prospects lose interest. They want a structured WhatsApp drip campaign that sends project videos, testimonials, and offers over 7–10 days to keep leads engaged.
+`Goal: Improve lead-to-site-visit conversion rate by 30% in two months.`
 
-Goal: Improve lead-to-site-visit conversion rate by 30% in two months.
+`Prompt:`
 
-Prompt:
+`"You are a WhatsApp automation expert. Create a 10-day drip campaign for a Thane real estate project, including message templates, multimedia content ideas, and conversion-focused CTAs."`
 
-"You are a WhatsApp automation expert. Create a 10-day drip campaign for a Thane real estate project, including message templates, multimedia content ideas, and conversion-focused CTAs."
-
-Inputs Required:
-
+`Inputs Required:`
+```
 1. Project photos/videos
 
 2. CRM integration tool
@@ -906,21 +906,21 @@ Inputs Required:
 3. Offers & deadlines
 
 4. Follow-up team availability
+```
+## Prompt 17 — Google Display Retargeting for Dropped Leads
 
-Prompt 17 — Google Display Retargeting for Dropped Leads
+`Backstory:`
 
-Backstory:
+`A property portal in India noticed many users start filling inquiry forms but drop off before submission. They want to run display remarketing ads to bring these users back to complete the form or schedule a call.`
 
-A property portal in India noticed many users start filling inquiry forms but drop off before submission. They want to run display remarketing ads to bring these users back to complete the form or schedule a call.
+`Goal: Recover at least 20% of dropped leads within a month.`
 
-Goal: Recover at least 20% of dropped leads within a month.
+`Prompt:`
 
-Prompt:
+`"You are a Google Ads remarketing specialist. Design a display retargeting strategy to re-engage dropped leads for a property portal in India. Include ad creative concepts, targeting rules, frequency caps, and A/B testing plan."`
 
-"You are a Google Ads remarketing specialist. Design a display retargeting strategy to re-engage dropped leads for a property portal in India. Include ad creative concepts, targeting rules, frequency caps, and A/B testing plan."
-
-Inputs Required:
-
+`Inputs Required:`
+```
 1. Website pixel setup
 
 2. Abandonment data
@@ -928,21 +928,21 @@ Inputs Required:
 3. Creative library
 
 4. Ad budget
+```
+## Prompt 18 — Hyperlocal Newspaper Insert Campaign
 
-Prompt 18 — Hyperlocal Newspaper Insert Campaign
+`Backstory:`
 
-Backstory:
+`A Nashik-based affordable housing project wants to target specific neighborhoods with physical newspaper inserts highlighting special pre-launch prices. They want to combine print with QR codes leading to an inquiry page.`
 
-A Nashik-based affordable housing project wants to target specific neighborhoods with physical newspaper inserts highlighting special pre-launch prices. They want to combine print with QR codes leading to an inquiry page.
+`Goal: Get 200 QR code scans and 100 calls in 2 weeks.`
 
-Goal: Get 200 QR code scans and 100 calls in 2 weeks.
+`Prompt:`
 
-Prompt:
+`"You are a hyperlocal marketing consultant. Create a newspaper insert lead gen strategy for a Nashik affordable housing project. Include design guidelines, distribution plan, QR code tracking, and follow-up process."`
 
-"You are a hyperlocal marketing consultant. Create a newspaper insert lead gen strategy for a Nashik affordable housing project. Include design guidelines, distribution plan, QR code tracking, and follow-up process."
-
-Inputs Required:
-
+`Inputs Required:`
+```
 1. Target pin codes
 
 2. Print budget
@@ -950,21 +950,21 @@ Inputs Required:
 3. Project offer details
 
 4. Landing page link
+```
+## Prompt 19 — Google My Business Optimization for Local Search Leads
 
-Prompt 19 — Google My Business Optimization for Local Search Leads
+`Backstory:`
 
-Backstory:
+`A Kolkata real estate broker relies heavily on local leads but their Google Business Profile is poorly optimized. They want to improve their listing, get more reviews, post weekly updates, and track call leads from GMB.`
 
-A Kolkata real estate broker relies heavily on local leads but their Google Business Profile is poorly optimized. They want to improve their listing, get more reviews, post weekly updates, and track call leads from GMB.
+`Goal: Increase GMB call leads by 50% in 60 days.`
 
-Goal: Increase GMB call leads by 50% in 60 days.
+`Prompt:`
 
-Prompt:
+`"You are a local SEO consultant. Create a Google My Business optimization plan for a Kolkata real estate brokerage. Include profile update checklist, review collection methods, photo/video strategy, and insights tracking."`
 
-"You are a local SEO consultant. Create a Google My Business optimization plan for a Kolkata real estate brokerage. Include profile update checklist, review collection methods, photo/video strategy, and insights tracking."
-
-Inputs Required:
-
+`Inputs Required:`
+```
 1. GMB access
 
 2. Photos/videos
@@ -972,21 +972,21 @@ Inputs Required:
 3. Review request SOP
 
 4. Current performance stats
+```
+## Prompt 20 — Festive Season Offer Campaign
 
-Prompt 20 — Festive Season Offer Campaign
+`Backstory:`
 
-Backstory:
+`A Lucknow builder wants to leverage Diwali to push inventory. They plan to offer festive discounts, gold vouchers, and no EMI for a year. They want a full-scale lead gen campaign blending social media, print, and WhatsApp.`
 
-A Lucknow builder wants to leverage Diwali to push inventory. They plan to offer festive discounts, gold vouchers, and no EMI for a year. They want a full-scale lead gen campaign blending social media, print, and WhatsApp.
+`Goal: Generate 500 leads during the Diwali week.`
 
-Goal: Generate 500 leads during the Diwali week.
+`Prompt:`
 
-Prompt:
+`"You are a festive campaign strategist. Design a Diwali property sales lead generation campaign for a Lucknow builder. Include multi-channel messaging, creative themes, urgency tactics, and follow-up scripts."`
 
-"You are a festive campaign strategist. Design a Diwali property sales lead generation campaign for a Lucknow builder. Include multi-channel messaging, creative themes, urgency tactics, and follow-up scripts."
-
-Inputs Required:
-
+`Inputs Required:`
+```
 1. Offer details
 
 2. Campaign duration
@@ -994,21 +994,21 @@ Inputs Required:
 3. Budget per channel
 
 4. Sales team size
+```
+## Prompt 21 — YouTube Pre-Roll Ads for Project Launch
 
-Prompt 21 — YouTube Pre-Roll Ads for Project Launch
+`Backstory:`
 
-Backstory:
+`A Coimbatore builder is launching a new township and wants to use YouTube pre-roll ads targeting users watching home-buying and local news videos. They need scripts, video ad structure, and a retargeting sequence.`
 
-A Coimbatore builder is launching a new township and wants to use YouTube pre-roll ads targeting users watching home-buying and local news videos. They need scripts, video ad structure, and a retargeting sequence.
+`Goal: Drive 1000 clicks to landing page in 3 weeks.`
 
-Goal: Drive 1000 clicks to landing page in 3 weeks.
+`Prompt:`
 
-Prompt:
+`"You are a YouTube ad specialist. Create a pre-roll ad strategy for a Coimbatore township launch. Include hook lines, storyboard, targeting keywords, and retargeting ad ideas."`
 
-"You are a YouTube ad specialist. Create a pre-roll ad strategy for a Coimbatore township launch. Include hook lines, storyboard, targeting keywords, and retargeting ad ideas."
-
-Inputs Required:
-
+`Inputs Required:`
+```
 1. Project video footage
 
 2. Target audience
@@ -1016,21 +1016,21 @@ Inputs Required:
 3. Ad budget
 
 4. Landing page link
+```
+## Prompt 22 — Real Estate Quiz Funnel
 
-Prompt 22 — Real Estate Quiz Funnel
+`Backstory:`
 
-Backstory:
+`A Pune property consultancy wants to engage cold audiences by running a “What’s your perfect home type?” quiz. The quiz will collect emails and phone numbers, then recommend relevant properties.`
 
-A Pune property consultancy wants to engage cold audiences by running a “What’s your perfect home type?” quiz. The quiz will collect emails and phone numbers, then recommend relevant properties.
+`Goal: Capture 400 leads in a month through the quiz funnel.`
 
-Goal: Capture 400 leads in a month through the quiz funnel.
+`Prompt:`
 
-Prompt:
+`"You are an interactive marketing strategist. Design a real estate quiz funnel for a Pune consultancy. Include quiz structure, lead capture points, property mapping logic, and retargeting plan."`
 
-"You are an interactive marketing strategist. Design a real estate quiz funnel for a Pune consultancy. Include quiz structure, lead capture points, property mapping logic, and retargeting plan."
-
-Inputs Required:
-
+`Inputs Required:`
+```
 1. Property categories
 
 2. CRM integration details
@@ -1038,21 +1038,21 @@ Inputs Required:
 3. Offer for quiz takers
 
 4. Quiz platform
+```
+## Prompt 23 — Partnership with Mortgage Brokers for Lead Exchange
 
-Prompt 23 — Partnership with Mortgage Brokers for Lead Exchange
+`Backstory:`
 
-Backstory:
+`A Delhi builder wants to partner with mortgage brokers so that both parties can exchange leads—buyers looking for loans get introduced to properties, and property buyers get referred for loans. They need an agreement structure and tracking method.`
 
-A Delhi builder wants to partner with mortgage brokers so that both parties can exchange leads—buyers looking for loans get introduced to properties, and property buyers get referred for loans. They need an agreement structure and tracking method.
+`Goal: Acquire 100 cross-referred leads in 90 days.`
 
-Goal: Acquire 100 cross-referred leads in 90 days.
+`Prompt:`
 
-Prompt:
+`"You are a partnership marketing expert. Create a lead exchange program between a Delhi real estate builder and mortgage brokers. Include partner selection criteria, incentive structure, and lead tracking SOPs."`
 
-"You are a partnership marketing expert. Create a lead exchange program between a Delhi real estate builder and mortgage brokers. Include partner selection criteria, incentive structure, and lead tracking SOPs."
-
-Inputs Required:
-
+`Inputs Required:`
+```
 1. Number of partner brokers
 
 2. Commission rates
@@ -1060,21 +1060,21 @@ Inputs Required:
 3. CRM details
 
 4. Legal terms
+```
+## Prompt 24 — Pinterest Boards for Interior Inspiration → Lead Funnel
 
-Prompt 24 — Pinterest Boards for Interior Inspiration → Lead Funnel
+`Backstory:`
 
-Backstory:
+`A Surat real estate agency wants to use Pinterest to attract home decor enthusiasts, then funnel them into property inquiries. They’ll create boards showcasing interiors from their own projects and related trends.`
 
-A Surat real estate agency wants to use Pinterest to attract home decor enthusiasts, then funnel them into property inquiries. They’ll create boards showcasing interiors from their own projects and related trends.
+`Goal: Convert 5% of Pinterest visitors into property leads in 3 months.`
 
-Goal: Convert 5% of Pinterest visitors into property leads in 3 months.
+`Prompt:`
 
-Prompt:
+`"You are a visual content strategist. Create a Pinterest marketing funnel for a Surat real estate agency. Include board ideas, pin design guidelines, linking strategy, and lead capture process."`
 
-"You are a visual content strategist. Create a Pinterest marketing funnel for a Surat real estate agency. Include board ideas, pin design guidelines, linking strategy, and lead capture process."
-
-Inputs Required:
-
+`Inputs Required:`
+```
 1. Project photos
 
 2. Design inspiration sources
@@ -1082,21 +1082,21 @@ Inputs Required:
 3. Website/landing page
 
 4. Posting schedule
+```
+## Prompt 25 — Geo-Fencing Ads for Competitor Site Visitors
 
-Prompt 25 — Geo-Fencing Ads for Competitor Site Visitors
+`Backstory:`
 
-Backstory:
+`A Chennai builder wants to target mobile users who visit competing real estate project sites by setting up geo-fencing ads around their locations. The ads will promote their better offers and urge prospects to schedule visits.`
 
-A Chennai builder wants to target mobile users who visit competing real estate project sites by setting up geo-fencing ads around their locations. The ads will promote their better offers and urge prospects to schedule visits.
+`Goal: Generate 150 competitive leads in 30 days.`
 
-Goal: Generate 150 competitive leads in 30 days.
+`Prompt:`
 
-Prompt:
+`"You are a geo-fencing ad strategist. Create a plan to run geo-targeted mobile ads for a Chennai builder targeting visitors to competitor sites. Include setup instructions, creative messaging, and conversion tracking methods."`
 
-"You are a geo-fencing ad strategist. Create a plan to run geo-targeted mobile ads for a Chennai builder targeting visitors to competitor sites. Include setup instructions, creative messaging, and conversion tracking methods."
-
-Inputs Required:
-
+`Inputs Required:`
+```
 1. Competitor location list
 
 2. Ad creatives
@@ -1104,11 +1104,11 @@ Inputs Required:
 3. Geo-fencing platform
 
 4. Offer details
+```
 
+# Market Research Reports
 
-Market Research Reports
-
-Prompt 1 —Residential Real Estate Market Report for Tier-2 Cities
+## Prompt 1 —Residential Real Estate Market Report for Tier-2 Cities
 
 Backstory: An Indian real estate investment firm is considering expansion into Tier-2 cities such as Indore, Surat, and Lucknow. The management wa
 
