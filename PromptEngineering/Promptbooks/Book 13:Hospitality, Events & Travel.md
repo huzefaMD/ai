@@ -1298,23 +1298,23 @@ Target audience: Indian and NRI luxury travelers aged 25–40."
 4. High-res images
 ```
 
-Itinerary creation
+# Itinerary creation
 
 
-Prompt 1 — Luxury Golden Triangle Tour – 7-Day Itinerary
+## Prompt 1 — Luxury Golden Triangle Tour – 7-Day Itinerary
 
-Backstory:
+`Backstory:`
 
-A boutique travel agency in Delhi is catering to affluent foreign visitors aged 25–35 who want a luxurious experience of India’s famous Golden Triangle — Delhi, Agra, and Jaipur. These travellers value cultural immersion, 5-star comfort, and Instagram-worthy moments. The agency wants to present a premium itinerary that blends iconic sights with unique, lesser-known experiences, while ensuring seamless logistics and high-end service.
+`A boutique travel agency in Delhi is catering to affluent foreign visitors aged 25–35 who want a luxurious experience of India’s famous Golden Triangle — Delhi, Agra, and Jaipur. These travellers value cultural immersion, 5-star comfort, and Instagram-worthy moments. The agency wants to present a premium itinerary that blends iconic sights with unique, lesser-known experiences, while ensuring seamless logistics and high-end service.`
 
-Goal:
+`Goal:`
 
-Create a luxury Golden Triangle itinerary that appeals to high-income millennials, balancing heritage, comfort, and exclusivity.
+`Create a luxury Golden Triangle itinerary that appeals to high-income millennials, balancing heritage, comfort, and exclusivity.`
 
-Prompt:
+`Prompt:`
 
-"You are a luxury travel curator designing a 7-day Golden Triangle itinerary for foreign millennials (25–35) visiting India.
-
+`"You are a luxury travel curator designing a 7-day Golden Triangle itinerary for foreign millennials (25–35) visiting India.`
+```
 1. Include premium stays (5-star hotels or palace resorts).
 
 2. Suggest immersive experiences (private guided tours, fine dining, cultural workshops).
@@ -1324,9 +1324,9 @@ Prompt:
 4. Highlight Instagrammable spots and local crafts shopping stops.
 
 5. End with optional day-trip add-ons for extended stays."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Travel month
 
 2. Budget per person
@@ -1336,21 +1336,21 @@ Inputs Required:
 4. Food preferences & dietary restrictions
 
 5. Special interests (architecture, shopping, wellness, etc.)
+```
+## Prompt 2 — Goa Beach & Culture Getaway – 5 Days
 
-Prompt 2 — Goa Beach & Culture Getaway – 5 Days
+`Backstory:`
 
-Backstory:
+`A young couple from Bangalore, both working in IT, want a refreshing 5-day getaway to Goa. They’ve visited once before for a party trip, but this time they want a mix of relaxation, cultural exploration, and unique culinary experiences. They prefer boutique resorts and want to explore both North and South Goa while avoiding overcrowded tourist spots.`
 
-A young couple from Bangalore, both working in IT, want a refreshing 5-day getaway to Goa. They’ve visited once before for a party trip, but this time they want a mix of relaxation, cultural exploration, and unique culinary experiences. They prefer boutique resorts and want to explore both North and South Goa while avoiding overcrowded tourist spots.
+`Goal:`
 
-Goal:
+`Design a 5-day itinerary that blends Goa’s beaches, heritage, and food experiences for couples seeking a romantic yet cultural trip.`
 
-Design a 5-day itinerary that blends Goa’s beaches, heritage, and food experiences for couples seeking a romantic yet cultural trip.
+`Prompt:`
 
-Prompt:
-
-"You are a travel planner creating a 5-day Goa itinerary for a young couple.
-
+`"You are a travel planner creating a 5-day Goa itinerary for a young couple.`
+```
 1. Include boutique and beachside resort stays.
 
 2. Suggest a mix of beaches, heritage sites, local markets, and food trails.
@@ -1360,9 +1360,9 @@ Prompt:
 4. Recommend transportation modes for each day.
 
 5. Add optional nightlife suggestions for those who want it."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Travel month
 
 2. Budget per night for accommodation
@@ -1372,7 +1372,7 @@ Inputs Required:
 4. Dietary preferences
 
 5. Preferred pace of travel (relaxed, moderate, packed)
-
+```
 Prompt 3 — Himachal Road Trip – 10 Days
 
 Backstory:
