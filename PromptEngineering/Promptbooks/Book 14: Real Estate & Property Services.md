@@ -4,14 +4,14 @@
 
 `Backstory:`
 
-`You are working with a premium real estate agency in Delhi that specializes in high-end apartments. A new 4BHK luxury apartment has just been listed in South Delhi, near Defence Colony. The interiors feature Italian marble, modular kitchen fittings, and a private terrace garden. The target buyers are HNIs and NRIs looking for investment or relocation.
+`You are working with a premium real estate agency in Delhi that specializes in high-end apartments. A new 4BHK luxury apartment has just been listed in South Delhi, near Defence Colony. The interiors feature Italian marble, modular kitchen fittings, and a private terrace garden. The target buyers are HNIs and NRIs looking for investment or relocation.`
 
-Goal:
+`Goal:`
 
-Create an engaging property listing description that highlights premium features, lifestyle benefits, and exclusivity.
+`Create an engaging property listing description that highlights premium features, lifestyle benefits, and exclusivity.`
 
-Constraints:
-
+`Constraints:`
+```
 1. Keep under 200 words
 
 2. Include location, amenities, and lifestyle appeal
@@ -19,474 +19,474 @@ Constraints:
 3. Avoid overly generic terms like “beautiful” or “nice”
 
 4. Emphasize exclusivity and high-value living
+```
+`Output Format:`
 
-Output Format:
+`A short, appealing property listing ready to be posted on online portals.`
 
-A short, appealing property listing ready to be posted on online portals.
+## Prompt 2 — Affordable Housing in Jaipur
 
-Prompt 2 — Affordable Housing in Jaipur
+`Backstory:`
 
-Backstory:
+`A real estate developer is launching budget-friendly 2BHK flats in the outskirts of Jaipur targeted at middle-income families. The project offers basic amenities like a children’s play area, community hall, and 24x7 security, with easy EMIs available.`
 
-A real estate developer is launching budget-friendly 2BHK flats in the outskirts of Jaipur targeted at middle-income families. The project offers basic amenities like a children’s play area, community hall, and 24x7 security, with easy EMIs available.
+`Goal:`
 
-Goal:
+`Write a listing description that appeals to first-time home buyers focusing on affordability, comfort, and security.`
 
-Write a listing description that appeals to first-time home buyers focusing on affordability, comfort, and security.
-
-Constraints:
-
+`Constraints:`
+```
 1. Keep under 150 words
 
 2. Highlight affordability and finance options
 
 3. Mention location benefits (schools, public transport)
+```
+`Output Format:`
 
-Output Format:
+`Property listing with headline + body copy for online ads.`
 
-Property listing with headline + body copy for online ads.
+## Prompt 3 — Goa Beachfront Villa
 
-Prompt 3 — Goa Beachfront Villa
+`Backstory:`
 
-Backstory:
+`A private owner is selling a 3BHK villa located just 200 meters from Baga Beach in Goa. The property is fully furnished with an infinity pool, landscaped garden, and a sea-facing balcony. It’s perfect for vacation rentals or a second home.`
 
-A private owner is selling a 3BHK villa located just 200 meters from Baga Beach in Goa. The property is fully furnished with an infinity pool, landscaped garden, and a sea-facing balcony. It’s perfect for vacation rentals or a second home.
+`Goal:`
 
-Goal:
+`Write a listing that emphasizes the vacation lifestyle, rental potential, and exclusivity of the location.`
 
-Write a listing that emphasizes the vacation lifestyle, rental potential, and exclusivity of the location.
-
-Constraints:
-
+`Constraints:`
+```
 1. 180–200 words
 
 2. Use sensory language (sea breeze, sunset views)
 
 3. Mention investment potential for Airbnb rentals
+```
+`Output Format:`
 
-Output Format:
+`Listing for online portals + premium real estate magazine ad.`
 
-Listing for online portals + premium real estate magazine ad.
+## Prompt 4 — Commercial Office Space in Mumbai
 
-Prompt 4 — Commercial Office Space in Mumbai
+`Backstory:`
 
-Backstory:
+`A builder is offering a 3,000 sq. ft. Grade A office space in BKC, Mumbai. The property is semi-furnished, has central air conditioning, and is in proximity to banks, metro stations, and business hubs.`
 
-A builder is offering a 3,000 sq. ft. Grade A office space in BKC, Mumbai. The property is semi-furnished, has central air conditioning, and is in proximity to banks, metro stations, and business hubs.
+`Goal:`
 
-Goal:
+`Craft a professional listing aimed at corporates, startups, and MNCs.`
 
-Craft a professional listing aimed at corporates, startups, and MNCs.
-
-Constraints:
-
+`Constraints:`
+```
 1. Keep between 120–150 words
 
 2. Highlight business advantages, connectivity, and infrastructure
 
 3. Use a formal tone
-
-Output Format:
-
+```
+`Output Format:`
+```
 Listing copy for commercial property websites.
+```
+## Prompt 5 — Heritage Haveli in Rajasthan
 
-Prompt 5 — Heritage Haveli in Rajasthan
+`Backstory:`
 
-Backstory:
+`An old royal haveli in Udaipur is on sale, featuring hand-painted frescoes, antique wooden doors, and a central courtyard. It can be converted into a boutique hotel or luxury residence.`
 
-An old royal haveli in Udaipur is on sale, featuring hand-painted frescoes, antique wooden doors, and a central courtyard. It can be converted into a boutique hotel or luxury residence.
+`Goal:`
 
-Goal:
+`Write an evocative listing that appeals to heritage lovers and hospitality investors.`
 
-Write an evocative listing that appeals to heritage lovers and hospitality investors.
-
-Constraints:
-
+`Constraints:`
+```
 1. 200–250 words
 
 2. Use storytelling style to bring out cultural and historical value
 
 3. Mention potential for boutique hospitality business
+```
+`Output Format:`
 
-Output Format:
+`Listing suitable for high-end real estate brochures and portals.`
 
-Listing suitable for high-end real estate brochures and portals.
+## Prompt 6 — Premium Co-Living Space in Bengaluru
 
-Prompt 6 — Premium Co-Living Space in Bengaluru
+`Backstory:`
 
-Backstory:
+`A startup is launching a modern co-living space in Koramangala, Bengaluru, targeted at working professionals and digital nomads. Each private room is fully furnished with high-speed WiFi, a smart TV, and a shared coworking lounge. The property is walking distance from cafés, gyms, and major IT offices.`
 
-A startup is launching a modern co-living space in Koramangala, Bengaluru, targeted at working professionals and digital nomads. Each private room is fully furnished with high-speed WiFi, a smart TV, and a shared coworking lounge. The property is walking distance from cafés, gyms, and major IT offices.
+`Goal:`
 
-Goal:
+`Create a property listing that appeals to millennials seeking community living, flexibility, and convenience.`
 
-Create a property listing that appeals to millennials seeking community living, flexibility, and convenience.
-
-Constraints:
-
+`Constraints:`
+```
 1. 150–170 words
 
 2. Highlight lifestyle amenities and community aspect
 
 3. Mention flexible lease options
-
-Output Format:
-
+```
+`Output Format:``
+```
 Online property portal listing + short social media caption.
+```
+## Prompt 7 — Hill-View Apartment in Shimla
 
-Prompt 7 — Hill-View Apartment in Shimla
+`Backstory:`
 
-Backstory:
+`A developer is offering 2BHK apartments with panoramic views of the Himalayas. Located 10 minutes from Mall Road, the apartments have wooden interiors, large balconies, and heating systems.`
 
-A developer is offering 2BHK apartments with panoramic views of the Himalayas. Located 10 minutes from Mall Road, the apartments have wooden interiors, large balconies, and heating systems.
+`Goal:`
 
-Goal:
+`Write a listing that emphasizes scenic beauty, tranquility, and year-round comfort.`
 
-Write a listing that emphasizes scenic beauty, tranquility, and year-round comfort.
-
-Constraints:
-
+`Constraints:`
+```
 1. Use descriptive, atmospheric language
 
 2. Mention holiday home and rental potential
 
 3. Keep between 150–180 words
+```
+`Output Format:`
 
-Output Format:
+`Listing copy for vacation home websites.`
 
-Listing copy for vacation home websites.
+## Prompt 8 — Ready-to-Move Penthouse in Pune
 
-Prompt 8 — Ready-to-Move Penthouse in Pune
+`Backstory:`
 
-Backstory:
+`A 4BHK penthouse in Koregaon Park, Pune, is up for sale. It comes with a private rooftop deck, smart home automation, and two dedicated parking spots. The neighborhood is known for luxury dining and nightlife.`
 
-A 4BHK penthouse in Koregaon Park, Pune, is up for sale. It comes with a private rooftop deck, smart home automation, and two dedicated parking spots. The neighborhood is known for luxury dining and nightlife.
+`Goal:`
 
-Goal:
+`Create a premium, aspirational listing targeting affluent buyers.`
 
-Create a premium, aspirational listing targeting affluent buyers.
-
-Constraints:
-
+`Constraints:`
+```
 1. 150–180 words
 
 2. Focus on exclusivity, location, and lifestyle appeal
 
 3. Use persuasive, elegant language
+```
+`Output Format:`
 
-Output Format:
+`Luxury property portal listing.`
 
-Luxury property portal listing.
+## Prompt 9 — Industrial Warehouse in Ahmedabad
 
-Prompt 9 — Industrial Warehouse in Ahmedabad
+`Backstory:`
 
-Backstory:
+`A 20,000 sq. ft. warehouse with easy access to the highway is available for rent. It features high ceilings, loading docks, and 24/7 security. Target audience includes logistics companies, wholesalers, and manufacturers.`
 
-A 20,000 sq. ft. warehouse with easy access to the highway is available for rent. It features high ceilings, loading docks, and 24/7 security. Target audience includes logistics companies, wholesalers, and manufacturers.
+`Goal:`
 
-Goal:
+`Write a factual, business-focused listing for commercial clients.`
 
-Write a factual, business-focused listing for commercial clients.
-
-Constraints:
-
+`Constraints:`
+```
 1. 120–150 words
 
 2. Highlight storage capacity, accessibility, and safety
 
 3. Avoid flowery language
+```
+`Output Format:`
 
-Output Format:
+`Commercial property listing for B2B platforms.`
 
-Commercial property listing for B2B platforms.
+## Prompt 10 — Luxury Farmhouse near Gurgaon
 
-Prompt 10 — Luxury Farmhouse near Gurgaon
+`Backstory:`
 
-Backstory:
+`A 6-acre farmhouse located 20 minutes from Gurgaon city center is on sale. It features landscaped gardens, a swimming pool, and a modern 5BHK villa.`
 
-A 6-acre farmhouse located 20 minutes from Gurgaon city center is on sale. It features landscaped gardens, a swimming pool, and a modern 5BHK villa.
+`Goal:`
 
-Goal:
+`Write a listing targeting buyers seeking weekend retreats or wedding venues.`
 
-Write a listing targeting buyers seeking weekend retreats or wedding venues.
-
-Constraints:
-
+`Constraints:`
+```
 1. 180–200 words
 
 2. Mention both residential and commercial potential
 
 3. Include location advantage (close to Delhi NCR)
+```
+`Output Format:`
 
-Output Format:
+`Premium listing for real estate and event space websites.`
 
-Premium listing for real estate and event space websites.
+## Prompt 11 — Beachfront Villa in Goa
 
-Prompt 11 — Beachfront Villa in Goa
+`Backstory:`
 
-Backstory:
+`A luxury 5BHK beachfront villa located in Candolim, Goa, is now available for sale. The property offers direct access to the beach, a private infinity pool, and a sundeck overlooking the Arabian Sea. Designed with Portuguese-inspired architecture, it features antique wooden furniture, spacious verandas, and lush tropical landscaping. Ideal for both personal use and as a premium vacation rental, the villa is close to top restaurants, night markets, and water sports hubs.`
 
-A luxury 5BHK beachfront villa located in Candolim, Goa, is now available for sale. The property offers direct access to the beach, a private infinity pool, and a sundeck overlooking the Arabian Sea. Designed with Portuguese-inspired architecture, it features antique wooden furniture, spacious verandas, and lush tropical landscaping. Ideal for both personal use and as a premium vacation rental, the villa is close to top restaurants, night markets, and water sports hubs.
+`Goal:`
 
-Goal:
+`Create a property listing that attracts high-net-worth buyers and investors looking for coastal luxury or holiday rental income.`
 
-Create a property listing that attracts high-net-worth buyers and investors looking for coastal luxury or holiday rental income.
-
-Constraints:
-
+`Constraints:`
+```
 1. 200–220 words
 
 2. Blend lifestyle appeal with investment potential
 
 3. Include details about location, design, and ROI
+```
+`Output Format:`
 
-Output Format:
+`Luxury property listing for premium real estate portals and print brochures.`
 
-Luxury property listing for premium real estate portals and print brochures.
+## Prompt 12 — Serviced Apartments in Mumbai
 
-Prompt 12 — Serviced Apartments in Mumbai
+`Backstory:`
 
-Backstory:
+`A newly launched tower in Lower Parel offers fully furnished 1BHK and 2BHK serviced apartments. Targeted at corporate travelers and expatriates, each unit includes housekeeping, laundry, high-speed WiFi, and concierge services. The building houses a gym, rooftop lounge, and 24-hour security. Located minutes from business districts, malls, and entertainment hubs, the property provides a hassle-free living experience.`
 
-A newly launched tower in Lower Parel offers fully furnished 1BHK and 2BHK serviced apartments. Targeted at corporate travelers and expatriates, each unit includes housekeeping, laundry, high-speed WiFi, and concierge services. The building houses a gym, rooftop lounge, and 24-hour security. Located minutes from business districts, malls, and entertainment hubs, the property provides a hassle-free living experience.
+`Goal:`
 
-Goal:
+`Write a listing that appeals to business professionals seeking short-term or long-term stays in Mumbai’s prime areas.`
 
-Write a listing that appeals to business professionals seeking short-term or long-term stays in Mumbai’s prime areas.
-
-Constraints:
-
+`Constraints:`
+```
 1. 180–200 words
 
 2. Highlight convenience, services, and location advantage
 
 3. Use professional, urban tone
+```
+`Output Format:`
 
-Output Format:
+`Listing for B2B corporate housing websites and relocation service brochures.`
 
-Listing for B2B corporate housing websites and relocation service brochures.
+## Prompt 13 — Eco-Friendly Housing in Kerala
 
-Prompt 13 — Eco-Friendly Housing in Kerala
+`Backstory:`
 
-Backstory:
+`A gated community in Kochi is launching eco-homes built with sustainable materials, rainwater harvesting, and solar panels. Each home has a natural ventilation design, landscaped edible gardens, and access to a shared yoga pavilion. Positioned near the backwaters, the community is ideal for environmentally conscious families and retirees.`
 
-A gated community in Kochi is launching eco-homes built with sustainable materials, rainwater harvesting, and solar panels. Each home has a natural ventilation design, landscaped edible gardens, and access to a shared yoga pavilion. Positioned near the backwaters, the community is ideal for environmentally conscious families and retirees.
+`Goal:`
 
-Goal:
+`Develop a listing that focuses on sustainability, wellness, and serene living.`
 
-Develop a listing that focuses on sustainability, wellness, and serene living.
-
-Constraints:
-
+`Constraints:`
+```
 1. 200 words max
 
 2. Emphasize green building features and lifestyle benefits
 
 3. Include location charm without overselling
+```
+`Output Format:`
 
-Output Format:
+`Eco-property listing for niche real estate platforms and social media campaigns.`
 
-Eco-property listing for niche real estate platforms and social media campaigns.
+## Prompt 14 — Student Housing in Delhi
 
-Prompt 14 — Student Housing in Delhi
+`Backstory:`
 
-Backstory:
+`A new PG accommodation in South Campus, Delhi University, offers fully furnished rooms with study desks, high-speed internet, and 3 meals a day. The property has CCTV monitoring, biometric entry, and a common recreation area. It’s located within walking distance of major colleges, markets, and metro stations.`
 
-A new PG accommodation in South Campus, Delhi University, offers fully furnished rooms with study desks, high-speed internet, and 3 meals a day. The property has CCTV monitoring, biometric entry, and a common recreation area. It’s located within walking distance of major colleges, markets, and metro stations.
+`Goal:`
 
-Goal:
+`Write a property listing that appeals to students and their parents, highlighting safety, convenience, and affordability.`
 
-Write a property listing that appeals to students and their parents, highlighting safety, convenience, and affordability.
-
-Constraints:
-
+`Constraints:`
+```
 1. 150–180 words
 
 2. Stress safety, proximity to colleges, and value-for-money
 
 3. Avoid jargon; keep language simple and direct
-
-Output Format:
-
+```
+`Output Format:`
+```
 Listing for online PG rental platforms and student groups.
+```
+## Prompt 15 — Retail Space in Hyderabad
 
-Prompt 15 — Retail Space in Hyderabad
+`Backstory:`
 
-Backstory:
+`A high-footfall retail space in Banjara Hills, Hyderabad, is up for lease. Located on the main road, the space is ideal for luxury fashion brands, premium cafés, or boutique showrooms. The property has large glass frontage, ample parking, and modern interiors. Surrounding tenants include designer stores, gourmet restaurants, and upscale salons.`
 
-A high-footfall retail space in Banjara Hills, Hyderabad, is up for lease. Located on the main road, the space is ideal for luxury fashion brands, premium cafés, or boutique showrooms. The property has large glass frontage, ample parking, and modern interiors. Surrounding tenants include designer stores, gourmet restaurants, and upscale salons.
+`Goal:`
 
-Goal:
+`Craft a listing that positions the space as a prime opportunity for premium retail brands.`
 
-Craft a listing that positions the space as a prime opportunity for premium retail brands.
-
-Constraints:
-
+`Constraints:`
+```
 1. 150–170 words
 
 2. Mention location prestige and customer demographics
 
 3. Keep tone aspirational yet business-oriented
+```
+`Output Format:`
 
-Output Format:
+`Commercial property listing for leasing portals and industry-specific magazines.`
 
-Commercial property listing for leasing portals and industry-specific magazines.
+## Prompt 16 — Heritage Haveli in Jaipur
 
-Prompt 16 — Heritage Haveli in Jaipur
+`Backstory:`
 
-Backstory:
+`A restored 18th-century haveli in Jaipur’s Pink City is now available for boutique hotel or private residence use. The property features intricately carved sandstone façades, antique jharokhas, fresco-painted walls, and a central courtyard with a marble fountain. Located within walking distance of iconic landmarks like Hawa Mahal and City Palace, it offers both cultural immersion and luxury comfort. The haveli includes 12 suites, a rooftop dining area with city views, and modern amenities subtly integrated into the heritage structure.`
 
-A restored 18th-century haveli in Jaipur’s Pink City is now available for boutique hotel or private residence use. The property features intricately carved sandstone façades, antique jharokhas, fresco-painted walls, and a central courtyard with a marble fountain. Located within walking distance of iconic landmarks like Hawa Mahal and City Palace, it offers both cultural immersion and luxury comfort. The haveli includes 12 suites, a rooftop dining area with city views, and modern amenities subtly integrated into the heritage structure.
+`Goal:`
 
-Goal:
+`Write a listing that blends the charm of history with the promise of modern hospitality.`
 
-Write a listing that blends the charm of history with the promise of modern hospitality.
-
-Constraints:
-
+`Constraints:`
+```
 1. 220–250 words
 
 2. Balance heritage preservation with investment viability
 
 3. Use evocative, culturally rich language
+```
+`Output Format:`
 
-Output Format:
+`Heritage property listing for luxury travel magazines and boutique real estate portals.`
 
-Heritage property listing for luxury travel magazines and boutique real estate portals.
+## Prompt 17 — Luxury Farmhouse in Gurgaon
 
-Prompt 17 — Luxury Farmhouse in Gurgaon
+`Backstory:`
 
-Backstory:
+`Set amidst 3 acres of landscaped greenery, this 6BHK farmhouse offers a peaceful retreat just 30 minutes from central Gurgaon. Designed with a blend of rustic and modern elements, it features an open-air deck, a swimming pool, a gazebo for outdoor dining, and a private organic farm. Perfect for high-profile events, weekend getaways, or as a primary residence, the farmhouse comes fully furnished and equipped with smart-home automation.`
 
-Set amidst 3 acres of landscaped greenery, this 6BHK farmhouse offers a peaceful retreat just 30 minutes from central Gurgaon. Designed with a blend of rustic and modern elements, it features an open-air deck, a swimming pool, a gazebo for outdoor dining, and a private organic farm. Perfect for high-profile events, weekend getaways, or as a primary residence, the farmhouse comes fully furnished and equipped with smart-home automation.
+`Goal:`
 
-Goal:
+`Develop a listing appealing to urban buyers seeking privacy, luxury, and a connection to nature.`
 
-Develop a listing appealing to urban buyers seeking privacy, luxury, and a connection to nature.
-
-Constraints:
-
+`Constraints:`
+```
 1. 200–220 words
 
 2. Highlight both lifestyle and event-hosting potential
 
 3. Keep tone aspirational yet practical
+```
+`Output Format:`
 
-Output Format:
+`Listing for high-end property websites and premium lifestyle portals.`
 
-Listing for high-end property websites and premium lifestyle portals.
+## Prompt 18 — Riverside Resort Land in Rishikesh
 
-Prompt 18 — Riverside Resort Land in Rishikesh
+`Backstory:`
 
-Backstory:
+`A 10-acre plot along the Ganga river in Rishikesh is up for sale with permissions for resort development. The property offers direct river access, panoramic mountain views, and proximity to yoga retreats, adventure sports centers, and spiritual ashrams. Surrounded by lush forests, it’s ideal for building a wellness resort or luxury retreat center catering to international tourists.`
 
-A 10-acre plot along the Ganga river in Rishikesh is up for sale with permissions for resort development. The property offers direct river access, panoramic mountain views, and proximity to yoga retreats, adventure sports centers, and spiritual ashrams. Surrounded by lush forests, it’s ideal for building a wellness resort or luxury retreat center catering to international tourists.
+`Goal:`
 
-Goal:
+`Create a listing for developers and investors in the hospitality sector.`
 
-Create a listing for developers and investors in the hospitality sector.
-
-Constraints:
-
+`Constraints:`
+```
 1. 180–200 words
 
 2. Emphasize location’s tourism appeal and business potential
 
 3. Include eco-tourism and wellness angles
+```
+`Output Format:`
 
-Output Format:
+`Investment property listing for commercial real estate portals and hospitality trade magazines.`
 
-Investment property listing for commercial real estate portals and hospitality trade magazines.
+## Prompt 19 — IT Park Office Space in Bengaluru
 
-Prompt 19 — IT Park Office Space in Bengaluru
+`Backstory:`
 
-Backstory:
+`A Grade-A office space in Whitefield, Bengaluru, is available for lease in a newly developed IT park. Featuring 50,000 sq. ft. of customizable workspace, high-speed connectivity, energy-efficient lighting, and a central cafeteria, the building is surrounded by tech giants and startups. Excellent connectivity via metro and road makes it a prime choice for IT and service companies.`
 
-A Grade-A office space in Whitefield, Bengaluru, is available for lease in a newly developed IT park. Featuring 50,000 sq. ft. of customizable workspace, high-speed connectivity, energy-efficient lighting, and a central cafeteria, the building is surrounded by tech giants and startups. Excellent connectivity via metro and road makes it a prime choice for IT and service companies.
+`Goal:`
 
-Goal:
+`Write a corporate-focused property listing emphasizing scalability and infrastructure.`
 
-Write a corporate-focused property listing emphasizing scalability and infrastructure.
-
-Constraints:
-
+`Constraints:`
+```
 1. 160–180 words
 
 2. Professional, formal tone
 
 3. Highlight business ecosystem and connectivity
+```
+`Output Format:`
 
-Output Format:
+`Listing for commercial leasing platforms and business journals.`
 
-Listing for commercial leasing platforms and business journals.
+## Prompt 20 — Premium Golf Estate in Pune
 
-Prompt 20 — Premium Golf Estate in Pune
+`Backstory:`
 
-Backstory:
+`An exclusive villa inside a championship golf course estate in Pune offers 4 bedrooms, a private garden, and panoramic fairway views. Residents enjoy access to the clubhouse, spa, gym, and fine-dining restaurants. The gated community ensures 24/7 security and concierge services. Ideal for golf enthusiasts, expatriates, and luxury homebuyers, the villa comes fully furnished with imported interiors.`
 
-An exclusive villa inside a championship golf course estate in Pune offers 4 bedrooms, a private garden, and panoramic fairway views. Residents enjoy access to the clubhouse, spa, gym, and fine-dining restaurants. The gated community ensures 24/7 security and concierge services. Ideal for golf enthusiasts, expatriates, and luxury homebuyers, the villa comes fully furnished with imported interiors.
+`Goal:`
 
-Goal:
+`Craft a listing appealing to high-income buyers seeking lifestyle and leisure amenities.`
 
-Craft a listing appealing to high-income buyers seeking lifestyle and leisure amenities.
-
-Constraints:
-
+`Constraints:`
+```
 1. 180–200 words
 
 2. Aspirational tone with lifestyle imagery
 
 3. Include community benefits and exclusivity
+```
+`Output Format:`
 
-Output Format:
+`Listing for luxury real estate brochures and online portals.`
 
-Listing for luxury real estate brochures and online portals.
+## Prompt 21 — Beachfront Villa in Goa
 
-Prompt 21 — Beachfront Villa in Goa
+`Backstory:`
 
-Backstory:
+`Nestled along the pristine white sands of Morjim Beach, this 5-bedroom luxury villa offers uninterrupted sea views and private beach access. The interiors feature teakwood furniture, floor-to-ceiling glass walls, and an infinity pool that merges visually with the Arabian Sea. Perfect for use as a holiday home or a premium rental investment, the property comes with all modern conveniences including central air conditioning, a chef’s kitchen, and an outdoor BBQ area. Located in a quiet stretch away from the commercial bustle, it’s a sanctuary for those who value privacy and nature.`
 
-Nestled along the pristine white sands of Morjim Beach, this 5-bedroom luxury villa offers uninterrupted sea views and private beach access. The interiors feature teakwood furniture, floor-to-ceiling glass walls, and an infinity pool that merges visually with the Arabian Sea. Perfect for use as a holiday home or a premium rental investment, the property comes with all modern conveniences including central air conditioning, a chef’s kitchen, and an outdoor BBQ area. Located in a quiet stretch away from the commercial bustle, it’s a sanctuary for those who value privacy and nature.
+`Goal:`
 
-Goal:
+`Create a listing that blends aspirational holiday living with strong investment appeal.`
 
-Create a listing that blends aspirational holiday living with strong investment appeal.
-
-Constraints:
-
+`Constraints:`
+```
 1. 200–220 words
 
 2. Capture coastal charm while emphasizing ROI potential
 
 3. Use warm, inviting language
+```
+`Output Format:`
 
-Output Format:
+`Luxury property listing for vacation rental investors and HNI buyers.`
 
-Luxury property listing for vacation rental investors and HNI buyers.
+## Prompt 22 — Serviced Apartments in Hyderabad’s Financial District
 
-Prompt 22 — Serviced Apartments in Hyderabad’s Financial District
+`Backstory:`
 
-Backstory:
+`A newly launched block of 50 fully furnished serviced apartments is now available for sale in Hyderabad’s fast-growing Financial District. Each unit is designed for corporate stays, with modern interiors, high-speed internet, kitchenette facilities, and housekeeping services. The building includes a business center, café, and rooftop lounge. With a high demand from visiting professionals and expats, these units promise excellent rental yields and capital appreciation potential.`
 
-A newly launched block of 50 fully furnished serviced apartments is now available for sale in Hyderabad’s fast-growing Financial District. Each unit is designed for corporate stays, with modern interiors, high-speed internet, kitchenette facilities, and housekeeping services. The building includes a business center, café, and rooftop lounge. With a high demand from visiting professionals and expats, these units promise excellent rental yields and capital appreciation potential.
+`Goal:`
 
-Goal:
+`Write a listing targeting real estate investors and corporate leasing agencies.`
 
-Write a listing targeting real estate investors and corporate leasing agencies.
-
-Constraints:
-
+`Constraints:`
+```
 1. 180–200 words
 
 2. Highlight rental yield potential and strategic location
 
 3. Maintain a professional, data-backed tone
+```
+`Output Format:`
 
-Output Format:
+`Commercial residential property listing for investment portals and business publications.`
 
-Commercial residential property listing for investment portals and business publications.
-
-Prompt 23 — Hilltop Bungalow in Kodaikanal
+## Prompt 23 — Hilltop Bungalow in Kodaikanal
 
 Backstory:
 
