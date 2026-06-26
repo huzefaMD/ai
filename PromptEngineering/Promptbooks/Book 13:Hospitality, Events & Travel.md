@@ -571,20 +571,20 @@
 5. Available staff & vendors
 ```
 
-Hotel/resort marketing content
+# Hotel/resort marketing content
 
-Prompt 1 — Instagram Reel Campaign for a Beach Resort
+## Prompt 1 — Instagram Reel Campaign for a Beach Resort
 
-Backstory: A boutique beach resort in Goa wants to attract young urban travellers from Mumbai and Bangalore. They have stunning sunset views, beach shacks, and live music nights, but their Instagram page is underperforming. The marketing manager believes that short-form reels with engaging hooks could boost bookings for the upcoming festive season.
+`Backstory: A boutique beach resort in Goa wants to attract young urban travellers from Mumbai and Bangalore. They have stunning sunset views, beach shacks, and live music nights, but their Instagram page is underperforming. The marketing manager believes that short-form reels with engaging hooks could boost bookings for the upcoming festive season.`
 
-Goal: Create a week-long Instagram Reel content plan to showcase the resort’s experiences and encourage direct bookings.
+`Goal: Create a week-long Instagram Reel content plan to showcase the resort’s experiences and encourage direct bookings.`
 
-Prompt:
+`Prompt:`
 
-"You are a Social Media Strategist for a boutique beach resort in Goa. Create a 7-day Instagram Reel content calendar targeting 20–35-year-old urban professionals in India.
+`"You are a Social Media Strategist for a boutique beach resort in Goa. Create a 7-day Instagram Reel content calendar targeting 20–35-year-old urban professionals in India.`
 
-Each reel should have:
-
+`Each reel should have:`
+```
 1. A catchy hook in the first 3 seconds
 
 2. 2–3 key visual moments (suggest shot angles)
@@ -594,55 +594,55 @@ Each reel should have:
 4. A CTA that pushes direct bookings via Instagram bio link
 
 Also, suggest caption ideas with hashtags relevant to Indian travel trends."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Type of resort activities available
 
 2. Current Instagram analytics (optional)
 
 3. Budget for influencer collaborations
+```
+## Prompt 2 — Festive Season Ad Copy for Luxury Hotel
 
-Prompt 2 — Festive Season Ad Copy for Luxury Hotel
+`Backstory: A five-star property in Jaipur wants to launch a Diwali package that includes a royal dinner, cultural performances, and heritage walks. They want an ad copy that feels premium yet inviting to millennials who value experiences over discounts.`
 
-Backstory: A five-star property in Jaipur wants to launch a Diwali package that includes a royal dinner, cultural performances, and heritage walks. They want an ad copy that feels premium yet inviting to millennials who value experiences over discounts.
+`Goal: Write high-conversion ad copy for Google Ads and Facebook campaigns.`
 
-Goal: Write high-conversion ad copy for Google Ads and Facebook campaigns.
+`Prompt:`
 
-Prompt:
+`"You are an Ad Copywriter for a luxury hotel in Jaipur. Write 3 variations of ad copy for a Diwali Celebration Package.`
 
-"You are an Ad Copywriter for a luxury hotel in Jaipur. Write 3 variations of ad copy for a Diwali Celebration Package.
-
-Include:
-
+`Include:`
+```
 1. Emotional appeal to Indian heritage and festivity
 
 2. Highlight of key inclusions (royal dinner, cultural performance, heritage walk)
 
 3. Limited-time booking urgency
+```
+`Write for both Google Ads (short) and Facebook Ads (longer, story-style)."`
 
-Write for both Google Ads (short) and Facebook Ads (longer, story-style)."
-
-Inputs Required:
-
+`Inputs Required:`
+```
 1. Package price and dates
 
 2. Special inclusions
 
 3. Booking link
+```
+## Prompt 3 — Influencer Collaboration Brief for Monsoon Campaign
 
-Prompt 3 — Influencer Collaboration Brief for Monsoon Campaign
+`Backstory: A hill station resort in Munnar is launching a “Monsoon Bliss” package. They plan to invite Instagram travel influencers to stay and create content. The marketing head needs a clear collaboration brief.`
 
-Backstory: A hill station resort in Munnar is launching a “Monsoon Bliss” package. They plan to invite Instagram travel influencers to stay and create content. The marketing head needs a clear collaboration brief.
+`Goal: Draft a professional influencer brief with deliverables, brand voice, and content guidelines.`
 
-Goal: Draft a professional influencer brief with deliverables, brand voice, and content guidelines.
+`Prompt:`
 
-Prompt:
+`"You are a PR & Influencer Marketing Manager. Draft a collaboration brief for 3–4 Indian travel influencers invited to promote a Monsoon Bliss package at a Munnar resort.`
 
-"You are a PR & Influencer Marketing Manager. Draft a collaboration brief for 3–4 Indian travel influencers invited to promote a Monsoon Bliss package at a Munnar resort.
-
-Include:
-
+`Include:`
+```
 1. Brand story & target audience
 
 2. Content deliverables (number of reels, posts, stories)
@@ -654,27 +654,27 @@ Include:
 5. Hashtags & tags to use
 
 6. Timeline & submission process."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Influencer profiles
 
 2. Campaign duration
 
 3. Key brand USPs
+```
+## Prompt 4 — Email Newsletter for Returning Guests
 
-Prompt 4 — Email Newsletter for Returning Guests
+`Backstory: A heritage hotel in Udaipur wants to boost loyalty bookings. Their data shows that past guests respond well to personalised offers. They want an email campaign that feels like an exclusive invitation.`
 
-Backstory: A heritage hotel in Udaipur wants to boost loyalty bookings. Their data shows that past guests respond well to personalised offers. They want an email campaign that feels like an exclusive invitation.
+`Goal: Create an engaging, personalised email template for past guests.`
 
-Goal: Create an engaging, personalised email template for past guests.
+`Prompt:`
 
-Prompt:
+`"You are a CRM Marketing Expert. Write a personalised email newsletter for returning guests of a heritage hotel in Udaipur.`
 
-"You are a CRM Marketing Expert. Write a personalised email newsletter for returning guests of a heritage hotel in Udaipur.
-
-The email should:
-
+`The email should:`
+```
 1. Begin with a warm, personal greeting
 
 2. Reference their last stay experience (customisable placeholder)
@@ -684,27 +684,27 @@ The email should:
 4. Include 2–3 high-quality image placement suggestions
 
 5. End with an easy booking CTA and contact details."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Offer details
 
 2. Guest name & last visit data
 
 3. Images
+```
+## Prompt 5 — Hotel Website Homepage Copy Refresh
 
-Prompt 5 — Hotel Website Homepage Copy Refresh
+`Backstory: A mid-range hotel chain in India has outdated website copy that doesn’t connect with younger travellers. The marketing team wants fresh, engaging, and SEO-friendly content.`
 
-Backstory: A mid-range hotel chain in India has outdated website copy that doesn’t connect with younger travellers. The marketing team wants fresh, engaging, and SEO-friendly content.
+`Goal: Write homepage copy that appeals to millennials and boosts conversions.`
 
-Goal: Write homepage copy that appeals to millennials and boosts conversions.
+`Prompt:`
 
-Prompt:
+`"You are a Web Copywriter for a hotel chain in India. Rewrite the homepage content to appeal to 20–35-year-old travellers.`
 
-"You are a Web Copywriter for a hotel chain in India. Rewrite the homepage content to appeal to 20–35-year-old travellers.
-
-Include:
-
+`Include:`
+```
 1. A punchy headline and subheading
 
 2. 3 short sections on Rooms, Experiences, and Dining
@@ -712,15 +712,15 @@ Include:
 3. SEO keywords for Indian travel & hospitality searches
 
 4. CTA buttons encouraging bookings."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Brand USP
 
 2. Current SEO keyword list
 
 3. Target destinations
-
+```
 Prompt 6 — Pre-Wedding Photoshoot Package Promotion
 
 Backstory: A luxury resort in Kerala is introducing a pre-wedding photoshoot package for couples. They want social media captions that feel romantic and aspirational.
