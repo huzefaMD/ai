@@ -156,16 +156,16 @@
 ```
 ## Prompt 8 — Charity Gala Dinner
 
-Backstory: A non-profit is organizing a black-tie charity dinner to raise funds for underprivileged children. The event will host 200 donors, feature a live auction, and have a keynote speech by a celebrity ambassador.
+`Backstory: A non-profit is organizing a black-tie charity dinner to raise funds for underprivileged children. The event will host 200 donors, feature a live auction, and have a keynote speech by a celebrity ambassador. `
 
-Goal: Create a charity gala dinner checklist for maximum donor engagement.
+`Goal: Create a charity gala dinner checklist for maximum donor engagement.`
 
-Prompt:
+`Prompt:`
 
-"You are a charity event planner. Create a detailed checklist for a black-tie charity dinner with 200 guests. Include venue setup, auction planning, catering, sponsorships, donor recognition, speeches, entertainment, and media outreach."
+`"You are a charity event planner. Create a detailed checklist for a black-tie charity dinner with 200 guests. Include venue setup, auction planning, catering, sponsorships, donor recognition, speeches, entertainment, and media outreach."`
 
-Inputs Required:
-
+`Inputs Required:`
+```
 1. Gala date & location
 
 2. Guest list & donor profiles
@@ -175,19 +175,19 @@ Inputs Required:
 4. Catering style & menu
 
 5. Entertainment lineup
+```
+## Prompt 9 — College Cultural Fest
 
-Prompt 9 — College Cultural Fest
+`Backstory: A Delhi-based university is hosting its annual 3-day cultural fest with competitions, celebrity performances, and food stalls. The committee needs a checklist to manage stage events, participant registration, sponsor booths, and security.`
 
-Backstory: A Delhi-based university is hosting its annual 3-day cultural fest with competitions, celebrity performances, and food stalls. The committee needs a checklist to manage stage events, participant registration, sponsor booths, and security.
+`Goal: Provide a cultural fest checklist for smooth execution.`
 
-Goal: Provide a cultural fest checklist for smooth execution.
+`Prompt:`
 
-Prompt:
+`"You are a college fest coordinator. Prepare a checklist for a 3-day cultural festival with 5,000 expected attendees. Include event scheduling, participant management, sponsorship activation, stage setup, security, ticketing, and waste disposal."`
 
-"You are a college fest coordinator. Prepare a checklist for a 3-day cultural festival with 5,000 expected attendees. Include event scheduling, participant management, sponsorship activation, stage setup, security, ticketing, and waste disposal."
-
-Inputs Required:
-
+`Inputs Required:`
+```
 1. Fest dates & location
 
 2. Number of events & participants
@@ -197,19 +197,19 @@ Inputs Required:
 4. Venue facilities available
 
 5. Security arrangements
+```
+## Prompt 10 — Sports Tournament
 
-Prompt 10 — Sports Tournament
+`Backstory: A city’s sports council is hosting a week-long interschool cricket tournament with 12 teams. The event involves daily matches, umpire scheduling, ground maintenance, and player facilities.
 
-Backstory: A city’s sports council is hosting a week-long interschool cricket tournament with 12 teams. The event involves daily matches, umpire scheduling, ground maintenance, and player facilities.
+`Goal: Create a detailed checklist for smooth tournament management.`
 
-Goal: Create a detailed checklist for smooth tournament management.
+`Prompt:`
 
-Prompt:
+`"You are a sports event coordinator. Develop a 7-day cricket tournament checklist for 12 school teams. Include match scheduling, umpire assignments, venue preparation, player registration, equipment checks, first aid arrangements, refreshments, media coverage, and award ceremony planning."`
 
-"You are a sports event coordinator. Develop a 7-day cricket tournament checklist for 12 school teams. Include match scheduling, umpire assignments, venue preparation, player registration, equipment checks, first aid arrangements, refreshments, media coverage, and award ceremony planning."
-
-Inputs Required:
-
+`Inputs Required:`
+```
 1. Tournament dates & locations
 
 2. Number of teams & players
@@ -219,19 +219,19 @@ Inputs Required:
 4. Umpire availability
 
 5. Prize & award details
+```
+## Prompt 11 — Corporate Investor Meet
 
-Prompt 11 — Corporate Investor Meet
+`Backstory: A tech startup is inviting 50 potential investors to a private pitch event in Bengaluru. The evening will feature a presentation, networking, and product demos.`
 
-Backstory: A tech startup is inviting 50 potential investors to a private pitch event in Bengaluru. The evening will feature a presentation, networking, and product demos.
+`Goal: Ensure a polished and professional investor meet checklist.`
 
-Goal: Ensure a polished and professional investor meet checklist.
+`Prompt:`
 
-Prompt:
+`"You are a corporate event planner. Prepare a checklist for an investor meet for 50 guests, including venue booking, AV setup for presentations, seating arrangements, demo area setup, catering, printed pitch decks, investor welcome kits, and follow-up arrangements."`
 
-"You are a corporate event planner. Prepare a checklist for an investor meet for 50 guests, including venue booking, AV setup for presentations, seating arrangements, demo area setup, catering, printed pitch decks, investor welcome kits, and follow-up arrangements."
-
-Inputs Required:
-
+`Inputs Required:`
+```
 1. Event date & venue
 
 2. Number of investors invited
@@ -241,19 +241,19 @@ Inputs Required:
 4. Demo equipment required
 
 5. Catering preferences
+```
+## Prompt 12 — Press Conference
 
-Prompt 12 — Press Conference
+  `Backstory: A travel company is announcing a new international package and wants to host a press conference in Delhi. Media coverage, branding, and smooth flow are key priorities.`
 
-Backstory: A travel company is announcing a new international package and wants to host a press conference in Delhi. Media coverage, branding, and smooth flow are key priorities.
+`Goal: Build a media-focused press conference checklist.`
 
-Goal: Build a media-focused press conference checklist.
+`Prompt:`
 
-Prompt:
+`"You are a PR event coordinator. Create a checklist for a press conference announcing a new travel package. Include media invites, press kits, branded backdrops, AV setup, refreshments, Q&A arrangements, spokesperson preparation, and follow-up press release distribution."`
 
-"You are a PR event coordinator. Create a checklist for a press conference announcing a new travel package. Include media invites, press kits, branded backdrops, AV setup, refreshments, Q&A arrangements, spokesperson preparation, and follow-up press release distribution."
-
-Inputs Required:
-
+`Inputs Required:`
+```
 1. Date & venue
 
 2. Media list
@@ -263,19 +263,19 @@ Inputs Required:
 4. Key spokespersons
 
 5. Catering needs
+```
+## Prompt 13 — Art Exhibition
 
-Prompt 13 — Art Exhibition
+`Backstory: A gallery is hosting a 5-day art exhibition for emerging artists. The planner needs a checklist for curation, display setup, ticketing, and opening night.`
 
-Backstory: A gallery is hosting a 5-day art exhibition for emerging artists. The planner needs a checklist for curation, display setup, ticketing, and opening night.
+`Goal: Provide an art exhibition checklist that ensures both visitor experience and artist satisfaction.`
 
-Goal: Provide an art exhibition checklist that ensures both visitor experience and artist satisfaction.
+`Prompt:`
 
-Prompt:
+`"You are an art event manager. Prepare a 5-day exhibition checklist for 20 emerging artists. Include artwork transportation, display setup, lighting, ticketing, VIP invites, press coverage, security, and an opening reception plan."`
 
-"You are an art event manager. Prepare a 5-day exhibition checklist for 20 emerging artists. Include artwork transportation, display setup, lighting, ticketing, VIP invites, press coverage, security, and an opening reception plan."
-
-Inputs Required:
-
+`Inputs Required:`
+```
 1. Exhibition dates & venue
 
 2. Number of artists & artworks
@@ -285,19 +285,19 @@ Inputs Required:
 4. Opening night plan
 
 5. Media engagement strategy
+```
+## Prompt 14 — Food Festival
 
-Prompt 14 — Food Festival
+`Backstory: A city tourism board is hosting a weekend street food festival with 50 stalls. They need to manage vendor selection, health inspections, crowd control, and entertainment.`
 
-Backstory: A city tourism board is hosting a weekend street food festival with 50 stalls. They need to manage vendor selection, health inspections, crowd control, and entertainment.
+`Goal: Ensure a smooth, safe, and enjoyable food festival experience.`
 
-Goal: Ensure a smooth, safe, and enjoyable food festival experience.
+`Prompt:`
 
-Prompt:
+`"You are a festival planner. Build a checklist for a 2-day street food festival with 50 stalls. Include vendor licensing, stall layout, health & safety inspections, entertainment scheduling, crowd management, ticketing, waste disposal, and promotional activities."`
 
-"You are a festival planner. Build a checklist for a 2-day street food festival with 50 stalls. Include vendor licensing, stall layout, health & safety inspections, entertainment scheduling, crowd management, ticketing, waste disposal, and promotional activities."
-
-Inputs Required:
-
+`Inputs Required:`
+```
 1. Festival dates & location
 
 2. Number of stalls & cuisines
@@ -307,19 +307,19 @@ Inputs Required:
 4. Entertainment lineup
 
 5. Waste management plan
+```
+## Prompt 15 — Book Launch
 
-Prompt 15 — Book Launch
+`Backstory: An author is launching a new self-help book at a major bookstore in Mumbai, expecting 200 attendees including media and influencers.`
 
-Backstory: An author is launching a new self-help book at a major bookstore in Mumbai, expecting 200 attendees including media and influencers.
+`Goal: Create a book launch checklist for maximum reach and engagement.`
 
-Goal: Create a book launch checklist for maximum reach and engagement.
+`Prompt:`
 
-Prompt:
+`"You are a literary event organizer. Prepare a checklist for a book launch event with 200 guests. Include venue setup, seating, author signing table, media invitations, influencer outreach, book display, refreshments, and live social media updates."`
 
-"You are a literary event organizer. Prepare a checklist for a book launch event with 200 guests. Include venue setup, seating, author signing table, media invitations, influencer outreach, book display, refreshments, and live social media updates."
-
-Inputs Required:
-
+`Inputs Required:`
+```
 1. Event date & location
 
 2. Guest list
@@ -329,7 +329,7 @@ Inputs Required:
 4. Media list
 
 5. Branding needs
-
+```
 Prompt 16 — Fashion Show
 
 Backstory: A design institute is showcasing student work in a fashion show for 300 guests. The checklist must handle runway setup, lighting, model scheduling, and backstage management.
