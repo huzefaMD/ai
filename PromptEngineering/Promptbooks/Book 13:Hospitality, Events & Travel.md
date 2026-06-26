@@ -2805,20 +2805,20 @@ Prompt 6 — Responding to a Positive Guest Review on TripAdvisor
 
 3. Staff names mentioned
 ```
-Prompt 22 — Turning a Negative Review into a Service Recovery Opportunity
+## Prompt 22 — Turning a Negative Review into a Service Recovery Opportunity
 
-Backstory:
+`Backstory:`
 
-A guest at a business hotel in Bengaluru leaves a 2-star review complaining about noisy construction during their stay. The work was essential maintenance, but it disturbed the guest’s sleep. The hotel wants to recover the relationship and show empathy publicly.
+`A guest at a business hotel in Bengaluru leaves a 2-star review complaining about noisy construction during their stay. The work was essential maintenance, but it disturbed the guest’s sleep. The hotel wants to recover the relationship and show empathy publicly.`
 
-Goal:
+`Goal:`
 
-Craft a response that acknowledges the discomfort, explains the necessity, and offers a goodwill gesture.
+`Craft a response that acknowledges the discomfort, explains the necessity, and offers a goodwill gesture.`
 
-Prompt:
+`Prompt:`
 
-"You are the guest relations manager for a business hotel in Bengaluru. Draft a public reply to a 2-star review about noise from construction.
-
+`"You are the guest relations manager for a business hotel in Bengaluru. Draft a public reply to a 2-star review about noise from construction.`
+```
 1. Begin by apologising sincerely.
 
 2. Explain why the construction was necessary (safety or upgrades).
@@ -2828,9 +2828,9 @@ Prompt:
 4. Offer a goodwill gesture (discount or free upgrade for next stay).
 
 5. End with an invitation to return."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Guest’s name
 
 2. Exact review text
@@ -2838,49 +2838,49 @@ Inputs Required:
 3. Details of construction and mitigation efforts
 
 4. Offer/goodwill gesture details
+```
+## Prompt 23 — Responding to a Humorous Review with Personality
 
-Prompt 23 — Responding to a Humorous Review with Personality
+`Backstory:`
 
-Backstory:
+`A backpacker leaves a 5-star review on Hostelworld joking about the hostel’s ‘legendary chai’ and calling the receptionist ‘the Chai King of Delhi.’ The management wants to keep the tone lighthearted in their reply.`
 
-A backpacker leaves a 5-star review on Hostelworld joking about the hostel’s ‘legendary chai’ and calling the receptionist ‘the Chai King of Delhi.’ The management wants to keep the tone lighthearted in their reply.
+`Goal:`
 
-Goal:
+`Write a witty, friendly response that engages with the humour while still being professional.`
 
-Write a witty, friendly response that engages with the humour while still being professional.
+`Prompt:`
 
-Prompt:
-
-"You are the hostel manager of a popular backpackers’ stay in Delhi. Reply to a humorous 5-star review mentioning your receptionist as the ‘Chai King of Delhi.’
-
+`"You are the hostel manager of a popular backpackers’ stay in Delhi. Reply to a humorous 5-star review mentioning your receptionist as the ‘Chai King of Delhi.’`
+```
 1. Match the guest’s playful tone.
 
 2. Acknowledge the compliment and joke.
 
 3. Invite them back for ‘another round of legendary chai.’"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Reviewer’s name
 
 2. Review text
 
 3. Staff member’s name
+```
+## Prompt 24 — Video Testimonial Follow-Up Script for Satisfied Guest
 
-Prompt 24 — Video Testimonial Follow-Up Script for Satisfied Guest
+`Backstory:`
 
-Backstory:
+`A luxury safari lodge in Ranthambore hosted a guest who raved about their experience verbally during checkout. The marketing team wants to capture it on video for their social media.`
 
-A luxury safari lodge in Ranthambore hosted a guest who raved about their experience verbally during checkout. The marketing team wants to capture it on video for their social media.
+`Goal:`
 
-Goal:
+`Create a follow-up email script inviting the guest to record a short testimonial video.`
 
-Create a follow-up email script inviting the guest to record a short testimonial video.
+`Prompt:`
 
-Prompt:
-
-"You are the marketing coordinator for a luxury safari lodge in Ranthambore. Draft a polite, friendly email to a guest who praised their experience in person, inviting them to record a short testimonial video.
-
+`"You are the marketing coordinator for a luxury safari lodge in Ranthambore. Draft a polite, friendly email to a guest who praised their experience in person, inviting them to record a short testimonial video.`
+```
 1. Mention their checkout feedback.
 
 2. Explain where the video will be used (Instagram, website).
@@ -2888,29 +2888,29 @@ Prompt:
 3. Offer to guide them on recording (lighting, length).
 
 4. Provide easy upload instructions."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Guest name
 
 2. Feedback summary from checkout
 
 3. Upload link or email
+```
+## Prompt 25 — Proactive Response to Positive Review with Upsell Opportunity
 
-Prompt 25 — Proactive Response to Positive Review with Upsell Opportunity
+`Backstory:`
 
-Backstory:
+`A couple leaves a glowing 5-star review for their honeymoon stay at a Kerala backwater resort. Management sees an opportunity to promote anniversary packages.`
 
-A couple leaves a glowing 5-star review for their honeymoon stay at a Kerala backwater resort. Management sees an opportunity to promote anniversary packages.
+`Goal:`
 
-Goal:
+`Write a reply that thanks them and subtly promotes a future package.`
 
-Write a reply that thanks them and subtly promotes a future package.
+`Prompt:`
 
-Prompt:
-
-"You are the guest experience head at a luxury backwater resort in Kerala. Reply to a 5-star honeymoon review from a couple.
-
+`"You are the guest experience head at a luxury backwater resort in Kerala. Reply to a 5-star honeymoon review from a couple.`
+```
 1. Congratulate them again.
 
 2. Thank them for choosing your property for their special occasion.
@@ -2918,32 +2918,32 @@ Prompt:
 3. Suggest celebrating their first anniversary with your resort’s couples’ package.
 
 4. Include a special booking code."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Reviewer’s names
 
 2. Review text
 
 3. Package name and booking code
+```
 
+# Vendor & catering coordination
 
-Vendor & catering coordination
+## Prompt 1 — Wedding Catering Menu Finalisation with Diverse Dietary Needs
 
-Prompt 1 — Wedding Catering Menu Finalisation with Diverse Dietary Needs
+`Backstory:`
 
-Backstory:
+`An event planner in Jaipur is coordinating a luxury wedding for 500 guests at a palace venue. The client’s guest list includes strict vegetarians, Jain followers, vegans, and some international guests unfamiliar with Indian food. The caterer must balance authenticity, dietary restrictions, and presentation while ensuring smooth service.`
 
-An event planner in Jaipur is coordinating a luxury wedding for 500 guests at a palace venue. The client’s guest list includes strict vegetarians, Jain followers, vegans, and some international guests unfamiliar with Indian food. The caterer must balance authenticity, dietary restrictions, and presentation while ensuring smooth service.
+`Goal:`
 
-Goal:
+`Create a final catering plan with menu, service flow, and dietary labeling.`
 
-Create a final catering plan with menu, service flow, and dietary labeling.
+`Prompt:`
 
-Prompt:
-
-"You are the head catering coordinator for a luxury Jaipur wedding with 500 guests from diverse dietary backgrounds. Prepare a catering plan that:
-
+`"You are the head catering coordinator for a luxury Jaipur wedding with 500 guests from diverse dietary backgrounds. Prepare a catering plan that:`
+```
 1. Lists dishes under Vegetarian, Jain, Vegan, and International Fusion categories.
 
 2. Includes live counters and plated service suggestions.
@@ -2953,9 +2953,9 @@ Prompt:
 4. Includes kitchen-to-service staff coordination for quick delivery.
 
 5. Outlines service flow for different mealtimes (lunch, high tea, dinner)."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Guest count per dietary category
 
 2. Venue facilities (kitchen capacity, service stations)
@@ -2963,21 +2963,21 @@ Inputs Required:
 3. Client-preferred cuisines
 
 4. Allergens list
+```
+## Prompt 2 — Coordination Plan for Multi-Vendor Food Festival
 
-Prompt 2 — Coordination Plan for Multi-Vendor Food Festival
+`Backstory:`
 
-Backstory:
+`A tourism board in Goa is hosting a 3-day food festival featuring 40 vendors, including street food stalls, regional specialty counters, and premium restaurants. Coordination is required to avoid duplication of dishes, ensure power and water supply, and schedule cleaning shifts.`
 
-A tourism board in Goa is hosting a 3-day food festival featuring 40 vendors, including street food stalls, regional specialty counters, and premium restaurants. Coordination is required to avoid duplication of dishes, ensure power and water supply, and schedule cleaning shifts.
+`Goal:`
 
-Goal:
+`Develop a detailed vendor coordination plan with operational timings.`
 
-Develop a detailed vendor coordination plan with operational timings.
+`Prompt:`
 
-Prompt:
-
-"You are the event operations manager for a Goa food festival with 40 participating vendors. Create a vendor coordination plan that:
-
+`"You are the event operations manager for a Goa food festival with 40 participating vendors. Create a vendor coordination plan that:`
+```
 1. Assigns stall locations strategically to avoid crowding and food repetition.
 
 2. Schedules staggered cooking and prep times.
@@ -2987,9 +2987,9 @@ Prompt:
 4. Includes emergency protocols for equipment failure.
 
 5. Coordinates live entertainment schedules with food service."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Vendor list with cuisines
 
 2. Venue layout map
@@ -2997,21 +2997,21 @@ Inputs Required:
 3. Utility availability (power, water points)
 
 4. Event timetable
+```
+## Prompt 3 — Standard Operating Procedure for Caterer Contract Finalisation
 
-Prompt 3 — Standard Operating Procedure for Caterer Contract Finalisation
+`Backstory:`
 
-Backstory:
+`A corporate event agency in Mumbai handles multiple annual conferences. They often face delays in finalising catering contracts, leading to price hikes. They need a standardised SOP for securing vendors quickly while maintaining quality checks.`
 
-A corporate event agency in Mumbai handles multiple annual conferences. They often face delays in finalising catering contracts, leading to price hikes. They need a standardised SOP for securing vendors quickly while maintaining quality checks.
+`Goal:`
 
-Goal:
+`Create a standardised SOP for finalising catering contracts within 7 days.`
 
-Create a standardised SOP for finalising catering contracts within 7 days.
+`Prompt:`
 
-Prompt:
-
-"You are the operations lead for a Mumbai-based corporate event agency. Draft an SOP to finalise catering vendors within 7 days that:
-
+`"You are the operations lead for a Mumbai-based corporate event agency. Draft an SOP to finalise catering vendors within 7 days that:`
+```
 1. Details vendor shortlisting criteria.
 
 2. Includes tasting session requirements.
@@ -3021,9 +3021,9 @@ Prompt:
 4. Outlines payment and penalty terms.
 
 5. Assigns internal roles for faster approvals."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Typical event size range
 
 2. Preferred cuisine types
@@ -3031,21 +3031,21 @@ Inputs Required:
 3. Budget brackets
 
 4. Payment timelines
+```
+## Prompt 4 — Vendor Communication Template for Event Timeline Updates
 
-Prompt 4 — Vendor Communication Template for Event Timeline Updates
+`Backstory:`
 
-Backstory:
+`A destination wedding in Udaipur has had its schedule changed due to weather conditions. Multiple catering vendors need to be informed quickly with revised delivery and service times to avoid confusion.`
 
-A destination wedding in Udaipur has had its schedule changed due to weather conditions. Multiple catering vendors need to be informed quickly with revised delivery and service times to avoid confusion.
+`Goal:`
 
-Goal:
+`Draft a professional yet friendly update template for vendors.`
 
-Draft a professional yet friendly update template for vendors.
+`Prompt:`
 
-Prompt:
-
-"You are the event coordinator for a Udaipur destination wedding. Prepare a vendor communication email template that:
-
+`"You are the event coordinator for a Udaipur destination wedding. Prepare a vendor communication email template that:`
+```
 1. Clearly states revised service timings.
 
 2. Lists updated kitchen access slots.
@@ -3055,29 +3055,29 @@ Prompt:
 4. Requests quick acknowledgment from vendors.
 
 5. Uses polite, collaborative language."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Original and revised timelines
 
 2. Vendor contact list
 
 3. Changes in guest count or menu
+```
+## Prompt 5 — Contingency Plan for Vendor No-Show
 
-Prompt 5 — Contingency Plan for Vendor No-Show
+`Backstory:`
 
-Backstory:
+`At a Diwali corporate gala in Delhi, the dessert vendor cancels last minute due to transport issues. The event coordinator must have a contingency plan to ensure no shortage of desserts for 300 guests.`
 
-At a Diwali corporate gala in Delhi, the dessert vendor cancels last minute due to transport issues. The event coordinator must have a contingency plan to ensure no shortage of desserts for 300 guests.
+`Goal:`
 
-Goal:
+`Develop a contingency plan for last-minute vendor cancellations.`
 
-Develop a contingency plan for last-minute vendor cancellations.
+`Prompt:`
 
-Prompt:
-
-"You are the catering manager for a Diwali corporate gala in Delhi. Create a contingency plan for dessert vendor no-shows that:
-
+`"You are the catering manager for a Diwali corporate gala in Delhi. Create a contingency plan for dessert vendor no-shows that:`
+```
 1. Lists alternative vendors on standby.
 
 2. Includes quick menu substitutions.
@@ -3087,9 +3087,9 @@ Prompt:
 4. Details refund/penalty clauses.
 
 5. Maintains guest satisfaction."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Event date and time
 
 2. Vendor contracts
@@ -3097,21 +3097,21 @@ Inputs Required:
 3. List of backup vendors
 
 4. Storage and plating capacity at venue
+```
+## Prompt 6 — Centralised Vendor Coordination Sheet for Multi-Day Event
 
-Prompt 6 — Centralised Vendor Coordination Sheet for Multi-Day Event
+`Backstory:`
 
-Backstory:
+`A three-day cultural festival in Chennai is bringing together over 15 caterers serving different regional cuisines. The event has back-to-back sessions, performances, and mealtime slots. Without a centralised coordination document, vendors often overlap in kitchen usage and service windows. This has led to cold food, delayed service, and miscommunication between teams. The event coordinator wants a unified sheet so everyone is aligned daily.`
 
-A three-day cultural festival in Chennai is bringing together over 15 caterers serving different regional cuisines. The event has back-to-back sessions, performances, and mealtime slots. Without a centralised coordination document, vendors often overlap in kitchen usage and service windows. This has led to cold food, delayed service, and miscommunication between teams. The event coordinator wants a unified sheet so everyone is aligned daily.
+`Goal:`
 
-Goal:
+`Design a master coordination sheet for multiple catering vendors over three days.`
 
-Design a master coordination sheet for multiple catering vendors over three days.
+`Prompt:`
 
-Prompt:
-
-"You are creating a centralised catering coordination sheet for a 3-day cultural festival in Chennai with 15 caterers. The sheet must:
-
+`"You are creating a centralised catering coordination sheet for a 3-day cultural festival in Chennai with 15 caterers. The sheet must:`
+```
 1. Include vendor contact details and assigned cuisine.
 
 2. Map kitchen access times to prevent clashes.
@@ -3121,9 +3121,9 @@ Prompt:
 4. Include emergency contacts and on-site manager assignments.
 
 5. Be clear enough for quick reference by all staff."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Event schedule with meal timings
 
 2. Vendor list with cuisines
@@ -3131,21 +3131,21 @@ Inputs Required:
 3. Venue kitchen capacity details
 
 4. Emergency contacts
+```
+## Prompt 7 — Quality Control Checklist for Caterers
 
-Prompt 7 — Quality Control Checklist for Caterers
+`Backstory:`
 
-Backstory:
+`A Mumbai-based corporate event company frequently faces complaints about inconsistent taste and portion sizes when working with new caterers. The issue escalated during a 1,000-person gala where some guests were served smaller portions while others got double servings. A standardised quality control checklist is needed to ensure all vendors meet the company’s service and presentation standards.`
 
-A Mumbai-based corporate event company frequently faces complaints about inconsistent taste and portion sizes when working with new caterers. The issue escalated during a 1,000-person gala where some guests were served smaller portions while others got double servings. A standardised quality control checklist is needed to ensure all vendors meet the company’s service and presentation standards.
+`Goal:`
 
-Goal:
+`Prepare a detailed catering quality control checklist.`
 
-Prepare a detailed catering quality control checklist.
+`Prompt:`
 
-Prompt:
-
-"You are the quality control manager for a corporate event agency. Develop a quality control checklist for catering vendors that:
-
+`"You are the quality control manager for a corporate event agency. Develop a quality control checklist for catering vendors that:`
+```
 1. Covers food taste, temperature, and portion size.
 
 2. Includes plating consistency guidelines.
@@ -3155,9 +3155,9 @@ Prompt:
 4. Lists client-specific presentation requirements.
 
 5. Incorporates a final pre-service inspection step."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Portion size expectations
 
 2. Client preferences for presentation
@@ -3165,21 +3165,21 @@ Inputs Required:
 3. Number of service staff
 
 4. Event duration
+```
+## Prompt 8 — Catering Staff Scheduling Plan
 
-Prompt 8 — Catering Staff Scheduling Plan
+`Backstory:`
 
-Backstory:
+`A large-scale wedding in Delhi has a mix of sit-down meals, buffet services, and live counters. Past experience showed that staff were overloaded during buffet service and idle during tea breaks. The event planner needs a schedule that balances workload, ensures breaks, and avoids service bottlenecks.`
 
-A large-scale wedding in Delhi has a mix of sit-down meals, buffet services, and live counters. Past experience showed that staff were overloaded during buffet service and idle during tea breaks. The event planner needs a schedule that balances workload, ensures breaks, and avoids service bottlenecks.
+`Goal:`
 
-Goal:
+`Create an optimised catering staff schedule for varied service styles.`
 
-Create an optimised catering staff schedule for varied service styles.
+`Prompt:`
 
-Prompt:
-
-"You are managing catering for a 3-day Delhi wedding. Create a staff schedule that:
-
+`"You are managing catering for a 3-day Delhi wedding. Create a staff schedule that:`
+```
 1. Allocates staff per service type (buffet, sit-down, live counter).
 
 2. Ensures shift rotation and breaks.
@@ -3189,9 +3189,9 @@ Prompt:
 4. Includes setup and clean-up crews.
 
 5. Coordinates with entertainment schedules to prevent overlaps."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Guest count per meal type
 
 2. Number of available staff
@@ -3199,21 +3199,21 @@ Inputs Required:
 3. Service style for each meal
 
 4. Event timeline
+```
+## Prompt 9 — Pricing Negotiation Template for Caterers
 
-Prompt 9 — Pricing Negotiation Template for Caterers
+`Backstory:`
 
-Backstory:
+`An event agency in Bangalore often finds itself over budget because of last-minute vendor negotiations. Caterers quote high rates, knowing the event is close, and the agency has little bargaining power. They need a template to approach vendors early with clear expectations, ensuring competitive pricing and avoiding unnecessary cost escalation.`
 
-An event agency in Bangalore often finds itself over budget because of last-minute vendor negotiations. Caterers quote high rates, knowing the event is close, and the agency has little bargaining power. They need a template to approach vendors early with clear expectations, ensuring competitive pricing and avoiding unnecessary cost escalation.
+`Goal:`
 
-Goal:
+`Create a negotiation email template for catering vendors.`
 
-Create a negotiation email template for catering vendors.
+`Prompt:`
 
-Prompt:
-
-"You are the procurement lead for a Bangalore event agency. Write a catering vendor negotiation template that:
-
+`"You are the procurement lead for a Bangalore event agency. Write a catering vendor negotiation template that:`
+```
 1. States guest count and service expectations upfront.
 
 2. Mentions budget range.
@@ -3223,9 +3223,9 @@ Prompt:
 4. Offers potential for repeat business as an incentive.
 
 5. Sets a deadline for quote submission."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Event date and location
 
 2. Guest count
@@ -3233,21 +3233,21 @@ Inputs Required:
 3. Cuisine type
 
 4. Budget range
+```
+## Prompt 10 — Pre-Event Tasting Feedback Form
 
-Prompt 10 — Pre-Event Tasting Feedback Form
+`Backstory:`
 
-Backstory:
+`A resort in Kerala is hosting a luxury destination wedding. The client has booked a high-profile caterer but insists on multiple tasting sessions before finalising. The resort needs a structured feedback form so that both client and caterer can agree on changes without endless back-and-forth discussions.`
 
-A resort in Kerala is hosting a luxury destination wedding. The client has booked a high-profile caterer but insists on multiple tasting sessions before finalising. The resort needs a structured feedback form so that both client and caterer can agree on changes without endless back-and-forth discussions.
+`Goal:`
 
-Goal:
+`Design a professional catering tasting feedback form.`
 
-Design a professional catering tasting feedback form.
+`Prompt:`
 
-Prompt:
-
-"You are managing pre-event tasting for a luxury Kerala wedding. Create a feedback form that:
-
+`"You are managing pre-event tasting for a luxury Kerala wedding. Create a feedback form that:`
+```
 1. Covers taste, texture, aroma, and presentation.
 
 2. Rates portion size appropriateness.
@@ -3257,9 +3257,9 @@ Prompt:
 4. Highlights changes or substitutions requested.
 
 5. Has a final approval section for the client."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Dish names and descriptions
 
 2. Rating scale (1–5 or similar)
@@ -3267,21 +3267,21 @@ Inputs Required:
 3. Notes section for each dish
 
 4. Approval signature area
+```
+## Prompt 11 — Rain Contingency Catering Plan for Outdoor Events
 
-Prompt 11 — Rain Contingency Catering Plan for Outdoor Events
+`Backstory:`
 
-Backstory:
+`A high-profile outdoor sangeet in Jaipur is scheduled in the monsoon season. The couple has chosen multiple live cooking counters to enhance the guest experience. However, unexpected showers in previous events have caused chaos — soggy food, power issues for induction units, and a shortage of covered serving spaces. The event manager wants a foolproof contingency plan that ensures uninterrupted service even in heavy rain.`
 
-A high-profile outdoor sangeet in Jaipur is scheduled in the monsoon season. The couple has chosen multiple live cooking counters to enhance the guest experience. However, unexpected showers in previous events have caused chaos — soggy food, power issues for induction units, and a shortage of covered serving spaces. The event manager wants a foolproof contingency plan that ensures uninterrupted service even in heavy rain.
+`Goal:`
 
-Goal:
+`Create a comprehensive rain contingency catering plan.`
 
-Create a comprehensive rain contingency catering plan.
+`Prompt:`
 
-Prompt:
-
-"You are managing catering for an outdoor wedding sangeet in Jaipur during monsoon season. Prepare a contingency plan that:
-
+`"You are managing catering for an outdoor wedding sangeet in Jaipur during monsoon season. Prepare a contingency plan that:`
+```
 1. Lists covered food service areas and backup tents.
 
 2. Includes generator arrangements for live counters.
@@ -3291,9 +3291,9 @@ Prompt:
 4. Reallocates staff in case of emergency shifts indoors.
 
 5. Communicates changes quickly to all vendors."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Weather forecast
 
 2. Venue layout with indoor and outdoor areas
@@ -3301,21 +3301,21 @@ Inputs Required:
 3. List of live counters and required equipment
 
 4. Vendor contact list
+```
+## Prompt 12 — Bulk Purchase Coordination for Caterers
 
-Prompt 12 — Bulk Purchase Coordination for Caterers
+`Backstory:`
 
-Backstory:
+`During a large corporate annual meet in Hyderabad, multiple caterers were sourcing ingredients separately, causing duplication of purchases and inflated costs. A smarter approach would have been to pool ingredient orders for items like rice, spices, and beverages. The event organiser now wants a centralised bulk purchase plan that caters to multiple vendors while reducing costs and wastage.`
 
-During a large corporate annual meet in Hyderabad, multiple caterers were sourcing ingredients separately, causing duplication of purchases and inflated costs. A smarter approach would have been to pool ingredient orders for items like rice, spices, and beverages. The event organiser now wants a centralised bulk purchase plan that caters to multiple vendors while reducing costs and wastage.
+`Goal:`
 
-Goal:
+`Design a bulk purchase coordination sheet for multiple caterers.`
 
-Design a bulk purchase coordination sheet for multiple caterers.
+`Prompt:`
 
-Prompt:
-
-"You are planning a 5,000-attendee corporate meet in Hyderabad. Create a bulk purchase coordination document that:
-
+`"You are planning a 5,000-attendee corporate meet in Hyderabad. Create a bulk purchase coordination document that:`
+```
 1. Lists common ingredients needed by all caterers.
 
 2. Consolidates vendor requirements.
@@ -3325,9 +3325,9 @@ Prompt:
 4. Allocates responsibility for procurement and payment.
 
 5. Ensures delivery aligns with preparation timelines."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Menu plans from all caterers
 
 2. Storage capacity at venue
@@ -3335,21 +3335,21 @@ Inputs Required:
 3. Supplier contact details
 
 4. Budget limits
+```
+## Prompt 13 — Cultural Cuisine Coordination Plan
 
-Prompt 13 — Cultural Cuisine Coordination Plan
+`Backstory:`
 
-Backstory:
+`An international tourism conference in Goa features themed lunches — North Indian, South Indian, Goan, and International. The organisers previously struggled with overlapping dishes and cultural insensitivities (e.g., serving beef in a predominantly Hindu crowd). This time, they want a clear coordination plan to respect cultural nuances and avoid menu repetition.`
 
-An international tourism conference in Goa features themed lunches — North Indian, South Indian, Goan, and International. The organisers previously struggled with overlapping dishes and cultural insensitivities (e.g., serving beef in a predominantly Hindu crowd). This time, they want a clear coordination plan to respect cultural nuances and avoid menu repetition.
+`Goal:`
 
-Goal:
+`Create a culturally sensitive multi-cuisine catering plan.`
 
-Create a culturally sensitive multi-cuisine catering plan.
+`Prompt:`
 
-Prompt:
-
-"You are managing catering for a Goa-based international tourism conference. Develop a coordination plan that:
-
+`"You are managing catering for a Goa-based international tourism conference. Develop a coordination plan that:`
+```
 1. Assigns each caterer a specific cuisine theme per day.
 
 2. Avoids ingredient or dish repetition.
@@ -3359,9 +3359,9 @@ Prompt:
 4. Includes signage for dietary restrictions.
 
 5. Coordinates garnish and presentation styles per culture."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Cuisine themes and assigned days
 
 2. Cultural restriction guidelines
@@ -3369,21 +3369,21 @@ Inputs Required:
 3. Guest dietary preferences list
 
 4. Menu samples from vendors
+```
+## Prompt 14 — Waste Management & Leftover Distribution Plan
 
-Prompt 14 — Waste Management & Leftover Distribution Plan
+`Backstory:`
 
-Backstory:
+`A Bengaluru tech company hosting its annual day noticed that food wastage from buffets was significant. Guests left portions unfinished, and excess prepared food was discarded. This year, they want a plan to minimise waste and responsibly distribute leftovers to local NGOs while ensuring food safety compliance.`
 
-A Bengaluru tech company hosting its annual day noticed that food wastage from buffets was significant. Guests left portions unfinished, and excess prepared food was discarded. This year, they want a plan to minimise waste and responsibly distribute leftovers to local NGOs while ensuring food safety compliance.
+`Goal:`
 
-Goal:
+`Create a catering waste management and redistribution plan.`
 
-Create a catering waste management and redistribution plan.
+`Prompt:`
 
-Prompt:
-
-"You are managing catering for a Bengaluru corporate annual day. Create a plan that:
-
+`"You are managing catering for a Bengaluru corporate annual day. Create a plan that:`
+```
 1. Tracks food quantities served vs. consumed.
 
 2. Allocates smaller buffet batches to reduce wastage.
@@ -3393,9 +3393,9 @@ Prompt:
 4. Ensures safe storage before distribution.
 
 5. Includes post-event waste audit reporting."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Guest count
 
 2. NGO contacts for food donation
@@ -3403,21 +3403,21 @@ Inputs Required:
 3. Food safety guidelines
 
 4. Catering service style (buffet/sit-down)
+```
+## Prompt 15 — Last-Minute Vendor Replacement Protocol
 
-Prompt 15 — Last-Minute Vendor Replacement Protocol
+`Backstory:`
 
-Backstory:
+`Two days before a big anniversary party in Pune, the dessert vendor cancelled due to a family emergency. The organiser scrambled to find a replacement, but there was no structured process in place. This caused delays and mismatched quality expectations. The client wants a clear emergency vendor replacement protocol for future events.`
 
-Two days before a big anniversary party in Pune, the dessert vendor cancelled due to a family emergency. The organiser scrambled to find a replacement, but there was no structured process in place. This caused delays and mismatched quality expectations. The client wants a clear emergency vendor replacement protocol for future events.
+`Goal:`
 
-Goal:
+`Develop a last-minute catering vendor replacement SOP.`
 
-Develop a last-minute catering vendor replacement SOP.
+`Prompt:`
 
-Prompt:
-
-"You are creating an emergency protocol for vendor cancellations. Design a document that:
-
+`"You are creating an emergency protocol for vendor cancellations. Design a document that:`
+```
 1. Has a pre-vetted backup vendor list for each category.
 
 2. Assigns a rapid response team to contact replacements.
@@ -3427,9 +3427,9 @@ Prompt:
 4. Details quality checks for substitute vendors.
 
 5. Outlines approval process for client sign-off."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Current vendor list
 
 2. Backup vendor database
@@ -3437,21 +3437,21 @@ Inputs Required:
 3. Quality check criteria
 
 4. Approval authority contacts
+```
+## Prompt 16 — Multi-Day Event Kitchen Equipment Sharing Schedule
 
-Prompt 16 — Multi-Day Event Kitchen Equipment Sharing Schedule
+`Backstory:`
 
-Backstory:
+`In a week-long corporate summit at a resort in Udaipur, multiple catering teams needed access to shared kitchen facilities. Last year, overlapping use of ovens, refrigeration units, and tandoors caused delays and food quality issues. The organisers want a coordinated equipment usage schedule to ensure each vendor has sufficient prep time without bottlenecks.`
 
-In a week-long corporate summit at a resort in Udaipur, multiple catering teams needed access to shared kitchen facilities. Last year, overlapping use of ovens, refrigeration units, and tandoors caused delays and food quality issues. The organisers want a coordinated equipment usage schedule to ensure each vendor has sufficient prep time without bottlenecks.
+`Goal:`
 
-Goal:
+`Create an equipment sharing schedule for multi-day events.`
 
-Create an equipment sharing schedule for multi-day events.
+`Prompt:`
 
-Prompt:
-
-"You are coordinating catering for a 7-day corporate summit in Udaipur. Develop a detailed kitchen equipment schedule that:
-
+`"You are coordinating catering for a 7-day corporate summit in Udaipur. Develop a detailed kitchen equipment schedule that:`
+```
 1. Lists available appliances and their capacities.
 
 2. Allocates time slots to each caterer.
@@ -3461,9 +3461,9 @@ Prompt:
 4. Provides an escalation process for disputes.
 
 5. Is shared digitally with all vendors."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Equipment inventory
 
 2. Event timetable
@@ -3471,21 +3471,21 @@ Inputs Required:
 3. Vendor prep requirements
 
 4. Cleaning SOPs
+```
+## Prompt 17 — Allergen Management & Guest Communication Plan
 
-Prompt 17 — Allergen Management & Guest Communication Plan
+`Backstory:`
 
-Backstory:
+`A Mumbai awards dinner had several guests with severe allergies to nuts, shellfish, and dairy. Last year, inadequate labelling led to a guest accidentally consuming a dish with peanuts, requiring emergency care. The organiser now insists on a strict allergen management plan to protect guests and avoid reputational damage.`
 
-A Mumbai awards dinner had several guests with severe allergies to nuts, shellfish, and dairy. Last year, inadequate labelling led to a guest accidentally consuming a dish with peanuts, requiring emergency care. The organiser now insists on a strict allergen management plan to protect guests and avoid reputational damage.
+`Goal:`
 
-Goal:
+`Design a catering allergen safety and communication system.`
 
-Design a catering allergen safety and communication system.
+`Prompt:`
 
-Prompt:
-
-"You are managing catering for a high-profile awards dinner in Mumbai. Create an allergen safety plan that:
-
+`"You are managing catering for a high-profile awards dinner in Mumbai. Create an allergen safety plan that:`
+```
 1. Flags high-risk ingredients in menus.
 
 2. Uses clear, visible labels for dishes.
@@ -3495,9 +3495,9 @@ Prompt:
 4. Provides guest-specific allergen cards to chefs.
 
 5. Includes pre-event guest communication on food safety."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Guest allergy list
 
 2. Full menu with ingredients
@@ -3505,21 +3505,21 @@ Inputs Required:
 3. Allergen signage templates
 
 4. Medical emergency contact protocol
+```
+## Prompt 18 — Festival Season Ingredient Sourcing Plan
 
-Prompt 18 — Festival Season Ingredient Sourcing Plan
+`Backstory:`
 
-Backstory:
+`During Diwali season, sourcing premium-quality ghee, dry fruits, and sweets in Delhi becomes competitive, with prices surging. For an upcoming luxury wedding, the caterer needs to ensure timely procurement without compromising quality. They want a procurement plan that anticipates shortages and secures contracts early.`
 
-During Diwali season, sourcing premium-quality ghee, dry fruits, and sweets in Delhi becomes competitive, with prices surging. For an upcoming luxury wedding, the caterer needs to ensure timely procurement without compromising quality. They want a procurement plan that anticipates shortages and secures contracts early.
+`Goal:`
 
-Goal:
+`Create a seasonal ingredient procurement strategy.`
 
-Create a seasonal ingredient procurement strategy.
+`Prompt:`
 
-Prompt:
-
-"You are planning catering for a luxury wedding in Delhi during Diwali. Develop a procurement strategy that:
-
+`"You are planning catering for a luxury wedding in Delhi during Diwali. Develop a procurement strategy that:`
+```
 1. Identifies high-demand ingredients.
 
 2. Secures supplier contracts in advance.
@@ -3529,9 +3529,9 @@ Prompt:
 4. Locks in pricing to avoid last-minute hikes.
 
 5. Schedules deliveries to match prep needs."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Menu ingredient list
 
 2. Seasonal market price trends
@@ -3539,21 +3539,21 @@ Inputs Required:
 3. Supplier database
 
 4. Event cooking schedule
+```
+## Prompt 19 — Remote Venue Catering Logistics Plan
 
-Prompt 19 — Remote Venue Catering Logistics Plan
+`Backstory:`
 
-Backstory:
+`A destination wedding in Ladakh poses logistical challenges — the venue is remote, roads are narrow, and local produce is limited. The caterer must transport most ingredients and equipment from Leh and Delhi while maintaining freshness and avoiding spoilage. The planner wants a detailed logistics plan.`
 
-A destination wedding in Ladakh poses logistical challenges — the venue is remote, roads are narrow, and local produce is limited. The caterer must transport most ingredients and equipment from Leh and Delhi while maintaining freshness and avoiding spoilage. The planner wants a detailed logistics plan.
+`Goal:`
 
-Goal:
+`Plan catering transport and setup for remote venues.`
 
-Plan catering transport and setup for remote venues.
+`Prompt:`
 
-Prompt:
-
-"You are managing catering for a wedding in Ladakh. Create a logistics plan that:
-
+`"You are managing catering for a wedding in Ladakh. Create a logistics plan that:`
+```
 1. Schedules transport of perishables with cold storage.
 
 2. Accounts for travel time and road conditions.
@@ -3563,9 +3563,9 @@ Prompt:
 4. Ensures backup power for refrigeration at the venue.
 
 5. Has emergency ingredient sourcing options locally."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Venue location and access details
 
 2. Ingredient storage requirements
@@ -3573,21 +3573,21 @@ Inputs Required:
 3. Transport provider contacts
 
 4. Power supply arrangements
+```
+## Prompt 20 — Staff Meal Coordination for Large Events
 
-Prompt 20 — Staff Meal Coordination for Large Events
+`Backstory:`
 
-Backstory:
+`At a major music festival in Bengaluru, over 200 event staff were working 12-hour shifts but had no coordinated meal plan. This led to staff leaving posts during peak times and caterers running out of meals. Organisers now want a structured meal coordination plan for staff.`
 
-At a major music festival in Bengaluru, over 200 event staff were working 12-hour shifts but had no coordinated meal plan. This led to staff leaving posts during peak times and caterers running out of meals. Organisers now want a structured meal coordination plan for staff.
+`Goal:`
 
-Goal:
+`Create a catering plan for staff meals.`
 
-Create a catering plan for staff meals.
+`Prompt:`
 
-Prompt:
-
-"You are managing food service for a 3-day music festival in Bengaluru. Design a staff meal plan that:
-
+`"You are managing food service for a 3-day music festival in Bengaluru. Design a staff meal plan that:`
+```
 1. Determines meal times in shifts.
 
 2. Allocates meals by role and location.
@@ -3597,9 +3597,9 @@ Prompt:
 4. Includes water and beverage stations.
 
 5. Tracks consumption to prevent shortages."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Staff roster and shift timings
 
 2. Budget for staff catering
@@ -3607,21 +3607,21 @@ Inputs Required:
 3. Storage and serving facilities
 
 4. Vendor for staff meals
+```
+## Prompt 21 — Multiple Vendor Menu Integration Sheet
 
-Prompt 21 — Multiple Vendor Menu Integration Sheet
+`Backstory:`
 
-Backstory:
+`For a large wedding reception in Kolkata, five different caterers were hired for various cuisines. Guests complained about confusing layouts and mismatched service styles. The planner wants a master menu integration sheet to ensure flow, presentation, and variety are coordinated.`
 
-For a large wedding reception in Kolkata, five different caterers were hired for various cuisines. Guests complained about confusing layouts and mismatched service styles. The planner wants a master menu integration sheet to ensure flow, presentation, and variety are coordinated.
+`Goal:`
 
-Goal:
+`Integrate multiple vendors into one seamless menu plan.`
 
-Integrate multiple vendors into one seamless menu plan.
+`Prompt:`
 
-Prompt:
-
-"You are coordinating five catering teams for a Kolkata wedding reception. Create a master menu sheet that:
-
+`"You are coordinating five catering teams for a Kolkata wedding reception. Create a master menu sheet that:`
+```
 1. Lists dishes from all vendors in one flow.
 
 2. Avoids duplication.
@@ -3631,9 +3631,9 @@ Prompt:
 4. Assigns serving counters logically by cuisine type.
 
 5. Includes guest navigation signage."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Individual vendor menus
 
 2. Guest count
@@ -3641,21 +3641,21 @@ Inputs Required:
 3. Venue layout
 
 4. Serving equipment list
+```
+## Prompt 22 — Beverage Service & Alcohol Licensing Plan
 
-Prompt 22 — Beverage Service & Alcohol Licensing Plan
+`Backstory:`
 
-Backstory:
+`A corporate gala in Gurgaon plans to serve alcohol, but organisers last year faced delays because of late liquor license applications. There were also issues with staff serving alcohol without proper training. This time, they want a legally compliant and efficient beverage plan.`
 
-A corporate gala in Gurgaon plans to serve alcohol, but organisers last year faced delays because of late liquor license applications. There were also issues with staff serving alcohol without proper training. This time, they want a legally compliant and efficient beverage plan.
+`Goal:`
 
-Goal:
+`Create a beverage service and licensing coordination document.`
 
-Create a beverage service and licensing coordination document.
+`Prompt:`
 
-Prompt:
-
-"You are managing beverages for a corporate gala in Gurgaon. Develop a plan that:
-
+`"You are managing beverages for a corporate gala in Gurgaon. Develop a plan that:`
+```
 1. Applies for all necessary licenses in advance.
 
 2. Trains staff in responsible alcohol service.
@@ -3665,9 +3665,9 @@ Prompt:
 4. Sets up beverage counters for smooth service.
 
 5. Tracks inventory in real-time to avoid shortages."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Beverage menu
 
 2. Local licensing requirements
@@ -3675,21 +3675,21 @@ Inputs Required:
 3. Bartender list and certifications
 
 4. Guest count and demographics
+```
+## Prompt 23 — VIP Guest Catering Customisation Plan
 
-Prompt 23 — VIP Guest Catering Customisation Plan
+`Backstory:`
 
-Backstory:
+`For a high-profile political event in New Delhi, certain VIP guests require customised meals for health and religious reasons. Last year, these requests were handled informally, causing errors and delays. The organiser now wants a precise VIP meal plan that ensures discretion and accuracy.`
 
-For a high-profile political event in New Delhi, certain VIP guests require customised meals for health and religious reasons. Last year, these requests were handled informally, causing errors and delays. The organiser now wants a precise VIP meal plan that ensures discretion and accuracy.
+`Goal:`
 
-Goal:
+`Customise catering for VIP dietary needs.`
 
-Customise catering for VIP dietary needs.
+`Prompt:`
 
-Prompt:
-
-"You are managing catering for a political event in New Delhi. Create a VIP meal customisation plan that:
-
+`"You are managing catering for a political event in New Delhi. Create a VIP meal customisation plan that:`
+```
 1. Lists each VIP's dietary preferences privately.
 
 2. Assigns dedicated service staff for each VIP.
@@ -3699,9 +3699,9 @@ Prompt:
 4. Uses discreet labelling for VIP meals.
 
 5. Has a backup plan for last-minute changes."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. VIP guest list
 
 2. Dietary preference details
@@ -3709,21 +3709,21 @@ Inputs Required:
 3. Staff assignments
 
 4. Prep area layout
+```
+## Prompt 24 — Vendor Payment & Performance Tracking System
 
-Prompt 24 — Vendor Payment & Performance Tracking System
+`Backstory:`
 
-Backstory:
+`An event management company in Chennai hires multiple catering vendors for various events. Without performance tracking, they’ve repeatedly re-hired underperforming vendors. The owner now wants a payment and performance tracking system for better decision-making.`
 
-An event management company in Chennai hires multiple catering vendors for various events. Without performance tracking, they’ve repeatedly re-hired underperforming vendors. The owner now wants a payment and performance tracking system for better decision-making.
+`Goal:`
 
-Goal:
+`Create a vendor evaluation and payment schedule.`
 
-Create a vendor evaluation and payment schedule.
+`Prompt:`
 
-Prompt:
-
-"You are designing a vendor management sheet for catering services. The system should:
-
+`"You are designing a vendor management sheet for catering services. The system should:`
+```
 1. Record vendor performance ratings after each event.
 
 2. Link ratings to payment release schedules.
@@ -3733,9 +3733,9 @@ Prompt:
 4. Maintain payment history for tax compliance.
 
 5. Be easy to update after every event."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Vendor list
 
 2. Payment terms
@@ -3743,21 +3743,21 @@ Inputs Required:
 3. Performance criteria
 
 4. Event history
+```
+## Prompt 25 — Post-Event Catering Review & Feedback System
 
-Prompt 25 — Post-Event Catering Review & Feedback System
+`Backstory:`
 
-Backstory:
+`After a large banquet in Ahmedabad, guests praised the food but complained about service delays. The organiser wants a structured post-event review system to capture detailed feedback from guests and vendors, helping improve future coordination.`
 
-After a large banquet in Ahmedabad, guests praised the food but complained about service delays. The organiser wants a structured post-event review system to capture detailed feedback from guests and vendors, helping improve future coordination.
+`Goal:`
 
-Goal:
+`Design a catering feedback and review process.`
 
-Design a catering feedback and review process.
+`Prompt:`
 
-Prompt:
-
-"You are implementing a post-event review system for catering. The system should:
-
+`"You are implementing a post-event review system for catering. The system should:`
+```
 1. Collect feedback from guests via forms or QR codes.
 
 2. Gather vendor feedback on event operations.
@@ -3767,9 +3767,9 @@ Prompt:
 4. Archive feedback for vendor selection in future events.
 
 5. Present findings in a simple summary report."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Guest contact list
 
 2. Feedback form templates
@@ -3777,3 +3777,4 @@ Inputs Required:
 3. Vendor feedback forms
 
 4. Event operations log
+```
