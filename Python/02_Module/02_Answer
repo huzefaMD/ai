@@ -1,0 +1,11 @@
+# Create variables
+product_name = "Wireless Headphones"
+price = 2999
+in_stock = True
+rating = 4.6
+
+# Print the output using f-strings
+print(f"Product: {product_name}")
+print(f"Price: ₹{price}")
+print(f"In stock: {in_stock}")
+print(f"Rating: {rating}/5.0")
