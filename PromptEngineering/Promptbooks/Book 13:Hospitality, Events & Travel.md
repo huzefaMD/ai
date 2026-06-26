@@ -861,16 +861,16 @@ Also, suggest caption ideas with hashtags relevant to Indian travel trends."
 
 3. Images
 ```
-Prompt 11— Seasonal Food Festival Promotion
+## Prompt 11— Seasonal Food Festival Promotion
 
-Backstory: A five-star heritage hotel in Delhi is launching its annual “Flavours of India” monsoon food festival. The event will feature 12 award-winning chefs representing different states, from Kashmiri Wazwan to Chettinad curries. The marketing team wants to target both local residents looking for a unique dining experience and international tourists staying nearby. They aim to fill all dining slots across 10 days, while reinforcing the hotel’s image as a culinary hub.
+`Backstory: A five-star heritage hotel in Delhi is launching its annual “Flavours of India” monsoon food festival. The event will feature 12 award-winning chefs representing different states, from Kashmiri Wazwan to Chettinad curries. The marketing team wants to target both local residents looking for a unique dining experience and international tourists staying nearby. They aim to fill all dining slots across 10 days, while reinforcing the hotel’s image as a culinary hub.`
 
-Goal: Write high-conversion ad copy and carousel ideas for Facebook and Instagram that highlight the festival’s diversity, exclusivity, and sensory appeal.
+`Goal: Write high-conversion ad copy and carousel ideas for Facebook and Instagram that highlight the festival’s diversity, exclusivity, and sensory appeal.`
 
-Prompt:
+`Prompt:`
 
-"You are a Hospitality Marketing Copywriter. Write 3 Facebook ad copies (under 100 words each) and 3 Instagram carousel concepts for a Delhi luxury hotel’s ‘Flavours of India’ festival. Each should:
-
+`"You are a Hospitality Marketing Copywriter. Write 3 Facebook ad copies (under 100 words each) and 3 Instagram carousel concepts for a Delhi luxury hotel’s ‘Flavours of India’ festival. Each should:`
+```
 1. Use rich sensory language about taste, aroma, and ambiance
 
 2. Highlight the diversity of regional cuisines
@@ -878,11 +878,11 @@ Prompt:
 3. Mention the event dates, booking info, and urgency (limited seats)
 
 4. Align with the tone: sophisticated yet warm
+```
+`For carousel ideas, detail slide-by-slide captions, imagery, and CTA placement."`
 
-For carousel ideas, detail slide-by-slide captions, imagery, and CTA placement."
-
-Inputs Required:
-
+`Inputs Required:`
+```
 1. Festival dates & timings
 
 2. List of participating chefs/cuisines
@@ -890,17 +890,17 @@ Inputs Required:
 3. Pricing and booking link
 
 4. Venue photos
+```
+## Prompt 12 — Destination Wedding Landing Page
 
-Prompt 12 — Destination Wedding Landing Page
+`Backstory: A luxury desert resort in Jaisalmer is preparing for the upcoming wedding season. They have multiple outdoor courtyards, a heritage ballroom, and panoramic views of the dunes. However, their current wedding webpage lacks emotional storytelling and fails to position the property as a once-in-a-lifetime wedding venue. The management wants a webpage that speaks to both Indian and NRI couples looking for a royal, stress-free destination wedding.`
 
-Backstory: A luxury desert resort in Jaisalmer is preparing for the upcoming wedding season. They have multiple outdoor courtyards, a heritage ballroom, and panoramic views of the dunes. However, their current wedding webpage lacks emotional storytelling and fails to position the property as a once-in-a-lifetime wedding venue. The management wants a webpage that speaks to both Indian and NRI couples looking for a royal, stress-free destination wedding.
+`Goal: Rewrite the landing page to emotionally connect with couples while showcasing services, venue options, and seamless planning support.`
 
-Goal: Rewrite the landing page to emotionally connect with couples while showcasing services, venue options, and seamless planning support.
+`Prompt:`
 
-Prompt:
-
-"You are a Web Content Specialist for luxury weddings. Rewrite the destination wedding landing page for a Jaisalmer resort. Include: 
-
+`"You are a Web Content Specialist for luxury weddings. Rewrite the destination wedding landing page for a Jaisalmer resort. Include:` 
+```
 1. A headline that evokes romance and grandeur 
 
 2. A storytelling-driven introduction about love and heritage 
@@ -910,11 +910,11 @@ Prompt:
 4. Testimonials placeholder with emotional quotes 
 
 5. A compelling CTA to enquire with urgency.
+```
+`Tone: Romantic, aspirational, and culturally rooted."`
 
-Tone: Romantic, aspirational, and culturally rooted."
-
-Inputs Required: 
-
+`Inputs Required: `
+```
 1. Venue specs and photos 
 
 2. Package inclusions 
@@ -922,17 +922,17 @@ Inputs Required:
 3. Client testimonials 
 
 4. Contact form link
+```
+## Prompt 13 — Monsoon Photography Contest
 
-Prompt 13 — Monsoon Photography Contest
+`Backstory: A boutique hill resort in Munnar wants to boost social media engagement during the lush monsoon season. They plan to host a guest-only photography contest, where participants capture the magic of rain-soaked tea gardens, misty mornings, and wildlife encounters. The resort hopes the UGC (user-generated content) will later be used in their marketing campaigns.`
 
-Backstory: A boutique hill resort in Munnar wants to boost social media engagement during the lush monsoon season. They plan to host a guest-only photography contest, where participants capture the magic of rain-soaked tea gardens, misty mornings, and wildlife encounters. The resort hopes the UGC (user-generated content) will later be used in their marketing campaigns.
+`Goal: Announce and detail the contest rules in an engaging way on Instagram and Facebook.`
 
-Goal: Announce and detail the contest rules in an engaging way on Instagram and Facebook.
+`Prompt:`
 
-Prompt:
-
-"You are a Social Media Contest Planner. Create an Instagram + Facebook post for a Munnar monsoon photography challenge. Include:
-
+`"You are a Social Media Contest Planner. Create an Instagram + Facebook post for a Munnar monsoon photography challenge. Include:`
+```
 1. A poetic introduction about monsoon beauty
 
 2. Contest dates, eligibility, and participation rules
@@ -942,11 +942,11 @@ Prompt:
 4. Prize details
 
 5. An example caption to inspire entries
+```
+`Tone: Playful yet premium."`
 
-Tone: Playful yet premium."
-
-Inputs Required:
-
+`Inputs Required:`
+```
 1. Contest duration
 
 2. Prizes
@@ -954,17 +954,17 @@ Inputs Required:
 3. Official hashtag
 
 4. Photo rights policy
+```
+## Prompt 14 — Luxury Spa Wellness Retreat Campaign
 
-Prompt 14 — Luxury Spa Wellness Retreat Campaign
+`Backstory: A beachfront resort in Goa is launching a 5-day “Wellness by the Waves” retreat. The program includes sunrise yoga, Ayurveda-based spa treatments, meditation sessions, and plant-based gourmet dining. The resort wants to position this as the ultimate getaway for young Indian professionals who are stressed from corporate jobs and want a holistic reset. Their goal is to target both solo travelers and couples aged 25–35 who value mental well-being and luxury.`
 
-Backstory: A beachfront resort in Goa is launching a 5-day “Wellness by the Waves” retreat. The program includes sunrise yoga, Ayurveda-based spa treatments, meditation sessions, and plant-based gourmet dining. The resort wants to position this as the ultimate getaway for young Indian professionals who are stressed from corporate jobs and want a holistic reset. Their goal is to target both solo travelers and couples aged 25–35 who value mental well-being and luxury.
+`Goal: Create an end-to-end social media campaign plan for Instagram and LinkedIn, blending luxury visuals with wellness storytelling.`
 
-Goal: Create an end-to-end social media campaign plan for Instagram and LinkedIn, blending luxury visuals with wellness storytelling.
+`Prompt:`
 
-Prompt:
-
-"You are a Luxury Hospitality Social Media Strategist. Design a 2-week Instagram + LinkedIn campaign for a Goa beachfront resort’s ‘Wellness by the Waves’ retreat. Include:
-
+`"You are a Luxury Hospitality Social Media Strategist. Design a 2-week Instagram + LinkedIn campaign for a Goa beachfront resort’s ‘Wellness by the Waves’ retreat. Include:`
+```
 1. Content themes for each week (e.g., stress relief, luxury living, Ayurvedic healing)
 
 2. 5 Instagram post ideas (captions + visual direction)
@@ -974,11 +974,11 @@ Prompt:
 4. 3 LinkedIn post concepts targeting corporate wellness audiences
 
 5. Calls-to-action for direct bookings and early-bird discounts
+```
+`Tone: Calming, aspirational, and trust-building."`
 
-Tone: Calming, aspirational, and trust-building."
-
-Inputs Required:
-
+`Inputs Required:`
+```
 1. Retreat dates & itinerary
 
 2. Package cost & inclusions
@@ -986,17 +986,17 @@ Inputs Required:
 3. Spa menu & wellness expert profiles
 
 4. Photo & video library
+```
+## Prompt 15 — Festival Season Staycation Ads
 
-Prompt 15 — Festival Season Staycation Ads
+`Backstory: A premium hotel in Jaipur wants to attract urban millennials from Delhi and Mumbai during the Diwali holiday week. Instead of traveling abroad, they want guests to experience a royal Rajasthani staycation with traditional décor, cultural performances, and festive dining. The property wants an ad campaign that taps into nostalgia, heritage pride, and the convenience of a domestic luxury holiday.`
 
-Backstory: A premium hotel in Jaipur wants to attract urban millennials from Delhi and Mumbai during the Diwali holiday week. Instead of traveling abroad, they want guests to experience a royal Rajasthani staycation with traditional décor, cultural performances, and festive dining. The property wants an ad campaign that taps into nostalgia, heritage pride, and the convenience of a domestic luxury holiday.
+`Goal: Create high-CTR ad copy for Meta Ads targeting festival-season travelers.`
 
-Goal: Create high-CTR ad copy for Meta Ads targeting festival-season travelers.
+`Prompt:`
 
-Prompt:
-
-"You are a Digital Ad Copywriter for luxury hospitality. Write 5 Facebook and 5 Instagram ad copies (max 20 words headline + 60 words body) for a Jaipur hotel’s Diwali staycation offer. Each should:
-
+`"You are a Digital Ad Copywriter for luxury hospitality. Write 5 Facebook and 5 Instagram ad copies (max 20 words headline + 60 words body) for a Jaipur hotel’s Diwali staycation offer. Each should:`
+```
 1. Highlight festive ambience and cultural experiences
 
 2. Emphasize exclusivity (limited bookings)
@@ -1004,9 +1004,9 @@ Prompt:
 3. Use sensory-rich language and urgency triggers
 
 4. Appeal to Indian millennials seeking luxury + tradition."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Package inclusions
 
 2. Dates and pricing
@@ -1014,7 +1014,7 @@ Inputs Required:
 3. Booking link
 
 4. Property images
-
+```
 Prompt 16 — Influencer Collaboration Pitch Deck
 
 Backstory: A high-end eco-resort in Coorg wants to partner with 5 travel influencers who focus on sustainability. They need a professional pitch deck that will persuade influencers to collaborate, highlighting the resort’s eco-friendly architecture, farm-to-table dining, and zero-waste operations. The property is targeting influencers with 50k–200k engaged Indian followers.
