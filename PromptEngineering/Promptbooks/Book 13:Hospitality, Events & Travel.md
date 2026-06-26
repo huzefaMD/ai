@@ -1445,20 +1445,20 @@ Target audience: Indian and NRI luxury travelers aged 25–40."
 
 5. Photography priorities (architecture, markets, nature)
 ```
-Prompt 5 — Kerala Backwaters & Hill Stations – 7 Days
+## Prompt 5 — Kerala Backwaters & Hill Stations – 7 Days
 
-Backstory:
+`Backstory:`
 
-A family of four from Delhi, including two kids aged 7 and 10, wants to experience Kerala’s backwaters and hill stations. They are traveling in December to enjoy the pleasant weather and want a mix of relaxation, scenic boat rides, spice plantation tours, and light trekking. They prefer a comfortable pace with family-friendly stays and activities.
+`A family of four from Delhi, including two kids aged 7 and 10, wants to experience Kerala’s backwaters and hill stations. They are traveling in December to enjoy the pleasant weather and want a mix of relaxation, scenic boat rides, spice plantation tours, and light trekking. They prefer a comfortable pace with family-friendly stays and activities.`
 
-Goal:
+`Goal:`
 
-Create a 7-day Kerala itinerary balancing backwater experiences, nature, and cultural exposure for a family.
+`Create a 7-day Kerala itinerary balancing backwater experiences, nature, and cultural exposure for a family.`
 
-Prompt:
+`Prompt:`
 
-"You are a Kerala tourism specialist. Design a 7-day itinerary covering Alleppey, Munnar, and Thekkady. 
-
+`"You are a Kerala tourism specialist. Design a 7-day itinerary covering Alleppey, Munnar, and Thekkady.` 
+```
 1. Include houseboat stay, spice plantation tour, and light treks suitable for kids. 
 
 2. Suggest family-friendly hotels and resorts. 
@@ -1468,9 +1468,9 @@ Prompt:
 4. Plan travel times and modes between locations. 
 
 5. Include seasonal food recommendations."
-
-Inputs Required: 
-
+```
+`Inputs Required: `
+```
 1. Month of travel 
 
 2. Budget range per night 
@@ -1480,21 +1480,21 @@ Inputs Required:
 4. Kids’ food preferences 
 
 5. Level of trekking comfort
+```
+## Prompt 6 — Golden Triangle with Varanasi – 9 Days
 
-Prompt 6 — Golden Triangle with Varanasi – 9 Days
+`Backstory:`
 
-Backstory:
+`A Canadian retired couple is visiting India for the first time. They want to explore the Golden Triangle (Delhi, Agra, Jaipur) but also want to end their trip with a spiritual experience in Varanasi. Comfort and safety are top priorities, and they want guided tours for historical sites. They have a moderate budget and prefer private transport.`
 
-A Canadian retired couple is visiting India for the first time. They want to explore the Golden Triangle (Delhi, Agra, Jaipur) but also want to end their trip with a spiritual experience in Varanasi. Comfort and safety are top priorities, and they want guided tours for historical sites. They have a moderate budget and prefer private transport.
+`Goal:`
 
-Goal:
+`Design a 9-day Golden Triangle + Varanasi itinerary with a focus on heritage and spirituality.`
 
-Design a 9-day Golden Triangle + Varanasi itinerary with a focus on heritage and spirituality.
+`Prompt:`
 
-Prompt:
-
-"You are a travel expert creating a 9-day itinerary for senior travellers from Canada.
-
+`"You are a travel expert creating a 9-day itinerary for senior travellers from Canada.`
+```
 1. Cover Delhi, Agra, Jaipur, and Varanasi.
 
 2. Include private guided tours for heritage monuments.
@@ -1504,9 +1504,9 @@ Prompt:
 4. Plan airport/train transfers and private cab travel.
 
 5. Include a Ganga aarti experience in Varanasi."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Month of travel
 
 2. Budget per person
@@ -1516,7 +1516,7 @@ Inputs Required:
 4. Preference for internal travel (flight/train)
 
 5. Interest in cultural performances
-
+```
 Prompt 7 — Andaman Island Adventure – 6 Days
 
 Backstory:
