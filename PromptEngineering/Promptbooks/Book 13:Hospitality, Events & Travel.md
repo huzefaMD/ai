@@ -444,22 +444,22 @@
 
 5. Media and PR plan
 ```
-Prompt 21 — Destination Wedding
+## Prompt 21 — Destination Wedding
 
-Backstory:
+`Backstory:`
 
-A couple from Mumbai is hosting their dream wedding in Udaipur, known for its palaces and lakes, with over 200 guests flying in from across India and overseas. The event will span three days, featuring a sangeet, mehendi, wedding ceremony, and reception. Multiple vendors — from florists to caterers — must coordinate flawlessly, as any delay could disrupt the entire schedule.
+`A couple from Mumbai is hosting their dream wedding in Udaipur, known for its palaces and lakes, with over 200 guests flying in from across India and overseas. The event will span three days, featuring a sangeet, mehendi, wedding ceremony, and reception. Multiple vendors — from florists to caterers — must coordinate flawlessly, as any delay could disrupt the entire schedule.`
 
-Goal:
+`Goal:`
 
-Create a comprehensive, multi-day wedding planning checklist to ensure every ritual and function is executed perfectly.
+`Create a comprehensive, multi-day wedding planning checklist to ensure every ritual and function is executed perfectly.`
 
-Prompt:
+`Prompt:`
 
-"You are a wedding planner. Develop a 3-day destination wedding checklist for 200 guests in Udaipur. Include accommodation arrangements, ceremony scheduling, vendor coordination, décor, catering, transportation, entertainment, and guest gift bags."
+`"You are a wedding planner. Develop a 3-day destination wedding checklist for 200 guests in Udaipur. Include accommodation arrangements, ceremony scheduling, vendor coordination, décor, catering, transportation, entertainment, and guest gift bags."`
 
-Inputs Required:
-
+`Inputs Required:`
+```
 1. Wedding dates
 
 2. Guest arrival details
@@ -469,23 +469,23 @@ Inputs Required:
 4. Vendor contact list
 
 5. Catering menu
+```
+## Prompt 22 — Award Ceremony
 
-Prompt 22 — Award Ceremony
+`Backstory:`
 
-Backstory:
+`A major IT company is hosting its annual award ceremony to recognize top performers, attended by 500 employees and their families. The event will include formal speeches, live entertainment, and a sit-down dinner. Given the high-profile executives and media presence, everything from stage lighting to award handovers must be seamless.`
 
-A major IT company is hosting its annual award ceremony to recognize top performers, attended by 500 employees and their families. The event will include formal speeches, live entertainment, and a sit-down dinner. Given the high-profile executives and media presence, everything from stage lighting to award handovers must be seamless.
+`Goal:`
 
-Goal:
+`Ensure a formal, inspiring, and well-organized award ceremony that runs on time.`
 
-Ensure a formal, inspiring, and well-organized award ceremony that runs on time.
+`Prompt:`
 
-Prompt:
+`"You are a corporate event manager. Prepare a checklist for an annual award ceremony for 500 guests. Include stage design, lighting, AV for award presentations, seating chart, host coordination, catering, sponsor branding, and post-event thank-you emails."`
 
-"You are a corporate event manager. Prepare a checklist for an annual award ceremony for 500 guests. Include stage design, lighting, AV for award presentations, seating chart, host coordination, catering, sponsor branding, and post-event thank-you emails."
-
-Inputs Required:
-
+`Inputs Required:`
+```
 1. Event date & venue
 
 2. Award categories
@@ -495,23 +495,23 @@ Inputs Required:
 4. Guest list
 
 5. Catering preferences
+```
+## Prompt 23 — Product Demo Day
 
-Prompt 23 — Product Demo Day
+`Backstory:`
 
-Backstory:
+`A startup accelerator is organizing a demo day where 10 startups will pitch to investors, industry experts, and the media. Each presentation is strictly timed, with networking sessions between pitches. Any technical glitch or time overrun could affect investor impressions and media coverage.`
 
-A startup accelerator is organizing a demo day where 10 startups will pitch to investors, industry experts, and the media. Each presentation is strictly timed, with networking sessions between pitches. Any technical glitch or time overrun could affect investor impressions and media coverage.
+`Goal:`
 
-Goal:
+`Create a highly organized event plan that balances professional pitches with networking opportunities.`
 
-Create a highly organized event plan that balances professional pitches with networking opportunities.
+`Prompt:`
 
-Prompt:
+`"You are a startup event organizer. Create a checklist for a demo day with 10 pitching startups. Include pitch order scheduling, AV setup, investor seating, startup booths, networking area, refreshments, branding, and post-event follow-up."`
 
-"You are a startup event organizer. Create a checklist for a demo day with 10 pitching startups. Include pitch order scheduling, AV setup, investor seating, startup booths, networking area, refreshments, branding, and post-event follow-up."
-
-Inputs Required:
-
+`Inputs Required:`
+```
 1. Event date & location
 
 2. Startup details
@@ -521,23 +521,23 @@ Inputs Required:
 4. Investor guest list
 
 5. Branding material
+```
+## Prompt 24 — Cultural Parade
 
-Prompt 24 — Cultural Parade
+`Backstory:`
 
-Backstory:
+`A city council is organizing an annual cultural parade featuring 20 community groups, each showcasing music, dance, and traditional costumes. Thousands of residents and tourists are expected, requiring strict safety and crowd management measures. The event must celebrate diversity while ensuring a smooth flow of performances.`
 
-A city council is organizing an annual cultural parade featuring 20 community groups, each showcasing music, dance, and traditional costumes. Thousands of residents and tourists are expected, requiring strict safety and crowd management measures. The event must celebrate diversity while ensuring a smooth flow of performances.
+`Goal:`
 
-Goal:
+`Develop a detailed parade management plan with emphasis on public safety and coordination.`
 
-Develop a detailed parade management plan with emphasis on public safety and coordination.
+`Prompt:`
 
-Prompt:
+`"You are a city event coordinator. Prepare a cultural parade checklist with 20 community floats. Include route mapping, security deployment, performance scheduling, permits, public announcements, crowd control, cleanup, and emergency protocols."`
 
-"You are a city event coordinator. Prepare a cultural parade checklist with 20 community floats. Include route mapping, security deployment, performance scheduling, permits, public announcements, crowd control, cleanup, and emergency protocols."
-
-Inputs Required:
-
+`Inputs Required:`
+```
 1. Parade date & route
 
 2. Number of floats & performances
@@ -547,19 +547,19 @@ Inputs Required:
 4. Permit requirements
 
 5. Cleanup team details
+```
+## Prompt 25 — Corporate Annual Conference
 
-Prompt 25 — Corporate Annual Conference
+`Backstory: A mid-sized IT company is hosting its annual conference for 500 employees, clients, and partners. The event spans two days and includes keynote speeches, breakout workshops, a gala dinner, and networking sessions. The planning team wants a comprehensive checklist to ensure every detail — from speaker coordination to A/V setup — is covered.`
 
-Backstory: A mid-sized IT company is hosting its annual conference for 500 employees, clients, and partners. The event spans two days and includes keynote speeches, breakout workshops, a gala dinner, and networking sessions. The planning team wants a comprehensive checklist to ensure every detail — from speaker coordination to A/V setup — is covered.
+`Goal: Create a detailed event planning checklist for a corporate annual conference, ensuring nothing is overlooked.`
 
-Goal: Create a detailed event planning checklist for a corporate annual conference, ensuring nothing is overlooked.
+`Prompt:`
 
-Prompt:
+`"You are an experienced corporate event planner. Create a complete event planning checklist for a 2-day corporate annual conference for 500 attendees. Include sections for venue booking, speaker management, sponsorship coordination, catering, A/V requirements, marketing, guest registration, transportation, and post-event feedback collection. Ensure timelines are clearly stated for each task."`
 
-"You are an experienced corporate event planner. Create a complete event planning checklist for a 2-day corporate annual conference for 500 attendees. Include sections for venue booking, speaker management, sponsorship coordination, catering, A/V requirements, marketing, guest registration, transportation, and post-event feedback collection. Ensure timelines are clearly stated for each task."
-
-Inputs Required:
-
+`Inputs Required:`
+```
 1. Event date & location
 
 2. Number of attendees
@@ -569,7 +569,7 @@ Inputs Required:
 4. Budget range
 
 5. Available staff & vendors
-
+```
 
 Hotel/resort marketing content
 
