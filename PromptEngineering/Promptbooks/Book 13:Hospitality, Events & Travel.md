@@ -1,17 +1,17 @@
-Event planning checklists
+# Event planning checklists
 
-Prompt 1 — Luxury Destination Wedding
+`Prompt 1 — Luxury Destination Wedding`
 
-Backstory: A couple from Mumbai is planning a 3-day luxury wedding in Udaipur with 300 guests, including foreign attendees. The events include a mehendi, sangeet, main wedding ceremony, and a reception. The planner must handle cultural rituals, décor, entertainment, guest transport, and accommodation.
+`Backstory: A couple from Mumbai is planning a 3-day luxury wedding in Udaipur with 300 guests, including foreign attendees. The events include a mehendi, sangeet, main wedding ceremony, and a reception. The planner must handle cultural rituals, décor, entertainment, guest transport, and accommodation.`
 
-Goal: Develop a luxury destination wedding checklist covering all ceremonies and guest needs.
+`Goal: Develop a luxury destination wedding checklist covering all ceremonies and guest needs.`
 
-Prompt:
+`Prompt:`
 
-"You are a high-end wedding planner. Prepare a detailed 3-day destination wedding checklist for 300 guests in Udaipur. Include traditional Indian ceremonies, décor setup, music/entertainment, guest transportation from the airport, hotel coordination, food & beverage planning, photography, and emergency backup plans."
+`"You are a high-end wedding planner. Prepare a detailed 3-day destination wedding checklist for 300 guests in Udaipur. Include traditional Indian ceremonies, décor setup, music/entertainment, guest transportation from the airport, hotel coordination, food & beverage planning, photography, and emergency backup plans."`
 
-Inputs Required:
-
+`Inputs Required:`
+```
 1. Wedding dates & venue names
 
 2. Cultural/religious preferences
@@ -21,7 +21,7 @@ Inputs Required:
 4. Preferred décor theme & entertainment style
 
 5. Accommodation details
-
+```
 Prompt 2 — International Trade Expo
 
 Backstory: An Indian startup in the renewable energy sector is exhibiting at an international trade expo in Dubai. The goal is to generate leads, showcase new products, and network with potential investors. The company needs a planning checklist for booth setup, marketing materials, travel arrangements, and post-event follow-ups.
