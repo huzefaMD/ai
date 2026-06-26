@@ -1,10 +1,10 @@
-Property listing descriptions
+# Property listing descriptions
 
-Prompt 1 — Luxury Apartment in South Delhi
+## Prompt 1 — Luxury Apartment in South Delhi
 
-Backstory:
+`Backstory:`
 
-You are working with a premium real estate agency in Delhi that specializes in high-end apartments. A new 4BHK luxury apartment has just been listed in South Delhi, near Defence Colony. The interiors feature Italian marble, modular kitchen fittings, and a private terrace garden. The target buyers are HNIs and NRIs looking for investment or relocation.
+`You are working with a premium real estate agency in Delhi that specializes in high-end apartments. A new 4BHK luxury apartment has just been listed in South Delhi, near Defence Colony. The interiors feature Italian marble, modular kitchen fittings, and a private terrace garden. The target buyers are HNIs and NRIs looking for investment or relocation.
 
 Goal:
 
