@@ -1,6 +1,6 @@
 # Event planning checklists
 
-`Prompt 1 — Luxury Destination Wedding`
+## Prompt 1 — Luxury Destination Wedding
 
 `Backstory: A couple from Mumbai is planning a 3-day luxury wedding in Udaipur with 300 guests, including foreign attendees. The events include a mehendi, sangeet, main wedding ceremony, and a reception. The planner must handle cultural rituals, décor, entertainment, guest transport, and accommodation.`
 
@@ -330,18 +330,18 @@
 
 5. Branding needs
 ```
-Prompt 16 — Fashion Show
+## Prompt 16 — Fashion Show
 
-Backstory: A design institute is showcasing student work in a fashion show for 300 guests. The checklist must handle runway setup, lighting, model scheduling, and backstage management.
+`Backstory: A design institute is showcasing student work in a fashion show for 300 guests. The checklist must handle runway setup, lighting, model scheduling, and backstage management.`
 
-Goal: Build a fashion show checklist that ensures professional execution.
+`Goal: Build a fashion show checklist that ensures professional execution.`
 
-Prompt:
+`Prompt:`
 
-"You are a fashion event planner. Create a detailed checklist for a student fashion show with 300 guests. Include runway design, lighting, model lineup, wardrobe changes, hair & makeup stations, VIP seating, photography, and sponsor booths."
+`"You are a fashion event planner. Create a detailed checklist for a student fashion show with 300 guests. Include runway design, lighting, model lineup, wardrobe changes, hair & makeup stations, VIP seating, photography, and sponsor booths."`
 
-Inputs Required:
-
+`Inputs Required:`
+```
 1. Event date & venue
 
 2. Number of models & outfits
@@ -351,19 +351,19 @@ Inputs Required:
 4. Sponsor list
 
 5. Backstage crew details
+```
+## Prompt 17 — Religious Festival
 
-Prompt 17 — Religious Festival
+`Backstory: A temple committee is organizing a 3-day Navratri festival with cultural performances and prasad distribution for thousands of devotees.`
 
-Backstory: A temple committee is organizing a 3-day Navratri festival with cultural performances and prasad distribution for thousands of devotees.
+`Goal: Create a festival management checklist that handles large crowds.`
 
-Goal: Create a festival management checklist that handles large crowds.
+`Prompt:`
 
-Prompt:
+`"You are a cultural event coordinator. Prepare a checklist for a 3-day Navratri festival. Include stage setup for performances, sound & lighting, volunteer scheduling, crowd control barriers, prasad distribution, security, medical aid, and cleanup."`
 
-"You are a cultural event coordinator. Prepare a checklist for a 3-day Navratri festival. Include stage setup for performances, sound & lighting, volunteer scheduling, crowd control barriers, prasad distribution, security, medical aid, and cleanup."
-
-Inputs Required:
-
+`Inputs Required:`
+```
 1. Festival dates & location
 
 2. Estimated crowd size
@@ -373,19 +373,19 @@ Inputs Required:
 4. Prasad menu & quantity
 
 5. Security requirements
+```
+## Prompt 18 — Startup Hackathon
 
-Prompt 18 — Startup Hackathon
+`Backstory: An incubator is hosting a 24-hour coding hackathon with 100 participants. The checklist should cover venue setup, internet reliability, judging criteria, and refreshments.`
 
-Backstory: An incubator is hosting a 24-hour coding hackathon with 100 participants. The checklist should cover venue setup, internet reliability, judging criteria, and refreshments.
+`Goal: Provide a hackathon operations checklist for smooth execution.`
 
-Goal: Provide a hackathon operations checklist for smooth execution.
+`Prompt:`
 
-Prompt:
+`"You are a tech event planner. Create a 24-hour hackathon checklist for 100 participants. Include registration, seating, high-speed internet setup, power backups, mentor coordination, judging panel scheduling, food & beverage, and prize ceremony."`
 
-"You are a tech event planner. Create a 24-hour hackathon checklist for 100 participants. Include registration, seating, high-speed internet setup, power backups, mentor coordination, judging panel scheduling, food & beverage, and prize ceremony."
-
-Inputs Required:
-
+`Inputs Required:`
+```
 1. Hackathon date & location
 
 2. Number of participants
@@ -395,19 +395,19 @@ Inputs Required:
 4. Mentor & judge list
 
 5. Catering preferences
+```
+## Prompt 19 — Wellness Retreat
 
-Prompt 19 — Wellness Retreat
+`Backstory: A wellness brand is hosting a 5-day yoga and meditation retreat in Kerala for 30 participants. The checklist must cover sessions, meals, accommodation, and excursions.`
 
-Backstory: A wellness brand is hosting a 5-day yoga and meditation retreat in Kerala for 30 participants. The checklist must cover sessions, meals, accommodation, and excursions.
+`Goal: Build a wellness retreat checklist that enhances relaxation and engagement.`
 
-Goal: Build a wellness retreat checklist that enhances relaxation and engagement.
+`Prompt:`
 
-Prompt:
+`"You are a wellness event organizer. Prepare a checklist for a 5-day yoga retreat for 30 guests in Kerala. Include session scheduling, instructor coordination, meal planning, accommodation, local excursions, wellness kits, and airport transfers."`
 
-"You are a wellness event organizer. Prepare a checklist for a 5-day yoga retreat for 30 guests in Kerala. Include session scheduling, instructor coordination, meal planning, accommodation, local excursions, wellness kits, and airport transfers."
-
-Inputs Required:
-
+`Inputs Required:`
+```
 1. Retreat dates & venue
 
 2. Number of participants
@@ -417,23 +417,23 @@ Inputs Required:
 4. Accommodation details
 
 5. Meal preferences
+```
+## Prompt 20 — Charity Gala Dinner
 
-Prompt 20 — Charity Gala Dinner
+`Backstory:`
 
-Backstory:
+`A renowned non-profit is organizing its annual charity gala dinner to raise ₹50 lakhs for a children’s cancer hospital. The event will host 150 elite guests, including philanthropists, doctors, and celebrity ambassadors, and will feature a live auction of rare art pieces. The stakes are high because the proceeds directly fund life-saving treatments, so the evening must be seamless, elegant, and inspiring.`
 
-A renowned non-profit is organizing its annual charity gala dinner to raise ₹50 lakhs for a children’s cancer hospital. The event will host 150 elite guests, including philanthropists, doctors, and celebrity ambassadors, and will feature a live auction of rare art pieces. The stakes are high because the proceeds directly fund life-saving treatments, so the evening must be seamless, elegant, and inspiring.
+`Goal:`
 
-Goal:
+`Build a detailed event checklist that ensures every element — from décor to donation tracking — is executed flawlessly.`
 
-Build a detailed event checklist that ensures every element — from décor to donation tracking — is executed flawlessly.
+`Prompt:`
 
-Prompt:
+`"You are a charity event planner. Prepare a gala dinner checklist for 150 guests, including seating arrangements, décor theme, live auction setup, entertainment, volunteer coordination, catering, media coverage, and donation tracking."`
 
-"You are a charity event planner. Prepare a gala dinner checklist for 150 guests, including seating arrangements, décor theme, live auction setup, entertainment, volunteer coordination, catering, media coverage, and donation tracking."
-
-Inputs Required:
-
+`Inputs Required:`
+```
 1. Event date & venue
 
 2. Guest list & VIPs
@@ -443,7 +443,7 @@ Inputs Required:
 4. Theme & décor preferences
 
 5. Media and PR plan
-
+```
 Prompt 21 — Destination Wedding
 
 Backstory:
