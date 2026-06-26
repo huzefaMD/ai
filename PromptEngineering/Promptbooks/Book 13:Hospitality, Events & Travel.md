@@ -2333,18 +2333,18 @@ Target audience: Indian and NRI luxury travelers aged 25–40."
 ```
 ## Prompt 5 — Social Media Post Showcasing Guest Testimonials
 
-Backstory:
+`Backstory:`
 
-A luxury wildlife resort in Ranthambore has collected several glowing guest reviews over the past month. They want to create a carousel post on Instagram showcasing these testimonials with appealing visuals.
+`A luxury wildlife resort in Ranthambore has collected several glowing guest reviews over the past month. They want to create a carousel post on Instagram showcasing these testimonials with appealing visuals.`
 
-Goal:
+`Goal:`
 
-Write engaging captions and visual layout suggestions for a testimonial carousel post.
+`Write engaging captions and visual layout suggestions for a testimonial carousel post.`
 
-Prompt:
+`Prompt:`
 
-"You are the social media manager for a luxury wildlife resort. Create a carousel post plan for Instagram featuring 4 guest testimonials.
-
+`"You are the social media manager for a luxury wildlife resort. Create a carousel post plan for Instagram featuring 4 guest testimonials.`
+```
 1. Suggest captions for each slide.
 
 2. Include call-to-action for bookings.
@@ -2352,29 +2352,29 @@ Prompt:
 3. Recommend high-quality images to pair with text.
 
 4. Maintain an adventurous, nature-inspired tone."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Exact testimonial text
 
 2. Resort’s Instagram handle
 
 3. Brand colour scheme for post design
-
+```
 Prompt 6 — Responding to a Positive Guest Review on TripAdvisor
 
-Backstory:
+`Backstory:
 
-A beachfront resort in Varkala just received a glowing 5-star TripAdvisor review from a honeymoon couple praising the candlelight dinner setup, ocean views, and spa treatments. Management wants to reply publicly to strengthen their brand image.
+`A beachfront resort in Varkala just received a glowing 5-star TripAdvisor review from a honeymoon couple praising the candlelight dinner setup, ocean views, and spa treatments. Management wants to reply publicly to strengthen their brand image.`
 
-Goal:
+`Goal:`
 
-Craft a warm, personal, and brand-consistent public reply to a 5-star TripAdvisor review.
+`Craft a warm, personal, and brand-consistent public reply to a 5-star TripAdvisor review.`
 
-Prompt:
+`Prompt:`
 
-"You are the guest experience manager for a luxury beachfront resort in Varkala. Write a personalised public response to a 5-star TripAdvisor review from a honeymoon couple who praised the candlelight dinner, ocean view rooms, and spa.
-
+`"You are the guest experience manager for a luxury beachfront resort in Varkala. Write a personalised public response to a 5-star TripAdvisor review from a honeymoon couple who praised the candlelight dinner, ocean view rooms, and spa.`
+```
 1. Address them by name.
 
 2. Reflect back their compliments.
@@ -2382,29 +2382,29 @@ Prompt:
 3. Mention your delight in being part of their special occasion.
 
 4. Invite them to return for an anniversary stay with a special offer."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Reviewer’s name
 
 2. Exact review text
 
 3. Special return guest offers
+```
+## Prompt 7 — Drafting a Crisis Response for Viral Negative Review
 
-Prompt 7 — Drafting a Crisis Response for Viral Negative Review
+`Backstory:`
 
-Backstory:
+`A viral social media post claims poor hygiene at a restaurant within a luxury hotel in Delhi. The hotel wants to address it promptly before it harms bookings.`
 
-A viral social media post claims poor hygiene at a restaurant within a luxury hotel in Delhi. The hotel wants to address it promptly before it harms bookings.
+`Goal:`
 
-Goal:
+`Write a formal, reassuring crisis response addressing a hygiene-related viral complaint.`
 
-Write a formal, reassuring crisis response addressing a hygiene-related viral complaint.
+`Prompt:`
 
-Prompt:
-
-"You are the PR head for a luxury hotel in Delhi. Draft a public statement addressing a viral social media post about poor hygiene at your in-house restaurant.
-
+`"You are the PR head for a luxury hotel in Delhi. Draft a public statement addressing a viral social media post about poor hygiene at your in-house restaurant.`
+```
 1. State your commitment to high standards.
 
 2. Outline immediate steps taken to investigate.
@@ -2412,29 +2412,29 @@ Prompt:
 3. Mention third-party hygiene checks.
 
 4. Invite the complainant to connect offline to resolve."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Exact nature of complaint
 
 2. Hygiene certification details
 
 3. Steps taken for damage control
+```
+## Prompt 8 — Email Request for Corporate Client Feedback Post-Conference
 
-Prompt 8 — Email Request for Corporate Client Feedback Post-Conference
+`Backstory:`
 
-Backstory:
+`A 5-star hotel in Hyderabad hosted an international business conference for a major IT company. They want to collect formal feedback to improve their corporate event services.`
 
-A 5-star hotel in Hyderabad hosted an international business conference for a major IT company. They want to collect formal feedback to improve their corporate event services.
+`Goal:`
 
-Goal:
+`Draft a professional post-event email requesting structured corporate feedback.`
 
-Draft a professional post-event email requesting structured corporate feedback.
+`Prompt:`
 
-Prompt:
-
-"You are the corporate liaison for a luxury hotel in Hyderabad. Create a follow-up email to the organiser of an international business conference requesting structured feedback.
-
+`"You are the corporate liaison for a luxury hotel in Hyderabad. Create a follow-up email to the organiser of an international business conference requesting structured feedback.`
+```
 1. Thank them for choosing your venue.
 
 2. Attach/Link a detailed feedback form.
@@ -2442,29 +2442,29 @@ Prompt:
 3. Ask for ratings on specific areas like AV setup, catering, and staff responsiveness.
 
 4. Mention your intent to share an improvement plan."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Client’s name
 
 2. Event details
 
 3. Feedback form link
+```
+## Prompt 9 — Polite Reply to a Short, Vague Review
 
-Prompt 9 — Polite Reply to a Short, Vague Review
+`Backstory:
 
-Backstory:
+`A guest left a 3-star review on Booking.com with only the words “It was okay.” The hotel wants to respond in a way that opens the door for private feedback and shows public professionalism.`
 
-A guest left a 3-star review on Booking.com with only the words “It was okay.” The hotel wants to respond in a way that opens the door for private feedback and shows public professionalism.
+`Goal:`
 
-Goal:
+`Write a short, professional response to a vague review inviting further discussion.`
 
-Write a short, professional response to a vague review inviting further discussion.
+`Prompt:
 
-Prompt:
-
-"You are the online reputation manager for a 4-star business hotel in Pune. Draft a response to a vague 3-star review that:
-
+`"You are the online reputation manager for a 4-star business hotel in Pune. Draft a response to a vague 3-star review that:`
+```
 1. Thanks the guest for staying.
 
 2. Acknowledges their rating.
@@ -2472,14 +2472,14 @@ Prompt:
 3. Politely invites them to share more feedback privately.
 
 4. Shows commitment to guest satisfaction."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Reviewer’s name
 
 2. Contact email for feedback follow-up
-
-Prompt 10 — Encouraging Reviews in Regional Languages
+```
+## Prompt 10 — Encouraging Reviews in Regional Languages
 
 Backstory:
 
