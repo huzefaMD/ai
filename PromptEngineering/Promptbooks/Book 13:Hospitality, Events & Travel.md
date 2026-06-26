@@ -2779,32 +2779,32 @@ Prompt 6 — Responding to a Positive Guest Review on TripAdvisor
 ```
 ## Prompt 21 — Responding to an Emotional Review About a Family Event
 
-Backstory:
+`Backstory:`
 
-A guest writes a long review about hosting their daughter’s wedding at a hotel, detailing emotional moments and staff support.
+`A guest writes a long review about hosting their daughter’s wedding at a hotel, detailing emotional moments and staff support.`
 
-Goal:
+`Goal:`
 
-Write an equally heartfelt public reply to a wedding event review.
+`Write an equally heartfelt public reply to a wedding event review.`
 
-Prompt:
+`Prompt:`
 
-"You are the events director of a luxury hotel in Mumbai. Draft a heartfelt reply to a wedding event review highlighting emotional memories and staff support.
-
+`"You are the events director of a luxury hotel in Mumbai. Draft a heartfelt reply to a wedding event review highlighting emotional memories and staff support.`
+```
 1. Reflect the guest’s emotions.
 
 2. Thank them for trusting your team with such a milestone.
 
 3. Wish the couple well."
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Review text
 
 2. Event date
 
 3. Staff names mentioned
-
+```
 Prompt 22 — Turning a Negative Review into a Service Recovery Opportunity
 
 Backstory:
