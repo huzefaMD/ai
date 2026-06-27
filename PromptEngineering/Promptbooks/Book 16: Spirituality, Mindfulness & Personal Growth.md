@@ -861,110 +861,110 @@
 
 3. Engagement type (poll, reply, reflection)
 ```
-Prompt 11 – Facebook Group Live Q&A: “Healing Through Forgiveness”
+## Prompt 11 – Facebook Group Live Q&A: “Healing Through Forgiveness”
 
-Backstory: Many followers in Indian spiritual communities hold onto resentment due to family or workplace conflicts. A live Q&A offers them a safe space to ask questions directly to the coach, fostering deeper connection and trust.
+`Backstory: Many followers in Indian spiritual communities hold onto resentment due to family or workplace conflicts. A live Q&A offers them a safe space to ask questions directly to the coach, fostering deeper connection and trust.`
 
-Goal: Plan a 45-minute Facebook Live Q&A session on forgiveness techniques.
+`Goal: Plan a 45-minute Facebook Live Q&A session on forgiveness techniques.`
 
-Prompt:
+`Prompt:`
 
-“You are an event planner for a spiritual coach. Create a 45-minute Facebook Live Q&A plan on the theme ‘Healing Through Forgiveness’.
-
+`“You are an event planner for a spiritual coach. Create a 45-minute Facebook Live Q&A plan on the theme ‘Healing Through Forgiveness’.`
+```
 1. Include opening story, 5 guiding questions, interactive polls, and a closing meditation.
 
 2. Suggest 3 promotional posts for the group before the event.”
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Audience demographics
 
 2. Time of live session
 
 3. Tone of responses
+```
+## Prompt 12 – YouTube Shorts: “One-Minute Mindfulness”
 
-Prompt 12 – YouTube Shorts: “One-Minute Mindfulness”
+`Backstory: Short-form content is dominating attention spans in India, especially on YouTube Shorts. A one-minute mindfulness tip can serve as a daily dose of calm for busy urban professionals.`
 
-Backstory: Short-form content is dominating attention spans in India, especially on YouTube Shorts. A one-minute mindfulness tip can serve as a daily dose of calm for busy urban professionals.
+`Goal: Script a 1-minute YouTube Short on mindfulness for beginners.`
 
-Goal: Script a 1-minute YouTube Short on mindfulness for beginners.
+`Prompt:`
 
-Prompt:
-
-“You are a video scriptwriter for a spiritual coach. Create a 1-minute YouTube Short titled ‘One-Minute Mindfulness’.
-
+`“You are a video scriptwriter for a spiritual coach. Create a 1-minute YouTube Short titled ‘One-Minute Mindfulness’.`
+```
 1. Hook: relatable stressful scenario.
 
 2. Middle: 1 actionable technique.
 
 3. End: gentle CTA to subscribe.”
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Scenario type (office, traffic, home)
 
 2. Filming style
 
 3. Tone
+```
+## Prompt 13 – Instagram Carousel Post: “Chakra Healing Basics”
 
-Prompt 13 – Instagram Carousel Post: “Chakra Healing Basics”
+`Backstory: Many Indian audiences have heard of chakras but don’t understand their function. A visual carousel post can break down each chakra with imagery, color codes, and a simple healing tip.`
 
-Backstory: Many Indian audiences have heard of chakras but don’t understand their function. A visual carousel post can break down each chakra with imagery, color codes, and a simple healing tip.
+`Goal: Design a 7-slide carousel introducing chakras.`
 
-Goal: Design a 7-slide carousel introducing chakras.
+`Prompt:`
 
-Prompt:
-
-“You are a content designer for a spiritual coach. Create a 7-slide Instagram carousel on ‘Chakra Healing Basics’.
-
+`“You are a content designer for a spiritual coach. Create a 7-slide Instagram carousel on ‘Chakra Healing Basics’.`
+```
 1. Slide 1: Intro
 
 2. Slides 2–8: One chakra per slide with purpose, color, and quick tip.
 
 3. Last Slide: CTA to save & share.”
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Preferred color palette
 
 2. Complexity level (beginner/advanced)
 
 3. Language
+```
+## Prompt 14 – LinkedIn Article: “Mindfulness in Corporate Life”
 
-Prompt 14 – LinkedIn Article: “Mindfulness in Corporate Life”
+`Backstory: Corporate professionals in India are increasingly seeking ways to reduce burnout. A well-written LinkedIn article by a spiritual coach positions them as an authority for corporate wellness programs.`
 
-Backstory: Corporate professionals in India are increasingly seeking ways to reduce burnout. A well-written LinkedIn article by a spiritual coach positions them as an authority for corporate wellness programs.
+`Goal: Write a 1,000-word LinkedIn article on applying mindfulness at work.`
 
-Goal: Write a 1,000-word LinkedIn article on applying mindfulness at work.
+`Prompt:`
 
-Prompt:
-
-“You are a corporate wellness content writer. Draft a 1,000-word LinkedIn article titled ‘Mindfulness in Corporate Life’.
-
+`“You are a corporate wellness content writer. Draft a 1,000-word LinkedIn article titled ‘Mindfulness in Corporate Life’.`
+```
 1. Start with a real workplace stress case.
 
 2. Explain 3 mindfulness practices applicable during work hours.
 
 3. End with measurable benefits for companies.”
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Industry type
 
 2. Target reader role
 
 3. Writing tone
+```
+## Prompt 15 – Instagram Live Collaboration: “Yoga & Affirmations”
 
-Prompt 15 – Instagram Live Collaboration: “Yoga & Affirmations”
+`Backstory: Collaborations between spiritual coaches and yoga instructors can attract cross-audiences. An Instagram Live featuring both can offer a blend of physical and mental wellness.`
 
-Backstory: Collaborations between spiritual coaches and yoga instructors can attract cross-audiences. An Instagram Live featuring both can offer a blend of physical and mental wellness.
+`Goal: Plan a 30-minute Instagram Live collaboration.`
 
-Goal: Plan a 30-minute Instagram Live collaboration.
+`Prompt:`
 
-Prompt:
-
-“You are a live content planner. Create a 30-minute IG Live outline for a spiritual coach and a yoga instructor on ‘Yoga & Affirmations’.
-
+`“You are a live content planner. Create a 30-minute IG Live outline for a spiritual coach and a yoga instructor on ‘Yoga & Affirmations’.`
+```
 1. 10 min: Guided yoga flow.
 
 2. 10 min: Affirmation session.
@@ -972,131 +972,131 @@ Prompt:
 3. 5 min: Audience Q&A.
 
 4. 5 min: Closing remarks and promotion.”
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Yoga style
 
 2. Affirmation theme
 
 3. Event date
+```
+## Prompt 16 – Twitter Thread: “Daily Gratitude Practice”
 
-Prompt 16 – Twitter Thread: “Daily Gratitude Practice”
+`Backstory: Short, punchy content on Twitter (now X) can reach a wider audience in India, especially among younger professionals. A well-structured gratitude thread can inspire engagement and sharing while positioning the coach as a daily motivator.`
 
-Backstory: Short, punchy content on Twitter (now X) can reach a wider audience in India, especially among younger professionals. A well-structured gratitude thread can inspire engagement and sharing while positioning the coach as a daily motivator.
+`Goal: Write a 10-tweet thread on daily gratitude exercises.`
 
-Goal: Write a 10-tweet thread on daily gratitude exercises.
+`Prompt:`
 
-Prompt:
-
-“You are a social media strategist. Draft a 10-tweet thread on the theme ‘Daily Gratitude Practice’.
-
+`“You are a social media strategist. Draft a 10-tweet thread on the theme ‘Daily Gratitude Practice’.`
+```
 1. First tweet: relatable problem statement.
 
 2. Middle tweets: 7 easy gratitude actions.
 
 3. Final tweets: invite readers to share their own practices.”
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Target audience profile
 
 2. Language preference
 
 3. Tone (casual, uplifting)
+```
+## Prompt 17 – Pinterest Infographic: “Morning Rituals for Peace”
 
-Prompt 17 – Pinterest Infographic: “Morning Rituals for Peace”
+`Backstory: Pinterest is a powerful platform for visually driven spiritual and wellness content. Morning ritual infographics can serve as shareable resources for audiences seeking daily structure.`
 
-Backstory: Pinterest is a powerful platform for visually driven spiritual and wellness content. Morning ritual infographics can serve as shareable resources for audiences seeking daily structure.
+`Goal: Design an infographic with 5 morning rituals for inner peace.`
 
-Goal: Design an infographic with 5 morning rituals for inner peace.
+`Prompt:`
 
-Prompt:
-
-“You are a visual content creator. Create a Pinterest infographic titled ‘5 Morning Rituals for Peace’.
-
+`“You are a visual content creator. Create a Pinterest infographic titled ‘5 Morning Rituals for Peace’.`
+```
 1. Include a title banner, five illustrated ritual steps, and a footer with a call-to-follow.
 
 2. Use soft, calming colors and readable fonts.”
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Rituals to feature
 
 2. Color palette
 
 3. Image style (illustrated, photo-based)
+```
+## Prompt 18 – Instagram Story Series: “7 Days of Self-Love”
 
-Prompt 18 – Instagram Story Series: “7 Days of Self-Love”
+`Backstory: Interactive story challenges are a great way to maintain daily engagement. A 7-day self-love challenge can encourage followers to actively practice and share their progress.`
 
-Backstory: Interactive story challenges are a great way to maintain daily engagement. A 7-day self-love challenge can encourage followers to actively practice and share their progress.
+`Goal: Create a 7-day Instagram Story challenge outline.`
 
-Goal: Create a 7-day Instagram Story challenge outline.
+`Prompt:`
 
-Prompt:
-
-“You are a challenge campaign designer. Develop a 7-day Instagram Story challenge titled ‘7 Days of Self-Love’.
-
+`“You are a challenge campaign designer. Develop a 7-day Instagram Story challenge titled ‘7 Days of Self-Love’.`
+```
 1. Day-wise theme, activity, and question sticker.
 
 2. End each story with a CTA to tag the coach’s account.”
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Activities per day
 
 2. Tone (gentle, motivational)
 
 3. Hashtags
+```
+## Prompt 19 – Facebook Ad Copy: “Free 5-Minute Meditation”
 
-Prompt 19 – Facebook Ad Copy: “Free 5-Minute Meditation”
+`Backstory: Many beginners are hesitant to commit to paid spiritual programs without experiencing a sample. Offering a free guided meditation as a lead magnet works well in Indian markets.`
 
-Backstory: Many beginners are hesitant to commit to paid spiritual programs without experiencing a sample. Offering a free guided meditation as a lead magnet works well in Indian markets.
+`Goal: Write a Facebook ad for a free meditation audio download.`
 
-Goal: Write a Facebook ad for a free meditation audio download.
+`Prompt:`
 
-Prompt:
-
-“You are an ad copywriter. Create a Facebook ad for a free 5-minute meditation.
-
+`“You are an ad copywriter. Create a Facebook ad for a free 5-minute meditation.`
+```
 1. Hook: problem statement about stress.
 
 2. Body: benefits of the meditation.
 
 3. CTA: download now.”
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Meditation focus
 
 2. Target age group
 
 3. Image concept
+```
+## Prompt 20 – Instagram Reel: “Before and After Mindfulness”
 
-Prompt 20 – Instagram Reel: “Before and After Mindfulness”
+`Backstory: Reels comparing a stressed vs. mindful day resonate strongly with urban audiences in India. The transformation format is highly relatable and shareable.`
 
-Backstory: Reels comparing a stressed vs. mindful day resonate strongly with urban audiences in India. The transformation format is highly relatable and shareable.
+`Goal: Script a 30-second transformation Reel.`
 
-Goal: Script a 30-second transformation Reel.
+`Prompt:`
 
-Prompt:
-
-“You are a video scriptwriter. Create a 30-second Reel script showing a day before mindfulness and after mindfulness.
-
+`“You are a video scriptwriter. Create a 30-second Reel script showing a day before mindfulness and after mindfulness.`
+```
 1. Use side-by-side format.
 
 2. Add captions and upbeat background music.
 
 3. End with CTA to try mindfulness today.”
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Scenarios (workplace, home)
 
 2. Music style
 
 3. Filming setup
-
+```
 ## Prompt 21 – LinkedIn Carousel: “Spiritual Leadership in Business”
 
 `Backstory: Many Indian entrepreneurs are exploring integrating spirituality into leadership. A professional yet inspiring carousel can open conversations with this audience.`
