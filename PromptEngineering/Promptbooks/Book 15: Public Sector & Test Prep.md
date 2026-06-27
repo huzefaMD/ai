@@ -688,20 +688,20 @@ Provide a table mapping NEP provisions to state-level action points."
 
 3. Existing GST compliance process
 ```
-Prompt 11 – Public Distribution System (PDS) Reform Analysis
+## Prompt 11 – Public Distribution System (PDS) Reform Analysis
 
-Backstory:
+`Backstory:`
 
-The central government has rolled out a digitisation initiative to improve transparency and reduce leakage in the PDS. State governments need to understand how to integrate biometric verification, digital ration cards, and real-time stock monitoring into their systems. Many district-level officers are seeking a clear operational summary to avoid disruptions in ration delivery.
+`The central government has rolled out a digitisation initiative to improve transparency and reduce leakage in the PDS. State governments need to understand how to integrate biometric verification, digital ration cards, and real-time stock monitoring into their systems. Many district-level officers are seeking a clear operational summary to avoid disruptions in ration delivery.`
 
-Goal:
+`Goal:`
 
-Provide a reform-focused analysis of the digitised PDS system for state-level adoption.
+`Provide a reform-focused analysis of the digitised PDS system for state-level adoption.`
 
-Prompt:
+`Prompt:`
 
-"You are a public policy analyst. Summarise the new PDS digitisation reforms for state and district-level officers. Include: 
-
+`"You are a public policy analyst. Summarise the new PDS digitisation reforms for state and district-level officers. Include: `
+```
 1. Objectives and benefits of the reform 
 
 2. Required infrastructure and technology 
@@ -711,29 +711,29 @@ Prompt:
 4. Challenges and mitigation strategies 
 
 5. Phased rollout guidelines"
-
-Inputs: 
-
+```
+`Inputs: `
+```
 1. Official PDS reform policy document 
 
 2. Current PDS operational flow in the state 
 
 3. Beneficiary database size
+```
+## Prompt 12 – Policy Impact Review of India’s EV Subsidy Scheme
 
-Prompt 12 – Policy Impact Review of India’s EV Subsidy Scheme
+`Backstory:`
 
-Backstory:
+`The Indian government has revised its FAME-II electric vehicle subsidy scheme, reducing incentives for certain models while promoting electric two-wheelers and public transport. EV startups and dealerships are concerned about the shift in demand patterns and need an impact analysis to guide their sales and marketing strategies.`
 
-The Indian government has revised its FAME-II electric vehicle subsidy scheme, reducing incentives for certain models while promoting electric two-wheelers and public transport. EV startups and dealerships are concerned about the shift in demand patterns and need an impact analysis to guide their sales and marketing strategies.
+`Goal:`
 
-Goal:
+`Analyse the revised EV subsidy scheme and its potential impact on the Indian market.`
 
-Analyse the revised EV subsidy scheme and its potential impact on the Indian market.
+`Prompt:`
 
-Prompt:
-
-"You are an automotive policy consultant. Provide a detailed impact analysis of the revised FAME-II EV subsidy scheme. Include:
-
+`"You are an automotive policy consultant. Provide a detailed impact analysis of the revised FAME-II EV subsidy scheme. Include:`
+```
 1. Key subsidy changes for each vehicle category
 
 2. Market segments most affected
@@ -741,29 +741,29 @@ Prompt:
 3. Potential impact on sales trends in Tier-1 and Tier-2 cities
 
 4. Recommendations for dealers and startups"
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Latest FAME-II amendment document
 
 2. Company’s current EV product portfolio
 
 3. Sales data from past two years
+```
+## Prompt 13 – Agricultural MSP Policy Brief for Farmer Cooperatives
 
-Prompt 13 – Agricultural MSP Policy Brief for Farmer Cooperatives
+`Backstory:`
 
-Backstory:
+`The government has announced revised Minimum Support Prices (MSP) for several crops ahead of the upcoming harvest season. Farmer cooperatives in Punjab and Haryana are confused about how these rates compare with previous seasons and how to adjust their planting decisions accordingly.`
 
-The government has announced revised Minimum Support Prices (MSP) for several crops ahead of the upcoming harvest season. Farmer cooperatives in Punjab and Haryana are confused about how these rates compare with previous seasons and how to adjust their planting decisions accordingly.
+`Goal:`
 
-Goal:
+`Summarise MSP policy changes and suggest planning strategies for farmers.`
 
-Summarise MSP policy changes and suggest planning strategies for farmers.
+`Prompt:`
 
-Prompt:
-
-"You are an agricultural economist. Prepare a simple policy brief on the latest MSP changes for farmer cooperatives. Cover:
-
+`"You are an agricultural economist. Prepare a simple policy brief on the latest MSP changes for farmer cooperatives. Cover:`
+```
 1. Revised MSP rates for major crops
 
 2. Comparison with previous year’s rates
@@ -771,29 +771,29 @@ Prompt:
 3. Market trends and price forecasts
 
 4. Recommendations on crop selection and storage"
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. MSP announcement document
 
 2. Current crop patterns in the region
 
 3. Storage and distribution capabilities
+```
+## Prompt 14 – Cybersecurity Guidelines for Government Departments
 
-Prompt 14 – Cybersecurity Guidelines for Government Departments
+`Backstory:`
 
-Backstory:
+`In response to rising cyberattacks, the Ministry of Electronics and IT has issued updated cybersecurity guidelines for all central and state government departments. These include stricter password protocols, multi-factor authentication, and regular vulnerability assessments. Many local IT officers lack clarity on implementation priorities.`
 
-In response to rising cyberattacks, the Ministry of Electronics and IT has issued updated cybersecurity guidelines for all central and state government departments. These include stricter password protocols, multi-factor authentication, and regular vulnerability assessments. Many local IT officers lack clarity on implementation priorities.
+`Goal:`
 
-Goal:
+`Summarise and operationalise the updated cybersecurity guidelines for government use.`
 
-Summarise and operationalise the updated cybersecurity guidelines for government use.
+`Prompt:`
 
-Prompt:
-
-"You are a cybersecurity policy advisor. Summarise the updated government cybersecurity guidelines in an actionable format. Include:
-
+`"You are a cybersecurity policy advisor. Summarise the updated government cybersecurity guidelines in an actionable format. Include:`
+```
 1. New password and authentication requirements
 
 2. Data storage and backup protocols
@@ -801,29 +801,29 @@ Prompt:
 3. Incident reporting processes
 
 4. Training and awareness measures for staff"
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Cybersecurity guidelines document
 
 2. Department’s current IT security setup
 
 3. Staff size and skill level
+```
+## Prompt 15 – Rural Healthcare Policy Implementation Challenges
 
-Prompt 15 – Rural Healthcare Policy Implementation Challenges
+`Backstory:`
 
-Backstory:
+`The National Health Mission has expanded rural healthcare programs, introducing telemedicine, mobile diagnostic units, and additional funding for primary health centres. However, district-level health officers in remote areas often face challenges with internet connectivity, staff shortages, and lack of awareness among rural populations. A well-structured summary could help them adapt the policy effectively without losing its intended benefits.`
 
-The National Health Mission has expanded rural healthcare programs, introducing telemedicine, mobile diagnostic units, and additional funding for primary health centres. However, district-level health officers in remote areas often face challenges with internet connectivity, staff shortages, and lack of awareness among rural populations. A well-structured summary could help them adapt the policy effectively without losing its intended benefits.
+`Goal:`
 
-Goal:
+`Summarise the rural healthcare policy and highlight practical implementation steps for low-resource areas.`
 
-Summarise the rural healthcare policy and highlight practical implementation steps for low-resource areas.
+`Prompt:`
 
-Prompt:
-
-"You are a healthcare policy analyst. Summarise the updated rural healthcare initiatives under the National Health Mission for district-level officers. Include:
-
+`"You are a healthcare policy analyst. Summarise the updated rural healthcare initiatives under the National Health Mission for district-level officers. Include:`
+```
 1. New facilities and funding provisions
 
 2. Technology integration requirements
@@ -831,15 +831,15 @@ Prompt:
 3. Strategies for low-connectivity regions
 
 4. Training and awareness-building methods"
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Official NHM update document
 
 2. Local infrastructure report
 
 3. Staff availability data
-
+```
 Prompt 16 – Digital Education Policy for Government Schools
 
 Backstory:
