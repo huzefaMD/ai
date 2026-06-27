@@ -1574,14 +1574,14 @@
 ```
 ## Prompt 13 – Bhakti Yoga & Kirtan Immersion
 
-Backstory: Bhakti yoga, the yoga of devotion, is attracting spiritual seekers who want a heart-centered practice. A weekend retreat in Vrindavan is designed to immerse participants in the practice of kirtan, devotional chanting, and sacred storytelling. The program should create a joyful yet meditative atmosphere, combining music, mantra recitation, and teachings on the philosophy of devotion. Cultural authenticity is key, while keeping the sessions accessible for newcomers.
+`Backstory: Bhakti yoga, the yoga of devotion, is attracting spiritual seekers who want a heart-centered practice. A weekend retreat in Vrindavan is designed to immerse participants in the practice of kirtan, devotional chanting, and sacred storytelling. The program should create a joyful yet meditative atmosphere, combining music, mantra recitation, and teachings on the philosophy of devotion. Cultural authenticity is key, while keeping the sessions accessible for newcomers.`
 
-Goal: Plan a 2-day Bhakti Yoga immersion blending music, devotion, and philosophy.
+`Goal: Plan a 2-day Bhakti Yoga immersion blending music, devotion, and philosophy.`
 
-Prompt:
+`Prompt:`
 
-"You are a Bhakti yoga facilitator. Create a 2-day retreat plan that includes:
-
+`"You are a Bhakti yoga facilitator. Create a 2-day retreat plan that includes:`
+```
 1. Morning mantra meditation
 
 2. Afternoon kirtan sessions with live instruments
@@ -1591,9 +1591,9 @@ Prompt:
 4. Group discussions on devotion in daily life
 
 5. Evening aarti and reflection"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Music and instrument availability
 
 2. Number of facilitators
@@ -1601,17 +1601,17 @@ Inputs Required:
 3. Participant familiarity with bhakti practices
 
 4. Space for both sitting and musical performances
+```
+##  Prompt 14 – Mindful Parenting Retreat
 
-Prompt 14 – Mindful Parenting Retreat
+`Backstory: Urban parents in India are juggling careers and child-rearing, often leaving them stressed and disconnected from mindful parenting. A 2-day retreat in Pune is aimed at parents of young children, offering workshops on conscious communication, emotional regulation, and play-based connection. The program should also provide childcare activities so parents can fully immerse in the sessions without worry.`
 
-Backstory: Urban parents in India are juggling careers and child-rearing, often leaving them stressed and disconnected from mindful parenting. A 2-day retreat in Pune is aimed at parents of young children, offering workshops on conscious communication, emotional regulation, and play-based connection. The program should also provide childcare activities so parents can fully immerse in the sessions without worry.
+`Goal: Create a 2-day retreat plan to help parents become more mindful and emotionally present.`
 
-Goal: Create a 2-day retreat plan to help parents become more mindful and emotionally present.
+`Prompt:`
 
-Prompt:
-
-"You are a conscious parenting coach. Design a 2-day retreat including:
-
+`"You are a conscious parenting coach. Design a 2-day retreat including:`
+```
 1. Morning mindfulness for parents
 
 2. Emotional regulation workshops
@@ -1621,9 +1621,9 @@ Prompt:
 4. Family playtime and bonding exercises
 
 5. Closing gratitude ceremony with children"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Number of families attending
 
 2. Age range of children
@@ -1631,17 +1631,17 @@ Inputs Required:
 3. On-site childcare facilities
 
 4. Facilitator expertise
+```
+## Prompt 15 – Sound Healing & Chakra Balancing Retreat
 
-Prompt 15 – Sound Healing & Chakra Balancing Retreat
+`Backstory: Sound therapy is gaining popularity in India as a deep relaxation and healing method. A 3-day retreat in Goa will focus on sound baths, chakra meditations, and breathwork to align energy centers. The retreat should be suitable for people with no prior experience in energy healing but curious about alternative therapies. The environment should be serene, with minimal external noise, to enhance immersion.`
 
-Backstory: Sound therapy is gaining popularity in India as a deep relaxation and healing method. A 3-day retreat in Goa will focus on sound baths, chakra meditations, and breathwork to align energy centers. The retreat should be suitable for people with no prior experience in energy healing but curious about alternative therapies. The environment should be serene, with minimal external noise, to enhance immersion.
+`Goal: Create a 3-day retreat plan for sound healing and chakra alignment.`
 
-Goal: Create a 3-day retreat plan for sound healing and chakra alignment.
+`Prompt:`
 
-Prompt:
-
-"You are a sound healer designing a retreat. Create a 3-day schedule including:
-
+`"You are a sound healer designing a retreat. Create a 3-day schedule including:`
+```
 1. Morning chakra meditation
 
 2. Sound baths using singing bowls and gongs
@@ -1651,9 +1651,9 @@ Prompt:
 4. Group reflection and journaling time
 
 5. Evening relaxation rituals"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Number of participants
 
 2. Sound healing equipment available
@@ -1661,17 +1661,17 @@ Inputs Required:
 3. Venue acoustics
 
 4. Participant familiarity with meditation
+```
+## Prompt 16 – Ayurveda & Seasonal Wellness Retreat
 
-Prompt 16 – Ayurveda & Seasonal Wellness Retreat
+`Backstory: Many urban Indians are rediscovering Ayurveda as a natural way to boost immunity and balance health. A 4-day retreat in Kerala is being designed to help participants understand seasonal living principles, detox routines, and diet adjustments based on their dosha. The setting includes lush greenery, Ayurvedic kitchens, and therapy rooms, allowing participants to fully immerse in holistic living. The retreat should also cater to beginners who may have never tried Ayurvedic practices before.`
 
-Backstory: Many urban Indians are rediscovering Ayurveda as a natural way to boost immunity and balance health. A 4-day retreat in Kerala is being designed to help participants understand seasonal living principles, detox routines, and diet adjustments based on their dosha. The setting includes lush greenery, Ayurvedic kitchens, and therapy rooms, allowing participants to fully immerse in holistic living. The retreat should also cater to beginners who may have never tried Ayurvedic practices before.
+`Goal: Create a 4-day Ayurveda retreat agenda focused on seasonal health and balance.`
 
-Goal: Create a 4-day Ayurveda retreat agenda focused on seasonal health and balance.
+`Prompt:`
 
-Prompt:
-
-"You are an Ayurvedic wellness retreat planner. Create a 4-day schedule including:
-
+`"You are an Ayurvedic wellness retreat planner. Create a 4-day schedule including:`
+```
 1. Morning herbal drink rituals
 
 2. Ayurvedic self-massage workshops
@@ -1681,9 +1681,9 @@ Prompt:
 4. Guided meditation for mind-body harmony
 
 5. Evening herbal steam and rest"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Participant dosha assessment results
 
 2. Season of the retreat
@@ -1691,17 +1691,17 @@ Inputs Required:
 3. Available therapy treatments
 
 4. Dietary restrictions
+```
+## Prompt 17 – Mindfulness for Educators Retreat
 
-Prompt 17 – Mindfulness for Educators Retreat
+`Backstory: Teachers in India often face burnout due to heavy workloads, large class sizes, and limited resources. A 2-day retreat in the hills of Himachal is planned for school teachers to learn mindfulness tools that help reduce stress, improve classroom presence, and nurture compassion. The goal is to provide practical techniques they can easily integrate into their teaching schedules while also giving them space for personal rejuvenation.`
 
-Backstory: Teachers in India often face burnout due to heavy workloads, large class sizes, and limited resources. A 2-day retreat in the hills of Himachal is planned for school teachers to learn mindfulness tools that help reduce stress, improve classroom presence, and nurture compassion. The goal is to provide practical techniques they can easily integrate into their teaching schedules while also giving them space for personal rejuvenation.
+`Goal: Create a retreat program that supports teachers in adopting mindfulness for personal and professional growth.`
 
-Goal: Create a retreat program that supports teachers in adopting mindfulness for personal and professional growth.
+`Prompt:`
 
-Prompt:
-
-"You are a mindfulness coach for educators. Design a 2-day retreat including:
-
+`"You are a mindfulness coach for educators. Design a 2-day retreat including:`
+```
 1. Morning grounding and breathing
 
 2. Mindfulness in classroom activities
@@ -1711,9 +1711,9 @@ Prompt:
 4. Peer sharing circles
 
 5. Evening relaxation practices"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Teaching experience levels
 
 2. Subjects taught
@@ -1721,17 +1721,17 @@ Inputs Required:
 3. School environment challenges
 
 4. Group size
+```
+## Prompt 18 – Digital Detox & Nature Immersion
 
-Prompt 18 – Digital Detox & Nature Immersion
+`Backstory: In India’s metro cities, screen fatigue is becoming a serious mental health concern. A 3-day retreat in Coorg aims to help participants unplug from devices, reconnect with nature, and rediscover offline joy. Activities will focus on forest walks, mindful photography (without sharing online), and campfire storytelling. The retreat will be tech-free, with facilitators guiding guests through simple mindfulness practices in natural surroundings.`
 
-Backstory: In India’s metro cities, screen fatigue is becoming a serious mental health concern. A 3-day retreat in Coorg aims to help participants unplug from devices, reconnect with nature, and rediscover offline joy. Activities will focus on forest walks, mindful photography (without sharing online), and campfire storytelling. The retreat will be tech-free, with facilitators guiding guests through simple mindfulness practices in natural surroundings.
+`Goal: Design a tech-free retreat agenda that helps participants unwind and reconnect with nature.`
 
-Goal: Design a tech-free retreat agenda that helps participants unwind and reconnect with nature.
+`Prompt:`
 
-Prompt:
-
-"You are a digital detox retreat planner. Create a 3-day program including:
-
+`"You are a digital detox retreat planner. Create a 3-day program including:`
+```
 1. Morning sunrise walks
 
 2. Mindful eating sessions
@@ -1741,9 +1741,9 @@ Prompt:
 4. Group campfire discussions
 
 5. Evening stargazing"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Number of participants
 
 2. Accessibility to natural trails
@@ -1751,17 +1751,17 @@ Inputs Required:
 3. Accommodation style
 
 4. Backup plans for rainy weather
+```
+## Prompt 19 – Grief Healing & Emotional Resilience Workshop
 
-Prompt 19 – Grief Healing & Emotional Resilience Workshop
+`Backstory: With rising mental health awareness in India, more people are seeking spaces to process grief and loss. A 1-day workshop in Delhi is designed to help participants work through bereavement, relationship endings, or life changes in a safe and compassionate environment. Sessions will use a blend of guided meditation, expressive arts, and therapeutic group conversations to create an atmosphere of acceptance and emotional healing.`
 
-Backstory: With rising mental health awareness in India, more people are seeking spaces to process grief and loss. A 1-day workshop in Delhi is designed to help participants work through bereavement, relationship endings, or life changes in a safe and compassionate environment. Sessions will use a blend of guided meditation, expressive arts, and therapeutic group conversations to create an atmosphere of acceptance and emotional healing.
+`Goal: Build a one-day workshop for grief healing using mindfulness and emotional release tools.`
 
-Goal: Build a one-day workshop for grief healing using mindfulness and emotional release tools.
+`Prompt:`
 
-Prompt:
-
-"You are a grief healing facilitator. Create a 1-day workshop plan including:
-
+`"You are a grief healing facilitator. Create a 1-day workshop plan including:`
+```
 1. Safe space introduction
 
 2. Guided meditation for emotional release
@@ -1771,9 +1771,9 @@ Prompt:
 4. Sharing circles with active listening
 
 5. Closing candlelight ceremony"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Age group of participants
 
 2. Type of grief addressed
@@ -1781,17 +1781,17 @@ Inputs Required:
 3. Number of facilitators
 
 4. Space requirements
+```
+## Prompt 20 – Sacred Masculinity Retreat
 
-Prompt 20 – Sacred Masculinity Retreat
+`Backstory: Conversations around conscious masculinity are slowly gaining traction in India. A 2-day retreat in Maharashtra aims to guide men in exploring emotional intelligence, vulnerability, and healthy leadership through mindfulness, movement, and sharing circles. The program should challenge societal stereotypes while offering a supportive brotherhood space. It will also integrate cultural elements such as traditional warrior dances or dharma-based teachings.`
 
-Backstory: Conversations around conscious masculinity are slowly gaining traction in India. A 2-day retreat in Maharashtra aims to guide men in exploring emotional intelligence, vulnerability, and healthy leadership through mindfulness, movement, and sharing circles. The program should challenge societal stereotypes while offering a supportive brotherhood space. It will also integrate cultural elements such as traditional warrior dances or dharma-based teachings.
+`Goal: Create a men’s retreat program fostering self-awareness and emotional openness.`
 
-Goal: Create a men’s retreat program fostering self-awareness and emotional openness.
+`Prompt:`
 
-Prompt:
-
-"You are a men’s personal growth coach. Create a 2-day retreat schedule including:
-
+`"You are a men’s personal growth coach. Create a 2-day retreat schedule including:`
+```
 1. Morning movement and breathwork
 
 2. Emotional intelligence workshops
@@ -1801,9 +1801,9 @@ Prompt:
 4. Traditional cultural activities
 
 5. Evening reflection circles"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Participant age range
 
 2. Cultural backgrounds
@@ -1811,8 +1811,8 @@ Inputs Required:
 3. Preferred physical activity levels
 
 4. Retreat setting
-
-Prompt 21 – Women’s Empowerment & Self-Love Retreat
+```
+## Prompt 21 – Women’s Empowerment & Self-Love Retreat
 
 Backstory: Across India, many women juggle multiple roles, often neglecting their own well-being. This 3-day retreat in Rishikesh aims to provide a sacred space where women can reconnect with their self-worth, heal from past emotional wounds, and embrace their authentic selves. The program will blend mindfulness, body movement, storytelling, and rituals for self-love. It’s designed for women from diverse backgrounds who seek community support and personal empowerment.
 
