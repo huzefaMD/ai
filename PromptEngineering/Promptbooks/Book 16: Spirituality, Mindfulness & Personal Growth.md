@@ -1458,14 +1458,14 @@
 ```
 ## Prompt 9 – Silent Meditation Retreat (Vipassana-inspired)
 
-Backstory: Silence can be deeply transformative, but many in India hesitate to commit to the traditional 10-day Vipassana. A shorter, beginner-friendly 4-day silent retreat is planned in Dharamshala to introduce participants to deep meditation. The agenda should minimize distractions, provide clear meditation instructions, and include mindful eating sessions. Cultural sensitivity is key, ensuring vegetarian sattvic meals and clear communication before the silence period begins.
+`Backstory: Silence can be deeply transformative, but many in India hesitate to commit to the traditional 10-day Vipassana. A shorter, beginner-friendly 4-day silent retreat is planned in Dharamshala to introduce participants to deep meditation. The agenda should minimize distractions, provide clear meditation instructions, and include mindful eating sessions. Cultural sensitivity is key, ensuring vegetarian sattvic meals and clear communication before the silence period begins.`
 
-Goal: Create a 4-day silent meditation retreat schedule that eases beginners into sustained mindfulness.
+`Goal: Create a 4-day silent meditation retreat schedule that eases beginners into sustained mindfulness.`
 
-Prompt:
+`Prompt:`
 
-"You are a meditation retreat planner. Create a detailed 4-day silent retreat agenda for beginners, including:
-
+`"You are a meditation retreat planner. Create a detailed 4-day silent retreat agenda for beginners, including:`
+```
 1. Meditation session timings
 
 2. Mindful walking schedules
@@ -1473,9 +1473,9 @@ Prompt:
 3. Meal and rest periods
 
 4. Gentle evening reflections without breaking silence"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Number of participants
 
 2. Meditation experience level
@@ -1483,17 +1483,17 @@ Inputs Required:
 3. Climate and location
 
 4. Facility layout for minimal disturbance
+```
+## Prompt 10 – Creative Manifestation & Vision Board Workshop
 
-Prompt 10 – Creative Manifestation & Vision Board Workshop
+`Backstory: Many urban Indians are exploring manifestation practices but lack structured tools to set clear goals. A one-day creative retreat in Mumbai is being designed to help participants visualize and manifest their dream life using vision boards, affirmations, and guided meditations. The agenda should balance practical goal-setting techniques with spiritually aligned manifestation rituals. Materials and space for art-based activities must be included.`
 
-Backstory: Many urban Indians are exploring manifestation practices but lack structured tools to set clear goals. A one-day creative retreat in Mumbai is being designed to help participants visualize and manifest their dream life using vision boards, affirmations, and guided meditations. The agenda should balance practical goal-setting techniques with spiritually aligned manifestation rituals. Materials and space for art-based activities must be included.
+`Goal: Create a one-day retreat agenda blending creativity and manifestation practices.`
 
-Goal: Create a one-day retreat agenda blending creativity and manifestation practices.
+`Prompt:`
 
-Prompt:
-
-"You are a manifestation and creativity coach. Create a 1-day workshop plan that includes:
-
+`"You are a manifestation and creativity coach. Create a 1-day workshop plan that includes:`
+```
 1. Morning meditation to set intentions
 
 2. Guided goal visualization exercises
@@ -1501,9 +1501,9 @@ Prompt:
 3. Vision board creation time
 
 4. Sharing circles for accountability"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Group size
 
 2. Material budget for vision boards
@@ -1511,17 +1511,17 @@ Inputs Required:
 3. Space requirements
 
 4. Level of participant familiarity with manifestation practices
+```
+## Prompt 11 – Women’s Sacred Circle & Inner Healing Retreat
 
-Prompt 11 – Women’s Sacred Circle & Inner Healing Retreat
+`Backstory: Across India, women are seeking safe spaces to share, heal, and rediscover their inner strength. A 3-day retreat in Rishikesh is planned to combine guided meditation, expressive arts, and deep sharing circles. The space must feel nurturing, private, and culturally sensitive, offering vegetarian meals and female facilitators. The goal is to empower women to release emotional baggage, celebrate their stories, and build soulful connections.`
 
-Backstory: Across India, women are seeking safe spaces to share, heal, and rediscover their inner strength. A 3-day retreat in Rishikesh is planned to combine guided meditation, expressive arts, and deep sharing circles. The space must feel nurturing, private, and culturally sensitive, offering vegetarian meals and female facilitators. The goal is to empower women to release emotional baggage, celebrate their stories, and build soulful connections.
+`Goal: Design a 3-day women-only retreat agenda that blends emotional healing with community bonding.`
 
-Goal: Design a 3-day women-only retreat agenda that blends emotional healing with community bonding.
+`Prompt:`
 
-Prompt:
-
-"You are a women’s wellness retreat planner. Create a 3-day agenda including:
-
+`"You are a women’s wellness retreat planner. Create a 3-day agenda including:`
+```
 1. Morning grounding meditations
 
 2. Healing art therapy sessions
@@ -1531,9 +1531,9 @@ Prompt:
 4. Gentle yoga and breathwork
 
 5. Evening gratitude rituals"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Group size and age range
 
 2. Location facilities
@@ -1541,17 +1541,17 @@ Inputs Required:
 3. Any cultural or dietary preferences
 
 4. Experience level of facilitators
+```
+## Prompt 12 – Corporate Mindfulness & Stress Release Workshop
 
-Prompt 12 – Corporate Mindfulness & Stress Release Workshop
+`Backstory: Indian corporate employees face high-pressure work cultures leading to burnout. A one-day mindfulness workshop is planned for a tech company in Bengaluru, aiming to help employees manage stress, improve focus, and build emotional resilience. The program should blend science-backed mindfulness techniques with practical tools they can use daily. Since the audience may include first-time meditators, instructions must be clear and approachable.`
 
-Backstory: Indian corporate employees face high-pressure work cultures leading to burnout. A one-day mindfulness workshop is planned for a tech company in Bengaluru, aiming to help employees manage stress, improve focus, and build emotional resilience. The program should blend science-backed mindfulness techniques with practical tools they can use daily. Since the audience may include first-time meditators, instructions must be clear and approachable.
+`Goal: Create a corporate-friendly mindfulness workshop that’s practical and engaging.`
 
-Goal: Create a corporate-friendly mindfulness workshop that’s practical and engaging.
+`Prompt:`
 
-Prompt:
-
-"You are a corporate wellness trainer. Create a 1-day workshop agenda including:
-
+`"You are a corporate wellness trainer. Create a 1-day workshop agenda including:`
+```
 1. Introduction to mindfulness and benefits
 
 2. Guided breathing techniques for stress relief
@@ -1561,9 +1561,9 @@ Prompt:
 4. Mindful communication exercises
 
 5. End-of-day reflection and Q&A"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Employee demographics
 
 2. Available workshop space
@@ -1571,8 +1571,8 @@ Inputs Required:
 3. Time allocation
 
 4. Desired outcomes (stress relief, focus, team bonding)
-
-Prompt 13 – Bhakti Yoga & Kirtan Immersion
+```
+## Prompt 13 – Bhakti Yoga & Kirtan Immersion
 
 Backstory: Bhakti yoga, the yoga of devotion, is attracting spiritual seekers who want a heart-centered practice. A weekend retreat in Vrindavan is designed to immerse participants in the practice of kirtan, devotional chanting, and sacred storytelling. The program should create a joyful yet meditative atmosphere, combining music, mantra recitation, and teachings on the philosophy of devotion. Cultural authenticity is key, while keeping the sessions accessible for newcomers.
 
