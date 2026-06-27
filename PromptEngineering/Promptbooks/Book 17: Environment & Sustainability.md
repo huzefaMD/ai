@@ -1,21 +1,21 @@
-Green business marketing plans
+# Green business marketing plans
 
-Prompt 1 – Social Media Content Calendar for an Eco-friendly Café
+## Prompt 1 – Social Media Content Calendar for an Eco-friendly Café
 
-Backstory:
+`Backstory:`
 
-Neha, 29, left her corporate job in Pune to follow her passion for food and sustainability. She opened a solar-powered café that sources ingredients from local organic farms. While her café has a loyal neighbourhood following, she struggles to reach younger eco-conscious customers on Instagram. Most of her posts are ad-hoc, without a clear theme or consistency. She believes if her content could blend sustainability tips, local farmer stories, and behind-the-scenes moments, she could attract more customers who value both taste and ethics.
+`Neha, 29, left her corporate job in Pune to follow her passion for food and sustainability. She opened a solar-powered café that sources ingredients from local organic farms. While her café has a loyal neighbourhood following, she struggles to reach younger eco-conscious customers on Instagram. Most of her posts are ad-hoc, without a clear theme or consistency. She believes if her content could blend sustainability tips, local farmer stories, and behind-the-scenes moments, she could attract more customers who value both taste and ethics.`
 
-Goal:
+`Goal:`
 
-Create a 3-month Instagram content calendar blending sustainability education, behind-the-scenes posts, and seasonal offers to attract eco-conscious millennials.
+`Create a 3-month Instagram content calendar blending sustainability education, behind-the-scenes posts, and seasonal offers to attract eco-conscious millennials.`
 
-Prompt:
+`Prompt:`
 
-"You are a social media strategist for eco-friendly businesses. Create a 3-month Instagram content calendar for a solar-powered café in Pune, mixing educational posts on sustainability, customer testimonials, seasonal offers, and behind-the-scenes videos. Include post captions, hashtags, and ideal posting times for maximum engagement."
+`"You are a social media strategist for eco-friendly businesses. Create a 3-month Instagram content calendar for a solar-powered café in Pune, mixing educational posts on sustainability, customer testimonials, seasonal offers, and behind-the-scenes videos. Include post captions, hashtags, and ideal posting times for maximum engagement."`
 
-Inputs:
-
+`Inputs:`
+```
 1. Business name
 
 2. Location
@@ -25,23 +25,23 @@ Inputs:
 4. Budget for ads
 
 5. Posting frequency preference
+```
+## Prompt 2 – Influencer Collaboration Proposal for Bamboo Furniture
 
-Prompt 2 – Influencer Collaboration Proposal for Bamboo Furniture
+`Backstory:`
 
-Backstory:
+`Kabir, 32, is an architect turned entrepreneur in Pune who designs bamboo furniture with a modern, minimalist touch. His brand is known for being eco-friendly and promoting traditional bamboo craftsmanship from Northeast India. While his website gets steady orders, he believes influencer partnerships could significantly boost brand visibility among urban millennials. He wants to target influencers who not only have large followings but also align with eco-conscious living, home décor, and sustainable lifestyle content. He needs a pitch that feels genuine, collaborative, and mutually beneficial.`
 
-Kabir, 32, is an architect turned entrepreneur in Pune who designs bamboo furniture with a modern, minimalist touch. His brand is known for being eco-friendly and promoting traditional bamboo craftsmanship from Northeast India. While his website gets steady orders, he believes influencer partnerships could significantly boost brand visibility among urban millennials. He wants to target influencers who not only have large followings but also align with eco-conscious living, home décor, and sustainable lifestyle content. He needs a pitch that feels genuine, collaborative, and mutually beneficial.
+`Goal:`
 
-Goal:
+`Draft a collaboration pitch to Indian influencers that highlights the sustainability aspect and mutual benefits.`
 
-Draft a collaboration pitch to Indian influencers that highlights the sustainability aspect and mutual benefits.
+`Prompt:`
 
-Prompt:
+`"You are a marketing copywriter. Draft a professional yet friendly influencer outreach email for a bamboo furniture brand, highlighting eco-friendly production, local craftsmanship, and mutual brand growth. Include proposed collaboration ideas such as Instagram Reels, YouTube home tours, and giveaways."`
 
-"You are a marketing copywriter. Draft a professional yet friendly influencer outreach email for a bamboo furniture brand, highlighting eco-friendly production, local craftsmanship, and mutual brand growth. Include proposed collaboration ideas such as Instagram Reels, YouTube home tours, and giveaways."
-
-Inputs:
-
+`Inputs:`
+```
 1. Influencer name/handle
 
 2. Brand story
@@ -49,23 +49,23 @@ Inputs:
 3. Product highlights
 
 4. Proposed budget or barter terms
+```
+## Prompt 3 – Green Marketing Plan for D2C Beauty Brand
 
-Prompt 3 – Green Marketing Plan for D2C Beauty Brand
+`Backstory:`
 
-Backstory:
+`Ananya, 27, started a chemical-free skincare line in her Mumbai kitchen during the lockdown, using locally sourced herbs and oils. Her products quickly gained popularity among friends and family for their quality and minimal packaging. Encouraged by the response, she launched her online store last year. However, with so many D2C beauty brands in India, she’s struggling to stand out. She knows her eco-friendly packaging and transparency in sourcing could be a big differentiator if marketed well. She needs a structured 6-month marketing plan to establish herself as a trusted, sustainable brand in the competitive beauty market.`
 
-Ananya, 27, started a chemical-free skincare line in her Mumbai kitchen during the lockdown, using locally sourced herbs and oils. Her products quickly gained popularity among friends and family for their quality and minimal packaging. Encouraged by the response, she launched her online store last year. However, with so many D2C beauty brands in India, she’s struggling to stand out. She knows her eco-friendly packaging and transparency in sourcing could be a big differentiator if marketed well. She needs a structured 6-month marketing plan to establish herself as a trusted, sustainable brand in the competitive beauty market.
+`Goal:`
 
-Goal:
+`Create a digital-first marketing strategy highlighting sustainability and transparency.`
 
-Create a digital-first marketing strategy highlighting sustainability and transparency.
+`Prompt:`
 
-Prompt:
+`"You are a marketing consultant for sustainable beauty brands. Design a 6-month D2C marketing plan for a chemical-free skincare line in India, focusing on eco-friendly packaging, sourcing transparency, and educational campaigns. Include content ideas, ad strategies, influencer tie-ups, and sustainability storytelling."`
 
-"You are a marketing consultant for sustainable beauty brands. Design a 6-month D2C marketing plan for a chemical-free skincare line in India, focusing on eco-friendly packaging, sourcing transparency, and educational campaigns. Include content ideas, ad strategies, influencer tie-ups, and sustainability storytelling."
-
-Inputs:
-
+`Inputs:`
+```
 1. Target audience demographics
 
 2. Key product categories
@@ -73,23 +73,23 @@ Inputs:
 3. Monthly marketing budget
 
 4. USP (Unique Selling Proposition)
+```
+## Prompt 4 – Corporate Green Image Campaign
 
-Prompt 4 – Corporate Green Image Campaign
+`Backstory:`
 
-Backstory:
+`A mid-sized IT company in Hyderabad has been implementing eco-friendly workplace practices for the last 3 years — waste segregation, a paperless office policy, and switching to renewable energy for their campus. However, most of these efforts are only known internally. The management wants to position the company as a leader in corporate sustainability, attracting both environmentally aware clients and potential hires. They believe a year-long campaign combining internal engagement and public visibility could build this image. They want it tied to measurable outcomes and backed by consistent storytelling.`
 
-A mid-sized IT company in Hyderabad has been implementing eco-friendly workplace practices for the last 3 years — waste segregation, a paperless office policy, and switching to renewable energy for their campus. However, most of these efforts are only known internally. The management wants to position the company as a leader in corporate sustainability, attracting both environmentally aware clients and potential hires. They believe a year-long campaign combining internal engagement and public visibility could build this image. They want it tied to measurable outcomes and backed by consistent storytelling.
+`Goal:`
 
-Goal:
+`Design a CSR-linked campaign that positions the company as environmentally responsible.`
 
-Design a CSR-linked campaign that positions the company as environmentally responsible.
+`Prompt:`
 
-Prompt:
+`"You are a corporate communication strategist. Create a year-long 'Green Workplace' campaign plan for an IT company in India, linking internal initiatives (waste segregation, carpooling drives) with public outreach (press releases, LinkedIn posts, webinars). Highlight measurable impact and visual branding ideas."`
 
-"You are a corporate communication strategist. Create a year-long 'Green Workplace' campaign plan for an IT company in India, linking internal initiatives (waste segregation, carpooling drives) with public outreach (press releases, LinkedIn posts, webinars). Highlight measurable impact and visual branding ideas."
-
-Inputs:
-
+`Inputs:`
+```
 1. Company size
 
 2. CSR budget
@@ -97,23 +97,23 @@ Inputs:
 3. Current sustainability initiatives
 
 4. Preferred communication channels
+```
+## Prompt 5 – Sustainability Report Visualisation
 
-Prompt 5 – Sustainability Report Visualisation
+`Backstory:`
 
-Backstory:
+`Raghav, 31, runs a biodegradable packaging company that supplies to several well-known FMCG brands in India. Every year, he publishes an impact report showing metrics like waste reduced, water saved, and carbon offset. The numbers are impressive, but the current report is text-heavy and not very engaging. Investors, partners, and clients have hinted they’d prefer a more visual, easy-to-digest format. Raghav wants the report to inspire confidence, communicate impact, and also serve as a marketing tool that can be shared online.`
 
-Raghav, 31, runs a biodegradable packaging company that supplies to several well-known FMCG brands in India. Every year, he publishes an impact report showing metrics like waste reduced, water saved, and carbon offset. The numbers are impressive, but the current report is text-heavy and not very engaging. Investors, partners, and clients have hinted they’d prefer a more visual, easy-to-digest format. Raghav wants the report to inspire confidence, communicate impact, and also serve as a marketing tool that can be shared online.
+`Goal:`
 
-Goal:
+`Transform sustainability metrics into a compelling investor-ready presentation.`
 
-Transform sustainability metrics into a compelling investor-ready presentation.
+`Prompt:`
 
-Prompt:
+`"You are a sustainability data storyteller. Convert the company's environmental impact data (waste reduced, water saved, carbon offset) into a visually engaging investor deck. Use infographics, comparison charts, and short narratives to highlight both business growth and positive environmental outcomes."`
 
-"You are a sustainability data storyteller. Convert the company's environmental impact data (waste reduced, water saved, carbon offset) into a visually engaging investor deck. Use infographics, comparison charts, and short narratives to highlight both business growth and positive environmental outcomes."
-
-Inputs:
-
+`Inputs:`
+```
 1. Environmental impact data
 
 2. Brand colour palette
@@ -121,23 +121,23 @@ Inputs:
 3. Investor priorities (ROI, social impact)
 
 4. File format preference (PPT/PDF)
+```
+## Prompt 6 – Localised Green Campaign for Tier-2 Cities
 
-Prompt 6 – Localised Green Campaign for Tier-2 Cities
+`Backstory:`
 
-Backstory:
+`A solar water heater company based in Ahmedabad has been successful in metro markets like Mumbai and Delhi but now wants to enter Tier-2 cities such as Indore, Nagpur, and Jaipur. The challenge is that homeowners in these cities are not as familiar with the cost and environmental benefits of solar heating. The company’s marketing so far has been generic, with no localised cultural references or language adaptations. Management believes that city-specific campaigns—featuring local influencers, dialects, and relatable use cases—will help build trust and drive adoption.`
 
-A solar water heater company based in Ahmedabad has been successful in metro markets like Mumbai and Delhi but now wants to enter Tier-2 cities such as Indore, Nagpur, and Jaipur. The challenge is that homeowners in these cities are not as familiar with the cost and environmental benefits of solar heating. The company’s marketing so far has been generic, with no localised cultural references or language adaptations. Management believes that city-specific campaigns—featuring local influencers, dialects, and relatable use cases—will help build trust and drive adoption.
+`Goal:`
 
-Goal:
+`Create a localised awareness campaign targeting eco-conscious homeowners in Tier-2 cities.`
 
-Create a localised awareness campaign targeting eco-conscious homeowners in Tier-2 cities.
+`Prompt:`
 
-Prompt:
+`"You are a regional marketing strategist. Create a three-city campaign for promoting solar water heaters in Indore, Nagpur, and Jaipur. For each city, outline key messaging in the local language, partnerships with local influencers, offline events (like demo days in community centres), and social media campaigns tailored to local culture. Include timelines and expected engagement metrics."`
 
-"You are a regional marketing strategist. Create a three-city campaign for promoting solar water heaters in Indore, Nagpur, and Jaipur. For each city, outline key messaging in the local language, partnerships with local influencers, offline events (like demo days in community centres), and social media campaigns tailored to local culture. Include timelines and expected engagement metrics."
-
-Inputs:
-
+`Inputs:`
+```
 1. Product USP
 
 2. Target city
@@ -145,23 +145,23 @@ Inputs:
 3. Local language content preference
 
 4. Marketing budget per city
+```
+## Prompt 7 – Green Startup Launch Plan
 
-Prompt 7 – Green Startup Launch Plan
+`Backstory:`
 
-Backstory:
+`Ishita, 26, has developed a subscription-based service delivering eco-friendly cleaning products to urban households in Delhi NCR. All products come in refillable bottles, reducing plastic waste. She’s ready to launch in 3 months but has no prior marketing experience. Ishita wants a structured, phased plan that creates buzz before launch, educates customers on the product benefits, and sustains interest after launch. She also wants to position her startup as a community-driven, sustainability-first brand to differentiate from regular cleaning product companies.`
 
-Ishita, 26, has developed a subscription-based service delivering eco-friendly cleaning products to urban households in Delhi NCR. All products come in refillable bottles, reducing plastic waste. She’s ready to launch in 3 months but has no prior marketing experience. Ishita wants a structured, phased plan that creates buzz before launch, educates customers on the product benefits, and sustains interest after launch. She also wants to position her startup as a community-driven, sustainability-first brand to differentiate from regular cleaning product companies.
+`Goal:`
 
-Goal:
+`Design a pre-launch and post-launch marketing strategy for an eco-friendly cleaning products startup.`
 
-Design a pre-launch and post-launch marketing strategy for an eco-friendly cleaning products startup.
+`Prompt:`
 
-Prompt:
+`"You are a brand launch strategist for sustainable startups. Create a 6-month marketing plan for launching an eco-friendly cleaning products subscription service in Delhi NCR. Include pre-launch teaser campaigns, launch day events, influencer tie-ups, content marketing strategies, and customer retention ideas. Ensure that sustainability and refill culture are core to all messaging."`
 
-"You are a brand launch strategist for sustainable startups. Create a 6-month marketing plan for launching an eco-friendly cleaning products subscription service in Delhi NCR. Include pre-launch teaser campaigns, launch day events, influencer tie-ups, content marketing strategies, and customer retention ideas. Ensure that sustainability and refill culture are core to all messaging."
-
-Inputs:
-
+`Inputs:`
+```
 1. Target customer profile
 
 2. Product range
@@ -169,23 +169,23 @@ Inputs:
 3. Launch budget
 
 4. Preferred marketing channels
+```
+## Prompt 8 – Green Retail Store Experience Design
 
-Prompt 8 – Green Retail Store Experience Design
+`Backstory:`
 
-Backstory:
+`A chain of organic grocery stores in Bengaluru wants to rebrand itself as not just a place to shop, but as a destination for sustainable living experiences. They want to integrate in-store events, educational corners, and digital engagement for customers. Currently, their store layout is functional but not particularly inspiring. Management wants the new experience to encourage repeat visits, social media sharing, and community building, particularly among the 20–35 age group who are interested in healthy living.`
 
-A chain of organic grocery stores in Bengaluru wants to rebrand itself as not just a place to shop, but as a destination for sustainable living experiences. They want to integrate in-store events, educational corners, and digital engagement for customers. Currently, their store layout is functional but not particularly inspiring. Management wants the new experience to encourage repeat visits, social media sharing, and community building, particularly among the 20–35 age group who are interested in healthy living.
+`Goal:`
 
-Goal:
+`Create an experiential marketing plan for a green retail chain.`
 
-Create an experiential marketing plan for a green retail chain.
+`Prompt:`
 
-Prompt:
+`"You are an experiential marketing consultant. Design an in-store and online engagement plan for an organic grocery chain in Bengaluru. Include eco-friendly visual merchandising, QR codes linking to farmer stories, monthly zero-waste workshops, Instagrammable display corners, and loyalty programs rewarding sustainable choices. Provide a month-by-month rollout plan."`
 
-"You are an experiential marketing consultant. Design an in-store and online engagement plan for an organic grocery chain in Bengaluru. Include eco-friendly visual merchandising, QR codes linking to farmer stories, monthly zero-waste workshops, Instagrammable display corners, and loyalty programs rewarding sustainable choices. Provide a month-by-month rollout plan."
-
-Inputs:
-
+`Inputs:`
+```
 1. Store size and locations
 
 2. Current customer demographics
@@ -193,23 +193,23 @@ Inputs:
 3. Event hosting capacity
 
 4. Budget for redesign
+```
+## Prompt 9 – Green Festival Campaign
 
-Prompt 9 – Green Festival Campaign
+`Backstory:`
 
-Backstory:
+`A solar lantern manufacturer from Jaipur wants to leverage Diwali for a major marketing push. Traditionally, Diwali involves high energy consumption and plastic decorations, but the brand wants to position solar lighting as both eco-friendly and cost-effective. They aim to tap into the sentiment of celebrating responsibly without losing cultural charm. Their target audience is young urban families who want to keep traditions alive while reducing environmental impact.`
 
-A solar lantern manufacturer from Jaipur wants to leverage Diwali for a major marketing push. Traditionally, Diwali involves high energy consumption and plastic decorations, but the brand wants to position solar lighting as both eco-friendly and cost-effective. They aim to tap into the sentiment of celebrating responsibly without losing cultural charm. Their target audience is young urban families who want to keep traditions alive while reducing environmental impact.
+`Goal:`
 
-Goal:
+`Design a festive-season marketing campaign promoting solar lanterns as the perfect Diwali gift.`
 
-Design a festive-season marketing campaign promoting solar lanterns as the perfect Diwali gift.
+`Prompt:`
 
-Prompt:
+`"You are a festive marketing specialist. Create a Diwali campaign for a solar lantern brand targeting urban millennials in India. Include culturally resonant storytelling, influencer-led décor ideas, eco-gifting packages, user-generated content challenges, and special festive discounts. Ensure the campaign blends tradition with sustainability."`
 
-"You are a festive marketing specialist. Create a Diwali campaign for a solar lantern brand targeting urban millennials in India. Include culturally resonant storytelling, influencer-led décor ideas, eco-gifting packages, user-generated content challenges, and special festive discounts. Ensure the campaign blends tradition with sustainability."
-
-Inputs:
-
+`Inputs:`
+```
 1. Product pricing
 
 2. Festive marketing budget
@@ -217,23 +217,23 @@ Inputs:
 3. Preferred sales channels (online/offline)
 
 4. Target cities
+```
+## Prompt 10 – University Sustainability Challenge
 
-Prompt 10 – University Sustainability Challenge
+`Backstory:`
 
-Backstory:
+`A composting equipment startup in Chennai wants to engage directly with the youth to build long-term brand awareness. They see universities as a perfect entry point to educate students about waste management. Their idea is to sponsor a “Sustainability Challenge” across multiple campuses where students create zero-waste projects. However, they need a marketing framework that promotes the challenge, engages students actively, and aligns the brand with youthful innovation.`
 
-A composting equipment startup in Chennai wants to engage directly with the youth to build long-term brand awareness. They see universities as a perfect entry point to educate students about waste management. Their idea is to sponsor a “Sustainability Challenge” across multiple campuses where students create zero-waste projects. However, they need a marketing framework that promotes the challenge, engages students actively, and aligns the brand with youthful innovation.
+`Goal:`
 
-Goal:
+`Create a youth-focused campaign positioning the brand as a sustainability enabler.`
 
-Create a youth-focused campaign positioning the brand as a sustainability enabler.
+`Prompt:`
 
-Prompt:
+`"You are a youth marketing strategist. Design a university-level ‘Sustainability Challenge’ campaign for a composting startup. Include pre-event awareness drives, social media challenges, branded merchandise, on-campus workshops, and post-event digital showcases. Ensure the campaign builds the brand’s credibility as a youth-oriented sustainability leader."`
 
-"You are a youth marketing strategist. Design a university-level ‘Sustainability Challenge’ campaign for a composting startup. Include pre-event awareness drives, social media challenges, branded merchandise, on-campus workshops, and post-event digital showcases. Ensure the campaign builds the brand’s credibility as a youth-oriented sustainability leader."
-
-Inputs:
-
+`Inputs:`
+```
 1. Number of universities to target
 
 2. Campaign duration
@@ -241,23 +241,23 @@ Inputs:
 3. Event budget
 
 4. Rewards/prizes for participants
+```
+## Prompt 11 – Zero-Waste Wedding Marketing Campaign
 
-Prompt 11 – Zero-Waste Wedding Marketing Campaign
+`Backstory:`
 
-Backstory:
+`A wedding planning company in Udaipur has decided to specialise in eco-friendly, zero-waste weddings. Their team sources local flowers, uses reusable décor, and works with caterers who compost food waste. They have executed three successful weddings, but they want to scale up by appealing to young urban couples looking for sustainable celebrations. The challenge is that the luxury wedding market is driven heavily by aesthetics, and many clients don’t know zero-waste weddings can still be grand and beautiful. The company needs a marketing campaign that shifts perceptions and generates premium leads.`
 
-A wedding planning company in Udaipur has decided to specialise in eco-friendly, zero-waste weddings. Their team sources local flowers, uses reusable décor, and works with caterers who compost food waste. They have executed three successful weddings, but they want to scale up by appealing to young urban couples looking for sustainable celebrations. The challenge is that the luxury wedding market is driven heavily by aesthetics, and many clients don’t know zero-waste weddings can still be grand and beautiful. The company needs a marketing campaign that shifts perceptions and generates premium leads.
+`Goal:`
 
-Goal:
+`Promote zero-waste weddings as aspirational and luxurious to attract high-value clients.`
 
-Promote zero-waste weddings as aspirational and luxurious to attract high-value clients.
+`Prompt:`
 
-Prompt:
+`"You are a luxury event marketing expert. Design a 3-month premium marketing campaign for a zero-waste wedding planning service in India. Include Instagram Reels showing eco-chic décor, collaborations with celebrity wedding photographers, sustainability storytelling in bridal magazines, and an influencer-led showcase event. Ensure the campaign appeals to affluent, sustainability-conscious couples."`
 
-"You are a luxury event marketing expert. Design a 3-month premium marketing campaign for a zero-waste wedding planning service in India. Include Instagram Reels showing eco-chic décor, collaborations with celebrity wedding photographers, sustainability storytelling in bridal magazines, and an influencer-led showcase event. Ensure the campaign appeals to affluent, sustainability-conscious couples."
-
-Inputs:
-
+`Inputs:`
+```
 1. Target cities
 
 2. Marketing budget
@@ -265,23 +265,23 @@ Inputs:
 3. Portfolio of past weddings
 
 4. Celebrity/influencer wishlist
+```
+## Prompt 12 – Green Business Podcast Launch
 
-Prompt 12 – Green Business Podcast Launch
+`Backstory:`
 
-Backstory:
+`A group of young entrepreneurs in Mumbai have formed a collective to promote sustainable business practices in India. They want to start a podcast series interviewing eco-entrepreneurs, policymakers, and activists. They see the podcast as both a brand-building exercise and an educational platform. However, they need help with positioning, branding, and a launch campaign that reaches young professionals and startup founders across India.`
 
-A group of young entrepreneurs in Mumbai have formed a collective to promote sustainable business practices in India. They want to start a podcast series interviewing eco-entrepreneurs, policymakers, and activists. They see the podcast as both a brand-building exercise and an educational platform. However, they need help with positioning, branding, and a launch campaign that reaches young professionals and startup founders across India.
+`Goal:`
 
-Goal:
+`Create a launch strategy for a sustainability-focused podcast targeting Indian millennials.`
 
-Create a launch strategy for a sustainability-focused podcast targeting Indian millennials.
+`Prompt:`
 
-Prompt:
+`"You are a podcast marketing strategist. Develop a 3-month launch plan for a green business podcast in India. Include naming suggestions, episode themes, influencer co-host collaborations, Instagram and LinkedIn teaser campaigns, and partnerships with coworking spaces for live recording events. Ensure the messaging appeals to young, purpose-driven entrepreneurs."`
 
-"You are a podcast marketing strategist. Develop a 3-month launch plan for a green business podcast in India. Include naming suggestions, episode themes, influencer co-host collaborations, Instagram and LinkedIn teaser campaigns, and partnerships with coworking spaces for live recording events. Ensure the messaging appeals to young, purpose-driven entrepreneurs."
-
-Inputs:
-
+`Inputs:`
+```
 1. Podcast theme focus areas
 
 2. Episode release frequency
@@ -289,23 +289,23 @@ Inputs:
 3. Launch budget
 
 4. Preferred distribution platforms
+```
+## Prompt 13 – LinkedIn Thought Leadership Plan
 
-Prompt 13 – LinkedIn Thought Leadership Plan
+`Backstory:`
 
-Backstory:
+`Priya, 34, is the founder of a waste upcycling startup in Gurugram. While she is confident in her technical expertise, she struggles to communicate her vision to a wider audience. She wants to position herself as a thought leader in sustainable innovation on LinkedIn to attract investors, collaborators, and policy advocates. Currently, her LinkedIn posts are irregular and mostly about her product launches, without deeper storytelling.`
 
-Priya, 34, is the founder of a waste upcycling startup in Gurugram. While she is confident in her technical expertise, she struggles to communicate her vision to a wider audience. She wants to position herself as a thought leader in sustainable innovation on LinkedIn to attract investors, collaborators, and policy advocates. Currently, her LinkedIn posts are irregular and mostly about her product launches, without deeper storytelling.
+`Goal:`
 
-Goal:
+`Create a 6-month LinkedIn content plan to position Priya as a sustainability thought leader.`
 
-Create a 6-month LinkedIn content plan to position Priya as a sustainability thought leader.
+`Prompt:`
 
-Prompt:
+`"You are a personal branding consultant. Design a 6-month LinkedIn content strategy for an eco-entrepreneur, including article topics, short-form post ideas, comment engagement tactics, and media collaborations. Ensure the plan builds credibility, showcases expertise, and encourages partnerships in the sustainability space."`
 
-"You are a personal branding consultant. Design a 6-month LinkedIn content strategy for an eco-entrepreneur, including article topics, short-form post ideas, comment engagement tactics, and media collaborations. Ensure the plan builds credibility, showcases expertise, and encourages partnerships in the sustainability space."
-
-Inputs:
-
+`Inputs:`
+```
 1. Professional achievements
 
 2. Key sustainability topics of interest
@@ -313,23 +313,23 @@ Inputs:
 3. Posting frequency preference
 
 4. Target audience segments
+```
+## Prompt 14 – Community-Led Recycling Initiative
 
-Prompt 14 – Community-Led Recycling Initiative
+`Backstory:`
 
-Backstory:
+`An NGO in Kolkata is working to set up neighbourhood-level recycling stations in residential societies. They want to build a community-driven campaign that encourages residents to separate waste, use the stations, and track their recycling impact. The NGO believes that gamifying the process will improve adoption rates, but they need a clear marketing and engagement plan to get residents excited.`
 
-An NGO in Kolkata is working to set up neighbourhood-level recycling stations in residential societies. They want to build a community-driven campaign that encourages residents to separate waste, use the stations, and track their recycling impact. The NGO believes that gamifying the process will improve adoption rates, but they need a clear marketing and engagement plan to get residents excited.
+`Goal:`
 
-Goal:
+`Design a gamified community campaign to promote local recycling stations.`
 
-Design a gamified community campaign to promote local recycling stations.
+`Prompt:`
 
-Prompt:
+`"You are a community engagement strategist. Develop a neighbourhood recycling campaign that includes impact dashboards, monthly leaderboards, reward points for top recyclers, and awareness workshops. Include both offline activities (posters, events) and digital tracking methods for participation."`
 
-"You are a community engagement strategist. Develop a neighbourhood recycling campaign that includes impact dashboards, monthly leaderboards, reward points for top recyclers, and awareness workshops. Include both offline activities (posters, events) and digital tracking methods for participation."
-
-Inputs:
-
+`Inputs:`
+```
 1. Number of societies targeted
 
 2. Local languages for communication
@@ -337,23 +337,23 @@ Inputs:
 3. Campaign duration
 
 4. Budget for rewards and events
+```
+## Prompt 15 – Crowdfunding Campaign for Green Tech
 
-Prompt 15 – Crowdfunding Campaign for Green Tech
+`Backstory:`
 
-Backstory:
+`A Pune-based startup has developed an affordable solar-powered air purifier for urban households. They need funding to start mass production but don’t want to rely solely on investors. They believe a crowdfunding campaign could raise both capital and awareness, but they’ve never run one before. The team wants a storytelling-driven approach that educates people on the environmental impact and showcases the product’s innovation.`
 
-A Pune-based startup has developed an affordable solar-powered air purifier for urban households. They need funding to start mass production but don’t want to rely solely on investors. They believe a crowdfunding campaign could raise both capital and awareness, but they’ve never run one before. The team wants a storytelling-driven approach that educates people on the environmental impact and showcases the product’s innovation.
+`Goal:`
 
-Goal:
+`Create a crowdfunding campaign strategy for a solar-powered air purifier.`
 
-Create a crowdfunding campaign strategy for a solar-powered air purifier.
+`Prompt:`
 
-Prompt:
+`"You are a crowdfunding campaign expert. Design a Kickstarter/Indiegogo campaign for a solar-powered air purifier, including a compelling pitch video script, campaign page layout, social media promotion calendar, and press outreach plan. Ensure the narrative blends innovation, affordability, and environmental impact."`
 
-"You are a crowdfunding campaign expert. Design a Kickstarter/Indiegogo campaign for a solar-powered air purifier, including a compelling pitch video script, campaign page layout, social media promotion calendar, and press outreach plan. Ensure the narrative blends innovation, affordability, and environmental impact."
-
-Inputs:
-
+`Inputs:`
+```
 1. Product specifications
 
 2. Funding target
@@ -361,23 +361,23 @@ Inputs:
 3. Campaign duration
 
 4. Perks for backers
+```
+## Prompt 16 – Eco-Friendly Fashion Collection Launch
 
-Prompt 16 – Eco-Friendly Fashion Collection Launch
+`Backstory:`
 
-Backstory:
+`A Delhi-based sustainable fashion label is launching its first upcycled denim collection targeting Gen Z and young millennials. The pieces are trendy, affordable, and made from discarded denim sourced from textile factories. While the brand already has a small Instagram following, they want a major splash for this launch to position themselves as a go-to for sustainable streetwear.`
 
-A Delhi-based sustainable fashion label is launching its first upcycled denim collection targeting Gen Z and young millennials. The pieces are trendy, affordable, and made from discarded denim sourced from textile factories. While the brand already has a small Instagram following, they want a major splash for this launch to position themselves as a go-to for sustainable streetwear.
+`Goal:`
 
-Goal:
+`Plan a high-impact marketing campaign for an upcycled denim fashion collection.`
 
-Plan a high-impact marketing campaign for an upcycled denim fashion collection.
+`Prompt:`
 
-Prompt:
+`"You are a fashion marketing strategist. Create a launch plan for an upcycled denim collection, including pop-up events in metro cities, influencer streetwear styling videos, TikTok/Instagram Reels challenges, and collaborations with thrift store collectives. Include timelines, budget splits, and key messaging angles."`
 
-"You are a fashion marketing strategist. Create a launch plan for an upcycled denim collection, including pop-up events in metro cities, influencer streetwear styling videos, TikTok/Instagram Reels challenges, and collaborations with thrift store collectives. Include timelines, budget splits, and key messaging angles."
-
-Inputs:
-
+`Inputs:`
+```
 1. Collection details
 
 2. Launch cities
@@ -385,23 +385,23 @@ Inputs:
 3. Influencer shortlist
 
 4. Marketing budget
+```
+## Prompt 17 – Green B2B Trade Show Strategy
 
-Prompt 17 – Green B2B Trade Show Strategy
+`Backstory:`
 
-Backstory:
+`An electric vehicle charging solutions company from Hyderabad has booked a stall at a major renewable energy trade show. They want to use the event not just for lead generation but also for building brand recall in the B2B space. Their past trade show appearances have been minimalistic and missed opportunities for engagement.`
 
-An electric vehicle charging solutions company from Hyderabad has booked a stall at a major renewable energy trade show. They want to use the event not just for lead generation but also for building brand recall in the B2B space. Their past trade show appearances have been minimalistic and missed opportunities for engagement.
+`Goal:`
 
-Goal:
+`Design an engaging trade show presence for a green B2B brand.`
 
-Design an engaging trade show presence for a green B2B brand.
+`Prompt:`
 
-Prompt:
+`"You are an event marketing strategist. Develop a trade show engagement plan for an EV charging solutions company. Include interactive demos, AR visualisations of installation sites, branded giveaways made from recycled materials, and post-event lead nurturing workflows."`
 
-"You are an event marketing strategist. Develop a trade show engagement plan for an EV charging solutions company. Include interactive demos, AR visualisations of installation sites, branded giveaways made from recycled materials, and post-event lead nurturing workflows."
-
-Inputs:
-
+`Inputs:
+```
 1. Trade show details
 
 2. Product USPs
@@ -409,23 +409,23 @@ Inputs:
 3. Target number of leads
 
 4. Event budget
+```
+## Prompt 18 – Sustainability Ambassador Program
 
-Prompt 18 – Sustainability Ambassador Program
+`Backstory:`
 
-Backstory:
+`A plant-based food company in Mumbai wants to turn its most loyal customers into brand ambassadors. The goal is to reward them for spreading the word, sharing content, and hosting tasting events. They believe a well-structured ambassador program could drive organic growth and strengthen community ties.`
 
-A plant-based food company in Mumbai wants to turn its most loyal customers into brand ambassadors. The goal is to reward them for spreading the word, sharing content, and hosting tasting events. They believe a well-structured ambassador program could drive organic growth and strengthen community ties.
+`Goal:`
 
-Goal:
+`Create a sustainability ambassador program for a plant-based brand.`
 
-Create a sustainability ambassador program for a plant-based brand.
+`Prompt:`
 
-Prompt:
+`"You are a brand community strategist. Create a detailed ambassador program for a plant-based food company, including selection criteria, rewards, exclusive content, event hosting opportunities, and a referral tracking system. Ensure the program aligns with the brand’s sustainability mission."`
 
-"You are a brand community strategist. Create a detailed ambassador program for a plant-based food company, including selection criteria, rewards, exclusive content, event hosting opportunities, and a referral tracking system. Ensure the program aligns with the brand’s sustainability mission."
-
-Inputs:
-
+`Inputs:`
+```
 1. Product range
 
 2. Number of ambassadors desired
@@ -433,23 +433,23 @@ Inputs:
 3. Monthly budget for rewards
 
 4. Communication platform preference
+```
+## Prompt 19 – Green Startup PR Strategy
 
-Prompt 19 – Green Startup PR Strategy
+`Backstory:`
 
-Backstory:
+`A climate-tech startup in Bengaluru has developed AI-driven software that helps factories reduce water waste. They have a strong product but zero PR exposure. They want to be featured in major Indian business and tech publications as an innovative green tech solution provider.`
 
-A climate-tech startup in Bengaluru has developed AI-driven software that helps factories reduce water waste. They have a strong product but zero PR exposure. They want to be featured in major Indian business and tech publications as an innovative green tech solution provider.
+`Goal:`
 
-Goal:
+`Develop a PR strategy to secure media coverage for a green tech startup.`
 
-Develop a PR strategy to secure media coverage for a green tech startup.
+`Prompt:`
 
-Prompt:
+`"You are a PR strategist. Create a 6-month PR plan for a climate-tech startup, including media list building, press kit preparation, founder interview angles, and industry award nominations. Ensure the messaging emphasises innovation, measurable impact, and India’s manufacturing sustainability goals."`
 
-"You are a PR strategist. Create a 6-month PR plan for a climate-tech startup, including media list building, press kit preparation, founder interview angles, and industry award nominations. Ensure the messaging emphasises innovation, measurable impact, and India’s manufacturing sustainability goals."
-
-Inputs:
-
+`Inputs:`
+```
 1. Founder bio
 
 2. Key product stats
@@ -457,23 +457,23 @@ Inputs:
 3. Industry sectors targeted
 
 4. PR budget
+```
+## Prompt 20 – Green Influencer Campaign with Micro-Creators
 
-Prompt 20 – Green Influencer Campaign with Micro-Creators
+`Backstory:`
 
-Backstory:
+`A refillable household products startup in Chennai wants to focus on micro-influencers with 5k–20k followers for its next marketing push. They believe this audience is more authentic and engaged compared to celebrity endorsements. The challenge is building a scalable campaign that coordinates multiple creators without losing brand consistency.`
 
-A refillable household products startup in Chennai wants to focus on micro-influencers with 5k–20k followers for its next marketing push. They believe this audience is more authentic and engaged compared to celebrity endorsements. The challenge is building a scalable campaign that coordinates multiple creators without losing brand consistency.
+`Goal:`
 
-Goal:
+`Create a micro-influencer campaign framework for a green brand.`
 
-Create a micro-influencer campaign framework for a green brand.
+`Prompt:`
 
-Prompt:
+`"You are an influencer marketing expert. Design a multi-city micro-influencer campaign for a refillable household products startup. Include influencer selection criteria, content guidelines, posting schedules, and a centralised tracking system for performance measurement."`
 
-"You are an influencer marketing expert. Design a multi-city micro-influencer campaign for a refillable household products startup. Include influencer selection criteria, content guidelines, posting schedules, and a centralised tracking system for performance measurement."
-
-Inputs:
-
+`Inputs:`
+```
 1. Target cities
 
 2. Number of influencers
@@ -481,23 +481,23 @@ Inputs:
 3. Campaign duration
 
 4. Content themes
+```
+## Prompt 21 – Eco-Friendly Packaging Awareness Campaign
 
-Prompt 21 – Eco-Friendly Packaging Awareness Campaign
+`Backstory:`
 
-Backstory:
+`A mid-sized organic tea company in Assam has recently shifted from plastic pouches to biodegradable paper-based packaging. While this move aligns with their sustainability values, most of their customers are unaware of the change or the environmental impact it brings. The marketing team wants to launch an awareness campaign that not only educates consumers but also uses the packaging switch as a brand differentiator. They want to reach both online buyers through e-commerce platforms and offline customers in local stores. The aim is to make sustainability a selling point rather than just a CSR note.`
 
-A mid-sized organic tea company in Assam has recently shifted from plastic pouches to biodegradable paper-based packaging. While this move aligns with their sustainability values, most of their customers are unaware of the change or the environmental impact it brings. The marketing team wants to launch an awareness campaign that not only educates consumers but also uses the packaging switch as a brand differentiator. They want to reach both online buyers through e-commerce platforms and offline customers in local stores. The aim is to make sustainability a selling point rather than just a CSR note.
+`Goal:`
 
-Goal:
+`Create an educational marketing campaign highlighting the shift to eco-friendly packaging.`
 
-Create an educational marketing campaign highlighting the shift to eco-friendly packaging.
+`Prompt:`
 
-Prompt:
+`"You are a product marketing strategist. Design a 3-month awareness campaign for an organic tea brand transitioning to biodegradable packaging. Include e-commerce product page redesign, educational Instagram posts, in-store posters, influencer unboxing videos, and a PR press release to industry media. Make sure the narrative focuses on environmental benefits and brand leadership in sustainability."`
 
-"You are a product marketing strategist. Design a 3-month awareness campaign for an organic tea brand transitioning to biodegradable packaging. Include e-commerce product page redesign, educational Instagram posts, in-store posters, influencer unboxing videos, and a PR press release to industry media. Make sure the narrative focuses on environmental benefits and brand leadership in sustainability."
-
-Inputs:
-
+`Inputs:`
+```
 1. Packaging material details
 
 2. Campaign budget
@@ -505,23 +505,23 @@ Inputs:
 3. Sales channels (offline/online mix)
 
 4. Target customer profile
+```
+## Prompt 22 – Corporate Partnership Sustainability Drive
 
-Prompt 22 – Corporate Partnership Sustainability Drive
+`Backstory:`
 
-Backstory:
+`A solar panel manufacturer in Noida is looking to expand its sales through partnerships with large real estate developers. They believe that offering co-branded sustainability campaigns can help position their product as the go-to solar solution for premium residential and commercial projects. The marketing team wants a partnership plan that benefits both the developer and the solar company while driving adoption of renewable energy.`
 
-A solar panel manufacturer in Noida is looking to expand its sales through partnerships with large real estate developers. They believe that offering co-branded sustainability campaigns can help position their product as the go-to solar solution for premium residential and commercial projects. The marketing team wants a partnership plan that benefits both the developer and the solar company while driving adoption of renewable energy.
+`Goal:`
 
-Goal:
+`Develop a co-branded marketing strategy for a solar company and real estate developer partnership.`
 
-Develop a co-branded marketing strategy for a solar company and real estate developer partnership.
+`Prompt:`
 
-Prompt:
+`"You are a B2B partnership marketing strategist. Create a co-branded sustainability drive plan between a solar panel company and a real estate developer in India. Include joint press releases, co-branded video tours of solar-powered properties, shared social media campaigns, and customer education events. Ensure the strategy highlights cost savings, environmental benefits, and long-term value for property buyers."`
 
-"You are a B2B partnership marketing strategist. Create a co-branded sustainability drive plan between a solar panel company and a real estate developer in India. Include joint press releases, co-branded video tours of solar-powered properties, shared social media campaigns, and customer education events. Ensure the strategy highlights cost savings, environmental benefits, and long-term value for property buyers."
-
-Inputs:
-
+`Inputs:`
+```
 1. Developer’s brand positioning
 
 2. Solar product USP
@@ -529,23 +529,23 @@ Inputs:
 3. Target project locations
 
 4. Budget for co-marketing
+```
+## Prompt 23 – Employee Green Engagement Program
 
-Prompt 23 – Employee Green Engagement Program
+`Backstory:`
 
-Backstory:
+`A mid-sized apparel manufacturing company in Tiruppur has invested in sustainable textile production, but employees are only passively aware of the company’s eco-efforts. The HR and marketing teams want to create an internal engagement program that inspires employees to adopt eco-friendly practices both at work and at home. They believe a structured initiative can turn staff into active brand advocates and improve company culture.`
 
-A mid-sized apparel manufacturing company in Tiruppur has invested in sustainable textile production, but employees are only passively aware of the company’s eco-efforts. The HR and marketing teams want to create an internal engagement program that inspires employees to adopt eco-friendly practices both at work and at home. They believe a structured initiative can turn staff into active brand advocates and improve company culture.
+`Goal:`
 
-Goal:
+`Create an employee engagement program centred on sustainability.`
 
-Create an employee engagement program centred on sustainability.
+`Prompt:`
 
-Prompt:
+`"You are an internal communications strategist. Design a year-long employee engagement program for a sustainable apparel company, including monthly eco-challenges, green awards, training workshops, and an internal newsletter showcasing sustainability tips. Ensure the program creates personal and professional alignment with the company’s environmental goals."`
 
-"You are an internal communications strategist. Design a year-long employee engagement program for a sustainable apparel company, including monthly eco-challenges, green awards, training workshops, and an internal newsletter showcasing sustainability tips. Ensure the program creates personal and professional alignment with the company’s environmental goals."
-
-Inputs:
-
+`Inputs:`
+```
 1. Employee headcount
 
 2. Available internal communication channels
@@ -553,23 +553,23 @@ Inputs:
 3. HR budget allocation
 
 4. Existing sustainability practices
+```
+## Prompt 24 – Green Loyalty Program for Retail Customers
 
-Prompt 24 – Green Loyalty Program for Retail Customers
+`Backstory:`
 
-Backstory:
+`A chain of eco-friendly home décor stores in Mumbai and Pune wants to encourage repeat purchases from its existing customer base. The marketing head believes a loyalty program can work best if it rewards sustainable behaviour, such as returning packaging, attending green workshops, or purchasing eco-certified products. The brand wants a unique loyalty system that goes beyond traditional points-based models.`
 
-A chain of eco-friendly home décor stores in Mumbai and Pune wants to encourage repeat purchases from its existing customer base. The marketing head believes a loyalty program can work best if it rewards sustainable behaviour, such as returning packaging, attending green workshops, or purchasing eco-certified products. The brand wants a unique loyalty system that goes beyond traditional points-based models.
+`Goal:`
 
-Goal:
+`Develop a customer loyalty program that rewards sustainable behaviour.`
 
-Develop a customer loyalty program that rewards sustainable behaviour.
+`Prompt:`
 
-Prompt:
+`"You are a retail loyalty program consultant. Create a sustainability-based loyalty program for an eco-friendly home décor store chain. Include reward tiers, eco-action badges, exclusive workshop invitations, and special discounts for bringing back packaging or old products for recycling. Ensure the program integrates both in-store and online purchases."`
 
-"You are a retail loyalty program consultant. Create a sustainability-based loyalty program for an eco-friendly home décor store chain. Include reward tiers, eco-action badges, exclusive workshop invitations, and special discounts for bringing back packaging or old products for recycling. Ensure the program integrates both in-store and online purchases."
-
-Inputs:
-
+`Inputs:`
+```
 1. Number of stores
 
 2. Average customer purchase frequency
@@ -577,23 +577,23 @@ Inputs:
 3. Tech platform for loyalty tracking
 
 4. Program budget
+```
+## Prompt 25 – City-Wide Green Brand Awareness Stunt
 
-Prompt 25 – City-Wide Green Brand Awareness Stunt
+`Backstory:`
 
-Backstory:
+`A plant-based milk brand in Bengaluru wants to create a viral, city-wide marketing stunt to boost brand recall. The founders believe that one high-visibility campaign can generate buzz among young professionals and students while positioning their product as a cool, eco-conscious choice. They want something experiential and highly shareable on social media—something that can get covered by local press and food bloggers alike.`
 
-A plant-based milk brand in Bengaluru wants to create a viral, city-wide marketing stunt to boost brand recall. The founders believe that one high-visibility campaign can generate buzz among young professionals and students while positioning their product as a cool, eco-conscious choice. They want something experiential and highly shareable on social media—something that can get covered by local press and food bloggers alike.
+`Goal:`
 
-Goal:
+`Design a creative city-wide awareness stunt for a plant-based milk brand.`
 
-Design a creative city-wide awareness stunt for a plant-based milk brand.
+`Prompt:`
 
-Prompt:
+`"You are a guerrilla marketing strategist. Create a high-impact brand stunt for a plant-based milk company in Bengaluru. Ideas could include eco-themed pop-up cafés in metro stations, 3D chalk art installations about dairy alternatives, free tasting booths at IT parks, and influencer-led flash mob events. Include a detailed execution plan, budget split, and post-event engagement strategy."`
 
-"You are a guerrilla marketing strategist. Create a high-impact brand stunt for a plant-based milk company in Bengaluru. Ideas could include eco-themed pop-up cafés in metro stations, 3D chalk art installations about dairy alternatives, free tasting booths at IT parks, and influencer-led flash mob events. Include a detailed execution plan, budget split, and post-event engagement strategy."
-
-Inputs:
-
+`Inputs:`
+```
 1. Brand USP
 
 2. Campaign duration
@@ -601,9 +601,9 @@ Inputs:
 3. City activation budget
 
 4. Preferred stunt type (art, event, digital hybrid)
+```
 
-
-Waste management process design
+# Waste management process design
 
 Prompt 1 – Residential Society Waste Segregation System
 
