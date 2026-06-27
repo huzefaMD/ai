@@ -1,18 +1,18 @@
-Study plans & timetables
+# Study plans & timetables
 
-Prompt 1 — UPSC CSE Full-Year Study Plan
+## Prompt 1 — UPSC CSE Full-Year Study Plan
 
-Backstory:
+`Backstory:`
 
-A 23-year-old graduate from Delhi has decided to appear for the UPSC Civil Services Examination for the first time. She is working part-time and can dedicate around 6–7 hours a day to preparation. She has completed basic NCERTs but struggles to organize her time across Prelims, Mains, and optional subject preparation. She wants a study plan that keeps her on track for one full year, balancing revision, mock tests, and answer writing practice. The plan should also include short daily current affairs review.
+`A 23-year-old graduate from Delhi has decided to appear for the UPSC Civil Services Examination for the first time. She is working part-time and can dedicate around 6–7 hours a day to preparation. She has completed basic NCERTs but struggles to organize her time across Prelims, Mains, and optional subject preparation. She wants a study plan that keeps her on track for one full year, balancing revision, mock tests, and answer writing practice. The plan should also include short daily current affairs review.`
 
-Goal:
+`Goal:`
 
-Create a month-wise, weekly, and daily timetable for UPSC CSE preparation for one year, ensuring balanced coverage of GS, optional, and current affairs.
+`Create a month-wise, weekly, and daily timetable for UPSC CSE preparation for one year, ensuring balanced coverage of GS, optional, and current affairs.`
 
-Prompt:
+`Prompt:`
 
-"Design a one-year UPSC CSE study plan for a working aspirant with 6–7 hours per day. Include month-wise and week-wise milestones, daily schedules for GS, optional subject, current affairs, answer writing, and mock tests. Ensure the plan has regular revision cycles and keeps enough buffer time for unexpected delays."
+`"Design a one-year UPSC CSE study plan for a working aspirant with 6–7 hours per day. Include month-wise and week-wise milestones, daily schedules for GS, optional subject, current affairs, answer writing, and mock tests. Ensure the plan has regular revision cycles and keeps enough buffer time for unexpected delays."`
 
 
 Prompt 2 — SSC CGL Three-Month Crash Course Timetable
