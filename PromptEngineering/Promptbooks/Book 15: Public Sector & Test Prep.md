@@ -2797,118 +2797,118 @@ Provide a table mapping NEP provisions to state-level action points."
 ```
 ## Prompt 6 – Annual Performance Report for Municipal Corporation
 
-Backstory:
+`Backstory:`
 
-A municipal commissioner in Madhya Pradesh needs to present an annual performance report highlighting infrastructure projects, sanitation drives, and citizen services improvement. The report will be submitted to the state government.
+`A municipal commissioner in Madhya Pradesh needs to present an annual performance report highlighting infrastructure projects, sanitation drives, and citizen services improvement. The report will be submitted to the state government.`
 
-Goal:
+`Goal:`
 
-Create a structured and visually engaging municipal performance report.
+`Create a structured and visually engaging municipal performance report.`
 
-Prompt:
+`Prompt:`
 
-"Draft an annual performance report for the [Municipal Corporation Name] covering infrastructure works, sanitation programs, revenue generation, citizen feedback, and future plans. Include infographics and project timelines."
+`"Draft an annual performance report for the [Municipal Corporation Name] covering infrastructure works, sanitation programs, revenue generation, citizen feedback, and future plans. Include infographics and project timelines."`
 
-Inputs:
-
+`Inputs:`
+```
 1. Data from department records
 
 2. Citizen satisfaction survey results
-
+```
 ## Prompt 7 – Essay on Cooperative Federalism in India
 
-Backstory:
+`Backstory:`
 
-An LLB student is participating in a legal essay competition where the topic is cooperative federalism. The essay should include constitutional provisions, case laws, and contemporary challenges like GST implementation.
+`An LLB student is participating in a legal essay competition where the topic is cooperative federalism. The essay should include constitutional provisions, case laws, and contemporary challenges like GST implementation.`
 
-Goal:
+`Goal:`
 
-Produce a scholarly essay on cooperative federalism in the Indian context.
+`Produce a scholarly essay on cooperative federalism in the Indian context.`
 
-Prompt:
+`Prompt:`
 
-"Write a 2000-word legal essay on 'Cooperative Federalism in India: Constitutional Vision and Practical Realities'. Include Articles, case laws, Centre-State relations, and recent policy disputes."
+`"Write a 2000-word legal essay on 'Cooperative Federalism in India: Constitutional Vision and Practical Realities'. Include Articles, case laws, Centre-State relations, and recent policy disputes."`
 
-Inputs:
-
+`Inputs:`
+```
 1. Constitution provisions (Articles 245–263)
 
 2. Recent case references
-
+```
 ## Prompt 8 – Development Report on Tribal Education in India
 
-Backstory:
+`Backstory:`
 
-A social work NGO is preparing a development report for a UN grant application, focusing on improving educational access for tribal children in Jharkhand and Chhattisgarh.
+`A social work NGO is preparing a development report for a UN grant application, focusing on improving educational access for tribal children in Jharkhand and Chhattisgarh.`
 
-Goal:
+`Goal:`
 
-Create a professional development impact report.
+`Create a professional development impact report.`
 
-Prompt:
+`Prompt:`
 
-"Draft a development report on 'Educational Access in Tribal Areas of India'. Include baseline data, interventions made, case studies, challenges, and recommendations. Write in a format suitable for donor review."
+`"Draft a development report on 'Educational Access in Tribal Areas of India'. Include baseline data, interventions made, case studies, challenges, and recommendations. Write in a format suitable for donor review."`
 
-Inputs:
-
+`Inputs:`
+```
 1. Field data and photos
 
 2. Literacy rate statistics
-
+```
 ##  Prompt 9 – Essay on Artificial Intelligence in Public Administration
 
-Backstory:
+`Backstory:`
 
-A UPSC aspirant has to prepare for an ethics and governance paper. AI in public administration is a trending topic, and they want to present both the potential benefits and ethical risks.
+`A UPSC aspirant has to prepare for an ethics and governance paper. AI in public administration is a trending topic, and they want to present both the potential benefits and ethical risks.`
 
-Goal:
+`Goal:`
 
-Write a balanced, analytical essay for a governance paper.
+`Write a balanced, analytical essay for a governance paper.`
 
-Prompt:
+`Prompt:`
 
-"Write a 1500-word essay on 'The Role of Artificial Intelligence in Public Administration'. Include examples from Indian initiatives, ethical concerns, and policy recommendations."
+`"Write a 1500-word essay on 'The Role of Artificial Intelligence in Public Administration'. Include examples from Indian initiatives, ethical concerns, and policy recommendations."`
 
-Inputs:
-
+`Inputs:`
+```
 1. Government AI policies like National AI Strategy
 
 2. Global case studies
-
+```
 ## Prompt 10 – Analytical Report on Climate Resilience in Urban India
 
-Backstory:
+`Backstory:`
 
-A climate policy researcher is preparing a report for a national urban planning conference on how Indian cities can adapt to climate change.
+`A climate policy researcher is preparing a report for a national urban planning conference on how Indian cities can adapt to climate change.`
 
-Goal:
+`Goal:`
 
-Produce a comprehensive analytical report with actionable insights.
+`Produce a comprehensive analytical report with actionable insights.`
 
-Prompt:
+`Prompt:`
 
-"Prepare a 12-page analytical report titled 'Climate Resilience in Indian Cities'. Include vulnerability assessments, adaptation strategies, case studies, and policy recommendations."
+`"Prepare a 12-page analytical report titled 'Climate Resilience in Indian Cities'. Include vulnerability assessments, adaptation strategies, case studies, and policy recommendations."`
 
-Inputs:
-
+`Inputs:`
+```
 1. Examples from Chennai floods, Mumbai rainfall
 
 2. Urban development policies
-
+```
 ## Prompt 11 – Disaster Management Report for NDRF
 
-Backstory:
+`Backstory:`
 
-A state in India recently experienced devastating floods, displacing thousands and damaging infrastructure. The National Disaster Response Force (NDRF) has requested a comprehensive report for Parliament to evaluate the relief operations, assess gaps, and plan for future mitigation. As a civil services aspirant preparing for UPSC mains, you need to demonstrate your ability to present factual data, humanitarian perspectives, and actionable recommendations in a professional format.
+`A state in India recently experienced devastating floods, displacing thousands and damaging infrastructure. The National Disaster Response Force (NDRF) has requested a comprehensive report for Parliament to evaluate the relief operations, assess gaps, and plan for future mitigation. As a civil services aspirant preparing for UPSC mains, you need to demonstrate your ability to present factual data, humanitarian perspectives, and actionable recommendations in a professional format.`
 
-Goal:
+`Goal:`
 
-Write a formal disaster management report for NDRF, covering cause analysis, response evaluation, and policy suggestions.
+`Write a formal disaster management report for NDRF, covering cause analysis, response evaluation, and policy suggestions.`
 
-Prompt:
+`Prompt:`
 
-"You are a policy analyst drafting an official disaster management report for the NDRF on the recent floods in Assam. Include: 
-
+`"You are a policy analyst drafting an official disaster management report for the NDRF on the recent floods in Assam. Include: `
+```
 1. Background and scale of the disaster (statistics and impact). 
 
 2. Relief measures undertaken and their effectiveness. 
@@ -2916,11 +2916,11 @@ Prompt:
 3. Challenges faced during rescue and rehabilitation. 
 
 4. Policy recommendations for future disaster preparedness in flood-prone areas.
+```
+`Ensure factual accuracy, formal tone, and clear section headings."`
 
-Ensure factual accuracy, formal tone, and clear section headings."
-
-Inputs Required from User: 
-
+`Inputs Required from User:` 
+```
 1. Location and disaster type 
 
 2. Key statistics and official data sources 
@@ -2928,21 +2928,21 @@ Inputs Required from User:
 3. Relief measures undertaken 
 
 4. Identified gaps/challenges
-
+```
 ## Prompt 12 – Rural Electrification Progress Essay
 
-Backstory:
+`Backstory:`
 
-The Government of India has been running schemes like Saubhagya Yojana to achieve universal household electrification. You have been assigned a writing task in your State PSC mains exam to critically evaluate the progress, challenges, and socio-economic impact of rural electrification. The essay must reflect balanced perspectives, integrating government data, grassroots challenges, and success stories from rural India.
+`The Government of India has been running schemes like Saubhagya Yojana to achieve universal household electrification. You have been assigned a writing task in your State PSC mains exam to critically evaluate the progress, challenges, and socio-economic impact of rural electrification. The essay must reflect balanced perspectives, integrating government data, grassroots challenges, and success stories from rural India.`
 
-Goal:
+`Goal:`
 
-Draft a comprehensive essay analyzing rural electrification’s achievements, issues, and way forward.
+`Draft a comprehensive essay analyzing rural electrification’s achievements, issues, and way forward.`
 
-Prompt:
+`Prompt:`
 
-"Write a 1200-word essay on ‘Rural Electrification in India: Achievements, Challenges, and the Road Ahead’. Include: 
-
+`"Write a 1200-word essay on ‘Rural Electrification in India: Achievements, Challenges, and the Road Ahead’. Include:` 
+```
 1. Historical background and policy initiatives. 
 
 2. Progress achieved with relevant statistics. 
@@ -2952,29 +2952,29 @@ Prompt:
 4. Persistent challenges and regional disparities. 
 
 5. Suggestions to ensure sustainable and inclusive electrification."
-
-Inputs Required from User: 
-
+```
+`Inputs Required from User: `
+```
 1. Year-wise electrification data 
 
 2. Case studies or news reports 
 
 3. Personal stance (neutral or advocacy-based)
-
+```
 ## Prompt 13 – Education Policy Review Report
 
-Backstory:
+`Backstory:`
 
-The New Education Policy (NEP) 2020 has introduced sweeping changes in India’s education system. The Ministry of Education seeks a report analyzing its initial implementation across states, especially in rural and urban disparities. As part of your preparation for the RBI Grade B exam’s descriptive section, you must present a clear, data-driven review with actionable insights.
+`The New Education Policy (NEP) 2020 has introduced sweeping changes in India’s education system. The Ministry of Education seeks a report analyzing its initial implementation across states, especially in rural and urban disparities. As part of your preparation for the RBI Grade B exam’s descriptive section, you must present a clear, data-driven review with actionable insights.`
 
-Goal:
+`Goal:`
 
-Write a report reviewing NEP 2020’s early impact, highlighting gaps and recommendations.
+`Write a report reviewing NEP 2020’s early impact, highlighting gaps and recommendations.`
 
-Prompt:
+`Prompt:`
 
-"Prepare a detailed report evaluating NEP 2020 implementation across Indian states. Include:
-
+`"Prepare a detailed report evaluating NEP 2020 implementation across Indian states. Include:`
+```
 1. Key policy features relevant to school and higher education.
 
 2. Early successes and pilot program feedback.
@@ -2982,29 +2982,29 @@ Prompt:
 3. Implementation challenges in rural vs. urban areas.
 
 4. Recommendations for scaling and improvement."
-
-Inputs Required from User:
-
+```
+`Inputs Required from User:`
+```
 1. Target audience (ministry, academic board, exam evaluation)
 
 2. Data points from government reports
 
 3. State-specific examples
-
+```
 ## Prompt 14 – Public Health Infrastructure Report
 
-Backstory:
+`Backstory:`
 
-India’s public health infrastructure faced enormous pressure during the COVID-19 pandemic. A state health department is compiling a formal report to request central assistance for upgrading district hospitals. You have to write this report as part of your CAPF exam practice, integrating statistical data, community health indicators, and budgetary requirements.
+`India’s public health infrastructure faced enormous pressure during the COVID-19 pandemic. A state health department is compiling a formal report to request central assistance for upgrading district hospitals. You have to write this report as part of your CAPF exam practice, integrating statistical data, community health indicators, and budgetary requirements.`
 
-Goal:
+`Goal:`
 
-Create a detailed public health infrastructure assessment report with recommendations.
+`Create a detailed public health infrastructure assessment report with recommendations.`
 
-Prompt:
+`Prompt:`
 
-"Draft a professional report assessing the current state of public health infrastructure in Bihar post-COVID-19. Include:
-
+`"Draft a professional report assessing the current state of public health infrastructure in Bihar post-COVID-19. Include:`
+```
 1. Overview of current hospital capacity and facilities.
 
 2. Analysis of gaps exposed during the pandemic.
@@ -3012,9 +3012,9 @@ Prompt:
 3. Priority areas for immediate investment.
 
 4. Budget estimates and expected impact on health outcomes."
-
-Inputs Required from User:
-
+```
+`Inputs Required from User:`
+```
 1. Location and time frame
 
 2. Current infrastructure data
@@ -3022,21 +3022,21 @@ Inputs Required from User:
 3. Identified shortcomings
 
 4. Proposed budget
-
+```
 ## Prompt 15 – Skill Development Mission Evaluation
 
-Backstory:
+`Backstory:`
 
-The Ministry of Skill Development and Entrepreneurship (MSDE) launched the Skill India Mission to upskill India’s youth. A parliamentary committee has asked for a progress evaluation report to determine whether the scheme is meeting employment generation goals. As a competitive exam candidate, you must draft an analytical report with a clear problem-solution approach.
+`The Ministry of Skill Development and Entrepreneurship (MSDE) launched the Skill India Mission to upskill India’s youth. A parliamentary committee has asked for a progress evaluation report to determine whether the scheme is meeting employment generation goals. As a competitive exam candidate, you must draft an analytical report with a clear problem-solution approach.`
 
-Goal:
+`Goal:`
 
-Write an evaluation report for Skill India Mission with statistics and recommendations.
+`Write an evaluation report for Skill India Mission with statistics and recommendations.`
 
-Prompt:
+`Prompt:`
 
-"Prepare an evaluation report for the Skill India Mission (2015–2025). Include:
-
+`"Prepare an evaluation report for the Skill India Mission (2015–2025). Include:`
+```
 1. Objectives and target groups of the mission.
 
 2. Performance indicators and statistical data.
@@ -3046,15 +3046,15 @@ Prompt:
 4. Challenges in training quality and placement.
 
 5. Recommendations for enhancing employability outcomes."
-
-Inputs Required from User:
-
+```
+`Inputs Required from User:`
+```
 1. Target audience (parliament, academic project, exam answer)
 
 2. Current scheme performance data
 
 3. Case examples
-
+```
 ## Prompt 16 – Urban Sanitation Mission Impact Report
 
 Backstory:
