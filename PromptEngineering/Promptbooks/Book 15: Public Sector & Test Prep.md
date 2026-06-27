@@ -352,22 +352,22 @@
 `"Design a 12-month NEET preparation timetable for a repeater strong in Biology and Chemistry but weak in Physics. Include daily Physics drills, weekly full-syllabus mocks, and targeted concept-revision cycles."`
 
 
-Policy analysis summaries
+# Policy analysis summaries
 
-Prompt 1 – Summarising a Government Policy on Electric Vehicle Subsidies
+## Prompt 1 – Summarising a Government Policy on Electric Vehicle Subsidies
 
-Backstory:
+`Backstory:`
 
-A Bengaluru-based startup is entering the electric scooter market in Karnataka. The state has announced new subsidies under the FAME II scheme and additional state-level incentives. The full notification is over 40 pages and written in dense bureaucratic language. The founders need a clear, investor-friendly summary to understand subsidy eligibility, application process, and limitations, so they can align production targets and pricing strategy accordingly. They also want a quick comparative note on how Karnataka’s policy differs from Maharashtra’s EV policy.
+`A Bengaluru-based startup is entering the electric scooter market in Karnataka. The state has announced new subsidies under the FAME II scheme and additional state-level incentives. The full notification is over 40 pages and written in dense bureaucratic language. The founders need a clear, investor-friendly summary to understand subsidy eligibility, application process, and limitations, so they can align production targets and pricing strategy accordingly. They also want a quick comparative note on how Karnataka’s policy differs from Maharashtra’s EV policy.`
 
-Goal:
+`Goal:`
 
-Create a 2-page, plain-English summary of the Karnataka EV subsidy policy, highlighting eligibility criteria, benefits, application process, compliance requirements, and key differences from Maharashtra’s policy.
+`Create a 2-page, plain-English summary of the Karnataka EV subsidy policy, highlighting eligibility criteria, benefits, application process, compliance requirements, and key differences from Maharashtra’s policy.`
 
-Prompt:
+`Prompt:`
 
-"You are a public policy analyst. Summarise the Karnataka EV subsidy notification into an investor-friendly brief. Include:
-
+`"You are a public policy analyst. Summarise the Karnataka EV subsidy notification into an investor-friendly brief. Include:`
+```
 1. Eligibility criteria for manufacturers and buyers
 
 2. Subsidy amounts and calculation method
@@ -377,31 +377,31 @@ Prompt:
 4. Compliance and reporting obligations
 
 5. Key differences from Maharashtra’s EV policy
+```
+`Present in bullet points for easy reading."`
 
-Present in bullet points for easy reading."
-
-Inputs:
-
+`Inputs:`
+```
 1. Full policy document (PDF or link)
 
 2. Target audience (investors, internal strategy team)
 
 3. Comparator policy (if applicable)
+```
+## Prompt 2 – Analysing a State Agricultural Loan Waiver Policy
 
-Prompt 2 – Analysing a State Agricultural Loan Waiver Policy
+`Backstory:`
 
-Backstory:
+`A farmers’ cooperative in Vidarbha, Maharashtra, is trying to guide members on the recently announced agricultural loan waiver scheme. The scheme covers certain types of loans up to a specified amount, but there are conditions on eligibility, proof, and time of loan issuance. The cooperative’s president has the 25-page government resolution but needs a clear explanation for farmers with limited literacy, using simple Marathi terms. They also want a visual chart to show who qualifies and who doesn’t.`
 
-A farmers’ cooperative in Vidarbha, Maharashtra, is trying to guide members on the recently announced agricultural loan waiver scheme. The scheme covers certain types of loans up to a specified amount, but there are conditions on eligibility, proof, and time of loan issuance. The cooperative’s president has the 25-page government resolution but needs a clear explanation for farmers with limited literacy, using simple Marathi terms. They also want a visual chart to show who qualifies and who doesn’t.
+`Goal:`
 
-Goal:
+`Break down the loan waiver policy into a simple, farmer-friendly guide with examples, eligibility flowchart, and application checklist.`
 
-Break down the loan waiver policy into a simple, farmer-friendly guide with examples, eligibility flowchart, and application checklist.
+`Prompt:`
 
-Prompt:
-
-"You are a rural policy communication specialist. Create a farmer-friendly guide for the Maharashtra loan waiver scheme. Include:
-
+`"You are a rural policy communication specialist. Create a farmer-friendly guide for the Maharashtra loan waiver scheme. Include:`
+```
 1. Eligibility conditions in simple terms
 
 2. Types of loans covered and their limits
@@ -411,31 +411,31 @@ Prompt:
 4. Example cases of eligible and non-eligible farmers
 
 5. A flowchart showing how to check if you qualify
+```
+`Provide the text in simple Marathi and English."`
 
-Provide the text in simple Marathi and English."
-
-Inputs:
-
+`Inputs:`
+```
 1. Full government resolution document
 
 2. Target farmer profile (region, literacy level)
 
 3. Translation requirement (e.g., Marathi)
+```
+## Prompt 3 – Decoding the New GST Rate Changes for Small Businesses
 
-Prompt 3 – Decoding the New GST Rate Changes for Small Businesses
+`Backstory:`
 
-Backstory:
+`A group of small business owners in Jaipur, including boutique shopkeepers and café owners, are struggling to understand the recent GST Council changes. The changes involve rate revisions for certain goods and services, exemptions for specific turnover levels, and updated filing timelines. The official notification is packed with legal jargon, making it difficult for them to determine if they need to alter pricing or accounting processes. They want a business-focused summary that also includes a “Do This Now” checklist for compliance.`
 
-A group of small business owners in Jaipur, including boutique shopkeepers and café owners, are struggling to understand the recent GST Council changes. The changes involve rate revisions for certain goods and services, exemptions for specific turnover levels, and updated filing timelines. The official notification is packed with legal jargon, making it difficult for them to determine if they need to alter pricing or accounting processes. They want a business-focused summary that also includes a “Do This Now” checklist for compliance.
+`Goal:`
 
-Goal:
+`Summarise the GST notification for small business owners with clear action steps for immediate compliance.`
 
-Summarise the GST notification for small business owners with clear action steps for immediate compliance.
+`Prompt:`
 
-Prompt:
-
-"You are a taxation policy expert. Create a small-business-friendly summary of the recent GST rate change notification. Include:
-
+`"You are a taxation policy expert. Create a small-business-friendly summary of the recent GST rate change notification. Include:`
+```
 1. List of affected goods/services and their old vs new rates
 
 2. Who is exempt and under what turnover limits
@@ -447,29 +447,29 @@ Prompt:
 5. Recommendations for pricing strategy updates
 
 Use simple English and include a ‘Do This Now’ checklist."
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Latest GST notification document
 
 2. Target audience business type and turnover
 
 3. State-specific applicability
+```
+## Prompt 4 – Analysing a State Housing Policy for Affordable Housing Projects
 
-Prompt 4 – Analysing a State Housing Policy for Affordable Housing Projects
+## Backstory:
 
-Backstory:
+`A real estate developer in Pune is exploring participation in a state government affordable housing project. The new housing policy outlines land allocation rules, subsidy mechanisms, and partnership models between the government and private builders. However, the 60-page document is highly technical and contains several annexures with critical details. The developer’s legal team wants a concise yet thorough summary to assess financial feasibility and compliance risks before bidding.`
 
-A real estate developer in Pune is exploring participation in a state government affordable housing project. The new housing policy outlines land allocation rules, subsidy mechanisms, and partnership models between the government and private builders. However, the 60-page document is highly technical and contains several annexures with critical details. The developer’s legal team wants a concise yet thorough summary to assess financial feasibility and compliance risks before bidding.
+`Goal:`
 
-Goal:
+`Provide a developer-focused analysis of the affordable housing policy, highlighting opportunities and risks.`
 
-Provide a developer-focused analysis of the affordable housing policy, highlighting opportunities and risks.
+`Prompt:`
 
-Prompt:
-
-"You are a real estate policy analyst. Summarise the Maharashtra affordable housing policy for a private builder. Include:
-
+`"You are a real estate policy analyst. Summarise the Maharashtra affordable housing policy for a private builder. Include:`
+```
 1. Land allocation eligibility and process
 
 2. Subsidy and incentive structure
@@ -479,31 +479,31 @@ Prompt:
 4. Compliance obligations and penalties
 
 5. Key financial viability risks
+```
+`Use a tabular format for benefits vs risks, and highlight critical deadlines."`
 
-Use a tabular format for benefits vs risks, and highlight critical deadlines."
-
-Inputs:
-
+`Inputs:`
+```
 1. Full housing policy PDF or link
 
 2. State/city where the project is planned
 
 3. Intended project size and target market
+```
+## Prompt 5 – Interpreting the National Education Policy for EdTech Startups
 
-Prompt 5 – Interpreting the National Education Policy for EdTech Startups
+`Backstory:`
 
-Backstory:
+`An EdTech startup in Hyderabad is building an AI-based platform for school curriculum enhancement. They are keen to align their features with the goals of the National Education Policy (NEP) 2020 to tap into government partnerships and funding opportunities. However, the NEP is a broad framework spanning school and higher education, teacher training, vocational education, and technology integration. They need a section-wise digest focusing on implications for EdTech and potential collaboration points with public institutions.`
 
-An EdTech startup in Hyderabad is building an AI-based platform for school curriculum enhancement. They are keen to align their features with the goals of the National Education Policy (NEP) 2020 to tap into government partnerships and funding opportunities. However, the NEP is a broad framework spanning school and higher education, teacher training, vocational education, and technology integration. They need a section-wise digest focusing on implications for EdTech and potential collaboration points with public institutions.
+`Goal:`
 
-Goal:
+`Condense the NEP 2020 into an EdTech-relevant strategic brief.`
 
-Condense the NEP 2020 into an EdTech-relevant strategic brief.
+`Prompt:`
 
-Prompt:
-
-"You are an education policy analyst. Create a NEP 2020 strategic summary for an EdTech startup. Include:
-
+`"You are an education policy analyst. Create a NEP 2020 strategic summary for an EdTech startup. Include:`
+```
 1. Key reforms impacting digital education
 
 2. Opportunities for public-private partnerships
@@ -513,31 +513,31 @@ Prompt:
 4. Skill development integration possibilities
 
 5. Regulatory considerations for operating in schools
+```
+`Present in bullet points with an action plan for product alignment."`
 
-Present in bullet points with an action plan for product alignment."
-
-Inputs:
-
+`Inputs:`
+```
 1. NEP 2020 official document
 
 2. EdTech product description and target audience
 
 3. State-level education department variations
+```
+## Prompt 6 – Summarising the Draft Data Protection Bill for Startup Founders
 
-Prompt 6 – Summarising the Draft Data Protection Bill for Startup Founders
+`Backstory:`
 
-Backstory:
+`A group of SaaS startup founders in Bengaluru have received queries from investors about their compliance readiness for the proposed Data Protection Bill in India. The bill covers rules on user data storage, cross-border data transfer, and penalties for breaches. Founders are worried about how these regulations will impact product design, server location, and marketing activities. They want a concise, business-friendly interpretation that helps them prepare before the law is passed.`
 
-A group of SaaS startup founders in Bengaluru have received queries from investors about their compliance readiness for the proposed Data Protection Bill in India. The bill covers rules on user data storage, cross-border data transfer, and penalties for breaches. Founders are worried about how these regulations will impact product design, server location, and marketing activities. They want a concise, business-friendly interpretation that helps them prepare before the law is passed.
+`Goal:`
 
-Goal:
+`Create a startup-oriented summary of the Data Protection Bill highlighting compliance requirements and operational impact.`
 
-Create a startup-oriented summary of the Data Protection Bill highlighting compliance requirements and operational impact.
+`Prompt:`
 
-Prompt:
-
-"You are a legal policy consultant for startups. Summarise the draft Data Protection Bill in India for SaaS founders. Include:
-
+`"You are a legal policy consultant for startups. Summarise the draft Data Protection Bill in India for SaaS founders. Include:`
+```
 1. Key provisions affecting data collection and storage
 
 2. Rules on cross-border data transfers
@@ -547,31 +547,31 @@ Prompt:
 4. Fines and penalties for non-compliance
 
 5. Immediate product and infrastructure adjustments to consider
+```
+`Provide a 1-page actionable compliance roadmap."`
 
-Provide a 1-page actionable compliance roadmap."
-
-Inputs:
-
+`Inputs:`
+```
 1. Latest draft of the Data Protection Bill
 
 2. Startup’s target audience and data flow model
 
 3. Current hosting/server setup
+```
+## Prompt 7 – Interpreting an RBI Circular on Digital Lending Norms
 
-Prompt 7 – Interpreting an RBI Circular on Digital Lending Norms
+`Backstory:`
 
-Backstory:
+`A mid-sized NBFC offering digital loans in Tier-2 cities needs to update its operations after a recent RBI circular on digital lending norms. The circular mandates changes to how lenders communicate terms, disclose charges, and handle repayment collections. The NBFC’s compliance team is struggling to interpret the operational implications for its existing mobile app and agent network. They want a clear, lender-focused breakdown that they can share with product, tech, and collections teams.`
 
-A mid-sized NBFC offering digital loans in Tier-2 cities needs to update its operations after a recent RBI circular on digital lending norms. The circular mandates changes to how lenders communicate terms, disclose charges, and handle repayment collections. The NBFC’s compliance team is struggling to interpret the operational implications for its existing mobile app and agent network. They want a clear, lender-focused breakdown that they can share with product, tech, and collections teams.
+`Goal:`
 
-Goal:
+`Convert the RBI circular into an operational implementation guide for digital lenders.`
 
-Convert the RBI circular into an operational implementation guide for digital lenders.
+`Prompt:`
 
-Prompt:
-
-"You are a financial policy translator for NBFCs. Break down the RBI’s latest circular on digital lending norms into:
-
+`"You are a financial policy translator for NBFCs. Break down the RBI’s latest circular on digital lending norms into:`
+```
 1. Summary of each key rule and its rationale
 
 2. Changes required in mobile app workflows
@@ -581,31 +581,31 @@ Prompt:
 4. Adjustments for on-field agent scripts
 
 5. Compliance deadlines and penalties
+```
+`Create a checklist for each department to follow."`
 
-Create a checklist for each department to follow."
-
-Inputs:
-
+`Inputs:`
+```
 1. RBI circular document
 
 2. Current loan disbursement and repayment process flow
 
 3. Details of digital channels used
+```
+## Prompt 8 – Analysis of India’s National Education Policy (NEP) 2020 for State-Level Implementation
 
-Prompt 8 – Analysis of India’s National Education Policy (NEP) 2020 for State-Level Implementation
+`Backstory:`
 
-Backstory:
+`The Education Department in a southern Indian state is planning reforms to align its school curriculum with the NEP 2020 guidelines. However, many district officers and school administrators are unclear about the phased rollout and the exact changes needed in pedagogy, assessments, and teacher training. The department needs a clear policy summary tailored for state-level execution, highlighting actionable steps for government and private schools alike.`
 
-The Education Department in a southern Indian state is planning reforms to align its school curriculum with the NEP 2020 guidelines. However, many district officers and school administrators are unclear about the phased rollout and the exact changes needed in pedagogy, assessments, and teacher training. The department needs a clear policy summary tailored for state-level execution, highlighting actionable steps for government and private schools alike.
+`Goal:`
 
-Goal:
+`Summarise NEP 2020 with a focus on state-level policy implementation and timelines.`
 
-Summarise NEP 2020 with a focus on state-level policy implementation and timelines.
+`Prompt:`
 
-Prompt:
-
-"You are an education policy expert. Summarise the NEP 2020 in a way that guides state education boards to implement it effectively. Include:
-
+`"You are an education policy expert. Summarise the NEP 2020 in a way that guides state education boards to implement it effectively. Include:`
+```
 1. Core changes in curriculum, pedagogy, and assessment
 
 2. Teacher training and qualification requirements
@@ -615,29 +615,29 @@ Prompt:
 4. Phased rollout plan with key deadlines
 
 Provide a table mapping NEP provisions to state-level action points."
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. NEP 2020 document
 
 2. State education board’s current curriculum plan
 
 3. Available budget and teacher capacity
+```
+## Prompt 9 – Simplified Summary of India’s New Labour Codes for Factory Owners
 
-Prompt 9 – Simplified Summary of India’s New Labour Codes for Factory Owners
+`Backstory:`
 
-Backstory:
+`A manufacturing association representing 150 small and medium-sized factories in Gujarat has been receiving mixed interpretations of the new Labour Codes. Factory owners want clarity on wages, working hours, safety compliance, and employee benefits, especially for contract workers. Without clear guidance, they risk penalties or labour disputes.`
 
-A manufacturing association representing 150 small and medium-sized factories in Gujarat has been receiving mixed interpretations of the new Labour Codes. Factory owners want clarity on wages, working hours, safety compliance, and employee benefits, especially for contract workers. Without clear guidance, they risk penalties or labour disputes.
+`Goal:`
 
-Goal:
+`Create a plain-language interpretation of the new Labour Codes for SME factory owners.`
 
-Create a plain-language interpretation of the new Labour Codes for SME factory owners.
+`Prompt:`
 
-Prompt:
-
-"You are an industrial relations consultant. Create a simple, actionable summary of India’s new Labour Codes for SME factory owners. Cover:
-
+`"You are an industrial relations consultant. Create a simple, actionable summary of India’s new Labour Codes for SME factory owners. Cover:`
+```
 1. Changes in wage calculation and payment schedules
 
 2. Revised safety and working hour norms
@@ -645,31 +645,31 @@ Prompt:
 3. Employee benefits for contract and full-time workers
 
 4. Penalties for non-compliance
+```
+`Include a compliance checklist with deadlines."`
 
-Include a compliance checklist with deadlines."
-
-Inputs:
-
+`Inputs:`
+```
 1. Labour Codes documents
 
 2. Current employee policy handbook
 
 3. Factory workforce size and structure
+```
+## Prompt 10 – GST Policy Amendments for Small Traders
 
-Prompt 10 – GST Policy Amendments for Small Traders
+`Backstory:`
 
-Backstory:
+`In early 2025, the GST Council announced several changes impacting small traders, particularly those operating under the composition scheme. Many small shopkeepers and local traders in Tier-2 and Tier-3 cities are struggling to understand how these changes affect their tax filing process, input credit eligibility, and compliance costs. There’s a pressing need for a concise, easy-to-understand summary tailored to this demographic.`
 
-In early 2025, the GST Council announced several changes impacting small traders, particularly those operating under the composition scheme. Many small shopkeepers and local traders in Tier-2 and Tier-3 cities are struggling to understand how these changes affect their tax filing process, input credit eligibility, and compliance costs. There’s a pressing need for a concise, easy-to-understand summary tailored to this demographic.
+`Goal:`
 
-Goal:
+`Summarise the latest GST policy amendments in plain language for small traders.`
 
-Summarise the latest GST policy amendments in plain language for small traders.
+`Prompt:`
 
-Prompt:
-
-"You are a tax policy expert. Summarise the 2025 GST policy amendments for small traders. Cover:
-
+`"You are a tax policy expert. Summarise the 2025 GST policy amendments for small traders. Cover:`
+```
 1. Key changes in tax rates, return filing, and thresholds
 
 2. Impact on composition scheme and input credit
@@ -677,17 +677,17 @@ Prompt:
 3. Compliance timelines and penalties
 
 4. Example calculations for common scenarios
+```
+`Include a visual table showing old vs. new provisions."`
 
-Include a visual table showing old vs. new provisions."
-
-Inputs:
-
+`Inputs:`
+```
 1. Latest GST amendment notification
 
 2. Trader’s annual turnover
 
 3. Existing GST compliance process
-
+```
 Prompt 11 – Public Distribution System (PDS) Reform Analysis
 
 Backstory:
