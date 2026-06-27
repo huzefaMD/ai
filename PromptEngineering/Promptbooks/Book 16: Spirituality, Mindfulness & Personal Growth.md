@@ -1963,20 +1963,20 @@ Prompt 23 – Yoga & Mindful Leadership Retreat
 4. Available creative materials
 ```
 
-Manifestation & Goal Setting Using Indian Spiritual Principles
+## Manifestation & Goal Setting Using Indian Spiritual Principles
 
-Prompt 1 – Manifesting Career Growth through Sankalpa Practice
+`Prompt 1 – Manifesting Career Growth through Sankalpa Practice`
 
-Backstory: Aarav, a 27-year-old software developer in Bengaluru, feels stagnant in his career despite putting in long hours. He has been reading about manifestation but finds most advice very Western-centric. He wants to apply Indian spiritual principles, specifically sankalpa, the yogic art of intention-setting, to attract new opportunities and promotions. Aarav also wishes to align his goals with his higher purpose rather than just chasing random success.
+`Backstory: Aarav, a 27-year-old software developer in Bengaluru, feels stagnant in his career despite putting in long hours. He has been reading about manifestation but finds most advice very Western-centric. He wants to apply Indian spiritual principles, specifically sankalpa, the yogic art of intention-setting, to attract new opportunities and promotions. Aarav also wishes to align his goals with his higher purpose rather than just chasing random success.`
 
-Goal: Create a 6-week manifestation plan using sankalpa to help him visualize, affirm, and attract career growth aligned with his values.
+`Goal: Create a 6-week manifestation plan using sankalpa to help him visualize, affirm, and attract career growth aligned with his values.`
 
-Prompt:
+`Prompt:`
 
-"You are a Spiritual Coach specializing in Indian manifestation practices. Design a 6-week sankalpa-based manifestation routine for a 27-year-old software developer in Bengaluru who wants career growth. Include morning affirmations, visualization meditations, action steps, and gratitude practices. Integrate teachings from Bhagavad Gita and yoga philosophy. Suggest ways to measure signs of alignment and progress."
+`"You are a Spiritual Coach specializing in Indian manifestation practices. Design a 6-week sankalpa-based manifestation routine for a 27-year-old software developer in Bengaluru who wants career growth. Include morning affirmations, visualization meditations, action steps, and gratitude practices. Integrate teachings from Bhagavad Gita and yoga philosophy. Suggest ways to measure signs of alignment and progress."`
 
-Inputs:
-
+`Inputs:`
+```
 1. Current job role & skills
 
 2. Specific career goals
@@ -1984,19 +1984,19 @@ Inputs:
 3. Work schedule & free time
 
 4. Spiritual practices already followed
+```
+## Prompt 2 – Financial Abundance using Lakshmi Sadhana
 
-Prompt 2 – Financial Abundance using Lakshmi Sadhana
+`Backstory: Rhea, a 30-year-old entrepreneur in Mumbai, runs a small boutique but struggles with consistent income. She’s open to spiritual practices and believes in Goddess Lakshmi’s energy but doesn’t know how to integrate devotion with business strategy. She wants a manifestation plan that is both practical and rooted in Indian abundance rituals. Her aim is to double her revenue in the next 6 months.`
 
-Backstory: Rhea, a 30-year-old entrepreneur in Mumbai, runs a small boutique but struggles with consistent income. She’s open to spiritual practices and believes in Goddess Lakshmi’s energy but doesn’t know how to integrate devotion with business strategy. She wants a manifestation plan that is both practical and rooted in Indian abundance rituals. Her aim is to double her revenue in the next 6 months.
+`Goal: Create a manifestation and action plan using Lakshmi Sadhana principles to attract wealth while taking practical business actions.`
 
-Goal: Create a manifestation and action plan using Lakshmi Sadhana principles to attract wealth while taking practical business actions.
+`Prompt:`
 
-Prompt:
+`"You are a Wealth Manifestation Mentor blending Vedic abundance practices with business coaching. Create a 3-month Lakshmi Sadhana plan for a Mumbai-based boutique owner to attract financial stability and growth. Include morning rituals, chanting schedules, mindful money habits, and actionable business steps. Recommend ways to track both financial and energetic shifts."`
 
-"You are a Wealth Manifestation Mentor blending Vedic abundance practices with business coaching. Create a 3-month Lakshmi Sadhana plan for a Mumbai-based boutique owner to attract financial stability and growth. Include morning rituals, chanting schedules, mindful money habits, and actionable business steps. Recommend ways to track both financial and energetic shifts."
-
-Inputs:
-
+`Inputs:`
+```
 1. Current monthly revenue
 
 2. Target revenue
@@ -2004,19 +2004,19 @@ Inputs:
 3. Daily work routine
 
 4. Comfort with spiritual rituals
+```
+## Prompt 3 – Relationship Manifestation using Bhakti Yoga
 
-Prompt 3 – Relationship Manifestation using Bhakti Yoga
+`Backstory: Dev, a 29-year-old marketing professional in Delhi, has been single for 4 years and wants to manifest a loving, committed relationship. He’s tried dating apps but finds them draining. Inspired by Bhakti Yoga, he wants to open his heart, improve his emotional energy, and attract a partner who shares his values. He’s looking for a blend of devotion, inner work, and practical dating steps.`
 
-Backstory: Dev, a 29-year-old marketing professional in Delhi, has been single for 4 years and wants to manifest a loving, committed relationship. He’s tried dating apps but finds them draining. Inspired by Bhakti Yoga, he wants to open his heart, improve his emotional energy, and attract a partner who shares his values. He’s looking for a blend of devotion, inner work, and practical dating steps.
+`Goal: Design a Bhakti Yoga-inspired 40-day practice for manifesting a soulmate.`
 
-Goal: Design a Bhakti Yoga-inspired 40-day practice for manifesting a soulmate.
+`Prompt:`
 
-Prompt:
+`"You are a Relationship Manifestation Coach with expertise in Bhakti Yoga. Create a 40-day daily routine for a 29-year-old marketing professional in Delhi to attract a committed partner. Include heart-opening meditations, devotional chanting, acts of kindness, and self-love rituals. Suggest practical steps for meeting like-minded people while staying energetically aligned."`
 
-"You are a Relationship Manifestation Coach with expertise in Bhakti Yoga. Create a 40-day daily routine for a 29-year-old marketing professional in Delhi to attract a committed partner. Include heart-opening meditations, devotional chanting, acts of kindness, and self-love rituals. Suggest practical steps for meeting like-minded people while staying energetically aligned."
-
-Inputs:
-
+`Inputs:`
+```
 1. Desired partner qualities
 
 2. Past relationship challenges
@@ -2024,19 +2024,19 @@ Inputs:
 3. Spiritual comfort level
 
 4. Daily free time
+```
+## Prompt 4 – Manifesting Health Goals through Ayurveda & Visualization
 
-Prompt 4 – Manifesting Health Goals through Ayurveda & Visualization
+`Backstory: Ananya, a 25-year-old fashion student in Pune, struggles with low energy and frequent digestive issues. She wants to manifest a vibrant, healthy body without extreme diets. She’s interested in Ayurveda and creative visualization, and believes her mind can influence her health. She wants a plan to blend Ayurvedic lifestyle with manifestation practices.`
 
-Backstory: Ananya, a 25-year-old fashion student in Pune, struggles with low energy and frequent digestive issues. She wants to manifest a vibrant, healthy body without extreme diets. She’s interested in Ayurveda and creative visualization, and believes her mind can influence her health. She wants a plan to blend Ayurvedic lifestyle with manifestation practices.
+`Goal: Create a 30-day health manifestation plan using Ayurveda and visualization.`
 
-Goal: Create a 30-day health manifestation plan using Ayurveda and visualization.
+`Prompt:`
 
-Prompt:
+`"You are a Health Manifestation Specialist blending Ayurveda with Law of Attraction principles. Create a 30-day plan for a 25-year-old fashion student to improve digestion, boost energy, and develop healthy habits. Include daily affirmations, meal recommendations based on dosha, visualization exercises, and small lifestyle tweaks."`
 
-"You are a Health Manifestation Specialist blending Ayurveda with Law of Attraction principles. Create a 30-day plan for a 25-year-old fashion student to improve digestion, boost energy, and develop healthy habits. Include daily affirmations, meal recommendations based on dosha, visualization exercises, and small lifestyle tweaks."
-
-Inputs:
-
+`Inputs:`
+```
 1. Current health issues
 
 2. Daily routine
@@ -2044,19 +2044,19 @@ Inputs:
 3. Known dosha type (if available)
 
 4. Preferred foods
+```
+## Prompt 5 – Career Change Manifestation using Karma Yoga
 
-Prompt 5 – Career Change Manifestation using Karma Yoga
+`Backstory: Priyansh, 32, works in banking in Chennai but dreams of moving into environmental policy work. Fear of financial instability has held him back. He believes in Karma Yoga — selfless action — and wants to manifest this career change without losing his financial grounding. His aim is to transition smoothly within a year.`
 
-Backstory: Priyansh, 32, works in banking in Chennai but dreams of moving into environmental policy work. Fear of financial instability has held him back. He believes in Karma Yoga — selfless action — and wants to manifest this career change without losing his financial grounding. His aim is to transition smoothly within a year.
+`Goal: Design a manifestation roadmap using Karma Yoga to align work with purpose.`
 
-Goal: Design a manifestation roadmap using Karma Yoga to align work with purpose.
+`Prompt:`
 
-Prompt:
+`"You are a Life Purpose Coach integrating Karma Yoga principles. Create a 12-month manifestation plan for a 32-year-old banker in Chennai who wants to move into environmental policy. Include goal clarity exercises, networking strategies, skill-building steps, and daily gratitude/karma practices to attract aligned opportunities."`
 
-"You are a Life Purpose Coach integrating Karma Yoga principles. Create a 12-month manifestation plan for a 32-year-old banker in Chennai who wants to move into environmental policy. Include goal clarity exercises, networking strategies, skill-building steps, and daily gratitude/karma practices to attract aligned opportunities."
-
-Inputs:
-
+`Inputs:`
+```
 1. Current career & skills
 
 2. Desired role
@@ -2064,19 +2064,19 @@ Inputs:
 3. Financial safety net
 
 4. Time availability
+```
+## Prompt 6 – Confidence Manifestation through Solar Plexus Chakra Work
 
-Prompt 6 – Confidence Manifestation through Solar Plexus Chakra Work
+`Backstory: Neha, a 26-year-old content creator in Jaipur, struggles with self-doubt when pitching to brands. She’s read about chakra healing and wants to focus on her Solar Plexus (Manipura) to boost her confidence and manifestation power. She prefers a spiritual approach combined with practical confidence-building exercises.`
 
-Backstory: Neha, a 26-year-old content creator in Jaipur, struggles with self-doubt when pitching to brands. She’s read about chakra healing and wants to focus on her Solar Plexus (Manipura) to boost her confidence and manifestation power. She prefers a spiritual approach combined with practical confidence-building exercises.
+`Goal: Create a 21-day program to boost confidence and attract better opportunities.`
 
-Goal: Create a 21-day program to boost confidence and attract better opportunities.
+`Prompt:`
 
-Prompt:
+`"You are a Chakra & Manifestation Coach. Create a 21-day Solar Plexus healing and manifestation program for a 26-year-old content creator in Jaipur. Include breathwork, affirmations, guided meditations, posture improvement, and daily action challenges for building self-belief."`
 
-"You are a Chakra & Manifestation Coach. Create a 21-day Solar Plexus healing and manifestation program for a 26-year-old content creator in Jaipur. Include breathwork, affirmations, guided meditations, posture improvement, and daily action challenges for building self-belief."
-
-Inputs:
-
+`Inputs:`
+```
 1. Current confidence challenges
 
 2. Career aspirations
@@ -2084,19 +2084,19 @@ Inputs:
 3. Preferred meditation duration
 
 4. Existing spiritual practice
+```
+## Prompt 7 – Manifesting Peaceful Living through Minimalism & Aparigraha
 
-Prompt 7 – Manifesting Peaceful Living through Minimalism & Aparigraha
+`Backstory: Rohit, 28, lives in a busy Mumbai neighborhood and feels mentally cluttered. He earns well but spends impulsively and accumulates unnecessary possessions. Learning about Aparigraha (non-possessiveness) in yoga philosophy has inspired him to manifest a more peaceful, minimal life.`
 
-Backstory: Rohit, 28, lives in a busy Mumbai neighborhood and feels mentally cluttered. He earns well but spends impulsively and accumulates unnecessary possessions. Learning about Aparigraha (non-possessiveness) in yoga philosophy has inspired him to manifest a more peaceful, minimal life.
+`Goal: Design a 60-day declutter and manifestation plan for inner peace.`
 
-Goal: Design a 60-day declutter and manifestation plan for inner peace.
+`Prompt:`
 
-Prompt:
+`"You are a Mindfulness Mentor specializing in yogic living. Create a 60-day minimalism and Aparigraha-based manifestation program for a 28-year-old in Mumbai. Include decluttering rituals, gratitude journaling, mindful spending practices, and visualization exercises for a simpler, happier lifestyle."`
 
-"You are a Mindfulness Mentor specializing in yogic living. Create a 60-day minimalism and Aparigraha-based manifestation program for a 28-year-old in Mumbai. Include decluttering rituals, gratitude journaling, mindful spending practices, and visualization exercises for a simpler, happier lifestyle."
-
-Inputs:
-
+`Inputs:`
+```
 1. Current living situation
 
 2. Spending patterns
@@ -2104,19 +2104,19 @@ Inputs:
 3. Non-negotiable possessions
 
 4. Emotional triggers for spending
+```
+## Prompt 8 – Manifesting Study Success using Mantra Meditation
 
-Prompt 8 – Manifesting Study Success using Mantra Meditation
+`Backstory: Aditi, a 23-year-old preparing for UPSC in Lucknow, struggles with concentration and exam anxiety. She wants to use mantra meditation for focus and success manifestation, rooted in Indian tradition. She prefers short, powerful practices she can fit into her study breaks.`
 
-Backstory: Aditi, a 23-year-old preparing for UPSC in Lucknow, struggles with concentration and exam anxiety. She wants to use mantra meditation for focus and success manifestation, rooted in Indian tradition. She prefers short, powerful practices she can fit into her study breaks.
+`Goal: Build a mantra-based study success plan.`
 
-Goal: Build a mantra-based study success plan.
+`Prompt:`
 
-Prompt:
+`"You are an Academic Performance Coach using Indian spiritual practices. Create a mantra meditation routine for a 23-year-old UPSC aspirant in Lucknow to improve focus and reduce stress. Recommend specific mantras, meditation timings, visualization for exam success, and tracking methods for study efficiency."`
 
-"You are an Academic Performance Coach using Indian spiritual practices. Create a mantra meditation routine for a 23-year-old UPSC aspirant in Lucknow to improve focus and reduce stress. Recommend specific mantras, meditation timings, visualization for exam success, and tracking methods for study efficiency."
-
-Inputs:
-
+`Inputs:`
+```
 1. Exam date & schedule
 
 2. Current study routine
@@ -2124,19 +2124,19 @@ Inputs:
 3. Stress triggers
 
 4. Meditation experience
+```
+## Prompt 9 – Manifesting Public Speaking Confidence using Vedic Breathing
 
-Prompt 9 – Manifesting Public Speaking Confidence using Vedic Breathing
+`Backstory: Arjun, 31, is a manager in Hyderabad who avoids public speaking due to stage fright. He has a major presentation in 2 months and wants to use Vedic breathing techniques to boost his confidence and presence. He believes spiritual breathing can calm his mind and improve his delivery.`
 
-Backstory: Arjun, 31, is a manager in Hyderabad who avoids public speaking due to stage fright. He has a major presentation in 2 months and wants to use Vedic breathing techniques to boost his confidence and presence. He believes spiritual breathing can calm his mind and improve his delivery.
+`Goal: Create a breathwork and manifestation program for public speaking.`
 
-Goal: Create a breathwork and manifestation program for public speaking.
+`Prompt:`
 
-Prompt:
+`"You are a Public Speaking Coach integrating Vedic breathing techniques. Create a 2-month manifestation program for a 31-year-old manager to overcome stage fright. Include pranayama exercises, visualization, positive affirmations, and mock practice sessions."`
 
-"You are a Public Speaking Coach integrating Vedic breathing techniques. Create a 2-month manifestation program for a 31-year-old manager to overcome stage fright. Include pranayama exercises, visualization, positive affirmations, and mock practice sessions."
-
-Inputs:
-
+`Inputs:`
+```
 1. Type of presentation
 
 2. Audience size
@@ -2144,19 +2144,19 @@ Inputs:
 3. Speaking experience
 
 4. Time available daily
+```
+## Prompt 10 – Manifesting Entrepreneurial Success using Navagraha Energy Alignment
 
-Prompt 10 – Manifesting Entrepreneurial Success using Navagraha Energy Alignment
+`Backstory: Kavya, a 29-year-old startup founder in Gurugram, feels her business growth is blocked despite hard work. She’s curious about Vedic astrology and wants to align with Navagraha (nine planetary) energies to manifest success. She believes spiritual alignment can help her unlock momentum.`
 
-Backstory: Kavya, a 29-year-old startup founder in Gurugram, feels her business growth is blocked despite hard work. She’s curious about Vedic astrology and wants to align with Navagraha (nine planetary) energies to manifest success. She believes spiritual alignment can help her unlock momentum.
+`Goal: Design a business manifestation plan using Navagraha principles.`
 
-Goal: Design a business manifestation plan using Navagraha principles.
+`Prompt:`
 
-Prompt:
+`"You are a Business & Spiritual Alignment Coach. Create a 90-day manifestation plan for a 29-year-old startup founder using Navagraha energy alignment. Suggest personalized rituals, affirmations, action steps, and mindset shifts based on planetary influences."`
 
-"You are a Business & Spiritual Alignment Coach. Create a 90-day manifestation plan for a 29-year-old startup founder using Navagraha energy alignment. Suggest personalized rituals, affirmations, action steps, and mindset shifts based on planetary influences."
-
-Inputs:
-
+`Inputs:`
+```
 1. Birth details for astrology
 
 2. Business type & goals
@@ -2164,19 +2164,19 @@ Inputs:
 3. Current challenges
 
 4. Openness to rituals
+```
+## Prompt 11 – Manifesting Peaceful Relationships through Nonviolent Communication & Ahimsa
 
-Prompt 11 – Manifesting Peaceful Relationships through Nonviolent Communication & Ahimsa
+`Backstory: Meera, 33, works in HR in Pune and constantly faces conflicts with colleagues and family members. She wants to manifest harmonious relationships but doesn’t want to just “avoid” disagreements — she wants to address them with compassion. She recently learned about Ahimsa (nonviolence) and Nonviolent Communication, and wishes to combine them for personal and professional peace.`
 
-Backstory: Meera, 33, works in HR in Pune and constantly faces conflicts with colleagues and family members. She wants to manifest harmonious relationships but doesn’t want to just “avoid” disagreements — she wants to address them with compassion. She recently learned about Ahimsa (nonviolence) and Nonviolent Communication, and wishes to combine them for personal and professional peace.
+`Goal: Create a 30-day manifestation plan using Ahimsa principles to foster peaceful communication in both work and home life.`
 
-Goal: Create a 30-day manifestation plan using Ahimsa principles to foster peaceful communication in both work and home life.
+`Prompt:`
 
-Prompt:
+`"You are a Relationship Energy Coach blending Ahimsa with Nonviolent Communication. Create a 30-day manifestation plan for a 33-year-old HR professional in Pune to attract harmony in her relationships. Include daily reflection exercises, communication scripts, and intentional gratitude practices."`
 
-"You are a Relationship Energy Coach blending Ahimsa with Nonviolent Communication. Create a 30-day manifestation plan for a 33-year-old HR professional in Pune to attract harmony in her relationships. Include daily reflection exercises, communication scripts, and intentional gratitude practices."
-
-Inputs:
-
+`Inputs:`
+```
 1. Common conflict triggers
 
 2. Relationship priorities
@@ -2184,19 +2184,19 @@ Inputs:
 3. Willingness to practice daily rituals
 
 4. Time available each day
+```
+## Prompt 12 – Manifesting Overseas Job Offers using Spiritual Travel Visualization
 
-Prompt 12 – Manifesting Overseas Job Offers using Spiritual Travel Visualization
+`Backstory: Rohan, 28, an architect from Ahmedabad, dreams of working abroad, particularly in Europe. He feels stuck because of visa challenges and the competitive job market. He believes in manifestation and wants to use Indian spiritual visualization combined with focused job application strategies to attract a position overseas.`
 
-Backstory: Rohan, 28, an architect from Ahmedabad, dreams of working abroad, particularly in Europe. He feels stuck because of visa challenges and the competitive job market. He believes in manifestation and wants to use Indian spiritual visualization combined with focused job application strategies to attract a position overseas.
+`Goal: Build a 3-month manifestation roadmap for securing an overseas job.`
 
-Goal: Build a 3-month manifestation roadmap for securing an overseas job.
+`Prompt:`
 
-Prompt:
+`"You are a Career Manifestation Coach using Indian visualization techniques. Create a 90-day plan for a 28-year-old architect in Ahmedabad to manifest an overseas job. Include guided imagery scripts, application schedules, affirmations, and rituals aligned with the energy of travel and opportunity."`
 
-"You are a Career Manifestation Coach using Indian visualization techniques. Create a 90-day plan for a 28-year-old architect in Ahmedabad to manifest an overseas job. Include guided imagery scripts, application schedules, affirmations, and rituals aligned with the energy of travel and opportunity."
-
-Inputs:
-
+`Inputs:`
+```
 1. Target countries
 
 2. Current portfolio strength
@@ -2204,19 +2204,19 @@ Inputs:
 3. Job application history
 
 4. Openness to relocation timing
+```
+## Prompt 13 – Manifesting Self-Discipline through Gita Teachings
 
-Prompt 13 – Manifesting Self-Discipline through Gita Teachings
+`Backstory: Shruti, a 25-year-old law student in Kolkata, struggles with procrastination and wants to develop self-discipline. She believes the Bhagavad Gita’s principles on Svadharma (self-duty) can help her commit to her studies and long-term goals. She needs a spiritual yet structured plan.`
 
-Backstory: Shruti, a 25-year-old law student in Kolkata, struggles with procrastination and wants to develop self-discipline. She believes the Bhagavad Gita’s principles on Svadharma (self-duty) can help her commit to her studies and long-term goals. She needs a spiritual yet structured plan.
+`Goal: Design a 45-day self-discipline manifestation challenge based on the Bhagavad Gita.`
 
-Goal: Design a 45-day self-discipline manifestation challenge based on the Bhagavad Gita.
+`Prompt:`
 
-Prompt:
+`"You are a Personal Growth Mentor using Bhagavad Gita wisdom. Create a 45-day manifestation program for a 25-year-old law student to develop discipline in studies. Include daily reading assignments, reflection prompts, meditation, and measurable milestones."`
 
-"You are a Personal Growth Mentor using Bhagavad Gita wisdom. Create a 45-day manifestation program for a 25-year-old law student to develop discipline in studies. Include daily reading assignments, reflection prompts, meditation, and measurable milestones."
-
-Inputs:
-
+`Inputs:`
+```
 1. Academic schedule
 
 2. Distraction sources
@@ -2224,19 +2224,19 @@ Inputs:
 3. Preferred study times
 
 4. Willingness for morning practice
+```
+## Prompt 14 – Manifesting a Successful Side Business with Saraswati & Lakshmi Energy Balance
 
-Prompt 14 – Manifesting a Successful Side Business with Saraswati & Lakshmi Energy Balance
+`Backstory: Aniket, 30, works as a software engineer in Pune but wants to start a side business selling digital art. He feels he needs both creative inspiration (Saraswati) and financial flow (Lakshmi). He’s looking for a manifestation plan that balances these energies while also including clear business-building steps.`
 
-Backstory: Aniket, 30, works as a software engineer in Pune but wants to start a side business selling digital art. He feels he needs both creative inspiration (Saraswati) and financial flow (Lakshmi). He’s looking for a manifestation plan that balances these energies while also including clear business-building steps.
+`Goal: Create a 6-month dual-energy manifestation plan for creative and financial success.`
 
-Goal: Create a 6-month dual-energy manifestation plan for creative and financial success.
+`Prompt:`
 
-Prompt:
+`"You are a Creative Business Manifestation Coach blending Indian goddess archetypes. Create a 6-month plan for a 30-year-old engineer in Pune to launch a profitable digital art side business. Include creative exercises, wealth attraction rituals, and marketing actions."`
 
-"You are a Creative Business Manifestation Coach blending Indian goddess archetypes. Create a 6-month plan for a 30-year-old engineer in Pune to launch a profitable digital art side business. Include creative exercises, wealth attraction rituals, and marketing actions."
-
-Inputs:
-
+`Inputs:`
+```
 1. Current creative skills
 
 2. Financial goals
@@ -2244,19 +2244,19 @@ Inputs:
 3. Time for side business
 
 4. Marketing comfort level
+```
+## Prompt 15 – Manifesting Marriage Proposals through Auspicious Timing & Intention Setting
 
-Prompt 15 – Manifesting Marriage Proposals through Auspicious Timing & Intention Setting
+`Backstory: Priya, 29, from Lucknow, is ready to get married but wants the process to be aligned with her values and spirituality. She believes in using auspicious timings (muhurta) and powerful intentions to manifest a respectful, loving match.`
 
-Backstory: Priya, 29, from Lucknow, is ready to get married but wants the process to be aligned with her values and spirituality. She believes in using auspicious timings (muhurta) and powerful intentions to manifest a respectful, loving match.
+`Goal: Design a marriage manifestation strategy incorporating spiritual rituals and practical steps.`
 
-Goal: Design a marriage manifestation strategy incorporating spiritual rituals and practical steps.
+`Prompt:`
 
-Prompt:
+`"You are a Spiritual Matchmaking Coach. Create a marriage manifestation plan for a 29-year-old woman in Lucknow using muhurta, intention-setting, and practical matchmaking actions. Include affirmations, family involvement tips, and ways to attract proposals aligned with her values."`
 
-"You are a Spiritual Matchmaking Coach. Create a marriage manifestation plan for a 29-year-old woman in Lucknow using muhurta, intention-setting, and practical matchmaking actions. Include affirmations, family involvement tips, and ways to attract proposals aligned with her values."
-
-Inputs:
-
+`Inputs:`
+```
 1. Desired partner traits
 
 2. Family preferences
@@ -2264,19 +2264,19 @@ Inputs:
 3. Openness to matchmaking events
 
 4. Birth details (optional for timing)
+```
+## Prompt 16 – Manifesting Inner Peace through Daily Ganga Arati Visualization
 
-Prompt 16 – Manifesting Inner Peace through Daily Ganga Arati Visualization
+`Backstory: Vikram, 31, lives in Gurugram and works in corporate sales, facing high stress and anxiety. He remembers feeling deeply peaceful during a trip to Rishikesh while attending the Ganga Aarti. He wants to recreate that feeling daily to manifest calmness in his life.`
 
-Backstory: Vikram, 31, lives in Gurugram and works in corporate sales, facing high stress and anxiety. He remembers feeling deeply peaceful during a trip to Rishikesh while attending the Ganga Aarti. He wants to recreate that feeling daily to manifest calmness in his life.
+`Goal: Create a visualization and mindfulness plan based on the Ganga Aarti experience.`
 
-Goal: Create a visualization and mindfulness plan based on the Ganga Aarti experience.
+`Prompt:`
 
-Prompt:
+`"You are a Mindfulness Guide specializing in Indian sacred rituals. Create a 30-day Ganga Aarti-inspired manifestation plan for a corporate professional to attract peace and emotional balance. Include visualization scripts, sound meditation, and gratitude journaling."`
 
-"You are a Mindfulness Guide specializing in Indian sacred rituals. Create a 30-day Ganga Aarti-inspired manifestation plan for a corporate professional to attract peace and emotional balance. Include visualization scripts, sound meditation, and gratitude journaling."
-
-Inputs:
-
+`Inputs:`
+```
 1. Daily free time
 
 2. Stress triggers
@@ -2284,19 +2284,19 @@ Inputs:
 3. Access to meditation tools
 
 4. Comfort with visualization
+```
+## Prompt 17 – Manifesting Dream Home through Vastu & Energy Clearing
 
-Prompt 17 – Manifesting Dream Home through Vastu & Energy Clearing
+`Backstory: Tanvi, 27, a freelance designer in Bengaluru, dreams of buying her own apartment. She wants to use manifestation combined with Vastu Shastra principles to align her energy with the property she desires.`
 
-Backstory: Tanvi, 27, a freelance designer in Bengaluru, dreams of buying her own apartment. She wants to use manifestation combined with Vastu Shastra principles to align her energy with the property she desires.
+`Goal: Build a 6-month plan for manifesting and attracting the ideal home.`
 
-Goal: Build a 6-month plan for manifesting and attracting the ideal home.
+`Prompt:`
 
-Prompt:
+`"You are a Vastu & Manifestation Consultant. Create a 6-month manifestation roadmap for a 27-year-old freelancer to attract her dream home. Include intention-setting rituals, Vastu adjustments in her current living space, and financial preparation steps."`
 
-"You are a Vastu & Manifestation Consultant. Create a 6-month manifestation roadmap for a 27-year-old freelancer to attract her dream home. Include intention-setting rituals, Vastu adjustments in her current living space, and financial preparation steps."
-
-Inputs:
-
+`Inputs:`
+```
 1. Desired location & budget
 
 2. Current living situation
@@ -2304,19 +2304,19 @@ Inputs:
 3. Savings plan
 
 4. Vastu beliefs
+```
+## Prompt 18 – Manifesting Career Awards through Gratitude & Public Recognition Energy
 
-Prompt 18 – Manifesting Career Awards through Gratitude & Public Recognition Energy
+`Backstory: Harish, 34, a chef in Hyderabad, wants to be recognized with an industry award within 2 years. He believes that gratitude and intentional public presence can attract recognition.`
 
-Backstory: Harish, 34, a chef in Hyderabad, wants to be recognized with an industry award within 2 years. He believes that gratitude and intentional public presence can attract recognition.
+`Goal: Design a manifestation plan for public recognition and awards.`
 
-Goal: Design a manifestation plan for public recognition and awards.
+`Prompt:`
 
-Prompt:
+`"You are a Career Recognition Coach using manifestation principles. Create a 24-month plan for a chef to attract industry awards. Include gratitude journaling, public relations actions, community involvement, and self-affirmations."`
 
-"You are a Career Recognition Coach using manifestation principles. Create a 24-month plan for a chef to attract industry awards. Include gratitude journaling, public relations actions, community involvement, and self-affirmations."
-
-Inputs:
-
+`Inputs:`
+```
 1. Current achievements
 
 2. Target awards
@@ -2324,19 +2324,19 @@ Inputs:
 3. PR opportunities
 
 4. Willingness to network
+```
+## Prompt 19 – Manifesting Freedom from Debt through Energetic Clearing & Money Discipline
 
-Prompt 19 – Manifesting Freedom from Debt through Energetic Clearing & Money Discipline
+`Backstory: Kiran, 28, a teacher in Indore, has accumulated significant personal debt and feels stuck. She wants to clear the negative energy around money and attract abundance while practicing discipline.`
 
-Backstory: Kiran, 28, a teacher in Indore, has accumulated significant personal debt and feels stuck. She wants to clear the negative energy around money and attract abundance while practicing discipline.
+`Goal: Create a 12-month debt-clearing manifestation plan.`
 
-Goal: Create a 12-month debt-clearing manifestation plan.
+`Prompt:`
 
-Prompt:
+`"You are a Money Mindset Coach using Indian spiritual wealth practices. Create a 12-month plan to help a 28-year-old teacher in Indore clear debt. Include energy-clearing rituals, mantras, budget discipline strategies, and manifestation exercises."`
 
-"You are a Money Mindset Coach using Indian spiritual wealth practices. Create a 12-month plan to help a 28-year-old teacher in Indore clear debt. Include energy-clearing rituals, mantras, budget discipline strategies, and manifestation exercises."
-
-Inputs:
-
+`Inputs:`
+```
 1. Total debt amount
 
 2. Monthly income
@@ -2344,19 +2344,19 @@ Inputs:
 3. Spending habits
 
 4. Comfort with spiritual rituals
+```
+## Prompt 20 – Manifesting Better Health through Panchakarma & Positive Imaging
 
-Prompt 20 – Manifesting Better Health through Panchakarma & Positive Imaging
+`Backstory: Sunita, 32, in Jaipur, has chronic back pain and wants to combine Ayurveda’s Panchakarma detox with visualization techniques to heal.`
 
-Backstory: Sunita, 32, in Jaipur, has chronic back pain and wants to combine Ayurveda’s Panchakarma detox with visualization techniques to heal.
+`Goal: Create a 90-day healing manifestation plan.`
 
-Goal: Create a 90-day healing manifestation plan.
+`Prompt:`
 
-Prompt:
+`"You are a Health Manifestation Guide integrating Ayurveda and visualization. Create a 90-day plan for a 32-year-old with chronic pain, including Panchakarma preparation, daily positive imaging, and gentle movement practices."`
 
-"You are a Health Manifestation Guide integrating Ayurveda and visualization. Create a 90-day plan for a 32-year-old with chronic pain, including Panchakarma preparation, daily positive imaging, and gentle movement practices."
-
-Inputs:
-
+`Inputs:`
+```
 1. Medical restrictions
 
 2. Pain triggers
@@ -2364,19 +2364,19 @@ Inputs:
 3. Access to Ayurvedic clinics
 
 4. Meditation comfort
+```
+## Prompt 21 – Manifesting Academic Success through Saraswati Vandana & Study Flow Rituals
 
-Prompt 21 – Manifesting Academic Success through Saraswati Vandana & Study Flow Rituals
+`Backstory: Arjun, 22, a final-year engineering student in Nagpur, is preparing for competitive exams while also finishing his degree. He often feels overwhelmed by the workload and fears underperforming. His grandmother always encouraged him to chant Saraswati Vandana for wisdom, and he now wants to blend this spiritual practice with modern study planning to manifest top results. He believes that combining devotion with disciplined action will give him both clarity and confidence in his preparation.`
 
-Backstory: Arjun, 22, a final-year engineering student in Nagpur, is preparing for competitive exams while also finishing his degree. He often feels overwhelmed by the workload and fears underperforming. His grandmother always encouraged him to chant Saraswati Vandana for wisdom, and he now wants to blend this spiritual practice with modern study planning to manifest top results. He believes that combining devotion with disciplined action will give him both clarity and confidence in his preparation.
+`Goal: Create a 100-day manifestation blueprint for excelling in final-year exams and competitive tests.`
 
-Goal: Create a 100-day manifestation blueprint for excelling in final-year exams and competitive tests.
+`Prompt:`
 
-Prompt:
+`"You are an Academic Success Coach integrating Indian spiritual rituals. Create a 100-day manifestation plan for a 22-year-old engineering student in Nagpur to achieve top exam results. Include Saraswati Vandana chanting schedules, morning focus meditations, and smart study planning."`
 
-"You are an Academic Success Coach integrating Indian spiritual rituals. Create a 100-day manifestation plan for a 22-year-old engineering student in Nagpur to achieve top exam results. Include Saraswati Vandana chanting schedules, morning focus meditations, and smart study planning."
-
-Inputs:
-
+`Inputs:`
+```
 1. Exam dates
 
 2. Weak subject areas
@@ -2384,19 +2384,19 @@ Inputs:
 3. Study hours available
 
 4. Comfort with chanting/meditation
+```
+## Prompt 22 – Manifesting Public Speaking Confidence through Hanuman Chalisa Energy Activation
 
-Prompt 22 – Manifesting Public Speaking Confidence through Hanuman Chalisa Energy Activation
+`Backstory: Ishita, 27, a marketing professional in Delhi, has been offered the chance to speak at a major industry conference. While she’s knowledgeable, public speaking terrifies her. She grew up reciting the Hanuman Chalisa before exams for courage, and she believes the same energy could help her now. She wants a step-by-step manifestation plan to build stage confidence using spiritual chanting and visualization.`
 
-Backstory: Ishita, 27, a marketing professional in Delhi, has been offered the chance to speak at a major industry conference. While she’s knowledgeable, public speaking terrifies her. She grew up reciting the Hanuman Chalisa before exams for courage, and she believes the same energy could help her now. She wants a step-by-step manifestation plan to build stage confidence using spiritual chanting and visualization.
+`Goal: Design a 30-day courage manifestation plan for a public speaking event.`
 
-Goal: Design a 30-day courage manifestation plan for a public speaking event.
+`Prompt:`
 
-Prompt:
+`"You are a Confidence Coach specializing in Indian spiritual practices. Create a 30-day manifestation plan for a 27-year-old marketing professional to deliver a confident stage speech, using Hanuman Chalisa chanting, power-posture training, and speech visualization."`
 
-"You are a Confidence Coach specializing in Indian spiritual practices. Create a 30-day manifestation plan for a 27-year-old marketing professional to deliver a confident stage speech, using Hanuman Chalisa chanting, power-posture training, and speech visualization."
-
-Inputs:
-
+`Inputs:`
+```
 1. Date of event
 
 2. Speech topic
@@ -2404,19 +2404,19 @@ Inputs:
 3. Current comfort level
 
 4. Daily time commitment
+```
+## Prompt 23 – Manifesting a Fitness Transformation through Surya Namaskar & Affirmations
 
-Prompt 23 – Manifesting a Fitness Transformation through Surya Namaskar & Affirmations
+`Backstory: Neeraj, 31, an IT consultant in Noida, struggles with low stamina, excess weight, and erratic sleep due to long work hours. He recalls his father doing Surya Namaskar every morning and feeling energized all day. Neeraj wants to manifest a healthier, leaner body by combining daily Surya Namaskar with positive body-image affirmations and clean eating intentions. His goal is not just to lose weight but to feel vibrant.`
 
-Backstory: Neeraj, 31, an IT consultant in Noida, struggles with low stamina, excess weight, and erratic sleep due to long work hours. He recalls his father doing Surya Namaskar every morning and feeling energized all day. Neeraj wants to manifest a healthier, leaner body by combining daily Surya Namaskar with positive body-image affirmations and clean eating intentions. His goal is not just to lose weight but to feel vibrant.
+`Goal: Create a 90-day manifestation plan for physical transformation.`
 
-Goal: Create a 90-day manifestation plan for physical transformation.
+`Prompt:`
 
-Prompt:
+`"You are a Holistic Health Coach integrating yoga and manifestation. Create a 90-day plan for a 31-year-old IT consultant to lose weight and boost energy through Surya Namaskar, affirmations, and mindful eating practices."`
 
-"You are a Holistic Health Coach integrating yoga and manifestation. Create a 90-day plan for a 31-year-old IT consultant to lose weight and boost energy through Surya Namaskar, affirmations, and mindful eating practices."
-
-Inputs:
-
+`Inputs:`
+```
 1. Current fitness level
 
 2. Dietary preferences
@@ -2424,19 +2424,19 @@ Inputs:
 3. Medical restrictions
 
 4. Morning availability
+```
+## Prompt 24 – Manifesting Startup Funding through Lakshmi Energy Activation & Networking Rituals
 
-Prompt 24 – Manifesting Startup Funding through Lakshmi Energy Activation & Networking Rituals
+`Backstory: Rahul, 29, an entrepreneur from Bengaluru, has a promising agri-tech startup but needs significant funding to scale. He has investor meetings lined up but wants to ensure his energy attracts abundance and trust. He believes Lakshmi rituals, combined with intentional networking and presentation confidence, can help manifest the right financial backing.`
 
-Backstory: Rahul, 29, an entrepreneur from Bengaluru, has a promising agri-tech startup but needs significant funding to scale. He has investor meetings lined up but wants to ensure his energy attracts abundance and trust. He believes Lakshmi rituals, combined with intentional networking and presentation confidence, can help manifest the right financial backing.
+`Goal: Build a 60-day manifestation roadmap for securing startup investment.`
 
-Goal: Build a 60-day manifestation roadmap for securing startup investment.
+`Prompt:`
 
-Prompt:
+`"You are a Business Abundance Coach blending finance strategy with Lakshmi energy practices. Create a 60-day plan for a 29-year-old founder to attract startup funding, including wealth rituals, pitch preparation, and intentional investor networking."`
 
-"You are a Business Abundance Coach blending finance strategy with Lakshmi energy practices. Create a 60-day plan for a 29-year-old founder to attract startup funding, including wealth rituals, pitch preparation, and intentional investor networking."
-
-Inputs:
-
+`Inputs:`
+```
 1. Funding target
 
 2. Upcoming investor events
@@ -2444,19 +2444,19 @@ Inputs:
 3. Business stage
 
 4. Comfort with spiritual rituals
+```
+## Prompt 25 – Manifesting Artistic Recognition through Raga Meditation & Creative Flow States
 
-Prompt 25 – Manifesting Artistic Recognition through Raga Meditation & Creative Flow States
+`Backstory: Kavya, 26, a classical singer from Chennai, dreams of being recognized at a national level. While she has talent, she often struggles with creative blocks and self-doubt. She has heard of Raga-based meditation to open creative channels and wants to pair it with manifestation journaling to consistently produce her best performances.`
 
-Backstory: Kavya, 26, a classical singer from Chennai, dreams of being recognized at a national level. While she has talent, she often struggles with creative blocks and self-doubt. She has heard of Raga-based meditation to open creative channels and wants to pair it with manifestation journaling to consistently produce her best performances.
+`Goal: Design a 6-month artistic recognition manifestation plan.`
 
-Goal: Design a 6-month artistic recognition manifestation plan.
+`Prompt:`
 
-Prompt:
+`"You are a Creative Arts Manifestation Mentor integrating Indian classical music traditions. Create a 6-month plan for a 26-year-old singer to manifest national recognition, using Raga meditation, performance visualization, and gratitude-based networking."`
 
-"You are a Creative Arts Manifestation Mentor integrating Indian classical music traditions. Create a 6-month plan for a 26-year-old singer to manifest national recognition, using Raga meditation, performance visualization, and gratitude-based networking."
-
-Inputs:
-
+`Inputs:`
+```
 1. Genre focus
 
 2. Upcoming performance dates
@@ -2464,9 +2464,9 @@ Inputs:
 3. Daily practice hours
 
 4. Comfort with journaling
+```
 
-
-Affirmations & visualisation exercises
+# Affirmations & visualisation exercises
 
 Prompt 1 – Morning Abundance Affirmations Inspired by Indian Spiritual Texts
 
