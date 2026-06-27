@@ -2691,111 +2691,111 @@ Provide a table mapping NEP provisions to state-level action points."
 
 # Essay & report writing
 
-# Prompt 1 – Essay on India’s Journey to Renewable Energy
+## Prompt 1 – Essay on India’s Journey to Renewable Energy
 
-Backstory:
+`Backstory:`
 
-A civil services aspirant preparing for the UPSC mains exam needs to write a high-quality essay on India's transition to renewable energy. The candidate wants to highlight both the achievements and the challenges, ensuring a balanced view. They also aim to include relevant government initiatives, international commitments, and future outlook to score higher in the exam.
+`A civil services aspirant preparing for the UPSC mains exam needs to write a high-quality essay on India's transition to renewable energy. The candidate wants to highlight both the achievements and the challenges, ensuring a balanced view. They also aim to include relevant government initiatives, international commitments, and future outlook to score higher in the exam.`
 
-Goal:
+`Goal:`
 
-Generate a 1500-word structured essay covering India’s renewable energy progress, policies like the National Solar Mission, international pacts like the Paris Agreement, and challenges in achieving net-zero goals.
+`Generate a 1500-word structured essay covering India’s renewable energy progress, policies like the National Solar Mission, international pacts like the Paris Agreement, and challenges in achieving net-zero goals.`
 
-Prompt:
+`Prompt:`
 
-"Write a detailed, well-structured essay on 'India’s Journey to Renewable Energy: Achievements, Challenges, and the Road Ahead'. Include statistics, case studies, policy references, and a critical analysis section. Conclude with recommendations for policymakers."
+`"Write a detailed, well-structured essay on 'India’s Journey to Renewable Energy: Achievements, Challenges, and the Road Ahead'. Include statistics, case studies, policy references, and a critical analysis section. Conclude with recommendations for policymakers."`
 
-Inputs:
-
+`Inputs:`
+```
 1. Target audience: UPSC Mains
 
 2. Word limit: 1500 words
 
 3. Include citations where possible
+```
+## Prompt 2 – Report on Digital Governance in Rural India
 
-Prompt 2 – Report on Digital Governance in Rural India
+`Backstory:`
 
-Backstory:
+`An MPA student is working on a research project assessing the impact of digital governance initiatives like e-Gram Swaraj and Common Service Centres in improving rural service delivery. The report must be professional, data-driven, and suitable for academic submission.`
 
-An MPA student is working on a research project assessing the impact of digital governance initiatives like e-Gram Swaraj and Common Service Centres in improving rural service delivery. The report must be professional, data-driven, and suitable for academic submission.
+`Goal:`
 
-Goal:
+`Draft a comprehensive report with an executive summary, methodology, findings, and recommendations.`
 
-Draft a comprehensive report with an executive summary, methodology, findings, and recommendations.
+`Prompt:`
 
-Prompt:
+`"Prepare a 10-page analytical report titled 'Digital Governance in Rural India: Transforming Public Service Delivery'. Include introduction, methodology, case studies, challenges, and recommendations. Use real examples from states like Karnataka and Odisha."`
 
-"Prepare a 10-page analytical report titled 'Digital Governance in Rural India: Transforming Public Service Delivery'. Include introduction, methodology, case studies, challenges, and recommendations. Use real examples from states like Karnataka and Odisha."
-
-Inputs:
-
+`Inputs:`
+```
 1. Program names
 
 2. Field data collected from surveys
 
 3. Academic citation style
+```
+## Prompt 3 – Essay on Women in Indian Armed Forces
 
-Prompt 3 – Essay on Women in Indian Armed Forces
+`Backstory:`
 
-Backstory:
+`A candidate for the Staff Selection Commission (SSC) exam has an essay paper where gender integration in the armed forces is a possible topic. The aspirant wants a persuasive yet balanced write-up highlighting constitutional principles, operational readiness, and global comparisons.`
 
-A candidate for the Staff Selection Commission (SSC) exam has an essay paper where gender integration in the armed forces is a possible topic. The aspirant wants a persuasive yet balanced write-up highlighting constitutional principles, operational readiness, and global comparisons.
+`Goal:`
 
-Goal:
+`Produce a competitive essay blending facts, legal references, and emotional appeal.`
 
-Produce a competitive essay blending facts, legal references, and emotional appeal.
+`Prompt:`
 
-Prompt:
+`"Write a 1200-word essay on 'The Role and Challenges of Women in the Indian Armed Forces'. Cover legal milestones, Supreme Court judgments, international best practices, and societal attitudes. End with policy suggestions."`
 
-"Write a 1200-word essay on 'The Role and Challenges of Women in the Indian Armed Forces'. Cover legal milestones, Supreme Court judgments, international best practices, and societal attitudes. End with policy suggestions."
-
-Inputs:
-
+`Inputs:`
+```
 1. Mention landmark cases like the Babita Puniya judgment
 
 2. Use relevant defence statistics
+```
+## Prompt 4 – Policy Evaluation Report on Swachh Bharat Mission
 
-Prompt 4 – Policy Evaluation Report on Swachh Bharat Mission
+`Backstory:`
 
-Backstory:
+`A postgraduate student in public policy needs to submit a policy evaluation report on the Swachh Bharat Mission (SBM) for their term project. The evaluation should be objective, data-backed, and address both successes and gaps.`
 
-A postgraduate student in public policy needs to submit a policy evaluation report on the Swachh Bharat Mission (SBM) for their term project. The evaluation should be objective, data-backed, and address both successes and gaps.
+`Goal:`
 
-Goal:
+`Create a professional policy evaluation report with visual data presentation.`
 
-Create a professional policy evaluation report with visual data presentation.
+`Prompt:`
 
-Prompt:
+`"Draft a policy evaluation report on Swachh Bharat Mission (Urban & Rural). Include background, objectives, implementation progress, challenges, impact assessment, and recommendations. Use charts/graphs for data representation."`
 
-"Draft a policy evaluation report on Swachh Bharat Mission (Urban & Rural). Include background, objectives, implementation progress, challenges, impact assessment, and recommendations. Use charts/graphs for data representation."
-
-Inputs:
-
+`Inputs:`
+```
 1. Data from government reports
 
 2. Comparative analysis between urban and rural outcomes
+```
+## Prompt 5 – Essay on India’s Space Program for National Security
 
-Prompt 5 – Essay on India’s Space Program for National Security
+`Backstory:`
 
-Backstory:
+`An aspirant preparing for CAPF (AC) exams has an essay topic about the strategic role of ISRO in India’s national security. They want the content to be technical enough for examiners yet easy to read.`
 
-An aspirant preparing for CAPF (AC) exams has an essay topic about the strategic role of ISRO in India’s national security. They want the content to be technical enough for examiners yet easy to read.
+`Goal:`
 
-Goal:
+`Prepare a strategic analysis essay linking space technology and defence applications.`
 
-Prepare a strategic analysis essay linking space technology and defence applications.
+`Prompt:`
 
-Prompt:
+`"Write a 1000-word essay on 'India’s Space Program and Its Role in National Security'. Cover ISRO’s achievements, collaborations with DRDO, satellite applications for surveillance and disaster management, and future challenges."`
 
-"Write a 1000-word essay on 'India’s Space Program and Its Role in National Security'. Cover ISRO’s achievements, collaborations with DRDO, satellite applications for surveillance and disaster management, and future challenges."
-
-Inputs:
-
+`Inputs:`
+```
 1. Mention PSLV, GSLV, and GSAT series
 
 2. Add references to specific missions
-
-Prompt 6 – Annual Performance Report for Municipal Corporation
+```
+## Prompt 6 – Annual Performance Report for Municipal Corporation
 
 Backstory:
 
@@ -2815,7 +2815,7 @@ Inputs:
 
 2. Citizen satisfaction survey results
 
-Prompt 7 – Essay on Cooperative Federalism in India
+## Prompt 7 – Essay on Cooperative Federalism in India
 
 Backstory:
 
@@ -2835,7 +2835,7 @@ Inputs:
 
 2. Recent case references
 
-Prompt 8 – Development Report on Tribal Education in India
+## Prompt 8 – Development Report on Tribal Education in India
 
 Backstory:
 
@@ -2855,7 +2855,7 @@ Inputs:
 
 2. Literacy rate statistics
 
-Prompt 9 – Essay on Artificial Intelligence in Public Administration
+##  Prompt 9 – Essay on Artificial Intelligence in Public Administration
 
 Backstory:
 
@@ -2875,7 +2875,7 @@ Inputs:
 
 2. Global case studies
 
-Prompt 10 – Analytical Report on Climate Resilience in Urban India
+## Prompt 10 – Analytical Report on Climate Resilience in Urban India
 
 Backstory:
 
@@ -2895,7 +2895,7 @@ Inputs:
 
 2. Urban development policies
 
-Prompt 11 – Disaster Management Report for NDRF
+## Prompt 11 – Disaster Management Report for NDRF
 
 Backstory:
 
@@ -2929,7 +2929,7 @@ Inputs Required from User:
 
 4. Identified gaps/challenges
 
-Prompt 12 – Rural Electrification Progress Essay
+## Prompt 12 – Rural Electrification Progress Essay
 
 Backstory:
 
@@ -2961,7 +2961,7 @@ Inputs Required from User:
 
 3. Personal stance (neutral or advocacy-based)
 
-Prompt 13 – Education Policy Review Report
+## Prompt 13 – Education Policy Review Report
 
 Backstory:
 
@@ -2991,7 +2991,7 @@ Inputs Required from User:
 
 3. State-specific examples
 
-Prompt 14 – Public Health Infrastructure Report
+## Prompt 14 – Public Health Infrastructure Report
 
 Backstory:
 
@@ -3023,7 +3023,7 @@ Inputs Required from User:
 
 4. Proposed budget
 
-Prompt 15 – Skill Development Mission Evaluation
+## Prompt 15 – Skill Development Mission Evaluation
 
 Backstory:
 
@@ -3055,7 +3055,7 @@ Inputs Required from User:
 
 3. Case examples
 
-Prompt 16 – Urban Sanitation Mission Impact Report
+## Prompt 16 – Urban Sanitation Mission Impact Report
 
 Backstory:
 
@@ -3087,7 +3087,7 @@ Inputs Required from User:
 
 3. Key initiatives taken locally
 
-Prompt 17 – Women Empowerment Policy Analysis Essay
+## Prompt 17 – Women Empowerment Policy Analysis Essay
 
 Backstory:
 
@@ -3115,7 +3115,7 @@ Inputs Required from User:
 
 2. Any state-specific examples or case studies
 
-Prompt 18 – Renewable Energy Development Report
+## Prompt 18 – Renewable Energy Development Report
 
 Backstory:
 
@@ -3147,20 +3147,20 @@ Inputs Required from User:
 
 3. Identified bottlenecks
 
-Prompt 19 – Defence Modernisation White Paper
+## Prompt 19 – Defence Modernisation White Paper
 
-Backstory:
+`Backstory:`
 
-The Indian Armed Forces are undergoing modernisation in equipment, cyber capabilities, and strategic infrastructure. The Ministry of Defence requires a white paper to outline current progress, pending procurement deals, and challenges in domestic defence manufacturing. This document will be used for both policy advocacy and industry partnership discussions.
+`The Indian Armed Forces are undergoing modernisation in equipment, cyber capabilities, and strategic infrastructure. The Ministry of Defence requires a white paper to outline current progress, pending procurement deals, and challenges in domestic defence manufacturing. This document will be used for both policy advocacy and industry partnership discussions.`
 
-Goal:
+`Goal:`
 
-Draft a formal white paper on India’s defence modernisation efforts.
+`Draft a formal white paper on India’s defence modernisation efforts.`
 
-Prompt:
+`Prompt:`
 
-"Prepare a white paper titled ‘Modernising India’s Defence Forces: Progress and Prospects’. Include:
-
+`"Prepare a white paper titled ‘Modernising India’s Defence Forces: Progress and Prospects’. Include:`
+```
 1. Overview of ongoing modernisation initiatives.
 
 2. Status of indigenous defence production under ‘Make in India’.
@@ -3170,29 +3170,29 @@ Prompt:
 4. Operational and logistical challenges.
 
 5. Policy recommendations for faster implementation."
-
-Inputs Required from User:
-
+```
+`Inputs Required from User:`
+```
 1. Specific branches to highlight (Army/Navy/Air Force)
 
 2. Key policy references
 
 3. Current procurement updates
+```
+## Prompt 20 – Agricultural Reforms Evaluation Report
 
-Prompt 20 – Agricultural Reforms Evaluation Report
+`Backstory:`
 
-Backstory:
+`Recent changes in MSP policy, digital mandis, and agri-tech adoption have stirred debates about farmer welfare and market efficiency. The Ministry of Agriculture is seeking a comprehensive evaluation to present at the Krishi Sammelan. The report should balance government perspectives, farmer concerns, and economic implications.`
 
-Recent changes in MSP policy, digital mandis, and agri-tech adoption have stirred debates about farmer welfare and market efficiency. The Ministry of Agriculture is seeking a comprehensive evaluation to present at the Krishi Sammelan. The report should balance government perspectives, farmer concerns, and economic implications.
+`Goal:`
 
-Goal:
+`Create a balanced agricultural reforms evaluation report.`
 
-Create a balanced agricultural reforms evaluation report.
+`Prompt:`
 
-Prompt:
-
-"Draft a 2500-word agricultural reforms report focusing on MSP policy and digital marketplace adoption. Include:
-
+`"Draft a 2500-word agricultural reforms report focusing on MSP policy and digital marketplace adoption. Include:`
+```
 1. Background and need for reforms.
 
 2. Implementation status and key schemes.
@@ -3203,29 +3203,29 @@ Prompt:
 4. Impact on productivity, pricing, and income stability.
 
 5. Policy suggestions for inclusive growth."
-
-Inputs Required from User:
-
+```
+`Inputs Required from User:`
+```
 1. State(s) of focus
 
 2. Farmer survey or media data
 
 3. Market performance indicators
+```
+## Prompt 21 – National Education Policy Implementation Review
 
-Prompt 21 – National Education Policy Implementation Review
+`Backstory:`
 
-Backstory:
+`India’s National Education Policy (NEP) 2020 brought sweeping changes to school and higher education. However, states vary in how quickly and effectively they have implemented key reforms such as multidisciplinary courses, skill-based learning, and the 5+3+3+4 structure. An education think tank is compiling a review essay to present to the Ministry of Education, highlighting the successes, delays, and lessons learned so far.`
 
-India’s National Education Policy (NEP) 2020 brought sweeping changes to school and higher education. However, states vary in how quickly and effectively they have implemented key reforms such as multidisciplinary courses, skill-based learning, and the 5+3+3+4 structure. An education think tank is compiling a review essay to present to the Ministry of Education, highlighting the successes, delays, and lessons learned so far.
+`Goal:`
 
-Goal:
+`Write a policy review essay on NEP 2020 implementation.`
 
-Write a policy review essay on NEP 2020 implementation.
+`Prompt:`
 
-Prompt:
-
-"Prepare a 2000-word essay titled ‘NEP 2020: Three Years of Progress and Challenges’. Include:
-
+`"Prepare a 2000-word essay titled ‘NEP 2020: Three Years of Progress and Challenges’. Include:`
+```
 1. Brief overview of the policy’s key reforms.
 
 2. State-wise implementation analysis with examples.
@@ -3233,29 +3233,29 @@ Prompt:
 3. Positive outcomes and areas of resistance.
 
 4. Recommendations for smoother adoption and scaling."
-
-Inputs Required from User:
-
+```
+`Inputs Required from User:`
+```
 1. State(s) to focus on
 
 2. Implementation data and timelines
 
 3. Stakeholder feedback
+````
+## Prompt 22 – Smart City Project Impact Study
 
-Prompt 22 – Smart City Project Impact Study
+`Backstory:`
 
-Backstory:
+`The Smart Cities Mission was launched to improve urban infrastructure, governance, and citizen services using technology. While certain cities like Indore and Surat have made significant progress, others have faced project delays and budget constraints. An urban development department needs a well-researched report for parliamentary presentation.`
 
-The Smart Cities Mission was launched to improve urban infrastructure, governance, and citizen services using technology. While certain cities like Indore and Surat have made significant progress, others have faced project delays and budget constraints. An urban development department needs a well-researched report for parliamentary presentation.
+`Goal:`
 
-Goal:
+`Draft an impact study report on the Smart Cities Mission.`
 
-Draft an impact study report on the Smart Cities Mission.
+`Prompt:`
 
-Prompt:
-
-"Write a 2500-word Smart City impact study for Surat, including:
-
+`"Write a 2500-word Smart City impact study for Surat, including:`
+```
 1. Vision and goals of the city’s smart initiatives.
 
 2. Projects completed and their measurable outcomes.
@@ -3265,29 +3265,29 @@ Prompt:
 4. Citizen feedback and satisfaction surveys.
 
 5. Suggestions for enhancing scalability and replication."
-
-Inputs Required from User:
-
+```
+`Inputs Required from User:`
+```
 1. City’s project list and completion status
 
 2. Budget allocations and expenditure data
 
 3. Feedback data from residents
+```
+## Prompt 23 – Rural Skill Development Programme Review
 
-Prompt 23 – Rural Skill Development Programme Review
+`Backstory:`
 
-Backstory:
+`The Deen Dayal Upadhyaya Grameen Kaushalya Yojana (DDU-GKY) focuses on providing job-oriented skills to rural youth. While enrolment numbers are high, the actual placement rates vary widely. A state government is seeking a report to highlight achievements and propose improvements before applying for additional central funding.`
 
-The Deen Dayal Upadhyaya Grameen Kaushalya Yojana (DDU-GKY) focuses on providing job-oriented skills to rural youth. While enrolment numbers are high, the actual placement rates vary widely. A state government is seeking a report to highlight achievements and propose improvements before applying for additional central funding.
+`Goal:`
 
-Goal:
+`Prepare a rural skill development programme review report.`
 
-Prepare a rural skill development programme review report.
+`Prompt:`
 
-Prompt:
-
-"Prepare a 1800-word review of DDU-GKY’s performance in Odisha. Include:
-
+`"Prepare a 1800-word review of DDU-GKY’s performance in Odisha. Include:`
+```
 1. Enrolment and training completion statistics.
 
 2. Types of skills imparted and relevance to job markets.
@@ -3297,29 +3297,29 @@ Prompt:
 4. Success stories and challenges faced.
 
 5. Recommendations for better employer engagement and curriculum alignment."
-
-Inputs Required from User:
-
+```
+`Inputs Required from User:`
+```
 1. Programme’s regional data
 
 2. Industry tie-ups list
 
 3. Candidate follow-up records
+```
+## Prompt 24 – Climate Change Adaptation Policy Essay
 
-Prompt 24 – Climate Change Adaptation Policy Essay
+`Backstory:`
 
-Backstory:
+`India is experiencing more extreme weather events, impacting agriculture, water availability, and coastal communities. The National Action Plan on Climate Change (NAPCC) aims to build resilience, but there is debate over whether current measures are sufficient. A civil services aspirant is tasked with drafting an analytical essay for practice.`
 
-India is experiencing more extreme weather events, impacting agriculture, water availability, and coastal communities. The National Action Plan on Climate Change (NAPCC) aims to build resilience, but there is debate over whether current measures are sufficient. A civil services aspirant is tasked with drafting an analytical essay for practice.
+`Goal:`
 
-Goal:
+`Write a climate change adaptation policy essay.`
 
-Write a climate change adaptation policy essay.
+`Prompt:`
 
-Prompt:
-
-"Write a 1500-word essay on ‘Adapting to Climate Change: India’s Policy Framework’. Include:
-
+`"Write a 1500-word essay on ‘Adapting to Climate Change: India’s Policy Framework’. Include:`
+```
 1. Overview of NAPCC and state-level missions.
 
 2. Sectoral vulnerabilities (agriculture, water, coastal zones).
@@ -3329,29 +3329,29 @@ Prompt:
 4. Case studies of successful adaptation measures.
 
 5. Strategies for improving resilience."
-
-Inputs Required from User:
-
+```
+`Inputs Required from User:`
+```
 1. Specific states or sectors to highlight
 
 2. Latest climate data
 
 3. Notable success stories
+```
+## Prompt 25 – Digital Governance & e-Governance Review Report
 
-Prompt 25 – Digital Governance & e-Governance Review Report
+`Backstory:`
 
-Backstory:
+`India’s Digital India programme has transformed access to government services, but rural connectivity, digital literacy, and data privacy remain issues. A parliamentary committee needs a status report to inform the next budget allocation for e-governance.`
 
-India’s Digital India programme has transformed access to government services, but rural connectivity, digital literacy, and data privacy remain issues. A parliamentary committee needs a status report to inform the next budget allocation for e-governance.
+`Goal:`
 
-Goal:
+`Prepare a review report on Digital India’s progress.`
 
-Prepare a review report on Digital India’s progress.
+`Prompt:`
 
-Prompt:
-
-"Draft a 2200-word Digital India review report, covering:
-
+`"Draft a 2200-word Digital India review report, covering:`
+```
 1. Key services digitised and adoption rates.
 
 2. Impact on governance efficiency and citizen experience.
@@ -3361,11 +3361,12 @@ Prompt:
 4. Data protection and privacy considerations.
 
 5. Policy recommendations for inclusive digital governance."
-
-Inputs Required from User:
-
+```
+`Inputs Required from User:`
+```
 1. Adoption and usage statistics
 
 2. Success stories and pain points
 
 3. Privacy/legal compliance notes
+```
