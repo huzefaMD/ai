@@ -1218,18 +1218,18 @@
 3. Tone
 ```
 
-Workshop & retreat agendas
+# Workshop & retreat agendas
 
-Prompt 1 – Weekend Mindfulness Retreat for Corporate Professionals
+## Prompt 1 – Weekend Mindfulness Retreat for Corporate Professionals
 
-Backstory: Many Indian corporate employees face chronic stress, burnout, and lifestyle-related health issues due to long working hours, commute fatigue, and poor work-life balance. A weekend mindfulness retreat is planned in the foothills of the Himalayas to help them recharge mentally and emotionally. The event needs a flow that blends meditation, nature walks, and group sharing circles while catering to beginners with no prior mindfulness practice. This retreat aims to introduce stress management tools that they can apply back in their professional lives. The agenda must also consider cultural sensibilities and vegetarian dining preferences.
+`Backstory: Many Indian corporate employees face chronic stress, burnout, and lifestyle-related health issues due to long working hours, commute fatigue, and poor work-life balance. A weekend mindfulness retreat is planned in the foothills of the Himalayas to help them recharge mentally and emotionally. The event needs a flow that blends meditation, nature walks, and group sharing circles while catering to beginners with no prior mindfulness practice. This retreat aims to introduce stress management tools that they can apply back in their professional lives. The agenda must also consider cultural sensibilities and vegetarian dining preferences.`
 
-Goal: Create a two-day, beginner-friendly mindfulness retreat agenda for corporate employees, blending relaxation, skill-building, and experiential learning.
+`Goal: Create a two-day, beginner-friendly mindfulness retreat agenda for corporate employees, blending relaxation, skill-building, and experiential learning.`
 
-Prompt:
+`Prompt:`
 
-"You are an experienced retreat planner specializing in corporate wellness programs. Design a detailed weekend retreat agenda for Indian corporate professionals focused on mindfulness and stress relief. Include:
-
+`"You are an experienced retreat planner specializing in corporate wellness programs. Design a detailed weekend retreat agenda for Indian corporate professionals focused on mindfulness and stress relief. Include:`
+```
 1. Morning to evening time slots
 
 2. Session descriptions with objectives
@@ -1239,9 +1239,9 @@ Prompt:
 4. Indoor and outdoor activities
 
 5. Closing reflection rituals"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Number of participants
 
 2. Location and available facilities
@@ -1249,17 +1249,17 @@ Inputs Required:
 3. Participant age group and experience level
 
 4. Budget range
+```
+## Prompt 2 – Women’s Self-Love & Empowerment Retreat
 
-Prompt 2 – Women’s Self-Love & Empowerment Retreat
+`Backstory: In urban India, women juggle careers, family responsibilities, and societal expectations, often neglecting their own well-being. A spiritual coach is organizing a three-day self-love retreat in Goa, aiming to help women reconnect with their inner worth through guided meditations, art therapy, and self-care rituals. The sessions need to create a safe, non-judgmental space for deep sharing and emotional release. The retreat should include culturally sensitive empowerment exercises that resonate with Indian women of diverse backgrounds.`
 
-Backstory: In urban India, women juggle careers, family responsibilities, and societal expectations, often neglecting their own well-being. A spiritual coach is organizing a three-day self-love retreat in Goa, aiming to help women reconnect with their inner worth through guided meditations, art therapy, and self-care rituals. The sessions need to create a safe, non-judgmental space for deep sharing and emotional release. The retreat should include culturally sensitive empowerment exercises that resonate with Indian women of diverse backgrounds.
+`Goal: Design a three-day retreat agenda that blends self-love practices, creativity, and spiritual healing for women.`
 
-Goal: Design a three-day retreat agenda that blends self-love practices, creativity, and spiritual healing for women.
+`Prompt:`
 
-Prompt:
-
-"You are a women’s empowerment retreat facilitator. Create a 3-day agenda for an Indian audience that includes:
-
+`"You are a women’s empowerment retreat facilitator. Create a 3-day agenda for an Indian audience that includes:`
+```
 1. Morning grounding rituals
 
 2. Self-love and confidence-building workshops
@@ -1269,9 +1269,9 @@ Prompt:
 4. Evening spiritual circles
 
 5. Community bonding activities"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Age range of participants
 
 2. Location type (beach, mountains, etc.)
@@ -1279,17 +1279,17 @@ Inputs Required:
 3. Availability of facilitators for specialized workshops
 
 4. Dietary preferences
+```
+## Prompt 3 – Spiritual Awakening & Inner Peace Workshop
 
-Prompt 3 – Spiritual Awakening & Inner Peace Workshop
+`Backstory: Young adults in metropolitan India are increasingly seeking spiritual growth beyond traditional religion, exploring meditation, energy healing, and consciousness practices. A one-day workshop in Pune aims to introduce these seekers to practical spiritual tools they can use daily. The event should balance ancient wisdom (Bhagavad Gita, yoga philosophy) with modern mindfulness techniques. The agenda must be paced to avoid overwhelm and should include moments for self-reflection, partner exercises, and group discussions.`
 
-Backstory: Young adults in metropolitan India are increasingly seeking spiritual growth beyond traditional religion, exploring meditation, energy healing, and consciousness practices. A one-day workshop in Pune aims to introduce these seekers to practical spiritual tools they can use daily. The event should balance ancient wisdom (Bhagavad Gita, yoga philosophy) with modern mindfulness techniques. The agenda must be paced to avoid overwhelm and should include moments for self-reflection, partner exercises, and group discussions.
+`Goal: Create a one-day workshop flow for young adults seeking spiritual awakening, blending traditional Indian wisdom with modern techniques.`
 
-Goal: Create a one-day workshop flow for young adults seeking spiritual awakening, blending traditional Indian wisdom with modern techniques.
+`Prompt:`
 
-Prompt:
-
-"You are a spiritual workshop designer. Create a 1-day agenda that includes:
-
+`"You are a spiritual workshop designer. Create a 1-day agenda that includes:`
+```
 1. Welcome & intention setting
 
 2. Guided meditations
@@ -1299,27 +1299,27 @@ Prompt:
 4. Partner/group reflection activities
 
 5. Closing gratitude ritual"
-
-Inputs Required:
-
-1. Group size
+```
+`Inputs Required:`
+```
+1.Group size
 
 2. Indoor/outdoor setting availability
 
 3. Preferred spiritual themes
 
 4. Participant familiarity with meditation
+```
+## Prompt 4 – Mindful Parenting Retreat
 
-Prompt 4 – Mindful Parenting Retreat
+`Backstory: Parents in urban India are struggling to balance work commitments with mindful, conscious parenting. A two-day retreat in Rishikesh aims to help parents learn emotional regulation, communication, and mindfulness techniques to use with their children. The agenda should provide both parent-only sessions and family-inclusive activities. It should include experiential exercises, discussions on Indian family values, and practical take-home tools.`
 
-Backstory: Parents in urban India are struggling to balance work commitments with mindful, conscious parenting. A two-day retreat in Rishikesh aims to help parents learn emotional regulation, communication, and mindfulness techniques to use with their children. The agenda should provide both parent-only sessions and family-inclusive activities. It should include experiential exercises, discussions on Indian family values, and practical take-home tools.
+`Goal: Create a two-day retreat agenda that supports parents in cultivating mindful and conscious parenting skills.`
 
-Goal: Create a two-day retreat agenda that supports parents in cultivating mindful and conscious parenting skills.
+`Prompt:`
 
-Prompt:
-
-"You are a parenting and mindfulness expert. Design a 2-day retreat plan including:
-
+`"You are a parenting and mindfulness expert. Design a 2-day retreat plan including:`
+```
 1. Parent-only learning sessions
 
 2. Family bonding activities
@@ -1327,9 +1327,9 @@ Prompt:
 3. Mindfulness exercises suitable for children
 
 4. Evening reflection circles"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Age range of children attending
 
 2. Number of families
@@ -1337,17 +1337,17 @@ Inputs Required:
 3. Venue facilities (indoor, outdoor, childcare support)
 
 4. Languages spoken by participants
+```
+## Prompt 5 – Stress Management Retreat for Students Preparing for Exams
 
-Prompt 5 – Stress Management Retreat for Students Preparing for Exams
+`Backstory: Competitive exam aspirants in India often experience extreme stress, burnout, and self-doubt. A weekend retreat is planned in a quiet rural location to help students recharge mentally, manage anxiety, and learn focus-enhancing techniques. The program should integrate yoga, guided meditation, and group sharing to normalize their struggles. Cultural nuances, including dietary requirements and gender-sensitive arrangements, must be factored in.`
 
-Backstory: Competitive exam aspirants in India often experience extreme stress, burnout, and self-doubt. A weekend retreat is planned in a quiet rural location to help students recharge mentally, manage anxiety, and learn focus-enhancing techniques. The program should integrate yoga, guided meditation, and group sharing to normalize their struggles. Cultural nuances, including dietary requirements and gender-sensitive arrangements, must be factored in.
+`Goal: Create a two-day retreat agenda that helps students preparing for competitive exams manage stress and maintain motivation.`
 
-Goal: Create a two-day retreat agenda that helps students preparing for competitive exams manage stress and maintain motivation.
+`Prompt:`
 
-Prompt:
-
-"You are a youth wellness retreat planner. Create a 2-day agenda for exam aspirants that includes:
-
+`"You are a youth wellness retreat planner. Create a 2-day agenda for exam aspirants that includes:`
+```
 1. Morning yoga and breathing exercises
 
 2. Workshops on time management and focus
@@ -1355,9 +1355,9 @@ Prompt:
 3. Guided meditations for stress relief
 
 4. Group discussions for peer support"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Age group of students
 
 2. Number of attendees
@@ -1365,17 +1365,17 @@ Inputs Required:
 3. Location and amenities available
 
 4. Subjects/exams they are preparing for
+```
+## Prompt 6 – Healing Through Nature – Forest Therapy Retreat
 
-Prompt 6 – Healing Through Nature – Forest Therapy Retreat
+`Backstory: In India, urban dwellers are increasingly drawn to eco-spiritual retreats that combine wellness practices with environmental connection. A three-day forest therapy retreat in Jim Corbett National Park is planned to help participants reconnect with themselves and the earth. The program should integrate mindful walks, tree meditations, and ecological awareness discussions. Since many participants may have never camped before, the agenda must balance adventure with comfort, offering safe accommodation and vegetarian organic meals.`
 
-Backstory: In India, urban dwellers are increasingly drawn to eco-spiritual retreats that combine wellness practices with environmental connection. A three-day forest therapy retreat in Jim Corbett National Park is planned to help participants reconnect with themselves and the earth. The program should integrate mindful walks, tree meditations, and ecological awareness discussions. Since many participants may have never camped before, the agenda must balance adventure with comfort, offering safe accommodation and vegetarian organic meals.
+`Goal: Create a 3-day retreat plan that blends mindfulness, environmental awareness, and gentle adventure.
 
-Goal: Create a 3-day retreat plan that blends mindfulness, environmental awareness, and gentle adventure.
+`Prompt:`
 
-Prompt:
-
-"You are an eco-spiritual retreat designer. Plan a 3-day forest therapy retreat in India, including:
-
+`"You are an eco-spiritual retreat designer. Plan a 3-day forest therapy retreat in India, including:`
+```
 1. Guided forest bathing sessions
 
 2. Nature-based mindfulness practices
@@ -1385,9 +1385,9 @@ Prompt:
 4. Evening campfire reflections
 
 5. Rest periods for integration"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Participant fitness levels
 
 2. Group size
@@ -1395,17 +1395,17 @@ Inputs Required:
 3. Season and climate conditions
 
 4. Local wildlife safety measures
+```
+## Prompt 7 – Yoga & Ayurveda Wellness Retreat
 
-Prompt 7 – Yoga & Ayurveda Wellness Retreat
+`Backstory: Many Indians are turning to traditional healing systems like Yoga and Ayurveda for holistic health. A five-day retreat in Kerala is being organized for wellness seekers, focusing on yoga asanas, pranayama, meditation, and personalized Ayurvedic consultations. The retreat should include daily detox meals, herbal treatments, and educational sessions on maintaining balance according to Ayurvedic principles. This program must be suitable for both beginners and seasoned yoga practitioners.`
 
-Backstory: Many Indians are turning to traditional healing systems like Yoga and Ayurveda for holistic health. A five-day retreat in Kerala is being organized for wellness seekers, focusing on yoga asanas, pranayama, meditation, and personalized Ayurvedic consultations. The retreat should include daily detox meals, herbal treatments, and educational sessions on maintaining balance according to Ayurvedic principles. This program must be suitable for both beginners and seasoned yoga practitioners.
+`Goal: Create a 5-day retreat plan integrating yoga, meditation, and Ayurveda-based healing practices.`
 
-Goal: Create a 5-day retreat plan integrating yoga, meditation, and Ayurveda-based healing practices.
+`Prompt:`
 
-Prompt:
-
-"You are a wellness retreat planner. Design a 5-day agenda for a Kerala-based Yoga & Ayurveda retreat, including:
-
+`"You are a wellness retreat planner. Design a 5-day agenda for a Kerala-based Yoga & Ayurveda retreat, including:`
+```
 1. Morning yoga sequences
 
 2. Midday Ayurvedic cooking classes
@@ -1415,9 +1415,9 @@ Prompt:
 4. Evening cultural programs
 
 5. Daily Ayurvedic therapies"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Number of participants
 
 2 Facilities available for therapy and classes
@@ -1425,17 +1425,17 @@ Inputs Required:
 3. Dietary needs
 
 4. Yoga proficiency levels
+```
+## Prompt 8 – Men’s Emotional Healing & Brotherhood Retreat
 
-Prompt 8 – Men’s Emotional Healing & Brotherhood Retreat
+`Backstory: In Indian society, men often face cultural pressure to suppress emotions, leading to stress and disconnected relationships. A two-day retreat in the outskirts of Bengaluru is designed to help men explore vulnerability, emotional awareness, and supportive brotherhood. The agenda should include guided sharing circles, physical activities like trekking, and bonding exercises that break down barriers. Privacy, respect, and safety in sharing must be central.`
 
-Backstory: In Indian society, men often face cultural pressure to suppress emotions, leading to stress and disconnected relationships. A two-day retreat in the outskirts of Bengaluru is designed to help men explore vulnerability, emotional awareness, and supportive brotherhood. The agenda should include guided sharing circles, physical activities like trekking, and bonding exercises that break down barriers. Privacy, respect, and safety in sharing must be central.
+`Goal: Create a 2-day retreat plan to help men reconnect emotionally and build supportive peer bonds.`
 
-Goal: Create a 2-day retreat plan to help men reconnect emotionally and build supportive peer bonds.
+`Prompt:`
 
-Prompt:
-
-"You are a facilitator of men’s emotional wellness programs. Create a 2-day agenda for an Indian audience that includes:
-
+`"You are a facilitator of men’s emotional wellness programs. Create a 2-day agenda for an Indian audience that includes:`
+```
 1. Icebreaker activities
 
 2. Emotional literacy workshops
@@ -1445,9 +1445,9 @@ Prompt:
 4. Outdoor bonding activities
 
 5. Closing brotherhood rituals"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Age range of participants
 
 2. Comfort with physical activity
@@ -1455,8 +1455,8 @@ Inputs Required:
 3. Preferred privacy measures
 
 4. Facilitator expertise available
-
-Prompt 9 – Silent Meditation Retreat (Vipassana-inspired)
+```
+## Prompt 9 – Silent Meditation Retreat (Vipassana-inspired)
 
 Backstory: Silence can be deeply transformative, but many in India hesitate to commit to the traditional 10-day Vipassana. A shorter, beginner-friendly 4-day silent retreat is planned in Dharamshala to introduce participants to deep meditation. The agenda should minimize distractions, provide clear meditation instructions, and include mindful eating sessions. Cultural sensitivity is key, ensuring vegetarian sattvic meals and clear communication before the silence period begins.
 
