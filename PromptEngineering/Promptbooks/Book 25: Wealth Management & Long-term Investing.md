@@ -1,62 +1,62 @@
-Asset Allocation Recommendations
+# Asset Allocation Recommendations
 
-Asset Allocation for a First-Time Investor
+## Asset Allocation for a First-Time Investor
 
-Backstory:
+`Backstory:`
 
-Neha, 25, just started her first job in Mumbai earning ₹8 lakh per year. She has no investments so far and keeps all her money in a savings account. She wants to start investing but doesn’t know how much should go into equity, debt, gold, or cash. She’s open to moderate risk but doesn’t want to lose her entire capital if the market crashes.
+`Neha, 25, just started her first job in Mumbai earning ₹8 lakh per year. She has no investments so far and keeps all her money in a savings account. She wants to start investing but doesn’t know how much should go into equity, debt, gold, or cash. She’s open to moderate risk but doesn’t want to lose her entire capital if the market crashes.`
 
-Goal:
+`Goal:`
 
-Create a beginner-friendly, step-by-step asset allocation plan balancing growth and safety.
+`Create a beginner-friendly, step-by-step asset allocation plan balancing growth and safety.`
 
-Prompt:
+`Prompt:`
 
-"You are a certified financial planner. Create a detailed beginner’s asset allocation recommendation for a 25-year-old Indian with a moderate risk profile. Consider: (1) Percentage allocation to equity, debt, gold, and cash, (2) Rationale for each asset class, (3) Historical risk-return profile of the chosen allocation, (4) Rebalancing frequency and method, (5) A sample ₹10 lakh portfolio breakdown. Present in a clear table and supporting narrative." Inputs: Current income and expenses Risk tolerance (low/medium/high) Investment horizon (in years)
+`"You are a certified financial planner. Create a detailed beginner’s asset allocation recommendation for a 25-year-old Indian with a moderate risk profile. Consider: (1) Percentage allocation to equity, debt, gold, and cash, (2) Rationale for each asset class, (3) Historical risk-return profile of the chosen allocation, (4) Rebalancing frequency and method, (5) A sample ₹10 lakh portfolio breakdown. Present in a clear table and supporting narrative." Inputs: Current income and expenses Risk tolerance (low/medium/high) Investment horizon (in years)`
 
-Allocation for Aggressive Growth Investors
+## Allocation for Aggressive Growth Investors
 
-Backstory:
+`Backstory:`
 
-Arjun, 29, is a software engineer in Bengaluru with a high-paying job and no dependents. He’s willing to take high risks for potentially high returns and is inspired by friends who doubled their investments in 3–4 years. He wants a portfolio designed for maximum capital appreciation over 10+ years.
+`Arjun, 29, is a software engineer in Bengaluru with a high-paying job and no dependents. He’s willing to take high risks for potentially high returns and is inspired by friends who doubled their investments in 3–4 years. He wants a portfolio designed for maximum capital appreciation over 10+ years.`
 
-Goal:
+`Goal:`
 
-Create a high-risk, high-return allocation strategy with safeguards against complete capital wipeout.
+`Create a high-risk, high-return allocation strategy with safeguards against complete capital wipeout.`
 
-Prompt:
+`Prompt:`
 
-"You are an investment strategist. Design an aggressive asset allocation plan for a 29-year-old Indian earning ₹20 lakh annually, with no dependents and a 12-year horizon. Include: (1) Equity-heavy allocation with sector and geography diversification, (2) Exposure to alternative assets like REITs or crypto, (3) Downside protection measures, (4) Stress test for 30% market crash, (5) Graph comparing projected growth vs moderate-risk portfolio." Inputs: Income stability Liquidity needs Risk-taking ability
+`"You are an investment strategist. Design an aggressive asset allocation plan for a 29-year-old Indian earning ₹20 lakh annually, with no dependents and a 12-year horizon. Include: (1) Equity-heavy allocation with sector and geography diversification, (2) Exposure to alternative assets like REITs or crypto, (3) Downside protection measures, (4) Stress test for 30% market crash, (5) Graph comparing projected growth vs moderate-risk portfolio." Inputs: Income stability Liquidity needs Risk-taking ability`
 
-Allocation for Risk-Averse Investors
+## Allocation for Risk-Averse Investors
 
-Backstory:
+`Backstory:`
 
-Meenal, 34, is a school teacher who values stability over high returns. She recently inherited ₹15 lakh and doesn’t want to lose any of it. Her main priority is capital preservation with modest growth to beat inflation.
+`Meenal, 34, is a school teacher who values stability over high returns. She recently inherited ₹15 lakh and doesn’t want to lose any of it. Her main priority is capital preservation with modest growth to beat inflation.`
 
-Goal:
+`Goal:
 
-Design a low-risk allocation that maintains purchasing power.
+`Design a low-risk allocation that maintains purchasing power.`
 
-Prompt:
+`Prompt:`
 
-"You are a conservative portfolio planner. Create a capital preservation asset allocation for a 34-year-old in India with ₹15 lakh investable capital. Include: (1) Minimal equity exposure, (2) Allocation to fixed deposits, debt funds, and sovereign gold bonds, (3) Inflation-adjusted return projection, (4) Risk score, (5) Annual rebalancing rules to maintain safety." Inputs: Required liquidity for emergencies Inflation expectations Desired minimum annual return
+`"You are a conservative portfolio planner. Create a capital preservation asset allocation for a 34-year-old in India with ₹15 lakh investable capital. Include: (1) Minimal equity exposure, (2) Allocation to fixed deposits, debt funds, and sovereign gold bonds, (3) Inflation-adjusted return projection, (4) Risk score, (5) Annual rebalancing rules to maintain safety." Inputs: Required liquidity for emergencies Inflation expectations Desired minimum annual return`
 
-Age-Based Allocation Model
+## Age-Based Allocation Model
 
-Backstory:
+`Backstory:`
 
-Kabir, 31, read about the “100 minus age” rule for equity allocation. He wants a more refined age-based strategy that also considers his job stability and market conditions.
+`Kabir, 31, read about the “100 minus age” rule for equity allocation. He wants a more refined age-based strategy that also considers his job stability and market conditions.`
 
-Goal:
+`Goal:`
 
-Develop a customized age-based allocation strategy.
+`Develop a customized age-based allocation strategy.`
 
-Prompt:
+`Prompt:`
 
-"You are a financial advisor. Create an age-based asset allocation plan for a 31-year-old with moderate risk tolerance. Use: (1) Modified ‘100 minus age’ rule with adjustments for income stability, (2) Economic cycle impact on allocation, (3) Dynamic rebalancing every 2 years, (4) Graph showing equity-debt shift from age 31 to 60, (5) Model portfolio examples." Inputs: Age Career stage stability Desired retirement age
+`"You are a financial advisor. Create an age-based asset allocation plan for a 31-year-old with moderate risk tolerance. Use: (1) Modified ‘100 minus age’ rule with adjustments for income stability, (2) Economic cycle impact on allocation, (3) Dynamic rebalancing every 2 years, (4) Graph showing equity-debt shift from age 31 to 60, (5) Model portfolio examples." Inputs: Age Career stage stability Desired retirement age`
 
-Allocation for NRIs
+## Allocation for NRIs
 
 Backstory:
 
