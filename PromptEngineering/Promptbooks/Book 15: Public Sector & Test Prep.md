@@ -1177,20 +1177,20 @@ Provide a table mapping NEP provisions to state-level action points."
 
 4. Strengths and weaknesses in communication
 ```
-Prompt 2 – State PCS Mock Interview: Rural Development & Administration
+## Prompt 2 – State PCS Mock Interview: Rural Development & Administration
 
-Backstory:
+`Backstory:`
 
-A candidate from Madhya Pradesh has cleared the written examination for the State Public Service Commission. Their background is in agriculture, and they have worked with an NGO on rural development. They need a mock interview that blends administrative duties with practical rural governance scenarios, preparing them for region-specific questions.
+`A candidate from Madhya Pradesh has cleared the written examination for the State Public Service Commission. Their background is in agriculture, and they have worked with an NGO on rural development. They need a mock interview that blends administrative duties with practical rural governance scenarios, preparing them for region-specific questions.`
 
-Goal:
+`Goal:`
 
-Simulate a state PCS interview focused on rural governance and development.
+`Simulate a state PCS interview focused on rural governance and development.`
 
-Prompt:
+`Prompt:`
 
-"You are a State PCS interview panel member. Conduct a mock interview covering:
-
+`"You are a State PCS interview panel member. Conduct a mock interview covering:`
+```
 1. Implementation of rural employment schemes (MGNREGA, PMGSY)
 
 2. Water resource management in drought-prone areas
@@ -1198,31 +1198,31 @@ Prompt:
 3. Public health challenges in rural districts
 
 4. Conflict resolution between village communities
+```
+`Ask 8–10 scenario-based questions and give feedback on policy clarity, empathy, and practicality of responses."`
 
-Ask 8–10 scenario-based questions and give feedback on policy clarity, empathy, and practicality of responses."
-
-Inputs:
-
+`Inputs:`
+```
 1. State and district the candidate is applying for
 
 2. Candidate’s professional background
 
 3. Key local governance challenges
+```
+## Prompt 3 – PSU HR Management Trainee Interview Simulation
 
-Prompt 3 – PSU HR Management Trainee Interview Simulation
+`Backstory:`
 
-Backstory:
+`A fresh MBA graduate from IIM Indore is appearing for an HR Management Trainee position in a major Public Sector Undertaking (PSU) like NTPC. While academically strong, they lack direct PSU exposure and need help aligning their answers with PSU work culture, values, and organisational priorities.`
 
-A fresh MBA graduate from IIM Indore is appearing for an HR Management Trainee position in a major Public Sector Undertaking (PSU) like NTPC. While academically strong, they lack direct PSU exposure and need help aligning their answers with PSU work culture, values, and organisational priorities.
+`Goal:`
 
-Goal:
+`Create a PSU-specific HR trainee interview simulation.`
 
-Create a PSU-specific HR trainee interview simulation.
+`Prompt:`
 
-Prompt:
-
-"You are a PSU recruitment panel member. Conduct a mock interview for an HR Management Trainee role. Cover:
-
+`"You are a PSU recruitment panel member. Conduct a mock interview for an HR Management Trainee role. Cover:`
+```
 1. Employee engagement and retention strategies in large public organisations
 
 2. Handling labour disputes in industrial units
@@ -1230,17 +1230,17 @@ Prompt:
 3. Diversity and inclusion initiatives in PSU workplaces
 
 4. Balancing profitability and social responsibility
+```
+`Include 10 questions and provide sample ideal answers with rationale."`
 
-Include 10 questions and provide sample ideal answers with rationale."
-
-Inputs:
-
+`Inputs:`
+```
 1. Candidate’s MBA specialisation
 
 2. Preferred PSU sector (energy, manufacturing, etc.)
 
 3. Any internship or prior work experience
-
+```
 Prompt 4 – RBI Grade B Officer Mock Interview: Monetary Policy & Economics
 
 Backstory:
