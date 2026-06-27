@@ -1,0 +1,23 @@
+# Simple learning path recommender
+
+# Get information from the user
+name  = input("What is your name? ")
+years = int(input("Years of coding experience? "))
+knows_python = input("Do you know Python? (yes/no) ")
+
+# YOUR CODE HERE:
+# Use if/elif/else to recommend a path:
+#
+# years == 0 AND knows_python == "no"
+#    → recommend "Python Basics" (start here!)
+#
+# years == 0 AND knows_python == "yes"
+#    → recommend "Data Structures"
+#
+# years <= 3
+#    → recommend "Web Development"
+#
+# else
+#    → recommend "Machine Learning"
+#
+# Print: "Hello [name]! We recommend: [path]"
