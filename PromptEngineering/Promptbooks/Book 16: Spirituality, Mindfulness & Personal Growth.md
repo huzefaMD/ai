@@ -394,76 +394,76 @@
 ```
 ## Prompt 17 – Chakra Balancing Meditation
 
-Backstory: Rooted in yogic traditions, chakras are energy centers believed to affect physical, emotional, and spiritual well-being. Many people in India are aware of chakras but lack practical guidance to balance them. This meditation will help align the body’s energy system for overall harmony and vitality.
+`Backstory: Rooted in yogic traditions, chakras are energy centers believed to affect physical, emotional, and spiritual well-being. Many people in India are aware of chakras but lack practical guidance to balance them. This meditation will help align the body’s energy system for overall harmony and vitality.`
 
-Goal: Create a chakra-balancing meditation with Indian cultural context.
+`Goal: Create a chakra-balancing meditation with Indian cultural context.`
 
-Prompt:
+`Prompt:`
 
-“You are a yoga teacher creating a 20-minute guided chakra-balancing meditation.
-
+`“You are a yoga teacher creating a 20-minute guided chakra-balancing meditation.`
+```
 1. Briefly explain each chakra and its significance.
 
 2. Guide visualization of energy flowing and balancing each center.
 
 3. Use Sanskrit names and affirmations for each chakra.”
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Level of explanation (beginner/advanced)
 
 2. Duration preference
 
 3. Cultural elements to include
+```
+## Prompt 18 – Self-Love & Inner Confidence Meditation
 
-Prompt 18 – Self-Love & Inner Confidence Meditation
+`Backstory: In Indian society, self-worth is often tied to external validation—academic success, marriage, or career status. This meditation focuses on building intrinsic self-worth and confidence by nurturing a compassionate inner voice. It is suitable for young adults, women, and anyone seeking self-empowerment.`
 
-Backstory: In Indian society, self-worth is often tied to external validation—academic success, marriage, or career status. This meditation focuses on building intrinsic self-worth and confidence by nurturing a compassionate inner voice. It is suitable for young adults, women, and anyone seeking self-empowerment.
+`Goal: Write a meditation that fosters self-love and confidence.`
 
-Goal: Write a meditation that fosters self-love and confidence.
+`Prompt:`
 
-Prompt:
-
-“You are a life coach creating a 12-minute guided self-love meditation.
-
+`“You are a life coach creating a 12-minute guided self-love meditation.`
+```
 1. Start with a grounding exercise.
 
 2. Use affirmations focused on self-worth and acceptance.
 
 3. End with visualizing the listener standing in their power.”
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Duration
 
 2. Affirmation style (spiritual, modern)
 
 3. Language
+```
+## Prompt 19 – Stress Relief in Traffic Meditation
 
-Prompt 19 – Stress Relief in Traffic Meditation
+`Backstory: Long commutes and traffic jams are a daily reality in many Indian cities, causing frustration and stress. This short meditation can be done in a stationary vehicle to release tension and maintain calm during unavoidable delays.`
 
-Backstory: Long commutes and traffic jams are a daily reality in many Indian cities, causing frustration and stress. This short meditation can be done in a stationary vehicle to release tension and maintain calm during unavoidable delays.
+`Goal: Create a traffic-specific stress relief meditation.`
 
-Goal: Create a traffic-specific stress relief meditation.
+`Prompt:`
 
-Prompt:
-
-“You are a mindfulness trainer. Write a 5-minute guided meditation for stress relief during traffic jams.
-
+`“You are a mindfulness trainer. Write a 5-minute guided meditation for stress relief during traffic jams.`
+```
 1. Focus on breath awareness and body relaxation.
 
 2. Add visualizations of open roads or calming scenery.
 
 3. End with a positive intention for the day.”
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Duration
 
 2. Imagery choice
 
 3. Tone (humorous, calming)
-
+```
 ## Prompt 20 – Meditation for Exam Anxiety
 
 `Backstory: Board exams, competitive entrance tests, and university assessments create intense pressure for Indian students. Anxiety can block memory recall and focus. This meditation can be practiced in the days leading up to an exam to enhance confidence and calmness.`
@@ -516,7 +516,7 @@ Inputs:
 
 `Backstory: Corporate employees in India often juggle multiple tasks, leading to mental fatigue and decreased productivity. A short mindfulness practice during office hours can improve concentration and reduce stress.`
 
-Goal: Write a meditation to boost focus at work.
+`Goal: Write a meditation to boost focus at work.`
 
 `Prompt:`
 
