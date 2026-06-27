@@ -1814,14 +1814,14 @@
 ```
 ## Prompt 21 – Women’s Empowerment & Self-Love Retreat
 
-Backstory: Across India, many women juggle multiple roles, often neglecting their own well-being. This 3-day retreat in Rishikesh aims to provide a sacred space where women can reconnect with their self-worth, heal from past emotional wounds, and embrace their authentic selves. The program will blend mindfulness, body movement, storytelling, and rituals for self-love. It’s designed for women from diverse backgrounds who seek community support and personal empowerment.
+`Backstory: Across India, many women juggle multiple roles, often neglecting their own well-being. This 3-day retreat in Rishikesh aims to provide a sacred space where women can reconnect with their self-worth, heal from past emotional wounds, and embrace their authentic selves. The program will blend mindfulness, body movement, storytelling, and rituals for self-love. It’s designed for women from diverse backgrounds who seek community support and personal empowerment.`
 
-Goal: Design a retreat that empowers women to cultivate self-love and resilience.
+`Goal: Design a retreat that empowers women to cultivate self-love and resilience.`
 
-Prompt:
+`Prompt:`
 
-"You are a women’s wellness coach. Create a 3-day empowerment retreat plan including:
-
+`"You are a women’s wellness coach. Create a 3-day empowerment retreat plan including:`
+```
 1. Morning affirmation circles
 
 2. Self-care and body awareness workshops
@@ -1831,9 +1831,9 @@ Prompt:
 4. Group sharing and support sessions
 
 5. Evening gratitude rituals"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Age range of participants
 
 2. Cultural sensitivity considerations
@@ -1841,17 +1841,17 @@ Inputs Required:
 3. Preferred physical activity level
 
 4. Facilitator expertise
+```
+## Prompt 22 – Stress Relief Through Sound Healing
 
-Prompt 22 – Stress Relief Through Sound Healing
+`Backstory: In India’s fast-paced urban lifestyle, many professionals are battling anxiety and poor sleep. A 1-day retreat in Goa will use sound therapy to help participants release tension and restore emotional balance. The agenda will incorporate Tibetan singing bowls, gongs, and guided breathwork, creating a deeply restorative environment. Participants will also learn how to use sound healing techniques in their daily routines for lasting benefits.`
 
-Backstory: In India’s fast-paced urban lifestyle, many professionals are battling anxiety and poor sleep. A 1-day retreat in Goa will use sound therapy to help participants release tension and restore emotional balance. The agenda will incorporate Tibetan singing bowls, gongs, and guided breathwork, creating a deeply restorative environment. Participants will also learn how to use sound healing techniques in their daily routines for lasting benefits.
+`Goal: Build a one-day sound healing workshop that promotes relaxation and mental clarity.`
 
-Goal: Build a one-day sound healing workshop that promotes relaxation and mental clarity.
+`Prompt:`
 
-Prompt:
-
-"You are a sound healing facilitator. Create a 1-day workshop including:
-
+`"You are a sound healing facilitator. Create a 1-day workshop including:`
+```
 1. Introduction to sound therapy benefits
 
 2. Guided sound bath meditation
@@ -1861,9 +1861,9 @@ Prompt:
 4. Partner-based listening exercises
 
 5. Closing integration session"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Group size
 
 2. Type of instruments available
@@ -1871,17 +1871,17 @@ Inputs Required:
 3. Space acoustics
 
 4. Participant prior exposure to sound therapy
-
+```
 Prompt 23 – Yoga & Mindful Leadership Retreat
 
-Backstory: Corporate leaders in India are increasingly seeking ways to lead with empathy, clarity, and resilience. This 2-day retreat in Pune integrates yoga, meditation, and leadership coaching to help participants align personal well-being with professional excellence. The aim is to move away from stress-driven management toward mindful, purpose-led leadership styles that inspire teams.
+`Backstory: Corporate leaders in India are increasingly seeking ways to lead with empathy, clarity, and resilience. This 2-day retreat in Pune integrates yoga, meditation, and leadership coaching to help participants align personal well-being with professional excellence. The aim is to move away from stress-driven management toward mindful, purpose-led leadership styles that inspire teams.`
 
-Goal: Create a program for leaders to combine mindfulness with practical leadership skills.
+`Goal: Create a program for leaders to combine mindfulness with practical leadership skills.`
 
-Prompt:
+`Prompt:`
 
-"You are a corporate mindfulness coach. Create a 2-day retreat plan including:
-
+`"You are a corporate mindfulness coach. Create a 2-day retreat plan including:`
+```
 1. Morning yoga for energy and focus
 
 2. Mindful decision-making exercises
@@ -1891,9 +1891,9 @@ Prompt:
 4. Reflection journaling
 
 5. Evening guided relaxation"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Industry background of leaders
 
 2. Size of leadership team
@@ -1901,17 +1901,17 @@ Inputs Required:
 3. Accommodation and activity space details
 
 4. Any physical limitations of participants
+```
+## Prompt 24 – Couples Connection & Communication Retreat
 
-Prompt 24 – Couples Connection & Communication Retreat
+`Backstory: Many Indian couples, especially in urban centers, struggle to balance career demands and relationship quality. A 2-day retreat in Udaipur will help couples rebuild intimacy, strengthen trust, and learn healthy communication practices. The retreat will combine relationship counseling exercises, partner yoga, and activities that encourage playfulness and shared experiences.`
 
-Backstory: Many Indian couples, especially in urban centers, struggle to balance career demands and relationship quality. A 2-day retreat in Udaipur will help couples rebuild intimacy, strengthen trust, and learn healthy communication practices. The retreat will combine relationship counseling exercises, partner yoga, and activities that encourage playfulness and shared experiences.
+`Goal: Design a couples’ retreat that deepens connection and strengthens communication.`
 
-Goal: Design a couples’ retreat that deepens connection and strengthens communication.
+`Prompt:
 
-Prompt:
-
-"You are a relationship coach. Create a 2-day couples’ retreat including:
-
+`"You are a relationship coach. Create a 2-day couples’ retreat including:`
+```
 1. Morning partner yoga
 
 2. Communication skill-building workshops
@@ -1921,9 +1921,9 @@ Prompt:
 4. Playful team activities
 
 5. Evening bonding rituals"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Relationship stage of couples
 
 2. Privacy preferences
@@ -1931,17 +1931,17 @@ Inputs Required:
 3. Accommodation type
 
 4. Cultural sensitivities
+```
+## Prompt 25 – Inner Child Healing Retreat
 
-Prompt 25 – Inner Child Healing Retreat
+`Backstory: Many adults carry unprocessed childhood wounds that affect their present lives. A 2-day retreat in the Nilgiris will help participants reconnect with their inner child through play therapy, guided meditation, and creative arts. This safe and nurturing space will allow them to release old traumas, rediscover joy, and embrace vulnerability. The program is open to both beginners in self-work and experienced practitioners.`
 
-Backstory: Many adults carry unprocessed childhood wounds that affect their present lives. A 2-day retreat in the Nilgiris will help participants reconnect with their inner child through play therapy, guided meditation, and creative arts. This safe and nurturing space will allow them to release old traumas, rediscover joy, and embrace vulnerability. The program is open to both beginners in self-work and experienced practitioners.
+`Goal: Build a retreat that supports deep emotional healing through inner child work.`
 
-Goal: Build a retreat that supports deep emotional healing through inner child work.
+`Prompt:`
 
-Prompt:
-
-"You are a trauma-informed mindfulness coach. Create a 2-day inner child healing retreat including:
-
+`"You are a trauma-informed mindfulness coach. Create a 2-day inner child healing retreat including:`
+```
 1. Morning guided inner child meditation
 
 2. Play-based therapy exercises
@@ -1951,9 +1951,9 @@ Prompt:
 4. Group sharing circles
 
 5. Evening closing ceremony with symbolic release"
-
-Inputs Required:
-
+```
+`Inputs Required:`
+```
 1. Age range of participants
 
 2. Prior therapy experience
@@ -1961,7 +1961,7 @@ Inputs Required:
 3. Group size
 
 4. Available creative materials
-
+```
 
 Manifestation & Goal Setting Using Indian Spiritual Principles
 
