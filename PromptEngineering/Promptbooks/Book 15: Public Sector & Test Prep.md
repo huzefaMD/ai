@@ -840,20 +840,20 @@ Provide a table mapping NEP provisions to state-level action points."
 
 3. Staff availability data
 ```
-Prompt 16 – Digital Education Policy for Government Schools
+## `Prompt 16 – Digital Education Policy for Government Schools
 
-Backstory:
+`Backstory:`
 
-The Ministry of Education has launched a nationwide digital learning initiative, providing e-content, tablets, and teacher training to government schools. While urban schools adapt quickly, rural and semi-urban schools struggle due to limited electricity and bandwidth. Teachers require clear guidelines on how to blend traditional teaching with new digital resources.
+`The Ministry of Education has launched a nationwide digital learning initiative, providing e-content, tablets, and teacher training to government schools. While urban schools adapt quickly, rural and semi-urban schools struggle due to limited electricity and bandwidth. Teachers require clear guidelines on how to blend traditional teaching with new digital resources.`
 
-Goal:
+`Goal:`
 
-Translate the digital education policy into an actionable plan for government school teachers.
+`Translate the digital education policy into an actionable plan for government school teachers.`
 
-Prompt:
+`Prompt:`
 
-"You are an education policy expert. Summarise the government’s digital education initiative for teachers in rural and semi-urban government schools. Include:
-
+`"You are an education policy expert. Summarise the government’s digital education initiative for teachers in rural and semi-urban government schools. Include:`
+```
 1. Available e-content and resources
 
 2. Device distribution and maintenance
@@ -861,29 +861,29 @@ Prompt:
 3. Hybrid teaching strategies
 
 4. Offline learning solutions for low-bandwidth areas"
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Digital education policy document
 
 2. Current school resource inventory
 
 3. Teacher training schedules
+```
+## Prompt 17 – Smart City Mission Policy Update
 
-Prompt 17 – Smart City Mission Policy Update
+`Backstory:`
 
-Backstory:
+`The Smart City Mission has entered its second phase, focusing on renewable energy, intelligent traffic systems, and integrated waste management. Municipal corporations in smaller cities often lack in-house expertise to translate these policies into actionable urban planning steps. A concise, implementation-ready brief could bridge this gap.`
 
-The Smart City Mission has entered its second phase, focusing on renewable energy, intelligent traffic systems, and integrated waste management. Municipal corporations in smaller cities often lack in-house expertise to translate these policies into actionable urban planning steps. A concise, implementation-ready brief could bridge this gap.
+`Goal:`
 
-Goal:
+`Summarise the Smart City Mission Phase-2 guidelines for municipal planners.`
 
-Summarise the Smart City Mission Phase-2 guidelines for municipal planners.
+`Prompt:`
 
-Prompt:
-
-"You are an urban policy consultant. Summarise the Smart City Mission Phase-2 guidelines for municipal planning teams. Include:
-
+`"You are an urban policy consultant. Summarise the Smart City Mission Phase-2 guidelines for municipal planning teams. Include:`
+```
 1. New focus areas and funding allocations
 
 2. Recommended infrastructure projects
@@ -891,29 +891,29 @@ Prompt:
 3. Technology integration priorities
 
 4. Citizen engagement requirements"
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Smart City Mission Phase-2 policy
 
 2. City’s current infrastructure plan
 
 3. Budget allocation details
+```
+## Prompt 18 – Renewable Energy Policy for State Governments
 
-Prompt 18 – Renewable Energy Policy for State Governments
+`Backstory:`
 
-Backstory:
+`India’s renewable energy targets have been revised to accelerate solar and wind installations, with state governments receiving performance-linked incentives. However, states with limited renewable infrastructure face challenges in scaling up quickly while maintaining grid stability. Policymakers need a clear, state-specific execution guide.`
 
-India’s renewable energy targets have been revised to accelerate solar and wind installations, with state governments receiving performance-linked incentives. However, states with limited renewable infrastructure face challenges in scaling up quickly while maintaining grid stability. Policymakers need a clear, state-specific execution guide.
+`Goal:`
 
-Goal:
+`Summarise the updated renewable energy policy for state-level adaptation.`
 
-Summarise the updated renewable energy policy for state-level adaptation.
+`Prompt:`
 
-Prompt:
-
-"You are an energy policy specialist. Summarise the national renewable energy policy for state governments. Include:
-
+`"You are an energy policy specialist. Summarise the national renewable energy policy for state governments. Include:`
+```
 1. New targets and timelines
 
 2. Available incentives and funding
@@ -921,29 +921,29 @@ Prompt:
 3. Integration with state power grids
 
 4. Recommendations for rapid project deployment"
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Renewable energy policy document
 
 2. State’s current energy mix
 
 3. Available land and resources
+```
+## Prompt 19 – Urban Housing Policy Review
 
-Prompt 19 – Urban Housing Policy Review
+`Backstory:`
 
-Backstory:
+`The Pradhan Mantri Awas Yojana (PMAY) has been extended with revised income eligibility criteria and an emphasis on green building designs. State housing boards need a comparative analysis of old and new guidelines to adjust application processes and outreach campaigns.`
 
-The Pradhan Mantri Awas Yojana (PMAY) has been extended with revised income eligibility criteria and an emphasis on green building designs. State housing boards need a comparative analysis of old and new guidelines to adjust application processes and outreach campaigns.
+`Goal:`
 
-Goal:
+`Compare old and new PMAY guidelines for housing boards.`
 
-Compare old and new PMAY guidelines for housing boards.
+`Prompt:`
 
-Prompt:
-
-"You are a housing policy analyst. Create a comparative review of PMAY’s revised guidelines for state housing boards. Include:
-
+`"You are a housing policy analyst. Create a comparative review of PMAY’s revised guidelines for state housing boards. Include:`
+```
 1. Changes in income eligibility and subsidy rates
 
 2. New green building requirements
@@ -951,29 +951,29 @@ Prompt:
 3. Impact on urban vs. rural applicants
 
 4. Updated application and approval processes"
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. PMAY guideline documents (old and new)
 
 2. Housing board application data
 
 3. Local construction practices
+```
+## Prompt 20 – Disaster Management Policy for Coastal States
 
-Prompt 20 – Disaster Management Policy for Coastal States
+`Backstory:`
 
-Backstory:
+`With rising sea levels and increased cyclone frequency, the National Disaster Management Authority (NDMA) has revised its disaster preparedness guidelines for coastal states. The new framework includes early warning systems, mandatory community drills, and stricter construction norms for vulnerable areas. Many district disaster management units lack the expertise to translate these into effective local action plans.`
 
-With rising sea levels and increased cyclone frequency, the National Disaster Management Authority (NDMA) has revised its disaster preparedness guidelines for coastal states. The new framework includes early warning systems, mandatory community drills, and stricter construction norms for vulnerable areas. Many district disaster management units lack the expertise to translate these into effective local action plans.
+`Goal:`
 
-Goal:
+`Summarise disaster management policy updates for coastal district administrations.`
 
-Summarise disaster management policy updates for coastal district administrations.
+`Prompt:`
 
-Prompt:
-
-"You are a disaster management policy expert. Summarise the NDMA’s updated disaster preparedness guidelines for coastal states. Include:
-
+`"You are a disaster management policy expert. Summarise the NDMA’s updated disaster preparedness guidelines for coastal states. Include:`
+```
 1. Early warning system requirements
 
 2. Community training and drill protocols
@@ -981,29 +981,29 @@ Prompt:
 3. Updated infrastructure safety standards
 
 4. Funding and resource allocation strategies"
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. NDMA policy update
 
 2. Coastal vulnerability maps
 
 3. Local infrastructure data
+```
+## Prompt 21 – Public Transport Electrification Policy
 
-Prompt 21 – Public Transport Electrification Policy
+`Backstory:`
 
-Backstory:
+`The Ministry of Road Transport & Highways has announced a 10-year roadmap to transition public transport fleets to electric vehicles (EVs). While large cities have pilot projects, smaller cities and towns face procurement, charging infrastructure, and maintenance challenges. State transport corporations need a roadmap tailored to their operational scale.`
 
-The Ministry of Road Transport & Highways has announced a 10-year roadmap to transition public transport fleets to electric vehicles (EVs). While large cities have pilot projects, smaller cities and towns face procurement, charging infrastructure, and maintenance challenges. State transport corporations need a roadmap tailored to their operational scale.
+`Goal:`
 
-Goal:
+`Summarise the public transport electrification policy for state and municipal transport bodies.`
 
-Summarise the public transport electrification policy for state and municipal transport bodies.
+`Prompt:`
 
-Prompt:
-
-"You are a transportation policy advisor. Summarise the national public transport EV policy for state transport corporations. Include:
-
+`"You are a transportation policy advisor. Summarise the national public transport EV policy for state transport corporations. Include:`
+```
 1. Targets and timelines for fleet transition
 
 2. Financial incentives and subsidies
@@ -1011,15 +1011,15 @@ Prompt:
 3. Charging infrastructure requirements
 
 4. Workforce training for EV maintenance"
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Public transport EV policy document
 
 2. Current fleet inventory
 
 3. Local power grid capacity report
-
+```
 Prompt 22 – National Water Policy Implementation Guide
 
 Backstory:
