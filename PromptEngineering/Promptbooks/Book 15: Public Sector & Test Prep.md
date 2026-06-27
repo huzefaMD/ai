@@ -1141,22 +1141,22 @@ Provide a table mapping NEP provisions to state-level action points."
 3. User access records
 ```
 
-Mock Interview Scripts
+# Mock Interview Scripts
 
-Prompt 1 – IAS Civil Services Mock Interview: National Security & Policy
+## Prompt 1 – IAS Civil Services Mock Interview: National Security & Policy
 
-Backstory:
+`Backstory:`
 
-A 26-year-old UPSC aspirant has cleared the Mains and is preparing for the Personality Test round. Their optional subject is Political Science & International Relations, and they have been following recent developments in India's border security and international diplomacy. However, they often struggle to give concise, structured answers under pressure. They need a realistic mock interview to simulate high-stakes questioning on national security, diplomacy, and governance.
+`A 26-year-old UPSC aspirant has cleared the Mains and is preparing for the Personality Test round. Their optional subject is Political Science & International Relations, and they have been following recent developments in India's border security and international diplomacy. However, they often struggle to give concise, structured answers under pressure. They need a realistic mock interview to simulate high-stakes questioning on national security, diplomacy, and governance.`
 
-Goal:
+`Goal:`
 
-Create a structured IAS mock interview focused on national security and policy issues.
+`Create a structured IAS mock interview focused on national security and policy issues.`
 
-Prompt:
+`Prompt:`
 
-"You are a UPSC interview board member. Conduct a mock interview for a candidate with Political Science as their optional subject. Focus on:
-
+`"You are a UPSC interview board member. Conduct a mock interview for a candidate with Political Science as their optional subject. Focus on:`
+```
 1. India’s defence policy and recent border issues
 
 2. Role in multilateral organisations (e.g., BRICS, G20)
@@ -1164,11 +1164,11 @@ Prompt:
 3. Internal security challenges (e.g., cyber threats, terrorism)
 
 4. Ethical decision-making in governance
+```
+`Ask 10–12 questions, mix factual and opinion-based, and provide feedback after each answer."`
 
-Ask 10–12 questions, mix factual and opinion-based, and provide feedback after each answer."
-
-Inputs:
-
+`Inputs:`
+```
 1. Candidate’s educational background
 
 2. Optional subject
@@ -1176,7 +1176,7 @@ Inputs:
 3. Current affairs they’ve been following
 
 4. Strengths and weaknesses in communication
-
+```
 Prompt 2 – State PCS Mock Interview: Rural Development & Administration
 
 Backstory:
