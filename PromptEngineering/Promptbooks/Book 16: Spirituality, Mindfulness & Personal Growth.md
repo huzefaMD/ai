@@ -1097,110 +1097,110 @@ Inputs:
 
 3. Filming setup
 
-Prompt 21 – LinkedIn Carousel: “Spiritual Leadership in Business”
+## Prompt 21 – LinkedIn Carousel: “Spiritual Leadership in Business”
 
-Backstory: Many Indian entrepreneurs are exploring integrating spirituality into leadership. A professional yet inspiring carousel can open conversations with this audience.
+`Backstory: Many Indian entrepreneurs are exploring integrating spirituality into leadership. A professional yet inspiring carousel can open conversations with this audience.`
 
-Goal: Create an 8-slide LinkedIn carousel for spiritual business leadership.
+`Goal: Create an 8-slide LinkedIn carousel for spiritual business leadership.`
 
-Prompt:
+`Prompt:`
 
-“You are a B2B content creator. Create an 8-slide carousel on ‘Spiritual Leadership in Business’.
-
+`“You are a B2B content creator. Create an 8-slide carousel on ‘Spiritual Leadership in Business’.`
+```
 1. Slide 1: attention-grabbing stat.
 
 2. Slides 2–7: principles with examples.
 
 3. Slide 8: CTA to connect with the coach.”
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Industry focus
 
 2. Leadership examples
 
 3. Brand colors
+```
+## Prompt 22 – WhatsApp Broadcast: “Daily Mindfulness Tip”
 
-Prompt 22 – WhatsApp Broadcast: “Daily Mindfulness Tip”
+`Backstory: WhatsApp is one of the most intimate channels for daily connection in India. A short daily mindfulness message can build loyalty and retention.`
 
-Backstory: WhatsApp is one of the most intimate channels for daily connection in India. A short daily mindfulness message can build loyalty and retention.
+`Goal: Write a week’s worth of mindfulness tip messages.`
 
-Goal: Write a week’s worth of mindfulness tip messages.
+`Prompt:`
 
-Prompt:
-
-“You are a community engagement manager. Write 7 daily WhatsApp messages with short mindfulness tips.
-
+`“You are a community engagement manager. Write 7 daily WhatsApp messages with short mindfulness tips.`
+```
 1. Keep each under 100 words.
 
 2. Include 1 emoji and a gentle reminder to share with friends.”
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Tip themes
 
 2. Audience age range
 
 3. Tone
+```
+## Prompt 23 – Blog Post: “How Meditation Changed My Life”
 
-Prompt 23 – Blog Post: “How Meditation Changed My Life”
+`Backstory: Storytelling posts build emotional connection. A personal narrative from the coach can inspire trust and curiosity.`
 
-Backstory: Storytelling posts build emotional connection. A personal narrative from the coach can inspire trust and curiosity.
+`Goal: Write a 1,200-word blog post sharing a transformation journey.`
 
-Goal: Write a 1,200-word blog post sharing a transformation journey.
+`Prompt:`
 
-Prompt:
-
-“You are a ghostwriter for a spiritual coach. Write a blog post titled ‘How Meditation Changed My Life’.
-
+`“You are a ghostwriter for a spiritual coach. Write a blog post titled ‘How Meditation Changed My Life’.`
+```
 1. Introduction: life before meditation.
 
 2. Middle: 3 turning points.
 
 3. Conclusion: lessons and invitation to join a program.”
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Personal anecdotes
 
 2. Lesson themes
 
 3. Blog style
+```
+## Prompt 24 – Instagram Quote Post: “Inner Peace is Power”
 
-Prompt 24 – Instagram Quote Post: “Inner Peace is Power”
+`Backstory: Inspirational quotes drive high saves and shares. Pairing them with brand-consistent visuals increases recognition.`
 
-Backstory: Inspirational quotes drive high saves and shares. Pairing them with brand-consistent visuals increases recognition.
+`Goal: Create a quote post for Instagram.`
 
-Goal: Create a quote post for Instagram.
+`Prompt:`
 
-Prompt:
-
-“You are a graphic content planner. Design an Instagram quote post with the text ‘Inner Peace is Power’.
-
+`“You are a graphic content planner. Design an Instagram quote post with the text ‘Inner Peace is Power’.`
+```
 1. Choose a relevant background image.
 
 2. Include brand logo subtly.
 
 3. Add a short caption encouraging engagement.”
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Font style
 
 2. Background type
 
 3. Color theme
+```
+## Prompt 25 – Podcast Episode Outline: “Mindfulness for Parents”
 
-Prompt 25 – Podcast Episode Outline: “Mindfulness for Parents”
+`Backstory: Many Indian parents are seeking tools to remain calm while raising children. A podcast episode can offer them practical steps and relatable stories.`
 
-Backstory: Many Indian parents are seeking tools to remain calm while raising children. A podcast episode can offer them practical steps and relatable stories.
+`Goal: Plan a 20-minute podcast episode.`
 
-Goal: Plan a 20-minute podcast episode.
+`Prompt:`
 
-Prompt:
-
-“You are a podcast content producer. Outline a 20-minute episode on ‘Mindfulness for Parents’.
-
+`“You are a podcast content producer. Outline a 20-minute episode on ‘Mindfulness for Parents’.`
+```
 1. Opening story.
 
 2. 3 main strategies.
@@ -1208,15 +1208,15 @@ Prompt:
 3. Short guided exercise.
 
 4. Closing invitation to subscribe.”
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Parenting challenges to focus on
 
 2. Target child age group
 
 3. Tone
-
+```
 
 Workshop & retreat agendas
 
