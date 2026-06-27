@@ -1,15 +1,15 @@
-Guided meditation scripts
+# Guided meditation scripts
 
-Prompt 1 – Morning Gratitude Meditation for Busy Professionals
+## Prompt 1 – Morning Gratitude Meditation for Busy Professionals
 
-Backstory: In modern India’s fast-paced urban life, young professionals often start their day rushing — checking emails, commuting through traffic, and skipping mindful moments. Over time, this leads to burnout, low emotional resilience, and disconnection from the present. A short guided meditation designed for mornings can help them cultivate gratitude, set a positive tone, and boost emotional well-being before the day’s challenges. This meditation should be designed to fit into a 5–7 minute window, making it practical for those with tight schedules.
+`Backstory: In modern India’s fast-paced urban life, young professionals often start their day rushing — checking emails, commuting through traffic, and skipping mindful moments. Over time, this leads to burnout, low emotional resilience, and disconnection from the present. A short guided meditation designed for mornings can help them cultivate gratitude, set a positive tone, and boost emotional well-being before the day’s challenges. This meditation should be designed to fit into a 5–7 minute window, making it practical for those with tight schedules.`
 
-Goal: Create a short, impactful morning gratitude meditation script that can be used daily by busy professionals.
+`Goal: Create a short, impactful morning gratitude meditation script that can be used daily by busy professionals.`
 
-Prompt:
+`Prompt:`
 
-“You are a mindfulness coach specializing in workplace well-being. Write a 7-minute guided meditation script for busy Indian professionals that helps them start their day with gratitude. 
-
+`“You are a mindfulness coach specializing in workplace well-being. Write a 7-minute guided meditation script for busy Indian professionals that helps them start their day with gratitude.` 
+```
 1. Use calming, everyday language (avoid heavy spiritual jargon). 
 
 2. Include gentle breathing cues and visualization exercises. 
@@ -17,15 +17,15 @@ Prompt:
 3. Encourage appreciation for small blessings like morning tea, family, and health. 
 
 4. End with an intention-setting statement for the day.”
-
-Inputs: 
-
+```
+`Inputs: `
+```
 1. Duration preference (in minutes) 
 
 2. Language (English, Hindi, or bilingual) 
 
 3. Tone (gentle, uplifting, or deeply relaxing)
-
+```
 Prompt 2 – Sleep Induction Meditation for Overthinkers
 
 Backstory: Many Indians, especially students and mid-career professionals, struggle with overthinking at night due to academic pressures, work stress, or personal worries. This constant mental chatter delays sleep and affects health. A guided meditation tailored for overthinkers can help them quiet their mind, slow their thoughts, and drift into a restful sleep naturally. The script should use sensory imagery and slow pacing to guide the listener into deep relaxation.
