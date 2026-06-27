@@ -311,45 +311,45 @@
 
 ## Prompt 23 — RRB NTPC Exam Study Plan
 
-Backstory:
+`Backstory:`
 
-A 23-year-old graduate from Kanpur is preparing for the RRB NTPC exam to secure a railway job. He is strong in General Awareness but weak in Mathematics and Reasoning. He can dedicate 4–5 hours daily and prefers solving problems in a timed environment. He has 6 months before the exam and wants to gradually increase his mock test frequency.
+`A 23-year-old graduate from Kanpur is preparing for the RRB NTPC exam to secure a railway job. He is strong in General Awareness but weak in Mathematics and Reasoning. He can dedicate 4–5 hours daily and prefers solving problems in a timed environment. He has 6 months before the exam and wants to gradually increase his mock test frequency.`
 
-Goal:
+`Goal:`
 
-Create a timetable focused on boosting Quant and Reasoning speed.
+`Create a timetable focused on boosting Quant and Reasoning speed.`
 
-Prompt:
+`Prompt:`
 
-"Prepare a 6-month RRB NTPC timetable focusing on improving Quant and Reasoning while maintaining GA revision. Include sectional tests twice a week and monthly full-length mocks."
+`"Prepare a 6-month RRB NTPC timetable focusing on improving Quant and Reasoning while maintaining GA revision. Include sectional tests twice a week and monthly full-length mocks."`
 
-Prompt 24 — Judiciary Exam (Delhi) Timetable
+## Prompt 24 — Judiciary Exam (Delhi) Timetable
 
-Backstory:
+`Backstory:`
 
-A 24-year-old law graduate from Delhi is aiming for the Delhi Judicial Service Exam. She is confident in Civil Law but has gaps in Criminal Law and Procedural Laws. She wants to cover all bare acts thoroughly and practice past papers regularly. With 12 months before the exam, she can devote 8 hours daily.
+`A 24-year-old law graduate from Delhi is aiming for the Delhi Judicial Service Exam. She is confident in Civil Law but has gaps in Criminal Law and Procedural Laws. She wants to cover all bare acts thoroughly and practice past papers regularly. With 12 months before the exam, she can devote 8 hours daily.`
 
-Goal:
+`Goal:`
 
-Build a year-long judiciary exam study timetable.
+`Build a year-long judiciary exam study timetable.`
 
-Prompt:
+`Prompt:`
 
-"Create a 12-month Delhi Judicial Service exam study plan covering Civil, Criminal, and Procedural laws. Include daily bare act reading, weekly answer writing practice, and monthly mock tests with case law analysis."
+`"Create a 12-month Delhi Judicial Service exam study plan covering Civil, Criminal, and Procedural laws. Include daily bare act reading, weekly answer writing practice, and monthly mock tests with case law analysis."`
 
-Prompt 25 — NEET-UG Repeat Year Timetable
+## Prompt 25 — NEET-UG Repeat Year Timetable
 
-Backstory:
+`Backstory:`
 
-A 19-year-old from Kochi is repeating NEET after scoring 580 in her first attempt. She is very strong in Biology and Chemistry but weak in Physics problem-solving speed. She wants a highly disciplined 12-month plan to target a government medical seat. She can dedicate 10–12 hours daily and wants Physics as a daily priority while keeping Biology revision frequent.
+`A 19-year-old from Kochi is repeating NEET after scoring 580 in her first attempt. She is very strong in Biology and Chemistry but weak in Physics problem-solving speed. She wants a highly disciplined 12-month plan to target a government medical seat. She can dedicate 10–12 hours daily and wants Physics as a daily priority while keeping Biology revision frequent.`
 
-Goal:
+`Goal:`
 
-Create a Physics-focused NEET repeat-year study schedule.
+`Create a Physics-focused NEET repeat-year study schedule.`
 
-Prompt:
+`Prompt:`
 
-"Design a 12-month NEET preparation timetable for a repeater strong in Biology and Chemistry but weak in Physics. Include daily Physics drills, weekly full-syllabus mocks, and targeted concept-revision cycles."
+`"Design a 12-month NEET preparation timetable for a repeater strong in Biology and Chemistry but weak in Physics. Include daily Physics drills, weekly full-syllabus mocks, and targeted concept-revision cycles."`
 
 
 Policy analysis summaries
