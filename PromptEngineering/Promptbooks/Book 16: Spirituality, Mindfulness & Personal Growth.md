@@ -54,14 +54,14 @@
 ```
 ## Prompt 3 – Guided Meditation for Exam Stress Relief
 
-Backstory: In India, competitive exams like UPSC, NEET, and CAT create immense pressure for students. Sleepless nights, nervousness, and self-doubt are common. A guided meditation focusing on calming the nerves and boosting confidence can be an essential tool for mental balance during preparation. This script should be short enough to be used before study sessions or right before entering the exam hall.
+`Backstory: In India, competitive exams like UPSC, NEET, and CAT create immense pressure for students. Sleepless nights, nervousness, and self-doubt are common. A guided meditation focusing on calming the nerves and boosting confidence can be an essential tool for mental balance during preparation. This script should be short enough to be used before study sessions or right before entering the exam hall.`
 
-Goal: Create a calming guided meditation that reduces exam stress and instills confidence in students.
+`Goal: Create a calming guided meditation that reduces exam stress and instills confidence in students.`
 
-Prompt:
+`Prompt:`
 
-“You are a mental wellness mentor for students. Write a 5-minute guided meditation script that helps reduce exam anxiety and improves focus.
-
+`“You are a mental wellness mentor for students. Write a 5-minute guided meditation script that helps reduce exam anxiety and improves focus.`
+```
 1. Begin with slow breathing to calm the heart rate.
 
 2. Use empowering imagery of success and preparedness.
@@ -69,73 +69,73 @@ Prompt:
 3. Include affirmations that reinforce self-trust and capability.
 
 4. End with a reminder of their hard work and readiness.”
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Exam type (UPSC, NEET, CAT, etc.)
 
 2. Language preference
 
 3. Desired duration (3–5 minutes)
+```
+## Prompt 4 – Full Moon Release Meditation
 
-Prompt 4 – Full Moon Release Meditation
+`Backstory: In Indian spiritual traditions, the full moon is seen as a powerful time for emotional cleansing and letting go of negativity. Many people struggle to release grudges, past mistakes, or toxic attachments. A guided meditation during the full moon can harness cultural symbolism and mindfulness techniques to help them feel lighter and emotionally free.`
 
-Backstory: In Indian spiritual traditions, the full moon is seen as a powerful time for emotional cleansing and letting go of negativity. Many people struggle to release grudges, past mistakes, or toxic attachments. A guided meditation during the full moon can harness cultural symbolism and mindfulness techniques to help them feel lighter and emotionally free.
+`Goal: Write a guided meditation script for releasing emotional burdens during the full moon.`
 
-Goal: Write a guided meditation script for releasing emotional burdens during the full moon.
+`Prompt:`
 
-Prompt:
-
-“You are a spiritual life coach with knowledge of Indian cultural practices. Write a 12-minute guided meditation for emotional release during the full moon.
-
+`“You are a spiritual life coach with knowledge of Indian cultural practices. Write a 12-minute guided meditation for emotional release during the full moon.`
+```
 1. Use lunar imagery and gentle visualization of releasing negative energy.
 
 2. Integrate soft background sounds like temple bells or wind chimes.
 
 3. Include forgiveness affirmations and a closing gratitude ritual.”
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Emotional theme (letting go of anger, sadness, guilt, etc.)
 
 2. Preferred cultural elements (mantras, chants, or silence)
 
 3. Duration preference
+```
+## Prompt 5 – Body Scan Meditation for Corporate Employees
 
-Prompt 5 – Body Scan Meditation for Corporate Employees
+`Backstory: Desk jobs in India’s IT and corporate sectors often cause physical stiffness, tension headaches, and fatigue. Many employees are unaware of how much tension they hold in their bodies until it causes chronic discomfort. A body scan meditation can help them reconnect with their body, release tension, and improve posture awareness during long work hours.`
 
-Backstory: Desk jobs in India’s IT and corporate sectors often cause physical stiffness, tension headaches, and fatigue. Many employees are unaware of how much tension they hold in their bodies until it causes chronic discomfort. A body scan meditation can help them reconnect with their body, release tension, and improve posture awareness during long work hours.
+`Goal: Create a guided body scan meditation tailored for corporate employees.`
 
-Goal: Create a guided body scan meditation tailored for corporate employees.
+`Prompt:`
 
-Prompt:
-
-“You are a workplace wellness trainer. Develop a 15-minute guided body scan meditation for corporate employees.
-
+`“You are a workplace wellness trainer. Develop a 15-minute guided body scan meditation for corporate employees.`
+```
 1. Focus on areas commonly strained by desk work (neck, shoulders, back, wrists).
 
 2. Include gentle awareness exercises and micro-stretch suggestions.
 
 3. Maintain a professional yet soothing tone to make it workplace-appropriate.”
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Duration (10–20 minutes)
 
 2. Office environment noise level
 
 3. Whether movement/stretching instructions are allowed
+```
+## Prompt 6 – Inner Child Healing Meditation
 
-Prompt 6 – Inner Child Healing Meditation
+`Backstory: Many adults in India carry unresolved childhood wounds from strict parenting, academic pressure, or emotional neglect. These unhealed memories manifest as anxiety, low self-worth, or fear of failure. Inner child healing meditations allow individuals to reconnect with their younger selves, offering compassion, reassurance, and emotional safety. This can be especially transformative for people navigating personal or relationship challenges.`
 
-Backstory: Many adults in India carry unresolved childhood wounds from strict parenting, academic pressure, or emotional neglect. These unhealed memories manifest as anxiety, low self-worth, or fear of failure. Inner child healing meditations allow individuals to reconnect with their younger selves, offering compassion, reassurance, and emotional safety. This can be especially transformative for people navigating personal or relationship challenges.
+`Goal: Create a guided meditation that facilitates deep connection and healing with the inner child.`
 
-Goal: Create a guided meditation that facilitates deep connection and healing with the inner child.
+`Prompt:`
 
-Prompt:
-
-“You are a trauma-informed mindfulness facilitator. Write a 15-minute guided meditation for inner child healing.
-
+`“You are a trauma-informed mindfulness facilitator. Write a 15-minute guided meditation for inner child healing.`
+```
 1. Begin by creating a safe mental space.
 
 2. Lead the listener to visualize their younger self at a specific age.
@@ -143,40 +143,40 @@ Prompt:
 3. Include affirmations of love, safety, and acceptance.
 
 4. End with integrating the healed self into the present.”
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Age to focus on
 
 2. Preferred language
 
 3. Emotional themes (abandonment, shame, fear, etc.)
+```
+## Prompt 7 – Chakra Balancing Meditation
 
-Prompt 7 – Chakra Balancing Meditation
+`Backstory: In Indian spiritual practice, chakras represent energy centers influencing physical, emotional, and spiritual health. Modern stress, sedentary habits, and negative emotions can disrupt this flow. A chakra balancing meditation can help harmonize these energies, promoting overall well-being. While rooted in ancient wisdom, it should be presented in a way that feels accessible and non-intimidating to beginners.`
 
-Backstory: In Indian spiritual practice, chakras represent energy centers influencing physical, emotional, and spiritual health. Modern stress, sedentary habits, and negative emotions can disrupt this flow. A chakra balancing meditation can help harmonize these energies, promoting overall well-being. While rooted in ancient wisdom, it should be presented in a way that feels accessible and non-intimidating to beginners.
+`Goal: Write a guided meditation to align and balance all seven chakras.`
 
-Goal: Write a guided meditation to align and balance all seven chakras.
+`Prompt:`
 
-Prompt:
-
-“You are a meditation teacher trained in energy healing. Create a 20-minute guided meditation for balancing the seven chakras.
-
+`“You are a meditation teacher trained in energy healing. Create a 20-minute guided meditation for balancing the seven chakras.`
+```
 1. Use color visualizations for each chakra.
 
 2. Add gentle breathing patterns to enhance energy flow.
 
 3. Incorporate simple Sanskrit seed sounds (mantras) for activation.”
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Duration preference
 
 2. Whether to include mantras
 
 3. Audience experience level
-
-Prompt 8 – Grounding Meditation for Anxiety
+```
+## Prompt 8 – Grounding Meditation for Anxiety
 
 Backstory: With increasing urbanization and digital overload, many Indians experience a constant sense of restlessness and detachment from the present. Grounding techniques can help reconnect them with their bodies and surroundings, reducing anxiety symptoms. This meditation is especially useful for those in high-stress jobs or going through life transitions.
 
