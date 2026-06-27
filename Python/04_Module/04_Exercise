@@ -1,0 +1,19 @@
+# Build a mini conversation for an AI chatbot
+
+# Step 1: Create empty conversation
+conversation = []
+
+# Step 2: Add these 3 messages using .append()
+# Message 1 — user asks: "What subjects are available?"
+# Message 2 — assistant replies: "Math, Physics, and Computer Science"
+# Message 3 — user asks: "How much does the Math course cost?"
+
+# YOUR CODE HERE ↓
+
+
+
+
+# Step 3: Print these results:
+# "Total messages in conversation: 3"
+# "First speaker: user"
+# "Last question: ..."  (print the content of message 3)
