@@ -1837,20 +1837,20 @@ Goal:
 ```
 ## Prompt 2 – Solar Water Heater Adoption for Small Hotels
 
-Backstory:
+`Backstory:`
 
-A boutique hotel chain with 15 rooms each in Jaipur and Udaipur spends a significant portion of its energy budget on heating water for guests. The owners want to switch to solar water heating systems to save on costs and market their hotels as eco-friendly. They are unsure about sizing the system, estimating savings, and choosing between flat plate and evacuated tube collectors. They also need to factor in seasonal variations in sunlight.
+`A boutique hotel chain with 15 rooms each in Jaipur and Udaipur spends a significant portion of its energy budget on heating water for guests. The owners want to switch to solar water heating systems to save on costs and market their hotels as eco-friendly. They are unsure about sizing the system, estimating savings, and choosing between flat plate and evacuated tube collectors. They also need to factor in seasonal variations in sunlight.`
 
-Goal:
+`Goal:`
 
-Create an adoption guide for solar water heating systems in small hotels.
+`Create an adoption guide for solar water heating systems in small hotels.`
 
-Prompt:
+`Prompt:`
 
-"You are a hospitality energy efficiency expert. Prepare a solar water heating adoption guide for a small hotel chain in Rajasthan. Include system sizing calculations, technology comparisons, ROI projections, maintenance guidelines, and integration with existing water systems."
+`"You are a hospitality energy efficiency expert. Prepare a solar water heating adoption guide for a small hotel chain in Rajasthan. Include system sizing calculations, technology comparisons, ROI projections, maintenance guidelines, and integration with existing water systems."`
 
-Inputs:
-
+`Inputs:`
+```
 1. Number of rooms per hotel
 
 2. Average hot water demand per day
@@ -1858,23 +1858,23 @@ Inputs:
 3. Available roof space
 
 4. Budget for installation
+```
+## Prompt 3 – Wind Energy Adoption for Industrial Parks
 
-Prompt 3 – Wind Energy Adoption for Industrial Parks
+`Backstory:`
 
-Backstory:
+`An industrial park in Tamil Nadu, housing multiple textile factories, is exploring renewable energy to reduce reliance on grid electricity and diesel generators. Wind energy is a viable option due to consistent wind speeds in the region. However, the park’s management needs a detailed adoption guide explaining feasibility studies, land requirements, CAPEX vs. OPEX models, and potential partnerships with IPPs (Independent Power Producers).`
 
-An industrial park in Tamil Nadu, housing multiple textile factories, is exploring renewable energy to reduce reliance on grid electricity and diesel generators. Wind energy is a viable option due to consistent wind speeds in the region. However, the park’s management needs a detailed adoption guide explaining feasibility studies, land requirements, CAPEX vs. OPEX models, and potential partnerships with IPPs (Independent Power Producers).
+`Goal:`
 
-Goal:
+`Create a wind energy adoption guide for industrial park operators.`
 
-Create a wind energy adoption guide for industrial park operators.
+`Prompt:`
 
-Prompt:
+`"You are an industrial renewable energy advisor. Develop a wind energy adoption guide for a textile-focused industrial park in Tamil Nadu. Include wind resource assessment methods, land and infrastructure requirements, financing models, power purchase agreements, and maintenance frameworks."`
 
-"You are an industrial renewable energy advisor. Develop a wind energy adoption guide for a textile-focused industrial park in Tamil Nadu. Include wind resource assessment methods, land and infrastructure requirements, financing models, power purchase agreements, and maintenance frameworks."
-
-Inputs:
-
+`Inputs:`
+```
 1. Size of industrial park
 
 2. Current annual electricity consumption
@@ -1882,23 +1882,23 @@ Inputs:
 3. Available land area
 
 4. Budget and financing preferences
+```
+## Prompt 4 – Hybrid Solar-Wind System for Remote Villages
 
-Prompt 4 – Hybrid Solar-Wind System for Remote Villages
+`Backstory:`
 
-Backstory:
+`A social enterprise in Odisha is working in remote tribal villages with no access to the grid. They want to install hybrid solar-wind microgrids to power homes, schools, and small businesses. The community leaders are enthusiastic but require a clear, easy-to-understand guide on how these systems work, the costs involved, maintenance needs, and benefits compared to diesel generators.`
 
-A social enterprise in Odisha is working in remote tribal villages with no access to the grid. They want to install hybrid solar-wind microgrids to power homes, schools, and small businesses. The community leaders are enthusiastic but require a clear, easy-to-understand guide on how these systems work, the costs involved, maintenance needs, and benefits compared to diesel generators.
+`Goal:`
 
-Goal:
+`Create a simple community-friendly guide for adopting hybrid solar-wind microgrids.`
 
-Create a simple community-friendly guide for adopting hybrid solar-wind microgrids.
+`Prompt:`
 
-Prompt:
+`"You are a rural energy specialist. Create an adoption guide for hybrid solar-wind microgrids in remote Odisha villages. Include system design basics, cost and financing options, maintenance roles for community members, and comparisons to diesel generator alternatives."`
 
-"You are a rural energy specialist. Create an adoption guide for hybrid solar-wind microgrids in remote Odisha villages. Include system design basics, cost and financing options, maintenance roles for community members, and comparisons to diesel generator alternatives."
-
-Inputs:
-
+`Inputs:`
+```
 1. Number of households
 
 2. Average daily energy demand
@@ -1906,23 +1906,23 @@ Inputs:
 3. Local wind and solar resource availability
 
 4. Project budget
+```
+## Prompt 5 – Solar-Powered Cold Storage for Farmers
 
-Prompt 5 – Solar-Powered Cold Storage for Farmers
+`Backstory:`
 
-Backstory:
+`A farmer cooperative in Nashik faces post-harvest losses of fruits and vegetables due to lack of refrigeration facilities. They want to adopt solar-powered cold storage units to preserve produce and sell at better prices. The cooperative leaders need a guide that explains sizing the unit, battery storage needs, cost-benefit analysis, available subsidies, and potential financing options.`
 
-A farmer cooperative in Nashik faces post-harvest losses of fruits and vegetables due to lack of refrigeration facilities. They want to adopt solar-powered cold storage units to preserve produce and sell at better prices. The cooperative leaders need a guide that explains sizing the unit, battery storage needs, cost-benefit analysis, available subsidies, and potential financing options.
+`Goal:`
 
-Goal:
+`Create an adoption guide for solar-powered cold storage units for farmer cooperatives.`
 
-Create an adoption guide for solar-powered cold storage units for farmer cooperatives.
+`Prompt:`
 
-Prompt:
+`"You are an agricultural renewable energy consultant. Develop a solar-powered cold storage adoption guide for a farmer cooperative in Nashik. Include capacity planning, technical specifications, cost and ROI analysis, government subsidy details, and operational best practices."`
 
-"You are an agricultural renewable energy consultant. Develop a solar-powered cold storage adoption guide for a farmer cooperative in Nashik. Include capacity planning, technical specifications, cost and ROI analysis, government subsidy details, and operational best practices."
-
-Inputs:
-
+`Inputs:
+```
 1. Average daily produce volume
 
 2. Storage temperature requirements
@@ -1930,23 +1930,23 @@ Inputs:
 3. Available land/roof space
 
 4. Budget and financing options
+```
+## Prompt 6 – Community Biogas Plant for Semi-Urban Areas
 
-Prompt 6 – Community Biogas Plant for Semi-Urban Areas
+`Backstory:`
 
-Backstory:
+`A semi-urban municipality in Karnataka has several dairy farms, poultry units, and vegetable markets generating large amounts of organic waste daily. The local council is considering setting up a centralised biogas plant to generate clean cooking fuel for low-income households and power for street lighting. However, they need a guide that explains feedstock requirements, plant sizing, CAPEX/OPEX estimates, and potential revenue from byproducts like organic fertiliser.`
 
-A semi-urban municipality in Karnataka has several dairy farms, poultry units, and vegetable markets generating large amounts of organic waste daily. The local council is considering setting up a centralised biogas plant to generate clean cooking fuel for low-income households and power for street lighting. However, they need a guide that explains feedstock requirements, plant sizing, CAPEX/OPEX estimates, and potential revenue from byproducts like organic fertiliser.
+`Goal:`
 
-Goal:
+`Create a biogas plant adoption guide for semi-urban municipalities.`
 
-Create a biogas plant adoption guide for semi-urban municipalities.
+`Prompt:
 
-Prompt:
+`"You are a renewable energy process consultant. Develop an adoption guide for a community-scale biogas plant in Karnataka. Include feedstock assessment, technology options, cost-benefit analysis, byproduct utilisation, and public-private partnership models."`
 
-"You are a renewable energy process consultant. Develop an adoption guide for a community-scale biogas plant in Karnataka. Include feedstock assessment, technology options, cost-benefit analysis, byproduct utilisation, and public-private partnership models."
-
-Inputs:
-
+`Inputs:`
+```
 1. Daily organic waste volume
 
 2. Number of target households for fuel supply
@@ -1954,23 +1954,23 @@ Inputs:
 3. Available land for the plant
 
 4. Budget for installation
+```
+## Prompt 7 – Rooftop Solar Adoption for MSMEs
 
-Prompt 7 – Rooftop Solar Adoption for MSMEs
+`Backstory:`
 
-Backstory:
+`A cluster of small manufacturing units in Surat’s textile sector faces rising energy bills and frequent power cuts. Owners are exploring rooftop solar to cut costs and increase energy security but have limited technical knowledge. They need a guide that outlines system sizing, financing schemes, maintenance, and integration with backup diesel generators.`
 
-A cluster of small manufacturing units in Surat’s textile sector faces rising energy bills and frequent power cuts. Owners are exploring rooftop solar to cut costs and increase energy security but have limited technical knowledge. They need a guide that outlines system sizing, financing schemes, maintenance, and integration with backup diesel generators.
+`Goal:`
 
-Goal:
+`Prepare a rooftop solar adoption guide for MSME manufacturing clusters.`
 
-Prepare a rooftop solar adoption guide for MSME manufacturing clusters.
+`Prompt:`
 
-Prompt:
+`"You are an MSME renewable energy advisor. Create an adoption guide for textile MSMEs in Surat to install rooftop solar. Include system sizing calculations, financing schemes, hybrid integration with diesel generators, and maintenance contracts."`
 
-"You are an MSME renewable energy advisor. Create an adoption guide for textile MSMEs in Surat to install rooftop solar. Include system sizing calculations, financing schemes, hybrid integration with diesel generators, and maintenance contracts."
-
-Inputs:
-
+`Inputs:`
+```
 1. Number of units in the cluster
 
 2. Average monthly electricity bill
@@ -1978,23 +1978,23 @@ Inputs:
 3. Roof space availability per unit
 
 4. Preferred financing model
+```
+## Prompt 8 – Solar-Powered Irrigation Pumps
 
-Prompt 8 – Solar-Powered Irrigation Pumps
+`Backstory:`
 
-Backstory:
+`Farmers in drought-prone districts of Maharashtra are spending heavily on diesel pumps for irrigation. A local agricultural NGO wants to promote solar-powered pumps to reduce costs and environmental impact. They need a practical guide that covers pump sizing based on acreage, water requirements, subsidies under KUSUM scheme, and installation tips.`
 
-Farmers in drought-prone districts of Maharashtra are spending heavily on diesel pumps for irrigation. A local agricultural NGO wants to promote solar-powered pumps to reduce costs and environmental impact. They need a practical guide that covers pump sizing based on acreage, water requirements, subsidies under KUSUM scheme, and installation tips.
+`Goal:`
 
-Goal:
+`Create a farmer-friendly adoption guide for solar irrigation pumps.`
 
-Create a farmer-friendly adoption guide for solar irrigation pumps.
+`Prompt:`
 
-Prompt:
+`"You are an agricultural energy consultant. Develop an adoption guide for solar irrigation pumps in Maharashtra, including pump capacity selection, KUSUM scheme subsidy details, installation best practices, and ROI analysis compared to diesel pumps."`
 
-"You are an agricultural energy consultant. Develop an adoption guide for solar irrigation pumps in Maharashtra, including pump capacity selection, KUSUM scheme subsidy details, installation best practices, and ROI analysis compared to diesel pumps."
-
-Inputs:
-
+`Inputs:`
+```
 1. Farm size
 
 2. Water source depth
@@ -2002,23 +2002,23 @@ Inputs:
 3. Average irrigation hours per day
 
 4. Farmer budget
+```
+## Prompt 9 – Net-Metering Guide for Urban Homeowners
 
-Prompt 9 – Net-Metering Guide for Urban Homeowners
+`Backstory:`
 
-Backstory:
+`Urban homeowners in Chennai are increasingly installing rooftop solar panels but are unclear about how net-metering works. Confusion around approvals, metering equipment, and bill adjustments often discourages adoption. The city’s renewable energy society wants a clear, illustrated guide for homeowners that simplifies the process while explaining potential savings.`
 
-Urban homeowners in Chennai are increasingly installing rooftop solar panels but are unclear about how net-metering works. Confusion around approvals, metering equipment, and bill adjustments often discourages adoption. The city’s renewable energy society wants a clear, illustrated guide for homeowners that simplifies the process while explaining potential savings.
+`Goal:
 
-Goal:
+`Create a step-by-step net-metering adoption guide for residential solar users.`
 
-Create a step-by-step net-metering adoption guide for residential solar users.
+`Prompt:`
 
-Prompt:
+`"You are a solar policy expert. Create an illustrated net-metering adoption guide for Chennai homeowners. Include application procedures, equipment requirements, billing adjustment examples, and troubleshooting tips."`
 
-"You are a solar policy expert. Create an illustrated net-metering adoption guide for Chennai homeowners. Include application procedures, equipment requirements, billing adjustment examples, and troubleshooting tips."
-
-Inputs:
-
+`Inputs:`
+```
 1. State DISCOM net-metering rules
 
 2. Average home electricity consumption
@@ -2026,23 +2026,23 @@ Inputs:
 3. Rooftop size
 
 4. Existing or planned solar capacity
+```
+## Prompt 10 – Off-Grid Solar for Eco-Resorts
 
-Prompt 10 – Off-Grid Solar for Eco-Resorts
+`Backstory:`
 
-Backstory:
+`An eco-resort chain in Himachal Pradesh operates in remote areas without reliable grid connectivity. Diesel generators are expensive and harm the brand’s sustainability image. The owners are evaluating off-grid solar with battery storage but are concerned about upfront costs and energy reliability during winter. They want a guide that covers system sizing, battery technology options, seasonal performance, and financing models.`
 
-An eco-resort chain in Himachal Pradesh operates in remote areas without reliable grid connectivity. Diesel generators are expensive and harm the brand’s sustainability image. The owners are evaluating off-grid solar with battery storage but are concerned about upfront costs and energy reliability during winter. They want a guide that covers system sizing, battery technology options, seasonal performance, and financing models.
+`Goal:`
 
-Goal:
+`Develop an off-grid solar adoption guide for remote eco-resorts.`
 
-Develop an off-grid solar adoption guide for remote eco-resorts.
+`Prompt:`
 
-Prompt:
+`"You are a hospitality renewable energy planner. Draft an adoption guide for off-grid solar systems with battery storage for eco-resorts in Himachal Pradesh. Include system sizing, battery type comparison (Li-ion vs. lead-acid), seasonal performance optimisation, and financing schemes."`
 
-"You are a hospitality renewable energy planner. Draft an adoption guide for off-grid solar systems with battery storage for eco-resorts in Himachal Pradesh. Include system sizing, battery type comparison (Li-ion vs. lead-acid), seasonal performance optimisation, and financing schemes."
-
-Inputs:
-
+`Inputs:`
+```
 1. Average daily energy load
 
 2. Roof/land space available
@@ -2050,23 +2050,23 @@ Inputs:
 3. Budget for installation
 
 4. Backup system requirements
+```
+## Prompt 11 – Solar-Powered Street Lighting for Municipalities
 
-Prompt 11 – Solar-Powered Street Lighting for Municipalities
+`Backstory:`
 
-Backstory:
+`A municipal corporation in Andhra Pradesh is facing high electricity bills for street lighting, particularly in rural wards. They are considering solar-powered streetlights but need a clear guide for technology selection, installation process, and long-term maintenance contracts. They also want to explore smart lighting features for energy savings.`
 
-A municipal corporation in Andhra Pradesh is facing high electricity bills for street lighting, particularly in rural wards. They are considering solar-powered streetlights but need a clear guide for technology selection, installation process, and long-term maintenance contracts. They also want to explore smart lighting features for energy savings.
+`Goal:`
 
-Goal:
+`Create an adoption guide for solar-powered street lighting in rural municipalities.`
 
-Create an adoption guide for solar-powered street lighting in rural municipalities.
+`Prompt:`
 
-Prompt:
+`"You are an urban infrastructure renewable energy consultant. Create a detailed adoption guide for installing solar-powered streetlights in Andhra Pradesh’s rural wards. Include technology types, smart lighting options, installation best practices, and maintenance contracts."`
 
-"You are an urban infrastructure renewable energy consultant. Create a detailed adoption guide for installing solar-powered streetlights in Andhra Pradesh’s rural wards. Include technology types, smart lighting options, installation best practices, and maintenance contracts."
-
-Inputs:
-
+`Inputs:`
+```
 1. Number of streetlights planned
 
 2. Lighting hours per day
@@ -2074,23 +2074,23 @@ Inputs:
 3. CSR/government funding availability
 
 4. Local vendor options
+```
+## Prompt 12 – Floating Solar Plants for Water Reservoirs
 
-Prompt 12 – Floating Solar Plants for Water Reservoirs
+`Backstory:`
 
-Backstory:
+`A state water board in Kerala manages large reservoirs that could host floating solar panels. They are interested in using this space for renewable energy generation without land acquisition issues. The board needs a guide covering feasibility studies, anchoring systems, maintenance, and integration with the grid.`
 
-A state water board in Kerala manages large reservoirs that could host floating solar panels. They are interested in using this space for renewable energy generation without land acquisition issues. The board needs a guide covering feasibility studies, anchoring systems, maintenance, and integration with the grid.
+`Goal:`
 
-Goal:
+`Prepare a floating solar adoption guide for state water utilities.`
 
-Prepare a floating solar adoption guide for state water utilities.
+`Prompt:`
 
-Prompt:
+`"You are a renewable energy project designer. Develop a floating solar adoption guide for large water reservoirs in Kerala. Include feasibility assessment, panel anchoring systems, maintenance access, and grid integration methods."`
 
-"You are a renewable energy project designer. Develop a floating solar adoption guide for large water reservoirs in Kerala. Include feasibility assessment, panel anchoring systems, maintenance access, and grid integration methods."
-
-Inputs:
-
+`Inputs:`
+```
 1. Reservoir surface area
 
 2. Average sunlight hours
@@ -2098,23 +2098,23 @@ Inputs:
 3. Grid connection feasibility
 
 4. Budget and funding sources
+```
+## Prompt 13 – Community Solar Cooperatives
 
-Prompt 13 – Community Solar Cooperatives
+`Backstory:`
 
-Backstory:
+`A rural development NGO in Bihar wants to set up solar cooperatives where multiple households invest jointly in a shared solar power system. The NGO needs a guide explaining cooperative formation, cost-sharing models, ownership agreements, and power distribution among members.`
 
-A rural development NGO in Bihar wants to set up solar cooperatives where multiple households invest jointly in a shared solar power system. The NGO needs a guide explaining cooperative formation, cost-sharing models, ownership agreements, and power distribution among members.
+`Goal:`
 
-Goal:
+`Create a community solar cooperative adoption guide.`
 
-Create a community solar cooperative adoption guide.
+`Prompt:`
 
-Prompt:
+`"You are a rural renewable energy strategist. Draft an adoption guide for forming solar cooperatives in Bihar villages. Include cooperative legal structures, investment models, power allocation methods, and maintenance responsibilities."`
 
-"You are a rural renewable energy strategist. Draft an adoption guide for forming solar cooperatives in Bihar villages. Include cooperative legal structures, investment models, power allocation methods, and maintenance responsibilities."
-
-Inputs:
-
+`Inputs:`
+```
 1. Number of households in cooperative
 
 2. Average household energy needs
@@ -2122,23 +2122,23 @@ Inputs:
 3. Total budget
 
 4. Local governance support
+```
+## Prompt 14 – Battery Storage for Solar Installations
 
-Prompt 14 – Battery Storage for Solar Installations
+`Backstory:
 
-Backstory:
+`A mid-sized IT firm in Pune has a rooftop solar setup but faces power shortages at night due to lack of storage. They are considering battery backup systems to improve reliability but are confused about technologies, lifespan, and cost-effectiveness. They need a clear adoption guide comparing lithium-ion, lead-acid, and emerging battery options.`
 
-A mid-sized IT firm in Pune has a rooftop solar setup but faces power shortages at night due to lack of storage. They are considering battery backup systems to improve reliability but are confused about technologies, lifespan, and cost-effectiveness. They need a clear adoption guide comparing lithium-ion, lead-acid, and emerging battery options.
+`Goal:`
 
-Goal:
+`Create a battery storage adoption guide for commercial solar users.`
 
-Create a battery storage adoption guide for commercial solar users.
+`Prompt:`
 
-Prompt:
+`"You are a solar storage expert. Create a detailed adoption guide for adding battery storage to commercial rooftop solar in Pune. Include technology comparisons, sizing calculations, cost-benefit analysis, and maintenance guidelines."`
 
-"You are a solar storage expert. Create a detailed adoption guide for adding battery storage to commercial rooftop solar in Pune. Include technology comparisons, sizing calculations, cost-benefit analysis, and maintenance guidelines."
-
-Inputs:
-
+`Inputs:`
+```
 1. Current solar capacity
 
 2. Night-time energy needs
@@ -2146,23 +2146,23 @@ Inputs:
 3. Budget for storage
 
 4. Backup duration requirement
+```
+## Prompt 15 – Solar-Powered EV Charging Stations
 
-Prompt 15 – Solar-Powered EV Charging Stations
+`Backstory:`
 
-Backstory:
+`A start-up in Delhi is planning to enter the EV charging market with a focus on renewable energy. They want to set up solar-powered charging stations in urban and peri-urban areas but need a clear guide on capacity planning, battery integration, and revenue models.`
 
-A start-up in Delhi is planning to enter the EV charging market with a focus on renewable energy. They want to set up solar-powered charging stations in urban and peri-urban areas but need a clear guide on capacity planning, battery integration, and revenue models.
+`Goal:`
 
-Goal:
+`Prepare an adoption guide for solar-powered EV charging infrastructure.`
 
-Prepare an adoption guide for solar-powered EV charging infrastructure.
+`Prompt:`
 
-Prompt:
+`"You are an EV infrastructure renewable energy consultant. Develop a guide for setting up solar-powered EV charging stations in Delhi, including system sizing, grid/battery hybrid setups, location selection, and pricing models."`
 
-"You are an EV infrastructure renewable energy consultant. Develop a guide for setting up solar-powered EV charging stations in Delhi, including system sizing, grid/battery hybrid setups, location selection, and pricing models."
-
-Inputs:
-
+`Inputs:`
+```
 1. Number of stations planned
 
 2. Target EV types (two-wheeler, four-wheeler)
@@ -2170,23 +2170,23 @@ Inputs:
 3. Budget per station
 
 4. Available roof/land space
+```
+## Prompt 16 – Solar-Powered Water Desalination Units
 
-Prompt 16 – Solar-Powered Water Desalination Units
+`Backstory:`
 
-Backstory:
+`A coastal village cluster in Gujarat struggles with saline groundwater, forcing residents to rely on expensive bottled water. A CSR foundation wants to fund small-scale solar desalination plants to provide safe drinking water. The implementing team needs a guide explaining capacity planning, technology options (RO vs. distillation), maintenance needs, and cost-sharing models with the community.`
 
-A coastal village cluster in Gujarat struggles with saline groundwater, forcing residents to rely on expensive bottled water. A CSR foundation wants to fund small-scale solar desalination plants to provide safe drinking water. The implementing team needs a guide explaining capacity planning, technology options (RO vs. distillation), maintenance needs, and cost-sharing models with the community.
+`Goal:`
 
-Goal:
+`Create an adoption guide for solar-powered desalination plants in coastal areas.`
 
-Create an adoption guide for solar-powered desalination plants in coastal areas.
+`Prompt:`
 
-Prompt:
+`"You are a rural water energy consultant. Develop a guide for setting up solar-powered desalination units in Gujarat’s coastal villages. Include technology comparisons, capacity calculations, maintenance protocols, and community ownership models."`
 
-"You are a rural water energy consultant. Develop a guide for setting up solar-powered desalination units in Gujarat’s coastal villages. Include technology comparisons, capacity calculations, maintenance protocols, and community ownership models."
-
-Inputs:
-
+`Inputs:`
+```
 1. Number of households to serve
 
 2. Water quality data
@@ -2194,23 +2194,23 @@ Inputs:
 3. Available budget
 
 4. Preferred desalination technology
+```
+## Prompt 17 – Biomass Gasifier for Agro-Processing Units
 
-Prompt 17 – Biomass Gasifier for Agro-Processing Units
+`Backstory:`
 
-Backstory:
+`A rice mill in West Bengal produces tons of husk waste every month. The owner wants to install a biomass gasifier to generate electricity and heat for milling operations, reducing dependence on the grid. They need a guide covering technology selection, fuel processing, efficiency optimisation, and safety compliance.`
 
-A rice mill in West Bengal produces tons of husk waste every month. The owner wants to install a biomass gasifier to generate electricity and heat for milling operations, reducing dependence on the grid. They need a guide covering technology selection, fuel processing, efficiency optimisation, and safety compliance.
+`Goal:`
 
-Goal:
+`Prepare an adoption guide for biomass gasifiers in agro-processing industries.`
 
-Prepare an adoption guide for biomass gasifiers in agro-processing industries.
+`Prompt:`
 
-Prompt:
+`"You are an industrial renewable energy advisor. Create a biomass gasifier adoption guide for a rice mill in West Bengal, including fuel preparation methods, system sizing, efficiency optimisation, and safety protocols."`
 
-"You are an industrial renewable energy advisor. Create a biomass gasifier adoption guide for a rice mill in West Bengal, including fuel preparation methods, system sizing, efficiency optimisation, and safety protocols."
-
-Inputs:
-
+`Inputs:`
+```
 1. Monthly biomass availability
 
 2. Energy requirements
@@ -2218,23 +2218,23 @@ Inputs:
 3. Budget for installation
 
 4. Operational manpower availability
+```
+## Prompt 18 – Community Micro-Hydro Projects
 
-Prompt 18 – Community Micro-Hydro Projects
+`Backstory:`
 
-Backstory:
+`A hilly district in Uttarakhand has several small streams that could power micro-hydro projects. A local NGO wants to help villages set up community-owned micro-hydro plants for electricity and irrigation pumping. They need a simple guide explaining site assessment, water rights, seasonal flow considerations, and maintenance routines.`
 
-A hilly district in Uttarakhand has several small streams that could power micro-hydro projects. A local NGO wants to help villages set up community-owned micro-hydro plants for electricity and irrigation pumping. They need a simple guide explaining site assessment, water rights, seasonal flow considerations, and maintenance routines.
+`Goal:`
 
-Goal:
+`Create an adoption guide for village-level micro-hydro plants.`
 
-Create an adoption guide for village-level micro-hydro plants.
+`Prompt:`
 
-Prompt:
+`"You are a rural hydro energy consultant. Draft an adoption guide for community micro-hydro projects in Uttarakhand, including site surveys, technology choices, community ownership models, and long-term maintenance plans."`
 
-"You are a rural hydro energy consultant. Draft an adoption guide for community micro-hydro projects in Uttarakhand, including site surveys, technology choices, community ownership models, and long-term maintenance plans."
-
-Inputs:
-
+`Inputs:`
+```
 1. Stream flow data
 
 2. Number of households to serve
@@ -2242,23 +2242,23 @@ Inputs:
 3. Available budget
 
 4. Local governance involvement
+```
+## Prompt 19 – Rooftop Solar for Educational Institutions
 
-Prompt 19 – Rooftop Solar for Educational Institutions
+`Backstory:
 
-Backstory:
+`A chain of private schools in Hyderabad wants to cut energy bills and teach students about sustainability. They plan to install rooftop solar panels across all campuses. The management requires a guide explaining system sizing, financing models (loans, leases, PPAs), safety compliance, and integration with educational programs.`
 
-A chain of private schools in Hyderabad wants to cut energy bills and teach students about sustainability. They plan to install rooftop solar panels across all campuses. The management requires a guide explaining system sizing, financing models (loans, leases, PPAs), safety compliance, and integration with educational programs.
+`Goal:`
 
-Goal:
+`Develop a solar rooftop adoption guide for educational campuses.`
 
-Develop a solar rooftop adoption guide for educational campuses.
+`Prompt:`
 
-Prompt:
+`"You are an institutional renewable energy planner. Create a rooftop solar adoption guide for private schools in Hyderabad, including sizing calculations, financing options, safety compliance, and student engagement activities."`
 
-"You are an institutional renewable energy planner. Create a rooftop solar adoption guide for private schools in Hyderabad, including sizing calculations, financing options, safety compliance, and student engagement activities."
-
-Inputs:
-
+`Inputs:`
+```
 1. Number of campuses
 
 2. Average monthly energy consumption per campus
@@ -2266,23 +2266,23 @@ Inputs:
 3. Roof space availability
 
 4. Budget allocation
+```
+## Prompt 20 – Hybrid Solar-Diesel Systems for Remote Hospitals
 
-Prompt 20 – Hybrid Solar-Diesel Systems for Remote Hospitals
+`Backstory:`
 
-Backstory:
+`A rural hospital in Jharkhand depends on a diesel generator for power, but fuel costs are high and supply is unreliable. The hospital director is interested in installing a solar-diesel hybrid system with battery backup to ensure uninterrupted operations. They need a guide on system design, load prioritisation, cost savings, and maintenance planning.`
 
-A rural hospital in Jharkhand depends on a diesel generator for power, but fuel costs are high and supply is unreliable. The hospital director is interested in installing a solar-diesel hybrid system with battery backup to ensure uninterrupted operations. They need a guide on system design, load prioritisation, cost savings, and maintenance planning.
+`Goal:`
 
-Goal:
+`Create an adoption guide for hybrid solar-diesel systems in rural hospitals.`
 
-Create an adoption guide for hybrid solar-diesel systems in rural hospitals.
+`Prompt:`
 
-Prompt:
+`"You are an off-grid energy systems consultant. Develop a solar-diesel hybrid adoption guide for rural hospitals in Jharkhand, including load management strategies, cost-benefit analysis, battery storage sizing, and maintenance schedules."`
 
-"You are an off-grid energy systems consultant. Develop a solar-diesel hybrid adoption guide for rural hospitals in Jharkhand, including load management strategies, cost-benefit analysis, battery storage sizing, and maintenance schedules."
-
-Inputs:
-
+`Inputs:`
+```
 1. Daily energy demand
 
 2. Current diesel usage
@@ -2290,23 +2290,23 @@ Inputs:
 3. Available budget
 
 4. Critical equipment load list
+```
+## Prompt 21 – Solar-Powered Aquaculture Systems
 
-Prompt 21 – Solar-Powered Aquaculture Systems
+`Backstory:`
 
-Backstory:
+`Fish farmers in Andhra Pradesh are facing rising electricity costs for aeration and pumping in aquaculture ponds. A local cooperative wants to switch to solar-powered systems to improve profitability and reduce environmental impact. They need a guide that covers system sizing, seasonal performance, and return on investment.`
 
-Fish farmers in Andhra Pradesh are facing rising electricity costs for aeration and pumping in aquaculture ponds. A local cooperative wants to switch to solar-powered systems to improve profitability and reduce environmental impact. They need a guide that covers system sizing, seasonal performance, and return on investment.
+`Goal:`
 
-Goal:
+`Prepare a solar adoption guide for aquaculture applications.`
 
-Prepare a solar adoption guide for aquaculture applications.
+`Prompt:`
 
-Prompt:
+`"You are an aquaculture renewable energy specialist. Create a guide for solar-powered aeration and pumping systems in Andhra Pradesh fish farms, including system sizing, seasonal performance, ROI analysis, and maintenance tips."`
 
-"You are an aquaculture renewable energy specialist. Create a guide for solar-powered aeration and pumping systems in Andhra Pradesh fish farms, including system sizing, seasonal performance, ROI analysis, and maintenance tips."
-
-Inputs:
-
+`Inputs:`
+```
 1. Pond size and depth
 
 2. Current energy usage
@@ -2314,23 +2314,23 @@ Inputs:
 3. Budget for transition
 
 4. Equipment type (aerators/pumps)
+```
+## Prompt 22 – Waste-to-Energy for Municipalities
 
-Prompt 22 – Waste-to-Energy for Municipalities
+`Backstory:`
 
-Backstory:
+`A mid-sized city in Madhya Pradesh is exploring a waste-to-energy plant to handle its growing solid waste problem. The municipality needs a guide that covers technology options (incineration, anaerobic digestion), feedstock requirements, emissions control, and power sales to the grid.`
 
-A mid-sized city in Madhya Pradesh is exploring a waste-to-energy plant to handle its growing solid waste problem. The municipality needs a guide that covers technology options (incineration, anaerobic digestion), feedstock requirements, emissions control, and power sales to the grid.
+`Goal:`
 
-Goal:
+`Create a waste-to-energy adoption guide for municipal authorities.`
 
-Create a waste-to-energy adoption guide for municipal authorities.
+`Prompt:`
 
-Prompt:
+`"You are an urban waste-to-energy consultant. Draft a guide for setting up a municipal waste-to-energy plant in Madhya Pradesh, including technology comparisons, feedstock assessments, emissions compliance, and power purchase agreements."`
 
-"You are an urban waste-to-energy consultant. Draft a guide for setting up a municipal waste-to-energy plant in Madhya Pradesh, including technology comparisons, feedstock assessments, emissions compliance, and power purchase agreements."
-
-Inputs:
-
+`Inputs:`
+```
 1. Daily waste volume
 
 2. Waste composition data
@@ -2338,23 +2338,23 @@ Inputs:
 3. Available land for plant
 
 4. Budget and funding sources
+```
+## Prompt 23 – Solar-Powered Mobile Health Clinics
 
-Prompt 23 – Solar-Powered Mobile Health Clinics
+`Backstory:`
 
-Backstory:
+`An NGO in Rajasthan runs mobile health vans serving remote desert villages. Currently, they use diesel generators for refrigeration and diagnostic equipment, which is costly and polluting. They are considering solar-powered systems with battery storage to make the vans cleaner and quieter. They need a guide covering system integration, space optimisation, and cost savings.`
 
-An NGO in Rajasthan runs mobile health vans serving remote desert villages. Currently, they use diesel generators for refrigeration and diagnostic equipment, which is costly and polluting. They are considering solar-powered systems with battery storage to make the vans cleaner and quieter. They need a guide covering system integration, space optimisation, and cost savings.
+`Goal:`
 
-Goal:
+`Develop an adoption guide for solar-powered mobile healthcare vans.`
 
-Develop an adoption guide for solar-powered mobile healthcare vans.
+`Prompt:`
 
-Prompt:
+`"You are a mobile infrastructure renewable energy consultant. Create a guide for integrating solar power into mobile health vans in Rajasthan, including system sizing, space optimisation, cost analysis, and maintenance guidelines."`
 
-"You are a mobile infrastructure renewable energy consultant. Create a guide for integrating solar power into mobile health vans in Rajasthan, including system sizing, space optimisation, cost analysis, and maintenance guidelines."
-
-Inputs:
-
+`Inputs:`
+```
 1. Number of vans
 
 2. Equipment power needs
@@ -2362,23 +2362,23 @@ Inputs:
 3. Roof space available per van
 
 4. Budget for retrofitting
+```
+## Prompt 24 – Corporate Renewable Energy Transition Roadmap
 
-Prompt 24 – Corporate Renewable Energy Transition Roadmap
+`Backstory:`
 
-Backstory:
+`A large FMCG company in Mumbai wants to transition all its manufacturing facilities to renewable energy within 10 years. Management needs a comprehensive roadmap that includes phased adoption of solar, wind, and biomass, along with carbon footprint reduction targets. They also want to explore corporate PPAs and carbon credit monetisation.`
 
-A large FMCG company in Mumbai wants to transition all its manufacturing facilities to renewable energy within 10 years. Management needs a comprehensive roadmap that includes phased adoption of solar, wind, and biomass, along with carbon footprint reduction targets. They also want to explore corporate PPAs and carbon credit monetisation.
+`Goal:`
 
-Goal:
+`Create a renewable energy transition roadmap for a large corporate.`
 
-Create a renewable energy transition roadmap for a large corporate.
+`Prompt:`
 
-Prompt:
+`"You are a corporate sustainability strategist. Develop a 10-year renewable energy adoption roadmap for an FMCG company in Mumbai, including technology mix, investment planning, PPA negotiations, carbon credit revenue, and annual progress tracking."`
 
-"You are a corporate sustainability strategist. Develop a 10-year renewable energy adoption roadmap for an FMCG company in Mumbai, including technology mix, investment planning, PPA negotiations, carbon credit revenue, and annual progress tracking."
-
-Inputs:
-
+`Inputs:`
+```
 1. Number of manufacturing sites
 
 2. Current energy consumption per site
@@ -2386,23 +2386,23 @@ Inputs:
 3. Budget allocation per year
 
 4. Carbon reduction targets
+```
+## Prompt 25 – Solar-Powered Desalination for Island Resorts
 
-Prompt 25 – Solar-Powered Desalination for Island Resorts
+`Backstory:`
 
-Backstory:
+`Luxury resorts in the Lakshadweep Islands spend heavily on importing fresh water. Resort owners are exploring solar-powered desalination units to meet their water needs sustainably. They need a detailed guide covering plant sizing, operational costs, environmental impact, and branding advantages for eco-tourism.`
 
-Luxury resorts in the Lakshadweep Islands spend heavily on importing fresh water. Resort owners are exploring solar-powered desalination units to meet their water needs sustainably. They need a detailed guide covering plant sizing, operational costs, environmental impact, and branding advantages for eco-tourism.
+`Goal:`
 
-Goal:
+`Prepare a solar desalination adoption guide for luxury resorts.`
 
-Prepare a solar desalination adoption guide for luxury resorts.
+`Prompt:`
 
-Prompt:
+`"You are a hospitality renewable water solutions consultant. Create an adoption guide for solar-powered desalination units in Lakshadweep resorts, including capacity planning, operational workflows, environmental considerations, and marketing benefits."`
 
-"You are a hospitality renewable water solutions consultant. Create an adoption guide for solar-powered desalination units in Lakshadweep resorts, including capacity planning, operational workflows, environmental considerations, and marketing benefits."
-
-Inputs:
-
+`Inputs:`
+```
 1. Daily water demand per resort
 
 2. Available land or jetty space
@@ -2410,26 +2410,26 @@ Inputs:
 3. Budget for installation
 
 4. Preferred water quality standards
+```
 
+# Embedding AI with Environment & Sustainability
 
-Embedding AI with Environment & Sustainability
+## Prompt 1 – AI-Driven Air Quality Prediction Model
 
-Prompt 1 – AI-Driven Air Quality Prediction Model
+`Backstory:`
 
-Backstory:
+`A municipal corporation in Delhi is trying to combat worsening air pollution during winter. Current air quality reports are reactive, showing data after pollution levels have already spiked. The environment department wants an AI-based prediction system that can forecast AQI levels 48–72 hours in advance. This would allow them to pre-emptively implement traffic restrictions, construction halts, and public advisories. The team needs a guide on building, training, and deploying such a predictive model using historical weather, pollution, and traffic data.`
 
-A municipal corporation in Delhi is trying to combat worsening air pollution during winter. Current air quality reports are reactive, showing data after pollution levels have already spiked. The environment department wants an AI-based prediction system that can forecast AQI levels 48–72 hours in advance. This would allow them to pre-emptively implement traffic restrictions, construction halts, and public advisories. The team needs a guide on building, training, and deploying such a predictive model using historical weather, pollution, and traffic data.
+`Goal:`
 
-Goal:
+`Create an AI implementation guide for forecasting urban air quality.`
 
-Create an AI implementation guide for forecasting urban air quality.
+`Prompt:`
 
-Prompt:
+`"You are an environmental data scientist. Develop a step-by-step guide for creating an AI-based air quality prediction system for Delhi. Include dataset requirements, preprocessing steps, model selection (LSTM, Prophet, etc.), accuracy evaluation, and deployment options for municipal dashboards."`
 
-"You are an environmental data scientist. Develop a step-by-step guide for creating an AI-based air quality prediction system for Delhi. Include dataset requirements, preprocessing steps, model selection (LSTM, Prophet, etc.), accuracy evaluation, and deployment options for municipal dashboards."
-
-Inputs:
-
+`Inputs:`
+```
 1. Historical AQI data source
 
 2. Weather and traffic datasets
@@ -2437,23 +2437,23 @@ Inputs:
 3. Prediction time horizon
 
 4. Available computational resources
+```
+## Prompt 2 – AI-Powered Waste Segregation System
 
-Prompt 2 – AI-Powered Waste Segregation System
+`Backstory:`
 
-Backstory:
+`A smart city initiative in Pune is exploring automation in waste management. Currently, waste segregation is manual, inconsistent, and error-prone. The city wants to pilot AI-powered image recognition systems at waste collection points to automatically sort recyclables, organics, and landfill waste. The implementation team needs a practical guide to setting up the AI model, integrating it with conveyor belts, and ensuring compliance with municipal waste rules.`
 
-A smart city initiative in Pune is exploring automation in waste management. Currently, waste segregation is manual, inconsistent, and error-prone. The city wants to pilot AI-powered image recognition systems at waste collection points to automatically sort recyclables, organics, and landfill waste. The implementation team needs a practical guide to setting up the AI model, integrating it with conveyor belts, and ensuring compliance with municipal waste rules.
+`Goal:`
 
-Goal:
+`Create an AI adoption guide for automated waste segregation.`
 
-Create an AI adoption guide for automated waste segregation.
+`Prompt:`
 
-Prompt:
+`"You are a computer vision engineer. Create an implementation guide for an AI-powered waste segregation system in Pune. Include image dataset creation, model training (CNN, YOLO), hardware integration with sorting conveyors, accuracy monitoring, and real-time reporting."`
 
-"You are a computer vision engineer. Create an implementation guide for an AI-powered waste segregation system in Pune. Include image dataset creation, model training (CNN, YOLO), hardware integration with sorting conveyors, accuracy monitoring, and real-time reporting."
-
-Inputs:
-
+`Inputs:`
+```
 1. Number of sorting stations
 
 2. Waste category definitions
@@ -2461,23 +2461,23 @@ Inputs:
 3. Budget for AI hardware/software
 
 4. Expected daily waste volume
+```
+## Prompt 3 – AI-Based Energy Consumption Optimisation in Manufacturing
 
-Prompt 3 – AI-Based Energy Consumption Optimisation in Manufacturing
+`Backstory:`
 
-Backstory:
+`A steel manufacturing plant in Jharkhand spends nearly 25% of its operational budget on electricity. Energy usage is currently monitored manually, making it hard to identify inefficiencies in real time. Management wants an AI-driven system that can analyse sensor data from machinery and suggest optimal operating schedules to reduce consumption without affecting output.`
 
-A steel manufacturing plant in Jharkhand spends nearly 25% of its operational budget on electricity. Energy usage is currently monitored manually, making it hard to identify inefficiencies in real time. Management wants an AI-driven system that can analyse sensor data from machinery and suggest optimal operating schedules to reduce consumption without affecting output.
+`Goal:`
 
-Goal:
+`Develop an AI-powered energy optimisation plan for a manufacturing plant.`
 
-Develop an AI-powered energy optimisation plan for a manufacturing plant.
+`Prompt:`
 
-Prompt:
+`"You are an industrial AI solutions architect. Create a guide for implementing an AI-based energy consumption optimisation system for a steel plant in Jharkhand. Include sensor integration, data pipeline design, anomaly detection algorithms, predictive scheduling, and monthly savings estimation."`
 
-"You are an industrial AI solutions architect. Create a guide for implementing an AI-based energy consumption optimisation system for a steel plant in Jharkhand. Include sensor integration, data pipeline design, anomaly detection algorithms, predictive scheduling, and monthly savings estimation."
-
-Inputs:
-
+`Inputs:`
+```
 1. Number of production lines
 
 2. Current energy consumption data
@@ -2485,23 +2485,23 @@ Inputs:
 3. Budget for AI deployment
 
 4. Desired energy savings target
+```
+## Prompt 4 – AI-Enhanced Crop Yield Prediction for Sustainable Farming
 
-Prompt 4 – AI-Enhanced Crop Yield Prediction for Sustainable Farming
+`Backstory:`
 
-Backstory:
+`A farmer producer organisation (FPO) in Madhya Pradesh works with 1,200 smallholder farmers growing wheat and soybeans. Climate change is making yields unpredictable. The FPO wants an AI model that uses weather forecasts, soil sensor data, and historical yield records to predict output and guide sustainable farming practices. This will help farmers make informed decisions on irrigation and fertiliser use.`
 
-A farmer producer organisation (FPO) in Madhya Pradesh works with 1,200 smallholder farmers growing wheat and soybeans. Climate change is making yields unpredictable. The FPO wants an AI model that uses weather forecasts, soil sensor data, and historical yield records to predict output and guide sustainable farming practices. This will help farmers make informed decisions on irrigation and fertiliser use.
+`Goal:`
 
-Goal:
+`Create an AI adoption guide for crop yield prediction.`
 
-Create an AI adoption guide for crop yield prediction.
+`Prompt:`
 
-Prompt:
+`"You are an agricultural AI specialist. Develop a guide for building an AI-based crop yield prediction model for smallholder farmers in Madhya Pradesh. Include data collection methods, preprocessing steps, model choices (XGBoost, Random Forest, etc.), and farmer-friendly result visualisations."`
 
-"You are an agricultural AI specialist. Develop a guide for building an AI-based crop yield prediction model for smallholder farmers in Madhya Pradesh. Include data collection methods, preprocessing steps, model choices (XGBoost, Random Forest, etc.), and farmer-friendly result visualisations."
-
-Inputs:
-
+`Inputs:`
+```
 1. Crop types and acreage
 
 2. Historical yield data
@@ -2509,23 +2509,23 @@ Inputs:
 3. Weather and soil sensor availability
 
 4. Budget for AI development
+```
+## Prompt 5 – AI for Real-Time Water Leak Detection in Urban Networks
 
-Prompt 5 – AI for Real-Time Water Leak Detection in Urban Networks
+`Backstory:`
 
-Backstory:
+`A water utility in Bengaluru loses nearly 20% of its treated water due to leaks in underground pipelines. Manual inspections are slow and costly. The operations team wants to deploy an AI-powered leak detection system that uses IoT sensors, flow data, and anomaly detection algorithms to pinpoint leaks in real time.`
 
-A water utility in Bengaluru loses nearly 20% of its treated water due to leaks in underground pipelines. Manual inspections are slow and costly. The operations team wants to deploy an AI-powered leak detection system that uses IoT sensors, flow data, and anomaly detection algorithms to pinpoint leaks in real time.
+`Goal:`
 
-Goal:
+`Prepare an AI implementation guide for water leak detection in urban networks.`
 
-Prepare an AI implementation guide for water leak detection in urban networks.
+`Prompt:`
 
-Prompt:
+`"You are an IoT-AI integration consultant. Create a step-by-step guide for implementing an AI-based water leak detection system in Bengaluru. Include sensor network design, data streaming setup, anomaly detection models, alert mechanisms, and maintenance protocols."`
 
-"You are an IoT-AI integration consultant. Create a step-by-step guide for implementing an AI-based water leak detection system in Bengaluru. Include sensor network design, data streaming setup, anomaly detection models, alert mechanisms, and maintenance protocols."
-
-Inputs:
-
+`Inputs:`
+```
 1. Length of pipeline network
 
 2. Existing sensor infrastructure
@@ -2533,23 +2533,23 @@ Inputs:
 3. Budget for deployment
 
 4. Alert system preferences (SMS, dashboard)
+```
+## Prompt 6 – AI-Powered Smart Irrigation System
 
-Prompt 6 – AI-Powered Smart Irrigation System
+`Backstory:`
 
-Backstory:
+`A horticulture company in Karnataka manages 500 acres of fruit orchards. They currently follow a fixed irrigation schedule, which often leads to overwatering during monsoons and under-watering during heat waves. The company wants to deploy an AI-powered irrigation system that uses soil moisture sensors, satellite imagery, and weather forecasts to optimise water usage. The aim is to save water, reduce costs, and improve crop quality.`
 
-A horticulture company in Karnataka manages 500 acres of fruit orchards. They currently follow a fixed irrigation schedule, which often leads to overwatering during monsoons and under-watering during heat waves. The company wants to deploy an AI-powered irrigation system that uses soil moisture sensors, satellite imagery, and weather forecasts to optimise water usage. The aim is to save water, reduce costs, and improve crop quality.
+`Goal:`
 
-Goal:
+`Create an AI adoption guide for a smart irrigation system in commercial farming.`
 
-Create an AI adoption guide for a smart irrigation system in commercial farming.
+`Prompt:`
 
-Prompt:
+`"You are an agricultural AI engineer. Develop a detailed guide for implementing an AI-based smart irrigation system for a 500-acre orchard in Karnataka. Include sensor network setup, data integration, predictive watering algorithms, mobile app control features, and water savings calculations."`
 
-"You are an agricultural AI engineer. Develop a detailed guide for implementing an AI-based smart irrigation system for a 500-acre orchard in Karnataka. Include sensor network setup, data integration, predictive watering algorithms, mobile app control features, and water savings calculations."
-
-Inputs:
-
+`Inputs:`
+```
 1. Orchard size and crop types
 
 2. Current irrigation method
@@ -2557,22 +2557,22 @@ Inputs:
 3. Budget for AI deployment
 
 4. Internet connectivity availability on site
+```
+## Prompt 7 – AI for Renewable Energy Demand Forecasting
 
-Prompt 7 – AI for Renewable Energy Demand Forecasting
+`Backstory:`
 
-Backstory:
+`A wind and solar power company in Tamil Nadu struggles with fluctuating demand from its industrial clients. Overproduction wastes energy, while underproduction leads to penalties. They want an AI-driven forecasting model that predicts hourly and daily electricity demand using historical usage patterns, weather data, and client schedules.`
 
-A wind and solar power company in Tamil Nadu struggles with fluctuating demand from its industrial clients. Overproduction wastes energy, while underproduction leads to penalties. They want an AI-driven forecasting model that predicts hourly and daily electricity demand using historical usage patterns, weather data, and client schedules.
+`Goal:`
+`Develop an AI-powered demand forecasting solution for a renewable energy company.`
 
-Goal:
-Develop an AI-powered demand forecasting solution for a renewable energy company.
+`Prompt:`
 
-Prompt:
+`"You are an energy analytics AI specialist. Create a guide for building an AI-based demand forecasting system for a renewable energy provider in Tamil Nadu. Include data requirements, model selection (ARIMA, LSTM), accuracy evaluation, and integration with energy dispatch systems."`
 
-"You are an energy analytics AI specialist. Create a guide for building an AI-based demand forecasting system for a renewable energy provider in Tamil Nadu. Include data requirements, model selection (ARIMA, LSTM), accuracy evaluation, and integration with energy dispatch systems."
-
-Inputs:
-
+`Inputs:`
+```
 1. Historical energy usage data
 
 2. Weather forecast API access
@@ -2580,23 +2580,23 @@ Inputs:
 3. Client industry profiles
 
 4. Desired prediction time frame
+```
+## Prompt 8 – AI-Based Deforestation Monitoring
 
-Prompt 8 – AI-Based Deforestation Monitoring
+`Backstory:`
 
-Backstory:
+`A conservation NGO in the Northeast monitors illegal logging in forest reserves but relies on manual field inspections, which are slow and cover limited areas. They want to use AI with satellite and drone imagery to automatically detect deforestation activities in near real-time and alert forest rangers.`
 
-A conservation NGO in the Northeast monitors illegal logging in forest reserves but relies on manual field inspections, which are slow and cover limited areas. They want to use AI with satellite and drone imagery to automatically detect deforestation activities in near real-time and alert forest rangers.
+`Goal:`
 
-Goal:
+`Create an AI adoption guide for deforestation detection and monitoring.`
 
-Create an AI adoption guide for deforestation detection and monitoring.
+`Prompt:`
 
-Prompt:
+`"You are a geospatial AI expert. Develop a guide for using AI-based image analysis to monitor deforestation in Northeast India. Include satellite/drone data sourcing, image preprocessing, deep learning model training (e.g., U-Net), and automated alert workflows."`
 
-"You are a geospatial AI expert. Develop a guide for using AI-based image analysis to monitor deforestation in Northeast India. Include satellite/drone data sourcing, image preprocessing, deep learning model training (e.g., U-Net), and automated alert workflows."
-
-Inputs:
-
+`Inputs:`
+```
 1. Geographic area to monitor
 
 2. Available imagery sources
@@ -2604,23 +2604,23 @@ Inputs:
 3. Frequency of analysis
 
 4. Budget for AI and drone operations
+```
+## Prompt 9 – AI-Driven Solar Panel Maintenance Scheduling
 
-Prompt 9 – AI-Driven Solar Panel Maintenance Scheduling
+`Backstory:`
 
-Backstory:
+`A solar farm in Rajasthan has thousands of panels spread over 50 acres. Dust buildup and minor faults reduce output significantly, but manual inspections take days. The operations team wants an AI-based predictive maintenance system that uses panel output data, weather conditions, and thermal imaging to schedule cleaning and repairs only when needed.`
 
-A solar farm in Rajasthan has thousands of panels spread over 50 acres. Dust buildup and minor faults reduce output significantly, but manual inspections take days. The operations team wants an AI-based predictive maintenance system that uses panel output data, weather conditions, and thermal imaging to schedule cleaning and repairs only when needed.
+`Goal:`
 
-Goal:
+`Develop an AI implementation guide for predictive solar panel maintenance.`
 
-Develop an AI implementation guide for predictive solar panel maintenance.
+`Prompt:`
 
-Prompt:
+`"You are a renewable asset AI maintenance consultant. Create a guide for deploying an AI-based predictive maintenance system for a solar farm in Rajasthan. Include data collection from sensors, machine learning model design, maintenance trigger thresholds, and cost-benefit projections."`
 
-"You are a renewable asset AI maintenance consultant. Create a guide for deploying an AI-based predictive maintenance system for a solar farm in Rajasthan. Include data collection from sensors, machine learning model design, maintenance trigger thresholds, and cost-benefit projections."
-
-Inputs:
-
+`Inputs:`
+```
 1. Number of panels
 
 2. Sensor/monitoring infrastructure
@@ -2628,23 +2628,23 @@ Inputs:
 3. Maintenance cost per cycle
 
 4. Target downtime reduction percentage
+```
+## Prompt 10 – AI for Flood Risk Mapping
 
-Prompt 10 – AI for Flood Risk Mapping
+`Backstory:`
 
-Backstory:
+`A disaster management authority in Assam faces severe floods every monsoon season. Current flood risk maps are outdated and reactive. They want an AI model that combines historical flood data, rainfall forecasts, and river level measurements to generate dynamic, real-time flood risk maps for early evacuation planning.`
 
-A disaster management authority in Assam faces severe floods every monsoon season. Current flood risk maps are outdated and reactive. They want an AI model that combines historical flood data, rainfall forecasts, and river level measurements to generate dynamic, real-time flood risk maps for early evacuation planning.
+`Goal:`
 
-Goal:
+`Prepare an AI adoption guide for predictive flood risk mapping.`
 
-Prepare an AI adoption guide for predictive flood risk mapping.
+`Prompt:`
 
-Prompt:
+`"You are a climate risk AI modeller. Create a step-by-step guide for developing an AI-based flood risk mapping system for Assam. Include data ingestion pipelines, model selection (Gradient Boosting, CNN), integration with GIS tools, and community alert mechanisms."`
 
-"You are a climate risk AI modeller. Create a step-by-step guide for developing an AI-based flood risk mapping system for Assam. Include data ingestion pipelines, model selection (Gradient Boosting, CNN), integration with GIS tools, and community alert mechanisms."
-
-Inputs:
-
+`Inputs:
+```
 1. Historical flood maps and data
 
 2. Rainfall and river monitoring data
@@ -2652,23 +2652,23 @@ Inputs:
 3. GIS platform choice
 
 4. Budget for AI integration
+```
+## Prompt 11 – AI for Sustainable Supply Chain Optimisation
 
-Prompt 11 – AI for Sustainable Supply Chain Optimisation
+`Backstory:`
 
-Backstory:
+`A large FMCG company in Mumbai sources raw materials from multiple suppliers across India. Transport inefficiencies and poor route planning increase carbon emissions. The supply chain head wants to deploy AI to optimise routes, consolidate shipments, and select eco-friendly transport modes.`
 
-A large FMCG company in Mumbai sources raw materials from multiple suppliers across India. Transport inefficiencies and poor route planning increase carbon emissions. The supply chain head wants to deploy AI to optimise routes, consolidate shipments, and select eco-friendly transport modes.
+`Goal:`
 
-Goal:
+`Create an AI adoption guide for green supply chain management.`
 
-Create an AI adoption guide for green supply chain management.
+`Prompt:`
 
-Prompt:
+`"You are a supply chain AI optimisation expert. Develop a guide for implementing an AI-powered route and load optimisation system for FMCG logistics in India. Include data inputs needed, algorithm recommendations (Linear Programming, Reinforcement Learning), emission tracking, and cost savings reporting."`
 
-"You are a supply chain AI optimisation expert. Develop a guide for implementing an AI-powered route and load optimisation system for FMCG logistics in India. Include data inputs needed, algorithm recommendations (Linear Programming, Reinforcement Learning), emission tracking, and cost savings reporting."
-
-Inputs:
-
+`Inputs:`
+```
 1. Number of transport routes
 
 2. Current transport modes
@@ -2676,23 +2676,23 @@ Inputs:
 3. Emission reduction targets
 
 4. Budget for AI implementation
+```
+## Prompt 12 – AI for Smart Building Energy Management
 
-Prompt 12 – AI for Smart Building Energy Management
+`Backstory:`
 
-Backstory:
+`A tech park in Hyderabad has multiple office buildings with high energy consumption due to lighting, HVAC, and server rooms running 24/7. They want an AI-driven system to monitor real-time energy use, detect anomalies, and automatically adjust systems to save energy.`
 
-A tech park in Hyderabad has multiple office buildings with high energy consumption due to lighting, HVAC, and server rooms running 24/7. They want an AI-driven system to monitor real-time energy use, detect anomalies, and automatically adjust systems to save energy.
+`Goal:`
 
-Goal:
+`Develop an AI guide for intelligent building energy management.`
 
-Develop an AI guide for intelligent building energy management.
+`Prompt:`
 
-Prompt:
+`"You are a smart building AI engineer. Create an adoption guide for deploying an AI-based energy management system in Hyderabad’s tech park. Include sensor deployment, predictive algorithms, automation protocols, and integration with building management systems."`
 
-"You are a smart building AI engineer. Create an adoption guide for deploying an AI-based energy management system in Hyderabad’s tech park. Include sensor deployment, predictive algorithms, automation protocols, and integration with building management systems."
-
-Inputs:
-
+`Inputs:`
+```
 1. Number of buildings
 
 2. Current energy consumption data
@@ -2700,23 +2700,23 @@ Inputs:
 3. Budget for AI integration
 
 4. Control system compatibility
+```
+## Prompt 13 – AI for Marine Plastic Waste Detection
 
-Prompt 13 – AI for Marine Plastic Waste Detection
+`Backstory:`
 
-Backstory:
+`A coastal cleanup NGO in Chennai wants to monitor marine plastic pollution along 200 km of shoreline. Manual surveys are slow and inconsistent. They are exploring AI-based image recognition from drones and beach cameras to detect and classify waste types for targeted cleanup efforts.`
 
-A coastal cleanup NGO in Chennai wants to monitor marine plastic pollution along 200 km of shoreline. Manual surveys are slow and inconsistent. They are exploring AI-based image recognition from drones and beach cameras to detect and classify waste types for targeted cleanup efforts.
+`Goal:`
 
-Goal:
+`Create an AI adoption guide for marine plastic waste monitoring.`
 
-Create an AI adoption guide for marine plastic waste monitoring.
+`Prompt:`
 
-Prompt:
+`"You are a computer vision AI marine specialist. Develop a guide for implementing AI-based detection of marine plastic waste in Chennai’s coastal areas. Include drone/camera deployment, dataset creation, waste classification models, and dashboard visualisation."`
 
-"You are a computer vision AI marine specialist. Develop a guide for implementing AI-based detection of marine plastic waste in Chennai’s coastal areas. Include drone/camera deployment, dataset creation, waste classification models, and dashboard visualisation."
-
-Inputs:
-
+`Inputs:`
+```
 1. Length of coastline to cover
 
 2. Available drone/camera budget
@@ -2724,23 +2724,23 @@ Inputs:
 3. Waste category taxonomy
 
 4. Cleanup frequency
+```
+## Prompt 14 – AI for Optimising EV Charging Station Placement
 
-Prompt 14 – AI for Optimising EV Charging Station Placement
+`Backstory:`
 
-Backstory:
+`A renewable energy startup in Bengaluru wants to expand its EV charging network but needs to choose the best locations for new stations. They want to use AI to analyse traffic patterns, EV adoption rates, and proximity to renewable power sources.`
 
-A renewable energy startup in Bengaluru wants to expand its EV charging network but needs to choose the best locations for new stations. They want to use AI to analyse traffic patterns, EV adoption rates, and proximity to renewable power sources.
+`Goal:`
 
-Goal:
+`Prepare an AI adoption guide for EV charging location optimisation.`
 
-Prepare an AI adoption guide for EV charging location optimisation.
+`Prompt:`
 
-Prompt:
+`"You are a geospatial AI infrastructure planner. Create a guide for using AI to select optimal EV charging station locations in Bengaluru. Include dataset requirements (traffic, EV density, renewable energy availability), clustering algorithms, and ROI projections."`
 
-"You are a geospatial AI infrastructure planner. Create a guide for using AI to select optimal EV charging station locations in Bengaluru. Include dataset requirements (traffic, EV density, renewable energy availability), clustering algorithms, and ROI projections."
-
-Inputs:
-
+`Inputs:`
+```
 1. Target number of new stations
 
 2. Geographic coverage area
@@ -2748,23 +2748,23 @@ Inputs:
 3. Available datasets
 
 4. Budget for AI analysis
+```
+## Prompt 15 – AI for Predicting Renewable Energy Generation
 
-Prompt 15 – AI for Predicting Renewable Energy Generation
+`Backstory:`
 
-Backstory:
+`A utility company in Gujarat operates both wind and solar farms but faces challenges in accurately predicting output for grid balancing. They want an AI system that integrates weather forecasts, historical generation data, and seasonal patterns to make hour-by-hour production forecasts.`
 
-A utility company in Gujarat operates both wind and solar farms but faces challenges in accurately predicting output for grid balancing. They want an AI system that integrates weather forecasts, historical generation data, and seasonal patterns to make hour-by-hour production forecasts.
+`Goal:`
 
-Goal:
+`Create an AI adoption guide for renewable energy generation prediction.`
 
-Create an AI adoption guide for renewable energy generation prediction.
+`Prompt:`
 
-Prompt:
+`"You are a renewable energy forecasting AI consultant. Develop a guide for building an AI model that predicts solar and wind generation in Gujarat. Include data preprocessing, model choice (Hybrid CNN-LSTM), forecast validation, and integration with grid management systems."`
 
-"You are a renewable energy forecasting AI consultant. Develop a guide for building an AI model that predicts solar and wind generation in Gujarat. Include data preprocessing, model choice (Hybrid CNN-LSTM), forecast validation, and integration with grid management systems."
-
-Inputs:
-
+`Inputs:`
+```
 1. Historical generation data
 
 2. Weather forecast sources
@@ -2772,23 +2772,23 @@ Inputs:
 3. Forecast time horizon
 
 4. Budget for AI development
+```
+## Prompt 16 – AI for Urban Heat Island Mapping
 
-Prompt 16 – AI for Urban Heat Island Mapping
+`Backstory:`
 
-Backstory:
+`In Delhi, summer temperatures are rising due to dense construction and lack of green cover, creating “urban heat islands” that trap heat. The municipal corporation wants to identify these zones accurately to prioritise tree plantation and reflective roofing projects. Manual surveys are expensive and limited in coverage. They want an AI-based mapping system that uses thermal satellite imagery, building density data, and vegetation indexes to generate an up-to-date heat map.`
 
-In Delhi, summer temperatures are rising due to dense construction and lack of green cover, creating “urban heat islands” that trap heat. The municipal corporation wants to identify these zones accurately to prioritise tree plantation and reflective roofing projects. Manual surveys are expensive and limited in coverage. They want an AI-based mapping system that uses thermal satellite imagery, building density data, and vegetation indexes to generate an up-to-date heat map.
+`Goal:``
 
-Goal:
+`Develop an AI implementation guide for urban heat island detection and mapping.`
 
-Develop an AI implementation guide for urban heat island detection and mapping.
+`Prompt:`
 
-Prompt:
+`"You are an urban climate AI analyst. Create a guide for building an AI-powered urban heat island mapping system for Delhi. Include data sourcing from satellites (e.g., Landsat, Sentinel), preprocessing methods, model training for hotspot detection, and integration into a public planning dashboard."`
 
-"You are an urban climate AI analyst. Create a guide for building an AI-powered urban heat island mapping system for Delhi. Include data sourcing from satellites (e.g., Landsat, Sentinel), preprocessing methods, model training for hotspot detection, and integration into a public planning dashboard."
-
-Inputs:
-
+`Inputs:`
+```
 1. City boundaries and zoning data
 
 2. Thermal imagery sources
@@ -2796,23 +2796,23 @@ Inputs:
 3. Budget for AI development
 
 4. Preferred map visualisation tool
+```
+## Prompt 17 – AI for Industrial Emissions Monitoring
 
-Prompt 17 – AI for Industrial Emissions Monitoring
+`Backstory:`
 
-Backstory:
+`A manufacturing cluster in Maharashtra is under pressure to comply with stricter air quality standards. Current emissions reporting is done manually by factory staff, leading to inconsistencies. They want an AI system that uses IoT sensors on chimneys to track particulate matter, NOx, and SOx emissions in real-time, flagging anomalies and generating compliance reports automatically.`
 
-A manufacturing cluster in Maharashtra is under pressure to comply with stricter air quality standards. Current emissions reporting is done manually by factory staff, leading to inconsistencies. They want an AI system that uses IoT sensors on chimneys to track particulate matter, NOx, and SOx emissions in real-time, flagging anomalies and generating compliance reports automatically.
+`Goal:`
 
-Goal:
+`Create an AI adoption guide for real-time industrial emissions tracking.`
 
-Create an AI adoption guide for real-time industrial emissions tracking.
+`Prompt:`
 
-Prompt:
+`"You are an environmental AI compliance consultant. Develop a guide for deploying AI-enabled IoT sensor networks to monitor industrial emissions in Maharashtra. Include sensor calibration, data cleaning, anomaly detection algorithms, and automated reporting formats aligned with CPCB standards."`
 
-"You are an environmental AI compliance consultant. Develop a guide for deploying AI-enabled IoT sensor networks to monitor industrial emissions in Maharashtra. Include sensor calibration, data cleaning, anomaly detection algorithms, and automated reporting formats aligned with CPCB standards."
-
-Inputs:
-
+`Inputs:`
+```
 1. Number of factories to monitor
 
 2. Sensor specifications
@@ -2820,23 +2820,23 @@ Inputs:
 3. Reporting frequency
 
 4. Regulatory compliance requirements
+```
+## Prompt 18 – AI-Powered Wildlife Poaching Prevention
 
-Prompt 18 – AI-Powered Wildlife Poaching Prevention
+`Backstory:`
 
-Backstory:
+`A wildlife reserve in Madhya Pradesh is home to endangered tigers and leopards. Poachers often enter at night using forest trails. The reserve authority wants to install AI-based camera traps that can identify humans and vehicles, triggering instant alerts to rangers via mobile apps. They also want to integrate historical poaching incident data to predict high-risk zones.`
 
-A wildlife reserve in Madhya Pradesh is home to endangered tigers and leopards. Poachers often enter at night using forest trails. The reserve authority wants to install AI-based camera traps that can identify humans and vehicles, triggering instant alerts to rangers via mobile apps. They also want to integrate historical poaching incident data to predict high-risk zones.
+`Goal:`
 
-Goal:
+`Develop an AI system plan for anti-poaching surveillance.`
 
-Develop an AI system plan for anti-poaching surveillance.
+`Prompt:`
 
-Prompt:
+`"You are a conservation AI specialist. Create a guide for implementing AI-enabled poaching detection in Madhya Pradesh’s tiger reserve. Include camera trap placement, image recognition model training, risk prediction mapping, and alert automation workflows."`
 
-"You are a conservation AI specialist. Create a guide for implementing AI-enabled poaching detection in Madhya Pradesh’s tiger reserve. Include camera trap placement, image recognition model training, risk prediction mapping, and alert automation workflows."
-
-Inputs:
-
+`Inputs:`
+```
 1. Reserve size and terrain type
 
 2. Camera budget and placement density
@@ -2844,23 +2844,23 @@ Inputs:
 3. Historical poaching data
 
 4. Ranger response protocols
+```
+## Prompt 19 – AI for Waste Segregation in Smart Cities
 
-Prompt 19 – AI for Waste Segregation in Smart Cities
+`Backstory:`
 
-Backstory:
+`A smart city project in Surat has installed waste collection points across the city but segregation of wet and dry waste is inconsistent, reducing recycling efficiency. They want to use AI-powered vision systems at collection points to automatically detect and sort waste, reducing manual labour and contamination.`
 
-A smart city project in Surat has installed waste collection points across the city but segregation of wet and dry waste is inconsistent, reducing recycling efficiency. They want to use AI-powered vision systems at collection points to automatically detect and sort waste, reducing manual labour and contamination.
+`Goal:`
 
-Goal:
+`Prepare an AI adoption guide for automated waste segregation.`
 
-Prepare an AI adoption guide for automated waste segregation.
+`Prompt:`
 
-Prompt:
+`"You are a waste management AI engineer. Design a guide for integrating AI-powered waste segregation into Surat’s smart city project. Include camera/sensor setup, dataset creation for waste classification, real-time sorting mechanisms, and integration with recycling facilities."`
 
-"You are a waste management AI engineer. Design a guide for integrating AI-powered waste segregation into Surat’s smart city project. Include camera/sensor setup, dataset creation for waste classification, real-time sorting mechanisms, and integration with recycling facilities."
-
-Inputs:
-
+`Inputs:`
+```
 1. Number of collection points
 
 2. Type of waste to classify
@@ -2868,23 +2868,23 @@ Inputs:
 3. Budget for hardware and AI development
 
 4. Desired sorting accuracy percentage
+```
+## Prompt 20 – AI for Sustainable Fisheries Management
 
-Prompt 20 – AI for Sustainable Fisheries Management
+`Backstory:`
 
-Backstory:
+`Fishermen in Kerala face declining fish stocks due to overfishing and changing sea temperatures. The fisheries department wants an AI-based advisory system that predicts fishing zones based on satellite sea surface temperature data, chlorophyll levels, and historical catch patterns, while ensuring sustainable quotas.
 
-Fishermen in Kerala face declining fish stocks due to overfishing and changing sea temperatures. The fisheries department wants an AI-based advisory system that predicts fishing zones based on satellite sea surface temperature data, chlorophyll levels, and historical catch patterns, while ensuring sustainable quotas.
+`Goal:`
 
-Goal:
+`Develop an AI adoption guide for sustainable fishing advisory systems.`
 
-Develop an AI adoption guide for sustainable fishing advisory systems.
+`Prompt:`
 
-Prompt:
+`"You are a marine AI resource planner. Create a detailed guide for building an AI system that predicts optimal and sustainable fishing zones in Kerala. Include satellite data integration, predictive algorithms, quota enforcement logic, and multilingual SMS advisory systems for fishermen."`
 
-"You are a marine AI resource planner. Create a detailed guide for building an AI system that predicts optimal and sustainable fishing zones in Kerala. Include satellite data integration, predictive algorithms, quota enforcement logic, and multilingual SMS advisory systems for fishermen."
-
-Inputs:
-
+`Inputs:`
+```
 1. Historical catch data
 
 2. Satellite data sources
@@ -2892,23 +2892,23 @@ Inputs:
 3. Sustainability quota limits
 
 4. Languages for communication
+```
+## Prompt 21 – AI for Monitoring Renewable Energy Asset Lifespan
 
-Prompt 21 – AI for Monitoring Renewable Energy Asset Lifespan
+`Backstory:`
 
-Backstory:
+`A company in Tamil Nadu operates 200 wind turbines. Maintenance is reactive and based on breakdowns, causing high repair costs and downtime. They want an AI model to predict turbine component failures months in advance using vibration, temperature, and operational data, helping extend asset lifespan.`
 
-A company in Tamil Nadu operates 200 wind turbines. Maintenance is reactive and based on breakdowns, causing high repair costs and downtime. They want an AI model to predict turbine component failures months in advance using vibration, temperature, and operational data, helping extend asset lifespan.
+`Goal:`
 
-Goal:
+`Create a predictive maintenance AI plan for wind turbines.`
 
-Create a predictive maintenance AI plan for wind turbines.
+`Prompt:`
 
-Prompt:
+`"You are a renewable energy AI maintenance consultant. Develop a plan for predictive analytics on wind turbine lifespan in Tamil Nadu. Include sensor integration, historical data usage, failure prediction models, and maintenance scheduling dashboards."`
 
-"You are a renewable energy AI maintenance consultant. Develop a plan for predictive analytics on wind turbine lifespan in Tamil Nadu. Include sensor integration, historical data usage, failure prediction models, and maintenance scheduling dashboards."
-
-Inputs:
-
+`Inputs:`
+```
 1. Number of turbines
 
 2. Sensor data availability
@@ -2916,23 +2916,23 @@ Inputs:
 3. Maintenance budget
 
 4. Target uptime percentage
+```
+## Prompt 22 – AI for Carbon Footprint Tracking in Manufacturing
 
-Prompt 22 – AI for Carbon Footprint Tracking in Manufacturing
+`Backstory:`
 
-Backstory:
+`A textile factory in Gujarat exports to Europe and must meet strict carbon footprint disclosure requirements. They want an AI tool to track carbon emissions across the production cycle—from raw material sourcing to shipping—helping them identify areas to reduce emissions and generate EU-compliant reports.`
 
-A textile factory in Gujarat exports to Europe and must meet strict carbon footprint disclosure requirements. They want an AI tool to track carbon emissions across the production cycle—from raw material sourcing to shipping—helping them identify areas to reduce emissions and generate EU-compliant reports.
+`Goal:`
 
-Goal:
+`Develop an AI-powered carbon tracking and reporting system.`
 
-Develop an AI-powered carbon tracking and reporting system.
+`Prompt:`
 
-Prompt:
+`"You are a manufacturing AI sustainability consultant. Create a guide for implementing AI-based carbon footprint monitoring for a textile factory in Gujarat. Include data collection points, calculation methodology, AI dashboard design, and automated compliance reporting features."`
 
-"You are a manufacturing AI sustainability consultant. Create a guide for implementing AI-based carbon footprint monitoring for a textile factory in Gujarat. Include data collection points, calculation methodology, AI dashboard design, and automated compliance reporting features."
-
-Inputs:
-
+`Inputs:`
+```
 1. Production workflow details
 
 2. Energy source mix
@@ -2940,23 +2940,23 @@ Inputs:
 3. Reporting format requirements
 
 4. Reduction targets
+```
+## Prompt 23 – AI for Climate-Resilient Crop Planning
 
-Prompt 23 – AI for Climate-Resilient Crop Planning
+`Backstory:`
 
-Backstory:
+`Farmers in Andhra Pradesh face unpredictable rainfall and temperature shifts. The agriculture department wants an AI system that recommends climate-resilient crops based on soil health, seasonal forecasts, and historical yield data. It should also suggest planting schedules and water management plans.`
 
-Farmers in Andhra Pradesh face unpredictable rainfall and temperature shifts. The agriculture department wants an AI system that recommends climate-resilient crops based on soil health, seasonal forecasts, and historical yield data. It should also suggest planting schedules and water management plans.
+`Goal:`
 
-Goal:
+`Create an AI adoption blueprint for climate-smart agriculture.`
 
-Create an AI adoption blueprint for climate-smart agriculture.
+`Prompt:`
 
-Prompt:
+`"You are an agri-tech AI strategist. Develop a guide for building an AI crop planning system for Andhra Pradesh farmers. Include soil and weather data integration, yield prediction models, multilingual mobile app interface, and farmer training modules."`
 
-"You are an agri-tech AI strategist. Develop a guide for building an AI crop planning system for Andhra Pradesh farmers. Include soil and weather data integration, yield prediction models, multilingual mobile app interface, and farmer training modules."
-
-Inputs:
-
+`Inputs:`
+```
 1. Soil test data
 
 2. Historical yield records
@@ -2964,23 +2964,23 @@ Inputs:
 3. Weather forecast APIs
 
 4. Target farmer demographics
+```
+## Prompt 24 – AI for Water Quality Monitoring in Rivers
 
-Prompt 24 – AI for Water Quality Monitoring in Rivers
+`Backstory:`
 
-Backstory:
+`The Ganga River in Uttar Pradesh faces industrial and domestic pollution. The pollution control board wants an AI system that uses IoT sensors and satellite imagery to monitor water quality indicators like pH, turbidity, and chemical contamination in real-time, issuing alerts for unsafe levels.`
 
-The Ganga River in Uttar Pradesh faces industrial and domestic pollution. The pollution control board wants an AI system that uses IoT sensors and satellite imagery to monitor water quality indicators like pH, turbidity, and chemical contamination in real-time, issuing alerts for unsafe levels.
+`Goal:`
 
-Goal:
+`Develop an AI water quality monitoring and alert system.`
 
-Develop an AI water quality monitoring and alert system.
+`Prompt:`
 
-Prompt:
+`"You are an environmental AI water specialist. Create a guide for implementing AI-based water quality monitoring for the Ganga River. Include sensor placement strategy, data cleaning techniques, anomaly detection models, and public alert mechanisms."`
 
-"You are an environmental AI water specialist. Create a guide for implementing AI-based water quality monitoring for the Ganga River. Include sensor placement strategy, data cleaning techniques, anomaly detection models, and public alert mechanisms."
-
-Inputs:
-
+`Inputs:`
+```
 1. Monitoring stations count
 
 2. Water quality parameters
@@ -2988,23 +2988,23 @@ Inputs:
 3. Alert channels (SMS, app, public boards)
 
 4. Data update frequency
+```
+## Prompt 25 – AI for Sustainable Urban Mobility Planning
 
-Prompt 25 – AI for Sustainable Urban Mobility Planning
+`Backstory:`
 
-Backstory:
+`Bengaluru’s traffic congestion is worsening, leading to higher emissions and commuter stress. The urban planning authority wants to use AI to model traffic flows, predict peak congestion times, and recommend policy interventions like dynamic traffic light control, carpool incentives, and dedicated cycling lanes.`
 
-Bengaluru’s traffic congestion is worsening, leading to higher emissions and commuter stress. The urban planning authority wants to use AI to model traffic flows, predict peak congestion times, and recommend policy interventions like dynamic traffic light control, carpool incentives, and dedicated cycling lanes.
+`Goal:`
 
-Goal:
+`Create an AI-powered sustainable mobility planning framework.`
 
-Create an AI-powered sustainable mobility planning framework.
+`Prompt:`
 
-Prompt:
+`"You are an urban AI mobility planner. Develop a guide for deploying AI to improve sustainable urban transport in Bengaluru. Include traffic data integration, simulation models, optimisation algorithms, and impact assessment metrics."`
 
-"You are an urban AI mobility planner. Develop a guide for deploying AI to improve sustainable urban transport in Bengaluru. Include traffic data integration, simulation models, optimisation algorithms, and impact assessment metrics."
-
-Inputs:
-
+`Inputs:`
+```
 1. Traffic sensor coverage
 
 2. Public transport schedules
@@ -3012,3 +3012,4 @@ Inputs:
 3. Mobility policy goals
 
 4. Implementation budget
+```
