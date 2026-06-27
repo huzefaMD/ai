@@ -1509,7 +1509,7 @@ Provide a table mapping NEP provisions to state-level action points."
 
 `Prompt:`
 
-`"You are part of the PSU interview panel. Ask about:``
+`"You are part of the PSU interview panel. Ask about:`
 ```
 1. Balancing profitability and social obligations
 
@@ -1701,7 +1701,7 @@ Provide a table mapping NEP provisions to state-level action points."
 
 `Prompt:`
 
-"You are a UPSC ESE board member. Ask about:`
+`"You are a UPSC ESE board member. Ask about:`
 ```
 1. Managing delays in government construction projects
 
@@ -1721,20 +1721,20 @@ Provide a table mapping NEP provisions to state-level action points."
 
 3. Knowledge of recent national infrastructure projects
 ```
-Prompt 19 – Indian Forest Service Interview: Wildlife & Conservation Policy
+## Prompt 19 – Indian Forest Service Interview: Wildlife & Conservation Policy
 
-Backstory:
+`Backstory:`
 
-A life sciences graduate from Uttarakhand has cleared IFS mains. They are passionate about wildlife conservation but need practice in explaining how ecological priorities fit into India’s development model. They also want to handle potential questions on human-animal conflict.
+`A life sciences graduate from Uttarakhand has cleared IFS mains. They are passionate about wildlife conservation but need practice in explaining how ecological priorities fit into India’s development model. They also want to handle potential questions on human-animal conflict.`
 
-Goal:
+`Goal:`
 
-Simulate an IFS interview focusing on environmental governance.
+`Simulate an IFS interview focusing on environmental governance.`
 
-Prompt:
+`Prompt:`
 
-"You are an IFS interview panelist. Conduct a mock interview covering:
-
+`"You are an IFS interview panelist. Conduct a mock interview covering:`
+```
 1. Strategies for resolving human-wildlife conflict
 
 2. Afforestation policies and climate change mitigation
@@ -1742,31 +1742,31 @@ Prompt:
 3. Role of local communities in conservation
 
 4. Balancing tourism and wildlife protection in national parks
+```
+`Provide 12–15 questions and feedback on practical, policy-aware thinking."`
 
-Provide 12–15 questions and feedback on practical, policy-aware thinking."
-
-Inputs:
-
+`Inputs:`
+```
 1. Candidate’s research experience
 
 2. Familiarity with specific Indian wildlife sanctuaries
 
 3. Personal conservation initiatives
+```
+## Prompt 20 – NABARD Grade A Interview: Rural Banking & Agri-Innovation
 
-Prompt 20 – NABARD Grade A Interview: Rural Banking & Agri-Innovation
+`Backstory:`
 
-Backstory:
+`An agriculture graduate from Madhya Pradesh has cleared NABARD Grade A exams. They have knowledge of farming practices but want to link that to modern agri-financing solutions. They need help structuring answers that show how banking can accelerate rural innovation.`
 
-An agriculture graduate from Madhya Pradesh has cleared NABARD Grade A exams. They have knowledge of farming practices but want to link that to modern agri-financing solutions. They need help structuring answers that show how banking can accelerate rural innovation.
+`Goal:`
 
-Goal:
+`Simulate a NABARD interview focusing on agri-finance and rural development.`
 
-Simulate a NABARD interview focusing on agri-finance and rural development.
+`Prompt:`
 
-Prompt:
-
-"You are a NABARD interview panel member. Conduct a mock interview on:
-
+`"You are a NABARD interview panel member. Conduct a mock interview on:`
+```
 1. Financing Farmer Producer Organisations (FPOs)
 
 2. Digital tools for rural credit disbursement
@@ -1774,31 +1774,31 @@ Prompt:
 3. Crop insurance and climate resilience
 
 4. Ethical lending in distressed farmer situations
+```
+`Provide feedback on combining financial literacy with empathy."`
 
-Provide feedback on combining financial literacy with empathy."
-
-Inputs:
-
+`Inputs:`
+```
 1. Candidate’s agriculture specialisation
 
 2. Familiarity with NABARD’s flagship programs
 
 3. Awareness of rural credit challenges
+```
+## Prompt 21 – State Police Services Interview: Law Enforcement & Community Trust
 
-Prompt 21 – State Police Services Interview: Law Enforcement & Community Trust
+`Backstory:`
 
-Backstory:
+`A criminal justice graduate has cleared the State Police Services mains in Uttar Pradesh. They have academic knowledge of criminology but no direct field experience. They want to show readiness for real-life policing challenges, from crime prevention to public trust building.`
 
-A criminal justice graduate has cleared the State Police Services mains in Uttar Pradesh. They have academic knowledge of criminology but no direct field experience. They want to show readiness for real-life policing challenges, from crime prevention to public trust building.
+`Goal:`
 
-Goal:
+`Simulate a State Police Services interview focusing on law enforcement in a diverse society.`
 
-Simulate a State Police Services interview focusing on law enforcement in a diverse society.
+`Prompt:`
 
-Prompt:
-
-"You are a State Police Services interview board member. Conduct a mock interview on:
-
+`"You are a State Police Services interview board member. Conduct a mock interview on:`
+```
 1. Modern policing strategies for urban crime
 
 2. Role of social media in law enforcement
@@ -1806,31 +1806,31 @@ Prompt:
 3. Handling communal tensions as an officer
 
 4. Ethical issues in custodial investigations
+```
+`Provide feedback on judgment, crisis-handling, and ethics."`
 
-Provide feedback on judgment, crisis-handling, and ethics."
-
-Inputs:
-
+`Inputs:`
+```
 1. Candidate’s district of domicile
 
 2. Exposure to community outreach programs
 
 3. Awareness of current policing reforms
+```
+## Prompt 22 – ISRO Scientist/Engineer Interview: Space Technology & National Security
 
-Prompt 22 – ISRO Scientist/Engineer Interview: Space Technology & National Security
+`Backstory:`
 
-Backstory:
+`An aerospace engineer has cleared ISRO’s written test and is preparing for the interview. They are technically sound but need practice explaining complex space technologies in a policy and strategic context.`
 
-An aerospace engineer has cleared ISRO’s written test and is preparing for the interview. They are technically sound but need practice explaining complex space technologies in a policy and strategic context.
+`Goal:`
 
-Goal:
+`Simulate an ISRO interview focusing on India’s space program and its applications.`
 
-Simulate an ISRO interview focusing on India’s space program and its applications.
+`Prompt:`
 
-Prompt:
-
-"You are an ISRO interview panelist. Conduct a mock interview on:
-
+`"You are an ISRO interview panelist. Conduct a mock interview on:`
+```
 1. Role of satellites in disaster management
 
 2. Balancing civilian and defence applications of space tech
@@ -1838,31 +1838,31 @@ Prompt:
 3. India’s space diplomacy efforts
 
 4. Ethical considerations in commercial satellite launches
+```
+`Provide 10–12 questions and feedback on clarity, depth, and relevance."`
 
-Provide 10–12 questions and feedback on clarity, depth, and relevance."
-
-Inputs:
-
+`Inputs:`
+```
 1. Candidate’s engineering branch
 
 2. Recent ISRO missions they have followed
 
 3. Preferred research domain
+```
+## Prompt 23 – AIIMS Nursing Officer Interview: Public Health & Patient Care
 
-Prompt 23 – AIIMS Nursing Officer Interview: Public Health & Patient Care
+`Backstory:`
 
-Backstory:
+`A B.Sc. Nursing graduate has cleared AIIMS Nursing Officer recruitment. They have hospital experience but want to strengthen answers on public health policy and patient rights in a government hospital setting.`
 
-A B.Sc. Nursing graduate has cleared AIIMS Nursing Officer recruitment. They have hospital experience but want to strengthen answers on public health policy and patient rights in a government hospital setting.
+`Goal:`
 
-Goal:
+`Simulate an AIIMS Nursing Officer interview focusing on patient care in public health systems.`
 
-Simulate an AIIMS Nursing Officer interview focusing on patient care in public health systems.
+`Prompt:`
 
-Prompt:
-
-"You are an AIIMS interview panel member. Conduct a mock interview on:
-
+`"You are an AIIMS interview panel member. Conduct a mock interview on:`
+```
 1. Ethical dilemmas in patient care
 
 2. Infection control protocols in public hospitals
@@ -1870,31 +1870,31 @@ Prompt:
 3. Role of nurses in national health programs
 
 4. Handling critical patients in resource-limited situations
+```
+`Provide feedback on empathy, protocol adherence, and teamwork."`
 
-Provide feedback on empathy, protocol adherence, and teamwork."
-
-Inputs:
-
+`Inputs:`
+```
 1. Candidate’s nursing specialisation
 
 2. Years of clinical experience
 
 3. Familiarity with government health schemes
+```
+## Prompt 24 – UPSC CAPF Interview: Security & Leadership
 
-Prompt 24 – UPSC CAPF Interview: Security & Leadership
+`Backstory:`
 
-Backstory:
+`A defence studies graduate has cleared UPSC CAPF mains. They want to demonstrate both tactical knowledge and people management skills. Their challenge is to balance operational readiness with community relations.`
 
-A defence studies graduate has cleared UPSC CAPF mains. They want to demonstrate both tactical knowledge and people management skills. Their challenge is to balance operational readiness with community relations.
+`Goal:`
 
-Goal:
+`Simulate a UPSC CAPF interview focusing on internal security and leadership.`
 
-Simulate a UPSC CAPF interview focusing on internal security and leadership.
+`Prompt:`
 
-Prompt:
-
-"You are a CAPF interview panelist. Conduct a mock interview on:
-
+`"You are a CAPF interview panelist. Conduct a mock interview on:`
+```
 1. Strategies for counter-insurgency operations
 
 2. Role of CAPF in disaster relief
@@ -1902,31 +1902,31 @@ Prompt:
 3. Leadership challenges in high-risk zones
 
 4. Balancing force discipline with troop welfare
+```
+`Provide detailed feedback on decision-making under pressure."`
 
-Provide detailed feedback on decision-making under pressure."
-
-Inputs:
-
+`Inputs:`
+```
 1. Candidate’s security background
 
 2. Knowledge of CAPF’s structure
 
 3. Leadership experiences
+```
+## Prompt 25 – GATE PSU Interview: Engineering Problem-Solving
 
-Prompt 25 – GATE PSU Interview: Engineering Problem-Solving
+`Backstory:`
 
-Backstory:
+`A mechanical engineer has cleared GATE and is shortlisted for a PSU interview in Bharat Heavy Electricals Limited (BHEL). They are confident in technical problem-solving but want to practice real-world engineering scenarios under resource constraints.`
 
-A mechanical engineer has cleared GATE and is shortlisted for a PSU interview in Bharat Heavy Electricals Limited (BHEL). They are confident in technical problem-solving but want to practice real-world engineering scenarios under resource constraints.
+`Goal:`
 
-Goal:
+`Simulate a PSU engineering interview focusing on applied technical solutions.`
 
-Simulate a PSU engineering interview focusing on applied technical solutions.
+`Prompt:`
 
-Prompt:
-
-"You are a BHEL interview board member. Conduct a mock interview on:
-
+`"You are a BHEL interview board member. Conduct a mock interview on:`
+```
 1. Cost-efficient design improvements
 
 2. Quality control in mass production
@@ -1934,17 +1934,17 @@ Prompt:
 3. Integrating renewable technologies in heavy engineering
 
 4. Handling machinery failure in critical projects
+```
+`Provide feedback on technical depth, innovation, and cost-awareness."`
 
-Provide feedback on technical depth, innovation, and cost-awareness."
-
-Inputs:
-
+`Inputs:`
+```
 1. Candidate’s engineering discipline
 
 2. Internship/project experience
 
 3. Awareness of PSU operational challenges
-
+```
 
 Application & RTI drafting
 
