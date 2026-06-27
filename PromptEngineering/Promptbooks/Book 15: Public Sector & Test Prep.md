@@ -2250,302 +2250,302 @@ Provide a table mapping NEP provisions to state-level action points."
 
 3. Year of fund allocation
 ```
-Prompt 11 – Application for Income Certificate
+## Prompt 11 – Application for Income Certificate
 
-Backstory:
+`Backstory:`
 
-A student in Kerala needs an income certificate from the village office to apply for a state scholarship. They must submit the application quickly before the deadline.
+`A student in Kerala needs an income certificate from the village office to apply for a state scholarship. They must submit the application quickly before the deadline.`
 
-Goal:
+`Goal:`
 
-Draft a formal application for issuance of an income certificate.
+`Draft a formal application for issuance of an income certificate.`
 
-Prompt:
+`Prompt:`
 
-"Write an application to the Village Officer requesting issuance of an income certificate for scholarship purposes.
+`"Write an application to the Village Officer requesting issuance of an income certificate for scholarship purposes.`
 
-Include:
-
+`Include:`
+```
 1. Applicant’s details and family income
 
 2. Purpose of the certificate
 
 3. Relevant document references
+```
+`Keep the tone polite and concise."`
 
-Keep the tone polite and concise."
-
-Inputs:
-
+`Inputs:`
+```
 1. Applicant name, address, and age
 
 2. Family income details
 
 3. Scholarship scheme name
+```
+## Prompt 12 – RTI for Status of Public Grievance Complaint
 
-Prompt 12 – RTI for Status of Public Grievance Complaint
+`Backstory:`
 
-Backstory:
+`A citizen in Chandigarh lodged a public grievance on the CPGRAMS portal about irregular garbage collection but has not received any response for over a month.`
 
-A citizen in Chandigarh lodged a public grievance on the CPGRAMS portal about irregular garbage collection but has not received any response for over a month.
+`Goal:`
 
-Goal:
+`Draft an RTI to obtain status and actions taken on a grievance complaint.`
 
-Draft an RTI to obtain status and actions taken on a grievance complaint.
+`Prompt:`
 
-Prompt:
-
-"Prepare a formal RTI addressed to the Municipal Commissioner asking for:
-
+`"Prepare a formal RTI addressed to the Municipal Commissioner asking for:`
+```
 1. Current status of the grievance
 
 2. Officer handling the case
 
 3. Actions taken till date
+```
+`Follow RTI Act format and keep it factual."`
 
-Follow RTI Act format and keep it factual."
-
-Inputs:
-
+`Inputs:`
+```
 1. Grievance reference number
 
 2. Date of submission
 
 3. Brief summary of complaint
+```
+## Prompt 13 – Application for Fee Waiver in Public Hospital
 
-Prompt 13 – Application for Fee Waiver in Public Hospital
+`Backstory:`
 
-Backstory:
+`A low-income patient in Madhya Pradesh is undergoing long-term treatment at a government hospital and cannot afford the diagnostic test charges. They need to apply for a fee waiver citing financial hardship.`
 
-A low-income patient in Madhya Pradesh is undergoing long-term treatment at a government hospital and cannot afford the diagnostic test charges. They need to apply for a fee waiver citing financial hardship.
+`Goal:`
 
-Goal:
+`Draft a formal application requesting medical fee waiver.`
 
-Draft a formal application requesting medical fee waiver.
+`Prompt:`
 
-Prompt:
-
-"Write an application to the Medical Superintendent requesting waiver of diagnostic charges, mentioning: 
-
+`"Write an application to the Medical Superintendent requesting waiver of diagnostic charges, mentioning: `
+```
 1. Patient’s medical condition 
 
 2. Financial status and supporting documents 
 
 3. Urgency of continued treatment
+```
+`Keep the tone empathetic yet professional."`
 
-Keep the tone empathetic yet professional."
-
-Inputs: 
-
+`Inputs: `
+```
 1. Patient’s name and hospital registration number 
 
 2. Treatment details 
 
 3. Financial proof document references
+```
+## Prompt 14 – RTI for Recruitment Selection Criteria
 
-Prompt 14 – RTI for Recruitment Selection Criteria
+`Backstory:`
 
-Backstory:
+`A candidate in Himachal Pradesh appeared for a government engineer recruitment exam but is unsure how final selections were made. They want to know the weightage given to written exam, interview, and academic scores.`
 
-A candidate in Himachal Pradesh appeared for a government engineer recruitment exam but is unsure how final selections were made. They want to know the weightage given to written exam, interview, and academic scores.
+`Goal:`
 
-Goal:
+`Draft an RTI to request official selection criteria and weightage details.`
 
-Draft an RTI to request official selection criteria and weightage details.
+`Prompt:`
 
-Prompt:
-
-"Prepare an RTI application addressed to the HP Public Service Commission asking for:
-
+`"Prepare an RTI application addressed to the HP Public Service Commission asking for:`
+```
 1. Selection criteria breakdown
 
 2. Weightage assigned to various stages
 
 3. Tie-breaking rules, if any
+```
+`Ensure compliance with RTI Act format."`
 
-Ensure compliance with RTI Act format."
-
-Inputs:
-
+`Inputs:`
+```
 1. Post name and recruitment notification number
 
 2. Candidate’s name and roll number
+```
+## Prompt 15 – Application for Police Verification for Passport
 
-Prompt 15 – Application for Police Verification for Passport
+`Backstory:`
 
-Backstory:
+`A citizen in Punjab has applied for a passport, but the process is pending due to delay in police verification. They want to submit a formal request to the local police station to expedite the verification.`
 
-A citizen in Punjab has applied for a passport, but the process is pending due to delay in police verification. They want to submit a formal request to the local police station to expedite the verification.
+`Goal:`
 
-Goal:
+`Draft a formal application requesting expedited police verification.`
 
-Draft a formal application requesting expedited police verification.
+`Prompt:`
 
-Prompt:
+`"Write an application to the Station House Officer requesting quick completion of police verification for passport issuance.`
 
-"Write an application to the Station House Officer requesting quick completion of police verification for passport issuance.
-
-Include:
-
+`Include:`
+```
 1. Passport application reference number
 
 2. Reason for urgency (e.g., job offer abroad)
 
 3. Request for status update
+```
+`Keep it respectful and factual."`
 
-Keep it respectful and factual."
-
-Inputs:
-
+`Inputs:`
+```
 1. Applicant name and address
 
 2. Passport application number
 
 3. Urgency reason
+```
+## Prompt 16 – RTI on Public Works Project Delays
 
-Prompt 16 – RTI on Public Works Project Delays
+`Backstory:`
 
-Backstory:
+`A residents’ association in Delhi is concerned about a public road-widening project that was supposed to be completed six months ago but is still pending. Frequent traffic jams are causing inconvenience, and the community wants to know why the project is delayed.`
 
-A residents’ association in Delhi is concerned about a public road-widening project that was supposed to be completed six months ago but is still pending. Frequent traffic jams are causing inconvenience, and the community wants to know why the project is delayed.
+`Goal:`
 
-Goal:
+`Draft an RTI application requesting reasons and updated timelines for the project.`
 
-Draft an RTI application requesting reasons and updated timelines for the project.
+`Prompt:`
 
-Prompt:
-
-"Prepare a formal RTI addressed to the Public Works Department asking for:
-
+`"Prepare a formal RTI addressed to the Public Works Department asking for:`
+```
 1. Current status of the project
 
 2. Reasons for delay
 
 3. Revised completion date
+```
+`Follow RTI norms and maintain a non-confrontational tone."`
 
-Follow RTI norms and maintain a non-confrontational tone."
-
-Inputs:
-
+`Inputs:`
+```
 1. Project name and location
 
 2. Sanction order number
 
 3. Date of project commencement
+```
+## Prompt 17 – Application for OBC Caste Certificate
 
-Prompt 17 – Application for OBC Caste Certificate
+`Backstory:`
 
-Backstory:
+`A college student in Gujarat needs an OBC caste certificate to apply for reserved category benefits in a competitive exam. They must submit an application to the local Tehsildar along with supporting documents.`
 
-A college student in Gujarat needs an OBC caste certificate to apply for reserved category benefits in a competitive exam. They must submit an application to the local Tehsildar along with supporting documents.
+`Goal:`
 
-Goal:
+`Draft a formal application requesting an OBC caste certificate.`
 
-Draft a formal application requesting an OBC caste certificate.
+`Prompt:`
 
-Prompt:
-
-"Write an application to the Tehsildar requesting issuance of an OBC caste certificate. Include:
-
+`"Write an application to the Tehsildar requesting issuance of an OBC caste certificate. Include:`
+```
 1. Applicant details and address
 
 2. Purpose of the certificate
 
 3. List of supporting documents
+```
+`Keep it respectful and official."`
 
-Keep it respectful and official."
-
-Inputs:
-
+`Inputs:`
+```
 1. Name and age
 
 2. Community name and sub-caste
 
 3. Examination or job application reference
+```
+## Prompt 18 – RTI for Government Scheme Beneficiary List
 
-Prompt 18 – RTI for Government Scheme Beneficiary List
+`Backstory:`
 
-Backstory:
+`Farmers in a Maharashtra village suspect that the fertilizer subsidy scheme has not reached all eligible households. They want to verify the official beneficiary list for transparency.`
 
-Farmers in a Maharashtra village suspect that the fertilizer subsidy scheme has not reached all eligible households. They want to verify the official beneficiary list for transparency.
+`Goal:`
 
-Goal:
+`Draft an RTI application to obtain a scheme beneficiary list.`
 
-Draft an RTI application to obtain a scheme beneficiary list.
+`Prompt:`
 
-Prompt:
-
-"Prepare an RTI addressed to the Department of Agriculture requesting:
-
+`"Prepare an RTI addressed to the Department of Agriculture requesting:`
+```
 1. Complete list of beneficiaries under the fertilizer subsidy scheme for the last financial year
 
 2. Criteria used for selection
+```
+`Ensure compliance with RTI format and respectful language."`
 
-Ensure compliance with RTI format and respectful language."
-
-Inputs:
-
+`Inputs:`
+```
 1. Scheme name and year
 
 2. Village and district name
+```
+## Prompt 19 – Application for Name Change in Birth Certificate
 
-Prompt 19 – Application for Name Change in Birth Certificate
+`Backstory:`
 
-Backstory:
+`A young professional in Bengaluru has a mismatch between their passport and birth certificate names due to a clerical error. They need to correct the record for visa application purposes.`
 
-A young professional in Bengaluru has a mismatch between their passport and birth certificate names due to a clerical error. They need to correct the record for visa application purposes.
+`Goal:`
 
-Goal:
+`Draft a formal application for correcting the name in a birth certificate.`
 
-Draft a formal application for correcting the name in a birth certificate.
+`Prompt:`
 
-Prompt:
-
-"Write an application to the Registrar of Births and Deaths requesting correction of the name in the birth certificate. Include:
-
+`"Write an application to the Registrar of Births and Deaths requesting correction of the name in the birth certificate. Include:`
+```
 1. Correct name with proof documents
 
 2. Reason for correction
+```
+`Request for issuance of an updated certificate."`
 
-Request for issuance of an updated certificate."
-
-Inputs:
-
+`Inputs:`
+```
 1. Current incorrect name in record
 
 2. Correct name and supporting documents
 
 3. Registration number and date of birth
+```
+## Prompt 20 – RTI for Status of Ration Card Application
 
-Prompt 20 – RTI for Status of Ration Card Application
+`Backstory:`
 
-Backstory:
+`A newly married couple in Uttar Pradesh applied for a family ration card three months ago but have not received any updates. They want to check the application status to avoid disruption in subsidized food supply.`
 
-A newly married couple in Uttar Pradesh applied for a family ration card three months ago but have not received any updates. They want to check the application status to avoid disruption in subsidized food supply.
+`Goal:`
 
-Goal:
+`Draft an RTI application requesting ration card application status.`
 
-Draft an RTI application requesting ration card application status.
+`Prompt:`
 
-Prompt:
-
-"Prepare an RTI addressed to the Food and Civil Supplies Department asking for:
-
+`"Prepare an RTI addressed to the Food and Civil Supplies Department asking for:`
+```
 1. Current status of application
 
 2. Reasons for any delay
 
 3. Expected issuance date
+```
+`Ensure the tone is factual and in standard RTI format."`
 
-Ensure the tone is factual and in standard RTI format."
-
-Inputs:
-
+`Inputs:`
+```
 1. Application reference number
 
 2. Date of submission
 
 3. Applicant details
-
+```
 Prompt 21 – Application for Duplicate Marksheets
 
 Backstory:
