@@ -1,0 +1,28 @@
+import json
+import os
+
+# Build a mini student database system
+# with these 3 functions:
+
+# Function 1: save_students(students_list)
+# Save a list of student dicts to "data/students.json"
+# Each student has: name, course, price
+
+# Function 2: load_students()
+# Load and return the students list from file
+# Return empty list [] if file does not exist
+
+# Function 3: add_student(name, course, price)
+# Load existing students
+# Add new student dictionary to the list
+# Save the updated list back
+
+# Test with:
+add_student("Ravi",   "Data Science",      5999)
+add_student("Priya",  "Web Development",   4999)
+add_student("Kumar",  "Machine Learning",  6999)
+
+students = load_students()
+print(f"Total students: {len(students)}")
+for s in students:
+    print(f"  {s['name']} - {s['course']}")
