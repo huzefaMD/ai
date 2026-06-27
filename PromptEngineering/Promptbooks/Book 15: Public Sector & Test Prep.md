@@ -1020,20 +1020,20 @@ Provide a table mapping NEP provisions to state-level action points."
 
 3. Local power grid capacity report
 ```
-Prompt 22 – National Water Policy Implementation Guide
+## Prompt 22 – National Water Policy Implementation Guide
 
-Backstory:
+`Backstory:`
 
-The revised National Water Policy emphasises water-use efficiency, river rejuvenation, and community-led conservation. Many local water boards struggle with fragmented data, outdated infrastructure, and public apathy towards water conservation. A clear summary can help them design district-specific action plans aligned with national goals.
+`The revised National Water Policy emphasises water-use efficiency, river rejuvenation, and community-led conservation. Many local water boards struggle with fragmented data, outdated infrastructure, and public apathy towards water conservation. A clear summary can help them design district-specific action plans aligned with national goals.`
 
-Goal:
+`Goal:`
 
-Create a simplified policy guide for local water boards.
+`Create a simplified policy guide for local water boards.`
 
-Prompt:
+`Prompt:`
 
-"You are a water resource policy specialist. Summarise the revised National Water Policy for district water boards. Include:
-
+`"You are a water resource policy specialist. Summarise the revised National Water Policy for district water boards. Include:`
+```
 1. Key conservation targets
 
 2. Recommended urban and rural water-use strategies
@@ -1041,29 +1041,29 @@ Prompt:
 3. River rejuvenation measures
 
 4. Community participation models"
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. National Water Policy document
 
 2. Local water usage data
 
 3. Existing conservation projects list
+```
+## Prompt 23 – Startup Incentives & Policy Compliance Guide
 
-Prompt 23 – Startup Incentives & Policy Compliance Guide
+`Backstory:`
 
-Backstory:
+`The Government of India has updated its Startup India initiative with new tax benefits, compliance relaxations, and funding schemes for early-stage ventures. Many young founders, especially outside metro cities, are unaware of how to navigate these provisions. A sector-neutral compliance guide could accelerate participation.`
 
-The Government of India has updated its Startup India initiative with new tax benefits, compliance relaxations, and funding schemes for early-stage ventures. Many young founders, especially outside metro cities, are unaware of how to navigate these provisions. A sector-neutral compliance guide could accelerate participation.
+`Goal:`
 
-Goal:
+`Summarise Startup India benefits and compliance requirements for first-time founders.`
 
-Summarise Startup India benefits and compliance requirements for first-time founders.
+`Prompt:`
 
-Prompt:
-
-"You are a startup policy advisor. Summarise the updated Startup India scheme for new entrepreneurs. Include:
-
+`"You are a startup policy advisor. Summarise the updated Startup India scheme for new entrepreneurs. Include:`
+```
 1. Eligibility criteria
 
 2. Tax exemptions and benefits
@@ -1071,29 +1071,29 @@ Prompt:
 3. Government funding programs
 
 4. Compliance and reporting requirements"
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Startup India policy update
 
 2. Founder’s business registration details
 
 3. Sector-specific eligibility norms
+```
+## Prompt 24 – Agricultural Export Promotion Policy
 
-Prompt 24 – Agricultural Export Promotion Policy
+`Backstory:`
 
-Backstory:
+`To boost rural incomes, the government has revised its agricultural export policy with better infrastructure support, export hubs, and simplified procedures. However, small-scale farmers and FPOs (Farmer Producer Organisations) need clear, step-by-step guidance to tap into these opportunities.`
 
-To boost rural incomes, the government has revised its agricultural export policy with better infrastructure support, export hubs, and simplified procedures. However, small-scale farmers and FPOs (Farmer Producer Organisations) need clear, step-by-step guidance to tap into these opportunities.
+`Goal:`
 
-Goal:
+`Summarise agricultural export policy for small farmers and FPOs.`
 
-Summarise agricultural export policy for small farmers and FPOs.
+`Prompt:`
 
-Prompt:
-
-"You are an agri-policy consultant. Summarise the updated agricultural export promotion policy for smallholder farmers. Include:
-
+`"You are an agri-policy consultant. Summarise the updated agricultural export promotion policy for smallholder farmers. Include:`
+```
 1. Eligible crops and produce
 
 2. Export hub locations and facilities
@@ -1101,29 +1101,29 @@ Prompt:
 3. Application process for export licenses
 
 4. Government assistance and subsidies"
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Agricultural export policy document
 
 2. Farmer/FPO registration details
 
 3. Crop yield and quality data
+```
+## Prompt 25 – Cybersecurity Policy for Government Offices
 
-Prompt 25 – Cybersecurity Policy for Government Offices
+`Backstory:`
 
-Backstory:
+`The Ministry of Electronics and IT has released updated cybersecurity guidelines to protect government data from increasing cyber threats. These include multi-factor authentication, regular vulnerability audits, and stricter access controls. Smaller government offices, especially at district level, often lack dedicated IT staff and need a simplified action checklist.`
 
-The Ministry of Electronics and IT has released updated cybersecurity guidelines to protect government data from increasing cyber threats. These include multi-factor authentication, regular vulnerability audits, and stricter access controls. Smaller government offices, especially at district level, often lack dedicated IT staff and need a simplified action checklist.
+`Goal:`
 
-Goal:
+`Summarise the updated cybersecurity policy for district-level government offices.`
 
-Summarise the updated cybersecurity policy for district-level government offices.
+`Prompt:`
 
-Prompt:
-
-"You are a cybersecurity policy expert. Summarise the national cybersecurity guidelines for government offices. Include:
-
+`"You are a cybersecurity policy expert. Summarise the national cybersecurity guidelines for government offices. Include:`
+```
 1. Mandatory security measures
 
 2. Frequency and scope of security audits
@@ -1131,15 +1131,15 @@ Prompt:
 3. Data handling and encryption requirements
 
 4. Staff training recommendations"
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Cybersecurity policy update
 
 2. Current IT infrastructure details
 
 3. User access records
-
+```
 
 Mock Interview Scripts
 
