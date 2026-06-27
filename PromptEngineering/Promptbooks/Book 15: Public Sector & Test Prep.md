@@ -2546,152 +2546,152 @@ Provide a table mapping NEP provisions to state-level action points."
 
 3. Applicant details
 ```
-Prompt 21 – Application for Duplicate Marksheets
+## Prompt 21 – Application for Duplicate Marksheets
 
-Backstory:
+`Backstory:`
 
-An engineering graduate in Tamil Nadu lost their university marksheets in a flood. They need to apply for duplicate copies for job application purposes.
+`An engineering graduate in Tamil Nadu lost their university marksheets in a flood. They need to apply for duplicate copies for job application purposes.`
 
-Goal:
+`Goal:`
 
-Draft a formal application requesting duplicate marksheets.
+`Draft a formal application requesting duplicate marksheets.`
 
-Prompt:
+`Prompt:`
 
-"Write an application to the Controller of Examinations requesting duplicate copies of university marksheets. Mention:
-
+`"Write an application to the Controller of Examinations requesting duplicate copies of university marksheets. Mention:`
+```
 1. Circumstances of loss
 
 2. List of required documents for verification
 
 3. Urgency for employment purposes."
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Course and university name
 
 2. Roll number and graduation year
 
 3. List of lost documents
+```
+## Prompt 22 – RTI for Hospital Procurement Transparency
 
-Prompt 22 – RTI for Hospital Procurement Transparency
+`Backstory:`
 
-Backstory:
+`An NGO in Rajasthan suspects overpricing in the purchase of medical equipment by a government hospital. They want to file an RTI to verify procurement details.`
 
-An NGO in Rajasthan suspects overpricing in the purchase of medical equipment by a government hospital. They want to file an RTI to verify procurement details.
+`Goal:`
 
-Goal:
+`Draft an RTI seeking purchase and pricing details for medical equipment.`
 
-Draft an RTI seeking purchase and pricing details for medical equipment.
+`Prompt:`
 
-Prompt:
-
-"Prepare a formal RTI addressed to the Chief Medical Officer asking for:
-
+`"Prepare a formal RTI addressed to the Chief Medical Officer asking for:`
+```
 1. Itemized list of medical equipment purchased
 
 2. Price paid per unit
 
 3. Supplier details
+```
+`Maintain a professional and factual tone."`
 
-Maintain a professional and factual tone."
-
-Inputs:
-
+`Inputs:`
+```
 1. Hospital name and location
 
 2. Time period of procurement
+```
+## Prompt 23 – Application for Land Mutation
 
-Prompt 23 – Application for Land Mutation
+`Backstory:`
 
-Backstory:
+`A landowner in Bihar recently inherited agricultural land from their father. They need to update revenue records to reflect the ownership change.`
 
-A landowner in Bihar recently inherited agricultural land from their father. They need to update revenue records to reflect the ownership change.
+`Goal:`
 
-Goal:
+`Draft a formal application for land mutation.`
 
-Draft a formal application for land mutation.
+`Prompt:`
 
-Prompt:
-
-"Write an application to the Revenue Officer requesting mutation of land records. Include: 
-
+`"Write an application to the Revenue Officer requesting mutation of land records. Include: `
+```
 1. Land parcel details 
 
 2. Inheritance documents reference 
 
 3. Request for updated ownership records."
-
-Inputs: 
-
+```
+`Inputs: `
+```
 1. Khasra number and area 
 
 2. Previous owner’s name 
 
 3. Applicant’s relation to previous owner
+```
+## Prompt 24 – RTI for Pending Road Repair Works
 
-Prompt 24 – RTI for Pending Road Repair Works
+`Backstory:`
 
-Backstory:
+`Residents of a housing colony in Kerala have been facing difficulties due to incomplete road repairs. The project started three months ago and has stalled midway.`
 
-Residents of a housing colony in Kerala have been facing difficulties due to incomplete road repairs. The project started three months ago and has stalled midway.
+`Goal:`
 
-Goal:
+`Draft an RTI application to know why road repairs are incomplete.`
 
-Draft an RTI application to know why road repairs are incomplete.
+`Prompt:`
 
-Prompt:
-
-"Prepare a formal RTI addressed to the Public Works Department asking for:
-
+`"Prepare a formal RTI addressed to the Public Works Department asking for:`
+```
 1. Status of road repair project
 
 2. Reasons for work stoppage
 
 3. Revised timeline for completion
+```
+`Ensure adherence to RTI format."`
 
-Ensure adherence to RTI format."
-
-Inputs:
-
+`Inputs:`
+```
 1. Project location and sanction order
 
 2. Date of commencement
+```
+## Prompt 25 – Application for Disability Certificate
 
-Prompt 25 – Application for Disability Certificate
+`Backstory:`
 
-Backstory:
+`A physically challenged person in Odisha needs a disability certificate to avail reservation benefits in a government job.`
 
-A physically challenged person in Odisha needs a disability certificate to avail reservation benefits in a government job.
+`Goal:`
 
-Goal:
+`Draft a formal application requesting a disability certificate.`
 
-Draft a formal application requesting a disability certificate.
+`Prompt:`
 
-Prompt:
-
-"Write an application to the District Medical Board requesting issuance of a disability certificate. Mention:
-
+`"Write an application to the District Medical Board requesting issuance of a disability certificate. Mention:`
+```
 1. Nature of disability
 
 2. Percentage of impairment (if known)
 
 3. Purpose of certificate
+```
+`Keep tone formal and respectful."`
 
-Keep tone formal and respectful."
-
-Inputs:
-
+`Inputs:`
+```
 1. Applicant details
 
 2. Medical records reference
 
 3. Job application details
+```
 
+# Essay & report writing
 
-Essay & report writing
-
-Prompt 1 – Essay on India’s Journey to Renewable Energy
+# Prompt 1 – Essay on India’s Journey to Renewable Energy
 
 Backstory:
 
