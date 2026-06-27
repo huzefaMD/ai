@@ -1625,20 +1625,20 @@ Provide a table mapping NEP provisions to state-level action points."
 
 3. Knowledge of LIC’s latest schemes
 ```
-Prompt 16 – SSC CGL Interview: Administrative Efficiency & Data Management
+## Prompt 16 – SSC CGL Interview: Administrative Efficiency & Data Management
 
-Backstory:
+`Backstory:`
 
-A graduate in statistics has cleared SSC CGL and is preparing for the interview. They are targeting a post in the Ministry of Finance but feel they lack real-world examples of administrative efficiency. Their academic training has focused on quantitative analysis, but they want to show adaptability to bureaucratic processes.
+`A graduate in statistics has cleared SSC CGL and is preparing for the interview. They are targeting a post in the Ministry of Finance but feel they lack real-world examples of administrative efficiency. Their academic training has focused on quantitative analysis, but they want to show adaptability to bureaucratic processes.`
 
-Goal:
+`Goal:`
 
-Simulate an SSC CGL interview focusing on administrative efficiency in public service.
+`Simulate an SSC CGL interview focusing on administrative efficiency in public service.`
 
-Prompt:
+`Prompt:`
 
-"You are part of the SSC CGL interview panel. Ask questions on:
-
+`"You are part of the SSC CGL interview panel. Ask questions on:`
+```
 1. Use of data analytics in policy implementation
 
 2. Improving file clearance times in government offices
@@ -1646,31 +1646,31 @@ Prompt:
 3. Challenges in inter-departmental coordination
 
 4. Ethical issues in handling sensitive data
+```
+`Ask 10 questions (mix direct and case-based) and provide feedback on clarity, practical thinking, and ethical judgment."`
 
-Ask 10 questions (mix direct and case-based) and provide feedback on clarity, practical thinking, and ethical judgment."
-
-Inputs:
-
+`Inputs:`
+```
 1. Candidate’s degree and specialisation
 
 2. Preferred ministry or department
 
 3. Example of a data-driven decision they admire
+```
+## Prompt 17 – Indian Railways RRB NTPC Interview: Public Transport Management
 
-Prompt 17 – Indian Railways RRB NTPC Interview: Public Transport Management
+`Backstory:`
 
-Backstory:
+`A mechanical engineering graduate from Maharashtra has cleared RRB NTPC exams. They want to join Indian Railways in a role that involves operations planning and passenger service improvement. However, they are unsure how to present their technical background in an operational management context.`
 
-A mechanical engineering graduate from Maharashtra has cleared RRB NTPC exams. They want to join Indian Railways in a role that involves operations planning and passenger service improvement. However, they are unsure how to present their technical background in an operational management context.
+`Goal:`
 
-Goal:
+`Simulate a railway interview focusing on passenger services and efficiency.`
 
-Simulate a railway interview focusing on passenger services and efficiency.
+`Prompt:`
 
-Prompt:
-
-"You are an RRB NTPC interview board member. Conduct a mock interview on:
-
+`"You are an RRB NTPC interview board member. Conduct a mock interview on:`
+```
 1. Strategies to improve punctuality in passenger trains
 
 2. Integrating renewable energy in station operations
@@ -1678,31 +1678,31 @@ Prompt:
 3. Enhancing passenger safety measures
 
 4. Handling public complaints during service delays
+``` 
+`Provide feedback on linking technical knowledge to operational improvements."`
 
-Provide feedback on linking technical knowledge to operational improvements."
-
-Inputs:
-
+`Inputs:`
+```
 1. Candidate’s engineering branch
 
 2. Knowledge of Indian Railways current reforms
 
 3. Personal travel experience with Railways
+```
+## Prompt 18 – UPSC Engineering Services Interview: Infrastructure Development
 
-Prompt 18 – UPSC Engineering Services Interview: Infrastructure Development
+`Backstory:`
 
-Backstory:
+`A civil engineer from Karnataka has cleared UPSC ESE mains. They have worked on small-scale private projects but now aim to transition to large-scale government infrastructure planning. They need to articulate how they can handle cost, quality, and environmental compliance in public works.`
 
-A civil engineer from Karnataka has cleared UPSC ESE mains. They have worked on small-scale private projects but now aim to transition to large-scale government infrastructure planning. They need to articulate how they can handle cost, quality, and environmental compliance in public works.
+`Goal:`
 
-Goal:
+`Simulate a UPSC ESE interview focusing on infrastructure policy and execution.`
 
-Simulate a UPSC ESE interview focusing on infrastructure policy and execution.
+`Prompt:`
 
-Prompt:
-
-"You are a UPSC ESE board member. Ask about:
-
+"You are a UPSC ESE board member. Ask about:`
+```
 1. Managing delays in government construction projects
 
 2. Integrating sustainability into public infrastructure
@@ -1710,17 +1710,17 @@ Prompt:
 3. Public-private partnerships in highways development
 
 4. Case study: Handling cost overruns without compromising quality
+```
+`Provide detailed feedback on balancing technical, administrative, and ethical considerations."`
 
-Provide detailed feedback on balancing technical, administrative, and ethical considerations."
-
-Inputs:
-
+`Inputs:`
+```
 1. Candidate’s engineering field
 
 2. Exposure to government tender processes
 
 3. Knowledge of recent national infrastructure projects
-
+```
 Prompt 19 – Indian Forest Service Interview: Wildlife & Conservation Policy
 
 Backstory:
