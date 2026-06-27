@@ -741,126 +741,126 @@
 
 3. Tone (corporate/spiritual blend)
 ```
-Prompt 6 – Instagram Story Series: “7 Days to Self-Love”
+##  Prompt 6 – Instagram Story Series: “7 Days to Self-Love”
 
-Backstory: Many Indian audiences resonate with short, daily spiritual practices they can integrate into their routine without feeling overwhelmed. A 7-day Instagram Story challenge builds habit formation and encourages daily engagement, while also positioning the coach as a guide.
+`Backstory: Many Indian audiences resonate with short, daily spiritual practices they can integrate into their routine without feeling overwhelmed. A 7-day Instagram Story challenge builds habit formation and encourages daily engagement, while also positioning the coach as a guide.`
 
-Goal: Create a 7-day Instagram Story series, each day focusing on one self-love practice.
+`Goal: Create a 7-day Instagram Story series, each day focusing on one self-love practice.`
 
-Prompt:
+`Prompt:`
 
-“You are a content creator for a spiritual coach. Design a 7-day Instagram Story challenge called ‘7 Days to Self-Love’.
-
+`“You are a content creator for a spiritual coach. Design a 7-day Instagram Story challenge called ‘7 Days to Self-Love’.`
+```
 1. Day 1 to Day 7: One actionable practice each.
 
 2. Include a question sticker or poll for interaction daily.
 
 3. End each day with a motivational affirmation.”
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Audience demographics
 
 2. Language style (formal/informal)
 
 3. Tone (lighthearted/deep)
+```
+## Prompt 7 – Twitter/X Thread on “5 Myths About Meditation”
 
-Prompt 7 – Twitter/X Thread on “5 Myths About Meditation”
+`Backstory: Social media is full of half-truths about meditation. By busting myths, a spiritual coach can attract those skeptical yet curious about meditation. A Twitter/X thread offers quick bites of wisdom, easy to share and bookmark.`
 
-Backstory: Social media is full of half-truths about meditation. By busting myths, a spiritual coach can attract those skeptical yet curious about meditation. A Twitter/X thread offers quick bites of wisdom, easy to share and bookmark.
+`Goal: Write a 7-tweet thread debunking meditation myths.`
 
-Goal: Write a 7-tweet thread debunking meditation myths.
+`Prompt:`
 
-Prompt:
-
-“You are a content strategist for a spiritual coach. Write a 7-tweet thread titled ‘5 Myths About Meditation — Busted’.
-
+`“You are a content strategist for a spiritual coach. Write a 7-tweet thread titled ‘5 Myths About Meditation — Busted’.`
+```
 1. Tweet 1: Hook
 
 2. Tweets 2–6: One myth per tweet, explained with truth and short example.
 
 3. Tweet 7: Closing call-to-action to follow the coach.”
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Number of myths
 
 2. Target tone (educational/playful)
 
 3. Hashtag usage
+```
+## Prompt 8 – Podcast Episode Plan: “Manifestation for Students”
 
-Prompt 8 – Podcast Episode Plan: “Manifestation for Students”
+`Backstory: Students in India often face pressure around exams, career choices, and competition. A podcast episode on manifestation tailored for students can inspire them to set goals and maintain focus without falling into negative self-talk.`
 
-Backstory: Students in India often face pressure around exams, career choices, and competition. A podcast episode on manifestation tailored for students can inspire them to set goals and maintain focus without falling into negative self-talk.
+`Goal: Create a 20-minute podcast script outline for students on manifestation techniques.`
 
-Goal: Create a 20-minute podcast script outline for students on manifestation techniques.
+`Prompt:`
 
-Prompt:
-
-“You are a podcast scriptwriter for a spiritual coach. Create a 20-minute episode plan titled ‘Manifestation for Students’.
-
+`“You are a podcast scriptwriter for a spiritual coach. Create a 20-minute episode plan titled ‘Manifestation for Students’.`
+```
 1. Intro: Relatable student struggle story.
 
 2. Main Content: 3 manifestation techniques for academic and career success.
 
 3. Closing: Guided visualisation + call-to-action.”
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Student age range
 
 2. Tone (motivational/practical)
 
 3. Techniques preferred
+```
+## Prompt 9 – Instagram Reel: “Morning Ritual for a Positive Day”
 
-Prompt 9 – Instagram Reel: “Morning Ritual for a Positive Day”
+`Backstory: In the fast-paced Indian urban lifestyle, many people start their day in stress mode. A short, visually appealing reel showing a simple morning ritual can inspire them to start their day mindfully.`
 
-Backstory: In the fast-paced Indian urban lifestyle, many people start their day in stress mode. A short, visually appealing reel showing a simple morning ritual can inspire them to start their day mindfully.
+`Goal: Write a 45-second Instagram reel script for a morning ritual.`
 
-Goal: Write a 45-second Instagram reel script for a morning ritual.
+`Prompt:`
 
-Prompt:
-
-“You are a social media strategist for a spiritual coach. Create a 45-second reel titled ‘Morning Ritual for a Positive Day’.
-
+`“You are a social media strategist for a spiritual coach. Create a 45-second reel titled ‘Morning Ritual for a Positive Day’.`
+```
 1. Hook in first 3 seconds.
 
 2. Show 3 steps visually.
 
 3. End with affirmation and gentle CTA.”
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Ritual type (yoga, meditation, journaling)
 
 2. Filming style (talking head, montage)
 
 3. Target audience
+```
+## Prompt 10 – WhatsApp Broadcast Script: “Daily Gratitude Practice”
 
-Prompt 10 – WhatsApp Broadcast Script: “Daily Gratitude Practice”
+`Backstory: WhatsApp groups are widely used in India for community updates. A short, daily gratitude prompt delivered on WhatsApp helps maintain engagement and personal connection between the coach and followers.`
 
-Backstory: WhatsApp groups are widely used in India for community updates. A short, daily gratitude prompt delivered on WhatsApp helps maintain engagement and personal connection between the coach and followers.
+`Goal: Create a 30-day gratitude message plan for WhatsApp broadcast.`
 
-Goal: Create a 30-day gratitude message plan for WhatsApp broadcast.
+`Prompt`
 
-Prompt:
-
-“You are a community manager for a spiritual coach. Create a 30-day WhatsApp gratitude series.
-
+`“You are a community manager for a spiritual coach. Create a 30-day WhatsApp gratitude series.`
+```
 1. Each message under 60 words.
 
 2. Include 1 gratitude question and 1 affirmation daily.
 
 3. Use simple, warm tone.”
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Duration of series
 
 2. Tone style (casual/spiritual)
 
 3. Engagement type (poll, reply, reflection)
-
+```
 Prompt 11 – Facebook Group Live Q&A: “Healing Through Forgiveness”
 
 Backstory: Many followers in Indian spiritual communities hold onto resentment due to family or workplace conflicts. A live Q&A offers them a safe space to ask questions directly to the coach, fostering deeper connection and trust.
