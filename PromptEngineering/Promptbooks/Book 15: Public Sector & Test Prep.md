@@ -3057,18 +3057,18 @@ Provide a table mapping NEP provisions to state-level action points."
 ```
 ## Prompt 16 – Urban Sanitation Mission Impact Report
 
-Backstory:
+`Backstory:`
 
-The Swachh Bharat Mission has been one of India’s largest cleanliness drives, targeting both rural and urban sanitation improvements. In many metropolitan cities, waste segregation at source and public toilet maintenance have shown mixed results. A city municipal corporation is compiling a report to present at the National Sanitation Summit, highlighting achievements, ongoing issues, and plans to improve urban hygiene infrastructure.
+`The Swachh Bharat Mission has been one of India’s largest cleanliness drives, targeting both rural and urban sanitation improvements. In many metropolitan cities, waste segregation at source and public toilet maintenance have shown mixed results. A city municipal corporation is compiling a report to present at the National Sanitation Summit, highlighting achievements, ongoing issues, and plans to improve urban hygiene infrastructure.`
 
-Goal:
+`Goal:`
 
-Prepare a professional report analyzing the impact of Swachh Bharat Mission in a specific city.
+`Prepare a professional report analyzing the impact of Swachh Bharat Mission in a specific city.`
 
-Prompt:
+`Prompt:`
 
-"Create a detailed impact assessment report for the Swachh Bharat Mission in Pune city. Include:
-
+`"Create a detailed impact assessment report for the Swachh Bharat Mission in Pune city. Include:`
+```
 1. Pre-mission sanitation challenges and baseline data.
 
 2. Infrastructure development and behaviour change campaigns.
@@ -3078,29 +3078,29 @@ Prompt:
 4. Persistent challenges in implementation.
 
 5. Policy and citizen engagement recommendations."
-
-Inputs Required from User:
-
+```
+`Inputs Required from User:`
+```
 1. City-specific sanitation data
 
 2. Before/after comparison figures
 
 3. Key initiatives taken locally
-
+```
 ## Prompt 17 – Women Empowerment Policy Analysis Essay
 
-Backstory:
+`Backstory:`
 
-Government schemes like Beti Bachao Beti Padhao and Mahila E-Haat aim to uplift women socially and economically. While awareness has increased, the actual on-ground results vary across regions. As part of a UPSC mains practice, you are asked to write an analytical essay exploring how these policies are performing, the cultural challenges faced, and the structural changes required to empower women fully.
+`Government schemes like Beti Bachao Beti Padhao and Mahila E-Haat aim to uplift women socially and economically. While awareness has increased, the actual on-ground results vary across regions. As part of a UPSC mains practice, you are asked to write an analytical essay exploring how these policies are performing, the cultural challenges faced, and the structural changes required to empower women fully.`
 
-Goal:
+`Goal:`
 
-Write an essay evaluating India’s women empowerment schemes and suggesting improvements.
+`Write an essay evaluating India’s women empowerment schemes and suggesting improvements.`
 
-Prompt:
+`Prompt:`
 
-"Draft a 1500-word essay on ‘Women Empowerment in India: Policy Efforts and the Way Forward’. Include:
-
+`"Draft a 1500-word essay on ‘Women Empowerment in India: Policy Efforts and the Way Forward’. Include:`
+```
 1. Overview of key schemes and their objectives.
 
 2. Measurable progress and real-life success stories.
@@ -3108,27 +3108,27 @@ Prompt:
 3. Social, cultural, and institutional barriers.
 
 4. Strategies for sustainable empowerment."
-
-Inputs Required from User:
-
+```
+`Inputs Required from User:`
+```
 1. List of schemes to focus on
 
 2. Any state-specific examples or case studies
-
+```
 ## Prompt 18 – Renewable Energy Development Report
 
-Backstory:
+`Backstory:`
 
-India has committed to ambitious renewable energy targets, including achieving 500 GW by 2030. The Ministry of New and Renewable Energy (MNRE) is preparing a quarterly report to assess the growth of solar, wind, and hydro projects. This report will be tabled in Parliament and must include data analysis, investment trends, and policy gaps.
+`India has committed to ambitious renewable energy targets, including achieving 500 GW by 2030. The Ministry of New and Renewable Energy (MNRE) is preparing a quarterly report to assess the growth of solar, wind, and hydro projects. This report will be tabled in Parliament and must include data analysis, investment trends, and policy gaps.`
 
-Goal:
+`Goal:`
 
-Prepare a government-standard renewable energy progress report.
+`Prepare a government-standard renewable energy progress report.`
 
-Prompt:
+`Prompt:`
 
-"Write a detailed renewable energy sector progress report for India (Jan–Mar 2025). Include:
-
+`"Write a detailed renewable energy sector progress report for India (Jan–Mar 2025). Include:`
+```
 1. Installed capacity by sector (solar, wind, hydro, biomass).
 
 2. Key state-wise contributions and leading projects.
@@ -3138,15 +3138,15 @@ Prompt:
 4. Challenges in land acquisition, storage, and grid integration.
 
 5. Recommendations to accelerate adoption."
-
-Inputs Required from User:
-
+```
+`Inputs Required from User:`
+```
 1. Latest official data
 
 2. Notable projects or MoUs
 
 3. Identified bottlenecks
-
+```
 ## Prompt 19 – Defence Modernisation White Paper
 
 `Backstory:`
