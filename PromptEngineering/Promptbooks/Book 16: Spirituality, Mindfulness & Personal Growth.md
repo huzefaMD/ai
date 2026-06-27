@@ -274,59 +274,59 @@
 ```
 ## Prompt 12 – Sleep-Inducing Deep Relaxation Meditation
 
-Backstory: Insomnia and restless sleep are increasingly common in urban India due to screen overuse and late-night work schedules. A guided meditation can help the listener wind down and ease into restorative sleep by calming the nervous system and reducing mental chatter. This can be particularly helpful for IT professionals, students, and shift workers.
+`Backstory: Insomnia and restless sleep are increasingly common in urban India due to screen overuse and late-night work schedules. A guided meditation can help the listener wind down and ease into restorative sleep by calming the nervous system and reducing mental chatter. This can be particularly helpful for IT professionals, students, and shift workers.`
 
-Goal: Write a meditation that promotes deep, peaceful sleep.
+`Goal: Write a meditation that promotes deep, peaceful sleep.`
 
-Prompt:
+`Prompt:`
 
-“You are a relaxation coach specializing in sleep hygiene. Create a 20-minute guided meditation for sleep.
-
+`“You are a relaxation coach specializing in sleep hygiene. Create a 20-minute guided meditation for sleep.`
+```
 1. Start with slow, deep breathing.
 
 2. Use progressive muscle relaxation from head to toe.
 
 3. Integrate soft background imagery such as moonlight or gentle rain sounds.”
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Duration
 
 2. Preferred imagery
 
 3. Background sound type
-
+```
 ## Prompt 13 – Meditation for Emotional Release and Forgiveness
 
-Backstory: Many Indians carry long-standing grudges or unresolved anger within families, workplaces, or communities. Holding onto these emotions impacts mental health and relationships. A forgiveness meditation can help release these burdens, improve relationships, and create emotional freedom, rooted in both spiritual and psychological healing.
+`Backstory: Many Indians carry long-standing grudges or unresolved anger within families, workplaces, or communities. Holding onto these emotions impacts mental health and relationships. A forgiveness meditation can help release these burdens, improve relationships, and create emotional freedom, rooted in both spiritual and psychological healing.`
 
-Goal: Create a forgiveness meditation that guides the listener toward emotional release.
+`Goal: Create a forgiveness meditation that guides the listener toward emotional release.`
 
-Prompt:
+`Prompt:`
 
-“You are an emotional healing facilitator. Write a 15-minute guided forgiveness meditation.
-
+`“You are an emotional healing facilitator. Write a 15-minute guided forgiveness meditation.`
+```
 1. Begin with breath awareness and heart-centered focus.
 
 2. Guide visualization of the person or situation.
 
 3. Use affirmations for letting go and inner peace.”
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Relationship context (family, work, self)
 
 2. Language choice
 
 3. Tone (gentle, empowering, spiritual)
-
+```
 ## Prompt 14 – Mindful Eating Meditation
 
 `Backstory: With fast-paced lifestyles, many Indians eat while multitasking, leading to poor digestion and overeating. Mindful eating meditations help reconnect with the sensory experience of food and the gratitude for nourishment. This practice can be particularly helpful for those managing lifestyle diseases like diabetes or obesity.`
 
-`Goal: Write a meditation that encourages mindful eating practices.
+`Goal: Write a meditation that encourages mindful eating practices. `
 
-`Prompt:
+`Prompt:`
 
 `“You are a wellness coach integrating mindfulness into daily routines. Write a 10-minute mindful eating meditation.`
 ```
