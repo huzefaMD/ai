@@ -1241,20 +1241,20 @@ Provide a table mapping NEP provisions to state-level action points."
 
 3. Any internship or prior work experience
 ```
-Prompt 4 – RBI Grade B Officer Mock Interview: Monetary Policy & Economics
+## Prompt 4 – RBI Grade B Officer Mock Interview: Monetary Policy & Economics
 
-Backstory:
+`Backstory:`
 
-A 29-year-old economics graduate has cleared the RBI Grade B Mains exam and is preparing for the final interview. They are confident in theory but struggle to connect economic concepts to real-world policy issues. They want practice articulating balanced, evidence-based answers on monetary policy, inflation, and financial stability.
+`A 29-year-old economics graduate has cleared the RBI Grade B Mains exam and is preparing for the final interview. They are confident in theory but struggle to connect economic concepts to real-world policy issues. They want practice articulating balanced, evidence-based answers on monetary policy, inflation, and financial stability.`
 
-Goal:
+`Goal:`
 
-Simulate an RBI Grade B interview focusing on economics and policy application.
+`Simulate an RBI Grade B interview focusing on economics and policy application.`
 
-Prompt:
+`Prompt:`
 
-"You are an RBI interview board member. Conduct a mock interview on:
-
+`"You are an RBI interview board member. Conduct a mock interview on:`
+```
 1. Current inflation trends and RBI’s control measures
 
 2. Monetary vs fiscal policy coordination
@@ -1262,31 +1262,31 @@ Prompt:
 3. Financial inclusion initiatives in rural India
 
 4. Impact of global economic shocks on Indian banking
+```
+`Ask 8–10 questions, encourage data-backed responses, and provide evaluative feedback."`
 
-Ask 8–10 questions, encourage data-backed responses, and provide evaluative feedback."
-
-Inputs:
-
+`Inputs:`
+```
 1. Candidate’s educational background
 
 2. Recent monetary policy statements they have read
 
 3. Preferred economic sectors of interest
+```
+## Prompt 5 – Indian Railways Group A Interview: Infrastructure Management
 
-Prompt 5 – Indian Railways Group A Interview: Infrastructure Management
+`Backstory:`
 
-Backstory:
+`An engineering graduate has qualified for the Indian Engineering Services (IES) and is facing the interview for Indian Railways Group A services. They have experience in civil construction but limited knowledge of large-scale public infrastructure management. They want a mock interview that prepares them for operational, technical, and policy-level questions.`
 
-An engineering graduate has qualified for the Indian Engineering Services (IES) and is facing the interview for Indian Railways Group A services. They have experience in civil construction but limited knowledge of large-scale public infrastructure management. They want a mock interview that prepares them for operational, technical, and policy-level questions.
+`Goal:`
 
-Goal:
+`Create a technical-cum-managerial mock interview for Indian Railways.`
 
-Create a technical-cum-managerial mock interview for Indian Railways.
+`Prompt:`
 
-Prompt:
-
-"You are a senior Indian Railways selection board member. Conduct a mock interview focusing on:
-
+`"You are a senior Indian Railways selection board member. Conduct a mock interview focusing on:`
+```
 1. Railway infrastructure modernisation projects
 
 2. Safety protocols and accident prevention
@@ -1294,31 +1294,31 @@ Prompt:
 3. Budget allocation for large-scale projects
 
 4. Public-private partnership opportunities in rail transport
+```
+`Ask 12–15 questions and give constructive feedback on technical accuracy, leadership qualities, and public service mindset."`
 
-Ask 12–15 questions and give constructive feedback on technical accuracy, leadership qualities, and public service mindset."
-
-Inputs:
-
+`Inputs:`
+```
 1. Candidate’s engineering branch
 
 2. Experience in infrastructure projects
 
 3. Knowledge of current railway development plans
+```
+## Prompt 6 – SSC CGL Interview: Administrative Problem-Solving
 
-Prompt 6 – SSC CGL Interview: Administrative Problem-Solving
+`Backstory:`
 
-Backstory:
+`A graduate from Delhi University has cleared the Staff Selection Commission – Combined Graduate Level exam and is now preparing for the interview for an Assistant Section Officer post. They have a strong academic record but have never worked in a government setup before. They need practice in responding to administrative challenges and scenario-based questions that require logical thinking, resource allocation, and adherence to government procedures.`
 
-A graduate from Delhi University has cleared the Staff Selection Commission – Combined Graduate Level exam and is now preparing for the interview for an Assistant Section Officer post. They have a strong academic record but have never worked in a government setup before. They need practice in responding to administrative challenges and scenario-based questions that require logical thinking, resource allocation, and adherence to government procedures.
+`Goal:`
 
-Goal:
+`Create a scenario-based mock interview for SSC CGL candidates focusing on administrative efficiency and coordination.`
 
-Create a scenario-based mock interview for SSC CGL candidates focusing on administrative efficiency and coordination.
+`Prompt:`
 
-Prompt:
-
-"You are an SSC interview panel member. Conduct a mock interview covering:
-
+`"You are an SSC interview panel member. Conduct a mock interview covering:`
+```
 1. Handling RTI requests under pressure
 
 2. Managing clerical and supervisory roles effectively
@@ -1326,31 +1326,31 @@ Prompt:
 3. Coordination between multiple government departments
 
 4. Digital transformation of administrative work
+```
+`Ask 8–10 questions, including 3 situational problem-solving cases, and provide targeted feedback on clarity, adherence to procedures, and time management."`
 
-Ask 8–10 questions, including 3 situational problem-solving cases, and provide targeted feedback on clarity, adherence to procedures, and time management."
-
-Inputs:
-
+`Inputs:`
+```
 1. Candidate’s graduation subject
 
 2. Preferred department or ministry
 
 3. Prior exposure to government processes
+```
+## Prompt 7 – UPSC CAPF Assistant Commandant Interview: Crisis Management
 
-Prompt 7 – UPSC CAPF Assistant Commandant Interview: Crisis Management
+`Backstory:`
 
-Backstory:
+`A 27-year-old candidate has cleared the written exam for the Central Armed Police Forces (CAPF) Assistant Commandant role. They are physically fit but tend to get nervous in high-pressure questioning. They need to practice interviews that combine leadership, tactical decision-making, and public service ethics.`
 
-A 27-year-old candidate has cleared the written exam for the Central Armed Police Forces (CAPF) Assistant Commandant role. They are physically fit but tend to get nervous in high-pressure questioning. They need to practice interviews that combine leadership, tactical decision-making, and public service ethics.
+`Goal:`
 
-Goal:
+`Simulate a CAPF interview focusing on crisis management and operational leadership.`
 
-Simulate a CAPF interview focusing on crisis management and operational leadership.
+`Prompt:`
 
-Prompt:
-
-"You are a senior officer on the CAPF interview panel. Conduct a mock interview with focus on:
-
+`"You are a senior officer on the CAPF interview panel. Conduct a mock interview with focus on:`
+```
 1. Managing a riot situation in a sensitive area
 
 2. Decision-making during natural disasters
@@ -1358,31 +1358,31 @@ Prompt:
 3. Coordination with state police and other agencies
 
 4. Ethical dilemmas in use-of-force situations
+```
+`Ask 12 questions, mix operational, ethical, and personal motivation aspects, and provide feedback on composure, decision quality, and empathy."`
 
-Ask 12 questions, mix operational, ethical, and personal motivation aspects, and provide feedback on composure, decision quality, and empathy."
-
-Inputs:
-
+`Inputs:`
+```
 1. Candidate’s state of domicile
 
 2. Physical fitness achievements
 
 3. Any prior NCC or police training experience
+```
+## Prompt 8 – Indian Forest Service (IFoS) Interview: Environmental Policy & Fieldwork
 
-Prompt 8 – Indian Forest Service (IFoS) Interview: Environmental Policy & Fieldwork
+`Backstory:`
 
-Backstory:
+`An environmental science postgraduate has cleared the written stage of the IFoS exam. They have field research experience but limited exposure to policy-level discussions. They want an interview simulation that integrates biodiversity conservation with administrative responsibilities.`
 
-An environmental science postgraduate has cleared the written stage of the IFoS exam. They have field research experience but limited exposure to policy-level discussions. They want an interview simulation that integrates biodiversity conservation with administrative responsibilities.
+`Goal:`
 
-Goal:
+`Create a mock interview for IFoS candidates focusing on environmental conservation and governance.`
 
-Create a mock interview for IFoS candidates focusing on environmental conservation and governance.
+`Prompt:`
 
-Prompt:
-
-"You are an Indian Forest Service interview board member. Conduct a mock interview on:
-
+`"You are an Indian Forest Service interview board member. Conduct a mock interview on:`
+```
 1. Wildlife protection policies and challenges
 
 2. Human-wildlife conflict mitigation strategies
@@ -1390,31 +1390,31 @@ Prompt:
 3. Forest-based livelihood programmes
 
 4. Role of technology in forest management
+```
+`Include 10–12 questions, with at least 3 situational case studies, and give detailed feedback on technical depth, problem-solving, and balancing conservation with development."`
 
-Include 10–12 questions, with at least 3 situational case studies, and give detailed feedback on technical depth, problem-solving, and balancing conservation with development."
-
-Inputs:
-
+`Inputs:`
+```
 1. Candidate’s academic background
 
 2. Region they are most familiar with
 
 3. Major environmental issues in that region
+```
+## Prompt 9 – Judicial Services Interview: Legal Reasoning & Ethics
 
-Prompt 9 – Judicial Services Interview: Legal Reasoning & Ethics
+`Backstory:`
 
-Backstory:
+`A young law graduate has passed the State Judicial Services Mains exam. They have theoretical legal knowledge but need help structuring their answers in an interview setting, especially for questions on ethics, judicial conduct, and application of law in ambiguous situations.`
 
-A young law graduate has passed the State Judicial Services Mains exam. They have theoretical legal knowledge but need help structuring their answers in an interview setting, especially for questions on ethics, judicial conduct, and application of law in ambiguous situations.
+`Goal:`
 
-Goal:
+`Simulate a judicial services interview focusing on ethics, reasoning, and law application.`
 
-Simulate a judicial services interview focusing on ethics, reasoning, and law application.
+`Prompt:`
 
-Prompt:
-
-"You are a senior High Court judge conducting a Judicial Services mock interview. Focus on:
-
+`"You are a senior High Court judge conducting a Judicial Services mock interview. Focus on:``
+```
 1. Interpretation of ambiguous legal provisions
 
 2. Ethical conduct and conflict of interest scenarios
@@ -1422,31 +1422,31 @@ Prompt:
 3. Speedy justice vs procedural thoroughness
 
 4. Handling public criticism of judicial decisions
+```
+`Ask 10 questions, mix case studies and opinion-based queries, and provide thorough feedback on clarity, neutrality, and legal reasoning."`
 
-Ask 10 questions, mix case studies and opinion-based queries, and provide thorough feedback on clarity, neutrality, and legal reasoning."
-
-Inputs:
-
+`Inputs:`
+```
 1. Candidate’s law school background
 
 2. Specialisation areas in law
 
 3. Landmark judgments they are familiar with
+```
+## Prompt 10 – UPSC Engineering Services Interview: Public Infrastructure Challenges
 
-Prompt 10 – UPSC Engineering Services Interview: Public Infrastructure Challenges
+`Backstory:`
 
-Backstory:
+`An electrical engineer working in a private company has cleared the Engineering Services Mains for a central government post. They have strong technical skills but need practice explaining engineering solutions in a governance and public service context.`
 
-An electrical engineer working in a private company has cleared the Engineering Services Mains for a central government post. They have strong technical skills but need practice explaining engineering solutions in a governance and public service context.
+`Goal:`
 
-Goal:
+`Create a mock interview for engineering candidates linking technical expertise with public service goals.`
 
-Create a mock interview for engineering candidates linking technical expertise with public service goals.
+`Prompt:`
 
-Prompt:
-
-"You are a senior panelist for the Engineering Services interview. Conduct a mock interview covering:  
-
+`"You are a senior panelist for the Engineering Services interview. Conduct a mock interview covering: ` 
+```
 1. Power infrastructure challenges in rural India  
 
 2. Smart grid technologies and their feasibility in India  
@@ -1454,17 +1454,17 @@ Prompt:
 3. Disaster-proofing public infrastructure  
 
 4. Cost-benefit analysis in public works projects
+```
+`Ask 12–15 questions, blending technical, managerial, and policy aspects, and give feedback on practical applicability and public service alignment."`
 
-Ask 12–15 questions, blending technical, managerial, and policy aspects, and give feedback on practical applicability and public service alignment."
-
-Inputs:  
-
+`Inputs:  `
+```
 1. Engineering discipline  
 
 2. Past project experience  
 
 3. State or region candidate wishes to serve in
-
+```
 Prompt 11 – UPSC CSE Interview: Rural Development & Governance
 
 Backstory:
