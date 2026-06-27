@@ -178,101 +178,101 @@
 ```
 ## Prompt 8 – Grounding Meditation for Anxiety
 
-Backstory: With increasing urbanization and digital overload, many Indians experience a constant sense of restlessness and detachment from the present. Grounding techniques can help reconnect them with their bodies and surroundings, reducing anxiety symptoms. This meditation is especially useful for those in high-stress jobs or going through life transitions.
+`Backstory: With increasing urbanization and digital overload, many Indians experience a constant sense of restlessness and detachment from the present. Grounding techniques can help reconnect them with their bodies and surroundings, reducing anxiety symptoms. This meditation is especially useful for those in high-stress jobs or going through life transitions.`
 
-Goal: Develop a grounding meditation that instantly calms the mind and anchors the listener in the present moment.
+`Goal: Develop a grounding meditation that instantly calms the mind and anchors the listener in the present moment.`
 
-Prompt:
+`Prompt:`
 
-“You are a mental health mindfulness coach. Create a 10-minute guided grounding meditation.
-
+`“You are a mental health mindfulness coach. Create a 10-minute guided grounding meditation.`
+```
 1. Use sensory cues (touch, smell, sound) to anchor awareness.
 
 2. Include simple breathing techniques.
 
 3. Integrate imagery of walking barefoot on grass or sand for connection.”
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Preferred natural imagery
 
 2. Level of anxiety intensity
 
 3. Duration preference
+```
+## Prompt 9 – Heart-Centered Loving-Kindness Meditation
 
-Prompt 9 – Heart-Centered Loving-Kindness Meditation
+`Backstory: Many people struggle with compassion fatigue, interpersonal conflicts, and emotional burnout. Loving-kindness meditation (Metta) is a practice that helps cultivate empathy and unconditional love for oneself and others. In the Indian cultural context, this can also incorporate values from Bhakti traditions and family harmony.`
 
-Backstory: Many people struggle with compassion fatigue, interpersonal conflicts, and emotional burnout. Loving-kindness meditation (Metta) is a practice that helps cultivate empathy and unconditional love for oneself and others. In the Indian cultural context, this can also incorporate values from Bhakti traditions and family harmony.
+`Goal: Write a loving-kindness meditation that strengthens compassion for self and community.`
 
-Goal: Write a loving-kindness meditation that strengthens compassion for self and community.
+`Prompt:`
 
-Prompt:
-
-“You are a compassion-focused meditation facilitator. Write a 12-minute guided loving-kindness meditation.
-
+`“You are a compassion-focused meditation facilitator. Write a 12-minute guided loving-kindness meditation.`
+```
 1. Start with self-compassion and gradually extend it to family, friends, strangers, and even those in conflict.
 
 2. Use gentle affirmations like ‘May you be happy, may you be free from suffering.’
 
 3. Maintain a warm and heartfelt tone.”
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Groups to focus compassion on
 
 2. Cultural elements to include
 
 3. Language preference
+```
+## Prompt 10 – Meditation for Manifestation and Goal Alignment
 
-Prompt 10 – Meditation for Manifestation and Goal Alignment
+`Backstory: In India, the idea of Sankalpa (intention setting) is deeply rooted in yoga philosophy. People often have aspirations—be it career growth, better health, or relationships—but struggle to stay aligned with their goals due to distractions or self-doubt. A guided manifestation meditation can help clarify intentions and energize their pursuit with focus and belief.`
 
-Backstory: In India, the idea of Sankalpa (intention setting) is deeply rooted in yoga philosophy. People often have aspirations—be it career growth, better health, or relationships—but struggle to stay aligned with their goals due to distractions or self-doubt. A guided manifestation meditation can help clarify intentions and energize their pursuit with focus and belief.
+`Goal: Create a goal manifestation meditation rooted in Sankalpa principles.`
 
-Goal: Create a goal manifestation meditation rooted in Sankalpa principles.
+`Prompt:`
 
-Prompt:
-
-“You are a manifestation coach blending modern mindset work with Indian spiritual philosophy. Write a 15-minute guided meditation for manifestation.
-
+`“You are a manifestation coach blending modern mindset work with Indian spiritual philosophy. Write a 15-minute guided meditation for manifestation.`
+```
 1. Begin with breathwork to center the mind.
 
 2. Lead into a visualization of achieving the desired goal.
 
 3. Use affirmations that reinforce trust in the process.”
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Type of goal (career, health, relationships)
 
 2. Preferred duration
 
 3. Language choice
+```
+## Prompt 11 – Morning Gratitude Meditation
 
-Prompt 11 – Morning Gratitude Meditation
+`Backstory: In Indian households, starting the day with a prayer or gratitude ritual is common, yet many working professionals skip it due to busy schedules. Practicing morning gratitude can shift one’s mindset toward positivity, improve resilience, and reduce stress. This meditation can integrate cultural elements like thanking the sun (Surya) or acknowledging nature.`
 
-Backstory: In Indian households, starting the day with a prayer or gratitude ritual is common, yet many working professionals skip it due to busy schedules. Practicing morning gratitude can shift one’s mindset toward positivity, improve resilience, and reduce stress. This meditation can integrate cultural elements like thanking the sun (Surya) or acknowledging nature.
+`Goal: Create a short morning meditation that cultivates gratitude and sets a positive tone for the day.`
 
-Goal: Create a short morning meditation that cultivates gratitude and sets a positive tone for the day.
+`Prompt:`
 
-Prompt:
-
-“You are a mindfulness teacher blending modern gratitude practice with Indian traditions. Write an 8-minute morning guided meditation.
-
+`“You are a mindfulness teacher blending modern gratitude practice with Indian traditions. Write an 8-minute morning guided meditation.`
+```
 1. Begin with deep breaths to awaken the body.
 
 2. Guide the listener to list three specific things they are grateful for.
 
 3. Integrate cultural gratitude references such as Surya Namaskar or nature appreciation.”
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Duration preference
 
 2. Cultural or spiritual elements to include
 
 3. Tone (spiritual, neutral, motivational)
-
-Prompt 12 – Sleep-Inducing Deep Relaxation Meditation
+```
+## Prompt 12 – Sleep-Inducing Deep Relaxation Meditation
 
 Backstory: Insomnia and restless sleep are increasingly common in urban India due to screen overuse and late-night work schedules. A guided meditation can help the listener wind down and ease into restorative sleep by calming the nervous system and reducing mental chatter. This can be particularly helpful for IT professionals, students, and shift workers.
 
@@ -296,7 +296,7 @@ Inputs:
 
 3. Background sound type
 
-Prompt 13 – Meditation for Emotional Release and Forgiveness
+## Prompt 13 – Meditation for Emotional Release and Forgiveness
 
 Backstory: Many Indians carry long-standing grudges or unresolved anger within families, workplaces, or communities. Holding onto these emotions impacts mental health and relationships. A forgiveness meditation can help release these burdens, improve relationships, and create emotional freedom, rooted in both spiritual and psychological healing.
 
@@ -320,79 +320,79 @@ Inputs:
 
 3. Tone (gentle, empowering, spiritual)
 
-Prompt 14 – Mindful Eating Meditation
+## Prompt 14 – Mindful Eating Meditation
 
-Backstory: With fast-paced lifestyles, many Indians eat while multitasking, leading to poor digestion and overeating. Mindful eating meditations help reconnect with the sensory experience of food and the gratitude for nourishment. This practice can be particularly helpful for those managing lifestyle diseases like diabetes or obesity.
+`Backstory: With fast-paced lifestyles, many Indians eat while multitasking, leading to poor digestion and overeating. Mindful eating meditations help reconnect with the sensory experience of food and the gratitude for nourishment. This practice can be particularly helpful for those managing lifestyle diseases like diabetes or obesity.`
 
-Goal: Write a meditation that encourages mindful eating practices.
+`Goal: Write a meditation that encourages mindful eating practices.
 
-Prompt:
+`Prompt:
 
-“You are a wellness coach integrating mindfulness into daily routines. Write a 10-minute mindful eating meditation.
-
+`“You are a wellness coach integrating mindfulness into daily routines. Write a 10-minute mindful eating meditation.`
+```
 1. Begin before the meal with gratitude for the food and those who prepared it.
 
 2. Guide slow, conscious chewing and sensory awareness.
 
 3. End with reflection on nourishment and satiety.”
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Meal type (breakfast, lunch, dinner)
 
 2. Religious or cultural food context
 
 3. Tone (educational, calming)
+```
+## Prompt 15 – Meditation for Resilience During Challenges
 
-Prompt 15 – Meditation for Resilience During Challenges
+`Backstory: Life in India, especially in competitive academic or work environments, often involves setbacks. Building resilience is key to bouncing back without losing motivation. A guided resilience meditation can provide mental strength, adaptability, and emotional balance during tough phases.`
 
-Backstory: Life in India, especially in competitive academic or work environments, often involves setbacks. Building resilience is key to bouncing back without losing motivation. A guided resilience meditation can provide mental strength, adaptability, and emotional balance during tough phases.
+`Goal: Write a meditation that boosts resilience and mental strength.`
 
-Goal: Write a meditation that boosts resilience and mental strength.
+`Prompt:`
 
-Prompt:
-
-“You are a resilience coach. Create a 12-minute guided meditation for overcoming challenges.
-
+`“You are a resilience coach. Create a 12-minute guided meditation for overcoming challenges.`
+```
 1. Use breathing to anchor presence.
 
 2. Include visualizations of overcoming obstacles.
 
 3. Add affirmations about strength, adaptability, and growth.”
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Type of challenge (career, health, relationships)
 
 2. Duration preference
 
 3. Language choice
+```
+## Prompt 16 – Meditation for Letting Go of Overthinking
 
-Prompt 16 – Meditation for Letting Go of Overthinking
+`Backstory: In India’s fast-paced, competitive environment, constant mental chatter and overthinking are common, especially among students and professionals. Overthinking can drain mental energy, disrupt sleep, and cloud decision-making. This guided meditation aims to help individuals detach from repetitive thoughts and return to a state of mental clarity.`
 
-Backstory: In India’s fast-paced, competitive environment, constant mental chatter and overthinking are common, especially among students and professionals. Overthinking can drain mental energy, disrupt sleep, and cloud decision-making. This guided meditation aims to help individuals detach from repetitive thoughts and return to a state of mental clarity.
+`Goal: Create a meditation that quiets the mind and reduces mental overactivity.`
 
-Goal: Create a meditation that quiets the mind and reduces mental overactivity.
+`Prompt:`
 
-Prompt:
-
-“You are a meditation coach focusing on mental clarity. Write a 15-minute guided meditation for letting go of overthinking.
-
+`“You are a meditation coach focusing on mental clarity. Write a 15-minute guided meditation for letting go of overthinking.`
+```
 1. Start with breath awareness to slow down thought patterns.
 
 2. Use imagery of thoughts floating away like clouds.
 
 3. End with grounding in the present moment.”
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Duration preference
 
 2. Imagery type
 
 3. Language
-
-Prompt 17 – Chakra Balancing Meditation
+```
+## Prompt 17 – Chakra Balancing Meditation
 
 Backstory: Rooted in yogic traditions, chakras are energy centers believed to affect physical, emotional, and spiritual well-being. Many people in India are aware of chakras but lack practical guidance to balance them. This meditation will help align the body’s energy system for overall harmony and vitality.
 
@@ -464,151 +464,151 @@ Inputs:
 
 3. Tone (humorous, calming)
 
-Prompt 20 – Meditation for Exam Anxiety
+## Prompt 20 – Meditation for Exam Anxiety
 
-Backstory: Board exams, competitive entrance tests, and university assessments create intense pressure for Indian students. Anxiety can block memory recall and focus. This meditation can be practiced in the days leading up to an exam to enhance confidence and calmness.
+`Backstory: Board exams, competitive entrance tests, and university assessments create intense pressure for Indian students. Anxiety can block memory recall and focus. This meditation can be practiced in the days leading up to an exam to enhance confidence and calmness.`
 
-Goal: Write a meditation to reduce exam-related anxiety.
+`Goal: Write a meditation to reduce exam-related anxiety.`
 
-Prompt:
+`Prompt:`
 
-“You are an academic wellness coach. Write a 10-minute guided meditation for reducing exam stress.
-
+`“You are an academic wellness coach. Write a 10-minute guided meditation for reducing exam stress.`
+```
 1. Start with deep breathing and relaxation.
 
 2. Visualize answering questions confidently.
 
 3. End with affirmations of preparation and clarity.”
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Exam type
 
 2. Duration
 
 3. Language
+```
+## Prompt 21 – Morning Energy Boost Meditation
 
-Prompt 21 – Morning Energy Boost Meditation
+`Backstory: Many urban Indians wake up groggy due to irregular sleep or late nights. A quick, energizing meditation can replace or complement morning tea/coffee, using breathwork and visualization to awaken body and mind naturally.`
 
-Backstory: Many urban Indians wake up groggy due to irregular sleep or late nights. A quick, energizing meditation can replace or complement morning tea/coffee, using breathwork and visualization to awaken body and mind naturally.
+`Goal: Write an energizing morning meditation.`
 
-Goal: Write an energizing morning meditation.
+`Prompt:`
 
-Prompt:
-
-“You are a wellness coach. Create an 8-minute guided meditation for boosting morning energy.
-
+`“You are a wellness coach. Create an 8-minute guided meditation for boosting morning energy.`
+```
 1. Use breathwork techniques like Kapalabhati or Bhastrika.
 
 2. Visualize sunlight energizing the body.
 
 3. End with an intention for the day.”
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Breathwork inclusion (yes/no)
 
 2. Duration
 
 3. Cultural references
+```
+## Prompt 22 – Mindfulness for Workplace Focus
 
-Prompt 22 – Mindfulness for Workplace Focus
-
-Backstory: Corporate employees in India often juggle multiple tasks, leading to mental fatigue and decreased productivity. A short mindfulness practice during office hours can improve concentration and reduce stress.
+`Backstory: Corporate employees in India often juggle multiple tasks, leading to mental fatigue and decreased productivity. A short mindfulness practice during office hours can improve concentration and reduce stress.`
 
 Goal: Write a meditation to boost focus at work.
 
-Prompt:
+`Prompt:`
 
-“You are a corporate wellness facilitator. Write a 7-minute mindfulness meditation for workplace focus.
-
+`“You are a corporate wellness facilitator. Write a 7-minute mindfulness meditation for workplace focus.`
+```
 1. Start with posture adjustment and deep breathing.
 
 2. Guide attention to one task at a time.
 
 3. Use affirmations for clarity and efficiency.”
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Duration
 
 2. Office setting description
 
 3. Tone (formal, casual)
+```
+## Prompt 23 – Guided Meditation for Grief Healing
 
-Prompt 23 – Guided Meditation for Grief Healing
+`Backstory: Loss, whether of a loved one, a job, or a relationship, is deeply felt in Indian culture where family bonds are strong. This meditation will help listeners process grief and find emotional healing through acceptance and remembrance.`
 
-Backstory: Loss, whether of a loved one, a job, or a relationship, is deeply felt in Indian culture where family bonds are strong. This meditation will help listeners process grief and find emotional healing through acceptance and remembrance.
+`Goal: Write a grief-healing meditation.`
 
-Goal: Write a grief-healing meditation.
+`Prompt:`
 
-Prompt:
-
-“You are a grief counselor. Write a 15-minute guided meditation for processing grief.
-
+`“You are a grief counselor. Write a 15-minute guided meditation for processing grief.`
+```
 1. Begin with breath-based relaxation.
 
 2. Use imagery of light and memory preservation.
 
 3. End with affirmations of resilience and peace.”
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Relationship to the loss
 
 2. Duration
 
 3. Spiritual elements inclusion
+```
+## Prompt 24 – Meditation for Creative Inspiration
 
-Prompt 24 – Meditation for Creative Inspiration
+`Backstory: Artists, writers, and entrepreneurs often face creative blocks. This meditation will help listeners tap into their inner creativity by calming self-doubt and connecting to inspiration sources.`
 
-Backstory: Artists, writers, and entrepreneurs often face creative blocks. This meditation will help listeners tap into their inner creativity by calming self-doubt and connecting to inspiration sources.
+`Goal: Write a creativity-enhancing meditation.`
 
-Goal: Write a creativity-enhancing meditation.
+`Prompt:`
 
-Prompt:
-
-“You are a creativity coach. Write a 12-minute guided meditation for unlocking creative potential.
-
+`“You are a creativity coach. Write a 12-minute guided meditation for unlocking creative potential.`
+```
 1. Start with breath awareness to clear mental clutter.
 
 2. Use visualization of a ‘creative garden’ or flowing river.
 
 3. End with affirmations of originality and flow.”
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Creative field
 
 2. Duration
 
 3. Imagery type
+```
+## Prompt 25 – Evening Reflection & Release Meditation
 
-Prompt 25 – Evening Reflection & Release Meditation
+`Backstory: Many people in India end their day carrying work stress or unresolved emotions into sleep. This meditation encourages reflection, release of negativity, and gratitude before bedtime, improving sleep quality and emotional health.`
 
-Backstory: Many people in India end their day carrying work stress or unresolved emotions into sleep. This meditation encourages reflection, release of negativity, and gratitude before bedtime, improving sleep quality and emotional health.
+`Goal: Write a meditation for evening reflection.`
 
-Goal: Write a meditation for evening reflection.
+`Prompt:`
 
-Prompt:
-
-“You are a mindfulness trainer. Write a 10-minute guided evening reflection meditation.
-
+`“You are a mindfulness trainer. Write a 10-minute guided evening reflection meditation.`
+```
 1. Start with breathwork to relax.
 
 2. Guide the listener to review their day with gratitude.
 
 3. Release negative moments and set a peaceful intention for tomorrow.”
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Duration
 
 2. Reflection prompts
 
 3. Language choice
 
-
+```
 Social media content for spiritual coaches
 
 Prompt 1 – Instagram Carousel on “Daily Mindfulness Habits”
