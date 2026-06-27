@@ -1,19 +1,19 @@
-Performance review templates
+# Performance review templates
 
-Prompt 1 – KPI-Based Annual Performance Review Template
+## Prompt 1 – KPI-Based Annual Performance Review Template
 
-Backstory:
+`Backstory:`
 
-Rohan, 29, works as an HR manager for a fintech startup in Bengaluru with 120 employees. The company has just completed its second financial year and wants to formalise a structured performance review system. Until now, evaluations were ad-hoc, based on manager notes and verbal feedback. Rohan needs a KPI-based review template that aligns individual goals with company OKRs, while also factoring in soft skills and cultural fit. The leadership team wants the process to be fair, data-driven, and growth-focused rather than punitive.
+`Rohan, 29, works as an HR manager for a fintech startup in Bengaluru with 120 employees. The company has just completed its second financial year and wants to formalise a structured performance review system. Until now, evaluations were ad-hoc, based on manager notes and verbal feedback. Rohan needs a KPI-based review template that aligns individual goals with company OKRs, while also factoring in soft skills and cultural fit. The leadership team wants the process to be fair, data-driven, and growth-focused rather than punitive.`
 
-Goal:
+`Goal:`
 
-Create a KPI-linked annual review template for startup employees.
+`Create a KPI-linked annual review template for startup employees.`
 
-Prompt:
+`Prompt:`
 
-*"You are an HR strategist for a fast-growing Indian fintech startup. Design a KPI-based annual performance review template that captures:
-
+`*"You are an HR strategist for a fast-growing Indian fintech startup. Design a KPI-based annual performance review template that captures:`
+```
 1. Quantitative goal achievement (linked to OKRs)
 
 2. Skills and competency ratings
@@ -23,11 +23,11 @@ Prompt:
 4. Self-evaluation section
 
 5. Development plan for the next year
+```
+`The template should be structured, easy to score, and usable in both digital and print formats."*`
 
-The template should be structured, easy to score, and usable in both digital and print formats."*
-
-Inputs:
-
+`Inputs:`
+```
 1. Department type (Tech, Marketing, Sales, etc.)
 
 2. Company OKRs
@@ -35,8 +35,8 @@ Inputs:
 3. Performance cycle length (e.g., 12 months)
 
 4. Scoring scale preference (1–5, 1–10, etc.)
-
-Prompt 2 – 360° Feedback Performance Review Form
+```
+## Prompt 2 – 360° Feedback Performance Review Form
 
 Backstory:
 
