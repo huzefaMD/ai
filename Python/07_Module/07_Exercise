@@ -1,0 +1,15 @@
+#Build 3 Functions
+
+# Function 1: greet_student(name, course)
+# Returns: "Hello [name]! Your [course] batch starts Monday!"
+# Test: greet_student("Ravi", "Data Science")
+
+# Function 2: is_course_full(enrolled, max_seats)
+# Returns: True if enrolled >= max_seats, else False
+# Test: is_course_full(30, 30)  →  True
+#       is_course_full(25, 30)  →  False
+
+# Function 3: calculate_revenue(course_name, students)
+# Use get_course_price() from above to get the price
+# Returns: price * students
+# Test: calculate_revenue("Data Science", 50)  →  299950
