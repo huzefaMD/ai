@@ -1465,20 +1465,20 @@ Provide a table mapping NEP provisions to state-level action points."
 
 3. State or region candidate wishes to serve in
 ```
-Prompt 11 – UPSC CSE Interview: Rural Development & Governance
+## Prompt 11 – UPSC CSE Interview: Rural Development & Governance
 
-Backstory:
+`Backstory:`
 
-A candidate from Bihar has cleared the UPSC Mains and is preparing for the personality test. While academically strong, they lack structured answers for governance-related questions. Their background is in engineering, but their optional subject was sociology. They want to connect their technical skills with grassroots administration, especially in rural development and public welfare delivery.
+`A candidate from Bihar has cleared the UPSC Mains and is preparing for the personality test. While academically strong, they lack structured answers for governance-related questions. Their background is in engineering, but their optional subject was sociology. They want to connect their technical skills with grassroots administration, especially in rural development and public welfare delivery.`
 
-Goal:
+`Goal:`
 
-Simulate a UPSC interview focusing on rural governance and sustainable development.
+`Simulate a UPSC interview focusing on rural governance and sustainable development.`
 
-Prompt:
+`Prompt:`
 
-"You are a UPSC board member. Conduct a mock interview on:
-
+`"You are a UPSC board member. Conduct a mock interview on:`
+```
 1. Effective implementation of MGNREGA
 
 2. Challenges in rural sanitation under Swachh Bharat Mission
@@ -1486,31 +1486,31 @@ Prompt:
 3. Use of technology in rural development schemes
 
 4. Ethical challenges in rural resource allocation
+```
+`Ask 10–12 questions, including 3 case-based rural problem scenarios, and provide detailed feedback on balancing idealism with practicality."`
 
-Ask 10–12 questions, including 3 case-based rural problem scenarios, and provide detailed feedback on balancing idealism with practicality."
-
-Inputs:
-
+`Inputs:`
+```
 1. Candidate’s graduation discipline
 
 2. State of domicile
 
 3. Prior exposure to rural development issues
+```
+## Prompt 12 – PSU Management Trainee Interview: Corporate-Government Interface
 
-Prompt 12 – PSU Management Trainee Interview: Corporate-Government Interface
+`Backstory:`
 
-Backstory:
+`A 24-year-old MBA graduate has cleared the written exam for a Management Trainee post in a Navratna PSU. They have corporate internship experience but no exposure to working in a semi-government structure. They want practice in explaining strategy, compliance, and social responsibility in a PSU setting.`
 
-A 24-year-old MBA graduate has cleared the written exam for a Management Trainee post in a Navratna PSU. They have corporate internship experience but no exposure to working in a semi-government structure. They want practice in explaining strategy, compliance, and social responsibility in a PSU setting.
+`Goal:`
 
-Goal:
+`Simulate a PSU MT interview focusing on business strategy in a public sector environment.`
 
-Simulate a PSU MT interview focusing on business strategy in a public sector environment.
+`Prompt:`
 
-Prompt:
-
-"You are part of the PSU interview panel. Ask about:
-
+`"You are part of the PSU interview panel. Ask about:``
+```
 1. Balancing profitability and social obligations
 
 2. Navigating government procurement rules
@@ -1518,31 +1518,31 @@ Prompt:
 3. Corporate governance challenges in PSUs
 
 4. Case study: Delays in a public infrastructure project due to policy changes
+```
+`Provide feedback on strategic thinking, policy compliance awareness, and communication style."`
 
-Provide feedback on strategic thinking, policy compliance awareness, and communication style."
-
-Inputs:
-
+`Inputs:`
+```
 1. Candidate’s MBA specialisation
 
 2. Sector of the PSU (Oil, Energy, Steel, etc.)
 
 3. Example of a CSR project they admire
+```
+## Prompt 13 – RBI Grade B Interview: Monetary Policy & Financial Stability
 
-Prompt 13 – RBI Grade B Interview: Monetary Policy & Financial Stability
+`Backstory:`
 
-Backstory:
+`An economics post-graduate has cleared the RBI Grade B Phase 2 exam. They have solid academic understanding but find it difficult to simplify technical monetary policy answers for a lay audience. They want practice in balancing policy depth with practical communication.`
 
-An economics post-graduate has cleared the RBI Grade B Phase 2 exam. They have solid academic understanding but find it difficult to simplify technical monetary policy answers for a lay audience. They want practice in balancing policy depth with practical communication.
+`Goal:`
 
-Goal:
+`Simulate an RBI Grade B interview focusing on monetary policy and financial regulation.`
 
-Simulate an RBI Grade B interview focusing on monetary policy and financial regulation.
+`Prompt:`
 
-Prompt:
-
-"You are an RBI interview panelist. Conduct a mock interview on:
-
+`"You are an RBI interview panelist. Conduct a mock interview on:`
+```
 1. Current inflation control measures
 
 2. Role of RBI in regulating NBFCs
@@ -1550,31 +1550,31 @@ Prompt:
 3. Balancing growth and price stability
 
 4. Ethical issues in banking supervision
+```
+`Ask 10–12 questions, mix technical and scenario-based, and provide feedback on clarity, relevance, and awareness of current RBI policy moves."`
 
-Ask 10–12 questions, mix technical and scenario-based, and provide feedback on clarity, relevance, and awareness of current RBI policy moves."
-
-Inputs:
-
+`Inputs:`
+```
 1. Candidate’s economic specialisation
 
 2. Recent financial news they have followed
 
 3. Region they wish to be posted in
+```
+## Prompt 14 – State Civil Services Interview: Disaster Management Preparedness
 
-Prompt 14 – State Civil Services Interview: Disaster Management Preparedness
+`Backstory:`
 
-Backstory:
+`A civil services aspirant from Assam has cleared the State PSC mains and is heading to the interview stage. Their region faces annual flooding, and they want to integrate local knowledge with state-level disaster management policies in their responses.`
 
-A civil services aspirant from Assam has cleared the State PSC mains and is heading to the interview stage. Their region faces annual flooding, and they want to integrate local knowledge with state-level disaster management policies in their responses.
+`Goal:`
 
-Goal:
+`Create a mock interview focusing on disaster preparedness in state governance.`
 
-Create a mock interview focusing on disaster preparedness in state governance.
+`Prompt:`
 
-Prompt:
-
-"You are a State PSC board member. Conduct a mock interview covering:
-
+`"You are a State PSC board member. Conduct a mock interview covering:`
+```
 1. State-level disaster management frameworks
 
 2. Role of Panchayats in relief operations
@@ -1582,31 +1582,31 @@ Prompt:
 3. Integrating technology like GIS in disaster mitigation
 
 4. Ethical allocation of relief funds during crises
+```
+`Provide feedback on local insight, administrative feasibility, and prioritisation of vulnerable populations."`
 
-Provide feedback on local insight, administrative feasibility, and prioritisation of vulnerable populations."
-
-Inputs:
-
+`Inputs:`
+```
 1. Candidate’s district
 
 2. Prior community involvement
 
 3. Knowledge of state disaster management policy
+```
+## Prompt 15 – LIC AAO Interview: Insurance Sector & Public Service
 
-Prompt 15 – LIC AAO Interview: Insurance Sector & Public Service
+`Backstory:`
 
-Backstory:
+`A candidate from a commerce background has cleared the LIC AAO mains. They understand financial products but lack confidence in explaining how insurance contributes to public welfare in India. They also want practice in handling customer-service related questions in the interview.`
 
-A candidate from a commerce background has cleared the LIC AAO mains. They understand financial products but lack confidence in explaining how insurance contributes to public welfare in India. They also want practice in handling customer-service related questions in the interview.
+`Goal:`
 
-Goal:
+`Simulate an LIC AAO interview focusing on insurance awareness and service delivery.`
 
-Simulate an LIC AAO interview focusing on insurance awareness and service delivery.
+`Prompt:`
 
-Prompt:
-
-"You are an LIC interview panelist. Conduct a mock interview on:
-
+`"You are an LIC interview panelist. Conduct a mock interview on:`
+```
 1. Importance of insurance penetration in rural India
 
 2. Ethical selling practices for insurance policies
@@ -1614,17 +1614,17 @@ Prompt:
 3. Managing claims disputes
 
 4. Digital transformation in insurance services
+```
+`Provide 8–10 questions and give feedback on empathy, product knowledge, and customer-first thinking."`
 
-Provide 8–10 questions and give feedback on empathy, product knowledge, and customer-first thinking."
-
-Inputs:
-
+`Inputs:`
+```
 1. Candidate’s commerce/finance expertise
 
 2. Any prior sales or service experience
 
 3. Knowledge of LIC’s latest schemes
-
+```
 Prompt 16 – SSC CGL Interview: Administrative Efficiency & Data Management
 
 Backstory:
