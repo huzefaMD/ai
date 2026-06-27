@@ -2468,36 +2468,36 @@ Prompt 23 – Yoga & Mindful Leadership Retreat
 
 # Affirmations & visualisation exercises
 
-Prompt 1 – Morning Abundance Affirmations Inspired by Indian Spiritual Texts
+## Prompt 1 – Morning Abundance Affirmations Inspired by Indian Spiritual Texts
 
-Backstory: Radhika, 32, a working professional in Pune, wants to start her mornings with a sense of gratitude and abundance. She has recently begun exploring Indian scriptures like the Bhagavad Gita and Upanishads, and wants affirmations rooted in these philosophies to set a positive tone for her day.
+`Backstory: Radhika, 32, a working professional in Pune, wants to start her mornings with a sense of gratitude and abundance. She has recently begun exploring Indian scriptures like the Bhagavad Gita and Upanishads, and wants affirmations rooted in these philosophies to set a positive tone for her day.`
 
-Goal: Create a set of short, powerful morning affirmations inspired by Indian spiritual wisdom, focusing on gratitude, self-worth, and abundance.
+`Goal: Create a set of short, powerful morning affirmations inspired by Indian spiritual wisdom, focusing on gratitude, self-worth, and abundance.`
 
-Prompt:
+`Prompt:`
 
-"You are a spiritual content creator. Draft 15 short morning affirmations inspired by the Bhagavad Gita, Upanishads, and Indian spiritual thought. They should be positive, easy to repeat, and focused on gratitude, abundance, and self-worth."
+`"You are a spiritual content creator. Draft 15 short morning affirmations inspired by the Bhagavad Gita, Upanishads, and Indian spiritual thought. They should be positive, easy to repeat, and focused on gratitude, abundance, and self-worth."`
 
-Inputs:
-
+`Inputs:`
+```
 1. User’s preferred language (Hindi/English/mix)
 
 2. Key life goals (career, relationships, health)
 
 3. Daily time available for affirmation practice
+```
+## Prompt 2 – Visualization Script for Achieving Career Goals Using Sankalpa Principle
 
-Prompt 2 – Visualization Script for Achieving Career Goals Using Sankalpa Principle
+`Backstory: Aarav, 28, is preparing for competitive exams in Delhi. He’s been feeling anxious and distracted. His meditation coach has suggested the yogic principle of Sankalpa (heartfelt intention) to help him visualize his goal with clarity and focus.`
 
-Backstory: Aarav, 28, is preparing for competitive exams in Delhi. He’s been feeling anxious and distracted. His meditation coach has suggested the yogic principle of Sankalpa (heartfelt intention) to help him visualize his goal with clarity and focus.
+`Goal: Write a guided visualization exercise that uses the Sankalpa principle to help a young professional envision and achieve career success.`
 
-Goal: Write a guided visualization exercise that uses the Sankalpa principle to help a young professional envision and achieve career success.
+`Prompt:`
 
-Prompt:
+`"You are a meditation guide. Write a detailed 10-minute guided visualization script based on the yogic principle of Sankalpa. Tailor it for a 28-year-old preparing for competitive exams, focusing on calm confidence, sharp focus, and belief in success."`
 
-"You are a meditation guide. Write a detailed 10-minute guided visualization script based on the yogic principle of Sankalpa. Tailor it for a 28-year-old preparing for competitive exams, focusing on calm confidence, sharp focus, and belief in success."
-
-Inputs:
-
+`Inputs:`
+```
 1. Exam date
 
 2. Desired job role
@@ -2505,417 +2505,418 @@ Inputs:
 3. Main distraction triggers
 
 4. Preferred visualization length
+```
+## Prompt 3 – Healing Heartbreak Affirmations Using Bhakti Tradition
 
-Prompt 3 – Healing Heartbreak Affirmations Using Bhakti Tradition
+`Backstory: Meera, 26, from Jaipur, recently ended a long relationship. She wants to heal emotionally without losing faith in love and life. She follows devotional music and stories of Radha-Krishna, finding comfort in the idea of divine love.`
 
-Backstory: Meera, 26, from Jaipur, recently ended a long relationship. She wants to heal emotionally without losing faith in love and life. She follows devotional music and stories of Radha-Krishna, finding comfort in the idea of divine love.
+`Goal: Create affirmations for emotional healing after heartbreak, rooted in the Indian Bhakti tradition.`
 
-Goal: Create affirmations for emotional healing after heartbreak, rooted in the Indian Bhakti tradition.
+`Prompt:`
 
-Prompt:
+`"You are a spiritual mentor. Create 12 short, compassionate affirmations inspired by the Bhakti tradition and stories of divine love, to help a young woman heal from heartbreak and rediscover trust in life."`
 
-"You are a spiritual mentor. Create 12 short, compassionate affirmations inspired by the Bhakti tradition and stories of divine love, to help a young woman heal from heartbreak and rediscover trust in life."
-
-Inputs:
-
+`Inputs:`
+```
 1. Religious/spiritual background
 
 2. Emotional intensity level (1–10)
 
 3. Preferred tone (gentle/motivating)
+```
+## Prompt 4 – Visualization Exercise for Health Recovery with Ayurveda Imagery
 
-Prompt 4 – Visualization Exercise for Health Recovery with Ayurveda Imagery
+`Backstory: Anil, 45, from Kochi, is recovering from a prolonged illness. He is exploring Ayurveda and wants a visualization exercise that imagines his body restoring balance (dosha shuddhi), energy, and vitality.`
 
-Backstory: Anil, 45, from Kochi, is recovering from a prolonged illness. He is exploring Ayurveda and wants a visualization exercise that imagines his body restoring balance (dosha shuddhi), energy, and vitality.
+`Goal: Create a visualization that uses Ayurvedic concepts and imagery for physical healing.`
 
-Goal: Create a visualization that uses Ayurvedic concepts and imagery for physical healing.
+`Prompt:`
 
-Prompt:
+`"You are an Ayurvedic wellness coach. Write a 15-minute guided visualization exercise using Ayurvedic imagery to help a 45-year-old man imagine restoring his body’s balance, vitality, and energy."`
 
-"You are an Ayurvedic wellness coach. Write a 15-minute guided visualization exercise using Ayurvedic imagery to help a 45-year-old man imagine restoring his body’s balance, vitality, and energy."
-
-Inputs: 
-
+`Inputs: `
+```
 1. Dominant dosha imbalance (Vata, Pitta, or Kapha) 
 
 2. Current health limitations 
 
 3. Preferred imagery (nature, light, elements)
+```
+## Prompt 5 – Affirmations for Overcoming Self-Doubt Using Gita’s Karma Yoga Teachings
 
-Prompt 5 – Affirmations for Overcoming Self-Doubt Using Gita’s Karma Yoga Teachings
+`Backstory: Priya, 35, a small business owner in Ahmedabad, often feels paralysed by fear of failure. She recently learned about Karma Yoga — focusing on action without attachment to results — and wants daily affirmations based on this principle.`
 
-Backstory: Priya, 35, a small business owner in Ahmedabad, often feels paralysed by fear of failure. She recently learned about Karma Yoga — focusing on action without attachment to results — and wants daily affirmations based on this principle.
+`Goal: Create daily affirmations to overcome self-doubt using Karma Yoga principles.`
 
-Goal: Create daily affirmations to overcome self-doubt using Karma Yoga principles.
+`Prompt:`
 
-Prompt:
+`"You are a motivational coach. Write 10 daily affirmations inspired by Karma Yoga from the Bhagavad Gita to help a 35-year-old business owner overcome self-doubt and focus on consistent action."`
 
-"You are a motivational coach. Write 10 daily affirmations inspired by Karma Yoga from the Bhagavad Gita to help a 35-year-old business owner overcome self-doubt and focus on consistent action."
-
-Inputs: 
-
+`Inputs: `
+```
 1. Type of business 
 
 2. Main fear or mental block 
 
 3. Preferred affirmation format (short/extended)
+```
+## Prompt 6 – Affirmations for Students Before Exams Using Saraswati Vandana Themes
 
-Prompt 6 – Affirmations for Students Before Exams Using Saraswati Vandana Themes
+`Backstory: Neha, 21, from Bhopal, is preparing for her final-year B.Com exams. She feels nervous before sitting for papers. Her grandmother always tells her to pray to Goddess Saraswati before studying, and Neha wants affirmations that bring in that energy of wisdom and calm.`
 
-Backstory: Neha, 21, from Bhopal, is preparing for her final-year B.Com exams. She feels nervous before sitting for papers. Her grandmother always tells her to pray to Goddess Saraswati before studying, and Neha wants affirmations that bring in that energy of wisdom and calm.
+`Goal: Create short, powerful exam-day affirmations inspired by the qualities of Goddess Saraswati to improve confidence and mental clarity.`
 
-Goal: Create short, powerful exam-day affirmations inspired by the qualities of Goddess Saraswati to improve confidence and mental clarity.
+`Prompt:`
 
-Prompt:
+`"You are an educational wellness coach. Create 12 exam-day affirmations inspired by the themes of Goddess Saraswati that help students stay calm, focused, and confident during their exams."`
 
-"You are an educational wellness coach. Create 12 exam-day affirmations inspired by the themes of Goddess Saraswati that help students stay calm, focused, and confident during their exams."
-
-Inputs: 
-
+`Inputs: `
+```
 1. Subject focus 
 
 2. Preferred language (Hindi, Sanskrit, English) 
 
 3. Duration of affirmations (short/extended)
+```
+## Prompt 7 – Visualization for Attracting the Right Life Partner Using Indian Astrology Imagery
 
-Prompt 7 – Visualization for Attracting the Right Life Partner Using Indian Astrology Imagery
+`Backstory: Suresh, 34, from Chennai, has been struggling to find a life partner who aligns with his values. He is open to spiritual practices and wants to use visualization combined with Indian astrology imagery to call in the right partner.`
 
-Backstory: Suresh, 34, from Chennai, has been struggling to find a life partner who aligns with his values. He is open to spiritual practices and wants to use visualization combined with Indian astrology imagery to call in the right partner.
+`Goal: Write a guided visualization that uses Indian astrological concepts (like compatible nakshatras, harmonious planetary energies) to manifest a compatible life partner.`
 
-Goal: Write a guided visualization that uses Indian astrological concepts (like compatible nakshatras, harmonious planetary energies) to manifest a compatible life partner.
+`Prompt:`
 
-Prompt:
+`"You are a spiritual coach. Create a 15-minute guided visualization for attracting a life partner, using Indian astrology imagery and compatibility principles."`
 
-"You are a spiritual coach. Create a 15-minute guided visualization for attracting a life partner, using Indian astrology imagery and compatibility principles."
-
-Inputs: 
-
+`Inputs: `
+```
 1. Birth date, time, place 
 
 2. Key personality traits desired in a partner 
 
 3. Preferred setting for visualization (temple, nature, light imagery)
+```
+## Prompt 8 – Affirmations for Financial Abundance Using Lakshmi Mantra Energy
 
-Prompt 8 – Affirmations for Financial Abundance Using Lakshmi Mantra Energy
+`Backstory: Pooja, 30, from Mumbai, runs a small online jewellery store. She’s been facing fluctuating income and wants to align her mindset with abundance. She grew up chanting Lakshmi mantras during Diwali and believes in their positive energy.`
 
-Backstory: Pooja, 30, from Mumbai, runs a small online jewellery store. She’s been facing fluctuating income and wants to align her mindset with abundance. She grew up chanting Lakshmi mantras during Diwali and believes in their positive energy.
+`Goal: Create affirmations for financial prosperity inspired by Goddess Lakshmi’s qualities of abundance, generosity, and grace.`
 
-Goal: Create affirmations for financial prosperity inspired by Goddess Lakshmi’s qualities of abundance, generosity, and grace.
+`Prompt:`
 
-Prompt:
+`"You are a wealth mindset coach. Write 15 affirmations for financial abundance inspired by Goddess Lakshmi, using a positive, grateful tone."`
 
-"You are a wealth mindset coach. Write 15 affirmations for financial abundance inspired by Goddess Lakshmi, using a positive, grateful tone."
-
-Inputs: 
-
+`Inputs:`
+```
 1. Current financial goal 
 
 2. Business or career type 
 
 3. Preferred affirmation style (chant-like / modern)
+```
+## Prompt 9 – Visualization for Healing Family Relationships Using Ramayana’s Values
 
-Prompt 9 – Visualization for Healing Family Relationships Using Ramayana’s Values
+`Backstory: Arvind, 40, from Lucknow, has ongoing tensions with his elder brother over family property. He wishes to resolve the conflict peacefully. He recalls his father narrating Ramayana stories of loyalty, respect, and dharma, and wants to use these values in a guided visualization.`
 
-Backstory: Arvind, 40, from Lucknow, has ongoing tensions with his elder brother over family property. He wishes to resolve the conflict peacefully. He recalls his father narrating Ramayana stories of loyalty, respect, and dharma, and wants to use these values in a guided visualization.
+`Goal: Create a visualization exercise that helps the user imagine reconciliation and emotional healing in a family relationship using Ramayana-inspired values.`
 
-Goal: Create a visualization exercise that helps the user imagine reconciliation and emotional healing in a family relationship using Ramayana-inspired values.
+`Prompt:`
 
-Prompt:
+`"You are a meditation guide. Write a 12-minute guided visualization for healing family relationships using values and imagery from the Ramayana."`
 
-"You are a meditation guide. Write a 12-minute guided visualization for healing family relationships using values and imagery from the Ramayana."
-
-Inputs: 
-
+`Inputs: `
+```
 1. Relationship to heal 
 
 2. Key conflict points 
 
 3. Preferred tone (soothing / motivational)
+```
+## Prompt 10 – Affirmations for Overcoming Career Stress Using Yogic Breathing
 
-Prompt 10 – Affirmations for Overcoming Career Stress Using Yogic Breathing
+`Backstory: Devika, 29, from Gurgaon, works in IT and experiences frequent burnout. She has recently learned Anulom Vilom and Bhramari Pranayama, and wants affirmations she can repeat mentally while practising these breathing techniques.`
 
-Backstory: Devika, 29, from Gurgaon, works in IT and experiences frequent burnout. She has recently learned Anulom Vilom and Bhramari Pranayama, and wants affirmations she can repeat mentally while practising these breathing techniques.
+`Goal: Create affirmations that can be integrated with yogic breathing practices to relieve career-related stress.`
 
-Goal: Create affirmations that can be integrated with yogic breathing practices to relieve career-related stress.
+`Prompt:`
 
-Prompt:
+`"You are a mindfulness trainer. Write 10 affirmations that can be silently repeated during yogic breathing (Anulom Vilom, Bhramari) to reduce stress and promote focus."`
 
-"You are a mindfulness trainer. Write 10 affirmations that can be silently repeated during yogic breathing (Anulom Vilom, Bhramari) to reduce stress and promote focus."
-
-Inputs:
-
+`Inputs:`
+```
 1. Nature of work stress
 
 2. Time available for practice
 
 3. Breathing technique preference
+```
+## Prompt 11 – Visualization for Attracting Dream Job Using Indian Temple Imagery
 
-Prompt 11 – Visualization for Attracting Dream Job Using Indian Temple Imagery
+`Backstory: Kartik, 27, from Bengaluru, is aiming for a managerial role at a multinational company. He wants a visualization that mentally ‘places’ him in the role while drawing from temple rituals, symbolizing blessings for success.`
 
-Backstory: Kartik, 27, from Bengaluru, is aiming for a managerial role at a multinational company. He wants a visualization that mentally ‘places’ him in the role while drawing from temple rituals, symbolizing blessings for success.
+`Goal: Write a guided visualization that blends modern career ambition with traditional temple imagery for manifesting a dream job.`
 
-Goal: Write a guided visualization that blends modern career ambition with traditional temple imagery for manifesting a dream job.
+`Prompt:`
 
-Prompt:
+`"You are a manifestation coach. Create a 10-minute dream job visualization using Indian temple rituals, light, and offering imagery."`
 
-"You are a manifestation coach. Create a 10-minute dream job visualization using Indian temple rituals, light, and offering imagery."
-
-Inputs:
-
+Inputs:`
+```
 1. Target company/role
 
 2. Temple of personal significance
 
 3. Preferred sensory details (sound of bells, smell of incense)
+```
+## Prompt 12 – Affirmations for Boosting Self-Confidence Using Mahabharata Lessons
 
-Prompt 12 – Affirmations for Boosting Self-Confidence Using Mahabharata Lessons
+`Backstory: Aditya, 25, from Indore, often feels overshadowed by colleagues. He relates to Arjuna’s doubts in the Mahabharata and wants affirmations that remind him of his inner strength.`
 
-Backstory: Aditya, 25, from Indore, often feels overshadowed by colleagues. He relates to Arjuna’s doubts in the Mahabharata and wants affirmations that remind him of his inner strength.
+`Goal: Create confidence-boosting affirmations based on characters and moments from the Mahabharata.`
 
-Goal: Create confidence-boosting affirmations based on characters and moments from the Mahabharata.
+`Prompt:`
 
-Prompt:
+`"You are a personal development coach. Write 12 affirmations for self-confidence inspired by key moments in the Mahabharata, especially Arjuna’s transformation."`
 
-"You are a personal development coach. Write 12 affirmations for self-confidence inspired by key moments in the Mahabharata, especially Arjuna’s transformation."
-
-Inputs:
-
+`Inputs:`
+```
 1. Field of work/study
 
 2. Specific confidence challenges
 
 3. Preferred style (story-linked / direct)
+```
+## Prompt 13 – Visualization for Peaceful Sleep Using Panchatatva Elements
 
-Prompt 13 – Visualization for Peaceful Sleep Using Panchatatva Elements
+`Backstory: Sneha, 33, from Hyderabad, struggles with insomnia. Her yoga instructor taught her about Panchatatva — the five elements — and suggested she try a visualization that helps her feel grounded and relaxed at night.`
 
-Backstory: Sneha, 33, from Hyderabad, struggles with insomnia. Her yoga instructor taught her about Panchatatva — the five elements — and suggested she try a visualization that helps her feel grounded and relaxed at night.
+`Goal: Create a bedtime visualization using Panchatatva imagery for deep, peaceful sleep.`
 
-Goal: Create a bedtime visualization using Panchatatva imagery for deep, peaceful sleep.
+`Prompt:`
 
-Prompt:
+`"You are a sleep meditation coach. Write a 15-minute guided visualization using the five elements (earth, water, fire, air, space) to help someone fall asleep peacefully."`
 
-"You are a sleep meditation coach. Write a 15-minute guided visualization using the five elements (earth, water, fire, air, space) to help someone fall asleep peacefully."
-
-Inputs:
-
+`Inputs:`
+```
 1. Favourite natural element
 
 2. Usual bedtime
 
 3. Sleep challenges
+```
+## Prompt 14 – Affirmations for Overcoming Fear of Public Speaking Using Vedic Chant Energy
 
-Prompt 14 – Affirmations for Overcoming Fear of Public Speaking Using Vedic Chant Energy
+`Backstory: Manish, 31, from Delhi, has a managerial role but freezes during public presentations. He remembers how chanting Vedic mantras in school gave him a sense of rhythm and courage.`
 
-Backstory: Manish, 31, from Delhi, has a managerial role but freezes during public presentations. He remembers how chanting Vedic mantras in school gave him a sense of rhythm and courage.
+`Goal: Create affirmations that use the cadence and confidence of Vedic chants to overcome stage fear.`
 
-Goal: Create affirmations that use the cadence and confidence of Vedic chants to overcome stage fear.
+`Prompt:`
 
-Prompt:
+`"You are a confidence coach. Write 10 affirmations with the rhythm and energy of Vedic chants to help overcome fear of public speaking."`
 
-"You are a confidence coach. Write 10 affirmations with the rhythm and energy of Vedic chants to help overcome fear of public speaking."
-
-Inputs:
-
+`Inputs:`
+```
 1. Type of presentations
 
 2. Main fear triggers
 
 3. Preferred length of affirmations
+```
+## Prompt 15 – Visualization for Weight Loss Motivation Using Yogic Body Awareness
 
-Prompt 15 – Visualization for Weight Loss Motivation Using Yogic Body Awareness
+`Backstory: Renu, 38, from Chandigarh, is trying to lose weight post-pregnancy. She wants a visualization that connects her to her body with compassion, rather than self-criticism, and draws from yogic awareness practices.`
 
-Backstory: Renu, 38, from Chandigarh, is trying to lose weight post-pregnancy. She wants a visualization that connects her to her body with compassion, rather than self-criticism, and draws from yogic awareness practices.
+`Goal: Write a guided visualization that uses body-awareness meditation to inspire healthy lifestyle changes and weight loss motivation.`
 
-Goal: Write a guided visualization that uses body-awareness meditation to inspire healthy lifestyle changes and weight loss motivation.
+`Prompt:`
 
-Prompt:
+`"You are a wellness coach. Write a 12-minute guided visualization using yogic body awareness to encourage healthy eating, regular exercise, and self-compassion."`
 
-"You are a wellness coach. Write a 12-minute guided visualization using yogic body awareness to encourage healthy eating, regular exercise, and self-compassion."
-
-Inputs:
-
+`Inputs:`
+```
 1. Current fitness routine
 
 2. Target weight range
 
 3. Preferred meditation pace
+```
+## Prompt 16 – Affirmations for Self-Worth Using Devi Durga Archetypes
 
-Prompt 16 – Affirmations for Self-Worth Using Devi Durga Archetypes
+`Backstory: Ishita, 28, from Kolkata, recently left a toxic relationship that left her questioning her self-worth. During Navratri, she felt inspired by the stories of Devi Durga’s strength and resilience. She wants daily affirmations that channel the courage, dignity, and inner power of the goddess into her own healing journey.`
 
-Backstory: Ishita, 28, from Kolkata, recently left a toxic relationship that left her questioning her self-worth. During Navratri, she felt inspired by the stories of Devi Durga’s strength and resilience. She wants daily affirmations that channel the courage, dignity, and inner power of the goddess into her own healing journey.
+`Goal: Create empowering affirmations that help rebuild self-esteem using the imagery and symbolism of Devi Durga.`
 
-Goal: Create empowering affirmations that help rebuild self-esteem using the imagery and symbolism of Devi Durga.
+`Prompt:`
 
-Prompt:
+`"You are a spiritual self-worth coach. Write 12 affirmations for women to rebuild confidence and self-esteem inspired by Devi Durga’s archetypes and qualities."`
 
-"You are a spiritual self-worth coach. Write 12 affirmations for women to rebuild confidence and self-esteem inspired by Devi Durga’s archetypes and qualities."
-
-Inputs:
-
+`Inputs:`
+```
 1. Type of challenge faced
 
 2. Preferred affirmation tone (soft / fierce)
 
 3. Language choice
+```
+## Prompt 17 – Visualization for Letting Go of Past Mistakes Using Ganga River Imagery
 
-Prompt 17 – Visualization for Letting Go of Past Mistakes Using Ganga River Imagery
+`Backstory: Ankit, 35, from Varanasi, feels weighed down by guilt over past professional failures. He visits the Ganga every year with his family, and finds peace watching the flowing water. He wants a visualization that uses the cleansing symbolism of the river to release regret and invite fresh beginnings.`
 
-Backstory: Ankit, 35, from Varanasi, feels weighed down by guilt over past professional failures. He visits the Ganga every year with his family, and finds peace watching the flowing water. He wants a visualization that uses the cleansing symbolism of the river to release regret and invite fresh beginnings.
+`Goal: Write a guided visualization that helps the listener symbolically release past mistakes into the Ganga’s flow and invite renewal.`
 
-Goal: Write a guided visualization that helps the listener symbolically release past mistakes into the Ganga’s flow and invite renewal.
+`Prompt:`
 
-Prompt:
+`"You are a meditation teacher. Write a 15-minute guided visualization using the Ganga River’s imagery to release guilt and welcome new opportunities."`
 
-"You are a meditation teacher. Write a 15-minute guided visualization using the Ganga River’s imagery to release guilt and welcome new opportunities."
-
-Inputs:
-
+`Inputs:`
+```
 1. Specific past events to let go
 
 2. Sensory details preferred (water sound, temple bells, sunlight)
 
 3. Tone (gentle / cathartic)
+```
+## Prompt 18 – Affirmations for Resilience During Job Search Using Hanuman’s Determination
 
-Prompt 18 – Affirmations for Resilience During Job Search Using Hanuman’s Determination
+`Backstory: Raghav, 26, from Jaipur, has been unemployed for 6 months and is losing motivation. He remembers reading the Ramayana as a child and admiring Hanuman’s unwavering commitment in finding Sita. He wants affirmations that keep his determination alive during the uncertainty of job hunting.`
 
-Backstory: Raghav, 26, from Jaipur, has been unemployed for 6 months and is losing motivation. He remembers reading the Ramayana as a child and admiring Hanuman’s unwavering commitment in finding Sita. He wants affirmations that keep his determination alive during the uncertainty of job hunting.
+`Goal: Create affirmations that inspire resilience, patience, and persistence using Hanuman’s qualities.`
 
-Goal: Create affirmations that inspire resilience, patience, and persistence using Hanuman’s qualities.
+`Prompt:`
 
-Prompt:
+`"You are a career resilience coach. Write 10 affirmations for job seekers inspired by Hanuman’s determination and strength."`
 
-"You are a career resilience coach. Write 10 affirmations for job seekers inspired by Hanuman’s determination and strength."
-
-Inputs:
-
+`Inputs:`
+```
 1. Type of job sought
 
 2. Main emotional challenges
 
 3. Preferred style (story-linked / direct)
+```
+## Prompt 19 – Visualization for Gratitude Practice Using Indian Festival Imagery
 
-Prompt 19 – Visualization for Gratitude Practice Using Indian Festival Imagery
+`Backstory: Meera, 32, from Pune, often focuses on what’s missing in her life. Her therapist suggested daily gratitude practice. Meera feels most alive during Diwali when the house is lit, and she wants a visualization that brings that warmth and abundance into her everyday mindset.`
 
-Backstory: Meera, 32, from Pune, often focuses on what’s missing in her life. Her therapist suggested daily gratitude practice. Meera feels most alive during Diwali when the house is lit, and she wants a visualization that brings that warmth and abundance into her everyday mindset.
+`Goal: Write a gratitude visualization using imagery from Indian festivals to inspire joy and contentment.`
 
-Goal: Write a gratitude visualization using imagery from Indian festivals to inspire joy and contentment.
+`Prompt:`
 
-Prompt:
+`"You are a gratitude coach. Create a 12-minute guided visualization for daily gratitude practice using imagery from Indian festivals like Diwali or Pongal."`
 
-"You are a gratitude coach. Create a 12-minute guided visualization for daily gratitude practice using imagery from Indian festivals like Diwali or Pongal."
-
-Inputs: 
-
+`Inputs: `
+```
 1. Favourite festival 
 
 2. Number of gratitude points to focus on 
 
 3. Preferred tone (festive / calm)
+```
+## Prompt 20 – Affirmations for Daily Energy Boost Using Surya Namaskar Inspiration
 
-Prompt 20 – Affirmations for Daily Energy Boost Using Surya Namaskar Inspiration
+`Backstory: Vivek, 38, from Ahmedabad, struggles to feel energetic in the mornings due to his desk job. He has started practising Surya Namaskar and wants affirmations that align with the sun’s vitality to kickstart his day.`
 
-Backstory: Vivek, 38, from Ahmedabad, struggles to feel energetic in the mornings due to his desk job. He has started practising Surya Namaskar and wants affirmations that align with the sun’s vitality to kickstart his day.
+`Goal: Create affirmations that can be recited before or after Surya Namaskar for energy and focus.`
 
-Goal: Create affirmations that can be recited before or after Surya Namaskar for energy and focus.
+`Prompt:`
 
-Prompt:
+`"You are a wellness coach. Write 10 morning affirmations inspired by Surya Namaskar to boost daily energy and mental clarity."`
 
-"You are a wellness coach. Write 10 morning affirmations inspired by Surya Namaskar to boost daily energy and mental clarity."
-
-Inputs:
-
+`Inputs:`
+```
 1. Current morning routine
 
 2. Energy level goals
 
 3. Language choice
+```
+## Prompt 21 – Visualization for Overcoming Fear of Change Using Koi Fish & River Symbolism
 
-Prompt 21 – Visualization for Overcoming Fear of Change Using Koi Fish & River Symbolism
+`Backstory: Aditi, 29, from Bengaluru, is about to move abroad for higher studies. She feels anxious about the unknown. She recalls a temple pond where koi fish always swam calmly despite changing water currents and wants this symbolism in her visualization.`
 
-Backstory: Aditi, 29, from Bengaluru, is about to move abroad for higher studies. She feels anxious about the unknown. She recalls a temple pond where koi fish always swam calmly despite changing water currents and wants this symbolism in her visualization.
+`Goal: Write a visualization exercise that builds courage to embrace life changes using river and koi fish imagery.`
 
-Goal: Write a visualization exercise that builds courage to embrace life changes using river and koi fish imagery.
+`Prompt:`
 
-Prompt:
+`"You are a life transition coach. Write a 15-minute guided visualization using koi fish and flowing river symbolism to inspire courage during major life changes."`
 
-"You are a life transition coach. Write a 15-minute guided visualization using koi fish and flowing river symbolism to inspire courage during major life changes."
-
-Inputs: 
-
+`Inputs:` 
+```
 1. Type of change happening 
 
 2. Preferred pace of narration 
 
 3. Sensory imagery preference
+```
+## Prompt 22 – Affirmations for Healthy Boundaries Using Indian Proverb Wisdom
 
-Prompt 22 – Affirmations for Healthy Boundaries Using Indian Proverb Wisdom
+`Backstory: Shalini, 33, from Hyderabad, often says yes to too many commitments and feels drained. Her grandmother used to share proverbs that hinted at self-respect and balance. She now wants affirmations inspired by these sayings to help her maintain healthy boundaries.`
 
-Backstory: Shalini, 33, from Hyderabad, often says yes to too many commitments and feels drained. Her grandmother used to share proverbs that hinted at self-respect and balance. She now wants affirmations inspired by these sayings to help her maintain healthy boundaries.
+`Goal: Create affirmations that draw from Indian proverbs and folk wisdom to encourage boundary-setting.`
 
-Goal: Create affirmations that draw from Indian proverbs and folk wisdom to encourage boundary-setting.
+`Prompt:`
 
-Prompt:
+`"You are a self-care coach. Write 12 affirmations for healthy boundaries inspired by Indian proverbs and folk wisdom."`
 
-"You are a self-care coach. Write 12 affirmations for healthy boundaries inspired by Indian proverbs and folk wisdom."
-
-Inputs:
-
+`Inputs:`
+```
 1. Common boundary challenges
 
 2. Desired tone (gentle / firm)
 
 3. Language preference
+```
+## Prompt 23 – Visualization for Emotional Healing After Breakup Using Lotus Bloom Imagery
 
-Prompt 23 – Visualization for Emotional Healing After Breakup Using Lotus Bloom Imagery
+`Backstory: Karan, 27, from Chandigarh, recently ended a 5-year relationship and is struggling with self-worth. He has always been drawn to the lotus as a symbol of rising from the mud. He wants a guided visualization that uses the lotus’s journey as a metaphor for emotional healing.`
 
-Backstory: Karan, 27, from Chandigarh, recently ended a 5-year relationship and is struggling with self-worth. He has always been drawn to the lotus as a symbol of rising from the mud. He wants a guided visualization that uses the lotus’s journey as a metaphor for emotional healing.
+`Goal: Create a post-breakup healing visualization using lotus bloom imagery.`
 
-Goal: Create a post-breakup healing visualization using lotus bloom imagery.
+`Prompt:`
 
-Prompt:
+`"You are a meditation guide. Write a 12-minute guided visualization using lotus bloom imagery to help heal emotional wounds after a breakup."`
 
-"You are a meditation guide. Write a 12-minute guided visualization using lotus bloom imagery to help heal emotional wounds after a breakup."
-
-Inputs:
-
+`Inputs:`
+```
 1. Relationship duration
 
 2. Emotional stage (sadness / anger / acceptance)
 
 3. Preferred pacing
+```
+## Prompt 24 – Affirmations for Weight Management Motivation Using Ayurveda Dosha Balance
 
-Prompt 24 – Affirmations for Weight Management Motivation Using Ayurveda Dosha Balance
+`Backstory: Priya, 35, from Kochi, is trying to maintain a healthy weight using Ayurvedic principles. She knows her Kapha dosha dominance makes her metabolism slower, and wants affirmations to keep her aligned with her health goals.`
 
-Backstory: Priya, 35, from Kochi, is trying to maintain a healthy weight using Ayurvedic principles. She knows her Kapha dosha dominance makes her metabolism slower, and wants affirmations to keep her aligned with her health goals.
+`Goal: Create affirmations that integrate Ayurveda’s dosha wisdom into daily weight management motivation.`
 
-Goal: Create affirmations that integrate Ayurveda’s dosha wisdom into daily weight management motivation.
+`Prompt:`
 
-Prompt:
+`"You are a wellness and Ayurveda coach. Write 10 affirmations for weight management inspired by Ayurvedic dosha balance principles."`
 
-"You are a wellness and Ayurveda coach. Write 10 affirmations for weight management inspired by Ayurvedic dosha balance principles."
-
-Inputs:
-
+`Inputs:`
+```
 1. Dosha type (Vata / Pitta / Kapha)
 
 2. Specific weight goals
 
 3. Preferred affirmation length
+```
+## Prompt 25 – Visualization for Career Clarity Using Himalayan Sunrise Imagery
 
-Prompt 25 – Visualization for Career Clarity Using Himalayan Sunrise Imagery
+`Backstory: Rahul, 31, from Delhi, feels stuck in his corporate job and unsure about his career path. He remembers trekking in Himachal and watching the sunrise over snow peaks, feeling clarity and peace. He wants a visualization that recreates that feeling to help him make decisions.`
 
-Backstory: Rahul, 31, from Delhi, feels stuck in his corporate job and unsure about his career path. He remembers trekking in Himachal and watching the sunrise over snow peaks, feeling clarity and peace. He wants a visualization that recreates that feeling to help him make decisions.
+`Goal: Write a guided visualization for gaining career clarity using Himalayan sunrise imagery.`
 
-Goal: Write a guided visualization for gaining career clarity using Himalayan sunrise imagery.
+`Prompt:`
 
-Prompt:
+`"You are a career clarity coach. Write a 15-minute guided visualization using Himalayan sunrise imagery to help professionals find direction in their careers."`
 
-"You are a career clarity coach. Write a 15-minute guided visualization using Himalayan sunrise imagery to help professionals find direction in their careers."
-
-Inputs:
-
+`Inputs:`
+```
 1. Current job role
 
 2. Career doubts faced
 
 3. Preferred visualization tone (adventurous / peaceful)
+```
