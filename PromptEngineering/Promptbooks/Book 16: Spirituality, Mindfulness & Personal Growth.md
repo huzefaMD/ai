@@ -607,70 +607,70 @@
 2. Reflection prompts
 
 3. Language choice
-
 ```
-Social media content for spiritual coaches
 
-Prompt 1 – Instagram Carousel on “Daily Mindfulness Habits”
+# Social media content for spiritual coaches
 
-Backstory: Many Indian spiritual coaches use Instagram to share quick, relatable tips. Carousels work well because they allow deeper explanations without overwhelming followers. This post will break down small, actionable mindfulness habits that busy professionals and homemakers can adopt without feeling pressured.
+## Prompt 1 – Instagram Carousel on “Daily Mindfulness Habits”
 
-Goal: Create a 7-slide Instagram carousel script for a spiritual coach, focusing on practical daily mindfulness tips.
+`Backstory: Many Indian spiritual coaches use Instagram to share quick, relatable tips. Carousels work well because they allow deeper explanations without overwhelming followers. This post will break down small, actionable mindfulness habits that busy professionals and homemakers can adopt without feeling pressured.`
 
-Prompt:
+`Goal: Create a 7-slide Instagram carousel script for a spiritual coach, focusing on practical daily mindfulness tips.`
 
-“You are a content strategist for a spiritual coach. Write a 7-slide Instagram carousel post titled ‘Daily Mindfulness Habits for a Calmer Life’.
+`Prompt:`
 
+`“You are a content strategist for a spiritual coach. Write a 7-slide Instagram carousel post titled ‘Daily Mindfulness Habits for a Calmer Life’.`
+```
 1. Slide 1: Hook headline.
 
 2. Slides 2–6: One actionable habit per slide, explained in simple language.
 
 3. Slide 7: Call-to-action to follow and share.
+```
+`Keep the tone friendly, spiritual yet practical.”`
 
-Keep the tone friendly, spiritual yet practical.”
-
-Inputs:
-
+`Inputs:`
+```
 1. Audience type
 
 2. Level of spiritual language
 
 3. Call-to-action style
+```
+## Prompt 2 – Reel Script on “How to Start Meditation When You’re Restless”
 
-Prompt 2 – Reel Script on “How to Start Meditation When You’re Restless”
+`Backstory: Many beginners in India struggle with meditation because they can’t sit still or quiet their minds. A short, engaging reel can help them feel understood and provide a simple starting point. This builds trust between the coach and potential clients.`
 
-Backstory: Many beginners in India struggle with meditation because they can’t sit still or quiet their minds. A short, engaging reel can help them feel understood and provide a simple starting point. This builds trust between the coach and potential clients.
+`Goal: Write a 30–45 second Instagram reel script offering quick meditation tips for restless beginners.`
 
-Goal: Write a 30–45 second Instagram reel script offering quick meditation tips for restless beginners.
+`Prompt:`
 
-Prompt:
-
-“You are a social media manager for a spiritual coach. Write a 30-second reel script titled ‘How to Start Meditation When You’re Restless’.
-
+`“You are a social media manager for a spiritual coach. Write a 30-second reel script titled ‘How to Start Meditation When You’re Restless’.`
+```
 1. Begin with a relatable problem statement.
 
 2. Share 3 quick steps.
 
 3. End with an encouraging one-liner and call-to-action.”
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Platform (Instagram/YouTube Shorts)
 
 2. Language preference (Hindi/English/mixed)
 
 3. Target age group
+```
+## Prompt 3 – Facebook Live Outline on “Healing Through Forgiveness”
 
-Prompt 3 – Facebook Live Outline on “Healing Through Forgiveness”
+`Backstory: Forgiveness is a central theme in spiritual growth, but many people find it difficult to practice. A live session allows a coach to connect deeply, answer questions, and guide people in real time through the concept and process of forgiveness.`
 
-Backstory: Forgiveness is a central theme in spiritual growth, but many people find it difficult to practice. A live session allows a coach to connect deeply, answer questions, and guide people in real time through the concept and process of forgiveness.
+`Goal: Create a 20-minute Facebook Live session outline on forgiveness.`
 
-Goal: Create a 20-minute Facebook Live session outline on forgiveness.
+`Prompt:`
 
-Prompt:
-
-“You are a content writer for a spiritual coach. Create a 20-minute Facebook Live outline titled ‘Healing Through Forgiveness’.
-
+`“You are a content writer for a spiritual coach. Create a 20-minute Facebook Live outline titled ‘Healing Through Forgiveness’.`
+```
 1. Introduction: Why forgiveness is powerful.
 
 2. Main Body: 3 steps to practice forgiveness.
@@ -678,27 +678,27 @@ Prompt:
 3. Short guided meditation.
 
 4. Live Q&A prompts.
+```
+`Include timestamp breakdowns and suggested audience engagement questions.”`
 
-Include timestamp breakdowns and suggested audience engagement questions.”
-
-Inputs:
-
+`Inputs:`
+```
 1. Duration
 
 2. Storytelling examples
 
 3. Meditation inclusion
+```
+## Prompt 4 – YouTube Video Script on “Law of Attraction for Beginners”
 
-Prompt 4 – YouTube Video Script on “Law of Attraction for Beginners”
+`Backstory: The Law of Attraction is popular among young Indians exploring manifestation and spirituality, but misinformation often leaves them confused. A clear, authentic explanation helps position the coach as a credible source while attracting a wider audience.`
 
-Backstory: The Law of Attraction is popular among young Indians exploring manifestation and spirituality, but misinformation often leaves them confused. A clear, authentic explanation helps position the coach as a credible source while attracting a wider audience.
+`Goal: Write a 7-minute YouTube video script introducing the Law of Attraction for beginners.`
 
-Goal: Write a 7-minute YouTube video script introducing the Law of Attraction for beginners.
+`Prompt:`
 
-Prompt:
-
-“You are a video content writer for a spiritual coach. Write a 7-minute script titled ‘Law of Attraction for Beginners’.
-
+`“You are a video content writer for a spiritual coach. Write a 7-minute script titled ‘Law of Attraction for Beginners’.`
+```
 1. Start with an engaging hook story.
 
 2. Explain the concept simply.
@@ -706,25 +706,25 @@ Prompt:
 3. Share 2–3 practical manifestation exercises.
 
 4. End with a motivational closing and call-to-action.”
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Level of detail
 
 2. Tone (inspirational/practical)
 
 3. Audience familiarity with LOA
+```
+## Prompt 5 – LinkedIn Article on “Mindfulness for Leadership”
 
-Prompt 5 – LinkedIn Article on “Mindfulness for Leadership”
+`Backstory: Spirituality isn’t just for personal life—many Indian corporate leaders are turning to mindfulness to improve decision-making and team management. This article bridges spiritual concepts with professional development, appealing to a more business-focused audience.`
 
-Backstory: Spirituality isn’t just for personal life—many Indian corporate leaders are turning to mindfulness to improve decision-making and team management. This article bridges spiritual concepts with professional development, appealing to a more business-focused audience.
+`Goal: Write a 1,000-word LinkedIn article on applying mindfulness in leadership.`
 
-Goal: Write a 1,000-word LinkedIn article on applying mindfulness in leadership.
+`Prompt:`
 
-Prompt:
-
-“You are a content strategist for a spiritual coach. Write a 1,000-word LinkedIn article titled ‘Mindfulness for Leadership: The Secret to Calm, Effective Decisions’.
-
+`“You are a content strategist for a spiritual coach. Write a 1,000-word LinkedIn article titled ‘Mindfulness for Leadership: The Secret to Calm, Effective Decisions’.`
+```
 1. Introduction: Why leaders need mindfulness.
 
 2. Main Body: 5 practical techniques.
@@ -732,15 +732,15 @@ Prompt:
 3. Case study from India.
 
 4. Conclusion with call-to-action for coaching programs.”
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Target leadership level
 
 2. Case study type
 
 3. Tone (corporate/spiritual blend)
-
+```
 Prompt 6 – Instagram Story Series: “7 Days to Self-Love”
 
 Backstory: Many Indian audiences resonate with short, daily spiritual practices they can integrate into their routine without feeling overwhelmed. A 7-day Instagram Story challenge builds habit formation and encourages daily engagement, while also positioning the coach as a guide.
