@@ -605,22 +605,22 @@
 
 # Waste management process design
 
-Prompt 1 – Residential Society Waste Segregation System
+## Prompt 1 – Residential Society Waste Segregation System
 
-Backstory:
+`Backstory: ` 
 
-Arjun, 30, recently became the secretary of his 200-flat apartment complex in Pune. The society has been fined twice by the municipal corporation for improper waste segregation. Currently, residents dump all waste into common bins, making it difficult to recycle or compost. Arjun believes that if there were a proper segregation system—supported by clear processes, resident education, and vendor tie-ups—the society could reduce its waste sent to landfill by at least 60%. However, he needs a practical, step-by-step design that considers resident behaviour, costs, and local waste disposal rules.
+` Arjun, 30, recently became the secretary of his 200-flat apartment complex in Pune. The society has been fined twice by the municipal corporation for improper waste segregation. Currently, residents dump all waste into common bins, making it difficult to recycle or compost. Arjun believes that if there were a proper segregation system—supported by clear processes, resident education, and vendor tie-ups—the society could reduce its waste sent to landfill by at least 60%. However, he needs a practical, step-by-step design that considers resident behaviour, costs, and local waste disposal rules. `
 
-Goal:
+`Goal:`
 
-Design a complete waste segregation process for a large residential society in Pune.
+`Design a complete waste segregation process for a large residential society in Pune.`
 
-Prompt:
+`Prompt:`
 
-"You are a municipal waste management consultant. Create a step-by-step waste segregation and disposal plan for a 200-flat society in Pune. Include colour-coded bin placement strategy, resident awareness drives, vendor partnerships for recyclables, composting setup for wet waste, and monthly impact tracking. Ensure compliance with Pune Municipal Corporation guidelines."
+`"You are a municipal waste management consultant. Create a step-by-step waste segregation and disposal plan for a 200-flat society in Pune. Include colour-coded bin placement strategy, resident awareness drives, vendor partnerships for recyclables, composting setup for wet waste, and monthly impact tracking. Ensure compliance with Pune Municipal Corporation guidelines."`
 
-Inputs:
-
+`Inputs:`
+```
 1. Number of households
 
 2. Current waste volume per day
@@ -628,23 +628,23 @@ Inputs:
 3. Available budget
 
 4. Local municipal segregation rules
+```
+## Prompt 2 – Hospital Bio-Medical Waste Handling Process
 
-Prompt 2 – Hospital Bio-Medical Waste Handling Process
+`Backstory:`
 
-Backstory:
+`A 50-bed private hospital in Lucknow has recently received a warning from the health department about improper biomedical waste disposal. Currently, different departments follow their own informal processes, leading to mixing of infectious waste with regular trash. The hospital administrator wants a standardised, compliant, and safe waste handling process to protect staff, patients, and the environment. He also wants training material for staff to ensure consistent implementation.`
 
-A 50-bed private hospital in Lucknow has recently received a warning from the health department about improper biomedical waste disposal. Currently, different departments follow their own informal processes, leading to mixing of infectious waste with regular trash. The hospital administrator wants a standardised, compliant, and safe waste handling process to protect staff, patients, and the environment. He also wants training material for staff to ensure consistent implementation.
+`Goal:`
 
-Goal:
+`Create a compliant biomedical waste management process for a medium-sized hospital in Lucknow.`
 
-Create a compliant biomedical waste management process for a medium-sized hospital in Lucknow.
+`Prompt:`
 
-Prompt:
+`"You are a healthcare waste management specialist. Design a biomedical waste handling process for a 50-bed hospital in Lucknow. Include waste categorisation, collection schedules, storage protocols, tie-ups with authorised disposal facilities, and staff training modules. Ensure the plan aligns with Bio-Medical Waste Management Rules, 2016 (India)."`
 
-"You are a healthcare waste management specialist. Design a biomedical waste handling process for a 50-bed hospital in Lucknow. Include waste categorisation, collection schedules, storage protocols, tie-ups with authorised disposal facilities, and staff training modules. Ensure the plan aligns with Bio-Medical Waste Management Rules, 2016 (India)."
-
-Inputs:
-
+`Inputs:`
+```
 1. Number of hospital departments
 
 2. Current waste disposal methods
@@ -652,23 +652,23 @@ Inputs:
 3. Storage capacity
 
 4. Local authorised waste treatment facility details
+```
+## Prompt 3 – Zero-Waste Café Operations Manual
 
-Prompt 3 – Zero-Waste Café Operations Manual
+`Backstory:`
 
-Backstory:
+`Meera, 28, runs a popular café in Jaipur that prides itself on sustainability. However, despite using compostable plates and cups, she still ends up sending a lot of waste to landfill due to poor internal sorting and food waste management. She wants a detailed operational guide that trains staff, organises waste collection points, partners with composting vendors, and reduces packaging waste. Meera’s goal is to market her café as “Zero Waste” within the next 12 months.`
 
-Meera, 28, runs a popular café in Jaipur that prides itself on sustainability. However, despite using compostable plates and cups, she still ends up sending a lot of waste to landfill due to poor internal sorting and food waste management. She wants a detailed operational guide that trains staff, organises waste collection points, partners with composting vendors, and reduces packaging waste. Meera’s goal is to market her café as “Zero Waste” within the next 12 months.
+`Goal:`
 
-Goal:
+`Create a step-by-step waste management operations manual for a café aiming for zero waste.`
 
-Create a step-by-step waste management operations manual for a café aiming for zero waste.
+`Prompt:`
 
-Prompt:
+`"You are a hospitality sustainability consultant. Create a detailed waste management operations manual for a café in Jaipur. Include waste source reduction strategies, staff training protocols, composting methods for food waste, recycling vendor tie-ups, and tracking metrics. Ensure all processes are practical for a busy café environment."`
 
-"You are a hospitality sustainability consultant. Create a detailed waste management operations manual for a café in Jaipur. Include waste source reduction strategies, staff training protocols, composting methods for food waste, recycling vendor tie-ups, and tracking metrics. Ensure all processes are practical for a busy café environment."
-
-Inputs:
-
+`Inputs:`
+```
 1. Café seating capacity
 
 2. Current waste generation estimate
@@ -676,23 +676,23 @@ Inputs:
 3. Available storage space for segregation
 
 4. Preferred composting method (in-house/vendor)
+```
+## Prompt 4 – IT Park E-Waste Recycling Workflow
 
-Prompt 4 – IT Park E-Waste Recycling Workflow
+`Backstory:`
 
-Backstory:
+`A large IT park in Bengaluru houses 15 different companies, generating huge amounts of e-waste like old computers, cables, and printers. Currently, most of it is discarded with general waste or sold informally, risking data security and environmental harm. The park’s facility manager wants a formal e-waste collection, storage, and recycling process that complies with Indian e-waste regulations while making it easy for all tenant companies to participate.`
 
-A large IT park in Bengaluru houses 15 different companies, generating huge amounts of e-waste like old computers, cables, and printers. Currently, most of it is discarded with general waste or sold informally, risking data security and environmental harm. The park’s facility manager wants a formal e-waste collection, storage, and recycling process that complies with Indian e-waste regulations while making it easy for all tenant companies to participate.
+`Goal:`
 
-Goal:
+`Design an e-waste recycling workflow for a multi-company IT park.`
 
-Design an e-waste recycling workflow for a multi-company IT park.
+`Prompt:`
 
-Prompt:
-
-"You are an e-waste compliance expert. Create an e-waste recycling workflow for an IT park in Bengaluru with 15 tenant companies. Include secure collection points, data destruction protocols, authorised recycler partnerships, quarterly collection drives, and awareness campaigns. Ensure compliance with E-Waste (Management) Rules, 2022."
-
-Inputs:
-
+`"You are an e-waste compliance expert. Create an e-waste recycling workflow for an IT park in Bengaluru with 15 tenant companies. Include secure collection points, data destruction protocols, authorised recycler partnerships, quarterly collection drives, and awareness campaigns. Ensure compliance with E-Waste (Management) Rules, 2022."`
+```
+`Inputs:`
+```
 1. Number of employees in IT park
 
 2. Storage facility availability
@@ -700,7 +700,7 @@ Inputs:
 3. Frequency of e-waste generation
 
 4. Local authorised recycler details
-
+```
 Prompt 5 – Municipal Composting Plant Process Design
 
 Backstory:
