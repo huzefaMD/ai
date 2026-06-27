@@ -1,0 +1,12 @@
+# FEATURE 1: Add a history command
+# If user types "history"
+# Print how many messages are in the conversation
+# Print each message role and content
+
+# FEATURE 2: Add a greeting check
+# If "hello" or "hi" is in the user's message
+# Reply: "Bot: Hello! How can I help you today?"
+# Instead of the default reply
+
+# Hint for feature 2:
+# elif "hello" in user_input.lower() or ...
