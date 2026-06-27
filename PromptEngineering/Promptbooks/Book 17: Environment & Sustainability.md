@@ -1208,22 +1208,22 @@
 
 # CSR project proposals
 
-Prompt 1 – Renewable Energy Installation for Rural Schools
+## Prompt 1 – Renewable Energy Installation for Rural Schools
 
-Backstory:
+`Backstory:`
 
-An FMCG company headquartered in Mumbai is looking for impactful CSR projects in renewable energy. The CSR head wants to fund solar panel installations in rural schools across Maharashtra. The objective is to provide uninterrupted electricity for lighting, fans, and basic digital education tools. Currently, many of these schools experience power cuts of 6–8 hours daily, disrupting classes. The proposal must highlight social impact, sustainability benefits, and long-term maintenance plans to ensure the panels remain operational for years.
+`An FMCG company headquartered in Mumbai is looking for impactful CSR projects in renewable energy. The CSR head wants to fund solar panel installations in rural schools across Maharashtra. The objective is to provide uninterrupted electricity for lighting, fans, and basic digital education tools. Currently, many of these schools experience power cuts of 6–8 hours daily, disrupting classes. The proposal must highlight social impact, sustainability benefits, and long-term maintenance plans to ensure the panels remain operational for years.`
 
-Goal:
+`Goal:`
 
 Draft a CSR project proposal for solar installations in rural schools.
 
 Prompt:
 
-"You are a CSR project writer specialising in renewable energy. Create a detailed CSR proposal for installing solar panels in rural Maharashtra schools. Include project objectives, beneficiary selection criteria, budget breakdown, impact measurement methods, and long-term maintenance strategies."
+`"You are a CSR project writer specialising in renewable energy. Create a detailed CSR proposal for installing solar panels in rural Maharashtra schools. Include project objectives, beneficiary selection criteria, budget breakdown, impact measurement methods, and long-term maintenance strategies."`
 
-Inputs:
-
+`Inputs:
+```
 1. Number of schools targeted
 
 2. Average student population per school
@@ -1231,23 +1231,23 @@ Inputs:
 3. CSR budget allocation
 
 4. Project timeline
+```
+## Prompt 2 – Urban Tree Plantation Drive
 
-Prompt 2 – Urban Tree Plantation Drive
+`Backstory:`
 
-Backstory:
+`A large IT company in Bengaluru wants to offset its carbon footprint through a large-scale urban greening program. They are considering a city-wide tree plantation drive in collaboration with municipal authorities. The CSR team wants a proposal that outlines how planting will be done in high-pollution zones, who will maintain the trees, and how impact will be measured over 3–5 years. The project must appeal to both employees and city residents as an ongoing initiative, not a one-time event.`
 
-A large IT company in Bengaluru wants to offset its carbon footprint through a large-scale urban greening program. They are considering a city-wide tree plantation drive in collaboration with municipal authorities. The CSR team wants a proposal that outlines how planting will be done in high-pollution zones, who will maintain the trees, and how impact will be measured over 3–5 years. The project must appeal to both employees and city residents as an ongoing initiative, not a one-time event.
+`Goal:
 
-Goal:
+`Develop a CSR proposal for a corporate-funded urban tree plantation drive.`
 
-Develop a CSR proposal for a corporate-funded urban tree plantation drive.
+`Prompt:`
 
-Prompt:
+`"You are an environmental CSR consultant. Draft a proposal for a city-wide tree plantation initiative in Bengaluru. Include site selection criteria, tree species suited for urban environments, maintenance partnerships, employee volunteer engagement, and annual carbon sequestration reporting."`
 
-"You are an environmental CSR consultant. Draft a proposal for a city-wide tree plantation initiative in Bengaluru. Include site selection criteria, tree species suited for urban environments, maintenance partnerships, employee volunteer engagement, and annual carbon sequestration reporting."
-
-Inputs:
-
+`Inputs:`
+```
 1. Number of trees planned
 
 2. Preferred planting zones
@@ -1255,23 +1255,23 @@ Inputs:
 3. Maintenance partners available
 
 4. CSR budget and timeline
+```
+## Prompt 3 – Waste-to-Compost CSR Initiative
 
-Prompt 3 – Waste-to-Compost CSR Initiative
+`Backstory:`
 
-Backstory:
+`A food processing company in Gujarat produces large volumes of organic waste and wants to channel part of its CSR funds toward municipal composting projects. The CSR lead envisions setting up composting units in 10 residential colonies in Surat to encourage community-based waste management. The proposal should show how these units will be installed, maintained, and promoted to ensure high usage rates, with clear metrics for waste diverted from landfill.`
 
-A food processing company in Gujarat produces large volumes of organic waste and wants to channel part of its CSR funds toward municipal composting projects. The CSR lead envisions setting up composting units in 10 residential colonies in Surat to encourage community-based waste management. The proposal should show how these units will be installed, maintained, and promoted to ensure high usage rates, with clear metrics for waste diverted from landfill.
+Goal:`
 
-Goal:
+`Prepare a CSR proposal for community composting projects in residential areas.`
 
-Prepare a CSR proposal for community composting projects in residential areas.
+`Prompt:`
 
-Prompt:
+`"You are a waste management CSR specialist. Create a CSR project proposal for installing community composting units in Surat. Include installation plans, resident training sessions, compost utilisation strategies, and impact tracking over one year."`
 
-"You are a waste management CSR specialist. Create a CSR project proposal for installing community composting units in Surat. Include installation plans, resident training sessions, compost utilisation strategies, and impact tracking over one year."
-
-Inputs:
-
+`Inputs:`
+```
 1. Number of colonies targeted
 
 2. Estimated daily organic waste volume
@@ -1279,23 +1279,23 @@ Inputs:
 3. Available land for units
 
 4. CSR project budget
+```
+## Prompt 4 – Clean Water Access for Rural Villages
 
-Prompt 4 – Clean Water Access for Rural Villages
+`Backstory:`
 
-Backstory:
-
-A manufacturing conglomerate in Pune wants to fund clean drinking water projects in rural areas as part of its CSR compliance. Many villages in drought-prone districts rely on unsafe groundwater sources, leading to health issues. The CSR committee is seeking a proposal for installing community RO filtration plants that are solar-powered and have minimal maintenance costs. The document must clearly outline how the project will improve health outcomes, ensure affordability, and remain operational in the long term.
+`A manufacturing conglomerate in Pune wants to fund clean drinking water projects in rural areas as part of its CSR compliance. Many villages in drought-prone districts rely on unsafe groundwater sources, leading to health issues. The CSR committee is seeking a proposal for installing community RO filtration plants that are solar-powered and have minimal maintenance costs. The document must clearly outline how the project will improve health outcomes, ensure affordability, and remain operational in the long term.`
 
 Goal:
 
-Draft a CSR proposal for rural clean water access through solar-powered RO plants.
+`Draft a CSR proposal for rural clean water access through solar-powered RO plants.`
 
-Prompt:
+`Prompt:`
 
-"You are a rural infrastructure CSR proposal writer. Create a proposal for installing solar-powered RO filtration plants in rural Maharashtra villages. Include site selection, technical specifications, local maintenance partnerships, and projected health benefits."
+`"You are a rural infrastructure CSR proposal writer. Create a proposal for installing solar-powered RO filtration plants in rural Maharashtra villages. Include site selection, technical specifications, local maintenance partnerships, and projected health benefits."
 
-Inputs:
-
+`Inputs:`
+```
 1. Number of villages targeted
 
 2. Population per village
@@ -1303,23 +1303,23 @@ Inputs:
 3. CSR budget allocation
 
 4. Preferred implementation partners
+```
+## Prompt 5 – Employee-Led Beach Clean-up Program
 
-Prompt 5 – Employee-Led Beach Clean-up Program
+`Backstory:`
 
-Backstory:
+`A retail chain with outlets across Mumbai wants to engage its employees in environmental volunteering as part of its CSR activities. The idea is to run a recurring beach clean-up program in collaboration with local NGOs. The CSR team wants a proposal that shows the structure of the events, volunteer safety measures, waste disposal mechanisms, and how impact will be reported publicly. The program should build the company’s green image while genuinely contributing to the city’s coastal cleanliness.`
 
-A retail chain with outlets across Mumbai wants to engage its employees in environmental volunteering as part of its CSR activities. The idea is to run a recurring beach clean-up program in collaboration with local NGOs. The CSR team wants a proposal that shows the structure of the events, volunteer safety measures, waste disposal mechanisms, and how impact will be reported publicly. The program should build the company’s green image while genuinely contributing to the city’s coastal cleanliness.
+`Goal:`
 
-Goal:
+`Create a CSR proposal for a recurring employee-led beach clean-up program.`
 
-Create a CSR proposal for a recurring employee-led beach clean-up program.
+`Prompt:`
 
-Prompt:
+`"You are a corporate volunteering CSR strategist. Draft a proposal for a recurring beach clean-up program in Mumbai. Include volunteer recruitment, safety protocols, waste segregation and disposal plans, partnerships with NGOs, and social media documentation of impact."`
 
-"You are a corporate volunteering CSR strategist. Draft a proposal for a recurring beach clean-up program in Mumbai. Include volunteer recruitment, safety protocols, waste segregation and disposal plans, partnerships with NGOs, and social media documentation of impact."
-
-Inputs:
-
+`Inputs:`
+```
 1. Target beaches
 
 2. Frequency of events
@@ -1327,23 +1327,23 @@ Inputs:
 3. Number of volunteers per event
 
 4. CSR budget allocation
+```
+## Prompt 6 – Renewable Energy-Powered Community Health Centre
 
-Prompt 6 – Renewable Energy-Powered Community Health Centre
+`Backstory:`
 
-Backstory:
+`A pharmaceutical company in Hyderabad wants to focus its CSR budget on improving rural healthcare. One idea being explored is to upgrade existing rural health centres with solar power so they can operate uninterrupted during power cuts. Many villages in Telangana experience daily outages, which disrupt medical refrigeration, lighting, and diagnostic equipment usage. The CSR team wants a proposal that shows how solar installations will directly improve healthcare delivery and patient safety, with quantified benefits over a 3–5 year period.`
 
-A pharmaceutical company in Hyderabad wants to focus its CSR budget on improving rural healthcare. One idea being explored is to upgrade existing rural health centres with solar power so they can operate uninterrupted during power cuts. Many villages in Telangana experience daily outages, which disrupt medical refrigeration, lighting, and diagnostic equipment usage. The CSR team wants a proposal that shows how solar installations will directly improve healthcare delivery and patient safety, with quantified benefits over a 3–5 year period.
+`Goal:`
 
-Goal:
+`Draft a CSR project proposal to install solar power systems in rural health centres.`
 
-Draft a CSR project proposal to install solar power systems in rural health centres.
+`Prompt:`
 
-Prompt:
+`"You are a healthcare CSR project designer. Create a proposal for solar power installations at rural health centres in Telangana. Include site selection criteria, technical specifications, impact on patient care, budget estimates, and maintenance strategies."`
 
-"You are a healthcare CSR project designer. Create a proposal for solar power installations at rural health centres in Telangana. Include site selection criteria, technical specifications, impact on patient care, budget estimates, and maintenance strategies."
-
-Inputs:
-
+`Inputs:`
+```
 1. Number of centres targeted
 
 2. Average patient footfall per centre
@@ -1351,23 +1351,23 @@ Inputs:
 3. CSR budget allocation
 
 4. Preferred implementation partners
+```
+## Prompt 7 – Skill Development in Waste Management
 
-Prompt 7 – Skill Development in Waste Management
+`Backstory:`
 
-Backstory:
+`An FMCG company based in Kolkata wants to combine environmental sustainability with skill-building for youth. They are considering a CSR initiative to train unemployed young adults in waste segregation, composting, and recycling entrepreneurship. The idea is to create micro-enterprises that service residential colonies and small businesses. The CSR team needs a proposal that details the training curriculum, certification process, and pathways for job placement or business creation.`
 
-An FMCG company based in Kolkata wants to combine environmental sustainability with skill-building for youth. They are considering a CSR initiative to train unemployed young adults in waste segregation, composting, and recycling entrepreneurship. The idea is to create micro-enterprises that service residential colonies and small businesses. The CSR team needs a proposal that details the training curriculum, certification process, and pathways for job placement or business creation.
+`Goal:`
 
-Goal:
+`Prepare a CSR proposal for skill development programs in waste management.`
 
-Prepare a CSR proposal for skill development programs in waste management.
+`Prompt:`
 
-Prompt:
+`"You are a vocational training CSR consultant. Draft a proposal for a waste management skill development program in Kolkata. Include training modules, certification methods, startup toolkits, and potential earnings for participants. Link the program to measurable employment and environmental outcomes."`
 
-"You are a vocational training CSR consultant. Draft a proposal for a waste management skill development program in Kolkata. Include training modules, certification methods, startup toolkits, and potential earnings for participants. Link the program to measurable employment and environmental outcomes."
-
-Inputs:
-
+`Inputs:`
+```
 1. Number of trainees per batch
 
 2. Training duration
@@ -1375,23 +1375,23 @@ Inputs:
 3. CSR budget allocation
 
 4. Local NGO or training institute partners
+```
+## Prompt 8 – CSR Funded Biogas Plants for Farmer Communities
 
-Prompt 8 – CSR Funded Biogas Plants for Farmer Communities
+`Backstory:`
 
-Backstory:
+`A dairy cooperative in Punjab generates large amounts of cattle dung that goes unused. A steel manufacturing company in Ludhiana wants to fund the installation of biogas plants in partnership with local farmer cooperatives. The project aims to reduce methane emissions, provide clean cooking fuel, and create a fertiliser byproduct for the farmers. The CSR team wants the proposal to clearly outline technical feasibility, cost savings for farmers, and environmental benefits.`
 
-A dairy cooperative in Punjab generates large amounts of cattle dung that goes unused. A steel manufacturing company in Ludhiana wants to fund the installation of biogas plants in partnership with local farmer cooperatives. The project aims to reduce methane emissions, provide clean cooking fuel, and create a fertiliser byproduct for the farmers. The CSR team wants the proposal to clearly outline technical feasibility, cost savings for farmers, and environmental benefits.
+`Goal:`
 
-Goal:
+`Draft a CSR proposal for installing community biogas plants in rural Punjab.`
 
-Draft a CSR proposal for installing community biogas plants in rural Punjab.
+`Prompt:`
 
-Prompt:
+`"You are a rural energy CSR proposal writer. Create a detailed proposal for community biogas plants in Punjab farmer cooperatives. Include technology specifications, farmer engagement strategies, cost-benefit analysis, and methane emission reduction metrics."`
 
-"You are a rural energy CSR proposal writer. Create a detailed proposal for community biogas plants in Punjab farmer cooperatives. Include technology specifications, farmer engagement strategies, cost-benefit analysis, and methane emission reduction metrics."
-
-Inputs:
-
+`Inputs:`
+```
 1. Number of cooperatives targeted
 
 2. Average cattle count per cooperative
@@ -1399,23 +1399,23 @@ Inputs:
 3. CSR budget allocation
 
 4. Implementation partner details
+```
+## Prompt 9 – Plastic Waste Recycling Hubs
 
-Prompt 9 – Plastic Waste Recycling Hubs
+`Backstory:`
 
-Backstory:
+`A large beverage company in India has committed to collect and recycle more plastic than it produces by 2030. As part of its CSR initiative, it wants to set up decentralised plastic waste recycling hubs in Tier-2 and Tier-3 cities. These hubs will collect, sort, and recycle plastic waste into usable products. The proposal should detail the hub’s operational model, partnerships with local scrap dealers, and community awareness programs.`
 
-A large beverage company in India has committed to collect and recycle more plastic than it produces by 2030. As part of its CSR initiative, it wants to set up decentralised plastic waste recycling hubs in Tier-2 and Tier-3 cities. These hubs will collect, sort, and recycle plastic waste into usable products. The proposal should detail the hub’s operational model, partnerships with local scrap dealers, and community awareness programs.
+`Goal:`
 
-Goal:
+`Create a CSR project proposal for setting up decentralised plastic recycling hubs.`
 
-Create a CSR project proposal for setting up decentralised plastic recycling hubs.
+`Prompt:`
 
-Prompt:
+`"You are a waste recycling CSR consultant. Design a proposal for establishing plastic waste recycling hubs in Tier-2 and Tier-3 Indian cities. Include location selection, operational workflow, equipment requirements, vendor partnerships, and public awareness campaigns."`
 
-"You are a waste recycling CSR consultant. Design a proposal for establishing plastic waste recycling hubs in Tier-2 and Tier-3 Indian cities. Include location selection, operational workflow, equipment requirements, vendor partnerships, and public awareness campaigns."
-
-Inputs:
-
+`Inputs:`
+```
 1. Target cities
 
 2. Expected plastic waste volume
@@ -1423,23 +1423,23 @@ Inputs:
 3. CSR budget allocation
 
 4. Potential recycling product outputs
+```
+## Prompt 10 – Solar-Powered Water Purification Units
 
-Prompt 10 – Solar-Powered Water Purification Units
+`Backstory:`
 
-Backstory:
+`An automobile manufacturer in Chennai wants to focus its CSR activities on improving access to safe drinking water. They are considering installing solar-powered water purification units in drought-affected districts of Tamil Nadu. These units will be community-managed and provide affordable clean water year-round. The proposal needs to showcase the health benefits, cost efficiency, and environmental advantages of solar-powered purification over diesel or grid-powered alternatives.`
 
-An automobile manufacturer in Chennai wants to focus its CSR activities on improving access to safe drinking water. They are considering installing solar-powered water purification units in drought-affected districts of Tamil Nadu. These units will be community-managed and provide affordable clean water year-round. The proposal needs to showcase the health benefits, cost efficiency, and environmental advantages of solar-powered purification over diesel or grid-powered alternatives.
+`Goal:`
 
-Goal:
+`Draft a CSR proposal for installing solar-powered water purification units in rural Tamil Nadu.`
 
-Draft a CSR proposal for installing solar-powered water purification units in rural Tamil Nadu.
+`Prompt:`
 
-Prompt:
+`"You are a clean water CSR project designer. Prepare a proposal for community-based solar-powered water purification units. Include site selection criteria, unit capacity, operational models, community training, and expected health improvements."`
 
-"You are a clean water CSR project designer. Prepare a proposal for community-based solar-powered water purification units. Include site selection criteria, unit capacity, operational models, community training, and expected health improvements."
-
-Inputs:
-
+`Inputs:`
+```
 1. Number of units proposed
 
 2. Average daily users per unit
@@ -1447,23 +1447,23 @@ Inputs:
 3. CSR budget allocation
 
 4. Implementation timeline
+```
+## Prompt 11 – CSR-Sponsored School Waste-to-Art Program
 
-Prompt 11 – CSR-Sponsored School Waste-to-Art Program
+`Backstory:`
 
-Backstory:
+`A retail chain in Delhi wants to combine environmental education with creative engagement for children. They are considering a CSR-funded program in government schools that teaches students how to convert waste materials into art and usable products. The aim is to foster environmental responsibility from a young age while supporting school infrastructure through sales of crafted items.`
 
-A retail chain in Delhi wants to combine environmental education with creative engagement for children. They are considering a CSR-funded program in government schools that teaches students how to convert waste materials into art and usable products. The aim is to foster environmental responsibility from a young age while supporting school infrastructure through sales of crafted items.
+`Goal:`
 
-Goal:
+`Create a CSR proposal for a school waste-to-art initiative.`
 
-Create a CSR proposal for a school waste-to-art initiative.
+`Prompt:`
 
-Prompt:
+`"You are an environmental education CSR planner. Draft a proposal for a waste-to-art school program in Delhi. Include curriculum design, teacher training, student workshops, exhibition events, and revenue-sharing from product sales."`
 
-"You are an environmental education CSR planner. Draft a proposal for a waste-to-art school program in Delhi. Include curriculum design, teacher training, student workshops, exhibition events, and revenue-sharing from product sales."
-
-Inputs:
-
+`Inputs:`
+```
 1. Number of schools targeted
 
 2. Number of students per school
@@ -1471,23 +1471,23 @@ Inputs:
 3. CSR budget allocation
 
 4. Preferred NGO partners
+```
+## Prompt 12 – Green Public Transport CSR Initiative
 
-Prompt 12 – Green Public Transport CSR Initiative
+`Backstory:`
 
-Backstory:
+`A logistics company in Ahmedabad wants to reduce its carbon footprint and improve public perception by funding electric rickshaws for low-income drivers. These e-rickshaws will replace old petrol vehicles, reducing emissions and operational costs for drivers. The proposal must outline how beneficiaries will be selected, financed, and trained in maintenance.`
 
-A logistics company in Ahmedabad wants to reduce its carbon footprint and improve public perception by funding electric rickshaws for low-income drivers. These e-rickshaws will replace old petrol vehicles, reducing emissions and operational costs for drivers. The proposal must outline how beneficiaries will be selected, financed, and trained in maintenance.
+`Goal:`
 
-Goal:
+`Draft a CSR proposal for funding electric rickshaws for low-income drivers.`
 
-Draft a CSR proposal for funding electric rickshaws for low-income drivers.
+`Prompt:`
 
-Prompt:
+`"You are a sustainable mobility CSR consultant. Create a proposal for an e-rickshaw funding program in Ahmedabad. Include driver selection criteria, financing models, vehicle maintenance training, and emission reduction calculations."`
 
-"You are a sustainable mobility CSR consultant. Create a proposal for an e-rickshaw funding program in Ahmedabad. Include driver selection criteria, financing models, vehicle maintenance training, and emission reduction calculations."
-
-Inputs:
-
+`Inputs:`
+```
 1. Number of rickshaws to be funded
 
 2. CSR budget allocation
@@ -1495,23 +1495,23 @@ Inputs:
 3. Local e-rickshaw dealer partnerships
 
 4. Implementation timeline
+```
+## Prompt 13 – Mangrove Restoration Project
 
-Prompt 13 – Mangrove Restoration Project
+`Backstory:`
 
-Backstory:
+`A petrochemical company in Navi Mumbai wants to invest in a CSR project that directly addresses the environmental damage caused by industrial activity in coastal areas. They plan to fund mangrove restoration along degraded shorelines to protect biodiversity and mitigate coastal erosion. The CSR team wants the proposal to highlight community involvement, biodiversity monitoring, and climate resilience benefits.`
 
-A petrochemical company in Navi Mumbai wants to invest in a CSR project that directly addresses the environmental damage caused by industrial activity in coastal areas. They plan to fund mangrove restoration along degraded shorelines to protect biodiversity and mitigate coastal erosion. The CSR team wants the proposal to highlight community involvement, biodiversity monitoring, and climate resilience benefits.
+`Goal:`
 
-Goal:
+`Create a CSR proposal for a coastal mangrove restoration project.`
 
-Create a CSR proposal for a coastal mangrove restoration project.
+`Prompt:`
 
-Prompt:
+`"You are a coastal ecology CSR project designer. Draft a proposal for mangrove restoration in Navi Mumbai. Include site surveys, native species planting, local fisherfolk engagement, biodiversity tracking, and climate resilience reporting."`
 
-"You are a coastal ecology CSR project designer. Draft a proposal for mangrove restoration in Navi Mumbai. Include site surveys, native species planting, local fisherfolk engagement, biodiversity tracking, and climate resilience reporting."
-
-Inputs:
-
+`Inputs:`
+```
 1. Area (in hectares) for restoration
 
 2. CSR budget allocation
@@ -1519,23 +1519,23 @@ Inputs:
 3. Implementation partners
 
 4. Monitoring period
+```
+## Prompt 14 – CSR-Backed Digital Literacy for Waste Workers
 
-Prompt 14 – CSR-Backed Digital Literacy for Waste Workers
+`Backstory:`
 
-Backstory:
+`An IT company in Bengaluru wants to use part of its CSR budget to improve the livelihoods of informal waste workers. The proposed project will provide digital literacy training so workers can use smartphones for cashless payments, vendor coordination, and accessing welfare schemes. The CSR team wants a proposal that links digital inclusion with improved financial stability and social dignity.`
 
-An IT company in Bengaluru wants to use part of its CSR budget to improve the livelihoods of informal waste workers. The proposed project will provide digital literacy training so workers can use smartphones for cashless payments, vendor coordination, and accessing welfare schemes. The CSR team wants a proposal that links digital inclusion with improved financial stability and social dignity.
+`Goal:`
 
-Goal:
+`Draft a CSR proposal for digital literacy programs for waste workers.`
 
-Draft a CSR proposal for digital literacy programs for waste workers.
+`Prompt:`
 
-Prompt:
+`"You are a social inclusion CSR strategist. Prepare a proposal for a digital literacy program targeting waste workers in Bengaluru. Include training modules, mobile device distribution, financial inclusion activities, and measurable livelihood improvements."`
 
-"You are a social inclusion CSR strategist. Prepare a proposal for a digital literacy program targeting waste workers in Bengaluru. Include training modules, mobile device distribution, financial inclusion activities, and measurable livelihood improvements."
-
-Inputs:
-
+`Inputs:`
+```
 1. Number of waste workers targeted
 
 2. CSR budget allocation
@@ -1543,23 +1543,23 @@ Inputs:
 3. Training partner organisations
 
 4. Implementation timeline
+```
+## Prompt 15 – CSR-Funded Rainwater Harvesting for Schools
 
-Prompt 15 – CSR-Funded Rainwater Harvesting for Schools
+`Backstory:`
 
-Backstory:
+`A construction company in Jaipur is seeking to invest its CSR funds in water conservation. They’ve identified 20 government schools in water-scarce areas of Rajasthan that face severe shortages during summer months. The plan is to install rooftop rainwater harvesting systems to provide water for drinking, sanitation, and gardening. The CSR team needs a proposal that covers technical feasibility, cost estimates, maintenance training for school staff, and measurable water savings.`
 
-A construction company in Jaipur is seeking to invest its CSR funds in water conservation. They’ve identified 20 government schools in water-scarce areas of Rajasthan that face severe shortages during summer months. The plan is to install rooftop rainwater harvesting systems to provide water for drinking, sanitation, and gardening. The CSR team needs a proposal that covers technical feasibility, cost estimates, maintenance training for school staff, and measurable water savings.
+`Goal:
 
-Goal:
+`Draft a CSR project proposal for installing rainwater harvesting systems in schools.`
 
-Draft a CSR project proposal for installing rainwater harvesting systems in schools.
+`Prompt:`
 
-Prompt:
+`"You are a water conservation CSR consultant. Create a proposal for rooftop rainwater harvesting installations in 20 government schools in Rajasthan. Include site assessments, tank capacity planning, installation timelines, maintenance protocols, and projected annual water savings."`
 
-"You are a water conservation CSR consultant. Create a proposal for rooftop rainwater harvesting installations in 20 government schools in Rajasthan. Include site assessments, tank capacity planning, installation timelines, maintenance protocols, and projected annual water savings."
-
-Inputs:
-
+`Inputs:`
+```
 1. Number of schools
 
 2. Average roof size per school
@@ -1567,23 +1567,23 @@ Inputs:
 3. CSR budget allocation
 
 4. Implementation partner details
+```
+## Prompt 16 – Solar-Powered Street Lighting in Rural Villages
 
-Prompt 16 – Solar-Powered Street Lighting in Rural Villages
+`Backstory:`
 
-Backstory:
+`An energy company in Pune wants to address rural safety and mobility issues through its CSR funds. The idea is to install solar-powered streetlights in villages with poor or no street lighting. Many rural areas face accidents and reduced night-time activity due to lack of illumination. The CSR team needs a proposal that highlights social benefits, installation strategies, and cost efficiency.`
 
-An energy company in Pune wants to address rural safety and mobility issues through its CSR funds. The idea is to install solar-powered streetlights in villages with poor or no street lighting. Many rural areas face accidents and reduced night-time activity due to lack of illumination. The CSR team needs a proposal that highlights social benefits, installation strategies, and cost efficiency.
+`Goal:`
 
-Goal:
+`Create a CSR project proposal for solar streetlight installation.`
 
-Create a CSR project proposal for solar streetlight installation.
+`Prompt:`
 
-Prompt:
+`"You are a renewable energy CSR project designer. Draft a proposal for installing solar-powered streetlights in rural villages. Include location selection criteria, lighting specifications, installation procedures, maintenance training, and impact reporting."`
 
-"You are a renewable energy CSR project designer. Draft a proposal for installing solar-powered streetlights in rural villages. Include location selection criteria, lighting specifications, installation procedures, maintenance training, and impact reporting."
-
-Inputs:
-
+`Inputs:`
+```
 1. Number of streetlights to be installed
 
 2. CSR budget allocation
@@ -1591,23 +1591,23 @@ Inputs:
 3. Target village population size
 
 4. Maintenance partner options
+```
+## Prompt 17 – CSR-Sponsored Waste Management in Slums
 
-Prompt 17 – CSR-Sponsored Waste Management in Slums
+`Backstory:`
 
-Backstory:
+`A consumer goods company in Mumbai wants to improve sanitation in informal settlements near its factories. The proposed CSR project will introduce waste segregation points, weekly collection drives, and community awareness campaigns. The plan is to partner with local NGOs for execution while involving residents directly to ensure long-term adoption.`
 
-A consumer goods company in Mumbai wants to improve sanitation in informal settlements near its factories. The proposed CSR project will introduce waste segregation points, weekly collection drives, and community awareness campaigns. The plan is to partner with local NGOs for execution while involving residents directly to ensure long-term adoption.
+`Goal:`
 
-Goal:
+`Develop a CSR proposal for waste management in urban slums.`
 
-Develop a CSR proposal for waste management in urban slums.
+`Prompt:`
 
-Prompt:
+`"You are an urban sanitation CSR consultant. Create a proposal for setting up a waste management system in Mumbai slums, including segregation point installation, regular collection services, community training workshops, and waste-to-compost initiatives."`
 
-"You are an urban sanitation CSR consultant. Create a proposal for setting up a waste management system in Mumbai slums, including segregation point installation, regular collection services, community training workshops, and waste-to-compost initiatives."
-
-Inputs:
-
+`Inputs:
+```
 1. Number of households targeted
 
 2. CSR budget allocation
@@ -1615,23 +1615,23 @@ Inputs:
 3. Local NGO partners
 
 4. Waste processing options
+```
+## Prompt 18 – CSR for Afforestation in Mining-Affected Areas
 
-Prompt 18 – CSR for Afforestation in Mining-Affected Areas
+`Backstory:`
 
-Backstory:
+`A mining company in Odisha is mandated under CSR compliance to rehabilitate degraded land. The company wants to invest in large-scale afforestation projects using native plant species to restore biodiversity and stabilise the soil. They also want to involve local tribal communities for plantation and upkeep, providing them with sustainable livelihoods.`
 
-A mining company in Odisha is mandated under CSR compliance to rehabilitate degraded land. The company wants to invest in large-scale afforestation projects using native plant species to restore biodiversity and stabilise the soil. They also want to involve local tribal communities for plantation and upkeep, providing them with sustainable livelihoods.
+`Goal:`
 
-Goal:
+`Draft a CSR proposal for afforestation in mining-affected areas.`
 
-Draft a CSR proposal for afforestation in mining-affected areas.
+`Prompt:`
 
-Prompt:
+`"You are a land restoration CSR expert. Prepare a proposal for afforestation projects in Odisha’s mining-affected zones. Include native species selection, community engagement plans, soil rehabilitation techniques, and biodiversity monitoring."`
 
-"You are a land restoration CSR expert. Prepare a proposal for afforestation projects in Odisha’s mining-affected zones. Include native species selection, community engagement plans, soil rehabilitation techniques, and biodiversity monitoring."
-
-Inputs:
-
+`Inputs:`
+```
 1. Area (in hectares) for afforestation
 
 2. CSR budget allocation
@@ -1639,23 +1639,23 @@ Inputs:
 3. Native plant species list
 
 4. Project timeline
+```
+## Prompt 19 – CSR-Funded Public EV Charging Stations
 
-Prompt 19 – CSR-Funded Public EV Charging Stations
+`Backstory:`
 
-Backstory:
+`An automotive company in Gurugram wants to accelerate EV adoption by funding public charging infrastructure. The CSR project aims to install fast-charging stations in key locations like malls, metro stations, and public parking lots. The proposal should highlight environmental benefits, expected usage rates, and maintenance arrangements with local authorities.`
 
-An automotive company in Gurugram wants to accelerate EV adoption by funding public charging infrastructure. The CSR project aims to install fast-charging stations in key locations like malls, metro stations, and public parking lots. The proposal should highlight environmental benefits, expected usage rates, and maintenance arrangements with local authorities.
+`Goal:`
 
-Goal:
+`Create a CSR proposal for public EV charging station installation.`
 
-Create a CSR proposal for public EV charging station installation.
+`Prompt:`
 
-Prompt:
+`"You are a sustainable transport CSR consultant. Draft a proposal for installing public EV charging stations in Gurugram. Include site selection, technical specifications, projected usage, partnership models, and environmental impact metrics."`
 
-"You are a sustainable transport CSR consultant. Draft a proposal for installing public EV charging stations in Gurugram. Include site selection, technical specifications, projected usage, partnership models, and environmental impact metrics."
-
-Inputs:
-
+`Inputs:`
+```
 1. Number of charging stations
 
 2. CSR budget allocation
@@ -1663,23 +1663,23 @@ Inputs:
 3. Target installation locations
 
 4. Preferred technology partners
+```
+## Prompt 20 – CSR-Backed Eco-Tourism Development
 
-Prompt 20 – CSR-Backed Eco-Tourism Development
+`Backstory:`
 
-Backstory:
+`A travel company in Kerala wants to promote eco-tourism while benefiting local communities. Their CSR initiative involves developing eco-friendly homestays, guided nature trails, and cultural experiences in rural areas. The proposal should outline how the project will boost local incomes, preserve natural resources, and attract responsible travellers.`
 
-A travel company in Kerala wants to promote eco-tourism while benefiting local communities. Their CSR initiative involves developing eco-friendly homestays, guided nature trails, and cultural experiences in rural areas. The proposal should outline how the project will boost local incomes, preserve natural resources, and attract responsible travellers.
+`Goal:
 
-Goal:
+`Draft a CSR proposal for eco-tourism infrastructure and community training.`
 
-Draft a CSR proposal for eco-tourism infrastructure and community training.
+`Prompt:`
 
-Prompt:
+`"You are a rural tourism CSR strategist. Create a proposal for eco-tourism projects in Kerala, including infrastructure development, local guide training, waste management measures, and marketing plans."`
 
-"You are a rural tourism CSR strategist. Create a proposal for eco-tourism projects in Kerala, including infrastructure development, local guide training, waste management measures, and marketing plans."
-
-Inputs:
-
+`Inputs:
+```
 1. Target villages
 
 2. CSR budget allocation
@@ -1687,23 +1687,23 @@ Inputs:
 3. Type of eco-tourism activities planned
 
 4. Local partner organisations
+```
+## Prompt 21 – CSR for River Cleanup and Pollution Control
 
-Prompt 21 – CSR for River Cleanup and Pollution Control
+`Backstory:`
 
-Backstory:
+`An industrial conglomerate in Kanpur wants to improve its environmental footprint by funding river cleanup operations along the Ganga. The project will include waste removal, industrial effluent monitoring, and community-led pollution prevention drives. The CSR proposal should showcase measurable pollution reduction targets and sustainable maintenance plans.`
 
-An industrial conglomerate in Kanpur wants to improve its environmental footprint by funding river cleanup operations along the Ganga. The project will include waste removal, industrial effluent monitoring, and community-led pollution prevention drives. The CSR proposal should showcase measurable pollution reduction targets and sustainable maintenance plans.
+`Goal:`
 
-Goal:
+`Prepare a CSR project proposal for river cleanup and pollution prevention.`
 
-Prepare a CSR project proposal for river cleanup and pollution prevention.
+`Prompt:`
 
-Prompt:
+`"You are a water quality CSR consultant. Draft a proposal for Ganga river cleanup in Kanpur. Include waste removal logistics, pollution source monitoring, community awareness campaigns, and partnerships with environmental agencies."`
 
-"You are a water quality CSR consultant. Draft a proposal for Ganga river cleanup in Kanpur. Include waste removal logistics, pollution source monitoring, community awareness campaigns, and partnerships with environmental agencies."
-
-Inputs:
-
+`Inputs:`
+```
 1. Target stretch length (km)
 
 2. CSR budget allocation
@@ -1711,23 +1711,23 @@ Inputs:
 3. Local NGO/government partners
 
 4. Project duration
+```
+## Prompt 22 – CSR for Sustainable Agriculture Practices
 
-Prompt 22 – CSR for Sustainable Agriculture Practices
+`Backstory:`
 
-Backstory:
+`An agri-tech company in Indore wants to promote sustainable farming through its CSR budget. The idea is to train small farmers in organic farming techniques, water-efficient irrigation, and natural pest control. The proposal must outline training modules, demonstration farms, and potential yield improvements, with an emphasis on long-term soil health.`
 
-An agri-tech company in Indore wants to promote sustainable farming through its CSR budget. The idea is to train small farmers in organic farming techniques, water-efficient irrigation, and natural pest control. The proposal must outline training modules, demonstration farms, and potential yield improvements, with an emphasis on long-term soil health.
+`Goal:`
 
-Goal:
+`Draft a CSR proposal for promoting sustainable agriculture.`
 
-Draft a CSR proposal for promoting sustainable agriculture.
+`Prompt:`
 
-Prompt:
+`"You are an agricultural CSR planner. Create a proposal for training farmers in sustainable agriculture practices in Madhya Pradesh. Include training schedules, demonstration plot designs, input support packages, and yield tracking systems."`
 
-"You are an agricultural CSR planner. Create a proposal for training farmers in sustainable agriculture practices in Madhya Pradesh. Include training schedules, demonstration plot designs, input support packages, and yield tracking systems."
-
-Inputs:
-
+`Inputs:``
+```
 1. Number of farmers targeted
 
 2. CSR budget allocation
@@ -1735,23 +1735,23 @@ Inputs:
 3. Preferred training partners
 
 4. Crops under focus
+```
+## Prompt 23 – CSR-Backed Green Campus Transformation
 
-Prompt 23 – CSR-Backed Green Campus Transformation
+`Backstory:`
 
-Backstory:
+`A cement manufacturing company in Chhattisgarh wants to help local colleges reduce their carbon footprint. The CSR project will involve installing solar power, rainwater harvesting, composting pits, and green landscaping on campuses. The proposal should provide a clear roadmap for achieving a “green campus” certification within two years.`
 
-A cement manufacturing company in Chhattisgarh wants to help local colleges reduce their carbon footprint. The CSR project will involve installing solar power, rainwater harvesting, composting pits, and green landscaping on campuses. The proposal should provide a clear roadmap for achieving a “green campus” certification within two years.
+`Goal:`
 
-Goal:
+`Create a CSR proposal for transforming college campuses into green campuses.`
 
-Create a CSR proposal for transforming college campuses into green campuses.
+`Prompt:`
 
-Prompt:
+`"You are an educational infrastructure CSR expert. Draft a proposal for green campus transformation in Chhattisgarh colleges. Include renewable energy installations, water conservation measures, waste management systems, and student engagement programs."`
 
-"You are an educational infrastructure CSR expert. Draft a proposal for green campus transformation in Chhattisgarh colleges. Include renewable energy installations, water conservation measures, waste management systems, and student engagement programs."
-
-Inputs:
-
+`Inputs:`
+```
 1. Number of campuses
 
 2. CSR budget allocation
@@ -1759,23 +1759,23 @@ Inputs:
 3. Implementation partners
 
 4. Certification standards to follow
+```
+## Prompt 24 – CSR for Wildlife Corridor Restoration
 
-Prompt 24 – CSR for Wildlife Corridor Restoration
+`Backstory:`
 
-Backstory:
+`An infrastructure company in Assam is exploring CSR projects that support biodiversity. They are considering restoring wildlife corridors that connect fragmented habitats for elephants and other large mammals. The proposal must detail land acquisition or community agreements, habitat restoration methods, and wildlife monitoring systems.`
 
-An infrastructure company in Assam is exploring CSR projects that support biodiversity. They are considering restoring wildlife corridors that connect fragmented habitats for elephants and other large mammals. The proposal must detail land acquisition or community agreements, habitat restoration methods, and wildlife monitoring systems.
+`Goal:`
 
-Goal:
+`Draft a CSR proposal for restoring wildlife corridors in Assam.`
 
-Draft a CSR proposal for restoring wildlife corridors in Assam.
+`Prompt:`
 
-Prompt:
+`"You are a wildlife conservation CSR planner. Create a proposal for restoring elephant corridors in Assam. Include mapping, habitat restoration activities, conflict mitigation with local communities, and biodiversity tracking methods."`
 
-"You are a wildlife conservation CSR planner. Create a proposal for restoring elephant corridors in Assam. Include mapping, habitat restoration activities, conflict mitigation with local communities, and biodiversity tracking methods."
-
-Inputs:
-
+`Inputs:`
+```
 1. Corridor length and location
 
 2. CSR budget allocation
@@ -1783,23 +1783,23 @@ Inputs:
 3. Implementation partners
 
 4. Target wildlife species
+```
+## Prompt 25 – CSR for Green Public Parks in Urban Areas
 
-Prompt 25 – CSR for Green Public Parks in Urban Areas
+`Backstory:`
 
-Backstory:
+`A bank headquartered in Delhi wants to invest its CSR funds into developing green public spaces for urban residents. The idea is to transform neglected open areas into landscaped parks with native trees, walking tracks, and waste management facilities. The proposal should also integrate community ownership models to ensure upkeep.`
 
-A bank headquartered in Delhi wants to invest its CSR funds into developing green public spaces for urban residents. The idea is to transform neglected open areas into landscaped parks with native trees, walking tracks, and waste management facilities. The proposal should also integrate community ownership models to ensure upkeep.
+`Goal:`
 
-Goal:
+`Create a CSR proposal for urban public park development.`
 
-Create a CSR proposal for urban public park development.
+`Prompt:`
 
-Prompt:
+`"You are an urban landscape CSR consultant. Draft a proposal for developing green public parks in Delhi. Include design layouts, plant selection, waste management plans, community engagement strategies, and annual maintenance budgeting."`
 
-"You are an urban landscape CSR consultant. Draft a proposal for developing green public parks in Delhi. Include design layouts, plant selection, waste management plans, community engagement strategies, and annual maintenance budgeting."
-
-Inputs:
-
+`Inputs:`
+```
 1. Number of parks targeted
 
 2. CSR budget allocation
@@ -1807,26 +1807,26 @@ Inputs:
 3. Average size of each park
 
 4. Local authority partners
+```
 
+# Renewable energy adoption guides
 
-Renewable energy adoption guides
+## Prompt 1 – Solar Rooftop Adoption for Residential Societies
 
-Prompt 1 – Solar Rooftop Adoption for Residential Societies
+`Backstory:`
 
-Backstory:
+`A premium apartment complex in Gurugram with 300 flats is struggling with high monthly electricity bills, especially for common area lighting, lifts, and water pumps. The residents are environmentally conscious but hesitant about the upfront costs of solar. The society’s management committee wants a comprehensive guide that explains solar rooftop installation benefits, ROI timelines, subsidy options under MNRE schemes, and vendor selection tips. They also want clarity on legal approvals and maintenance requirements to make an informed decision.`
 
-A premium apartment complex in Gurugram with 300 flats is struggling with high monthly electricity bills, especially for common area lighting, lifts, and water pumps. The residents are environmentally conscious but hesitant about the upfront costs of solar. The society’s management committee wants a comprehensive guide that explains solar rooftop installation benefits, ROI timelines, subsidy options under MNRE schemes, and vendor selection tips. They also want clarity on legal approvals and maintenance requirements to make an informed decision.
+`Goal:`
 
-Goal:
+`Create a step-by-step solar rooftop adoption guide for a large residential society.`
 
-Create a step-by-step solar rooftop adoption guide for a large residential society.
+`Prompt:
 
-Prompt:
+`"You are a renewable energy consultant. Develop a comprehensive solar rooftop adoption guide for a 300-flat housing society in Gurugram. Include cost-benefit analysis, government subsidy details, vendor evaluation checklists, legal compliance steps, and maintenance best practices."`
 
-"You are a renewable energy consultant. Develop a comprehensive solar rooftop adoption guide for a 300-flat housing society in Gurugram. Include cost-benefit analysis, government subsidy details, vendor evaluation checklists, legal compliance steps, and maintenance best practices."
-
-Inputs:
-
+`Inputs:`
+```
 1. Number of flats
 
 2. Average monthly electricity consumption
@@ -1834,8 +1834,8 @@ Inputs:
 3. Roof space available
 
 4. Budget for installation
-
-Prompt 2 – Solar Water Heater Adoption for Small Hotels
+```
+## Prompt 2 – Solar Water Heater Adoption for Small Hotels
 
 Backstory:
 
