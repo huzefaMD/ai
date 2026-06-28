@@ -2156,20 +2156,20 @@ Keep it concise but decision-oriented."*`
 
 4. Funding runway and investor expectations
 ```
-Prompt 11 – Customer Service & Product Team Misalignment
+## Prompt 11 – Customer Service & Product Team Misalignment
 
-Backstory:
+`Backstory:`
 
-At a consumer electronics company in Noida, the customer service team blames the product team for frequent issues, while the product team accuses customer service of poor troubleshooting. The constant blame-shifting has resulted in delayed issue resolution and frustrated customers.
+`At a consumer electronics company in Noida, the customer service team blames the product team for frequent issues, while the product team accuses customer service of poor troubleshooting. The constant blame-shifting has resulted in delayed issue resolution and frustrated customers.`
 
-Goal:
+`Goal:`
 
-Draft a resolution script that improves collaboration and establishes clear roles between the two teams.
+`Draft a resolution script that improves collaboration and establishes clear roles between the two teams.`
 
-Prompt:
+`Prompt:`
 
-"You are a cross-functional problem-solving facilitator. Draft a script for a joint meeting between customer service and product teams to address recurring customer issue disputes. Include: 
-
+`"You are a cross-functional problem-solving facilitator. Draft a script for a joint meeting between customer service and product teams to address recurring customer issue disputes. Include:` 
+```
 1. Shared Objective Reminder – Reinforce that customer satisfaction is the joint priority. 
 
 2. Issue Mapping – Each team shares recurring challenges they face. 
@@ -2181,11 +2181,11 @@ Prompt:
 5. Feedback Loop Setup – Establish regular review meetings. 
 
 6. Positive Closure – End with commitments from both sides to collaborate better.
+```
+`Include phrasing that keeps focus on solving customer problems, not assigning blame."`
 
-Include phrasing that keeps focus on solving customer problems, not assigning blame."
-
-Inputs: 
-
+`Inputs: `
+```
 1. Examples of recent disputes 
 
 2. Current escalation process 
@@ -2193,21 +2193,21 @@ Inputs:
 3. Customer satisfaction metrics 
 
 4. Team performance reports
+```
+## Prompt 12 – Conflict Over Meeting Schedules
 
-Prompt 12 – Conflict Over Meeting Schedules
+`Backstory:`
 
-Backstory:
+`A project team in Kochi has members working across multiple time zones. A 27-year-old team member feels excluded because most meetings are scheduled late at night in their time zone. The project manager argues the schedule is optimal for the majority. Frustration is building, with the team member threatening to step back from the project.`
 
-A project team in Kochi has members working across multiple time zones. A 27-year-old team member feels excluded because most meetings are scheduled late at night in their time zone. The project manager argues the schedule is optimal for the majority. Frustration is building, with the team member threatening to step back from the project.
+`Goal:`
 
-Goal:
+`Create a resolution script to find an equitable meeting schedule that accommodates time zones fairly.`
 
-Create a resolution script to find an equitable meeting schedule that accommodates time zones fairly.
+`Prompt:`
 
-Prompt:
-
-"You are a global team meeting facilitator. Draft a resolution script for addressing time zone meeting conflicts. Include:
-
+`"You are a global team meeting facilitator. Draft a resolution script for addressing time zone meeting conflicts. Include:`
+```
 1. Opening & Acknowledgment – Recognize the challenge of multiple time zones.
 
 2. Current Schedule Review – Assess meeting times and attendance data.
@@ -2219,11 +2219,11 @@ Prompt:
 5. Documentation – Record the new schedule and agreement.
 
 6. Follow-Up Check – Review after 1 month to assess effectiveness.
+```
+`Include inclusive phrasing that makes all members feel valued."`
 
-Include inclusive phrasing that makes all members feel valued."
-
-Inputs:
-
+`Inputs:`
+```
 1. Current meeting schedule
 
 2. Team members’ time zones
@@ -2231,21 +2231,21 @@ Inputs:
 3. Project urgency level
 
 4. Company policy on global team scheduling
+```
+## Prompt 13 – Disagreement Between HR and Department Heads on Hiring Needs
 
-Prompt 13 – Disagreement Between HR and Department Heads on Hiring Needs
+`Backstory:`
 
-Backstory:
+`In a Kolkata manufacturing firm, HR wants to slow down hiring to manage costs, while department heads argue that understaffing is hurting productivity. The standoff is delaying recruitment decisions and increasing stress on existing employees.`
 
-In a Kolkata manufacturing firm, HR wants to slow down hiring to manage costs, while department heads argue that understaffing is hurting productivity. The standoff is delaying recruitment decisions and increasing stress on existing employees.
+`Goal:`
 
-Goal:
+`Draft a resolution script that balances cost control with operational efficiency.`
 
-Draft a resolution script that balances cost control with operational efficiency.
+`Prompt:`
 
-Prompt:
-
-"You are a workforce planning mediator. Draft a script for resolving a hiring needs dispute between HR and department heads. Include:
-
+`"You are a workforce planning mediator. Draft a script for resolving a hiring needs dispute between HR and department heads. Include:`
+```
 1. Opening & Context – Acknowledge both cost concerns and workload issues.
 
 2. Data Presentation – Each side presents relevant data (costs vs. output loss).
@@ -2257,11 +2257,11 @@ Prompt:
 5. Final Agreement – Document the hiring plan.
 
 6. Review Mechanism – Assess progress after the first hires are made.
+```
+`Include language that reinforces shared company goals."`
 
-Include language that reinforces shared company goals."
-
-Inputs:
-
+`Inputs:`
+```
 1. Current staffing levels
 
 2. Cost of unfilled positions
@@ -2269,21 +2269,21 @@ Inputs:
 3. Productivity data
 
 4. Budget constraints
+```
+## Prompt 14 – Conflict Over Creative Direction in a Marketing Campaign
 
-Prompt 14 – Conflict Over Creative Direction in a Marketing Campaign
+`Backstory:`
 
-Backstory:
+`In a Delhi-based fashion brand, the marketing head and creative director disagree over the campaign theme for the upcoming season. The marketing head wants a mass-market appeal, while the creative director wants an artistic, niche approach. The launch date is near, and delays are becoming costly.`
 
-In a Delhi-based fashion brand, the marketing head and creative director disagree over the campaign theme for the upcoming season. The marketing head wants a mass-market appeal, while the creative director wants an artistic, niche approach. The launch date is near, and delays are becoming costly.
+`Goal:`
 
-Goal:
+`Create a resolution script that aligns creative and business priorities.`
 
-Create a resolution script that aligns creative and business priorities.
+`Prompt:`
 
-Prompt:
-
-"You are a creative-business alignment coach. Draft a conflict resolution script for a marketing vs. creative team dispute. Include:
-
+`"You are a creative-business alignment coach. Draft a conflict resolution script for a marketing vs. creative team dispute. Include:`
+```
 1. Opening & Project Goal Reminder – Restate campaign objectives.
 
 2. Creative Vision Presentation – Let the creative director explain their approach.
@@ -2295,11 +2295,11 @@ Prompt:
 5. Decision Confirmation – Agree on the final direction.
 
 6. Execution Plan – Define next steps to meet deadlines.
+```
+`Use language that validates both artistic and commercial priorities."`
 
-Use language that validates both artistic and commercial priorities."
-
-Inputs:
-
+`Inputs:`
+```
 1. Campaign objectives
 
 2. Market research data
@@ -2307,21 +2307,21 @@ Inputs:
 3. Brand positioning
 
 4. Timeline for launch
+```
+## Prompt 15 – Dispute Over Performance Metrics
 
-Prompt 15 – Dispute Over Performance Metrics
+`Backstory:`
 
-Backstory:
+`At a logistics firm in Ahmedabad, the operations team feels the performance metrics set by the management are unrealistic and demotivating. Management insists the targets are achievable based on industry benchmarks. The disagreement has led to a drop in morale and growing friction.`
 
-At a logistics firm in Ahmedabad, the operations team feels the performance metrics set by the management are unrealistic and demotivating. Management insists the targets are achievable based on industry benchmarks. The disagreement has led to a drop in morale and growing friction.
+`Goal:`
 
-Goal:
+`Draft a resolution script to reassess and agree on performance metrics that are both ambitious and fair.`
 
-Draft a resolution script to reassess and agree on performance metrics that are both ambitious and fair.
+`Prompt:`
 
-Prompt:
-
-"You are a performance management facilitator. Draft a mediation script for resolving disputes over performance metrics. Include:
-
+`"You are a performance management facilitator. Draft a mediation script for resolving disputes over performance metrics. Include:`
+```
 1. Opening & Objective Setting – Clarify the aim is to ensure metrics drive motivation, not frustration.
 
 2. Current Metrics Review – Present the existing targets and results.
@@ -2333,11 +2333,11 @@ Prompt:
 5. Metric Adjustment – Agree on revised, realistic targets.
 
 6. Monitoring Plan – Review results after 1 quarter.
+```
+`Include non-blaming language to keep discussion constructive."`
 
-Include non-blaming language to keep discussion constructive."
-
-Inputs:
-
+`Inputs:`
+```
 1. Current performance metrics
 
 2. Past achievement data
@@ -2345,21 +2345,21 @@ Inputs:
 3. Industry benchmarks
 
 4. Employee workload levels
+```
+## Prompt 16 – Conflict Over Remote Work vs. Office Attendance
 
-Prompt 16 – Conflict Over Remote Work vs. Office Attendance
+`Backstory:`
 
-Backstory:
+`A Mumbai fintech startup implemented a hybrid work policy, but one team wants to work fully remotely, citing productivity and commute savings. The leadership insists on at least three days in the office for better collaboration. Frustrations are rising, with threats of resignation from some employees.`
 
-A Mumbai fintech startup implemented a hybrid work policy, but one team wants to work fully remotely, citing productivity and commute savings. The leadership insists on at least three days in the office for better collaboration. Frustrations are rising, with threats of resignation from some employees.
+`Goal:`
 
-Goal:
+`Draft a resolution script that balances flexibility with team cohesion.`
 
-Draft a resolution script that balances flexibility with team cohesion.
+`Prompt:`
 
-Prompt:
-
-"You are a workplace flexibility mediator. Draft a resolution script for addressing disputes over remote work vs. office attendance. Include:
-
+`"You are a workplace flexibility mediator. Draft a resolution script for addressing disputes over remote work vs. office attendance. Include:`
+```
 1. Opening & Context – Recognize both the need for collaboration and flexibility.
 
 2. Productivity Data Review – Present actual performance metrics from remote vs. office work.
@@ -2371,11 +2371,11 @@ Prompt:
 5. Accountability Measures – Define KPIs for the trial.
 
 6. Follow-Up – Review after 6 weeks to make a final decision.
+```
+`Use phrasing that frames the solution as a shared experiment, not a mandate."`
 
-Use phrasing that frames the solution as a shared experiment, not a mandate."
-
-Inputs:
-
+`Inputs:`
+```
 1. Productivity data
 
 2. Current hybrid policy details
@@ -2383,21 +2383,21 @@ Inputs:
 3. Employee commute times
 
 4. Project collaboration needs
+```
+## Prompt 17 – Disagreement Between Finance and Operations Over Expense Approvals
 
-Prompt 17 – Disagreement Between Finance and Operations Over Expense Approvals
+`Backstory:`
 
-Backstory:
+`In a Chennai manufacturing firm, finance insists on strict pre-approval for all expenses, while operations complains that delays in approvals disrupt urgent purchases. The tension is slowing down projects and creating mutual resentment.`
 
-In a Chennai manufacturing firm, finance insists on strict pre-approval for all expenses, while operations complains that delays in approvals disrupt urgent purchases. The tension is slowing down projects and creating mutual resentment.
+`Goal:`
 
-Goal:
+`Create a script to streamline approvals without compromising financial control.`
 
-Create a script to streamline approvals without compromising financial control.
+`Prompt:`
 
-Prompt:
-
-"You are a process efficiency coach. Draft a conflict resolution script for finance and operations over expense approval delays. Include:
-
+`"You are a process efficiency coach. Draft a conflict resolution script for finance and operations over expense approval delays. Include:`
+```
 1. Opening & Objective – Emphasize balancing speed with accountability.
 
 2. Pain Point Sharing – Let operations explain delays caused by current rules.
@@ -2409,11 +2409,11 @@ Prompt:
 5. Clear Guidelines – Define what qualifies as urgent.
 
 6. Review Plan – Audit the new process after 1 month.
+```
+`Include collaborative language that highlights joint ownership of the solution."`
 
-Include collaborative language that highlights joint ownership of the solution."
-
-Inputs:
-
+`Inputs:`
+```
 1. Current approval workflow
 
 2. Number of urgent purchases per month
@@ -2421,21 +2421,21 @@ Inputs:
 3. Risks identified by finance
 
 4. Cost implications of delays
+```
+## Prompt 18 – Conflict Over Role Overlap Between Departments
 
-Prompt 18 – Conflict Over Role Overlap Between Departments
+`Backstory:`
 
-Backstory:
+`In a Hyderabad-based BPO, the sales and account management teams are clashing over client communication responsibilities. Both teams sometimes duplicate efforts or contradict each other in client calls, confusing customers.`
 
-In a Hyderabad-based BPO, the sales and account management teams are clashing over client communication responsibilities. Both teams sometimes duplicate efforts or contradict each other in client calls, confusing customers.
+`Goal:`
 
-Goal:
+`Draft a resolution script to clearly define roles and prevent overlap.`
 
-Draft a resolution script to clearly define roles and prevent overlap.
+`Prompt:`
 
-Prompt:
-
-"You are an organizational role clarity consultant. Draft a resolution script for overlapping responsibilities between two teams. Include:
-
+`"You are an organizational role clarity consultant. Draft a resolution script for overlapping responsibilities between two teams. Include:`
+```
 1. Opening & Acknowledgment – Appreciate both teams’ client dedication.
 
 2. Overlap Identification – Map areas where responsibilities clash.
@@ -2447,11 +2447,11 @@ Prompt:
 5. Documentation – Create a shared playbook.
 
 6. Follow-Up – Review after 1 month for smoothness.
+```
+`Use wording that keeps focus on improving client experience."`
 
-Use wording that keeps focus on improving client experience."
-
-Inputs:
-
+`Inputs:`
+```
 1. Current task lists of each team
 
 2. Client feedback data
@@ -2459,21 +2459,21 @@ Inputs:
 3. Frequency of duplicate communications
 
 4. Current reporting lines
+```
+## Prompt 19 – Dispute Over Bonus Allocation
 
-Prompt 19 – Dispute Over Bonus Allocation
+`Backstory:`
 
-Backstory:
+`In a Pune software firm, the product team believes bonuses should be tied to collective project success, while the sales team insists on individual sales performance. HR is stuck mediating the disagreement before the annual payout.`
 
-In a Pune software firm, the product team believes bonuses should be tied to collective project success, while the sales team insists on individual sales performance. HR is stuck mediating the disagreement before the annual payout.
+`Goal:`
 
-Goal:
+`Create a resolution script that establishes a fair, transparent bonus structure.`
 
-Create a resolution script that establishes a fair, transparent bonus structure.
+`Prompt:`
 
-Prompt:
-
-"You are a compensation strategy mediator. Draft a resolution script for conflicting views on bonus allocation. Include:
-
+`"You are a compensation strategy mediator. Draft a resolution script for conflicting views on bonus allocation. Include:`
+```
 1. Opening & Transparency – Outline the current bonus budget and constraints.
 
 2. Perspective Sharing – Let each team explain their preferred model.
@@ -2485,11 +2485,11 @@ Prompt:
 5. Agreement Documentation – Detail final criteria.
 
 6. Future Review – Reassess after one bonus cycle.
+```
+`Use language that frames the final decision as a balance of fairness and motivation."`
 
-Use language that frames the final decision as a balance of fairness and motivation."
-
-Inputs:
-
+`Inputs:`
+```
 1. Current bonus pool
 
 2. Historical payout data
@@ -2497,21 +2497,21 @@ Inputs:
 3. Performance metrics for each team
 
 4. Company profitability
+```
+## Prompt 20 – Disagreement Between Marketing and Legal Over Campaign Messaging
 
-Prompt 20 – Disagreement Between Marketing and Legal Over Campaign Messaging
+`Backstory:`
 
-Backstory:
+`A Delhi tech startup’s marketing team wants edgy, bold messaging for a product launch. The legal team warns some taglines may breach advertising regulations. The launch date is close, and both teams feel the other is being unreasonable.`
 
-A Delhi tech startup’s marketing team wants edgy, bold messaging for a product launch. The legal team warns some taglines may breach advertising regulations. The launch date is close, and both teams feel the other is being unreasonable.
+`Goal:`
 
-Goal:
+`Draft a resolution script to align creative ambition with legal compliance.`
 
-Draft a resolution script to align creative ambition with legal compliance.
+`Prompt:`
 
-Prompt:
-
-"You are a compliance-creative alignment coach. Draft a resolution script for marketing and legal over ad campaign messaging. Include:
-
+`"You are a compliance-creative alignment coach. Draft a resolution script for marketing and legal over ad campaign messaging. Include:`
+```
 1. Opening & Goal – Launch a successful yet compliant campaign.
 
 2. Risk Presentation – Legal shares potential violations with examples.
@@ -2523,11 +2523,11 @@ Prompt:
 5. Final Approval Process – Decide how final slogans get greenlit.
 
 6. Documentation – Record compliant messaging guidelines.
+```
+`Use language that respects both creativity and risk management."`
 
-Use language that respects both creativity and risk management."
-
-Inputs:
-
+`Inputs:`
+```
 1. Campaign slogans proposed
 
 2. Regulatory guidelines
@@ -2535,21 +2535,21 @@ Inputs:
 3. Competitor messaging examples
 
 4. Timeline to launch
+```
+## Prompt 21 – Conflict Over Team Workload Distribution
 
-Prompt 21 – Conflict Over Team Workload Distribution
+`Backstory:`
 
-Backstory:
+`In a Lucknow digital agency, some team members feel overburdened while others are perceived as underutilized. Resentment is growing, and deadlines are slipping because work is unevenly allocated.`
 
-In a Lucknow digital agency, some team members feel overburdened while others are perceived as underutilized. Resentment is growing, and deadlines are slipping because work is unevenly allocated.
+`Goal:`
 
-Goal:
+`Create a script to re-balance workloads fairly.`
 
-Create a script to re-balance workloads fairly.
+`Prompt:`
 
-Prompt:
-
-"You are a workload balancing facilitator. Draft a resolution script for redistributing tasks in a team. Include:
-
+`"You are a workload balancing facilitator. Draft a resolution script for redistributing tasks in a team. Include:`
+```
 1. Opening & Purpose – Clarify the aim is fairness, not criticism.
 
 2. Workload Mapping – Present current distribution of tasks.
@@ -2561,11 +2561,11 @@ Prompt:
 5. Monitoring – Track progress for 2 weeks.
 
 6. Feedback Round – Reassess after trial.
+```
+`Use inclusive wording to avoid singling out individuals."`
 
-Use inclusive wording to avoid singling out individuals."
-
-Inputs:
-
+`Inputs:`
+```
 1. Task allocation chart
 
 2. Project deadlines
@@ -2573,7 +2573,7 @@ Inputs:
 3. Skills and availability of each member
 
 4. Productivity reports
-
+```
 Prompt 22 – Disagreement Over Tool Adoption
 
 Backstory:
