@@ -1427,7 +1427,7 @@ Create a simulation exercise that improves prioritization and time management sk
 
 `"You are a Design Thinking facilitator. Draft a 1-day workshop content template including: session objectives, icebreaker activities, Design Thinking framework introduction (Empathize, Define, Ideate, Prototype, Test), group brainstorming activities, rapid prototyping sessions, and feedback presentations. Include instructions for facilitators, timing for each activity, required materials, and tips for encouraging creative participation." Inputs Required from User: Target product or problem statement Number of participants and their roles Available workshop space and equipment Desired outcome (concept sketches, prototypes, etc.)`
 
-# Leadership Communication Skills Workshop (2-Day Format)
+## Leadership Communication Skills Workshop (2-Day Format)
 
 `Backstory:`
 
@@ -1441,7 +1441,7 @@ Create a simulation exercise that improves prioritization and time management sk
 
 `"You are a corporate communication trainer. Create a 2-day workshop content template covering: effective business storytelling, active listening techniques, delivering difficult feedback, non-verbal cues in leadership, structuring impactful emails & reports, and cross-cultural communication tips. Include role-play scenarios, group discussion prompts, communication exercises, and self-assessment tools." Inputs Required from User: Participant job roles Common communication challenges in the organization Languages used internally and with clients Industry-specific communication examples`
 
-# Data Analytics for Non-Technical Managers Workshop (1.5-Day Format)
+## Data Analytics for Non-Technical Managers Workshop (1.5-Day Format)
 
 `Backstory:`
 
@@ -1469,7 +1469,7 @@ Create a simulation exercise that improves prioritization and time management sk
 
 `"You are a workplace conflict resolution coach. Design a half-day workshop template covering: identifying root causes of conflict, active listening for empathy, reframing statements to reduce tension, collaborative problem-solving, and agreeing on action plans. Include role-play exercises, de-escalation techniques, and facilitator-led feedback sessions." Inputs Required from User: Types of conflicts commonly seen Team size and department mix Whether conflicts are usually public or private Management’s stance on conflict resolution`
 
-# Financial Literacy Workshop for Early-Career Professionals (Full-Day Format)
+ ## Financial Literacy Workshop for Early-Career Professionals (Full-Day Format)
 
 `Backstory:`
 
