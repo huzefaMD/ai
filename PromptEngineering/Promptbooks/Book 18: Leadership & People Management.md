@@ -2574,20 +2574,20 @@ Keep it concise but decision-oriented."*`
 
 4. Productivity reports
 ```
-Prompt 22 – Disagreement Over Tool Adoption
+## Prompt 22 – Disagreement Over Tool Adoption
 
-Backstory:
+`Backstory:`
 
-An Ahmedabad consulting firm’s IT team wants to roll out a new project management tool. The delivery teams resist, citing learning curve and disruption. The standoff is delaying implementation.
+`An Ahmedabad consulting firm’s IT team wants to roll out a new project management tool. The delivery teams resist, citing learning curve and disruption. The standoff is delaying implementation.`
 
-Goal:
+`Goal:`
 
-Draft a script to resolve resistance and agree on tool adoption.
+`Draft a script to resolve resistance and agree on tool adoption.`
 
-Prompt:
+`Prompt:`
 
-"You are a change management facilitator. Draft a resolution script for adopting new tools. Include:
-
+`"You are a change management facilitator. Draft a resolution script for adopting new tools. Include:`
+```
 1. Opening & Vision – Explain why the tool is being considered.
 
 2. Concerns Sharing – Let delivery teams list worries.
@@ -2599,11 +2599,11 @@ Prompt:
 5. Support Structure – Assign tool champions.
 
 6. Review – Assess after pilot run.
+```
+`Use wording that emphasizes collaboration and shared benefit."`
 
-Use wording that emphasizes collaboration and shared benefit."
-
-Inputs:
-
+`Inputs:`
+```
 1. Tool features
 
 2. Current pain points in project management
@@ -2611,21 +2611,21 @@ Inputs:
 3. Training resources available
 
 4. Project timelines
+```
+## Prompt 23 – Conflict Between Manager and HR Over Disciplinary Action
 
-Prompt 23 – Conflict Between Manager and HR Over Disciplinary Action
+`Backstory:`
 
-Backstory:
+`In a Jaipur hospitality company, a manager wants to fire an underperforming employee immediately, while HR insists on following a formal improvement process. The disagreement is delaying action and frustrating both sides.`
 
-In a Jaipur hospitality company, a manager wants to fire an underperforming employee immediately, while HR insists on following a formal improvement process. The disagreement is delaying action and frustrating both sides.
+`Goal:`
 
-Goal:
+`Draft a resolution script that ensures due process while addressing performance issues.`
 
-Draft a resolution script that ensures due process while addressing performance issues.
+`Prompt:`
 
-Prompt:
-
-"You are an HR-policy mediator. Draft a conflict resolution script for disputes over disciplinary action. Include:
-
+`"You are an HR-policy mediator. Draft a conflict resolution script for disputes over disciplinary action. Include:`
+```
 1. Opening & Policy Reminder – State legal and policy requirements.
 
 2. Case Review – Manager explains reasons for immediate action.
@@ -2637,11 +2637,11 @@ Prompt:
 5. Documentation – Record agreed timeline.
 
 6. Follow-Up – Review progress after agreed period.
+```
+`Use respectful language to keep focus on fairness."`
 
-Use respectful language to keep focus on fairness."
-
-Inputs:
-
+`Inputs:`
+```
 1. Employee performance records
 
 2. HR policy documents
@@ -2649,21 +2649,21 @@ Inputs:
 3. Legal requirements
 
 4. Manager’s specific concerns
+```
+## Prompt 24 – Conflict Over Leadership Style
 
-Prompt 24 – Conflict Over Leadership Style
+`Backstory:`
 
-Backstory:
+`At a Coimbatore IT firm, a new department head’s direct, results-driven style is clashing with a team used to a more collaborative, nurturing leader. Misunderstandings and resignations are becoming a risk.`
 
-At a Coimbatore IT firm, a new department head’s direct, results-driven style is clashing with a team used to a more collaborative, nurturing leader. Misunderstandings and resignations are becoming a risk.
+`Goal:`
 
-Goal:
+`Create a script to bridge leadership style differences.`
 
-Create a script to bridge leadership style differences.
+`Prompt:`
 
-Prompt:
-
-"You are a leadership adaptation coach. Draft a resolution script for leadership style clashes. Include:
-
+`"You are a leadership adaptation coach. Draft a resolution script for leadership style clashes. Include:`
+```
 1. Opening & Alignment – Restate team and department goals.
 
 2. Leader’s Perspective – New head explains their approach.
@@ -2675,11 +2675,11 @@ Prompt:
 5. Trial Period – Implement adjustments for 1 month.
 
 6. Review Session – Gather feedback and adjust again.
+```
+`Use neutral language to avoid personal criticism."`
 
-Use neutral language to avoid personal criticism."
-
-Inputs:
-
+`Inputs:`
+```
 1. Team performance metrics
 
 2. Leader’s past leadership track record
@@ -2687,21 +2687,21 @@ Inputs:
 3. Team feedback surveys
 
 4. Current department objectives
+```
+## Prompt 25 – Inter-Generational Workplace Conflict
 
-Prompt 25 – Inter-Generational Workplace Conflict
+`Backstory:`
 
-Backstory:
+`In a Gurgaon design agency, younger employees prefer rapid experimentation, while older employees emphasize tried-and-tested methods. The cultural gap is creating frustration and slowing decision-making.`
 
-In a Gurgaon design agency, younger employees prefer rapid experimentation, while older employees emphasize tried-and-tested methods. The cultural gap is creating frustration and slowing decision-making.
+`Goal:`
 
-Goal:
+`Draft a resolution script to integrate innovative thinking with proven approaches.`
 
-Draft a resolution script to integrate innovative thinking with proven approaches.
+`Prompt:`
 
-Prompt:
-
-"You are a workplace culture integrator. Draft a resolution script for inter-generational team conflicts. Include:
-
+`"You are a workplace culture integrator. Draft a resolution script for inter-generational team conflicts. Include:`
+```
 1. Opening & Common Ground – Highlight shared passion for quality work.
 
 2. Perspective Exchange – Younger employees explain innovation benefits, seniors share risk concerns.
@@ -2713,11 +2713,11 @@ Prompt:
 5. Pilot Project – Test hybrid method on a small project.
 
 6. Review – Assess results and refine approach.
+```
+`Use language that values both tradition and innovation."`
 
-Use language that values both tradition and innovation."
-
-Inputs:
-
+`Inputs:`
+```
 1. Team demographics
 
 2. Recent project timelines
@@ -2725,24 +2725,24 @@ Inputs:
 3. Examples of past successes from both approaches
 
 4. Client feedback
+```
 
+# Employee Engagement Ideas
 
-Employee Engagement Ideas
+## Prompt 1 — Festival-Themed Virtual Engagement Plan
 
-Prompt 1 — Festival-Themed Virtual Engagement Plan
+`Backstory:`
 
-Backstory:
+`Priya, 29, leads a fully remote design team across India. The team members work from different cities and rarely meet in person, which has led to a feeling of disconnection. With Diwali approaching, Priya wants to organise a virtual engagement plan that celebrates the festival while boosting team bonding. She is looking for creative activities that combine fun, cultural connection, and light-hearted competition.`
 
-Priya, 29, leads a fully remote design team across India. The team members work from different cities and rarely meet in person, which has led to a feeling of disconnection. With Diwali approaching, Priya wants to organise a virtual engagement plan that celebrates the festival while boosting team bonding. She is looking for creative activities that combine fun, cultural connection, and light-hearted competition.
+`Goal:`
 
-Goal:
+`Create a detailed festival-themed virtual engagement plan that celebrates Diwali while fostering team spirit, inclusivity, and creativity in a remote setting.`
 
-Create a detailed festival-themed virtual engagement plan that celebrates Diwali while fostering team spirit, inclusivity, and creativity in a remote setting.
+`Prompt:`
 
-Prompt:
-
-"You are an HR culture strategist. Create a virtual Diwali engagement plan for a remote team of 15 people spread across India. Include:
-
+`"You are an HR culture strategist. Create a virtual Diwali engagement plan for a remote team of 15 people spread across India. Include:`
+```
 1. A themed activity schedule for 3 days.
 
 2. Games and ice-breakers inspired by Diwali traditions.
@@ -2750,11 +2750,11 @@ Prompt:
 3. A ‘cultural exchange’ segment for team members to share their local customs.
 
 4. A low-cost gift or recognition idea for each participant.
+```
+`Ensure inclusivity for all religions and dietary preferences. Provide step-by-step execution guidelines and a budget under ₹5,000."`
 
-Ensure inclusivity for all religions and dietary preferences. Provide step-by-step execution guidelines and a budget under ₹5,000."
-
-Inputs:
-
+`Inputs:`
+```
 1. Number of team members
 
 2. Festival theme (Diwali, Holi, etc.)
@@ -2762,21 +2762,21 @@ Inputs:
 3. Budget limit
 
 4. Duration of celebration (in days)
+```
+## Prompt 2 — Wellness Week for a Corporate Office
 
-Prompt 2 — Wellness Week for a Corporate Office
+`Backstory:`
 
-Backstory:
+`Anil, 33, is an HR executive at a tech company in Bengaluru. Many employees have complained of burnout and back pain due to long hours of sitting. Management wants to address wellness in a way that’s fun, not preachy. Anil is tasked with organising a “Wellness Week” that includes both physical and mental health activities.`
 
-Anil, 33, is an HR executive at a tech company in Bengaluru. Many employees have complained of burnout and back pain due to long hours of sitting. Management wants to address wellness in a way that’s fun, not preachy. Anil is tasked with organising a “Wellness Week” that includes both physical and mental health activities.
+`Goal:`
 
-Goal:
+`Design a 5-day wellness engagement program that encourages employees to participate without feeling pressured, combining physical fitness, mindfulness, and nutrition.`
 
-Design a 5-day wellness engagement program that encourages employees to participate without feeling pressured, combining physical fitness, mindfulness, and nutrition.
+`Prompt:`
 
-Prompt:
-
-"You are a workplace wellness consultant. Create a ‘Wellness Week’ plan for 100 employees in a corporate office. The plan should include:
-
+`"You are a workplace wellness consultant. Create a ‘Wellness Week’ plan for 100 employees in a corporate office. The plan should include:`
+```
 1. Daily themed activities (e.g., Mindful Monday, Fitness Friday).
 
 2. Interactive workshops (yoga, posture correction, healthy snacking).
@@ -2784,11 +2784,11 @@ Prompt:
 3. Friendly competitions with small rewards.
 
 4. A feedback system to measure participation and impact.
+```
+`Keep the budget under ₹20,000 and suggest both in-person and virtual participation options."`
 
-Keep the budget under ₹20,000 and suggest both in-person and virtual participation options."
-
-Inputs:
-
+`Inputs:`
+```
 1. Number of employees
 
 2. Wellness focus areas (physical, mental, nutritional)
@@ -2796,21 +2796,21 @@ Inputs:
 3. Budget limit
 
 4. Hybrid or fully in-office
+```
+## Prompt 3 — Cross-Department Collaboration Challenge
 
-Prompt 3 — Cross-Department Collaboration Challenge
+`Backstory:`
 
-Backstory:
+`Meera, 27, recently joined as an engagement coordinator at a mid-sized FMCG company in Mumbai. She noticed that employees mostly interact within their own departments, which limits idea exchange and innovation. She wants to design a fun “Collaboration Challenge” that encourages employees from different teams to work together.`
 
-Meera, 27, recently joined as an engagement coordinator at a mid-sized FMCG company in Mumbai. She noticed that employees mostly interact within their own departments, which limits idea exchange and innovation. She wants to design a fun “Collaboration Challenge” that encourages employees from different teams to work together.
+`Goal:`
 
-Goal:
+`Develop a one-week cross-department collaboration program that fosters idea-sharing, creativity, and healthy competition.`
 
-Develop a one-week cross-department collaboration program that fosters idea-sharing, creativity, and healthy competition.
+`Prompt:`
 
-Prompt:
-
-"You are a corporate engagement specialist. Create a ‘Collaboration Challenge’ for 80 employees across 4 departments. The program should:
-
+`"You are a corporate engagement specialist. Create a ‘Collaboration Challenge’ for 80 employees across 4 departments. The program should:`
+```
 1. Assign mixed-department teams.
 
 2. Give them fun, innovation-based tasks (e.g., design a mock product, pitch a marketing campaign).
@@ -2818,11 +2818,11 @@ Prompt:
 3. Include a scoring system and panel of judges.
 
 4. End with a showcase and prize ceremony.
+```
+`Ensure the challenge builds long-term interdepartmental relationships."`
 
-Ensure the challenge builds long-term interdepartmental relationships."
-
-Inputs:
-
+`Inputs:`
+```
 1. Number of participants
 
 2. Departments involved
@@ -2830,21 +2830,21 @@ Inputs:
 3. Duration (days)
 
 4. Type of tasks (innovation, creative, social impact)
+```
+## Prompt 4 — Employee Birthday Celebration Calendar
 
-Prompt 4 — Employee Birthday Celebration Calendar
+`Backstory:`
 
-Backstory:
+`Karan, 31, works in HR at a start-up in Gurugram. Employees often forget each other’s birthdays due to hectic schedules, which misses opportunities for bonding. Karan wants a simple but memorable birthday engagement plan that makes each employee feel valued without spending much.`
 
-Karan, 31, works in HR at a start-up in Gurugram. Employees often forget each other’s birthdays due to hectic schedules, which misses opportunities for bonding. Karan wants a simple but memorable birthday engagement plan that makes each employee feel valued without spending much.
+`Goal:`
 
-Goal:
+`Create an annual employee birthday celebration plan that is budget-friendly and personalised.`
 
-Create an annual employee birthday celebration plan that is budget-friendly and personalised.
+`Prompt:`
 
-Prompt:
-
-"You are a workplace culture consultant. Design a 12-month employee birthday celebration calendar for a team of 50 people. Include:
-
+`"You are a workplace culture consultant. Design a 12-month employee birthday celebration calendar for a team of 50 people. Include:`
+```
 1. A system for tracking and announcing birthdays.
 
 2. Low-cost yet thoughtful celebration ideas.
@@ -2852,31 +2852,31 @@ Prompt:
 3. A virtual option for remote staff.
 
 4. A small personalised gift idea for each month.
+```
+`Budget: ₹500 per person annually."`
 
-Budget: ₹500 per person annually."
-
-Inputs:
-
+`Inputs:`
+```
 1. Number of employees
 
 2. Celebration style (in-person, hybrid, virtual)
 
 3. Budget per employee
+```
+## Prompt 5 — Gamified Learning Program
 
-Prompt 5 — Gamified Learning Program
+`Backstory:`
 
-Backstory:
+`Sonia, 28, is an L&D (Learning and Development) officer in a large IT company in Hyderabad. Many employees attend training sessions but forget most of the content after a few weeks. She wants to make learning fun by gamifying the process and offering rewards for consistent participation.`
 
-Sonia, 28, is an L&D (Learning and Development) officer in a large IT company in Hyderabad. Many employees attend training sessions but forget most of the content after a few weeks. She wants to make learning fun by gamifying the process and offering rewards for consistent participation.
+`Goal:`
 
-Goal:
+`Create a gamified corporate learning plan that encourages employees to actively participate and retain knowledge.`
 
-Create a gamified corporate learning plan that encourages employees to actively participate and retain knowledge.
+`Prompt:`
 
-Prompt:
-
-"You are a corporate learning designer. Create a gamified training program for 200 employees that:
-
+`"You are a corporate learning designer. Create a gamified training program for 200 employees that:`
+```
 1. Converts training modules into interactive challenges.
 
 2. Assigns points for participation and completion.
@@ -2884,11 +2884,11 @@ Prompt:
 3. Includes leaderboards, badges, and rewards.
 
 4. Offers a quarterly ‘Champion Learner’ award.
+```
+`Keep the platform accessible via mobile and desktop. Ensure the plan is engaging for employees aged 20–35."`
 
-Keep the platform accessible via mobile and desktop. Ensure the plan is engaging for employees aged 20–35."
-
-Inputs:
-
+`Inputs:`
+```
 1. Number of employees
 
 2. Training topics
@@ -2896,21 +2896,21 @@ Inputs:
 3. Duration of program
 
 4. Budget for rewards
+```
+## Prompt 6 — Office Décor Competition
 
-Prompt 6 — Office Décor Competition
+`Backstory:`
 
-Backstory:
+`Rahul, 30, works at a creative agency in Pune. The office environment has started to feel dull, with blank walls and outdated furniture. Rahul believes a lively, visually stimulating workspace can boost motivation. He wants to run an “Office Décor Competition” where teams can transform their work areas into inspiring zones.`
 
-Rahul, 30, works at a creative agency in Pune. The office environment has started to feel dull, with blank walls and outdated furniture. Rahul believes a lively, visually stimulating workspace can boost motivation. He wants to run an “Office Décor Competition” where teams can transform their work areas into inspiring zones.
+`Goal:`
 
-Goal:
+`Design a team-based office décor challenge that encourages creativity, collaboration, and pride in the workplace.`
 
-Design a team-based office décor challenge that encourages creativity, collaboration, and pride in the workplace.
+`Prompt:`
 
-Prompt:
-
-"You are a workplace engagement designer. Create an ‘Office Décor Competition’ plan for 60 employees divided into 6 teams. The plan should:
-
+`"You are a workplace engagement designer. Create an ‘Office Décor Competition’ plan for 60 employees divided into 6 teams. The plan should:`
+```
 1. Provide clear décor guidelines (budget, materials, safety rules).
 
 2. Have a theme (e.g., “Future of Work” or “Sustainable Spaces”).
@@ -2918,11 +2918,11 @@ Prompt:
 3. Include judging criteria for creativity, functionality, and teamwork.
 
 4. End with a reveal day and award ceremony.
+```
+`Ensure inclusivity for remote teams by allowing them to submit virtual workspace makeovers."`
 
-Ensure inclusivity for remote teams by allowing them to submit virtual workspace makeovers."
-
-Inputs:
-
+`Inputs:`
+```
 1. Number of teams
 
 2. Theme of decoration
@@ -2930,8 +2930,8 @@ Inputs:
 3. Budget per team
 
 4. Duration of competition
-
-Prompt 7 — ‘Lunch & Learn’ Knowledge Sharing
+```
+## Prompt 7 — ‘Lunch & Learn’ Knowledge Sharing
 
 Backstory:
 
