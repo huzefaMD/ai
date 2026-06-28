@@ -2933,18 +2933,18 @@ Keep it concise but decision-oriented."*`
 ```
 ## Prompt 7 — ‘Lunch & Learn’ Knowledge Sharing
 
-Backstory:
+`Backstory:`
 
-Shreya, 32, manages HR at a fintech company in Bengaluru. She wants employees to learn from each other’s skills without it feeling like another mandatory training. She envisions short, interactive lunch sessions where employees present topics they’re passionate about — from investing tips to photography.
+`Shreya, 32, manages HR at a fintech company in Bengaluru. She wants employees to learn from each other’s skills without it feeling like another mandatory training. She envisions short, interactive lunch sessions where employees present topics they’re passionate about — from investing tips to photography.`
 
-Goal:
+`Goal:`
 
-Create a monthly “Lunch & Learn” program that encourages peer-to-peer learning in a relaxed, social setting.
+`Create a monthly “Lunch & Learn” program that encourages peer-to-peer learning in a relaxed, social setting.`
 
-Prompt:
+`Prompt:`
 
-"You are a workplace learning consultant. Design a 12-month ‘Lunch & Learn’ plan for 40 employees. The program should:
-
+`"You are a workplace learning consultant. Design a 12-month ‘Lunch & Learn’ plan for 40 employees. The program should:`
+```
 1. Feature one volunteer speaker each month.
 
 2. Cover both professional skills and personal hobbies.
@@ -2952,11 +2952,11 @@ Prompt:
 3. Provide a lunch budget and snacks.
 
 4. Include a voting system for the most engaging session, with small rewards.
+```
+`Offer hybrid participation for remote employees."`
 
-Offer hybrid participation for remote employees."
-
-Inputs:
-
+`Inputs:`
+```
 1. Number of employees
 
 2. Budget for lunch per session
@@ -2964,21 +2964,21 @@ Inputs:
 3. Preferred session duration
 
 4. Topics allowed (work-only, or personal too)
+````
+## Prompt 8 — CSR Volunteering Day
 
-Prompt 8 — CSR Volunteering Day
+`Backstory:`
 
-Backstory:
+`Deepak, 34, is the CSR lead at a manufacturing company in Gujarat. He wants employees to feel more connected to the company’s values by participating in a hands-on volunteering day. His challenge is to make it enjoyable and impactful, rather than just another formality.`
 
-Deepak, 34, is the CSR lead at a manufacturing company in Gujarat. He wants employees to feel more connected to the company’s values by participating in a hands-on volunteering day. His challenge is to make it enjoyable and impactful, rather than just another formality.
+`Goal:`
 
-Goal:
+`Plan a corporate volunteering day that blends social impact with team bonding.`
 
-Plan a corporate volunteering day that blends social impact with team bonding.
+`Prompt:`
 
-Prompt:
-
-"You are a CSR engagement strategist. Create a 1-day corporate volunteering plan for 100 employees. The plan should:
-
+`"You are a CSR engagement strategist. Create a 1-day corporate volunteering plan for 100 employees. The plan should:`
+```
 1. Partner with local NGOs.
 
 2. Include team-based activities (tree plantation, skill workshops for underprivileged youth).
@@ -2988,9 +2988,9 @@ Prompt:
 4. End with a reflection session to discuss learnings.
 
 Ensure the plan aligns with the company’s sustainability goals."
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Number of volunteers
 
 2. Cause/theme of volunteering
@@ -2998,21 +2998,21 @@ Inputs:
 3. Location options
 
 4. Budget limit
+```
+## Prompt 9 — Monthly Recognition Wall
 
-Prompt 9 — Monthly Recognition Wall
+`Backstory:`
 
-Backstory:
+`Tanvi, 26, is an HR associate in a mid-size marketing firm in Delhi. While the company gives annual awards, she notices employees crave more frequent recognition. She wants a visible and interactive way to celebrate small wins every month.`
 
-Tanvi, 26, is an HR associate in a mid-size marketing firm in Delhi. While the company gives annual awards, she notices employees crave more frequent recognition. She wants a visible and interactive way to celebrate small wins every month.
+`Goal:`
 
-Goal:
+`Create a recognition system that is public, interactive, and ongoing throughout the year.`
 
-Create a recognition system that is public, interactive, and ongoing throughout the year.
+`Prompt:`
 
-Prompt:
-
-"You are a workplace culture consultant. Design a ‘Monthly Recognition Wall’ program for a company of 80 employees. The program should:
-
+`"You are a workplace culture consultant. Design a ‘Monthly Recognition Wall’ program for a company of 80 employees. The program should:`
+```
 1. Allow employees to nominate peers for contributions.
 
 2. Display nominations physically in the office and virtually for remote workers.
@@ -3020,11 +3020,11 @@ Prompt:
 3. Feature rotating monthly themes (e.g., Teamwork Star, Innovation Hero).
 
 4. Include a small monthly reward for top-voted employees.
+```
+`Keep it budget-friendly and easy to maintain."`
 
-Keep it budget-friendly and easy to maintain."
-
-Inputs:
-
+`Inputs:`
+```
 1. Number of employees
 
 2. Recognition categories
@@ -3032,21 +3032,21 @@ Inputs:
 3. Budget per month
 
 4. Display method (physical, digital, hybrid)
+```
+## Prompt 10 — Department Swap Day
 
-Prompt 10 — Department Swap Day
+`Backstory:`
 
-Backstory:
+`Amit, 29, works at a large logistics company in Mumbai. Employees often don’t understand what other departments do, leading to miscommunication. Amit wants to introduce a “Department Swap Day” where employees experience a different role for a few hours.`
 
-Amit, 29, works at a large logistics company in Mumbai. Employees often don’t understand what other departments do, leading to miscommunication. Amit wants to introduce a “Department Swap Day” where employees experience a different role for a few hours.
+`Goal:`
 
-Goal:
+`Encourage cross-functional understanding through a fun, role-swapping activity.`
 
-Encourage cross-functional understanding through a fun, role-swapping activity.
+`Prompt:`
 
-Prompt:
-
-"You are a team culture facilitator. Create a ‘Department Swap Day’ plan for 50 employees across 5 departments. The plan should:
-
+`"You are a team culture facilitator. Create a ‘Department Swap Day’ plan for 50 employees across 5 departments. The plan should:`
+```
 1. Match employees with complementary roles.
 
 2. Include a guided observation period and a task simulation.
@@ -3054,11 +3054,11 @@ Prompt:
 3. Allow a post-activity discussion to share learnings.
 
 4. Provide a participation certificate for everyone.
+```
+`Ensure no critical operations are disrupted."`
 
-Ensure no critical operations are disrupted."
-
-Inputs:
-
+`Inputs:`
+```
 1. Number of employees
 
 2. Departments involved
@@ -3066,21 +3066,21 @@ Inputs:
 3. Duration of swap
 
 4. Type of roles
+```
+## Prompt 11 — Innovation Pitch Day
 
-Prompt 11 — Innovation Pitch Day
+`Backstory:`
 
-Backstory:
+`Riya, 31, heads the innovation committee at a healthcare start-up in Chennai. She wants employees to feel empowered to share new ideas without fear of rejection. She decides to host a fun “Pitch Day” where anyone can present a business improvement idea.`
 
-Riya, 31, heads the innovation committee at a healthcare start-up in Chennai. She wants employees to feel empowered to share new ideas without fear of rejection. She decides to host a fun “Pitch Day” where anyone can present a business improvement idea.
+`Goal:`
 
-Goal:
+`Create a non-intimidating platform for employees to pitch creative ideas.`
 
-Create a non-intimidating platform for employees to pitch creative ideas.
+`Prompt:`
 
-Prompt:
-
-"You are a workplace innovation coach. Design a quarterly ‘Innovation Pitch Day’ for 70 employees. The plan should:
-
+`"You are a workplace innovation coach. Design a quarterly ‘Innovation Pitch Day’ for 70 employees. The plan should:`
+```
 1. Provide idea submission guidelines.
 
 2. Offer a short presentation slot for each participant.
@@ -3088,11 +3088,11 @@ Prompt:
 3. Use a friendly voting system with small prizes.
 
 4. Commit to implementing at least one winning idea each quarter.
+```
+`Keep it casual, inspiring, and supportive."`
 
-Keep it casual, inspiring, and supportive."
-
-Inputs:
-
+`Inputs:`
+```
 1. Number of participants
 
 2. Type of ideas allowed (product, process, culture)
@@ -3100,21 +3100,21 @@ Inputs:
 3. Duration of pitches
 
 4. Budget for prizes
+```
+## Prompt 12 — Fun Friday Game Hour
 
-Prompt 12 — Fun Friday Game Hour
+`Backstory:
 
-Backstory:
+`Vikram, 25, is the youngest member of HR at a retail company in Kolkata. He believes ending the week with lighthearted fun can improve morale. He wants to host a recurring “Fun Friday” game session.`
 
-Vikram, 25, is the youngest member of HR at a retail company in Kolkata. He believes ending the week with lighthearted fun can improve morale. He wants to host a recurring “Fun Friday” game session.
+`Goal:`
 
-Goal:
+`Boost morale and social connection through regular, casual game sessions.`
 
-Boost morale and social connection through regular, casual game sessions.
+`Prompt`
 
-Prompt:
-
-"You are a team engagement planner. Create a ‘Fun Friday’ schedule for a company of 40 employees. The plan should:
-
+`"You are a team engagement planner. Create a ‘Fun Friday’ schedule for a company of 40 employees. The plan should:`
+```
 1. Alternate between online and offline games.
 
 2. Include team-based challenges.
@@ -3122,11 +3122,11 @@ Prompt:
 3. Keep sessions under 1 hour.
 
 4. Maintain a scoreboard for ongoing friendly competition.
+```  
+`Ensure games are inclusive and require no special skills."`
 
-Ensure games are inclusive and require no special skills."
-
-Inputs:
-
+`Inputs:`
+```
 1. Number of employees
 
 2. Game type preference (online/offline)
@@ -3134,21 +3134,21 @@ Inputs:
 3. Frequency of sessions
 
 4. Budget for prizes
+```
+## Prompt 13 — Pet Day at Work
 
-Prompt 13 — Pet Day at Work
+`Backstory:`
 
-Backstory:
+`Nisha, 28, works in HR for a creative agency in Bengaluru. Many employees have pets and often share stories about them. She wants to create a “Pet Day” where employees can bring their pets to the office for a bonding experience.`
 
-Nisha, 28, works in HR for a creative agency in Bengaluru. Many employees have pets and often share stories about them. She wants to create a “Pet Day” where employees can bring their pets to the office for a bonding experience.
+`Goal:`
 
-Goal:
+`Strengthen workplace relationships through a pet-friendly event.`
 
-Strengthen workplace relationships through a pet-friendly event.
+`Prompt:`
 
-Prompt:
-
-"You are an event engagement specialist. Create a ‘Pet Day’ plan for 30 employees. The plan should:
-
+`"You are an event engagement specialist. Create a ‘Pet Day’ plan for 30 employees. The plan should:
+```
 1. Include safety guidelines for pets and people.
 
 2. Feature fun activities like pet fashion shows or obedience challenges.
@@ -3156,11 +3156,11 @@ Prompt:
 3. Provide treats for both pets and owners.
 
 4. Capture the event in photos for social media.
+```
+`Ensure inclusivity for employees without pets by assigning them as event hosts or judges."`
 
-Ensure inclusivity for employees without pets by assigning them as event hosts or judges."
-
-Inputs:
-
+`Inputs:`
+```
 1. Number of participants
 
 2. Pet types allowed
@@ -3168,21 +3168,21 @@ Inputs:
 3. Space and facilities available
 
 4. Budget limit
+```
+## Prompt 14 — Office Talent Show
 
-Prompt 14 — Office Talent Show
+`Backstory:`
 
-Backstory:
+`Harsh, 35, manages HR at a multinational in Gurugram. He wants employees to showcase their hidden talents beyond work skills. He decides on an annual “Office Talent Show” that welcomes everything from singing to stand-up comedy.`
 
-Harsh, 35, manages HR at a multinational in Gurugram. He wants employees to showcase their hidden talents beyond work skills. He decides on an annual “Office Talent Show” that welcomes everything from singing to stand-up comedy.
+`Goal:`
 
-Goal:
+`Celebrate employee diversity and creativity through a talent showcase.`
 
-Celebrate employee diversity and creativity through a talent showcase.
+`Prompt:`
 
-Prompt:
-
-"You are a workplace culture events planner. Design an ‘Office Talent Show’ for 150 employees. The plan should:
-
+`"You are a workplace culture events planner. Design an ‘Office Talent Show’ for 150 employees. The plan should:`
+```
 1. Offer performance categories (music, dance, comedy, art).
 
 2. Have a registration process with time slots.
@@ -3190,11 +3190,11 @@ Prompt:
 3. Include live voting by the audience.
 
 4. Provide participation certificates and small prizes.
+```
+`Ensure the event runs under 3 hours and is family-friendly."`
 
-Ensure the event runs under 3 hours and is family-friendly."
-
-Inputs:
-
+`Inputs:`
+```
 1. Number of employees
 
 2. Talent categories
@@ -3202,21 +3202,21 @@ Inputs:
 3. Duration of event
 
 4. Budget for prizes
+```
+## Prompt 15 — Microlearning Challenge
 
-Prompt 15 — Microlearning Challenge
+`Backstory:`
 
-Backstory:
+`Ishaan, 27, works in L&D for a SaaS company in Hyderabad. Employees are too busy for long training sessions, so he wants to introduce “Microlearning Challenges” — short, engaging learning bites.`
 
-Ishaan, 27, works in L&D for a SaaS company in Hyderabad. Employees are too busy for long training sessions, so he wants to introduce “Microlearning Challenges” — short, engaging learning bites.
+`Goal:`
 
-Goal:
+`Enhance skill development through quick, fun, and competitive learning modules.`
 
-Enhance skill development through quick, fun, and competitive learning modules.
+`Prompt:`
 
-Prompt:
-
-"You are a corporate learning strategist. Create a 4-week ‘Microlearning Challenge’ for 100 employees. The plan should:
-
+`"You are a corporate learning strategist. Create a 4-week ‘Microlearning Challenge’ for 100 employees. The plan should:
+```
 1. Deliver 5-minute lessons daily via email or app.
 
 2. End each lesson with a mini quiz.
@@ -3224,11 +3224,11 @@ Prompt:
 3. Keep a leaderboard and reward the top scorers.
 
 4. Rotate topics weekly (product knowledge, soft skills, industry trends).
+```
+`Ensure mobile-first accessibility."`
 
-Ensure mobile-first accessibility."
-
-Inputs:
-
+`Inputs:`
+```
 1. Number of employees
 
 2. Duration of challenge
@@ -3236,21 +3236,21 @@ Inputs:
 3. Topics covered
 
 4. Budget for rewards
+```
+## Prompt 16 — Cultural Potluck Day
 
-Prompt 16 — Cultural Potluck Day
+`Backstory:`
 
-Backstory:
+`Sana, 29, works in HR for an ed-tech startup in Delhi with employees from across India. She notices that despite the diversity, most people eat lunch with their immediate team and rarely interact beyond their department. To encourage cultural exchange, she wants to organize a “Cultural Potluck Day” where everyone brings a homemade dish representing their culture or region. The aim is not just about food, but also about storytelling — each participant shares a short story behind their dish.`
 
-Sana, 29, works in HR for an ed-tech startup in Delhi with employees from across India. She notices that despite the diversity, most people eat lunch with their immediate team and rarely interact beyond their department. To encourage cultural exchange, she wants to organize a “Cultural Potluck Day” where everyone brings a homemade dish representing their culture or region. The aim is not just about food, but also about storytelling — each participant shares a short story behind their dish.
+`Goal:`
 
-Goal:
+`Foster cross-departmental bonding, cultural appreciation, and informal conversation through a shared food experience.`
 
-Foster cross-departmental bonding, cultural appreciation, and informal conversation through a shared food experience.
+`Prompt:`
 
-Prompt:
-
-"You are a workplace culture designer. Create a detailed plan for a ‘Cultural Potluck Day’ for 80 employees from multiple regions of India. Your plan must include:
-
+`"You are a workplace culture designer. Create a detailed plan for a ‘Cultural Potluck Day’ for 80 employees from multiple regions of India. Your plan must include:`
+```
 1. A sign-up sheet categorizing dishes into vegetarian, non-vegetarian, vegan, and dessert options to ensure variety.
 
 2. Guidelines for safe food handling, allergen labeling, and portion sizes.
@@ -3260,11 +3260,11 @@ Prompt:
 4. An optional cooking demo for interested employees.
 
 5. A friendly award segment with titles like ‘Most Unique Dish’ or ‘Best Story’.
+```
+`Ensure inclusion of remote employees by allowing them to share recipes and photos of their dishes virtually."`
 
-Ensure inclusion of remote employees by allowing them to share recipes and photos of their dishes virtually."
-
-Inputs:
-
+`Inputs:`
+```
 1. Number of participants
 
 2. Office kitchen/facility availability
@@ -3272,21 +3272,21 @@ Inputs:
 3. Food categories allowed
 
 4. Budget for decorations and awards
+```
+## Prompt 17 — Reverse Mentorship Program
 
-Prompt 17 — Reverse Mentorship Program
+`Backstory:`
 
-Backstory:
+`Arjun, 34, works at a large IT services firm in Pune. While senior leadership has years of industry knowledge, many are unfamiliar with new tools, Gen Z work culture, or emerging tech trends. Arjun proposes a “Reverse Mentorship Program” where younger employees mentor senior leaders on topics like AI tools, social media, or UX design, while also learning leadership skills in return.`
 
-Arjun, 34, works at a large IT services firm in Pune. While senior leadership has years of industry knowledge, many are unfamiliar with new tools, Gen Z work culture, or emerging tech trends. Arjun proposes a “Reverse Mentorship Program” where younger employees mentor senior leaders on topics like AI tools, social media, or UX design, while also learning leadership skills in return.
+`Goal:`
 
-Goal:
+`Encourage knowledge exchange between generations, improve digital literacy among senior leaders, and empower young employees.`
 
-Encourage knowledge exchange between generations, improve digital literacy among senior leaders, and empower young employees.
+`Prompt:`
 
-Prompt:
-
-"You are a workplace mentorship architect. Design a 6-month ‘Reverse Mentorship Program’ for 40 mentor-mentee pairs. Your plan must include:
-
+`"You are a workplace mentorship architect. Design a 6-month ‘Reverse Mentorship Program’ for 40 mentor-mentee pairs. Your plan must include:`
+```
 1. A matching system based on skills offered and skills sought.
 
 2. A structured monthly meeting agenda template.
@@ -3296,11 +3296,11 @@ Prompt:
 4. Tracking metrics for progress (knowledge tests, project outcomes).
 
 5. A final showcase event where pairs present their learnings.
+```
+`Incorporate remote-friendly features like video call templates and shared digital workbooks."`
 
-Incorporate remote-friendly features like video call templates and shared digital workbooks."
-
-Inputs:
-
+`Inputs:`
+```
 1. Number of mentor-mentee pairs
 
 2. Topics to be covered
@@ -3308,21 +3308,21 @@ Inputs:
 3. Duration of mentorship
 
 4. Tracking method for progress
+```
+## Prompt 18 — Sustainability Challenge Month
 
-Prompt 18 — Sustainability Challenge Month
+`Backstory:`
 
-Backstory:
+`Neha, 26, is part of the employee engagement committee in a Noida-based e-commerce company. She wants to combine team-building with environmental responsibility. She envisions a “Sustainability Challenge Month” where employees earn points for eco-friendly actions — carpooling, using reusable bottles, or planting trees.`
 
-Neha, 26, is part of the employee engagement committee in a Noida-based e-commerce company. She wants to combine team-building with environmental responsibility. She envisions a “Sustainability Challenge Month” where employees earn points for eco-friendly actions — carpooling, using reusable bottles, or planting trees.
+`Goal:`
 
-Goal:
+`Promote environmental consciousness while fostering healthy competition between teams.`
 
-Promote environmental consciousness while fostering healthy competition between teams.
+`Prompt:`
 
-Prompt:
-
-"You are an environmental workplace engagement planner. Create a 4-week ‘Sustainability Challenge’ for 120 employees. The plan should:
-
+`"You are an environmental workplace engagement planner. Create a 4-week ‘Sustainability Challenge’ for 120 employees. The plan should:`
+```
 1. List daily and weekly eco-friendly challenges (public transport days, zero-waste lunches).
 
 2. Provide a digital leaderboard updated in real time.
@@ -3332,11 +3332,11 @@ Prompt:
 4. End with awards for ‘Green Champion’ individuals and teams.
 
 5. Offer ideas for documenting participation through photos or short write-ups.
+```
+`Ensure hybrid participation for both on-site and remote workers."`
 
-Ensure hybrid participation for both on-site and remote workers."
-
-Inputs:
-
+`Inputs:`
+```
 1. Number of teams
 
 2. Duration of challenge
@@ -3344,21 +3344,21 @@ Inputs:
 3. Types of challenges allowed
 
 4. Budget for awards
+```
+## Prompt 19 — Mystery Coffee Chats
 
-Prompt 19 — Mystery Coffee Chats
+`Backstory:`
 
-Backstory:
+`Ritika, 28, works in HR for a fintech company in Bengaluru. She notices employees tend to network within their own departments, missing opportunities to build wider professional relationships. She wants to introduce “Mystery Coffee Chats” where employees are randomly paired to meet over coffee once a month.`
 
-Ritika, 28, works in HR for a fintech company in Bengaluru. She notices employees tend to network within their own departments, missing opportunities to build wider professional relationships. She wants to introduce “Mystery Coffee Chats” where employees are randomly paired to meet over coffee once a month.
+`Goal:`
 
-Goal:
+`Break silos and encourage casual networking across the company.`
 
-Break silos and encourage casual networking across the company.
+`Prompt:`
 
-Prompt:
-
-"You are a corporate networking facilitator. Design a 12-month ‘Mystery Coffee Chats’ program for 200 employees. The plan must:
-
+`"You are a corporate networking facilitator. Design a 12-month ‘Mystery Coffee Chats’ program for 200 employees. The plan must:`
+```
 1. Randomly pair employees from different departments each month using a simple tool.
 
 2. Provide conversation starter cards (work and personal life topics).
@@ -3366,11 +3366,11 @@ Prompt:
 3. Offer coffee vouchers redeemable at the office café or partnered coffee shops.
 
 4. Collect feedback on each meeting to refine pairings over time.
+```
+`Create a yearly ‘Networking Wall’ showcasing the most interesting cross-department collaborations born from these chats."`
 
-Create a yearly ‘Networking Wall’ showcasing the most interesting cross-department collaborations born from these chats."
-
-Inputs:
-
+`Inputs:`
+```
 1. Number of participants
 
 2. Meeting frequency
@@ -3378,21 +3378,21 @@ Inputs:
 3. Budget for vouchers
 
 4. Preferred coffee venues
+```
+## Prompt 20 — ‘Pay It Forward’ Week
 
-Prompt 20 — ‘Pay It Forward’ Week
+`Backstory:`
 
-Backstory:
+`Manoj, 33, works in HR for a mid-sized logistics firm in Chennai. He wants to introduce a culture of kindness by encouraging small acts of service among employees. His idea: a “Pay It Forward” week where each person does something thoughtful for a colleague, and that colleague continues the chain.`
 
-Manoj, 33, works in HR for a mid-sized logistics firm in Chennai. He wants to introduce a culture of kindness by encouraging small acts of service among employees. His idea: a “Pay It Forward” week where each person does something thoughtful for a colleague, and that colleague continues the chain.
+`Goal:`
 
-Goal:
+`Strengthen trust, empathy, and interpersonal connection in the workplace.`
 
-Strengthen trust, empathy, and interpersonal connection in the workplace.
+`Prompt:`
 
-Prompt:
-
-"You are a workplace culture strategist. Design a 1-week ‘Pay It Forward’ program for 60 employees. The plan should:
-
+`"You are a workplace culture strategist. Design a 1-week ‘Pay It Forward’ program for 60 employees. The plan should:`
+```
 1. Provide each participant with a card describing the concept and examples of small acts (helping with a task, bringing a snack, leaving an appreciation note).
 
 2. Set rules to ensure inclusivity and no financial burden.
@@ -3402,9 +3402,9 @@ Prompt:
 4. Share anonymous stories in a weekly newsletter.
 
 5. Conclude with a group reflection session on how the activity impacted morale."
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Number of participants
 
 2. Duration of activity
@@ -3412,21 +3412,21 @@ Inputs:
 3. Examples of allowed acts
 
 4. Tracking method
+```
+## Prompt 21 — Book Club for Professional & Personal Growth
 
-Prompt 21 — Book Club for Professional & Personal Growth
+`Backstory:`
 
-Backstory:
+`Priya, 27, is in L&D for a consulting firm in Mumbai. She believes reading is a powerful way to grow both personally and professionally. She wants to start a company-wide book club that covers leadership books, fiction for empathy building, and Indian business case studies.`
 
-Priya, 27, is in L&D for a consulting firm in Mumbai. She believes reading is a powerful way to grow both personally and professionally. She wants to start a company-wide book club that covers leadership books, fiction for empathy building, and Indian business case studies.
+`Goal:`
 
-Goal:
+`Encourage continuous learning, empathy, and cross-functional discussion through a structured book club.`
 
-Encourage continuous learning, empathy, and cross-functional discussion through a structured book club.
+`Prompt:`
 
-Prompt:
-
-"You are a workplace learning and engagement consultant. Create a quarterly ‘Workplace Book Club’ program for 50 employees. The plan should:
-
+`"You are a workplace learning and engagement consultant. Create a quarterly ‘Workplace Book Club’ program for 50 employees. The plan should:`
+```
 1. Alternate between professional books and personal development/fiction.
 
 2. Provide discussion guides for each session.
@@ -3436,9 +3436,9 @@ Prompt:
 4. Offer small incentives for completing reading assignments.
 
 5. End each quarter with a summary newsletter featuring member reviews and key takeaways."
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Number of members
 
 2. Genres to cover
@@ -3446,21 +3446,21 @@ Inputs:
 3. Meeting frequency
 
 4. Budget for books/incentives
+```
+## Prompt 22 — Themed Dress-Up Days
 
-Prompt 22 — Themed Dress-Up Days
+`Backstory:`
 
-Backstory:
+`Kabir, 25, works in HR at a digital marketing firm in Hyderabad. He wants to inject some fun into the workweek by introducing monthly themed dress-up days, such as Retro Bollywood, Monochrome Monday, or Superhero Day.`
 
-Kabir, 25, works in HR at a digital marketing firm in Hyderabad. He wants to inject some fun into the workweek by introducing monthly themed dress-up days, such as Retro Bollywood, Monochrome Monday, or Superhero Day.
+`Goal:`
 
-Goal:
+`Boost employee morale and create lighthearted shared experiences.`
 
-Boost employee morale and create lighthearted shared experiences.
+`Prompt:`
 
-Prompt:
-
-"You are a workplace culture creator. Design a 12-month ‘Themed Dress-Up Day’ calendar for 80 employees. Your plan must:
-
+`"You are a workplace culture creator. Design a 12-month ‘Themed Dress-Up Day’ calendar for 80 employees. Your plan must:`
+```
 1. Suggest monthly themes, ensuring cultural sensitivity.
 
 2. Provide photo booth setups for social media sharing.
@@ -3470,9 +3470,9 @@ Prompt:
 4. Offer participation badges or points for a leaderboard.
 
 5. Integrate hybrid participation by encouraging remote employees to post themed selfies."
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Number of themes per year
 
 2. Types of themes allowed
@@ -3480,21 +3480,21 @@ Inputs:
 3. Budget for photo booth and prizes
 
 4. Participation tracking method
+```
+## Prompt 23 — DIY Skill Swap Fair
 
-Prompt 23 — DIY Skill Swap Fair
+`Backstory:`
 
-Backstory:
+`Ananya, 30, works for a co-working space in Bengaluru. She notices employees have unique personal skills — baking, photography, coding shortcuts — but no platform to share them. She wants to host a “Skill Swap Fair” where employees teach each other in short, hands-on sessions.`
 
-Ananya, 30, works for a co-working space in Bengaluru. She notices employees have unique personal skills — baking, photography, coding shortcuts — but no platform to share them. She wants to host a “Skill Swap Fair” where employees teach each other in short, hands-on sessions.
+`Goal:`
 
-Goal:
+`Foster peer learning, creativity, and appreciation of colleagues’ talents.`
 
-Foster peer learning, creativity, and appreciation of colleagues’ talents.
+`Prompt:`
 
-Prompt:
-
-"You are a workplace learning event organizer. Plan a 1-day ‘DIY Skill Swap Fair’ for 100 employees. The plan should:
-
+`"You are a workplace learning event organizer. Plan a 1-day ‘DIY Skill Swap Fair’ for 100 employees. The plan should`:`
+```
 1. Invite employees to sign up as skill teachers or learners.
 
 2. Organize parallel 30-minute sessions for small groups.
@@ -3504,9 +3504,9 @@ Prompt:
 4. Have a closing ceremony where participants share what they learned.
 
 5. Encourage ongoing skill exchange beyond the event."
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Number of participants
 
 2. Types of skills allowed
@@ -3514,21 +3514,21 @@ Inputs:
 3. Venue size and facilities
 
 4. Budget for materials
+```
+## Prompt 24 — Well-being Passport
 
-Prompt 24 — Well-being Passport
+`Backstory:`
 
-Backstory:
+`Megha, 31, works in HR for a large retail chain in Jaipur. She wants to encourage employees to take part in wellness activities — from yoga classes to mindfulness workshops — by gamifying the process through a “Well-being Passport.”`
 
-Megha, 31, works in HR for a large retail chain in Jaipur. She wants to encourage employees to take part in wellness activities — from yoga classes to mindfulness workshops — by gamifying the process through a “Well-being Passport.”
+`Goal:`
 
-Goal:
+`Increase employee participation in wellness initiatives through gamification.`
 
-Increase employee participation in wellness initiatives through gamification.
+`Prompt:`
 
-Prompt:
-
-"You are a workplace wellness strategist. Design a 6-month ‘Well-being Passport’ program for 150 employees. The plan should:
-
+`"You are a workplace wellness strategist. Design a 6-month ‘Well-being Passport’ program for 150 employees. The plan should:`
+```
 1. Provide each employee with a physical or digital passport to track wellness activities attended.
 
 2. Assign points for each completed activity.
@@ -3538,9 +3538,9 @@ Prompt:
 4. Include monthly challenges like hydration tracking or 10,000 steps a day.
 
 5. Host a closing wellness carnival with rewards distribution."
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Number of participants
 
 2. Types of wellness activities
@@ -3548,21 +3548,21 @@ Inputs:
 3. Reward tiers
 
 4. Tracking method (physical, app-based)
+```
+## Prompt 25 — Annual Gratitude Week
 
-Prompt 25 — Annual Gratitude Week
+`Backstory:`
 
-Backstory:
+`Rohit, 35, leads HR at a mid-sized IT services company in Gurgaon. He wants employees to end the year on a positive note by reflecting on achievements, appreciating colleagues, and recognizing team contributions through a “Gratitude Week.”`
 
-Rohit, 35, leads HR at a mid-sized IT services company in Gurgaon. He wants employees to end the year on a positive note by reflecting on achievements, appreciating colleagues, and recognizing team contributions through a “Gratitude Week.”
+`Goal:`
 
-Goal:
+`Build a culture of appreciation, reflection, and positivity at year-end.`
 
-Build a culture of appreciation, reflection, and positivity at year-end.
+`Prompt:`
 
-Prompt:
-
-"You are a corporate culture consultant. Plan a 5-day ‘Gratitude Week’ for 200 employees. Your plan should:
-
+`"You are a corporate culture consultant. Plan a 5-day ‘Gratitude Week’ for 200 employees. Your plan should:`
+```
 1. Assign a theme for each day (Thank a Colleague, Gratitude Wall, Reflect & Reset).
 
 2. Provide an online gratitude board for hybrid teams.
@@ -3572,9 +3572,9 @@ Prompt:
 4. Host a closing celebration with a slideshow of moments from the year.
 
 5. Include a time capsule activity where employees write future hopes."
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Number of participants
 
 2. Duration of week
@@ -3582,24 +3582,23 @@ Inputs:
 3. Themes per day
 
 4. Budget for activities
+```
 
+# Remote Team Management SOPs
 
-Remote Team Management SOPs
+## Prompt 1 — Daily Stand-up Protocol for Remote Teams
 
-Prompt 1 — Daily Stand-up Protocol for Remote Teams
+`Backstory:`
 
-Backstory:
+`Ria, 29, is a project manager at a digital marketing agency in Bengaluru. Her remote team spans three time zones — India, Dubai, and Singapore. While the team uses Slack and Trello, updates are inconsistent, causing delays and miscommunication. She wants an SOP for a 15-minute daily stand-up that ensures everyone shares progress, blockers, and priorities in a structured way, without eating into work time.`
 
-Ria, 29, is a project manager at a digital marketing agency in Bengaluru. Her remote team spans three time zones — India, Dubai, and Singapore. While the team uses Slack and Trello, updates are inconsistent, causing delays and miscommunication. She wants an SOP for a 15-minute daily stand-up that ensures everyone shares progress, blockers, and priorities in a structured way, without eating into work time.
+`Goal:`
 
-Goal:
+`Create a standardized remote daily stand-up SOP that improves communication, accountability, and alignment across time zones.`
+`Prompt:`
 
-Create a standardized remote daily stand-up SOP that improves communication, accountability, and alignment across time zones.
-
-Prompt:
-
-"You are a remote team operations expert. Design a daily stand-up SOP for a 10-member remote marketing team working across India, Dubai, and Singapore. Your SOP should include:
-
+`"You are a remote team operations expert. Design a daily stand-up SOP for a 10-member remote marketing team working across India, Dubai, and Singapore. Your SOP should include:`
+```
 1. The exact daily schedule adjusted for all time zones.
 
 2. A 3-question format (yesterday’s work, today’s priorities, blockers).
@@ -3609,11 +3608,11 @@ Prompt:
 4. A shared Google Doc format for recording stand-up notes.
 
 5. A process for flagging urgent blockers immediately to the project lead.
+```
+`Output the SOP in a clear bullet-point checklist format ready to share with the team."`
 
-Output the SOP in a clear bullet-point checklist format ready to share with the team."
-
-Inputs:
-
+`Inputs:`
+```
 1. Team size and roles
 
 2. Time zones involved
@@ -3621,8 +3620,8 @@ Inputs:
 3. Tools already in use
 
 4. Maximum meeting length
-
-Prompt 2 — Remote Onboarding SOP
+```
+## Prompt 2 — Remote Onboarding SOP
 
 Backstory:
 
