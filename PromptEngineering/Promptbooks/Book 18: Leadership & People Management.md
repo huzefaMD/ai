@@ -1854,7 +1854,7 @@ A B2B SaaS company in Chennai holds monthly sales pipeline reviews, but they oft
 
 4. Company policy on work hours and overtime
 ```
-Prompt 3 – Conflict Over Remote Work vs. In-Office Policy
+## Prompt 3 – Conflict Over Remote Work vs. In-Office Policy
 
 Backstory:
 
