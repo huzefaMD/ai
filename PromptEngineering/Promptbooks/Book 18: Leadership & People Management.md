@@ -1491,7 +1491,7 @@ A B2B SaaS company in Chennai holds monthly sales pipeline reviews, but they oft
 
 6. Action Item Assignment – Assign owners, set deadlines, define success measures.
 ```
-`Include space for open discussion but keep main items time-bound."*
+`Include space for open discussion but keep main items time-bound."*`
 
 `Inputs:`
 ```
@@ -1749,7 +1749,7 @@ A B2B SaaS company in Chennai holds monthly sales pipeline reviews, but they oft
 
 `Prompt:`
 
-`*"You are a customer experience strategist. Create a 90-minute customer feedback review meeting agenda including:
+`*"You are a customer experience strategist. Create a 90-minute customer feedback review meeting agenda including:`
 ```
 1. Feedback Summary – Review survey scores, online ratings, and key trends.
 
@@ -1778,20 +1778,20 @@ A B2B SaaS company in Chennai holds monthly sales pipeline reviews, but they oft
 
 # Conflict resolution scripts
 
-Prompt 1 – Conflict Between Two Team Members Over Credit for Work
+## Prompt 1 – Conflict Between Two Team Members Over Credit for Work
 
-Backstory:
+`Backstory:`
 
-In a digital marketing agency in Gurugram, two young executives — both in their late 20s — have been working on a high-profile campaign for a luxury brand. After the campaign's success, both claimed to have been the primary contributor. The disagreement has escalated into passive-aggressive emails and visible tension in team meetings. The account manager needs a conflict resolution script to address both parties, ensure credit is shared fairly, and restore team harmony without causing further resentment.
+`In a digital marketing agency in Gurugram, two young executives — both in their late 20s — have been working on a high-profile campaign for a luxury brand. After the campaign's success, both claimed to have been the primary contributor. The disagreement has escalated into passive-aggressive emails and visible tension in team meetings. The account manager needs a conflict resolution script to address both parties, ensure credit is shared fairly, and restore team harmony without causing further resentment.`
 
-Goal:
+`Goal:`
 
-Create a step-by-step script for mediating a dispute between two employees over project credit, ensuring both feel heard and valued while focusing on collective team success.
+`Create a step-by-step script for mediating a dispute between two employees over project credit, ensuring both feel heard and valued while focusing on collective team success.`
 
-Prompt:
+`Prompt:`
 
-"You are an HR conflict resolution specialist. Draft a mediation script for a manager to resolve a dispute between two team members over credit for a successful project. The script should include: 
-
+`"You are an HR conflict resolution specialist. Draft a mediation script for a manager to resolve a dispute between two team members over credit for a successful project. The script should include: `
+```
 1. Opening & Setting the Tone – Neutral, non-accusatory start. 
 
 2. Individual Sharing – Allow each person to share their perspective without interruptions. 
@@ -1803,11 +1803,11 @@ Prompt:
 5. Reframing Towards Team Success – Shift focus from individual credit to collective achievement. 
 
 6. Agreement & Next Steps – Define how credit will be communicated to stakeholders and set expectations for future collaborations.
+```
+`Include language tips to prevent defensiveness and ensure both parties leave the meeting with a sense of fairness."*`
 
-Include language tips to prevent defensiveness and ensure both parties leave the meeting with a sense of fairness."*
-
-Inputs: 
-
+`Inputs: `
+```
 1. Details of the project 
 
 2. Specific contributions from each member 
@@ -1815,21 +1815,21 @@ Inputs:
 3. Company policy on recognition and awards 
 
 4. Any past conflicts between the two employees
+```
+## Prompt 2 – Manager-Employee Conflict Over Workload
 
-Prompt 2 – Manager-Employee Conflict Over Workload
+`Backstory:`
 
-Backstory:
+`A 29-year-old software developer in Bengaluru feels overwhelmed by unrealistic deadlines set by their project manager. They believe the workload distribution is unfair compared to other team members. The manager, however, thinks the developer is underestimating their own capacity. Tension has been building over months, leading to disengagement and missed deadlines.`
 
-A 29-year-old software developer in Bengaluru feels overwhelmed by unrealistic deadlines set by their project manager. They believe the workload distribution is unfair compared to other team members. The manager, however, thinks the developer is underestimating their own capacity. Tension has been building over months, leading to disengagement and missed deadlines.
+`Goal:`
 
-Goal:
+`Create a resolution script that facilitates open conversation between the employee and manager, balancing workload expectations with employee well-being.`
 
-Create a resolution script that facilitates open conversation between the employee and manager, balancing workload expectations with employee well-being.
+`Prompt:`
 
-Prompt:
-
-"You are a workplace mediator. Draft a conflict resolution script for a meeting between a manager and an employee over workload concerns. The script should include: 
-
+`"You are a workplace mediator. Draft a conflict resolution script for a meeting between a manager and an employee over workload concerns. The script should include: `
+```
 1. Opening & Objective Setting – Clarify that the purpose is to find a balanced, fair workload plan. 
 
 2. Employee Perspective – Invite the employee to share their current challenges and specific examples. 
@@ -1841,11 +1841,11 @@ Prompt:
 5. Workload Adjustment Plan – Suggest task reprioritization, deadline shifts, or resource allocation. 
 
 6. Follow-Up Commitment – Agree on check-ins to ensure ongoing balance.
+```
+`Provide empathetic yet professional phrasing to keep the discussion solution-focused."*`
 
-Provide empathetic yet professional phrasing to keep the discussion solution-focused."*
-
-Inputs: 
-
+`Inputs: `
+```
 1. Current project deadlines and workload distribution 
 
 2. Employee’s performance history 
@@ -1853,7 +1853,7 @@ Inputs:
 3. Availability of additional resources or support 
 
 4. Company policy on work hours and overtime
-
+```
 Prompt 3 – Conflict Over Remote Work vs. In-Office Policy
 
 Backstory:
