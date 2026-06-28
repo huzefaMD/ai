@@ -28,327 +28,327 @@
 
 `"You are a corporate legal researcher. Create a comparative summary of the 2015, 2019, and 2021 amendments to the Arbitration and Conciliation Act, highlighting: changes in timelines, appointment of arbitrators, confidentiality provisions, institutional arbitration rules, and enforcement of awards. Conclude with a section on best practices for contract drafting post-amendments." Inputs Required from User: Type of contracts company handles Frequency of arbitration usage Jurisdiction of operations`
 
-Summary of Labour Codes Impact on IT Companies
+## Summary of Labour Codes Impact on IT Companies
 
-Backstory:
+`Backstory:`
 
-A Pune-based IT services firm with 1,200 employees is reviewing its HR policies in light of India’s new Labour Codes (Wages, Social Security, Occupational Safety, Industrial Relations). The HR head wants a clear research summary to align policies with legal requirements and avoid penalties.
+`A Pune-based IT services firm with 1,200 employees is reviewing its HR policies in light of India’s new Labour Codes (Wages, Social Security, Occupational Safety, Industrial Relations). The HR head wants a clear research summary to align policies with legal requirements and avoid penalties.`
 
-Goal:
+`Goal:`
 
-Generate a legal research summary focusing on how the new Labour Codes affect IT companies’ compliance obligations.
+`Generate a legal research summary focusing on how the new Labour Codes affect IT companies’ compliance obligations.`
 
-Prompt:
+`Prompt:`
 
-"You are an employment law researcher. Draft a summary of India’s four new Labour Codes, covering: key provisions, changes from old laws, applicability to IT/ITES sector, employer obligations, employee benefits, and penalty provisions. Include a checklist for HR policy updates specific to IT companies." Inputs Required from User: Current HR policy framework Employee strength Locations of operation
+`"You are an employment law researcher. Draft a summary of India’s four new Labour Codes, covering: key provisions, changes from old laws, applicability to IT/ITES sector, employer obligations, employee benefits, and penalty provisions. Include a checklist for HR policy updates specific to IT companies." Inputs Required from User: Current HR policy framework Employee strength Locations of operation`
 
-Summary of GST E-Invoicing Rules for SMEs
+## Summary of GST E-Invoicing Rules for SMEs
 
-Backstory:
+`Backstory:`
 
-A Jaipur-based SME in the textile export business is required to implement GST e-invoicing from the next financial quarter. The finance manager wants a simple, legally accurate summary of the latest e-invoicing provisions to train the accounts team.
+`A Jaipur-based SME in the textile export business is required to implement GST e-invoicing from the next financial quarter. The finance manager wants a simple, legally accurate summary of the latest e-invoicing provisions to train the accounts team.`
 
-Goal:
+`Goal:`
 
-Produce a legal summary of GST e-invoicing provisions applicable to SMEs, with compliance steps.
+`Produce a legal summary of GST e-invoicing provisions applicable to SMEs, with compliance steps.`
 
-Prompt:
+`Prompt:`
 
-"You are a tax law researcher. Summarise the GST e-invoicing provisions, covering: eligibility thresholds, mandatory invoice fields, reporting timelines, IRN generation process, integration with ERP, penalties for non-compliance, and export invoice requirements. Provide an easy-to-follow implementation checklist." Inputs Required from User: Annual turnover figures Export/import activities Current invoicing process
+`"You are a tax law researcher. Summarise the GST e-invoicing provisions, covering: eligibility thresholds, mandatory invoice fields, reporting timelines, IRN generation process, integration with ERP, penalties for non-compliance, and export invoice requirements. Provide an easy-to-follow implementation checklist." Inputs Required from User: Annual turnover figures Export/import activities Current invoicing process`
 
-Summary of Indian Competition Act Provisions for M&A
+## Summary of Indian Competition Act Provisions for M&A
 
-Backstory:
+`Backstory:`
 
-A Mumbai-based private equity firm is evaluating the acquisition of a mid-sized manufacturing company. The legal team needs a research summary on Competition Commission of India (CCI) provisions for mergers and acquisitions to assess whether the deal requires CCI approval.
+`A Mumbai-based private equity firm is evaluating the acquisition of a mid-sized manufacturing company. The legal team needs a research summary on Competition Commission of India (CCI) provisions for mergers and acquisitions to assess whether the deal requires CCI approval.`
 
-Goal:
+`Goal:`
 
-Create a legal research note summarising the Competition Act provisions on mergers and acquisitions, focusing on deal thresholds and approval timelines.
+`Create a legal research note summarising the Competition Act provisions on mergers and acquisitions, focusing on deal thresholds and approval timelines.`
 
-Prompt:
+`Prompt:`
 
-"You are an M&A legal analyst. Draft a research summary on CCI regulations for mergers and acquisitions under the Competition Act, covering: asset and turnover thresholds, notification process, scrutiny timelines, exemption criteria, and penalties for non-compliance. Include a decision tree to help determine if a deal requires CCI approval." Inputs Required from User: Estimated deal value Sector of target company Presence in domestic vs. international markets
+`"You are an M&A legal analyst. Draft a research summary on CCI regulations for mergers and acquisitions under the Competition Act, covering: asset and turnover thresholds, notification process, scrutiny timelines, exemption criteria, and penalties for non-compliance. Include a decision tree to help determine if a deal requires CCI approval." Inputs Required from User: Estimated deal value Sector of target company Presence in domestic vs. international markets`
 
-Summary of FEMA Regulations for Startups Receiving Foreign Investment
+## Summary of FEMA Regulations for Startups Receiving Foreign Investment
 
-Backstory:
+`Backstory:`
 
-A Delhi-based SaaS startup has secured interest from a Singapore-based VC firm. Before finalizing the investment, the founder needs to understand the relevant provisions of the Foreign Exchange Management Act (FEMA) and RBI guidelines for foreign direct investment (FDI) in Indian startups. This summary will guide them in structuring the investment without triggering compliance issues.
+`A Delhi-based SaaS startup has secured interest from a Singapore-based VC firm. Before finalizing the investment, the founder needs to understand the relevant provisions of the Foreign Exchange Management Act (FEMA) and RBI guidelines for foreign direct investment (FDI) in Indian startups. This summary will guide them in structuring the investment without triggering compliance issues.`
 
-Goal:
+`Goal:`
 
-Summarise FEMA and RBI guidelines on FDI for startups in plain, actionable terms.
+`Summarise FEMA and RBI guidelines on FDI for startups in plain, actionable terms.`
 
-Prompt:
+`Prompt:`
 
-"You are a startup legal advisor. Draft a legal research summary of FEMA and RBI regulations for FDI in Indian startups, covering: eligible sectors, automatic vs. government approval routes, share valuation requirements, reporting to RBI (FC-GPR/FC-TRS), timelines for fund receipt and allotment, and penalties for non-compliance. Include a step-by-step compliance checklist." Inputs Required from User: Sector in which startup operates Amount of proposed investment Country of investor’s origin Current company valuation
+`"You are a startup legal advisor. Draft a legal research summary of FEMA and RBI regulations for FDI in Indian startups, covering: eligible sectors, automatic vs. government approval routes, share valuation requirements, reporting to RBI (FC-GPR/FC-TRS), timelines for fund receipt and allotment, and penalties for non-compliance. Include a step-by-step compliance checklist." Inputs Required from User: Sector in which startup operates Amount of proposed investment Country of investor’s origin Current company valuation`
 
-Summary of SEBI Insider Trading Regulations for Listed Companies
+## Summary of SEBI Insider Trading Regulations for Listed Companies
 
-Backstory:
+`Backstory:`
 
-A newly listed company on the NSE wants to train its leadership team on the Prohibition of Insider Trading Regulations issued by SEBI. The compliance officer needs a concise research summary to explain permissible and prohibited activities, reporting obligations, and penalties.
+`A newly listed company on the NSE wants to train its leadership team on the Prohibition of Insider Trading Regulations issued by SEBI. The compliance officer needs a concise research summary to explain permissible and prohibited activities, reporting obligations, and penalties.`
 
-Goal:
+`Goal:`
 
-Create a research note on SEBI insider trading rules for listed companies.
+`Create a research note on SEBI insider trading rules for listed companies.`
 
-Prompt:
+`Prompt:`
 
-"You are a securities law researcher. Prepare a structured summary of SEBI’s Prohibition of Insider Trading Regulations, covering: definition of unpublished price sensitive information (UPSI), trading window restrictions, disclosure requirements, role of compliance officers, penalties for violations, and preventive measures. Include examples of compliant vs. non-compliant scenarios." Inputs Required from User: Industry sector of the listed company Number of designated employees covered Current compliance monitoring practices
+`"You are a securities law researcher. Prepare a structured summary of SEBI’s Prohibition of Insider Trading Regulations, covering: definition of unpublished price sensitive information (UPSI), trading window restrictions, disclosure requirements, role of compliance officers, penalties for violations, and preventive measures. Include examples of compliant vs. non-compliant scenarios." Inputs Required from User: Industry sector of the listed company Number of designated employees covered Current compliance monitoring practices`
 
-Summary of Environmental Clearance Rules for Real Estate Projects
+## Summary of Environmental Clearance Rules for Real Estate Projects
 
-Backstory:
+`Backstory:`
 
-A real estate developer in Gurugram plans to build a large residential township. Before starting construction, they need to comply with environmental clearance norms under the EIA Notification, 2006 and subsequent amendments. The legal team wants a concise summary to avoid project delays or fines.
+`A real estate developer in Gurugram plans to build a large residential township. Before starting construction, they need to comply with environmental clearance norms under the EIA Notification, 2006 and subsequent amendments. The legal team wants a concise summary to avoid project delays or fines.`
 
-Goal:
+`Goal:`
 
-Summarise environmental clearance requirements for large real estate developments.
+`Summarise environmental clearance requirements for large real estate developments.`
 
-Prompt:
+`Prompt:`
 
-"You are an environmental law researcher. Draft a legal research summary on environmental clearance rules for real estate projects in India, covering: applicability thresholds, documents required for EC application, environmental impact assessment process, public consultation procedures, compliance reporting timelines, and consequences of non-compliance." Inputs Required from User: Project size (land area and built-up area) Location (state and city) Type of real estate project (residential/commercial/mixed-use)
+`"You are an environmental law researcher. Draft a legal research summary on environmental clearance rules for real estate projects in India, covering: applicability thresholds, documents required for EC application, environmental impact assessment process, public consultation procedures, compliance reporting timelines, and consequences of non-compliance." Inputs Required from User: Project size (land area and built-up area) Location (state and city) Type of real estate project (residential/commercial/mixed-use)`
 
-Summary of Cybercrime Laws Relevant to E-commerce Platforms
+## Summary of Cybercrime Laws Relevant to E-commerce Platforms
 
-Backstory:
+`Backstory:`
 
-An e-commerce company based in Mumbai is expanding into high-value electronics sales. With increasing cyber fraud cases, the CTO wants a summary of cybercrime laws under the IT Act, 2000 and related provisions of the Indian Penal Code to strengthen the platform’s legal safeguards.
+`An e-commerce company based in Mumbai is expanding into high-value electronics sales. With increasing cyber fraud cases, the CTO wants a summary of cybercrime laws under the IT Act, 2000 and related provisions of the Indian Penal Code to strengthen the platform’s legal safeguards.`
 
-Goal:
+`Goal:`
 
-Provide a legal research summary of applicable cybercrime laws for e-commerce platforms.
+`Provide a legal research summary of applicable cybercrime laws for e-commerce platforms.`
 
-Prompt:
+`Prompt:`
 
-"You are a cyber law analyst. Prepare a summary of cybercrime-related provisions in the IT Act, 2000 and IPC applicable to e-commerce platforms, covering: identity theft, phishing, hacking, data breaches, cyber fraud, intermediary liability, and reporting obligations. Include preventive compliance measures and incident response steps." Inputs Required from User: Nature of products sold Volume of monthly transactions Current cybersecurity measures in place
+`"You are a cyber law analyst. Prepare a summary of cybercrime-related provisions in the IT Act, 2000 and IPC applicable to e-commerce platforms, covering: identity theft, phishing, hacking, data breaches, cyber fraud, intermediary liability, and reporting obligations. Include preventive compliance measures and incident response steps." Inputs Required from User: Nature of products sold Volume of monthly transactions Current cybersecurity measures in place`
 
-Summary of Intellectual Property Laws for Digital Content Creators
+## Summary of Intellectual Property Laws for Digital Content Creators
 
-Backstory:
+`Backstory:`
 
-An independent content creator in Mumbai produces educational videos and is concerned about unauthorized copying and re-uploading of her content. She wants a legal research summary of copyright and trademark protections available in India for online creators.
+`An independent content creator in Mumbai produces educational videos and is concerned about unauthorized copying and re-uploading of her content. She wants a legal research summary of copyright and trademark protections available in India for online creators.`
 
-Goal:
+`Goal:`
 
-Summarise Indian IP laws relevant to digital content creators in simple, actionable terms.
+`Summarise Indian IP laws relevant to digital content creators in simple, actionable terms.`
 
-Prompt:
+`Prompt:`
 
-"You are an IP law researcher. Draft a legal research summary of copyright, trademark, and design protections for digital content creators in India, covering: registration process, scope of protection, enforcement mechanisms, takedown procedures under the IT Act, and remedies for infringement." Inputs Required from User: Type of content produced (videos, images, articles) Whether the content is monetized Platforms used for distribution
+`"You are an IP law researcher. Draft a legal research summary of copyright, trademark, and design protections for digital content creators in India, covering: registration process, scope of protection, enforcement mechanisms, takedown procedures under the IT Act, and remedies for infringement." Inputs Required from User: Type of content produced (videos, images, articles) Whether the content is monetized Platforms used for distribution`
 
-Summary of Consumer Protection Act Provisions for E-Commerce
+## Summary of Consumer Protection Act Provisions for E-Commerce
 
-Backstory:
+`Backstory:`
 
-A Bengaluru-based online fashion marketplace has recently received multiple complaints from customers regarding delayed deliveries and misleading product descriptions. The legal team wants a crisp but comprehensive research summary of the Consumer Protection Act, 2019 provisions applicable to e-commerce businesses to ensure compliance and avoid penalties from the Central Consumer Protection Authority (CCPA).
+`A Bengaluru-based online fashion marketplace has recently received multiple complaints from customers regarding delayed deliveries and misleading product descriptions. The legal team wants a crisp but comprehensive research summary of the Consumer Protection Act, 2019 provisions applicable to e-commerce businesses to ensure compliance and avoid penalties from the Central Consumer Protection Authority (CCPA).`
 
-Goal:
+`Goal:`
 
-Provide a business-friendly legal research summary of the CPA, 2019 e-commerce provisions.
+`Provide a business-friendly legal research summary of the CPA, 2019 e-commerce provisions.`
 
-Prompt:
+`Prompt:`
 
-"You are a consumer law analyst. Draft a structured summary of the Consumer Protection Act, 2019 and related E-commerce Rules, covering: liability for misleading ads, refund and replacement obligations, disclosure requirements, grievance redressal mechanisms, penalty provisions, and the role of the CCPA. Include a compliance checklist for e-commerce sellers and marketplaces." Inputs Required from User: Product categories sold Current grievance redressal process Average monthly order volume
+`"You are a consumer law analyst. Draft a structured summary of the Consumer Protection Act, 2019 and related E-commerce Rules, covering: liability for misleading ads, refund and replacement obligations, disclosure requirements, grievance redressal mechanisms, penalty provisions, and the role of the CCPA. Include a compliance checklist for e-commerce sellers and marketplaces." Inputs Required from User: Product categories sold Current grievance redressal process Average monthly order volume`
 
-Summary of Motor Vehicles Act Changes for Logistics Companies
+## Summary of Motor Vehicles Act Changes for Logistics Companies
 
-Backstory:
+`Backstory:`
 
-A logistics company operating across North India is updating its compliance manuals after the 2019 amendments to the Motor Vehicles Act. The operations head needs a legal research summary to train drivers, fleet managers, and compliance officers on new safety standards and penalties.
+`A logistics company operating across North India is updating its compliance manuals after the 2019 amendments to the Motor Vehicles Act. The operations head needs a legal research summary to train drivers, fleet managers, and compliance officers on new safety standards and penalties.`
 
-Goal:
+`Goal:`
 
-Summarise the Motor Vehicles Act amendments with a focus on logistics operations.
+`Summarise the Motor Vehicles Act amendments with a focus on logistics operations.`
 
-Prompt:
+`Prompt:`
 
-"You are a transport compliance researcher. Prepare a summary of the Motor Vehicles (Amendment) Act, 2019, highlighting: revised penalty amounts, fitness certification norms, driver training requirements, vehicle tracking mandates, insurance provisions, and goods carriage regulations. Provide a table mapping old vs. new penalties for easy reference." Inputs Required from User: Fleet size and vehicle types Routes and states of operation Current safety and compliance measures
+`"You are a transport compliance researcher. Prepare a summary of the Motor Vehicles (Amendment) Act, 2019, highlighting: revised penalty amounts, fitness certification norms, driver training requirements, vehicle tracking mandates, insurance provisions, and goods carriage regulations. Provide a table mapping old vs. new penalties for easy reference." Inputs Required from User: Fleet size and vehicle types Routes and states of operation Current safety and compliance measures`
 
-Summary of RERA Provisions for Real Estate Developers
+## Summary of RERA Provisions for Real Estate Developers
 
-Backstory:
+`Backstory:`
 
-A mid-sized property developer in Hyderabad is planning to launch two new residential projects and wants to ensure full compliance with the Real Estate (Regulation and Development) Act, 2016 (RERA). The marketing team also needs clarity on permissible advertising claims under the Act.
+`A mid-sized property developer in Hyderabad is planning to launch two new residential projects and wants to ensure full compliance with the Real Estate (Regulation and Development) Act, 2016 (RERA). The marketing team also needs clarity on permissible advertising claims under the Act.`
 
-Goal:
+`Goal:`
 
-Create a RERA compliance research summary for developers.
+`Create a RERA compliance research summary for developers.`
 
-Prompt:
+`Prompt:`
 
-"You are a real estate law specialist. Draft a legal research summary of RERA provisions applicable to developers, covering: project registration process, escrow account requirements, disclosure norms, timelines for possession, penalty provisions, and restrictions on marketing claims. Include a compliance timeline from project conception to handover." Inputs Required from User: State of project location Number of units planned Estimated project value
+`"You are a real estate law specialist. Draft a legal research summary of RERA provisions applicable to developers, covering: project registration process, escrow account requirements, disclosure norms, timelines for possession, penalty provisions, and restrictions on marketing claims. Include a compliance timeline from project conception to handover." Inputs Required from User: State of project location Number of units planned Estimated project value`
 
-Summary of SEZ Rules for Export-Oriented IT Companies
+## Summary of SEZ Rules for Export-Oriented IT Companies
 
-Backstory:
+`Backstory:`
 
-An IT services firm operating from an SEZ in Chennai wants to expand its export operations. The CFO has requested a summary of SEZ rules, benefits, and compliance requirements to ensure smooth expansion without risking the loss of SEZ incentives.
+`An IT services firm operating from an SEZ in Chennai wants to expand its export operations. The CFO has requested a summary of SEZ rules, benefits, and compliance requirements to ensure smooth expansion without risking the loss of SEZ incentives.`
 
-Goal:
+`Goal:`
 
-Summarise SEZ rules and compliance requirements for IT companies.
+`Summarise SEZ rules and compliance requirements for IT companies.`
 
-Prompt:
+`Prompt:`
 
-"You are a trade and export compliance researcher. Prepare a structured summary of SEZ Act and Rules provisions applicable to IT/ITES companies, covering: eligibility criteria, tax incentives, customs duty exemptions, performance obligations, reporting requirements, and exit procedures. Include a risk matrix for non-compliance." Inputs Required from User: Size of SEZ unit (employees and floor area) Annual export turnover Countries served
+`"You are a trade and export compliance researcher. Prepare a structured summary of SEZ Act and Rules provisions applicable to IT/ITES companies, covering: eligibility criteria, tax incentives, customs duty exemptions, performance obligations, reporting requirements, and exit procedures. Include a risk matrix for non-compliance." Inputs Required from User: Size of SEZ unit (employees and floor area) Annual export turnover Countries served`
 
-Summary of Factories Act Compliance for Manufacturing SMEs
+## Summary of Factories Act Compliance for Manufacturing SMEs
 
-Backstory:
+`Backstory:`
 
-A small-scale engineering goods manufacturer in Ludhiana has recently increased its workforce from 15 to 45 employees, triggering additional compliance obligations under the Factories Act. The owner wants a research summary to understand safety, welfare, and working hours requirements.
+`A small-scale engineering goods manufacturer in Ludhiana has recently increased its workforce from 15 to 45 employees, triggering additional compliance obligations under the Factories Act. The owner wants a research summary to understand safety, welfare, and working hours requirements.`
 
-Goal:
+`Goal:`
 
-Summarise the Factories Act compliance obligations for SMEs.
+`Summarise the Factories Act compliance obligations for SMEs.`
 
-Prompt:
+`Prompt:`
 
-"You are an industrial law researcher. Draft a legal research summary of the Factories Act provisions applicable to SMEs, covering: worker safety measures, working hours and overtime limits, welfare amenities, health inspections, annual return filings, and penalty provisions. Include a compliance calendar for SMEs." Inputs Required from User: Industry type Total number of employees Factory location and state
+`"You are an industrial law researcher. Draft a legal research summary of the Factories Act provisions applicable to SMEs, covering: worker safety measures, working hours and overtime limits, welfare amenities, health inspections, annual return filings, and penalty provisions. Include a compliance calendar for SMEs." Inputs Required from User: Industry type Total number of employees Factory location and state`
 
-Summary of Prevention of Sexual Harassment (POSH) Act Compliance
+## Summary of Prevention of Sexual Harassment (POSH) Act Compliance
 
-Backstory:
+`Backstory:`
 
-A growing media company in Mumbai with 60 employees is updating its workplace policies and wants a research summary on POSH Act requirements to implement an Internal Committee and awareness programs.
+`A growing media company in Mumbai with 60 employees is updating its workplace policies and wants a research summary on POSH Act requirements to implement an Internal Committee and awareness programs.`
 
-Goal:
+`Goal:`
 
-Summarise POSH Act compliance requirements for private companies.
+`Summarise POSH Act compliance requirements for private companies.`
 
-Prompt:
+`Prompt:`
 
-"You are an employment compliance researcher. Prepare a legal research summary on the POSH Act, covering: constitution of the Internal Committee, roles and responsibilities, complaint handling process, confidentiality provisions, employer obligations, annual reporting requirements, and penalties for non-compliance. Include a model awareness program outline." Inputs Required from User: Number of employees Presence of multiple branches or offices Existing HR grievance mechanisms
+`"You are an employment compliance researcher. Prepare a legal research summary on the POSH Act, covering: constitution of the Internal Committee, roles and responsibilities, complaint handling process, confidentiality provisions, employer obligations, annual reporting requirements, and penalties for non-compliance. Include a model awareness program outline." Inputs Required from User: Number of employees Presence of multiple branches or offices Existing HR grievance mechanisms`
 
-Summary of CSR Compliance under Companies Act
+## Summary of CSR Compliance under Companies Act
 
-Backstory:
+`Backstory:`
 
-A listed pharmaceutical company in Ahmedabad wants to revise its CSR activities for the upcoming year. The CSR head needs a legal research summary to ensure compliance with Section 135 of the Companies Act and recent amendments.
+`A listed pharmaceutical company in Ahmedabad wants to revise its CSR activities for the upcoming year. The CSR head needs a legal research summary to ensure compliance with Section 135 of the Companies Act and recent amendments.`
 
-Goal:
+`Goal:`
 
-Summarise CSR obligations and reporting requirements.
+`Summarise CSR obligations and reporting requirements.`
 
-Prompt:
+`Prompt:`
 
-"You are a corporate law researcher. Draft a structured summary of CSR provisions under the Companies Act, covering: eligibility thresholds, minimum spending requirements, approved CSR activities, reporting formats, unspent CSR amount treatment, and penalties. Provide examples of compliant CSR projects in the pharmaceutical sector." Inputs Required from User: Average net profit over the last 3 years Current CSR focus areas Geographic scope of CSR projects
+`"You are a corporate law researcher. Draft a structured summary of CSR provisions under the Companies Act, covering: eligibility thresholds, minimum spending requirements, approved CSR activities, reporting formats, unspent CSR amount treatment, and penalties. Provide examples of compliant CSR projects in the pharmaceutical sector." Inputs Required from User: Average net profit over the last 3 years Current CSR focus areas Geographic scope of CSR projects`
 
-Summary of Income Tax Provisions for Freelancers
+## Summary of Income Tax Provisions for Freelancers
 
-Backstory:
+`Backstory:`
 
-A graphic designer based in Pune works with clients across India and abroad. She wants a legal research summary on her tax obligations, deductions available, and GST applicability to her freelancing work.
+`A graphic designer based in Pune works with clients across India and abroad. She wants a legal research summary on her tax obligations, deductions available, and GST applicability to her freelancing work.`
 
-Goal:
+`Goal:`
 
-Provide a freelancer-specific tax compliance summary.
+`Provide a freelancer-specific tax compliance summary.`
 
-Prompt:
+`Prompt:`
 
-"You are a tax law researcher. Prepare a legal research summary of income tax provisions applicable to freelancers in India, covering: tax slab applicability, advance tax rules, allowable deductions, GST registration thresholds, invoicing requirements, and foreign payment tax treatment under DTAA." Inputs Required from User: Annual turnover Type of services provided Domestic vs. foreign client split
+`"You are a tax law researcher. Prepare a legal research summary of income tax provisions applicable to freelancers in India, covering: tax slab applicability, advance tax rules, allowable deductions, GST registration thresholds, invoicing requirements, and foreign payment tax treatment under DTAA." Inputs Required from User: Annual turnover Type of services provided Domestic vs. foreign client split`
 
-Summary of Data Retention Laws for Financial Institutions
+## Summary of Data Retention Laws for Financial Institutions
 
-Backstory:
+`Backstory:`
 
-A mid-sized NBFC in Delhi wants to upgrade its IT systems to align with RBI data retention and reporting requirements. The compliance team needs a legal research summary to guide system changes.
+`A mid-sized NBFC in Delhi wants to upgrade its IT systems to align with RBI data retention and reporting requirements. The compliance team needs a legal research summary to guide system changes.`
 
-Goal:
+`Goal:`
 
-Summarise RBI data retention guidelines for NBFCs and banks.
+`Summarise RBI data retention guidelines for NBFCs and banks.`
 
-Prompt:
+`Prompt:`
 
-"You are a financial regulatory researcher. Draft a legal research summary of data retention requirements for Indian financial institutions, covering: retention timelines, permitted formats, confidentiality provisions, customer data disposal guidelines, and penalties for premature deletion." Inputs Required from User: Type of financial institution Volume of customer data stored Current IT infrastructure
+`"You are a financial regulatory researcher. Draft a legal research summary of data retention requirements for Indian financial institutions, covering: retention timelines, permitted formats, confidentiality provisions, customer data disposal guidelines, and penalties for premature deletion." Inputs Required from User: Type of financial institution Volume of customer data stored Current IT infrastructure`
 
-Summary of Labour Law Applicability for Gig Economy Platforms
+## Summary of Labour Law Applicability for Gig Economy Platforms
 
-Backstory:
+`Backstory:`
 
-A Bengaluru-based ride-hailing app is reviewing its worker classification policies in light of ongoing debates on gig worker rights. The legal team wants a research summary of labour law applicability to gig platforms.
+`A Bengaluru-based ride-hailing app is reviewing its worker classification policies in light of ongoing debates on gig worker rights. The legal team wants a research summary of labour law applicability to gig platforms.`
 
-Goal:
+`Goal:`
 
-Summarise Indian labour law implications for gig economy companies.
+`Summarise Indian labour law implications for gig economy companies.`
 
-Prompt:
+`Prompt:`
 
-"You are a labour law policy researcher. Prepare a legal research summary on the applicability of Indian labour laws to gig workers, covering: minimum wage applicability, social security benefits, insurance obligations, contract structuring, and state-level policy developments." Inputs Required from User: Type of gig platform (delivery, transport, freelance marketplace) Number of active gig workers Revenue model
+`"You are a labour law policy researcher. Prepare a legal research summary on the applicability of Indian labour laws to gig workers, covering: minimum wage applicability, social security benefits, insurance obligations, contract structuring, and state-level policy developments." Inputs Required from User: Type of gig platform (delivery, transport, freelance marketplace) Number of active gig workers Revenue model`
 
-Summary of Foreign Trade Policy Provisions for Export Startups
+## Summary of Foreign Trade Policy Provisions for Export Startups
 
-Backstory:
+`Backstory:`
 
-A handicraft export startup in Jaipur wants to expand to new markets. The founder needs a research summary of India’s Foreign Trade Policy to identify incentives and compliance obligations.
+`A handicraft export startup in Jaipur wants to expand to new markets. The founder needs a research summary of India’s Foreign Trade Policy to identify incentives and compliance obligations.`
 
-Goal:
+`Goal:`
 
-Summarise Foreign Trade Policy provisions for small exporters.
+`Summarise Foreign Trade Policy provisions for small exporters.`
 
-Prompt:
+`Prompt:`
 
-"You are a trade policy researcher. Draft a legal research summary of India’s Foreign Trade Policy, covering: export promotion schemes, duty drawback provisions, export documentation requirements, eligibility for SEIS benefits, and DGFT compliance." Inputs Required from User: Product category Export volume Target markets
+`"You are a trade policy researcher. Draft a legal research summary of India’s Foreign Trade Policy, covering: export promotion schemes, duty drawback provisions, export documentation requirements, eligibility for SEIS benefits, and DGFT compliance." Inputs Required from User: Product category Export volume Target markets`
 
-Summary of Patents Act for Technology Startups
+## Summary of Patents Act for Technology Startups
 
-Backstory:
+`Backstory:`
 
-A deep-tech startup in Hyderabad has developed a novel AI algorithm and wants to explore patent protection in India. The CTO needs a legal research summary of the Patents Act and filing process.
+`A deep-tech startup in Hyderabad has developed a novel AI algorithm and wants to explore patent protection in India. The CTO needs a legal research summary of the Patents Act and filing process.`
 
-Goal:
+`Goal:`
 
-Summarise patent law provisions for Indian tech startups.
+`Summarise patent law provisions for Indian tech startups.`
 
-Prompt:
+`Prompt:`
 
-"You are an IP law researcher. Prepare a summary of the Indian Patents Act provisions relevant to technology startups, covering: patentability criteria, filing process, provisional vs. complete specification, timelines, examination procedures, and infringement remedies." Inputs Required from User: Type of innovation Stage of development (prototype/pilot) Planned filing jurisdictions
+`"You are an IP law researcher. Prepare a summary of the Indian Patents Act provisions relevant to technology startups, covering: patentability criteria, filing process, provisional vs. complete specification, timelines, examination procedures, and infringement remedies." Inputs Required from User: Type of innovation Stage of development (prototype/pilot) Planned filing jurisdictions`
 
-Summary of FEMA Provisions on Overseas Direct Investment (ODI)
+## Summary of FEMA Provisions on Overseas Direct Investment (ODI)
 
-Backstory:
+`Backstory:`
 
-An Indian healthcare company is planning to acquire a minority stake in a UK-based wellness chain. The CFO wants a legal research summary of FEMA provisions on ODI.
+`An Indian healthcare company is planning to acquire a minority stake in a UK-based wellness chain. The CFO wants a legal research summary of FEMA provisions on ODI.`
 
-Goal:
+`Goal:`
 
-Summarise ODI compliance requirements for Indian companies.
+`Summarise ODI compliance requirements for Indian companies.`
 
-Prompt:
+`Prompt:`
 
-"You are a foreign exchange law analyst. Draft a legal research summary of FEMA provisions on ODI, covering: eligibility criteria, investment limits, approval requirements, reporting to RBI, repatriation rules, and penalties." Inputs Required from User: Investment amount Destination country Nature of investment (equity, JV, WOS)
+`"You are a foreign exchange law analyst. Draft a legal research summary of FEMA provisions on ODI, covering: eligibility criteria, investment limits, approval requirements, reporting to RBI, repatriation rules, and penalties." Inputs Required from User: Investment amount Destination country Nature of investment (equity, JV, WOS)`
 
-Summary of Insolvency and Bankruptcy Code (IBC) Provisions for SMEs
+## Summary of Insolvency and Bankruptcy Code (IBC) Provisions for SMEs
 
-Backstory:
+`Backstory:`
 
-A small manufacturing company in Gujarat is facing cash flow problems and wants to explore restructuring options under the IBC. The founder needs a legal research summary.
+`A small manufacturing company in Gujarat is facing cash flow problems and wants to explore restructuring options under the IBC. The founder needs a legal research summary.`
 
-Goal:
+`Goal:`
 
-Summarise IBC provisions applicable to SMEs.
+`Summarise IBC provisions applicable to SMEs.`
 
-Prompt:
+`Prompt:`
 
-"You are a corporate insolvency researcher. Draft a legal research summary of IBC provisions for MSMEs, covering: applicability thresholds, pre-pack insolvency process, timelines, creditor rights, resolution plan requirements, and liquidation provisions." Inputs Required from User: Company size (turnover and debt) Type of creditors involved Restructuring objectives
+`"You are a corporate insolvency researcher. Draft a legal research summary of IBC provisions for MSMEs, covering: applicability thresholds, pre-pack insolvency process, timelines, creditor rights, resolution plan requirements, and liquidation provisions." Inputs Required from User: Company size (turnover and debt) Type of creditors involved Restructuring objectives`
 
-Summary of DPDP Act for Mobile App Developers
+## Summary of DPDP Act for Mobile App Developers
 
-Backstory:
+`Backstory:`
 
-An app development company in Pune creates lifestyle and health tracking apps that collect user data. The product head needs a research summary on the Digital Personal Data Protection (DPDP) Act to align product features with legal obligations.
+`An app development company in Pune creates lifestyle and health tracking apps that collect user data. The product head needs a research summary on the Digital Personal Data Protection (DPDP) Act to align product features with legal obligations.`
 
-Goal:
+`Goal:`
 
-Summarise DPDP Act compliance requirements for app developers.
+`Summarise DPDP Act compliance requirements for app developers.`
 
-Prompt:
+`Prompt:`
 
-"You are a data privacy law researcher. Draft a legal research summary of the DPDP Act, covering: user consent requirements, purpose limitation, data minimisation, retention timelines, user rights handling, breach notification, and penalties. Include best practices for app-based consent flows." Inputs Required from User: Type of user data collected Number of active users Whether data is shared with third parties
+`"You are a data privacy law researcher. Draft a legal research summary of the DPDP Act, covering: user consent requirements, purpose limitation, data minimisation, retention timelines, user rights handling, breach notification, and penalties. Include best practices for app-based consent flows." Inputs Required from User: Type of user data collected Number of active users Whether data is shared with third parties`
 
 
 Tender Documentation Guides
