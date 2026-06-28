@@ -1064,592 +1064,592 @@ Create a simulation exercise that improves prioritization and time management sk
 
 `Backstory:`
 
-A mid-sized IT company in Pune wants to groom its senior managers for C-suite positions. Many of these managers have strong technical expertise but limited exposure to strategic decision-making, people leadership, and financial acumen. The HR Director wants a 12-week structured executive course that blends theory, case studies, and real-world application.
+`A mid-sized IT company in Pune wants to groom its senior managers for C-suite positions. Many of these managers have strong technical expertise but limited exposure to strategic decision-making, people leadership, and financial acumen. The HR Director wants a 12-week structured executive course that blends theory, case studies, and real-world application.`
 
-Goal:
+`Goal:`
 
-Create a 12-week executive leadership development course outline for senior managers preparing for top leadership roles.
+`Create a 12-week executive leadership development course outline for senior managers preparing for top leadership roles.`
 
-Prompt:
+`Prompt:`
 
-"You are an executive training program designer. Create a 12-week leadership development curriculum for senior managers, covering: strategic thinking, advanced people management, financial decision-making, negotiation skills, change management, and global business trends. Include weekly learning objectives, session formats (lectures, workshops, simulations), reading lists, guest speaker suggestions, and assessment methods." Inputs Required from User: Industry and business size Participant seniority level Preferred delivery format (online/offline/blended) Budget for guest speakers and materials
+`"You are an executive training program designer. Create a 12-week leadership development curriculum for senior managers, covering: strategic thinking, advanced people management, financial decision-making, negotiation skills, change management, and global business trends. Include weekly learning objectives, session formats (lectures, workshops, simulations), reading lists, guest speaker suggestions, and assessment methods." Inputs Required from User: Industry and business size Participant seniority level Preferred delivery format (online/offline/blended) Budget for guest speakers and materials`
 
-Executive Finance for Non-Financial Managers (8 Weeks)
+## Executive Finance for Non-Financial Managers (8 Weeks)
 
-Backstory:
+`Backstory:`
 
-A group of senior project managers in a manufacturing company in Ahmedabad have been promoted to roles that require regular interaction with finance teams. They lack formal finance education but need to interpret financial statements, budget forecasts, and ROI calculations to make informed decisions.
+`A group of senior project managers in a manufacturing company in Ahmedabad have been promoted to roles that require regular interaction with finance teams. They lack formal finance education but need to interpret financial statements, budget forecasts, and ROI calculations to make informed decisions.`
 
-Goal:
+`Goal:`
 
-Design an 8-week executive course that equips non-financial managers with essential financial literacy for strategic decision-making.
+`Design an 8-week executive course that equips non-financial managers with essential financial literacy for strategic decision-making.`
 
-Prompt:
+`Prompt:`
 
-"You are a corporate finance educator. Design an 8-week finance fundamentals course for non-financial executives, covering: interpreting balance sheets and P&L statements, cash flow analysis, cost control, capital budgeting, risk assessment, and financial KPI tracking. Include interactive exercises, case studies, and real company examples relevant to the participants’ industry." Inputs Required from User: Industry type Common financial documents managers need to review Current finance knowledge level of participants Time commitment per week
+`"You are a corporate finance educator. Design an 8-week finance fundamentals course for non-financial executives, covering: interpreting balance sheets and P&L statements, cash flow analysis, cost control, capital budgeting, risk assessment, and financial KPI tracking. Include interactive exercises, case studies, and real company examples relevant to the participants’ industry." Inputs Required from User: Industry type Common financial documents managers need to review Current finance knowledge level of participants Time commitment per week`
 
-Strategic Innovation & Disruption Management (6 Weeks)
+# Strategic Innovation & Disruption Management (6 Weeks)
 
-Backstory:
+`Backstory:`
 
-A consumer electronics company in Bengaluru is facing aggressive competition from global brands. Their senior leadership team needs to develop the capability to identify disruptive market trends early and pivot strategies quickly. The CEO wants a 6-week executive program focused on innovation strategy and execution.
+`A consumer electronics company in Bengaluru is facing aggressive competition from global brands. Their senior leadership team needs to develop the capability to identify disruptive market trends early and pivot strategies quickly. The CEO wants a 6-week executive program focused on innovation strategy and execution.`
 
-Goal:
+`Goal:`
 
-Create a 6-week executive course on managing innovation and disruption in competitive markets.
+`Create a 6-week executive course on managing innovation and disruption in competitive markets.`
 
-Prompt:
+`Prompt:`
 
-"You are a corporate innovation strategist. Build a 6-week course outline for executives on innovation management, covering: identifying disruptive trends, fostering intrapreneurship, open innovation models, rapid prototyping, risk mitigation in innovation projects, and scaling successful pilots. Include hands-on innovation labs, competitor case studies, and group strategy simulations." Inputs Required from User: Market sector Current innovation challenges Preferred case study sources (local/global) Technology adoption maturity level
+`"You are a corporate innovation strategist. Build a 6-week course outline for executives on innovation management, covering: identifying disruptive trends, fostering intrapreneurship, open innovation models, rapid prototyping, risk mitigation in innovation projects, and scaling successful pilots. Include hands-on innovation labs, competitor case studies, and group strategy simulations." Inputs Required from User: Market sector Current innovation challenges Preferred case study sources (local/global) Technology adoption maturity level`
 
-Executive Negotiation Mastery Program (5 Days)
+## Executive Negotiation Mastery Program (5 Days)
 
-Backstory:
+`Backstory:`
 
-A multinational pharmaceutical company in Hyderabad regularly negotiates multi-million-dollar contracts with suppliers, governments, and research partners. Senior executives need to strengthen negotiation skills to secure better terms without damaging long-term relationships.
+`A multinational pharmaceutical company in Hyderabad regularly negotiates multi-million-dollar contracts with suppliers, governments, and research partners. Senior executives need to strengthen negotiation skills to secure better terms without damaging long-term relationships.`
 
-Goal:
+`Goal:`
 
-Design a 5-day intensive executive program for mastering high-stakes negotiations.
+`Design a 5-day intensive executive program for mastering high-stakes negotiations.`
 
-Prompt:
+`Prompt:`
 
-"You are a corporate negotiation coach. Create a 5-day immersive executive program covering: negotiation psychology, BATNA (Best Alternative to a Negotiated Agreement) strategies, cross-cultural negotiation, handling deadlocks, ethical considerations, and post-negotiation relationship management. Include role-play exercises, video analysis of real negotiations, and a final capstone simulation." Inputs Required from User: Types of negotiations handled Average deal sizes and stakes Participant prior negotiation experience Willingness to record and review role-play sessions
+`"You are a corporate negotiation coach. Create a 5-day immersive executive program covering: negotiation psychology, BATNA (Best Alternative to a Negotiated Agreement) strategies, cross-cultural negotiation, handling deadlocks, ethical considerations, and post-negotiation relationship management. Include role-play exercises, video analysis of real negotiations, and a final capstone simulation." Inputs Required from User: Types of negotiations handled Average deal sizes and stakes Participant prior negotiation experience Willingness to record and review role-play sessions`
 
-Executive Time & Energy Management for Peak Performance (4 Weeks)
+## Executive Time & Energy Management for Peak Performance (4 Weeks)
 
-Backstory:
+`Backstory:`
 
-A high-growth fintech startup in Mumbai has executives working 60–70 hours a week, leading to burnout and poor decision-making. The COO wants a short, impactful course that teaches leaders how to manage their time, energy, and focus for sustained performance.
+`A high-growth fintech startup in Mumbai has executives working 60–70 hours a week, leading to burnout and poor decision-making. The COO wants a short, impactful course that teaches leaders how to manage their time, energy, and focus for sustained performance.`
 
-Goal:
+`Goal:`
 
-Create a 4-week executive course on time and energy management.
+`Create a 4-week executive course on time and energy management.`
 
-Prompt:
+`Prompt:`
 
-"You are an executive productivity consultant. Develop a 4-week curriculum for senior leaders on time and energy optimization, covering: priority management frameworks (Eisenhower Matrix, OKRs), meeting efficiency techniques, energy rhythm alignment, delegation mastery, and digital distraction control. Include personal productivity assessments, weekly implementation challenges, and accountability tracking." Inputs Required from User: Current workload and time management challenges Industry pace and decision-making cycles Number of participants Preferred training format
+`"You are an executive productivity consultant. Develop a 4-week curriculum for senior leaders on time and energy optimization, covering: priority management frameworks (Eisenhower Matrix, OKRs), meeting efficiency techniques, energy rhythm alignment, delegation mastery, and digital distraction control. Include personal productivity assessments, weekly implementation challenges, and accountability tracking." Inputs Required from User: Current workload and time management challenges Industry pace and decision-making cycles Number of participants Preferred training format`
 
-Global Business Strategy & Cross-Cultural Leadership (10 Weeks)
+## Global Business Strategy & Cross-Cultural Leadership (10 Weeks)
 
-Backstory:
+`Backstory:`
 
-A large Indian IT services company based in Bengaluru is expanding into Europe and Southeast Asia. Their senior leadership team will be managing culturally diverse teams, navigating different regulatory frameworks, and negotiating with international clients. They need a structured course to develop cross-cultural leadership and global business strategy skills.
+`A large Indian IT services company based in Bengaluru is expanding into Europe and Southeast Asia. Their senior leadership team will be managing culturally diverse teams, navigating different regulatory frameworks, and negotiating with international clients. They need a structured course to develop cross-cultural leadership and global business strategy skills.`
 
-Goal:
+`Goal:`
 
-Design a 10-week executive course that builds the ability to lead in international markets while formulating adaptable global strategies.
+`Design a 10-week executive course that builds the ability to lead in international markets while formulating adaptable global strategies.`
 
-Prompt:
+`Prompt:`
 
-"You are a global leadership trainer. Design a 10-week curriculum for executives on cross-cultural leadership and global strategy, covering: cultural intelligence (CQ) development, global market entry strategies, international negotiation tactics, geopolitical risk assessment, building remote multicultural teams, and global ethics compliance. Include cultural simulation workshops, global business case studies, and role-play exercises for international client scenarios." Inputs Required from User: Target countries/markets Current cross-border business challenges Language and cultural diversity in teams Leadership experience with global projects
+`"You are a global leadership trainer. Design a 10-week curriculum for executives on cross-cultural leadership and global strategy, covering: cultural intelligence (CQ) development, global market entry strategies, international negotiation tactics, geopolitical risk assessment, building remote multicultural teams, and global ethics compliance. Include cultural simulation workshops, global business case studies, and role-play exercises for international client scenarios." Inputs Required from User: Target countries/markets Current cross-border business challenges Language and cultural diversity in teams Leadership experience with global projects`
 
-Advanced Digital Transformation Leadership Program (8 Weeks)
+## Advanced Digital Transformation Leadership Program (8 Weeks)
 
-Backstory:
+`Backstory:`
 
-A 40-year-old manufacturing conglomerate in Pune is undergoing a major digital transformation — implementing IoT, AI, and ERP upgrades. Senior leaders need to understand not just the technologies but also the organizational change management required for success.
+`A 40-year-old manufacturing conglomerate in Pune is undergoing a major digital transformation — implementing IoT, AI, and ERP upgrades. Senior leaders need to understand not just the technologies but also the organizational change management required for success.`
 
-Goal:
+`Goal:`
 
-Develop an 8-week executive course that equips leaders to lead digital transformation projects effectively.
+`Develop an 8-week executive course that equips leaders to lead digital transformation projects effectively.`
 
-Prompt:
+`Prompt:`
 
-"You are a digital transformation advisor. Create an 8-week executive course covering: digital maturity assessment, technology adoption frameworks, integrating AI/IoT into operations, change management principles, cybersecurity considerations, and ROI measurement for digital initiatives. Include transformation roadmapping exercises, internal communication strategies, and live case studies of successful digital transitions in manufacturing." Inputs Required from User: Current digital maturity level Technologies being implemented Leadership familiarity with digital projects Available transformation budget
+`"You are a digital transformation advisor. Create an 8-week executive course covering: digital maturity assessment, technology adoption frameworks, integrating AI/IoT into operations, change management principles, cybersecurity considerations, and ROI measurement for digital initiatives. Include transformation roadmapping exercises, internal communication strategies, and live case studies of successful digital transitions in manufacturing." Inputs Required from User: Current digital maturity level Technologies being implemented Leadership familiarity with digital projects Available transformation budget`
 
-Crisis Management & Business Continuity for Executives (5 Weeks)
+## Crisis Management & Business Continuity for Executives (5 Weeks)
 
-Backstory:
+`Backstory:`
 
-A mid-sized logistics company in Mumbai suffered major operational disruptions during the COVID-19 lockdowns and subsequent port strikes. The CEO now wants the leadership team trained in anticipating, preparing for, and managing crises while ensuring business continuity.
+`A mid-sized logistics company in Mumbai suffered major operational disruptions during the COVID-19 lockdowns and subsequent port strikes. The CEO now wants the leadership team trained in anticipating, preparing for, and managing crises while ensuring business continuity.`
 
-Goal:
+`Goal:`
 
-Design a 5-week executive course focused on proactive crisis management and business continuity planning.
+`Design a 5-week executive course focused on proactive crisis management and business continuity planning.`
 
-Prompt:
+`Prompt:`
 
-"You are a business continuity expert. Develop a 5-week curriculum for executives on crisis preparedness and response, covering: risk identification, scenario planning, crisis communication protocols, supply chain resilience, leadership during emergencies, and post-crisis recovery. Include mock crisis drills, cross-functional coordination exercises, and business continuity plan development." Inputs Required from User: Industry-specific risks Past crisis experiences Current business continuity measures Size and structure of leadership team
+`"You are a business continuity expert. Develop a 5-week curriculum for executives on crisis preparedness and response, covering: risk identification, scenario planning, crisis communication protocols, supply chain resilience, leadership during emergencies, and post-crisis recovery. Include mock crisis drills, cross-functional coordination exercises, and business continuity plan development." Inputs Required from User: Industry-specific risks Past crisis experiences Current business continuity measures Size and structure of leadership team`
 
-Advanced Strategic Decision-Making for Senior Executives (6 Weeks)
+## Advanced Strategic Decision-Making for Senior Executives (6 Weeks)
 
-Backstory:
+`Backstory:`
 
-A financial services company in Delhi is looking to train its leadership team on making high-stakes decisions that impact millions in revenue. The CEO wants them to learn structured decision-making frameworks, risk-reward evaluation, and data-driven strategy selection.
+`A financial services company in Delhi is looking to train its leadership team on making high-stakes decisions that impact millions in revenue. The CEO wants them to learn structured decision-making frameworks, risk-reward evaluation, and data-driven strategy selection.`
 
-Goal:
+`Goal:`
 
-Create a 6-week executive course on advanced decision-making skills for strategic leadership.
+`Create a 6-week executive course on advanced decision-making skills for strategic leadership.`
 
-Prompt:
+`Prompt:`
 
-"You are a strategic decision-making coach. Design a 6-week curriculum covering: decision-making models (OODA loop, decision trees, Monte Carlo simulations), data interpretation for strategic choices, stakeholder impact mapping, managing uncertainty, and evaluating trade-offs. Include real-world business dilemmas, group decision-making labs, and post-decision review exercises." Inputs Required from User: Types of strategic decisions made Available data analytics capabilities Industry volatility level Executive experience in risk analysis
+`"You are a strategic decision-making coach. Design a 6-week curriculum covering: decision-making models (OODA loop, decision trees, Monte Carlo simulations), data interpretation for strategic choices, stakeholder impact mapping, managing uncertainty, and evaluating trade-offs. Include real-world business dilemmas, group decision-making labs, and post-decision review exercises." Inputs Required from User: Types of strategic decisions made Available data analytics capabilities Industry volatility level Executive experience in risk analysis`
 
-Executive Brand Building & Public Influence Program (4 Weeks)
+## Executive Brand Building & Public Influence Program (4 Weeks)
 
-Backstory:
+`Backstory:`
 
-A high-profile startup founder in Bengaluru is receiving frequent invitations to industry panels, podcasts, and news interviews. However, they want to refine their executive presence, storytelling ability, and thought leadership content to position themselves as an industry authority.
+`A high-profile startup founder in Bengaluru is receiving frequent invitations to industry panels, podcasts, and news interviews. However, they want to refine their executive presence, storytelling ability, and thought leadership content to position themselves as an industry authority.`
 
-Goal:
+`Goal:`
 
-Develop a 4-week executive brand-building program to help leaders increase visibility and influence.
+`Develop a 4-week executive brand-building program to help leaders increase visibility and influence.`
 
-Prompt:
+`Prompt:`
 
-"You are an executive branding consultant. Create a 4-week curriculum for senior leaders on building personal and corporate brand influence, covering: executive presence, media training, keynote speaking skills, thought leadership content creation, and social media strategy for executives. Include mock interviews, public speaking drills, and content calendar planning exercises." Inputs Required from User: Industry and audience profile Current brand visibility level Platforms where influence is desired Speaking and writing comfort level
+`"You are an executive branding consultant. Create a 4-week curriculum for senior leaders on building personal and corporate brand influence, covering: executive presence, media training, keynote speaking skills, thought leadership content creation, and social media strategy for executives. Include mock interviews, public speaking drills, and content calendar planning exercises." Inputs Required from User: Industry and audience profile Current brand visibility level Platforms where influence is desired Speaking and writing comfort level`
 
-Mergers & Acquisitions Leadership Program (7 Weeks)
+## Mergers & Acquisitions Leadership Program (7 Weeks)
 
-Backstory:
+`Backstory:`
 
-A conglomerate headquartered in Gurugram is actively acquiring smaller companies to diversify its portfolio. The leadership team needs to sharpen its M&A skills to handle due diligence, integration planning, and post-merger cultural alignment. The CEO wants them trained not just in financial evaluation but also in people and process integration.
+`A conglomerate headquartered in Gurugram is actively acquiring smaller companies to diversify its portfolio. The leadership team needs to sharpen its M&A skills to handle due diligence, integration planning, and post-merger cultural alignment. The CEO wants them trained not just in financial evaluation but also in people and process integration.`
 
-Goal:
+`Goal:`
 
-Create a 7-week executive course that equips leaders to lead M&A deals from inception to integration.
+`Create a 7-week executive course that equips leaders to lead M&A deals from inception to integration.`
 
-Prompt:
+`Prompt:`
 
-"You are an M&A strategy consultant. Design a 7-week curriculum for senior executives covering: M&A strategy formulation, due diligence checklists, deal structuring and valuation, negotiation techniques, integration planning, cultural alignment strategies, and post-merger performance tracking. Include real-world M&A case studies, financial modeling exercises, and mock negotiation simulations." Inputs Required from User: Industry sectors for M&A Size and complexity of target acquisitions Leadership experience in deal-making Available M&A advisory support
+`"You are an M&A strategy consultant. Design a 7-week curriculum for senior executives covering: M&A strategy formulation, due diligence checklists, deal structuring and valuation, negotiation techniques, integration planning, cultural alignment strategies, and post-merger performance tracking. Include real-world M&A case studies, financial modeling exercises, and mock negotiation simulations." Inputs Required from User: Industry sectors for M&A Size and complexity of target acquisitions Leadership experience in deal-making Available M&A advisory support`
 
-ESG & Sustainable Business Leadership (6 Weeks)
+## ESG & Sustainable Business Leadership (6 Weeks)
 
-Backstory:
+`Backstory:`
 
-A top FMCG company in India is under investor pressure to improve its ESG (Environmental, Social, Governance) ratings. Senior executives need to align business operations with sustainability goals without compromising profitability.
+`A top FMCG company in India is under investor pressure to improve its ESG (Environmental, Social, Governance) ratings. Senior executives need to align business operations with sustainability goals without compromising profitability.`
 
-Goal:
+`Goal:`
 
-Develop a 6-week executive training program on embedding ESG into core business strategies.
+`Develop a 6-week executive training program on embedding ESG into core business strategies.`
 
-Prompt:
+`Prompt:`
 
-"You are a sustainability strategist. Create a 6-week executive course covering: ESG frameworks and reporting standards, sustainability-driven innovation, supply chain decarbonization, diversity & inclusion leadership, circular economy models, and investor communication on ESG metrics. Include case studies from global leaders, ESG impact measurement tools, and sustainability roadmap creation exercises." Inputs Required from User: Current ESG ratings and initiatives Industry-specific environmental impact Corporate social responsibility budget Investor expectations and compliance needs
+`"You are a sustainability strategist. Create a 6-week executive course covering: ESG frameworks and reporting standards, sustainability-driven innovation, supply chain decarbonization, diversity & inclusion leadership, circular economy models, and investor communication on ESG metrics. Include case studies from global leaders, ESG impact measurement tools, and sustainability roadmap creation exercises." Inputs Required from User: Current ESG ratings and initiatives Industry-specific environmental impact Corporate social responsibility budget Investor expectations and compliance needs`
 
-High-Impact Negotiation Skills for Executives (5 Weeks)
+## High-Impact Negotiation Skills for Executives (5 Weeks)
 
-Backstory:
+`Backstory:
 
-A senior VP at a multinational real estate firm in Mumbai regularly negotiates multi-crore property deals with both domestic and international clients. They want to upgrade their negotiation skills to close deals faster and with better margins.
+`A senior VP at a multinational real estate firm in Mumbai regularly negotiates multi-crore property deals with both domestic and international clients. They want to upgrade their negotiation skills to close deals faster and with better margins.`
 
-Goal:
+`Goal:`
 
-Create a 5-week advanced negotiation skills program tailored for executives.
+`Create a 5-week advanced negotiation skills program tailored for executives.`
 
-Prompt:
+`Prompt:`
 
-"You are a high-stakes negotiation coach. Design a 5-week curriculum for executives covering: advanced persuasion techniques, BATNA/WATNA analysis, cross-cultural negotiation, handling deadlocks, and using emotional intelligence in negotiations. Include role-play simulations, contract review exercises, and post-negotiation debriefs." Inputs Required from User: Nature of deals (value, frequency, type) Common negotiation challenges Cultural contexts of negotiation partners Existing negotiation frameworks in use
+`"You are a high-stakes negotiation coach. Design a 5-week curriculum for executives covering: advanced persuasion techniques, BATNA/WATNA analysis, cross-cultural negotiation, handling deadlocks, and using emotional intelligence in negotiations. Include role-play simulations, contract review exercises, and post-negotiation debriefs." Inputs Required from User: Nature of deals (value, frequency, type) Common negotiation challenges Cultural contexts of negotiation partners Existing negotiation frameworks in use`
 
-Advanced Data-Driven Leadership Program (8 Weeks)
+## Advanced Data-Driven Leadership Program (8 Weeks)
 
-Backstory:
+`Backstory:`
 
-A fast-growing edtech startup in Bengaluru wants its top leadership to make decisions backed by analytics rather than gut instinct. They need training in interpreting dashboards, asking the right data questions, and using analytics for long-term strategic planning.
+`A fast-growing edtech startup in Bengaluru wants its top leadership to make decisions backed by analytics rather than gut instinct. They need training in interpreting dashboards, asking the right data questions, and using analytics for long-term strategic planning.`
 
-Goal:
+`Goal:`
 
-Develop an 8-week executive program to integrate data-driven decision-making into leadership.
+`Develop an 8-week executive program to integrate data-driven decision-making into leadership.`
 
-Prompt:
+`Prompt:
 
-"You are a data analytics leadership trainer. Create an 8-week curriculum for executives covering: key analytics concepts, interpreting KPIs, predictive modeling for strategy, data storytelling, and integrating analytics into board-level decisions. Include hands-on work with dashboards, real business case data analysis, and decision-scenario simulations." Inputs Required from User: Data sources currently in use Leadership familiarity with analytics tools Key business metrics tracked Industry-specific data challenges
+`"You are a data analytics leadership trainer. Create an 8-week curriculum for executives covering: key analytics concepts, interpreting KPIs, predictive modeling for strategy, data storytelling, and integrating analytics into board-level decisions. Include hands-on work with dashboards, real business case data analysis, and decision-scenario simulations." Inputs Required from User: Data sources currently in use Leadership familiarity with analytics tools Key business metrics tracked Industry-specific data challenges`
 
-Advanced Risk Management & Compliance Leadership (6 Weeks)
+## Advanced Risk Management & Compliance Leadership (6 Weeks)
 
-Backstory:
+`Backstory:`
 
-A large Indian bank’s senior leadership team must oversee regulatory compliance across multiple jurisdictions while mitigating operational, financial, and cyber risks. The Chief Risk Officer wants a structured program to enhance strategic risk oversight skills.
+`A large Indian bank’s senior leadership team must oversee regulatory compliance across multiple jurisdictions while mitigating operational, financial, and cyber risks. The Chief Risk Officer wants a structured program to enhance strategic risk oversight skills.`
 
-Goal:
+`Goal:`
 
-Design a 6-week executive course that strengthens risk management capabilities in leadership.
+`Design a 6-week executive course that strengthens risk management capabilities in leadership.`
 
-Prompt:
+`Prompt:`
 
-"You are a corporate risk strategist. Create a 6-week executive curriculum covering: enterprise risk management frameworks, regulatory compliance oversight, cyber risk mitigation, stress testing, crisis escalation procedures, and board reporting for risk. Include real-world failure case studies, compliance audit walkthroughs, and scenario-based risk assessment exercises." Inputs Required from User: Regulatory frameworks applicable Types of risks most relevant Current risk governance structure History of compliance issues
+`"You are a corporate risk strategist. Create a 6-week executive curriculum covering: enterprise risk management frameworks, regulatory compliance oversight, cyber risk mitigation, stress testing, crisis escalation procedures, and board reporting for risk. Include real-world failure case studies, compliance audit walkthroughs, and scenario-based risk assessment exercises." Inputs Required from User: Regulatory frameworks applicable Types of risks most relevant Current risk governance structure History of compliance issues`
 
-Global Expansion Strategy for Executives (6 Weeks)
+## Global Expansion Strategy for Executives (6 Weeks)
 
-Backstory:
+`Backstory:`
 
-An Indian D2C fashion brand has dominated the domestic market and now plans to enter Southeast Asian and Middle Eastern markets. Senior leadership needs to understand international market entry models, cross-border compliance, and cultural marketing nuances to avoid costly mistakes.
+`An Indian D2C fashion brand has dominated the domestic market and now plans to enter Southeast Asian and Middle Eastern markets. Senior leadership needs to understand international market entry models, cross-border compliance, and cultural marketing nuances to avoid costly mistakes.`
 
-Goal:
+`Goal:`
 
-Create a 6-week executive program that equips leaders to manage global expansion effectively.
+`Create a 6-week executive program that equips leaders to manage global expansion effectively.`
 
-Prompt:
+`Prompt:`
 
-"You are an international business strategist. Develop a 6-week executive curriculum covering: market selection frameworks, entry mode strategies (JV, franchising, wholly-owned subsidiaries), international legal compliance, supply chain adaptation, cross-cultural marketing, and global team integration. Include country-specific risk analysis, competitor mapping exercises, and go-to-market simulations." Inputs Required from User: Target countries for expansion Budget allocation for global expansion Existing international partnerships Product localization requirements
+`"You are an international business strategist. Develop a 6-week executive curriculum covering: market selection frameworks, entry mode strategies (JV, franchising, wholly-owned subsidiaries), international legal compliance, supply chain adaptation, cross-cultural marketing, and global team integration. Include country-specific risk analysis, competitor mapping exercises, and go-to-market simulations." Inputs Required from User: Target countries for expansion Budget allocation for global expansion Existing international partnerships Product localization requirements`
 
-Strategic Innovation & Product Leadership Program (7 Weeks)
+## Strategic Innovation & Product Leadership Program (7 Weeks)
 
-Backstory:
+`Backstory:`
 
-A leading electronics manufacturer in Pune faces aggressive competition from global brands. The CEO wants executives to adopt a culture of innovation and launch market-winning products faster while managing R&D budgets efficiently.
+`A leading electronics manufacturer in Pune faces aggressive competition from global brands. The CEO wants executives to adopt a culture of innovation and launch market-winning products faster while managing R&D budgets efficiently.`
 
-Goal:
+`Goal:`
 
-Develop a 7-week executive course on driving innovation and product leadership.
+`Develop a 7-week executive course on driving innovation and product leadership.`
 
-Prompt:
+`Prompt:`
 
-"You are a product innovation consultant. Create a 7-week curriculum covering: innovation frameworks (Design Thinking, Lean Startup), product lifecycle management, cross-functional innovation teams, rapid prototyping, market validation techniques, and scaling innovative products. Include hands-on innovation workshops, competitor product tear-downs, and new product pitch simulations." Inputs Required from User: Industry/product category focus R&D team structure and capabilities Existing innovation processes Product launch timelines
+`"You are a product innovation consultant. Create a 7-week curriculum covering: innovation frameworks (Design Thinking, Lean Startup), product lifecycle management, cross-functional innovation teams, rapid prototyping, market validation techniques, and scaling innovative products. Include hands-on innovation workshops, competitor product tear-downs, and new product pitch simulations." Inputs Required from User: Industry/product category focus R&D team structure and capabilities Existing innovation processes Product launch timelines`
 
-Advanced Leadership for Crisis Management (5 Weeks)
+## Advanced Leadership for Crisis Management (5 Weeks)
 
-Backstory:
+`Backstory:`
 
-A top logistics firm in Delhi has faced multiple crises — from political disruptions to cyberattacks. The leadership team needs training to handle emergencies swiftly while maintaining operational continuity and stakeholder trust.
+`A top logistics firm in Delhi has faced multiple crises — from political disruptions to cyberattacks. The leadership team needs training to handle emergencies swiftly while maintaining operational continuity and stakeholder trust.`
 
-Goal:
+`Goal:`
 
-Design a 5-week course to strengthen leadership crisis management skills.
+`Design a 5-week course to strengthen leadership crisis management skills.`
 
-Prompt:
+`Prompt:`
 
-"You are a corporate crisis management expert. Build a 5-week executive course covering: crisis identification and escalation, media handling during crises, business continuity planning, stakeholder communication, and post-crisis recovery strategies. Include real-world crisis case studies, mock crisis drills, and cross-department coordination exercises." Inputs Required from User: Types of crises most likely in their industry Existing crisis management plan Key internal and external stakeholders Past crisis handling experiences
+`"You are a corporate crisis management expert. Build a 5-week executive course covering: crisis identification and escalation, media handling during crises, business continuity planning, stakeholder communication, and post-crisis recovery strategies. Include real-world crisis case studies, mock crisis drills, and cross-department coordination exercises." Inputs Required from User: Types of crises most likely in their industry Existing crisis management plan Key internal and external stakeholders Past crisis handling experiences`
 
-Ethical Leadership & Corporate Integrity Program (6 Weeks)
+## Ethical Leadership & Corporate Integrity Program (6 Weeks)
 
-Backstory:
+`Backstory:`
 
-A multinational IT services firm in Hyderabad has recently faced allegations of unethical vendor practices. The CEO wants the leadership to strengthen corporate integrity, ethical decision-making, and transparency to protect the brand’s reputation.
+`A multinational IT services firm in Hyderabad has recently faced allegations of unethical vendor practices. The CEO wants the leadership to strengthen corporate integrity, ethical decision-making, and transparency to protect the brand’s reputation.`
 
-Goal:
+`Goal:`
 
-Develop a 6-week executive program to embed ethics into leadership decision-making.
+`Develop a 6-week executive program to embed ethics into leadership decision-making.`
 
-Prompt:
+`Prompt:`
 
-"You are an ethics and governance coach. Create a 6-week curriculum covering: ethical decision-making frameworks, whistleblower policy implementation, managing conflicts of interest, vendor ethics audits, and transparent stakeholder reporting. Include case studies of ethical failures, role-play decision dilemmas, and ethics scorecard design." Inputs Required from User: Corporate code of conduct Industry-specific ethical risks Leadership exposure to ethics training Past integrity challenges faced
+`"You are an ethics and governance coach. Create a 6-week curriculum covering: ethical decision-making frameworks, whistleblower policy implementation, managing conflicts of interest, vendor ethics audits, and transparent stakeholder reporting. Include case studies of ethical failures, role-play decision dilemmas, and ethics scorecard design." Inputs Required from User: Corporate code of conduct Industry-specific ethical risks Leadership exposure to ethics training Past integrity challenges faced`
 
-Public Speaking & Thought Leadership for Executives (5 Weeks)
+## Public Speaking & Thought Leadership for Executives (5 Weeks)
 
-Backstory:
+`Backstory:`
 
-A CEO of a mid-sized renewable energy company in Chennai is being invited to high-profile conferences but struggles to deliver compelling speeches that position the company as an industry leader.
+`A CEO of a mid-sized renewable energy company in Chennai is being invited to high-profile conferences but struggles to deliver compelling speeches that position the company as an industry leader.`
 
-Goal:
+`Goal:`
 
-Create a 5-week course to transform executives into confident public speakers and thought leaders.
+`Create a 5-week course to transform executives into confident public speakers and thought leaders.`
 
-Prompt:
+`Prompt:`
 
-"You are a public speaking and branding coach. Develop a 5-week executive program covering: crafting impactful keynote speeches, storytelling for influence, stage presence mastery, handling Q&A confidently, and leveraging media interviews. Include video feedback sessions, speechwriting workshops, and mock conference presentations." Inputs Required from User: Speaking engagements scheduled Target audience types Core topics the executive wants to be known for Current public speaking experience level
+`"You are a public speaking and branding coach. Develop a 5-week executive program covering: crafting impactful keynote speeches, storytelling for influence, stage presence mastery, handling Q&A confidently, and leveraging media interviews. Include video feedback sessions, speechwriting workshops, and mock conference presentations." Inputs Required from User: Speaking engagements scheduled Target audience types Core topics the executive wants to be known for Current public speaking experience level`
 
-Digital Transformation Leadership Program (8 Weeks)
+## Digital Transformation Leadership Program (8 Weeks)
 
-Backstory:
+`Backstory:`
 
-A 30-year-old manufacturing conglomerate in India is undergoing a massive digital transformation, introducing IoT-enabled production lines, AI-powered supply chain forecasting, and a new ERP system. The top management needs to be trained to lead this transformation without disrupting day-to-day operations.
+`A 30-year-old manufacturing conglomerate in India is undergoing a massive digital transformation, introducing IoT-enabled production lines, AI-powered supply chain forecasting, and a new ERP system. The top management needs to be trained to lead this transformation without disrupting day-to-day operations.`
 
-Goal:
+`Goal:`
 
-Create an 8-week executive course to equip leaders with the skills and mindset to successfully lead digital transformation initiatives.
+`Create an 8-week executive course to equip leaders with the skills and mindset to successfully lead digital transformation initiatives.`
 
-Prompt:
+`Prompt:`
 
-"You are a digital transformation strategist. Design an 8-week program covering: assessing digital maturity, identifying technology priorities, aligning transformation with business goals, managing cross-department adoption, cybersecurity risk considerations, and measuring ROI from digital investments. Include case studies from Indian and global companies, interactive tech demos, and transformation readiness assessments." Inputs Required from User: Industry type and size Current digital tools in use Transformation budget and timeline Key business challenges expected during adoption
+`"You are a digital transformation strategist. Design an 8-week program covering: assessing digital maturity, identifying technology priorities, aligning transformation with business goals, managing cross-department adoption, cybersecurity risk considerations, and measuring ROI from digital investments. Include case studies from Indian and global companies, interactive tech demos, and transformation readiness assessments." Inputs Required from User: Industry type and size Current digital tools in use Transformation budget and timeline Key business challenges expected during adoption`
 
-Advanced Negotiation Skills for Global Business Leaders (6 Weeks)
+## Advanced Negotiation Skills for Global Business Leaders (6 Weeks)
 
-Backstory:
+`Backstory:`
 
-An export-import business in Mumbai is expanding trade partnerships in Africa and Europe. Executives need to master negotiation techniques that work across cultures, legal systems, and economic conditions.
+`An export-import business in Mumbai is expanding trade partnerships in Africa and Europe. Executives need to master negotiation techniques that work across cultures, legal systems, and economic conditions.`
 
-Goal:
+`Goal:`
 
-Create a 6-week program focused on high-stakes negotiation in international contexts.
+`Create a 6-week program focused on high-stakes negotiation in international contexts.`
 
-Prompt:
+`Prompt:`
 
-"You are a cross-cultural negotiation coach. Develop a 6-week curriculum covering: international negotiation frameworks, cultural sensitivity in deal-making, contract structuring, handling stalemates, leveraging BATNA (Best Alternative to a Negotiated Agreement), and post-deal relationship management. Include mock negotiation role plays, cross-cultural case studies, and contract review simulations." Inputs Required from User: Target countries for negotiation Industry-specific negotiation challenges Typical deal sizes and timelines Past negotiation success/failure examples
+`"You are a cross-cultural negotiation coach. Develop a 6-week curriculum covering: international negotiation frameworks, cultural sensitivity in deal-making, contract structuring, handling stalemates, leveraging BATNA (Best Alternative to a Negotiated Agreement), and post-deal relationship management. Include mock negotiation role plays, cross-cultural case studies, and contract review simulations." Inputs Required from User: Target countries for negotiation Industry-specific negotiation challenges Typical deal sizes and timelines Past negotiation success/failure examples`
 
-Executive Program in Mergers & Acquisitions Strategy (7 Weeks)
+## Executive Program in Mergers & Acquisitions Strategy (7 Weeks)
 
-Backstory:
+`Backstory:`
 
-A large tech services company in Bengaluru plans to acquire two smaller AI startups. Senior leaders need to understand the full M&A lifecycle, from deal sourcing to post-merger integration, while avoiding cultural and operational clashes.
+`A large tech services company in Bengaluru plans to acquire two smaller AI startups. Senior leaders need to understand the full M&A lifecycle, from deal sourcing to post-merger integration, while avoiding cultural and operational clashes.`
 
-Goal:
+`Goal:`
 
-Develop a 7-week executive course on M&A strategy, execution, and integration.
+`Develop a 7-week executive course on M&A strategy, execution, and integration.`
 
-Prompt:
+`Prompt:`
 
-"You are an M&A strategist. Build a 7-week curriculum covering: deal sourcing methods, valuation techniques, due diligence checklists, regulatory compliance in India and abroad, cultural integration planning, and post-acquisition synergy tracking. Include real M&A case breakdowns, valuation simulations, and integration planning workshops." Inputs Required from User: Industry focus for acquisitions Target company profiles Available budget for acquisitions Integration success metrics
+`"You are an M&A strategist. Build a 7-week curriculum covering: deal sourcing methods, valuation techniques, due diligence checklists, regulatory compliance in India and abroad, cultural integration planning, and post-acquisition synergy tracking. Include real M&A case breakdowns, valuation simulations, and integration planning workshops." Inputs Required from User: Industry focus for acquisitions Target company profiles Available budget for acquisitions Integration success metrics`
 
-Executive Sustainability & ESG Strategy Program (6 Weeks)
+## Executive Sustainability & ESG Strategy Program (6 Weeks)
 
-Backstory:
+`Backstory:`
 
-A retail conglomerate in India is facing pressure from investors and customers to improve sustainability practices and report on ESG (Environmental, Social, and Governance) performance. Senior leadership requires structured training to build ESG strategies that align with business growth.
+`A retail conglomerate in India is facing pressure from investors and customers to improve sustainability practices and report on ESG (Environmental, Social, and Governance) performance. Senior leadership requires structured training to build ESG strategies that align with business growth.`
 
-Goal:
+`Goal:`
 
-Create a 6-week course on building and implementing ESG strategies at an executive level.
+`Create a 6-week course on building and implementing ESG strategies at an executive level.`
 
-Prompt:
+`Prompt:`
 
-"You are a sustainability and ESG advisor. Design a 6-week program covering: ESG frameworks (GRI, SASB), carbon footprint reduction planning, ethical sourcing policies, diversity & inclusion leadership, sustainability-linked financing, and ESG reporting standards in India. Include industry-specific ESG case studies, sustainability action plan workshops, and impact measurement exercises." Inputs Required from User: Industry and scale of operations Current sustainability initiatives ESG reporting obligations Key ESG risks in the supply chain
+`"You are a sustainability and ESG advisor. Design a 6-week program covering: ESG frameworks (GRI, SASB), carbon footprint reduction planning, ethical sourcing policies, diversity & inclusion leadership, sustainability-linked financing, and ESG reporting standards in India. Include industry-specific ESG case studies, sustainability action plan workshops, and impact measurement exercises." Inputs Required from User: Industry and scale of operations Current sustainability initiatives ESG reporting obligations Key ESG risks in the supply chain`
 
-High-Impact Decision-Making for CXOs (5 Weeks)
+# High-Impact Decision-Making for CXOs (5 Weeks)
 
-Backstory:
+`Backstory:`
 
-A fast-growing fintech startup in Gurugram is experiencing rapid market shifts due to regulatory changes and AI-driven disruption. The leadership team needs to improve their decision-making process to be faster, data-backed, and less risky.
+`A fast-growing fintech startup in Gurugram is experiencing rapid market shifts due to regulatory changes and AI-driven disruption. The leadership team needs to improve their decision-making process to be faster, data-backed, and less risky.`
 
-Goal:
+`Goal:`
 
-Develop a 5-week executive program on high-impact decision-making for senior leaders.
+`Develop a 5-week executive program on high-impact decision-making for senior leaders.`
 
-Prompt:
+`Prompt:`
 
-"You are a decision-making and business strategy expert. Create a 5-week curriculum covering: decision-making models (RAPID, OODA loop, weighted scoring), data-driven decision frameworks, scenario planning, risk assessment techniques, and decision post-mortems for continuous learning. Include real-time decision simulations, cross-functional problem-solving sessions, and bias-awareness workshops." Inputs Required from User: Industry-specific decision-making challenges Types of decisions most frequently made by CXOs Data availability and analytics capability Risk tolerance level in the organization
+`"You are a decision-making and business strategy expert. Create a 5-week curriculum covering: decision-making models (RAPID, OODA loop, weighted scoring), data-driven decision frameworks, scenario planning, risk assessment techniques, and decision post-mortems for continuous learning. Include real-time decision simulations, cross-functional problem-solving sessions, and bias-awareness workshops." Inputs Required from User: Industry-specific decision-making challenges Types of decisions most frequently made by CXOs Data availability and analytics capability Risk tolerance level in the organization`
 
 
-Workshop Content Templates
+# Workshop Content Templates
 
-Design Thinking Workshop for Product Innovation (1-Day Format)
+## Design Thinking Workshop for Product Innovation (1-Day Format)
 
-Backstory:
+`Backstory:`
 
-A consumer electronics company in Bengaluru is facing intense competition from global brands. The product team needs a crash-course, hands-on workshop in Design Thinking to generate innovative ideas for their next product line. The company wants the workshop to be engaging, with practical exercises rather than long lectures, so participants leave with real concepts they can refine further.
+`A consumer electronics company in Bengaluru is facing intense competition from global brands. The product team needs a crash-course, hands-on workshop in Design Thinking to generate innovative ideas for their next product line. The company wants the workshop to be engaging, with practical exercises rather than long lectures, so participants leave with real concepts they can refine further.`
 
-Goal:
+`Goal:`
 
-Create a 1-day workshop plan that introduces Design Thinking fundamentals and applies them to a live product challenge.
+`Create a 1-day workshop plan that introduces Design Thinking fundamentals and applies them to a live product challenge.`
 
-Prompt:
+`Prompt:`
 
-"You are a Design Thinking facilitator. Draft a 1-day workshop content template including: session objectives, icebreaker activities, Design Thinking framework introduction (Empathize, Define, Ideate, Prototype, Test), group brainstorming activities, rapid prototyping sessions, and feedback presentations. Include instructions for facilitators, timing for each activity, required materials, and tips for encouraging creative participation." Inputs Required from User: Target product or problem statement Number of participants and their roles Available workshop space and equipment Desired outcome (concept sketches, prototypes, etc.)
+`"You are a Design Thinking facilitator. Draft a 1-day workshop content template including: session objectives, icebreaker activities, Design Thinking framework introduction (Empathize, Define, Ideate, Prototype, Test), group brainstorming activities, rapid prototyping sessions, and feedback presentations. Include instructions for facilitators, timing for each activity, required materials, and tips for encouraging creative participation." Inputs Required from User: Target product or problem statement Number of participants and their roles Available workshop space and equipment Desired outcome (concept sketches, prototypes, etc.)`
 
-Leadership Communication Skills Workshop (2-Day Format)
+# Leadership Communication Skills Workshop (2-Day Format)
 
-Backstory:
+`Backstory:`
 
-A mid-sized IT services firm in Hyderabad has identified a gap in communication effectiveness among its project managers. They often struggle to convey project updates clearly to both technical teams and non-technical clients. The HR team wants a 2-day immersive workshop to build leadership-level communication skills.
+`A mid-sized IT services firm in Hyderabad has identified a gap in communication effectiveness among its project managers. They often struggle to convey project updates clearly to both technical teams and non-technical clients. The HR team wants a 2-day immersive workshop to build leadership-level communication skills.`
 
-Goal:
+`Goal:`
 
-Design a 2-day workshop content plan that covers verbal, non-verbal, and written communication tailored for leadership roles.
+`Design a 2-day workshop content plan that covers verbal, non-verbal, and written communication tailored for leadership roles.`
 
-Prompt:
+`Prompt:`
 
-"You are a corporate communication trainer. Create a 2-day workshop content template covering: effective business storytelling, active listening techniques, delivering difficult feedback, non-verbal cues in leadership, structuring impactful emails & reports, and cross-cultural communication tips. Include role-play scenarios, group discussion prompts, communication exercises, and self-assessment tools." Inputs Required from User: Participant job roles Common communication challenges in the organization Languages used internally and with clients Industry-specific communication examples
+`"You are a corporate communication trainer. Create a 2-day workshop content template covering: effective business storytelling, active listening techniques, delivering difficult feedback, non-verbal cues in leadership, structuring impactful emails & reports, and cross-cultural communication tips. Include role-play scenarios, group discussion prompts, communication exercises, and self-assessment tools." Inputs Required from User: Participant job roles Common communication challenges in the organization Languages used internally and with clients Industry-specific communication examples`
 
-Data Analytics for Non-Technical Managers Workshop (1.5-Day Format)
+# Data Analytics for Non-Technical Managers Workshop (1.5-Day Format)
 
-Backstory:
+`Backstory:`
 
-A retail chain in Mumbai wants its store managers and regional heads to use data more effectively in decision-making. Most participants do not have a technical background but need to understand analytics basics, dashboards, and KPIs.
+`A retail chain in Mumbai wants its store managers and regional heads to use data more effectively in decision-making. Most participants do not have a technical background but need to understand analytics basics, dashboards, and KPIs.`
 
-Goal:
+`Goal:`
 
-Create a 1.5-day workshop that demystifies data analytics and shows practical applications for business management.
+`Create a 1.5-day workshop that demystifies data analytics and shows practical applications for business management.`
 
-Prompt:
+`Prompt:`
 
-"You are a business analytics trainer. Develop a 1.5-day workshop content plan covering: data literacy fundamentals, understanding KPIs and metrics, interpreting dashboards, basic Excel/Google Sheets functions for analytics, and storytelling with data for decision-making. Include live dataset exercises, case studies, and interactive group challenges." Inputs Required from User: Type of business and operational KPIs Existing analytics tools used Data access level for participants Examples of recent business decisions that relied on data
+`"You are a business analytics trainer. Develop a 1.5-day workshop content plan covering: data literacy fundamentals, understanding KPIs and metrics, interpreting dashboards, basic Excel/Google Sheets functions for analytics, and storytelling with data for decision-making. Include live dataset exercises, case studies, and interactive group challenges." Inputs Required from User: Type of business and operational KPIs Existing analytics tools used Data access level for participants Examples of recent business decisions that relied on data`
 
-Conflict Resolution Skills Workshop (Half-Day Format)
+## Conflict Resolution Skills Workshop (Half-Day Format)
 
-Backstory:
+`Backstory:`
 
-A startup in Pune with a young, fast-moving team has been experiencing interpersonal conflicts between marketing and product teams due to tight deadlines and resource competition. HR wants a short but impactful workshop to help employees resolve conflicts constructively.
+`A startup in Pune with a young, fast-moving team has been experiencing interpersonal conflicts between marketing and product teams due to tight deadlines and resource competition. HR wants a short but impactful workshop to help employees resolve conflicts constructively.`
 
-Goal:
+`Goal:`
 
-Prepare a half-day workshop that equips participants with tools to manage and resolve workplace conflicts.
+`Prepare a half-day workshop that equips participants with tools to manage and resolve workplace conflicts.`
 
-Prompt:
+`Prompt:`
 
-"You are a workplace conflict resolution coach. Design a half-day workshop template covering: identifying root causes of conflict, active listening for empathy, reframing statements to reduce tension, collaborative problem-solving, and agreeing on action plans. Include role-play exercises, de-escalation techniques, and facilitator-led feedback sessions." Inputs Required from User: Types of conflicts commonly seen Team size and department mix Whether conflicts are usually public or private Management’s stance on conflict resolution
+`"You are a workplace conflict resolution coach. Design a half-day workshop template covering: identifying root causes of conflict, active listening for empathy, reframing statements to reduce tension, collaborative problem-solving, and agreeing on action plans. Include role-play exercises, de-escalation techniques, and facilitator-led feedback sessions." Inputs Required from User: Types of conflicts commonly seen Team size and department mix Whether conflicts are usually public or private Management’s stance on conflict resolution`
 
-Financial Literacy Workshop for Early-Career Professionals (Full-Day Format)
+# Financial Literacy Workshop for Early-Career Professionals (Full-Day Format)
 
-Backstory:
+`Backstory:`
 
-A large BPO company in Gurugram hires hundreds of young graduates each year, many of whom have little knowledge about personal finance. The HR department wants to conduct a financial literacy workshop to help employees manage salaries, avoid debt traps, and start investing early.
+`A large BPO company in Gurugram hires hundreds of young graduates each year, many of whom have little knowledge about personal finance. The HR department wants to conduct a financial literacy workshop to help employees manage salaries, avoid debt traps, and start investing early.`
 
-Goal:
+`Goal:`
 
-Create a full-day workshop plan that makes financial literacy engaging and practical for young professionals.
+`Create a full-day workshop plan that makes financial literacy engaging and practical for young professionals.`
 
-Prompt:
+`Prompt:`
 
-"You are a personal finance educator. Prepare a 1-day workshop content template covering: budgeting basics, understanding salary slips & taxation, credit card and loan management, emergency fund creation, and beginner-friendly investment options in India (SIP, PPF, etc.). Include interactive budgeting games, case studies of common financial mistakes, and action planning exercises." Inputs Required from User: Average salary range of participants Existing employee benefits (PF, insurance, etc.) Preferred level of investment detail Age group and financial goals of participants
+`"You are a personal finance educator. Prepare a 1-day workshop content template covering: budgeting basics, understanding salary slips & taxation, credit card and loan management, emergency fund creation, and beginner-friendly investment options in India (SIP, PPF, etc.). Include interactive budgeting games, case studies of common financial mistakes, and action planning exercises." Inputs Required from User: Average salary range of participants Existing employee benefits (PF, insurance, etc.) Preferred level of investment detail Age group and financial goals of participants`
 
-Advanced Negotiation Skills Workshop (2-Day Format)
+## Advanced Negotiation Skills Workshop (2-Day Format)
 
-Backstory:
+`Backstory:`
 
-A real estate consulting firm in Delhi has senior sales executives who negotiate multi-crore property deals with high-net-worth individuals and corporate clients. While they have basic negotiation experience, they need a deeper understanding of advanced strategies, psychology, and closing techniques to secure better deals without sacrificing margins.
+`A real estate consulting firm in Delhi has senior sales executives who negotiate multi-crore property deals with high-net-worth individuals and corporate clients. While they have basic negotiation experience, they need a deeper understanding of advanced strategies, psychology, and closing techniques to secure better deals without sacrificing margins.`
 
-Goal:
+`Goal:`
 
-Create a 2-day advanced negotiation workshop that blends theory, psychology, and hands-on simulations for real-world business scenarios.
+`Create a 2-day advanced negotiation workshop that blends theory, psychology, and hands-on simulations for real-world business scenarios.`
 
-Prompt:
+`Prompt:`
 
-"You are a negotiation strategy trainer. Prepare a 2-day workshop content template covering: negotiation psychology, identifying decision-making triggers, framing win-win offers, strategic concessions, reading non-verbal cues, handling objections, and managing multi-party negotiations. Include high-pressure role-plays, competitor simulation exercises, and reflective debrief sessions." Inputs Required from User: Industry context for negotiation scenarios Typical deal values and timelines Competitor tactics commonly faced Participant experience level in negotiations
+`"You are a negotiation strategy trainer. Prepare a 2-day workshop content template covering: negotiation psychology, identifying decision-making triggers, framing win-win offers, strategic concessions, reading non-verbal cues, handling objections, and managing multi-party negotiations. Include high-pressure role-plays, competitor simulation exercises, and reflective debrief sessions." Inputs Required from User: Industry context for negotiation scenarios Typical deal values and timelines Competitor tactics commonly faced Participant experience level in negotiations`
 
-AI & Automation Tools for Business Productivity Workshop (1-Day Format)
+## AI & Automation Tools for Business Productivity Workshop (1-Day Format)
 
-Backstory:
+`Backstory:`
 
-An e-commerce company in Bengaluru wants to train its marketing, operations, and customer service teams to leverage AI tools for automating repetitive tasks and improving productivity. Most employees are aware of AI but have never applied it systematically in their workflows.
+`An e-commerce company in Bengaluru wants to train its marketing, operations, and customer service teams to leverage AI tools for automating repetitive tasks and improving productivity. Most employees are aware of AI but have never applied it systematically in their workflows.`
 
-Goal:
+`Goal:`
 
-Design a 1-day workshop that introduces practical AI tools for various business functions and demonstrates step-by-step usage.
+`Design a 1-day workshop that introduces practical AI tools for various business functions and demonstrates step-by-step usage.`
 
-Prompt:
+`Prompt:`
 
-"You are a business technology trainer. Develop a 1-day workshop content template covering: introduction to AI concepts, AI tools for marketing (content generation, analytics), AI in operations (inventory optimization, demand forecasting), and AI in customer service (chatbots, sentiment analysis). Include live tool demos, workflow integration exercises, and ROI calculation activities." Inputs Required from User: Business departments to focus on Tools already in use (if any) Level of technical knowledge of participants Examples of repetitive tasks in current workflows
+`"You are a business technology trainer. Develop a 1-day workshop content template covering: introduction to AI concepts, AI tools for marketing (content generation, analytics), AI in operations (inventory optimization, demand forecasting), and AI in customer service (chatbots, sentiment analysis). Include live tool demos, workflow integration exercises, and ROI calculation activities." Inputs Required from User: Business departments to focus on Tools already in use (if any) Level of technical knowledge of participants Examples of repetitive tasks in current workflows`
 
-Emotional Intelligence (EQ) Mastery Workshop (1.5-Day Format)
+## Emotional Intelligence (EQ) Mastery Workshop (1.5-Day Format)
 
-Backstory:
+`Backstory:`
 
-A multinational FMCG company in Mumbai wants its mid-level managers to improve emotional intelligence to better lead teams, handle workplace stress, and build stronger inter-departmental relationships.
+`A multinational FMCG company in Mumbai wants its mid-level managers to improve emotional intelligence to better lead teams, handle workplace stress, and build stronger inter-departmental relationships.`
 
-Goal:
+`Goal:`
 
-Prepare a 1.5-day workshop plan that helps participants understand, measure, and improve their EQ for leadership effectiveness.
+`Prepare a 1.5-day workshop plan that helps participants understand, measure, and improve their EQ for leadership effectiveness.`
 
-Prompt:
+`Prompt:`
 
-"You are an emotional intelligence coach. Create a 1.5-day workshop content plan covering: self-awareness exercises, self-regulation techniques, empathy development, social skills for workplace collaboration, and managing emotionally charged situations. Include EQ self-assessment tools, real-life case studies, guided mindfulness sessions, and peer feedback circles." Inputs Required from User: Current leadership challenges faced Size and diversity of teams led by participants Industry-specific stress scenarios Target EQ competencies to improve
+`"You are an emotional intelligence coach. Create a 1.5-day workshop content plan covering: self-awareness exercises, self-regulation techniques, empathy development, social skills for workplace collaboration, and managing emotionally charged situations. Include EQ self-assessment tools, real-life case studies, guided mindfulness sessions, and peer feedback circles." Inputs Required from User: Current leadership challenges faced Size and diversity of teams led by participants Industry-specific stress scenarios Target EQ competencies to improve`
 
-Cybersecurity Awareness for Non-IT Staff Workshop (Half-Day Format)
+## Cybersecurity Awareness for Non-IT Staff Workshop (Half-Day Format)
 
-Backstory:
+`Backstory:`
 
-A mid-sized accounting firm in Chennai recently faced a phishing attack that compromised client data. The management wants to educate all non-IT employees about cybersecurity best practices to prevent future breaches.
+`A mid-sized accounting firm in Chennai recently faced a phishing attack that compromised client data. The management wants to educate all non-IT employees about cybersecurity best practices to prevent future breaches.`
 
-Goal:
+`Goal:`
 
-Create a half-day workshop that raises cybersecurity awareness among non-technical staff.
+`Create a half-day workshop that raises cybersecurity awareness among non-technical staff.`
 
-Prompt:
+`Prompt:`
 
-"You are a cybersecurity awareness trainer. Draft a half-day workshop content plan covering: common cyber threats (phishing, malware, social engineering), password security, safe email practices, identifying suspicious links, and reporting security incidents. Include interactive phishing simulations, real-life cybercrime stories, and a final quiz to reinforce learning." Inputs Required from User: Common digital tools/platforms used by employees History of past security incidents Internal IT security protocols Desired follow-up measures after the workshop
+`"You are a cybersecurity awareness trainer. Draft a half-day workshop content plan covering: common cyber threats (phishing, malware, social engineering), password security, safe email practices, identifying suspicious links, and reporting security incidents. Include interactive phishing simulations, real-life cybercrime stories, and a final quiz to reinforce learning." Inputs Required from User: Common digital tools/platforms used by employees History of past security incidents Internal IT security protocols Desired follow-up measures after the workshop`
 
-Public Speaking & Presentation Mastery Workshop (2-Day Format)
+## Public Speaking & Presentation Mastery Workshop (2-Day Format)
 
-Backstory:
+`Backstory:`
 
-A SaaS startup in Pune regularly pitches to investors and enterprise clients but struggles with presentation confidence and storytelling. The CEO wants a 2-day intensive workshop to turn team members into compelling public speakers.
+`A SaaS startup in Pune regularly pitches to investors and enterprise clients but struggles with presentation confidence and storytelling. The CEO wants a 2-day intensive workshop to turn team members into compelling public speakers.`
 
-Goal:
+`Goal:`
 
-Design a 2-day workshop that builds presentation skills, storytelling ability, and stage confidence.
+`Design a 2-day workshop that builds presentation skills, storytelling ability, and stage confidence.`
 
-Prompt:
+`Prompt:`
 
-"You are a public speaking coach. Develop a 2-day workshop content template covering: speech structuring, storytelling frameworks, body language mastery, voice modulation, handling audience questions, and overcoming stage fright. Include speech drafting exercises, video-recorded practice sessions, peer feedback rounds, and live pitch simulations." Inputs Required from User: Typical audience size and profile Types of presentations given (sales, investor, internal) Comfort level of participants with public speaking Specific success criteria for the workshop
+`"You are a public speaking coach. Develop a 2-day workshop content template covering: speech structuring, storytelling frameworks, body language mastery, voice modulation, handling audience questions, and overcoming stage fright. Include speech drafting exercises, video-recorded practice sessions, peer feedback rounds, and live pitch simulations." Inputs Required from User: Typical audience size and profile Types of presentations given (sales, investor, internal) Comfort level of participants with public speaking Specific success criteria for the workshop`
 
-Design Thinking for Business Innovation Workshop (2-Day Format)
+## Design Thinking for Business Innovation Workshop (2-Day Format)
 
-Backstory:
+`Backstory:`
 
-A consumer electronics brand in Noida wants to train its product managers and R&D teams to adopt a structured approach to innovation. While the teams are creative, their ideas often lack market validation, leading to high failure rates. The leadership has decided to implement design thinking as a standard problem-solving method.
+`A consumer electronics brand in Noida wants to train its product managers and R&D teams to adopt a structured approach to innovation. While the teams are creative, their ideas often lack market validation, leading to high failure rates. The leadership has decided to implement design thinking as a standard problem-solving method.`
 
-Goal:
+`Goal:`
 
-Develop a 2-day design thinking workshop that moves from customer empathy to tested prototypes.
+`Develop a 2-day design thinking workshop that moves from customer empathy to tested prototypes.`
 
-Prompt:
+`Prompt:`
 
-"You are an innovation strategy facilitator. Create a 2-day workshop content template covering: empathizing with users (field research, interviews), defining problem statements, ideation techniques, rapid prototyping, and user testing. Include group brainstorming activities, customer journey mapping, low-fidelity prototype building, and feedback integration exercises." Inputs Required from User: Target market segments Common product challenges faced R&D budget constraints Product lifecycle stage
+`"You are an innovation strategy facilitator. Create a 2-day workshop content template covering: empathizing with users (field research, interviews), defining problem statements, ideation techniques, rapid prototyping, and user testing. Include group brainstorming activities, customer journey mapping, low-fidelity prototype building, and feedback integration exercises." Inputs Required from User: Target market segments Common product challenges faced R&D budget constraints Product lifecycle stage`
 
-Data Analytics for Business Decision-Making Workshop (1-Day Format)
+## Data Analytics for Business Decision-Making Workshop (1-Day Format)
 
-Backstory:
+`Backstory:`
 
-A chain of retail stores in Hyderabad collects large amounts of sales and customer data but rarely uses it for decision-making. The management wants to train their store managers and marketing team to leverage analytics for promotions, inventory, and customer engagement.
+`A chain of retail stores in Hyderabad collects large amounts of sales and customer data but rarely uses it for decision-making. The management wants to train their store managers and marketing team to leverage analytics for promotions, inventory, and customer engagement.`
 
-Goal:
+`Goal:`
 
-Create a 1-day workshop that introduces participants to actionable business analytics.
+`Create a 1-day workshop that introduces participants to actionable business analytics.`
 
-Prompt:
+`Prompt:`
 
-"You are a business analytics trainer. Prepare a 1-day workshop content template covering: data collection methods, cleaning and organizing data, identifying KPIs, basic data visualization, and using analytics tools (Excel, Power BI, Google Data Studio). Include real company data exercises, dashboard creation activities, and decision-making simulations." Inputs Required from User: Business KPIs currently tracked Type of customer and sales data collected Existing analytics tools used Typical decision-making bottlenecks
+`"You are a business analytics trainer. Prepare a 1-day workshop content template covering: data collection methods, cleaning and organizing data, identifying KPIs, basic data visualization, and using analytics tools (Excel, Power BI, Google Data Studio). Include real company data exercises, dashboard creation activities, and decision-making simulations." Inputs Required from User: Business KPIs currently tracked Type of customer and sales data collected Existing analytics tools used Typical decision-making bottlenecks`
 
-Strategic Leadership for Senior Managers Workshop (3-Day Format)
+## Strategic Leadership for Senior Managers Workshop (3-Day Format)
 
-Backstory:
+`Backstory:`
 
-An infrastructure company in Ahmedabad is promoting several mid-level managers to senior leadership roles. The CEO wants them to develop strategic thinking, decision-making under uncertainty, and organizational vision-setting capabilities.
+`An infrastructure company in Ahmedabad is promoting several mid-level managers to senior leadership roles. The CEO wants them to develop strategic thinking, decision-making under uncertainty, and organizational vision-setting capabilities.`
 
-Goal:
+`Goal:`
 
-Design a 3-day workshop that prepares managers to transition into strategic leadership roles.
+`Design a 3-day workshop that prepares managers to transition into strategic leadership roles.`
 
-Prompt:
+`Prompt:`
 
-"You are a leadership development consultant. Draft a 3-day workshop content plan covering: strategic planning frameworks, industry trend analysis, stakeholder management, crisis decision-making, and communicating vision. Include Harvard case study discussions, leadership simulations, role-play of boardroom scenarios, and group strategic project presentations." Inputs Required from User: Industry-specific strategic challenges Leadership skills gap assessment Company growth vision Organizational structure
+`"You are a leadership development consultant. Draft a 3-day workshop content plan covering: strategic planning frameworks, industry trend analysis, stakeholder management, crisis decision-making, and communicating vision. Include Harvard case study discussions, leadership simulations, role-play of boardroom scenarios, and group strategic project presentations." Inputs Required from User: Industry-specific strategic challenges Leadership skills gap assessment Company growth vision Organizational structure`
 
-Workplace Diversity & Inclusion Awareness Workshop (Half-Day Format)
+## Workplace Diversity & Inclusion Awareness Workshop (Half-Day Format)
 
-Backstory:
+`Backstory:`
 
-A global IT services firm in Gurugram wants to create an inclusive workplace for employees from diverse backgrounds, including gender, disability, ethnicity, and LGBTQ+ identities. HR has planned a half-day awareness workshop for all employees.
+`A global IT services firm in Gurugram wants to create an inclusive workplace for employees from diverse backgrounds, including gender, disability, ethnicity, and LGBTQ+ identities. HR has planned a half-day awareness workshop for all employees.`
 
-Goal:
+`Goal:`
 
-Create a half-day workshop to build empathy, understanding, and inclusive practices among employees.
+`Create a half-day workshop to build empathy, understanding, and inclusive practices among employees.`
 
-Prompt:
+`Prompt:`
 
-"You are a diversity & inclusion trainer. Prepare a half-day workshop content template covering: importance of diversity in the workplace, unconscious bias training, inclusive communication practices, and handling microaggressions. Include role-playing scenarios, bias self-assessment tools, and actionable inclusive workplace guidelines." Inputs Required from User: Current workplace diversity demographics Known incidents or challenges in inclusion Leadership stance on diversity Existing HR policies
+`"You are a diversity & inclusion trainer. Prepare a half-day workshop content template covering: importance of diversity in the workplace, unconscious bias training, inclusive communication practices, and handling microaggressions. Include role-playing scenarios, bias self-assessment tools, and actionable inclusive workplace guidelines." Inputs Required from User: Current workplace diversity demographics Known incidents or challenges in inclusion Leadership stance on diversity Existing HR policies`
 
-Time Management & Productivity Mastery Workshop (1-Day Format)
+## Time Management & Productivity Mastery Workshop (1-Day Format)
 
-Backstory:
+`Backstory:`
 
-A legal consultancy in Mumbai has noticed declining productivity due to constant task switching, email overload, and poor prioritization. The founder wants a focused workshop to help employees improve time management.
+`A legal consultancy in Mumbai has noticed declining productivity due to constant task switching, email overload, and poor prioritization. The founder wants a focused workshop to help employees improve time management.`
 
-Goal:
+`Goal:`
 
-Design a 1-day productivity improvement workshop tailored for busy professionals.
+`Design a 1-day productivity improvement workshop tailored for busy professionals.`
 
-Prompt:
+`Prompt:`
 
-"You are a workplace productivity coach. Create a 1-day workshop content template covering: prioritization frameworks (Eisenhower Matrix, ABC method), email management best practices, deep work principles, time blocking, and overcoming procrastination. Include productivity tool demos, personal schedule redesign exercises, and group accountability challenges." Inputs Required from User: Common time-wasting activities in the organization Work hours and meeting patterns Current project/task management tools used Nature of workload (client vs internal tasks)
+`"You are a workplace productivity coach. Create a 1-day workshop content template covering: prioritization frameworks (Eisenhower Matrix, ABC method), email management best practices, deep work principles, time blocking, and overcoming procrastination. Include productivity tool demos, personal schedule redesign exercises, and group accountability challenges." Inputs Required from User: Common time-wasting activities in the organization Work hours and meeting patterns Current project/task management tools used Nature of workload (client vs internal tasks)`
 
-Financial Literacy for Young Professionals Workshop (1-Day Format)
+## Financial Literacy for Young Professionals Workshop (1-Day Format)
 
-Backstory:
+`Backstory:`
 
-A multinational BPO in Pune hires hundreds of fresh graduates each year, many of whom have little to no understanding of personal finance. This often leads to poor money management, high debt, and low savings. HR wants to organize a financial literacy workshop as part of the induction program.
+`A multinational BPO in Pune hires hundreds of fresh graduates each year, many of whom have little to no understanding of personal finance. This often leads to poor money management, high debt, and low savings. HR wants to organize a financial literacy workshop as part of the induction program.`
 
-Goal:
+`Goal:`
 
-Design a 1-day workshop that teaches essential money management skills for early-career professionals.
+`Design a 1-day workshop that teaches essential money management skills for early-career professionals.`
 
-Prompt:
+`Prompt:`
 
-"You are a certified financial educator. Create a 1-day workshop content template covering: budgeting basics, saving strategies, emergency funds, basics of credit scores, avoiding debt traps, and beginner investment options (mutual funds, SIPs). Include real-life budgeting exercises, debt repayment simulations, and goal-setting worksheets." Inputs Required from User: Average salary range of participants Common financial mistakes observed Local investment and banking options Time allocated for hands-on activities
+`"You are a certified financial educator. Create a 1-day workshop content template covering: budgeting basics, saving strategies, emergency funds, basics of credit scores, avoiding debt traps, and beginner investment options (mutual funds, SIPs). Include real-life budgeting exercises, debt repayment simulations, and goal-setting worksheets." Inputs Required from User: Average salary range of participants Common financial mistakes observed Local investment and banking options Time allocated for hands-on activities`
 
-Public Speaking & Presentation Skills Workshop (2-Day Format)
+## Public Speaking & Presentation Skills Workshop (2-Day Format)
 
-Backstory:
+`Backstory:`
 
-A SaaS company in Bengaluru has brilliant engineers and analysts, but they struggle to present their ideas to clients and stakeholders effectively. The leadership team wants a workshop that boosts confidence and presentation delivery skills.
+`A SaaS company in Bengaluru has brilliant engineers and analysts, but they struggle to present their ideas to clients and stakeholders effectively. The leadership team wants a workshop that boosts confidence and presentation delivery skills.`
 
-Goal:
+`Goal:`
 
-Create a 2-day workshop that transforms employees into confident public speakers and presenters.
+`Create a 2-day workshop that transforms employees into confident public speakers and presenters.`
 
-Prompt:
+`Prompt:`
 
-"You are a corporate communication trainer. Develop a 2-day workshop content template covering: overcoming stage fear, structuring presentations, storytelling techniques, effective use of visuals, and handling Q&A sessions. Include video-recorded practice sessions, peer feedback rounds, and real client-pitch simulations." Inputs Required from User: Typical audience types (internal, client, public) Nature of presentations (technical, sales, strategy) Level of English proficiency Available presentation tools
+`"You are a corporate communication trainer. Develop a 2-day workshop content template covering: overcoming stage fear, structuring presentations, storytelling techniques, effective use of visuals, and handling Q&A sessions. Include video-recorded practice sessions, peer feedback rounds, and real client-pitch simulations." Inputs Required from User: Typical audience types (internal, client, public) Nature of presentations (technical, sales, strategy) Level of English proficiency Available presentation tools`
 
 ## Digital Marketing Essentials for SMEs Workshop (2-Day Format)
 
