@@ -18,15 +18,15 @@
 
 `Backstory:`
 
-A mid-sized construction company in Noida is regularly involved in contractual disputes and often opts for arbitration instead of lengthy litigation. Their in-house counsel wants a clear research summary of all recent amendments to the Arbitration and Conciliation Act to ensure contracts are aligned with the latest legal provisions.
+`A mid-sized construction company in Noida is regularly involved in contractual disputes and often opts for arbitration instead of lengthy litigation. Their in-house counsel wants a clear research summary of all recent amendments to the Arbitration and Conciliation Act to ensure contracts are aligned with the latest legal provisions.`
 
-Goal:
+`Goal:`
 
-Prepare a concise yet actionable summary of the Arbitration Act amendments and how they change dispute resolution practices for Indian companies.
+`Prepare a concise yet actionable summary of the Arbitration Act amendments and how they change dispute resolution practices for Indian companies.`
 
-Prompt:
+`Prompt:`
 
-"You are a corporate legal researcher. Create a comparative summary of the 2015, 2019, and 2021 amendments to the Arbitration and Conciliation Act, highlighting: changes in timelines, appointment of arbitrators, confidentiality provisions, institutional arbitration rules, and enforcement of awards. Conclude with a section on best practices for contract drafting post-amendments." Inputs Required from User: Type of contracts company handles Frequency of arbitration usage Jurisdiction of operations
+`"You are a corporate legal researcher. Create a comparative summary of the 2015, 2019, and 2021 amendments to the Arbitration and Conciliation Act, highlighting: changes in timelines, appointment of arbitrators, confidentiality provisions, institutional arbitration rules, and enforcement of awards. Conclude with a section on best practices for contract drafting post-amendments." Inputs Required from User: Type of contracts company handles Frequency of arbitration usage Jurisdiction of operations`
 
 Summary of Labour Codes Impact on IT Companies
 
