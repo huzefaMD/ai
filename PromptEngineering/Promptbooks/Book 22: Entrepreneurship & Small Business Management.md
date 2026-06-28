@@ -1,216 +1,216 @@
-Pricing Strategy Analysis
+# Pricing Strategy Analysis
 
-Pricing Strategy Analysis for a Direct-to-Consumer Skincare Brand
+## Pricing Strategy Analysis for a Direct-to-Consumer Skincare Brand
 
-Backstory:
+`Backstory:`
 
-Ishita, 28, recently launched a D2C skincare brand using Ayurvedic ingredients. Her products are handmade, eco-friendly, and come in sustainable packaging. Competitors range from low-cost mass brands to high-end organic labels. She’s struggling to find the right balance between premium pricing and affordability, especially because her target audience is young, urban women who want quality but are also price-conscious. She’s unsure whether to adopt penetration pricing to gain market share or maintain premium positioning from the start.
+`Ishita, 28, recently launched a D2C skincare brand using Ayurvedic ingredients. Her products are handmade, eco-friendly, and come in sustainable packaging. Competitors range from low-cost mass brands to high-end organic labels. She’s struggling to find the right balance between premium pricing and affordability, especially because her target audience is young, urban women who want quality but are also price-conscious. She’s unsure whether to adopt penetration pricing to gain market share or maintain premium positioning from the start.`
 
-Goal:
+`Goal:`
 
-Determine the most effective pricing strategy that balances brand positioning, customer acquisition, and long-term profitability.
+`Determine the most effective pricing strategy that balances brand positioning, customer acquisition, and long-term profitability.`
 
-Prompt:
+`Prompt:`
 
-"You are a pricing strategy consultant for D2C brands. Analyse the competitive landscape of the Indian organic skincare market and recommend an optimal pricing strategy for a premium-yet-accessible Ayurvedic skincare brand. Compare penetration pricing, skimming pricing, and value-based pricing using competitor data, target audience income segments, and willingness-to-pay analysis. Include: Market benchmarking table (price vs product size). Pros and cons of each strategy in the Indian context. Projected sales, revenue, and profit margins for each model over 12 months. Final recommendation with a justification linked to brand positioning and customer psychology." Inputs Required: Competitor names and prices Cost per unit (production + packaging) Target monthly sales goal Customer demographic & psychographic profile
+`"You are a pricing strategy consultant for D2C brands. Analyse the competitive landscape of the Indian organic skincare market and recommend an optimal pricing strategy for a premium-yet-accessible Ayurvedic skincare brand. Compare penetration pricing, skimming pricing, and value-based pricing using competitor data, target audience income segments, and willingness-to-pay analysis. Include: Market benchmarking table (price vs product size). Pros and cons of each strategy in the Indian context. Projected sales, revenue, and profit margins for each model over 12 months. Final recommendation with a justification linked to brand positioning and customer psychology." Inputs Required: Competitor names and prices Cost per unit (production + packaging) Target monthly sales goal Customer demographic & psychographic profile`
 
-Pricing Strategy Analysis for a SaaS Startup Targeting Small Businesses
+## Pricing Strategy Analysis for a SaaS Startup Targeting Small Businesses
 
-Backstory:
+`Backstory:`
 
-Rohit, 30, has developed a SaaS tool for inventory management tailored to small retailers in Tier 2 and Tier 3 cities. The software is cloud-based, mobile-friendly, and requires minimal tech skills to operate. His challenge is that many small businesses are reluctant to pay high monthly fees for digital tools. He is debating between a freemium model, a low-cost monthly subscription, or an annual plan with discounts to drive adoption.
+`Rohit, 30, has developed a SaaS tool for inventory management tailored to small retailers in Tier 2 and Tier 3 cities. The software is cloud-based, mobile-friendly, and requires minimal tech skills to operate. His challenge is that many small businesses are reluctant to pay high monthly fees for digital tools. He is debating between a freemium model, a low-cost monthly subscription, or an annual plan with discounts to drive adoption.`
 
-Goal:
+`Goal:`
 
-Identify a pricing model that drives rapid adoption while ensuring recurring revenue.
+`Identify a pricing model that drives rapid adoption while ensuring recurring revenue.`
 
-Prompt:
+`Prompt:`
 
-"You are a SaaS pricing strategist. Analyse the feasibility of freemium, tiered subscription, and annual discounted plans for an inventory management SaaS aimed at Indian small retailers. Create a 3-year revenue projection for each pricing model, including churn rate assumptions. Consider: Customer acquisition cost (CAC) and lifetime value (LTV) for each model. Price elasticity in the small business software segment. Break-even point analysis for each pricing strategy. Strategic recommendations for upselling premium features." Inputs Required: Development & maintenance costs Current marketing budget Feature list for free vs paid versions Competitor pricing models
+`"You are a SaaS pricing strategist. Analyse the feasibility of freemium, tiered subscription, and annual discounted plans for an inventory management SaaS aimed at Indian small retailers. Create a 3-year revenue projection for each pricing model, including churn rate assumptions. Consider: Customer acquisition cost (CAC) and lifetime value (LTV) for each model. Price elasticity in the small business software segment. Break-even point analysis for each pricing strategy. Strategic recommendations for upselling premium features." Inputs Required: Development & maintenance costs Current marketing budget Feature list for free vs paid versions Competitor pricing models`
 
-Pricing Strategy Analysis for an Electric Vehicle (EV) Rental Service
+## Pricing Strategy Analysis for an Electric Vehicle (EV) Rental Service
 
-Backstory:
+`Backstory:`
 
-Ananya, 32, is launching an EV scooter rental service in Hyderabad. She wants to encourage daily commuters to switch from petrol vehicles to eco-friendly scooters. Competitors include petrol-based bike rentals and app-based ride-sharing services. She needs to decide whether to price her rentals per minute, per hour, or as a monthly subscription, and how to incentivize first-time users.
+`Ananya, 32, is launching an EV scooter rental service in Hyderabad. She wants to encourage daily commuters to switch from petrol vehicles to eco-friendly scooters. Competitors include petrol-based bike rentals and app-based ride-sharing services. She needs to decide whether to price her rentals per minute, per hour, or as a monthly subscription, and how to incentivize first-time users.`
 
-Goal:
+`Goal:`
 
-Select a pricing structure that maximizes usage frequency while maintaining profitability.
+`Select a pricing structure that maximizes usage frequency while maintaining profitability.`
 
-Prompt:
+`Prompt:`
 
-"You are an EV mobility pricing expert. Conduct a pricing strategy analysis for an electric scooter rental service in Hyderabad. Compare per-minute, per-hour, and monthly subscription models using competitor benchmarks, usage frequency data, and cost structure analysis. Include: Price comparison table vs petrol rentals and ride-sharing apps. Profit margin per ride under each model. Impact of introductory offers and loyalty programs on retention. Scenario modeling for different fuel price trends." Inputs Required: Average cost per ride (maintenance, electricity, depreciation) Competitor rates Estimated average ride duration Target daily ride volume
+`"You are an EV mobility pricing expert. Conduct a pricing strategy analysis for an electric scooter rental service in Hyderabad. Compare per-minute, per-hour, and monthly subscription models using competitor benchmarks, usage frequency data, and cost structure analysis. Include: Price comparison table vs petrol rentals and ride-sharing apps. Profit margin per ride under each model. Impact of introductory offers and loyalty programs on retention. Scenario modeling for different fuel price trends." Inputs Required: Average cost per ride (maintenance, electricity, depreciation) Competitor rates Estimated average ride duration Target daily ride volume`
 
-Pricing Strategy Analysis for an Online Learning Platform
+## Pricing Strategy Analysis for an Online Learning Platform
 
-Backstory:
+`Backstory:`
 
-Meera, 27, is building an edtech platform offering short, skill-based video courses in digital marketing, coding, and personal finance. Her target audience is young working professionals who value flexibility and affordability. She’s torn between a course-by-course pricing model and a monthly subscription offering unlimited access.
+`Meera, 27, is building an edtech platform offering short, skill-based video courses in digital marketing, coding, and personal finance. Her target audience is young working professionals who value flexibility and affordability. She’s torn between a course-by-course pricing model and a monthly subscription offering unlimited access.`
 
-Goal:
+`Goal:`
 
-Determine which pricing model maximizes revenue while keeping acquisition costs low.
+`Determine which pricing model maximizes revenue while keeping acquisition costs low.`
 
-Prompt:
+`Prompt:`
 
-"You are an edtech revenue strategist. Compare pay-per-course pricing vs unlimited monthly subscription for a skill-based online learning platform targeting Indian professionals aged 20–35. Analyse: Customer acquisition funnel for both models. Revenue projection over 18 months for each model. Pricing psychology impact on perceived value. Strategies for upselling and cross-selling courses." Inputs Required: Number of courses available at launch Average course completion rate Expected monthly active users Competitor platform pricing
+`"You are an edtech revenue strategist. Compare pay-per-course pricing vs unlimited monthly subscription for a skill-based online learning platform targeting Indian professionals aged 20–35. Analyse: Customer acquisition funnel for both models. Revenue projection over 18 months for each model. Pricing psychology impact on perceived value. Strategies for upselling and cross-selling courses." Inputs Required: Number of courses available at launch Average course completion rate Expected monthly active users Competitor platform pricing`
 
-Pricing Strategy Analysis for a Boutique Café Chain
+## Pricing Strategy Analysis for a Boutique Café Chain
 
-Backstory:
+`Backstory:`
 
-Kabir, 31, runs a boutique café in Mumbai serving artisanal coffee, organic teas, and gourmet snacks. He plans to open three more outlets in Pune and Bengaluru. Competitors range from affordable coffee shops to premium international chains. Kabir is considering whether to match premium chain prices, price slightly lower to capture volume, or bundle products to increase average ticket size.
+`Kabir, 31, runs a boutique café in Mumbai serving artisanal coffee, organic teas, and gourmet snacks. He plans to open three more outlets in Pune and Bengaluru. Competitors range from affordable coffee shops to premium international chains. Kabir is considering whether to match premium chain prices, price slightly lower to capture volume, or bundle products to increase average ticket size.`
 
-Goal:
+`Goal:
 
-Select a pricing approach that strengthens brand image while driving repeat visits.
+`Select a pricing approach that strengthens brand image while driving repeat visits.`
 
-Prompt:
+`Prompt:`
 
-"You are a food & beverage pricing consultant. Analyse competitive pricing data for boutique cafés in Mumbai, Pune, and Bengaluru. Recommend a strategy between premium pricing, competitive pricing, and bundle pricing. Include: Price comparison matrix for similar beverages and snacks. Gross margin analysis for each strategy. Sensitivity analysis for changes in ingredient costs. Tactics for introducing seasonal or limited-edition pricing." Inputs Required: Current ingredient cost breakdown Competitor café menu prices Average spend per customer Projected monthly footfall per outlet
+`"You are a food & beverage pricing consultant. Analyse competitive pricing data for boutique cafés in Mumbai, Pune, and Bengaluru. Recommend a strategy between premium pricing, competitive pricing, and bundle pricing. Include: Price comparison matrix for similar beverages and snacks. Gross margin analysis for each strategy. Sensitivity analysis for changes in ingredient costs. Tactics for introducing seasonal or limited-edition pricing." Inputs Required: Current ingredient cost breakdown Competitor café menu prices Average spend per customer Projected monthly footfall per outlet`
 
-Pricing Strategy Analysis for a Subscription Meal Service
+## Pricing Strategy Analysis for a Subscription Meal Service
 
-Backstory:
+`Backstory:`
 
-Nikhil, 29, runs a subscription-based healthy meal delivery service in Bengaluru. His meals cater to working professionals who want calorie-controlled, nutrient-rich food without cooking. Competitors include cloud kitchens, tiffin services, and app-based food delivery. His dilemma is whether to price per meal, offer weekly subscriptions, or create a flexible monthly plan with skip days allowed. He also wants to understand how introductory pricing could help retention.
+`Nikhil, 29, runs a subscription-based healthy meal delivery service in Bengaluru. His meals cater to working professionals who want calorie-controlled, nutrient-rich food without cooking. Competitors include cloud kitchens, tiffin services, and app-based food delivery. His dilemma is whether to price per meal, offer weekly subscriptions, or create a flexible monthly plan with skip days allowed. He also wants to understand how introductory pricing could help retention.`
 
-Goal:
+`Goal:`
 
-Find the most sustainable subscription pricing model that increases retention and reduces churn.
+`Find the most sustainable subscription pricing model that increases retention and reduces churn.`
 
-Prompt:
+`Prompt:`
 
-"You are a subscription business pricing expert. Analyse per-meal, weekly, and monthly subscription pricing for a healthy meal delivery service targeting urban professionals. Provide: Break-even calculation for each model based on fixed and variable costs. Competitor pricing comparison. Projected customer lifetime value for each plan. Impact of skip-day flexibility on retention and margins. Recommendations for introductory offers that convert to long-term subscribers." Inputs Required: Ingredient & packaging costs Delivery cost per meal Current churn rate (if available) Competitor subscription rates
+"You are a subscription business pricing expert. Analyse per-meal, weekly, and monthly subscription pricing for a healthy meal delivery service targeting urban professionals. Provide: Break-even calculation for each model based on fixed and variable costs. Competitor pricing comparison. Projected customer lifetime value for each plan. Impact of skip-day flexibility on retention and margins. Recommendations for introductory offers that convert to long-term subscribers." Inputs Required: Ingredient & packaging costs Delivery cost per meal Current churn rate (if available) Competitor subscription rates`
 
-Pricing Strategy Analysis for a Handmade Jewellery Brand
+## Pricing Strategy Analysis for a Handmade Jewellery Brand
 
-Backstory:
+`Backstory:`
 
-Priya, 27, makes handmade silver jewellery inspired by traditional Indian designs. She sells via Instagram and local exhibitions. Customers love her unique pieces but often compare her prices to mass-produced jewellery in stores. She needs to decide whether to keep premium pricing to reflect craftsmanship or lower prices slightly to increase sales volume.
+`Priya, 27, makes handmade silver jewellery inspired by traditional Indian designs. She sells via Instagram and local exhibitions. Customers love her unique pieces but often compare her prices to mass-produced jewellery in stores. She needs to decide whether to keep premium pricing to reflect craftsmanship or lower prices slightly to increase sales volume.`
 
-Goal:
+`Goal:`
 
-Choose a pricing model that communicates premium quality while staying competitive.
+`Choose a pricing model that communicates premium quality while staying competitive.`
 
-Prompt:
+`Prompt:`
 
-"You are a brand positioning and pricing consultant. Analyse premium pricing vs competitive pricing for a handmade silver jewellery brand. Include: Competitor price comparison table (online and offline sellers). Perceived value vs actual cost mapping. Social media engagement impact on pricing perception. Pricing tiers for exclusive, limited, and bulk items." Inputs Required: Average production time per item Material costs Competitor price points Target profit margin
+`"You are a brand positioning and pricing consultant. Analyse premium pricing vs competitive pricing for a handmade silver jewellery brand. Include: Competitor price comparison table (online and offline sellers). Perceived value vs actual cost mapping. Social media engagement impact on pricing perception. Pricing tiers for exclusive, limited, and bulk items." Inputs Required: Average production time per item Material costs Competitor price points Target profit margin`
 
-Pricing Strategy Analysis for a Fitness App
+## Pricing Strategy Analysis for a Fitness App
 
-Backstory:
+`Backstory:`
 
-Arjun, 30, has built a mobile app that provides guided workout videos, progress tracking, and personalized nutrition plans. His audience is Indian millennials and Gen Z looking for affordable, at-home fitness solutions. He is unsure whether to go with a one-time purchase, a monthly subscription, or a freemium model with paid upgrades.
+`Arjun, 30, has built a mobile app that provides guided workout videos, progress tracking, and personalized nutrition plans. His audience is Indian millennials and Gen Z looking for affordable, at-home fitness solutions. He is unsure whether to go with a one-time purchase, a monthly subscription, or a freemium model with paid upgrades.`
 
-Goal:
+`Goal:`
 
-Maximize recurring revenue while ensuring app adoption in a competitive market.
+`Maximize recurring revenue while ensuring app adoption in a competitive market.`
 
-Prompt:
+`Prompt:`
 
-"You are a fitness tech pricing strategist. Evaluate one-time purchase, monthly subscription, and freemium + in-app purchase models for a fitness app targeting Indian youth. Include: Competitor pricing analysis (Nike Training Club, Cult.fit, etc.). Revenue projections for each model. Conversion rate benchmarks for freemium models. Recommendations for introductory pricing and upsell offers." Inputs Required: App development and maintenance costs Number of planned premium features Marketing budget Target user acquisition goal
+`"You are a fitness tech pricing strategist. Evaluate one-time purchase, monthly subscription, and freemium + in-app purchase models for a fitness app targeting Indian youth. Include: Competitor pricing analysis (Nike Training Club, Cult.fit, etc.). Revenue projections for each model. Conversion rate benchmarks for freemium models. Recommendations for introductory pricing and upsell offers." Inputs Required: App development and maintenance costs Number of planned premium features Marketing budget Target user acquisition goal`
 
-Pricing Strategy Analysis for a Digital Marketing Agency
+## Pricing Strategy Analysis for a Digital Marketing Agency
 
-Backstory:
+`Backstory:`
 
-Simran, 32, runs a boutique digital marketing agency in Delhi, serving small and medium-sized businesses. She offers SEO, social media management, and paid ads. She’s debating between project-based pricing, hourly rates, or monthly retainers. Clients want transparency, but she also needs stable cash flow.
+`Simran, 32, runs a boutique digital marketing agency in Delhi, serving small and medium-sized businesses. She offers SEO, social media management, and paid ads. She’s debating between project-based pricing, hourly rates, or monthly retainers. Clients want transparency, but she also needs stable cash flow.`
 
-Goal:
+`Goal:`
 
-Identify the most profitable and sustainable pricing model for agency services.
+`Identify the most profitable and sustainable pricing model for agency services.`
 
-Prompt:
+`Prompt:`
 
-"You are a business consultant for service-based businesses. Compare project-based, hourly, and retainer pricing for a digital marketing agency serving Indian SMEs. Provide: Pros and cons of each model. Case study projections for a 12-month client relationship. Risk analysis for scope creep. Recommendations for hybrid pricing models." Inputs Required: Current client size and project scope examples Average hours spent per project Overhead costs Competitor agency pricing
+`"You are a business consultant for service-based businesses. Compare project-based, hourly, and retainer pricing for a digital marketing agency serving Indian SMEs. Provide: Pros and cons of each model. Case study projections for a 12-month client relationship. Risk analysis for scope creep. Recommendations for hybrid pricing models." Inputs Required: Current client size and project scope examples Average hours spent per project Overhead costs Competitor agency pricing`
 
-Pricing Strategy Analysis for a Co-working Space
+## Pricing Strategy Analysis for a Co-working Space
 
-Backstory:
+`Backstory:`
 
-Varun, 31, is launching a co-working space in Pune targeting freelancers and early-stage startups. Competitors offer daily passes, monthly memberships, and corporate packages. He needs to determine whether to undercut competitors to quickly fill seats or differentiate through premium pricing with added services like networking events and business support.
+`Varun, 31, is launching a co-working space in Pune targeting freelancers and early-stage startups. Competitors offer daily passes, monthly memberships, and corporate packages. He needs to determine whether to undercut competitors to quickly fill seats or differentiate through premium pricing with added services like networking events and business support.`
 
-Goal:
+`Goal:`
 
-Create a competitive yet profitable pricing structure for a co-working space.
+`Create a competitive yet profitable pricing structure for a co-working space.`
 
-Prompt:
+`Prompt:`
 
-"You are a commercial real estate pricing expert. Develop a pricing strategy for a co-working space targeting Indian freelancers and startups. Include: Competitor benchmarking for Pune and similar cities. Profitability analysis for daily, weekly, and monthly passes. Impact of value-added services on willingness to pay. Seasonal demand variation pricing recommendations." Inputs Required: Operational costs per seat Competitor price list Amenities offered Occupancy target
+`"You are a commercial real estate pricing expert. Develop a pricing strategy for a co-working space targeting Indian freelancers and startups. Include: Competitor benchmarking for Pune and similar cities. Profitability analysis for daily, weekly, and monthly passes. Impact of value-added services on willingness to pay. Seasonal demand variation pricing recommendations." Inputs Required: Operational costs per seat Competitor price list Amenities offered Occupancy target`
 
-Pricing Strategy Analysis for a Wedding Photography Business
+## Pricing Strategy Analysis for a Wedding Photography Business
 
-Backstory:
+`Backstory:`
 
-Rhea, 30, is a professional wedding photographer based in Jaipur. She offers candid, traditional, and cinematic wedding shoots. Competitors in her area offer packages that vary widely in price and deliverables. Some offer flat rates, while others customize based on the number of hours, events, and locations. Rhea wants to create pricing that reflects her unique artistic style but also attracts a consistent flow of bookings.
+`Rhea, 30, is a professional wedding photographer based in Jaipur. She offers candid, traditional, and cinematic wedding shoots. Competitors in her area offer packages that vary widely in price and deliverables. Some offer flat rates, while others customize based on the number of hours, events, and locations. Rhea wants to create pricing that reflects her unique artistic style but also attracts a consistent flow of bookings.`
 
-Goal:
+`Goal:`
 
-Create a flexible yet premium pricing model that balances profitability and client acquisition.
+`Create a flexible yet premium pricing model that balances profitability and client acquisition.`
 
-Prompt:
+`Prompt:`
 
-"You are a creative service pricing strategist. Analyse and recommend a pricing model for a wedding photography business in Jaipur. Include: Competitor pricing analysis for similar styles and packages. Cost breakdown for travel, assistants, and editing. Recommendations for tiered packages (basic, standard, premium). Ideas for add-ons (photo albums, drone shots, same-day edits). Strategies for seasonal pricing adjustments." Inputs Required: Average number of weddings per year Travel and equipment costs Desired annual income Competitor package rates
+`"You are a creative service pricing strategist. Analyse and recommend a pricing model for a wedding photography business in Jaipur. Include: Competitor pricing analysis for similar styles and packages. Cost breakdown for travel, assistants, and editing. Recommendations for tiered packages (basic, standard, premium). Ideas for add-ons (photo albums, drone shots, same-day edits). Strategies for seasonal pricing adjustments." Inputs Required: Average number of weddings per year Travel and equipment costs Desired annual income Competitor package rates`
 
-Pricing Strategy Analysis for an Organic Skincare Brand
+## Pricing Strategy Analysis for an Organic Skincare Brand
 
-Backstory:
+`Backstory:`
 
-Ananya, 28, launched a small-batch organic skincare brand that sells face creams, serums, and scrubs. Her products are handmade, use eco-friendly packaging, and are free from synthetic chemicals. Competitors range from luxury boutique brands to budget-friendly herbal products. She’s unsure whether to price at a premium for her unique selling points or stay mid-range to attract more customers.
+`Ananya, 28, launched a small-batch organic skincare brand that sells face creams, serums, and scrubs. Her products are handmade, use eco-friendly packaging, and are free from synthetic chemicals. Competitors range from luxury boutique brands to budget-friendly herbal products. She’s unsure whether to price at a premium for her unique selling points or stay mid-range to attract more customers.`
 
-Goal:
+`Goal:`
 
-Develop a pricing structure that highlights premium quality while ensuring steady sales.
+`Develop a pricing structure that highlights premium quality while ensuring steady sales.`
 
-Prompt:
+`Prompt:`
 
-"You are a consumer goods pricing analyst. Create a pricing strategy for an organic skincare brand. Include: Competitor and market positioning map. Production cost analysis vs desired margin. Bundle pricing options for multiple products. Pricing psychology recommendations (₹999, ₹1499 tiering). Subscription discount feasibility for repeat buyers." Inputs Required: Ingredient costs per product Packaging costs Target market segment Competitor price range
+`"You are a consumer goods pricing analyst. Create a pricing strategy for an organic skincare brand. Include: Competitor and market positioning map. Production cost analysis vs desired margin. Bundle pricing options for multiple products. Pricing psychology recommendations (₹999, ₹1499 tiering). Subscription discount feasibility for repeat buyers." Inputs Required: Ingredient costs per product Packaging costs Target market segment Competitor price range`
 
-Pricing Strategy Analysis for a Food Truck Business
+## Pricing Strategy Analysis for a Food Truck Business
 
-Backstory:
+`Backstory:`
 
-Rajat, 32, runs a gourmet food truck in Mumbai offering fusion street food. He operates in high-footfall areas near IT parks and college campuses. Competitors include both other food trucks and small cafes. Rajat wants to experiment with dynamic pricing for peak vs off-peak hours but is unsure of customer reaction.
+`Rajat, 32, runs a gourmet food truck in Mumbai offering fusion street food. He operates in high-footfall areas near IT parks and college campuses. Competitors include both other food trucks and small cafes. Rajat wants to experiment with dynamic pricing for peak vs off-peak hours but is unsure of customer reaction.`
 
-Goal:
+`Goal:`
 
-Determine the viability and impact of dynamic pricing in a food truck business.
+`Determine the viability and impact of dynamic pricing in a food truck business.`
 
-Prompt:
+`Prompt:`
 
-"You are a quick-service restaurant pricing consultant. Analyse static vs dynamic pricing for a gourmet food truck. Provide: Peak-hour and off-peak pricing recommendations. Impact on daily revenue and customer satisfaction. Competitor benchmarking in similar areas. Menu engineering for high-margin items." Inputs Required: Average daily sales by time slot Ingredient costs per item Competitor menu pricing Customer feedback data
+`"You are a quick-service restaurant pricing consultant. Analyse static vs dynamic pricing for a gourmet food truck. Provide: Peak-hour and off-peak pricing recommendations. Impact on daily revenue and customer satisfaction. Competitor benchmarking in similar areas. Menu engineering for high-margin items." Inputs Required: Average daily sales by time slot Ingredient costs per item Competitor menu pricing Customer feedback data`
 
-Pricing Strategy Analysis for an Online Tutoring Platform
+## Pricing Strategy Analysis for an Online Tutoring Platform
 
-Backstory:
+`Backstory:`
 
-Ishaan, 29, runs an online tutoring service for competitive exams like UPSC, CAT, and GATE. He offers live classes, recorded sessions, and test series. Competitors include big edtech platforms and individual tutors. Pricing needs to balance affordability for students and profitability for the business.
+`Ishaan, 29, runs an online tutoring service for competitive exams like UPSC, CAT, and GATE. He offers live classes, recorded sessions, and test series. Competitors include big edtech platforms and individual tutors. Pricing needs to balance affordability for students and profitability for the business.`
 
-Goal:
+`Goal:`
 
-Design a competitive pricing structure that maximizes enrolment while sustaining operations.
+`Design a competitive pricing structure that maximizes enrolment while sustaining operations.`
 
-Prompt:
+`Prompt:`
 
-"You are an edtech pricing strategist. Recommend pricing for an online tutoring platform offering live and recorded classes. Include: Comparison of pay-per-course vs monthly subscription. Group vs one-on-one session pricing. Impact of offering trial classes. Long-term discounts for committed learners." Inputs Required: Teacher payment rates Platform maintenance costs Competitor pricing data Student target audience income range
+`"You are an edtech pricing strategist. Recommend pricing for an online tutoring platform offering live and recorded classes. Include: Comparison of pay-per-course vs monthly subscription. Group vs one-on-one session pricing. Impact of offering trial classes. Long-term discounts for committed learners." Inputs Required: Teacher payment rates Platform maintenance costs Competitor pricing data Student target audience income range`
 
-Pricing Strategy Analysis for a Handmade Furniture Store
+## Pricing Strategy Analysis for a Handmade Furniture Store
 
-Backstory:
+`Backstory:`
 
-Dev, 33, owns a workshop in Kerala that makes custom wooden furniture using locally sourced materials. His craftsmanship is top-notch, but high production costs make his furniture more expensive than mass-produced alternatives. He’s unsure whether to adopt a cost-plus model, value-based pricing, or a combination.
+`Dev, 33, owns a workshop in Kerala that makes custom wooden furniture using locally sourced materials. His craftsmanship is top-notch, but high production costs make his furniture more expensive than mass-produced alternatives. He’s unsure whether to adopt a cost-plus model, value-based pricing, or a combination.`
 
-Goal:
+`Goal:`
 
-Select a pricing model that reflects craftsmanship and drives profitability.
+`Select a pricing model that reflects craftsmanship and drives profitability.`
 
-Prompt:
+`Prompt:`
 
-"You are a retail furniture pricing expert. Create a pricing model for handmade wooden furniture. Include: Cost-plus vs value-based pricing analysis. Impact of offering made-to-order customization. Suggested retail and wholesale prices. Strategies for positioning against mass-produced competitors." Inputs Required: Material and labour costs Production time per piece Competitor furniture prices Target customer profile
+`"You are a retail furniture pricing expert. Create a pricing model for handmade wooden furniture. Include: Cost-plus vs value-based pricing analysis. Impact of offering made-to-order customization. Suggested retail and wholesale prices. Strategies for positioning against mass-produced competitors." Inputs Required: Material and labour costs Production time per piece Competitor furniture prices Target customer profile`
 
-Pricing Strategy Analysis for a Language Learning App
+## Pricing Strategy Analysis for a Language Learning App
 
 Backstory:
 
