@@ -38,18 +38,18 @@
 ```
 ## Prompt 2 – 360° Feedback Performance Review Form
 
-Backstory:
+`Backstory:`
 
-A mid-sized IT services firm in Hyderabad with 500 employees is moving towards a 360° feedback model to encourage a culture of openness and peer learning. Currently, reviews only happen between a manager and employee, which limits perspectives. The HR director wants a feedback form that collects inputs from managers, peers, subordinates, and even cross-functional collaborators. The challenge is to design it in a way that keeps anonymity intact while ensuring the questions are constructive and actionable.
+`A mid-sized IT services firm in Hyderabad with 500 employees is moving towards a 360° feedback model to encourage a culture of openness and peer learning. Currently, reviews only happen between a manager and employee, which limits perspectives. The HR director wants a feedback form that collects inputs from managers, peers, subordinates, and even cross-functional collaborators. The challenge is to design it in a way that keeps anonymity intact while ensuring the questions are constructive and actionable.`
 
-Goal:
+`Goal:`
 
-Create a 360° feedback performance review form.
+`Create a 360° feedback performance review form.`
 
-Prompt:
+`Prompt:`
 
-*"You are an organisational development expert. Design a 360° feedback form for an Indian IT services company that includes:
-
+`*"You are an organisational development expert. Design a 360° feedback form for an Indian IT services company that includes:`
+```
 1. Role-specific competency ratings
 
 2. Collaboration and communication effectiveness
@@ -59,11 +59,11 @@ Prompt:
 4. Work quality and delivery reliability
 
 5. Open-ended questions for strengths and improvement areas
+```
+`Ensure the format allows for anonymity and can be adapted for online surveys."*`
 
-Ensure the format allows for anonymity and can be adapted for online surveys."*
-
-Inputs:
-
+`Inputs:`
+```
 1. Role level (Junior, Mid, Senior)
 
 2. Feedback sources (Peers, Managers, Clients)
@@ -71,21 +71,21 @@ Inputs:
 3. Anonymity requirement (Yes/No)
 
 4. Review frequency
+```
+## Prompt 3 – Self-Reflection Performance Review Template
 
-Prompt 3 – Self-Reflection Performance Review Template
+`Backstory:`
 
-Backstory:
+`An NGO in Delhi working on environmental awareness campaigns wants to introduce self-reflection in its annual appraisal process. The leadership believes employees should evaluate their own contributions, challenges, and learnings before their manager review. The template should encourage honest introspection while guiding employees to align their personal growth goals with the organisation’s mission.`
 
-An NGO in Delhi working on environmental awareness campaigns wants to introduce self-reflection in its annual appraisal process. The leadership believes employees should evaluate their own contributions, challenges, and learnings before their manager review. The template should encourage honest introspection while guiding employees to align their personal growth goals with the organisation’s mission.
+`Goal:`
 
-Goal:
+`Develop a self-reflection template for employee reviews.`
 
-Develop a self-reflection template for employee reviews.
+`Prompt:`
 
-Prompt:
-
-*"You are an HR content designer for a non-profit organisation. Create a self-reflection performance review template with sections for:
-
+`*"You are an HR content designer for a non-profit organisation. Create a self-reflection performance review template with sections for:`
+```
 1. Key achievements over the past year
 
 2. Challenges faced and how they were addressed
@@ -95,31 +95,31 @@ Prompt:
 4. Areas for improvement
 
 5. Personal goals for the next year
+```
+`Questions should encourage storytelling and self-awareness, not just tick-box answers."*`
 
-Questions should encourage storytelling and self-awareness, not just tick-box answers."*
-
-Inputs:
-
+`Inputs:`
+```
 1. Employee role type
 
 2. Length of reflection period (6 or 12 months)
 
 3. Preferred response style (Narrative or Bullet points)
+```
+## Prompt 4 – Behavioural Competency-Based Review Sheet
 
-Prompt 4 – Behavioural Competency-Based Review Sheet
+`Backstory:`
 
-Backstory:
+`A leading e-commerce company in Mumbai wants to shift from purely numerical performance scoring to a competency-based model. They want to assess employees on behavioural traits such as adaptability, teamwork, problem-solving, and creativity. The HR analytics team is looking for a review sheet that can rate employees on these competencies with clear behavioural indicators for each rating.`
 
-A leading e-commerce company in Mumbai wants to shift from purely numerical performance scoring to a competency-based model. They want to assess employees on behavioural traits such as adaptability, teamwork, problem-solving, and creativity. The HR analytics team is looking for a review sheet that can rate employees on these competencies with clear behavioural indicators for each rating.
+`Goal:`
 
-Goal:
+`Create a behavioural competency-based review sheet.`
 
-Create a behavioural competency-based review sheet.
+`Prompt:`
 
-Prompt:
-
-*"You are an HR analytics consultant. Design a performance review sheet for an Indian e-commerce firm focusing on behavioural competencies. Include:
-
+`*"You are an HR analytics consultant. Design a performance review sheet for an Indian e-commerce firm focusing on behavioural competencies. Include:`
+```
 1. Core competency definitions
 
 2. Observable behavioural indicators for each competency
@@ -127,31 +127,31 @@ Prompt:
 3. A 5-point rating scale with descriptors
 
 4. Space for manager comments and examples
+```
+`Ensure that the sheet is easy for managers to use and allows comparisons across teams."*`
 
-Ensure that the sheet is easy for managers to use and allows comparisons across teams."*
-
-Inputs:
-
+`Inputs:`
+```
 1. List of core competencies
 
 2. Rating scale preference
 
 3. Industry-specific behavioural examples
+```
+## Prompt 5 – Probation Period Performance Evaluation Form
 
-Prompt 5 – Probation Period Performance Evaluation Form
+`Backstory:`
 
-Backstory:
+`A BPO in Gurugram hires hundreds of freshers every quarter. Many leave during their probation period due to unclear expectations and lack of structured feedback. The HR team wants to implement a probation review form that evaluates both job performance and cultural fit within the first 90 days. The form should help decide whether to confirm, extend, or terminate the probation.`
 
-A BPO in Gurugram hires hundreds of freshers every quarter. Many leave during their probation period due to unclear expectations and lack of structured feedback. The HR team wants to implement a probation review form that evaluates both job performance and cultural fit within the first 90 days. The form should help decide whether to confirm, extend, or terminate the probation.
+`Goal:`
 
-Goal:
+`Design a probation period performance review form.`
 
-Design a probation period performance review form.
+`Prompt:`
 
-Prompt:
-
-*"You are a talent acquisition and retention expert. Create a probation performance evaluation form for a BPO. Include sections for:
-
+`*"You are a talent acquisition and retention expert. Create a probation performance evaluation form for a BPO. Include sections for:`
+```
 1. Job-specific KPIs and quality metrics
 
 2. Attendance and punctuality
@@ -161,31 +161,31 @@ Prompt:
 4. Behavioural and cultural alignment
 
 5. Manager’s recommendation (Confirm/Extend/Terminate)
+```
+`Make the format suitable for quick review while still detailed enough to be fair."*`
 
-Make the format suitable for quick review while still detailed enough to be fair."*
-
-Inputs:
-
+`Inputs:`
+```
 1. Probation duration (in days)
 
 2. Role type (Voice/Non-Voice, Tech/Support)
 
 3. Key performance metrics
+```
+## Prompt 6 – Quarterly Performance Snapshot Template
 
-Prompt 6 – Quarterly Performance Snapshot Template
+`Backstory:`
 
-Backstory:
+`Shreya, 31, is the HR lead for a mid-sized SaaS company in Pune. The leadership team wants more frequent but lighter performance reviews to keep track of progress without waiting for the annual cycle. They need a quarterly performance snapshot template that balances KPIs, recent achievements, and short-term goal tracking. It should be fast to fill, yet provide meaningful insights for both managers and employees.`
 
-Shreya, 31, is the HR lead for a mid-sized SaaS company in Pune. The leadership team wants more frequent but lighter performance reviews to keep track of progress without waiting for the annual cycle. They need a quarterly performance snapshot template that balances KPIs, recent achievements, and short-term goal tracking. It should be fast to fill, yet provide meaningful insights for both managers and employees.
+`Goal:`
 
-Goal:
+`Create a concise but comprehensive quarterly review template.`
 
-Create a concise but comprehensive quarterly review template.
+`Prompt:`
 
-Prompt:
-
-*"You are an HR operations designer. Create a quarterly performance snapshot template for a SaaS company. Include:
-
+`*"You are an HR operations designer. Create a quarterly performance snapshot template for a SaaS company. Include:`
+```
 1. KPI progress vs targets
 
 2. Top 3 achievements of the quarter
@@ -195,31 +195,31 @@ Prompt:
 4. Immediate next-quarter goals
 
 5. Manager comments and coaching suggestions
+```
+`Keep the template short (max 2 pages) but insightful."*`
 
-Keep the template short (max 2 pages) but insightful."*
-
-Inputs:
-
+`Inputs:`
+```
 1. Department focus
 
 2. KPI definitions
 
 3. Preferred scoring scale
+```
+## Prompt 7 – OKR-Linked Performance Review Template
 
-Prompt 7 – OKR-Linked Performance Review Template
+`Backstory:`
 
-Backstory:
+`An edtech startup in Bengaluru has adopted OKRs (Objectives and Key Results) for strategic alignment. The HR team needs a review template that directly ties employee performance to the company’s quarterly and annual OKRs. This ensures everyone’s work ladders up to the organisation’s mission and helps track contribution impact.`
 
-An edtech startup in Bengaluru has adopted OKRs (Objectives and Key Results) for strategic alignment. The HR team needs a review template that directly ties employee performance to the company’s quarterly and annual OKRs. This ensures everyone’s work ladders up to the organisation’s mission and helps track contribution impact.
+`Goal:`
 
-Goal:
+`Design an OKR-linked performance review template.`
 
-Design an OKR-linked performance review template.
+`Prompt:`
 
-Prompt:
-
-*"You are an organisational performance consultant. Create a performance review template that maps individual OKRs to company OKRs. Include:
-
+`*"You are an organisational performance consultant. Create a performance review template that maps individual OKRs to company OKRs. Include:`
+```
 1. Objective statements
 
 2. Key results with measurable metrics
@@ -229,31 +229,31 @@ Prompt:
 4. Reflection notes from employee and manager
 
 5. Alignment score with company strategy
+```
+`Ensure the design is easy to update every quarter."*`
 
-Ensure the design is easy to update every quarter."*
-
-Inputs:
-
+`Inputs:`
+```
 1. Company OKRs
 
 2. Employee role OKRs
 
 3. Review cycle (quarterly/annual)
+```
+## Prompt 8 – Skill Development-Oriented Review Form
 
-Prompt 8 – Skill Development-Oriented Review Form
+`Backstory:`
 
-Backstory:
+`A manufacturing firm in Gujarat is trying to improve workforce skills in automation and quality control. The HR department wants a review form that focuses on assessing skills acquired, training completed, and readiness for advanced roles. The template should be forward-looking rather than only backward-focused.`
 
-A manufacturing firm in Gujarat is trying to improve workforce skills in automation and quality control. The HR department wants a review form that focuses on assessing skills acquired, training completed, and readiness for advanced roles. The template should be forward-looking rather than only backward-focused.
+`Goal:`
 
-Goal:
+`Create a skill development-focused review template.`
 
-Create a skill development-focused review template.
+`Prompt:`
 
-Prompt:
-
-*"You are a workforce development strategist. Create a performance review form that evaluates:
-
+`*"You are a workforce development strategist. Create a performance review form that evaluates:`
+```
 1. Skills learned in the review period
 
 2. Application of new skills in work tasks
@@ -263,31 +263,31 @@ Prompt:
 4. Skills gap analysis
 
 5. Learning and development goals for next cycle
+```
+`Make the form applicable for both technical and non-technical roles."*`
 
-Make the form applicable for both technical and non-technical roles."*
-
-Inputs:
-
+`Inputs:`
+```
 1. Industry skill priorities
 
 2. Training modules completed
 
 3. Skill rating scale
+```
+## Prompt 9 – Customer Feedback-Integrated Review Sheet
 
-Prompt 9 – Customer Feedback-Integrated Review Sheet
+`Backstory:`
 
-Backstory:
+`A retail chain in Mumbai has customer-facing staff whose performance is closely tied to customer experience. The HR team wants to integrate customer feedback scores and comments into performance reviews. This will ensure employees see the direct link between their service quality and business impact.`
 
-A retail chain in Mumbai has customer-facing staff whose performance is closely tied to customer experience. The HR team wants to integrate customer feedback scores and comments into performance reviews. This will ensure employees see the direct link between their service quality and business impact.
+`Goal:`
 
-Goal:
+`Design a review sheet that includes customer feedback data.`
 
-Design a review sheet that includes customer feedback data.
+`Prompt:`
 
-Prompt:
-
-*"You are a customer experience and HR integration specialist. Create a performance review template for retail staff that includes:
-
+`*"You are a customer experience and HR integration specialist. Create a performance review template for retail staff that includes:`
+```
 1. Customer satisfaction (CSAT) scores
 
 2. Net Promoter Score (NPS) data
@@ -297,31 +297,31 @@ Prompt:
 4. Service quality rating from managers
 
 5. Action plan for improvement
+```
+`Ensure the design is easy for managers to fill in while keeping feedback objective."*`
 
-Ensure the design is easy for managers to fill in while keeping feedback objective."*
-
-Inputs:
-
+`Inputs:`
+```
 1. Source of customer data (surveys, mystery shopping, etc.)
 
 2. Performance review cycle
 
 3. Weightage of customer feedback in final rating
+```
+## Prompt 10 – Balanced Scorecard Performance Review
 
-Prompt 10 – Balanced Scorecard Performance Review
+`Backstory:`
 
-Backstory:
+`A bank in Delhi NCR is implementing the Balanced Scorecard methodology for performance management. The HR team needs a review form that balances financial metrics, customer service, internal processes, and learning & growth indicators.`
 
-A bank in Delhi NCR is implementing the Balanced Scorecard methodology for performance management. The HR team needs a review form that balances financial metrics, customer service, internal processes, and learning & growth indicators.
+`Goal:`
 
-Goal:
+`Create a Balanced Scorecard-based review template.`
 
-Create a Balanced Scorecard-based review template.
+`Prompt:`
 
-Prompt:
-
-*"You are an HR performance measurement expert. Design a Balanced Scorecard performance review form with four sections:
-
+`*"You are an HR performance measurement expert. Design a Balanced Scorecard performance review form with four sections:`
+```
 1. Financial performance
 
 2. Customer satisfaction and service quality
@@ -329,31 +329,31 @@ Prompt:
 3. Internal process efficiency
 
 4. Learning and growth metrics
+```
+`Include scoring guidelines, weightage, and space for qualitative comments."*`
 
-Include scoring guidelines, weightage, and space for qualitative comments."*
-
-Inputs:
-
+`Inputs:`
+```
 1. Department type (Retail Banking, Corporate Banking, etc.)
 
 2. KPI metrics for each scorecard category
 
 3. Review frequency
+```
+## Prompt 11 – Remote Work Performance Review Form
 
-Prompt 11 – Remote Work Performance Review Form
+`Backstory:`
 
-Backstory:
+`Post-pandemic, a digital marketing agency in Kolkata has shifted to hybrid work. The HR team needs a performance review template that evaluates output, communication, self-management, and remote collaboration skills.`
 
-Post-pandemic, a digital marketing agency in Kolkata has shifted to hybrid work. The HR team needs a performance review template that evaluates output, communication, self-management, and remote collaboration skills.
+`Goal:`
 
-Goal:
+`Create a remote work-specific performance review form.`
 
-Create a remote work-specific performance review form.
+`Prompt:`
 
-Prompt:
-
-*"You are a remote workforce productivity consultant. Create a performance review form that assesses:
-
+`*"You are a remote workforce productivity consultant. Create a performance review form that assesses:`
+```
 1. Task delivery and quality
 
 2. Communication responsiveness
@@ -363,31 +363,31 @@ Prompt:
 4. Self-management and time discipline
 
 5. Team contribution in virtual settings
+```
+`Include a section for self-assessment to encourage accountability."*`
 
-Include a section for self-assessment to encourage accountability."*
-
-Inputs:
-
+`Inputs:`
+```
 1. Role type (creative, technical, managerial)
 
 2. Collaboration tools used
 
 3. Review period
+```
+## Prompt 12 – Project-Based Performance Evaluation
 
-Prompt 12 – Project-Based Performance Evaluation
+`Backstory:`
 
-Backstory:
+`An engineering consultancy in Chennai works on short-term, high-value projects. Instead of annual reviews, they evaluate employees at the end of each project. The HR team wants a project-based evaluation form to capture technical skills, teamwork, and project outcomes.`
 
-An engineering consultancy in Chennai works on short-term, high-value projects. Instead of annual reviews, they evaluate employees at the end of each project. The HR team wants a project-based evaluation form to capture technical skills, teamwork, and project outcomes.
+`Goal:`
 
-Goal:
+`Create a project completion performance evaluation template.`
 
-Create a project completion performance evaluation template.
+`Prompt:`
 
-Prompt:
-
-*"You are a project performance analyst. Create an evaluation form for project-based reviews that includes:
-
+`*"You are a project performance analyst. Create an evaluation form for project-based reviews that includes:`
+```
 1. Project objectives and deliverables met
 
 2. Quality of work and adherence to deadlines
@@ -397,31 +397,31 @@ Prompt:
 4. Collaboration within project team
 
 5. Lessons learned and areas to improve
+```
+`Ensure it can be adapted for multiple project types."*`
 
-Ensure it can be adapted for multiple project types."*
-
-Inputs:
-
+`Inputs:`
+```
 1. Project type (Engineering, IT, Design)
 
 2. Duration of project
 
 3. Client feedback availability
+```
+## Prompt 13 – Leadership Potential Assessment Template
 
-Prompt 13 – Leadership Potential Assessment Template
+`Backstory:`
 
-Backstory:
+`A healthcare company in Noida is looking to identify employees with leadership potential for succession planning. The HR team wants a review template that evaluates leadership skills, decision-making ability, and capacity to inspire teams.`
 
-A healthcare company in Noida is looking to identify employees with leadership potential for succession planning. The HR team wants a review template that evaluates leadership skills, decision-making ability, and capacity to inspire teams.
+`Goal:`
 
-Goal:
+`Design a performance review to identify future leaders.`
 
-Design a performance review to identify future leaders.
+`Prompt:`
 
-Prompt:
-
-*"You are a talent management consultant. Create a performance review template that assesses leadership potential by measuring:
-
+`*"You are a talent management consultant. Create a performance review template that assesses leadership potential by measuring:`
+```
 1. Decision-making skills under pressure
 
 2. Ability to inspire and guide team members
@@ -431,31 +431,31 @@ Prompt:
 4. Conflict resolution and emotional intelligence
 
 5. Readiness for higher responsibilities
+```
+`Include both rating scales and qualitative assessment."*`
 
-Include both rating scales and qualitative assessment."*
-
-Inputs:
-
+`Inputs:`
+```
 1. Role level
 
 2. Core leadership competencies defined by company
 
 3. Review cycle
+```
+## Prompt 14 – Peer Review Performance Form
 
-Prompt 14 – Peer Review Performance Form
+`Backstory:`
 
-Backstory:
+`A design agency in Goa has a flat team structure where peer feedback is critical. The HR team wants a peer review template to encourage constructive criticism and collaboration.`
 
-A design agency in Goa has a flat team structure where peer feedback is critical. The HR team wants a peer review template to encourage constructive criticism and collaboration.
+`Goal:`
 
-Goal:
+`Create a peer review form for performance evaluation.`
 
-Create a peer review form for performance evaluation.
+`Prompt:`
 
-Prompt:
-
-*"You are an organisational culture consultant. Design a peer review form that includes:
-
+`*"You are an organisational culture consultant. Design a peer review form that includes:`
+```
 1. Collaboration and teamwork
 
 2. Contribution to shared goals
@@ -465,31 +465,31 @@ Prompt:
 4. Reliability and accountability
 
 5. Suggested areas for improvement
+```
+`Make sure it promotes a culture of support rather than competition."*`
 
-Make sure it promotes a culture of support rather than competition."*
-
-Inputs:
-
+`Inputs:`
+```
 1. Role type
 
 2. Peer group size
 
 3. Confidentiality level
+```
+## Prompt 15 – Competency Gap Analysis Review
 
-Prompt 15 – Competency Gap Analysis Review
+`Backstory:`
 
-Backstory:
+`A logistics company in Jaipur wants to improve employee training ROI by identifying competency gaps during performance reviews. They need a template that compares required competencies vs current performance levels.`
 
-A logistics company in Jaipur wants to improve employee training ROI by identifying competency gaps during performance reviews. They need a template that compares required competencies vs current performance levels.
+`Goal:`
 
-Goal:
+`Create a competency gap-focused review form.`
 
-Create a competency gap-focused review form.
+`Prompt:`
 
-Prompt:
-
-*"You are a workforce development expert. Create a performance review form that:
-
+`*"You are a workforce development expert. Create a performance review form that:`
+```
 1. Lists required competencies for the role
 
 2. Rates current competency level
@@ -499,31 +499,31 @@ Prompt:
 4. Includes manager and employee comments
 
 5. Generates an action plan for skill-building
+```
+`Format should be easy to integrate with LMS systems."*`
 
-Format should be easy to integrate with LMS systems."*
-
-Inputs:
-
+`Inputs:`
+```
 1. Role competency framework
 
 2. Rating scale
 
 3. Training program availability
+```
+## Prompt 16 – Behavioural Competency Evaluation Form
 
-Prompt 16 – Behavioural Competency Evaluation Form
+`Backstory:`
 
-Backstory:
+`A multinational IT services company in Hyderabad has strong technical teams but wants to also evaluate employees on behavioural competencies like adaptability, collaboration, and ethical conduct. The HR head believes that these soft skills are as crucial as technical abilities for client satisfaction and long-term retention.`
 
-A multinational IT services company in Hyderabad has strong technical teams but wants to also evaluate employees on behavioural competencies like adaptability, collaboration, and ethical conduct. The HR head believes that these soft skills are as crucial as technical abilities for client satisfaction and long-term retention.
+`Goal:`
 
-Goal:
+`Design a review template that measures behavioural competencies alongside technical KPIs.`
 
-Design a review template that measures behavioural competencies alongside technical KPIs.
+`Prompt:`
 
-Prompt:
-
-*"You are an organisational psychologist. Create a performance review form that includes:
-
+`*"You are an organisational psychologist. Create a performance review form that includes:`
+```
 1. List of behavioural competencies (adaptability, communication, teamwork, integrity)
 
 2. Rating scale with behaviour-based indicators
@@ -531,31 +531,31 @@ Prompt:
 3. Examples section where managers can note observed behaviours
 
 4. Development suggestions for each competency
+```
+`Ensure balance between qualitative and quantitative assessment."*`
 
-Ensure balance between qualitative and quantitative assessment."*
-
-Inputs:
-
+`Inputs:`
+```
 1. Company’s competency framework
 
 2. Review cycle length
 
 3. Weightage between behavioural and technical skills
+```
+## Prompt 17 – 360° Feedback Review Template
 
-Prompt 17 – 360° Feedback Review Template
+`Backstory:`
 
-Backstory:
+`A fintech company in Mumbai wants a full-circle evaluation method involving self-assessment, peer review, manager assessment, and subordinate feedback. They believe 360° feedback offers richer, multi-perspective insights compared to traditional top-down reviews.`
 
-A fintech company in Mumbai wants a full-circle evaluation method involving self-assessment, peer review, manager assessment, and subordinate feedback. They believe 360° feedback offers richer, multi-perspective insights compared to traditional top-down reviews.
+`Goal:`
 
-Goal:
+`Create a 360° performance review template.`
 
-Create a 360° performance review template.
+`Prompt:`
 
-Prompt:
-
-*"You are an HR strategy consultant. Create a 360° feedback performance review form that includes:
-
+`*"You are an HR strategy consultant. Create a 360° feedback performance review form that includes:`
+```
 1. Self-assessment section
 
 2. Peer evaluation questions
@@ -565,31 +565,31 @@ Prompt:
 4. Subordinate feedback (for managers)
 
 5. Summary and development plan
+```
+`Include confidentiality guidelines for honest responses."*`
 
-Include confidentiality guidelines for honest responses."*
-
-Inputs:
-
+`Inputs:`
+```
 1. Role level
 
 2. Review frequency
 
 3. Competency categories
+```
+## Prompt 18 – Sales Performance Review Template
 
-Prompt 18 – Sales Performance Review Template
+`Backstory:`
 
-Backstory:
+`A consumer goods company in Ahmedabad needs a review form tailored for sales teams. The review should track revenue targets, lead conversion, territory performance, and client retention. Motivation and incentive-linked metrics should also be captured.`
 
-A consumer goods company in Ahmedabad needs a review form tailored for sales teams. The review should track revenue targets, lead conversion, territory performance, and client retention. Motivation and incentive-linked metrics should also be captured.
+`Goal:`
 
-Goal:
+`Design a sales-focused performance review template.`
 
-Design a sales-focused performance review template.
+`Prompt:`
 
-Prompt:
-
-*"You are a sales performance analyst. Create a performance review form for sales representatives that includes:
-
+`*"You are a sales performance analyst. Create a performance review form for sales representatives that includes:`
+```
 1. Sales vs target achievement
 
 2. New client acquisition rate
@@ -599,31 +599,31 @@ Prompt:
 4. Pipeline quality and conversion rates
 
 5. Soft skills like negotiation and relationship management
+```
+`Include a space for incentive eligibility notes."*`
 
-Include a space for incentive eligibility notes."*
-
-Inputs:
-
+`Inputs:`
+```
 1. Sales target data
 
 2. Territory/region details
 
 3. Review cycle (quarterly/annual)
+```
+## Prompt 19 – Creative Role Performance Review
 
-Prompt 19 – Creative Role Performance Review
+`Backstory:`
 
-Backstory:
+`A film production house in Mumbai wants to evaluate scriptwriters, editors, and designers based on creativity, originality, and alignment with brand storytelling. They need a review format that captures qualitative aspects alongside deadlines and project impact.`
 
-A film production house in Mumbai wants to evaluate scriptwriters, editors, and designers based on creativity, originality, and alignment with brand storytelling. They need a review format that captures qualitative aspects alongside deadlines and project impact.
+`Goal:`
 
-Goal:
+`Create a performance review template for creative roles.`
 
-Create a performance review template for creative roles.
+`Prompt:`
 
-Prompt:
-
-*"You are a creative industry HR consultant. Design a performance review form for creative professionals that measures:
-
+`*"You are a creative industry HR consultant. Design a performance review form for creative professionals that measures:`
+```
 1. Originality of ideas
 
 2. Brand tone and vision alignment
@@ -633,31 +633,31 @@ Prompt:
 4. Team collaboration in creative process
 
 5. Audience reception/impact of creative output
+```
+`Include open-ended questions for creative feedback."*`
 
-Include open-ended questions for creative feedback."*
-
-Inputs:
-
+`Inputs:`
+```
 1. Project type (film, digital ad, etc.)
 
 2. Review period
 
 3. Audience feedback availability
+```
+## Prompt 20 – KPI-Weighted Scoring Review Sheet
 
-Prompt 20 – KPI-Weighted Scoring Review Sheet
+`Backstory:`
 
-Backstory:
+`An IT outsourcing firm in Bengaluru uses multiple KPIs, but managers often struggle to weight them consistently. They need a standardised review form with KPI weightages clearly defined to maintain fairness.`
 
-An IT outsourcing firm in Bengaluru uses multiple KPIs, but managers often struggle to weight them consistently. They need a standardised review form with KPI weightages clearly defined to maintain fairness.
+`Goal:`
 
-Goal:
+`Create a KPI-weighted performance review sheet.`
 
-Create a KPI-weighted performance review sheet.
+`Prompt:`
 
-Prompt:
-
-*"You are a performance metrics designer. Create a review form that:
-
+`*"You are a performance metrics designer. Create a review form that:`
+```
 1. Lists KPIs with predefined weightages
 
 2. Calculates weighted scores automatically
@@ -665,31 +665,31 @@ Prompt:
 3. Allows manager comments per KPI
 
 4. Generates overall performance percentage
+```
+`Make the template adaptable for different roles while keeping the scoring structure consistent."*`
 
-Make the template adaptable for different roles while keeping the scoring structure consistent."*
-
-Inputs:
-
+`Inputs:`
+```
 1. KPI list and weights
 
 2. Role type
 
 3. Scoring scale
+```
+## Prompt 21 – High-Potential Employee (HiPo) Identification Form
 
-Prompt 21 – High-Potential Employee (HiPo) Identification Form
+`Backstory:`
 
-Backstory:
+`A pharmaceutical company in Chandigarh wants to identify high-potential employees early for leadership programs. They need a review form focused on innovation, initiative, and problem-solving beyond the current role.`
 
-A pharmaceutical company in Chandigarh wants to identify high-potential employees early for leadership programs. They need a review form focused on innovation, initiative, and problem-solving beyond the current role.
+`Goal:`
 
-Goal:
+`Design a HiPo-focused performance review form.`
 
-Design a HiPo-focused performance review form.
+`Prompt:`
 
-Prompt:
-
-*"You are a talent identification specialist. Create a performance review form to assess high-potential employees based on:
-
+`*"You are a talent identification specialist. Create a performance review form to assess high-potential employees based on:
+```
 1. Proactive initiative-taking
 
 2. Problem-solving creativity
@@ -699,31 +699,31 @@ Prompt:
 4. Leadership readiness indicators
 
 5. Contribution beyond job description
+```
+`Include space for manager justification and future development path."*`
 
-Include space for manager justification and future development path."*
-
-Inputs:
-
+`Inputs:
+```
 1. Role category
 
 2. Competency framework
 
 3. Review period
+```
+## Prompt 22 – Employee Self-Review Template
 
-Prompt 22 – Employee Self-Review Template
+`Backstory:`
 
-Backstory:
+`A media company in Delhi wants employees to take ownership of their performance reviews by starting with self-assessments. The goal is to encourage honest self-reflection and alignment with manager observations.`
 
-A media company in Delhi wants employees to take ownership of their performance reviews by starting with self-assessments. The goal is to encourage honest self-reflection and alignment with manager observations.
+`Goal:`
 
-Goal:
+`Create a self-review template.`
 
-Create a self-review template.
+`Prompt:`
 
-Prompt:
-
-*"You are an HR engagement consultant. Create an employee self-review form that includes:
-
+`*"You are an HR engagement consultant. Create an employee self-review form that includes:`
+```
 1. Achievements in the review period
 
 2. Areas where improvement is needed
@@ -733,31 +733,31 @@ Prompt:
 4. Feedback for the manager/company
 
 5. Personal goals for next cycle
+```
+`Ensure a balance between structured questions and open reflection space."*`
 
-Ensure a balance between structured questions and open reflection space."*
-
-Inputs:
-
+`Inputs:`
+```
 1. Role type
 
 2. Review frequency
 
 3. Key performance areas
+```
+## Prompt 23 – Probation Period Performance Review
 
-Prompt 23 – Probation Period Performance Review
+`Backstory:`
 
-Backstory:
+`A hospitality group in Goa needs a review form for employees completing their probation period. The form should assess performance, culture fit, and long-term potential before confirmation.`
 
-A hospitality group in Goa needs a review form for employees completing their probation period. The form should assess performance, culture fit, and long-term potential before confirmation.
+`Goal:
 
-Goal:
+`Design a probation review template.`
 
-Design a probation review template.
+`Prompt:`
 
-Prompt:
-
-*"You are an HR onboarding specialist. Create a probation performance review form that measures:
-
+`*"You are an HR onboarding specialist. Create a probation performance review form that measures:`
+```
 1. Job knowledge and skill application
 
 2. Quality and timeliness of work
@@ -767,31 +767,31 @@ Prompt:
 4. Feedback from team and supervisor
 
 5. Recommendation for confirmation or extension
+```
+Keep it concise but decision-oriented."*`
 
-Keep it concise but decision-oriented."*
-
-Inputs:
-
+`Inputs:`
+```
 1. Probation length
 
 2. Job description
 
 3. Performance metrics
+```
+## Prompt 24 – Underperformance Action Plan Template
 
-Prompt 24 – Underperformance Action Plan Template
+`Backstory:`
 
-Backstory:
+`A telecom company in Gurgaon wants a review format that identifies underperforming employees and outlines clear, supportive action plans. The goal is to improve performance rather than terminate.`
 
-A telecom company in Gurgaon wants a review format that identifies underperforming employees and outlines clear, supportive action plans. The goal is to improve performance rather than terminate.
+`Goal:`
 
-Goal:
+`Create an underperformance-focused review form.`
 
-Create an underperformance-focused review form.
+`Prompt:`
 
-Prompt:
-
-*"You are a performance improvement coach. Create a review form for underperforming employees that includes:
-
+`*"You are a performance improvement coach. Create a review form for underperforming employees that includes:`
+```
 1. Specific areas of underperformance
 
 2. Root cause analysis
@@ -801,31 +801,31 @@ Prompt:
 4. Support/resources provided by the company
 
 5. Review checkpoints and follow-up schedule
+```
+`Tone should be constructive, not punitive."*`
 
-Tone should be constructive, not punitive."*
-
-Inputs:
-
+`Inputs:`
+```
 1. Performance data
 
 2. Employee role
 
 3. Review frequency
+```
+## Prompt 25 – Annual Appraisal Summary Sheet
 
-Prompt 25 – Annual Appraisal Summary Sheet
+`Backstory:`
 
-Backstory:
+`A conglomerate in India conducts annual appraisals across multiple business units. They need a summary sheet for HR to compile individual ratings, comments, and salary increment recommendations in one place.`
 
-A conglomerate in India conducts annual appraisals across multiple business units. They need a summary sheet for HR to compile individual ratings, comments, and salary increment recommendations in one place.
+`Goal:`
 
-Goal:
+`Create an annual appraisal summary template.`
 
-Create an annual appraisal summary template.
+`Prompt:`
 
-Prompt:
-
-*"You are an HR documentation expert. Create a consolidated annual appraisal summary sheet that includes:
-
+`*"You are an HR documentation expert. Create a consolidated annual appraisal summary sheet that includes:`
+```
 1. Employee details and role
 
 2. Final performance rating
@@ -835,34 +835,34 @@ Prompt:
 4. Areas of improvement
 
 5. Recommended salary increment/bonus percentage
+```
+`Ensure it is easy to aggregate data across departments."*`
 
-Ensure it is easy to aggregate data across departments."*
-
-Inputs:
-
+`Inputs:`
+```
 1. Appraisal rating scale
 
 2. Department names
 
 3. Increment policy guidelines
+```
 
+# Team Meeting Agendas
 
-Team Meeting Agendas
+## Prompt 1 – Weekly Team Sync Agenda
 
-Prompt 1 – Weekly Team Sync Agenda
+`Backstory:`
 
-Backstory:
+`A digital marketing agency in Bengaluru has a fast-paced work environment where priorities shift weekly. The team lead wants a recurring Monday morning meeting to align on key campaigns, deadlines, and blockers. She needs a structured agenda to keep discussions focused and under 30 minutes.`
 
-A digital marketing agency in Bengaluru has a fast-paced work environment where priorities shift weekly. The team lead wants a recurring Monday morning meeting to align on key campaigns, deadlines, and blockers. She needs a structured agenda to keep discussions focused and under 30 minutes.
+`Goal:`
 
-Goal:
+`Create a weekly team sync agenda template.`
 
-Create a weekly team sync agenda template.
+`Prompt:`
 
-Prompt:
-
-*"You are a productivity consultant. Create a weekly team sync meeting agenda with the following sections:
-
+`*"You are a productivity consultant. Create a weekly team sync meeting agenda with the following sections:`
+```
 1. Quick wins and updates from last week
 
 2. Current priorities and deadlines
@@ -872,31 +872,31 @@ Prompt:
 4. Cross-departmental collaboration needs
 
 5. Motivational close to boost energy for the week
+```
+`Keep time allocations per item to ensure a 30-minute cap."*`
 
-Keep time allocations per item to ensure a 30-minute cap."*
-
-Inputs:
-
+`Inputs:``
+```
 1. Team size
 
 2. Meeting duration preference
 
 3. Industry context
+```
+## Prompt 2 – Monthly Project Review Agenda
 
-Prompt 2 – Monthly Project Review Agenda
+`Backstory:`
 
-Backstory:
+`An e-learning platform in Mumbai runs multiple projects in parallel. Project managers want a monthly review with the entire product team to check progress, identify resource gaps, and recalibrate timelines.`
 
-An e-learning platform in Mumbai runs multiple projects in parallel. Project managers want a monthly review with the entire product team to check progress, identify resource gaps, and recalibrate timelines.
+`Goal:`
 
-Goal:
+`Design a monthly project review agenda.`
 
-Design a monthly project review agenda.
+`Prompt:`
 
-Prompt:
-
-*"You are a project management expert. Draft a monthly project review agenda covering:
-
+`*"You are a project management expert. Draft a monthly project review agenda covering:`
+```
 1. Summary of ongoing projects
 
 2. Key milestones achieved this month
@@ -906,31 +906,31 @@ Prompt:
 4. Risks and mitigation strategies
 
 5. Resource allocation updates
+```
+`Ensure agenda allows equal speaking time for all project leads."*`
 
-Ensure agenda allows equal speaking time for all project leads."*
-
-Inputs:
-
+`Inputs:`
+```
 1. Number of projects under review
 
 2. Duration per project slot
 
 3. Review month focus (e.g., milestones or risks)
+```
+## Prompt 3 – Quarterly Strategy Alignment Meeting
 
-Prompt 3 – Quarterly Strategy Alignment Meeting
+`Backstory:`
 
-Backstory:
+`A renewable energy startup in Pune wants leadership and team members aligned every quarter on big-picture goals. The founder believes quarterly strategic recalibration keeps everyone motivated and ensures resources are allocated to the most impactful work.`
 
-A renewable energy startup in Pune wants leadership and team members aligned every quarter on big-picture goals. The founder believes quarterly strategic recalibration keeps everyone motivated and ensures resources are allocated to the most impactful work.
+`Goal:`
 
-Goal:
+`Create a quarterly strategy alignment agenda.`
 
-Create a quarterly strategy alignment agenda.
+`Prompt:`
 
-Prompt:
-
-*"You are a business strategy facilitator. Create a quarterly strategy meeting agenda that includes:
-
+`*"You are a business strategy facilitator. Create a quarterly strategy meeting agenda that includes:`
+```
 1. Review of quarterly performance against KPIs
 
 2. Discussion of market and competitor shifts
@@ -940,31 +940,31 @@ Prompt:
 4. Resource and budget planning
 
 5. Open Q&A to address employee concerns
+```
+`Add breaks for informal networking between sessions."*`
 
-Add breaks for informal networking between sessions."*
-
-Inputs:
-
+`Inputs:`
+```
 1. Strategic priorities
 
 2. KPI data
 
 3. Next quarter’s focus areas
+```
+## Prompt 4 – Daily Standup Agenda (Agile/Scrum)
 
-Prompt 4 – Daily Standup Agenda (Agile/Scrum)
+`Backstory:`
 
-Backstory:
+`A software development team in Hyderabad follows Agile methodology. They hold daily 15-minute standups to report on progress, plan for the day, and surface blockers. The Scrum Master wants a standardised agenda to keep the standups sharp and on-track.`
 
-A software development team in Hyderabad follows Agile methodology. They hold daily 15-minute standups to report on progress, plan for the day, and surface blockers. The Scrum Master wants a standardised agenda to keep the standups sharp and on-track.
+`Goal:`
 
-Goal:
+`Design a daily standup meeting agenda.`
 
-Design a daily standup meeting agenda.
+`Prompt:`
 
-Prompt:
-
-*"You are an Agile coach. Create a daily standup agenda that includes:
-
+`*"You are an Agile coach. Create a daily standup agenda that includes:`
+```
 1. What did you complete yesterday?
 
 2. What will you work on today?
@@ -972,29 +972,29 @@ Prompt:
 3. Any blockers or dependencies?
 
 4. Keep responses concise and limit each member to 2 minutes."*
-
-Inputs:
-
+```
+`Inputs:`
+```
 1. Team size
 
 2. Sprint duration
 
 3. Time zone differences
+```
+## Prompt 5 – Brainstorming Session Agenda
 
-Prompt 5 – Brainstorming Session Agenda
+`Backstory:`
 
-Backstory:
+`An ad agency in Delhi needs a structure for creative brainstorming meetings. Without an agenda, discussions become chaotic, and many ideas get lost. The Creative Director wants a format that encourages free-flowing ideas but also documents them for action.`
 
-An ad agency in Delhi needs a structure for creative brainstorming meetings. Without an agenda, discussions become chaotic, and many ideas get lost. The Creative Director wants a format that encourages free-flowing ideas but also documents them for action.
+`Goal:`
 
-Goal:
+`Create a brainstorming session agenda.`
 
-Create a brainstorming session agenda.
+`Prompt:`
 
-Prompt:
-
-*"You are a creative facilitator. Draft a brainstorming meeting agenda that includes:
-
+`*"You are a creative facilitator. Draft a brainstorming meeting agenda that includes:`
+```
 1. Icebreaker activity to spark creativity
 
 2. Problem statement and desired outcome
@@ -1004,18 +1004,18 @@ Prompt:
 4. Group sharing and idea clustering
 
 5. Shortlisting and next steps
+```
+`Add clear roles for note-taking and idea ownership."*`
 
-Add clear roles for note-taking and idea ownership."*
-
-Inputs:
-
+`Inputs:`
+```
 1. Topic or challenge
 
 2. Time allocated
 
 3. Number of participants
-
-Prompt 6 – All-Hands Company Meeting Agenda
+```
+## Prompt 6 – All-Hands Company Meeting Agenda
 
 Backstory:
 
