@@ -704,398 +704,398 @@
 `"You are a product strategy consultant. Develop a 2-year roadmap to address a declining washing machine product line. Conduct market research to identify decline reasons. Map repositioning options (price drop, feature upgrades, rebranding). Plan marketing campaigns targeting existing customers. Design customer migration programs to newer models. Suggest KPIs for revival or transition success." Inputs Required: Sales trend data Competitor pricing R&D capabilities Marketing budget`
 
 
-Change Management Communication
+# Change Management Communication
 
-Communicating a Department Restructure to Employees
+## Communicating a Department Restructure to Employees
 
-Backstory:
+`Backstory:`
 
-A mid-sized IT services firm in Pune is reorganising its departments to improve efficiency. Two teams will be merged, and some roles will be redefined. Employees are anxious about job security, and rumours are spreading in WhatsApp groups. The HR head wants a transparent yet reassuring internal communication to explain the reasons, timeline, and support measures.
+`A mid-sized IT services firm in Pune is reorganising its departments to improve efficiency. Two teams will be merged, and some roles will be redefined. Employees are anxious about job security, and rumours are spreading in WhatsApp groups. The HR head wants a transparent yet reassuring internal communication to explain the reasons, timeline, and support measures.`
 
-Goal:
+`Goal:`
 
-Draft a clear and empathetic internal email announcing the restructure.
+`Draft a clear and empathetic internal email announcing the restructure.`
 
-Prompt:
+`Prompt:`
 
-"You are an HR communication specialist. Draft an internal email to announce a departmental restructure. Open with a transparent explanation of why the change is happening. Outline exactly what is changing and what remains the same. Provide a clear timeline for the restructure. Address potential employee concerns (job security, reporting lines). Reassure staff about support measures like training or redeployment assistance. Tone: Professional, empathetic, and transparent." Inputs Required: Department names Key changes in structure Implementation date Support resources available
+`"You are an HR communication specialist. Draft an internal email to announce a departmental restructure. Open with a transparent explanation of why the change is happening. Outline exactly what is changing and what remains the same. Provide a clear timeline for the restructure. Address potential employee concerns (job security, reporting lines). Reassure staff about support measures like training or redeployment assistance. Tone: Professional, empathetic, and transparent." Inputs Required: Department names Key changes in structure Implementation date Support resources available`
 
-Announcing a Change in Leadership
+## Announcing a Change in Leadership
 
-Backstory:
+`Backstory:`
 
-A popular Indian e-commerce startup is seeing its Head of Marketing step down, with a new leader joining from another major brand. The company needs a formal announcement to staff, blending gratitude for the outgoing leader’s contributions with excitement about the incoming leader’s vision.
+`A popular Indian e-commerce startup is seeing its Head of Marketing step down, with a new leader joining from another major brand. The company needs a formal announcement to staff, blending gratitude for the outgoing leader’s contributions with excitement about the incoming leader’s vision.`
 
-Goal:
+`Goal:`
 
-Write a leadership transition announcement.
+`Write a leadership transition announcement.`
 
-Prompt:
+`Prompt:`
 
-"You are an internal communications manager. Draft a staff announcement email for a leadership change in the marketing department. Acknowledge the contributions of the outgoing leader with specifics. Introduce the incoming leader, highlighting their experience and vision. Reassure the team about continuity in strategy during the transition. Provide a date when the new leader officially takes over. Tone: Warm, appreciative, and forward-looking." Inputs Required: Outgoing leader’s name and achievements Incoming leader’s name and credentials Transition timeline
+`"You are an internal communications manager. Draft a staff announcement email for a leadership change in the marketing department. Acknowledge the contributions of the outgoing leader with specifics. Introduce the incoming leader, highlighting their experience and vision. Reassure the team about continuity in strategy during the transition. Provide a date when the new leader officially takes over. Tone: Warm, appreciative, and forward-looking." Inputs Required: Outgoing leader’s name and achievements Incoming leader’s name and credentials Transition timeline`
 
-Communicating Policy Changes on Remote Work
+## Communicating Policy Changes on Remote Work
 
-Backstory:
+`Backstory:`
 
-A Bengaluru-based fintech firm has decided to revise its remote work policy after realising hybrid work improves collaboration. Employees will now be required to attend the office three days a week instead of full remote. Management fears pushback and wants to frame the message positively, highlighting benefits.
+`A Bengaluru-based fintech firm has decided to revise its remote work policy after realising hybrid work improves collaboration. Employees will now be required to attend the office three days a week instead of full remote. Management fears pushback and wants to frame the message positively, highlighting benefits.`
 
-Goal:
+`Goal:`
 
-Draft a positive and clear communication for a policy change.
+`Draft a positive and clear communication for a policy change.`
 
-Prompt:
+`Prompt:`
 
-"You are a corporate communication specialist. Write an internal announcement about a new hybrid work policy. Start with the reason for the change (collaboration benefits, team bonding). Clearly outline the new policy (days in office, flexibility options). Highlight benefits to employees and the organisation. Include FAQs to address common concerns. Tone: Positive, encouraging, and inclusive." Inputs Required: Policy start date Office attendance requirements Any exceptions or flexibility provisions
+`"You are a corporate communication specialist. Write an internal announcement about a new hybrid work policy. Start with the reason for the change (collaboration benefits, team bonding). Clearly outline the new policy (days in office, flexibility options). Highlight benefits to employees and the organisation. Include FAQs to address common concerns. Tone: Positive, encouraging, and inclusive." Inputs Required: Policy start date Office attendance requirements Any exceptions or flexibility provisions`
 
-Announcing New Compliance Requirements
+## Announcing New Compliance Requirements
 
-Backstory:
+`Backstory:`
 
-A pharmaceutical company in Gujarat has updated its compliance guidelines following new government regulations. Employees must now complete an online certification course within 45 days. The compliance head needs a formal communication to ensure awareness and compliance without creating panic.
+`A pharmaceutical company in Gujarat has updated its compliance guidelines following new government regulations. Employees must now complete an online certification course within 45 days. The compliance head needs a formal communication to ensure awareness and compliance without creating panic.`
 
-Goal:
+`Goal:`
 
-Inform employees of new compliance obligations and deadlines.
+`Inform employees of new compliance obligations and deadlines.`
 
-Prompt:
+`Prompt:`
 
-"You are a compliance communication expert. Draft a company-wide memo to announce new compliance training requirements. Briefly explain the regulatory change and why compliance matters. Clearly state what employees need to do and by when. Provide a link to the online course and instructions. Outline consequences of non-compliance. Tone: Clear, authoritative, and supportive." Inputs Required: Name of the regulation Training completion deadline Access link to the course
+`"You are a compliance communication expert. Draft a company-wide memo to announce new compliance training requirements. Briefly explain the regulatory change and why compliance matters. Clearly state what employees need to do and by when. Provide a link to the online course and instructions. Outline consequences of non-compliance. Tone: Clear, authoritative, and supportive." Inputs Required: Name of the regulation Training completion deadline Access link to the course`
 
-Communicating Office Relocation
+## Communicating Office Relocation
 
-Backstory:
+`Backstory:`
 
-A Mumbai-based advertising agency is relocating its office to a larger space to accommodate growth. Employees are attached to the current location and may feel nostalgic. Management wants the announcement to convey excitement, address logistical concerns, and highlight the benefits of the move.
+`A Mumbai-based advertising agency is relocating its office to a larger space to accommodate growth. Employees are attached to the current location and may feel nostalgic. Management wants the announcement to convey excitement, address logistical concerns, and highlight the benefits of the move.`
 
-Goal:
+`Goal:`
 
-Write an upbeat office relocation announcement.
+`Write an upbeat office relocation announcement.`
 
-Prompt:
+`Prompt:`
 
-"You are an internal communications writer. Draft an internal email announcing the office relocation. Share the reason for the move (growth, better facilities). Highlight benefits of the new location (amenities, accessibility). Provide the relocation timeline and moving-day instructions. Address practical matters (commute options, parking, seating plans). Tone: Upbeat, inclusive, and motivating." Inputs Required: New office address Move-in date Key facility highlights
+`"You are an internal communications writer. Draft an internal email announcing the office relocation. Share the reason for the move (growth, better facilities). Highlight benefits of the new location (amenities, accessibility). Provide the relocation timeline and moving-day instructions. Address practical matters (commute options, parking, seating plans). Tone: Upbeat, inclusive, and motivating." Inputs Required: New office address Move-in date Key facility highlights`
 
-Communicating a New Organisational Culture Initiative
+## Communicating a New Organisational Culture Initiative
 
-Backstory:
+`Backstory:`
 
-A Delhi-based consulting firm is rolling out a “Culture First” programme to improve collaboration and inclusivity across teams. The initiative includes monthly team-building sessions, leadership workshops, and a peer-recognition system. Some employees are sceptical, thinking it’s just “HR talk.” The HR director wants the first communication to feel authentic and action-oriented.
+`A Delhi-based consulting firm is rolling out a “Culture First” programme to improve collaboration and inclusivity across teams. The initiative includes monthly team-building sessions, leadership workshops, and a peer-recognition system. Some employees are sceptical, thinking it’s just “HR talk.” The HR director wants the first communication to feel authentic and action-oriented.`
 
-Goal:
+`Goal:`
 
-Draft an inspiring internal launch message for a cultural transformation programme.
+`Draft an inspiring internal launch message for a cultural transformation programme.`
 
-Prompt:
+`Prompt:`
 
-"You are an internal engagement strategist. Write a company-wide announcement introducing a new organisational culture initiative. Explain the current challenges that prompted this change (low engagement scores, siloed teams). Share the vision for the desired culture, using relatable and inspiring language. Outline the key activities planned, and how employees will participate. Highlight leadership’s commitment and ways employees can provide feedback. Tone: Inspirational, inclusive, and authentic." Inputs Required: Name of the programme List of key activities Participation requirements Leadership sponsors
+`"You are an internal engagement strategist. Write a company-wide announcement introducing a new organisational culture initiative. Explain the current challenges that prompted this change (low engagement scores, siloed teams). Share the vision for the desired culture, using relatable and inspiring language. Outline the key activities planned, and how employees will participate. Highlight leadership’s commitment and ways employees can provide feedback. Tone: Inspirational, inclusive, and authentic." Inputs Required: Name of the programme List of key activities Participation requirements Leadership sponsors`
 
-Announcing a Merger or Acquisition
+## Announcing a Merger or Acquisition
 
-Backstory:
+`Backstory:`
 
-A Pune-based SaaS startup has been acquired by a larger global software company. Employees are concerned about layoffs, cultural fit, and changes in leadership. The CEO needs a carefully crafted announcement to build trust, address fears, and communicate the growth opportunities this acquisition brings.
+`A Pune-based SaaS startup has been acquired by a larger global software company. Employees are concerned about layoffs, cultural fit, and changes in leadership. The CEO needs a carefully crafted announcement to build trust, address fears, and communicate the growth opportunities this acquisition brings.`
 
-Goal:
+`Goal:`
 
-Draft a transparent and optimistic communication about a merger/acquisition.
+`Draft a transparent and optimistic communication about a merger/acquisition.`
 
-Prompt:
+`Prompt:`
 
-"You are a corporate communication consultant. Draft an internal memo announcing a company acquisition. Clearly state the facts about the acquisition (who, what, when). Highlight benefits for employees and customers (new markets, resources). Address common fears (job security, culture changes). Provide a roadmap for the integration process. Tone: Clear, reassuring, and optimistic." Inputs Required: Names of both companies Acquisition date Key benefits for staff and customers Integration plan timeline
+`"You are a corporate communication consultant. Draft an internal memo announcing a company acquisition. Clearly state the facts about the acquisition (who, what, when). Highlight benefits for employees and customers (new markets, resources). Address common fears (job security, culture changes). Provide a roadmap for the integration process. Tone: Clear, reassuring, and optimistic." Inputs Required: Names of both companies Acquisition date Key benefits for staff and customers Integration plan timeline`
 
-Communicating a Major Technology Upgrade
+## Communicating a Major Technology Upgrade
 
-Backstory:
+`Backstory:`
 
-A logistics company in Chennai is replacing its decade-old ERP system with a cloud-based solution. The upgrade will require a week of phased downtime for certain processes. Employees need clear communication on how this change impacts daily work, with reassurance that training will be provided.
+`A logistics company in Chennai is replacing its decade-old ERP system with a cloud-based solution. The upgrade will require a week of phased downtime for certain processes. Employees need clear communication on how this change impacts daily work, with reassurance that training will be provided.`
 
-Goal:
+`Goal:`
 
-Create an informative and confidence-building communication for a tech upgrade.
+`Create an informative and confidence-building communication for a tech upgrade.`
 
-Prompt:
+`Prompt:`
 
-"You are an internal IT communications manager. Draft an email about an upcoming ERP system upgrade. Explain why the upgrade is happening and the benefits for employees. Provide a clear timeline of the upgrade phases. Detail the expected downtime and workarounds. Share training plans and support channels. Tone: Informative, reassuring, and solution-focused." Inputs Required: System name Upgrade dates and phases Training resources Contact point for issues
+`"You are an internal IT communications manager. Draft an email about an upcoming ERP system upgrade. Explain why the upgrade is happening and the benefits for employees. Provide a clear timeline of the upgrade phases. Detail the expected downtime and workarounds. Share training plans and support channels. Tone: Informative, reassuring, and solution-focused." Inputs Required: System name Upgrade dates and phases Training resources Contact point for issues`
 
-Communicating a Change in Performance Evaluation Process
+## Communicating a Change in Performance Evaluation Process
 
-Backstory:
+`Backstory:`
 
-An EdTech company in Hyderabad is shifting from annual reviews to quarterly check-ins to encourage continuous feedback. Employees are unsure if this will mean more workload or scrutiny. HR wants a message that explains the rationale, benefits, and how the new process works.
+`An EdTech company in Hyderabad is shifting from annual reviews to quarterly check-ins to encourage continuous feedback. Employees are unsure if this will mean more workload or scrutiny. HR wants a message that explains the rationale, benefits, and how the new process works.`
 
-Goal:
+`Goal:`
 
-Write a clear announcement explaining a performance evaluation change.
+`Write a clear announcement explaining a performance evaluation change.`
 
-Prompt:
+`Prompt:`
 
-"You are an HR process communication expert. Draft a company-wide message introducing a shift from annual to quarterly performance reviews. Explain why the change is happening (continuous improvement, timely feedback). Detail how the new process works, step-by-step. Highlight benefits to employees (more growth opportunities, faster recognition). Address concerns about time commitment. Tone: Transparent, positive, and supportive." Inputs Required: New review frequency Process steps Expected time per review Support/training available
+`"You are an HR process communication expert. Draft a company-wide message introducing a shift from annual to quarterly performance reviews. Explain why the change is happening (continuous improvement, timely feedback). Detail how the new process works, step-by-step. Highlight benefits to employees (more growth opportunities, faster recognition). Address concerns about time commitment. Tone: Transparent, positive, and supportive." Inputs Required: New review frequency Process steps Expected time per review Support/training available`
 
-Communicating Cost-Cutting Measures
+## Communicating Cost-Cutting Measures
 
-Backstory:
+`Backstory:`
 
-A travel-tech company in Bengaluru has experienced a revenue dip due to global market changes. Management has decided on cost-cutting measures, including reducing travel budgets and pausing certain perks, but no layoffs. They want to communicate this in a way that is honest yet morale-preserving.
+`A travel-tech company in Bengaluru has experienced a revenue dip due to global market changes. Management has decided on cost-cutting measures, including reducing travel budgets and pausing certain perks, but no layoffs. They want to communicate this in a way that is honest yet morale-preserving.`
 
-Goal:
+`Goal:`
 
-Draft a sensitive cost-cutting announcement.
+`Draft a sensitive cost-cutting announcement.`
 
-Prompt:
+`Prompt:`
 
-"You are a corporate communication advisor. Draft an internal memo outlining cost-control measures without damaging morale. Explain the market context that led to these changes. Clearly list the measures being taken. Emphasise that jobs are not being cut. Reaffirm the company’s long-term vision and recovery plans. Tone: Honest, empathetic, and forward-looking." Inputs Required: Specific measures being taken Reason for financial action Timeline for review of measures
+`"You are a corporate communication advisor. Draft an internal memo outlining cost-control measures without damaging morale. Explain the market context that led to these changes. Clearly list the measures being taken. Emphasise that jobs are not being cut. Reaffirm the company’s long-term vision and recovery plans. Tone: Honest, empathetic, and forward-looking." Inputs Required: Specific measures being taken Reason for financial action Timeline for review of measures`
 
-Announcing a New Corporate Social Responsibility (CSR) Focus
+## Announcing a New Corporate Social Responsibility (CSR) Focus
 
-Backstory:
+`Backstory:`
 
-A Noida-based manufacturing company is shifting its CSR focus from rural education to environmental sustainability projects. This decision came after consultations with employees and local communities. The CSR head needs to explain the new focus and invite employees to volunteer.
+`A Noida-based manufacturing company is shifting its CSR focus from rural education to environmental sustainability projects. This decision came after consultations with employees and local communities. The CSR head needs to explain the new focus and invite employees to volunteer.`
 
-Goal:
+`Goal:`
 
-Write a CSR shift announcement.
+`Write a CSR shift announcement.`
 
-Prompt:
+`Prompt:`
 
-"You are a CSR communications lead. Draft an internal announcement about a change in CSR focus. Share why the shift is happening (data, feedback, impact potential). Introduce the new sustainability projects. Explain how employees can contribute or volunteer. Provide project timelines and goals. Tone: Inspiring, transparent, and action-oriented." Inputs Required: Old CSR focus New focus area and projects Volunteer opportunities Project milestones
+`"You are a CSR communications lead. Draft an internal announcement about a change in CSR focus. Share why the shift is happening (data, feedback, impact potential). Introduce the new sustainability projects. Explain how employees can contribute or volunteer. Provide project timelines and goals. Tone: Inspiring, transparent, and action-oriented." Inputs Required: Old CSR focus New focus area and projects Volunteer opportunities Project milestones`
 
-Communicating a Change in Dress Code Policy
+## Communicating a Change in Dress Code Policy
 
-Backstory:
+`Backstory:`
 
-A fast-growing startup in Gurgaon is moving to a more relaxed dress code to align with modern workplace culture. The current formal dress policy is being replaced with “smart casuals,” except for client-facing roles. The HR team wants the change to feel progressive yet maintain professionalism.
+`A fast-growing startup in Gurgaon is moving to a more relaxed dress code to align with modern workplace culture. The current formal dress policy is being replaced with “smart casuals,” except for client-facing roles. The HR team wants the change to feel progressive yet maintain professionalism.`
 
-Goal:
+`Goal:`
 
-Draft a friendly dress code update.
+`Draft a friendly dress code update.`
 
-Prompt:
+`Prompt:`
 
-"You are an HR communications specialist. Write a message announcing a shift to a smart casual dress code. Share the reasoning (modern workplace trends, comfort). Define what “smart casual” means with examples. State exceptions for client meetings. Encourage employees to embrace the change while maintaining professionalism. Tone: Friendly, inclusive, and clear." Inputs Required: Start date of new dress code Allowed and disallowed attire Exceptions for certain roles
+`"You are an HR communications specialist. Write a message announcing a shift to a smart casual dress code. Share the reasoning (modern workplace trends, comfort). Define what “smart casual” means with examples. State exceptions for client meetings. Encourage employees to embrace the change while maintaining professionalism. Tone: Friendly, inclusive, and clear." Inputs Required: Start date of new dress code Allowed and disallowed attire Exceptions for certain roles`
 
-Announcing Flexible Working Hours Policy
+## Announcing Flexible Working Hours Policy
 
-Backstory:
+`Backstory:`
 
-A Gurugram-based BPO is introducing flexible work hours to help employees balance personal and professional commitments. The operations head needs to communicate how this will work without affecting productivity targets.
+`A Gurugram-based BPO is introducing flexible work hours to help employees balance personal and professional commitments. The operations head needs to communicate how this will work without affecting productivity targets.`
 
-Goal:
+`Goal:`
 
-Write a flexible work hours announcement.
+`Write a flexible work hours announcement.`
 
-Prompt:
+`Prompt:`
 
-"You are a workplace policy communication expert. Draft a memo introducing flexible working hours. Explain why flexibility is being introduced. Detail the parameters (core hours, total hours required). Outline how productivity will be tracked. Share examples of approved schedules. Tone: Positive, clear, and reassuring." Inputs Required: Start date Core working hours Tracking method
+`"You are a workplace policy communication expert. Draft a memo introducing flexible working hours. Explain why flexibility is being introduced. Detail the parameters (core hours, total hours required). Outline how productivity will be tracked. Share examples of approved schedules. Tone: Positive, clear, and reassuring." Inputs Required: Start date Core working hours Tracking method`
 
-Communicating Diversity & Inclusion (D&I) Initiatives
+## Communicating Diversity & Inclusion (D&I) Initiatives
 
-Backstory:
+`Backstory:`
 
-A Bengaluru-based MNC is launching a new Diversity & Inclusion framework, including bias training, mentorship programmes, and inclusive hiring practices. Leadership wants to ensure employees see it as a real commitment, not a PR stunt.
+`A Bengaluru-based MNC is launching a new Diversity & Inclusion framework, including bias training, mentorship programmes, and inclusive hiring practices. Leadership wants to ensure employees see it as a real commitment, not a PR stunt.`
 
-Goal:
+`Goal:`
 
-Create an inspiring D&I launch message.
+`Create an inspiring D&I launch message.`
 
-Prompt:
+`Prompt:`
 
-"You are a D&I communications consultant. Draft an internal announcement introducing a new Diversity & Inclusion initiative. Share the company’s vision for inclusivity. Outline the specific actions being taken. Invite employees to participate in training and initiatives. Provide a way to give feedback or suggest ideas. Tone: Empowering, authentic, and inclusive." Inputs Required: Name of the initiative List of activities Participation methods
+`"You are a D&I communications consultant. Draft an internal announcement introducing a new Diversity & Inclusion initiative. Share the company’s vision for inclusivity. Outline the specific actions being taken. Invite employees to participate in training and initiatives. Provide a way to give feedback or suggest ideas. Tone: Empowering, authentic, and inclusive." Inputs Required: Name of the initiative List of activities Participation methods`
 
-Communicating Change in Client Management Processes
+## Communicating Change in Client Management Processes
 
-Backstory:
+`Backstory:`
 
-A Mumbai-based digital marketing agency is shifting from account managers handling multiple clients to a “dedicated account” model. Clients will now have a single point of contact for all needs. Employees need clarity on their new roles and reporting structures.
+`A Mumbai-based digital marketing agency is shifting from account managers handling multiple clients to a “dedicated account” model. Clients will now have a single point of contact for all needs. Employees need clarity on their new roles and reporting structures.`
 
-Goal:
+`Goal:`
 
-Draft a clear process change announcement.
+`Draft a clear process change announcement.`
 
-Prompt:
+`Prompt:`
 
-"You are a client services communication lead. Draft a message explaining a shift to a dedicated account management model. Explain why the change is being made. Detail how the new model works. Highlight benefits for clients and employees. Outline transition steps and support available. Tone: Professional, explanatory, and encouraging." Inputs Required: Old model vs new model details Start date Role reassignments
+`"You are a client services communication lead. Draft a message explaining a shift to a dedicated account management model. Explain why the change is being made. Detail how the new model works. Highlight benefits for clients and employees. Outline transition steps and support available. Tone: Professional, explanatory, and encouraging." Inputs Required: Old model vs new model details Start date Role reassignments`
 
-Announcing a Relocation of Office Premises
+## Announcing a Relocation of Office Premises
 
-Backstory:
+`Backstory:`
 
-A Kolkata-based fintech firm is moving its headquarters from a congested downtown building to a modern business park with better facilities. The relocation will happen over the next three months, with teams moving in phases. Employees need clarity on logistics, facilities, and commute options.
+`A Kolkata-based fintech firm is moving its headquarters from a congested downtown building to a modern business park with better facilities. The relocation will happen over the next three months, with teams moving in phases. Employees need clarity on logistics, facilities, and commute options.`
 
-Goal:
+`Goal:`
 
-Draft a relocation announcement with full logistical details.
+`Draft a relocation announcement with full logistical details.`
 
-Prompt:
+`Prompt:`
 
-"You are an internal communications manager. Draft a company-wide message announcing an office relocation. Share the reason for the move (better facilities, improved collaboration spaces, accessibility). Provide the relocation timeline with phases. Outline transport, parking, and cafeteria arrangements. Detail how employees will receive moving support. Tone: Practical, transparent, and upbeat." Inputs Required: New office address Relocation dates and phases Transport and parking details Support contact point
+`"You are an internal communications manager. Draft a company-wide message announcing an office relocation. Share the reason for the move (better facilities, improved collaboration spaces, accessibility). Provide the relocation timeline with phases. Outline transport, parking, and cafeteria arrangements. Detail how employees will receive moving support. Tone: Practical, transparent, and upbeat." Inputs Required: New office address Relocation dates and phases Transport and parking details Support contact point`
 
-Communicating Leadership Transition
+## Communicating Leadership Transition
 
-Backstory:
+`Backstory:`
 
-A Hyderabad-based healthtech startup’s co-founder and CTO is stepping down, and a new CTO is joining from a global tech firm. The company needs to maintain stability, acknowledge the outgoing leader’s contributions, and introduce the new leader warmly.
+`A Hyderabad-based healthtech startup’s co-founder and CTO is stepping down, and a new CTO is joining from a global tech firm. The company needs to maintain stability, acknowledge the outgoing leader’s contributions, and introduce the new leader warmly.`
 
-Goal:
+`Goal:`
 
-Write a leadership transition announcement.
+`Write a leadership transition announcement.`
 
-Prompt:
+`Prompt:`
 
-"You are a corporate communications consultant. Draft an email announcing a leadership change. Thank and recognise the contributions of the outgoing leader. Introduce the new leader with their background and achievements. Share the vision for the future under their leadership. Provide details on upcoming meet-and-greet sessions. Tone: Respectful, welcoming, and forward-looking." Inputs Required: Names of outgoing and incoming leaders Effective date of transition Key achievements of both Next engagement opportunity
+`"You are a corporate communications consultant. Draft an email announcing a leadership change. Thank and recognise the contributions of the outgoing leader. Introduce the new leader with their background and achievements. Share the vision for the future under their leadership. Provide details on upcoming meet-and-greet sessions. Tone: Respectful, welcoming, and forward-looking." Inputs Required: Names of outgoing and incoming leaders Effective date of transition Key achievements of both Next engagement opportunity`
 
-Announcing Organisational Restructuring
+## Announcing Organisational Restructuring
 
-Backstory:
+`Backstory:`
 
-A Mumbai-based FMCG company is realigning its business units to focus more on e-commerce and digital sales. The restructuring affects reporting lines but does not involve layoffs. Employees need to understand the new org chart and why this shift will benefit the business.
+`A Mumbai-based FMCG company is realigning its business units to focus more on e-commerce and digital sales. The restructuring affects reporting lines but does not involve layoffs. Employees need to understand the new org chart and why this shift will benefit the business.`
 
-Goal:
+`Goal:`
 
-Create an org restructuring communication.
+`Create an org restructuring communication.`
 
-Prompt:
+`Prompt:`
 
-"You are an organisational change communication strategist. Draft a company-wide message about a restructuring. Explain the strategic reasons for the change. Share the updated reporting structure and departments. Highlight how this benefits the company and employees. Provide a visual org chart link. Tone: Clear, transparent, and confident." Inputs Required: Restructuring rationale New structure outline Effective date Org chart link
+`"You are an organisational change communication strategist. Draft a company-wide message about a restructuring. Explain the strategic reasons for the change. Share the updated reporting structure and departments. Highlight how this benefits the company and employees. Provide a visual org chart link. Tone: Clear, transparent, and confident." Inputs Required: Restructuring rationale New structure outline Effective date Org chart link`
 
-Communicating Compliance Policy Changes
+## Communicating Compliance Policy Changes
 
-Backstory:
+`Backstory:`
 
-A Chennai-based pharmaceutical company is updating its compliance policies to meet new government regulations. The policies affect documentation, reporting, and audit timelines. Employees need clear guidance on what’s changing and how to comply.
+`A Chennai-based pharmaceutical company is updating its compliance policies to meet new government regulations. The policies affect documentation, reporting, and audit timelines. Employees need clear guidance on what’s changing and how to comply.`
 
-Goal:
+`Goal:`
 
-Draft a compliance update announcement.
+`Draft a compliance update announcement.`
 
-Prompt:
+`Prompt:`
 
-"You are a compliance communication expert. Draft an internal email about updates to compliance policies. State the regulatory reason for the changes. Outline the specific changes and their impact. Provide step-by-step instructions for compliance. Share resources and contacts for queries. Tone: Clear, formal, and supportive." Inputs Required: Regulatory source Specific changes Compliance deadline Support contact
+`"You are a compliance communication expert. Draft an internal email about updates to compliance policies. State the regulatory reason for the changes. Outline the specific changes and their impact. Provide step-by-step instructions for compliance. Share resources and contacts for queries. Tone: Clear, formal, and supportive." Inputs Required: Regulatory source Specific changes Compliance deadline Support contact`
 
-Announcing a Change in Benefits Package
+## Announcing a Change in Benefits Package
 
-Backstory:
+`Backstory:`
 
-An Ahmedabad-based IT company is enhancing its employee benefits to include mental health support, expanded parental leave, and a wellness stipend. HR wants to position this as a positive step towards employee well-being.
+`An Ahmedabad-based IT company is enhancing its employee benefits to include mental health support, expanded parental leave, and a wellness stipend. HR wants to position this as a positive step towards employee well-being.`
 
-Goal:
+`Goal:`
 
-Create an engaging benefits update announcement.
+`Create an engaging benefits update announcement.`
 
-Prompt:
+`Prompt:`
 
-"You are an HR communication advisor. Draft a message announcing changes to the employee benefits package. Highlight the new benefits being added. Explain how these align with employee needs and feedback. Provide details on how to access the benefits. Include FAQs or a link for more information. Tone: Positive, appreciative, and motivating." Inputs Required: List of new benefits Eligibility criteria Activation steps Benefits FAQ link
+`"You are an HR communication advisor. Draft a message announcing changes to the employee benefits package. Highlight the new benefits being added. Explain how these align with employee needs and feedback. Provide details on how to access the benefits. Include FAQs or a link for more information. Tone: Positive, appreciative, and motivating." Inputs Required: List of new benefits Eligibility criteria Activation steps Benefits FAQ link`
 
-Communicating Changes in Travel Policy
+## Communicating Changes in Travel Policy
 
-Backstory:
+`Backstory:`
 
-A Pune-based consulting firm is updating its travel policy to include stricter expense caps and more sustainable travel options. The change is aimed at cost control and reducing the carbon footprint.
+`A Pune-based consulting firm is updating its travel policy to include stricter expense caps and more sustainable travel options. The change is aimed at cost control and reducing the carbon footprint.`
 
-Goal:
+`Goal:`
 
-Write a travel policy update.
+`Write a travel policy update.`
 
-Prompt:
+`Prompt:`
 
-"You are a corporate travel policy communication specialist. Draft an internal memo announcing travel policy changes. Share the reasons for the update (cost, sustainability). List the new expense caps and approved travel modes. Explain the approval process. Provide a link to the full policy. Tone: Professional, concise, and informative." Inputs Required: Expense caps Approved travel modes Approval process steps Policy link
+`"You are a corporate travel policy communication specialist. Draft an internal memo announcing travel policy changes. Share the reasons for the update (cost, sustainability). List the new expense caps and approved travel modes. Explain the approval process. Provide a link to the full policy. Tone: Professional, concise, and informative." Inputs Required: Expense caps Approved travel modes Approval process steps Policy link`
 
-Announcing Shift to Remote/Hybrid Work Model
+## Announcing Shift to Remote/Hybrid Work Model
 
-Backstory:
+`Backstory:`
 
-A Bengaluru-based SaaS startup is moving from fully remote work to a hybrid model requiring two days a week in-office. Leadership wants to communicate the business reasoning, schedule flexibility, and in-office benefits.
+`A Bengaluru-based SaaS startup is moving from fully remote work to a hybrid model requiring two days a week in-office. Leadership wants to communicate the business reasoning, schedule flexibility, and in-office benefits.`
 
-Goal:
+`Goal:`
 
-Draft a hybrid work transition announcement.
+`Draft a hybrid work transition announcement.`
 
-Prompt:
+`Prompt:`
 
-"You are a workplace change communication consultant. Draft an email about moving to a hybrid work model. Explain the business need for this change. Detail the expected in-office days and flexibility options. Highlight benefits of in-office collaboration. Share next steps for scheduling. Tone: Balanced, empathetic, and clear." Inputs Required: Hybrid work start date In-office days requirement Flexibility rules
+`"You are a workplace change communication consultant. Draft an email about moving to a hybrid work model. Explain the business need for this change. Detail the expected in-office days and flexibility options. Highlight benefits of in-office collaboration. Share next steps for scheduling. Tone: Balanced, empathetic, and clear." Inputs Required: Hybrid work start date In-office days requirement Flexibility rules`
 
-Communicating Change in Client Onboarding Process
+## Communicating Change in Client Onboarding Process
 
-Backstory:
+`Backstory:`
 
-A Gurgaon-based SaaS company is streamlining its client onboarding by automating contract signing and training schedules. Sales and customer success teams need to know the new process in detail to avoid delays.
+`A Gurgaon-based SaaS company is streamlining its client onboarding by automating contract signing and training schedules. Sales and customer success teams need to know the new process in detail to avoid delays.`
 
-Goal:
+`Goal:`
 
-Create a process change announcement.
+`Create a process change announcement.`
 
-Prompt:
+`Prompt:`
 
-"You are a process change communication expert. Draft an internal note about a new client onboarding workflow. Explain why the change is being made (efficiency, automation). Outline the new steps in detail. Share benefits for clients and teams. Provide training resources. Tone: Process-focused, informative, and supportive." Inputs Required: New workflow steps Automation tools used Training resources link
+`"You are a process change communication expert. Draft an internal note about a new client onboarding workflow. Explain why the change is being made (efficiency, automation). Outline the new steps in detail. Share benefits for clients and teams. Provide training resources. Tone: Process-focused, informative, and supportive." Inputs Required: New workflow steps Automation tools used Training resources link`
 
-Announcing Policy on AI Use in the Workplace
+## Announcing Policy on AI Use in the Workplace
 
-Backstory:
+`Backstory:`
 
-A tech consulting firm in Noida is introducing guidelines for safe and ethical use of AI tools in daily work. This includes rules on data privacy, bias checks, and acceptable use cases.
+`A tech consulting firm in Noida is introducing guidelines for safe and ethical use of AI tools in daily work. This includes rules on data privacy, bias checks, and acceptable use cases.`
 
-Goal:
+`Goal:`
 
-Write an AI policy introduction.
+`Write an AI policy introduction.`
 
-Prompt:
+`Prompt:`
 
-"You are a policy communication strategist. Draft an internal communication introducing AI usage guidelines. Explain why the guidelines are being introduced. Outline key do’s and don’ts. Provide examples of approved use cases. Share training and compliance monitoring plans. Tone: Educational, forward-thinking, and clear." Inputs Required: Key policy points Examples of good use Examples of misuse Training resources
+`"You are a policy communication strategist. Draft an internal communication introducing AI usage guidelines. Explain why the guidelines are being introduced. Outline key do’s and don’ts. Provide examples of approved use cases. Share training and compliance monitoring plans. Tone: Educational, forward-thinking, and clear." Inputs Required: Key policy points Examples of good use Examples of misuse Training resources`
 
-Communicating Emergency Preparedness Plan Update
+## Communicating Emergency Preparedness Plan Update
 
-Backstory:
+`Backstory:`
 
-A Delhi-based corporate headquarters is updating its emergency preparedness plan after recent extreme weather events. This includes evacuation protocols, work-from-home arrangements during emergencies, and contact trees.
+`A Delhi-based corporate headquarters is updating its emergency preparedness plan after recent extreme weather events. This includes evacuation protocols, work-from-home arrangements during emergencies, and contact trees.`
 
-Goal:
+`Goal:`
 
-Draft an emergency preparedness communication.
+`Draft an emergency preparedness communication.`
 
-Prompt:
+`Prompt:`
 
-"You are a corporate safety communications officer. Draft a company-wide message updating employees on emergency preparedness. Explain the reason for the update. Outline evacuation and remote work protocols. Share important emergency contacts. Provide a link to the full safety manual. Tone: Reassuring, safety-focused, and precise." Inputs Required: Emergency protocols Contact list Safety manual link
+`"You are a corporate safety communications officer. Draft a company-wide message updating employees on emergency preparedness. Explain the reason for the update. Outline evacuation and remote work protocols. Share important emergency contacts. Provide a link to the full safety manual. Tone: Reassuring, safety-focused, and precise." Inputs Required: Emergency protocols Contact list Safety manual link`
 
 
-Industry Trend Reports
+# Industry Trend Reports
 
-Annual Tech Industry Trends Report for India (2025 Edition)
+## Annual Tech Industry Trends Report for India (2025 Edition)
 
-Backstory:
+`Backstory:`
 
-A Bengaluru-based corporate strategy team wants to prepare an annual industry trends report focused on India’s technology sector for 2025. This report will be presented to the board and also shared with key investors. The audience expects deep market insights on emerging technologies like AI, blockchain, quantum computing, and cloud adoption, along with sector-specific growth forecasts. The team also wants to include policy changes, major mergers/acquisitions, and funding trends.
+`A Bengaluru-based corporate strategy team wants to prepare an annual industry trends report focused on India’s technology sector for 2025. This report will be presented to the board and also shared with key investors. The audience expects deep market insights on emerging technologies like AI, blockchain, quantum computing, and cloud adoption, along with sector-specific growth forecasts. The team also wants to include policy changes, major mergers/acquisitions, and funding trends.`
 
-Goal:
+`Goal:`
 
-Produce a comprehensive, data-driven annual trends report on the Indian tech sector for 2025.
+`Produce a comprehensive, data-driven annual trends report on the Indian tech sector for 2025.`
 
-Prompt:
+`Prompt:`
 
-"You are a senior industry analyst. Create a 20-page trends report for the Indian technology industry (2025). Cover macroeconomic factors influencing the sector. Analyse emerging technologies (AI, blockchain, quantum, IoT). Identify key funding and M&A activities. Include policy/regulatory changes impacting growth. Add market forecasts for the next 3 years.
+`"You are a senior industry analyst. Create a 20-page trends report for the Indian technology industry (2025). Cover macroeconomic factors influencing the sector. Analyse emerging technologies (AI, blockchain, quantum, IoT). Identify key funding and M&A activities. Include policy/regulatory changes impacting growth. Add market forecasts for the next 3 years.`
 
-Output format:
+`Output format:`
 
-Executive summary, sector analysis, data visualisations, and strategic recommendations." Inputs Required: Target audience (board, investors, or public) Data sources available Preferred visualisation style Report length
+`Executive summary, sector analysis, data visualisations, and strategic recommendations." Inputs Required: Target audience (board, investors, or public) Data sources available Preferred visualisation style Report length`
 
-Quarterly FMCG Consumer Trends Analysis
+## Quarterly FMCG Consumer Trends Analysis
 
-Backstory:
+`Backstory:`
 
-A Mumbai-based FMCG conglomerate wants a Q2 trends report capturing shifting consumer preferences in packaged foods, beverages, and personal care products in urban and semi-urban India. The company is particularly interested in post-pandemic spending patterns, health-conscious purchases, and the rise of D2C brands. The goal is to inform product innovation and marketing strategies.
+`A Mumbai-based FMCG conglomerate wants a Q2 trends report capturing shifting consumer preferences in packaged foods, beverages, and personal care products in urban and semi-urban India. The company is particularly interested in post-pandemic spending patterns, health-conscious purchases, and the rise of D2C brands. The goal is to inform product innovation and marketing strategies.`
 
-Goal:
+`Goal:`
 
-Generate a quarterly FMCG trends report with actionable insights.
+`Generate a quarterly FMCG trends report with actionable insights.`
 
-Prompt:
+`Prompt:`
 
-"You are a consumer insights specialist. Compile a Q2 FMCG trends report for India. Identify top-selling product categories and growth drivers. Analyse consumer sentiment and brand switching behaviour. Track D2C brand penetration and marketing tactics. Highlight regional differences in consumption trends.
+`"You are a consumer insights specialist. Compile a Q2 FMCG trends report for India. Identify top-selling product categories and growth drivers. Analyse consumer sentiment and brand switching behaviour. Track D2C brand penetration and marketing tactics. Highlight regional differences in consumption trends.`
 
-Output format:
+`Output format:`
 
-Slide deck with charts, case studies, and recommendations for product teams." Inputs Required: Sales data access Competitor benchmarks Regions to focus on Presentation format preference
+`Slide deck with charts, case studies, and recommendations for product teams." Inputs Required: Sales data access Competitor benchmarks Regions to focus on Presentation format preference`
 
-Renewable Energy Investment Trends in India
+## Renewable Energy Investment Trends in India
 
 Backstory:
 
