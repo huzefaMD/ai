@@ -1856,18 +1856,18 @@ A B2B SaaS company in Chennai holds monthly sales pipeline reviews, but they oft
 ```
 ## Prompt 3 – Conflict Over Remote Work vs. In-Office Policy
 
-Backstory:
+`Backstory:`
 
-A fintech startup in Mumbai recently implemented a mandatory 3-day in-office policy. A 30-year-old senior analyst, who has been performing exceptionally well remotely, feels the policy is unnecessary and disruptive to their work-life balance. The department head insists on in-person collaboration for better team synergy. The disagreement has reached HR, and a mediation is scheduled.
+`A fintech startup in Mumbai recently implemented a mandatory 3-day in-office policy. A 30-year-old senior analyst, who has been performing exceptionally well remotely, feels the policy is unnecessary and disruptive to their work-life balance. The department head insists on in-person collaboration for better team synergy. The disagreement has reached HR, and a mediation is scheduled.`
 
-Goal:
+`Goal:`
 
-Draft a resolution script that helps both parties find a workable compromise, maintaining productivity while addressing personal needs.
+`Draft a resolution script that helps both parties find a workable compromise, maintaining productivity while addressing personal needs.`
 
-Prompt:
+`Prompt:`
 
-"You are an HR policy mediator. Draft a conflict resolution script between an employee and a manager over remote work flexibility. The script should include: 
-
+`"You are an HR policy mediator. Draft a conflict resolution script between an employee and a manager over remote work flexibility. The script should include: `
+```
 1. Opening & Policy Clarification – Outline the reason for the policy without defensiveness. 
 
 2. Employee Concerns – Allow the employee to explain how the change impacts their work and personal commitments. 
@@ -1879,11 +1879,11 @@ Prompt:
 5. Agreement & Documentation – Confirm the agreed terms and document them for accountability. 
 
 6. Review Timeline – Set a date to revisit the arrangement and assess results.
+```
+`Include respectful, non-judgmental phrasing to avoid personal attacks."`
 
-Include respectful, non-judgmental phrasing to avoid personal attacks."
-
-Inputs: 
-
+`Inputs:`
+```
 1. Company’s hybrid work policy 
 
 2. Employee’s performance metrics from remote period 
@@ -1891,21 +1891,21 @@ Inputs:
 3. Team collaboration requirements 
 
 4. Possible flexible arrangements allowed by policy
+```
+## Prompt 4 – Cultural Misunderstanding Between Team Members
 
-Prompt 4 – Cultural Misunderstanding Between Team Members
+`Backstory:`
 
-Backstory:
+`In a multinational IT firm in Hyderabad, a 27-year-old Indian team lead and a 31-year-old foreign colleague have had recurring misunderstandings during project discussions. The foreign team member feels the lead’s communication style is too direct and abrupt, while the lead finds the colleague’s indirectness frustrating. The tension is starting to impact project delivery timelines.`
 
-In a multinational IT firm in Hyderabad, a 27-year-old Indian team lead and a 31-year-old foreign colleague have had recurring misunderstandings during project discussions. The foreign team member feels the lead’s communication style is too direct and abrupt, while the lead finds the colleague’s indirectness frustrating. The tension is starting to impact project delivery timelines.
+`Goal:`
 
-Goal:
+`Create a culturally sensitive conflict resolution script to clear misunderstandings and improve collaboration.`
 
-Create a culturally sensitive conflict resolution script to clear misunderstandings and improve collaboration.
+`Prompt:`
 
-Prompt:
-
-*"You are an intercultural workplace coach. Draft a conflict resolution script for addressing a cultural communication misunderstanding between two colleagues. The script should include:
-
+`*"You are an intercultural workplace coach. Draft a conflict resolution script for addressing a cultural communication misunderstanding between two colleagues. The script should include:`
+```
 1. Neutral Opening – Acknowledge cultural diversity as a strength.
 
 2. Clarification of Concerns – Each person explains their interpretation of specific interactions.
@@ -1917,11 +1917,11 @@ Prompt:
 5. Communication Agreement – Define shared communication norms for the team.
 
 6. Ongoing Support Plan – Suggest periodic check-ins to ensure improved collaboration.
+```
+`Use language that prevents stereotyping while promoting respect."*`
 
-Use language that prevents stereotyping while promoting respect."*
-
-Inputs:
-
+`Inputs:`
+```
 1. Examples of past misunderstandings
 
 2. Cultural background of both parties
@@ -1929,21 +1929,21 @@ Inputs:
 3. Company diversity and inclusion policy
 
 4. Project timeline and urgency
+```
+## Prompt 5 – Disagreement Between Sales and Operations Teams
 
-Prompt 5 – Disagreement Between Sales and Operations Teams
+`Backstory:`
 
-Backstory:
+`A large FMCG company in Chennai is facing friction between its sales and operations teams. Sales promises quick delivery timelines to clients to close deals, while operations struggles to meet these commitments due to supply chain constraints. The ongoing blame game is affecting customer satisfaction and internal morale.`
 
-A large FMCG company in Chennai is facing friction between its sales and operations teams. Sales promises quick delivery timelines to clients to close deals, while operations struggles to meet these commitments due to supply chain constraints. The ongoing blame game is affecting customer satisfaction and internal morale.
+`Goal:`
 
-Goal:
+`Draft a conflict resolution script for a joint meeting between sales and operations to establish realistic commitments and improve interdepartmental trust.`
 
-Draft a conflict resolution script for a joint meeting between sales and operations to establish realistic commitments and improve interdepartmental trust.
+`Prompt:`
 
-Prompt:
-
-*"You are a cross-functional collaboration facilitator. Draft a mediation script for resolving recurring conflicts between sales and operations teams. The script should include:
-
+`*"You are a cross-functional collaboration facilitator. Draft a mediation script for resolving recurring conflicts between sales and operations teams. The script should include:`
+```
 1. Opening & Shared Goal Reminder – Reiterate that both teams aim for customer satisfaction and business growth.
 
 2. Issue Identification – Each team presents their challenges and constraints.
@@ -1955,11 +1955,11 @@ Prompt:
 5. Commitment Agreement – Document new guidelines for promises made to clients.
 
 6. Follow-Up Mechanism – Set a joint review meeting to monitor improvements.
+```
+`Provide phrasing that focuses on problem-solving rather than blame."*`
 
-Provide phrasing that focuses on problem-solving rather than blame."*
-
-Inputs:
-
+`Inputs:`
+```
 1. Current sales promises and delivery records
 
 2. Supply chain capacity data
@@ -1967,21 +1967,21 @@ Inputs:
 3. Past client complaints related to delays
 
 4. Company policy on delivery commitments
+```
+## Prompt 6 – Conflict Over Budget Allocation Between Departments
 
-Prompt 6 – Conflict Over Budget Allocation Between Departments
+`Backstory:`
 
-Backstory:
+`In a mid-sized health-tech company in Pune, the R&D department and the Marketing team are clashing over budget distribution for the next quarter. R&D argues that more funds are needed for product improvements to maintain competitiveness, while Marketing insists on higher budgets for promotional campaigns to boost sales. The CEO has asked the operations head to mediate before the disagreement escalates into open hostility.`
 
-In a mid-sized health-tech company in Pune, the R&D department and the Marketing team are clashing over budget distribution for the next quarter. R&D argues that more funds are needed for product improvements to maintain competitiveness, while Marketing insists on higher budgets for promotional campaigns to boost sales. The CEO has asked the operations head to mediate before the disagreement escalates into open hostility.
+`Goal:`
 
-Goal:
+`Create a conflict resolution script that helps both departments understand each other's priorities and reach a balanced allocation decision.`
 
-Create a conflict resolution script that helps both departments understand each other's priorities and reach a balanced allocation decision.
+`Prompt:`
 
-Prompt:
-
-"You are a corporate budget mediator. Draft a step-by-step script for resolving a dispute between two departments over quarterly budget allocation. Include: 
-
+`"You are a corporate budget mediator. Draft a step-by-step script for resolving a dispute between two departments over quarterly budget allocation. Include: `
+```
 1. Opening with Neutral Context – Acknowledge both teams’ contributions and importance. 
 
 2. Priority Sharing – Let each department present their needs with supporting data. 
@@ -1993,11 +1993,11 @@ Prompt:
 5. Agreement Summary – Clearly define the final budget split and rationale. 
 
 6. Follow-Up Accountability – Assign metrics to track whether the allocation delivers results.
+```
+`Provide respectful phrasing to prevent framing the issue as a win/lose battle."`
 
-Provide respectful phrasing to prevent framing the issue as a win/lose battle."
-
-Inputs: 
-
+`Inputs: `
+```
 1. Current quarterly budget 
 
 2. Departmental budget proposals 
@@ -2005,21 +2005,21 @@ Inputs:
 3. Company’s strategic priorities 
 
 4. ROI data from previous budgets
+```
+## Prompt 7 – Interpersonal Clash Between New Joiner and Senior Employee
 
-Prompt 7 – Interpersonal Clash Between New Joiner and Senior Employee
+`Backstory:`
 
-Backstory:
+`A 25-year-old new recruit in a Bengaluru e-commerce startup feels undermined by a senior colleague who often dismisses their ideas in meetings. The senior employee claims the new joiner lacks industry experience and should “learn first, suggest later.” The growing tension is creating an unhealthy team environment.`
 
-A 25-year-old new recruit in a Bengaluru e-commerce startup feels undermined by a senior colleague who often dismisses their ideas in meetings. The senior employee claims the new joiner lacks industry experience and should “learn first, suggest later.” The growing tension is creating an unhealthy team environment.
+`Goal:`
 
-Goal:
+`Draft a conflict resolution script that helps bridge the experience gap while fostering respect and collaboration.`
 
-Draft a conflict resolution script that helps bridge the experience gap while fostering respect and collaboration.
+`Prompt:`
 
-Prompt:
-
-"You are an HR culture coach. Draft a mediation script for addressing tension between a new joiner and a senior team member. Include: 
-
+`"You are an HR culture coach. Draft a mediation script for addressing tension between a new joiner and a senior team member. Include: `
+```
 1. Opening & Purpose – State the aim is to build mutual respect and collaboration. 
 
 2. Perspective Sharing – Allow each party to express their concerns without interruption. 
@@ -2029,11 +2029,11 @@ Prompt:
 4. Mutual Commitment Plan – Define ways for the senior to mentor and for the junior to contribute ideas constructively. 
 
 5. Follow-Up Review – Schedule regular check-ins to ensure improvement.
+```
+`Include language tips to prevent defensive reactions from either party."`
 
-Include language tips to prevent defensive reactions from either party."
-
-Inputs: 
-
+`Inputs:` 
+```
 1. Employee tenure and roles 
 
 2. Specific incidents causing friction 
@@ -2041,21 +2041,21 @@ Inputs:
 3. Company values related to teamwork 
 
 4. Current performance metrics
+```
+## Prompt 8 – Conflict Between Team Leads Over Resource Sharing
 
-Prompt 8 – Conflict Between Team Leads Over Resource Sharing
+`Backstory:`
 
-Backstory:
+`In a Gurugram-based SaaS firm, two team leads are at odds over sharing a key software developer between their projects. Each believes their project is more critical to the company’s success. The resource allocation dispute has already caused delays in both projects.`
 
-In a Gurugram-based SaaS firm, two team leads are at odds over sharing a key software developer between their projects. Each believes their project is more critical to the company’s success. The resource allocation dispute has already caused delays in both projects.
+`Goal:`
 
-Goal:
+`Create a resolution script to fairly allocate shared resources while minimizing delays and ensuring business priorities are met.`
 
-Create a resolution script to fairly allocate shared resources while minimizing delays and ensuring business priorities are met.
+`Prompt:`
 
-Prompt:
-
-"You are a project resource allocation mediator. Draft a resolution script for two team leads disputing over shared resource usage. Include: 
-
+`"You are a project resource allocation mediator. Draft a resolution script for two team leads disputing over shared resource usage. Include:` 
+```
 1. Opening & Context – Outline the importance of both projects without favouritism. 
 
 2. Needs Assessment – Have each lead present the scope, timelines, and dependencies. 
@@ -2067,11 +2067,11 @@ Prompt:
 5. Agreement Documentation – Define exact hours/days the shared resource will work for each team. 
 
 6. Monitoring Plan – Create a weekly review process to adapt if priorities shift.
+```
+`Provide phrasing that keeps focus on company goals rather than personal project wins."`
 
-Provide phrasing that keeps focus on company goals rather than personal project wins."
-
-Inputs: 
-
+`Inputs: `
+```
 1. Project timelines and deadlines 
 
 2. Developer’s skill set and availability 
@@ -2079,21 +2079,21 @@ Inputs:
 3. Business impact projections
 
 4. Current workload of each project team
+```
+## Prompt 9 – Conflict Due to Micromanagement
 
-Prompt 9 – Conflict Due to Micromanagement
+`Backstory:`
 
-Backstory:
+`A 28-year-old designer in a Jaipur-based branding agency feels suffocated by a manager who constantly checks in on their work progress. The manager argues they are just ensuring quality and meeting deadlines, but the designer perceives it as a lack of trust. The relationship is strained, and productivity is dropping.`
 
-A 28-year-old designer in a Jaipur-based branding agency feels suffocated by a manager who constantly checks in on their work progress. The manager argues they are just ensuring quality and meeting deadlines, but the designer perceives it as a lack of trust. The relationship is strained, and productivity is dropping.
+`Goal:`
 
-Goal:
+`Draft a resolution script that addresses concerns over micromanagement while maintaining accountability.`
 
-Draft a resolution script that addresses concerns over micromanagement while maintaining accountability.
+`Prompt:`
 
-Prompt:
-
-"You are a workplace relationship facilitator. Draft a conflict resolution script for a meeting between a manager and an employee over micromanagement concerns. Include:
-
+`"You are a workplace relationship facilitator. Draft a conflict resolution script for a meeting between a manager and an employee over micromanagement concerns. Include:`
+```
 1. Opening & Framing – Explain that the meeting is to improve workflow trust and efficiency.
 
 2. Employee Concerns – Invite the employee to share how frequent check-ins affect their productivity.
@@ -2105,11 +2105,11 @@ Prompt:
 5. Trial Period – Implement a 2-week test of the new arrangement.
 
 6. Review Session – Assess if both parties feel the balance has improved.
+```
+`Include non-confrontational language to encourage openness."`
 
-Include non-confrontational language to encourage openness."
-
-Inputs:
-
+`Inputs:`
+```
 1. Number of check-ins currently happening per week
 
 2. Project complexity level
@@ -2117,7 +2117,7 @@ Inputs:
 3. Employee’s performance track record
 
 4. Deadlines and quality expectations
-
+```
 Prompt 10 – Conflict Between Co-Founders Over Strategic Direction
 
 Backstory:
