@@ -1,343 +1,343 @@
-Certification Exam Prep Plans
+# Certification Exam Prep Plans
 
-IT Certification Exam Prep Plan (AWS Solutions Architect)
+## IT Certification Exam Prep Plan (AWS Solutions Architect)
 
-Backstory:
+`Backstory:`
 
-A mid-level cloud engineer in Bengaluru wants to earn the AWS Certified Solutions Architect – Associate certification to improve their career prospects. They have 3 months before their exam date, work full-time, and can dedicate 2 hours on weekdays and 4 hours on weekends for study. They need a structured preparation plan that balances theory, hands-on practice, and mock tests.
+`A mid-level cloud engineer in Bengaluru wants to earn the AWS Certified Solutions Architect – Associate certification to improve their career prospects. They have 3 months before their exam date, work full-time, and can dedicate 2 hours on weekdays and 4 hours on weekends for study. They need a structured preparation plan that balances theory, hands-on practice, and mock tests.`
 
-Goal:
+`Goal:`
 
-Create a weekly breakdown study plan for passing the AWS Solutions Architect – Associate exam in 3 months, focusing on core domains, practical labs, and revision strategy.
+`Create a weekly breakdown study plan for passing the AWS Solutions Architect – Associate exam in 3 months, focusing on core domains, practical labs, and revision strategy.`
 
-Prompt:
+`Prompt:`
 
-"You are a cloud certification coach. Create a 12-week study plan for the AWS Solutions Architect – Associate exam. Include: domain-wise topic breakdown (per AWS blueprint), recommended study resources (AWS docs, whitepapers, and training), hands-on lab exercises, practice test schedules, weekly revision targets, and tips for exam day readiness." Inputs Required from User: Exam date and availability per week Current level of AWS experience Preferred learning format (videos, reading, labs) Access to AWS free-tier or sandbox
+`"You are a cloud certification coach. Create a 12-week study plan for the AWS Solutions Architect – Associate exam. Include: domain-wise topic breakdown (per AWS blueprint), recommended study resources (AWS docs, whitepapers, and training), hands-on lab exercises, practice test schedules, weekly revision targets, and tips for exam day readiness." Inputs Required from User: Exam date and availability per week Current level of AWS experience Preferred learning format (videos, reading, labs) Access to AWS free-tier or sandbox`
 
 
-PMP Certification Exam Prep Plan (Project Management Professional)
+## PMP Certification Exam Prep Plan (Project Management Professional)
 
-Backstory:
+`Backstory:`
 
-A senior operations manager in Pune wants to transition into a strategic project management role. They have enrolled for the PMP exam and have 16 weeks to prepare while working full-time. Their biggest challenge is balancing dense theory from the PMBOK Guide with practical application and exam question practice. They prefer a highly structured, milestone-based learning plan.
+`A senior operations manager in Pune wants to transition into a strategic project management role. They have enrolled for the PMP exam and have 16 weeks to prepare while working full-time. Their biggest challenge is balancing dense theory from the PMBOK Guide with practical application and exam question practice. They prefer a highly structured, milestone-based learning plan.`
 
-Goal:
+`Goal:
 
-Create a step-by-step, 16-week PMP preparation schedule that integrates concept learning, process group mapping, mock tests, and exam strategy sessions.
+`Create a step-by-step, 16-week PMP preparation schedule that integrates concept learning, process group mapping, mock tests, and exam strategy sessions.`
 
-Prompt:
+`Prompt:`
 
-"You are a PMP-certified trainer. Develop a 16-week PMP certification study plan covering: PMBOK Guide mastery by knowledge areas, integration of Agile concepts, weekly practice quizzes, case study reviews, formula sheet memorization sessions, exam simulator schedules, and a final 2-week intensive revision plan." Inputs Required from User: Exam date and study time per week Preferred learning method (self-study, group, coaching) Access to PMP prep platforms (e.g., PMTraining, Rita Mulcahy) Strength/weakness areas in process groups or knowledge areas
+`"You are a PMP-certified trainer. Develop a 16-week PMP certification study plan covering: PMBOK Guide mastery by knowledge areas, integration of Agile concepts, weekly practice quizzes, case study reviews, formula sheet memorization sessions, exam simulator schedules, and a final 2-week intensive revision plan." Inputs Required from User: Exam date and study time per week Preferred learning method (self-study, group, coaching) Access to PMP prep platforms (e.g., PMTraining, Rita Mulcahy) Strength/weakness areas in process groups or knowledge areas`
 
-CFA Level 1 Exam Study Plan
+## CFA Level 1 Exam Study Plan
 
-Backstory:
+`Backstory:`
 
-A finance graduate in Delhi wants to clear the CFA Level 1 exam in their first attempt. They have 5 months before the test date and can dedicate 3–4 hours daily on weekdays and 6 hours on weekends. The challenge is managing 10 topic areas effectively while building the analytical and ethical reasoning skills tested on the exam.
+`A finance graduate in Delhi wants to clear the CFA Level 1 exam in their first attempt. They have 5 months before the test date and can dedicate 3–4 hours daily on weekdays and 6 hours on weekends. The challenge is managing 10 topic areas effectively while building the analytical and ethical reasoning skills tested on the exam.`
 
-Goal:
+`Goal:
 
-Design a topic-priority study plan that maximizes scoring potential while ensuring mastery of Ethics and Financial Reporting & Analysis.
+`Design a topic-priority study plan that maximizes scoring potential while ensuring mastery of Ethics and Financial Reporting & Analysis.`
 
-Prompt:
+`Prompt:`
 
-"You are a CFA exam prep specialist. Create a 5-month CFA Level 1 study schedule covering: topic prioritization (by exam weightage), reading assignments, practice question sets, formula review sessions, ethics case studies, mock exam timelines, and final-month high-intensity revision tactics." Inputs Required from User: Exam date and number of available study hours per week Background in finance/accounting Access to CFA prep materials (Kaplan Schweser, CFA Institute portal) Areas of confidence and difficulty
+`"You are a CFA exam prep specialist. Create a 5-month CFA Level 1 study schedule covering: topic prioritization (by exam weightage), reading assignments, practice question sets, formula review sessions, ethics case studies, mock exam timelines, and final-month high-intensity revision tactics." Inputs Required from User: Exam date and number of available study hours per week Background in finance/accounting Access to CFA prep materials (Kaplan Schweser, CFA Institute portal) Areas of confidence and difficulty`
 
-Google Data Analytics Professional Certificate Prep Plan
+## Google Data Analytics Professional Certificate Prep Plan
 
-Backstory:
+`Backstory:`
 
-A marketing analyst in Hyderabad wants to transition into a full-time data analytics role. They have enrolled in the Google Data Analytics Professional Certificate on Coursera and want to complete it in 8 weeks while building a portfolio of real-world projects.
+`A marketing analyst in Hyderabad wants to transition into a full-time data analytics role. They have enrolled in the Google Data Analytics Professional Certificate on Coursera and want to complete it in 8 weeks while building a portfolio of real-world projects.`
 
-Goal:
+`Goal:`
 
-Create a week-by-week plan to finish all modules, apply learnings to practical datasets, and prepare a polished portfolio for job applications.
+`Create a week-by-week plan to finish all modules, apply learnings to practical datasets, and prepare a polished portfolio for job applications.`
 
-Prompt:
+`Prompt:`
 
-"You are a data analytics mentor. Design an 8-week plan to complete the Google Data Analytics Professional Certificate, including: daily lesson goals, practice dataset assignments, hands-on projects for each module, portfolio-building tasks, and interview preparation exercises for analytics roles." Inputs Required from User: Current Excel/SQL/Tableau skill level Career goal (marketing analytics, business analytics, data science) Time availability per day/week Preferred datasets for practice (industry-specific)
+`"You are a data analytics mentor. Design an 8-week plan to complete the Google Data Analytics Professional Certificate, including: daily lesson goals, practice dataset assignments, hands-on projects for each module, portfolio-building tasks, and interview preparation exercises for analytics roles." Inputs Required from User: Current Excel/SQL/Tableau skill level Career goal (marketing analytics, business analytics, data science) Time availability per day/week Preferred datasets for practice (industry-specific)`
 
-Certified Ethical Hacker (CEH) Exam Study Plan
+## Certified Ethical Hacker (CEH) Exam Study Plan
 
-Backstory:
+`Backstory:`
 
-A network administrator in Chennai wants to earn the CEH certification to move into a cybersecurity penetration testing role. They have 10 weeks before their exam date and access to a home lab for practice. Their main struggle is balancing theory-heavy topics like cryptography with hands-on hacking simulations.
+`A network administrator in Chennai wants to earn the CEH certification to move into a cybersecurity penetration testing role. They have 10 weeks before their exam date and access to a home lab for practice. Their main struggle is balancing theory-heavy topics like cryptography with hands-on hacking simulations.`
 
-Goal:
+`Goal:`
 
-Create a practical study schedule that combines exam blueprint coverage, real-world lab exercises, and timed practice tests.
+`Create a practical study schedule that combines exam blueprint coverage, real-world lab exercises, and timed practice tests.`
 
-Prompt:
+`Prompt:`
 
-"You are a cybersecurity exam coach. Create a 10-week CEH certification prep plan including: EC-Council domain-by-domain study schedule, daily lab practice tasks, recommended hacking simulation tools, weekly quiz challenges, red vs. blue team scenario practice, and final week mock exam strategy." Inputs Required from User: Exam date and hours available for study Lab setup details (VMs, OS, tools installed) Prior cybersecurity knowledge level Specific topics they find challenging (e.g., malware, scanning, enumeration)
+`"You are a cybersecurity exam coach. Create a 10-week CEH certification prep plan including: EC-Council domain-by-domain study schedule, daily lab practice tasks, recommended hacking simulation tools, weekly quiz challenges, red vs. blue team scenario practice, and final week mock exam strategy." Inputs Required from User: Exam date and hours available for study Lab setup details (VMs, OS, tools installed) Prior cybersecurity knowledge level Specific topics they find challenging (e.g., malware, scanning, enumeration)`
 
-Chartered Accountant (CA) Final Exam Preparation Blueprint
+## Chartered Accountant (CA) Final Exam Preparation Blueprint
 
-Backstory:
+`Backstory:`
 
-A CA intermediate-qualified student in Jaipur has 6 months before their final exams. They’re doing articleship full-time and can only dedicate 3 hours daily on weekdays and 6–7 hours on weekends. The biggest challenge is balancing audit, direct tax, indirect tax, and financial reporting with mock tests and revisions.
+`A CA intermediate-qualified student in Jaipur has 6 months before their final exams. They’re doing articleship full-time and can only dedicate 3 hours daily on weekdays and 6–7 hours on weekends. The biggest challenge is balancing audit, direct tax, indirect tax, and financial reporting with mock tests and revisions.`
 
-Goal:
+`Goal:`
 
-Develop a practical CA Final prep plan that ensures syllabus coverage, intensive revision, and strong test practice under time pressure.
+`Develop a practical CA Final prep plan that ensures syllabus coverage, intensive revision, and strong test practice under time pressure.`
 
-Prompt:
+`Prompt:`
 
-"You are a CA exam strategist. Design a 6-month CA Final study plan, dividing time between all papers (FR, SFM, Audit, Law, DT, IDT, Elective), integrating ICAI module practice, past paper solving, RTP & MTP analysis, revision schedules, and exam day time management tips." Inputs Required from User: Exam group(s) being attempted (Group 1, Group 2, or both) Available study hours per day/week Subject strengths and weaknesses Access to ICAI materials and coaching
+`"You are a CA exam strategist. Design a 6-month CA Final study plan, dividing time between all papers (FR, SFM, Audit, Law, DT, IDT, Elective), integrating ICAI module practice, past paper solving, RTP & MTP analysis, revision schedules, and exam day time management tips." Inputs Required from User: Exam group(s) being attempted (Group 1, Group 2, or both) Available study hours per day/week Subject strengths and weaknesses Access to ICAI materials and coaching`
 
-IELTS Academic 8+ Band Preparation Plan
+## IELTS Academic 8+ Band Preparation Plan
 
-Backstory:
+`Backstory:`
 
-A software engineer in Chandigarh wants to apply for a master’s program in Canada and needs an overall IELTS Academic band score of 8. They have 2 months before the test and can spend 2–3 hours daily practicing. They struggle mainly with Listening and Writing tasks.
+`A software engineer in Chandigarh wants to apply for a master’s program in Canada and needs an overall IELTS Academic band score of 8. They have 2 months before the test and can spend 2–3 hours daily practicing. They struggle mainly with Listening and Writing tasks.`
 
-Goal:
+`Goal:`
 
-Prepare a focused IELTS Academic prep plan to achieve 8+ in all sections through targeted practice.
+`Prepare a focused IELTS Academic prep plan to achieve 8+ in all sections through targeted practice.`
 
-Prompt:
+`Prompt:`
 
-"You are an IELTS expert coach. Create a 2-month IELTS Academic prep plan including: daily speaking drills, listening practice with varied accents, writing task 1 & 2 templates, reading comprehension strategies, mock test schedules, and error analysis for weak areas." Inputs Required from User: Current IELTS score or skill assessment Target country and university requirements Daily time commitment Preferred study resources (online/offline)
+`"You are an IELTS expert coach. Create a 2-month IELTS Academic prep plan including: daily speaking drills, listening practice with varied accents, writing task 1 & 2 templates, reading comprehension strategies, mock test schedules, and error analysis for weak areas." Inputs Required from User: Current IELTS score or skill assessment Target country and university requirements Daily time commitment Preferred study resources (online/offline)`
 
-NEET-PG Exam Strategy Plan for Medical Graduates
+## NEET-PG Exam Strategy Plan for Medical Graduates
 
-Backstory:
+`Backstory:`
 
-A final-year MBBS student in Lucknow wants to crack NEET-PG on their first attempt to secure a seat in MD Pediatrics. They have 8 months before the exam and aim for a top 500 rank. They are looking for a subject-priority approach with repeated revisions and maximum MCQ practice.
+`A final-year MBBS student in Lucknow wants to crack NEET-PG on their first attempt to secure a seat in MD Pediatrics. They have 8 months before the exam and aim for a top 500 rank. They are looking for a subject-priority approach with repeated revisions and maximum MCQ practice.`
 
-Goal:
+`Goal:`
 
-Design a systematic NEET-PG study strategy with subject ranking, integrated mock exams, and repeated high-yield topic coverage.
+`Design a systematic NEET-PG study strategy with subject ranking, integrated mock exams, and repeated high-yield topic coverage.`
 
-Prompt:
+`Prompt:`
 
-"You are a NEET-PG preparation mentor. Build an 8-month NEET-PG study plan covering: subject prioritization (high-yield first), daily MCQ practice targets, weekly grand tests, integrated notes revision, image-based question prep, and last 2-month rapid revision cycles." Inputs Required from User: Current subject strengths and weaknesses Access to prep platforms (e.g., Marrow, Prepladder) Target specialty Study hours available daily
+`"You are a NEET-PG preparation mentor. Build an 8-month NEET-PG study plan covering: subject prioritization (high-yield first), daily MCQ practice targets, weekly grand tests, integrated notes revision, image-based question prep, and last 2-month rapid revision cycles." Inputs Required from User: Current subject strengths and weaknesses Access to prep platforms (e.g., Marrow, Prepladder) Target specialty Study hours available daily`
 
-UPSC Civil Services Prelims + Mains Integrated Plan
+## UPSC Civil Services Prelims + Mains Integrated Plan
 
-Backstory:
+`Backstory:`
 
-An aspiring IAS officer from Indore wants a 12-month integrated preparation plan for both Prelims and Mains. They have quit their job to prepare full-time and need a month-by-month breakdown for GS papers, optional subject, essay writing, and test series.
+`An aspiring IAS officer from Indore wants a 12-month integrated preparation plan for both Prelims and Mains. They have quit their job to prepare full-time and need a month-by-month breakdown for GS papers, optional subject, essay writing, and test series.`
 
-Goal:
+`Goal:`
 
-Create a structured 1-year plan that integrates Prelims and Mains preparation to maximize retention and answer writing skills.
+`Create a structured 1-year plan that integrates Prelims and Mains preparation to maximize retention and answer writing skills.`
 
-Prompt:
+`Prompt:`
 
-"You are a UPSC mentor. Develop a 12-month integrated UPSC CSE preparation plan with: GS paper-wise syllabus mapping, optional subject study strategy, daily answer writing practice, current affairs integration, mock test schedules, and revision cycles aligned with exam dates." Inputs Required from User: Optional subject chosen Current preparation stage (beginner/intermediate) Availability for coaching/test series Strength in static vs. dynamic subjects
+`"You are a UPSC mentor. Develop a 12-month integrated UPSC CSE preparation plan with: GS paper-wise syllabus mapping, optional subject study strategy, daily answer writing practice, current affairs integration, mock test schedules, and revision cycles aligned with exam dates." Inputs Required from User: Optional subject chosen Current preparation stage (beginner/intermediate) Availability for coaching/test series Strength in static vs. dynamic subjects`
 
-GATE Mechanical Engineering Exam Study Framework
+## GATE Mechanical Engineering Exam Study Framework
 
-Backstory:
+`Backstory:`
 
-A mechanical engineering graduate in Visakhapatnam wants to crack GATE ME in the top 200 ranks to get into IIT Bombay. They have 9 months before the exam and can study 4–5 hours daily alongside a part-time job.
+`A mechanical engineering graduate in Visakhapatnam wants to crack GATE ME in the top 200 ranks to get into IIT Bombay. They have 9 months before the exam and can study 4–5 hours daily alongside a part-time job.`
 
-Goal:
+`Goal:`
 
-Prepare a topic-wise GATE ME study plan with problem-solving focus and numerical accuracy improvement.
+`Prepare a topic-wise GATE ME study plan with problem-solving focus and numerical accuracy improvement.`
 
-Prompt:
+`Prompt:`
 
-"You are a GATE ME expert. Create a 9-month GATE Mechanical Engineering study plan including: topic-wise scheduling by weightage, daily numerical practice targets, past year question analysis, formula sheet preparation, mock test integration, and last-month time management strategy." Inputs Required from User: Subjects already covered in-depth Target score and rank Access to GATE coaching or self-study resources Weakness in theory vs. numerical solving
+`"You are a GATE ME expert. Create a 9-month GATE Mechanical Engineering study plan including: topic-wise scheduling by weightage, daily numerical practice targets, past year question analysis, formula sheet preparation, mock test integration, and last-month time management strategy." Inputs Required from User: Subjects already covered in-depth Target score and rank Access to GATE coaching or self-study resources Weakness in theory vs. numerical solving`
 
-PMP (Project Management Professional) Exam 90-Day Crash Plan
+## PMP (Project Management Professional) Exam 90-Day Crash Plan
 
-Backstory:
+`Backstory:`
 
-A senior operations manager in Hyderabad with 10 years of experience in construction project management wants to earn the PMP certification for career advancement. They have already attended a 35-hour training course and now have only 3 months before the exam. Their biggest hurdle is balancing preparation with ongoing project deadlines.
+`A senior operations manager in Hyderabad with 10 years of experience in construction project management wants to earn the PMP certification for career advancement. They have already attended a 35-hour training course and now have only 3 months before the exam. Their biggest hurdle is balancing preparation with ongoing project deadlines.`
 
-Goal:
+`Goal:`
 
-Create a 90-day PMP exam crash plan focusing on PMBOK Guide concepts, process group mastery, and mock exam readiness.
+`Create a 90-day PMP exam crash plan focusing on PMBOK Guide concepts, process group mastery, and mock exam readiness.`
 
-Prompt:
+`Prompt:`
 
-"You are a PMP exam mentor. Design a 3-month PMP preparation plan with: week-by-week coverage of the PMBOK Guide process groups & knowledge areas, situational question-solving techniques, formula memorization drills, mock test schedules, and time management tips for the 4-hour exam." Inputs Required from User: Current PMP knowledge level Available daily/weekly study hours Preferred learning style (visual, text, practice-heavy) Access to mock exam platforms
+"You are a PMP exam mentor. Design a 3-month PMP preparation plan with: week-by-week coverage of the PMBOK Guide process groups & knowledge areas, situational question-solving techniques, formula memorization drills, mock test schedules, and time management tips for the 4-hour exam." Inputs Required from User: Current PMP knowledge level Available daily/weekly study hours Preferred learning style (visual, text, practice-heavy) Access to mock exam platforms`
 
-CFA Level 1 Exam Preparation Roadmap
+## CFA Level 1 Exam Preparation Roadmap
 
-Backstory:
+`Backstory:`
 
-A finance graduate in Mumbai aims to pass CFA Level 1 in the upcoming December session. They have 6 months and are working full-time at an investment bank. They can commit 12–15 hours per week but need a clear plan to cover ethics, quant, and financial reporting thoroughly.
+`A finance graduate in Mumbai aims to pass CFA Level 1 in the upcoming December session. They have 6 months and are working full-time at an investment bank. They can commit 12–15 hours per week but need a clear plan to cover ethics, quant, and financial reporting thoroughly.`
 
-Goal:
+`Goal:`
 
-Create a CFA Level 1 preparation roadmap with topic prioritization, mock exams, and ethics mastery strategies.
+`Create a CFA Level 1 preparation roadmap with topic prioritization, mock exams, and ethics mastery strategies.`
 
-Prompt:
+`Prompt:`
 
-"You are a CFA training expert. Build a 6-month CFA Level 1 prep plan with: study hour allocation per topic based on weightage, ethics question drills, formula sheet preparation, mock exam scheduling, and strategies for maintaining accuracy under time pressure." Inputs Required from User: Current familiarity with CFA curriculum Number of weekly hours available Target exam month/session Weakest subjects in finance
+`"You are a CFA training expert. Build a 6-month CFA Level 1 prep plan with: study hour allocation per topic based on weightage, ethics question drills, formula sheet preparation, mock exam scheduling, and strategies for maintaining accuracy under time pressure." Inputs Required from User: Current familiarity with CFA curriculum Number of weekly hours available Target exam month/session Weakest subjects in finance`
 
-Google Data Analytics Professional Certificate Plan
+## Google Data Analytics Professional Certificate Plan
 
-Backstory:
+`Backstory:`
 
-A marketing analyst in Pune wants to transition into a full-time data analytics role. They’ve enrolled in the Google Data Analytics Professional Certificate but are struggling to maintain consistency while working. They have 4 months to finish the certification and start applying for jobs.
+`A marketing analyst in Pune wants to transition into a full-time data analytics role. They’ve enrolled in the Google Data Analytics Professional Certificate but are struggling to maintain consistency while working. They have 4 months to finish the certification and start applying for jobs.`
 
-Goal:
+`Goal:`
 
-Design a structured weekly plan for completing the Google Data Analytics Certificate and building a job-ready portfolio.
+`Design a structured weekly plan for completing the Google Data Analytics Certificate and building a job-ready portfolio.`
 
-Prompt:
+`Prompt:`
 
-"You are a data analytics career coach. Create a 4-month Google Data Analytics Certificate plan including: module completion targets, guided project timelines, portfolio-building steps, LinkedIn profile optimization, and job application strategies upon completion." Inputs Required from User: Weekly time availability Current Excel/SQL/Tableau skills Job role preference after certification Deadline for course completion
+`"You are a data analytics career coach. Create a 4-month Google Data Analytics Certificate plan including: module completion targets, guided project timelines, portfolio-building steps, LinkedIn profile optimization, and job application strategies upon completion." Inputs Required from User: Weekly time availability Current Excel/SQL/Tableau skills Job role preference after certification Deadline for course completion`
 
-AWS DevOps Engineer Professional Exam Strategy
+## AWS DevOps Engineer Professional Exam Strategy
 
-Backstory:
+`Backstory:`
 
-A DevOps engineer in Delhi wants to upgrade from AWS Certified Developer – Associate to AWS Certified DevOps Engineer – Professional. They have 5 months before their target exam date and need a preparation plan with an emphasis on automation, CI/CD pipelines, and infrastructure as code.
+`A DevOps engineer in Delhi wants to upgrade from AWS Certified Developer – Associate to AWS Certified DevOps Engineer – Professional. They have 5 months before their target exam date and need a preparation plan with an emphasis on automation, CI/CD pipelines, and infrastructure as code.`
 
-Goal:
+`Goal:`
 
-Create a 5-month AWS DevOps Engineer Professional study plan focusing on advanced AWS services and real-world architecture patterns.
+`Create a 5-month AWS DevOps Engineer Professional study plan focusing on advanced AWS services and real-world architecture patterns.`
 
-Prompt:
+`Prompt:`
 
-"You are a cloud certification strategist. Build a 5-month AWS DevOps Engineer Professional exam prep plan including: domain-based topic breakdown, hands-on lab exercises (CloudFormation, CodePipeline, ECS/EKS), practice test integration, and high-yield revision cycles." Inputs Required from User: Current AWS certifications Strength in scripting/automation Daily study availability Access to AWS sandbox
+`"You are a cloud certification strategist. Build a 5-month AWS DevOps Engineer Professional exam prep plan including: domain-based topic breakdown, hands-on lab exercises (CloudFormation, CodePipeline, ECS/EKS), practice test integration, and high-yield revision cycles." Inputs Required from User: Current AWS certifications Strength in scripting/automation Daily study availability Access to AWS sandbox`
 
-Six Sigma Green Belt Certification Plan
+## Six Sigma Green Belt Certification Plan
 
-Backstory:
+`Backstory:`
 
-A quality analyst in an automotive parts manufacturing company in Chennai wants to earn the Six Sigma Green Belt certification to lead process improvement initiatives. They have 2 months before the certification exam and want a balanced plan between theory and case study practice.
+`A quality analyst in an automotive parts manufacturing company in Chennai wants to earn the Six Sigma Green Belt certification to lead process improvement initiatives. They have 2 months before the certification exam and want a balanced plan between theory and case study practice.`
 
-Goal:
+`Goal:`
 
-Design a 2-month Six Sigma Green Belt study and practice plan.
+`Design a 2-month Six Sigma Green Belt study and practice plan.`
 
-Prompt:
+`Prompt:`
 
-"You are a Six Sigma trainer. Create a 2-month Six Sigma Green Belt exam plan with: DMAIC methodology breakdown, statistical tools practice (Minitab), industry-specific case studies, practice project guidelines, and mock assessment schedules." Inputs Required from User: Manufacturing/service industry background Familiarity with process improvement concepts Access to statistical tools Target exam date
+`"You are a Six Sigma trainer. Create a 2-month Six Sigma Green Belt exam plan with: DMAIC methodology breakdown, statistical tools practice (Minitab), industry-specific case studies, practice project guidelines, and mock assessment schedules." Inputs Required from User: Manufacturing/service industry background Familiarity with process improvement concepts Access to statistical tools Target exam date`
 
-Digital Marketing Certification Exam Prep (Meta, Google, HubSpot)
+`Digital Marketing Certification Exam Prep (Meta, Google, HubSpot)`
 
-Backstory:
+`Backstory:`
 
-A freelance marketer in Bengaluru wants to complete certifications from Meta, Google, and HubSpot to improve credibility and attract higher-paying clients. They have 3 months and want an efficient, integrated study plan that prevents content overlap.
+`A freelance marketer in Bengaluru wants to complete certifications from Meta, Google, and HubSpot to improve credibility and attract higher-paying clients. They have 3 months and want an efficient, integrated study plan that prevents content overlap.`
 
-Goal:
+`Goal:`
 
-Create a cross-platform digital marketing certification plan covering SEO, social ads, content marketing, and analytics.
+`Create a cross-platform digital marketing certification plan covering SEO, social ads, content marketing, and analytics.`
 
-Prompt:
+`Prompt:`
 
-"You are a digital marketing coach. Build a 3-month integrated certification plan including: module prioritization across platforms, daily practice tasks (ad creation, keyword research, analytics dashboards), mock quizzes, and portfolio project integration." Inputs Required from User: Certifications already earned Time availability per day Specialization preference (SEO, paid ads, content) Client niche focus
+`"You are a digital marketing coach. Build a 3-month integrated certification plan including: module prioritization across platforms, daily practice tasks (ad creation, keyword research, analytics dashboards), mock quizzes, and portfolio project integration." Inputs Required from User: Certifications already earned Time availability per day Specialization preference (SEO, paid ads, content) Client niche focus`
 
-TEFL Certification for Online English Teaching
+## TEFL Certification for Online English Teaching
 
-Backstory:
+`Backstory:`
 
-A postgraduate in Kolkata wants to teach English online while traveling. They’ve enrolled in a 120-hour TEFL course and want a schedule that ensures they finish in 6 weeks while building a demo teaching portfolio.
+`A postgraduate in Kolkata wants to teach English online while traveling. They’ve enrolled in a 120-hour TEFL course and want a schedule that ensures they finish in 6 weeks while building a demo teaching portfolio.`
 
-Goal:
+`Goal:`
 
-Create a 6-week TEFL course completion and teaching readiness plan.
+`Create a 6-week TEFL course completion and teaching readiness plan.`
 
-Prompt:
+`Prompt:`
 
-"You are an ESL teaching mentor. Draft a 6-week TEFL prep plan including: daily lesson module targets, demo lesson creation, online teaching platform setup, and interview preparation for ESL roles." Inputs Required from User: Hours available per day/week Preferred teaching niche (kids, business English) Internet and tech setup Target teaching platforms
+`"You are an ESL teaching mentor. Draft a 6-week TEFL prep plan including: daily lesson module targets, demo lesson creation, online teaching platform setup, and interview preparation for ESL roles." Inputs Required from User: Hours available per day/week Preferred teaching niche (kids, business English) Internet and tech setup Target teaching platforms`
 
-Certified Ethical Hacker (CEH) Exam Study Guide
+## Certified Ethical Hacker (CEH) Exam Study Guide
 
-Backstory:
+`Backstory:`
 
-An IT security analyst in Gurugram wants to earn the CEH certification to move into a penetration testing role. They have 4 months before the exam and access to a lab environment for practice.
+`An IT security analyst in Gurugram wants to earn the CEH certification to move into a penetration testing role. They have 4 months before the exam and access to a lab environment for practice.`
 
-Goal:
+`Goal:`
 
-Build a CEH exam-focused study and practice plan.
+`Build a CEH exam-focused study and practice plan.`
 
-Prompt:
+`Prompt:`
 
-"You are a cybersecurity certification trainer. Design a 4-month CEH exam plan including: module sequencing (per EC-Council blueprint), daily lab practice, CTF participation, mock exam scheduling, and reporting documentation drills." Inputs Required from User: Current cybersecurity experience Daily lab access hours Familiarity with Linux and scripting Exam target date
+`"You are a cybersecurity certification trainer. Design a 4-month CEH exam plan including: module sequencing (per EC-Council blueprint), daily lab practice, CTF participation, mock exam scheduling, and reporting documentation drills." Inputs Required from User: Current cybersecurity experience Daily lab access hours Familiarity with Linux and scripting Exam target date`
 
-Microsoft Azure Solutions Architect Expert Exam Plan
+## Microsoft Azure Solutions Architect Expert Exam Plan
 
-Backstory:
+`Backstory:`
 
-A cloud architect in Pune wants to earn the Microsoft Azure Solutions Architect Expert certification to advance to a senior consultant role. They have 5 months and need a structured plan for both AZ-305 and AZ-104 exams.
+`A cloud architect in Pune wants to earn the Microsoft Azure Solutions Architect Expert certification to advance to a senior consultant role. They have 5 months and need a structured plan for both AZ-305 and AZ-104 exams.`
 
-Goal:
+`Goal:`
 
-Create a combined study plan for AZ-305 and AZ-104 certifications.
+`Create a combined study plan for AZ-305 and AZ-104 certifications.`
 
-Prompt:
+`Prompt:`
 
-"You are a Microsoft Azure certification coach. Build a 5-month Azure Solutions Architect Expert prep plan including: topic mapping for both exams, lab environment practice, mock test schedules, and cross-service architecture design scenarios." Inputs Required from User: Current Azure experience Hours per week available Access to Azure subscription Target exam order (AZ-104 first or AZ-305 first)
+`"You are a Microsoft Azure certification coach. Build a 5-month Azure Solutions Architect Expert prep plan including: topic mapping for both exams, lab environment practice, mock test schedules, and cross-service architecture design scenarios." Inputs Required from User: Current Azure experience Hours per week available Access to Azure subscription Target exam order (AZ-104 first or AZ-305 first)`
 
-Certified Scrum Master (CSM) Exam Readiness Plan
+## Certified Scrum Master (CSM) Exam Readiness Plan
 
-Backstory:
+`Backstory:`
 
-A product manager in Noida wants to earn the CSM certification to strengthen their agile leadership skills. They have enrolled in a 2-day workshop but want a follow-up 4-week plan to reinforce concepts and pass the exam.
+`A product manager in Noida wants to earn the CSM certification to strengthen their agile leadership skills. They have enrolled in a 2-day workshop but want a follow-up 4-week plan to reinforce concepts and pass the exam.`
 
-Goal:
+`Goal:`
 
-Create a CSM post-workshop exam readiness plan.
+`Create a CSM post-workshop exam readiness plan.`
 
-Prompt:
+`Prompt:`
 
-"You are an agile coach. Create a 4-week CSM study plan including: Scrum Guide deep dive, daily practice quizzes, scenario-based Q&A, and agile tool practice (Jira, Trello)." Inputs Required from User: Agile experience level Workshop completion date Target exam date Familiarity with Scrum Guide
+`"You are an agile coach. Create a 4-week CSM study plan including: Scrum Guide deep dive, daily practice quizzes, scenario-based Q&A, and agile tool practice (Jira, Trello)." Inputs Required from User: Agile experience level Workshop completion date Target exam date Familiarity with Scrum Guide`
 
-IELTS Academic Exam 8-Week Intensive Prep Plan
+## IELTS Academic Exam 8-Week Intensive Prep Plan
 
-Backstory:
+`Backstory:`
 
-A software engineer in Bengaluru has received conditional admission to a Canadian university but needs to achieve an overall band score of 7.5 in the IELTS Academic exam. They have exactly 8 weeks before the test and struggle most with writing and speaking sections.
+`A software engineer in Bengaluru has received conditional admission to a Canadian university but needs to achieve an overall band score of 7.5 in the IELTS Academic exam. They have exactly 8 weeks before the test and struggle most with writing and speaking sections.`
 
-Goal:
+`Goal:`
 
-Create an 8-week IELTS Academic study plan targeting high scores in all four sections — listening, reading, writing, and speaking — with extra focus on weak areas.
+`Create an 8-week IELTS Academic study plan targeting high scores in all four sections — listening, reading, writing, and speaking — with extra focus on weak areas.`
 
-Prompt:
+`Prompt:`
 
-"You are an IELTS training expert. Design a detailed 8-week Academic IELTS prep plan with: daily section-specific practice tasks, vocabulary-building strategies, mock test scheduling, speaking partner sessions, grammar accuracy drills, and time-management techniques for the exam." Inputs Required from User: Current IELTS mock test scores per section Available study hours per week Target country/university admission requirements Access to speaking partners or tutors
+`"You are an IELTS training expert. Design a detailed 8-week Academic IELTS prep plan with: daily section-specific practice tasks, vocabulary-building strategies, mock test scheduling, speaking partner sessions, grammar accuracy drills, and time-management techniques for the exam." Inputs Required from User: Current IELTS mock test scores per section Available study hours per week Target country/university admission requirements Access to speaking partners or tutors`
 
-GMAT 6-Month Targeted Study Plan
+`GMAT 6-Month Targeted Study Plan`
 
-Backstory:
+`Backstory:`
 
-A business analyst in Delhi aims to apply for top MBA programs in the US and Europe. They have 6 months before the GMAT and a target score of 720+. While strong in quantitative reasoning, they struggle with sentence correction and critical reasoning in the verbal section.
+`A business analyst in Delhi aims to apply for top MBA programs in the US and Europe. They have 6 months before the GMAT and a target score of 720+. While strong in quantitative reasoning, they struggle with sentence correction and critical reasoning in the verbal section.`
 
-Goal:
+`Goal:`
 
-Develop a GMAT study plan that balances quantitative reinforcement with an aggressive verbal improvement strategy.
+`Develop a GMAT study plan that balances quantitative reinforcement with an aggressive verbal improvement strategy.`
 
-Prompt:
+`Prompt:`
 
-"You are a GMAT prep strategist. Build a 6-month GMAT study plan with: quant topic reinforcement schedules, targeted verbal improvement drills, integrated reasoning practice, adaptive mock test routines, error log analysis, and stamina-building strategies for the 3.5-hour test." Inputs Required from User: Current GMAT mock scores (section-wise) Weakest question types in verbal & quant Study time per week Target business schools
+`"You are a GMAT prep strategist. Build a 6-month GMAT study plan with: quant topic reinforcement schedules, targeted verbal improvement drills, integrated reasoning practice, adaptive mock test routines, error log analysis, and stamina-building strategies for the 3.5-hour test." Inputs Required from User: Current GMAT mock scores (section-wise) Weakest question types in verbal & quant Study time per week Target business schools`
 
-NEBOSH International General Certificate Safety Exam Plan
+## CNEBOSH International General Certificate Safety Exam Plan
 
-Backstory:
+`Backstory:`
 
-A safety supervisor in a Dubai-based construction company (originally from India) is taking the NEBOSH International General Certificate to qualify for higher safety roles. They have 10 weeks before the open-book exam and practical assessment, with limited prior exposure to written risk assessment documentation.
+`A safety supervisor in a Dubai-based construction company (originally from India) is taking the NEBOSH International General Certificate to qualify for higher safety roles. They have 10 weeks before the open-book exam and practical assessment, with limited prior exposure to written risk assessment documentation.`
 
-Goal:
+`Goal:`
 
-Create a 10-week NEBOSH study and practice plan with an emphasis on practical workplace risk assessments.
+`Create a 10-week NEBOSH study and practice plan with an emphasis on practical workplace risk assessments.`
 
-Prompt:
+`Prompt:`
 
-"You are a NEBOSH-accredited trainer. Develop a 10-week IGC preparation plan with: unit-by-unit coverage (IG1, IG2), daily case study analysis, open-book exam practice, hazard identification exercises, and practical assessment report-writing tips." Inputs Required from User: Work sector (construction, manufacturing, etc.) Hours available per week Previous safety training completed Access to workplace scenarios for practice
+`"You are a NEBOSH-accredited trainer. Develop a 10-week IGC preparation plan with: unit-by-unit coverage (IG1, IG2), daily case study analysis, open-book exam practice, hazard identification exercises, and practical assessment report-writing tips." Inputs Required from User: Work sector (construction, manufacturing, etc.) Hours available per week Previous safety training completed Access to workplace scenarios for practice`
 
-CLAT PG (LLM Entrance) 4-Month Study Blueprint
+## CLAT PG (LLM Entrance) 4-Month Study Blueprint
 
-Backstory:
+`Backstory:`
 
-A law graduate in Kolkata wants to pursue a master’s degree in law and has registered for the CLAT PG exam. They have 4 months and need a structured plan to cover constitutional law, jurisprudence, and recent legal developments, while also practicing previous year papers.
+`A law graduate in Kolkata wants to pursue a master’s degree in law and has registered for the CLAT PG exam. They have 4 months and need a structured plan to cover constitutional law, jurisprudence, and recent legal developments, while also practicing previous year papers.`
 
-Goal:
+`Goal:`
 
-Design a CLAT PG 4-month preparation blueprint with topic prioritization and regular mock analysis.
+`Design a CLAT PG 4-month preparation blueprint with topic prioritization and regular mock analysis.`
 
-Prompt:
+`Prompt:`
 
-"You are a legal exam mentor. Build a 4-month CLAT PG study plan including: week-by-week topic coverage, current legal affairs reading schedules, past paper practice, legal writing exercises, and mock test performance review cycles." Inputs Required from User: Specialization preference for LLM Current preparation status Time per day for study Access to legal journals or databases
+`"You are a legal exam mentor. Build a 4-month CLAT PG study plan including: week-by-week topic coverage, current legal affairs reading schedules, past paper practice, legal writing exercises, and mock test performance review cycles." Inputs Required from User: Specialization preference for LLM Current preparation status Time per day for study Access to legal journals or databases`
 
-CMA (Certified Management Accountant) 12-Month Dual-Part Exam Plan
+## CMA (Certified Management Accountant) 12-Month Dual-Part Exam Plan
 
 Backstory:
 
