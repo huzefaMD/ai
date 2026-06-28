@@ -351,357 +351,357 @@
 `"You are a data privacy law researcher. Draft a legal research summary of the DPDP Act, covering: user consent requirements, purpose limitation, data minimisation, retention timelines, user rights handling, breach notification, and penalties. Include best practices for app-based consent flows." Inputs Required from User: Type of user data collected Number of active users Whether data is shared with third parties`
 
 
-Tender Documentation Guides
+# Tender Documentation Guides
 
-Government Supply Tender Submission Guide
+## Government Supply Tender Submission Guide
 
-Backstory:
+`Backstory:`
 
-A manufacturing company in Pune produces eco-friendly office furniture. They’ve spotted a Central Government tender for supplying workstations to a ministry. This is their first time participating in a government e-procurement process, and they’re overwhelmed by the paperwork — EMD, technical bids, financial bids, compliance certificates, and past performance records. They want a clear, step-by-step guide to ensure a flawless submission.
+`A manufacturing company in Pune produces eco-friendly office furniture. They’ve spotted a Central Government tender for supplying workstations to a ministry. This is their first time participating in a government e-procurement process, and they’re overwhelmed by the paperwork — EMD, technical bids, financial bids, compliance certificates, and past performance records. They want a clear, step-by-step guide to ensure a flawless submission.`
 
-Goal:
+`Goal:`
 
-Create a structured tender submission checklist for a first-time government supplier.
+`Create a structured tender submission checklist for a first-time government supplier.`
 
-Prompt:
+`Prompt:`
 
-"You are a government procurement consultant. Draft a step-by-step tender documentation guide for an Indian SME bidding for a central government contract, covering: e-procurement portal registration, document verification, EMD submission, technical bid requirements, financial bid format, compliance certificate preparation, and final submission protocols." Inputs Required from User: Tender issuing department Product/service category Tender value Submission deadline
+`"You are a government procurement consultant. Draft a step-by-step tender documentation guide for an Indian SME bidding for a central government contract, covering: e-procurement portal registration, document verification, EMD submission, technical bid requirements, financial bid format, compliance certificate preparation, and final submission protocols." Inputs Required from User: Tender issuing department Product/service category Tender value Submission deadline`
 
-EPC Project Tender Preparation Guide
+## EPC Project Tender Preparation Guide
 
-Backstory:
+`Backstory:`
 
-A mid-sized engineering firm in Hyderabad is bidding for an EPC (Engineering, Procurement & Construction) project under a state public works department. The tender demands detailed technical drawings, project execution timelines, safety compliance documents, and proof of similar past projects. The project manager needs a documentation template to assemble all requirements.
+`A mid-sized engineering firm in Hyderabad is bidding for an EPC (Engineering, Procurement & Construction) project under a state public works department. The tender demands detailed technical drawings, project execution timelines, safety compliance documents, and proof of similar past projects. The project manager needs a documentation template to assemble all requirements.`
 
-Goal:
+`Goal:`
 
-Create a comprehensive tender document checklist for EPC project bids.
+`Create a comprehensive tender document checklist for EPC project bids.`
 
-Prompt:
+`Prompt:`
 
-"You are a construction tender specialist. Prepare a tender documentation guide for an EPC project bid in India, covering: eligibility documents, technical specifications, execution timelines, resource deployment plans, quality & safety compliance documents, price bid structure, and annexure preparation." Inputs Required from User: Scope of EPC work Past project references Safety certifications held Estimated project duration
+`"You are a construction tender specialist. Prepare a tender documentation guide for an EPC project bid in India, covering: eligibility documents, technical specifications, execution timelines, resource deployment plans, quality & safety compliance documents, price bid structure, and annexure preparation." Inputs Required from User: Scope of EPC work Past project references Safety certifications held Estimated project duration`
 
-Service Outsourcing Tender Bid Guide
+## Service Outsourcing Tender Bid Guide
 
-Backstory:
+`Backstory:`
 
-An IT outsourcing company in Bengaluru is bidding for a municipal corporation’s data digitization project. The tender specifies staff qualification requirements, software security protocols, and service level agreements (SLAs). The business development team needs a clear plan to present their bid professionally and ensure compliance.
+`An IT outsourcing company in Bengaluru is bidding for a municipal corporation’s data digitization project. The tender specifies staff qualification requirements, software security protocols, and service level agreements (SLAs). The business development team needs a clear plan to present their bid professionally and ensure compliance.`
 
-Goal:
+`Goal:`
 
-Create a tender preparation guide for IT outsourcing service providers.
+`Create a tender preparation guide for IT outsourcing service providers.`
 
-Prompt:
+`Prompt:`
 
-"You are an IT procurement advisor. Draft a tender documentation checklist for an outsourcing bid, covering: company profile preparation, SLA drafting, staff qualification proof, cybersecurity compliance documents, pilot project proposal, financial bid format, and submission schedule." Inputs Required from User: Number of staff proposed SLA terms offered Security compliance standards met Project timeline
+`"You are an IT procurement advisor. Draft a tender documentation checklist for an outsourcing bid, covering: company profile preparation, SLA drafting, staff qualification proof, cybersecurity compliance documents, pilot project proposal, financial bid format, and submission schedule." Inputs Required from User: Number of staff proposed SLA terms offered Security compliance standards met Project timeline`
 
-Infrastructure Maintenance Tender Guide
+## Infrastructure Maintenance Tender Guide
 
-Backstory:
+`Backstory:`
 
-A facilities management company in Delhi is bidding for an airport maintenance contract. The tender requires detailed cleaning schedules, equipment maintenance logs, manpower deployment charts, and safety protocols for high-traffic public areas. The operations head wants a standardized template to ensure every document is complete.
+`A facilities management company in Delhi is bidding for an airport maintenance contract. The tender requires detailed cleaning schedules, equipment maintenance logs, manpower deployment charts, and safety protocols for high-traffic public areas. The operations head wants a standardized template to ensure every document is complete.`
 
-Goal:
+`Goal:`
 
-Prepare a maintenance tender documentation checklist for large public infrastructure projects.
+`Prepare a maintenance tender documentation checklist for large public infrastructure projects.`
 
-Prompt:
+`Prompt:`
 
-"You are a facilities contract consultant. Draft a tender documentation guide for an airport maintenance contract, covering: cleaning & maintenance SOPs, manpower rosters, equipment maintenance schedules, safety compliance plans, and cost breakdowns for each service category." Inputs Required from User: Types of maintenance services offered Equipment list Staffing plan Safety certifications
+`"You are a facilities contract consultant. Draft a tender documentation guide for an airport maintenance contract, covering: cleaning & maintenance SOPs, manpower rosters, equipment maintenance schedules, safety compliance plans, and cost breakdowns for each service category." Inputs Required from User: Types of maintenance services offered Equipment list Staffing plan Safety certifications`
 
-Defence Supply Tender Compliance Guide
+## Defence Supply Tender Compliance Guide
 
-Backstory:
+`Backstory:`
 
-A defence equipment supplier in Pune is bidding for a Ministry of Defence contract to supply specialized tactical gear. The tender requires strict adherence to procurement rules, security clearance certificates, and quality testing reports from accredited labs. The company needs a compliance-oriented documentation plan.
+`A defence equipment supplier in Pune is bidding for a Ministry of Defence contract to supply specialized tactical gear. The tender requires strict adherence to procurement rules, security clearance certificates, and quality testing reports from accredited labs. The company needs a compliance-oriented documentation plan.`
 
-Goal:
+`Goal:`
 
-Develop a tender documentation checklist for defence supply contracts.
+`Develop a tender documentation checklist for defence supply contracts.`
 
-Prompt:
+`Prompt:`
 
-"You are a defence procurement compliance expert. Draft a tender documentation guide for supplying tactical equipment to the Ministry of Defence, covering: vendor registration on defence procurement portals, security clearance processes, product quality certification, past performance documentation, and pricing formats." Inputs Required from User: Type of defence gear supplied Quality testing certifications Security clearance status Prior defence contract references
+`"You are a defence procurement compliance expert. Draft a tender documentation guide for supplying tactical equipment to the Ministry of Defence, covering: vendor registration on defence procurement portals, security clearance processes, product quality certification, past performance documentation, and pricing formats." Inputs Required from User: Type of defence gear supplied Quality testing certifications Security clearance status Prior defence contract references`
 
-Healthcare Equipment Supply Tender Guide
+## Healthcare Equipment Supply Tender Guide
 
-Backstory:
+`Backstory:`
 
-A Mumbai-based medical equipment distributor wants to bid for a state government tender to supply ventilators to district hospitals. The tender requires detailed product technical sheets, certifications from medical device regulators, proof of past installations, and service maintenance contracts. Since the healthcare sector is highly regulated, the company must ensure every document meets medical compliance norms.
+`A Mumbai-based medical equipment distributor wants to bid for a state government tender to supply ventilators to district hospitals. The tender requires detailed product technical sheets, certifications from medical device regulators, proof of past installations, and service maintenance contracts. Since the healthcare sector is highly regulated, the company must ensure every document meets medical compliance norms.`
 
-Goal:
+`Goal:`
 
-Prepare a detailed tender documentation checklist for healthcare equipment supply.
+`Prepare a detailed tender documentation checklist for healthcare equipment supply.`
 
-Prompt:
+`Prompt:`
 
-"You are a healthcare procurement consultant. Draft a tender documentation guide for a company supplying ventilators to Indian government hospitals, covering: product technical specification sheets, BIS & CDSCO certifications, proof of past installations, warranty & AMC agreements, delivery schedules, and cost break-up." Inputs Required from User: Type & model of equipment Certifications held (BIS, CDSCO, CE) Past installation references Service & warranty terms
+`"You are a healthcare procurement consultant. Draft a tender documentation guide for a company supplying ventilators to Indian government hospitals, covering: product technical specification sheets, BIS & CDSCO certifications, proof of past installations, warranty & AMC agreements, delivery schedules, and cost break-up." Inputs Required from User: Type & model of equipment Certifications held (BIS, CDSCO, CE) Past installation references Service & warranty terms`
 
-Renewable Energy Project Tender Guide
+## Renewable Energy Project Tender Guide
 
-Backstory:
+`Backstory:`
 
-A solar energy startup in Jaipur is bidding for a government contract to install rooftop solar systems in schools. The tender mandates detailed energy generation projections, safety compliance reports, installation timelines, and financial viability documents. The founders need a step-by-step documentation framework.
+`A solar energy startup in Jaipur is bidding for a government contract to install rooftop solar systems in schools. The tender mandates detailed energy generation projections, safety compliance reports, installation timelines, and financial viability documents. The founders need a step-by-step documentation framework.`
 
-Goal:
+`Goal:`
 
-Create a solar energy project tender preparation guide.
+`Create a solar energy project tender preparation guide.`
 
-Prompt:
+`Prompt:`
 
-"You are a renewable energy tender specialist. Draft a documentation checklist for bidding in a government solar installation project, covering: eligibility criteria, energy output projections, safety compliance reports, technical team profiles, funding & financial stability proofs, installation timelines, and maintenance commitments." Inputs Required from User: Capacity of installation Funding sources Technical team qualifications Safety certifications
+`"You are a renewable energy tender specialist. Draft a documentation checklist for bidding in a government solar installation project, covering: eligibility criteria, energy output projections, safety compliance reports, technical team profiles, funding & financial stability proofs, installation timelines, and maintenance commitments." Inputs Required from User: Capacity of installation Funding sources Technical team qualifications Safety certifications`
 
-NGO Grant Tender Proposal Guide
+## NGO Grant Tender Proposal Guide
 
-Backstory:
+`Backstory:`
 
-A non-profit in Bengaluru focuses on rural education and is applying for a CSR grant tender floated by a PSU. The tender requires a detailed project proposal, impact measurement framework, legal compliance proof under FCRA (if foreign funds involved), and past project success stories.
+`A non-profit in Bengaluru focuses on rural education and is applying for a CSR grant tender floated by a PSU. The tender requires a detailed project proposal, impact measurement framework, legal compliance proof under FCRA (if foreign funds involved), and past project success stories.`
 
-Goal:
+`Goal:`
 
-Prepare a grant tender documentation guide for NGOs.
+`Prepare a grant tender documentation guide for NGOs.`
 
-Prompt:
+`Prompt:`
 
-"You are a non-profit tender consultant. Draft a grant tender preparation guide for an NGO applying for a CSR funding tender, covering: project proposal drafting, budget breakdown, monitoring & evaluation framework, legal compliance documents (FCRA, 12A, 80G), impact case studies, and reporting formats." Inputs Required from User: Nature of project Target beneficiaries Past impact reports Legal compliance documents
+`"You are a non-profit tender consultant. Draft a grant tender preparation guide for an NGO applying for a CSR funding tender, covering: project proposal drafting, budget breakdown, monitoring & evaluation framework, legal compliance documents (FCRA, 12A, 80G), impact case studies, and reporting formats." Inputs Required from User: Nature of project Target beneficiaries Past impact reports Legal compliance documents`
 
-IT Infrastructure Tender Guide
+## IT Infrastructure Tender Guide
 
-Backstory:
+`Backstory:`
 
-An IT hardware company in Noida is bidding for a government project to supply and install servers and networking equipment. The tender requires detailed technical configurations, OEM authorizations, warranty details, and network security compliance documents.
+`An IT hardware company in Noida is bidding for a government project to supply and install servers and networking equipment. The tender requires detailed technical configurations, OEM authorizations, warranty details, and network security compliance documents.`
 
-Goal:
+`Goal:`
 
-Create a tender guide for IT infrastructure supply projects.
+`Create a tender guide for IT infrastructure supply projects.`
 
-Prompt:
+`Prompt:`
 
-"You are an IT procurement advisor. Draft a tender documentation checklist for supplying servers & networking hardware to a government department, covering: technical specification sheets, OEM authorization letters, warranty & AMC terms, installation plans, and security compliance documentation." Inputs Required from User: Type of IT equipment OEM partnership details Installation capabilities Warranty & support terms
+`"You are an IT procurement advisor. Draft a tender documentation checklist for supplying servers & networking hardware to a government department, covering: technical specification sheets, OEM authorization letters, warranty & AMC terms, installation plans, and security compliance documentation." Inputs Required from User: Type of IT equipment OEM partnership details Installation capabilities Warranty & support terms`
 
-Event Management Tender Guide
+## Event Management Tender Guide
 
-Backstory:
+`Backstory:`
 
-An event company in Delhi wants to bid for a state tourism department tender to organize a cultural festival. The tender needs venue plans, artist rosters, stage & lighting specifications, safety arrangements, and financial proposals.
+`An event company in Delhi wants to bid for a state tourism department tender to organize a cultural festival. The tender needs venue plans, artist rosters, stage & lighting specifications, safety arrangements, and financial proposals.`
 
-Goal:
+`Goal:`
 
-Develop a documentation guide for event management tenders.
+`Develop a documentation guide for event management tenders.`
 
-Prompt:
+`Prompt:`
 
-"You are an event tender consultant. Draft a tender documentation checklist for a government cultural festival contract, covering: event concept proposal, venue layout plans, artist & vendor agreements, stage & lighting specs, safety compliance measures, and budget proposals." Inputs Required from User: Event theme & size Venue details Artist/vendor partnerships Safety protocols
+`"You are an event tender consultant. Draft a tender documentation checklist for a government cultural festival contract, covering: event concept proposal, venue layout plans, artist & vendor agreements, stage & lighting specs, safety compliance measures, and budget proposals." Inputs Required from User: Event theme & size Venue details Artist/vendor partnerships Safety protocols`
 
-Public Transport Tender Guide
+## Public Transport Tender Guide
 
-Backstory:
+`Backstory:`
 
-A bus manufacturing company in Chennai is bidding for a municipal corporation tender to supply electric buses. The tender specifies vehicle technical specs, battery performance certifications, charging infrastructure plans, and after-sales service guarantees.
+`A bus manufacturing company in Chennai is bidding for a municipal corporation tender to supply electric buses. The tender specifies vehicle technical specs, battery performance certifications, charging infrastructure plans, and after-sales service guarantees.`
 
-Goal:
+`Goal:`
 
-Prepare a documentation checklist for public transport supply tenders.
+`Prepare a documentation checklist for public transport supply tenders.`
 
-Prompt:
+`Prompt:`
 
-"You are a transport procurement consultant. Draft a tender documentation guide for supplying electric buses, covering: vehicle technical specifications, battery performance certifications, charging infrastructure plans, after-sales service commitments, and cost schedules." Inputs Required from User: Vehicle model & specs Battery supplier details Service center locations Warranty terms
+`"You are a transport procurement consultant. Draft a tender documentation guide for supplying electric buses, covering: vehicle technical specifications, battery performance certifications, charging infrastructure plans, after-sales service commitments, and cost schedules." Inputs Required from User: Vehicle model & specs Battery supplier details Service center locations Warranty terms`
 
-Hospitality Service Tender Guide
+## Hospitality Service Tender Guide
 
-Backstory:
+`Backstory:`
 
-A catering and housekeeping company in Goa is bidding for a tender to manage services at a government guesthouse. The tender asks for manpower deployment plans, food safety certifications, housekeeping SOPs, and equipment lists.
+`A catering and housekeeping company in Goa is bidding for a tender to manage services at a government guesthouse. The tender asks for manpower deployment plans, food safety certifications, housekeeping SOPs, and equipment lists.`
 
-Goal:
+`Goal:`
 
-Create a tender documentation guide for hospitality service contracts.
+`Create a tender documentation guide for hospitality service contracts.`
 
-Prompt:
+`Prompt:`
 
-"You are a hospitality contract consultant. Draft a tender documentation checklist for managing a government guesthouse, covering: staff deployment rosters, FSSAI certifications, housekeeping SOPs, equipment inventory lists, and financial bid formats." Inputs Required from User: Staffing numbers Service scope Certifications held Equipment available
+`"You are a hospitality contract consultant. Draft a tender documentation checklist for managing a government guesthouse, covering: staff deployment rosters, FSSAI certifications, housekeeping SOPs, equipment inventory lists, and financial bid formats." Inputs Required from User: Staffing numbers Service scope Certifications held Equipment available`
 
-Road Construction Tender Guide
+## Road Construction Tender Guide
 
-Backstory:
+`Backstory:`
 
-A civil contractor in Indore wants to bid for a national highway construction project. The tender requires design blueprints, material sourcing details, machinery deployment schedules, and safety compliance plans.
+`A civil contractor in Indore wants to bid for a national highway construction project. The tender requires design blueprints, material sourcing details, machinery deployment schedules, and safety compliance plans.`
 
-Goal:
+`Goal:`
 
-Draft a tender guide for large-scale road construction projects.
+`Draft a tender guide for large-scale road construction projects.`
 
-Prompt:
+`Prompt:`
 
-"You are a civil works tender expert. Draft a tender documentation checklist for highway construction, covering: design blueprints, material sourcing plans, equipment deployment schedules, workforce safety measures, and cost estimates." Inputs Required from User: Project length & scope Material suppliers Machinery availability Workforce safety plans
+`"You are a civil works tender expert. Draft a tender documentation checklist for highway construction, covering: design blueprints, material sourcing plans, equipment deployment schedules, workforce safety measures, and cost estimates." Inputs Required from User: Project length & scope Material suppliers Machinery availability Workforce safety plans`
 
-Water Supply Project Tender Guide
+## Water Supply Project Tender Guide
 
-Backstory:
+`Backstory:`
 
-A water infrastructure company in Ahmedabad is bidding for a state water board tender to install pipelines. The tender demands technical layouts, environmental clearance certificates, and proof of past municipal projects.
+`A water infrastructure company in Ahmedabad is bidding for a state water board tender to install pipelines. The tender demands technical layouts, environmental clearance certificates, and proof of past municipal projects.`
 
-Goal:
+`Goal:`
 
-Create a documentation guide for water supply tenders.
+`Create a documentation guide for water supply tenders.`
 
-Prompt:
+`Prompt:`
 
-"You are an infrastructure procurement consultant. Draft a tender documentation checklist for a water pipeline installation project, covering: technical drawings, environmental clearances, project execution timelines, and quality control protocols." Inputs Required from User: Project area coverage Pipe specifications Environmental impact reports Past project records
+`"You are an infrastructure procurement consultant. Draft a tender documentation checklist for a water pipeline installation project, covering: technical drawings, environmental clearances, project execution timelines, and quality control protocols." Inputs Required from User: Project area coverage Pipe specifications Environmental impact reports Past project records`
 
-Defence Supply Tender Guide
+## Defence Supply Tender Guide
 
-Backstory:
+`Backstory:`
 
-A defence equipment supplier in Pune is bidding for a Ministry of Defence tender to provide tactical communication devices. The tender requires DRDO-approved product specifications, secure communication compliance documents, and proof of defence project experience. The process is highly regulated, with strict submission formats and security clearances.
+`A defence equipment supplier in Pune is bidding for a Ministry of Defence tender to provide tactical communication devices. The tender requires DRDO-approved product specifications, secure communication compliance documents, and proof of defence project experience. The process is highly regulated, with strict submission formats and security clearances.`
 
-Goal:
+`Goal:`
 
-Prepare a tender documentation checklist for defence supply contracts.
+`Prepare a tender documentation checklist for defence supply contracts.`
 
-Prompt:
+`Prompt:`
 
-"You are a defence procurement specialist. Draft a tender documentation guide for supplying tactical communication devices to the Ministry of Defence, covering: DRDO product approval certificates, secure communication compliance documentation, proof of past defence contracts, production capacity statements, and delivery timelines." Inputs Required from User: Product type & specifications Defence clearances held Past defence project records Manufacturing capacity details
+`"You are a defence procurement specialist. Draft a tender documentation guide for supplying tactical communication devices to the Ministry of Defence, covering: DRDO product approval certificates, secure communication compliance documentation, proof of past defence contracts, production capacity statements, and delivery timelines." Inputs Required from User: Product type & specifications Defence clearances held Past defence project records Manufacturing capacity details`
 
-Real Estate Development Tender Guide
+## Real Estate Development Tender Guide
 
-Backstory:
+`Backstory:`
 
-A real estate company in Hyderabad is bidding for a smart city housing project tender. The documentation must include architectural plans, environmental sustainability certifications, construction timelines, and financing proof from banks.
+`A real estate company in Hyderabad is bidding for a smart city housing project tender. The documentation must include architectural plans, environmental sustainability certifications, construction timelines, and financing proof from banks.`
 
-Goal:
+`Goal:`
 
-Draft a tender preparation guide for real estate infrastructure projects.
+`Draft a tender preparation guide for real estate infrastructure projects.`
 
-Prompt:
+`Prompt:`
 
-"You are a real estate procurement advisor. Draft a documentation checklist for bidding on a government housing project, covering: detailed architectural drawings, green building certifications, project financing proofs, construction timelines, and quality control procedures." Inputs Required from User: Number of housing units Sustainability certifications Financing partners Construction capacity
+`"You are a real estate procurement advisor. Draft a documentation checklist for bidding on a government housing project, covering: detailed architectural drawings, green building certifications, project financing proofs, construction timelines, and quality control procedures." Inputs Required from User: Number of housing units Sustainability certifications Financing partners Construction capacity`
 
-Airport Ground Handling Tender Guide
+## Airport Ground Handling Tender Guide
 
-Backstory:
+`Backstory:`
 
-An aviation service company in Delhi is applying for a tender to manage ground handling services at an international airport. The tender demands proof of DGCA approvals, equipment lists, safety training programs, and service quality standards.
+`An aviation service company in Delhi is applying for a tender to manage ground handling services at an international airport. The tender demands proof of DGCA approvals, equipment lists, safety training programs, and service quality standards.`
 
-Goal:
+`Goal:``
 
-Create a tender guide for airport ground handling contracts.
+`Create a tender guide for airport ground handling contracts.`
 
-Prompt:
+`Prompt:`
 
-"You are an aviation service tender consultant. Draft a documentation checklist for an airport ground handling tender, covering: DGCA approvals, equipment inventory, staff training records, service quality KPIs, and safety compliance protocols." Inputs Required from User: Airport name & capacity Ground handling equipment list Staff size & certifications Past airport service contracts
+`"You are an aviation service tender consultant. Draft a documentation checklist for an airport ground handling tender, covering: DGCA approvals, equipment inventory, staff training records, service quality KPIs, and safety compliance protocols." Inputs Required from User: Airport name & capacity Ground handling equipment list Staff size & certifications Past airport service contracts`
 
-Mining Operation Tender Guide
+## Mining Operation Tender Guide
 
-Backstory:
+`Backstory:`
 
-A mining firm in Odisha wants to bid for a government coal mining contract. The tender requires environmental impact assessments, land acquisition approvals, mining safety plans, and heavy equipment deployment schedules.
+`A mining firm in Odisha wants to bid for a government coal mining contract. The tender requires environmental impact assessments, land acquisition approvals, mining safety plans, and heavy equipment deployment schedules.`
 
-Goal:
+`Goal:`
 
-Prepare a tender documentation checklist for mining projects.
+`Prepare a tender documentation checklist for mining projects.`
 
-Prompt:
+`Prompt:`
 
-"You are a mining project tender expert. Draft a documentation checklist for coal mining contracts, covering: environmental clearance certificates, land acquisition documents, mining safety plans, heavy machinery deployment schedules, and workforce training protocols." Inputs Required from User: Type of mineral Mine location & size Machinery available Safety certifications
+`"You are a mining project tender expert. Draft a documentation checklist for coal mining contracts, covering: environmental clearance certificates, land acquisition documents, mining safety plans, heavy machinery deployment schedules, and workforce training protocols." Inputs Required from User: Type of mineral Mine location & size Machinery available Safety certifications`
 
-Telecom Network Expansion Tender Guide
+## Telecom Network Expansion Tender Guide
 
-Backstory:
+`Backstory:`
 
-A telecom company in Gurugram is bidding for a state government tender to expand 5G infrastructure in rural areas. The tender asks for network deployment plans, equipment sourcing details, regulatory compliance proofs, and projected coverage maps.
+`A telecom company in Gurugram is bidding for a state government tender to expand 5G infrastructure in rural areas. The tender asks for network deployment plans, equipment sourcing details, regulatory compliance proofs, and projected coverage maps.`
 
-Goal:
+`Goal:`
 
-Draft a documentation guide for telecom infrastructure tenders.
+`Draft a documentation guide for telecom infrastructure tenders.`
 
-Prompt:
+`Prompt:`
 
-"You are a telecom procurement consultant. Draft a tender documentation checklist for 5G rural network expansion, covering: network rollout plans, vendor equipment certifications, DoT compliance documents, projected coverage maps, and maintenance schedules." Inputs Required from User: Network area coverage target Equipment suppliers DoT compliance status Maintenance strategy
+`"You are a telecom procurement consultant. Draft a tender documentation checklist for 5G rural network expansion, covering: network rollout plans, vendor equipment certifications, DoT compliance documents, projected coverage maps, and maintenance schedules." Inputs Required from User: Network area coverage target Equipment suppliers DoT compliance status Maintenance strategy`
 
-Educational Institution Infrastructure Tender Guide
+## Educational Institution Infrastructure Tender Guide
 
-Backstory:
+`Backstory:`
 
-An architecture firm in Kolkata is applying for a tender to design and build a government university campus. The tender requires master plans, structural safety certifications, project timelines, and budget proposals.
+`An architecture firm in Kolkata is applying for a tender to design and build a government university campus. The tender requires master plans, structural safety certifications, project timelines, and budget proposals.`
 
-Goal:
+`Goal:`
 
-Create a tender guide for educational infrastructure projects.
+`Create a tender guide for educational infrastructure projects.`
 
-Prompt:
+`Prompt:`
 
-"You are an educational infrastructure consultant. Draft a tender documentation checklist for designing and constructing a university campus, covering: master plans, structural safety approvals, green building certifications, phased timelines, and detailed budget estimates." Inputs Required from User: Campus size & facilities Sustainability plans Safety compliance documents Budget breakdown
+`"You are an educational infrastructure consultant. Draft a tender documentation checklist for designing and constructing a university campus, covering: master plans, structural safety approvals, green building certifications, phased timelines, and detailed budget estimates." Inputs Required from User: Campus size & facilities Sustainability plans Safety compliance documents Budget breakdown`
 
-Logistics & Warehousing Tender Guide
+## Logistics & Warehousing Tender Guide
 
-Backstory:
+`Backstory:`
 
-A logistics company in Ahmedabad wants to bid for a central government tender to manage a nationwide warehouse network for food grain storage. The tender includes requirements for storage capacity proofs, temperature control technology, pest management protocols, and delivery schedules.
+`A logistics company in Ahmedabad wants to bid for a central government tender to manage a nationwide warehouse network for food grain storage. The tender includes requirements for storage capacity proofs, temperature control technology, pest management protocols, and delivery schedules.`
 
-Goal:
+`Goal:`
 
-Prepare a tender documentation guide for logistics and warehousing services.
+`Prepare a tender documentation guide for logistics and warehousing services.`
 
-Prompt:
+`Prompt:`
 
-"You are a logistics tender specialist. Draft a documentation checklist for managing government food grain warehouses, covering: storage capacity certifications, temperature & humidity control technology details, pest control SOPs, delivery timelines, and staff deployment plans." Inputs Required from User: Number & size of warehouses Storage tech specifications Pest control vendor details Delivery capabilities
+`"You are a logistics tender specialist. Draft a documentation checklist for managing government food grain warehouses, covering: storage capacity certifications, temperature & humidity control technology details, pest control SOPs, delivery timelines, and staff deployment plans." Inputs Required from User: Number & size of warehouses Storage tech specifications Pest control vendor details Delivery capabilities`
 
-Port & Shipping Tender Guide
+## Port & Shipping Tender Guide
 
-Backstory:
+`Backstory:`
 
-A shipping company in Kochi is bidding for a tender to operate container handling services at a major port. The tender requires equipment capability reports, staff certifications, safety compliance documentation, and cargo handling efficiency metrics.
+`A shipping company in Kochi is bidding for a tender to operate container handling services at a major port. The tender requires equipment capability reports, staff certifications, safety compliance documentation, and cargo handling efficiency metrics.`
 
-Goal:
+`Goal:`
 
-Draft a tender guide for port service contracts.
+`Draft a tender guide for port service contracts.`
 
-Prompt:
+`Prompt:`
 
-"You are a maritime procurement advisor. Draft a tender documentation checklist for operating container handling services, covering: equipment capability reports, safety compliance documentation, crew training records, cargo handling efficiency metrics, and operational cost breakdowns." Inputs Required from User: Port location & capacity Equipment list Crew certifications Safety compliance status
+`"You are a maritime procurement advisor. Draft a tender documentation checklist for operating container handling services, covering: equipment capability reports, safety compliance documentation, crew training records, cargo handling efficiency metrics, and operational cost breakdowns." Inputs Required from User: Port location & capacity Equipment list Crew certifications Safety compliance status`
 
-Public Sanitation Tender Guide
+## Public Sanitation Tender Guide
 
-Backstory:
+`Backstory:`
 
-A facilities management company in Jaipur is bidding for a municipal tender to maintain public toilets across the city. The tender requires cleaning schedules, waste disposal methods, water supply management, and public feedback systems.
+`A facilities management company in Jaipur is bidding for a municipal tender to maintain public toilets across the city. The tender requires cleaning schedules, waste disposal methods, water supply management, and public feedback systems.`
 
-Goal:
+`Goal:`
 
-Prepare a tender documentation checklist for public sanitation projects.
+`Prepare a tender documentation checklist for public sanitation projects.`
 
-Prompt:
+`Prompt:`
 
-"You are a public sanitation tender consultant. Draft a documentation checklist for maintaining public toilets, covering: cleaning & maintenance schedules, waste disposal protocols, water supply arrangements, staff deployment, and grievance redressal mechanisms." Inputs Required from User: Number of facilities Cleaning frequency Waste disposal arrangements Staff details
+`"You are a public sanitation tender consultant. Draft a documentation checklist for maintaining public toilets, covering: cleaning & maintenance schedules, waste disposal protocols, water supply arrangements, staff deployment, and grievance redressal mechanisms." Inputs Required from User: Number of facilities Cleaning frequency Waste disposal arrangements Staff details`
 
-Agriculture Supply Tender Guide
+## Agriculture Supply Tender Guide
 
-Backstory:
+`Backstory:`
 
-A seed supplier in Lucknow is applying for a state agriculture department tender to supply hybrid seeds to farmers. The tender requires seed quality certifications, distribution logistics, farmer training programs, and after-sales support plans.
+`A seed supplier in Lucknow is applying for a state agriculture department tender to supply hybrid seeds to farmers. The tender requires seed quality certifications, distribution logistics, farmer training programs, and after-sales support plans.`
 
-Goal:
+`Goal:`
 
-Draft a tender documentation guide for agriculture supply contracts.
+`Draft a tender documentation guide for agriculture supply contracts.`
 
-Prompt:
+`Prompt:`
 
-"You are an agriculture procurement expert. Draft a tender documentation checklist for supplying hybrid seeds, covering: seed quality certifications, distribution logistics plans, farmer training programs, after-sales support strategies, and payment terms." Inputs Required from User: Seed types & varieties Certification status Distribution network details Training program plans
+`"You are an agriculture procurement expert. Draft a tender documentation checklist for supplying hybrid seeds, covering: seed quality certifications, distribution logistics plans, farmer training programs, after-sales support strategies, and payment terms." Inputs Required from User: Seed types & varieties Certification status Distribution network details Training program plans`
 
-Disaster Management Tender Guide
+## Disaster Management Tender Guide
 
-Backstory:
+`Backstory:`
 
-A relief services company in Patna is bidding for a government tender to supply emergency shelters during floods. The tender needs product durability reports, delivery timelines, disaster response training plans, and post-disaster maintenance commitments.
+`A relief services company in Patna is bidding for a government tender to supply emergency shelters during floods. The tender needs product durability reports, delivery timelines, disaster response training plans, and post-disaster maintenance commitments.`
 
-Goal:
+`Goal:`
 
-Create a tender documentation checklist for disaster management services.
+`Create a tender documentation checklist for disaster management services.`
 
-Prompt:
+`Prompt:`
 
-"You are a disaster management procurement advisor. Draft a tender documentation checklist for supplying flood relief shelters, covering: product durability certifications, rapid deployment timelines, disaster response staff training plans, and post-disaster maintenance commitments." Inputs Required from User: Shelter capacity & specifications Delivery lead time Staff training details Maintenance strategy
+`"You are a disaster management procurement advisor. Draft a tender documentation checklist for supplying flood relief shelters, covering: product durability certifications, rapid deployment timelines, disaster response staff training plans, and post-disaster maintenance commitments." Inputs Required from User: Shelter capacity & specifications Delivery lead time Staff training details Maintenance strategy`
 
 
 Privacy Policy & T&C Generation
