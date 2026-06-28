@@ -336,372 +336,372 @@
 
 `"You are an HR tech benchmarking specialist. Develop a competitor benchmarking report comparing the user’s recruitment platform to 3–4 top competitors. Benchmark AI matching accuracy, resume parsing quality, and recommendation speed. Compare recruiter dashboard features, analytics, and reporting tools. Evaluate employer branding options, candidate engagement, and application drop-off rates. Analyze API integrations with HRMS and ATS software. Suggest 1 employer branding feature and 1 analytics enhancement." Inputs Required: AI feature list Recruiter dashboard screenshots Branding options offered Integration capabilities`
 
-Online Cooking Class Platform vs. Culinary Edtech Leaders
+## Online Cooking Class Platform vs. Culinary Edtech Leaders
 
-Backstory:
+`Backstory:`
 
-Shivani, 30, runs an online platform for live and recorded Indian cooking classes. She wants to benchmark against MasterClass, Skillshare, and Udemy for course quality, chef credentials, monetisation, and global reach.
+`Shivani, 30, runs an online platform for live and recorded Indian cooking classes. She wants to benchmark against MasterClass, Skillshare, and Udemy for course quality, chef credentials, monetisation, and global reach.`
 
-Goal:
+`Goal:`
 
-Benchmark content quality, monetisation, and community engagement in culinary edtech.
+`Benchmark content quality, monetisation, and community engagement in culinary edtech.`
 
-Prompt:
+`Prompt:`
 
-"You are an edtech industry benchmarking consultant. Create a competitor benchmarking report comparing the user’s cooking platform with 3–4 major platforms. Benchmark course quality, video production standards, and chef expertise. Compare monetisation models, pricing tiers, and course bundling strategies. Evaluate global reach, localisation, and multi-language support. Analyze community features, peer review systems, and live Q&A formats. Suggest 1 gamification element and 1 chef collaboration idea." Inputs Required: Course list and pricing Instructor profiles Language support Engagement features
+`"You are an edtech industry benchmarking consultant. Create a competitor benchmarking report comparing the user’s cooking platform with 3–4 major platforms. Benchmark course quality, video production standards, and chef expertise. Compare monetisation models, pricing tiers, and course bundling strategies. Evaluate global reach, localisation, and multi-language support. Analyze community features, peer review systems, and live Q&A formats. Suggest 1 gamification element and 1 chef collaboration idea." Inputs Required: Course list and pricing Instructor profiles Language support Engagement features`
 
 
-Strategic Roadmap Documents
+# Strategic Roadmap Documents
 
-5-Year Digital Transformation Roadmap for a Mid-Sized Manufacturing Company
+## 5-Year Digital Transformation Roadmap for a Mid-Sized Manufacturing Company
 
-Backstory:
+`Backstory:`
 
-Rajeev, 38, is the COO of a mid-sized auto components manufacturer in Pune. The company has been operating with traditional machinery and manual processes for over two decades. Post-pandemic, Rajeev wants to initiate a 5-year digital transformation journey — integrating IoT for machine monitoring, implementing ERP for operations, and adopting predictive maintenance analytics. He also wants a sustainability component in the roadmap to meet new ESG compliance norms.
+`Rajeev, 38, is the COO of a mid-sized auto components manufacturer in Pune. The company has been operating with traditional machinery and manual processes for over two decades. Post-pandemic, Rajeev wants to initiate a 5-year digital transformation journey — integrating IoT for machine monitoring, implementing ERP for operations, and adopting predictive maintenance analytics. He also wants a sustainability component in the roadmap to meet new ESG compliance norms.`
 
-Goal:
+`Goal:`
 
-Create a detailed 5-year roadmap that sequences digital adoption while minimising disruption to production.
+`Create a detailed 5-year roadmap that sequences digital adoption while minimising disruption to production.`
 
-Prompt:
+`Prompt:`
 
-"You are a corporate strategy consultant. Develop a 5-year digital transformation strategic roadmap for a mid-sized manufacturing company. Outline key transformation phases (assessment, adoption, scaling, optimisation). Identify digital tools (IoT sensors, ERP systems, predictive analytics platforms) for each stage. Include change management plans, workforce training, and budget allocation estimates. Incorporate sustainability targets aligned with ESG requirements. Suggest key KPIs and quarterly milestones to track progress." Inputs Required: Current technology stack Production workflow Budget range for digital projects ESG compliance requirements
+`"You are a corporate strategy consultant. Develop a 5-year digital transformation strategic roadmap for a mid-sized manufacturing company. Outline key transformation phases (assessment, adoption, scaling, optimisation). Identify digital tools (IoT sensors, ERP systems, predictive analytics platforms) for each stage. Include change management plans, workforce training, and budget allocation estimates. Incorporate sustainability targets aligned with ESG requirements. Suggest key KPIs and quarterly milestones to track progress." Inputs Required: Current technology stack Production workflow Budget range for digital projects ESG compliance requirements`
 
-Strategic Roadmap for Expanding a Regional EdTech Company into Southeast Asia
+## Strategic Roadmap for Expanding a Regional EdTech Company into Southeast Asia
 
-Backstory:
+`Backstory:`
 
-Meera, 34, runs an EdTech company that offers live skill-based courses for working professionals in India. After 5 years of steady domestic growth, she sees potential in expanding to Southeast Asian markets like Indonesia, Malaysia, and Vietnam. However, she needs a 3-year roadmap covering localisation, partnerships, regulatory approvals, and marketing rollout in phases.
+`Meera, 34, runs an EdTech company that offers live skill-based courses for working professionals in India. After 5 years of steady domestic growth, she sees potential in expanding to Southeast Asian markets like Indonesia, Malaysia, and Vietnam. However, she needs a 3-year roadmap covering localisation, partnerships, regulatory approvals, and marketing rollout in phases.`
 
-Goal:
+`Goal:`
 
-Design a market expansion roadmap for entry into three new countries within three years.
+`Design a market expansion roadmap for entry into three new countries within three years.`
 
-Prompt:
+`Prompt:`
 
-"You are an international business expansion strategist. Prepare a 3-year strategic roadmap for expanding an Indian EdTech company into Southeast Asia. Identify market research and validation activities for each country. Map localisation requirements — language, curriculum adaptation, cultural alignment. Outline regulatory approval processes and partnership strategies with local institutions. Phase marketing and influencer collaborations according to market readiness. Provide quarterly action plans and resource allocation guidelines." Inputs Required: Current course offerings Market research data Potential local partners Budget range for expansion
+`"You are an international business expansion strategist. Prepare a 3-year strategic roadmap for expanding an Indian EdTech company into Southeast Asia. Identify market research and validation activities for each country. Map localisation requirements — language, curriculum adaptation, cultural alignment. Outline regulatory approval processes and partnership strategies with local institutions. Phase marketing and influencer collaborations according to market readiness. Provide quarterly action plans and resource allocation guidelines." Inputs Required: Current course offerings Market research data Potential local partners Budget range for expansion`
 
-Strategic Roadmap for Achieving Carbon Neutrality by 2030
+## Strategic Roadmap for Achieving Carbon Neutrality by 2030
 
-Backstory:
+`Backstory:`
 
-An FMCG company based in Bengaluru has committed to becoming carbon-neutral by 2030. Their operations involve multiple manufacturing plants, a large supply chain network, and significant energy usage. Leadership wants a step-by-step plan that integrates renewable energy, sustainable sourcing, waste reduction, and carbon offsetting projects.
+`An FMCG company based in Bengaluru has committed to becoming carbon-neutral by 2030. Their operations involve multiple manufacturing plants, a large supply chain network, and significant energy usage. Leadership wants a step-by-step plan that integrates renewable energy, sustainable sourcing, waste reduction, and carbon offsetting projects.`
 
-Goal:
+`Goal:`
 
-Build a long-term sustainability roadmap with measurable yearly progress towards carbon neutrality.
+`Build a long-term sustainability roadmap with measurable yearly progress towards carbon neutrality.`
 
-Prompt:
+`Prompt:`
 
-"You are a sustainability strategy consultant. Develop a strategic roadmap for an FMCG company to achieve carbon neutrality by 2030. Conduct baseline carbon footprint assessment. Identify high-impact interventions (renewable energy, efficiency upgrades, supplier sustainability audits). Map yearly milestones with percentage reduction targets. Integrate stakeholder engagement and consumer communication strategies. Suggest measurement tools and third-party verification methods." Inputs Required: Carbon footprint baseline Energy and supply chain data Budget for sustainability projects Public communication goals
+`"You are a sustainability strategy consultant. Develop a strategic roadmap for an FMCG company to achieve carbon neutrality by 2030. Conduct baseline carbon footprint assessment. Identify high-impact interventions (renewable energy, efficiency upgrades, supplier sustainability audits). Map yearly milestones with percentage reduction targets. Integrate stakeholder engagement and consumer communication strategies. Suggest measurement tools and third-party verification methods." Inputs Required: Carbon footprint baseline Energy and supply chain data Budget for sustainability projects Public communication goals`
 
-Strategic Roadmap for Merging Two Mid-Sized Tech Startups
+## Strategic Roadmap for Merging Two Mid-Sized Tech Startups
 
-Backstory:
+`Backstory:`
 
-Two SaaS startups in Mumbai — one specialising in HR tech and the other in payroll automation — have decided to merge to create a unified workforce management platform. The founders want a 24-month roadmap that covers product integration, brand unification, team restructuring, and investor communication without losing existing customers.
+`Two SaaS startups in Mumbai — one specialising in HR tech and the other in payroll automation — have decided to merge to create a unified workforce management platform. The founders want a 24-month roadmap that covers product integration, brand unification, team restructuring, and investor communication without losing existing customers.`
 
-Goal:
+`Goal:`
 
-Create a merger integration roadmap that balances operational efficiency with customer retention.
+`Create a merger integration roadmap that balances operational efficiency with customer retention.`
 
-Prompt:
+`Prompt:`
 
-"You are a mergers and acquisitions integration consultant. Prepare a 24-month strategic roadmap for merging two mid-sized SaaS startups. Outline integration phases (due diligence, tech integration, brand merge, cultural alignment). Create customer communication timelines to maintain trust during the transition. Identify overlapping roles and restructure teams. Align product roadmaps to avoid redundancy and accelerate innovation. Suggest investor update cadence and PR milestones." Inputs Required: Current product features from both companies Team structures Customer base details Merger deal terms
+`"You are a mergers and acquisitions integration consultant. Prepare a 24-month strategic roadmap for merging two mid-sized SaaS startups. Outline integration phases (due diligence, tech integration, brand merge, cultural alignment). Create customer communication timelines to maintain trust during the transition. Identify overlapping roles and restructure teams. Align product roadmaps to avoid redundancy and accelerate innovation. Suggest investor update cadence and PR milestones." Inputs Required: Current product features from both companies Team structures Customer base details Merger deal terms`
 
-Strategic Roadmap for Launching a D2C Skincare Brand
+## Strategic Roadmap for Launching a D2C Skincare Brand
 
-Backstory:
+`Backstory:`
 
-Anita, 30, is a dermatologist who wants to launch her own premium natural skincare line. She envisions starting online in India, then expanding to offline retail. She needs a 2-year roadmap for product development, regulatory compliance, influencer partnerships, and distribution strategy.
+`Anita, 30, is a dermatologist who wants to launch her own premium natural skincare line. She envisions starting online in India, then expanding to offline retail. She needs a 2-year roadmap for product development, regulatory compliance, influencer partnerships, and distribution strategy.`
 
-Goal:
+`Goal:`
 
-Map the product launch journey from concept to omnichannel distribution.
+`Map the product launch journey from concept to omnichannel distribution.`
 
-Prompt:
+`Prompt:`
 
-"You are a consumer goods launch strategist. Create a 2-year strategic roadmap for launching a premium D2C skincare brand. Detail product R&D, formulation testing, and certification timelines. Outline branding, packaging, and storytelling milestones. Plan influencer onboarding and content creation phases. Map e-commerce platform selection, fulfilment setup, and retail expansion sequence. Provide KPIs for launch success and brand awareness growth." Inputs Required: Product formulations Budget for R&D and marketing Target audience personas Preferred sales channels
+`"You are a consumer goods launch strategist. Create a 2-year strategic roadmap for launching a premium D2C skincare brand. Detail product R&D, formulation testing, and certification timelines. Outline branding, packaging, and storytelling milestones. Plan influencer onboarding and content creation phases. Map e-commerce platform selection, fulfilment setup, and retail expansion sequence. Provide KPIs for launch success and brand awareness growth." Inputs Required: Product formulations Budget for R&D and marketing Target audience personas Preferred sales channels`
 
-Strategic Roadmap for Becoming a Market Leader in Electric Two-Wheelers
+## Strategic Roadmap for Becoming a Market Leader in Electric Two-Wheelers
 
-Backstory:
+`Backstory:`
 
-A Bengaluru-based EV startup has gained traction with its affordable electric scooters. To challenge Ola Electric and Ather, they need a 5-year roadmap to scale manufacturing, expand charging infrastructure, and launch premium models.
+`A Bengaluru-based EV startup has gained traction with its affordable electric scooters. To challenge Ola Electric and Ather, they need a 5-year roadmap to scale manufacturing, expand charging infrastructure, and launch premium models.`
 
-Goal:
+`Goal:`
 
-Create a leadership-focused growth roadmap for an EV manufacturer.
+`Create a leadership-focused growth roadmap for an EV manufacturer.`
 
-Prompt:
+`Prompt:`
 
-"You are an automotive strategy consultant. Develop a 5-year strategic roadmap for an EV two-wheeler startup to become a market leader. Map capacity expansion targets for each year. Identify charging infrastructure partnerships and roll-out schedule. Plan R&D for premium models and feature innovation. Detail geographic expansion priorities (domestic & export). Define brand positioning campaigns and EV adoption advocacy efforts." Inputs Required: Current production capacity Product roadmap Target cities for expansion R&D budget
+`"You are an automotive strategy consultant. Develop a 5-year strategic roadmap for an EV two-wheeler startup to become a market leader. Map capacity expansion targets for each year. Identify charging infrastructure partnerships and roll-out schedule. Plan R&D for premium models and feature innovation. Detail geographic expansion priorities (domestic & export). Define brand positioning campaigns and EV adoption advocacy efforts." Inputs Required: Current production capacity Product roadmap Target cities for expansion R&D budget`
 
-Strategic Roadmap for IPO Preparation in 3 Years
+## Strategic Roadmap for IPO Preparation in 3 Years
 
-Backstory:
+`Backstory:`
 
-A profitable SaaS firm in Gurugram aims to list on the NSE in three years. While the financials are strong, they need to align governance, scale revenue, diversify clientele, and tighten compliance to meet listing requirements.
+`A profitable SaaS firm in Gurugram aims to list on the NSE in three years. While the financials are strong, they need to align governance, scale revenue, diversify clientele, and tighten compliance to meet listing requirements.`
 
-Goal:
+`Goal:`
 
-Build a 3-year IPO readiness roadmap.
+`Build a 3-year IPO readiness roadmap.`
 
-Prompt:
+`Prompt:`
 
-"You are a corporate finance strategist. Create a 3-year strategic roadmap for preparing a SaaS company for IPO. Define quarterly revenue growth targets and client diversification plans. Outline governance improvements (board structure, audit committees). Identify compliance upgrades to meet SEBI regulations. Plan investor relations strategy and pre-IPO marketing. Suggest key documentation and reporting templates." Inputs Required: Current financials Governance structure Compliance gaps Target IPO valuation
+`"You are a corporate finance strategist. Create a 3-year strategic roadmap for preparing a SaaS company for IPO. Define quarterly revenue growth targets and client diversification plans. Outline governance improvements (board structure, audit committees). Identify compliance upgrades to meet SEBI regulations. Plan investor relations strategy and pre-IPO marketing. Suggest key documentation and reporting templates." Inputs Required: Current financials Governance structure Compliance gaps Target IPO valuation`
 
-Strategic Roadmap for Building a Circular Economy Model
+## Strategic Roadmap for Building a Circular Economy Model
 
-Backstory:
+`Backstory:`
 
-A home appliances manufacturer wants to transition to a circular economy model — focusing on product repairability, component reuse, and recycling programs. They need a 4-year phased plan to integrate this into their operations and brand messaging.
+`A home appliances manufacturer wants to transition to a circular economy model — focusing on product repairability, component reuse, and recycling programs. They need a 4-year phased plan to integrate this into their operations and brand messaging.`
 
-Goal:
+`Goal:`
 
-Create a circular economy adoption roadmap with measurable impact.
+`Create a circular economy adoption roadmap with measurable impact.`
 
-Prompt:
+`Prompt:`
 
-"You are a sustainability and manufacturing consultant. Develop a 4-year strategic roadmap for adopting a circular economy model. Identify product design changes for repairability and modularity. Map reverse logistics for returns and recycling. Plan customer incentive programs for product take-back. Integrate sustainability metrics into annual reports. Suggest partnerships with recycling firms and eco-certification bodies." Inputs Required: Current product range Supply chain partners Budget for redesign Recycling options
+`"You are a sustainability and manufacturing consultant. Develop a 4-year strategic roadmap for adopting a circular economy model. Identify product design changes for repairability and modularity. Map reverse logistics for returns and recycling. Plan customer incentive programs for product take-back. Integrate sustainability metrics into annual reports. Suggest partnerships with recycling firms and eco-certification bodies." Inputs Required: Current product range Supply chain partners Budget for redesign Recycling options`
 
-Strategic Roadmap for Establishing a Corporate Innovation Lab
+## Strategic Roadmap for Establishing a Corporate Innovation Lab
 
-Backstory:
+`Backstory:`
 
-A large bank wants to set up an in-house innovation lab to develop fintech solutions. The CEO wants a 3-year plan to identify talent, set up infrastructure, partner with startups, and integrate successful pilots into core banking operations.
+`A large bank wants to set up an in-house innovation lab to develop fintech solutions. The CEO wants a 3-year plan to identify talent, set up infrastructure, partner with startups, and integrate successful pilots into core banking operations.`
 
-Goal:
+`Goal:`
 
-Build an innovation lab roadmap with clear deliverables and integration process.
+`Build an innovation lab roadmap with clear deliverables and integration process.`
 
-Prompt:
+`Prompt:`
 
-"You are a corporate innovation strategist. Create a 3-year strategic roadmap for setting up and scaling a bank’s innovation lab. Define talent acquisition strategy (internal transfers & external hires). Outline lab infrastructure and tech requirements. Plan startup scouting, accelerator programs, and POC development cycles. Map KPIs for pilot success and integration timelines. Recommend governance and budget allocation practices." Inputs Required: Innovation focus areas Available space & infrastructure Budget range Existing startup partnerships
+`"You are a corporate innovation strategist. Create a 3-year strategic roadmap for setting up and scaling a bank’s innovation lab. Define talent acquisition strategy (internal transfers & external hires). Outline lab infrastructure and tech requirements. Plan startup scouting, accelerator programs, and POC development cycles. Map KPIs for pilot success and integration timelines. Recommend governance and budget allocation practices." Inputs Required: Innovation focus areas Available space & infrastructure Budget range Existing startup partnerships`
 
-Strategic Roadmap for Non-Profit Expansion into Tier-2 Cities
+## Strategic Roadmap for Non-Profit Expansion into Tier-2 Cities
 
-Backstory:
+`Backstory:`
 
-An NGO working on women’s digital literacy in metro cities wants to expand into Tier-2 cities over the next 5 years. They need a roadmap that covers program adaptation, local partner onboarding, fundraising, and impact measurement.
+`An NGO working on women’s digital literacy in metro cities wants to expand into Tier-2 cities over the next 5 years. They need a roadmap that covers program adaptation, local partner onboarding, fundraising, and impact measurement.`
 
-Goal:
+`Goal:`
 
-Plan an impact-driven growth roadmap for non-profit expansion.
+`Plan an impact-driven growth roadmap for non-profit expansion.`
 
-Prompt:
+`Prompt:`
 
-"You are a non-profit growth strategist. Develop a 5-year strategic roadmap for expanding women’s digital literacy programs into Tier-2 cities. Map needs assessment and curriculum adaptation for rural contexts. Identify local NGOs, community leaders, and influencers for partnerships. Plan phased rollout and resource allocation by region. Integrate fundraising milestones and grant application cycles. Define monitoring and evaluation frameworks for impact measurement." Inputs Required: Current program curriculum Partner database Funding sources Target cities list
+`"You are a non-profit growth strategist. Develop a 5-year strategic roadmap for expanding women’s digital literacy programs into Tier-2 cities. Map needs assessment and curriculum adaptation for rural contexts. Identify local NGOs, community leaders, and influencers for partnerships. Plan phased rollout and resource allocation by region. Integrate fundraising milestones and grant application cycles. Define monitoring and evaluation frameworks for impact measurement." Inputs Required: Current program curriculum Partner database Funding sources Target cities list`
 
-Strategic Roadmap for Digitising a Traditional Retail Chain
+## Strategic Roadmap for Digitising a Traditional Retail Chain
 
-Backstory:
+`Backstory:`
 
-Kavita, 42, owns a family-run retail chain of 35 stores selling apparel in Gujarat. Sales have plateaued due to the rise of e-commerce giants. She wants to go omnichannel — introducing an online store, integrating POS systems, and enabling real-time inventory management. She needs a 3-year roadmap that transitions her business without losing loyal in-store customers.
+`Kavita, 42, owns a family-run retail chain of 35 stores selling apparel in Gujarat. Sales have plateaued due to the rise of e-commerce giants. She wants to go omnichannel — introducing an online store, integrating POS systems, and enabling real-time inventory management. She needs a 3-year roadmap that transitions her business without losing loyal in-store customers.`
 
-Goal:
+`Goal:`
 
-Create an omnichannel adoption roadmap for a traditional retail chain.
+`Create an omnichannel adoption roadmap for a traditional retail chain.`
 
-Prompt:
+`Prompt:`
 
-"You are a retail transformation strategist. Develop a 3-year strategic roadmap for digitising a traditional apparel retail chain. Map key technology adoption phases (POS integration, e-commerce launch, CRM setup). Outline staff training plans for tech adoption. Create marketing campaigns for encouraging in-store customers to shop online. Plan inventory sync across online and offline channels. Suggest KPIs for customer retention and sales growth." Inputs Required: Store locations Current tech systems Marketing budget Customer demographics
+`"You are a retail transformation strategist. Develop a 3-year strategic roadmap for digitising a traditional apparel retail chain. Map key technology adoption phases (POS integration, e-commerce launch, CRM setup). Outline staff training plans for tech adoption. Create marketing campaigns for encouraging in-store customers to shop online. Plan inventory sync across online and offline channels. Suggest KPIs for customer retention and sales growth." Inputs Required: Store locations Current tech systems Marketing budget Customer demographics`
 
-Strategic Roadmap for Global Supply Chain Risk Mitigation
+## Strategic Roadmap for Global Supply Chain Risk Mitigation
 
-Backstory:
+`Backstory:`
 
-A mid-sized electronics exporter faced severe delays during the pandemic due to overdependence on Chinese suppliers. The CEO now wants a 4-year plan to diversify suppliers, strengthen local manufacturing, and implement predictive risk monitoring systems.
+`A mid-sized electronics exporter faced severe delays during the pandemic due to overdependence on Chinese suppliers. The CEO now wants a 4-year plan to diversify suppliers, strengthen local manufacturing, and implement predictive risk monitoring systems.`
 
-Goal:
+`Goal:`
 
-Design a risk-resilient supply chain roadmap.
+`Design a risk-resilient supply chain roadmap.`
 
-Prompt:
+`Prompt:`
 
-"You are a global supply chain strategist. Prepare a 4-year strategic roadmap to mitigate supplier risk. Identify supplier diversification targets and potential sourcing geographies. Plan local manufacturing capabilities and timelines. Recommend digital supply chain monitoring tools. Map contingency planning for geopolitical or climate disruptions. Define cost-benefit analysis for diversification vs. local sourcing." Inputs Required: Current supplier list Annual procurement volume Budget for localisation Risk tolerance level
+`"You are a global supply chain strategist. Prepare a 4-year strategic roadmap to mitigate supplier risk. Identify supplier diversification targets and potential sourcing geographies. Plan local manufacturing capabilities and timelines. Recommend digital supply chain monitoring tools. Map contingency planning for geopolitical or climate disruptions. Define cost-benefit analysis for diversification vs. local sourcing." Inputs Required: Current supplier list Annual procurement volume Budget for localisation Risk tolerance level`
 
-Strategic Roadmap for Entering the Luxury Hospitality Sector
+## Strategic Roadmap for Entering the Luxury Hospitality Sector
 
-Backstory:
+`Backstory:`
 
-A real estate developer in Goa wants to diversify into luxury resorts. They have prime beachfront land but no experience in hospitality. They want a 5-year plan that covers design, brand positioning, partnerships with global operators, and soft launch before scaling.
+`A real estate developer in Goa wants to diversify into luxury resorts. They have prime beachfront land but no experience in hospitality. They want a 5-year plan that covers design, brand positioning, partnerships with global operators, and soft launch before scaling.`
 
-Goal:
+`Goal:`
 
-Create a market entry roadmap into luxury hospitality.
+`Create a market entry roadmap into luxury hospitality.`
 
-Prompt:
+`Prompt:`
 
-"You are a hospitality strategy consultant. Develop a 5-year roadmap for entering the luxury resort market. Plan property design and construction timelines. Identify luxury hospitality partners and brand licensing options. Map pre-opening marketing campaigns targeting global travellers. Outline phased launch strategy — soft launch, feedback, grand opening. Suggest key guest experience KPIs." Inputs Required: Land size and location details Budget for construction and branding Target guest profiles Preferred global operators
+`"You are a hospitality strategy consultant. Develop a 5-year roadmap for entering the luxury resort market. Plan property design and construction timelines. Identify luxury hospitality partners and brand licensing options. Map pre-opening marketing campaigns targeting global travellers. Outline phased launch strategy — soft launch, feedback, grand opening. Suggest key guest experience KPIs." Inputs Required: Land size and location details Budget for construction and branding Target guest profiles Preferred global operators`
 
-Strategic Roadmap for Transforming into a SaaS-Based Model
+## Strategic Roadmap for Transforming into a SaaS-Based Model
 
-Backstory:
+`Backstory:`
 
-A B2B software company in Chennai currently sells on-premise HR software. With competition moving to SaaS, the CEO wants to transition in 3 years without losing current enterprise clients. The roadmap must balance migration, product upgrades, and new revenue models.
+`A B2B software company in Chennai currently sells on-premise HR software. With competition moving to SaaS, the CEO wants to transition in 3 years without losing current enterprise clients. The roadmap must balance migration, product upgrades, and new revenue models.`
 
-Goal:
+`Goal:`
 
-Design a SaaS migration roadmap.
+`Design a SaaS migration roadmap.`
 
-Prompt:
+`Prompt:`
 
-"You are a software transformation strategist. Develop a 3-year strategic roadmap for transitioning from on-premise to SaaS. Define migration stages and client onboarding sequences. Plan backend infrastructure upgrades for scalability. Outline subscription pricing models and upsell opportunities. Create customer success programs to reduce churn. Suggest KPIs for SaaS adoption rate." Inputs Required: Current software architecture Number of enterprise clients Budget for cloud infrastructure Target SaaS pricing range
+`"You are a software transformation strategist. Develop a 3-year strategic roadmap for transitioning from on-premise to SaaS. Define migration stages and client onboarding sequences. Plan backend infrastructure upgrades for scalability. Outline subscription pricing models and upsell opportunities. Create customer success programs to reduce churn. Suggest KPIs for SaaS adoption rate." Inputs Required: Current software architecture Number of enterprise clients Budget for cloud infrastructure Target SaaS pricing range`
 
-Strategic Roadmap for Building a Franchise Network
+## Strategic Roadmap for Building a Franchise Network
 
-Backstory:
+`Backstory:`
 
-A popular quick-service restaurant in Delhi wants to expand nationally through franchising. The founders need a 4-year plan to develop franchise packages, train franchisees, ensure quality control, and build brand consistency.
+`A popular quick-service restaurant in Delhi wants to expand nationally through franchising. The founders need a 4-year plan to develop franchise packages, train franchisees, ensure quality control, and build brand consistency.`
 
-Goal:
+`Goal:`
 
-Create a scalable franchise growth roadmap.
+`Create a scalable franchise growth roadmap.`
 
-Prompt:
+`Prompt:`
 
-"You are a franchise development consultant. Prepare a 4-year roadmap for building a national franchise network. Define franchise models and fee structures. Develop franchisee training programs and operational manuals. Plan regional marketing and brand standardisation efforts. Map franchise territory allocation and expansion pace. Suggest monitoring systems for franchisee performance." Inputs Required: Current outlet performance Menu standardisation readiness Marketing budget Expansion priority cities
+`"You are a franchise development consultant. Prepare a 4-year roadmap for building a national franchise network. Define franchise models and fee structures. Develop franchisee training programs and operational manuals. Plan regional marketing and brand standardisation efforts. Map franchise territory allocation and expansion pace. Suggest monitoring systems for franchisee performance." Inputs Required: Current outlet performance Menu standardisation readiness Marketing budget Expansion priority cities`
 
-Strategic Roadmap for Diversifying Revenue Streams
+## Strategic Roadmap for Diversifying Revenue Streams
 
-Backstory:
+`Backstory:`
 
-A fitness startup in Bengaluru currently depends on in-person training revenue. Post-pandemic, they want to diversify into online fitness classes, merchandise, and nutrition consulting. They need a 2-year plan to phase in new revenue streams without overwhelming operations.
+`A fitness startup in Bengaluru currently depends on in-person training revenue. Post-pandemic, they want to diversify into online fitness classes, merchandise, and nutrition consulting. They need a 2-year plan to phase in new revenue streams without overwhelming operations.`
 
-Goal:
+`Goal:`
 
-Design a revenue diversification roadmap.
+`Design a revenue diversification roadmap.`
 
-Prompt:
+`Prompt:`
 
-"You are a business diversification consultant. Create a 2-year strategic roadmap for adding new revenue streams to a fitness business. Prioritise revenue streams by ROI and operational feasibility. Plan product/service launches in sequential quarters. Identify cross-selling opportunities to existing customers. Allocate marketing resources per new stream. Track revenue contribution from each stream." Inputs Required: Current customer base size Available trainers/nutritionists Product sourcing options Budget for digital marketing
+`"You are a business diversification consultant. Create a 2-year strategic roadmap for adding new revenue streams to a fitness business. Prioritise revenue streams by ROI and operational feasibility. Plan product/service launches in sequential quarters. Identify cross-selling opportunities to existing customers. Allocate marketing resources per new stream. Track revenue contribution from each stream." Inputs Required: Current customer base size Available trainers/nutritionists Product sourcing options Budget for digital marketing`
 
-Strategic Roadmap for Scaling a Fintech Startup
+## Strategic Roadmap for Scaling a Fintech Startup
 
-Backstory:
+`Backstory:`
 
-A UPI-based lending app serving college students in India has hit 1 million downloads. Investors now want the startup to expand into small business lending and credit cards. They need a 3-year plan to handle regulatory compliance, risk management, and tech scaling.
+`A UPI-based lending app serving college students in India has hit 1 million downloads. Investors now want the startup to expand into small business lending and credit cards. They need a 3-year plan to handle regulatory compliance, risk management, and tech scaling.`
 
-Goal:
+`Goal:`
 
-Build a fintech scaling roadmap.
+`Build a fintech scaling roadmap.`
 
-Prompt:
+`Prompt:`
 
-"You are a fintech growth strategist. Develop a 3-year strategic roadmap for scaling a lending app into new product lines. Map product launch sequence (SME loans, credit cards). Outline RBI compliance requirements for each. Plan tech stack upgrades for higher transaction volumes. Create customer segmentation and targeting strategies. Suggest KPIs for market penetration." Inputs Required: Current transaction volume Regulatory licenses held Funding availability Customer data analytics
+`"You are a fintech growth strategist. Develop a 3-year strategic roadmap for scaling a lending app into new product lines. Map product launch sequence (SME loans, credit cards). Outline RBI compliance requirements for each. Plan tech stack upgrades for higher transaction volumes. Create customer segmentation and targeting strategies. Suggest KPIs for market penetration." Inputs Required: Current transaction volume Regulatory licenses held Funding availability Customer data analytics`
 
-Strategic Roadmap for Cultural Transformation in a Legacy Company
+## Strategic Roadmap for Cultural Transformation in a Legacy Company
 
-Backstory:
+`Backstory:`
 
-A 50-year-old textile company in Surat is struggling to attract young talent. The leadership wants to modernise workplace culture by introducing flexible work, performance-based rewards, and leadership development programs over 3 years.
+`A 50-year-old textile company in Surat is struggling to attract young talent. The leadership wants to modernise workplace culture by introducing flexible work, performance-based rewards, and leadership development programs over 3 years.`
 
-Goal:
+`Goal:`
 
-Plan a cultural transformation roadmap.
+`Plan a cultural transformation roadmap.`
 
-Prompt:
+`Prompt:`
 
-"You are an organisational culture consultant. Create a 3-year roadmap for cultural transformation in a legacy company. Assess current cultural barriers through surveys and focus groups. Plan leadership development and change agent programs. Implement flexible work policies and modern HR practices. Monitor cultural shift using engagement metrics. Integrate transformation stories into employer branding." Inputs Required: Employee engagement scores HR policy documents Budget for training programs Talent attraction goals
+`"You are an organisational culture consultant. Create a 3-year roadmap for cultural transformation in a legacy company. Assess current cultural barriers through surveys and focus groups. Plan leadership development and change agent programs. Implement flexible work policies and modern HR practices. Monitor cultural shift using engagement metrics. Integrate transformation stories into employer branding." Inputs Required: Employee engagement scores HR policy documents Budget for training programs Talent attraction goals`
 
-Strategic Roadmap for Expanding into E-Commerce Aggregator Platforms
+## Strategic Roadmap for Expanding into E-Commerce Aggregator Platforms
 
-Backstory:
+`Backstory:`
 
-A D2C home décor brand wants to expand sales by listing on multiple e-commerce aggregator platforms like Amazon, Flipkart, and Meesho. They need a 12-month roadmap for onboarding, catalog optimisation, and running targeted ads on each platform.
+`A D2C home décor brand wants to expand sales by listing on multiple e-commerce aggregator platforms like Amazon, Flipkart, and Meesho. They need a 12-month roadmap for onboarding, catalog optimisation, and running targeted ads on each platform.`
 
-Goal:
+`Goal:`
 
-Create a marketplace expansion roadmap.
+`Create a marketplace expansion roadmap.`
 
-Prompt:
+`Prompt:`
 
-"You are an e-commerce growth strategist. Develop a 12-month roadmap for expanding onto aggregator platforms. Prioritise platforms based on audience match. Plan SKU optimisation and keyword-rich listings. Map ad budget allocation per platform. Define performance tracking dashboards. Suggest seasonal campaign ideas." Inputs Required: Current product catalog Brand photography Monthly ad budget Sales targets
+`"You are an e-commerce growth strategist. Develop a 12-month roadmap for expanding onto aggregator platforms. Prioritise platforms based on audience match. Plan SKU optimisation and keyword-rich listings. Map ad budget allocation per platform. Define performance tracking dashboards. Suggest seasonal campaign ideas." Inputs Required: Current product catalog Brand photography Monthly ad budget Sales targets`
 
-Strategic Roadmap for MNC Entry into Indian Renewable Energy Market
+## Strategic Roadmap for MNC Entry into Indian Renewable Energy Market
 
-Backstory:
+`Backstory:`
 
-A European renewable energy company wants to enter the Indian market by setting up solar farms. They require a 5-year plan covering regulatory approvals, land acquisition, local partnerships, and financing structures.
+`A European renewable energy company wants to enter the Indian market by setting up solar farms. They require a 5-year plan covering regulatory approvals, land acquisition, local partnerships, and financing structures.`
 
-Goal:
+`Goal:`
 
-Design a market entry roadmap for renewable energy.
+`Design a market entry roadmap for renewable energy.`
 
-Prompt:
+`Prompt:`
 
-"You are an energy sector strategist. Create a 5-year roadmap for entering India’s renewable energy market. Identify high-potential states for solar projects. Map land acquisition and clearance timelines. Outline partnership opportunities with local EPC firms. Detail financing options and government incentives. Suggest public relations strategies to position as a sustainable brand." Inputs Required: Target investment size Preferred project capacity Technology type (PV, CSP) Market entry deadline
+`"You are an energy sector strategist. Create a 5-year roadmap for entering India’s renewable energy market. Identify high-potential states for solar projects. Map land acquisition and clearance timelines. Outline partnership opportunities with local EPC firms. Detail financing options and government incentives. Suggest public relations strategies to position as a sustainable brand." Inputs Required: Target investment size Preferred project capacity Technology type (PV, CSP) Market entry deadline`
 
-Strategic Roadmap for Turning a Side Hustle into a Scalable Business
+## Strategic Roadmap for Turning a Side Hustle into a Scalable Business
 
-Backstory:
+`Backstory:`
 
-A 28-year-old content creator in Pune has been running a side hustle selling customised stationery online for three years, earning about ₹4 lakh annually. She now wants to turn it into a full-time venture, scaling production, expanding product lines, and building a distribution network. She needs a 2-year plan that balances risk, finances, and gradual brand building.
+`A 28-year-old content creator in Pune has been running a side hustle selling customised stationery online for three years, earning about ₹4 lakh annually. She now wants to turn it into a full-time venture, scaling production, expanding product lines, and building a distribution network. She needs a 2-year plan that balances risk, finances, and gradual brand building.`
 
-Goal:
+`Goal:`
 
-Develop a growth roadmap for scaling a passion project into a business.
+`Develop a growth roadmap for scaling a passion project into a business.`
 
-Prompt:
+`Prompt:`
 
-"You are a small business scaling strategist. Create a 2-year roadmap for turning a stationery side hustle into a scalable brand. Outline production capacity expansion options (outsourcing vs. in-house). Plan new product line launches by quarter. Map marketing campaigns to increase brand awareness. Define key financial milestones (breakeven, profit margin targets). Suggest partnership or retail tie-up opportunities." Inputs Required: Current sales data Manufacturing capabilities Marketing budget Target revenue goal
+`"You are a small business scaling strategist. Create a 2-year roadmap for turning a stationery side hustle into a scalable brand. Outline production capacity expansion options (outsourcing vs. in-house). Plan new product line launches by quarter. Map marketing campaigns to increase brand awareness. Define key financial milestones (breakeven, profit margin targets). Suggest partnership or retail tie-up opportunities." Inputs Required: Current sales data Manufacturing capabilities Marketing budget Target revenue goal`
 
-Strategic Roadmap for Achieving Carbon Neutrality
+## Strategic Roadmap for Achieving Carbon Neutrality
 
-Backstory:
+`Backstory:`
 
-A mid-sized manufacturing company in Tamil Nadu has committed to becoming carbon neutral by 2030. They want a phased roadmap to measure, reduce, and offset emissions, incorporating renewable energy, waste management, and supply chain sustainability initiatives.
+`A mid-sized manufacturing company in Tamil Nadu has committed to becoming carbon neutral by 2030. They want a phased roadmap to measure, reduce, and offset emissions, incorporating renewable energy, waste management, and supply chain sustainability initiatives.`
 
-Goal:
+`Goal:`
 
-Design a corporate sustainability roadmap.
+`Design a corporate sustainability roadmap.`
 
-Prompt:
+`Prompt:`
 
-"You are a sustainability strategy consultant. Develop a 7-year roadmap to achieve carbon neutrality. Map current carbon footprint and key emission sources. Plan renewable energy adoption for manufacturing plants. Introduce waste reduction and recycling programs. Outline offsetting mechanisms (tree plantations, carbon credits). Suggest annual progress reporting formats for stakeholders." Inputs Required: Current energy consumption Emission audit reports Budget for renewable energy Timeline flexibility
+`"You are a sustainability strategy consultant. Develop a 7-year roadmap to achieve carbon neutrality. Map current carbon footprint and key emission sources. Plan renewable energy adoption for manufacturing plants. Introduce waste reduction and recycling programs. Outline offsetting mechanisms (tree plantations, carbon credits). Suggest annual progress reporting formats for stakeholders." Inputs Required: Current energy consumption Emission audit reports Budget for renewable energy Timeline flexibility`
 
-Strategic Roadmap for Building a Regional Industry Leadership Position
+## Strategic Roadmap for Building a Regional Industry Leadership Position
 
-Backstory:
+`Backstory:`
 
-A B2B logistics firm in Karnataka wants to become the top provider for last-mile delivery in South India. They have strong operations in Bengaluru but limited reach elsewhere. They need a 5-year roadmap for regional dominance through partnerships, tech upgrades, and aggressive sales campaigns.
+`A B2B logistics firm in Karnataka wants to become the top provider for last-mile delivery in South India. They have strong operations in Bengaluru but limited reach elsewhere. They need a 5-year roadmap for regional dominance through partnerships, tech upgrades, and aggressive sales campaigns.`
 
-Goal:
+`Goal:`
 
-Create a leadership positioning roadmap.
+`Create a leadership positioning roadmap.`
 
-Prompt:
+`Prompt:`
 
-"You are a market expansion strategist. Prepare a 5-year roadmap for a logistics company to dominate South India’s last-mile delivery sector. Identify expansion priority cities and customer segments. Plan acquisition or partnership opportunities with local players. Map tech upgrades for delivery tracking and optimisation. Design sales incentive programs for rapid client acquisition. Suggest PR and branding strategies to build regional authority." Inputs Required: Current market share Fleet size and tech tools Expansion budget Competitor analysis
+`"You are a market expansion strategist. Prepare a 5-year roadmap for a logistics company to dominate South India’s last-mile delivery sector. Identify expansion priority cities and customer segments. Plan acquisition or partnership opportunities with local players. Map tech upgrades for delivery tracking and optimisation. Design sales incentive programs for rapid client acquisition. Suggest PR and branding strategies to build regional authority." Inputs Required: Current market share Fleet size and tech tools Expansion budget Competitor analysis`
 
-Strategic Roadmap for Integrating AI Across Business Functions
+## Strategic Roadmap for Integrating AI Across Business Functions
 
-Backstory:
+`Backstory:`
 
-A medium-sized FMCG company in India wants to leverage AI for demand forecasting, personalised marketing, and inventory optimisation. The leadership is concerned about cost, adoption speed, and change management. They need a 4-year roadmap that delivers measurable ROI at each stage.
+`A medium-sized FMCG company in India wants to leverage AI for demand forecasting, personalised marketing, and inventory optimisation. The leadership is concerned about cost, adoption speed, and change management. They need a 4-year roadmap that delivers measurable ROI at each stage.`
 
-Goal:
+`Goal:`
 
-Plan an AI adoption roadmap for an FMCG firm.
+`Plan an AI adoption roadmap for an FMCG firm.`
 
-Prompt:
+`Prompt:`
 
-"You are an AI transformation strategist. Create a 4-year roadmap for implementing AI in an FMCG company. Prioritise AI use cases based on ROI potential. Plan data infrastructure readiness and integration timelines. Outline change management and employee upskilling programs. Define measurable outcomes for each AI initiative. Suggest vendor selection criteria and partnership models." Inputs Required: Current tech stack Data availability and quality AI adoption budget Leadership readiness level
+`"You are an AI transformation strategist. Create a 4-year roadmap for implementing AI in an FMCG company. Prioritise AI use cases based on ROI potential. Plan data infrastructure readiness and integration timelines. Outline change management and employee upskilling programs. Define measurable outcomes for each AI initiative. Suggest vendor selection criteria and partnership models." Inputs Required: Current tech stack Data availability and quality AI adoption budget Leadership readiness level`
 
-Strategic Roadmap for Reviving a Declining Product Line
+## Strategic Roadmap for Reviving a Declining Product Line
 
-Backstory:
+`Backstory:`
 
-A home appliance brand’s best-selling washing machine model has been losing market share due to cheaper imports and changing consumer preferences. They want a 2-year roadmap to either reposition the product or transition customers to a newer model, without damaging brand loyalty.
+`A home appliance brand’s best-selling washing machine model has been losing market share due to cheaper imports and changing consumer preferences. They want a 2-year roadmap to either reposition the product or transition customers to a newer model, without damaging brand loyalty.`
 
-Goal:
+`Goal:`
 
-Design a product revival/transition roadmap.
+`Design a product revival/transition roadmap.`
 
-Prompt:
+`Prompt:`
 
-"You are a product strategy consultant. Develop a 2-year roadmap to address a declining washing machine product line. Conduct market research to identify decline reasons. Map repositioning options (price drop, feature upgrades, rebranding). Plan marketing campaigns targeting existing customers. Design customer migration programs to newer models. Suggest KPIs for revival or transition success." Inputs Required: Sales trend data Competitor pricing R&D capabilities Marketing budget
+`"You are a product strategy consultant. Develop a 2-year roadmap to address a declining washing machine product line. Conduct market research to identify decline reasons. Map repositioning options (price drop, feature upgrades, rebranding). Plan marketing campaigns targeting existing customers. Design customer migration programs to newer models. Suggest KPIs for revival or transition success." Inputs Required: Sales trend data Competitor pricing R&D capabilities Marketing budget`
 
 
 Change Management Communication
