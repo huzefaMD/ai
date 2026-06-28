@@ -1,34 +1,34 @@
-Competitor Benchmarking Reports
+# Competitor Benchmarking Reports
 
-D2C Skincare Brand Benchmarking Against Market Leaders
+## D2C Skincare Brand Benchmarking Against Market Leaders
 
-Backstory:
+`Backstory:`
 
-Megha, 29, founded a D2C skincare startup in Mumbai that uses natural, cruelty-free ingredients sourced from Indian farms. Her brand has seen moderate traction online but faces heavy competition from brands like Mamaearth, Plum, and Forest Essentials. She wants a detailed competitor benchmarking report to understand price points, marketing channels, influencer strategies, and repeat purchase rates so she can position herself better and tap into Gen Z and millennial buyers.
+`Megha, 29, founded a D2C skincare startup in Mumbai that uses natural, cruelty-free ingredients sourced from Indian farms. Her brand has seen moderate traction online but faces heavy competition from brands like Mamaearth, Plum, and Forest Essentials. She wants a detailed competitor benchmarking report to understand price points, marketing channels, influencer strategies, and repeat purchase rates so she can position herself better and tap into Gen Z and millennial buyers.`
 
-Goal:
+`Goal:`
 
-Generate a comprehensive competitor benchmarking report for a D2C skincare brand, focusing on market positioning, pricing, and retention strategies.
+`Generate a comprehensive competitor benchmarking report for a D2C skincare brand, focusing on market positioning, pricing, and retention strategies.`
 
-Prompt:
+`Prompt:`
 
-"You are a D2C skincare market analyst. Prepare a detailed competitor benchmarking report comparing the user’s skincare brand with at least 5 leading Indian and global competitors. Compare product pricing, ingredient sourcing transparency, packaging sustainability, and certifications. Evaluate online presence across Instagram, YouTube, and influencer collaborations, including average engagement rates. Analyze customer reviews (positive and negative themes), repeat purchase rates, and customer service quality. Provide a SWOT for the user’s brand in comparison to the competitors. Recommend 3 marketing and product development strategies to close gaps or differentiate." Inputs Required: List of direct competitors Product SKUs and pricing Social media handles Customer review sources
+`"You are a D2C skincare market analyst. Prepare a detailed competitor benchmarking report comparing the user’s skincare brand with at least 5 leading Indian and global competitors. Compare product pricing, ingredient sourcing transparency, packaging sustainability, and certifications. Evaluate online presence across Instagram, YouTube, and influencer collaborations, including average engagement rates. Analyze customer reviews (positive and negative themes), repeat purchase rates, and customer service quality. Provide a SWOT for the user’s brand in comparison to the competitors. Recommend 3 marketing and product development strategies to close gaps or differentiate." Inputs Required: List of direct competitors Product SKUs and pricing Social media handles Customer review sources`
 
-EV Two-Wheeler Manufacturer vs. Market Leaders
+## EV Two-Wheeler Manufacturer vs. Market Leaders
 
-Backstory:
+`Backstory:`
 
-Rohit, 32, runs a startup in Bengaluru producing electric two-wheelers targeting daily commuters. His company wants to benchmark against Ola Electric, Ather, and Hero Electric to identify gaps in battery efficiency, after-sales service, and financing schemes. The focus is on attracting middle-income urban riders aged 20–35 who care about affordability without sacrificing style and performance.
+`Rohit, 32, runs a startup in Bengaluru producing electric two-wheelers targeting daily commuters. His company wants to benchmark against Ola Electric, Ather, and Hero Electric to identify gaps in battery efficiency, after-sales service, and financing schemes. The focus is on attracting middle-income urban riders aged 20–35 who care about affordability without sacrificing style and performance.`
 
-Goal:
+`Goal:`
 
-Produce a feature-performance-cost benchmarking report for an EV two-wheeler startup.
+`Produce a feature-performance-cost benchmarking report for an EV two-wheeler startup.`
 
-Prompt:
+`Prompt:`
 
-"You are an electric vehicle industry strategist. Create a competitor benchmarking report comparing the user’s EV two-wheeler brand to at least 3 established players in India. Benchmark battery range, charging time, speed, design aesthetics, and warranty terms. Compare financing options, EMI affordability, and insurance tie-ups. Analyze after-sales service networks, app integrations, and customer feedback ratings. Provide market share estimates and positioning gaps. Suggest 2 product upgrades and 2 promotional offers to improve competitiveness." Inputs Required: Product specifications Dealer/service network data Target city demographics Price and EMI details
+`"You are an electric vehicle industry strategist. Create a competitor benchmarking report comparing the user’s EV two-wheeler brand to at least 3 established players in India. Benchmark battery range, charging time, speed, design aesthetics, and warranty terms. Compare financing options, EMI affordability, and insurance tie-ups. Analyze after-sales service networks, app integrations, and customer feedback ratings. Provide market share estimates and positioning gaps. Suggest 2 product upgrades and 2 promotional offers to improve competitiveness." Inputs Required: Product specifications Dealer/service network data Target city demographics Price and EMI details`
 
-Online Upskilling Platform vs. Edtech Leaders
+## Online Upskilling Platform vs. Edtech Leaders
 
 Backstory:
 
