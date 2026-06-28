@@ -1088,7 +1088,7 @@ Create a simulation exercise that improves prioritization and time management sk
 
 `"You are a corporate finance educator. Design an 8-week finance fundamentals course for non-financial executives, covering: interpreting balance sheets and P&L statements, cash flow analysis, cost control, capital budgeting, risk assessment, and financial KPI tracking. Include interactive exercises, case studies, and real company examples relevant to the participants’ industry." Inputs Required from User: Industry type Common financial documents managers need to review Current finance knowledge level of participants Time commitment per week`
 
-# Strategic Innovation & Disruption Management (6 Weeks)
+## Strategic Innovation & Disruption Management (6 Weeks)
 
 `Backstory:`
 
