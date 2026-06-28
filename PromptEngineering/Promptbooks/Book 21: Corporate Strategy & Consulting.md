@@ -1277,588 +1277,587 @@
 
 ## India’s AI & Machine Learning Industry Trends
 
-Backstory:
+`Backstory:`
 
-A Bengaluru AI startup incubator wants to publish an industry trends report on AI adoption across sectors like BFSI, healthcare, manufacturing, and retail. They aim to position India as a competitive AI hub and attract corporate partnerships.
+`A Bengaluru AI startup incubator wants to publish an industry trends report on AI adoption across sectors like BFSI, healthcare, manufacturing, and retail. They aim to position India as a competitive AI hub and attract corporate partnerships.`
 
-Goal:
+`Goal:`
 
-Create an AI industry trends report showing adoption patterns and growth areas.
+`Create an AI industry trends report showing adoption patterns and growth areas.`
 
-Prompt:
+`Prompt:
 
 "You are an AI industry researcher. Prepare a trends report on India’s AI & ML adoption. Analyse sector-wise adoption levels and investment trends. Identify talent availability and upskilling initiatives. Map major AI research hubs and corporate AI projects. Forecast adoption growth for the next 5 years.
 
-Output format:
+`Output format:`
 
-PDF + Tableau dashboard with adoption heatmaps and opportunity zones." Inputs Required: Sectors to focus on Data availability level (primary, secondary) Time frame for forecast
+`PDF + Tableau dashboard with adoption heatmaps and opportunity zones." Inputs Required: Sectors to focus on Data availability level (primary, secondary) Time frame for forecast`
 
-Indian Agriculture & AgriTech Trends
+## Indian Agriculture & AgriTech Trends
 
-Backstory:
+`Backstory:`
 
-An agri-business venture fund wants to create a trends report covering digital farming adoption, precision agriculture tools, supply chain digitisation, and crop yield optimisation technologies. They will use this to decide investment priorities for the coming year.
+`An agri-business venture fund wants to create a trends report covering digital farming adoption, precision agriculture tools, supply chain digitisation, and crop yield optimisation technologies. They will use this to decide investment priorities for the coming year.`
 
-Goal:
+`Goal:
 
-Deliver an agriculture and AgriTech trends report for investor decision-making.
+`Deliver an agriculture and AgriTech trends report for investor decision-making.`
 
-Prompt:
+`Prompt:`
 
-"You are an AgriTech industry analyst. Prepare a trends report for India’s agriculture sector. Analyse adoption of farm mechanisation and IoT in agriculture. Track investment in AgriTech startups. Highlight government subsidy schemes and digital platforms adoption. Provide a 3-year yield improvement projection.
+`"You are an AgriTech industry analyst. Prepare a trends report for India’s agriculture sector. Analyse adoption of farm mechanisation and IoT in agriculture. Track investment in AgriTech startups. Highlight government subsidy schemes and digital platforms adoption. Provide a 3-year yield improvement projection.`
 
-Output format:
+`Output format:`
 
-Excel dashboard + PDF with farmer-level case studies and policy insights." Inputs Required: Crop types to focus on Region-specific data needs Policy schemes of interest
+`Excel dashboard + PDF with farmer-level case studies and policy insights." Inputs Required: Crop types to focus on Region-specific data needs Policy schemes of interest`
 
-India’s Start-up Ecosystem Funding Trends
+## India’s Start-up Ecosystem Funding Trends
 
-Backstory:
+`Backstory:`
 
-A Delhi-based venture debt fund wants to prepare a report on India’s startup funding landscape, segmented by stage (seed, Series A, growth) and sector (fintech, healthtech, SaaS, consumer). This will guide their portfolio expansion strategy.
+`A Delhi-based venture debt fund wants to prepare a report on India’s startup funding landscape, segmented by stage (seed, Series A, growth) and sector (fintech, healthtech, SaaS, consumer). This will guide their portfolio expansion strategy.`
 
-Goal:
+`Goal:`
 
-Produce a startup funding trends report segmented by stage and sector.
+`Produce a startup funding trends report segmented by stage and sector.`
 
-Prompt:
+`Prompt:`
 
-"You are a startup ecosystem researcher. Create a funding trends report for India. Break down funding volume and deal count by stage. Identify top sectors by capital inflow. Highlight major exits and IPO activity. Provide insights into emerging investment hotspots.
+`"You are a startup ecosystem researcher. Create a funding trends report for India. Break down funding volume and deal count by stage. Identify top sectors by capital inflow. Highlight major exits and IPO activity. Provide insights into emerging investment hotspots.`
 
-Output format:
+`Output format:`
 
-Interactive dashboard + executive summary PDF." Inputs Required: Funding stages to include Time frame for analysis Sectors of primary interest
+`Interactive dashboard + executive summary PDF." Inputs Required: Funding stages to include Time frame for analysis Sectors of primary interest`
 
-Indian E-commerce Trends Report
+## Indian E-commerce Trends Report
 
-Backstory:
+`Backstory:`
 
-An e-commerce SaaS platform wants to publish a trends report on online retail growth in India, focusing on consumer spending patterns, regional adoption differences, and category-wise performance (fashion, electronics, groceries).
+`An e-commerce SaaS platform wants to publish a trends report on online retail growth in India, focusing on consumer spending patterns, regional adoption differences, and category-wise performance (fashion, electronics, groceries).`
 
-Goal:
+`Goal:`
 
-Develop an e-commerce trends report highlighting growth opportunities.
+`Develop an e-commerce trends report highlighting growth opportunities.`
 
-Prompt:
+`Prompt:`
 
-"You are an e-commerce market analyst. Create a trends report for India’s online retail sector. Analyse transaction growth by category. Highlight mobile commerce vs desktop usage trends. Identify emerging Tier 2/3 markets. Forecast GMV growth over the next 3 years.
+`"You are an e-commerce market analyst. Create a trends report for India’s online retail sector. Analyse transaction growth by category. Highlight mobile commerce vs desktop usage trends. Identify emerging Tier 2/3 markets. Forecast GMV growth over the next 3 years.`
 
-Output format:
+`Output format:`
 
-PDF with market maps, purchase funnel charts, and strategic recommendations." Inputs Required: Product categories to prioritise Data cut-off date Target audience (retailers, investors)
+`PDF with market maps, purchase funnel charts, and strategic recommendations." Inputs Required: Product categories to prioritise Data cut-off date Target audience (retailers, investors)`
 
-Indian Electric Vehicle (EV) Industry Trends
+## Indian Electric Vehicle (EV) Industry Trends
 
-Backstory:
+`Backstory:`
 
-A Pune-based automotive parts manufacturer is considering entering the EV components market. Before making the investment, they want a trends report covering India’s EV adoption rates, charging infrastructure growth, government incentives, and major OEM strategies. They also need insights into consumer preferences and projected market share shifts between two-wheelers, three-wheelers, and four-wheelers.
+`A Pune-based automotive parts manufacturer is considering entering the EV components market. Before making the investment, they want a trends report covering India’s EV adoption rates, charging infrastructure growth, government incentives, and major OEM strategies. They also need insights into consumer preferences and projected market share shifts between two-wheelers, three-wheelers, and four-wheelers.`
 
-Goal:
+`Goal:`
 
-Provide an EV market trends report that informs product line expansion decisions.
+`Provide an EV market trends report that informs product line expansion decisions.`
 
-Prompt:
+`Prompt:`
 
-"You are an automotive industry analyst. Create an EV industry trends report for India. Track EV sales growth by vehicle type over the last 5 years. Map charging infrastructure expansion by state. Analyse FAME II and other government incentives’ impact. Compare OEM strategies for EV penetration. Provide a 5-year adoption forecast with risks and opportunities.
+`"You are an automotive industry analyst. Create an EV industry trends report for India. Track EV sales growth by vehicle type over the last 5 years. Map charging infrastructure expansion by state. Analyse FAME II and other government incentives’ impact. Compare OEM strategies for EV penetration. Provide a 5-year adoption forecast with risks and opportunities.`
 
-Output format:
+`Output format:`
 
-25-slide PPT + Excel forecast model." Inputs Required: Vehicle types to focus on States/regions of interest Time horizon for forecast
+`25-slide PPT + Excel forecast model." Inputs Required: Vehicle types to focus on States/regions of interest Time horizon for forecast`
 
-India’s Digital Payments & Fintech Trends
+## India’s Digital Payments & Fintech Trends
 
-Backstory:
+`Backstory:`
 
-A Noida-based fintech startup wants to attract Series A funding by showcasing their deep understanding of India’s digital payments ecosystem. They need a trends report that analyses UPI transaction volumes, wallet adoption, BNPL (Buy Now Pay Later) growth, and regulatory changes affecting payment aggregators.
+`A Noida-based fintech startup wants to attract Series A funding by showcasing their deep understanding of India’s digital payments ecosystem. They need a trends report that analyses UPI transaction volumes, wallet adoption, BNPL (Buy Now Pay Later) growth, and regulatory changes affecting payment aggregators.`
 
-Goal:
+`Goal:`
 
-Deliver a digital payments trends report highlighting innovation and growth hotspots.
+`Deliver a digital payments trends report highlighting innovation and growth hotspots.`
 
-Prompt:
+`Prompt:`
 
-"You are a fintech industry researcher. Prepare a trends report for India’s digital payments sector. Analyse UPI, wallets, and BNPL transaction trends. Highlight regulatory updates impacting payment systems. Identify major payment tech innovations and market disruptors. Provide competitive positioning of top fintech players.
+`"You are a fintech industry researcher. Prepare a trends report for India’s digital payments sector. Analyse UPI, wallets, and BNPL transaction trends. Highlight regulatory updates impacting payment systems. Identify major payment tech innovations and market disruptors. Provide competitive positioning of top fintech players.
 
-Output format:
+`Output format:`
 
-PDF + data visualisation dashboard." Inputs Required: Specific payment modes to focus on Target investor profile Time frame for historical data
+`PDF + data visualisation dashboard." Inputs Required: Specific payment modes to focus on Target investor profile Time frame for historical data`
 
-Indian Hospitality & Tourism Trends Report
+## Indian Hospitality & Tourism Trends Report
 
-Backstory:
+`Backstory:`
 
-A Goa-based resort chain is planning expansion into wellness tourism. They need an industry trends report covering post-pandemic travel recovery, domestic vs international tourist flows, preferred destinations, and spending habits. They also want insights into government tourism promotion schemes.
+`A Goa-based resort chain is planning expansion into wellness tourism. They need an industry trends report covering post-pandemic travel recovery, domestic vs international tourist flows, preferred destinations, and spending habits. They also want insights into government tourism promotion schemes.`
 
-Goal:
+`Goal:`
 
-Produce a hospitality trends report that guides expansion strategy into wellness tourism.
+`Produce a hospitality trends report that guides expansion strategy into wellness tourism.`
 
-Prompt:
+`Prompt:`
 
-"You are a tourism industry analyst. Create a trends report for India’s hospitality and tourism sector. Analyse domestic vs inbound tourist growth rates. Identify top emerging destinations. Map trends in wellness and eco-tourism demand. Review government policies supporting tourism growth.
+`"You are a tourism industry analyst. Create a trends report for India’s hospitality and tourism sector. Analyse domestic vs inbound tourist growth rates. Identify top emerging destinations. Map trends in wellness and eco-tourism demand. Review government policies supporting tourism growth.`
 
-Output format:
+`Output format:`
 
-PDF + infographic on traveller demographics." Inputs Required: Tourism segments of focus Data cut-off year Specific states to analyse
+`PDF + infographic on traveller demographics." Inputs Required: Tourism segments of focus Data cut-off year Specific states to analyse
 
-India’s Real Estate & Housing Trends
+## India’s Real Estate & Housing Trends
 
-Backstory:
+`Backstory:`
 
-A Gurugram-based real estate investment trust (REIT) wants to forecast demand shifts in residential, commercial, and co-living spaces. They need a trends report that includes urbanisation rates, rental yield trends, regulatory changes (RERA updates), and infrastructure project impacts.
+`A Gurugram-based real estate investment trust (REIT) wants to forecast demand shifts in residential, commercial, and co-living spaces. They need a trends report that includes urbanisation rates, rental yield trends, regulatory changes (RERA updates), and infrastructure project impacts.`
 
-Goal:
+`Goal:`
 
-Provide a real estate trends report with actionable investment signals.
+`Provide a real estate trends report with actionable investment signals.`
 
-Prompt:
+`Prompt:`
 
-"You are a real estate market researcher. Prepare a trends report for India’s property sector. Analyse residential, commercial, and co-living space demand. Track infrastructure projects influencing property values. Review RERA and other regulatory impacts. Provide a 3-year rental yield projection by city tier.
+`"You are a real estate market researcher. Prepare a trends report for India’s property sector. Analyse residential, commercial, and co-living space demand. Track infrastructure projects influencing property values. Review RERA and other regulatory impacts. Provide a 3-year rental yield projection by city tier.`
 
-Output format:
+`Output format:`
 
-Excel model + investor summary PDF." Inputs Required: Property segment focus Target cities/tiers Investment time frame
+`Excel model + investor summary PDF." Inputs Required: Property segment focus Target cities/tiers Investment time frame`
 
-Indian EdTech Industry Trends
+## Indian EdTech Industry Trends
 
-Backstory:
+`Backstory:`
 
-A Bengaluru-based EdTech startup is preparing for global expansion. They want a trends report covering online learning adoption, government digital education initiatives, funding trends in EdTech, and competitive benchmarking of top players in India.
+`A Bengaluru-based EdTech startup is preparing for global expansion. They want a trends report covering online learning adoption, government digital education initiatives, funding trends in EdTech, and competitive benchmarking of top players in India.`
 
-Goal:
+`Goal:`
 
-Create an EdTech industry trends report highlighting market opportunities.
+`Create an EdTech industry trends report highlighting market opportunities.`
 
-Prompt:
+`Prompt:`
 
-"You are an EdTech industry analyst. Develop a trends report for India’s online education market. Analyse K-12, higher education, and skilling market segments. Track funding volumes and M&A activity in EdTech. Benchmark top EdTech players by revenue, users, and offerings. Forecast sector growth over 3 years.
+`"You are an EdTech industry analyst. Develop a trends report for India’s online education market. Analyse K-12, higher education, and skilling market segments. Track funding volumes and M&A activity in EdTech. Benchmark top EdTech players by revenue, users, and offerings. Forecast sector growth over 3 years.`
 
-Output format:
+`Output format:`
 
-PDF + comparison charts + opportunity heatmap." Inputs Required: Education segment focus Data sources preference Time horizon for forecast
+`PDF + comparison charts + opportunity heatmap." Inputs Required: Education segment focus Data sources preference Time horizon for forecast`
 
-Indian Healthcare & MedTech Trends
+## Indian Healthcare & MedTech Trends
 
-Backstory:
+`Backstory:`
 
-A Chennai-based MedTech device manufacturer wants to explore new product lines. They need a trends report covering diagnostic device adoption, telemedicine usage growth, health insurance penetration, and government healthcare spending trends.
+`A Chennai-based MedTech device manufacturer wants to explore new product lines. They need a trends report covering diagnostic device adoption, telemedicine usage growth, health insurance penetration, and government healthcare spending trends.`
 
-Goal:
+`Goal:`
 
-Provide a healthcare trends report guiding new product innovation.
+`Provide a healthcare trends report guiding new product innovation.`
 
-Prompt:
+`Prompt:`
 
-"You are a healthcare market researcher. Create a trends report for India’s MedTech and healthcare sector. Analyse adoption trends for diagnostic devices and telemedicine. Review insurance penetration rates by state. Map government healthcare spending patterns. Forecast demand for MedTech products over 5 years.
+`"You are a healthcare market researcher. Create a trends report for India’s MedTech and healthcare sector. Analyse adoption trends for diagnostic devices and telemedicine. Review insurance penetration rates by state. Map government healthcare spending patterns. Forecast demand for MedTech products over 5 years.`
 
-Output format:
+`Output format:`
 
-PDF + dashboard with state-level demand forecast." Inputs Required: Device categories to focus on Target customer segments Time frame for analysis
+`PDF + dashboard with state-level demand forecast." Inputs Required: Device categories to focus on Target customer segments Time frame for analysis`
 
-Indian Logistics & Supply Chain Trends
+## Indian Logistics & Supply Chain Trends
 
-Backstory:
+`Backstory:`
 
-A Kolkata-based logistics tech startup is building a pitch deck for investors. They want a trends report covering e-commerce-driven logistics demand, cold chain growth, port capacity utilisation, and last-mile delivery innovations.
+`A Kolkata-based logistics tech startup is building a pitch deck for investors. They want a trends report covering e-commerce-driven logistics demand, cold chain growth, port capacity utilisation, and last-mile delivery innovations.`
 
-Goal:
+`Goal:`
 
-Deliver a logistics and supply chain trends report for investor engagement.
+`Deliver a logistics and supply chain trends report for investor engagement.`
 
-Prompt:
+Prompt:`
 
-"You are a logistics industry analyst. Prepare a trends report for India’s logistics and supply chain sector. Analyse growth in e-commerce-driven logistics. Track cold chain infrastructure expansion. Map port utilisation and capacity enhancements. Highlight last-mile delivery technology adoption.
+`"You are a logistics industry analyst. Prepare a trends report for India’s logistics and supply chain sector. Analyse growth in e-commerce-driven logistics. Track cold chain infrastructure expansion. Map port utilisation and capacity enhancements. Highlight last-mile delivery technology adoption.`
 
-Output format:
+`Output format:`
 
-15-page PDF + interactive logistics map." Inputs Required: Logistics segment to prioritise Region or state focus Time frame for forecast
+`15-page PDF + interactive logistics map." Inputs Required: Logistics segment to prioritise Region or state focus Time frame for forecast`
 
-India’s Media & Entertainment Trends
+## India’s Media & Entertainment Trends
 
-Backstory:
+`Backstory:`
 
-A Mumbai-based OTT platform wants a trends report on the Indian media & entertainment sector, focusing on OTT subscriber growth, regional language content consumption, advertising revenue shifts, and competition from global streaming services.
+`A Mumbai-based OTT platform wants a trends report on the Indian media & entertainment sector, focusing on OTT subscriber growth, regional language content consumption, advertising revenue shifts, and competition from global streaming services.`
 
-Goal:
+`Goal:`
 
-Produce a media & entertainment trends report highlighting growth strategies.
+`Produce a media & entertainment trends report highlighting growth strategies.`
 
-Prompt:
+`Prompt:`
 
-"You are a media industry researcher. Create a trends report for India’s media & entertainment sector. Analyse OTT subscriber growth by platform. Track regional language content consumption trends. Review advertising spend shifts from TV to digital. Provide competitive landscape analysis with global vs local OTT services.
+`"You are a media industry researcher. Create a trends report for India’s media & entertainment sector. Analyse OTT subscriber growth by platform. Track regional language content consumption trends. Review advertising spend shifts from TV to digital. Provide competitive landscape analysis with global vs local OTT services.`
 
-Output format:
+`Output format:`
 
-PDF with charts + consumer behaviour infographics." Inputs Required: Media segment to focus on Target audience type (investors, advertisers) Data cut-off date
+`PDF with charts + consumer behaviour infographics." Inputs Required: Media segment to focus on Target audience type (investors, advertisers) Data cut-off date`
 
-India’s FMCG Market Trends
+## India’s FMCG Market Trends
 
-Backstory:
+`Backstory:`
 
-A Delhi-based FMCG conglomerate is considering diversifying into organic packaged foods. They want a trends report on FMCG growth patterns, rural vs urban consumption differences, D2C brand growth, and consumer wellness product preferences.
+`A Delhi-based FMCG conglomerate is considering diversifying into organic packaged foods. They want a trends report on FMCG growth patterns, rural vs urban consumption differences, D2C brand growth, and consumer wellness product preferences.`
 
-Goal:
+`Goal:`
 
-Deliver an FMCG trends report to guide diversification strategy.
+`Deliver an FMCG trends report to guide diversification strategy.`
 
-Prompt:
+`Prompt:`
 
-"You are an FMCG market analyst. Develop a trends report for India’s fast-moving consumer goods sector. Analyse growth in rural vs urban markets. Identify fastest-growing FMCG categories. Map D2C brand penetration and success stories. Forecast growth in organic and wellness product segments.
+`"You are an FMCG market analyst. Develop a trends report for India’s fast-moving consumer goods sector. Analyse growth in rural vs urban markets. Identify fastest-growing FMCG categories. Map D2C brand penetration and success stories. Forecast growth in organic and wellness product segments.`
 
-Output format:
+`Output format:`
 
-PDF + dashboard + consumer persona profiles." Inputs Required: FMCG sub-category to prioritise Target geographies Forecast period
+`PDF + dashboard + consumer persona profiles." Inputs Required: FMCG sub-category to prioritise Target geographies Forecast period`
 
 
-SWOT & PESTLE Analysis Templates
+# SWOT & PESTLE Analysis Templates
 
-Tech Startup SWOT & PESTLE
+## Tech Startup SWOT & PESTLE
 
-Backstory:
+`Backstory:`
 
-Aarav, 29, is co-founder of a SaaS-based HR tech startup in Bangalore that offers AI-powered recruitment tools for SMEs. The startup is preparing for Series A funding, and investors are asking for a detailed market positioning document. Aarav needs a SWOT & PESTLE analysis that highlights competitive advantages, anticipates regulatory changes, and identifies both local and global expansion risks.
+`Aarav, 29, is co-founder of a SaaS-based HR tech startup in Bangalore that offers AI-powered recruitment tools for SMEs. The startup is preparing for Series A funding, and investors are asking for a detailed market positioning document. Aarav needs a SWOT & PESTLE analysis that highlights competitive advantages, anticipates regulatory changes, and identifies both local and global expansion risks.`
 
-Goal:
+`Goal:
 
-Develop a combined SWOT & PESTLE analysis that’s investor-ready and includes actionable strategic recommendations.
+`Develop a combined SWOT & PESTLE analysis that’s investor-ready and includes actionable strategic recommendations.`
 
-Prompt:
+`Prompt:`
 
-"You are a corporate strategy consultant. Prepare a SWOT & PESTLE analysis for a SaaS-based HR tech startup in India. Identify strengths (tech stack, team expertise, early traction) with supporting data. Highlight weaknesses (limited brand presence, dependency on early adopters). List opportunities (SME digitisation, HR tech adoption rates in Tier-2/3 cities). Flag threats (global competitors, regulatory compliance risks). For PESTLE: Analyse political (labour laws), economic (funding trends), social (workplace diversity), technological (AI adoption), legal (data privacy laws), environmental (remote work energy savings). End with 3 strategic action points for the next 12 months." Inputs Required: Current traction metrics (users, revenue) Competitor list Regulatory updates Tech roadmap
+`"You are a corporate strategy consultant. Prepare a SWOT & PESTLE analysis for a SaaS-based HR tech startup in India. Identify strengths (tech stack, team expertise, early traction) with supporting data. Highlight weaknesses (limited brand presence, dependency on early adopters). List opportunities (SME digitisation, HR tech adoption rates in Tier-2/3 cities). Flag threats (global competitors, regulatory compliance risks). For PESTLE: Analyse political (labour laws), economic (funding trends), social (workplace diversity), technological (AI adoption), legal (data privacy laws), environmental (remote work energy savings). End with 3 strategic action points for the next 12 months." Inputs Required: Current traction metrics (users, revenue) Competitor list Regulatory updates Tech roadmap`
 
-FMCG Brand Expansion in Rural India
+## FMCG Brand Expansion in Rural India
 
-Backstory:
+`Backstory:`
 
-Priya, 31, works in the strategy team of a mid-sized FMCG company selling packaged snacks. The brand wants to enter rural markets in Maharashtra and Madhya Pradesh. Priya needs a SWOT & PESTLE analysis to assess the viability, factoring in rural consumer behaviour, distribution challenges, and local competition.
+`Priya, 31, works in the strategy team of a mid-sized FMCG company selling packaged snacks. The brand wants to enter rural markets in Maharashtra and Madhya Pradesh. Priya needs a SWOT & PESTLE analysis to assess the viability, factoring in rural consumer behaviour, distribution challenges, and local competition.`
 
-Goal:
+`Goal:`
 
-Create a market-entry SWOT & PESTLE framework for rural FMCG expansion.
+`Create a market-entry SWOT & PESTLE framework for rural FMCG expansion.`
 
-Prompt:
+`Prompt:`
 
-"You are an FMCG market strategist. Prepare a SWOT & PESTLE analysis for an FMCG brand entering rural Maharashtra and MP. SWOT to cover product strengths (affordability, taste profile), weaknesses (cold chain limitations), opportunities (rural festival seasons, government rural development programs), threats (local snack brands, seasonal crop failures). PESTLE to analyse political (food safety norms), economic (rural purchasing power), social (traditional snacking habits), technological (distribution tech adoption), legal (packaging regulations), environmental (monsoon logistics challenges). Recommend 3 tactical moves to overcome distribution barriers." Inputs Required: Product pricing & margins Rural distribution network data Competitor benchmarking Seasonal demand trends
+`"You are an FMCG market strategist. Prepare a SWOT & PESTLE analysis for an FMCG brand entering rural Maharashtra and MP. SWOT to cover product strengths (affordability, taste profile), weaknesses (cold chain limitations), opportunities (rural festival seasons, government rural development programs), threats (local snack brands, seasonal crop failures). PESTLE to analyse political (food safety norms), economic (rural purchasing power), social (traditional snacking habits), technological (distribution tech adoption), legal (packaging regulations), environmental (monsoon logistics challenges). Recommend 3 tactical moves to overcome distribution barriers." Inputs Required: Product pricing & margins Rural distribution network data Competitor benchmarking Seasonal demand trends`
 
-EdTech Overseas Market Entry
+## EdTech Overseas Market Entry
 
-Backstory:
+`Backstory:`
 
-Vikram, 30, manages business development for an Indian ed-tech firm specialising in STEM learning for children. The company wants to launch in the UAE, targeting Indian expat families. They need a detailed SWOT & PESTLE to understand cultural differences, pricing sensitivities, and competitive positioning in the Gulf market.
+`Vikram, 30, manages business development for an Indian ed-tech firm specialising in STEM learning for children. The company wants to launch in the UAE, targeting Indian expat families. They need a detailed SWOT & PESTLE to understand cultural differences, pricing sensitivities, and competitive positioning in the Gulf market.`
 
-Goal:
+`Goal:`
 
-Produce a comprehensive SWOT & PESTLE analysis for ed-tech market entry in the UAE.
+`Produce a comprehensive SWOT & PESTLE analysis for ed-tech market entry in the UAE.`
 
-Prompt:
+`Prompt:`
 
-"You are a market entry consultant. Create a SWOT & PESTLE analysis for an Indian ed-tech firm entering the UAE market. SWOT to identify strengths (Indian STEM expertise, existing content library), weaknesses (lack of Arabic content, no local team), opportunities (high demand for after-school programs, digital adoption), threats (established global ed-tech players). PESTLE to examine political (education regulations), economic (high expat income levels), social (parental focus on STEM), technological (online learning platforms usage), legal (licensing norms), environmental (energy consumption policies for online platforms). Suggest 3 market adaptation strategies." Inputs Required: Content formats Pricing model UAE competitor list Local curriculum standards
+`"You are a market entry consultant. Create a SWOT & PESTLE analysis for an Indian ed-tech firm entering the UAE market. SWOT to identify strengths (Indian STEM expertise, existing content library), weaknesses (lack of Arabic content, no local team), opportunities (high demand for after-school programs, digital adoption), threats (established global ed-tech players). PESTLE to examine political (education regulations), economic (high expat income levels), social (parental focus on STEM), technological (online learning platforms usage), legal (licensing norms), environmental (energy consumption policies for online platforms). Suggest 3 market adaptation strategies." Inputs Required: Content formats Pricing model UAE competitor list Local curriculum standards`
 
-Electric Vehicle Manufacturing in India
+## Electric Vehicle Manufacturing in India
 
-Backstory:
+`Backstory:`
 
-Nisha, 33, is leading the strategy team for a new electric two-wheeler manufacturing startup. The company wants to position itself as a premium yet affordable EV brand in Tier-1 and Tier-2 Indian cities. She needs a SWOT & PESTLE that not only analyses competitors like Ola Electric and Ather but also factors in evolving EV policies and infrastructure challenges.
+`Nisha, 33, is leading the strategy team for a new electric two-wheeler manufacturing startup. The company wants to position itself as a premium yet affordable EV brand in Tier-1 and Tier-2 Indian cities. She needs a SWOT & PESTLE that not only analyses competitors like Ola Electric and Ather but also factors in evolving EV policies and infrastructure challenges.`
 
-Goal:
+`Goal:
 
-Deliver a competitive positioning SWOT & PESTLE for the Indian EV market.
+`Deliver a competitive positioning SWOT & PESTLE for the Indian EV market.`
 
-Prompt:
+`Prompt:
 
-"You are an EV industry strategist. Prepare a SWOT & PESTLE analysis for a premium electric two-wheeler brand in India. SWOT to highlight strengths (R&D innovation, battery efficiency), weaknesses (charging network dependency), opportunities (government subsidies, fuel price hikes), threats (foreign imports, battery raw material scarcity). PESTLE to examine political (EV subsidies), economic (inflation impact on manufacturing costs), social (eco-conscious consumer shift), technological (battery swapping tech), legal (vehicle safety norms), environmental (battery disposal regulations). Recommend a 2-year market penetration roadmap." Inputs Required: Vehicle specs Competitor feature comparison Policy updates Charging infra availability
+`"You are an EV industry strategist. Prepare a SWOT & PESTLE analysis for a premium electric two-wheeler brand in India. SWOT to highlight strengths (R&D innovation, battery efficiency), weaknesses (charging network dependency), opportunities (government subsidies, fuel price hikes), threats (foreign imports, battery raw material scarcity). PESTLE to examine political (EV subsidies), economic (inflation impact on manufacturing costs), social (eco-conscious consumer shift), technological (battery swapping tech), legal (vehicle safety norms), environmental (battery disposal regulations). Recommend a 2-year market penetration roadmap." Inputs Required: Vehicle specs Competitor feature comparison Policy updates Charging infra availability`
 
-Healthcare Diagnostics Chain
+## Healthcare Diagnostics Chain
 
-Backstory:
+`Backstory:`
 
-Dr. Raghav, 35, owns a chain of pathology labs across North India. He is exploring a franchise model for Tier-2 and Tier-3 cities. To secure partnerships and bank funding, he needs a SWOT & PESTLE that highlights the scalability potential, operational risks, and healthcare policy implications.
+`Dr. Raghav, 35, owns a chain of pathology labs across North India. He is exploring a franchise model for Tier-2 and Tier-3 cities. To secure partnerships and bank funding, he needs a SWOT & PESTLE that highlights the scalability potential, operational risks, and healthcare policy implications.`
 
-Goal:
+`Goal:`
 
-Develop a franchise expansion SWOT & PESTLE for a healthcare diagnostics chain.
+`Develop a franchise expansion SWOT & PESTLE for a healthcare diagnostics chain.`
 
-Prompt:
+`Prompt:`
 
-"You are a healthcare business strategist. Create a SWOT & PESTLE analysis for a pathology lab chain expanding via franchises. SWOT to include strengths (brand reputation, NABL accreditation), weaknesses (high equipment cost), opportunities (rising preventive health awareness), threats (local unaccredited labs, policy changes). PESTLE to assess political (healthcare licensing), economic (insurance penetration), social (preventive health trends), technological (AI-based diagnostics), legal (data privacy norms), environmental (bio-waste disposal rules). Suggest 3 operational standardisation measures." Inputs Required: Current branch performance data Regulatory checklist Franchisee qualification criteria Equipment sourcing details
+`"You are a healthcare business strategist. Create a SWOT & PESTLE analysis for a pathology lab chain expanding via franchises. SWOT to include strengths (brand reputation, NABL accreditation), weaknesses (high equipment cost), opportunities (rising preventive health awareness), threats (local unaccredited labs, policy changes). PESTLE to assess political (healthcare licensing), economic (insurance penetration), social (preventive health trends), technological (AI-based diagnostics), legal (data privacy norms), environmental (bio-waste disposal rules). Suggest 3 operational standardisation measures." Inputs Required: Current branch performance data Regulatory checklist Franchisee qualification criteria Equipment sourcing details`
 
-Boutique Hotel Chain in Goa
+## Boutique Hotel Chain in Goa
 
-Backstory:
+`Backstory:`
 
-Kavya, 28, runs a boutique hotel chain in Goa catering to millennial travellers and digital nomads. With tourism recovering post-pandemic, she is planning to expand into eco-friendly themed properties. However, she needs to evaluate competition from budget hostels, premium resorts, and Airbnb rentals. The SWOT & PESTLE must highlight brand differentiation and seasonality risks while assessing opportunities in sustainable tourism.
+`Kavya, 28, runs a boutique hotel chain in Goa catering to millennial travellers and digital nomads. With tourism recovering post-pandemic, she is planning to expand into eco-friendly themed properties. However, she needs to evaluate competition from budget hostels, premium resorts, and Airbnb rentals. The SWOT & PESTLE must highlight brand differentiation and seasonality risks while assessing opportunities in sustainable tourism.`
 
-Goal:
+`Goal:`
 
-Create an expansion-focused SWOT & PESTLE for boutique hotels in Goa.
+`Create an expansion-focused SWOT & PESTLE for boutique hotels in Goa.`
 
-Prompt:
+`Prompt:
 
-"You are a hospitality strategist. Prepare a SWOT & PESTLE analysis for a boutique hotel chain in Goa expanding into eco-tourism. SWOT to detail strengths (unique themed stays, local partnerships), weaknesses (seasonal occupancy dips), opportunities (eco-conscious travel segment, remote working visas), threats (Airbnb penetration, extreme weather). PESTLE to assess political (tourism policy), economic (currency fluctuations affecting foreign tourists), social (shift to sustainable travel), technological (contactless check-in), legal (coastal zone regulations), environmental (waste management). Provide 3 marketing campaigns that leverage eco-tourism trends." Inputs Required: Occupancy rate data Competitor pricing Tourism board policy updates Sustainable property features
+`"You are a hospitality strategist. Prepare a SWOT & PESTLE analysis for a boutique hotel chain in Goa expanding into eco-tourism. SWOT to detail strengths (unique themed stays, local partnerships), weaknesses (seasonal occupancy dips), opportunities (eco-conscious travel segment, remote working visas), threats (Airbnb penetration, extreme weather). PESTLE to assess political (tourism policy), economic (currency fluctuations affecting foreign tourists), social (shift to sustainable travel), technological (contactless check-in), legal (coastal zone regulations), environmental (waste management). Provide 3 marketing campaigns that leverage eco-tourism trends." Inputs Required: Occupancy rate data Competitor pricing Tourism board policy updates Sustainable property features`
 
-Organic Skincare Brand
+## Organic Skincare Brand
 
-Backstory:
+`Backstory:`
 
-Ananya, 30, founded a D2C organic skincare brand that uses Ayurveda-based formulations. She plans to target both Indian metros and international markets via e-commerce. The SWOT & PESTLE must cover brand authenticity, export regulations, and competition from both established beauty giants and indie brands.
+`Ananya, 30, founded a D2C organic skincare brand that uses Ayurveda-based formulations. She plans to target both Indian metros and international markets via e-commerce. The SWOT & PESTLE must cover brand authenticity, export regulations, and competition from both established beauty giants and indie brands.`
 
-Goal:
+`Goal:
 
-Design a market positioning SWOT & PESTLE for an organic skincare D2C brand.
+`Design a market positioning SWOT & PESTLE for an organic skincare D2C brand.`
 
-Prompt:
+`Prompt:`
 
-"You are a D2C strategy consultant. Prepare a SWOT & PESTLE analysis for an Ayurveda-based organic skincare brand entering both Indian and global markets. SWOT to highlight strengths (authentic Ayurvedic formulations), weaknesses (limited manufacturing capacity), opportunities (global wellness trend, influencer marketing), threats (counterfeit products, regulatory delays). PESTLE to assess political (export incentives), economic (luxury spending trends), social (natural ingredient preference), technological (e-commerce growth), legal (FDA/AYUSH approvals), environmental (sustainable sourcing). Suggest 3 market-entry strategies for the US & EU." Inputs Required: Ingredient sourcing details Target export markets Brand certifications Influencer partnerships
+`"You are a D2C strategy consultant. Prepare a SWOT & PESTLE analysis for an Ayurveda-based organic skincare brand entering both Indian and global markets. SWOT to highlight strengths (authentic Ayurvedic formulations), weaknesses (limited manufacturing capacity), opportunities (global wellness trend, influencer marketing), threats (counterfeit products, regulatory delays). PESTLE to assess political (export incentives), economic (luxury spending trends), social (natural ingredient preference), technological (e-commerce growth), legal (FDA/AYUSH approvals), environmental (sustainable sourcing). Suggest 3 market-entry strategies for the US & EU." Inputs Required: Ingredient sourcing details Target export markets Brand certifications Influencer partnerships`
 
-Fintech Lending Startup
+## Fintech Lending Startup
 
-Backstory:
+`Backstory:`
 
-Siddharth, 32, co-founded a fintech startup offering instant personal loans to salaried millennials. With RBI tightening digital lending norms, he needs a SWOT & PESTLE to adjust his business model. This must assess compliance risks, evolving consumer trust issues, and competitor moves from established NBFCs and neobanks.
+`Siddharth, 32, co-founded a fintech startup offering instant personal loans to salaried millennials. With RBI tightening digital lending norms, he needs a SWOT & PESTLE to adjust his business model. This must assess compliance risks, evolving consumer trust issues, and competitor moves from established NBFCs and neobanks.`
 
-Goal:
+`Goal:`
 
-Build a compliance-aware SWOT & PESTLE for a fintech lending platform.
+`Build a compliance-aware SWOT & PESTLE for a fintech lending platform.`
 
-Prompt:
+`Prompt:`
 
-"You are a fintech policy and strategy consultant. Prepare a SWOT & PESTLE analysis for an Indian digital lending startup. SWOT to outline strengths (fast loan approval tech), weaknesses (limited capital reserves), opportunities (financial inclusion in Tier-2/3 cities), threats (RBI regulations, fraud risk). PESTLE to examine political (fintech regulation), economic (interest rate trends), social (millennial credit adoption), technological (AI risk scoring), legal (data privacy), environmental (paperless loan impact). Recommend 2 compliance-led growth strategies." Inputs Required: Loan default rates Partner NBFC details Regulatory notices Customer acquisition cost
+`"You are a fintech policy and strategy consultant. Prepare a SWOT & PESTLE analysis for an Indian digital lending startup. SWOT to outline strengths (fast loan approval tech), weaknesses (limited capital reserves), opportunities (financial inclusion in Tier-2/3 cities), threats (RBI regulations, fraud risk). PESTLE to examine political (fintech regulation), economic (interest rate trends), social (millennial credit adoption), technological (AI risk scoring), legal (data privacy), environmental (paperless loan impact). Recommend 2 compliance-led growth strategies." Inputs Required: Loan default rates Partner NBFC details Regulatory notices Customer acquisition cost`
 
-Co-working Space Expansion
+## Co-working Space Expansion
 
-Backstory:
+`Backstory:`
 
-Mehul, 31, manages a co-working space brand in Mumbai and Pune targeting freelancers and early-stage startups. He’s considering expanding into Tier-2 cities, but needs a SWOT & PESTLE to understand local adoption rates, infrastructure limitations, and post-pandemic remote work trends.
+`Mehul, 31, manages a co-working space brand in Mumbai and Pune targeting freelancers and early-stage startups. He’s considering expanding into Tier-2 cities, but needs a SWOT & PESTLE to understand local adoption rates, infrastructure limitations, and post-pandemic remote work trends.`
 
-Goal:
+`Goal:`
 
-Generate an expansion SWOT & PESTLE for co-working spaces in Tier-2 cities.
+`Generate an expansion SWOT & PESTLE for co-working spaces in Tier-2 cities.`
 
-Prompt:
+`Prompt:`
 
-"You are a workspace industry analyst. Create a SWOT & PESTLE analysis for a co-working brand expanding to Tier-2 Indian cities. SWOT to show strengths (flexible pricing models), weaknesses (brand recognition outside metros), opportunities (remote work adoption, start-up boom), threats (real estate price volatility, competitors). PESTLE to cover political (urban development policies), economic (city-level business growth), social (freelancing trend), technological (workspace booking apps), legal (lease laws), environmental (energy-efficient infrastructure). Suggest 3 launch initiatives for Tier-2 entry." Inputs Required: Current occupancy rates Target city list Competitor formats Real estate partnerships
+`"You are a workspace industry analyst. Create a SWOT & PESTLE analysis for a co-working brand expanding to Tier-2 Indian cities. SWOT to show strengths (flexible pricing models), weaknesses (brand recognition outside metros), opportunities (remote work adoption, start-up boom), threats (real estate price volatility, competitors). PESTLE to cover political (urban development policies), economic (city-level business growth), social (freelancing trend), technological (workspace booking apps), legal (lease laws), environmental (energy-efficient infrastructure). Suggest 3 launch initiatives for Tier-2 entry." Inputs Required: Current occupancy rates Target city list Competitor formats Real estate partnerships`
 
-Agritech Supply Chain Startup
+## Agritech Supply Chain Startup
 
-Backstory:
+`Backstory:`
 
-Ravi, 29, runs an agritech startup connecting farmers to wholesale buyers via a mobile platform. He’s aiming to secure funding for scaling operations to multiple states. Investors require a SWOT & PESTLE detailing the scalability potential, infrastructure dependencies, and government agri-schemes.
+`Ravi, 29, runs an agritech startup connecting farmers to wholesale buyers via a mobile platform. He’s aiming to secure funding for scaling operations to multiple states. Investors require a SWOT & PESTLE detailing the scalability potential, infrastructure dependencies, and government agri-schemes.`
 
-Goal:
+`Goal:`
 
-Create a funding-oriented SWOT & PESTLE for an agritech startup.
+`Create a funding-oriented SWOT & PESTLE for an agritech startup.`
 
-Prompt:
+`Prompt:`
 
-"You are an agritech business strategist. Prepare a SWOT & PESTLE analysis for a farm-to-market supply chain platform. SWOT to include strengths (direct farmer network), weaknesses (last-mile logistics gaps), opportunities (government agri-tech push), threats (weather disruptions, middlemen resistance). PESTLE to assess political (agriculture subsidies), economic (commodity price trends), social (farmer smartphone adoption), technological (AI crop forecasting), legal (contract farming laws), environmental (climate change). Recommend 2 scaling models and their pros/cons." Inputs Required: Number of farmers onboarded Crop categories Funding stage Government policy data
+`"You are an agritech business strategist. Prepare a SWOT & PESTLE analysis for a farm-to-market supply chain platform. SWOT to include strengths (direct farmer network), weaknesses (last-mile logistics gaps), opportunities (government agri-tech push), threats (weather disruptions, middlemen resistance). PESTLE to assess political (agriculture subsidies), economic (commodity price trends), social (farmer smartphone adoption), technological (AI crop forecasting), legal (contract farming laws), environmental (climate change). Recommend 2 scaling models and their pros/cons." Inputs Required: Number of farmers onboarded Crop categories Funding stage Government policy data`
 
-EV Charging Infrastructure Provider
+## EV Charging Infrastructure Provider
 
-Backstory:
+`Backstory:`
 
-Tanvi, 34, heads strategy for a company installing EV charging stations in urban residential complexes. With the EV market growing, she wants a SWOT & PESTLE that covers both technical and policy factors while identifying residential adoption barriers.
+`Tanvi, 34, heads strategy for a company installing EV charging stations in urban residential complexes. With the EV market growing, she wants a SWOT & PESTLE that covers both technical and policy factors while identifying residential adoption barriers.`
 
-Goal:
+`Goal:`
 
-Develop an infrastructure growth SWOT & PESTLE for EV charging networks.
+`Develop an infrastructure growth SWOT & PESTLE for EV charging networks.`
 
-Prompt:
+`Prompt:`
 
-"You are an EV infrastructure strategist. Prepare a SWOT & PESTLE analysis for a company installing EV charging stations in housing societies. SWOT to capture strengths (early-mover advantage), weaknesses (high installation cost), opportunities (EV adoption incentives), threats (tech obsolescence, policy shifts). PESTLE to analyse political (EV subsidies), economic (urban income levels), social (residential EV uptake), technological (charging speed), legal (housing society approvals), environmental (grid sustainability). Provide 3 adoption-boosting initiatives." Inputs Required: Current installation footprint Charging speed & tech specs Policy incentives Housing society rules
+`"You are an EV infrastructure strategist. Prepare a SWOT & PESTLE analysis for a company installing EV charging stations in housing societies. SWOT to capture strengths (early-mover advantage), weaknesses (high installation cost), opportunities (EV adoption incentives), threats (tech obsolescence, policy shifts). PESTLE to analyse political (EV subsidies), economic (urban income levels), social (residential EV uptake), technological (charging speed), legal (housing society approvals), environmental (grid sustainability). Provide 3 adoption-boosting initiatives." Inputs Required: Current installation footprint Charging speed & tech specs Policy incentives Housing society rules`
 
-Online Fitness Coaching Platform
+## Online Fitness Coaching Platform
 
-Backstory:
+`Backstory:`
 
-Rhea, 27, runs an online fitness platform targeting working professionals. With growing competition from global fitness apps, she needs a SWOT & PESTLE to identify differentiation opportunities using localised programs, corporate tie-ups, and wellness trends in India.
+`Rhea, 27, runs an online fitness platform targeting working professionals. With growing competition from global fitness apps, she needs a SWOT & PESTLE to identify differentiation opportunities using localised programs, corporate tie-ups, and wellness trends in India.`
 
-Goal:
+`Goal:`
 
-Produce a competitive edge SWOT & PESTLE for an online fitness brand.
+`Produce a competitive edge SWOT & PESTLE for an online fitness brand.`
 
-Prompt:
+`Prompt:`
 
-"You are a health and wellness strategist. Create a SWOT & PESTLE analysis for an Indian online fitness coaching platform. SWOT to identify strengths (local trainer network), weaknesses (low app engagement), opportunities (corporate wellness partnerships), threats (global competitors, retention challenges). PESTLE to assess political (FSSAI supplements regulation), economic (fitness spending trends), social (work-from-home wellness), technological (wearable integration), legal (online coaching liability), environmental (digital carbon footprint). Suggest 2 engagement-boosting program formats." Inputs Required: User engagement metrics Trainer count Partner brands Pricing models
+`"You are a health and wellness strategist. Create a SWOT & PESTLE analysis for an Indian online fitness coaching platform. SWOT to identify strengths (local trainer network), weaknesses (low app engagement), opportunities (corporate wellness partnerships), threats (global competitors, retention challenges). PESTLE to assess political (FSSAI supplements regulation), economic (fitness spending trends), social (work-from-home wellness), technological (wearable integration), legal (online coaching liability), environmental (digital carbon footprint). Suggest 2 engagement-boosting program formats." Inputs Required: User engagement metrics Trainer count Partner brands Pricing models`
 
-AI-based Recruitment Platform
+## AI-based Recruitment Platform
 
-Backstory:
+`Backstory:`
 
-Priya, 30, co-founded an AI-driven recruitment platform that matches candidates to jobs using skill-based scoring instead of resumes. While it has gained traction among Indian startups, she is eyeing expansion into mid-sized corporates and eventually Southeast Asia. She needs a SWOT & PESTLE to identify technological scalability, compliance with labor laws, and adoption challenges from HR departments used to traditional hiring.
+`Priya, 30, co-founded an AI-driven recruitment platform that matches candidates to jobs using skill-based scoring instead of resumes. While it has gained traction among Indian startups, she is eyeing expansion into mid-sized corporates and eventually Southeast Asia. She needs a SWOT & PESTLE to identify technological scalability, compliance with labor laws, and adoption challenges from HR departments used to traditional hiring.`
 
-Goal:
+`Goal:`
 
-Prepare a market-entry readiness SWOT & PESTLE for an AI hiring platform.
+`Prepare a market-entry readiness SWOT & PESTLE for an AI hiring platform.`
 
-Prompt:
+`Prompt:`
 
-"You are an HR tech strategist. Develop a SWOT & PESTLE analysis for an AI-driven recruitment platform expanding from startups to mid-sized corporates and new international markets. SWOT should assess strengths (AI-matching accuracy), weaknesses (limited enterprise integrations), opportunities (global talent shortages), threats (algorithm bias concerns, HR tech competition). PESTLE to cover political (labor law variations), economic (job market shifts), social (bias awareness in hiring), technological (AI explainability requirements), legal (data protection laws), environmental (remote hiring sustainability benefits). Provide 3 market-entry strategies with risk mitigation." Inputs Required: Current client base profile AI model explainability level Regional labor law summaries Integration partners
+`"You are an HR tech strategist. Develop a SWOT & PESTLE analysis for an AI-driven recruitment platform expanding from startups to mid-sized corporates and new international markets. SWOT should assess strengths (AI-matching accuracy), weaknesses (limited enterprise integrations), opportunities (global talent shortages), threats (algorithm bias concerns, HR tech competition). PESTLE to cover political (labor law variations), economic (job market shifts), social (bias awareness in hiring), technological (AI explainability requirements), legal (data protection laws), environmental (remote hiring sustainability benefits). Provide 3 market-entry strategies with risk mitigation." Inputs Required: Current client base profile AI model explainability level Regional labor law summaries Integration partners`
 
-Specialty Coffee Chain
+## Specialty Coffee Chain
 
-Backstory:
+`Backstory:`
 
-Arjun, 29, operates a chain of specialty coffee outlets in Bengaluru and Hyderabad targeting the urban youth market. He is considering expanding into Tier-1 malls and airports. The SWOT & PESTLE must evaluate the competitive landscape, customer price sensitivity, and potential for brand positioning as a premium lifestyle choice in India.
+`Arjun, 29, operates a chain of specialty coffee outlets in Bengaluru and Hyderabad targeting the urban youth market. He is considering expanding into Tier-1 malls and airports. The SWOT & PESTLE must evaluate the competitive landscape, customer price sensitivity, and potential for brand positioning as a premium lifestyle choice in India.`
 
-Goal:
+`Goal:`
 
-Generate a retail expansion SWOT & PESTLE for a premium coffee brand.
+`Generate a retail expansion SWOT & PESTLE for a premium coffee brand.`
 
-Prompt:
+`Prompt:`
 
-"You are a retail food and beverage strategist. Prepare a SWOT & PESTLE for a specialty coffee chain expanding to high-footfall malls and airports in Tier-1 cities. SWOT should list strengths (premium sourcing, artisanal brewing methods), weaknesses (higher price point vs. local cafes), opportunities (increasing cafe culture, airport lounge partnerships), threats (coffee price volatility, global chains). PESTLE should cover political (import tariffs on coffee beans), economic (urban disposable income), social (third-wave coffee trend), technological (mobile ordering), legal (FSSAI compliance), environmental (single-use cup bans). Suggest 2 innovative product launches tied to expansion." Inputs Required: Bean sourcing data Airport/mall footfall stats Competitor menu analysis Consumer price sensitivity survey
+`"You are a retail food and beverage strategist. Prepare a SWOT & PESTLE for a specialty coffee chain expanding to high-footfall malls and airports in Tier-1 cities. SWOT should list strengths (premium sourcing, artisanal brewing methods), weaknesses (higher price point vs. local cafes), opportunities (increasing cafe culture, airport lounge partnerships), threats (coffee price volatility, global chains). PESTLE should cover political (import tariffs on coffee beans), economic (urban disposable income), social (third-wave coffee trend), technological (mobile ordering), legal (FSSAI compliance), environmental (single-use cup bans). Suggest 2 innovative product launches tied to expansion." Inputs Required: Bean sourcing data Airport/mall footfall stats Competitor menu analysis Consumer price sensitivity survey`
 
-Renewable Energy Startup (Solar Microgrids)
+## Renewable Energy Startup (Solar Microgrids)
 
-Backstory:
+`Backstory:`
 
-Nikhil, 32, runs a renewable energy startup that installs solar microgrids in rural villages. He aims to scale operations to 200+ villages in the next three years and secure government grants. The SWOT & PESTLE must examine regulatory barriers, rural adoption patterns, and supply chain risks for solar equipment.
+`Nikhil, 32, runs a renewable energy startup that installs solar microgrids in rural villages. He aims to scale operations to 200+ villages in the next three years and secure government grants. The SWOT & PESTLE must examine regulatory barriers, rural adoption patterns, and supply chain risks for solar equipment.`
 
-Goal:
+`Goal:`
 
-Build a policy-aligned SWOT & PESTLE for rural solar microgrids.
+`Build a policy-aligned SWOT & PESTLE for rural solar microgrids.`
 
-Prompt:
+`Prompt:`
 
-"You are an energy policy and business consultant. Create a SWOT & PESTLE analysis for a solar microgrid company targeting rural electrification in India. SWOT should assess strengths (low-cost clean power), weaknesses (dependency on subsidies), opportunities (rural development programs), threats (import delays, grid competition). PESTLE to cover political (renewable energy targets), economic (rural income patterns), social (awareness of solar benefits), technological (battery storage improvements), legal (energy distribution licensing), environmental (seasonal sunlight variation). Recommend 3 funding sources and outreach strategies." Inputs Required: Current installed capacity Rural household income stats Solar equipment suppliers Government subsidy details
+`"You are an energy policy and business consultant. Create a SWOT & PESTLE analysis for a solar microgrid company targeting rural electrification in India. SWOT should assess strengths (low-cost clean power), weaknesses (dependency on subsidies), opportunities (rural development programs), threats (import delays, grid competition). PESTLE to cover political (renewable energy targets), economic (rural income patterns), social (awareness of solar benefits), technological (battery storage improvements), legal (energy distribution licensing), environmental (seasonal sunlight variation). Recommend 3 funding sources and outreach strategies." Inputs Required: Current installed capacity Rural household income stats Solar equipment suppliers Government subsidy details`
 
-Online Mental Health Platform
+## Online Mental Health Platform
 
-Backstory:
+`Backstory:`
 
-Shruti, 27, founded an online therapy platform connecting licensed psychologists to clients across India. With increasing demand but also rising competition, she needs a SWOT & PESTLE to refine positioning, tackle mental health stigma, and navigate telemedicine regulations.
+`Shruti, 27, founded an online therapy platform connecting licensed psychologists to clients across India. With increasing demand but also rising competition, she needs a SWOT & PESTLE to refine positioning, tackle mental health stigma, and navigate telemedicine regulations.`
 
-Goal:
+`Goal:`
 
-Design a stigma-aware SWOT & PESTLE for an online mental health brand.
+`Design a stigma-aware SWOT & PESTLE for an online mental health brand.`
 
-Prompt:
+`Prompt:`
 
-"You are a digital health strategist. Create a SWOT & PESTLE for an online mental health platform in India. SWOT should cover strengths (qualified therapist network), weaknesses (low repeat engagement), opportunities (corporate wellness tie-ups), threats (competition from free apps, misinformation). PESTLE to examine political (healthcare policy), economic (insurance coverage trends), social (mental health stigma reduction), technological (secure video platforms), legal (telemedicine compliance), environmental (digital therapy's lower carbon footprint). Propose 2 long-term brand trust-building campaigns." Inputs Required: Session completion rates Therapist credentials Regulatory updates Corporate HR partnerships
+`"You are a digital health strategist. Create a SWOT & PESTLE for an online mental health platform in India. SWOT should cover strengths (qualified therapist network), weaknesses (low repeat engagement), opportunities (corporate wellness tie-ups), threats (competition from free apps, misinformation). PESTLE to examine political (healthcare policy), economic (insurance coverage trends), social (mental health stigma reduction), technological (secure video platforms), legal (telemedicine compliance), environmental (digital therapy's lower carbon footprint). Propose 2 long-term brand trust-building campaigns." Inputs Required: Session completion rates Therapist credentials Regulatory updates Corporate HR partnerships`
 
-EdTech for Competitive Exams
+## EdTech for Competitive Exams
 
-Backstory:
+`Backstory:`
 
-Aman, 31, runs an EdTech platform for UPSC and banking exam preparation. With increased digital adoption post-COVID, he wants a SWOT & PESTLE to assess product-market fit, competitive differentiation, and rural internet penetration challenges.
+`Aman, 31, runs an EdTech platform for UPSC and banking exam preparation. With increased digital adoption post-COVID, he wants a SWOT & PESTLE to assess product-market fit, competitive differentiation, and rural internet penetration challenges.`
 
-Goal:
+`Goal:`
 
-Produce a scale-readiness SWOT & PESTLE for a competitive exam EdTech brand.
+`Produce a scale-readiness SWOT & PESTLE for a competitive exam EdTech brand.`
 
-Prompt:
+`Prompt:`
 
-"You are an education technology strategist. Develop a SWOT & PESTLE for an EdTech platform focused on UPSC and banking exams. SWOT should include strengths (top educator roster), weaknesses (high churn post-exam season), opportunities (Tier-3 city penetration), threats (free YouTube content, low-cost competitors). PESTLE should assess political (education policy), economic (affordable pricing needs), social (parental influence on learning modes), technological (AI practice test generators), legal (edtech advertising compliance), environmental (data center energy use). Recommend 2 rural engagement initiatives." Inputs Required: Active user stats by region Educator retention rate Competitive pricing data Internet speed penetration map
+`"You are an education technology strategist. Develop a SWOT & PESTLE for an EdTech platform focused on UPSC and banking exams. SWOT should include strengths (top educator roster), weaknesses (high churn post-exam season), opportunities (Tier-3 city penetration), threats (free YouTube content, low-cost competitors). PESTLE should assess political (education policy), economic (affordable pricing needs), social (parental influence on learning modes), technological (AI practice test generators), legal (edtech advertising compliance), environmental (data center energy use). Recommend 2 rural engagement initiatives." Inputs Required: Active user stats by region Educator retention rate Competitive pricing data Internet speed penetration map`
 
-Luxury Handloom Brand
+## Luxury Handloom Brand
 
-Backstory:
+`Backstory:`
 
-Meera, 34, runs a luxury handloom brand working with rural weavers across India. She wants to enter international markets via high-end e-commerce platforms. The SWOT & PESTLE must highlight cultural storytelling, premium branding, and trade compliance factors.
+`Meera, 34, runs a luxury handloom brand working with rural weavers across India. She wants to enter international markets via high-end e-commerce platforms. The SWOT & PESTLE must highlight cultural storytelling, premium branding, and trade compliance factors.`
 
-Goal:
+`Goal:`
 
-Create a cultural branding SWOT & PESTLE for an export-oriented luxury handloom label.
+`Create a cultural branding SWOT & PESTLE for an export-oriented luxury handloom label.`
 
-Prompt:
+`Prompt:`
 
-"You are a fashion and export strategist. Prepare a SWOT & PESTLE for a luxury handloom brand entering global e-commerce. SWOT should assess strengths (heritage designs, skilled artisans), weaknesses (limited production volume), opportunities (global slow-fashion trend), threats (mass-produced imitations, fluctuating export costs). PESTLE to cover political (export duty changes), economic (luxury spending trends), social (cultural heritage appeal), technological (AR try-on features), legal (intellectual property for designs), environmental (eco-friendly dyeing). Propose 3 storytelling campaign ideas." Inputs Required: Artisan community locations Target export markets Pricing benchmarks Certification details
+`"You are a fashion and export strategist. Prepare a SWOT & PESTLE for a luxury handloom brand entering global e-commerce. SWOT should assess strengths (heritage designs, skilled artisans), weaknesses (limited production volume), opportunities (global slow-fashion trend), threats (mass-produced imitations, fluctuating export costs). PESTLE to cover political (export duty changes), economic (luxury spending trends), social (cultural heritage appeal), technological (AR try-on features), legal (intellectual property for designs), environmental (eco-friendly dyeing). Propose 3 storytelling campaign ideas." Inputs Required: Artisan community locations Target export markets Pricing benchmarks Certification details`
 
-Farm-to-Table Organic Restaurant Chain
+## Farm-to-Table Organic Restaurant Chain
 
-Backstory:
+`Backstory:`
 
-Sanjay, 33, runs a small chain of farm-to-table restaurants in Pune and Mumbai that source all ingredients from certified organic farms. He wants to expand to Delhi and Bengaluru but is concerned about supply chain consistency, price sensitivity among urban diners, and competition from health-food brands. He needs a SWOT & PESTLE to prepare for scaling without compromising quality.
+`Sanjay, 33, runs a small chain of farm-to-table restaurants in Pune and Mumbai that source all ingredients from certified organic farms. He wants to expand to Delhi and Bengaluru but is concerned about supply chain consistency, price sensitivity among urban diners, and competition from health-food brands. He needs a SWOT & PESTLE to prepare for scaling without compromising quality.`
+`Goal:`
 
-Goal:
+`Generate a scale-ready SWOT & PESTLE for an organic restaurant chain.`
 
-Generate a scale-ready SWOT & PESTLE for an organic restaurant chain.
+`Prompt:`
 
-Prompt:
+`"You are a sustainable food business consultant. Create a detailed SWOT & PESTLE for an organic farm-to-table restaurant chain expanding into new metros. SWOT should assess strengths (fresh organic produce, farm partnerships), weaknesses (higher menu prices, sourcing constraints), opportunities (growing health-conscious consumer base), threats (seasonal availability, supply chain disruption). PESTLE should evaluate political (FSSAI certification policies), economic (urban disposable income), social (healthy eating trends), technological (online table booking apps), legal (food safety compliance), environmental (organic farming’s climate impact). Recommend 3 ways to optimize supply chain resilience while scaling." Inputs Required: Current sourcing agreements Menu price comparison to competitors Seasonal supply data Customer demographics`
 
-"You are a sustainable food business consultant. Create a detailed SWOT & PESTLE for an organic farm-to-table restaurant chain expanding into new metros. SWOT should assess strengths (fresh organic produce, farm partnerships), weaknesses (higher menu prices, sourcing constraints), opportunities (growing health-conscious consumer base), threats (seasonal availability, supply chain disruption). PESTLE should evaluate political (FSSAI certification policies), economic (urban disposable income), social (healthy eating trends), technological (online table booking apps), legal (food safety compliance), environmental (organic farming’s climate impact). Recommend 3 ways to optimize supply chain resilience while scaling." Inputs Required: Current sourcing agreements Menu price comparison to competitors Seasonal supply data Customer demographics
+## AI-powered Logistics Optimization Platform
 
-AI-powered Logistics Optimization Platform
+`Backstory:`
 
-Backstory:
+`Ravi, 30, founded a SaaS startup offering AI-based logistics optimization for SMEs in India. The product helps reduce delivery times and fuel costs. With interest from mid-sized e-commerce brands, he wants a SWOT & PESTLE to assess adoption readiness, competitive edge, and regulatory compliance around transport data sharing.`
 
-Ravi, 30, founded a SaaS startup offering AI-based logistics optimization for SMEs in India. The product helps reduce delivery times and fuel costs. With interest from mid-sized e-commerce brands, he wants a SWOT & PESTLE to assess adoption readiness, competitive edge, and regulatory compliance around transport data sharing.
+`Goal:`
 
-Goal:
+`Design a market-entry SWOT & PESTLE for a logistics tech platform.`
 
-Design a market-entry SWOT & PESTLE for a logistics tech platform.
+`Prompt:`
 
-Prompt:
+`"You are a supply chain and technology strategist. Develop a SWOT & PESTLE for an AI logistics optimization SaaS targeting Indian SMEs and e-commerce brands. SWOT should assess strengths (route optimization algorithms), weaknesses (limited large-scale client case studies), opportunities (growing e-commerce delivery demand), threats (data privacy concerns, bigger players). PESTLE should examine political (logistics policy), economic (fuel price trends), social (consumer delivery expectations), technological (real-time GPS tracking), legal (data protection laws), environmental (reduced carbon emissions). Suggest 2 partnerships to accelerate adoption." Inputs Required: AI model accuracy rate Client case studies Competitor features Fuel cost data trends`
 
-"You are a supply chain and technology strategist. Develop a SWOT & PESTLE for an AI logistics optimization SaaS targeting Indian SMEs and e-commerce brands. SWOT should assess strengths (route optimization algorithms), weaknesses (limited large-scale client case studies), opportunities (growing e-commerce delivery demand), threats (data privacy concerns, bigger players). PESTLE should examine political (logistics policy), economic (fuel price trends), social (consumer delivery expectations), technological (real-time GPS tracking), legal (data protection laws), environmental (reduced carbon emissions). Suggest 2 partnerships to accelerate adoption." Inputs Required: AI model accuracy rate Client case studies Competitor features Fuel cost data trends
+## Fitness & Wellness App for Women
 
-Fitness & Wellness App for Women
+`Backstory:`
 
-Backstory:
+`Ananya, 28, developed a fitness and wellness app specifically for Indian women, integrating home workouts, menstrual tracking, and nutrition tips based on Ayurvedic principles. She wants a SWOT & PESTLE to understand retention challenges, expand to rural women via low-data mode, and attract investor interest.`
 
-Ananya, 28, developed a fitness and wellness app specifically for Indian women, integrating home workouts, menstrual tracking, and nutrition tips based on Ayurvedic principles. She wants a SWOT & PESTLE to understand retention challenges, expand to rural women via low-data mode, and attract investor interest.
+`Goal:`
 
-Goal:
+`Create a growth-oriented SWOT & PESTLE for a women-focused wellness app.`
 
-Create a growth-oriented SWOT & PESTLE for a women-focused wellness app.
+`Prompt:`
 
-Prompt:
+`"You are a digital health and fitness strategist. Prepare a SWOT & PESTLE for a women’s wellness app combining workouts, menstrual tracking, and Ayurveda-based nutrition. SWOT should assess strengths (personalized plans), weaknesses (urban-centric adoption), opportunities (women’s health awareness), threats (data misuse fears, free competitors). PESTLE should cover political (women’s health initiatives), economic (spending on wellness), social (body positivity movement), technological (AI personalization), legal (data privacy), environmental (digital health’s low carbon footprint). Suggest 3 rural outreach and engagement strategies." Inputs Required: User demographics Feature usage analytics Privacy compliance level Partner nutritionists`
 
-"You are a digital health and fitness strategist. Prepare a SWOT & PESTLE for a women’s wellness app combining workouts, menstrual tracking, and Ayurveda-based nutrition. SWOT should assess strengths (personalized plans), weaknesses (urban-centric adoption), opportunities (women’s health awareness), threats (data misuse fears, free competitors). PESTLE should cover political (women’s health initiatives), economic (spending on wellness), social (body positivity movement), technological (AI personalization), legal (data privacy), environmental (digital health’s low carbon footprint). Suggest 3 rural outreach and engagement strategies." Inputs Required: User demographics Feature usage analytics Privacy compliance level Partner nutritionists
+## Co-living Spaces for Young Professionals
 
-Co-living Spaces for Young Professionals
+`Backstory:`
 
-Backstory:
+`Kabir, 29, manages a co-living brand in Gurgaon offering fully furnished, community-driven rental spaces for young professionals. He wants to expand to Pune and Bengaluru while ensuring high occupancy rates and unique value compared to PGs and rentals. The SWOT & PESTLE must evaluate market demand, zoning laws, and lifestyle trends.`
 
-Kabir, 29, manages a co-living brand in Gurgaon offering fully furnished, community-driven rental spaces for young professionals. He wants to expand to Pune and Bengaluru while ensuring high occupancy rates and unique value compared to PGs and rentals. The SWOT & PESTLE must evaluate market demand, zoning laws, and lifestyle trends.
+`Goal:`
 
-Goal:
+`Build an expansion SWOT & PESTLE for a co-living space brand.`
 
-Build an expansion SWOT & PESTLE for a co-living space brand.
+`Prompt:`
 
-Prompt:
+`"You are a real estate and lifestyle market strategist. Create a SWOT & PESTLE for a co-living brand targeting 22–35-year-old professionals in Tier-1 cities. SWOT should assess strengths (community living experience, prime locations), weaknesses (higher rent vs. PGs), opportunities (urban migration of young workers), threats (real estate price fluctuations, zoning law changes). PESTLE should examine political (urban housing policy), economic (rental affordability trends), social (work-from-home culture), technological (smart home integrations), legal (tenant-landlord regulations), environmental (eco-friendly housing demand). Recommend 2 marketing campaigns to boost occupancy during expansion." Inputs Required: Current occupancy rates Target city rental market data Customer satisfaction surveys Property acquisition costs`
 
-"You are a real estate and lifestyle market strategist. Create a SWOT & PESTLE for a co-living brand targeting 22–35-year-old professionals in Tier-1 cities. SWOT should assess strengths (community living experience, prime locations), weaknesses (higher rent vs. PGs), opportunities (urban migration of young workers), threats (real estate price fluctuations, zoning law changes). PESTLE should examine political (urban housing policy), economic (rental affordability trends), social (work-from-home culture), technological (smart home integrations), legal (tenant-landlord regulations), environmental (eco-friendly housing demand). Recommend 2 marketing campaigns to boost occupancy during expansion." Inputs Required: Current occupancy rates Target city rental market data Customer satisfaction surveys Property acquisition costs
+## Blockchain-based Supply Chain Transparency Tool
 
-Blockchain-based Supply Chain Transparency Tool
+`Backstory:`
 
-Backstory:
+`Ishaan, 31, is building a blockchain platform that enables complete traceability for agricultural produce from farm to store. Target clients include organic food brands and exporters. He needs a SWOT & PESTLE to highlight transparency benefits, adoption challenges, and cross-border compliance.`
 
-Ishaan, 31, is building a blockchain platform that enables complete traceability for agricultural produce from farm to store. Target clients include organic food brands and exporters. He needs a SWOT & PESTLE to highlight transparency benefits, adoption challenges, and cross-border compliance.
+`Goal:`
 
-Goal:
+`Generate a compliance-focused SWOT & PESTLE for a blockchain agri-supply chain platform.`
 
-Generate a compliance-focused SWOT & PESTLE for a blockchain agri-supply chain platform.
+`Prompt:`
 
-Prompt:
+`"You are a blockchain adoption consultant. Prepare a SWOT & PESTLE for a supply chain transparency platform targeting agriculture and food export sectors. SWOT should assess strengths (immutable records), weaknesses (farmer onboarding difficulty), opportunities (global demand for traceable food), threats (blockchain regulation changes, tech literacy gap). PESTLE should cover political (agriculture policy), economic (export market growth), social (consumer trust in traceable goods), technological (IoT integration), legal (cross-border data compliance), environmental (sustainable sourcing benefits). Recommend 3 strategies to improve farmer onboarding." Inputs Required: Blockchain platform features Export regulation data Target client segments Farmer literacy levels`
 
-"You are a blockchain adoption consultant. Prepare a SWOT & PESTLE for a supply chain transparency platform targeting agriculture and food export sectors. SWOT should assess strengths (immutable records), weaknesses (farmer onboarding difficulty), opportunities (global demand for traceable food), threats (blockchain regulation changes, tech literacy gap). PESTLE should cover political (agriculture policy), economic (export market growth), social (consumer trust in traceable goods), technological (IoT integration), legal (cross-border data compliance), environmental (sustainable sourcing benefits). Recommend 3 strategies to improve farmer onboarding." Inputs Required: Blockchain platform features Export regulation data Target client segments Farmer literacy levels
+## Online Language Learning Platform
 
-Online Language Learning Platform
+`Backstory:`
 
-Backstory:
+`Ritika, 26, runs a language-learning platform focusing on Indian regional languages for professionals relocating within India. She now wants to add international languages for students and job seekers. She needs a SWOT & PESTLE to gauge demand, partnership opportunities, and tech scalability.`
 
-Ritika, 26, runs a language-learning platform focusing on Indian regional languages for professionals relocating within India. She now wants to add international languages for students and job seekers. She needs a SWOT & PESTLE to gauge demand, partnership opportunities, and tech scalability.
+`Goal:`
 
-Goal:
+`Create a market-expansion SWOT & PESTLE for a language learning platform.`
 
-Create a market-expansion SWOT & PESTLE for a language learning platform.
+`Prompt:`
 
-Prompt:
+`"You are an edtech market strategist. Develop a SWOT & PESTLE for a language learning platform expanding from Indian regional languages to international ones. SWOT should assess strengths (native speaker trainers), weaknesses (limited international presence), opportunities (global job seekers), threats (Duolingo and other free apps). PESTLE should cover political (education policy), economic (job market requirements), social (migration trends), technological (AI speech recognition), legal (copyright for course materials), environmental (fully digital delivery). Suggest 2 strategic alliances for market growth." Inputs Required: Current course completion rates Target audience regions Competitive feature comparison Language demand data`
 
-"You are an edtech market strategist. Develop a SWOT & PESTLE for a language learning platform expanding from Indian regional languages to international ones. SWOT should assess strengths (native speaker trainers), weaknesses (limited international presence), opportunities (global job seekers), threats (Duolingo and other free apps). PESTLE should cover political (education policy), economic (job market requirements), social (migration trends), technological (AI speech recognition), legal (copyright for course materials), environmental (fully digital delivery). Suggest 2 strategic alliances for market growth." Inputs Required: Current course completion rates Target audience regions Competitive feature comparison Language demand data
+## VR-based Industrial Safety Training Company
 
-VR-based Industrial Safety Training Company
+`Backstory:`
 
-Backstory:
+`Vivek, 34, operates a company providing virtual reality safety training for manufacturing and construction workers. With India’s industrial safety regulations tightening, he wants a SWOT & PESTLE to position the company for government contracts and large enterprise deals.`
 
-Vivek, 34, operates a company providing virtual reality safety training for manufacturing and construction workers. With India’s industrial safety regulations tightening, he wants a SWOT & PESTLE to position the company for government contracts and large enterprise deals.
+`Goal:`
 
-Goal:
+`Produce a regulation-aligned SWOT & PESTLE for a VR safety training firm.`
 
-Produce a regulation-aligned SWOT & PESTLE for a VR safety training firm.
+`Prompt:`
 
-Prompt:
-
-"You are an industrial safety technology consultant. Create a SWOT & PESTLE for a VR-based safety training provider targeting manufacturing and construction companies. SWOT should assess strengths (immersive learning, reduced accidents), weaknesses (high VR equipment cost), opportunities (OSHA compliance demand), threats (low VR adoption in small firms). PESTLE should cover political (workplace safety laws), economic (industrial growth), social (worker training needs), technological (VR hardware improvements), legal (liability in training), environmental (reduced resource use vs. physical training). Recommend 2 pilot programs for government adoption." Inputs Required: VR module completion rates Hardware vendor details Industry safety regulation data Target client industry list
+`"You are an industrial safety technology consultant. Create a SWOT & PESTLE for a VR-based safety training provider targeting manufacturing and construction companies. SWOT should assess strengths (immersive learning, reduced accidents), weaknesses (high VR equipment cost), opportunities (OSHA compliance demand), threats (low VR adoption in small firms). PESTLE should cover political (workplace safety laws), economic (industrial growth), social (worker training needs), technological (VR hardware improvements), legal (liability in training), environmental (reduced resource use vs. physical training). Recommend 2 pilot programs for government adoption." Inputs Required: VR module completion rates Hardware vendor details Industry safety regulation data Target client industry list`
 
