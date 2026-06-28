@@ -704,107 +704,107 @@
 `"You are a disaster management procurement advisor. Draft a tender documentation checklist for supplying flood relief shelters, covering: product durability certifications, rapid deployment timelines, disaster response staff training plans, and post-disaster maintenance commitments." Inputs Required from User: Shelter capacity & specifications Delivery lead time Staff training details Maintenance strategy`
 
 
-Privacy Policy & T&C Generation
+# Privacy Policy & T&C Generation
 
-E-commerce Website Privacy Policy Draft (India-specific)
+## E-commerce Website Privacy Policy Draft (India-specific)
 
-Backstory:
+`Backstory:`
 
-A 29-year-old entrepreneur in Bengaluru is launching a home décor e-commerce platform targeting urban millennials. The website collects customer data such as names, addresses, payment details, and browsing history to personalize recommendations and process orders. Since the Digital Personal Data Protection (DPDP) Act, 2023 is now enforceable in India, the founder wants a clear, legally compliant privacy policy that builds user trust and avoids penalties.
+`A 29-year-old entrepreneur in Bengaluru is launching a home décor e-commerce platform targeting urban millennials. The website collects customer data such as names, addresses, payment details, and browsing history to personalize recommendations and process orders. Since the Digital Personal Data Protection (DPDP) Act, 2023 is now enforceable in India, the founder wants a clear, legally compliant privacy policy that builds user trust and avoids penalties.`
 
-Goal:
+`Goal:`
 
-Create a privacy policy tailored for an Indian e-commerce business that covers all DPDP Act requirements, explains data usage clearly, and instills confidence in customers.
+`Create a privacy policy tailored for an Indian e-commerce business that covers all DPDP Act requirements, explains data usage clearly, and instills confidence in customers.`
 
-Prompt:
+`Prompt:`
 
-"You are a legal content specialist for Indian startups. Draft a Privacy Policy for an Indian e-commerce website that complies with the DPDP Act, IT Act, and Consumer Protection (E-Commerce) Rules. Structure it with clear headings: Introduction, Information Collected, Purpose of Data Processing, Data Sharing & Third Parties, Cookies & Tracking Tools, User Rights (Access, Correction, Deletion), Data Retention Periods, Security Measures, International Data Transfers, and Contact Details for Grievance Redressal. Ensure plain language, mobile-friendly formatting, and no legal jargon for general readers." Inputs Required from User: Nature of e-commerce products/services Types of personal and sensitive data collected Data storage & encryption practices Third-party integrations (payment gateways, analytics tools) Customer grievance contact point
+`"You are a legal content specialist for Indian startups. Draft a Privacy Policy for an Indian e-commerce website that complies with the DPDP Act, IT Act, and Consumer Protection (E-Commerce) Rules. Structure it with clear headings: Introduction, Information Collected, Purpose of Data Processing, Data Sharing & Third Parties, Cookies & Tracking Tools, User Rights (Access, Correction, Deletion), Data Retention Periods, Security Measures, International Data Transfers, and Contact Details for Grievance Redressal. Ensure plain language, mobile-friendly formatting, and no legal jargon for general readers." Inputs Required from User: Nature of e-commerce products/services Types of personal and sensitive data collected Data storage & encryption practices Third-party integrations (payment gateways, analytics tools) Customer grievance contact point`
 
-Mobile App Privacy Policy for Health & Fitness Startup
+## Mobile App Privacy Policy for Health & Fitness Startup
 
-Backstory:
+`Backstory:`
 
-A Gurugram-based fitness-tech startup has launched a mobile app offering personalized workout plans and diet tracking. The app collects sensitive health data like weight, BMI, daily calorie intake, and wearable device integrations. With India’s DPDP Act in force and health data classified as “sensitive personal data,” the founder needs a privacy policy that explicitly addresses health data security, third-party integrations (wearables, payment gateways), and user consent mechanisms. The startup also wants to display trustworthiness to attract global users.
+`A Gurugram-based fitness-tech startup has launched a mobile app offering personalized workout plans and diet tracking. The app collects sensitive health data like weight, BMI, daily calorie intake, and wearable device integrations. With India’s DPDP Act in force and health data classified as “sensitive personal data,” the founder needs a privacy policy that explicitly addresses health data security, third-party integrations (wearables, payment gateways), and user consent mechanisms. The startup also wants to display trustworthiness to attract global users.`
 
-Goal:
+`Goal:`
 
-Draft a privacy policy for an Indian health-tech app that is compliant with Indian laws and aligned with international privacy best practices.
+`Draft a privacy policy for an Indian health-tech app that is compliant with Indian laws and aligned with international privacy best practices.`
 
-Prompt:
+`Prompt:`
 
-"You are a legal & compliance advisor for Indian health-tech startups. Draft a privacy policy for a mobile health & fitness application that complies with the DPDP Act, IT Act, and Medical Council of India guidelines where applicable. Include sections for: Data Collection (health, biometric, location), Purpose of Use, Consent & Withdrawal Process, Third-party Integrations (wearables, nutrition APIs), Data Retention Policy, User Rights (access, correction, deletion), Security & Encryption Standards, Breach Notification Protocols, and Contact Details for Queries. Write in simple, app-friendly formatting for in-app display." Inputs Required from User: Type of health data collected Third-party services integrated Storage and encryption methods Retention period for health data Contact details for data-related grievances
+`"You are a legal & compliance advisor for Indian health-tech startups. Draft a privacy policy for a mobile health & fitness application that complies with the DPDP Act, IT Act, and Medical Council of India guidelines where applicable. Include sections for: Data Collection (health, biometric, location), Purpose of Use, Consent & Withdrawal Process, Third-party Integrations (wearables, nutrition APIs), Data Retention Policy, User Rights (access, correction, deletion), Security & Encryption Standards, Breach Notification Protocols, and Contact Details for Queries. Write in simple, app-friendly formatting for in-app display." Inputs Required from User: Type of health data collected Third-party services integrated Storage and encryption methods Retention period for health data Contact details for data-related grievances`
 
-Privacy Policy for EdTech Platform Serving Minors
+## Privacy Policy for EdTech Platform Serving Minors
 
-Backstory:
+`Backstory:`
 
-An EdTech startup in Hyderabad offers live classes for school children. The platform collects personal data from students under 18, including their names, age, school details, recorded class sessions, and parents’ contact info. Since the DPDP Act and COPPA-equivalent protections for minors are becoming stricter, the founders want a privacy policy that ensures parental consent, limited data retention, and safe online interaction between students and teachers.
+`An EdTech startup in Hyderabad offers live classes for school children. The platform collects personal data from students under 18, including their names, age, school details, recorded class sessions, and parents’ contact info. Since the DPDP Act and COPPA-equivalent protections for minors are becoming stricter, the founders want a privacy policy that ensures parental consent, limited data retention, and safe online interaction between students and teachers.`
 
-Goal:
+`Goal:`
 
-Draft a privacy policy for an Indian EdTech platform catering to minors that ensures compliance with child data protection standards.
+`Draft a privacy policy for an Indian EdTech platform catering to minors that ensures compliance with child data protection standards.`
 
-Prompt:
+`Prompt:`
 
-"You are a child data protection specialist. Draft a privacy policy for an Indian EdTech platform that collects information from minors. Include: Scope & Applicability, Data Collection Practices, Parental Consent Process, Data Sharing Limits, Security Measures for Live Video & Chat Features, Retention Periods for Recorded Content, Rights of Parents/Guardians, and Contact Information. Ensure the language is friendly, simple, and understandable for parents while meeting DPDP Act requirements." Inputs Required from User: Age group of students served Data points collected Storage & deletion policies for video classes Parental consent workflow Third-party education tools integrated
+`"You are a child data protection specialist. Draft a privacy policy for an Indian EdTech platform that collects information from minors. Include: Scope & Applicability, Data Collection Practices, Parental Consent Process, Data Sharing Limits, Security Measures for Live Video & Chat Features, Retention Periods for Recorded Content, Rights of Parents/Guardians, and Contact Information. Ensure the language is friendly, simple, and understandable for parents while meeting DPDP Act requirements." Inputs Required from User: Age group of students served Data points collected Storage & deletion policies for video classes Parental consent workflow Third-party education tools integrated`
 
-SaaS B2B Privacy Policy with Global Client Base
+## SaaS B2B Privacy Policy with Global Client Base
 
-Backstory:
+`Backstory:`
 
-A Pune-based SaaS company provides CRM tools to clients in India, the US, and Europe. It collects both client business data and personal data of their customers. Since the business serves multiple jurisdictions, the privacy policy must comply with India’s DPDP Act, GDPR (EU), and CCPA (California). The CTO wants a single unified privacy policy that covers cross-border data transfers, multiple regulatory frameworks, and security certifications.
+`A Pune-based SaaS company provides CRM tools to clients in India, the US, and Europe. It collects both client business data and personal data of their customers. Since the business serves multiple jurisdictions, the privacy policy must comply with India’s DPDP Act, GDPR (EU), and CCPA (California). The CTO wants a single unified privacy policy that covers cross-border data transfers, multiple regulatory frameworks, and security certifications.`
 
-Goal:
+`Goal:`
 
-Draft a privacy policy for a global SaaS provider based in India, harmonizing compliance with Indian and international laws.
+`Draft a privacy policy for a global SaaS provider based in India, harmonizing compliance with Indian and international laws.`
 
-Prompt:
+`Prompt:`
 
-"You are a global privacy compliance consultant. Draft a privacy policy for a SaaS CRM platform with an international client base. Address: Types of Data Collected, Legal Basis for Processing (per jurisdiction), Cross-border Data Transfers & Safeguards, Third-party Hosting Providers, Data Security Measures (ISO/IEC 27001 compliance), User Rights (DPDP, GDPR, CCPA), Data Retention Timelines, and Contact Details for Multi-region Support. Ensure clarity for both Indian and foreign clients." Inputs Required from User: Client locations & markets served Data hosting locations Security certifications in place Cross-border transfer mechanisms (SCCs, adequacy) Support contact information
+`"You are a global privacy compliance consultant. Draft a privacy policy for a SaaS CRM platform with an international client base. Address: Types of Data Collected, Legal Basis for Processing (per jurisdiction), Cross-border Data Transfers & Safeguards, Third-party Hosting Providers, Data Security Measures (ISO/IEC 27001 compliance), User Rights (DPDP, GDPR, CCPA), Data Retention Timelines, and Contact Details for Multi-region Support. Ensure clarity for both Indian and foreign clients." Inputs Required from User: Client locations & markets served Data hosting locations Security certifications in place Cross-border transfer mechanisms (SCCs, adequacy) Support contact information`
 
-Privacy Policy for Fintech Lending App
+## Privacy Policy for Fintech Lending App
 
-Backstory:
+`Backstory:`
 
-A Mumbai-based digital lending platform collects sensitive financial data such as PAN, Aadhaar, bank statements, and credit scores from customers to process instant loans. RBI guidelines require explicit disclosure of data handling practices, and the DPDP Act demands user consent before collection. The founder needs a privacy policy that reassures customers about security while satisfying RBI and legal obligations.
+`A Mumbai-based digital lending platform collects sensitive financial data such as PAN, Aadhaar, bank statements, and credit scores from customers to process instant loans. RBI guidelines require explicit disclosure of data handling practices, and the DPDP Act demands user consent before collection. The founder needs a privacy policy that reassures customers about security while satisfying RBI and legal obligations.`
 
-Goal:
+`Goal:`
 
-Draft a privacy policy for an Indian fintech lending app with strong emphasis on financial data security and RBI compliance.
+`Draft a privacy policy for an Indian fintech lending app with strong emphasis on financial data security and RBI compliance.`
 
-Prompt:
+`Prompt:`
 
-"You are a fintech legal compliance expert. Draft a privacy policy for a digital lending application in India that complies with the DPDP Act, IT Act, RBI’s Digital Lending Guidelines, and relevant KYC norms. Include sections for: Data Collection & Use, Consent Mechanisms, Data Storage & Encryption, Data Sharing with NBFC Partners, User Rights & Complaint Handling, Retention & Deletion Policies, and Security Audit Practices. Write in customer-friendly language with clear disclosures." Inputs Required from User: Loan processing workflow Types of KYC and financial data collected Partnerships with NBFCs or banks Data storage & security measures Complaint redressal contact info
+`"You are a fintech legal compliance expert. Draft a privacy policy for a digital lending application in India that complies with the DPDP Act, IT Act, RBI’s Digital Lending Guidelines, and relevant KYC norms. Include sections for: Data Collection & Use, Consent Mechanisms, Data Storage & Encryption, Data Sharing with NBFC Partners, User Rights & Complaint Handling, Retention & Deletion Policies, and Security Audit Practices. Write in customer-friendly language with clear disclosures." Inputs Required from User: Loan processing workflow Types of KYC and financial data collected Partnerships with NBFCs or banks Data storage & security measures Complaint redressal contact info`
 
-Privacy Policy for Telemedicine Platform
+## Privacy Policy for Telemedicine Platform
 
-Backstory:
+`Backstory:`
 
-A telemedicine startup in Kochi offers online doctor consultations and digital prescriptions. The platform stores sensitive health information, patient IDs, consultation recordings, and prescription history. It also integrates with pharmacies and diagnostic labs. With telemedicine guidelines from the Medical Council of India and the DPDP Act in effect, the co-founders want a privacy policy that reassures patients, clearly outlines third-party integrations, and meets medical confidentiality standards.
+`A telemedicine startup in Kochi offers online doctor consultations and digital prescriptions. The platform stores sensitive health information, patient IDs, consultation recordings, and prescription history. It also integrates with pharmacies and diagnostic labs. With telemedicine guidelines from the Medical Council of India and the DPDP Act in effect, the co-founders want a privacy policy that reassures patients, clearly outlines third-party integrations, and meets medical confidentiality standards.`
 
-Goal:
+`Goal:`
 
-Draft a privacy policy for an Indian telemedicine service that is compliant with both health sector rules and data privacy laws.
+`Draft a privacy policy for an Indian telemedicine service that is compliant with both health sector rules and data privacy laws.`
 
-Prompt:
+`Prompt:`
 
-"You are a healthcare data privacy consultant. Draft a privacy policy for a telemedicine platform in India, covering: Data Collected (health records, prescriptions, consultation recordings), Purpose & Use, Consent & Withdrawal Process, Data Sharing with Pharmacies & Labs, Security Measures for Video Consultations, Retention Periods for Medical Records, Patient Rights (access, correction, deletion), and Contact Details for Grievance Handling. Write in clear, non-technical language suitable for patients." Inputs Required from User: Types of medical data stored Third-party service providers (labs, pharmacies) Storage & encryption practices Retention timelines for patient data Grievance officer details
+`"You are a healthcare data privacy consultant. Draft a privacy policy for a telemedicine platform in India, covering: Data Collected (health records, prescriptions, consultation recordings), Purpose & Use, Consent & Withdrawal Process, Data Sharing with Pharmacies & Labs, Security Measures for Video Consultations, Retention Periods for Medical Records, Patient Rights (access, correction, deletion), and Contact Details for Grievance Handling. Write in clear, non-technical language suitable for patients." Inputs Required from User: Types of medical data stored Third-party service providers (labs, pharmacies) Storage & encryption practices Retention timelines for patient data Grievance officer details`
 
-Privacy Policy for Real Estate Aggregator Platform
+## Privacy Policy for Real Estate Aggregator Platform
 
-Backstory:
+`Backstory:`
 
-A Noida-based real estate portal connects buyers, sellers, and brokers. It collects user profile data, location information, property search history, and uploaded property documents. Since users often share sensitive personal details like ID proofs and bank info during transactions, the company wants a privacy policy that covers verification processes, data storage, and fraud prevention measures.
+`A Noida-based real estate portal connects buyers, sellers, and brokers. It collects user profile data, location information, property search history, and uploaded property documents. Since users often share sensitive personal details like ID proofs and bank info during transactions, the company wants a privacy policy that covers verification processes, data storage, and fraud prevention measures.`
 
-Goal:
+`Goal:`
 
-Create a privacy policy for an Indian property listing and brokerage platform that inspires user trust and complies with DPDP Act norms.
+`Create a privacy policy for an Indian property listing and brokerage platform that inspires user trust and complies with DPDP Act norms.`
 
-Prompt:
+`Prompt:`
 
-"You are a real estate legal compliance expert. Draft a privacy policy for an Indian real estate aggregator website, covering: Data Collected (identity, property documents, transaction details), Purpose of Collection, Fraud Prevention Mechanisms, Data Sharing with Verified Brokers, Retention & Deletion Policies, User Rights under the DPDP Act, and Grievance Redressal Process. Use straightforward language to reassure users." Inputs Required from User: Verification process details Types of documents collected Data sharing with third parties Fraud detection measures Retention policy
+`"You are a real estate legal compliance expert. Draft a privacy policy for an Indian real estate aggregator website, covering: Data Collected (identity, property documents, transaction details), Purpose of Collection, Fraud Prevention Mechanisms, Data Sharing with Verified Brokers, Retention & Deletion Policies, User Rights under the DPDP Act, and Grievance Redressal Process. Use straightforward language to reassure users." Inputs Required from User: Verification process details Types of documents collected Data sharing with third parties Fraud detection measures Retention policy`
 
-Privacy Policy for Food Delivery App
+## Privacy Policy for Food Delivery App
 
 Backstory:
 
