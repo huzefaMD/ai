@@ -1095,7 +1095,7 @@
 
 `Goal:`
 
-`Create a compliance checklist that covers e-commerce-specific laws and guidelines.
+`Create a compliance checklist that covers e-commerce-specific laws and guidelines.`
 
 `Prompt:`
 
