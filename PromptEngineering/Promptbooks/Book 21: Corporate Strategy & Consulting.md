@@ -30,311 +30,311 @@
 
 ## Online Upskilling Platform vs. Edtech Leaders
 
-Backstory:
+`Backstory:`
 
-Anjali, 27, co-founded a bootcamp-style online upskilling platform for tech skills like UI/UX design, data analytics, and AI development. She wants to benchmark against Scaler, Great Learning, and Coursera to see where her platform can differentiate in pricing, course completion rates, mentor quality, and placement support.
+`Anjali, 27, co-founded a bootcamp-style online upskilling platform for tech skills like UI/UX design, data analytics, and AI development. She wants to benchmark against Scaler, Great Learning, and Coursera to see where her platform can differentiate in pricing, course completion rates, mentor quality, and placement support.`
 
-Goal:
+`Goal:`
 
-Design a competitor benchmarking report for an online upskilling edtech platform.
+`Design a competitor benchmarking report for an online upskilling edtech platform.`
 
-Prompt:
+`Prompt:``
 
-"You are an edtech competitive intelligence analyst. Prepare a benchmarking report comparing the user’s online upskilling platform to 3–5 leading edtech competitors in India. Compare course pricing, average completion rates, and curriculum structure. Benchmark faculty/mentor-to-student ratio, mentor credentials, and feedback quality. Evaluate job placement assistance, hiring partner networks, and alumni success stories. Analyze marketing funnels, ad spend patterns, and lead conversion rates. Provide 3 strategic recommendations for differentiation based on your analysis." Inputs Required: Course list and pricing Completion rate data Mentor bios Placement records
+`"You are an edtech competitive intelligence analyst. Prepare a benchmarking report comparing the user’s online upskilling platform to 3–5 leading edtech competitors in India. Compare course pricing, average completion rates, and curriculum structure. Benchmark faculty/mentor-to-student ratio, mentor credentials, and feedback quality. Evaluate job placement assistance, hiring partner networks, and alumni success stories. Analyze marketing funnels, ad spend patterns, and lead conversion rates. Provide 3 strategic recommendations for differentiation based on your analysis." Inputs Required: Course list and pricing Completion rate data Mentor bios Placement records`
 
-Craft Beer Brand vs. Established Breweries
+## Craft Beer Brand vs. Established Breweries
 
-Backstory:
+`Backstory:`
 
-Vikram, 31, owns a microbrewery in Goa serving craft beers with unique Indian flavors like mango IPA and cardamom stout. He wants to benchmark against brands like Bira 91, Simba, and White Owl to evaluate taste innovation, distribution channels, pricing, and customer loyalty programs. His target audience is tourists and urban millennials seeking premium experiences.
+`Vikram, 31, owns a microbrewery in Goa serving craft beers with unique Indian flavors like mango IPA and cardamom stout. He wants to benchmark against brands like Bira 91, Simba, and White Owl to evaluate taste innovation, distribution channels, pricing, and customer loyalty programs. His target audience is tourists and urban millennials seeking premium experiences.`
 
-Goal:
+`Goal:`
 
-Generate a product-experience-market reach benchmarking report for a craft beer brand.
+`Generate a product-experience-market reach benchmarking report for a craft beer brand.`
 
-Prompt:
+`Prompt:`
 
-"You are a beverage industry analyst. Prepare a competitor benchmarking report comparing the user’s craft beer brand with at least 3 leading Indian breweries. Compare flavor portfolios, seasonal releases, and alcohol content variations. Evaluate retail presence (restaurants, bars, retail outlets) and online ordering options. Benchmark pricing per pint, branding aesthetics, and loyalty programs. Analyze brand perception through social media sentiment analysis. Suggest 2 partnership opportunities and 1 new flavor idea inspired by market trends." Inputs Required: Current beer lineup Pricing data Distribution channels Social media links
+`"You are a beverage industry analyst. Prepare a competitor benchmarking report comparing the user’s craft beer brand with at least 3 leading Indian breweries. Compare flavor portfolios, seasonal releases, and alcohol content variations. Evaluate retail presence (restaurants, bars, retail outlets) and online ordering options. Benchmark pricing per pint, branding aesthetics, and loyalty programs. Analyze brand perception through social media sentiment analysis. Suggest 2 partnership opportunities and 1 new flavor idea inspired by market trends." Inputs Required: Current beer lineup Pricing data Distribution channels Social media links`
 
-SaaS CRM for Small Businesses vs. Global Tools
+## SaaS CRM for Small Businesses vs. Global Tools
 
-Backstory:
+`Backstory:`
 
-Arun, 30, has developed a SaaS CRM tailored for Indian small businesses with features like WhatsApp integration and GST billing. He wants to benchmark against Zoho CRM, Freshsales, and HubSpot to assess UI ease-of-use, automation depth, integration range, and pricing competitiveness.
+`Arun, 30, has developed a SaaS CRM tailored for Indian small businesses with features like WhatsApp integration and GST billing. He wants to benchmark against Zoho CRM, Freshsales, and HubSpot to assess UI ease-of-use, automation depth, integration range, and pricing competitiveness.`
 
-Goal:
+`Goal:`
 
-Create a CRM SaaS benchmarking report to highlight competitive advantages and gaps.
+`Create a CRM SaaS benchmarking report to highlight competitive advantages and gaps.`
 
-Prompt:
+`Prompt:`
 
-"You are a SaaS product benchmarking consultant. Develop a competitor benchmarking report for a CRM product targeting Indian SMEs. Compare onboarding experience, user interface intuitiveness, and mobile app functionality. Benchmark automation workflows, reporting features, and third-party integrations. Analyze customer support response time, multilingual support availability, and training resources. Compare pricing tiers, free trial offerings, and contract flexibility. Recommend 2 UI enhancements and 1 feature addition based on gaps in competitor offerings." Inputs Required: CRM feature list Competitor product demos/trials Current pricing model Support team performance metrics
+`"You are a SaaS product benchmarking consultant. Develop a competitor benchmarking report for a CRM product targeting Indian SMEs. Compare onboarding experience, user interface intuitiveness, and mobile app functionality. Benchmark automation workflows, reporting features, and third-party integrations. Analyze customer support response time, multilingual support availability, and training resources. Compare pricing tiers, free trial offerings, and contract flexibility. Recommend 2 UI enhancements and 1 feature addition based on gaps in competitor offerings." Inputs Required: CRM feature list Competitor product demos/trials Current pricing model Support team performance metrics`
 
-Healthtech Teleconsultation App vs. Market Leaders
+## Healthtech Teleconsultation App vs. Market Leaders
 
-Backstory:
+`Backstory:`
 
-Priya, 28, runs a healthtech startup offering 24/7 teleconsultation services with general physicians and specialists. She wants to benchmark against Practo, mfine, and Apollo 24|7 to assess doctor onboarding quality, consultation pricing, waiting time, prescription digitisation, and patient satisfaction scores. Her target is the urban working professional who values speed, privacy, and reliability.
+`Priya, 28, runs a healthtech startup offering 24/7 teleconsultation services with general physicians and specialists. She wants to benchmark against Practo, mfine, and Apollo 24|7 to assess doctor onboarding quality, consultation pricing, waiting time, prescription digitisation, and patient satisfaction scores. Her target is the urban working professional who values speed, privacy, and reliability.`
 
-Goal:
+`Goal:`
 
-Develop a competitive benchmarking report for a teleconsultation app serving the Indian market.
+`Develop a competitive benchmarking report for a teleconsultation app serving the Indian market.`
 
-Prompt:
+`Prompt:`
 
-"You are a healthtech market analyst. Create a competitor benchmarking report comparing the user’s teleconsultation app to at least 3 major players. Compare doctor onboarding standards, specialist variety, and consultation availability times. Benchmark consultation pricing, payment flexibility, and insurance tie-ins. Evaluate app UX/UI, waiting time, and prescription delivery methods. Analyze patient ratings, reviews, and NPS scores from public platforms. Provide 2 tech upgrades and 2 marketing suggestions to improve adoption rates." Inputs Required: App feature list Consultation pricing model Doctor network size and specialties User feedback data
+`"You are a healthtech market analyst. Create a competitor benchmarking report comparing the user’s teleconsultation app to at least 3 major players. Compare doctor onboarding standards, specialist variety, and consultation availability times. Benchmark consultation pricing, payment flexibility, and insurance tie-ins. Evaluate app UX/UI, waiting time, and prescription delivery methods. Analyze patient ratings, reviews, and NPS scores from public platforms. Provide 2 tech upgrades and 2 marketing suggestions to improve adoption rates." Inputs Required: App feature list Consultation pricing model Doctor network size and specialties User feedback data`
 
-Budget Airlines vs. Full-Service Competitors
+## Budget Airlines vs. Full-Service Competitors
 
-Backstory:
+`Backstory:`
 
-Karan, 33, manages a budget airline startup focusing on domestic routes between tier-2 and tier-1 cities in India. He needs to benchmark against IndiGo, SpiceJet, and Vistara in terms of ticket pricing, punctuality, add-on services, baggage policies, and loyalty programs to find a balance between affordability and experience.
+`Karan, 33, manages a budget airline startup focusing on domestic routes between tier-2 and tier-1 cities in India. He needs to benchmark against IndiGo, SpiceJet, and Vistara in terms of ticket pricing, punctuality, add-on services, baggage policies, and loyalty programs to find a balance between affordability and experience.`
 
-Goal:
+`Goal:`
 
-Generate a competitor benchmarking report for a budget airline.
+`Generate a competitor benchmarking report for a budget airline.`
 
-Prompt:
+`Prompt:`
 
-"You are an aviation industry consultant. Prepare a competitor benchmarking report for the user’s budget airline comparing it to both budget and full-service carriers. Benchmark ticket pricing across peak/off-peak times, baggage policies, and cancellation flexibility. Compare punctuality records, boarding experience, and cabin crew training quality. Evaluate in-flight amenities, add-on services, and loyalty program attractiveness. Analyze customer sentiment from online reviews. Suggest 1 cost-optimization and 1 customer experience upgrade strategy." Inputs Required: Flight routes and schedules Pricing data Operational performance metrics Competitor loyalty program details
+`"You are an aviation industry consultant. Prepare a competitor benchmarking report for the user’s budget airline comparing it to both budget and full-service carriers. Benchmark ticket pricing across peak/off-peak times, baggage policies, and cancellation flexibility. Compare punctuality records, boarding experience, and cabin crew training quality. Evaluate in-flight amenities, add-on services, and loyalty program attractiveness. Analyze customer sentiment from online reviews. Suggest 1 cost-optimization and 1 customer experience upgrade strategy." Inputs Required: Flight routes and schedules Pricing data Operational performance metrics Competitor loyalty program details`
 
-Organic Grocery Delivery Startup vs. E-Grocery Giants
+## Organic Grocery Delivery Startup vs. E-Grocery Giants
 
-Backstory:
+`Backstory:`
 
-Nisha, 26, runs an organic produce delivery startup in Delhi-NCR sourcing from small farmers. She wants to benchmark against BigBasket, Zepto, and Blinkit in terms of delivery times, inventory freshness, packaging, app UX, and customer retention schemes. Her audience is health-conscious urban families.
+`Nisha, 26, runs an organic produce delivery startup in Delhi-NCR sourcing from small farmers. She wants to benchmark against BigBasket, Zepto, and Blinkit in terms of delivery times, inventory freshness, packaging, app UX, and customer retention schemes. Her audience is health-conscious urban families.`
 
-Goal:
+`Goal`
 
-Create a detailed competitor benchmarking report for an organic grocery delivery service.
+`Create a detailed competitor benchmarking report for an organic grocery delivery service.`
 
-Prompt:
+`Prompt:`
 
-"You are a grocery e-commerce analyst. Develop a competitor benchmarking report comparing the user’s organic grocery delivery business to 3–5 large e-grocery platforms. Benchmark delivery times, packaging sustainability, and cold-chain management. Compare product freshness, sourcing transparency, and certification display. Evaluate app user experience, product categorisation, and checkout speed. Analyze repeat purchase rates and loyalty incentives. Recommend 2 retention strategies and 1 operational improvement." Inputs Required: Product list with sourcing details Delivery area and speed Packaging process Customer feedback
+`"You are a grocery e-commerce analyst. Develop a competitor benchmarking report comparing the user’s organic grocery delivery business to 3–5 large e-grocery platforms. Benchmark delivery times, packaging sustainability, and cold-chain management. Compare product freshness, sourcing transparency, and certification display. Evaluate app user experience, product categorisation, and checkout speed. Analyze repeat purchase rates and loyalty incentives. Recommend 2 retention strategies and 1 operational improvement." Inputs Required: Product list with sourcing details Delivery area and speed Packaging process Customer feedback`
 
-Digital Payments App vs. UPI Leaders
+## Digital Payments App vs. UPI Leaders
 
-Backstory:
+`Backstory:`
 
-Sameer, 30, is building a niche digital payments app for freelancers that automates invoicing, GST tracking, and UPI/credit card collection. He wants to benchmark against PhonePe, Paytm, and Google Pay for transaction speed, security, integrations, and rewards programs.
+`Sameer, 30, is building a niche digital payments app for freelancers that automates invoicing, GST tracking, and UPI/credit card collection. He wants to benchmark against PhonePe, Paytm, and Google Pay for transaction speed, security, integrations, and rewards programs.`
 
-Goal:
+`Goal:`
 
-Benchmark the performance, security, and loyalty capabilities of a payments app.
+`Benchmark the performance, security, and loyalty capabilities of a payments app.`
 
-Prompt:
+`Prompt:`
 
-"You are a fintech benchmarking consultant. Produce a competitor benchmarking report comparing the user’s payments app to 3 leading UPI-based apps. Benchmark transaction completion times, failure rates, and refund timelines. Compare security measures, fraud detection systems, and compliance certifications. Evaluate loyalty/rewards programs and referral incentives. Analyze integration capabilities with accounting tools. Suggest 1 unique feature and 1 partnership opportunity." Inputs Required: App architecture and features Transaction data Reward system details Integration roadmap
+`"You are a fintech benchmarking consultant. Produce a competitor benchmarking report comparing the user’s payments app to 3 leading UPI-based apps. Benchmark transaction completion times, failure rates, and refund timelines. Compare security measures, fraud detection systems, and compliance certifications. Evaluate loyalty/rewards programs and referral incentives. Analyze integration capabilities with accounting tools. Suggest 1 unique feature and 1 partnership opportunity." Inputs Required: App architecture and features Transaction data Reward system details Integration roadmap`
 
-Boutique Fitness Studio vs. Gym Chains
+## Boutique Fitness Studio vs. Gym Chains
 
-Backstory:
+`Backstory:`
 
-Ritika, 31, owns a boutique Pilates and functional training studio in Pune targeting corporate professionals and women aged 25–40. She wants to benchmark against Cult.fit, Gold’s Gym, and Anytime Fitness to understand pricing, class variety, trainer certifications, and client retention.
+`Ritika, 31, owns a boutique Pilates and functional training studio in Pune targeting corporate professionals and women aged 25–40. She wants to benchmark against Cult.fit, Gold’s Gym, and Anytime Fitness to understand pricing, class variety, trainer certifications, and client retention.`
 
-Goal:
+`Goal:`
 
-Create a competitor benchmarking report for a boutique fitness business.
+`Create a competitor benchmarking report for a boutique fitness business.`
 
-Prompt:
+`Prompt:`
 
-"You are a fitness industry strategist. Build a competitor benchmarking report comparing the user’s studio to 3–4 major gym and fitness chains. Benchmark membership pricing, session formats, and trainer qualifications. Compare retention rates, referral programs, and corporate tie-ups. Evaluate facility cleanliness, equipment quality, and ambiance. Analyze brand positioning through social media content and ads. Recommend 2 service additions and 1 event-based marketing initiative." Inputs Required: Class schedule and pricing Trainer bios Customer retention data Social media accounts
+`"You are a fitness industry strategist. Build a competitor benchmarking report comparing the user’s studio to 3–4 major gym and fitness chains. Benchmark membership pricing, session formats, and trainer qualifications. Compare retention rates, referral programs, and corporate tie-ups. Evaluate facility cleanliness, equipment quality, and ambiance. Analyze brand positioning through social media content and ads. Recommend 2 service additions and 1 event-based marketing initiative." Inputs Required: Class schedule and pricing Trainer bios Customer retention data Social media accounts`
 
-Sustainable Fashion Brand vs. Fast Fashion Giants
+## Sustainable Fashion Brand vs. Fast Fashion Giants
 
-Backstory:
+`Backstory:`
 
-Arpita, 29, runs a sustainable clothing label using handwoven fabrics and zero-waste packaging. She wants to benchmark against H&M Conscious, FabIndia, and Uniqlo in terms of price, sustainability certification, online visibility, and influencer collaborations.
+`Arpita, 29, runs a sustainable clothing label using handwoven fabrics and zero-waste packaging. She wants to benchmark against H&M Conscious, FabIndia, and Uniqlo in terms of price, sustainability certification, online visibility, and influencer collaborations.`
 
-Goal:
+`Goal:`
 
-Develop a competitive analysis for a sustainable fashion brand.
+`Develop a competitive analysis for a sustainable fashion brand.`
 
-Prompt:
+`Prompt:`
 
-"You are a fashion industry benchmarking expert. Create a competitor benchmarking report comparing the user’s sustainable brand with 3 major competitors. Compare price ranges, material sourcing, and sustainability certifications. Evaluate e-commerce presence, product photography quality, and influencer tie-ups. Analyze customer sentiment towards sustainability claims. Benchmark packaging practices and return policies. Recommend 2 brand storytelling approaches and 1 influencer campaign." Inputs Required: Product catalogue Pricing list Certification details Social media strategy
+`"You are a fashion industry benchmarking expert. Create a competitor benchmarking report comparing the user’s sustainable brand with 3 major competitors. Compare price ranges, material sourcing, and sustainability certifications. Evaluate e-commerce presence, product photography quality, and influencer tie-ups. Analyze customer sentiment towards sustainability claims. Benchmark packaging practices and return policies. Recommend 2 brand storytelling approaches and 1 influencer campaign." Inputs Required: Product catalogue Pricing list Certification details Social media strategy`
 
-Language Learning App vs. Edtech Giants
+## Language Learning App vs. Edtech Giants
 
-Backstory:
+`Backstory:`
 
-Imran, 27, developed a gamified Hindi and regional language learning app targeting young professionals and NRIs. He wants to benchmark against Duolingo, HelloEnglish, and LingQ to improve retention, monetisation, and gamification design.
+`Imran, 27, developed a gamified Hindi and regional language learning app targeting young professionals and NRIs. He wants to benchmark against Duolingo, HelloEnglish, and LingQ to improve retention, monetisation, and gamification design.`
 
-Goal:
+`Goal:`
 
-Benchmark app engagement and learning outcomes in language edtech.
+`Benchmark app engagement and learning outcomes in language edtech.`
 
-Prompt:
+`Prompt:`
 
-"You are a language edtech benchmarking specialist. Prepare a competitor benchmarking report comparing the user’s app to 3–4 leading language learning apps. Benchmark UI design, gamification elements, and reward loops. Compare subscription models, free vs. premium content, and trial conversions. Analyze retention rates, daily active usage, and lesson completion rates. Evaluate community features and peer learning elements. Suggest 2 feature enhancements to increase user stickiness." Inputs Required: App feature set Pricing tiers Engagement metrics User feedback
+`"You are a language edtech benchmarking specialist. Prepare a competitor benchmarking report comparing the user’s app to 3–4 leading language learning apps. Benchmark UI design, gamification elements, and reward loops. Compare subscription models, free vs. premium content, and trial conversions. Analyze retention rates, daily active usage, and lesson completion rates. Evaluate community features and peer learning elements. Suggest 2 feature enhancements to increase user stickiness." Inputs Required: App feature set Pricing tiers Engagement metrics User feedback`
 
-Cloud Kitchen vs. Food Delivery Giants
+## Cloud Kitchen vs. Food Delivery Giants
 
-Backstory:
+`Backstory:`
 
-Dev, 30, operates a multi-brand cloud kitchen in Hyderabad serving biryani, pizza, and vegan bowls. He wants to benchmark against Rebel Foods, Swiggy Access, and Zomato Kitchens for delivery time, packaging, menu engineering, and customer feedback loops.
+`Dev, 30, operates a multi-brand cloud kitchen in Hyderabad serving biryani, pizza, and vegan bowls. He wants to benchmark against Rebel Foods, Swiggy Access, and Zomato Kitchens for delivery time, packaging, menu engineering, and customer feedback loops.`
 
-Goal:
+`Goal:`
 
-Benchmark operations, menu, and customer retention for a cloud kitchen.
+`Benchmark operations, menu, and customer retention for a cloud kitchen.`
 
-Prompt:
+`Prompt:`
 
-"You are a foodtech industry analyst. Develop a competitor benchmarking report for the user’s cloud kitchen comparing it with 3 market leaders. Benchmark delivery speed, packaging durability, and temperature retention. Compare menu diversity, bestseller ratios, and seasonal specials. Analyze order frequency, repeat rates, and customer loyalty programs. Evaluate online ratings and review response strategies. Suggest 1 operational tweak and 2 menu innovation ideas." Inputs Required: Brand menu list Delivery data Packaging specifications Customer reviews
+`"You are a foodtech industry analyst. Develop a competitor benchmarking report for the user’s cloud kitchen comparing it with 3 market leaders. Benchmark delivery speed, packaging durability, and temperature retention. Compare menu diversity, bestseller ratios, and seasonal specials. Analyze order frequency, repeat rates, and customer loyalty programs. Evaluate online ratings and review response strategies. Suggest 1 operational tweak and 2 menu innovation ideas." Inputs Required: Brand menu list Delivery data Packaging specifications Customer reviews`
 
-Renewable Energy Startup vs. Large EPC Players
+## Renewable Energy Startup vs. Large EPC Players
 
-Backstory:
+`Backstory:`
 
-Siddharth, 34, runs a solar panel installation company focusing on rooftop solutions for SMEs. He wants to benchmark against Tata Power Solar, Vikram Solar, and Adani Solar in terms of cost per kW, installation time, warranty coverage, and financing schemes.
+`Siddharth, 34, runs a solar panel installation company focusing on rooftop solutions for SMEs. He wants to benchmark against Tata Power Solar, Vikram Solar, and Adani Solar in terms of cost per kW, installation time, warranty coverage, and financing schemes.`
 
-Goal:
+`Goal:`
 
-Produce a competitor benchmarking report for a renewable energy business.
+`Produce a competitor benchmarking report for a renewable energy business.`
 
-Prompt:
+`Prompt:`
 
-"You are a renewable energy industry consultant. Create a competitor benchmarking report comparing the user’s solar installation business with 3–4 leading EPC players. Benchmark installation costs, timelines, and efficiency ratings. Compare warranty terms, maintenance contracts, and financing availability. Evaluate after-sales service networks and customer satisfaction. Analyze government subsidy leverage and compliance readiness. Recommend 2 sales approaches and 1 value-added service." Inputs Required: Installation pricing Service area details Financing options Warranty policies
+`"You are a renewable energy industry consultant. Create a competitor benchmarking report comparing the user’s solar installation business with 3–4 leading EPC players. Benchmark installation costs, timelines, and efficiency ratings. Compare warranty terms, maintenance contracts, and financing availability. Evaluate after-sales service networks and customer satisfaction. Analyze government subsidy leverage and compliance readiness. Recommend 2 sales approaches and 1 value-added service." Inputs Required: Installation pricing Service area details Financing options Warranty policies`
 
-Co-Working Space vs. Workspace Chains
+## Co-Working Space vs. Workspace Chains
 
-Backstory:
+`Backstory:`
 
-Tanvi, 28, manages a boutique co-working space in Jaipur targeting startups, freelancers, and creative agencies. She wants to benchmark against WeWork, Awfis, and 91Springboard to evaluate pricing, amenities, community events, and tech integration.
+`Tanvi, 28, manages a boutique co-working space in Jaipur targeting startups, freelancers, and creative agencies. She wants to benchmark against WeWork, Awfis, and 91Springboard to evaluate pricing, amenities, community events, and tech integration.`
 
-Goal:
+`Goal:`
 
-Generate a competitor benchmarking report for a co-working space.
+`Generate a competitor benchmarking report for a co-working space.`
 
-Prompt:
+`Prompt:`
 
-"You are a workspace industry analyst. Develop a competitor benchmarking report comparing the user’s co-working space to 3–5 leading workspace providers. Benchmark pricing plans, seat configurations, and meeting room facilities. Compare community-building events, networking opportunities, and mentorship access. Evaluate design aesthetics, ergonomics, and location accessibility. Analyze online reviews for common praise and complaints. Suggest 1 amenity addition and 2 marketing campaigns for member acquisition." Inputs Required: Current pricing plans Facility list Event calendar Customer review sources
+`"You are a workspace industry analyst. Develop a competitor benchmarking report comparing the user’s co-working space to 3–5 leading workspace providers. Benchmark pricing plans, seat configurations, and meeting room facilities. Compare community-building events, networking opportunities, and mentorship access. Evaluate design aesthetics, ergonomics, and location accessibility. Analyze online reviews for common praise and complaints. Suggest 1 amenity addition and 2 marketing campaigns for member acquisition." Inputs Required: Current pricing plans Facility list Event calendar Customer review sources`
 
-AI SaaS Tool vs. Global AI Platforms
+## AI SaaS Tool vs. Global AI Platforms
 
-Backstory:
+`Backstory:`
 
-Ananya, 29, has launched an AI-powered content generation SaaS aimed at SMEs in India, offering copywriting, image generation, and social media scheduling in one tool. She wants to benchmark against Jasper, Copy.ai, and Writesonic for pricing, feature breadth, accuracy, customer support, and integration ecosystem.
+`Ananya, 29, has launched an AI-powered content generation SaaS aimed at SMEs in India, offering copywriting, image generation, and social media scheduling in one tool. She wants to benchmark against Jasper, Copy.ai, and Writesonic for pricing, feature breadth, accuracy, customer support, and integration ecosystem.`
 
-Goal:
+`Goal:`
 
-Benchmark product value, scalability, and integration capabilities for an AI SaaS tool.
+`Benchmark product value, scalability, and integration capabilities for an AI SaaS tool.`
 
-Prompt:
+`Prompt:`
 
-"You are a SaaS industry benchmarking analyst. Create a competitor benchmarking report comparing the user’s AI content SaaS to 3 leading AI platforms. Benchmark pricing tiers, credit usage, and value-for-money perception. Compare feature sets, output quality, and AI model adaptability for multiple languages. Evaluate integrations with CMS, CRM, and marketing tools. Analyze customer onboarding, support responsiveness, and knowledge base completeness. Recommend 2 monetisation strategies and 1 integration partnership." Inputs Required: SaaS feature list Pricing structure Customer support process Integration list
+`"You are a SaaS industry benchmarking analyst. Create a competitor benchmarking report comparing the user’s AI content SaaS to 3 leading AI platforms. Benchmark pricing tiers, credit usage, and value-for-money perception. Compare feature sets, output quality, and AI model adaptability for multiple languages. Evaluate integrations with CMS, CRM, and marketing tools. Analyze customer onboarding, support responsiveness, and knowledge base completeness. Recommend 2 monetisation strategies and 1 integration partnership." Inputs Required: SaaS feature list Pricing structure Customer support process Integration list`
 
-B2B Logistics Platform vs. Freight Aggregators
+## B2B Logistics Platform vs. Freight Aggregators
 
-Backstory:
+`Backstory:`
 
-Raj, 35, operates a digital freight matching platform for SME exporters. He wants to benchmark against Freightos, Blackbuck, and Rivigo for route coverage, price transparency, tracking accuracy, payment security, and customer acquisition.
+`Raj, 35, operates a digital freight matching platform for SME exporters. He wants to benchmark against Freightos, Blackbuck, and Rivigo for route coverage, price transparency, tracking accuracy, payment security, and customer acquisition.`
 
-Goal:
+`Goal:`
 
-Develop a competitor benchmarking report for a B2B logistics platform.
+`Develop a competitor benchmarking report for a B2B logistics platform.`
 
-Prompt:
+`Prompt:`
 
-"You are a B2B logistics consultant. Prepare a competitor benchmarking report comparing the user’s platform with 3 market leaders. Benchmark freight pricing transparency, commission models, and rate volatility. Compare shipment tracking accuracy, real-time updates, and exception handling. Evaluate payment protection, insurance coverage, and dispute resolution speed. Analyze digital marketing channels and lead generation methods used by competitors. Suggest 1 customer acquisition campaign and 1 retention-focused loyalty program." Inputs Required: Platform features Pricing and commission structure Shipment tracking data Marketing channels
+`"You are a B2B logistics consultant. Prepare a competitor benchmarking report comparing the user’s platform with 3 market leaders. Benchmark freight pricing transparency, commission models, and rate volatility. Compare shipment tracking accuracy, real-time updates, and exception handling. Evaluate payment protection, insurance coverage, and dispute resolution speed. Analyze digital marketing channels and lead generation methods used by competitors. Suggest 1 customer acquisition campaign and 1 retention-focused loyalty program." Inputs Required: Platform features Pricing and commission structure Shipment tracking data Marketing channels`
 
-Online Mental Health Platform vs. Therapy Apps
+## Online Mental Health Platform vs. Therapy Apps
 
-Backstory:
+`Backstory:`
 
-Meera, 32, founded an online counselling platform with live therapy sessions and self-help courses. She wants to benchmark against BetterHelp, MindPeers, and YourDOST to assess therapist quality, session booking UX, confidentiality safeguards, and content depth.
+`Meera, 32, founded an online counselling platform with live therapy sessions and self-help courses. She wants to benchmark against BetterHelp, MindPeers, and YourDOST to assess therapist quality, session booking UX, confidentiality safeguards, and content depth.`
 
-Goal:
+`Goal:`
 
-Benchmark therapy accessibility, quality, and trust factors.
+`Benchmark therapy accessibility, quality, and trust factors.`
 
-Prompt:
+`Prompt:`
 
-"You are a mental health industry benchmarking specialist. Produce a competitor benchmarking report comparing the user’s platform to 3–4 leading therapy apps. Benchmark therapist vetting processes, qualifications, and session availability. Compare booking flow UX, payment flexibility, and subscription models. Evaluate privacy safeguards, HIPAA compliance, and data security. Analyze user retention, repeat bookings, and peer review ratings. Suggest 1 feature to boost trust and 1 content addition to enhance engagement." Inputs Required: Therapist onboarding criteria Booking process details Security measures Engagement data
+`"You are a mental health industry benchmarking specialist. Produce a competitor benchmarking report comparing the user’s platform to 3–4 leading therapy apps. Benchmark therapist vetting processes, qualifications, and session availability. Compare booking flow UX, payment flexibility, and subscription models. Evaluate privacy safeguards, HIPAA compliance, and data security. Analyze user retention, repeat bookings, and peer review ratings. Suggest 1 feature to boost trust and 1 content addition to enhance engagement." Inputs Required: Therapist onboarding criteria Booking process details Security measures Engagement data`
 
-Specialty Coffee Brand vs. Premium Cafes
+## Specialty Coffee Brand vs. Premium Cafes
 
-Backstory:
+`Backstory:`
 
-Vikram, 31, runs a specialty coffee roasting brand selling online and via cafes. He wants to benchmark against Blue Tokai, Starbucks, and Third Wave Coffee for bean sourcing transparency, taste profile diversity, store ambiance, and pricing.
+`Vikram, 31, runs a specialty coffee roasting brand selling online and via cafes. He wants to benchmark against Blue Tokai, Starbucks, and Third Wave Coffee for bean sourcing transparency, taste profile diversity, store ambiance, and pricing.`
 
-Goal:
+`Goal:`
 
-Benchmark brand perception, product quality, and retail experience for coffee brands.
+`Benchmark brand perception, product quality, and retail experience for coffee brands.`
 
-Prompt:
+`Prompt:`
 
-"You are a food and beverage industry consultant. Create a competitor benchmarking report comparing the user’s coffee brand with 3–4 market leaders. Benchmark coffee sourcing transparency, roast profiles, and freshness claims. Compare in-store experience, ambiance, and staff coffee knowledge. Evaluate pricing strategies for retail and online sales. Analyze brand storytelling in social media and packaging. Recommend 1 product innovation and 1 in-store event format." Inputs Required: Bean sourcing details Pricing models Store layout photos Social media links
+`"You are a food and beverage industry consultant. Create a competitor benchmarking report comparing the user’s coffee brand with 3–4 market leaders. Benchmark coffee sourcing transparency, roast profiles, and freshness claims. Compare in-store experience, ambiance, and staff coffee knowledge. Evaluate pricing strategies for retail and online sales. Analyze brand storytelling in social media and packaging. Recommend 1 product innovation and 1 in-store event format." Inputs Required: Bean sourcing details Pricing models Store layout photos Social media links`
 
-Pet Care Subscription Box vs. E-commerce Giants
+## Pet Care Subscription Box vs. E-commerce Giants
 
-Backstory:
+`Backstory:`
 
-Isha, 27, launched a monthly subscription box for pet owners with curated treats, toys, and grooming supplies. She wants to benchmark against Heads Up For Tails, BarkBox, and Amazon Pet Store for pricing, product quality, customer delight, and retention.
+`Isha, 27, launched a monthly subscription box for pet owners with curated treats, toys, and grooming supplies. She wants to benchmark against Heads Up For Tails, BarkBox, and Amazon Pet Store for pricing, product quality, customer delight, and retention.`
 
-Goal:
+`Goal:`
 
-Create a competitor benchmarking report for a pet care subscription service.
+`Create a competitor benchmarking report for a pet care subscription service.`
 
-Prompt:
+`Prompt:`
 
-"You are a pet care industry analyst. Develop a competitor benchmarking report comparing the user’s subscription box to 3–4 competitors. Benchmark product variety, seasonal customisation, and quality control. Compare pricing, discounts, and free shipping policies. Evaluate unboxing experience, packaging quality, and surprise factor. Analyze repeat subscription rates, churn reasons, and loyalty perks. Suggest 1 retention tactic and 1 seasonal campaign idea." Inputs Required: Product list per box Pricing tiers Customer retention data Packaging design samples
+`"You are a pet care industry analyst. Develop a competitor benchmarking report comparing the user’s subscription box to 3–4 competitors. Benchmark product variety, seasonal customisation, and quality control. Compare pricing, discounts, and free shipping policies. Evaluate unboxing experience, packaging quality, and surprise factor. Analyze repeat subscription rates, churn reasons, and loyalty perks. Suggest 1 retention tactic and 1 seasonal campaign idea." Inputs Required: Product list per box Pricing tiers Customer retention data Packaging design samples`
 
-Boutique Travel Agency vs. Luxury Tour Operators
+## Boutique Travel Agency vs. Luxury Tour Operators
 
-Backstory:
+`Backstory:`
 
-Neel, 36, runs a boutique travel agency curating luxury cultural experiences in Rajasthan. He wants to benchmark against Thomas Cook Luxury, SOTC, and bespoke operators for pricing, itinerary exclusivity, customer service, and after-trip engagement.
+`Neel, 36, runs a boutique travel agency curating luxury cultural experiences in Rajasthan. He wants to benchmark against Thomas Cook Luxury, SOTC, and bespoke operators for pricing, itinerary exclusivity, customer service, and after-trip engagement.`
 
-Goal:
+`Goal:`
 
-Benchmark service quality and brand appeal for luxury travel agencies.
+`Benchmark service quality and brand appeal for luxury travel agencies.`
 
-Prompt:
+`Prompt:`
 
-"You are a travel and hospitality benchmarking consultant. Create a competitor benchmarking report comparing the user’s boutique travel agency with 3–4 luxury tour operators. Benchmark itinerary uniqueness, experience design, and cultural authenticity. Compare per-person pricing, inclusions, and flexibility in customization. Evaluate concierge services, on-ground assistance, and emergency handling. Analyze post-trip follow-up and loyalty building methods. Recommend 1 premium add-on service and 1 partnership with a luxury brand." Inputs Required: Sample itineraries Pricing sheets Customer service SOPs Loyalty initiatives
+`"You are a travel and hospitality benchmarking consultant. Create a competitor benchmarking report comparing the user’s boutique travel agency with 3–4 luxury tour operators. Benchmark itinerary uniqueness, experience design, and cultural authenticity. Compare per-person pricing, inclusions, and flexibility in customization. Evaluate concierge services, on-ground assistance, and emergency handling. Analyze post-trip follow-up and loyalty building methods. Recommend 1 premium add-on service and 1 partnership with a luxury brand." Inputs Required: Sample itineraries Pricing sheets Customer service SOPs Loyalty initiatives`
 
-Online Art Marketplace vs. Global Platforms
+## Online Art Marketplace vs. Global Platforms
 
-Backstory:
+`Backstory:`
 
-Radhika, 34, founded an online art marketplace connecting Indian artists to global buyers. She wants to benchmark against Saatchi Art, Etsy, and Mojarto for commission rates, shipping logistics, art curation, and marketing reach.
+`Radhika, 34, founded an online art marketplace connecting Indian artists to global buyers. She wants to benchmark against Saatchi Art, Etsy, and Mojarto for commission rates, shipping logistics, art curation, and marketing reach.`
 
-Goal:
+`Goal:`
 
-Benchmark curation, sales process, and international visibility for an art marketplace.
+`Benchmark curation, sales process, and international visibility for an art marketplace.`
 
-Prompt:
+`Prompt:`
 
-"You are an art business strategist. Develop a competitor benchmarking report comparing the user’s platform to 3–4 global art marketplaces. Benchmark commission rates, listing fees, and payment schedules. Compare art curation standards, photography quality, and artist support services. Evaluate global shipping speed, packaging safety, and customs handling. Analyze marketing strategies, influencer partnerships, and PR reach. Suggest 1 marketplace feature and 1 international expansion tactic." Inputs Required: Artist onboarding process Commission model Logistics setup Marketing plan
+`"You are an art business strategist. Develop a competitor benchmarking report comparing the user’s platform to 3–4 global art marketplaces. Benchmark commission rates, listing fees, and payment schedules. Compare art curation standards, photography quality, and artist support services. Evaluate global shipping speed, packaging safety, and customs handling. Analyze marketing strategies, influencer partnerships, and PR reach. Suggest 1 marketplace feature and 1 international expansion tactic." Inputs Required: Artist onboarding process Commission model Logistics setup Marketing plan`
 
-Skill-based Gaming App vs. Industry Leaders
+## Skill-based Gaming App vs. Industry Leaders
 
-Backstory:
+`Backstory:`
 
-Kunal, 29, operates a real-money skill-based gaming app targeting fantasy cricket and rummy players. He wants to benchmark against Dream11, MPL, and Junglee Rummy for user acquisition, retention, compliance, and reward systems.
+`Kunal, 29, operates a real-money skill-based gaming app targeting fantasy cricket and rummy players. He wants to benchmark against Dream11, MPL, and Junglee Rummy for user acquisition, retention, compliance, and reward systems.`
 
-Goal:
+`Goal:`
 
-Benchmark growth, compliance, and engagement in skill-based gaming.
+`Benchmark growth, compliance, and engagement in skill-based gaming.`
 
-Prompt:
+`Prompt:`
 
-"You are a gaming industry benchmarking consultant. Create a competitor benchmarking report comparing the user’s app with 3–4 top skill-based gaming platforms. Benchmark onboarding flow, referral systems, and bonus distribution. Compare reward structures, tournament formats, and leaderboard engagement. Evaluate compliance with gaming laws and KYC processes. Analyze user retention, daily activity levels, and churn triggers. Recommend 1 new tournament format and 1 risk management feature." Inputs Required: Game formats offered Reward structure Compliance SOPs Retention metrics
+`"You are a gaming industry benchmarking consultant. Create a competitor benchmarking report comparing the user’s app with 3–4 top skill-based gaming platforms. Benchmark onboarding flow, referral systems, and bonus distribution. Compare reward structures, tournament formats, and leaderboard engagement. Evaluate compliance with gaming laws and KYC processes. Analyze user retention, daily activity levels, and churn triggers. Recommend 1 new tournament format and 1 risk management feature." Inputs Required: Game formats offered Reward structure Compliance SOPs Retention metrics`
 
-HR Tech Platform vs. Recruitment Giants
+## HR Tech Platform vs. Recruitment Giants
 
-Backstory:
+`Backstory:`
 
-Pooja, 33, built an AI-driven recruitment platform that screens candidates and schedules interviews automatically. She wants to benchmark against Naukri, LinkedIn Jobs, and HireVue for AI accuracy, job seeker engagement, recruiter dashboards, and employer branding tools.
+`Pooja, 33, built an AI-driven recruitment platform that screens candidates and schedules interviews automatically. She wants to benchmark against Naukri, LinkedIn Jobs, and HireVue for AI accuracy, job seeker engagement, recruiter dashboards, and employer branding tools.`
 
-Goal:
+`Goal:`
 
-Benchmark automation, matching accuracy, and recruiter UX in HR tech.
+`Benchmark automation, matching accuracy, and recruiter UX in HR tech.`
 
-Prompt:
+`Prompt:`
 
-"You are an HR tech benchmarking specialist. Develop a competitor benchmarking report comparing the user’s recruitment platform to 3–4 top competitors. Benchmark AI matching accuracy, resume parsing quality, and recommendation speed. Compare recruiter dashboard features, analytics, and reporting tools. Evaluate employer branding options, candidate engagement, and application drop-off rates. Analyze API integrations with HRMS and ATS software. Suggest 1 employer branding feature and 1 analytics enhancement." Inputs Required: AI feature list Recruiter dashboard screenshots Branding options offered Integration capabilities
+`"You are an HR tech benchmarking specialist. Develop a competitor benchmarking report comparing the user’s recruitment platform to 3–4 top competitors. Benchmark AI matching accuracy, resume parsing quality, and recommendation speed. Compare recruiter dashboard features, analytics, and reporting tools. Evaluate employer branding options, candidate engagement, and application drop-off rates. Analyze API integrations with HRMS and ATS software. Suggest 1 employer branding feature and 1 analytics enhancement." Inputs Required: AI feature list Recruiter dashboard screenshots Branding options offered Integration capabilities`
 
 Online Cooking Class Platform vs. Culinary Edtech Leaders
 
