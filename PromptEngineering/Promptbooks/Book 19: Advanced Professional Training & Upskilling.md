@@ -339,730 +339,730 @@
 
 ## CMA (Certified Management Accountant) 12-Month Dual-Part Exam Plan
 
-Backstory:
+`Backstory:`
 
-A cost accountant in Mumbai wants to clear both CMA Part 1 and Part 2 within one year. They work full-time in an accounting firm and can dedicate around 12–15 hours a week for preparation. Their main challenge is maintaining momentum over such a long preparation period.
+`A cost accountant in Mumbai wants to clear both CMA Part 1 and Part 2 within one year. They work full-time in an accounting firm and can dedicate around 12–15 hours a week for preparation. Their main challenge is maintaining momentum over such a long preparation period.`
 
-Goal:
+`Goal:`
 
-Create a 12-month CMA dual-part preparation plan with integrated review periods and exam simulations.
+`Create a 12-month CMA dual-part preparation plan with integrated review periods and exam simulations.`
 
-Prompt:
+`Prompt:`
 
-"You are a CMA exam preparation consultant. Create a 12-month study plan for CMA Part 1 & Part 2 including: month-by-month topic sequencing, MCQ and essay question drills, integrated review cycles, mock exams under timed conditions, and study break strategies to avoid burnout." Inputs Required from User: Current familiarity with CMA topics Number of hours available weekly Target exam months for Part 1 & Part 2 Access to CMA study resources
+`"You are a CMA exam preparation consultant. Create a 12-month study plan for CMA Part 1 & Part 2 including: month-by-month topic sequencing, MCQ and essay question drills, integrated review cycles, mock exams under timed conditions, and study break strategies to avoid burnout." Inputs Required from User: Current familiarity with CMA topics Number of hours available weekly Target exam months for Part 1 & Part 2 Access to CMA study resources`
 
 
-Soft Skills Training Exercises
+# Soft Skills Training Exercises
 
-Active Listening Skills Training Exercise
+## Active Listening Skills Training Exercise
 
-Backstory:
+`Backstory:`
 
-A customer support outsourcing firm in Noida is receiving complaints that agents are not fully understanding client issues before offering solutions. This leads to repeated follow-ups and low CSAT (Customer Satisfaction) scores. The operations manager wants an engaging, practical exercise to help employees practice and improve active listening skills. The goal is to make agents more empathetic, attentive, and accurate in their responses during calls. This exercise will be included in onboarding and quarterly refresher training.
+`A customer support outsourcing firm in Noida is receiving complaints that agents are not fully understanding client issues before offering solutions. This leads to repeated follow-ups and low CSAT (Customer Satisfaction) scores. The operations manager wants an engaging, practical exercise to help employees practice and improve active listening skills. The goal is to make agents more empathetic, attentive, and accurate in their responses during calls. This exercise will be included in onboarding and quarterly refresher training.`
 
-Goal:
+`Goal:`
 
-Develop an interactive exercise that improves active listening among employees.
+`Develop an interactive exercise that improves active listening among employees.`
 
-Prompt:
+`Prompt:`
 
-"You are a corporate soft skills trainer. Create a step-by-step active listening training exercise for customer service staff, including: short roleplay scenarios, paraphrasing and summarization drills, empathy-building activities, and real call review sessions. Provide a scoring rubric to measure listening accuracy and emotional responsiveness." Inputs Required from User: Job roles of participants Common customer interaction challenges Call duration averages Languages used in customer communication
+`"You are a corporate soft skills trainer. Create a step-by-step active listening training exercise for customer service staff, including: short roleplay scenarios, paraphrasing and summarization drills, empathy-building activities, and real call review sessions. Provide a scoring rubric to measure listening accuracy and emotional responsiveness." Inputs Required from User: Job roles of participants Common customer interaction challenges Call duration averages Languages used in customer communication`
 
-Conflict Resolution Skills Simulation
+## Conflict Resolution Skills Simulation
 
-Backstory:
+`Backstory:`
 
-An IT services company in Pune has cross-departmental friction between project managers and developers due to misaligned deadlines. The HR department wants a simulation-based training that helps employees resolve conflicts professionally without damaging working relationships. The exercise must mimic real workplace situations to make learning applicable.
+`An IT services company in Pune has cross-departmental friction between project managers and developers due to misaligned deadlines. The HR department wants a simulation-based training that helps employees resolve conflicts professionally without damaging working relationships. The exercise must mimic real workplace situations to make learning applicable.`
 
-Goal:
+`Goal:`
 
-Create a roleplay simulation that improves conflict resolution capabilities.
+`Create a roleplay simulation that improves conflict resolution capabilities.`
 
-Prompt:
+`Prompt:`
 
-"You are a workplace mediation expert. Design a conflict resolution skills training exercise using simulated workplace scenarios, covering: identifying root causes, staying objective, using non-violent communication, and finding win-win solutions. Include a facilitator’s guide, debrief questions, and performance evaluation metrics." Inputs Required from User: Types of conflicts most common in the organization Seniority level of participants Existing HR conflict resolution policies Preferred roleplay duration
+`"You are a workplace mediation expert. Design a conflict resolution skills training exercise using simulated workplace scenarios, covering: identifying root causes, staying objective, using non-violent communication, and finding win-win solutions. Include a facilitator’s guide, debrief questions, and performance evaluation metrics." Inputs Required from User: Types of conflicts most common in the organization Seniority level of participants Existing HR conflict resolution policies Preferred roleplay duration`
 
-Professional Email Writing Challenge
+## Professional Email Writing Challenge
 
-Backstory:
+`Backstory:`
 
-A mid-sized consultancy in Bengaluru has observed that employees send emails that are too casual, lack structure, or contain grammatical errors. Clients have even complained about unclear communication. The training department wants a gamified challenge where employees rewrite poorly drafted emails into professional ones.
+`A mid-sized consultancy in Bengaluru has observed that employees send emails that are too casual, lack structure, or contain grammatical errors. Clients have even complained about unclear communication. The training department wants a gamified challenge where employees rewrite poorly drafted emails into professional ones.`
 
-Goal:
+`Goal:`
 
-Create a professional email writing challenge that enhances clarity, tone, and structure.
+`Create a professional email writing challenge that enhances clarity, tone, and structure.`
 
-Prompt:
+`Prompt:`
 
-"You are a business communication trainer. Prepare a professional email writing exercise that includes: before-and-after email examples, rewriting challenges, tone-matching activities, and quick proofreading drills. Incorporate a point-based scoring system and peer review sessions." Inputs Required from User: Industry-specific jargon to include/avoid Typical email recipients (clients, vendors, internal) Common email mistakes noticed Expected email turnaround time
+`"You are a business communication trainer. Prepare a professional email writing exercise that includes: before-and-after email examples, rewriting challenges, tone-matching activities, and quick proofreading drills. Incorporate a point-based scoring system and peer review sessions." Inputs Required from User: Industry-specific jargon to include/avoid Typical email recipients (clients, vendors, internal) Common email mistakes noticed Expected email turnaround time`
 
-Persuasion & Influencing Skills Exercise
+## Persuasion & Influencing Skills Exercise
 
-Backstory:
+`Backstory:`
 
-A B2B sales team in Mumbai is losing deals to competitors because they struggle to influence decision-makers. The sales head wants a high-energy training exercise that helps the team practice persuasive techniques in realistic scenarios. This will be part of a quarterly sales bootcamp.
+`A B2B sales team in Mumbai is losing deals to competitors because they struggle to influence decision-makers. The sales head wants a high-energy training exercise that helps the team practice persuasive techniques in realistic scenarios. This will be part of a quarterly sales bootcamp.`
 
-Goal:
+`Goal:`
 
-Design an interactive exercise that strengthens persuasion skills.
+`Design an interactive exercise that strengthens persuasion skills.`
 
-Prompt:
+`Prompt:`
 
-"You are a persuasion skills coach. Develop a persuasion and influencing exercise for sales professionals, covering: building rapport, presenting value propositions, handling objections, and using storytelling for impact. Include timed pitch sessions, feedback loops, and persuasion effectiveness scoring." Inputs Required from User: Product/service details Target customer profile Average sales cycle duration Competitor advantages
+`"You are a persuasion skills coach. Develop a persuasion and influencing exercise for sales professionals, covering: building rapport, presenting value propositions, handling objections, and using storytelling for impact. Include timed pitch sessions, feedback loops, and persuasion effectiveness scoring." Inputs Required from User: Product/service details Target customer profile Average sales cycle duration Competitor advantages`
 
-Cross-Cultural Communication Game
+## Cross-Cultural Communication Game
 
-Backstory:
+`Backstory:`
 
-An MNC in Hyderabad employs staff from multiple countries and cultures. Misunderstandings sometimes occur due to cultural differences in communication styles. The HR team wants a fun, interactive game that teaches employees how to communicate respectfully across cultures.
+`An MNC in Hyderabad employs staff from multiple countries and cultures. Misunderstandings sometimes occur due to cultural differences in communication styles. The HR team wants a fun, interactive game that teaches employees how to communicate respectfully across cultures.`
 
-Goal:
+`Goal:`
 
-Create a team-based game that builds cross-cultural communication awareness.
+`Create a team-based game that builds cross-cultural communication awareness.`
 
-Prompt:
+`Prompt:`
 
-"You are an intercultural communication trainer. Create a cross-cultural communication training game with: scenario cards highlighting cultural differences, group discussions on solutions, role reversal exercises, and a quick-reference culture etiquette sheet." Inputs Required from User: Countries represented in the workforce Typical situations where cultural clashes occur Communication platforms used (email, video calls) Time available for the game
+`"You are an intercultural communication trainer. Create a cross-cultural communication training game with: scenario cards highlighting cultural differences, group discussions on solutions, role reversal exercises, and a quick-reference culture etiquette sheet." Inputs Required from User: Countries represented in the workforce Typical situations where cultural clashes occur Communication platforms used (email, video calls) Time available for the game`
 
-Time Management Simulation Drill
+## Time Management Simulation Drill
 
-Backstory:
+`Backstory:`
 
-A marketing agency in Delhi is struggling with employees missing deadlines despite working long hours. The issue is not workload but poor prioritization and scheduling. The HR training team wants a simulation where employees face a “workday challenge” and must manage multiple urgent and non-urgent tasks within limited time.
+`A marketing agency in Delhi is struggling with employees missing deadlines despite working long hours. The issue is not workload but poor prioritization and scheduling. The HR training team wants a simulation where employees face a “workday challenge” and must manage multiple urgent and non-urgent tasks within limited time.`
 
-Goal:
+`Goal:`
 
 Create a simulation exercise that improves prioritization and time management skills.
 
-Prompt:
+`Prompt:`
 
-"You are a time management coach. Develop a 90-minute simulation where participants are given a day’s worth of tasks with different urgency levels. Include: task lists with hidden dependencies, interruptions from simulated ‘colleagues,’ and deadlines that shift mid-exercise. End with a debrief where participants reflect on prioritization choices and receive best-practice tips." Inputs Required from User: Nature of participant job roles Average number of daily tasks Common workplace interruptions Preferred simulation duration
+`"You are a time management coach. Develop a 90-minute simulation where participants are given a day’s worth of tasks with different urgency levels. Include: task lists with hidden dependencies, interruptions from simulated ‘colleagues,’ and deadlines that shift mid-exercise. End with a debrief where participants reflect on prioritization choices and receive best-practice tips." Inputs Required from User: Nature of participant job roles Average number of daily tasks Common workplace interruptions Preferred simulation duration`
 
-Negotiation Roleplay for Business Deals
+## Negotiation Roleplay for Business Deals
 
-Backstory:
+`Backstory:`
 
-A procurement team in Chennai frequently negotiates with vendors but often ends up with higher costs due to lack of structured bargaining strategies. The procurement head wants a negotiation roleplay exercise that reflects real supplier interactions, with a focus on achieving cost savings without damaging relationships.
+`A procurement team in Chennai frequently negotiates with vendors but often ends up with higher costs due to lack of structured bargaining strategies. The procurement head wants a negotiation roleplay exercise that reflects real supplier interactions, with a focus on achieving cost savings without damaging relationships.`
 
-Goal:
+`Goal:`
 
-Design a roleplay session that sharpens negotiation skills for better business outcomes.
+`Design a roleplay session that sharpens negotiation skills for better business outcomes.`
 
-Prompt:
+`Prompt:`
 
-"You are a negotiation strategist. Create a vendor negotiation roleplay exercise including: pre-negotiation preparation guidelines, BATNA (Best Alternative to a Negotiated Agreement) analysis, role cards for buyer and seller, timed bargaining rounds, and post-roleplay feedback. Include a scoring method for negotiation effectiveness." Inputs Required from User: Product/service typically procured Common vendor negotiation challenges Budget flexibility levels Number of participants per session
+`"You are a negotiation strategist. Create a vendor negotiation roleplay exercise including: pre-negotiation preparation guidelines, BATNA (Best Alternative to a Negotiated Agreement) analysis, role cards for buyer and seller, timed bargaining rounds, and post-roleplay feedback. Include a scoring method for negotiation effectiveness." Inputs Required from User: Product/service typically procured Common vendor negotiation challenges Budget flexibility levels Number of participants per session`
 
-Leadership Decision-Making Challenge
+## Leadership Decision-Making Challenge
 
-Backstory:
+`Backstory:`
 
-A fintech startup in Gurugram has promoted several employees to team leads, but they struggle to make quick, effective decisions under pressure. The COO wants a high-intensity exercise that tests leadership decision-making skills in ambiguous scenarios.
+`A fintech startup in Gurugram has promoted several employees to team leads, but they struggle to make quick, effective decisions under pressure. The COO wants a high-intensity exercise that tests leadership decision-making skills in ambiguous scenarios.`
 
-Goal:
+`Goal:`
 
-Create a leadership challenge that builds confidence in making informed, timely decisions.
+`Create a leadership challenge that builds confidence in making informed, timely decisions.`
 
-Prompt:
+`Prompt:`
 
-"You are a leadership development coach. Design a decision-making challenge for new managers, with: scenario briefs that present incomplete information, timed decision deadlines, group consensus exercises, and real-time consequence simulations. Provide a leader’s reflection worksheet to analyze decision quality." Inputs Required from User: Industry-specific leadership scenarios Decision types participants often face Number of new managers in training Access to real company case studies
+`"You are a leadership development coach. Design a decision-making challenge for new managers, with: scenario briefs that present incomplete information, timed decision deadlines, group consensus exercises, and real-time consequence simulations. Provide a leader’s reflection worksheet to analyze decision quality." Inputs Required from User: Industry-specific leadership scenarios Decision types participants often face Number of new managers in training Access to real company case studies`
 
-Public Speaking Confidence Workshop Exercise
+## Public Speaking Confidence Workshop Exercise
 
-Backstory:
+`Backstory:`
 
-An EdTech company in Pune needs its trainers to conduct webinars for thousands of students, but many are nervous and monotone while speaking. The training department wants a high-energy exercise that improves confidence, voice modulation, and audience engagement.
+`An EdTech company in Pune needs its trainers to conduct webinars for thousands of students, but many are nervous and monotone while speaking. The training department wants a high-energy exercise that improves confidence, voice modulation, and audience engagement.`
 
-Goal:
+`Goal:`
 
-Develop a practical speaking exercise to build presentation confidence.
+`Develop a practical speaking exercise to build presentation confidence.`
 
-Prompt:
+`Prompt:`
 
-"You are a public speaking coach. Create a 3-stage speaking confidence exercise: warm-up vocal drills, 2-minute impromptu speech challenges, and storytelling with audience interaction. Include video recording for self-review and a scoring sheet for pace, clarity, and engagement." Inputs Required from User: Participant experience in public speaking Audience size and type Typical presentation topics Availability of recording equipment
+`"You are a public speaking coach. Create a 3-stage speaking confidence exercise: warm-up vocal drills, 2-minute impromptu speech challenges, and storytelling with audience interaction. Include video recording for self-review and a scoring sheet for pace, clarity, and engagement." Inputs Required from User: Participant experience in public speaking Audience size and type Typical presentation topics Availability of recording equipment`
 
-Emotional Intelligence Empathy Mapping
+## Emotional Intelligence Empathy Mapping
 
-Backstory:
+`Backstory:`
 
-A healthcare services provider in Kochi wants its front-desk and call center staff to handle patients with more empathy, especially during stressful situations. The HR team wants an activity that helps employees “step into the shoes” of patients and understand their emotional states.
+`A healthcare services provider in Kochi wants its front-desk and call center staff to handle patients with more empathy, especially during stressful situations. The HR team wants an activity that helps employees “step into the shoes” of patients and understand their emotional states.`
 
-Goal:
+`Goal:`
 
-Build an exercise that enhances empathy through emotional intelligence training.
+`Build an exercise that enhances empathy through emotional intelligence training.`
 
-Prompt:
+`Prompt:`
 
-"You are an emotional intelligence trainer. Develop an empathy mapping exercise where participants analyze patient profiles, identify emotional triggers, and roleplay conversations that de-escalate stress. Provide a set of patient persona cards, scenario scripts, and reflection prompts." Inputs Required from User: Customer personas with emotional contexts Common high-stress situations faced Communication channels used (phone, in-person) Desired empathy benchmarks
+`"You are an emotional intelligence trainer. Develop an empathy mapping exercise where participants analyze patient profiles, identify emotional triggers, and roleplay conversations that de-escalate stress. Provide a set of patient persona cards, scenario scripts, and reflection prompts." Inputs Required from User: Customer personas with emotional contexts Common high-stress situations faced Communication channels used (phone, in-person) Desired empathy benchmarks`
 
-Conflict Resolution Simulation for Teams
+## Conflict Resolution Simulation for Teams
 
-Backstory:
+`Backstory:`
 
-An IT services firm in Hyderabad is seeing friction between its development and QA teams due to repeated project delays. The project manager wants an exercise that helps both sides understand each other’s perspectives and find common ground without HR escalation.
+`An IT services firm in Hyderabad is seeing friction between its development and QA teams due to repeated project delays. The project manager wants an exercise that helps both sides understand each other’s perspectives and find common ground without HR escalation.`
 
-Goal:
+`Goal:`
 
-Create a role-based simulation to train employees in resolving workplace conflicts constructively.
+`Create a role-based simulation to train employees in resolving workplace conflicts constructively.`
 
-Prompt:
+`Prompt:`
 
-"You are a workplace conflict resolution facilitator. Design a 2-hour roleplay simulation where participants are split into two conflicting teams. Provide conflict scenarios, stakeholder perspectives, and guidelines for active listening and win-win negotiation. Include a structured debrief to identify alternative resolutions and create a joint action plan." Inputs Required from User: Common sources of workplace conflict Number of participants per session Preferred facilitation style (mediated or open discussion) Company policy on dispute resolution
+`"You are a workplace conflict resolution facilitator. Design a 2-hour roleplay simulation where participants are split into two conflicting teams. Provide conflict scenarios, stakeholder perspectives, and guidelines for active listening and win-win negotiation. Include a structured debrief to identify alternative resolutions and create a joint action plan." Inputs Required from User: Common sources of workplace conflict Number of participants per session Preferred facilitation style (mediated or open discussion) Company policy on dispute resolution`
 
-Creative Problem-Solving Brainstorm Drill
+## Creative Problem-Solving Brainstorm Drill
 
-Backstory:
+`Backstory:`
 
-A consumer goods company in Mumbai wants its marketing team to break away from “safe” ideas and generate more innovative campaigns. They need a high-energy group drill that encourages out-of-the-box thinking without fear of failure.
+`A consumer goods company in Mumbai wants its marketing team to break away from “safe” ideas and generate more innovative campaigns. They need a high-energy group drill that encourages out-of-the-box thinking without fear of failure.`
 
-Goal:
+`Goal:`
 
-Develop a creative problem-solving workshop activity that fosters innovation.
+`Develop a creative problem-solving workshop activity that fosters innovation.`
 
-Prompt:
+`Prompt:`
 
-"You are a creativity coach. Design a 60-minute brainstorm drill where participants solve a fictional but relatable business problem using techniques like mind mapping, SCAMPER, and reverse thinking. Include time-boxed idea sprints, group voting, and ‘wild card’ prompts to push creativity." Inputs Required from User: Nature of business challenges faced Team size and skill diversity Available tools (whiteboards, sticky notes, digital tools) Tolerance for high-risk ideas
+`"You are a creativity coach. Design a 60-minute brainstorm drill where participants solve a fictional but relatable business problem using techniques like mind mapping, SCAMPER, and reverse thinking. Include time-boxed idea sprints, group voting, and ‘wild card’ prompts to push creativity." Inputs Required from User: Nature of business challenges faced Team size and skill diversity Available tools (whiteboards, sticky notes, digital tools) Tolerance for high-risk ideas`
 
-Active Listening Partner Exercise
+## Active Listening Partner Exercise
 
-Backstory:
+`Backstory:`
 
-A law firm in Delhi is losing potential clients during consultations because associates jump to legal advice before fully understanding client concerns. The managing partner wants an active listening drill that builds patience and deeper client understanding.
+`A law firm in Delhi is losing potential clients during consultations because associates jump to legal advice before fully understanding client concerns. The managing partner wants an active listening drill that builds patience and deeper client understanding.`
 
-Goal:
+`Goal:`
 
-Create a paired activity to strengthen listening skills.
+`Create a paired activity to strengthen listening skills.`
 
-Prompt:
+`Prompt:`
 
-"You are a communication skills trainer. Develop a 45-minute partner exercise where one person shares a problem for 3 minutes while the other listens silently, taking notes on emotional and factual cues. Then, the listener paraphrases the concern before suggesting solutions. Include a checklist for measuring listening quality." Inputs Required from User: Common client consultation scenarios Average duration of client meetings Existing listening challenges observed Level of communication training already in place
+`"You are a communication skills trainer. Develop a 45-minute partner exercise where one person shares a problem for 3 minutes while the other listens silently, taking notes on emotional and factual cues. Then, the listener paraphrases the concern before suggesting solutions. Include a checklist for measuring listening quality." Inputs Required from User: Common client consultation scenarios Average duration of client meetings Existing listening challenges observed Level of communication training already in place`
 
-Adaptability & Change Acceptance Challenge
+## Adaptability & Change Acceptance Challenge
 
-Backstory:
+`Backstory:`
 
-A retail chain in Kolkata is rolling out a new POS system across all stores. While younger staff adapt quickly, older employees are resistant to change. The HR department wants a fun, low-pressure challenge that builds adaptability skills.
+`A retail chain in Kolkata is rolling out a new POS system across all stores. While younger staff adapt quickly, older employees are resistant to change. The HR department wants a fun, low-pressure challenge that builds adaptability skills.`
 
-Goal:
+`Goal:`
 
-Design an interactive activity that helps employees embrace change.
+`Design an interactive activity that helps employees embrace change.`
 
-Prompt:
+`Prompt:`
 
-"You are a workplace change management trainer. Create a 1-hour adaptability challenge where employees are tasked with completing familiar activities but with sudden mid-task changes in rules or tools. Include a reflection session where they discuss emotions felt, coping strategies used, and how to apply them to real workplace changes." Inputs Required from User: Nature of upcoming organizational changes Age and tech-comfort level of participants Average daily workflows affected Existing change management practices
+`"You are a workplace change management trainer. Create a 1-hour adaptability challenge where employees are tasked with completing familiar activities but with sudden mid-task changes in rules or tools. Include a reflection session where they discuss emotions felt, coping strategies used, and how to apply them to real workplace changes." Inputs Required from User: Nature of upcoming organizational changes Age and tech-comfort level of participants Average daily workflows affected Existing change management practices`
 
-Persuasive Communication Elevator Pitch Drill
+## Persuasive Communication Elevator Pitch Drill
 
-Backstory:
+`Backstory:`
 
-A startup incubator in Bengaluru wants its entrepreneurs to refine their pitching skills for potential investors. Many founders struggle to present their value proposition concisely and persuasively in under 60 seconds.
+`A startup incubator in Bengaluru wants its entrepreneurs to refine their pitching skills for potential investors. Many founders struggle to present their value proposition concisely and persuasively in under 60 seconds.`
 
-Goal:
+`Goal:
 
-Create an elevator pitch practice drill that boosts persuasion skills.
+`Create an elevator pitch practice drill that boosts persuasion skills.`
 
-Prompt:
+`Prompt:`
 
-"You are a business pitch coach. Design a rapid-fire pitch drill where participants have 60 seconds to present their startup idea to a simulated investor panel. Include a pitch structure template (hook, problem, solution, differentiation, call-to-action) and feedback scoring sheet for clarity, persuasion, and delivery." Inputs Required from User: Industry of startup Target investor profile Stage of startup (idea, MVP, growth) Key metrics or traction to highlight
+`"You are a business pitch coach. Design a rapid-fire pitch drill where participants have 60 seconds to present their startup idea to a simulated investor panel. Include a pitch structure template (hook, problem, solution, differentiation, call-to-action) and feedback scoring sheet for clarity, persuasion, and delivery." Inputs Required from User: Industry of startup Target investor profile Stage of startup (idea, MVP, growth) Key metrics or traction to highlight`
 
-Cross-Cultural Communication Workshop Game
+## Cross-Cultural Communication Workshop Game
 
-Backstory:
+`Backstory:`
 
-An Indian IT outsourcing company in Pune regularly collaborates with clients in the US, Japan, and Germany. Project delays often happen because cultural nuances are misunderstood — such as indirect communication in Japan or direct confrontation in Germany. The HR team wants a workshop game to help employees understand and adapt to different communication styles.
+`An Indian IT outsourcing company in Pune regularly collaborates with clients in the US, Japan, and Germany. Project delays often happen because cultural nuances are misunderstood — such as indirect communication in Japan or direct confrontation in Germany. The HR team wants a workshop game to help employees understand and adapt to different communication styles.`
 
-Goal:
+`Goal:`
 
-Design an interactive game that improves cross-cultural awareness and communication.
+`Design an interactive game that improves cross-cultural awareness and communication.`
 
-Prompt:
+`Prompt:`
 
-"You are an intercultural communication trainer. Create a 90-minute workshop game where participants role-play business scenarios with assigned cultural communication styles. Include briefing cards for each culture’s norms, do’s and don’ts, and potential misunderstandings. Debrief with a comparison chart of effective strategies for each culture." Inputs Required from User: Countries most interacted with Team’s current cultural awareness level Industry-specific etiquette norms Training session format (in-person/virtual)
+`"You are an intercultural communication trainer. Create a 90-minute workshop game where participants role-play business scenarios with assigned cultural communication styles. Include briefing cards for each culture’s norms, do’s and don’ts, and potential misunderstandings. Debrief with a comparison chart of effective strategies for each culture." Inputs Required from User: Countries most interacted with Team’s current cultural awareness level Industry-specific etiquette norms Training session format (in-person/virtual)`
 
-Negotiation Roleplay with Competing Interests
+## Negotiation Roleplay with Competing Interests
 
-Backstory:
+`Backstory:`
 
-A real estate firm in Gurgaon often negotiates with both property sellers and buyers. Agents need to balance securing the best deal while maintaining relationships. Management wants a simulation that develops win-win negotiation skills under pressure.
+`A real estate firm in Gurgaon often negotiates with both property sellers and buyers. Agents need to balance securing the best deal while maintaining relationships. Management wants a simulation that develops win-win negotiation skills under pressure.`
 
-Goal:
+`Goal:`
 
-Develop a high-pressure negotiation drill that simulates real-world constraints.
+`Develop a high-pressure negotiation drill that simulates real-world constraints.`
 
-Prompt:
+`Prompt:`
 
-"You are a negotiation skills coach. Create a 2-hour simulation where participants are assigned opposing stakeholder roles (buyer, seller, mediator) with hidden objectives and constraints. Include timed negotiation rounds, unexpected twists, and a scoring system based on deal fairness, creativity, and relationship preservation." Inputs Required from User: Industry-specific negotiation examples Number of participants Common deal-breaking factors Preferred difficulty level
+`"You are a negotiation skills coach. Create a 2-hour simulation where participants are assigned opposing stakeholder roles (buyer, seller, mediator) with hidden objectives and constraints. Include timed negotiation rounds, unexpected twists, and a scoring system based on deal fairness, creativity, and relationship preservation." Inputs Required from User: Industry-specific negotiation examples Number of participants Common deal-breaking factors Preferred difficulty level`
 
-Emotional Intelligence Self-Awareness Exercise
+## Emotional Intelligence Self-Awareness Exercise
 
-Backstory:
+`Backstory:`
 
-A healthcare startup in Chennai noticed rising burnout among team leads. Managers are reacting emotionally to patient complaints and internal issues. The founder wants an activity that builds self-awareness and emotional control.
+`A healthcare startup in Chennai noticed rising burnout among team leads. Managers are reacting emotionally to patient complaints and internal issues. The founder wants an activity that builds self-awareness and emotional control.`
 
-Goal:
+`Goal:`
 
-Create a guided activity that improves emotional intelligence in leaders.
+`Create a guided activity that improves emotional intelligence in leaders.`
 
-Prompt:
+`Prompt:`
 
-"You are an emotional intelligence trainer. Develop a 45-minute self-awareness exercise where participants reflect on past emotionally charged situations, identify triggers, and map emotional responses. Include a worksheet for reframing negative reactions into constructive actions." Inputs Required from User: Role-specific stress triggers Past examples of emotional escalation Desired EI assessment format (journal, quiz, group discussion)
+`"You are an emotional intelligence trainer. Develop a 45-minute self-awareness exercise where participants reflect on past emotionally charged situations, identify triggers, and map emotional responses. Include a worksheet for reframing negative reactions into constructive actions." Inputs Required from User: Role-specific stress triggers Past examples of emotional escalation Desired EI assessment format (journal, quiz, group discussion)`
 
-Time Management Simulation Challenge
+## Time Management Simulation Challenge
 
-Backstory:
+`Backstory:`
 
-A BPO in Noida is struggling with agents missing deadlines due to poor prioritization. The training manager wants a fun yet realistic simulation to teach urgency vs. importance in task management.
+`A BPO in Noida is struggling with agents missing deadlines due to poor prioritization. The training manager wants a fun yet realistic simulation to teach urgency vs. importance in task management.`
 
-Goal:
+`Goal:`
 
-Design a time-sensitive game that teaches prioritization skills.
+`Design a time-sensitive game that teaches prioritization skills.`
 
-Prompt:
+`Prompt:`
 
-"You are a productivity coach. Create a 60-minute simulation where participants receive a mixed batch of urgent and non-urgent tasks with shifting deadlines. Include random interruptions, sudden priority changes, and a scoring system based on completion efficiency and accuracy." Inputs Required from User: Typical task mix in the workplace Average task duration in real roles Tools available (timers, task cards, digital boards)
+`"You are a productivity coach. Create a 60-minute simulation where participants receive a mixed batch of urgent and non-urgent tasks with shifting deadlines. Include random interruptions, sudden priority changes, and a scoring system based on completion efficiency and accuracy." Inputs Required from User: Typical task mix in the workplace Average task duration in real roles Tools available (timers, task cards, digital boards)`
 
-Public Speaking Confidence Builder
+## Public Speaking Confidence Builder
 
-Backstory:
+`Backstory:`
 
-An NGO in Jaipur wants its field workers to confidently address community gatherings, but many have stage fright and lose clarity when speaking. They need a structured practice format to build confidence and presence.
+`An NGO in Jaipur wants its field workers to confidently address community gatherings, but many have stage fright and lose clarity when speaking. They need a structured practice format to build confidence and presence.`
 
-Goal:
+`Goal:`
 
-Develop a public speaking exercise that improves delivery, tone, and engagement.
+`Develop a public speaking exercise that improves delivery, tone, and engagement.`
 
-Prompt:
+`Prompt:`
 
-"You are a public speaking coach. Create a progressive 3-round speaking drill where participants start with reading aloud, then move to storytelling, and finally give a persuasive speech. Include real-time feedback on body language, tone, and audience engagement." Inputs Required from User: Target audience profile Typical speaking scenarios Participant skill levels Available recording equipment for feedback
+`"You are a public speaking coach. Create a progressive 3-round speaking drill where participants start with reading aloud, then move to storytelling, and finally give a persuasive speech. Include real-time feedback on body language, tone, and audience engagement." Inputs Required from User: Target audience profile Typical speaking scenarios Participant skill levels Available recording equipment for feedback`
 
-Team Decision-Making Simulation
+## Team Decision-Making Simulation
 
-Backstory:
+`Backstory:`
 
-A fintech firm in Bengaluru needs to train managers on making quick yet informed decisions under uncertainty. Delayed decision-making is causing lost opportunities.
+`A fintech firm in Bengaluru needs to train managers on making quick yet informed decisions under uncertainty. Delayed decision-making is causing lost opportunities.`
 
-Goal:
+`Goal:`
 
-Design a simulation that strengthens collaborative decision-making skills.
+`Design a simulation that strengthens collaborative decision-making skills.`
 
-Prompt:
+`Prompt:`
 
-"You are a decision-making workshop facilitator. Develop a 90-minute team exercise where participants analyze incomplete or conflicting data to choose a course of action under time pressure. Include decision matrices, pros/cons ranking, and a post-exercise reflection." Inputs Required from User: Industry decision-making examples Typical time constraints in real projects Level of authority participants hold
+`"You are a decision-making workshop facilitator. Develop a 90-minute team exercise where participants analyze incomplete or conflicting data to choose a course of action under time pressure. Include decision matrices, pros/cons ranking, and a post-exercise reflection." Inputs Required from User: Industry decision-making examples Typical time constraints in real projects Level of authority participants hold`
 
-Feedback Delivery Practice Drill
+## Feedback Delivery Practice Drill
 
-Backstory:
+`Backstory:`
 
-An e-learning startup in Delhi wants its team leads to give feedback without demotivating employees. Current reviews are either too harsh or too vague.
+`An e-learning startup in Delhi wants its team leads to give feedback without demotivating employees. Current reviews are either too harsh or too vague.`
 
-Goal:
+`Goal:`
 
-Create a safe space for practicing constructive feedback delivery.
+`Create a safe space for practicing constructive feedback delivery.`
 
-Prompt:
+`Prompt:`
 
-"You are a leadership communication coach. Create a 1-hour feedback roleplay where participants practice delivering both positive and constructive feedback using the SBI (Situation-Behavior-Impact) model. Include example scripts, common mistakes, and a peer-rating sheet." Inputs Required from User: Feedback scenarios relevant to the role Preferred feedback framework (SBI, Sandwich, etc.) Participant leadership experience level
+`"You are a leadership communication coach. Create a 1-hour feedback roleplay where participants practice delivering both positive and constructive feedback using the SBI (Situation-Behavior-Impact) model. Include example scripts, common mistakes, and a peer-rating sheet." Inputs Required from User: Feedback scenarios relevant to the role Preferred feedback framework (SBI, Sandwich, etc.) Participant leadership experience level`
 
-Crisis Communication Drill
+## Crisis Communication Drill
 
-Backstory:
+`Backstory:`
 
-A hospitality chain in Goa experienced a PR crisis when a viral tweet claimed food poisoning at one of its resorts. The PR manager wants a simulation to prepare staff for real-time crisis handling.
+`A hospitality chain in Goa experienced a PR crisis when a viral tweet claimed food poisoning at one of its resorts. The PR manager wants a simulation to prepare staff for real-time crisis handling.`
 
-Goal:
+`Goal:`
 
-Build a communication drill that prepares teams for emergencies.
+`Build a communication drill that prepares teams for emergencies.`
 
-Prompt:
+`Prompt:`
 
-"You are a crisis communication trainer. Create a 2-hour drill where participants respond to a staged PR crisis through email drafts, social media posts, and press statements. Include a scoring system for speed, accuracy, and brand tone consistency." Inputs Required from User: Likely crisis scenarios Brand tone guidelines Team roles during emergencies
+`"You are a crisis communication trainer. Create a 2-hour drill where participants respond to a staged PR crisis through email drafts, social media posts, and press statements. Include a scoring system for speed, accuracy, and brand tone consistency." Inputs Required from User: Likely crisis scenarios Brand tone guidelines Team roles during emergencies`
 
-Active Collaboration & Idea Integration Workshop
+## Active Collaboration & Idea Integration Workshop
 
-Backstory:
+`Backstory:`
 
-A design agency in Mumbai finds that brainstorming sessions turn into idea battles rather than collaborations. They want a workshop where team members learn to build on each other’s ideas instead of competing.
+`A design agency in Mumbai finds that brainstorming sessions turn into idea battles rather than collaborations. They want a workshop where team members learn to build on each other’s ideas instead of competing.`
 
-Goal:
+`Goal:`
 
-Foster a collaborative approach to problem-solving.
+`Foster a collaborative approach to problem-solving.`
 
-Prompt:
+`Prompt:
 
-"You are a team collaboration trainer. Create a 75-minute exercise where teams must merge multiple initial ideas into one final concept. Provide structured idea-merging templates and voting mechanisms. End with a reflection on teamwork dynamics." Inputs Required from User: Typical project types Number of participants per team Previous collaboration challenges
+`"You are a team collaboration trainer. Create a 75-minute exercise where teams must merge multiple initial ideas into one final concept. Provide structured idea-merging templates and voting mechanisms. End with a reflection on teamwork dynamics." Inputs Required from User: Typical project types Number of participants per team Previous collaboration challenges`
 
-Storytelling for Influence Workshop
+## Storytelling for Influence Workshop
 
-Backstory:
+`Backstory:`
 
-A sales team in Ahmedabad wants to use storytelling to make pitches more memorable. However, they often present dry facts without emotional appeal.
+`A sales team in Ahmedabad wants to use storytelling to make pitches more memorable. However, they often present dry facts without emotional appeal.`
 
-Goal:
+`Goal:`
 
-Create a storytelling training that links emotion with persuasion.
+`Create a storytelling training that links emotion with persuasion.`
 
-Prompt:
+`Prompt:`
 
-"You are a storytelling coach. Develop a 2-hour workshop where participants learn to structure a sales story with relatable characters, a conflict, and a resolution. Include exercises to turn real customer success cases into compelling narratives." Inputs Required from User: Industry and product details Customer success examples Target audience profiles
+`"You are a storytelling coach. Develop a 2-hour workshop where participants learn to structure a sales story with relatable characters, a conflict, and a resolution. Include exercises to turn real customer success cases into compelling narratives." Inputs Required from User: Industry and product details Customer success examples Target audience profiles`
 
 
-Industry-Specific Best Practices
+# Industry-Specific Best Practices
 
-Healthcare Industry Best Practices Manual
+## Healthcare Industry Best Practices Manual
 
-Backstory:
+`Backstory:`
 
-A private hospital chain in Hyderabad is onboarding 200 new nurses across its facilities. The management wants to ensure that all new staff members follow a uniform standard of patient care, documentation, and hygiene protocols. In the past, inconsistent practices have led to patient dissatisfaction and compliance issues with NABH accreditation standards.
+`A private hospital chain in Hyderabad is onboarding 200 new nurses across its facilities. The management wants to ensure that all new staff members follow a uniform standard of patient care, documentation, and hygiene protocols. In the past, inconsistent practices have led to patient dissatisfaction and compliance issues with NABH accreditation standards.`
 
-Goal:
+`Goal:`
 
-Create a comprehensive healthcare best practices manual for nurses that can be used for onboarding and ongoing reference.
+`Create a comprehensive healthcare best practices manual for nurses that can be used for onboarding and ongoing reference.`
 
-Prompt:
+`Prompt:`
 
-"You are a healthcare training consultant. Draft a best practices manual for nurses working in a NABH-accredited hospital in India, covering patient admission and discharge protocols, medication administration safety, infection control procedures, patient communication etiquette, emergency response steps, medical record documentation, and regular audit checklists." Inputs Required from User: Hospital size and specialty departments Current SOPs in place NABH compliance requirements Training duration and format (print, digital, or blended)
+`"You are a healthcare training consultant. Draft a best practices manual for nurses working in a NABH-accredited hospital in India, covering patient admission and discharge protocols, medication administration safety, infection control procedures, patient communication etiquette, emergency response steps, medical record documentation, and regular audit checklists." Inputs Required from User: Hospital size and specialty departments Current SOPs in place NABH compliance requirements Training duration and format (print, digital, or blended)`
 
-Retail Industry Customer Service Excellence Guide
+`Retail Industry Customer Service Excellence Guide`
 
-Backstory:
+`Backstory:`
 
-A premium apparel retail chain with 50 outlets across India is facing declining customer loyalty scores. Feedback suggests staff lack consistency in greeting customers, assisting with purchases, and handling complaints. The CEO wants a "gold standard" customer service guide that every employee can follow to ensure brand consistency.
+`A premium apparel retail chain with 50 outlets across India is facing declining customer loyalty scores. Feedback suggests staff lack consistency in greeting customers, assisting with purchases, and handling complaints. The CEO wants a "gold standard" customer service guide that every employee can follow to ensure brand consistency.`
 
-Goal:
+`Goal:`
 
-Develop a retail customer service best practices handbook.
+`Develop a retail customer service best practices handbook.`
 
-Prompt:
+`Prompt:`
 
-"You are a retail operations consultant. Create a customer service excellence guide for a premium fashion retail chain, including greeting and approach techniques, product recommendation strategies, upselling and cross-selling methods, handling difficult customers, loyalty program promotion, post-purchase follow-ups, and daily performance review routines." Inputs Required from User: Brand positioning (luxury, mid-range, budget) Customer demographic details Common customer complaints and scenarios Existing training materials
+`"You are a retail operations consultant. Create a customer service excellence guide for a premium fashion retail chain, including greeting and approach techniques, product recommendation strategies, upselling and cross-selling methods, handling difficult customers, loyalty program promotion, post-purchase follow-ups, and daily performance review routines." Inputs Required from User: Brand positioning (luxury, mid-range, budget) Customer demographic details Common customer complaints and scenarios Existing training materials`
 
-Banking & Financial Services Compliance Best Practices
+## Banking & Financial Services Compliance Best Practices
 
-Backstory:
+`Backstory:`
 
-A mid-sized private bank in Mumbai is expanding its personal loan division and must ensure strict compliance with RBI guidelines. Recent audits revealed gaps in documentation, data privacy handling, and KYC verification processes. Senior management wants a ready-reference guide for employees that aligns operations with compliance rules.
+`A mid-sized private bank in Mumbai is expanding its personal loan division and must ensure strict compliance with RBI guidelines. Recent audits revealed gaps in documentation, data privacy handling, and KYC verification processes. Senior management wants a ready-reference guide for employees that aligns operations with compliance rules.`
 
-Goal:
+`Goal:`
 
-Create a compliance-focused best practices document for BFSI employees.
+`Create a compliance-focused best practices document for BFSI employees.`
 
-Prompt:
+`Prompt:`
 
-"You are a banking compliance trainer. Draft a best practices guide for personal loan processing in an Indian bank, covering KYC and AML requirements, RBI documentation rules, ethical sales practices, data privacy under the DPDP Act, customer consent management, grievance redressal timelines, and internal audit preparation steps." Inputs Required from User: Loan types offered Current KYC/AML processes Average customer profile Audit history and common non-compliance points
+`"You are a banking compliance trainer. Draft a best practices guide for personal loan processing in an Indian bank, covering KYC and AML requirements, RBI documentation rules, ethical sales practices, data privacy under the DPDP Act, customer consent management, grievance redressal timelines, and internal audit preparation steps." Inputs Required from User: Loan types offered Current KYC/AML processes Average customer profile Audit history and common non-compliance points`
 
-IT Industry Code Quality & Deployment Standards
+## IT Industry Code Quality & Deployment Standards
 
-Backstory:
+`Backstory:`
 
-A software development firm in Pune has faced repeated client complaints about bugs in production releases. The CTO wants a best practices document that standardizes coding, testing, and deployment processes to ensure higher product quality and client satisfaction.
+`A software development firm in Pune has faced repeated client complaints about bugs in production releases. The CTO wants a best practices document that standardizes coding, testing, and deployment processes to ensure higher product quality and client satisfaction.`
 
-Goal:
+`Goal:`
 
-Build a code quality and deployment standards guide for IT teams.
+`Build a code quality and deployment standards guide for IT teams.`
 
-Prompt:
+`Prompt:`
 
-"You are a software engineering process consultant. Create a best practices manual for an IT services company, covering coding style guidelines, peer review processes, automated testing integration, continuous integration/continuous deployment (CI/CD) workflows, rollback procedures, release documentation standards, and security vulnerability checks." Inputs Required from User: Preferred tech stack and frameworks Current development and release process Client SLAs and delivery timelines Testing infrastructure availability
+`"You are a software engineering process consultant. Create a best practices manual for an IT services company, covering coding style guidelines, peer review processes, automated testing integration, continuous integration/continuous deployment (CI/CD) workflows, rollback procedures, release documentation standards, and security vulnerability checks." Inputs Required from User: Preferred tech stack and frameworks Current development and release process Client SLAs and delivery timelines Testing infrastructure availability`
 
-Hospitality Industry Guest Experience SOP
+## Hospitality Industry Guest Experience SOP
 
-Backstory:
+`Backstory:`
 
-A luxury resort chain in Goa wants to ensure that every guest has a flawless and memorable stay. Mystery audits revealed inconsistency in room preparation, welcome rituals, and complaint resolution. The General Manager wants a best practices SOP that standardizes guest experience touchpoints from booking to checkout.
+`A luxury resort chain in Goa wants to ensure that every guest has a flawless and memorable stay. Mystery audits revealed inconsistency in room preparation, welcome rituals, and complaint resolution. The General Manager wants a best practices SOP that standardizes guest experience touchpoints from booking to checkout.`
 
-Goal:
+`Goal:`
 
-Create a guest experience SOP for luxury hospitality services.
+`Create a guest experience SOP for luxury hospitality services.`
 
-Prompt:
+`Prompt:`
 
-"You are a hospitality service excellence consultant. Draft a detailed guest experience best practices SOP covering reservation handling, personalized welcome greetings, room readiness checklists, proactive service touchpoints, complaint resolution protocols, upselling premium services, and guest farewell procedures." Inputs Required from User: Property type and amenities Target guest profile Current service process gaps Brand tone and hospitality philosophy
+`"You are a hospitality service excellence consultant. Draft a detailed guest experience best practices SOP covering reservation handling, personalized welcome greetings, room readiness checklists, proactive service touchpoints, complaint resolution protocols, upselling premium services, and guest farewell procedures." Inputs Required from User: Property type and amenities Target guest profile Current service process gaps Brand tone and hospitality philosophy`
 
-Logistics & Supply Chain Efficiency Protocols
+## Logistics & Supply Chain Efficiency Protocols
 
-Backstory:
+`Backstory:`
 
-A national FMCG distributor based in Delhi manages deliveries to 5,000 retail outlets across India. Delays, inventory miscounts, and damaged goods have increased operational costs by 12% in the past year. The COO wants a standardized set of supply chain best practices to optimize transportation, warehousing, and inventory handling while ensuring customer satisfaction.
+`A national FMCG distributor based in Delhi manages deliveries to 5,000 retail outlets across India. Delays, inventory miscounts, and damaged goods have increased operational costs by 12% in the past year. The COO wants a standardized set of supply chain best practices to optimize transportation, warehousing, and inventory handling while ensuring customer satisfaction.`
 
-Goal:
+`Goal:`
 
-Create a logistics and supply chain efficiency best practices document.
+`Create a logistics and supply chain efficiency best practices document.`
 
-Prompt:
+`Prompt:`
 
-"You are a logistics and supply chain optimization consultant. Draft a best practices manual for a nationwide FMCG distributor, covering warehouse layout optimization, barcode & RFID use for inventory tracking, packaging and damage-prevention measures, route planning and scheduling tools, temperature-controlled storage for perishable goods, reverse logistics handling, and KPI monitoring for on-time delivery performance." Inputs Required from User: Type of products handled Warehouse and distribution network details Current tracking systems used Average delivery timelines & challenges
+`"You are a logistics and supply chain optimization consultant. Draft a best practices manual for a nationwide FMCG distributor, covering warehouse layout optimization, barcode & RFID use for inventory tracking, packaging and damage-prevention measures, route planning and scheduling tools, temperature-controlled storage for perishable goods, reverse logistics handling, and KPI monitoring for on-time delivery performance." Inputs Required from User: Type of products handled Warehouse and distribution network details Current tracking systems used Average delivery timelines & challenges`
 
-Education Sector Teaching Excellence Framework
+## Education Sector Teaching Excellence Framework
 
-Backstory:
+`Backstory:`
 
-A chain of private schools in Bengaluru wants to uplift academic quality by ensuring consistent teaching practices across all branches. Parent surveys show variations in teaching styles and student engagement, which affects exam performance and student retention. The academic director wants a set of best practices that teachers can follow while still allowing creativity in lesson delivery.
+`A chain of private schools in Bengaluru wants to uplift academic quality by ensuring consistent teaching practices across all branches. Parent surveys show variations in teaching styles and student engagement, which affects exam performance and student retention. The academic director wants a set of best practices that teachers can follow while still allowing creativity in lesson delivery.`
 
-Goal:
+`Goal:`
 
-Build a teaching excellence framework for K-12 education.
+`Build a teaching excellence framework for K-12 education.`
 
-Prompt:
+`Prompt:`
 
-"You are an education quality consultant. Create a best practices handbook for K-12 teachers in a private school network, covering lesson planning templates, differentiated instruction strategies, interactive classroom engagement methods, student performance tracking, parent-teacher communication protocols, integration of digital learning tools, and regular peer review sessions for teachers." Inputs Required from User: Curriculum followed (CBSE, ICSE, IB, etc.) Student-teacher ratio Existing teacher training programs Available digital tools and resources
+"You are an education quality consultant. Create a best practices handbook for K-12 teachers in a private school network, covering lesson planning templates, differentiated instruction strategies, interactive classroom engagement methods, student performance tracking, parent-teacher communication protocols, integration of digital learning tools, and regular peer review sessions for teachers." Inputs Required from User: Curriculum followed (CBSE, ICSE, IB, etc.) Student-teacher ratio Existing teacher training programs Available digital tools and resources`
 
-Manufacturing Industry Lean Operations Guidelines
+## Manufacturing Industry Lean Operations Guidelines
 
-Backstory:
+`Backstory:`
 
-An automotive parts manufacturer in Pune is experiencing high defect rates and excess raw material wastage. The plant head wants a Lean Manufacturing best practices guide to reduce waste, improve productivity, and maintain ISO 9001 compliance without compromising worker safety.
+`An automotive parts manufacturer in Pune is experiencing high defect rates and excess raw material wastage. The plant head wants a Lean Manufacturing best practices guide to reduce waste, improve productivity, and maintain ISO 9001 compliance without compromising worker safety.`
 
-Goal:
+`Goal:`
 
-Prepare a Lean Manufacturing best practices guide for the shop floor.
+`Prepare a Lean Manufacturing best practices guide for the shop floor.`
 
-Prompt:
+`Prompt:`
 
-"You are a lean manufacturing specialist. Draft a best practices guide for an automotive parts production unit, covering 5S workplace organization, Kaizen continuous improvement practices, preventive maintenance schedules, just-in-time inventory systems, defect tracking and root cause analysis, employee safety protocols, and daily production performance dashboards." Inputs Required from User: Product categories manufactured Current quality control processes Plant size and workforce count Existing safety certifications
+`"You are a lean manufacturing specialist. Draft a best practices guide for an automotive parts production unit, covering 5S workplace organization, Kaizen continuous improvement practices, preventive maintenance schedules, just-in-time inventory systems, defect tracking and root cause analysis, employee safety protocols, and daily production performance dashboards." Inputs Required from User: Product categories manufactured Current quality control processes Plant size and workforce count Existing safety certifications`
 
-Legal Industry Case Management Best Practices
+## Legal Industry Case Management Best Practices
 
-Backstory:
+`Backstory:`
 
-A mid-sized corporate law firm in Mumbai has grown rapidly but struggles to maintain consistent client communication and case tracking. Missed deadlines have affected client trust. The managing partner wants a standard set of best practices for case management and client servicing.
+`A mid-sized corporate law firm in Mumbai has grown rapidly but struggles to maintain consistent client communication and case tracking. Missed deadlines have affected client trust. The managing partner wants a standard set of best practices for case management and client servicing.`
 
-Goal:
+`Goal:`
 
-Develop a legal practice best practices framework.
+`Develop a legal practice best practices framework.`
 
-Prompt:
+`Prompt:`
 
-"You are a legal operations consultant. Create a best practices handbook for a corporate law firm, covering case intake and conflict checks, document management protocols, client communication standards, court filing timelines, use of legal tech tools, billable hours tracking, and quarterly client relationship review processes." Inputs Required from User: Type of legal services offered Team size and structure Current case management tools used Major client industries
+`"You are a legal operations consultant. Create a best practices handbook for a corporate law firm, covering case intake and conflict checks, document management protocols, client communication standards, court filing timelines, use of legal tech tools, billable hours tracking, and quarterly client relationship review processes." Inputs Required from User: Type of legal services offered Team size and structure Current case management tools used Major client industries`
 
-Renewable Energy Project Execution Guidelines
+## Renewable Energy Project Execution Guidelines
 
-Backstory:
+`Backstory:`
 
-A solar energy company in Gujarat is expanding operations to install large-scale solar farms in multiple states. Inconsistent project execution standards across teams have led to delays and cost overruns. The project director wants a comprehensive set of best practices to standardize the execution process from site survey to commissioning.
+`A solar energy company in Gujarat is expanding operations to install large-scale solar farms in multiple states. Inconsistent project execution standards across teams have led to delays and cost overruns. The project director wants a comprehensive set of best practices to standardize the execution process from site survey to commissioning.`
 
-Goal:
+`Goal:`
 
-Create a renewable energy project execution best practices guide.
+`Create a renewable energy project execution best practices guide.`
 
-Prompt:
+`Prompt:`
 
-"You are a renewable energy project consultant. Draft a best practices guide for solar farm development, covering pre-installation site surveys, vendor and equipment quality checks, project timeline management, safety compliance protocols, environmental impact mitigation steps, stakeholder reporting schedules, and post-installation performance monitoring procedures." Inputs Required from User: Project capacity (MW scale) Installation geography & climate factors Current vendor and contractor network Regulatory compliance requirements
+`"You are a renewable energy project consultant. Draft a best practices guide for solar farm development, covering pre-installation site surveys, vendor and equipment quality checks, project timeline management, safety compliance protocols, environmental impact mitigation steps, stakeholder reporting schedules, and post-installation performance monitoring procedures." Inputs Required from User: Project capacity (MW scale) Installation geography & climate factors Current vendor and contractor network Regulatory compliance requirements`
 
-Hospitality Sector Guest Experience Excellence Standards
+`Hospitality Sector Guest Experience Excellence Standards`
 
-Backstory:
+`Backstory:`
 
-A luxury resort chain in Goa is facing inconsistent guest satisfaction ratings across its properties. While some hotels are praised for exceptional service, others receive complaints about delays, cleanliness, and lack of personalized attention. The COO wants a standardized guest experience best practices document that ensures every guest receives the same high level of care, regardless of location.
+`A luxury resort chain in Goa is facing inconsistent guest satisfaction ratings across its properties. While some hotels are praised for exceptional service, others receive complaints about delays, cleanliness, and lack of personalized attention. The COO wants a standardized guest experience best practices document that ensures every guest receives the same high level of care, regardless of location.`
 
-Goal:
+`Goal:`
 
-Create a hospitality guest experience excellence guide for luxury resorts.
+`Create a hospitality guest experience excellence guide for luxury resorts.`
 
-Prompt:
+`Prompt:`
 
-"You are a hospitality service excellence consultant. Draft a best practices manual for luxury resorts, covering personalized guest greeting and check-in protocols, in-room service standards, housekeeping quality benchmarks, proactive problem resolution techniques, food and beverage presentation guidelines, cultural sensitivity training for staff, and post-stay guest feedback loops." Inputs Required from User: Number of properties & average guest demographics Current customer satisfaction score trends Available technology for guest tracking (CRM, apps) Special services offered (spa, tours, events)
+`"You are a hospitality service excellence consultant. Draft a best practices manual for luxury resorts, covering personalized guest greeting and check-in protocols, in-room service standards, housekeeping quality benchmarks, proactive problem resolution techniques, food and beverage presentation guidelines, cultural sensitivity training for staff, and post-stay guest feedback loops." Inputs Required from User: Number of properties & average guest demographics Current customer satisfaction score trends Available technology for guest tracking (CRM, apps) Special services offered (spa, tours, events)`
 
-E-commerce Customer Service & Returns Policy Framework
+## E-commerce Customer Service & Returns Policy Framework
 
-Backstory:
+`Backstory:`
 
-An online fashion marketplace in Mumbai is experiencing a surge in return requests and customer service complaints. The operations head wants to implement consistent service and return handling best practices that improve customer trust and reduce unnecessary losses.
+`An online fashion marketplace in Mumbai is experiencing a surge in return requests and customer service complaints. The operations head wants to implement consistent service and return handling best practices that improve customer trust and reduce unnecessary losses.`
 
-Goal:
+`Goal:`
 
-Develop a customer service and returns best practices framework for e-commerce.
+`Develop a customer service and returns best practices framework for e-commerce.`
 
-Prompt:
+`Prompt:`
 
-"You are an e-commerce operations strategist. Draft a best practices handbook for managing customer service and returns, covering order confirmation and shipping notifications, proactive delivery updates, handling return requests efficiently, quality inspection protocols for returned items, refund/replacement timelines, customer loyalty recovery strategies, and training scripts for customer service representatives." Inputs Required from User: Product categories sold Average monthly orders and return rates Current refund timelines Logistics partners and policies
+`"You are an e-commerce operations strategist. Draft a best practices handbook for managing customer service and returns, covering order confirmation and shipping notifications, proactive delivery updates, handling return requests efficiently, quality inspection protocols for returned items, refund/replacement timelines, customer loyalty recovery strategies, and training scripts for customer service representatives." Inputs Required from User: Product categories sold Average monthly orders and return rates Current refund timelines Logistics partners and policies`
 
-Healthcare Patient Care & Safety Standards
+## Healthcare Patient Care & Safety Standards
 
-Backstory:
+`Backstory:`
 
-A network of multi-specialty hospitals in India wants to standardize patient care practices after several incidents of miscommunication between departments caused delays in treatment. The medical director aims to introduce a best practices guide that enhances patient safety and treatment coordination.
+`A network of multi-specialty hospitals in India wants to standardize patient care practices after several incidents of miscommunication between departments caused delays in treatment. The medical director aims to introduce a best practices guide that enhances patient safety and treatment coordination.`
 
-Goal:
+`Goal:`
 
-Create a patient care and safety standards document for hospitals.
+`Create a patient care and safety standards document for hospitals.`
 
-Prompt:
+`Prompt:`
 
-"You are a healthcare quality and safety consultant. Draft a best practices manual for multi-specialty hospitals, covering patient admission protocols, inter-department communication procedures, surgical safety checklists, infection control measures, medication error prevention steps, patient discharge and follow-up processes, and staff emergency preparedness training." Inputs Required from User: Hospital size and specialties offered Average patient turnover Current patient feedback ratings Existing safety certifications/accreditations
+`"You are a healthcare quality and safety consultant. Draft a best practices manual for multi-specialty hospitals, covering patient admission protocols, inter-department communication procedures, surgical safety checklists, infection control measures, medication error prevention steps, patient discharge and follow-up processes, and staff emergency preparedness training." Inputs Required from User: Hospital size and specialties offered Average patient turnover Current patient feedback ratings Existing safety certifications/accreditations`
 
-Construction Site Safety & Compliance Guidelines
+## Construction Site Safety & Compliance Guidelines
 
-Backstory:
+`Backstory:`
 
-A large construction firm in Hyderabad is working on multiple high-rise projects. Recent safety inspections revealed lapses in protective equipment use and emergency evacuation readiness. The safety officer needs an industry-standard best practices guide to enforce compliance and prevent accidents.
+`A large construction firm in Hyderabad is working on multiple high-rise projects. Recent safety inspections revealed lapses in protective equipment use and emergency evacuation readiness. The safety officer needs an industry-standard best practices guide to enforce compliance and prevent accidents.`
 
-Goal:
+`Goal:`
 
-Prepare a construction site safety and compliance best practices guide.
+`Prepare a construction site safety and compliance best practices guide.`
 
-Prompt:
+`Prompt:`
 
-"You are a construction safety expert. Draft a best practices manual for high-rise construction sites, covering personal protective equipment (PPE) requirements, fall protection systems, equipment handling and maintenance protocols, safety briefing schedules, on-site hazard identification, regulatory inspection readiness, and worker health monitoring procedures." Inputs Required from User: Type and scale of construction projects Number of workers and contractors Current safety incident history Regulatory requirements in operation area
+`"You are a construction safety expert. Draft a best practices manual for high-rise construction sites, covering personal protective equipment (PPE) requirements, fall protection systems, equipment handling and maintenance protocols, safety briefing schedules, on-site hazard identification, regulatory inspection readiness, and worker health monitoring procedures." Inputs Required from User: Type and scale of construction projects Number of workers and contractors Current safety incident history Regulatory requirements in operation area`
 
-Banking & Financial Services Compliance Operations Manual
+## Banking & Financial Services Compliance Operations Manual
 
-Backstory:
+`Backstory:`
 
-A private bank in India is expanding into digital lending but is concerned about maintaining operational compliance with RBI regulations, KYC norms, and anti-money laundering (AML) requirements. The compliance team wants a comprehensive set of best practices to standardize operations across branches and online platforms.
+`A private bank in India is expanding into digital lending but is concerned about maintaining operational compliance with RBI regulations, KYC norms, and anti-money laundering (AML) requirements. The compliance team wants a comprehensive set of best practices to standardize operations across branches and online platforms.`
 
-Goal:
+`Goal:`
 
-Develop a compliance operations manual for a private bank.
+`Develop a compliance operations manual for a private bank.`
 
-Prompt:
+`Prompt:`
 
-"You are a banking compliance consultant. Draft a best practices guide for a private bank, covering KYC verification processes, transaction monitoring systems, suspicious activity reporting protocols, customer data protection measures, employee compliance training, audit preparation steps, and integration of compliance checks into loan approval workflows." Inputs Required from User: Number of branches and digital platforms used Types of banking products offered Current compliance audit results Transaction monitoring systems in place
+`"You are a banking compliance consultant. Draft a best practices guide for a private bank, covering KYC verification processes, transaction monitoring systems, suspicious activity reporting protocols, customer data protection measures, employee compliance training, audit preparation steps, and integration of compliance checks into loan approval workflows." Inputs Required from User: Number of branches and digital platforms used Types of banking products offered Current compliance audit results Transaction monitoring systems in place`
 
-Retail Visual Merchandising & Store Operations Excellence
+## Retail Visual Merchandising & Store Operations Excellence
 
-Backstory:
+`Backstory:`
 
-A mid-sized apparel retail chain in Tier-1 and Tier-2 Indian cities is struggling with inconsistent store displays, leading to poor conversion rates in some locations. The COO wants a standard visual merchandising and store operations best practices guide to ensure every store reflects the brand identity and maximizes sales potential.
+`A mid-sized apparel retail chain in Tier-1 and Tier-2 Indian cities is struggling with inconsistent store displays, leading to poor conversion rates in some locations. The COO wants a standard visual merchandising and store operations best practices guide to ensure every store reflects the brand identity and maximizes sales potential.`
 
-Goal:
+`Goal:
 
-Create a retail store operations and visual merchandising best practices manual.
+`Create a retail store operations and visual merchandising best practices manual.`
 
-Prompt:
+`Prompt:`
 
-"You are a retail operations and visual merchandising consultant. Draft a best practices guide for apparel retail stores, covering in-store layout planning, window display refresh schedules, seasonal product placement strategies, lighting and signage standards, customer flow optimization, staff grooming and greeting protocols, and end-of-day operational checklists." Inputs Required from User: Number of stores and city locations Product categories and pricing range Average customer footfall per store Current merchandising team structure
+`"You are a retail operations and visual merchandising consultant. Draft a best practices guide for apparel retail stores, covering in-store layout planning, window display refresh schedules, seasonal product placement strategies, lighting and signage standards, customer flow optimization, staff grooming and greeting protocols, and end-of-day operational checklists." Inputs Required from User: Number of stores and city locations Product categories and pricing range Average customer footfall per store Current merchandising team structure`
 
-EdTech Content Quality & Student Engagement Standards
+## EdTech Content Quality & Student Engagement Standards
 
-Backstory:
+`Backstory:`
 
-An Indian EdTech platform offering online courses for competitive exams has noticed declining student engagement after the first few weeks of enrollment. The product head wants a best practices framework that ensures high-quality content delivery and sustained learner motivation.
+`An Indian EdTech platform offering online courses for competitive exams has noticed declining student engagement after the first few weeks of enrollment. The product head wants a best practices framework that ensures high-quality content delivery and sustained learner motivation.`
 
-Goal:
+`Goal:`
 
-Develop a content quality and engagement best practices manual for EdTech.
+`Develop a content quality and engagement best practices manual for EdTech.`
 
-Prompt:
+`Prompt:`
 
-"You are an online learning engagement strategist. Draft a best practices guide for an EdTech platform, covering content structuring techniques, interactive quiz integration, gamification features, instructor responsiveness guidelines, progress tracking tools, community discussion facilitation, and periodic feedback collection from students." Inputs Required from User: Subjects and exam categories offered Average course length and batch size Current engagement metrics (completion rates, quiz participation) Tech tools used for content delivery
+`"You are an online learning engagement strategist. Draft a best practices guide for an EdTech platform, covering content structuring techniques, interactive quiz integration, gamification features, instructor responsiveness guidelines, progress tracking tools, community discussion facilitation, and periodic feedback collection from students." Inputs Required from User: Subjects and exam categories offered Average course length and batch size Current engagement metrics (completion rates, quiz participation) Tech tools used for content delivery`
 
-Logistics & Supply Chain Optimization Playbook
+## Logistics & Supply Chain Optimization Playbook
 
-Backstory:
+`Backstory:`
 
-A Bangalore-based logistics company handling B2B deliveries across South India is facing high turnaround times and inconsistent on-time delivery performance. The COO wants a standardized best practices playbook to streamline operations and improve reliability.
+`A Bangalore-based logistics company handling B2B deliveries across South India is facing high turnaround times and inconsistent on-time delivery performance. The COO wants a standardized best practices playbook to streamline operations and improve reliability.`
 
-Goal:
+`Goal:`
 
-Create a logistics and supply chain best practices playbook.
+`Create a logistics and supply chain best practices playbook.`
 
-Prompt:
+`Prompt:`
 
-"You are a logistics process optimization consultant. Draft a best practices playbook for regional logistics operations, covering fleet maintenance schedules, real-time tracking technology integration, load optimization protocols, driver shift management, route optimization strategies, warehouse receiving and dispatch SOPs, and customer delivery confirmation processes." Inputs Required from User: Service regions and fleet size Type of goods transported Current average delivery time metrics Technology stack for tracking and scheduling
+`"You are a logistics process optimization consultant. Draft a best practices playbook for regional logistics operations, covering fleet maintenance schedules, real-time tracking technology integration, load optimization protocols, driver shift management, route optimization strategies, warehouse receiving and dispatch SOPs, and customer delivery confirmation processes." Inputs Required from User: Service regions and fleet size Type of goods transported Current average delivery time metrics Technology stack for tracking and scheduling`
 
-Film & Media Production Set Management Guidelines
+## Film & Media Production Set Management Guidelines
 
-Backstory:
+`Backstory:`
 
-A Mumbai-based production house working on web series and commercials faces frequent shoot delays due to poor set coordination, equipment mishandling, and last-minute crew changes. The production manager wants a best practices guide to ensure smoother operations.
+`A Mumbai-based production house working on web series and commercials faces frequent shoot delays due to poor set coordination, equipment mishandling, and last-minute crew changes. The production manager wants a best practices guide to ensure smoother operations.`
 
-Goal:
+`Goal:`
 
-Develop a set management and production coordination best practices manual.
+`Develop a set management and production coordination best practices manual.`
 
-Prompt:
+`Prompt:`
 
-"You are a film production management consultant. Draft a best practices guide for set operations, covering pre-shoot checklist creation, crew role clarity and contact lists, equipment inventory tracking, backup lighting and sound plans, on-set safety protocols, daily shot schedule adherence, and post-shoot wrap-up procedures." Inputs Required from User: Type of productions (films, ads, web content) Average crew size and budget per project Shooting location types (studio/outdoor) Current equipment inventory systems
+`"You are a film production management consultant. Draft a best practices guide for set operations, covering pre-shoot checklist creation, crew role clarity and contact lists, equipment inventory tracking, backup lighting and sound plans, on-set safety protocols, daily shot schedule adherence, and post-shoot wrap-up procedures." Inputs Required from User: Type of productions (films, ads, web content) Average crew size and budget per project Shooting location types (studio/outdoor) Current equipment inventory systems`
 
-Agriculture Supply Chain Quality Control Standards
+## Agriculture Supply Chain Quality Control Standards
 
-Backstory:
+`Backstory:`
 
-A farmer-producer company in Maharashtra is supplying organic vegetables to urban supermarkets but is facing occasional quality complaints. The operations director wants a quality control best practices framework to ensure consistent freshness and compliance with organic certification standards.
+`A farmer-producer company in Maharashtra is supplying organic vegetables to urban supermarkets but is facing occasional quality complaints. The operations director wants a quality control best practices framework to ensure consistent freshness and compliance with organic certification standards.`
 
-Goal:
+`Goal:`
 
-Prepare a quality control and supply chain standards manual for agricultural produce.
+`Prepare a quality control and supply chain standards manual for agricultural produce.`
 
-Prompt:
+`Prompt:`
 
-"You are an agricultural supply chain quality consultant. Draft a best practices guide for organic produce supply chains, covering farm-level harvesting standards, packaging and handling guidelines, cold storage requirements, transportation hygiene checks, organic certification maintenance, supplier audit procedures, and supermarket delivery quality inspections." Inputs Required from User: Types of produce grown and supplied Distance between farms and distribution centers Current cold chain infrastructure Certification bodies used
+`"You are an agricultural supply chain quality consultant. Draft a best practices guide for organic produce supply chains, covering farm-level harvesting standards, packaging and handling guidelines, cold storage requirements, transportation hygiene checks, organic certification maintenance, supplier audit procedures, and supermarket delivery quality inspections." Inputs Required from User: Types of produce grown and supplied Distance between farms and distribution centers Current cold chain infrastructure Certification bodies used`
 
-Event Management On-ground Operations Protocols
+## Event Management On-ground Operations Protocols
 
-Backstory:
+`Backstory:`
 
-An event management firm in Delhi specializing in large corporate and wedding events struggles with last-minute operational mishaps like delayed vendor setup and power failures. The operations head wants an industry-standard on-ground operations best practices manual.
+`An event management firm in Delhi specializing in large corporate and wedding events struggles with last-minute operational mishaps like delayed vendor setup and power failures. The operations head wants an industry-standard on-ground operations best practices manual.`
 
-Goal:
+`Goal:`
 
-Create a best practices manual for event management on-ground execution.
+`Create a best practices manual for event management on-ground execution.`
 
-Prompt:
+`Prompt:`
 
-"You are an event operations expert. Draft a best practices guide for on-ground event execution, covering vendor arrival scheduling, power backup arrangements, audio-visual equipment testing protocols, emergency response planning, crowd flow management, guest assistance procedures, and real-time problem escalation methods." Inputs Required from User: Event size and types handled Number of vendors typically involved Venue types and locations Current coordination methods
+`"You are an event operations expert. Draft a best practices guide for on-ground event execution, covering vendor arrival scheduling, power backup arrangements, audio-visual equipment testing protocols, emergency response planning, crowd flow management, guest assistance procedures, and real-time problem escalation methods." Inputs Required from User: Event size and types handled Number of vendors typically involved Venue types and locations Current coordination methods`
 
-Renewable Energy Plant Maintenance Standards
+## Renewable Energy Plant Maintenance Standards
 
-Backstory:
+`Backstory:`
 
-A solar energy company in Rajasthan operates multiple solar farms but has been experiencing gradual drops in power generation due to dust accumulation and irregular maintenance schedules. The plant manager wants a preventive maintenance best practices guide.
+`A solar energy company in Rajasthan operates multiple solar farms but has been experiencing gradual drops in power generation due to dust accumulation and irregular maintenance schedules. The plant manager wants a preventive maintenance best practices guide.`
 
-Goal:
+`Goal:`
 
-Develop a solar energy plant maintenance best practices framework.
+`Develop a solar energy plant maintenance best practices framework.`
 
-Prompt:
+`Prompt:`
 
-"You are a renewable energy operations consultant. Draft a best practices manual for solar farm maintenance, covering panel cleaning frequency and techniques, inverter performance checks, vegetation control, equipment calibration schedules, safety training for maintenance crews, and documentation for regulatory inspections." Inputs Required from User: Size and capacity of each plant Current maintenance schedule Location-specific environmental challenges Number of maintenance staff available
+`"You are a renewable energy operations consultant. Draft a best practices manual for solar farm maintenance, covering panel cleaning frequency and techniques, inverter performance checks, vegetation control, equipment calibration schedules, safety training for maintenance crews, and documentation for regulatory inspections." Inputs Required from User: Size and capacity of each plant Current maintenance schedule Location-specific environmental challenges Number of maintenance staff available`
 
-NGO Fundraising & Donor Relationship Guidelines
+## NGO Fundraising & Donor Relationship Guidelines
 
-Backstory:
+`Backstory:`
 
-A mid-sized NGO in India has been struggling to retain donors due to inconsistent communication and lack of transparency in fund utilization. The fundraising director wants a donor relationship best practices framework.
+`A mid-sized NGO in India has been struggling to retain donors due to inconsistent communication and lack of transparency in fund utilization. The fundraising director wants a donor relationship best practices framework.`
 
-Goal:
+`Goal:`
 
-Create a best practices manual for NGO fundraising and donor retention.
+`Create a best practices manual for NGO fundraising and donor retention.`
 
-Prompt:
+`Prompt:`
 
-"You are a non-profit fundraising consultant. Draft a best practices guide for donor management, covering donor segmentation, personalized communication plans, periodic impact reporting, transparent fund utilization disclosures, event-based donor engagement strategies, recognition programs, and feedback collection from donors." Inputs Required from User: Number and type of donors (corporate/individual) Fundraising channels used Average donation size and frequency Current donor churn rate
+`"You are a non-profit fundraising consultant. Draft a best practices guide for donor management, covering donor segmentation, personalized communication plans, periodic impact reporting, transparent fund utilization disclosures, event-based donor engagement strategies, recognition programs, and feedback collection from donors." Inputs Required from User: Number and type of donors (corporate/individual) Fundraising channels used Average donation size and frequency Current donor churn rate`
 
-Airline Ground Staff Service Excellence Manual
+## Airline Ground Staff Service Excellence Manual
 
-Backstory:
+`Backstory:`
 
-A low-cost airline in India wants to improve its ground staff service to match international carriers after receiving negative passenger feedback about check-in delays and unhelpful assistance. The customer experience head is seeking a best practices manual.
+`A low-cost airline in India wants to improve its ground staff service to match international carriers after receiving negative passenger feedback about check-in delays and unhelpful assistance. The customer experience head is seeking a best practices manual.`
 
-Goal:
+`Goal:`
 
-Prepare a ground staff service excellence guide for airlines.
+`Prepare a ground staff service excellence guide for airlines.`
 
-Prompt:
+`Prompt:`
 
-"You are an airline customer service consultant. Draft a best practices manual for ground staff operations, covering passenger greeting protocols, baggage handling procedures, boarding gate coordination, special assistance for elderly/disabled passengers, real-time communication with flight crew, complaint resolution steps, and appearance/grooming standards." Inputs Required from User: Number of flights handled daily Airport types (domestic/international) Current customer satisfaction metrics Staff-to-passenger ratio
+`"You are an airline customer service consultant. Draft a best practices manual for ground staff operations, covering passenger greeting protocols, baggage handling procedures, boarding gate coordination, special assistance for elderly/disabled passengers, real-time communication with flight crew, complaint resolution steps, and appearance/grooming standards." Inputs Required from User: Number of flights handled daily Airport types (domestic/international) Current customer satisfaction metrics Staff-to-passenger ratio`
 
-IT Service Desk Support Best Practices
+## IT Service Desk Support Best Practices
 
-Backstory:
+`Backstory:`
 
-A large IT outsourcing company in Pune provides tech support for multiple international clients but has inconsistent ticket resolution times and knowledge base documentation gaps. The IT operations head wants a standard service desk best practices manual.
+`A large IT outsourcing company in Pune provides tech support for multiple international clients but has inconsistent ticket resolution times and knowledge base documentation gaps. The IT operations head wants a standard service desk best practices manual.`
 
-Goal:
+`Goal:`
 
-Create an IT service desk operations best practices guide.
+`Create an IT service desk operations best practices guide.`
 
-Prompt:
+`Prompt:`
 
-"You are an IT service management consultant. Draft a best practices manual for service desk operations, covering ticket categorization protocols, SLA-based priority handling, escalation procedures, knowledge base documentation standards, customer communication templates, root cause analysis workflows, and performance dashboard reviews." Inputs Required from User: Number of clients and ticket volume per month Ticketing software used Current SLA targets Size of the service desk team
+`"You are an IT service management consultant. Draft a best practices manual for service desk operations, covering ticket categorization protocols, SLA-based priority handling, escalation procedures, knowledge base documentation standards, customer communication templates, root cause analysis workflows, and performance dashboard reviews." Inputs Required from User: Number of clients and ticket volume per month Ticketing software used Current SLA targets Size of the service desk team`
 
 
-Executive Course Outlines
+# Executive Course Outlines
 
-Executive Leadership Development Program (12 Weeks)
+## Executive Leadership Development Program (12 Weeks)
 
-Backstory:
+`Backstory:`
 
 A mid-sized IT company in Pune wants to groom its senior managers for C-suite positions. Many of these managers have strong technical expertise but limited exposure to strategic decision-making, people leadership, and financial acumen. The HR Director wants a 12-week structured executive course that blends theory, case studies, and real-world application.
 
@@ -1651,116 +1651,116 @@ Prompt:
 
 "You are a corporate communication trainer. Develop a 2-day workshop content template covering: overcoming stage fear, structuring presentations, storytelling techniques, effective use of visuals, and handling Q&A sessions. Include video-recorded practice sessions, peer feedback rounds, and real client-pitch simulations." Inputs Required from User: Typical audience types (internal, client, public) Nature of presentations (technical, sales, strategy) Level of English proficiency Available presentation tools
 
-Digital Marketing Essentials for SMEs Workshop (2-Day Format)
+## Digital Marketing Essentials for SMEs Workshop (2-Day Format)
 
-Backstory:
+`Backstory:`
 
-A small manufacturing business in Jaipur wants to grow its online presence but has no in-house marketing team. The owner wants to train a few employees on digital marketing basics so they can handle campaigns internally.
+`A small manufacturing business in Jaipur wants to grow its online presence but has no in-house marketing team. The owner wants to train a few employees on digital marketing basics so they can handle campaigns internally.`
 
-Goal:
+`Goal:`
 
-Prepare a 2-day workshop that equips participants with digital marketing skills.
+`Prepare a 2-day workshop that equips participants with digital marketing skills.`
 
-Prompt:
+`Prompt:`
 
-"You are a digital marketing strategist. Create a 2-day workshop content plan covering: SEO basics, social media strategy, Google Ads fundamentals, content marketing, and basic analytics. Include live campaign setup demos, keyword research exercises, and competitor analysis activities." Inputs Required from User: Business niche and target audience Marketing budget Current online presence status Preferred social media platforms
+`"You are a digital marketing strategist. Create a 2-day workshop content plan covering: SEO basics, social media strategy, Google Ads fundamentals, content marketing, and basic analytics. Include live campaign setup demos, keyword research exercises, and competitor analysis activities." Inputs Required from User: Business niche and target audience Marketing budget Current online presence status Preferred social media platforms`
 
-Emotional Intelligence (EI) in the Workplace Workshop (1-Day Format)
+## Emotional Intelligence (EI) in the Workplace Workshop (1-Day Format)
 
-Backstory:
+`Backstory:`
 
-A healthcare startup in Gurugram has been facing conflicts among employees due to stress and poor emotional regulation. Management wants to build stronger EI skills to improve collaboration and workplace harmony.
+`A healthcare startup in Gurugram has been facing conflicts among employees due to stress and poor emotional regulation. Management wants to build stronger EI skills to improve collaboration and workplace harmony.`
 
-Goal:
+`Goal:`
 
-Create a 1-day workshop that develops emotional awareness, empathy, and self-regulation.
+`Create a 1-day workshop that develops emotional awareness, empathy, and self-regulation.`
 
-Prompt:
+`Prompt:`
 
-"You are an emotional intelligence coach. Develop a 1-day workshop content template covering: self-awareness, self-regulation, empathy, active listening, and conflict resolution. Include EI self-assessment tools, group roleplays, and guided mindfulness sessions." Inputs Required from User: Common workplace stress triggers Employee demographics and roles Previous EI or soft skills training history Organizational culture type
+`"You are an emotional intelligence coach. Develop a 1-day workshop content template covering: self-awareness, self-regulation, empathy, active listening, and conflict resolution. Include EI self-assessment tools, group roleplays, and guided mindfulness sessions." Inputs Required from User: Common workplace stress triggers Employee demographics and roles Previous EI or soft skills training history Organizational culture type`
 
-Cybersecurity Awareness for Non-Tech Staff Workshop (Half-Day Format)
+## Cybersecurity Awareness for Non-Tech Staff Workshop (Half-Day Format)
 
-Backstory:
+`Backstory:`
 
-A law firm in Delhi has experienced multiple phishing attempts and password leaks. Most employees have little understanding of cybersecurity risks. The IT head wants a short workshop to educate them.
+`A law firm in Delhi has experienced multiple phishing attempts and password leaks. Most employees have little understanding of cybersecurity risks. The IT head wants a short workshop to educate them.`
 
-Goal:
+`Goal:
 
-Create a half-day cybersecurity awareness workshop for non-technical employees.
+`Create a half-day cybersecurity awareness workshop for non-technical employees.`
 
-Prompt:
+`Prompt:`
 
 "You are a cybersecurity awareness trainer. Prepare a half-day workshop content plan covering: common cyber threats (phishing, ransomware, social engineering), password hygiene, secure use of public Wi-Fi, and safe data sharing practices. Include real phishing email identification exercises and password strength-building activities." Inputs Required from User: Types of data handled by staff Commonly used devices and platforms Past security incidents Company IT policies
 
-Conflict Resolution & Negotiation Skills Workshop (1-Day Format)
+## Conflict Resolution & Negotiation Skills Workshop (1-Day Format)
 
-Backstory:
+`Backstory:`
 
-A real estate company in Mumbai often faces disputes during client negotiations and between internal departments. Management wants employees to learn structured conflict resolution and negotiation techniques.
+`A real estate company in Mumbai often faces disputes during client negotiations and between internal departments. Management wants employees to learn structured conflict resolution and negotiation techniques.`
 
-Goal:
+`Goal:`
 
-Create a 1-day workshop that equips employees with effective negotiation skills.
+`Create a 1-day workshop that equips employees with effective negotiation skills.`
 
-Prompt:
+`Prompt:`
 
-"You are a workplace negotiation expert. Draft a 1-day workshop content template covering: identifying conflict triggers, negotiation frameworks (BATNA, ZOPA), active listening, and win-win solutions. Include mock negotiation exercises, roleplay case studies, and feedback analysis sessions." Inputs Required from User: Nature of conflicts (internal, client, vendor) Typical deal values and stakes Participant roles and responsibilities Existing negotiation practices
+`"You are a workplace negotiation expert. Draft a 1-day workshop content template covering: identifying conflict triggers, negotiation frameworks (BATNA, ZOPA), active listening, and win-win solutions. Include mock negotiation exercises, roleplay case studies, and feedback analysis sessions." Inputs Required from User: Nature of conflicts (internal, client, vendor) Typical deal values and stakes Participant roles and responsibilities Existing negotiation practices`
 
-Agile Project Management Workshop (2-Day Format)
+## Agile Project Management Workshop (2-Day Format)
 
-Backstory:
+`Backstory:`
 
-A fintech startup in Hyderabad wants to shift from traditional project management to Agile to improve delivery speed. Most employees have limited exposure to Agile practices.
+`A fintech startup in Hyderabad wants to shift from traditional project management to Agile to improve delivery speed. Most employees have limited exposure to Agile practices.`
 
-Goal:
+`Goal:`
 
-Design a 2-day Agile fundamentals workshop.
+`Design a 2-day Agile fundamentals workshop.`
 
-Prompt:
+`Prompt:`
 
-"You are an Agile coach. Create a 2-day workshop content plan covering: Agile principles, Scrum framework, roles & responsibilities, sprint planning, daily standups, and retrospectives. Include team-based sprint simulations, backlog grooming exercises, and real-world Agile case studies." Inputs Required from User: Current project management approach Team size and composition Software tools available Client delivery timelines
+`"You are an Agile coach. Create a 2-day workshop content plan covering: Agile principles, Scrum framework, roles & responsibilities, sprint planning, daily standups, and retrospectives. Include team-based sprint simulations, backlog grooming exercises, and real-world Agile case studies." Inputs Required from User: Current project management approach Team size and composition Software tools available Client delivery timelines`
 
-Sales Mastery for B2B Teams Workshop (3-Day Format)
+## Sales Mastery for B2B Teams Workshop (3-Day Format)
 
-Backstory:
+`Backstory:`
 
-An industrial equipment manufacturer in Chennai wants to train its sales team to improve B2B deal closures. The company has great products but loses deals due to poor consultative selling skills.
+`An industrial equipment manufacturer in Chennai wants to train its sales team to improve B2B deal closures. The company has great products but loses deals due to poor consultative selling skills.`
 
-Goal:
+`Goal:`
 
-Develop a 3-day B2B sales mastery workshop.
+`Develop a 3-day B2B sales mastery workshop.`
 
-Prompt:
+`Prompt:`
 
-"You are a B2B sales trainer. Prepare a 3-day workshop content template covering: prospecting strategies, needs assessment, solution presentation, objection handling, and closing techniques. Include real client case roleplays, sales pitch refinement sessions, and CRM usage exercises." Inputs Required from User: Industry and product details Typical sales cycle length Competitor landscape Average deal size
+`"You are a B2B sales trainer. Prepare a 3-day workshop content template covering: prospecting strategies, needs assessment, solution presentation, objection handling, and closing techniques. Include real client case roleplays, sales pitch refinement sessions, and CRM usage exercises." Inputs Required from User: Industry and product details Typical sales cycle length Competitor landscape Average deal size`
 
-Creative Problem-Solving Skills Workshop (1-Day Format)
+## Creative Problem-Solving Skills Workshop (1-Day Format)
 
-Backstory:
+`Backstory:`
 
-A consumer goods company in Kolkata wants its teams to think outside the box to solve production and marketing challenges.
+`A consumer goods company in Kolkata wants its teams to think outside the box to solve production and marketing challenges.`
 
-Goal:
+`Goal:`
 
-Design a 1-day creative problem-solving workshop.
+`Design a 1-day creative problem-solving workshop.`
 
-Prompt:
+`Prompt:`
 
-"You are a corporate creativity facilitator. Create a 1-day workshop plan covering: divergent thinking exercises, lateral thinking tools, idea evaluation frameworks, and creative brainstorming techniques. Include gamified challenges, idea prototyping, and cross-functional collaboration exercises." Inputs Required from User: Type of problems commonly faced Team structure Innovation budget Past creative initiatives
+`"You are a corporate creativity facilitator. Create a 1-day workshop plan covering: divergent thinking exercises, lateral thinking tools, idea evaluation frameworks, and creative brainstorming techniques. Include gamified challenges, idea prototyping, and cross-functional collaboration exercises." Inputs Required from User: Type of problems commonly faced Team structure Innovation budget Past creative initiatives`
 
-Workplace Wellness & Stress Management Workshop (Half-Day Format)
+## Workplace Wellness & Stress Management Workshop (Half-Day Format)
 
-Backstory:
+`Backstory:`
 
-A large call center in Gurugram is facing high employee burnout and turnover rates. The HR team wants to introduce a stress management workshop.
+`A large call center in Gurugram is facing high employee burnout and turnover rates. The HR team wants to introduce a stress management workshop.`
 
-Goal:
+`Goal:`
 
-Create a half-day workshop that teaches employees to manage stress and maintain mental well-being.
+`Create a half-day workshop that teaches employees to manage stress and maintain mental well-being.`
 
-Prompt:
+`Prompt:`
 
-"You are a corporate wellness coach. Prepare a half-day workshop plan covering: identifying stress triggers, quick relaxation techniques, work-life balance strategies, and building mental resilience. Include guided breathing exercises, journaling prompts, and interactive stress-busting games." Inputs Required from User: Main stress factors in the workplace Average work hours and shifts Employee age group and health profile Available wellness facilities
+`"You are a corporate wellness coach. Prepare a half-day workshop plan covering: identifying stress triggers, quick relaxation techniques, work-life balance strategies, and building mental resilience. Include guided breathing exercises, journaling prompts, and interactive stress-busting games." Inputs Required from User: Main stress factors in the workplace Average work hours and shifts Employee age group and health profile Available wellness facilities`
 
 
