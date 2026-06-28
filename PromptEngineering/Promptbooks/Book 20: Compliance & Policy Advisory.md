@@ -1,22 +1,22 @@
-Legal research summaries
+# Legal research summaries
 
-Summary of Landmark Supreme Court Judgment on Data Privacy
+## Summary of Landmark Supreme Court Judgment on Data Privacy
 
-Backstory:
+`Backstory:`
 
-A Bengaluru-based healthtech startup is developing a telemedicine app that will store patient health records in the cloud. The legal head wants a concise yet comprehensive summary of the Justice K.S. Puttaswamy vs. Union of India judgment (2017), where the Supreme Court declared the Right to Privacy as a fundamental right. This summary will help the product team understand the legal implications for data handling under Indian constitutional law.
+`A Bengaluru-based healthtech startup is developing a telemedicine app that will store patient health records in the cloud. The legal head wants a concise yet comprehensive summary of the Justice K.S. Puttaswamy vs. Union of India judgment (2017), where the Supreme Court declared the Right to Privacy as a fundamental right. This summary will help the product team understand the legal implications for data handling under Indian constitutional law.`
 
-Goal:
+`Goal:`
 
-Produce a legal research summary highlighting the case background, key constitutional principles, and practical business implications for startups handling sensitive personal data.
+`Produce a legal research summary highlighting the case background, key constitutional principles, and practical business implications for startups handling sensitive personal data.`
 
-Prompt:
+`Prompt:`
 
-"You are a legal research analyst. Draft a structured summary of the Supreme Court’s 2017 Puttaswamy judgment, covering: case facts, arguments from both sides, key findings, constitutional articles invoked, legal reasoning, and the verdict. Include a section on implications for businesses handling sensitive personal data under Indian law. Use plain English while retaining accuracy." Inputs Required from User: Intended audience (lawyers, executives, product managers) Sector of business (e.g., healthtech, fintech, e-commerce) Depth level (brief, detailed, exhaustive)
+`"You are a legal research analyst. Draft a structured summary of the Supreme Court’s 2017 Puttaswamy judgment, covering: case facts, arguments from both sides, key findings, constitutional articles invoked, legal reasoning, and the verdict. Include a section on implications for businesses handling sensitive personal data under Indian law. Use plain English while retaining accuracy." Inputs Required from User: Intended audience (lawyers, executives, product managers) Sector of business (e.g., healthtech, fintech, e-commerce) Depth level (brief, detailed, exhaustive)`
 
-Summary of Arbitration Act Amendments (2015, 2019, 2021)
+## Summary of Arbitration Act Amendments (2015, 2019, 2021)
 
-Backstory:
+`Backstory:`
 
 A mid-sized construction company in Noida is regularly involved in contractual disputes and often opts for arbitration instead of lengthy litigation. Their in-house counsel wants a clear research summary of all recent amendments to the Arbitration and Conciliation Act to ensure contracts are aligned with the latest legal provisions.
 
