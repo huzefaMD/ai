@@ -1241,41 +1241,41 @@
 
 ## Indian Renewable Energy Market Outlook
 
-Backstory:
+`Backstory:`
 
-A Hyderabad-based renewable energy consultancy is preparing an industry trends report to present at a national clean energy summit. They want to focus on the solar, wind, and biomass sectors in India, analysing capacity additions, project pipelines, and tariff changes. The report will also compare India’s progress with global renewable adoption trends to attract foreign partnerships.
+`A Hyderabad-based renewable energy consultancy is preparing an industry trends report to present at a national clean energy summit. They want to focus on the solar, wind, and biomass sectors in India, analysing capacity additions, project pipelines, and tariff changes. The report will also compare India’s progress with global renewable adoption trends to attract foreign partnerships.`
 
-Goal:
+`Goal:`
 
-Deliver a renewable energy market outlook with actionable investment insights.
+`Deliver a renewable energy market outlook with actionable investment insights.`
 
-Prompt:
+`Prompt:`
 
-"You are a renewable energy market researcher. Create a trends report for India’s renewable energy sector. Analyse solar, wind, and biomass installed capacity growth over the last 5 years. Highlight policy updates, tariff changes, and financing opportunities. Compare India’s renewable progress with global benchmarks. Identify top-performing states for investment.
+`"You are a renewable energy market researcher. Create a trends report for India’s renewable energy sector. Analyse solar, wind, and biomass installed capacity growth over the last 5 years. Highlight policy updates, tariff changes, and financing opportunities. Compare India’s renewable progress with global benchmarks. Identify top-performing states for investment.`
 
-Output format:
+`Output format:`
 
-20-slide presentation with state-level maps, charts, and investment recommendations." Inputs Required: Specific energy segments to focus on Target audience (investors, policymakers, developers) Time horizon for forecast
+`20-slide presentation with state-level maps, charts, and investment recommendations." Inputs Required: Specific energy segments to focus on Target audience (investors, policymakers, developers) Time horizon for forecast`
 
-Indian Pharma & Biotech Trends Report
+## Indian Pharma & Biotech Trends Report
 
-Backstory:
+`Backstory:`
 
-A Mumbai-based pharmaceutical research firm wants a trends report on India’s pharma and biotech innovation landscape. This will include vaccine research pipelines, generics market competitiveness, biotech startups, and government R&D funding initiatives. The goal is to position the firm as a thought leader in the global health industry.
+`A Mumbai-based pharmaceutical research firm wants a trends report on India’s pharma and biotech innovation landscape. This will include vaccine research pipelines, generics market competitiveness, biotech startups, and government R&D funding initiatives. The goal is to position the firm as a thought leader in the global health industry.`
 
-Goal:
+`Goal:`
 
-Prepare a pharma & biotech trends report with innovation and funding insights.
+`Prepare a pharma & biotech trends report with innovation and funding insights.`
 
-Prompt:
+`Prompt:`
 
-"You are a healthcare market analyst. Develop a trends report for India’s pharma and biotech sectors. Track R&D investment trends and government incentives. Map upcoming vaccine and biotech product pipelines. Highlight India’s export competitiveness in generics. Identify top biotech startups and funding patterns.
+`"You are a healthcare market analyst. Develop a trends report for India’s pharma and biotech sectors. Track R&D investment trends and government incentives. Map upcoming vaccine and biotech product pipelines. Highlight India’s export competitiveness in generics. Identify top biotech startups and funding patterns.`
 
-Output format:
+`Output format:`
 
-PDF with infographics, trend timelines, and policy analysis." Inputs Required: Therapeutic areas to prioritise Data sources (public health, industry associations) Time period for analysis
+`PDF with infographics, trend timelines, and policy analysis." Inputs Required: Therapeutic areas to prioritise Data sources (public health, industry associations) Time period for analysis`
 
-India’s AI & Machine Learning Industry Trends
+## India’s AI & Machine Learning Industry Trends
 
 Backstory:
 
