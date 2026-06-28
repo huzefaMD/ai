@@ -1097,149 +1097,149 @@
 
 ## Renewable Energy Investment Trends in India
 
-Backstory:
+`Backstory:`
 
-A New Delhi-based clean energy consultancy wants to publish a mid-year investment trends report on solar, wind, and green hydrogen projects in India. The report will be used to attract foreign investors by showing growth potential, policy support, and technology cost reductions.
+`A New Delhi-based clean energy consultancy wants to publish a mid-year investment trends report on solar, wind, and green hydrogen projects in India. The report will be used to attract foreign investors by showing growth potential, policy support, and technology cost reductions.`
 
-Goal:
+`Goal:`
 
-Create an investor-friendly renewable energy trend report.
+`Create an investor-friendly renewable energy trend report.`
 
-Prompt:
+`Prompt:`
 
-"You are a renewable energy market analyst. Prepare a mid-year investment trends report for India’s clean energy sector. Include installed capacity growth by segment (solar, wind, hydrogen). Analyse investment flows and major project announcements. Summarise government incentives and policy updates. Compare India’s performance with global benchmarks.
+`"You are a renewable energy market analyst. Prepare a mid-year investment trends report for India’s clean energy sector. Include installed capacity growth by segment (solar, wind, hydrogen). Analyse investment flows and major project announcements. Summarise government incentives and policy updates. Compare India’s performance with global benchmarks.`
 
-Output format:
+`Output format:`
 
-PDF with infographics, investment tables, and a summary for investors." Inputs Required: Time period to cover Target investor markets Level of technical detail required
+`PDF with infographics, investment tables, and a summary for investors." Inputs Required: Time period to cover Target investor markets Level of technical detail required`
 
-Indian E-commerce Industry Trends (Festive Season Insights)
+## Indian E-commerce Industry Trends (Festive Season Insights)
 
-Backstory:
+`Backstory:`
 
-An e-commerce analytics company in Gurugram is preparing a report for sellers and brands ahead of India’s festive season sales. They want to analyse product category performance, payment method preferences, and consumer demographics from last year’s festive season to forecast trends for the coming one.
+`An e-commerce analytics company in Gurugram is preparing a report for sellers and brands ahead of India’s festive season sales. They want to analyse product category performance, payment method preferences, and consumer demographics from last year’s festive season to forecast trends for the coming one.`
 
-Goal:
+`Goal:`
 
-Deliver a pre-festive season e-commerce trend forecast.
+`Deliver a pre-festive season e-commerce trend forecast.`
 
-Prompt:
+`Prompt:`
 
-"You are an e-commerce trend analyst. Create a festive season forecast report for the Indian online retail sector. Identify top product categories likely to grow. Analyse payment trends (UPI, BNPL, COD). Map customer demographics and spending patterns. Predict sales volume growth based on historical data.
+`"You are an e-commerce trend analyst. Create a festive season forecast report for the Indian online retail sector. Identify top product categories likely to grow. Analyse payment trends (UPI, BNPL, COD). Map customer demographics and spending patterns. Predict sales volume growth based on historical data.`
 
-Output format:
+`Output format:`
 
-Dashboard-style report with charts, heatmaps, and SKU-level recommendations." Inputs Required: Previous year’s festive sales data Number of product categories to track Target audience (sellers, brands, investors)
+`Dashboard-style report with charts, heatmaps, and SKU-level recommendations." Inputs Required: Previous year’s festive sales data Number of product categories to track Target audience (sellers, brands, investors)`
 
-Healthcare Industry Emerging Technologies Report
+## Healthcare Industry Emerging Technologies Report
 
-Backstory:
+`Backstory:`
 
-A Pune-based healthcare innovation firm is preparing a trends report on AI diagnostics, telemedicine, wearables, and personalised medicine in India. The report will be distributed at a healthcare innovation conference to position the company as a thought leader.
+`A Pune-based healthcare innovation firm is preparing a trends report on AI diagnostics, telemedicine, wearables, and personalised medicine in India. The report will be distributed at a healthcare innovation conference to position the company as a thought leader.`
 
-Goal:
+`Goal:`
 
-Produce a technology adoption trend report for the healthcare sector.
+`Produce a technology adoption trend report for the healthcare sector.`
 
-Prompt:
+`Prompt:`
 
-"You are a healthcare technology research analyst. Prepare a trends report on emerging technologies in Indian healthcare. Analyse adoption rates of telemedicine, AI diagnostics, and wearables. Highlight key startups, funding activity, and strategic partnerships. Cover policy changes (e.g., telemedicine guidelines, data privacy laws). Predict adoption trajectory over the next 5 years.
+`"You are a healthcare technology research analyst. Prepare a trends report on emerging technologies in Indian healthcare. Analyse adoption rates of telemedicine, AI diagnostics, and wearables. Highlight key startups, funding activity, and strategic partnerships. Cover policy changes (e.g., telemedicine guidelines, data privacy laws). Predict adoption trajectory over the next 5 years.`
 
-Output format:
+`Output format:`
 
-PDF with graphs, technology adoption timelines, and startup spotlight features." Inputs Required: Conference audience profile Data access (public or proprietary) Technologies to prioritise
+`PDF with graphs, technology adoption timelines, and startup spotlight features." Inputs Required: Conference audience profile Data access (public or proprietary) Technologies to prioritise`
 
-Indian Real Estate Market Quarterly Update
+## Indian Real Estate Market Quarterly Update
 
-Backstory:
+`Backstory:`
 
-A Chennai-based property advisory firm wants to publish a quarterly real estate trends report for residential, commercial, and industrial segments in Tier 1 and Tier 2 cities. The report will be used by property developers, institutional investors, and banks to make lending and investment decisions. They want to highlight price changes, demand hotspots, and policy changes like RERA amendments.
+`A Chennai-based property advisory firm wants to publish a quarterly real estate trends report for residential, commercial, and industrial segments in Tier 1 and Tier 2 cities. The report will be used by property developers, institutional investors, and banks to make lending and investment decisions. They want to highlight price changes, demand hotspots, and policy changes like RERA amendments.`
 
-Goal:
+`Goal:
 
-Produce a quarterly Indian real estate trends and forecast report.
+`Produce a quarterly Indian real estate trends and forecast report.`
 
-Prompt:
+`Prompt:`
 
-"You are a real estate market analyst. Create a quarterly trends report for the Indian real estate sector covering Tier 1 and Tier 2 cities. Track residential, commercial, and industrial property price changes. Identify demand hotspots using transaction volume data. Summarise policy and regulatory changes impacting the market. Forecast the next quarter’s performance.
+`"You are a real estate market analyst. Create a quarterly trends report for the Indian real estate sector covering Tier 1 and Tier 2 cities. Track residential, commercial, and industrial property price changes. Identify demand hotspots using transaction volume data. Summarise policy and regulatory changes impacting the market. Forecast the next quarter’s performance.`
 
-Output format:
+`Output format:`
 
-20-slide deck with city-level data tables, heatmaps, and a strategic recommendation section for developers and investors." Inputs Required: Cities to include in the analysis Time period for comparison Data source preference (government, private, or both)
+`20-slide deck with city-level data tables, heatmaps, and a strategic recommendation section for developers and investors." Inputs Required: Cities to include in the analysis Time period for comparison Data source preference (government, private, or both)`
 
-Fintech Adoption Trends in India
+## Fintech Adoption Trends in India
 
-Backstory:
+`Backstory:`
 
-A Delhi-based fintech accelerator wants to prepare a trends report on mobile banking, UPI growth, digital lending, and insurtech adoption in India. They aim to use the report to attract global partners and investors by showcasing market scalability and consumer readiness.
+`A Delhi-based fintech accelerator wants to prepare a trends report on mobile banking, UPI growth, digital lending, and insurtech adoption in India. They aim to use the report to attract global partners and investors by showcasing market scalability and consumer readiness.`
 
-Goal:
+`Goal:`
 
-Create a fintech adoption trends report highlighting growth opportunities.
+`Create a fintech adoption trends report highlighting growth opportunities.`
 
-Prompt:
+`Prompt:`
 
-"You are a fintech industry researcher. Prepare a trends report on India’s digital finance ecosystem. Analyse UPI transaction growth and user adoption rates. Map the rise of digital lending platforms. Identify key insurtech innovations and adoption challenges. Include funding trends and top 10 fintech deals of the year.
+`"You are a fintech industry researcher. Prepare a trends report on India’s digital finance ecosystem. Analyse UPI transaction growth and user adoption rates. Map the rise of digital lending platforms. Identify key insurtech innovations and adoption challenges. Include funding trends and top 10 fintech deals of the year.`
 
-Output format:
+`Output format:`
 
-PDF with data charts, trend timelines, and investor-friendly opportunity mapping." Inputs Required: Target investor regions (Asia, EU, US) Data cut-off period Sub-segments to focus on (banking, lending, insurance)
+`PDF with data charts, trend timelines, and investor-friendly opportunity mapping." Inputs Required: Target investor regions (Asia, EU, US) Data cut-off period Sub-segments to focus on (banking, lending, insurance)`
 
-Indian Tourism & Hospitality Trends Post-2025
+## Indian Tourism & Hospitality Trends Post-2025
 
-Backstory:
+`Backstory:`
 
-A Goa-based tourism board is creating a trends report to reposition the state as a high-value destination post-2025. They want to analyse domestic and inbound tourism recovery, wellness tourism trends, and hospitality innovations like AI-driven booking and personalised travel itineraries.
+`A Goa-based tourism board is creating a trends report to reposition the state as a high-value destination post-2025. They want to analyse domestic and inbound tourism recovery, wellness tourism trends, and hospitality innovations like AI-driven booking and personalised travel itineraries.`
 
-Goal:
+`Goal:`
 
-Deliver a tourism and hospitality recovery trends report with strategic positioning advice.
+`Deliver a tourism and hospitality recovery trends report with strategic positioning advice.`
 
-Prompt:
+`Prompt:`
 
-"You are a tourism market analyst. Prepare a trends report for India’s tourism and hospitality industry post-2025. Analyse domestic and international tourist traffic patterns. Identify growth in niche segments like wellness tourism, eco-tourism, and adventure travel. Review tech adoption in hospitality services. Recommend positioning strategies for state tourism boards.
+`"You are a tourism market analyst. Prepare a trends report for India’s tourism and hospitality industry post-2025. Analyse domestic and international tourist traffic patterns. Identify growth in niche segments like wellness tourism, eco-tourism, and adventure travel. Review tech adoption in hospitality services. Recommend positioning strategies for state tourism boards.`
 
-Output format:
+`Output format:`
 
-15-page report with case studies, traffic statistics, and experience innovation recommendations." Inputs Required: Target audience (policy makers, operators, investors) Regions to focus on Available tourism data sources
+`15-page report with case studies, traffic statistics, and experience innovation recommendations." Inputs Required: Target audience (policy makers, operators, investors) Regions to focus on Available tourism data sources`
 
-Indian Education Technology (EdTech) Growth Report
+## Indian Education Technology (EdTech) Growth Report
 
-Backstory:
+`Backstory:`
 
-A Bengaluru-based EdTech VC firm wants to produce a trends report on online learning, hybrid education models, and skill-based certification adoption. This report will help guide investment decisions for 2026–2028.
+`A Bengaluru-based EdTech VC firm wants to produce a trends report on online learning, hybrid education models, and skill-based certification adoption. This report will help guide investment decisions for 2026–2028.`
 
-Goal:
+`Goal:`
 
-Prepare a comprehensive EdTech trends report for investment planning.
+`Prepare a comprehensive EdTech trends report for investment planning.`
 
-Prompt:
+`Prompt:`
 
-"You are an education industry researcher. Create a trends report on India’s EdTech market. Analyse K-12, higher education, and upskilling segments. Track adoption of AI-based adaptive learning tools. Highlight top-funded startups and exits. Include user demographics and retention trends.
+`"You are an education industry researcher. Create a trends report on India’s EdTech market. Analyse K-12, higher education, and upskilling segments. Track adoption of AI-based adaptive learning tools. Highlight top-funded startups and exits. Include user demographics and retention trends.`
 
-Output format:
+`Output format:`
 
-Excel dashboard + PDF with visualisations and strategic recommendations for investors." Inputs Required: Focus segments (K-12, higher ed, upskilling) Time horizon for forecast Geographical scope
+`Excel dashboard + PDF with visualisations and strategic recommendations for investors." Inputs Required: Focus segments (K-12, higher ed, upskilling) Time horizon for forecast Geographical scope`
 
-India’s Electric Vehicle Industry Trends
+## India’s Electric Vehicle Industry Trends
 
-Backstory:
+`Backstory:`
 
-A Pune-based EV manufacturing startup wants a trends report to pitch to Series B investors. The focus will be on EV adoption rates, charging infrastructure expansion, battery technology improvements, and government subsidies.
+`A Pune-based EV manufacturing startup wants a trends report to pitch to Series B investors. The focus will be on EV adoption rates, charging infrastructure expansion, battery technology improvements, and government subsidies.`
 
-Goal:
+`Goal:`
 
-Produce an EV sector trends report to strengthen investor pitches.
+`Produce an EV sector trends report to strengthen investor pitches.`
 
-Prompt:
+`Prompt:`
 
-"You are an EV market analyst. Create a trends report for India’s electric vehicle industry. Track adoption rates for two-wheelers, cars, and commercial EVs. Map charging infrastructure growth. Summarise battery innovation progress and cost trends. Highlight policy incentives and global partnerships.
+`"You are an EV market analyst. Create a trends report for India’s electric vehicle industry. Track adoption rates for two-wheelers, cars, and commercial EVs. Map charging infrastructure growth. Summarise battery innovation progress and cost trends. Highlight policy incentives and global partnerships.`
 
-Output format:
+`Output format:`
 
-Investor-ready slide deck with charts, adoption maps, and strategic projections." Inputs Required: Investor type (VC, PE, corporate) EV segments to focus on Data coverage period
+`Investor-ready slide deck with charts, adoption maps, and strategic projections." Inputs Required: Investor type (VC, PE, corporate) EV segments to focus on Data coverage period`
 
-Indian Renewable Energy Market Outlook
+## Indian Renewable Energy Market Outlook
 
 Backstory:
 
