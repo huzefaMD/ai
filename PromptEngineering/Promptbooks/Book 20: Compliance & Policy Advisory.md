@@ -1155,7 +1155,7 @@
 
 `Prompt:`
 
-`"You are a labour law consultant. Draft a comprehensive labour law compliance checklist for an SME in India, covering: minimum wage notifications, working hours, leave entitlements, PF & ESI registration, contract worker agreements, safety standards under the Factories Act, anti-harassment policies, mandatory display requirements, and annual return filings." Inputs Required from User: State of operation Number of employees Nature of contracts (permanent/contractual) Industry type``
+`"You are a labour law consultant. Draft a comprehensive labour law compliance checklist for an SME in India, covering: minimum wage notifications, working hours, leave entitlements, PF & ESI registration, contract worker agreements, safety standards under the Factories Act, anti-harassment policies, mandatory display requirements, and annual return filings." Inputs Required from User: State of operation Number of employees Nature of contracts (permanent/contractual) Industry type`
 
 ## Food Safety & Standards Authority of India (FSSAI) Compliance Checklist
 
@@ -1169,7 +1169,7 @@
 
 `Prompt:`
 
-`"You are a food safety compliance expert. Draft a detailed FSSAI compliance checklist for a cloud kitchen business in India, covering: license/registration type, kitchen hygiene requirements, storage temperature control, allergen labeling, expiry date marking, employee hygiene protocols, pest control measures, documentation for inspections, and renewal timelines." Inputs Required from User: Cuisine type Scale of operations (meals/day) Current license type Storage facilities available``
+`"You are a food safety compliance expert. Draft a detailed FSSAI compliance checklist for a cloud kitchen business in India, covering: license/registration type, kitchen hygiene requirements, storage temperature control, allergen labeling, expiry date marking, employee hygiene protocols, pest control measures, documentation for inspections, and renewal timelines." Inputs Required from User: Cuisine type Scale of operations (meals/day) Current license type Storage facilities available`
 
 ## Import-Export (EXIM) Compliance Checklist
 
@@ -1181,19 +1181,19 @@
 
 `Create a regulatory compliance checklist for small exporters in India.`
 
-`Prompt:``
+`Prompt:`
 
-`"You are an international trade compliance specialist. Prepare a detailed import-export compliance checklist for a handicraft exporter in India, covering: IEC (Import Export Code) registration, product HS codes, export documentation (invoice, packing list, bill of lading), DGFT filings, customs duties, GST refunds on exports, packaging & labeling requirements, and participation in export promotion schemes." Inputs Required from User: Product type & materials Target countries Export frequency Current certifications``
+`"You are an international trade compliance specialist. Prepare a detailed import-export compliance checklist for a handicraft exporter in India, covering: IEC (Import Export Code) registration, product HS codes, export documentation (invoice, packing list, bill of lading), DGFT filings, customs duties, GST refunds on exports, packaging & labeling requirements, and participation in export promotion schemes." Inputs Required from User: Product type & materials Target countries Export frequency Current certifications`
 
 ## GST Compliance Checklist for Service Providers
 
 `Backstory:`
 
-`A digital marketing agency in Pune offers services to clients in India and abroad. They need a GST compliance checklist to ensure accurate invoicing, timely return filing, and correct application of export of services rules for zero-rated supplies.
+`A digital marketing agency in Pune offers services to clients in India and abroad. They need a GST compliance checklist to ensure accurate invoicing, timely return filing, and correct application of export of services rules for zero-rated supplies.`
 
 `Goal:`
 
-`Develop a GST compliance checklist specifically for service-oriented businesses.
+`Develop a GST compliance checklist specifically for service-oriented businesses.`
 
 `Prompt:`
 
@@ -1203,7 +1203,7 @@
 
 ` Backstory:`
 
-`A SaaS startup in Gurugram collects and stores user data from across India, including financial and personal information. With the new Digital Personal Data Protection (DPDP) Act in force, the founders need to ensure full compliance before launching a high-profile B2B product. The CTO wants a granular checklist that covers both technical safeguards and legal obligations to avoid penalties and loss of client trust.``
+`A SaaS startup in Gurugram collects and stores user data from across India, including financial and personal information. With the new Digital Personal Data Protection (DPDP) Act in force, the founders need to ensure full compliance before launching a high-profile B2B product. The CTO wants a granular checklist that covers both technical safeguards and legal obligations to avoid penalties and loss of client trust.`
 
 `Goal:`
 
