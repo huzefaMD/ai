@@ -82,7 +82,7 @@
 
 `Prompt:`
 
-"You are a subscription business pricing expert. Analyse per-meal, weekly, and monthly subscription pricing for a healthy meal delivery service targeting urban professionals. Provide: Break-even calculation for each model based on fixed and variable costs. Competitor pricing comparison. Projected customer lifetime value for each plan. Impact of skip-day flexibility on retention and margins. Recommendations for introductory offers that convert to long-term subscribers." Inputs Required: Ingredient & packaging costs Delivery cost per meal Current churn rate (if available) Competitor subscription rates`
+`"You are a subscription business pricing expert. Analyse per-meal, weekly, and monthly subscription pricing for a healthy meal delivery service targeting urban professionals. Provide: Break-even calculation for each model based on fixed and variable costs. Competitor pricing comparison. Projected customer lifetime value for each plan. Impact of skip-day flexibility on retention and margins. Recommendations for introductory offers that convert to long-term subscribers." Inputs Required: Ingredient & packaging costs Delivery cost per meal Current churn rate (if available) Competitor subscription rates`
 
 ## Pricing Strategy Analysis for a Handmade Jewellery Brand
 
