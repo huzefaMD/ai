@@ -152,7 +152,7 @@
 
 `Prompt:`
 
-``"You are a creative service pricing strategist. Analyse and recommend a pricing model for a wedding photography business in Jaipur. Include: Competitor pricing analysis for similar styles and packages. Cost breakdown for travel, assistants, and editing. Recommendations for tiered packages (basic, standard, premium). Ideas for add-ons (photo albums, drone shots, same-day edits). Strategies for seasonal pricing adjustments." Inputs Required: Average number of weddings per year Travel and equipment costs Desired annual income Competitor package rates`
+`"You are a creative service pricing strategist. Analyse and recommend a pricing model for a wedding photography business in Jaipur. Include: Competitor pricing analysis for similar styles and packages. Cost breakdown for travel, assistants, and editing. Recommendations for tiered packages (basic, standard, premium). Ideas for add-ons (photo albums, drone shots, same-day edits). Strategies for seasonal pricing adjustments." Inputs Required: Average number of weddings per year Travel and equipment costs Desired annual income Competitor package rates`
 
 ## Pricing Strategy Analysis for an Organic Skincare Brand
 
