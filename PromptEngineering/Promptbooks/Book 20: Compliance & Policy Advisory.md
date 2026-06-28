@@ -806,255 +806,255 @@
 
 ## Privacy Policy for Food Delivery App
 
-Backstory:
+`Backstory:`
 
-A Chennai-based food delivery startup collects customer addresses, GPS location, payment data, and order history. It also tracks delivery personnel through GPS. With concerns about customer location data misuse, the startup needs a privacy policy that explains exactly how location tracking works and ensures transparency in sharing data with restaurants and delivery partners.
+`A Chennai-based food delivery startup collects customer addresses, GPS location, payment data, and order history. It also tracks delivery personnel through GPS. With concerns about customer location data misuse, the startup needs a privacy policy that explains exactly how location tracking works and ensures transparency in sharing data with restaurants and delivery partners.`
 
-Goal:
+`Goal:`
 
-Draft a privacy policy for an Indian food delivery platform that clearly addresses location tracking and payment security.
+`Draft a privacy policy for an Indian food delivery platform that clearly addresses location tracking and payment security.`
 
-Prompt:
+`Prompt:`
 
-"You are a digital platform privacy advisor. Draft a privacy policy for an Indian food delivery application, covering: Personal & Location Data Collected, Purpose of Tracking, Sharing Data with Restaurants & Delivery Partners, Payment Information Security, Data Retention Timelines, User Rights & Opt-out Mechanisms, and Grievance Contact Info. Write in a concise, mobile-friendly format." Inputs Required from User: GPS tracking policies Payment gateway details Data retention duration Third-party sharing practices Support contact info
+`"You are a digital platform privacy advisor. Draft a privacy policy for an Indian food delivery application, covering: Personal & Location Data Collected, Purpose of Tracking, Sharing Data with Restaurants & Delivery Partners, Payment Information Security, Data Retention Timelines, User Rights & Opt-out Mechanisms, and Grievance Contact Info. Write in a concise, mobile-friendly format." Inputs Required from User: GPS tracking policies Payment gateway details Data retention duration Third-party sharing practices Support contact info`
 
-Privacy Policy for Social Networking App
+## Privacy Policy for Social Networking App
 
-Backstory:
+`Backstory:`
 
-A Bengaluru-based startup has built a niche social networking app for Indian college students. It collects personal profiles, photos, friend connections, and chat history. The founders want a privacy policy that emphasizes safe online interactions, clearly defines moderation practices, and explains data retention for deleted accounts.
+`A Bengaluru-based startup has built a niche social networking app for Indian college students. It collects personal profiles, photos, friend connections, and chat history. The founders want a privacy policy that emphasizes safe online interactions, clearly defines moderation practices, and explains data retention for deleted accounts.`
 
-Goal:
+`Goal:`
 
-Write a privacy policy for an Indian social networking app with strong user safety and moderation guidelines.
+`Write a privacy policy for an Indian social networking app with strong user safety and moderation guidelines.`
 
-Prompt:
+`Prompt:`
 
-"You are a social media compliance consultant. Draft a privacy policy for a social networking app, covering: Information Collected (profiles, images, messages), Purpose & Use, Moderation & Reporting Mechanisms, Data Sharing with Law Enforcement, Retention for Deleted Accounts, User Rights under the DPDP Act, and Security Practices for Chat Encryption. Use friendly, youth-oriented language while keeping it legally compliant." Inputs Required from User: Moderation policy details Encryption standards for chats Retention policy for deleted data Law enforcement cooperation process
+`"You are a social media compliance consultant. Draft a privacy policy for a social networking app, covering: Information Collected (profiles, images, messages), Purpose & Use, Moderation & Reporting Mechanisms, Data Sharing with Law Enforcement, Retention for Deleted Accounts, User Rights under the DPDP Act, and Security Practices for Chat Encryption. Use friendly, youth-oriented language while keeping it legally compliant." Inputs Required from User: Moderation policy details Encryption standards for chats Retention policy for deleted data Law enforcement cooperation process`
 
-Privacy Policy for Online Learning Management System (LMS)
+## Privacy Policy for Online Learning Management System (LMS)
 
-Backstory:
+`Backstory:`
 
-A Delhi-based LMS provider serves universities and corporate clients. It collects students’ and employees’ learning progress, test scores, and assignment submissions. Since it hosts sensitive educational records, the provider needs a privacy policy that covers both student data and corporate training data, while complying with data protection laws.
+`A Delhi-based LMS provider serves universities and corporate clients. It collects students’ and employees’ learning progress, test scores, and assignment submissions. Since it hosts sensitive educational records, the provider needs a privacy policy that covers both student data and corporate training data, while complying with data protection laws.`
 
-Goal:
+`Goal:`
 
-Draft a privacy policy for an Indian LMS platform that safeguards educational and corporate training records.
+`Draft a privacy policy for an Indian LMS platform that safeguards educational and corporate training records.`
 
-Prompt:
+`Prompt:`
 
-"You are an EdTech legal consultant. Draft a privacy policy for an LMS serving both educational institutions and corporates in India. Include: Types of Data Collected (student records, performance metrics), Purpose of Processing, Data Sharing with Institutions/Employers, Retention Policies, User Rights (access, correction, deletion), and Contact Details for Queries. Ensure compliance with DPDP Act requirements." Inputs Required from User: Types of clients served (schools, corporates) Data retention timelines Third-party integrations (e.g., proctoring tools) Access control policies
+`"You are an EdTech legal consultant. Draft a privacy policy for an LMS serving both educational institutions and corporates in India. Include: Types of Data Collected (student records, performance metrics), Purpose of Processing, Data Sharing with Institutions/Employers, Retention Policies, User Rights (access, correction, deletion), and Contact Details for Queries. Ensure compliance with DPDP Act requirements." Inputs Required from User: Types of clients served (schools, corporates) Data retention timelines Third-party integrations (e.g., proctoring tools) Access control policies`
 
-Privacy Policy for Online Job Portal
+## Privacy Policy for Online Job Portal
 
-Backstory:
+`Backstory:`
 
-A Gurugram-based recruitment platform matches job seekers with employers. It collects résumés, educational records, work history, salary expectations, and sometimes Aadhaar/PAN for background checks. The founders are concerned about data leaks and want a privacy policy that reassures both candidates and employers while meeting compliance standards.
+`A Gurugram-based recruitment platform matches job seekers with employers. It collects résumés, educational records, work history, salary expectations, and sometimes Aadhaar/PAN for background checks. The founders are concerned about data leaks and want a privacy policy that reassures both candidates and employers while meeting compliance standards.`
 
-Goal:
+`Goal:`
 
-Create a privacy policy for an Indian job portal that protects sensitive career and identity data.
+`Create a privacy policy for an Indian job portal that protects sensitive career and identity data.`
 
-Prompt:
+`Prompt:`
 
-"You are a recruitment compliance advisor. Draft a privacy policy for an Indian job portal, covering: Data Collected from Candidates & Employers, Purpose of Processing, Data Sharing with Verified Employers, Retention Policies for Inactive Accounts, Background Verification Practices, Security Measures, User Rights under the DPDP Act, and Grievance Contact Information." Inputs Required from User: Verification process details Retention period for inactive accounts Third-party background check vendors Security protocols
+`"You are a recruitment compliance advisor. Draft a privacy policy for an Indian job portal, covering: Data Collected from Candidates & Employers, Purpose of Processing, Data Sharing with Verified Employers, Retention Policies for Inactive Accounts, Background Verification Practices, Security Measures, User Rights under the DPDP Act, and Grievance Contact Information." Inputs Required from User: Verification process details Retention period for inactive accounts Third-party background check vendors Security protocols`
 
-Privacy Policy for Digital Payment App
+## Privacy Policy for Digital Payment App
 
-Backstory:
+`Backstory:`
 
-A Mumbai-based fintech company runs a UPI-enabled wallet app that stores transaction histories, bank details, and KYC documents. The company wants a transparent privacy policy explaining how financial data is protected, especially with RBI guidelines in mind.
+`A Mumbai-based fintech company runs a UPI-enabled wallet app that stores transaction histories, bank details, and KYC documents. The company wants a transparent privacy policy explaining how financial data is protected, especially with RBI guidelines in mind.`
 
-Goal:
+`Goal:`
 
-Write a privacy policy for a digital payment platform in India that’s compliant with RBI security and DPDP Act requirements.
+`Write a privacy policy for a digital payment platform in India that’s compliant with RBI security and DPDP Act requirements.`
 
-Prompt:
+`Prompt:`
 
-"You are a fintech compliance consultant. Draft a privacy policy for an Indian payment app, covering: Transaction Data Handling, KYC Document Storage, Fraud Detection Practices, Data Sharing with Banking Partners, RBI & DPDP Compliance, Data Retention, and User Rights. Write in simple, jargon-free language to build trust." Inputs Required from User: Payment gateway integrations Fraud detection mechanisms Data encryption practices KYC process details
+`"You are a fintech compliance consultant. Draft a privacy policy for an Indian payment app, covering: Transaction Data Handling, KYC Document Storage, Fraud Detection Practices, Data Sharing with Banking Partners, RBI & DPDP Compliance, Data Retention, and User Rights. Write in simple, jargon-free language to build trust." Inputs Required from User: Payment gateway integrations Fraud detection mechanisms Data encryption practices KYC process details`
 
-Privacy Policy for NGO Donation Platform
+## Privacy Policy for NGO Donation Platform
 
-Backstory:
+`Backstory:`
 
-A Delhi-based non-profit runs an online donation portal for social causes. It collects donor names, addresses, PAN numbers (for tax receipts), and payment details. The NGO needs a privacy policy that assures donors their details are safe and will not be sold or misused.
+`A Delhi-based non-profit runs an online donation portal for social causes. It collects donor names, addresses, PAN numbers (for tax receipts), and payment details. The NGO needs a privacy policy that assures donors their details are safe and will not be sold or misused.`
 
-Goal:
+`Goal:`
 
-Draft a privacy policy for a donation platform that focuses on donor trust and compliance with data protection laws.
+`Draft a privacy policy for a donation platform that focuses on donor trust and compliance with data protection laws.`
 
-Prompt:
+`Prompt:`
 
-"You are a non-profit legal advisor. Draft a privacy policy for an NGO’s donation portal, covering: Donor Data Collection & Purpose, Payment Data Security, PAN & Tax Receipt Handling, Data Sharing with Regulatory Authorities (if required), Retention Periods, and Contact Details for Queries." Inputs Required from User: Donation processing methods Data sharing with auditors or authorities Payment gateway used Data retention policy
+`"You are a non-profit legal advisor. Draft a privacy policy for an NGO’s donation portal, covering: Donor Data Collection & Purpose, Payment Data Security, PAN & Tax Receipt Handling, Data Sharing with Regulatory Authorities (if required), Retention Periods, and Contact Details for Queries." Inputs Required from User: Donation processing methods Data sharing with auditors or authorities Payment gateway used Data retention policy`
 
-Privacy Policy for Subscription-based Streaming Platform
+## Privacy Policy for Subscription-based Streaming Platform
 
-Backstory:
+`Backstory:`
 
-A Bengaluru-based OTT platform offers regional language content. It collects viewer profiles, watch history, device information, and payment details. The founders want a privacy policy that’s compliant with Indian IT rules and addresses user profiling concerns.
+`A Bengaluru-based OTT platform offers regional language content. It collects viewer profiles, watch history, device information, and payment details. The founders want a privacy policy that’s compliant with Indian IT rules and addresses user profiling concerns.`
 
-Goal:
+`Goal:`
 
-Create a privacy policy for a subscription streaming service in India.
+`Create a privacy policy for a subscription streaming service in India.`
 
-Prompt:
+`Prompt:`
 
-"You are a digital media legal consultant. Draft a privacy policy for an Indian streaming platform, covering: User Data Collected, Purpose of Profiling & Recommendations, Payment Information Handling, Device Tracking Policies, Data Retention, and User Rights. Ensure transparency around how algorithms use viewer data." Inputs Required from User: Recommendation engine details Payment processors used Device tracking methods Retention timelines
+`"You are a digital media legal consultant. Draft a privacy policy for an Indian streaming platform, covering: User Data Collected, Purpose of Profiling & Recommendations, Payment Information Handling, Device Tracking Policies, Data Retention, and User Rights. Ensure transparency around how algorithms use viewer data." Inputs Required from User: Recommendation engine details Payment processors used Device tracking methods Retention timelines`
 
-Privacy Policy for Online Travel Booking Portal
+## Privacy Policy for Online Travel Booking Portal
 
-Backstory:
+`Backstory:`
 
-A Pune-based travel tech startup provides hotel and flight bookings. It collects customer names, contact info, passport details, and payment information. Since it works with multiple international travel partners, the privacy policy must address cross-border data transfers.
+`A Pune-based travel tech startup provides hotel and flight bookings. It collects customer names, contact info, passport details, and payment information. Since it works with multiple international travel partners, the privacy policy must address cross-border data transfers.`
 
-Goal:
+`Goal:`
 
-Write a privacy policy for an Indian travel booking platform with international data sharing disclosures.
+`Write a privacy policy for an Indian travel booking platform with international data sharing disclosures.`
 
-Prompt:
+`Prompt:`
 
-"You are a travel industry compliance expert. Draft a privacy policy for an Indian travel booking site, covering: Data Collected, Purpose of Processing, Data Sharing with Airlines & Hotels (including abroad), Cross-Border Transfer Safeguards, Payment Data Security, Retention, and Grievance Contact Details." Inputs Required from User: List of international partners Payment encryption measures Cross-border transfer agreements Retention period
+`"You are a travel industry compliance expert. Draft a privacy policy for an Indian travel booking site, covering: Data Collected, Purpose of Processing, Data Sharing with Airlines & Hotels (including abroad), Cross-Border Transfer Safeguards, Payment Data Security, Retention, and Grievance Contact Details." Inputs Required from User: List of international partners Payment encryption measures Cross-border transfer agreements Retention period`
 
-Privacy Policy for Crowdfunding Platform
+## Privacy Policy for Crowdfunding Platform
 
-Backstory:
+`Backstory:`
 
-A Hyderabad-based crowdfunding portal collects donor details, campaign creator profiles, and payment transactions. It must ensure transparency around how donor and campaign data is stored, displayed, and shared.
+`A Hyderabad-based crowdfunding portal collects donor details, campaign creator profiles, and payment transactions. It must ensure transparency around how donor and campaign data is stored, displayed, and shared.`
 
-Goal:
+`Goal:`
 
-Draft a privacy policy for a crowdfunding site that protects both donors and campaign creators.
+`Draft a privacy policy for a crowdfunding site that protects both donors and campaign creators.`
 
-Prompt:
+`Prompt:`
 
-"You are a fintech and legal compliance expert. Draft a privacy policy for an Indian crowdfunding platform, covering: Donor Data Privacy, Campaign Creator Verification, Display of Public Information, Payment Security, Retention Policies, and DPDP Compliance." Inputs Required from User: Campaign creator verification process Public vs. private data display rules Payment handling methods Retention policy
+`"You are a fintech and legal compliance expert. Draft a privacy policy for an Indian crowdfunding platform, covering: Donor Data Privacy, Campaign Creator Verification, Display of Public Information, Payment Security, Retention Policies, and DPDP Compliance." Inputs Required from User: Campaign creator verification process Public vs. private data display rules Payment handling methods Retention policy`
 
-Privacy Policy for Ride-hailing App
+## Privacy Policy for Ride-hailing App
 
-Backstory:
+`Backstory:`
 
-An Ahmedabad-based ride-hailing service collects GPS location data, driver details, and payment history. Riders are increasingly concerned about how their location history is stored and shared.
+`An Ahmedabad-based ride-hailing service collects GPS location data, driver details, and payment history. Riders are increasingly concerned about how their location history is stored and shared.`
 
-Goal:
+`Goal:`
 
-Write a privacy policy for a ride-hailing app that ensures location tracking transparency.
+`Write a privacy policy for a ride-hailing app that ensures location tracking transparency.`
 
-Prompt:
+`Prompt:`
 
-"You are a mobility services compliance advisor. Draft a privacy policy for an Indian ride-hailing service, covering: Real-Time Location Tracking, Driver & Passenger Data Handling, Data Sharing with Law Enforcement, Payment Security, Retention Timelines, and User Rights." Inputs Required from User: Location data retention policy Payment gateway integrations Data sharing with authorities Driver onboarding verification
+`"You are a mobility services compliance advisor. Draft a privacy policy for an Indian ride-hailing service, covering: Real-Time Location Tracking, Driver & Passenger Data Handling, Data Sharing with Law Enforcement, Payment Security, Retention Timelines, and User Rights." Inputs Required from User: Location data retention policy Payment gateway integrations Data sharing with authorities Driver onboarding verification`
 
-Privacy Policy for Online Marketplace for Handicrafts
+## Privacy Policy for Online Marketplace for Handicrafts
 
-Backstory:
+`Backstory:`
 
-A Jaipur-based marketplace sells handmade goods from rural artisans. It stores buyer and seller profiles, bank details for seller payouts, and transaction history.
+`A Jaipur-based marketplace sells handmade goods from rural artisans. It stores buyer and seller profiles, bank details for seller payouts, and transaction history.`
 
-Goal:
+`Goal:`
 
-Draft a privacy policy for an online handicraft marketplace in India.
+`Draft a privacy policy for an online handicraft marketplace in India.`
 
-Prompt:
+`Prompt:`
 
-"You are an e-commerce compliance specialist. Draft a privacy policy for a handicraft marketplace, covering: Buyer & Seller Data Collection, Payment & Bank Info Handling, Data Sharing with Logistics Partners, Retention Policies, and DPDP Compliance." Inputs Required from User: Bank payout process details Logistics data sharing rules Retention period Payment processor used
+`"You are an e-commerce compliance specialist. Draft a privacy policy for a handicraft marketplace, covering: Buyer & Seller Data Collection, Payment & Bank Info Handling, Data Sharing with Logistics Partners, Retention Policies, and DPDP Compliance." Inputs Required from User: Bank payout process details Logistics data sharing rules Retention period Payment processor used`
 
-Privacy Policy for Dating App
+## Privacy Policy for Dating App
 
-Backstory:
+`Backstory:`
 
-A Mumbai-based dating app collects personal details, location, chat history, and profile photos. It also uses AI to suggest matches.
+`A Mumbai-based dating app collects personal details, location, chat history, and profile photos. It also uses AI to suggest matches.`
 
-Goal:
+`Goal:`
 
-Write a privacy policy for an Indian dating app with strong emphasis on user consent and safety.
+`Write a privacy policy for an Indian dating app with strong emphasis on user consent and safety.`
 
-Prompt:
+`Prompt:`
 
-"You are an online safety compliance consultant. Draft a privacy policy for a dating app in India, covering: Data Collected, Purpose of AI-based Matchmaking, Location Tracking Policies, Security for Chat History & Photos, Retention Timelines, and User Rights." Inputs Required from User: AI recommendation details Retention of deleted data Location tracking practices Safety reporting process
+`"You are an online safety compliance consultant. Draft a privacy policy for a dating app in India, covering: Data Collected, Purpose of AI-based Matchmaking, Location Tracking Policies, Security for Chat History & Photos, Retention Timelines, and User Rights." Inputs Required from User: AI recommendation details Retention of deleted data Location tracking practices Safety reporting process`
 
-Privacy Policy for Fitness & Wellness App
+## Privacy Policy for Fitness & Wellness App
 
-Backstory:
+`Backstory:`
 
-A Delhi-based health and fitness app tracks workouts, diet logs, and integrates with wearable devices. Since it collects health-related data, it needs a policy aligned with health data privacy norms.
+`A Delhi-based health and fitness app tracks workouts, diet logs, and integrates with wearable devices. Since it collects health-related data, it needs a policy aligned with health data privacy norms.`
 
-Goal:
+`Goal:`
 
-Create a privacy policy for a wellness app in India.
+`Create a privacy policy for a wellness app in India.`
 
-Prompt:
+`Prompt:`
 
-"You are a wellness tech compliance advisor. Draft a privacy policy for a health & fitness app, covering: Data Collected (workouts, diet, wearable sync), Purpose, Third-Party Sharing (nutritionists, trainers), Security Measures, Retention Policies, and User Rights." Inputs Required from User: Wearable integrations used Retention period for health logs Trainer/nutritionist data sharing rules Encryption practices
+`"You are a wellness tech compliance advisor. Draft a privacy policy for a health & fitness app, covering: Data Collected (workouts, diet, wearable sync), Purpose, Third-Party Sharing (nutritionists, trainers), Security Measures, Retention Policies, and User Rights." Inputs Required from User: Wearable integrations used Retention period for health logs Trainer/nutritionist data sharing rules Encryption practices`
 
-T&C for SaaS Productivity Tool
+## T&C for SaaS Productivity Tool
 
-Backstory:
+`Backstory:`
 
-A Chennai-based SaaS platform offers task management software to corporates. They want Terms & Conditions that clearly define usage rights, subscription terms, and liability limitations.
+`A Chennai-based SaaS platform offers task management software to corporates. They want Terms & Conditions that clearly define usage rights, subscription terms, and liability limitations.`
 
-Goal:
+`Goal:`
 
-Draft Terms & Conditions for an Indian SaaS platform.
+`Draft Terms & Conditions for an Indian SaaS platform.`
 
-Prompt:
+`Prompt:`
 
-"You are a SaaS contract drafting expert. Draft T&C for a productivity SaaS tool, covering: User License Terms, Subscription & Renewal Policies, Limitations of Liability, Data Ownership, Termination Clause, and Governing Law (India)." Inputs Required from User: Subscription model details Data ownership policy Termination triggers Refund policy
+`"You are a SaaS contract drafting expert. Draft T&C for a productivity SaaS tool, covering: User License Terms, Subscription & Renewal Policies, Limitations of Liability, Data Ownership, Termination Clause, and Governing Law (India)." Inputs Required from User: Subscription model details Data ownership policy Termination triggers Refund policy`
 
-T&C for Online Retail Store
+## T&C for Online Retail Store
 
-Backstory:
+`Backstory:`
 
-An Indore-based fashion retailer sells products via their own website. They need T&C covering orders, returns, and disputes.
+`An Indore-based fashion retailer sells products via their own website. They need T&C covering orders, returns, and disputes.`
 
-Goal:
+`Goal:`
 
-Write Terms & Conditions for an Indian online retail store.
+`Write Terms & Conditions for an Indian online retail store.`
 
-Prompt:
+`Prompt:`
 
-"You are an e-commerce legal consultant. Draft T&C for an Indian retail site, covering: Ordering Process, Payment Terms, Return/Refund Policy, Delivery Timelines, and Governing Law." Inputs Required from User: Return & refund window Shipping policies Payment gateways used Dispute resolution mechanism
+`"You are an e-commerce legal consultant. Draft T&C for an Indian retail site, covering: Ordering Process, Payment Terms, Return/Refund Policy, Delivery Timelines, and Governing Law." Inputs Required from User: Return & refund window Shipping policies Payment gateways used Dispute resolution mechanism`
 
-T&C for Event Ticketing Platform
+## T&C for Event Ticketing Platform
 
-Backstory:
+`Backstory:`
 
-A Bengaluru-based ticketing site sells passes for concerts and sports events. They need T&C addressing cancellations and resales.
+`A Bengaluru-based ticketing site sells passes for concerts and sports events. They need T&C addressing cancellations and resales.`
 
-Goal:
+`Goal:`
 
-Draft T&C for an event ticketing platform in India.
+`Draft T&C for an event ticketing platform in India.`
 
-Prompt:
+`Prompt:`
 
-"You are an events compliance consultant. Draft T&C for an Indian ticketing site, covering: Ticket Purchase Terms, Cancellation/Refund Rules, Resale Restrictions, Event Changes/Cancellations, and Governing Law." Inputs Required from User: Refund policy timeline Event change notification process Ticket transfer rules Delivery method (digital/physical)
+`"You are an events compliance consultant. Draft T&C for an Indian ticketing site, covering: Ticket Purchase Terms, Cancellation/Refund Rules, Resale Restrictions, Event Changes/Cancellations, and Governing Law." Inputs Required from User: Refund policy timeline Event change notification process Ticket transfer rules Delivery method (digital/physical)`
 
-T&C for Digital Marketing Agency Website
+## T&C for Digital Marketing Agency Website
 
-Backstory:
+`Backstory:`
 
-A marketing agency in Kolkata offers SEO, PPC, and branding services. They need T&C that covers service scope and payment terms.
+`A marketing agency in Kolkata offers SEO, PPC, and branding services. They need T&C that covers service scope and payment terms.`
 
-Goal:
-Write Terms & Conditions for a marketing services website.
+`Goal:`
+`Write Terms & Conditions for a marketing services website.`
 
 
-Prompt:
+`Prompt:`
 
-"You are a business contract consultant. Draft T&C for a digital marketing agency in India, covering: Scope of Services, Payment Schedule, Client Responsibilities, Confidentiality, Termination, and Governing Law." Inputs Required from User: Service packages offered Payment milestones Confidentiality clauses Termination notice period
+`"You are a business contract consultant. Draft T&C for a digital marketing agency in India, covering: Scope of Services, Payment Schedule, Client Responsibilities, Confidentiality, Termination, and Governing Law." Inputs Required from User: Service packages offered Payment milestones Confidentiality clauses Termination notice period`
 
-T&C for Mobile Gaming App
+## T&C for Mobile Gaming App
 
-Backstory:
+`Backstory:`
 
-A Hyderabad-based gaming studio has launched a mobile game with in-app purchases. They need T&C to cover virtual goods, user conduct, and dispute resolution.
+`A Hyderabad-based gaming studio has launched a mobile game with in-app purchases. They need T&C to cover virtual goods, user conduct, and dispute resolution.`
 
-Goal:
+`Goal:`
 
-Draft Terms & Conditions for an Indian mobile game.
+`Draft Terms & Conditions for an Indian mobile game.`
 
-Prompt:
+`Prompt:`
 
-"You are a gaming industry legal advisor. Draft T&C for a mobile game, covering: User Conduct Rules, Virtual Goods Ownership, Payment Terms, Refunds (if any), and Governing Law." Inputs Required from User: Virtual currency usage rules Refund policy Age restrictions User reporting mechanism
+`"You are a gaming industry legal advisor. Draft T&C for a mobile game, covering: User Conduct Rules, Virtual Goods Ownership, Payment Terms, Refunds (if any), and Governing Law." Inputs Required from User: Virtual currency usage rules Refund policy Age restrictions User reporting mechanism`
 
 
 Regulatory Compliance Checklists
