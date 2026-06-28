@@ -1221,7 +1221,7 @@
 
 `Goal:`
 
-`Develop a fire safety compliance checklist for multi-tenant office spaces.``
+`Develop a fire safety compliance checklist for multi-tenant office spaces.`
 
 `Prompt:`
 
