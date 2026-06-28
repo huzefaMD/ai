@@ -1229,537 +1229,537 @@
 
 ## CSR (Corporate Social Responsibility) Compliance Checklist
 
-Backstory:
+`Backstory:`
 
-A mid-sized IT firm in Chennai has crossed the threshold under Section 135 of the Companies Act, making CSR spending mandatory. The CSR committee needs a structured checklist to ensure proper selection, execution, and reporting of CSR projects that meet legal criteria and withstand audit scrutiny.
+`A mid-sized IT firm in Chennai has crossed the threshold under Section 135 of the Companies Act, making CSR spending mandatory. The CSR committee needs a structured checklist to ensure proper selection, execution, and reporting of CSR projects that meet legal criteria and withstand audit scrutiny.`
 
-Goal:
+`Goal:`
 
-Create a CSR compliance checklist to guide corporate governance and statutory adherence.
+`Create a CSR compliance checklist to guide corporate governance and statutory adherence.`
 
-Prompt:
+`Prompt:`
 
-"You are a CSR compliance advisor. Draft a comprehensive CSR compliance checklist for an Indian company, covering: eligibility determination, CSR committee formation, annual CSR budget calculation, permissible activity categories, partner NGO due diligence, board approvals, implementation tracking, impact assessment, and mandatory disclosures in the annual report." Inputs Required from User: Annual turnover & net profit figures Existing CSR activities (if any) Preferred focus areas (education, health, environment) Projected CSR spend
+`"You are a CSR compliance advisor. Draft a comprehensive CSR compliance checklist for an Indian company, covering: eligibility determination, CSR committee formation, annual CSR budget calculation, permissible activity categories, partner NGO due diligence, board approvals, implementation tracking, impact assessment, and mandatory disclosures in the annual report." Inputs Required from User: Annual turnover & net profit figures Existing CSR activities (if any) Preferred focus areas (education, health, environment) Projected CSR spend`
 
-Environmental Impact Assessment (EIA) Compliance Checklist
+## Environmental Impact Assessment (EIA) Compliance Checklist
 
-Backstory:
+`Backstory:`
 
-A solar panel manufacturing plant in Gujarat is expanding operations. Under the Environment Protection Act and EIA Notification, the company must submit an updated EIA report and comply with environmental clearance (EC) conditions before breaking ground. The project manager needs a step-by-step compliance framework to avoid project delays.
+`A solar panel manufacturing plant in Gujarat is expanding operations. Under the Environment Protection Act and EIA Notification, the company must submit an updated EIA report and comply with environmental clearance (EC) conditions before breaking ground. The project manager needs a step-by-step compliance framework to avoid project delays.`
 
-Goal:
+`Goal:`
 
-Prepare an EIA compliance checklist for industrial expansion projects in India.
+`Prepare an EIA compliance checklist for industrial expansion projects in India.`
 
-Prompt:
+`Prompt:`
 
-"You are an environmental compliance consultant. Create a detailed EIA compliance checklist for an Indian manufacturing plant expansion, covering: screening & scoping process, baseline environmental data collection, public consultation procedures, EIA report structure, EC application filing, mitigation measures, periodic compliance reporting, and post-clearance monitoring." Inputs Required from User: Industry type Project location Expansion scale (capacity increase %) Existing environmental clearance status
+`"You are an environmental compliance consultant. Create a detailed EIA compliance checklist for an Indian manufacturing plant expansion, covering: screening & scoping process, baseline environmental data collection, public consultation procedures, EIA report structure, EC application filing, mitigation measures, periodic compliance reporting, and post-clearance monitoring." Inputs Required from User: Industry type Project location Expansion scale (capacity increase %) Existing environmental clearance status`
 
-SEBI Compliance Checklist for Listed Companies
+## SEBI Compliance Checklist for Listed Companies
 
-Backstory:
+`Backstory:`
 
-A publicly listed fintech firm in India is preparing for its annual general meeting (AGM). The company’s legal and investor relations teams must ensure compliance with SEBI’s Listing Obligations and Disclosure Requirements (LODR), insider trading regulations, and quarterly reporting mandates to maintain investor trust and avoid penalties.
+`A publicly listed fintech firm in India is preparing for its annual general meeting (AGM). The company’s legal and investor relations teams must ensure compliance with SEBI’s Listing Obligations and Disclosure Requirements (LODR), insider trading regulations, and quarterly reporting mandates to maintain investor trust and avoid penalties.`
 
-Goal:
+`Goal:`
 
-Create a SEBI compliance checklist tailored for listed companies in India.
+`Create a SEBI compliance checklist tailored for listed companies in India.`
 
-Prompt:
+`Prompt:`
 
-"You are a securities compliance specialist. Draft a SEBI compliance checklist for a listed company, covering: quarterly and annual disclosures, insider trading prevention measures, AGM notice requirements, corporate governance reports, related-party transaction approvals, board meeting documentation, shareholding pattern filings, and investor grievance redressal mechanisms." Inputs Required from User: Industry sector Board composition details Shareholding structure Upcoming corporate actions
+`"You are a securities compliance specialist. Draft a SEBI compliance checklist for a listed company, covering: quarterly and annual disclosures, insider trading prevention measures, AGM notice requirements, corporate governance reports, related-party transaction approvals, board meeting documentation, shareholding pattern filings, and investor grievance redressal mechanisms." Inputs Required from User: Industry sector Board composition details Shareholding structure Upcoming corporate actions`
 
-Labour Law Compliance Checklist for Startups
+## Labour Law Compliance Checklist for Startups
 
-Backstory:
+`Backstory:`
 
-A 3-year-old e-commerce startup in Bengaluru has grown to 80 employees and now falls under multiple labour laws, including the Payment of Gratuity Act, the Maternity Benefit Act, and the Shops & Establishments Act. The HR head is overwhelmed trying to track all statutory requirements while managing rapid hiring.
+`A 3-year-old e-commerce startup in Bengaluru has grown to 80 employees and now falls under multiple labour laws, including the Payment of Gratuity Act, the Maternity Benefit Act, and the Shops & Establishments Act. The HR head is overwhelmed trying to track all statutory requirements while managing rapid hiring.`
 
-Goal:
+`Goal:`
 
-Create a labour law compliance checklist to help startups maintain legal HR practices and avoid penalties.
+`Create a labour law compliance checklist to help startups maintain legal HR practices and avoid penalties.`
 
-Prompt:
+`Prompt:`
 
-"You are an HR compliance consultant. Draft a comprehensive labour law compliance checklist for an Indian startup with over 50 employees, covering: mandatory employment contracts, working hours & leave policies, statutory registers, employee welfare provisions, social security contributions (EPF, ESI), maternity benefits, gratuity eligibility, sexual harassment policy compliance (POSH Act), and monthly/annual filings." Inputs Required from User: Industry type Employee strength (permanent & contract) Office location(s) Existing HR systems/software
+`"You are an HR compliance consultant. Draft a comprehensive labour law compliance checklist for an Indian startup with over 50 employees, covering: mandatory employment contracts, working hours & leave policies, statutory registers, employee welfare provisions, social security contributions (EPF, ESI), maternity benefits, gratuity eligibility, sexual harassment policy compliance (POSH Act), and monthly/annual filings." Inputs Required from User: Industry type Employee strength (permanent & contract) Office location(s) Existing HR systems/software`
 
-GST Compliance Checklist for Service-based Businesses
+## GST Compliance Checklist for Service-based Businesses
 
-Backstory:
+`Backstory:`
 
-A digital marketing agency in Delhi services clients across India and overseas. While GST registration is complete, the finance team struggles with correctly classifying interstate vs intrastate supplies, claiming input tax credit (ITC), and filing returns on time.
+`A digital marketing agency in Delhi services clients across India and overseas. While GST registration is complete, the finance team struggles with correctly classifying interstate vs intrastate supplies, claiming input tax credit (ITC), and filing returns on time.`
 
-Goal:
+`Goal:`
 
-Prepare a GST compliance checklist tailored for service-based firms to avoid interest and penalties.
+`Prepare a GST compliance checklist tailored for service-based firms to avoid interest and penalties.`
 
-Prompt:
+`Prompt:`
 
-"You are a GST compliance expert. Create a detailed GST compliance checklist for a service-oriented business, covering: registration verification, SAC code classification, GST invoicing rules, advance payment tax treatment, reverse charge mechanism applicability, ITC documentation, monthly GSTR-3B & quarterly GSTR-1 filing schedules, annual return preparation, and reconciliation with accounting records." Inputs Required from User: GST registration type (regular/composition) States of operation Major services offered Software used for billing/accounting
+`"You are a GST compliance expert. Create a detailed GST compliance checklist for a service-oriented business, covering: registration verification, SAC code classification, GST invoicing rules, advance payment tax treatment, reverse charge mechanism applicability, ITC documentation, monthly GSTR-3B & quarterly GSTR-1 filing schedules, annual return preparation, and reconciliation with accounting records." Inputs Required from User: GST registration type (regular/composition) States of operation Major services offered Software used for billing/accounting`
 
-Import-Export (EXIM) Compliance Checklist
+## Import-Export (EXIM) Compliance Checklist
 
-Backstory:
+`Backstory:`
 
-A textile manufacturer in Surat is starting to export products to the Middle East and Europe. They need to comply with India’s Foreign Trade Policy, customs regulations, and documentation standards, while also aligning with the buyer’s country requirements to avoid shipment delays.
+`A textile manufacturer in Surat is starting to export products to the Middle East and Europe. They need to comply with India’s Foreign Trade Policy, customs regulations, and documentation standards, while also aligning with the buyer’s country requirements to avoid shipment delays.`
 
-Goal:
+`Goal:`
 
-Create an import-export compliance checklist for Indian exporters.
+`Create an import-export compliance checklist for Indian exporters.`
 
-Prompt:
+`Prompt:`
 
-"You are an international trade compliance advisor. Draft a detailed EXIM compliance checklist for an Indian manufacturer, covering: IEC (Import Export Code) registration, export license requirements, HS code classification, product-specific quality certifications, export documentation (invoice, packing list, bill of lading), customs clearance process, payment terms (LC, advance, DP), and DGFT reporting obligations." Inputs Required from User: Product category Export destination countries Shipping method (sea/air) Trade finance arrangements
+`"You are an international trade compliance advisor. Draft a detailed EXIM compliance checklist for an Indian manufacturer, covering: IEC (Import Export Code) registration, export license requirements, HS code classification, product-specific quality certifications, export documentation (invoice, packing list, bill of lading), customs clearance process, payment terms (LC, advance, DP), and DGFT reporting obligations." Inputs Required from User: Product category Export destination countries Shipping method (sea/air) Trade finance arrangements`
 
-Pharmaceutical Regulatory Compliance Checklist
+## Pharmaceutical Regulatory Compliance Checklist
 
-Backstory:
+`Backstory:`
 
-A nutraceutical startup in Hyderabad is launching a new line of herbal supplements. They must comply with FSSAI regulations for dietary supplements, advertising guidelines, and GMP (Good Manufacturing Practices) before going to market.
+`A nutraceutical startup in Hyderabad is launching a new line of herbal supplements. They must comply with FSSAI regulations for dietary supplements, advertising guidelines, and GMP (Good Manufacturing Practices) before going to market.`
 
-Goal:
+`Goal:`
 
-Develop a pharmaceutical/nutraceutical compliance checklist for India.
+`Develop a pharmaceutical/nutraceutical compliance checklist for India.`
 
-Prompt:
+`Prompt:`
 
-"You are a regulatory affairs specialist. Prepare a compliance checklist for an Indian nutraceutical company, covering: FSSAI licensing, product label & claim approvals, ingredient verification against permitted lists, batch testing protocols, GMP certification, packaging compliance, adverse event reporting, and periodic renewal of licenses." Inputs Required from User: Product formulations Target market (domestic/export) Manufacturing facility type (own/contract) Distribution model
+`"You are a regulatory affairs specialist. Prepare a compliance checklist for an Indian nutraceutical company, covering: FSSAI licensing, product label & claim approvals, ingredient verification against permitted lists, batch testing protocols, GMP certification, packaging compliance, adverse event reporting, and periodic renewal of licenses." Inputs Required from User: Product formulations Target market (domestic/export) Manufacturing facility type (own/contract) Distribution model`
 
-Non-Profit Organisation (NGO) Compliance Checklist
+## Non-Profit Organisation (NGO) Compliance Checklist
 
-Backstory:
+`Backstory:`
 
-An NGO in Lucknow works on rural education projects funded by both domestic and foreign donors. The management must ensure compliance with the Societies Registration Act, Income Tax exemptions under 12A/80G, and FCRA (Foreign Contribution Regulation Act) requirements to continue receiving grants.
+`An NGO in Lucknow works on rural education projects funded by both domestic and foreign donors. The management must ensure compliance with the Societies Registration Act, Income Tax exemptions under 12A/80G, and FCRA (Foreign Contribution Regulation Act) requirements to continue receiving grants.`
 
-Goal:
+`Goal:`
 
-Create an NGO compliance checklist for Indian charitable organisations.
+`Create an NGO compliance checklist for Indian charitable organisations.`
 
-Prompt:
+`Prompt:`
 
-"You are a non-profit compliance advisor. Draft a comprehensive compliance checklist for an Indian NGO, covering: registration and renewal procedures, FCRA registration & reporting, 12A/80G exemption maintenance, annual audit requirements, donor receipt formats, activity report submissions, utilisation certificate filing, and state-specific NGO rules." Inputs Required from User: Type of registration (society/trust/section 8 company) Sources of funding (domestic/foreign) Annual turnover Number of active projects
+`"You are a non-profit compliance advisor. Draft a comprehensive compliance checklist for an Indian NGO, covering: registration and renewal procedures, FCRA registration & reporting, 12A/80G exemption maintenance, annual audit requirements, donor receipt formats, activity report submissions, utilisation certificate filing, and state-specific NGO rules." Inputs Required from User: Type of registration (society/trust/section 8 company) Sources of funding (domestic/foreign) Annual turnover Number of active projects`
 
-IT & Data Privacy Compliance Checklist
+## IT & Data Privacy Compliance Checklist
 
-Backstory:
+`Backstory:`
 
-A fintech startup in Mumbai is collecting sensitive personal and financial data from customers for loan processing. With India’s Digital Personal Data Protection (DPDP) Act now in effect, the CTO wants to ensure that all data collection, storage, and sharing practices are compliant, while also maintaining cybersecurity protocols.
+`A fintech startup in Mumbai is collecting sensitive personal and financial data from customers for loan processing. With India’s Digital Personal Data Protection (DPDP) Act now in effect, the CTO wants to ensure that all data collection, storage, and sharing practices are compliant, while also maintaining cybersecurity protocols.`
 
-Goal:
+`Goal:`
 
-Create a compliance checklist that ensures adherence to the DPDP Act and IT Act, covering both data privacy and cybersecurity.
+`Create a compliance checklist that ensures adherence to the DPDP Act and IT Act, covering both data privacy and cybersecurity.`
 
-Prompt:
+`Prompt:`
 
-"You are a data privacy compliance consultant. Draft a step-by-step IT and data privacy compliance checklist for an Indian fintech company, covering: data classification, privacy notices & consent collection, user rights requests handling, data retention & deletion policies, encryption standards, breach notification procedures, security audit schedules, and vendor data-sharing agreements." Inputs Required from User: Industry type and services offered Categories of personal data collected Current security measures in place Third-party vendor relationships
+`"You are a data privacy compliance consultant. Draft a step-by-step IT and data privacy compliance checklist for an Indian fintech company, covering: data classification, privacy notices & consent collection, user rights requests handling, data retention & deletion policies, encryption standards, breach notification procedures, security audit schedules, and vendor data-sharing agreements." Inputs Required from User: Industry type and services offered Categories of personal data collected Current security measures in place Third-party vendor relationships`
 
-Environmental Compliance Checklist for Manufacturing Units
+## Environmental Compliance Checklist for Manufacturing Units
 
-Backstory:
+`Backstory:`
 
-A ceramic tile manufacturer in Morbi, Gujarat, wants to expand production but must comply with environmental laws like the Air (Prevention and Control of Pollution) Act, Water Act, and Hazardous Waste Management Rules. Non-compliance could result in plant shutdowns and hefty fines.
+`A ceramic tile manufacturer in Morbi, Gujarat, wants to expand production but must comply with environmental laws like the Air (Prevention and Control of Pollution) Act, Water Act, and Hazardous Waste Management Rules. Non-compliance could result in plant shutdowns and hefty fines.`
 
-Goal:
+`Goal:`
 
-Develop an environmental compliance checklist for Indian manufacturing facilities.
+`Develop an environmental compliance checklist for Indian manufacturing facilities.`
 
-Prompt:
+`Prompt:`
 
-"You are an environmental compliance advisor. Create a manufacturing plant compliance checklist for India, covering: environmental clearance requirements, pollution control board approvals, emission monitoring protocols, effluent treatment plant (ETP) maintenance, hazardous waste handling & disposal rules, periodic environmental audits, and CSR environmental reporting obligations." Inputs Required from User: Type of manufacturing process Location and applicable state PCB rules Types of waste generated Energy consumption patterns
+`"You are an environmental compliance advisor. Create a manufacturing plant compliance checklist for India, covering: environmental clearance requirements, pollution control board approvals, emission monitoring protocols, effluent treatment plant (ETP) maintenance, hazardous waste handling & disposal rules, periodic environmental audits, and CSR environmental reporting obligations." Inputs Required from User: Type of manufacturing process Location and applicable state PCB rules Types of waste generated Energy consumption patterns`
 
-Corporate Governance Compliance Checklist for Private Limited Companies
+## Corporate Governance Compliance Checklist for Private Limited Companies
 
-Backstory:
+`Backstory:`
 
-A growing tech company in Pune recently received Series A funding. Investors are demanding stronger corporate governance practices to ensure transparency and reduce legal risks. The CFO needs a practical checklist that aligns with the Companies Act, 2013 requirements.
+`A growing tech company in Pune recently received Series A funding. Investors are demanding stronger corporate governance practices to ensure transparency and reduce legal risks. The CFO needs a practical checklist that aligns with the Companies Act, 2013 requirements.`
 
-Goal:
+`Goal:`
 
-Prepare a governance compliance checklist for private limited companies.
+`Prepare a governance compliance checklist for private limited companies.`
 
-Prompt:
+`Prompt:`
 
-"You are a corporate governance consultant. Draft a governance compliance checklist for a private limited company in India, covering: board meeting requirements, statutory register maintenance, filing of annual returns (MGT-7), director appointment & resignation compliance, shareholder agreement obligations, related-party transaction disclosures, and statutory audit procedures." Inputs Required from User: Company structure (shareholding pattern) Number of directors & board committees Annual turnover Investor agreements in place
+`"You are a corporate governance consultant. Draft a governance compliance checklist for a private limited company in India, covering: board meeting requirements, statutory register maintenance, filing of annual returns (MGT-7), director appointment & resignation compliance, shareholder agreement obligations, related-party transaction disclosures, and statutory audit procedures." Inputs Required from User: Company structure (shareholding pattern) Number of directors & board committees Annual turnover Investor agreements in place`
 
-Food Safety Compliance Checklist for Restaurants & Cafes
+## Food Safety Compliance Checklist for Restaurants & Cafes
 
-Backstory:
+`Backstory:`
 
-A multi-outlet café chain in Delhi-NCR is planning to expand into Tier-2 cities. Before scaling, they want to ensure strict adherence to FSSAI guidelines to avoid license suspension or customer complaints.
+`A multi-outlet café chain in Delhi-NCR is planning to expand into Tier-2 cities. Before scaling, they want to ensure strict adherence to FSSAI guidelines to avoid license suspension or customer complaints.`
 
-Goal:
+`Goal:`
 
-Create a food safety compliance checklist to be used across all outlets.
+`Create a food safety compliance checklist to be used across all outlets.`
 
-Prompt:
+Prompt:`
 
-"You are a food safety compliance officer. Prepare a checklist for a multi-location café chain in India, covering: FSSAI licensing & renewal, hygiene and sanitation SOPs, food handler training, temperature control for storage & cooking, pest control schedules, allergen disclosure requirements, packaging & labeling rules, and food waste disposal compliance." Inputs Required from User: Type of cuisine/menu items Number of outlets & locations Supply chain model (central kitchen/local sourcing) Existing safety inspection records
+`"You are a food safety compliance officer. Prepare a checklist for a multi-location café chain in India, covering: FSSAI licensing & renewal, hygiene and sanitation SOPs, food handler training, temperature control for storage & cooking, pest control schedules, allergen disclosure requirements, packaging & labeling rules, and food waste disposal compliance." Inputs Required from User: Type of cuisine/menu items Number of outlets & locations Supply chain model (central kitchen/local sourcing) Existing safety inspection records`
 
-Annual Legal & Compliance Health Check for SMEs
+## Annual Legal & Compliance Health Check for SMEs
 
-Backstory:
+`Backstory:`
 
-A small IT services firm in Chennai has been operating for 6 years but has never done a comprehensive compliance health check. The founder now wants a yearly review process to ensure the company is fully compliant with all laws — corporate, labour, tax, and sector-specific.
+`A small IT services firm in Chennai has been operating for 6 years but has never done a comprehensive compliance health check. The founder now wants a yearly review process to ensure the company is fully compliant with all laws — corporate, labour, tax, and sector-specific.`
 
-Goal:
+`Goal:`
 
-Develop a comprehensive annual legal and compliance audit checklist for SMEs.
+`Develop a comprehensive annual legal and compliance audit checklist for SMEs.`
 
-Prompt:
+`Prompt:`
 
-"You are an SME compliance auditor. Draft a one-stop annual compliance health check checklist for an Indian SME, covering: company law filings, tax compliance (income tax, GST, TDS), labour law adherence, sector-specific licenses, contract review procedures, intellectual property renewals, environmental/safety requirements, and risk assessment documentation." Inputs Required from User: Industry sector Company size (revenue & employees) Locations of operation Past compliance audit history
+`"You are an SME compliance auditor. Draft a one-stop annual compliance health check checklist for an Indian SME, covering: company law filings, tax compliance (income tax, GST, TDS), labour law adherence, sector-specific licenses, contract review procedures, intellectual property renewals, environmental/safety requirements, and risk assessment documentation." Inputs Required from User: Industry sector Company size (revenue & employees) Locations of operation Past compliance audit history`
 
 
-Contract Drafting Templates
+# Contract Drafting Templates
 
-Freelance Graphic Design Service Agreement for a Startup
+## Freelance Graphic Design Service Agreement for a Startup
 
-Backstory:
+`Backstory:`
 
-Rohit, 28, is a freelance graphic designer in Bengaluru who has just been approached by a newly launched fashion startup to design their brand identity, including the logo, packaging, and website banners. The startup has promised staged payments but has not provided any formal contract. Rohit wants to ensure he has clear terms around deliverables, payment schedules, intellectual property ownership, confidentiality, revision limits, and termination clauses. He also wants the language to be simple enough for both parties to understand without a lawyer present.
+`Rohit, 28, is a freelance graphic designer in Bengaluru who has just been approached by a newly launched fashion startup to design their brand identity, including the logo, packaging, and website banners. The startup has promised staged payments but has not provided any formal contract. Rohit wants to ensure he has clear terms around deliverables, payment schedules, intellectual property ownership, confidentiality, revision limits, and termination clauses. He also wants the language to be simple enough for both parties to understand without a lawyer present.`
 
-Goal:
+`Goal:`
 
-Create a professional yet simple freelance service agreement that safeguards Rohit’s payment rights, defines deliverables and timelines, protects intellectual property, and includes clauses for dispute resolution in India.
+`Create a professional yet simple freelance service agreement that safeguards Rohit’s payment rights, defines deliverables and timelines, protects intellectual property, and includes clauses for dispute resolution in India.`
 
-Prompt:
+`Prompt:`
 
-"You are an experienced contract lawyer specialising in creative service agreements for freelancers in India. Draft a comprehensive yet easy-to-read freelance service agreement between a freelance graphic designer and a startup. Include sections for: scope of work, deliverables with timelines, payment terms (including late fees), intellectual property transfer, confidentiality, revision policy, termination rights, and dispute resolution under Indian law. Use clear, plain English and avoid overly complex legal jargon." Inputs Required from User: Freelancer name & address Client name & address Scope of work description Total project fee & payment milestones Maximum number of revisions Preferred dispute resolution method (e.g., arbitration, court)
+`"You are an experienced contract lawyer specialising in creative service agreements for freelancers in India. Draft a comprehensive yet easy-to-read freelance service agreement between a freelance graphic designer and a startup. Include sections for: scope of work, deliverables with timelines, payment terms (including late fees), intellectual property transfer, confidentiality, revision policy, termination rights, and dispute resolution under Indian law. Use clear, plain English and avoid overly complex legal jargon." Inputs Required from User: Freelancer name & address Client name & address Scope of work description Total project fee & payment milestones Maximum number of revisions Preferred dispute resolution method (e.g., arbitration, court)`
 
-Influencer Collaboration Contract for a Brand Campaign
+## Influencer Collaboration Contract for a Brand Campaign
 
-Backstory:
+`Backstory:`
 
-Priya, 25, is a lifestyle influencer based in Mumbai with 120k Instagram followers. A skincare brand has approached her to promote their new product line over a 3-month campaign involving reels, stories, and one live session. Priya has worked without contracts before but faced payment delays and vague deliverable expectations. This time, she wants a written agreement detailing content deliverables, posting schedule, compensation, usage rights, exclusivity terms, and disclosure requirements as per ASCI guidelines in India.
+`Priya, 25, is a lifestyle influencer based in Mumbai with 120k Instagram followers. A skincare brand has approached her to promote their new product line over a 3-month campaign involving reels, stories, and one live session. Priya has worked without contracts before but faced payment delays and vague deliverable expectations. This time, she wants a written agreement detailing content deliverables, posting schedule, compensation, usage rights, exclusivity terms, and disclosure requirements as per ASCI guidelines in India.`
 
-Goal:
+`Goal:`
 
-Draft a detailed influencer-brand collaboration contract that outlines deliverables, payment schedule, brand approval process, and compliance with Indian advertising laws.
+`Draft a detailed influencer-brand collaboration contract that outlines deliverables, payment schedule, brand approval process, and compliance with Indian advertising laws.`
 
-Prompt:
+`Prompt:`
 
-"You are a legal expert specialising in influencer marketing agreements in India. Create a professional collaboration contract between a brand and an influencer for a 3-month campaign. Include clauses for: scope of work (content deliverables and posting schedule), approval process, payment terms, intellectual property & usage rights, exclusivity during the campaign, ASCI and disclosure compliance, termination rights, and dispute resolution. Ensure the language is legally sound yet easy for both parties to understand." Inputs Required from User: Influencer name & address Brand name & address Campaign start & end dates Number & type of deliverables (reels, stories, live sessions) Payment amount & schedule Exclusivity period (if any)
+`"You are a legal expert specialising in influencer marketing agreements in India. Create a professional collaboration contract between a brand and an influencer for a 3-month campaign. Include clauses for: scope of work (content deliverables and posting schedule), approval process, payment terms, intellectual property & usage rights, exclusivity during the campaign, ASCI and disclosure compliance, termination rights, and dispute resolution. Ensure the language is legally sound yet easy for both parties to understand." Inputs Required from User: Influencer name & address Brand name & address Campaign start & end dates Number & type of deliverables (reels, stories, live sessions) Payment amount & schedule Exclusivity period (if any)`
 
-Co-Founders Agreement for an Indian Private Limited Company
+## Co-Founders Agreement for an Indian Private Limited Company
 
-Backstory:
+`Backstory:`
 
-Amit, 31, and Neha, 29, are co-founders starting a health-tech startup in Delhi. They have verbally agreed on roles, equity split, and decision-making responsibilities, but a mentor advised them to formalise these in writing to avoid disputes. They need a co-founders agreement that outlines equity ownership, capital contributions, decision-making authority, vesting schedules, exit clauses, and handling of intellectual property.
+`Amit, 31, and Neha, 29, are co-founders starting a health-tech startup in Delhi. They have verbally agreed on roles, equity split, and decision-making responsibilities, but a mentor advised them to formalise these in writing to avoid disputes. They need a co-founders agreement that outlines equity ownership, capital contributions, decision-making authority, vesting schedules, exit clauses, and handling of intellectual property.`
 
-Goal:
+`Goal:
 
-Prepare a legally binding co-founders agreement that clearly defines roles, responsibilities, and ownership, while protecting the business from future disputes.
+`Prepare a legally binding co-founders agreement that clearly defines roles, responsibilities, and ownership, while protecting the business from future disputes.`
 
-Prompt:
+`Prompt:`
 
-"You are a corporate lawyer specialising in startup founder agreements in India. Draft a co-founders agreement for an Indian Private Limited Company that includes: roles & responsibilities, equity distribution, capital contribution terms, vesting schedules, decision-making process, non-compete and confidentiality clauses, intellectual property ownership, founder exit procedures, and dispute resolution under Indian law. Ensure clarity while maintaining legal enforceability." Inputs Required from User: Names & addresses of co-founders Proposed equity split Capital contributions (cash or assets) Vesting period (if any) Decision-making rules (e.g., unanimous or majority)
+`"You are a corporate lawyer specialising in startup founder agreements in India. Draft a co-founders agreement for an Indian Private Limited Company that includes: roles & responsibilities, equity distribution, capital contribution terms, vesting schedules, decision-making process, non-compete and confidentiality clauses, intellectual property ownership, founder exit procedures, and dispute resolution under Indian law. Ensure clarity while maintaining legal enforceability." Inputs Required from User: Names & addresses of co-founders Proposed equity split Capital contributions (cash or assets) Vesting period (if any) Decision-making rules (e.g., unanimous or majority)`
 
-Vendor Agreement for an E-commerce Business
+## Vendor Agreement for an E-commerce Business
 
-Backstory:
+`Backstory:`
 
-Shreya runs an online home décor marketplace and partners with multiple small vendors to sell handmade products. She wants a standardised vendor agreement to ensure quality, timely delivery, payment security, and compliance with return/refund policies. Her past experiences with verbal agreements have led to disputes over damaged goods and delayed shipping.
+`Shreya runs an online home décor marketplace and partners with multiple small vendors to sell handmade products. She wants a standardised vendor agreement to ensure quality, timely delivery, payment security, and compliance with return/refund policies. Her past experiences with verbal agreements have led to disputes over damaged goods and delayed shipping.`
 
-Goal:
+`Goal:`
 
-Create a vendor agreement template that clearly defines terms for supply, payment, quality checks, returns, and liability.
+`Create a vendor agreement template that clearly defines terms for supply, payment, quality checks, returns, and liability.`
 
-Prompt:
+`Prompt:`
 
-"You are a commercial contracts lawyer in India. Draft a vendor agreement for an e-commerce business that covers: product supply terms, quality standards, packaging requirements, delivery timelines, payment terms, return/refund policy, liability for damaged goods, intellectual property rights for product images, and dispute resolution. Use clear, concise, and enforceable clauses suitable for recurring use with multiple vendors." Inputs Required from User: Vendor name & address Product categories supplied Payment schedule & method Delivery timeframes Return/refund policy details
+`"You are a commercial contracts lawyer in India. Draft a vendor agreement for an e-commerce business that covers: product supply terms, quality standards, packaging requirements, delivery timelines, payment terms, return/refund policy, liability for damaged goods, intellectual property rights for product images, and dispute resolution. Use clear, concise, and enforceable clauses suitable for recurring use with multiple vendors." Inputs Required from User: Vendor name & address Product categories supplied Payment schedule & method Delivery timeframes Return/refund policy details`
 
-Employment Contract for a Tech Startup
+## Employment Contract for a Tech Startup
 
-Backstory:
+`Backstory:`
 
-Vikram, 30, is the founder of a SaaS startup in Pune hiring his first full-time developer. Since he’s operating on seed funding, he wants to offer a combination of fixed salary and ESOPs. He needs an employment contract that covers job role, salary structure, ESOP vesting, confidentiality, non-compete, and termination terms — all while being compliant with Indian labour laws.
+`Vikram, 30, is the founder of a SaaS startup in Pune hiring his first full-time developer. Since he’s operating on seed funding, he wants to offer a combination of fixed salary and ESOPs. He needs an employment contract that covers job role, salary structure, ESOP vesting, confidentiality, non-compete, and termination terms — all while being compliant with Indian labour laws.`
 
-Goal:
+`Goal:`
 
-Draft an employment contract that is legally compliant, protects intellectual property, and includes clear ESOP terms.
+`Draft an employment contract that is legally compliant, protects intellectual property, and includes clear ESOP terms.`
 
-Prompt:
+`Prompt:`
 
-"You are an HR and employment law expert in India. Create a detailed employment contract for a tech startup hiring a software developer. Include clauses for: position & responsibilities, working hours, salary breakdown, ESOP grant & vesting schedule, confidentiality, non-compete, intellectual property assignment, termination process, and compliance with Indian labour regulations. Keep the language professional and precise." Inputs Required from User: Employer name & address Employee name & address Job title & description Salary details & ESOP percentage Working hours & location Termination notice period
+`"You are an HR and employment law expert in India. Create a detailed employment contract for a tech startup hiring a software developer. Include clauses for: position & responsibilities, working hours, salary breakdown, ESOP grant & vesting schedule, confidentiality, non-compete, intellectual property assignment, termination process, and compliance with Indian labour regulations. Keep the language professional and precise." Inputs Required from User: Employer name & address Employee name & address Job title & description Salary details & ESOP percentage Working hours & location Termination notice period`
 
-Non-Disclosure Agreement (NDA) for Startup Investor Meetings
+## Non-Disclosure Agreement (NDA) for Startup Investor Meetings
 
-Backstory:
+`Backstory:`
 
-Karan, 33, is the founder of a fintech startup preparing to pitch to multiple investors. He plans to share sensitive details such as proprietary algorithms, client acquisition strategies, and unreleased product features. He’s concerned about these investors potentially using the information to invest in competitors or start similar ventures. He needs an NDA that protects his confidential information while remaining investor-friendly to avoid scaring them off.
+`Karan, 33, is the founder of a fintech startup preparing to pitch to multiple investors. He plans to share sensitive details such as proprietary algorithms, client acquisition strategies, and unreleased product features. He’s concerned about these investors potentially using the information to invest in competitors or start similar ventures. He needs an NDA that protects his confidential information while remaining investor-friendly to avoid scaring them off.`
 
-Goal:
+`Goal:`
 
-Create a balanced NDA that protects proprietary information without being overly restrictive for potential investors.
+`Create a balanced NDA that protects proprietary information without being overly restrictive for potential investors.`
 
-Prompt:
+`Prompt:`
 
-"You are a legal specialist in early-stage startup fundraising. Draft a mutual NDA between a startup founder and potential investors that covers: definition of confidential information, obligations of confidentiality, permitted disclosures, duration of confidentiality, exceptions to obligations, and remedies for breach. Ensure it is investor-friendly, concise, and compliant with Indian contract law while providing adequate protection to the founder’s sensitive business data." Inputs Required from User: Founder name & address Investor name & address Duration of confidentiality obligation Governing law & jurisdiction
+`"You are a legal specialist in early-stage startup fundraising. Draft a mutual NDA between a startup founder and potential investors that covers: definition of confidential information, obligations of confidentiality, permitted disclosures, duration of confidentiality, exceptions to obligations, and remedies for breach. Ensure it is investor-friendly, concise, and compliant with Indian contract law while providing adequate protection to the founder’s sensitive business data." Inputs Required from User: Founder name & address Investor name & address Duration of confidentiality obligation Governing law & jurisdiction`
 
-Joint Venture Agreement for Manufacturing Partnership
+## Joint Venture Agreement for Manufacturing Partnership
 
-Backstory:
+`Backstory:`
 
-An Indian furniture company wants to partner with a Singapore-based design firm to produce a premium furniture line for the Asian market. Both parties will invest equally, share profits, and manage operations jointly. Past experiences in the industry show that without a clear JV agreement, disputes over profit-sharing, IP rights, and exit clauses can derail operations.
+`An Indian furniture company wants to partner with a Singapore-based design firm to produce a premium furniture line for the Asian market. Both parties will invest equally, share profits, and manage operations jointly. Past experiences in the industry show that without a clear JV agreement, disputes over profit-sharing, IP rights, and exit clauses can derail operations.`
 
-Goal:
+`Goal:`
 
-Draft a comprehensive joint venture agreement that sets clear terms for capital contribution, profit-sharing, management, and dispute resolution.
+`Draft a comprehensive joint venture agreement that sets clear terms for capital contribution, profit-sharing, management, and dispute resolution.`
 
-Prompt:
+`Prompt:`
 
-"You are a corporate contracts lawyer experienced in international partnerships. Draft a Joint Venture Agreement between an Indian manufacturing company and a Singapore-based design firm that includes: formation details, capital contribution, profit/loss sharing ratio, management structure, intellectual property ownership, confidentiality, dispute resolution (cross-border), exit clauses, and governing law. Ensure clarity and legal enforceability for both jurisdictions." Inputs Required from User: Names & addresses of both parties Capital contribution amounts Profit/loss sharing ratio Management roles & decision-making process Governing law preference
+`"You are a corporate contracts lawyer experienced in international partnerships. Draft a Joint Venture Agreement between an Indian manufacturing company and a Singapore-based design firm that includes: formation details, capital contribution, profit/loss sharing ratio, management structure, intellectual property ownership, confidentiality, dispute resolution (cross-border), exit clauses, and governing law. Ensure clarity and legal enforceability for both jurisdictions." Inputs Required from User: Names & addresses of both parties Capital contribution amounts Profit/loss sharing ratio Management roles & decision-making process Governing law preference`
 
-Franchise Agreement for a Café Brand
+## Franchise Agreement for a Café Brand
 
-Backstory:
+`Backstory:`
 
-An established café brand in Delhi is offering its first franchise to an entrepreneur in Jaipur. The franchisor wants to ensure brand consistency in operations, quality, and marketing while the franchisee wants clarity on support, territory rights, and termination clauses.
+`An established café brand in Delhi is offering its first franchise to an entrepreneur in Jaipur. The franchisor wants to ensure brand consistency in operations, quality, and marketing while the franchisee wants clarity on support, territory rights, and termination clauses.`
 
-Goal:
+`Goal:`
 
-Prepare a detailed franchise agreement that balances brand protection and franchisee rights.
+`Prepare a detailed franchise agreement that balances brand protection and franchisee rights.`
 
-Prompt:
+`Prompt:`
 
-"You are a commercial lawyer specialising in franchise agreements. Draft a franchise agreement for a café business in India that includes: franchise grant & territory rights, initial & ongoing fees, operational guidelines, quality standards, training & support obligations, marketing requirements, intellectual property use, audit rights, termination & post-termination obligations, and dispute resolution. Use a tone that is professional yet clear for entrepreneurs new to franchising." Inputs Required from User: Franchisee name & address Territory/location rights Initial franchise fee & royalty percentage Support & training details Termination notice period
+`"You are a commercial lawyer specialising in franchise agreements. Draft a franchise agreement for a café business in India that includes: franchise grant & territory rights, initial & ongoing fees, operational guidelines, quality standards, training & support obligations, marketing requirements, intellectual property use, audit rights, termination & post-termination obligations, and dispute resolution. Use a tone that is professional yet clear for entrepreneurs new to franchising." Inputs Required from User: Franchisee name & address Territory/location rights Initial franchise fee & royalty percentage Support & training details Termination notice period`
 
-Partnership Deed for a Small Business
+## Partnership Deed for a Small Business
 
-Backstory:
+`Backstory:`
 
-Two cousins are starting a bakery in Lucknow and plan to split profits 60-40. They’ve agreed verbally on capital contributions and responsibilities but want a written partnership deed to avoid misunderstandings later.
+`Two cousins are starting a bakery in Lucknow and plan to split profits 60-40. They’ve agreed verbally on capital contributions and responsibilities but want a written partnership deed to avoid misunderstandings later.`
 
-Goal:
+`Goal:`
 
-Draft a legally valid partnership deed under Indian law with clear clauses on profit-sharing, responsibilities, and dissolution.
+`Draft a legally valid partnership deed under Indian law with clear clauses on profit-sharing, responsibilities, and dissolution.`
 
-Prompt:
+`Prompt:`
 
-"You are an expert in Indian partnership laws. Draft a partnership deed for a small bakery business that includes: firm name & address, partner details, capital contributions, profit/loss sharing ratio, roles & responsibilities, decision-making process, withdrawal of capital, admission of new partners, dissolution procedure, and dispute resolution. Ensure the language is clear and accessible for non-lawyers while maintaining legal enforceability." Inputs Required from User: Partner names & addresses Capital contributions Profit/loss split Decision-making rules Dispute resolution method
+`"You are an expert in Indian partnership laws. Draft a partnership deed for a small bakery business that includes: firm name & address, partner details, capital contributions, profit/loss sharing ratio, roles & responsibilities, decision-making process, withdrawal of capital, admission of new partners, dissolution procedure, and dispute resolution. Ensure the language is clear and accessible for non-lawyers while maintaining legal enforceability." Inputs Required from User: Partner names & addresses Capital contributions Profit/loss split Decision-making rules Dispute resolution method`
 
-Service Level Agreement (SLA) for IT Services
+## Service Level Agreement (SLA) for IT Services
 
-Backstory:
+`Backstory:`
 
-A mid-sized Indian company is outsourcing its IT support to a vendor for network management, cybersecurity monitoring, and helpdesk services. The company previously suffered downtime and slow issue resolution due to vague contracts.
+`A mid-sized Indian company is outsourcing its IT support to a vendor for network management, cybersecurity monitoring, and helpdesk services. The company previously suffered downtime and slow issue resolution due to vague contracts.`
 
-Goal:
+`Goal:`
 
-Create a clear SLA that defines performance standards, response times, and penalties for non-compliance.
+`Create a clear SLA that defines performance standards, response times, and penalties for non-compliance.`
 
-Prompt:
+`Prompt:`
 
-"You are a technology contracts specialist. Draft a Service Level Agreement between a company and an IT service provider that includes: scope of services, performance metrics, uptime guarantees, response & resolution times, reporting obligations, penalties for breach, confidentiality, data security requirements, and termination clauses. Make it specific enough to hold the vendor accountable while remaining fair and enforceable." Inputs Required from User: Client name & address Vendor name & address Scope of IT services Uptime targets Penalty amounts for non-compliance
+`"You are a technology contracts specialist. Draft a Service Level Agreement between a company and an IT service provider that includes: scope of services, performance metrics, uptime guarantees, response & resolution times, reporting obligations, penalties for breach, confidentiality, data security requirements, and termination clauses. Make it specific enough to hold the vendor accountable while remaining fair and enforceable." Inputs Required from User: Client name & address Vendor name & address Scope of IT services Uptime targets Penalty amounts for non-compliance`
 
-Licensing Agreement for Software Distribution
+## Licensing Agreement for Software Distribution
 
-Backstory:
+`Backstory:`
 
-A SaaS startup in Bengaluru has developed a project management tool and wants to license it to corporate clients while retaining full ownership of the source code. The founder wants a licensing agreement that outlines usage rights, restrictions, support terms, and renewal clauses.
+`A SaaS startup in Bengaluru has developed a project management tool and wants to license it to corporate clients while retaining full ownership of the source code. The founder wants a licensing agreement that outlines usage rights, restrictions, support terms, and renewal clauses.`
 
-Goal:
+`Goal:`
 
-Draft a licensing agreement that protects IP while allowing flexible usage.
+`Draft a licensing agreement that protects IP while allowing flexible usage.`
 
-Prompt:
+`Prompt:`
 
-"You are an intellectual property lawyer in India. Draft a licensing agreement for a SaaS product that includes: scope of license (per-user or company-wide), usage restrictions, payment & renewal terms, software updates & support obligations, confidentiality, intellectual property rights retention, warranty disclaimers, termination terms, and dispute resolution. Ensure clauses are clear and enforceable under Indian law." Inputs Required from User: Licensee name & address Scope of license (e.g., users, locations) License fee & payment terms Support & update frequency
+`"You are an intellectual property lawyer in India. Draft a licensing agreement for a SaaS product that includes: scope of license (per-user or company-wide), usage restrictions, payment & renewal terms, software updates & support obligations, confidentiality, intellectual property rights retention, warranty disclaimers, termination terms, and dispute resolution. Ensure clauses are clear and enforceable under Indian law." Inputs Required from User: Licensee name & address Scope of license (e.g., users, locations) License fee & payment terms Support & update frequency`
 
-Supply Agreement for Retail Products
+## Supply Agreement for Retail Products
 
-Backstory:
+`Backstory:`
 
-A Mumbai-based organic skincare brand sources raw ingredients from a supplier in Kerala. To prevent supply chain disruptions, they want a supply agreement specifying delivery schedules, quality standards, and pricing terms.
+`A Mumbai-based organic skincare brand sources raw ingredients from a supplier in Kerala. To prevent supply chain disruptions, they want a supply agreement specifying delivery schedules, quality standards, and pricing terms.`
 
-Goal:
+`Goal:`
 
-Create a binding supply agreement that ensures consistency and timely delivery.
+`Create a binding supply agreement that ensures consistency and timely delivery.`
 
-Prompt:
+`Prompt:`
 
-"You are a commercial contracts expert. Draft a supply agreement for retail products that includes: product specifications, quality control standards, packaging requirements, delivery timelines, pricing & payment terms, inspection rights, remedies for defective goods, force majeure, and termination clauses. Make the terms clear to prevent disputes and maintain long-term relationships." Inputs Required from User: Supplier name & address Product types & specifications Delivery frequency & timelines Payment terms
+`"You are a commercial contracts expert. Draft a supply agreement for retail products that includes: product specifications, quality control standards, packaging requirements, delivery timelines, pricing & payment terms, inspection rights, remedies for defective goods, force majeure, and termination clauses. Make the terms clear to prevent disputes and maintain long-term relationships." Inputs Required from User: Supplier name & address Product types & specifications Delivery frequency & timelines Payment terms`
 
-Consultancy Agreement for Business Advisors
+## Consultancy Agreement for Business Advisors
 
-Backstory:
+`Backstory:`
 
-A real estate development firm is hiring a consultant to advise on market entry strategies for Tier-2 cities in India. The firm wants to define deliverables, fees, and confidentiality obligations clearly.
+`A real estate development firm is hiring a consultant to advise on market entry strategies for Tier-2 cities in India. The firm wants to define deliverables, fees, and confidentiality obligations clearly.`
 
-Goal:
+`Goal:`
 
-Draft a consultancy agreement that clearly defines scope, payment, and liability.
+`Draft a consultancy agreement that clearly defines scope, payment, and liability.`
 
-Prompt:
+`Prompt:`
 
-"You are a legal advisor specialising in consultancy contracts. Draft a consultancy agreement between a business and an independent consultant that includes: scope of work, deliverables & timelines, consultancy fees & payment terms, confidentiality obligations, intellectual property ownership, indemnity clauses, termination rights, and dispute resolution. Keep it professional yet clear for both parties." Inputs Required from User: Consultant name & address Scope of work details Payment terms Duration of engagement
+`"You are a legal advisor specialising in consultancy contracts. Draft a consultancy agreement between a business and an independent consultant that includes: scope of work, deliverables & timelines, consultancy fees & payment terms, confidentiality obligations, intellectual property ownership, indemnity clauses, termination rights, and dispute resolution. Keep it professional yet clear for both parties." Inputs Required from User: Consultant name & address Scope of work details Payment terms Duration of engagement`
 
-Memorandum of Understanding (MoU) for Collaboration
+## Memorandum of Understanding (MoU) for Collaboration
 
-Backstory:
+`Backstory:`
 
-Two NGOs want to collaborate on a rural education initiative without forming a formal legal entity yet. They need an MoU outlining roles, responsibilities, funding commitments, and a non-binding statement of intent.
+`Two NGOs want to collaborate on a rural education initiative without forming a formal legal entity yet. They need an MoU outlining roles, responsibilities, funding commitments, and a non-binding statement of intent.`
 
-Goal:
+`Goal:`
 
-Prepare an MoU that clearly defines collaboration terms while keeping it non-binding.
+`Prepare an MoU that clearly defines collaboration terms while keeping it non-binding.`
 
-Prompt:
+`Prompt:`
 
-"You are an NGO legal advisor. Draft a non-binding Memorandum of Understanding for collaboration between two NGOs that includes: purpose of collaboration, roles & responsibilities, funding or resource commitments, timelines, reporting requirements, confidentiality, dispute resolution, and termination rights. Keep it formal yet flexible for potential adjustments." Inputs Required from User: Names & addresses of NGOs Purpose & scope of collaboration Funding/resource commitments Timeline
+`"You are an NGO legal advisor. Draft a non-binding Memorandum of Understanding for collaboration between two NGOs that includes: purpose of collaboration, roles & responsibilities, funding or resource commitments, timelines, reporting requirements, confidentiality, dispute resolution, and termination rights. Keep it formal yet flexible for potential adjustments." Inputs Required from User: Names & addresses of NGOs Purpose & scope of collaboration Funding/resource commitments Timeline`
 
-Lease Agreement for Commercial Property
+## Lease Agreement for Commercial Property
 
-Backstory:
+`Backstory:`
 
-A startup in Hyderabad is leasing office space for three years. They need a lease agreement that covers rent, maintenance, usage restrictions, and renewal options.
+`A startup in Hyderabad is leasing office space for three years. They need a lease agreement that covers rent, maintenance, usage restrictions, and renewal options.`
 
-Goal:
+`Goal:`
 
-Create a legally sound lease agreement for commercial property.
+`Create a legally sound lease agreement for commercial property.`
 
-Prompt:
+`Prompt:`
 
-"You are a real estate contracts specialist in India. Draft a commercial lease agreement that includes: premises details, lease term, rent amount & payment schedule, security deposit, permitted use, maintenance responsibilities, renewal options, termination clauses, and dispute resolution. Ensure compliance with local property laws." Inputs Required from User: Lessor & lessee details Property address Lease term & rent amount Security deposit amount Renewal terms
+`"You are a real estate contracts specialist in India. Draft a commercial lease agreement that includes: premises details, lease term, rent amount & payment schedule, security deposit, permitted use, maintenance responsibilities, renewal options, termination clauses, and dispute resolution. Ensure compliance with local property laws." Inputs Required from User: Lessor & lessee details Property address Lease term & rent amount Security deposit amount Renewal terms`
 
-Co-Founder Agreement for a Bootstrapped Startup
+## Co-Founder Agreement for a Bootstrapped Startup
 
-Backstory:
+`Backstory:`
 
-Two college friends are starting a health tech company. One is contributing capital, while the other is contributing technical expertise. They want a contract that clearly defines equity split, responsibilities, vesting schedules, decision-making powers, and exit clauses to avoid future disputes.
+`Two college friends are starting a health tech company. One is contributing capital, while the other is contributing technical expertise. They want a contract that clearly defines equity split, responsibilities, vesting schedules, decision-making powers, and exit clauses to avoid future disputes.`
 
-Goal:
+`Goal:`
 
-Draft a co-founder agreement that protects both parties and outlines operational clarity.
+`Draft a co-founder agreement that protects both parties and outlines operational clarity.`
 
-Prompt:
+`Prompt:`
 
-"You are a startup legal consultant. Create a detailed co-founder agreement for a health tech startup in India, covering: equity ownership, capital contributions, vesting schedule, founder responsibilities, decision-making process, IP ownership, non-compete clauses, conflict resolution mechanisms, and exit provisions. Format it in legal contract style with clearly numbered clauses." Inputs Required from User: Founder names and roles Equity split percentage Capital & non-cash contributions Jurisdiction of registration
+`"You are a startup legal consultant. Create a detailed co-founder agreement for a health tech startup in India, covering: equity ownership, capital contributions, vesting schedule, founder responsibilities, decision-making process, IP ownership, non-compete clauses, conflict resolution mechanisms, and exit provisions. Format it in legal contract style with clearly numbered clauses." Inputs Required from User: Founder names and roles Equity split percentage Capital & non-cash contributions Jurisdiction of registration`
 
-Freelance Service Agreement for International Clients
+## Freelance Service Agreement for International Clients
 
-Backstory:
+`Backstory:`
 
-A graphic designer in Mumbai regularly works with clients from the USA and UK. She wants a standard service agreement that ensures timely payment in foreign currency, ownership rights transfer upon payment, and clauses to handle disputes under international law.
+`A graphic designer in Mumbai regularly works with clients from the USA and UK. She wants a standard service agreement that ensures timely payment in foreign currency, ownership rights transfer upon payment, and clauses to handle disputes under international law.`
 
-Goal:
+`Goal:`
 
-Draft a freelancer-client agreement suitable for cross-border work.
+`Draft a freelancer-client agreement suitable for cross-border work.`
 
-Prompt:
+`Prompt:`
 
-"You are a legal advisor for creative freelancers. Draft a freelance service agreement for an Indian graphic designer working with international clients, covering: scope of work, project timelines, payment currency & method, IP transfer on payment, confidentiality, termination conditions, dispute resolution (international arbitration), and applicable governing law." Inputs Required from User: Client country Payment method (PayPal, bank transfer) Type of design work Average project duration
+`"You are a legal advisor for creative freelancers. Draft a freelance service agreement for an Indian graphic designer working with international clients, covering: scope of work, project timelines, payment currency & method, IP transfer on payment, confidentiality, termination conditions, dispute resolution (international arbitration), and applicable governing law." Inputs Required from User: Client country Payment method (PayPal, bank transfer) Type of design work Average project duration`
 
-Software Development Contract for SaaS Platforms
+## Software Development Contract for SaaS Platforms
 
-Backstory:
+`Backstory:`
 
-A SaaS company is outsourcing backend development to an external agency. The founders want a contract that specifies milestones, payment schedules, bug-fixing responsibilities, and ownership of code.
+`A SaaS company is outsourcing backend development to an external agency. The founders want a contract that specifies milestones, payment schedules, bug-fixing responsibilities, and ownership of code.`
 
-Goal:
+`Goal:`
 
-Draft a legally binding software development contract.
+`Draft a legally binding software development contract.`
 
-Prompt:
+`Prompt:`
 
-"You are a technology contracts specialist. Draft a software development contract for a SaaS company hiring an external agency, covering: detailed project scope, milestone-based payment structure, delivery timelines, quality assurance requirements, bug-fix warranty periods, IP ownership, confidentiality, and termination clauses." Inputs Required from User: Project scope description Development timeline Payment milestones Jurisdiction for disputes
+`"You are a technology contracts specialist. Draft a software development contract for a SaaS company hiring an external agency, covering: detailed project scope, milestone-based payment structure, delivery timelines, quality assurance requirements, bug-fix warranty periods, IP ownership, confidentiality, and termination clauses." Inputs Required from User: Project scope description Development timeline Payment milestones Jurisdiction for disputes`
 
-Non-Compete & Non-Solicitation Agreement
+## Non-Compete & Non-Solicitation Agreement
 
-Backstory:
+`Backstory:`
 
-A senior sales executive is leaving a company, and the employer wants to ensure they don’t join a direct competitor or poach clients for at least one year post-exit.
+`A senior sales executive is leaving a company, and the employer wants to ensure they don’t join a direct competitor or poach clients for at least one year post-exit.`
 
-Goal:
+`Goal:`
 
-Draft a non-compete & non-solicitation agreement enforceable under Indian law.
+`Draft a non-compete & non-solicitation agreement enforceable under Indian law.`
 
-Prompt:
+`Prompt:`
 
-"You are an employment law specialist. Create a non-compete and non-solicitation agreement for a sales executive leaving a company in India, including: definition of ‘competitor,’ duration of restriction, geographical limitations, client protection clauses, confidentiality terms, and remedies in case of breach." Inputs Required from User: Employee role & seniority Industry sector Restriction duration Restricted territories
+`"You are an employment law specialist. Create a non-compete and non-solicitation agreement for a sales executive leaving a company in India, including: definition of ‘competitor,’ duration of restriction, geographical limitations, client protection clauses, confidentiality terms, and remedies in case of breach." Inputs Required from User: Employee role & seniority Industry sector Restriction duration Restricted territories`
 
-Joint Venture Agreement for Real Estate Development
+## Joint Venture Agreement for Real Estate Development
 
-Backstory:
+`Backstory:`
 
-A landowner and a construction firm are partnering to build a commercial complex. The landowner will contribute the plot, and the construction firm will handle development and sales.
+`A landowner and a construction firm are partnering to build a commercial complex. The landowner will contribute the plot, and the construction firm will handle development and sales.`
 
-Goal:
+`Goal:`
 
-Draft a joint venture agreement that clearly defines contributions, revenue share, and dispute handling.
+`Draft a joint venture agreement that clearly defines contributions, revenue share, and dispute handling.`
 
-Prompt:
+`Prompt:`
 
-"You are a real estate legal consultant. Draft a joint venture agreement between a landowner and a construction firm for developing a commercial property, covering: ownership structure, capital & land contributions, revenue-sharing model, development timeline, marketing responsibilities, dispute resolution, and exit strategies." Inputs Required from User: Parties involved Land location & valuation Revenue share ratio Development timeline
+`"You are a real estate legal consultant. Draft a joint venture agreement between a landowner and a construction firm for developing a commercial property, covering: ownership structure, capital & land contributions, revenue-sharing model, development timeline, marketing responsibilities, dispute resolution, and exit strategies." Inputs Required from User: Parties involved Land location & valuation Revenue share ratio Development timeline`
 
-White-Label Partnership Agreement
+## White-Label Partnership Agreement
 
-Backstory:
+`Backstory:`
 
-A wellness app based in Bengaluru wants to license its platform to a health coach in Delhi who will rebrand it under their own name. The founder wants a white-label agreement that protects IP, sets revenue-sharing terms, and prevents misuse of proprietary technology.
+`A wellness app based in Bengaluru wants to license its platform to a health coach in Delhi who will rebrand it under their own name. The founder wants a white-label agreement that protects IP, sets revenue-sharing terms, and prevents misuse of proprietary technology.`
 
-Goal:
+`Goal:`
 
-Draft a white-label partnership agreement that clearly defines branding rights, limitations, and payment terms.
+`Draft a white-label partnership agreement that clearly defines branding rights, limitations, and payment terms.`
 
-Prompt:
+`Prompt:`
 
-"You are a commercial contracts specialist. Draft a white-label partnership agreement for an Indian SaaS wellness platform, covering: scope of license, branding and rebranding rules, technical support responsibilities, revenue-sharing percentages, restrictions on code modification, confidentiality clauses, and termination procedures." Inputs Required from User: Platform name & description Partner’s brand name Revenue-sharing structure Duration of license
+`"You are a commercial contracts specialist. Draft a white-label partnership agreement for an Indian SaaS wellness platform, covering: scope of license, branding and rebranding rules, technical support responsibilities, revenue-sharing percentages, restrictions on code modification, confidentiality clauses, and termination procedures." Inputs Required from User: Platform name & description Partner’s brand name Revenue-sharing structure Duration of license`
 
-Manufacturing & Supply Agreement
+## Manufacturing & Supply Agreement
 
-Backstory:
+`Backstory:`
 
-A small D2C skincare brand is outsourcing product manufacturing to a third-party factory in Himachal Pradesh. They need a supply agreement to ensure quality control, timely delivery, and compliance with cosmetic regulations.
+`A small D2C skincare brand is outsourcing product manufacturing to a third-party factory in Himachal Pradesh. They need a supply agreement to ensure quality control, timely delivery, and compliance with cosmetic regulations.`
 
-Goal:
+`Goal:`
 
-Draft a manufacturing & supply contract that safeguards product quality and timelines.
+`Draft a manufacturing & supply contract that safeguards product quality and timelines.`
 
-Prompt:
+`Prompt:`
 
-"You are a manufacturing contracts expert. Draft a manufacturing and supply agreement for a D2C skincare brand, covering: product specifications, raw material sourcing, quality control checks, delivery timelines, packaging requirements, regulatory compliance, payment terms, and liability for defective products." Inputs Required from User: Product types Delivery frequency Quality standards Payment schedule
+`"You are a manufacturing contracts expert. Draft a manufacturing and supply agreement for a D2C skincare brand, covering: product specifications, raw material sourcing, quality control checks, delivery timelines, packaging requirements, regulatory compliance, payment terms, and liability for defective products." Inputs Required from User: Product types Delivery frequency Quality standards Payment schedule`
 
-Confidentiality & Non-Disclosure Agreement for M&A Talks
+## Confidentiality & Non-Disclosure Agreement for M&A Talks
 
-Backstory:
+`Backstory:`
 
-A mid-sized tech company in Hyderabad is in acquisition discussions with a larger multinational. They want an NDA to protect sensitive financial data, trade secrets, and client lists during the due diligence process.
+`A mid-sized tech company in Hyderabad is in acquisition discussions with a larger multinational. They want an NDA to protect sensitive financial data, trade secrets, and client lists during the due diligence process.`
 
-Goal:
+`Goal:`
 
-Draft an NDA that ensures mutual confidentiality during M&A negotiations.
+`Draft an NDA that ensures mutual confidentiality during M&A negotiations.`
 
-Prompt:
+`Prompt:`
 
-"You are a mergers & acquisitions legal advisor. Draft a mutual confidentiality and non-disclosure agreement for two companies engaged in acquisition talks, covering: definition of confidential information, permitted use, duration of confidentiality, return or destruction of data, and remedies for breach." Inputs Required from User: Parties’ names & jurisdictions Duration of confidentiality Scope of information shared Applicable law
+`"You are a mergers & acquisitions legal advisor. Draft a mutual confidentiality and non-disclosure agreement for two companies engaged in acquisition talks, covering: definition of confidential information, permitted use, duration of confidentiality, return or destruction of data, and remedies for breach." Inputs Required from User: Parties’ names & jurisdictions Duration of confidentiality Scope of information shared Applicable law`
 
-Influencer Collaboration Agreement
+`Influencer Collaboration Agreement`
 
-Backstory:
+`Backstory:`
 
-A fashion e-commerce platform is partnering with a social media influencer to promote a new ethnic wear collection. The agreement needs to specify content deliverables, posting schedules, usage rights, and FTC compliance guidelines.
+`A fashion e-commerce platform is partnering with a social media influencer to promote a new ethnic wear collection. The agreement needs to specify content deliverables, posting schedules, usage rights, and FTC compliance guidelines.`
 
-Goal:
+`Goal:`
 
-Draft an influencer collaboration agreement that protects both brand and influencer interests.
+`Draft an influencer collaboration agreement that protects both brand and influencer interests.`
 
-Prompt:
+`Prompt:`
 
-"You are a media & entertainment contracts expert. Draft an influencer collaboration agreement for a fashion e-commerce brand, covering: content deliverables (videos, posts, stories), posting timeline, payment terms, usage rights for brand marketing, disclosure requirements for sponsored content, exclusivity clauses, and termination terms." Inputs Required from User: Influencer handle & follower count Campaign duration Deliverable formats Payment structure
+`"You are a media & entertainment contracts expert. Draft an influencer collaboration agreement for a fashion e-commerce brand, covering: content deliverables (videos, posts, stories), posting timeline, payment terms, usage rights for brand marketing, disclosure requirements for sponsored content, exclusivity clauses, and termination terms." Inputs Required from User: Influencer handle & follower count Campaign duration Deliverable formats Payment structure`
 
-Franchise Agreement for Quick-Service Restaurant Chain
+## Franchise Agreement for Quick-Service Restaurant Chain
 
-Backstory:
+`Backstory:`
 
-A fast-growing quick-service restaurant brand from Mumbai is franchising its operations in Tier-2 cities. The franchise agreement must outline brand usage, operational guidelines, training support, and royalty structures.
+`A fast-growing quick-service restaurant brand from Mumbai is franchising its operations in Tier-2 cities. The franchise agreement must outline brand usage, operational guidelines, training support, and royalty structures.`
 
-Goal:
+`Goal:`
 
-Draft a franchise agreement that ensures brand consistency and operational compliance.
+`Draft a franchise agreement that ensures brand consistency and operational compliance.`
 
-Prompt:
+`Prompt:`
 
-"You are a franchise law specialist. Draft a franchise agreement for a quick-service restaurant chain in India, covering: territory rights, brand & logo usage, mandatory training programs, menu standardization, royalty and fee structures, audit rights, quality control measures, and renewal/termination procedures." Inputs Required from User: Franchise territory Royalty percentage Training program details Duration of agreement
+`"You are a franchise law specialist. Draft a franchise agreement for a quick-service restaurant chain in India, covering: territory rights, brand & logo usage, mandatory training programs, menu standardization, royalty and fee structures, audit rights, quality control measures, and renewal/termination procedures." Inputs Required from User: Franchise territory Royalty percentage Training program details Duration of agreement`
 
 
