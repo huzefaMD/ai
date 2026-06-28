@@ -1431,7 +1431,7 @@ Keep it concise but decision-oriented."*`
 
 `Backstory:`
 
-A B2B SaaS company in Chennai holds monthly sales pipeline reviews, but they often turn into long debates about individual deals instead of focusing on pipeline health. The VP of Sales wants an agenda that prioritises data-driven insights, identifies bottlenecks, and ensures sales reps leave with clear next steps.`
+`A B2B SaaS company in Chennai holds monthly sales pipeline reviews, but they often turn into long debates about individual deals instead of focusing on pipeline health. The VP of Sales wants an agenda that prioritises data-driven insights, identifies bottlenecks, and ensures sales reps leave with clear next steps.`
 
 `Goal:`
 
@@ -1439,7 +1439,7 @@ A B2B SaaS company in Chennai holds monthly sales pipeline reviews, but they oft
 
 `Prompt:`
 
-`*"You are a sales operations strategist. Draft a monthly sales pipeline review agenda that includes:
+`*"You are a sales operations strategist. Draft a monthly sales pipeline review agenda that includes:`
 ```
 1. Pipeline Health Overview – Summary of total pipeline value, stage distribution, and conversion rates.
 
@@ -2118,20 +2118,20 @@ A B2B SaaS company in Chennai holds monthly sales pipeline reviews, but they oft
 
 4. Deadlines and quality expectations
 ```
-Prompt 10 – Conflict Between Co-Founders Over Strategic Direction
+## Prompt 10 – Conflict Between Co-Founders Over Strategic Direction
 
-Backstory:
+`Backstory:`
 
-Two co-founders of a Bengaluru-based edtech startup, both aged 32, are disagreeing on the next growth phase. One believes the company should focus on scaling fast, while the other insists on strengthening the core product first. The ongoing disagreement is confusing the leadership team and stalling decision-making.
+`Two co-founders of a Bengaluru-based edtech startup, both aged 32, are disagreeing on the next growth phase. One believes the company should focus on scaling fast, while the other insists on strengthening the core product first. The ongoing disagreement is confusing the leadership team and stalling decision-making.`
 
-Goal:
+`Goal:
 
-Create a resolution script to help co-founders align on a unified strategic direction.
+`Create a resolution script to help co-founders align on a unified strategic direction.`
 
-Prompt:
+`Prompt:`
 
-*"You are a startup strategy mediator. Draft a resolution script for a meeting between two co-founders with differing growth strategies. Include:
-
+`*"You are a startup strategy mediator. Draft a resolution script for a meeting between two co-founders with differing growth strategies. Include:`
+```
 1. Opening & Vision Reminder – Restate the company’s mission and shared long-term goals.
 
 2. Strategic Position Sharing – Allow each founder to present their approach with data-backed reasoning.
@@ -2143,11 +2143,11 @@ Prompt:
 5. Decision Framework – Agree on a decision-making process for future strategic disputes.
 
 6. Execution Agreement – Define next steps and assign responsibilities.
+```
+`Provide neutral language to maintain mutual respect."*`
 
-Provide neutral language to maintain mutual respect."*
-
-Inputs:
-
+`Inputs:`
+```
 1. Current company growth metrics
 
 2. Market competition data
@@ -2155,7 +2155,7 @@ Inputs:
 3. Product development stage
 
 4. Funding runway and investor expectations
-
+```
 Prompt 11 – Customer Service & Product Team Misalignment
 
 Backstory:
