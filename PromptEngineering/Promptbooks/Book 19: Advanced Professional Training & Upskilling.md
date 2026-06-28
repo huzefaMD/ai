@@ -803,7 +803,7 @@ Create a simulation exercise that improves prioritization and time management sk
 
 `Prompt:`
 
-"You are an education quality consultant. Create a best practices handbook for K-12 teachers in a private school network, covering lesson planning templates, differentiated instruction strategies, interactive classroom engagement methods, student performance tracking, parent-teacher communication protocols, integration of digital learning tools, and regular peer review sessions for teachers." Inputs Required from User: Curriculum followed (CBSE, ICSE, IB, etc.) Student-teacher ratio Existing teacher training programs Available digital tools and resources`
+`"You are an education quality consultant. Create a best practices handbook for K-12 teachers in a private school network, covering lesson planning templates, differentiated instruction strategies, interactive classroom engagement methods, student performance tracking, parent-teacher communication protocols, integration of digital learning tools, and regular peer review sessions for teachers." Inputs Required from User: Curriculum followed (CBSE, ICSE, IB, etc.) Student-teacher ratio Existing teacher training programs Available digital tools and resources`
 
 ## Manufacturing Industry Lean Operations Guidelines
 
