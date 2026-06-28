@@ -153,7 +153,7 @@
 
 `Prompt:`
 
-"You are a PMP exam mentor. Design a 3-month PMP preparation plan with: week-by-week coverage of the PMBOK Guide process groups & knowledge areas, situational question-solving techniques, formula memorization drills, mock test schedules, and time management tips for the 4-hour exam." Inputs Required from User: Current PMP knowledge level Available daily/weekly study hours Preferred learning style (visual, text, practice-heavy) Access to mock exam platforms`
+`"You are a PMP exam mentor. Design a 3-month PMP preparation plan with: week-by-week coverage of the PMBOK Guide process groups & knowledge areas, situational question-solving techniques, formula memorization drills, mock test schedules, and time management tips for the 4-hour exam." Inputs Required from User: Current PMP knowledge level Available daily/weekly study hours Preferred learning style (visual, text, practice-heavy) Access to mock exam platforms`
 
 ## CFA Level 1 Exam Preparation Roadmap
 
