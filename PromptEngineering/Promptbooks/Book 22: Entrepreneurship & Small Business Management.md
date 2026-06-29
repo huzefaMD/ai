@@ -649,64 +649,64 @@ Prompt:
 
 ## Process Optimisation Guide for a Street Food Stall Chain
 
-Backstory:
+`Backstory:`
 
-Imran, 28, operates three popular street food stalls in Ahmedabad. Quality and taste vary between locations because recipes are not standardised. Ingredient shortages occur due to irregular supplier schedules. Staff turnover is high, and there is no formal training system.
+`Imran, 28, operates three popular street food stalls in Ahmedabad. Quality and taste vary between locations because recipes are not standardised. Ingredient shortages occur due to irregular supplier schedules. Staff turnover is high, and there is no formal training system.`
 
-Goal:
+`Goal:`
 
-Standardise food quality and improve supply consistency.
+`Standardise food quality and improve supply consistency.`
 
-Prompt:
+`Prompt:`
 
-"You are a food business process consultant. Create a process optimisation guide for a small street food chain. Include: Standardised recipes and portion sizes. Supplier contracts with fixed delivery schedules. Training manual for new staff. Hygiene and safety SOPs. Daily sales and wastage tracking system." Inputs Required: Number of menu items Number of stalls and staff per stall Average daily sales volume Supplier list
+`"You are a food business process consultant. Create a process optimisation guide for a small street food chain. Include: Standardised recipes and portion sizes. Supplier contracts with fixed delivery schedules. Training manual for new staff. Hygiene and safety SOPs. Daily sales and wastage tracking system." Inputs Required: Number of menu items Number of stalls and staff per stall Average daily sales volume Supplier list`
 
-Process Optimisation Guide for a Small Fashion Boutique
+## Process Optimisation Guide for a Small Fashion Boutique
 
-Backstory:
+`Backstory:`
 
-Nidhi, 30, runs a small boutique in Mumbai selling designer clothes. She struggles with managing seasonal stock, tracking orders for customised outfits, and coordinating with tailors. Delays in fittings and alterations cause missed delivery dates.
+`Nidhi, 30, runs a small boutique in Mumbai selling designer clothes. She struggles with managing seasonal stock, tracking orders for customised outfits, and coordinating with tailors. Delays in fittings and alterations cause missed delivery dates.`
 
-Goal:
+`Goal:`
 
-Streamline order management, tailoring, and customer delivery.
+`Streamline order management, tailoring, and customer delivery.`
 
-Prompt:
+`Prompt:`
 
-"You are a fashion retail operations consultant. Create a process optimisation guide for a boutique. Include: Order intake and measurement recording process. Tailoring and alteration tracking system. Seasonal stock rotation strategy. Quality control for finished garments. Customer delivery and follow-up process." Inputs Required: Number of active designs in stock Number of tailors Average monthly custom orders Fabric suppliers
+`"You are a fashion retail operations consultant. Create a process optimisation guide for a boutique. Include: Order intake and measurement recording process. Tailoring and alteration tracking system. Seasonal stock rotation strategy. Quality control for finished garments. Customer delivery and follow-up process." Inputs Required: Number of active designs in stock Number of tailors Average monthly custom orders Fabric suppliers`
 
-Process Optimisation Guide for a Bookstore-Café
+## Process Optimisation Guide for a Bookstore-Café
 
-Backstory:
+`Backstory:`
 
-Arjun, 32, owns a bookstore-café in Kochi. He struggles to balance inventory between books and café supplies, leading to stockouts in both areas. Staff roles overlap, causing confusion during busy hours, and events like book readings are often poorly coordinated.
+`Arjun, 32, owns a bookstore-café in Kochi. He struggles to balance inventory between books and café supplies, leading to stockouts in both areas. Staff roles overlap, causing confusion during busy hours, and events like book readings are often poorly coordinated.`
 
-Goal:
+`Goal:`
 
-Integrate book and café operations into a seamless process.
+`Integrate book and café operations into a seamless process.`
 
-Prompt:
+`Prompt:`
 
-"You are a hybrid business operations consultant. Create a process optimisation guide for a bookstore-café. Include: Inventory tracking for both books and café supplies. Staff role allocation and shift planning. Event coordination process for readings and workshops. Loyalty program for regular customers. Monthly sales and footfall analysis." Inputs Required: Number of book titles stocked Café menu size Average daily footfall Event frequency
+`"You are a hybrid business operations consultant. Create a process optimisation guide for a bookstore-café. Include: Inventory tracking for both books and café supplies. Staff role allocation and shift planning. Event coordination process for readings and workshops. Loyalty program for regular customers. Monthly sales and footfall analysis." Inputs Required: Number of book titles stocked Café menu size Average daily footfall Event frequency`
 
-Process Optimisation Guide for a Small Organic Farm
+## Process Optimisation Guide for a Small Organic Farm
 
-Backstory:
+`Backstory:`
 
-Prakash, 38, runs a 3-acre organic farm in Maharashtra selling produce directly to local customers. Harvesting schedules are inconsistent, leading to either surplus or shortage. He struggles with coordinating delivery routes and maintaining proper storage for perishable goods.
+`Prakash, 38, runs a 3-acre organic farm in Maharashtra selling produce directly to local customers. Harvesting schedules are inconsistent, leading to either surplus or shortage. He struggles with coordinating delivery routes and maintaining proper storage for perishable goods.`
 
-Goal:
+`Goal:`
 
-Create a farm-to-customer process that reduces waste and improves delivery efficiency.
+`Create a farm-to-customer process that reduces waste and improves delivery efficiency.`
 
-Prompt:
+`Prompt:`
 
-"You are an agricultural process consultant. Create a process optimisation guide for a small organic farm. Include: Crop planning and harvesting schedules. Storage and packaging best practices for freshness. Delivery route planning for efficiency. Customer order management system. Seasonal marketing strategies." Inputs Required: Types of crops grown Average weekly yield per crop Delivery areas covered Storage facilities available
+`"You are an agricultural process consultant. Create a process optimisation guide for a small organic farm. Include: Crop planning and harvesting schedules. Storage and packaging best practices for freshness. Delivery route planning for efficiency. Customer order management system. Seasonal marketing strategies." Inputs Required: Types of crops grown Average weekly yield per crop Delivery areas covered Storage facilities available`
 
 
-Investor Pitch Deck Prompts
+# Investor Pitch Deck Prompts
 
-Seed-Stage Pitch Deck for a Sustainable Packaging Startup
+## Seed-Stage Pitch Deck for a Sustainable Packaging Startup
 
 Backstory:
 
