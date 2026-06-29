@@ -212,21 +212,21 @@
 
 ## Pricing Strategy Analysis for a Language Learning App
 
-Backstory:
+`Backstory:`
 
-Priya, 27, developed a mobile app that teaches spoken Hindi, Tamil, and Bengali to non-native speakers. The app includes beginner-to-advanced lessons, voice recognition for pronunciation feedback, and gamified quizzes. She’s deciding between a freemium model, where only core lessons are free, and a subscription model for full access. Competitors range from free apps with ads to premium courses costing ₹5,000+ annually.
+`Priya, 27, developed a mobile app that teaches spoken Hindi, Tamil, and Bengali to non-native speakers. The app includes beginner-to-advanced lessons, voice recognition for pronunciation feedback, and gamified quizzes. She’s deciding between a freemium model, where only core lessons are free, and a subscription model for full access. Competitors range from free apps with ads to premium courses costing ₹5,000+ annually.`
 
-Goal:
+`Goal:`
 
-Determine the most profitable pricing model without alienating new users.
+`Determine the most profitable pricing model without alienating new users.`
 
-Prompt:
+`Prompt:`
 
-"You are a SaaS product pricing consultant. Create a pricing strategy for a multilingual learning app. Include: Competitor freemium vs subscription success analysis. Tiered subscription options with feature breakdown. Strategies for converting free users to paid users. Regional pricing recommendations for Tier 1 and Tier 2 cities. Limited-time offers for onboarding early users." Inputs Required: Cost per active monthly user Marketing budget per month Average session time Competitor subscription rates
+`"You are a SaaS product pricing consultant. Create a pricing strategy for a multilingual learning app. Include: Competitor freemium vs subscription success analysis. Tiered subscription options with feature breakdown. Strategies for converting free users to paid users. Regional pricing recommendations for Tier 1 and Tier 2 cities. Limited-time offers for onboarding early users." Inputs Required: Cost per active monthly user Marketing budget per month Average session time Competitor subscription rates`
 
-Pricing Strategy Analysis for a Local Fitness Studio
+## Pricing Strategy Analysis for a Local Fitness Studio
 
-Backstory:
+`Backstory:`
 
 Amit, 31, opened a boutique fitness studio in Bengaluru offering yoga, HIIT, and Zumba classes. He’s competing with large gym chains and online fitness apps. His classes have a personalised touch with smaller batch sizes. Currently, he offers monthly memberships at ₹2,500 but wants to explore class packs and corporate tie-ups.
 
