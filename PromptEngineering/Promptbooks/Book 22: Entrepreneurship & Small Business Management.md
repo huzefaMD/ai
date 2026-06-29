@@ -268,92 +268,92 @@
 
 ## Pricing Strategy Analysis for a Co-Working Space
 
-Backstory:
+`Backstory:`
 
-Sneha, 32, operates a co-working space in Pune with 100 seats, private cabins, and meeting rooms. She’s competing with big chains offering rock-bottom rates for long-term contracts. Her advantage is location and community events, but she needs pricing that highlights value without racing to the bottom.
+`Sneha, 32, operates a co-working space in Pune with 100 seats, private cabins, and meeting rooms. She’s competing with big chains offering rock-bottom rates for long-term contracts. Her advantage is location and community events, but she needs pricing that highlights value without racing to the bottom.`
 
-Goal:
+`Goal:`
 
-Set competitive yet value-driven pricing for different seat and cabin configurations.
+`Set competitive yet value-driven pricing for different seat and cabin configurations.`
 
-Prompt:
+`Prompt:`
 
-"You are a real estate and workspace pricing strategist. Create a pricing plan for a co-working space. Include: Flexible daily, weekly, and monthly rates. Private cabin premium calculation. Discounting model for long-term contracts. Event-based pricing for meeting rooms." Inputs Required: Occupancy rate by seat type Competitor rates in the area Facility maintenance cost per seat Seasonal demand variation
+`"You are a real estate and workspace pricing strategist. Create a pricing plan for a co-working space. Include: Flexible daily, weekly, and monthly rates. Private cabin premium calculation. Discounting model for long-term contracts. Event-based pricing for meeting rooms." Inputs Required: Occupancy rate by seat type Competitor rates in the area Facility maintenance cost per seat Seasonal demand variation`
 
-Pricing Strategy Analysis for an Online Handmade Jewellery Store
+## VPricing Strategy Analysis for an Online Handmade Jewellery Store
 
-Backstory:
+`Backstory:`
 
-Shalini, 28, sells handmade silver and gemstone jewellery via Instagram and Etsy. She struggles to price her products competitively because raw material costs fluctuate. She wants a formula that automatically adjusts her prices while keeping them attractive to buyers.
+`Shalini, 28, sells handmade silver and gemstone jewellery via Instagram and Etsy. She struggles to price her products competitively because raw material costs fluctuate. She wants a formula that automatically adjusts her prices while keeping them attractive to buyers.`
 
-Goal:
+`Goal:`
 
-Develop a dynamic pricing model based on cost changes and market demand.
+`Develop a dynamic pricing model based on cost changes and market demand.`
 
-Prompt:
+`Prompt:`
 
-"You are an e-commerce jewellery pricing expert. Create a dynamic pricing formula. Include: Raw material cost variation tracking. Competitor price monitoring tools. Premium pricing triggers for festive seasons. Discounts for bulk buyers." Inputs Required: Current silver/gemstone rates Average production time per item Competitor price range Seasonal sales trends
+`"You are an e-commerce jewellery pricing expert. Create a dynamic pricing formula. Include: Raw material cost variation tracking. Competitor price monitoring tools. Premium pricing triggers for festive seasons. Discounts for bulk buyers." Inputs Required: Current silver/gemstone rates Average production time per item Competitor price range Seasonal sales trends`
 
-Pricing Strategy Analysis for a Pet Grooming Salon
+## Pricing Strategy Analysis for a Pet Grooming Salon
 
-Backstory:
+`Backstory:`
 
-Manav, 34, runs a pet grooming salon in Chandigarh. He offers basic grooming, spa treatments, and vet checkups. Competitors in the area have highly varied pricing. He’s considering adding a subscription model for regular grooming customers.
+`Manav, 34, runs a pet grooming salon in Chandigarh. He offers basic grooming, spa treatments, and vet checkups. Competitors in the area have highly varied pricing. He’s considering adding a subscription model for regular grooming customers.`
 
-Goal:
+`Goal:`
 
-Create a balanced per-service and subscription-based pricing structure.
+`Create a balanced per-service and subscription-based pricing structure.`
 
-Prompt:
+`Prompt:`
 
-"You are a pet services pricing consultant. Design pricing for a grooming salon. Include: Per-service pricing by pet size. Subscription packages for frequent clients. Festive/seasonal promotional rates. Cross-selling opportunities with pet accessories." Inputs Required: Cost per grooming session Average visit frequency Competitor subscription rates Space and equipment costs
+`"You are a pet services pricing consultant. Design pricing for a grooming salon. Include: Per-service pricing by pet size. Subscription packages for frequent clients. Festive/seasonal promotional rates. Cross-selling opportunities with pet accessories." Inputs Required: Cost per grooming session Average visit frequency Competitor subscription rates Space and equipment costs`
 
-Pricing Strategy Analysis for a Local Bakery
+## Pricing Strategy Analysis for a Local Bakery
 
-Backstory:
+`Backstory:`
 
-Divya, 30, owns a bakery in Lucknow specializing in custom cakes and pastries. She’s considering offering tiered cake pricing based on flavour, design complexity, and delivery location. She also wants to increase margins on smaller, impulse-purchase items.
+`Divya, 30, owns a bakery in Lucknow specializing in custom cakes and pastries. She’s considering offering tiered cake pricing based on flavour, design complexity, and delivery location. She also wants to increase margins on smaller, impulse-purchase items.`
 
-Goal:
+`Goal:`
 
-Develop a pricing system that captures full value while staying attractive.
+`Develop a pricing system that captures full value while staying attractive.`
 
-Prompt:
+`Prompt:`
 
-"You are a bakery pricing strategist. Create a tiered pricing system for cakes and pastries. Include: Base price for standard designs. Complexity-based surcharges. Delivery-based price variations. Impulse-item upselling strategy." Inputs Required: Ingredient cost per product Staff labour per order Delivery radius and cost Competitor product pricing
+`"You are a bakery pricing strategist. Create a tiered pricing system for cakes and pastries. Include: Base price for standard designs. Complexity-based surcharges. Delivery-based price variations. Impulse-item upselling strategy." Inputs Required: Ingredient cost per product Staff labour per order Delivery radius and cost Competitor product pricing`
 
-Pricing Strategy Analysis for a Travel Planning Service
+## VPricing Strategy Analysis for a Travel Planning Service
 
-Backstory:
+`Backstory:`
 
-Aniket, 31, runs a personalised travel planning service. He helps clients design unique itineraries, book accommodations, and arrange activities. Competitors either charge a flat consulting fee or earn from commissions. Aniket wants to test hybrid models.
+`Aniket, 31, runs a personalised travel planning service. He helps clients design unique itineraries, book accommodations, and arrange activities. Competitors either charge a flat consulting fee or earn from commissions. Aniket wants to test hybrid models.`
 
-Goal:
+`Goal:`
 
-Select the most sustainable pricing model for a travel planning service.
+`Select the most sustainable pricing model for a travel planning service.`
 
-Prompt:
+`Prompt:`
 
-"You are a travel industry pricing advisor. Design a hybrid pricing model. Include: Flat planning fee + commission structure. Tiered pricing for domestic vs international trips. Loyalty discounts for repeat clients. Premium charges for last-minute planning." Inputs Required: Average trip cost per client Time spent per itinerary Commission rates from vendors Competitor pricing models
+`"You are a travel industry pricing advisor. Design a hybrid pricing model. Include: Flat planning fee + commission structure. Tiered pricing for domestic vs international trips. Loyalty discounts for repeat clients. Premium charges for last-minute planning." Inputs Required: Average trip cost per client Time spent per itinerary Commission rates from vendors Competitor pricing models`
 
-Pricing Strategy Analysis for a Freelance Graphic Design Business
+## Pricing Strategy Analysis for a Freelance Graphic Design Business
 
-Backstory:
+`Backstory:`
 
-Meera, 26, works as a freelance graphic designer creating logos, social media creatives, and brand kits. She currently charges hourly rates but is considering moving to project-based pricing. She’s unsure how to value her time without underpricing her skills.
+`Meera, 26, works as a freelance graphic designer creating logos, social media creatives, and brand kits. She currently charges hourly rates but is considering moving to project-based pricing. She’s unsure how to value her time without underpricing her skills.`
 
-Goal:
+`Goal:`
 
-Shift from hourly to project-based pricing without losing clients.
+`Shift from hourly to project-based pricing without losing clients.`
 
-Prompt:
+`Prompt:`
 
-"You are a creative services pricing consultant. Create a project-based pricing model for graphic design. Include: Price calculation formula based on hours and complexity. Retainer packages for long-term clients. Premium charges for urgent projects. Scope definition to avoid extra work without pay." Inputs Required: Average hours per project Client budget range Competitor project-based rates Types of design services offered
+`"You are a creative services pricing consultant. Create a project-based pricing model for graphic design. Include: Price calculation formula based on hours and complexity. Retainer packages for long-term clients. Premium charges for urgent projects. Scope definition to avoid extra work without pay." Inputs Required: Average hours per project Client budget range Competitor project-based rates Types of design services offered`
 
 
-Process Optimisation Guides
+# Process Optimisation Guides
 
-Process Optimisation Guide for a Handmade Apparel E-Commerce Brand
+## Process Optimisation Guide for a Handmade Apparel E-Commerce Brand
 
 Backstory:
 
