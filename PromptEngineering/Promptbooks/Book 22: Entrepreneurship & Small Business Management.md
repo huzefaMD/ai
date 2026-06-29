@@ -228,45 +228,45 @@
 
 `Backstory:`
 
-Amit, 31, opened a boutique fitness studio in Bengaluru offering yoga, HIIT, and Zumba classes. He’s competing with large gym chains and online fitness apps. His classes have a personalised touch with smaller batch sizes. Currently, he offers monthly memberships at ₹2,500 but wants to explore class packs and corporate tie-ups.
+`Amit, 31, opened a boutique fitness studio in Bengaluru offering yoga, HIIT, and Zumba classes. He’s competing with large gym chains and online fitness apps. His classes have a personalised touch with smaller batch sizes. Currently, he offers monthly memberships at ₹2,500 but wants to explore class packs and corporate tie-ups.`
 
-Goal:
+`Goal:`
 
-Create a flexible yet premium pricing plan to attract both individuals and corporate clients.
+`Create a flexible yet premium pricing plan to attract both individuals and corporate clients.`
 
-Prompt:
+`Prompt:`
 
-"You are a fitness industry pricing strategist. Design a pricing model for a boutique fitness studio. Include: Membership vs class-pack comparison. Corporate wellness pricing packages. Seasonal discounts to boost low-demand months. Loyalty rewards for long-term members. Pricing psychology to promote higher-value memberships." Inputs Required: Studio capacity per class Instructor salary per session Competitor rates for similar formats Target monthly revenue
+`"You are a fitness industry pricing strategist. Design a pricing model for a boutique fitness studio. Include: Membership vs class-pack comparison. Corporate wellness pricing packages. Seasonal discounts to boost low-demand months. Loyalty rewards for long-term members. Pricing psychology to promote higher-value memberships." Inputs Required: Studio capacity per class Instructor salary per session Competitor rates for similar formats Target monthly revenue`
 
-Pricing Strategy Analysis for a Cloud Kitchen
+## Pricing Strategy Analysis for a Cloud Kitchen
 
-Backstory:
+`Backstory:`
 
-Neha, 30, operates a cloud kitchen in Delhi offering gourmet biryani and kebabs. She sells via Swiggy and Zomato but wants to increase her direct order share. Delivery platforms take a 25–30% commission, which is cutting into her margins. She’s considering adjusting menu prices depending on the channel.
+`Neha, 30, operates a cloud kitchen in Delhi offering gourmet biryani and kebabs. She sells via Swiggy and Zomato but wants to increase her direct order share. Delivery platforms take a 25–30% commission, which is cutting into her margins. She’s considering adjusting menu prices depending on the channel.`
 
-Goal:
+`Goal:`
 
-Create a dual-channel pricing strategy to maximize profits without losing customers.
+`Create a dual-channel pricing strategy to maximize profits without losing customers.`
 
-Prompt:
+`Prompt:`
 
-"You are a food service pricing analyst. Develop a pricing strategy for a cloud kitchen selling on aggregators and direct. Include: Aggregator menu vs direct order menu pricing difference. Bundled meal pricing to increase average order value. Impact analysis of delivery charges on customer behaviour. Suggestions for limited-time promotions during festivals." Inputs Required: Food cost percentage per dish Average order size via each channel Commission rates for delivery apps Direct order platform setup cost
+`"You are a food service pricing analyst. Develop a pricing strategy for a cloud kitchen selling on aggregators and direct. Include: Aggregator menu vs direct order menu pricing difference. Bundled meal pricing to increase average order value. Impact analysis of delivery charges on customer behaviour. Suggestions for limited-time promotions during festivals." Inputs Required: Food cost percentage per dish Average order size via each channel Commission rates for delivery apps Direct order platform setup cost`
 
-Pricing Strategy Analysis for a Social Media Marketing Agency
+## Pricing Strategy Analysis for a Social Media Marketing Agency
 
-Backstory:
+`Backstory:`
 
-Kabir, 29, runs a boutique social media agency in Hyderabad serving small businesses. He charges a flat monthly fee but often ends up doing extra work like video editing and paid ad management without charging more. Competitors have started offering performance-based pricing.
+`Kabir, 29, runs a boutique social media agency in Hyderabad serving small businesses. He charges a flat monthly fee but often ends up doing extra work like video editing and paid ad management without charging more. Competitors have started offering performance-based pricing.`
 
-Goal:
+`Goal:`
 
-Revamp pricing to ensure fair pay and competitive positioning.
+`Revamp pricing to ensure fair pay and competitive positioning.`
 
-Prompt:
+`Prompt:`
 
-"You are a digital marketing pricing consultant. Recommend a pricing structure for a boutique agency. Include: Flat-fee vs performance-based model comparison. Hourly rates for extra services. Retainer package breakdown for different client sizes. Strategies to prevent scope creep through pricing." Inputs Required: Average hours worked per client monthly Ad spend managed per client Competitor pricing in the region Client retention rate
+`"You are a digital marketing pricing consultant. Recommend a pricing structure for a boutique agency. Include: Flat-fee vs performance-based model comparison. Hourly rates for extra services. Retainer package breakdown for different client sizes. Strategies to prevent scope creep through pricing." Inputs Required: Average hours worked per client monthly Ad spend managed per client Competitor pricing in the region Client retention rate`
 
-Pricing Strategy Analysis for a Co-Working Space
+## Pricing Strategy Analysis for a Co-Working Space
 
 Backstory:
 
