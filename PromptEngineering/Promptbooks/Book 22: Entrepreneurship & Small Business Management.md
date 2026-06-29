@@ -355,299 +355,299 @@
 
 ## Process Optimisation Guide for a Handmade Apparel E-Commerce Brand
 
-Backstory:
+`Backstory:`
 
-Ananya, 29, runs an online store selling handmade sarees and ethnic wear sourced from rural artisans. While her products are in demand, her backend operations are chaotic. Orders get delayed because she manually tracks inventory, coordinates with multiple artisans via WhatsApp, and relies on couriers without tracking integrations. She’s losing repeat customers due to fulfillment delays and occasional wrong deliveries. She wants a step-by-step process optimisation guide to handle orders, inventory, and shipping more efficiently.
+`Ananya, 29, runs an online store selling handmade sarees and ethnic wear sourced from rural artisans. While her products are in demand, her backend operations are chaotic. Orders get delayed because she manually tracks inventory, coordinates with multiple artisans via WhatsApp, and relies on couriers without tracking integrations. She’s losing repeat customers due to fulfillment delays and occasional wrong deliveries. She wants a step-by-step process optimisation guide to handle orders, inventory, and shipping more efficiently.`
 
-Goal:
+`Goal:
 
-Create a lean, tech-enabled operational workflow that reduces delivery delays, improves order accuracy, and supports scaling.
+`Create a lean, tech-enabled operational workflow that reduces delivery delays, improves order accuracy, and supports scaling.`
 
-Prompt:
+`Prompt:`
 
-"You are a business process optimisation consultant. Create a detailed process optimisation guide for a handmade apparel e-commerce store. Your guide should: Map the current order-to-delivery workflow and identify bottlenecks. Recommend digital tools for inventory management, artisan communication, and courier tracking. Suggest SOPs for order verification, packing, and quality checks. Create a training checklist for staff and artisan partners. Provide a 3-month phased implementation plan with KPIs to measure success." Inputs Required: Current monthly order volume Average order processing time Number of SKUs and artisan partners Budget for process automation tools
+`"You are a business process optimisation consultant. Create a detailed process optimisation guide for a handmade apparel e-commerce store. Your guide should: Map the current order-to-delivery workflow and identify bottlenecks. Recommend digital tools for inventory management, artisan communication, and courier tracking. Suggest SOPs for order verification, packing, and quality checks. Create a training checklist for staff and artisan partners. Provide a 3-month phased implementation plan with KPIs to measure success." Inputs Required: Current monthly order volume Average order processing time Number of SKUs and artisan partners Budget for process automation tools`
 
-Process Optimisation Guide for a Cloud Kitchen
+# Process Optimisation Guide for a Cloud Kitchen
 
-Backstory:
+`Backstory:`
 
-Raghav, 32, operates a cloud kitchen specialising in healthy meal prep subscriptions in Mumbai. His business is growing, but he’s struggling with meal preparation timing, ingredient stock-outs, and inconsistent packaging quality. He uses spreadsheets to manage orders and purchases ingredients from multiple suppliers. Food wastage is increasing because of poor forecasting, and customers occasionally receive wrong meal plans.
+`Raghav, 32, operates a cloud kitchen specialising in healthy meal prep subscriptions in Mumbai. His business is growing, but he’s struggling with meal preparation timing, ingredient stock-outs, and inconsistent packaging quality. He uses spreadsheets to manage orders and purchases ingredients from multiple suppliers. Food wastage is increasing because of poor forecasting, and customers occasionally receive wrong meal plans.`
 
-Goal:
+`Goal:`
 
-Streamline kitchen operations, procurement, and delivery to reduce wastage and improve consistency.
+`Streamline kitchen operations, procurement, and delivery to reduce wastage and improve consistency.`
 
-Prompt:
+`Prompt:`
 
-"You are a food operations process improvement expert. Develop a process optimisation guide for a cloud kitchen. Your guide should: Map the daily meal prep workflow from ingredient procurement to delivery. Recommend a demand forecasting system based on subscription patterns. Suggest quality control steps at each stage of cooking and packing. Create a supplier management SOP to prevent ingredient shortages. Outline a training module for kitchen staff to ensure standardisation." Inputs Required: Number of meal plans offered Average daily orders Supplier lead times for ingredients Current wastage percentage
+`"You are a food operations process improvement expert. Develop a process optimisation guide for a cloud kitchen. Your guide should: Map the daily meal prep workflow from ingredient procurement to delivery. Recommend a demand forecasting system based on subscription patterns. Suggest quality control steps at each stage of cooking and packing. Create a supplier management SOP to prevent ingredient shortages. Outline a training module for kitchen staff to ensure standardisation." Inputs Required: Number of meal plans offered Average daily orders Supplier lead times for ingredients Current wastage percentage`
 
-Process Optimisation Guide for a Digital Marketing Agency
+## Process Optimisation Guide for a Digital Marketing Agency
 
-Backstory:
+`Backstory:`
 
-Simran, 27, runs a small social media and SEO agency with a team of 8 freelancers and part-time employees. Projects often miss deadlines due to poor task allocation, delayed client approvals, and overlapping responsibilities. She uses Google Drive and Trello but finds files misplaced and communication scattered. She wants a system that ensures transparency, accountability, and smoother client delivery.
+`Simran, 27, runs a small social media and SEO agency with a team of 8 freelancers and part-time employees. Projects often miss deadlines due to poor task allocation, delayed client approvals, and overlapping responsibilities. She uses Google Drive and Trello but finds files misplaced and communication scattered. She wants a system that ensures transparency, accountability, and smoother client delivery.`
 
-Goal:
+`Goal:`
 
-Build a scalable project management workflow to handle multiple clients without delays.
+`Build a scalable project management workflow to handle multiple clients without delays.`
 
-Prompt:
+`Prompt:`
 
-"You are an agency workflow optimisation consultant. Create a process optimisation guide for a digital marketing agency. Include: A client onboarding SOP with document and asset collection steps. Task allocation and deadline setting framework for remote teams. File management and naming conventions for shared drives. A client approval process to avoid bottlenecks. A dashboard format to track project progress across all accounts." Inputs Required: Number of active clients Tools currently used for task management Average project duration Communication preferences (email, Slack, etc.)
+`"You are an agency workflow optimisation consultant. Create a process optimisation guide for a digital marketing agency. Include: A client onboarding SOP with document and asset collection steps. Task allocation and deadline setting framework for remote teams. File management and naming conventions for shared drives. A client approval process to avoid bottlenecks. A dashboard format to track project progress across all accounts." Inputs Required: Number of active clients Tools currently used for task management Average project duration Communication preferences (email, Slack, etc.)`
 
-Process Optimisation Guide for a Boutique Fitness Studio
+## Process Optimisation Guide for a Boutique Fitness Studio
 
-Backstory:
+`Backstory:`
 
-Ayesha, 31, owns a boutique fitness studio in Gurugram offering Pilates, functional training, and Zumba. She has three trainers, but class schedules often clash, members sometimes show up for full classes without prior booking, and payment tracking is inconsistent. This leads to trainer downtime, member dissatisfaction, and revenue leakage.
+`Ayesha, 31, owns a boutique fitness studio in Gurugram offering Pilates, functional training, and Zumba. She has three trainers, but class schedules often clash, members sometimes show up for full classes without prior booking, and payment tracking is inconsistent. This leads to trainer downtime, member dissatisfaction, and revenue leakage.`
 
-Goal:
+`Goal:`
 
-Create a system for class scheduling, member management, and payment tracking that runs smoothly.
+`Create a system for class scheduling, member management, and payment tracking that runs smoothly.`
 
-Prompt:
+`Prompt:`
 
-"You are a fitness operations process expert. Create a detailed process optimisation guide for a boutique studio. Your guide should: Implement an online booking and class cap system. Automate membership renewals and payment reminders. Create SOPs for trainer substitutions and emergency cancellations. Suggest ways to optimise trainer schedules for maximum utilisation. Provide monthly reporting templates for attendance and revenue tracking." Inputs Required: Number of classes per week Average class size Trainer availability Current payment tracking method
+`"You are a fitness operations process expert. Create a detailed process optimisation guide for a boutique studio. Your guide should: Implement an online booking and class cap system. Automate membership renewals and payment reminders. Create SOPs for trainer substitutions and emergency cancellations. Suggest ways to optimise trainer schedules for maximum utilisation. Provide monthly reporting templates for attendance and revenue tracking." Inputs Required: Number of classes per week Average class size Trainer availability Current payment tracking method`
 
-Process Optimisation Guide for a Handmade Chocolate Manufacturing Unit
+## Process Optimisation Guide for a Handmade Chocolate Manufacturing Unit
 
-Backstory:
+`Backstory:`
 
-Mehul, 34, runs a small artisanal chocolate business in Ahmedabad. His unit produces 500–800 bars per week. He struggles with maintaining production consistency, tracking raw cocoa bean quality, and scheduling deliveries for both B2B and B2C orders. Seasonal festivals increase demand, but his current workflow can’t scale without errors.
+`Mehul, 34, runs a small artisanal chocolate business in Ahmedabad. His unit produces 500–800 bars per week. He struggles with maintaining production consistency, tracking raw cocoa bean quality, and scheduling deliveries for both B2B and B2C orders. Seasonal festivals increase demand, but his current workflow can’t scale without errors.`
 
-Goal:
+`Goal:`
 
-Standardise production, quality checks, and seasonal scaling processes.
+`Standardise production, quality checks, and seasonal scaling processes.`
 
-Prompt:
+`Prompt:`
 
-"You are a small-scale manufacturing process consultant. Develop a process optimisation guide for an artisanal chocolate business. Include: A production flowchart with quality checkpoints at each stage. Raw material inspection SOPs for cocoa beans and ingredients. Demand-based production scheduling for seasonal peaks. Packing and labelling guidelines to ensure consistency. Delivery routing suggestions to optimise time and cost." Inputs Required: Current weekly production capacity Supplier lead times Peak season demand percentage increase Number of retail partners and direct customers
+`"You are a small-scale manufacturing process consultant. Develop a process optimisation guide for an artisanal chocolate business. Include: A production flowchart with quality checkpoints at each stage. Raw material inspection SOPs for cocoa beans and ingredients. Demand-based production scheduling for seasonal peaks. Packing and labelling guidelines to ensure consistency. Delivery routing suggestions to optimise time and cost." Inputs Required: Current weekly production capacity Supplier lead times Peak season demand percentage increase Number of retail partners and direct customers`
 
-Process Optimisation Guide for a Co-Working Space
+## Process Optimisation Guide for a Co-Working Space
 
-Backstory:
+`Backstory:`
 
-Prateek, 30, manages a mid-sized co-working space in Bengaluru catering to freelancers, startups, and small agencies. His biggest issues are under-utilised meeting rooms, inconsistent maintenance schedules, and delayed resolution of member complaints. Billing is handled manually, which causes errors and delayed payments. He wants a process that maximises occupancy, ensures smooth facility management, and improves customer satisfaction.
+`Prateek, 30, manages a mid-sized co-working space in Bengaluru catering to freelancers, startups, and small agencies. His biggest issues are under-utilised meeting rooms, inconsistent maintenance schedules, and delayed resolution of member complaints. Billing is handled manually, which causes errors and delayed payments. He wants a process that maximises occupancy, ensures smooth facility management, and improves customer satisfaction.`
 
-Goal:
+`Goal:`
 
-Create a centralised workflow for space utilisation, billing automation, and member support.
+`Create a centralised workflow for space utilisation, billing automation, and member support.`
 
-Prompt:
+`Prompt:`
 
-"You are a workspace operations consultant. Create a process optimisation guide for a co-working space that includes: A booking system for desks, meeting rooms, and event spaces with real-time availability. Automated invoicing and payment tracking. Preventive maintenance schedules for facilities and equipment. A complaint resolution SOP with defined turnaround times. Occupancy analytics to optimise layout and pricing." Inputs Required: Number of desks and meeting rooms Average monthly occupancy rate Current billing method Staff strength for facility management
+`"You are a workspace operations consultant. Create a process optimisation guide for a co-working space that includes: A booking system for desks, meeting rooms, and event spaces with real-time availability. Automated invoicing and payment tracking. Preventive maintenance schedules for facilities and equipment. A complaint resolution SOP with defined turnaround times. Occupancy analytics to optimise layout and pricing." Inputs Required: Number of desks and meeting rooms Average monthly occupancy rate Current billing method Staff strength for facility management`
 
-Process Optimisation Guide for a Home-Based Bakery
+## Process Optimisation Guide for a Home-Based Bakery
 
-Backstory:
+`Backstory:`
 
-Ishita, 26, runs a home-based bakery in Kolkata selling customised cakes and desserts. She gets most orders via Instagram DMs, which makes it difficult to track inquiries and payments. Last-minute rush orders disrupt her baking schedule, and inconsistent supplier delivery impacts ingredient freshness. She wants a streamlined process to manage orders, supplies, and deliveries without burnout.
+`Ishita, 26, runs a home-based bakery in Kolkata selling customised cakes and desserts. She gets most orders via Instagram DMs, which makes it difficult to track inquiries and payments. Last-minute rush orders disrupt her baking schedule, and inconsistent supplier delivery impacts ingredient freshness. She wants a streamlined process to manage orders, supplies, and deliveries without burnout.`
 
-Goal:
+`Goal:`
 
-Create an order and inventory management process that reduces last-minute chaos.
+`Create an order and inventory management process that reduces last-minute chaos.`
 
-Prompt:
+`Prompt:`
 
-"You are a bakery operations expert. Develop a process optimisation guide for a home-based bakery. Include: A standard inquiry-to-confirmation process with advance payment collection. Supplier coordination and inventory tracking methods. Production scheduling to manage multiple orders efficiently. Delivery partnerships and SOPs for safe packaging. Seasonal menu planning for festive rush periods." Inputs Required: Average number of orders per week Lead time needed per order Number of regular suppliers Delivery methods used
+`"You are a bakery operations expert. Develop a process optimisation guide for a home-based bakery. Include: A standard inquiry-to-confirmation process with advance payment collection. Supplier coordination and inventory tracking methods. Production scheduling to manage multiple orders efficiently. Delivery partnerships and SOPs for safe packaging. Seasonal menu planning for festive rush periods." Inputs Required: Average number of orders per week Lead time needed per order Number of regular suppliers Delivery methods used`
 
-Process Optimisation Guide for a Local Event Management Company
+# Process Optimisation Guide for a Local Event Management Company
 
-Backstory:
+`Backstory:`
 
-Karan, 33, runs a small event company in Jaipur managing weddings, corporate functions, and private parties. His team often faces last-minute crises due to vendor delays, unclear client briefs, and poor on-site communication. He uses WhatsApp groups for coordination, which makes it hard to track responsibilities and progress.
+`Karan, 33, runs a small event company in Jaipur managing weddings, corporate functions, and private parties. His team often faces last-minute crises due to vendor delays, unclear client briefs, and poor on-site communication. He uses WhatsApp groups for coordination, which makes it hard to track responsibilities and progress.`
 
-Goal:
+`Goal:`
 
-Implement a structured event execution and vendor management system.
+`Implement a structured event execution and vendor management system.`
 
-Prompt:
+`Prompt:`
 
-"You are an event operations strategist. Create a process optimisation guide for a small event company that covers: Client onboarding and detailed requirement documentation. Vendor sourcing and contract management SOPs. Event-day execution checklist and task assignments. Communication channels for real-time updates. Post-event review and vendor performance tracking." Inputs Required: Number of events per month Types of events handled Vendor categories used Average team size per event
+`"You are an event operations strategist. Create a process optimisation guide for a small event company that covers: Client onboarding and detailed requirement documentation. Vendor sourcing and contract management SOPs. Event-day execution checklist and task assignments. Communication channels for real-time updates. Post-event review and vendor performance tracking." Inputs Required: Number of events per month Types of events handled Vendor categories used Average team size per event`
 
-Process Optimisation Guide for a Small IT Services Firm
+## Process Optimisation Guide for a Small IT Services Firm
 
-Backstory:
+`Backstory:`
 
-Rahul, 28, runs a web and app development agency with 12 employees in Pune. He struggles with delayed project delivery due to unclear task breakdowns, lack of standard coding practices, and poor time estimation. Client change requests derail timelines, and there is no formal QA process in place.
+`Rahul, 28, runs a web and app development agency with 12 employees in Pune. He struggles with delayed project delivery due to unclear task breakdowns, lack of standard coding practices, and poor time estimation. Client change requests derail timelines, and there is no formal QA process in place.`
 
-Goal:
+`Goal:`
 
-Standardise project workflows to improve delivery speed and quality.
+`Standardise project workflows to improve delivery speed and quality.`
 
-Prompt:
+`Prompt:`
 
-"You are an IT process optimisation consultant. Develop a process optimisation guide for a small IT firm. Your guide should: Define a project initiation checklist and task breakdown format. Introduce standard coding and documentation guidelines. Implement a change request process to manage scope creep. Create a QA and testing SOP for all deliverables. Suggest project tracking dashboards for clients and internal teams." Inputs Required: Number of projects handled at a time Tech stack used Average project size and budget Client feedback mechanisms in place
+`"You are an IT process optimisation consultant. Develop a process optimisation guide for a small IT firm. Your guide should: Define a project initiation checklist and task breakdown format. Introduce standard coding and documentation guidelines. Implement a change request process to manage scope creep. Create a QA and testing SOP for all deliverables. Suggest project tracking dashboards for clients and internal teams." Inputs Required: Number of projects handled at a time Tech stack used Average project size and budget Client feedback mechanisms in place`
 
-Process Optimisation Guide for a Small Logistics Company
+## Process Optimisation Guide for a Small Logistics Company
 
-Backstory:
+`Backstory:`
 
-Devendra, 35, operates a small courier and delivery service in Indore. His challenges include inefficient route planning, high fuel costs, and delays in delivery updates to clients. Tracking is manual, and there is no clear escalation process for lost or damaged goods.
+`Devendra, 35, operates a small courier and delivery service in Indore. His challenges include inefficient route planning, high fuel costs, and delays in delivery updates to clients. Tracking is manual, and there is no clear escalation process for lost or damaged goods.`
 
-Goal:
+`Goal:`
 
-Reduce delivery times and operational costs through better planning and tracking.
+`Reduce delivery times and operational costs through better planning and tracking.`
 
-Prompt:
+`Prompt:`
 
-"You are a logistics process improvement consultant. Create a process optimisation guide for a small courier company. Include: Route optimisation methods using technology. Real-time delivery tracking and customer notification systems. SOP for handling lost/damaged goods and client compensation. Preventive vehicle maintenance schedules. KPIs for delivery time, cost per trip, and customer satisfaction." Inputs Required: Number of delivery vehicles Average delivery distance Current delivery tracking method Monthly order volume
+`"You are a logistics process improvement consultant. Create a process optimisation guide for a small courier company. Include: Route optimisation methods using technology. Real-time delivery tracking and customer notification systems. SOP for handling lost/damaged goods and client compensation. Preventive vehicle maintenance schedules. KPIs for delivery time, cost per trip, and customer satisfaction." Inputs Required: Number of delivery vehicles Average delivery distance Current delivery tracking method Monthly order volume`
 
-Process Optimisation Guide for a Microbrewery
+## Process Optimisation Guide for a Microbrewery
 
-Backstory:
+`Backstory:`
 
-Siddharth, 34, co-owns a microbrewery in Goa. They struggle with inventory management for ingredients like hops and yeast, inconsistent brewing quality between batches, and delays in keg deliveries to partner restaurants. Compliance paperwork is also scattered, leading to penalties.
+`Siddharth, 34, co-owns a microbrewery in Goa. They struggle with inventory management for ingredients like hops and yeast, inconsistent brewing quality between batches, and delays in keg deliveries to partner restaurants. Compliance paperwork is also scattered, leading to penalties.`
 
-Goal:
+`Goal:`
 
-Streamline brewing, inventory, and compliance processes.
+`Streamline brewing, inventory, and compliance processes.`
 
-Prompt:
+`Prompt:`
 
-"You are a brewery operations consultant. Develop a process optimisation guide for a microbrewery that covers: Batch tracking and brewing SOPs. Ingredient procurement and storage standards. Keg and bottle delivery scheduling. Compliance documentation management. Quality control and tasting protocols." Inputs Required: Number of beer varieties brewed Brewing capacity per batch Supplier lead times Partner restaurant list
+`"You are a brewery operations consultant. Develop a process optimisation guide for a microbrewery that covers: Batch tracking and brewing SOPs. Ingredient procurement and storage standards. Keg and bottle delivery scheduling. Compliance documentation management. Quality control and tasting protocols." Inputs Required: Number of beer varieties brewed Brewing capacity per batch Supplier lead times Partner restaurant list`
 
-Process Optimisation Guide for a Yoga Retreat Centre
+## Process Optimisation Guide for a Yoga Retreat Centre
 
-Backstory:
+`Backstory:`
 
-Meera, 31, runs a yoga retreat centre in Rishikesh. Bookings often overlap, instructors’ schedules clash, and catering orders get delayed. Payment follow-ups are frequent, and guest feedback is not systematically recorded. She wants a smoother system to handle multiple retreats a month without chaos.
+`Meera, 31, runs a yoga retreat centre in Rishikesh. Bookings often overlap, instructors’ schedules clash, and catering orders get delayed. Payment follow-ups are frequent, and guest feedback is not systematically recorded. She wants a smoother system to handle multiple retreats a month without chaos.`
 
-Goal:
+`Goal:`
 
-Create a retreat operations guide that coordinates bookings, staff, and vendors.
+`Create a retreat operations guide that coordinates bookings, staff, and vendors.`
 
-Prompt:
+`Prompt:`
 
-"You are a retreat operations planner. Create a process optimisation guide for a yoga retreat centre. Include: Booking confirmation and deposit policy. Instructor and guest scheduling system. Meal planning and vendor coordination SOPs. Payment tracking and follow-up automation. Post-retreat feedback collection and review process." Inputs Required: Number of retreats per month Average group size Number of instructors on call Catering arrangements
+`"You are a retreat operations planner. Create a process optimisation guide for a yoga retreat centre. Include: Booking confirmation and deposit policy. Instructor and guest scheduling system. Meal planning and vendor coordination SOPs. Payment tracking and follow-up automation. Post-retreat feedback collection and review process." Inputs Required: Number of retreats per month Average group size Number of instructors on call Catering arrangements`
 
-Process Optimisation Guide for a Boutique Hotel
+## Process Optimisation Guide for a Boutique Hotel
 
-Backstory:
+`Backstory:`
 
-Vivek, 33, manages a 15-room boutique hotel in Udaipur. His issues include delayed housekeeping, inconsistent check-in/check-out processes, and difficulty tracking minibar usage. Guest requests are often missed because they are verbally passed between staff.
+`Vivek, 33, manages a 15-room boutique hotel in Udaipur. His issues include delayed housekeeping, inconsistent check-in/check-out processes, and difficulty tracking minibar usage. Guest requests are often missed because they are verbally passed between staff.`
 
-Goal:
+`Goal:`
 
-Improve guest experience through standardised operations.
+`Improve guest experience through standardised operations.`
 
-Prompt:
+`Prompt:`
 
-"You are a hospitality operations expert. Develop a process optimisation guide for a boutique hotel that includes: Check-in and check-out SOPs. Housekeeping and room inspection schedules. Minibar inventory and billing process. Digital guest request tracking. Monthly staff training checklists." Inputs Required: Number of staff Average occupancy rate Room service offerings Booking sources
+`"You are a hospitality operations expert. Develop a process optimisation guide for a boutique hotel that includes: Check-in and check-out SOPs. Housekeeping and room inspection schedules. Minibar inventory and billing process. Digital guest request tracking. Monthly staff training checklists." Inputs Required: Number of staff Average occupancy rate Room service offerings Booking sources`
 
-Process Optimisation Guide for a Handmade Jewellery Business
+## Process Optimisation Guide for a Handmade Jewellery Business
 
-Backstory:
+`Backstory:`
 
-Shruti, 29, sells handmade jewellery through Instagram and local exhibitions. Order tracking is manual, and she often loses track of which pieces are in production, ready to ship, or delivered. Packaging delays cause customer frustration, and she struggles to forecast which designs will sell.
+`Shruti, 29, sells handmade jewellery through Instagram and local exhibitions. Order tracking is manual, and she often loses track of which pieces are in production, ready to ship, or delivered. Packaging delays cause customer frustration, and she struggles to forecast which designs will sell.`
 
-Goal:
+`Goal:`
 
-Implement a production-to-delivery workflow that improves order fulfilment.
+`Implement a production-to-delivery workflow that improves order fulfilment.`
 
-Prompt:
+`Prompt:`
 
-"You are a craft business process consultant. Create a process optimisation guide for a handmade jewellery business. Include: Order intake and production scheduling. Inventory tracking for raw materials and finished goods. Packaging and quality control steps. Delivery coordination with couriers. Sales forecasting based on past data." Inputs Required: Average monthly orders Number of designs in rotation Packaging suppliers Delivery methods
+`"You are a craft business process consultant. Create a process optimisation guide for a handmade jewellery business. Include: Order intake and production scheduling. Inventory tracking for raw materials and finished goods. Packaging and quality control steps. Delivery coordination with couriers. Sales forecasting based on past data." Inputs Required: Average monthly orders Number of designs in rotation Packaging suppliers Delivery methods`
 
-Process Optimisation Guide for a Tattoo Studio
+## Process Optimisation Guide for a Tattoo Studio
 
-Backstory:
+`Backstory:`
 
-Rohan, 28, owns a tattoo studio in Mumbai with two artists. Appointment bookings sometimes clash, consent forms are not always collected, and aftercare instructions vary by artist. He wants a standard process that ensures hygiene, safety, and a consistent customer experience.
+`Rohan, 28, owns a tattoo studio in Mumbai with two artists. Appointment bookings sometimes clash, consent forms are not always collected, and aftercare instructions vary by artist. He wants a standard process that ensures hygiene, safety, and a consistent customer experience.`
 
-Goal:
+`Goal:`
 
-Build a streamlined appointment, service, and aftercare workflow.
+`Build a streamlined appointment, service, and aftercare workflow.`
 
-Prompt:
+`Prompt:`
 
-"You are a tattoo studio process advisor. Create a process optimisation guide for a tattoo studio. Include: Appointment booking and deposit policy. Pre-service client consultation checklist. Standard hygiene and safety SOPs. Unified aftercare instruction sheets. Monthly supply inventory tracking." Inputs Required: Average monthly appointments Number of artists Tattoo styles offered Sterilisation equipment available
+`"You are a tattoo studio process advisor. Create a process optimisation guide for a tattoo studio. Include: Appointment booking and deposit policy. Pre-service client consultation checklist. Standard hygiene and safety SOPs. Unified aftercare instruction sheets. Monthly supply inventory tracking." Inputs Required: Average monthly appointments Number of artists Tattoo styles offered Sterilisation equipment available`
 
-Process Optimisation Guide for a Fitness Studio
+## Process Optimisation Guide for a Fitness Studio
 
-Backstory:
+`Backstory:`
 
-Ananya, 27, owns a small fitness studio in Hyderabad offering group classes like Zumba, yoga, and strength training. She struggles with managing class schedules, tracking memberships, and handling instructor substitutions. Equipment maintenance is reactive rather than planned, and there’s no clear onboarding process for new members, which affects retention.
+`Ananya, 27, owns a small fitness studio in Hyderabad offering group classes like Zumba, yoga, and strength training. She struggles with managing class schedules, tracking memberships, and handling instructor substitutions. Equipment maintenance is reactive rather than planned, and there’s no clear onboarding process for new members, which affects retention.`
 
-Goal:
+`Goal:`
 
-Create a process that streamlines class management, member experience, and facility upkeep.
+`Create a process that streamlines class management, member experience, and facility upkeep.`
 
-Prompt:
+`Prompt:`
 
-"You are a fitness operations specialist. Create a process optimisation guide for a small fitness studio that covers: Class scheduling with real-time updates for members. Membership tracking and automated renewal reminders. Instructor substitution protocols. Preventive maintenance schedules for all equipment. Onboarding process for new members to improve retention." Inputs Required: Number of classes per week Average class size Types of membership plans Number of instructors
+`"You are a fitness operations specialist. Create a process optimisation guide for a small fitness studio that covers: Class scheduling with real-time updates for members. Membership tracking and automated renewal reminders. Instructor substitution protocols. Preventive maintenance schedules for all equipment. Onboarding process for new members to improve retention." Inputs Required: Number of classes per week Average class size Types of membership plans Number of instructors`
 
-Process Optimisation Guide for a Pet Grooming Salon
+## Process Optimisation Guide for a Pet Grooming Salon
 
-Backstory:
+`Backstory:`
 
-Ritika, 31, runs a pet grooming salon in Gurgaon. Bookings are made through phone calls, which often leads to double bookings. There’s no standard process for recording pet health conditions or allergies before service. Grooming supplies are ordered ad hoc, causing last-minute shortages, and billing is done manually.
+`Ritika, 31, runs a pet grooming salon in Gurgaon. Bookings are made through phone calls, which often leads to double bookings. There’s no standard process for recording pet health conditions or allergies before service. Grooming supplies are ordered ad hoc, causing last-minute shortages, and billing is done manually.`
 
-Goal:
+`Goal:`
 
-Create a structured workflow to improve customer service and inventory control.
+`Create a structured workflow to improve customer service and inventory control.`
 
-Prompt:
+`Prompt:
 
-"You are a pet grooming business consultant. Create a process optimisation guide for a grooming salon. Include: Appointment booking system with time buffers between clients. Pet health and allergy information capture forms. Inventory management for grooming supplies. Standard grooming service checklist. Automated billing and receipt generation." Inputs Required: Number of grooming stations Average daily appointments List of grooming services offered Supplier lead time for restocking
+`"You are a pet grooming business consultant. Create a process optimisation guide for a grooming salon. Include: Appointment booking system with time buffers between clients. Pet health and allergy information capture forms. Inventory management for grooming supplies. Standard grooming service checklist. Automated billing and receipt generation." Inputs Required: Number of grooming stations Average daily appointments List of grooming services offered Supplier lead time for restocking`
 
-Process Optimisation Guide for a Photography Studio
+## Process Optimisation Guide for a Photography Studio
 
-Backstory:
+`Backstory:`
 
-Manav, 29, owns a photography studio in Delhi focusing on weddings, portraits, and corporate shoots. He struggles with managing shoot schedules, storing and organising photo files, and ensuring timely delivery to clients. There’s no structured process for editing requests or feedback, which leads to multiple reworks.
+`Manav, 29, owns a photography studio in Delhi focusing on weddings, portraits, and corporate shoots. He struggles with managing shoot schedules, storing and organising photo files, and ensuring timely delivery to clients. There’s no structured process for editing requests or feedback, which leads to multiple reworks.`
 
-Goal:
+`Goal:`
 
-Establish a streamlined process for shoot planning, file management, and client delivery.
+`Establish a streamlined process for shoot planning, file management, and client delivery.`
 
-Prompt:
+`Prompt:`
 
-"You are a photography business workflow consultant. Create a process optimisation guide for a photography studio. Include: Pre-shoot consultation and contract process. Shoot scheduling with buffer days for post-processing. File naming and storage conventions for easy retrieval. Client review and feedback loop with limited revisions. Delivery formats and timelines." Inputs Required: Number of shoots per month Average turnaround time for editing Storage solutions used Types of photography services offered
+`"You are a photography business workflow consultant. Create a process optimisation guide for a photography studio. Include: Pre-shoot consultation and contract process. Shoot scheduling with buffer days for post-processing. File naming and storage conventions for easy retrieval. Client review and feedback loop with limited revisions. Delivery formats and timelines." Inputs Required: Number of shoots per month Average turnaround time for editing Storage solutions used Types of photography services offered`
 
-Process Optimisation Guide for a Mobile Repair Shop
+## Process Optimisation Guide for a Mobile Repair Shop
 
-Backstory:
+`Backstory:`
 
-Suresh, 35, runs a small mobile repair shop in Lucknow. He struggles with keeping track of devices in repair, ensuring timely spare part procurement, and updating customers about repair status. Invoices are handwritten, and warranty claims are difficult to track.
+`Suresh, 35, runs a small mobile repair shop in Lucknow. He struggles with keeping track of devices in repair, ensuring timely spare part procurement, and updating customers about repair status. Invoices are handwritten, and warranty claims are difficult to track.`
 
-Goal:
+`Goal:`
 
-Create a system for repair tracking, spare part management, and customer communication.
+`Create a system for repair tracking, spare part management, and customer communication.`
 
-Prompt:
+`Prompt:`
 
-"You are a small electronics repair business consultant. Create a process optimisation guide for a mobile repair shop. Include: Device intake and repair tracking system. Spare part inventory management. Repair workflow with quality checks. Customer notification system for repair progress. Warranty claim tracking process." Inputs Required: Average monthly repair volume Common types of repairs handled Spare part suppliers and lead times Warranty period offered
+`"You are a small electronics repair business consultant. Create a process optimisation guide for a mobile repair shop. Include: Device intake and repair tracking system. Spare part inventory management. Repair workflow with quality checks. Customer notification system for repair progress. Warranty claim tracking process." Inputs Required: Average monthly repair volume Common types of repairs handled Spare part suppliers and lead times Warranty period offered`
 
-Process Optimisation Guide for a Local Grocery Store
+## Process Optimisation Guide for a Local Grocery Store
 
-Backstory:
+`Backstory:`
 
-Ashok, 40, runs a neighbourhood grocery store in Bhopal. Stockouts happen frequently because ordering is based on guesswork. Billing queues get long during peak hours, and there’s no home delivery system in place despite demand from regular customers.
+`Ashok, 40, runs a neighbourhood grocery store in Bhopal. Stockouts happen frequently because ordering is based on guesswork. Billing queues get long during peak hours, and there’s no home delivery system in place despite demand from regular customers.`
 
-Goal:
+`Goal:`
 
-Streamline inventory, billing, and delivery services.
+`Streamline inventory, billing, and delivery services.`
 
-Prompt:
+`Prompt:`
 
-"You are a retail process improvement consultant. Create a process optimisation guide for a local grocery store. Include: Inventory tracking and reorder point system. Peak-hour staffing and billing counter management. Home delivery service workflow. Supplier negotiation and bulk ordering strategies. Monthly sales analysis for demand forecasting." Inputs Required: Number of SKUs stocked Average daily sales volume Current billing method Delivery radius and frequency
+`"You are a retail process improvement consultant. Create a process optimisation guide for a local grocery store. Include: Inventory tracking and reorder point system. Peak-hour staffing and billing counter management. Home delivery service workflow. Supplier negotiation and bulk ordering strategies. Monthly sales analysis for demand forecasting." Inputs Required: Number of SKUs stocked Average daily sales volume Current billing method Delivery radius and frequency`
 
-Process Optimisation Guide for a Language Coaching Centre
+## Process Optimisation Guide for a Language Coaching Centre
 
-Backstory:
+`Backstory:`
 
-Shalini, 33, runs a language coaching centre in Chennai offering English and French classes. Student attendance is inconsistent, and there’s no centralised way to track progress or collect feedback. Scheduling clashes between classes lead to confusion for both teachers and students.
+`Shalini, 33, runs a language coaching centre in Chennai offering English and French classes. Student attendance is inconsistent, and there’s no centralised way to track progress or collect feedback. Scheduling clashes between classes lead to confusion for both teachers and students.`
 
-Goal:
+`Goal:`
 
 Introduce a process that improves student engagement, scheduling, and performance tracking.
 
 Prompt:
 
-"You are an education process consultant. Create a process optimisation guide for a language coaching centre. Include: Class scheduling software to avoid clashes. Attendance and performance tracking systems. Feedback collection after every module. Communication channels for student updates. Teacher allocation and substitution protocols." Inputs Required: Number of students enrolled Number of teachers Class formats (online/offline) Course duration
+`"You are an education process consultant. Create a process optimisation guide for a language coaching centre. Include: Class scheduling software to avoid clashes. Attendance and performance tracking systems. Feedback collection after every module. Communication channels for student updates. Teacher allocation and substitution protocols." Inputs Required: Number of students enrolled Number of teachers Class formats (online/offline) Course duration`
 
-Process Optimisation Guide for a Street Food Stall Chain
+## Process Optimisation Guide for a Street Food Stall Chain
 
 Backstory:
 
