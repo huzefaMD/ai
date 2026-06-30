@@ -1258,314 +1258,314 @@ Prompt:`
 
 ## Wedding Photography Studio Calendar
 
-Backstory:
+`Backstory:`
 
-Sanya, 29, runs a wedding photography studio in Udaipur. Bookings are strong during peak wedding months (Nov–Feb) but decline sharply otherwise. She wants a calendar that promotes off-season shoots (pre-wedding, destination, lifestyle) while maximising exposure during the high season.
+`Sanya, 29, runs a wedding photography studio in Udaipur. Bookings are strong during peak wedding months (Nov–Feb) but decline sharply otherwise. She wants a calendar that promotes off-season shoots (pre-wedding, destination, lifestyle) while maximising exposure during the high season.`
 
-Goal:
+`Goal:`
 
-Create a year-long marketing calendar for a wedding photography business.
+`Create a year-long marketing calendar for a wedding photography business.`
 
-Prompt:
+`Prompt:`
 
-"You are a wedding industry marketing planner. Build a 12-month marketing calendar for a photography studio. Include: Seasonal shoot promotions (monsoon couple shoots, summer destination shoots). Festival content tie-ins. Quarterly portfolio refresh campaigns. Social contests for free shoots. Vendor cross-promotions (with makeup artists, planners). Wedding season blitz campaigns. Track KPIs for inquiries, confirmed bookings, and average package value." Inputs Required: High vs low season months Partner vendor list Types of photography packages Content production budget
+`"You are a wedding industry marketing planner. Build a 12-month marketing calendar for a photography studio. Include: Seasonal shoot promotions (monsoon couple shoots, summer destination shoots). Festival content tie-ins. Quarterly portfolio refresh campaigns. Social contests for free shoots. Vendor cross-promotions (with makeup artists, planners). Wedding season blitz campaigns. Track KPIs for inquiries, confirmed bookings, and average package value." Inputs Required: High vs low season months Partner vendor list Types of photography packages Content production budget`
 
 ## Fitness Studio Seasonal Marketing Calendar
 
-Backstory:
+`Backstory:`
 
-Kavya, 26, owns a boutique fitness studio in Bangalore offering yoga, pilates, and functional training. Attendance peaks in January with New Year resolutions, then dips mid-year. She wants a year-round marketing calendar that keeps clients motivated, attracts corporate tie-ups, and introduces seasonal programs that create buzz every quarter.
+`Kavya, 26, owns a boutique fitness studio in Bangalore offering yoga, pilates, and functional training. Attendance peaks in January with New Year resolutions, then dips mid-year. She wants a year-round marketing calendar that keeps clients motivated, attracts corporate tie-ups, and introduces seasonal programs that create buzz every quarter.`
 
-Goal:
+`Goal:`
 
-Design a 12-month fitness studio marketing calendar that balances retention and new member acquisition.
+`Design a 12-month fitness studio marketing calendar that balances retention and new member acquisition.`
 
-Prompt:
+`Prompt:`
 
-"You are a fitness marketing strategist. Create a 12-month marketing calendar for a boutique fitness studio. Include: Seasonal challenges (Summer Strength, Winter Wellness). Corporate wellness tie-up campaigns. Monthly free trial events. Social content pillars (client transformations, workout tips, nutrition advice). Partnerships with wellness brands. Quarterly themed workshops (prenatal yoga, posture correction). Track KPIs for client retention rate, new sign-ups, and class attendance." Inputs Required: Studio capacity & trainer availability Seasonal demand trends Existing brand partnerships Budget for ads & events
+`"You are a fitness marketing strategist. Create a 12-month marketing calendar for a boutique fitness studio. Include: Seasonal challenges (Summer Strength, Winter Wellness). Corporate wellness tie-up campaigns. Monthly free trial events. Social content pillars (client transformations, workout tips, nutrition advice). Partnerships with wellness brands. Quarterly themed workshops (prenatal yoga, posture correction). Track KPIs for client retention rate, new sign-ups, and class attendance." Inputs Required: Studio capacity & trainer availability Seasonal demand trends Existing brand partnerships Budget for ads & events`
 
 ## Home Décor E-commerce Calendar
 
-Backstory:
+`Backstory:`
 
-Rohan, 34, runs an e-commerce store selling artisanal home décor items made by rural craftsmen. Sales spike during Diwali but flatten during other months. He wants a marketing calendar that drives consistent sales, supports artisans’ stories, and syncs with seasonal trends in home styling.
+`Rohan, 34, runs an e-commerce store selling artisanal home décor items made by rural craftsmen. Sales spike during Diwali but flatten during other months. He wants a marketing calendar that drives consistent sales, supports artisans’ stories, and syncs with seasonal trends in home styling.`
 
-Goal:
+`Goal:`
 
-Plan a year-long e-commerce marketing calendar that blends sales with storytelling.
+`Plan a year-long e-commerce marketing calendar that blends sales with storytelling.`
 
-Prompt:
+`Prompt:`
 
-"You are an e-commerce growth planner. Build a 12-month marketing calendar for an artisanal home décor store. Include: Monthly décor themes (Monsoon Minimalism, Festive Glamour). Storytelling series on artisans. Influencer-led styling videos. Seasonal discounts aligned with pay cycles. Cross-promotions with lifestyle magazines. Quarterly giveaway contests. Track KPIs for website traffic, repeat purchase rate, and cart value." Inputs Required: Festival calendar Artisan product availability Influencer network Content production budget
+`"You are an e-commerce growth planner. Build a 12-month marketing calendar for an artisanal home décor store. Include: Monthly décor themes (Monsoon Minimalism, Festive Glamour). Storytelling series on artisans. Influencer-led styling videos. Seasonal discounts aligned with pay cycles. Cross-promotions with lifestyle magazines. Quarterly giveaway contests. Track KPIs for website traffic, repeat purchase rate, and cart value." Inputs Required: Festival calendar Artisan product availability Influencer network Content production budget`
 
 ## Educational App Marketing Calendar
 
-Backstory:
+`Backstory:`
 
-Ananya, 30, manages an ed-tech app for competitive exam preparation. The app sees a spike in downloads before exam season but struggles to keep users engaged year-round. She wants a marketing calendar that ensures consistent learning engagement and builds brand credibility.
+`Ananya, 30, manages an ed-tech app for competitive exam preparation. The app sees a spike in downloads before exam season but struggles to keep users engaged year-round. She wants a marketing calendar that ensures consistent learning engagement and builds brand credibility.`
 
-Goal:
+`Goal:`
 
-Create a year-long marketing calendar for an educational app.
+`Create a year-long marketing calendar for an educational app.`
 
-Prompt:
+`Prompt:`
 
-"You are an ed-tech marketing consultant. Develop a 12-month marketing calendar for a competitive exam prep app. Include: Monthly study challenges. Live Q&A sessions with toppers. Exam countdown campaigns. Seasonal scholarship contests. Collaborations with educational YouTubers. Push notification calendar for key dates. Track KPIs for DAU (Daily Active Users), retention rate, and paid subscription growth." Inputs Required: Exam schedules Teacher/tutor availability Ad budget allocation Content creation capacity
+`"You are an ed-tech marketing consultant. Develop a 12-month marketing calendar for a competitive exam prep app. Include: Monthly study challenges. Live Q&A sessions with toppers. Exam countdown campaigns. Seasonal scholarship contests. Collaborations with educational YouTubers. Push notification calendar for key dates. Track KPIs for DAU (Daily Active Users), retention rate, and paid subscription growth." Inputs Required: Exam schedules Teacher/tutor availability Ad budget allocation Content creation capacity`
 
 ## Luxury Spa Marketing Calendar
 
-Backstory:
+`Backstory:`
 
-Simran, 33, owns a luxury spa in Delhi catering to high-income professionals and expats. While weekends are fully booked, weekdays remain underutilised. She wants a marketing calendar that boosts weekday bookings, leverages festive gifting, and positions the spa as a wellness retreat.
+`Simran, 33, owns a luxury spa in Delhi catering to high-income professionals and expats. While weekends are fully booked, weekdays remain underutilised. She wants a marketing calendar that boosts weekday bookings, leverages festive gifting, and positions the spa as a wellness retreat.`
 
-Goal:
+`Goal:`
 
-Design a luxury spa marketing calendar to balance demand and upscale branding.
+`Design a luxury spa marketing calendar to balance demand and upscale branding.`
 
-Prompt:
+`Prompt:`
 
-"You are a luxury brand marketer. Build a 12-month marketing calendar for a spa. Include: Weekday-exclusive offers. Seasonal wellness packages (Monsoon Detox, Summer Cooling Rituals). Festive gift card campaigns. Collaborations with luxury hotels. Social media influencer spa days. Quarterly wellness events. Track KPIs for weekday bookings, package sales, and high-value customer acquisition." Inputs Required: Service menu & pricing Partner hotel contacts Peak/off-peak occupancy rates Influencer outreach list
+`"You are a luxury brand marketer. Build a 12-month marketing calendar for a spa. Include: Weekday-exclusive offers. Seasonal wellness packages (Monsoon Detox, Summer Cooling Rituals). Festive gift card campaigns. Collaborations with luxury hotels. Social media influencer spa days. Quarterly wellness events. Track KPIs for weekday bookings, package sales, and high-value customer acquisition." Inputs Required: Service menu & pricing Partner hotel contacts Peak/off-peak occupancy rates Influencer outreach list`
 
-Digital Marketing Agency Calendar
+## Digital Marketing Agency Calendar
 
-Backstory:
+`Backstory:`
 
-Akash, 28, co-founded a digital marketing agency serving SMEs. He wants a calendar that attracts new clients, showcases case studies, and keeps the agency visible across multiple platforms without overwhelming his small team.
+`Akash, 28, co-founded a digital marketing agency serving SMEs. He wants a calendar that attracts new clients, showcases case studies, and keeps the agency visible across multiple platforms without overwhelming his small team.`
 
-Goal:
+`Goal:`
 
-Create a manageable, high-impact marketing calendar for a small agency.
+`Create a manageable, high-impact marketing calendar for a small agency.`
 
-Prompt:
+`Prompt:
 
-"You are an agency growth strategist. Build a 12-month marketing calendar for a digital marketing agency. Include: Monthly case study releases. Weekly industry trend breakdowns. Seasonal free audits for businesses. Client testimonial video campaigns. Participation in startup expos. Quarterly lead generation campaigns. Track KPIs for inbound leads, client conversion rate, and client retention." Inputs Required: Current client base & industries served Case study production capacity Event participation budget Team bandwidth
+`"You are an agency growth strategist. Build a 12-month marketing calendar for a digital marketing agency. Include: Monthly case study releases. Weekly industry trend breakdowns. Seasonal free audits for businesses. Client testimonial video campaigns. Participation in startup expos. Quarterly lead generation campaigns. Track KPIs for inbound leads, client conversion rate, and client retention." Inputs Required: Current client base & industries served Case study production capacity Event participation budget Team bandwidth`
 
-Travel Agency Marketing Calendar
+## Travel Agency Marketing Calendar
 
-Backstory:
+`Backstory:`
 
-Neha, 31, runs a boutique travel agency in Goa offering curated trips for young Indian professionals. Her bookings are seasonal, peaking in December and May. She wants a calendar that spreads bookings across the year and capitalises on micro-moments like long weekends.
+`Neha, 31, runs a boutique travel agency in Goa offering curated trips for young Indian professionals. Her bookings are seasonal, peaking in December and May. She wants a calendar that spreads bookings across the year and capitalises on micro-moments like long weekends.`
 
-Goal:
+`Goal:`
 
-Design a year-long marketing calendar for a boutique travel agency.
+`Design a year-long marketing calendar for a boutique travel agency.`
 
-Prompt:
+`Prompt:`
 
-"You are a travel marketing expert. Create a 12-month marketing calendar for a boutique agency. Include: Long-weekend trip promotions. Seasonal destination highlights. Monthly Instagram Live travel talks. Referral-based reward campaigns. Partnerships with lifestyle influencers. Quarterly experiential travel events. Track KPIs for inquiries, confirmed bookings, and repeat clients." Inputs Required: Seasonal destination availability Partner hotels/vendors Marketing budget split (online/offline) Peak/off-peak travel dates
+`"You are a travel marketing expert. Create a 12-month marketing calendar for a boutique agency. Include: Long-weekend trip promotions. Seasonal destination highlights. Monthly Instagram Live travel talks. Referral-based reward campaigns. Partnerships with lifestyle influencers. Quarterly experiential travel events. Track KPIs for inquiries, confirmed bookings, and repeat clients." Inputs Required: Seasonal destination availability Partner hotels/vendors Marketing budget split (online/offline) Peak/off-peak travel dates`
 
-Restaurant Marketing Calendar
+## Restaurant Marketing Calendar
 
-Backstory:
+`Backstory:`
 
-Chef Arjun, 34, runs a fine-dining Indian fusion restaurant in Mumbai. He wants a marketing calendar that boosts weekday reservations, leverages festive dining, and promotes seasonal tasting menus.
+`Chef Arjun, 34, runs a fine-dining Indian fusion restaurant in Mumbai. He wants a marketing calendar that boosts weekday reservations, leverages festive dining, and promotes seasonal tasting menus.`
 
-Goal:
+`Goal:`
 
-Build a year-long restaurant marketing calendar for consistent table bookings.
+`Build a year-long restaurant marketing calendar for consistent table bookings.`
 
-Prompt:
+`Prompt:`
 
-"You are a restaurant growth consultant. Develop a 12-month marketing calendar for a fine-dining restaurant. Include: Seasonal tasting menus. Chef’s table experiences. Festive dining campaigns. Collaborations with wine brands. Influencer tasting nights. Monthly loyalty program offers. Track KPIs for weekday bookings, table turn rate, and average bill value." Inputs Required: Seasonal menu plans Partner beverage brands Influencer/media list Reservation data
+`"You are a restaurant growth consultant. Develop a 12-month marketing calendar for a fine-dining restaurant. Include: Seasonal tasting menus. Chef’s table experiences. Festive dining campaigns. Collaborations with wine brands. Influencer tasting nights. Monthly loyalty program offers. Track KPIs for weekday bookings, table turn rate, and average bill value." Inputs Required: Seasonal menu plans Partner beverage brands Influencer/media list Reservation `data`
 
-Bookstore Marketing Calendar
+## Bookstore Marketing Calendar
 
-Backstory:
+`Backstory:`
 
-Ritu, 29, owns a small independent bookstore in Pune. She wants a marketing calendar that drives footfall, promotes new releases, and fosters a loyal reader community.
+`Ritu, 29, owns a small independent bookstore in Pune. She wants a marketing calendar that drives footfall, promotes new releases, and fosters a loyal reader community.`
 
-Goal:
+`Goal:`
 
-Create a 12-month bookstore marketing calendar for engagement and sales.
+`Create a 12-month bookstore marketing calendar for engagement and sales.`
 
-Prompt:
+`Prompt:`
 
-"You are a bookstore marketing specialist. Build a year-long marketing calendar for an independent bookstore. Include: Monthly author events. Seasonal reading challenges. Quarterly book club meet-ups. Social campaigns for new releases. Partnerships with local cafes. Festival gift bundle promotions. Track KPIs for footfall, book sales, and repeat customer visits." Inputs Required: Release schedule of major titles Event space availability Cafe partner list Social media platforms used
+`"You are a bookstore marketing specialist. Build a year-long marketing calendar for an independent bookstore. Include: Monthly author events. Seasonal reading challenges. Quarterly book club meet-ups. Social campaigns for new releases. Partnerships with local cafes. Festival gift bundle promotions. Track KPIs for footfall, book sales, and repeat customer visits." Inputs Required: Release schedule of major titles Event space availability Cafe partner list Social media platforms used`
 
-Pet Store Marketing Calendar
+## Pet Store Marketing Calendar
 
-Backstory:
+`Backstory:`
 
-Manav, 30, runs a premium pet store in Gurgaon. He wants a marketing calendar that promotes pet wellness products, increases grooming service bookings, and builds a pet-loving community.
+`Manav, 30, runs a premium pet store in Gurgaon. He wants a marketing calendar that promotes pet wellness products, increases grooming service bookings, and builds a pet-loving community.`
 
-Goal:
+`Goal:
 
-Design a year-long marketing calendar for a premium pet store.
+`Design a year-long marketing calendar for a premium pet store.`
 
-Prompt:
+`Prompt:`
 
-"You are a pet industry marketing expert. Develop a 12-month marketing calendar for a premium pet store. Include: Monthly pet care awareness themes. Seasonal product bundles. Adoption event collaborations. Pet birthday celebration packages. Quarterly grooming discounts. Social media pet photo contests. Track KPIs for product sales, service bookings, and event attendance." Inputs Required: Product categories Grooming service capacity Local adoption NGOs Marketing budget
+`"You are a pet industry marketing expert. Develop a 12-month marketing calendar for a premium pet store. Include: Monthly pet care awareness themes. Seasonal product bundles. Adoption event collaborations. Pet birthday celebration packages. Quarterly grooming discounts. Social media pet photo contests. Track KPIs for product sales, service bookings, and event attendance." Inputs Required: Product categories Grooming service capacity Local adoption NGOs Marketing budget`
 
-Nonprofit Awareness & Fundraising Calendar
+## Nonprofit Awareness & Fundraising Calendar
 
-Backstory:
+`Backstory:`
 
-Shivani, 33, runs a nonprofit supporting rural education. She wants a marketing calendar that keeps donors engaged, drives volunteer participation, and ensures consistent fundraising throughout the year.
+`Shivani, 33, runs a nonprofit supporting rural education. She wants a marketing calendar that keeps donors engaged, drives volunteer participation, and ensures consistent fundraising throughout the year.`
 
-Goal:
+`Goal:`
 
-Create a year-long marketing calendar for a nonprofit.
+`Create a year-long marketing calendar for a nonprofit.`
 
-Prompt:
+`Prompt:`
 
-"You are a nonprofit communications strategist. Build a 12-month marketing calendar for a rural education NGO. Include: Monthly impact storytelling campaigns. Seasonal fundraising drives. Quarterly volunteer recruitment pushes. Partnerships with schools & corporates. Festival donation campaigns. Social media awareness series. Track KPIs for donor retention, fundraising totals, and volunteer sign-ups." Inputs Required: Project timelines & impact milestones Donor database Corporate CSR contacts Social platform reach metrics
+`"You are a nonprofit communications strategist. Build a 12-month marketing calendar for a rural education NGO. Include: Monthly impact storytelling campaigns. Seasonal fundraising drives. Quarterly volunteer recruitment pushes. Partnerships with schools & corporates. Festival donation campaigns. Social media awareness series. Track KPIs for donor retention, fundraising totals, and volunteer sign-ups." Inputs Required: Project timelines & impact milestones Donor database Corporate CSR contacts Social platform reach metrics`
 
 
-Business Model Canvas Creation
+# Business Model Canvas Creation
 
-Business Model Canvas for a Sustainable D2C Skincare Brand
+## Business Model Canvas for a Sustainable D2C Skincare Brand
 
-Backstory:
+`Backstory:`
 
-Aarav, 28, is a marketing professional from Bangalore who has decided to start his own direct-to-consumer skincare brand. His focus is on natural, eco-friendly products inspired by Ayurveda, targeting urban millennials who prefer chemical-free skincare. He’s bootstrapping the business and wants a clear plan to approach online marketplaces, social media marketing, and subscription-based models. Aarav knows his product is good but struggles to map out all aspects of the business in a single, strategic framework.
+`Aarav, 28, is a marketing professional from Bangalore who has decided to start his own direct-to-consumer skincare brand. His focus is on natural, eco-friendly products inspired by Ayurveda, targeting urban millennials who prefer chemical-free skincare. He’s bootstrapping the business and wants a clear plan to approach online marketplaces, social media marketing, and subscription-based models. Aarav knows his product is good but struggles to map out all aspects of the business in a single, strategic framework.`
 
-Goal:
+`Goal:`
 
-Create a detailed Business Model Canvas that maps Aarav’s value propositions, customer segments, channels, revenue streams, cost structure, and key activities, tailored for a sustainable D2C brand in India’s competitive skincare market.
+`Create a detailed Business Model Canvas that maps Aarav’s value propositions, customer segments, channels, revenue streams, cost structure, and key activities, tailored for a sustainable D2C brand in India’s competitive skincare market.`
 
-Prompt:
+`Prompt:`
 
-"You are a business strategist specializing in Indian D2C startups. Create a comprehensive Business Model Canvas for a sustainable skincare brand selling Ayurvedic, eco-friendly products online. Include clear and practical details for each block: key partners (suppliers, logistics providers), key activities (product development, social media campaigns), value propositions (eco-friendly, Ayurvedic heritage), customer relationships, customer segments, key resources, channels (Instagram, Amazon, brand website), cost structure, and revenue streams. Adapt recommendations to suit a small, bootstrapped Indian business competing with both established FMCG and niche organic brands." Inputs Required: Target customer demographics Product categories & price range Initial monthly marketing budget Distribution preference (own site, marketplaces, or both)
+`"You are a business strategist specializing in Indian D2C startups. Create a comprehensive Business Model Canvas for a sustainable skincare brand selling Ayurvedic, eco-friendly products online. Include clear and practical details for each block: key partners (suppliers, logistics providers), key activities (product development, social media campaigns), value propositions (eco-friendly, Ayurvedic heritage), customer relationships, customer segments, key resources, channels (Instagram, Amazon, brand website), cost structure, and revenue streams. Adapt recommendations to suit a small, bootstrapped Indian business competing with both established FMCG and niche organic brands." Inputs Required: Target customer demographics Product categories & price range Initial monthly marketing budget Distribution preference (own site, marketplaces, or both)`
 
-Business Model Canvas for a Cloud Kitchen Startup
+## Business Model Canvas for a Cloud Kitchen Startup
 
-Backstory:
+`Backstory:`
 
-Neha, 30, left her corporate HR job in Delhi to start a North Indian–South Indian fusion cloud kitchen. She plans to operate only through delivery apps like Zomato and Swiggy for the first year. Her differentiator is a menu designed by professional chefs with authentic taste and a healthy twist. While she has culinary experts on board, Neha struggles to define her customer acquisition and retention strategy.
+`Neha, 30, left her corporate HR job in Delhi to start a North Indian–South Indian fusion cloud kitchen. She plans to operate only through delivery apps like Zomato and Swiggy for the first year. Her differentiator is a menu designed by professional chefs with authentic taste and a healthy twist. While she has culinary experts on board, Neha struggles to define her customer acquisition and retention strategy.`
 
-Goal:
+`Goal:`
 
-Develop a detailed Business Model Canvas tailored for an Indian cloud kitchen business, focusing on maximizing delivery platform exposure and building repeat customers.
+`Develop a detailed Business Model Canvas tailored for an Indian cloud kitchen business, focusing on maximizing delivery platform exposure and building repeat customers.`
 
-Prompt:
+`Prompt:`
 
-"You are a food business consultant. Create a detailed Business Model Canvas for a cloud kitchen offering fusion Indian meals via delivery platforms in Delhi NCR. For each BMC block, provide specific actionable details, including: key partners (delivery apps, packaging suppliers), key activities (menu R&D, promotions on Zomato/Swiggy), value propositions (healthy, authentic, fusion flavors), customer relationships (loyalty programs, feedback loops), customer segments (urban working professionals, families), key resources (trained chefs, kitchen equipment), channels (delivery apps, Instagram ads), cost structure, and revenue streams. Consider high competition in metro cities and add strategies for sustaining good app ratings." Inputs Required: Location and target delivery radius Price range per meal Expected monthly order volume Chef’s signature dishes
+`"You are a food business consultant. Create a detailed Business Model Canvas for a cloud kitchen offering fusion Indian meals via delivery platforms in Delhi NCR. For each BMC block, provide specific actionable details, including: key partners (delivery apps, packaging suppliers), key activities (menu R&D, promotions on Zomato/Swiggy), value propositions (healthy, authentic, fusion flavors), customer relationships (loyalty programs, feedback loops), customer segments (urban working professionals, families), key resources (trained chefs, kitchen equipment), channels (delivery apps, Instagram ads), cost structure, and revenue streams. Consider high competition in metro cities and add strategies for sustaining good app ratings." Inputs Required: Location and target delivery radius Price range per meal Expected monthly order volume Chef’s signature dishes`
 
-Business Model Canvas for a Rural Handicrafts E-commerce Platform
+## Business Model Canvas for a Rural Handicrafts E-commerce Platform
 
-Backstory:
+`Backstory:`
 
-Rohit, 27, is passionate about promoting Indian rural artisans and their crafts. He wants to create an e-commerce platform that connects artisans directly to urban buyers without middlemen. His vision includes fair trade pricing, storytelling for each artisan, and international shipping. However, Rohit is unsure how to monetize while keeping artisan prices fair and affordable for buyers.
+`Rohit, 27, is passionate about promoting Indian rural artisans and their crafts. He wants to create an e-commerce platform that connects artisans directly to urban buyers without middlemen. His vision includes fair trade pricing, storytelling for each artisan, and international shipping. However, Rohit is unsure how to monetize while keeping artisan prices fair and affordable for buyers.`
 
-Goal:
+`Goal:`
 
-Create a sustainable and socially responsible Business Model Canvas that supports rural artisans while ensuring business profitability.
+`Create a sustainable and socially responsible Business Model Canvas that supports rural artisans while ensuring business profitability.`
 
-Prompt:
+`Prompt:`
 
-"You are a social entrepreneurship consultant. Create a Business Model Canvas for an e-commerce marketplace connecting rural artisans to urban and global buyers. Include detailed strategies for: artisan onboarding, fair trade pricing, marketing through storytelling, partnerships with NGOs, revenue generation (commission, premium listings, workshops), customer relationships (personalized recommendations, impact reports), and fulfillment logistics (domestic & international). Ensure the model is scalable and maintains ethical sourcing standards." Inputs Required: Number of artisans at launch Type of crafts & regions represented International vs. domestic market focus Initial funding amount
+`"You are a social entrepreneurship consultant. Create a Business Model Canvas for an e-commerce marketplace connecting rural artisans to urban and global buyers. Include detailed strategies for: artisan onboarding, fair trade pricing, marketing through storytelling, partnerships with NGOs, revenue generation (commission, premium listings, workshops), customer relationships (personalized recommendations, impact reports), and fulfillment logistics (domestic & international). Ensure the model is scalable and maintains ethical sourcing standards." Inputs Required: Number of artisans at launch Type of crafts & regions represented International vs. domestic market focus Initial funding amount`
 
-Business Model Canvas for a Fitness & Wellness Mobile App
+## Business Model Canvas for a Fitness & Wellness Mobile App
 
-Backstory:
+`Backstory:`
 
-Priya, 25, a certified yoga instructor in Mumbai, wants to launch a mobile app offering guided yoga sessions, nutrition tips, and meditation tracks. She aims to target young professionals and students looking for affordable wellness solutions. Priya wants to monetize through freemium models but needs clarity on scaling beyond her personal brand.
+`Priya, 25, a certified yoga instructor in Mumbai, wants to launch a mobile app offering guided yoga sessions, nutrition tips, and meditation tracks. She aims to target young professionals and students looking for affordable wellness solutions. Priya wants to monetize through freemium models but needs clarity on scaling beyond her personal brand.`
 
-Goal:
+`Goal:`
 
-Develop a Business Model Canvas that clearly maps revenue opportunities, customer segments, and a scalable distribution plan for a wellness app in India.
+`Develop a Business Model Canvas that clearly maps revenue opportunities, customer segments, and a scalable distribution plan for a wellness app in India.`
 
-Prompt:
+`Prompt:`
 
-"You are a digital product strategist for health-tech startups. Create a Business Model Canvas for a yoga and wellness app targeting 20–35-year-old Indians. Include specifics for freemium monetization (ads, premium subscriptions), customer acquisition channels (Instagram Reels, influencer collaborations, app store optimization), and retention (daily streaks, progress tracking). Provide detailed partner strategies (nutritionists, fitness brands), cost structures (app development, marketing), and potential expansion features (live classes, community challenges)." Inputs Required: Core wellness features planned App launch city or pan-India Initial tech development budget Monetization preference (ads, subscriptions, workshops)
+`"You are a digital product strategist for health-tech startups. Create a Business Model Canvas for a yoga and wellness app targeting 20–35-year-old Indians. Include specifics for freemium monetization (ads, premium subscriptions), customer acquisition channels (Instagram Reels, influencer collaborations, app store optimization), and retention (daily streaks, progress tracking). Provide detailed partner strategies (nutritionists, fitness brands), cost structures (app development, marketing), and potential expansion features (live classes, community challenges)." Inputs Required: Core wellness features planned App launch city or pan-India Initial tech development budget Monetization preference (ads, subscriptions, workshops)`
 
-Business Model Canvas for an Electric Two-Wheeler Dealership
+## Business Model Canvas for an Electric Two-Wheeler Dealership
 
-Backstory:
+`Backstory:`
 
-Sameer, 33, from Pune, sees the growing EV wave and wants to start a dealership focused on affordable electric two-wheelers for daily commuters. He plans to offer financing options, battery swap stations, and service packages. However, Sameer has never run a dealership and needs a clear roadmap to manage suppliers, service partners, and customer acquisition.
+`Sameer, 33, from Pune, sees the growing EV wave and wants to start a dealership focused on affordable electric two-wheelers for daily commuters. He plans to offer financing options, battery swap stations, and service packages. However, Sameer has never run a dealership and needs a clear roadmap to manage suppliers, service partners, and customer acquisition.`
 
-Goal:
+`Goal:`
 
-Create a BMC that outlines the dealership’s supply chain, customer segments, and post-sales service strategy while differentiating from traditional petrol vehicle dealers.
+`Create a BMC that outlines the dealership’s supply chain, customer segments, and post-sales service strategy while differentiating from traditional petrol vehicle dealers.`
 
-Prompt:
+`Prompt:`
 
-"You are an EV market consultant. Build a detailed Business Model Canvas for an electric two-wheeler dealership targeting middle-class daily commuters in Pune. Include: key partners (EV manufacturers, financing institutions, service stations), key activities (test drives, customer financing, service support), value propositions (low running cost, eco-friendly, easy financing), customer relationships (loyalty programs, referral discounts), channels (local events, digital ads, WhatsApp marketing), cost structure (inventory, staff, marketing), and revenue streams (vehicle sales, service contracts, accessories). Factor in the current Indian EV subsidy policies." Inputs Required: List of EV brands intended to sell Initial inventory budget Planned service offerings Target monthly sales volume
+`"You are an EV market consultant. Build a detailed Business Model Canvas for an electric two-wheeler dealership targeting middle-class daily commuters in Pune. Include: key partners (EV manufacturers, financing institutions, service stations), key activities (test drives, customer financing, service support), value propositions (low running cost, eco-friendly, easy financing), customer relationships (loyalty programs, referral discounts), channels (local events, digital ads, WhatsApp marketing), cost structure (inventory, staff, marketing), and revenue streams (vehicle sales, service contracts, accessories). Factor in the current Indian EV subsidy policies." Inputs Required: List of EV brands intended to sell Initial inventory budget Planned service offerings Target monthly sales volume`
 
-Business Model Canvas for a Sustainable Clothing Brand
+## Business Model Canvas for a Sustainable Clothing Brand
 
-Backstory:
+`Backstory:`
 
-Ishita, 26, is a fashion design graduate from Ahmedabad who wants to start a slow fashion clothing label. She plans to use organic fabrics and local artisans for production, focusing on timeless, versatile pieces rather than fast fashion trends. Ishita’s biggest challenge is balancing her sustainability goals with competitive pricing in a market dominated by mass-produced clothing.
+`Ishita, 26, is a fashion design graduate from Ahmedabad who wants to start a slow fashion clothing label. She plans to use organic fabrics and local artisans for production, focusing on timeless, versatile pieces rather than fast fashion trends. Ishita’s biggest challenge is balancing her sustainability goals with competitive pricing in a market dominated by mass-produced clothing.`
 
-Goal:
+`Goal:`
 
-Create a BMC that balances sustainability, profitability, and brand positioning for an emerging Indian slow fashion label.
+`Create a BMC that balances sustainability, profitability, and brand positioning for an emerging Indian slow fashion label.`
 
-Prompt:
+`Prompt:`
 
-"You are a fashion business strategist. Develop a Business Model Canvas for a slow fashion brand using organic fabrics and artisanal production in India. Detail key partners (fabric suppliers, artisan cooperatives), key activities (design, ethical production, influencer campaigns), value propositions (sustainability, timeless design, fair wages), customer relationships (personal styling, loyalty programs), customer segments (urban millennials, conscious shoppers), channels (Instagram, pop-up stores, e-commerce), cost structure, and revenue streams (direct sales, custom orders). Factor in scalability and inventory management challenges." Inputs Required: Types of clothing planned (formal, casual, ethnic) Pricing strategy Target cities for launch Marketing budget
+`"You are a fashion business strategist. Develop a Business Model Canvas for a slow fashion brand using organic fabrics and artisanal production in India. Detail key partners (fabric suppliers, artisan cooperatives), key activities (design, ethical production, influencer campaigns), value propositions (sustainability, timeless design, fair wages), customer relationships (personal styling, loyalty programs), customer segments (urban millennials, conscious shoppers), channels (Instagram, pop-up stores, e-commerce), cost structure, and revenue streams (direct sales, custom orders). Factor in scalability and inventory management challenges." Inputs Required: Types of clothing planned (formal, casual, ethnic) Pricing strategy Target cities for launch Marketing budget`
 
-Business Model Canvas for a Home-Based Bakery
+## Business Model Canvas for a Home-Based Bakery
 
-Backstory:
+`Backstory:`
 
-Ritika, 29, has been running a small home-based bakery in Jaipur for friends and family. She now wants to expand into a full-fledged business selling premium cakes, artisanal breads, and dessert boxes online. Her aim is to reach corporate clients and gift markets but she lacks a strategic roadmap for scaling beyond her neighborhood.
+`Ritika, 29, has been running a small home-based bakery in Jaipur for friends and family. She now wants to expand into a full-fledged business selling premium cakes, artisanal breads, and dessert boxes online. Her aim is to reach corporate clients and gift markets but she lacks a strategic roadmap for scaling beyond her neighborhood.`
 
-Goal:
+`Goal:`
 
-Create a BMC that outlines a growth plan for a home-based bakery transitioning to a citywide brand.
+`Create a BMC that outlines a growth plan for a home-based bakery transitioning to a citywide brand.`
 
-Prompt:
+`Prompt:`
 
-"You are a food business strategist. Create a Business Model Canvas for a premium home bakery in Jaipur expanding into online orders and corporate gifting. Include: key partners (delivery services, ingredient suppliers), key activities (baking, packaging, seasonal menu creation), value propositions (fresh, artisanal, customizable), customer relationships (corporate tie-ups, festive offers), customer segments (corporate clients, event planners, premium households), channels (Instagram, Swiggy Gourmet, website), cost structure, and revenue streams (per-order sales, subscription dessert boxes)." Inputs Required: Menu highlights Average order value Delivery methods Special seasonal offerings
+`"You are a food business strategist. Create a Business Model Canvas for a premium home bakery in Jaipur expanding into online orders and corporate gifting. Include: key partners (delivery services, ingredient suppliers), key activities (baking, packaging, seasonal menu creation), value propositions (fresh, artisanal, customizable), customer relationships (corporate tie-ups, festive offers), customer segments (corporate clients, event planners, premium households), channels (Instagram, Swiggy Gourmet, website), cost structure, and revenue streams (per-order sales, subscription dessert boxes)." Inputs Required: Menu highlights Average order value Delivery methods Special seasonal offerings`
 
-Business Model Canvas for a Digital Marketing Agency
+## Business Model Canvas for a Digital Marketing Agency
 
-Backstory:
+`Backstory:`
 
-Aditya, 32, is a former ad agency copywriter from Mumbai who wants to start his own boutique digital marketing firm targeting small businesses in India. He aims to specialize in affordable branding, social media management, and influencer partnerships for startups. Aditya needs a plan to differentiate from hundreds of existing agencies.
+`Aditya, 32, is a former ad agency copywriter from Mumbai who wants to start his own boutique digital marketing firm targeting small businesses in India. He aims to specialize in affordable branding, social media management, and influencer partnerships for startups. Aditya needs a plan to differentiate from hundreds of existing agencies.`
 
-Goal:
+`Goal:`
 
-Create a BMC that positions the agency as a results-driven, affordable choice for small businesses.
+`Create a BMC that positions the agency as a results-driven, affordable choice for small businesses.`
 
-Prompt:
+`Prompt:`
 
-"You are a marketing consultant. Develop a Business Model Canvas for a boutique digital marketing agency targeting Indian startups and SMEs. Provide actionable details for key partners (freelancers, ad platforms), key activities (content creation, campaign management, analytics), value propositions (affordable yet effective campaigns), customer relationships (monthly reporting, dedicated account managers), customer segments (small businesses, early-stage startups), channels (LinkedIn, Instagram, referral programs), cost structure, and revenue streams (monthly retainers, project-based fees)." Inputs Required: Core services offered Team size at launch Target industries Budget for tools and ads
+`"You are a marketing consultant. Develop a Business Model Canvas for a boutique digital marketing agency targeting Indian startups and SMEs. Provide actionable details for key partners (freelancers, ad platforms), key activities (content creation, campaign management, analytics), value propositions (affordable yet effective campaigns), customer relationships (monthly reporting, dedicated account managers), customer segments (small businesses, early-stage startups), channels (LinkedIn, Instagram, referral programs), cost structure, and revenue streams (monthly retainers, project-based fees)." Inputs Required: Core services offered Team size at launch Target industries Budget for tools and ads`
 
-Business Model Canvas for a Co-working Space
+## Business Model Canvas for a Co-working Space
 
-Backstory:
+`Backstory:`
 
-Suresh, 31, has acquired a commercial property in Hyderabad and wants to turn it into a co-working hub for freelancers, startups, and remote teams. He envisions flexible seating, private cabins, and event spaces. However, he is unsure how to balance occupancy rates, community-building, and profitability.
+`Suresh, 31, has acquired a commercial property in Hyderabad and wants to turn it into a co-working hub for freelancers, startups, and remote teams. He envisions flexible seating, private cabins, and event spaces. However, he is unsure how to balance occupancy rates, community-building, and profitability.`
 
-Goal:
+`Goal:`
 
-Design a BMC that maximizes occupancy while creating a vibrant co-working community.
+`Design a BMC that maximizes occupancy while creating a vibrant co-working community.`
 
-Prompt:
+`Prompt:`
 
-"You are a workspace business consultant. Create a Business Model Canvas for a co-working space in Hyderabad targeting freelancers, startups, and remote corporate teams. Include: key partners (furniture suppliers, event organizers, internet providers), key activities (workspace management, community events, networking sessions), value propositions (flexible plans, vibrant community), customer relationships (community managers, feedback surveys), customer segments, channels (digital ads, startup incubators, referrals), cost structure, and revenue streams (desk rentals, event space hire, memberships)." Inputs Required: Number of seats and cabins available Pricing tiers Location advantages Planned amenities
+`"You are a workspace business consultant. Create a Business Model Canvas for a co-working space in Hyderabad targeting freelancers, startups, and remote corporate teams. Include: key partners (furniture suppliers, event organizers, internet providers), key activities (workspace management, community events, networking sessions), value propositions (flexible plans, vibrant community), customer relationships (community managers, feedback surveys), customer segments, channels (digital ads, startup incubators, referrals), cost structure, and revenue streams (desk rentals, event space hire, memberships)." Inputs Required: Number of seats and cabins available Pricing tiers Location advantages Planned amenities`
 
-Business Model Canvas for an EdTech Platform
+## Business Model Canvas for an EdTech Platform
 
-Backstory:
+`Backstory:`
 
-Meera, 27, an IIT graduate, wants to launch an online learning platform offering affordable upskilling courses in tech and business for Indian graduates and working professionals. She aims to blend recorded content with live Q&A sessions. Her main struggle is mapping out monetization beyond course sales.
+`Meera, 27, an IIT graduate, wants to launch an online learning platform offering affordable upskilling courses in tech and business for Indian graduates and working professionals. She aims to blend recorded content with live Q&A sessions. Her main struggle is mapping out monetization beyond course sales.`
 
-Goal:
+`Goal:`
 
-Create a BMC that ensures scalability and diverse revenue streams for an Indian EdTech startup.
+`Create a BMC that ensures scalability and diverse revenue streams for an Indian EdTech startup.`
 
-Prompt:
+`Prompt:`
 
-"You are an EdTech strategist. Create a Business Model Canvas for an online upskilling platform for Indian graduates and working professionals. Include: key partners (industry experts, LMS providers), key activities (content creation, live sessions, student support), value propositions (affordable, industry-relevant, mentorship access), customer relationships (discussion forums, mentor check-ins), customer segments (graduates, job seekers, working professionals), channels (YouTube, LinkedIn ads, affiliate marketing), cost structure, and revenue streams (course sales, subscription plans, corporate training programs)." Inputs Required: Course topics and formats Price points Target industries for placement support Planned marketing channels
+`"You are an EdTech strategist. Create a Business Model Canvas for an online upskilling platform for Indian graduates and working professionals. Include: key partners (industry experts, LMS providers), key activities (content creation, live sessions, student support), value propositions (affordable, industry-relevant, mentorship access), customer relationships (discussion forums, mentor check-ins), customer segments (graduates, job seekers, working professionals), channels (YouTube, LinkedIn ads, affiliate marketing), cost structure, and revenue streams (course sales, subscription plans, corporate training programs)." Inputs Required: Course topics and formats Price points Target industries for placement support Planned marketing channels`
 
-Business Model Canvas for a Health & Wellness Retreat
+## Business Model Canvas for a Health & Wellness Retreat
 
-Backstory:
+`Backstory:`
 
-Niharika, 35, owns a scenic property in Rishikesh and wants to transform it into a luxury wellness retreat offering yoga, meditation, Ayurvedic therapies, and plant-based cuisine. Her vision is to attract both Indian urban professionals and international tourists. She’s struggling to balance seasonal demand, premium pricing, and operational costs while maintaining an authentic wellness experience.
+`Niharika, 35, owns a scenic property in Rishikesh and wants to transform it into a luxury wellness retreat offering yoga, meditation, Ayurvedic therapies, and plant-based cuisine. Her vision is to attract both Indian urban professionals and international tourists. She’s struggling to balance seasonal demand, premium pricing, and operational costs while maintaining an authentic wellness experience.`
 
-Goal:
+`Goal:`
 
-Design a BMC that maximizes seasonal occupancy while establishing the retreat as a premium, wellness-focused brand.
+`Design a BMC that maximizes seasonal occupancy while establishing the retreat as a premium, wellness-focused brand.`
 
-Prompt:
+`Prompt:`
 
-"You are a hospitality and wellness consultant. Develop a Business Model Canvas for a luxury wellness retreat in Rishikesh offering yoga, meditation, Ayurveda, and plant-based cuisine. Detail key partners (yoga instructors, Ayurvedic doctors, travel agents), key activities (daily classes, wellness consultations, excursions), value propositions (holistic healing, premium location, personalized care), customer relationships (dedicated wellness coaches, follow-up plans), customer segments (urban Indian professionals, wellness tourists), channels (Instagram, wellness travel platforms, tie-ups with corporates), cost structure, and revenue streams (retreat packages, private sessions, online classes)." Inputs Required: Accommodation capacity Seasonal pricing strategy Signature wellness programs Marketing budget
+`"You are a hospitality and wellness consultant. Develop a Business Model Canvas for a luxury wellness retreat in Rishikesh offering yoga, meditation, Ayurveda, and plant-based cuisine. Detail key partners (yoga instructors, Ayurvedic doctors, travel agents), key activities (daily classes, wellness consultations, excursions), value propositions (holistic healing, premium location, personalized care), customer relationships (dedicated wellness coaches, follow-up plans), customer segments (urban Indian professionals, wellness tourists), channels (Instagram, wellness travel platforms, tie-ups with corporates), cost structure, and revenue streams (retreat packages, private sessions, online classes)." Inputs Required: Accommodation capacity Seasonal pricing strategy Signature wellness programs Marketing budget`
 
 Business Model Canvas for an Organic Farming Cooperative
 
