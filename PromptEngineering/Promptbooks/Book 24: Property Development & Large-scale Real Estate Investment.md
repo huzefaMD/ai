@@ -662,334 +662,334 @@ sustaining mixed-use complex with IoT-enabled homes, smart waste management, ren
 
 `"You are a senior living development consultant. Draft a proposal template for a retirement and wellness community in India. Include: Executive Summary, Demographic & Market Demand Analysis, Site Layout & Accessibility, Healthcare Facilities & Staffing, Recreational & Wellness Amenities, Security & Safety Features, Pricing Models & Payment Plans, Marketing to Retirees & Families, Financial Feasibility, and Compliance with Healthcare Regulations." Inputs Required from User: Target number of residents Types of healthcare services planned Location and climate benefits Budget and pricing models`
 
-Theme Park Development Proposal Template
+## Theme Park Development Proposal Template
 
-Backstory:
+`Backstory:`
 
-A leisure company in Goa is proposing a large-scale theme park inspired by Indian mythology and folklore. The proposal must appeal to investors, tourism boards, and brand partners.
+`A leisure company in Goa is proposing a large-scale theme park inspired by Indian mythology and folklore. The proposal must appeal to investors, tourism boards, and brand partners.`
 
-Goal:
+`Goal:`
 
-Create a theme park development proposal template.
+`Create a theme park development proposal template.`
 
-Prompt:
+`Prompt:`
 
-"You are a leisure and tourism project planner. Draft a proposal template for an Indian mythology-inspired theme park. Include: Executive Summary, Concept & Storyline Development, Attraction & Ride Design, Visitor Experience Mapping, Safety Protocols & Capacity Planning, Merchandise & Food Strategy, Marketing & Tourism Promotion, Financial Projections, Partnership Opportunities, and Environmental Sustainability Measures." Inputs Required from User: Theme/storyline concept Land size and location details Target visitor capacity Investment target
+`"You are a leisure and tourism project planner. Draft a proposal template for an Indian mythology-inspired theme park. Include: Executive Summary, Concept & Storyline Development, Attraction & Ride Design, Visitor Experience Mapping, Safety Protocols & Capacity Planning, Merchandise & Food Strategy, Marketing & Tourism Promotion, Financial Projections, Partnership Opportunities, and Environmental Sustainability Measures." Inputs Required from User: Theme/storyline concept Land size and location details Target visitor capacity Investment target`
 
-Renewable Energy-Integrated Housing Proposal Template
+## Renewable Energy-Integrated Housing Proposal Template
 
-Backstory:
+`Backstory:`
 
-A builder in Surat plans to construct a housing society where every unit has rooftop solar panels, rainwater harvesting, and energy-efficient designs. The proposal must attract eco-conscious homebuyers and green investors.
+`A builder in Surat plans to construct a housing society where every unit has rooftop solar panels, rainwater harvesting, and energy-efficient designs. The proposal must attract eco-conscious homebuyers and green investors.`
 
-Goal:
+`Goal:`
 
-Design a renewable energy-integrated housing project proposal template.
+`Design a renewable energy-integrated housing project proposal template.`
 
-Prompt:
+`Prompt:`
 
-"You are a sustainable housing proposal consultant. Draft a proposal template for a green energy housing society in India. Include: Executive Summary, Energy Efficiency Goals, Renewable Energy Systems & Specifications, Cost Savings for Residents, Environmental Certifications, Marketing to Eco-Conscious Buyers, Pricing Models, Financing Options, Community Sustainability Initiatives, and Maintenance Protocols." Inputs Required from User: Number of units planned Renewable energy systems to be installed Estimated energy savings Certification targets (e.g., IGBC, GRIHA)
+`"You are a sustainable housing proposal consultant. Draft a proposal template for a green energy housing society in India. Include: Executive Summary, Energy Efficiency Goals, Renewable Energy Systems & Specifications, Cost Savings for Residents, Environmental Certifications, Marketing to Eco-Conscious Buyers, Pricing Models, Financing Options, Community Sustainability Initiatives, and Maintenance Protocols." Inputs Required from User: Number of units planned Renewable energy systems to be installed Estimated energy savings Certification targets (e.g., IGBC, GRIHA)`
 
-Urban Slum Redevelopment Project Proposal Template
+## Urban Slum Redevelopment Project Proposal Template
 
-Backstory:
+`Backstory:`
 
-A public-private partnership in Mumbai is planning to redevelop a large slum cluster into formal housing with proper infrastructure. The proposal must outline social inclusion strategies, relocation plans, and long-term community benefits.
+`A public-private partnership in Mumbai is planning to redevelop a large slum cluster into formal housing with proper infrastructure. The proposal must outline social inclusion strategies, relocation plans, and long-term community benefits.`
 
-Goal:
+`Goal:`
 
-Create a slum redevelopment project proposal template.
+`Create a slum redevelopment project proposal template.`
 
-Prompt:
+`Prompt:`
 
-"You are an urban renewal consultant. Draft a proposal template for slum redevelopment in India. Include: Executive Summary, Socioeconomic Profile of Residents, Relocation & Rehabilitation Plans, Infrastructure Development (roads, water, sewage), Housing Unit Design & Allocation Process, Community Facilities (schools, clinics), Funding Structure, Stakeholder Engagement, Legal Compliance with Slum Rehabilitation Authority (SRA) Guidelines, and Long-Term Social Impact Assessment." Inputs Required from User: Slum location and population size Funding model (PPP, govt grants, private) Timeline for relocation and construction Stakeholder mapping
+`"You are an urban renewal consultant. Draft a proposal template for slum redevelopment in India. Include: Executive Summary, Socioeconomic Profile of Residents, Relocation & Rehabilitation Plans, Infrastructure Development (roads, water, sewage), Housing Unit Design & Allocation Process, Community Facilities (schools, clinics), Funding Structure, Stakeholder Engagement, Legal Compliance with Slum Rehabilitation Authority (SRA) Guidelines, and Long-Term Social Impact Assessment." Inputs Required from User: Slum location and population size Funding model (PPP, govt grants, private) Timeline for relocation and construction Stakeholder mapping`
 
 
-Construction Cost Analysis
+# Construction Cost Analysis
 
-High-Rise Residential Tower Cost Analysis
+## High-Rise Residential Tower Cost Analysis
 
-Backstory:
+`Backstory:`
 
-A developer in Bengaluru is planning a 35-storey premium residential tower with luxury amenities such as an infinity pool, smart home systems, and landscaped rooftop gardens. Before securing funding, they need a granular construction cost analysis to validate pricing to investors and ensure profitability without compromising on quality.
+`A developer in Bengaluru is planning a 35-storey premium residential tower with luxury amenities such as an infinity pool, smart home systems, and landscaped rooftop gardens. Before securing funding, they need a granular construction cost analysis to validate pricing to investors and ensure profitability without compromising on quality.`
 
-Goal:
+`Goal:`
 
-Create a cost analysis model for a high-rise residential tower.
+`Create a cost analysis model for a high-rise residential tower.`
 
-Prompt:
+`Prompt:`
 
-"You are a construction cost analyst. Prepare a detailed cost breakdown for a premium high-rise residential project in India. Include: land acquisition cost, pre-construction planning expenses, foundation and structural framework, high-quality finishes, MEP (mechanical, electrical, plumbing) installations, smart home tech integration, landscaping, common area amenities, legal & compliance fees, contingency reserves, and a phase-wise cost disbursement chart." Inputs Required from User: Location & land cost per sq.ft. Total built-up area planned Quality grade of materials Target project completion timeline
+`"You are a construction cost analyst. Prepare a detailed cost breakdown for a premium high-rise residential project in India. Include: land acquisition cost, pre-construction planning expenses, foundation and structural framework, high-quality finishes, MEP (mechanical, electrical, plumbing) installations, smart home tech integration, landscaping, common area amenities, legal & compliance fees, contingency reserves, and a phase-wise cost disbursement chart." Inputs Required from User: Location & land cost per sq.ft. Total built-up area planned Quality grade of materials Target project completion timeline`
 
-Affordable Housing Project Cost Analysis
+## Affordable Housing Project Cost Analysis
 
-Backstory:
+`Backstory:`
 
-An NGO-partnered developer in Jaipur is building a 500-unit affordable housing colony for low-income families. The focus is on keeping per-unit construction costs minimal while meeting all safety and quality standards.
+`An NGO-partnered developer in Jaipur is building a 500-unit affordable housing colony for low-income families. The focus is on keeping per-unit construction costs minimal while meeting all safety and quality standards.`
 
-Goal:
+`Goal:`
 
-Prepare a cost analysis template optimized for affordable housing.
+`Prepare a cost analysis template optimized for affordable housing.`
 
-Prompt:
+`Prompt:`
 
-"You are an affordable housing cost consultant. Draft a complete construction cost analysis for a large-scale affordable housing project in India. Cover: land cost (if applicable), site preparation, economical construction materials, labour costs, bulk procurement advantages, basic utility infrastructure (water, sewage, electricity), safety compliance costs, and community facility provisions. Present costs in per-unit and total project formats." Inputs Required from User: Land ownership status Total number of units planned Local material availability Expected government subsidies
+`"You are an affordable housing cost consultant. Draft a complete construction cost analysis for a large-scale affordable housing project in India. Cover: land cost (if applicable), site preparation, economical construction materials, labour costs, bulk procurement advantages, basic utility infrastructure (water, sewage, electricity), safety compliance costs, and community facility provisions. Present costs in per-unit and total project formats." Inputs Required from User: Land ownership status Total number of units planned Local material availability Expected government subsidies`
 
-Commercial Office Tower Cost Analysis
+## Commercial Office Tower Cost Analysis
 
-Backstory:
+`Backstory:`
 
-A corporate real estate firm in Gurugram is constructing a Grade-A office tower with LEED certification. They need a detailed cost analysis to negotiate financing and tenant pre-leases.
+`A corporate real estate firm in Gurugram is constructing a Grade-A office tower with LEED certification. They need a detailed cost analysis to negotiate financing and tenant pre-leases.`
 
-Goal:
+`Goal:`
 
-Create a commercial office building cost analysis.
+`Create a commercial office building cost analysis.`
 
-Prompt:
+`Prompt:`
 
-"You are a commercial property cost analyst. Prepare a cost breakdown for a Grade-A office tower in India, including: land purchase, excavation & foundation, steel frame & concrete works, HVAC systems, elevators, LEED-certified sustainable materials, fire safety installations, technology integration (data cabling, access control), parking facilities, landscaping, legal/compliance costs, and contingency planning." Inputs Required from User: Total floor area planned Target sustainability certification level Number of elevators & HVAC systems required Lease vs. sell strategy
+`"You are a commercial property cost analyst. Prepare a cost breakdown for a Grade-A office tower in India, including: land purchase, excavation & foundation, steel frame & concrete works, HVAC systems, elevators, LEED-certified sustainable materials, fire safety installations, technology integration (data cabling, access control), parking facilities, landscaping, legal/compliance costs, and contingency planning." Inputs Required from User: Total floor area planned Target sustainability certification level Number of elevators & HVAC systems required Lease vs. sell strategy`
 
-Mixed-Use Development Cost Analysis
+## Mixed-Use Development Cost Analysis
 
-Backstory:
+`Backstory:`
 
-A Mumbai developer is creating a mixed-use complex combining retail, residential, and hotel spaces. The complexity of multiple functions requires a cost analysis that allocates expenses to each segment for separate ROI tracking.
+`A Mumbai developer is creating a mixed-use complex combining retail, residential, and hotel spaces. The complexity of multiple functions requires a cost analysis that allocates expenses to each segment for separate ROI tracking.`
 
-Goal:
+`Goal:`
 
-Provide a segmented cost analysis for a mixed-use project.
+`Provide a segmented cost analysis for a mixed-use project.`
 
-Prompt:
+`Prompt:`
 
-"You are a mixed-use development consultant. Prepare a detailed construction cost analysis for a mixed-use complex in India. Include separate budget sections for residential units, retail spaces, and hospitality facilities; shared infrastructure (parking, security, landscaping); service systems (water, electricity, HVAC); and branding/marketing fit-out costs. Present allocation as both percentage and absolute value for each segment." Inputs Required from User: Floor area allocation per function Quality standards per segment Expected revenue mix (sales vs lease) Project phasing details
+`"You are a mixed-use development consultant. Prepare a detailed construction cost analysis for a mixed-use complex in India. Include separate budget sections for residential units, retail spaces, and hospitality facilities; shared infrastructure (parking, security, landscaping); service systems (water, electricity, HVAC); and branding/marketing fit-out costs. Present allocation as both percentage and absolute value for each segment." Inputs Required from User: Floor area allocation per function Quality standards per segment Expected revenue mix (sales vs lease) Project phasing details`
 
-Industrial Warehouse Complex Cost Analysis
+## Industrial Warehouse Complex Cost Analysis
 
-Backstory:
+`Backstory:`
 
-A logistics company in Ahmedabad is building a cluster of modern warehouses with cold storage facilities for perishable goods. Cost control is crucial as the business operates on thin margins.
+`A logistics company in Ahmedabad is building a cluster of modern warehouses with cold storage facilities for perishable goods. Cost control is crucial as the business operates on thin margins.`
 
-Goal:
+`Goal:`
 
-Draft a warehouse construction cost analysis.
+`Draft a warehouse construction cost analysis.`
 
-Prompt:
+`Prompt:`
 
-"You are an industrial construction analyst. Prepare a cost breakdown for a warehouse complex with cold storage, including: land cost, site preparation, steel structure, insulated roofing & walls, flooring suitable for heavy loads, refrigeration systems, loading dock construction, fire & safety installations, and basic office/admin areas. Include per sq.ft. cost and bulk procurement cost-saving recommendations." Inputs Required from User: Storage capacity needed Temperature control requirements Land plot dimensions Project delivery schedule
+`"You are an industrial construction analyst. Prepare a cost breakdown for a warehouse complex with cold storage, including: land cost, site preparation, steel structure, insulated roofing & walls, flooring suitable for heavy loads, refrigeration systems, loading dock construction, fire & safety installations, and basic office/admin areas. Include per sq.ft. cost and bulk procurement cost-saving recommendations." Inputs Required from User: Storage capacity needed Temperature control requirements Land plot dimensions Project delivery schedule`
 
-Luxury Beachfront Villa Project Cost Analysis
+## Luxury Beachfront Villa Project Cost Analysis
 
-Backstory:
+`Backstory:`
 
-A high-net-worth individual in Goa is planning to develop a gated community of 15 luxury beachfront villas for sale to NRIs and wealthy domestic buyers. Each villa will have a private pool, landscaped gardens, high-end interiors, and imported Italian marble flooring. The project also includes a clubhouse, spa, and private beach access. Because of the unique location and high expectations from the target market, accurate costing is essential for pricing strategy, premium positioning, and ensuring long-term profitability.
+`A high-net-worth individual in Goa is planning to develop a gated community of 15 luxury beachfront villas for sale to NRIs and wealthy domestic buyers. Each villa will have a private pool, landscaped gardens, high-end interiors, and imported Italian marble flooring. The project also includes a clubhouse, spa, and private beach access. Because of the unique location and high expectations from the target market, accurate costing is essential for pricing strategy, premium positioning, and ensuring long-term profitability.`
 
-Goal:
+`Goal:`
 
-Prepare a high-precision cost analysis for a luxury beachfront villa development in India.
+`Prepare a high-precision cost analysis for a luxury beachfront villa development in India.`
 
-Prompt:
+`Prompt:`
 
-"You are a luxury real estate cost consultant. Create a detailed construction cost breakdown for a gated beachfront villa project. Include: land acquisition (with beachfront premium), coastal regulatory compliance costs (CRZ clearances), foundation & structural works, high-end finishing materials (imported marble, teak wood), private pool construction per villa, premium landscaping, smart home automation systems, luxury clubhouse & spa build-out, private road & security infrastructure, marketing & branding fit-out, legal fees, and a detailed contingency allocation for coastal construction risks." Inputs Required from User: Total land size and coastal zone classification Average villa built-up area List of imported vs locally sourced materials Clubhouse size and amenities list
+`"You are a luxury real estate cost consultant. Create a detailed construction cost breakdown for a gated beachfront villa project. Include: land acquisition (with beachfront premium), coastal regulatory compliance costs (CRZ clearances), foundation & structural works, high-end finishing materials (imported marble, teak wood), private pool construction per villa, premium landscaping, smart home automation systems, luxury clubhouse & spa build-out, private road & security infrastructure, marketing & branding fit-out, legal fees, and a detailed contingency allocation for coastal construction risks." Inputs Required from User: Total land size and coastal zone classification Average villa built-up area List of imported vs locally sourced materials Clubhouse size and amenities list`
 
-Metro Rail-Adjacent Residential Development Cost Analysis
+## Metro Rail-Adjacent Residential Development Cost Analysis
 
-Backstory:
+`Backstory:`
 
-A developer in Pune has secured land directly adjacent to a newly inaugurated metro station. The plan is to build a high-density mid-segment residential complex targeting young professionals who rely on metro connectivity. The developer wants a construction cost analysis that factors in rapid build timelines to capture early market demand and incorporates noise-reduction construction materials due to the proximity to rail tracks.
+`A developer in Pune has secured land directly adjacent to a newly inaugurated metro station. The plan is to build a high-density mid-segment residential complex targeting young professionals who rely on metro connectivity. The developer wants a construction cost analysis that factors in rapid build timelines to capture early market demand and incorporates noise-reduction construction materials due to the proximity to rail tracks.`
 
-Goal:
+`Goal:`
 
-Prepare a cost analysis for a metro-adjacent mid-segment residential project.
+`Prepare a cost analysis for a metro-adjacent mid-segment residential project.`
 
-Prompt:
+`Prompt:`
 
-"You are a residential construction cost specialist. Draft a cost analysis for a mid-segment high-density housing project near a metro line. Include: land premium for transit-oriented development, noise-reduction building materials (acoustic glass, insulated walls), rapid construction technology (prefab/modular), core MEP systems, common amenities (gym, rooftop terrace), retail units at ground floor, safety compliance, and fast-track project management costs. Provide both per-unit cost and total project cost, along with a cost-benefit note on faster delivery." Inputs Required from User: Number of residential units planned Targeted completion timeline Planned amenities list Preferred construction technology
+`"You are a residential construction cost specialist. Draft a cost analysis for a mid-segment high-density housing project near a metro line. Include: land premium for transit-oriented development, noise-reduction building materials (acoustic glass, insulated walls), rapid construction technology (prefab/modular), core MEP systems, common amenities (gym, rooftop terrace), retail units at ground floor, safety compliance, and fast-track project management costs. Provide both per-unit cost and total project cost, along with a cost-benefit note on faster delivery." Inputs Required from User: Number of residential units planned Targeted completion timeline Planned amenities list Preferred construction technology`
 
-Heritage Building Restoration Cost Analysis
+## Heritage Building Restoration Cost Analysis
 
-Backstory:
+`Backstory:`
 
-An old colonial-era building in Kolkata has been purchased by a hospitality group aiming to restore it into a boutique heritage hotel. The building is protected under heritage laws, so restoration must retain original architecture while upgrading facilities to modern hospitality standards. Costs must account for heritage-specific permissions, artisan labour, and preservation-grade materials.
+`An old colonial-era building in Kolkata has been purchased by a hospitality group aiming to restore it into a boutique heritage hotel. The building is protected under heritage laws, so restoration must retain original architecture while upgrading facilities to modern hospitality standards. Costs must account for heritage-specific permissions, artisan labour, and preservation-grade materials.`
 
-Goal:
+`Goal:`
 
-Develop a heritage restoration construction cost model.
+`Develop a heritage restoration construction cost model.`
 
-Prompt:
+`Prompt:`
 
-"You are a heritage property restoration consultant. Create a construction cost analysis for restoring a colonial-era building into a boutique hotel. Include: heritage conservation permissions & consultancy fees, structural reinforcement, repair & preservation of original features (facades, columns, flooring), restoration-grade materials, specialized artisan labour, integration of modern plumbing & electrical systems, fire & safety compliance, guest room fit-outs, lobby & restaurant upgrades, landscaping, and contingency for heritage material sourcing delays." Inputs Required from User: Heritage protection classification level Total built-up area Desired number of hotel rooms Target guest segment & expected room rates
+`"You are a heritage property restoration consultant. Create a construction cost analysis for restoring a colonial-era building into a boutique hotel. Include: heritage conservation permissions & consultancy fees, structural reinforcement, repair & preservation of original features (facades, columns, flooring), restoration-grade materials, specialized artisan labour, integration of modern plumbing & electrical systems, fire & safety compliance, guest room fit-outs, lobby & restaurant upgrades, landscaping, and contingency for heritage material sourcing delays." Inputs Required from User: Heritage protection classification level Total built-up area Desired number of hotel rooms Target guest segment & expected room rates`
 
-Greenfield Industrial Park Cost Analysis
+## Greenfield Industrial Park Cost Analysis
 
-Backstory:
+`Backstory:`
 
-A state government in Tamil Nadu has invited bids for the construction of a 200-acre industrial park aimed at attracting automotive and electronics manufacturers. The winning developer must submit a cost analysis that includes site infrastructure, internal roads, water treatment facilities, and common utilities for multiple factories.
+`A state government in Tamil Nadu has invited bids for the construction of a 200-acre industrial park aimed at attracting automotive and electronics manufacturers. The winning developer must submit a cost analysis that includes site infrastructure, internal roads, water treatment facilities, and common utilities for multiple factories.`
 
-Goal:
+`Goal:`
 
-Prepare a cost breakdown for developing a large-scale industrial park.
+`Prepare a cost breakdown for developing a large-scale industrial park.`
 
-Prompt:
+`Prompt:`
 
-"You are an industrial infrastructure cost consultant. Prepare a construction cost analysis for a 200-acre industrial park in India. Include: land development & grading, internal road network, drainage systems, water treatment & sewage facilities, electrical substation & power distribution lines, factory plot demarcation, shared warehouse spaces, security & access control systems, landscaping for common areas, and sustainability features like rainwater harvesting. Present both per-acre cost and total park development cost." Inputs Required from User: Size and number of industrial plots Target industries for the park Required sustainability features Expected construction phases
+`"You are an industrial infrastructure cost consultant. Prepare a construction cost analysis for a 200-acre industrial park in India. Include: land development & grading, internal road network, drainage systems, water treatment & sewage facilities, electrical substation & power distribution lines, factory plot demarcation, shared warehouse spaces, security & access control systems, landscaping for common areas, and sustainability features like rainwater harvesting. Present both per-acre cost and total park development cost." Inputs Required from User: Size and number of industrial plots Target industries for the park Required sustainability features Expected construction phases`
 
-Hill Station Resort Construction Cost Analysis
+## Hill Station Resort Construction Cost Analysis
 
-Backstory:
+`Backstory:`
 
-A hospitality chain is planning to build an eco-friendly luxury resort in Manali with 50 cottages, a wellness spa, heated indoor pool, and adventure activity facilities. The location is in a hilly terrain with heavy snowfall in winter, so cost planning must factor in specialized foundation works, slope stabilization, and weather-proof materials.
+`A hospitality chain is planning to build an eco-friendly luxury resort in Manali with 50 cottages, a wellness spa, heated indoor pool, and adventure activity facilities. The location is in a hilly terrain with heavy snowfall in winter, so cost planning must factor in specialized foundation works, slope stabilization, and weather-proof materials.`
 
-Goal:
+`Goal:`
 
-Create a cost analysis for a hill station luxury resort project.
+`Create a cost analysis for a hill station luxury resort project.`
 
-Prompt:
+`Prompt:`
 
-"You are a hospitality construction cost planner. Draft a detailed cost breakdown for a luxury hill station resort, covering: land terracing & slope stabilization, foundation works suitable for hilly terrain, weather-resistant construction materials (snow load roofs, insulated walls), cottage build-out costs, wellness spa construction, heated indoor pool systems, landscaping with native flora, adventure facility construction, off-season maintenance provisions, and eco-certification compliance costs. Include per-cottage cost and total project cost." Inputs Required from User: Total land gradient & slope details Number of cottages & amenities planned Preferred eco-certification type Target market segment
+`"You are a hospitality construction cost planner. Draft a detailed cost breakdown for a luxury hill station resort, covering: land terracing & slope stabilization, foundation works suitable for hilly terrain, weather-resistant construction materials (snow load roofs, insulated walls), cottage build-out costs, wellness spa construction, heated indoor pool systems, landscaping with native flora, adventure facility construction, off-season maintenance provisions, and eco-certification compliance costs. Include per-cottage cost and total project cost." Inputs Required from User: Total land gradient & slope details Number of cottages & amenities planned Preferred eco-certification type Target market segment`
 
-Affordable Housing Project under PMAY Cost Analysis
+## Affordable Housing Project under PMAY Cost Analysis
 
-Backstory:
+`Backstory:`
 
-A developer in Nagpur has been allocated land under the Pradhan Mantri Awas Yojana (PMAY) to construct affordable housing units for low-income families. The project must meet government-prescribed cost ceilings per unit while ensuring quality and durability. Since the target buyers are highly price-sensitive, every material and labour decision impacts the viability of the project and eligibility for government subsidies.
+`A developer in Nagpur has been allocated land under the Pradhan Mantri Awas Yojana (PMAY) to construct affordable housing units for low-income families. The project must meet government-prescribed cost ceilings per unit while ensuring quality and durability. Since the target buyers are highly price-sensitive, every material and labour decision impacts the viability of the project and eligibility for government subsidies.`
 
-Goal:
+`Goal:`
 
-Prepare a cost analysis framework for an affordable housing project under PMAY guidelines.
+`Prepare a cost analysis framework for an affordable housing project under PMAY guidelines.`
 
-Prompt:
+`Prompt:`
 
-"You are an affordable housing cost consultant. Prepare a construction cost breakdown for a PMAY-compliant housing project, including: land acquisition or lease cost, government approval fees, foundation & structural work using cost-effective but durable materials, low-cost sanitary fittings, community facilities (playgrounds, community hall), on-site sewage & water supply, compliance with PMAY size & cost limits, and cost savings from bulk procurement. Provide both per-unit cost and total project cost, highlighting subsidy eligibility." Inputs Required from User: Number of units planned and carpet area per unit Construction technology preference (brick/block/precast) Government incentive schemes applicable Planned amenities list
+`"You are an affordable housing cost consultant. Prepare a construction cost breakdown for a PMAY-compliant housing project, including: land acquisition or lease cost, government approval fees, foundation & structural work using cost-effective but durable materials, low-cost sanitary fittings, community facilities (playgrounds, community hall), on-site sewage & water supply, compliance with PMAY size & cost limits, and cost savings from bulk procurement. Provide both per-unit cost and total project cost, highlighting subsidy eligibility." Inputs Required from User: Number of units planned and carpet area per unit Construction technology preference (brick/block/precast) Government incentive schemes applicable Planned amenities list`
 
-IT Business Park Construction Cost Analysis
+## IT Business Park Construction Cost Analysis
 
-Backstory:
+`Backstory:`
 
-A tech real estate developer in Hyderabad is planning to construct a Grade A IT business park targeting multinational tenants. The project will include multiple office towers, large floor plates, LEED Gold certification, a food court, and a conference center. The client requires an in-depth cost analysis to attract institutional investors and justify lease pricing.
+`A tech real estate developer in Hyderabad is planning to construct a Grade A IT business park targeting multinational tenants. The project will include multiple office towers, large floor plates, LEED Gold certification, a food court, and a conference center. The client requires an in-depth cost analysis to attract institutional investors and justify lease pricing.`
 
-Goal:
+`Goal:`
 
-Prepare a comprehensive cost breakdown for a Grade A IT business park.
+`Prepare a comprehensive cost breakdown for a Grade A IT business park.`
 
-Prompt:
+`Prompt:`
 
-"You are a commercial real estate cost planner. Draft a detailed construction cost analysis for a Grade A IT business park in India, covering: site development & utilities, structural works for high-rise towers, façade systems (glass curtain walls), advanced HVAC & MEP systems, energy-efficient lighting, fire safety systems, IT & fiber optic infrastructure, parking structures, landscaping, LEED certification compliance, and common amenities like food courts & auditoriums. Include total project cost, per sq.ft cost, and a cost-to-rentability ratio." Inputs Required from User: Number of office towers & height Total leasable area Target certification level Tenant type & rent expectations
+`"You are a commercial real estate cost planner. Draft a detailed construction cost analysis for a Grade A IT business park in India, covering: site development & utilities, structural works for high-rise towers, façade systems (glass curtain walls), advanced HVAC & MEP systems, energy-efficient lighting, fire safety systems, IT & fiber optic infrastructure, parking structures, landscaping, LEED certification compliance, and common amenities like food courts & auditoriums. Include total project cost, per sq.ft cost, and a cost-to-rentability ratio." Inputs Required from User: Number of office towers & height Total leasable area Target certification level Tenant type & rent expectations`
 
-Sports Stadium Construction Cost Analysis
+## Sports Stadium Construction Cost Analysis
 
-Backstory:
+`Backstory:`
 
-A state government in Gujarat has invited bids for building a mid-sized cricket stadium with seating for 30,000 spectators, including corporate boxes, media facilities, player amenities, and floodlights for night matches. The bidding contractor needs to prepare a precise cost breakdown to ensure competitive pricing without compromising safety and quality.
+`A state government in Gujarat has invited bids for building a mid-sized cricket stadium with seating for 30,000 spectators, including corporate boxes, media facilities, player amenities, and floodlights for night matches. The bidding contractor needs to prepare a precise cost breakdown to ensure competitive pricing without compromising safety and quality.`
 
-Goal:
+`Goal:`
 
-Develop a construction cost analysis for a sports stadium project.
+`Develop a construction cost analysis for a sports stadium project.`
 
-Prompt:
+`Prompt:`
 
-"You are a sports infrastructure cost consultant. Prepare a cost analysis for constructing a cricket stadium in India, covering: site grading & drainage, seating structures, roofing systems for stands, corporate box build-outs, player dressing rooms & facilities, media center & broadcasting rooms, lighting towers & floodlight systems, scoreboards & screens, internal roads & parking, landscaping, and maintenance cost projections. Provide total and per-seat cost." Inputs Required from User: Seating capacity breakdown (general, premium, corporate) Roof coverage percentage Lighting system specifications Required construction timeline
+`"You are a sports infrastructure cost consultant. Prepare a cost analysis for constructing a cricket stadium in India, covering: site grading & drainage, seating structures, roofing systems for stands, corporate box build-outs, player dressing rooms & facilities, media center & broadcasting rooms, lighting towers & floodlight systems, scoreboards & screens, internal roads & parking, landscaping, and maintenance cost projections. Provide total and per-seat cost." Inputs Required from User: Seating capacity breakdown (general, premium, corporate) Roof coverage percentage Lighting system specifications Required construction timeline
 
-Solar-Powered Warehouse Construction Cost Analysis
+## Solar-Powered Warehouse Construction Cost Analysis
 
-Backstory:
+`Backstory:`
 
-A logistics company in Rajasthan is constructing a large warehouse facility with integrated solar power generation to reduce long-term operational costs. The project will store temperature-sensitive goods, requiring advanced climate control. The client needs a cost analysis that factors in both construction and renewable energy integration.
+`A logistics company in Rajasthan is constructing a large warehouse facility with integrated solar power generation to reduce long-term operational costs. The project will store temperature-sensitive goods, requiring advanced climate control. The client needs a cost analysis that factors in both construction and renewable energy integration.`
 
-Goal:
+`Goal:
 
-Prepare a cost analysis for a solar-powered warehouse facility.
+`Prepare a cost analysis for a solar-powered warehouse facility.`
 
-Prompt:
+`Prompt:`
 
-"You are a logistics infrastructure cost analyst. Draft a construction cost breakdown for a solar-powered warehouse, including: land preparation, foundation & steel structure works, insulated wall & roofing panels, solar panel procurement & installation, inverters & battery storage systems, advanced HVAC for temperature-controlled zones, fire safety systems, internal racking & storage systems, dock levellers & loading bays, and energy efficiency compliance. Provide ROI projections from solar savings." Inputs Required from User: Warehouse capacity & dimensions Temperature range for climate control Solar generation target (kW) Storage type (palletised, bulk, mixed)
+`"You are a logistics infrastructure cost analyst. Draft a construction cost breakdown for a solar-powered warehouse, including: land preparation, foundation & steel structure works, insulated wall & roofing panels, solar panel procurement & installation, inverters & battery storage systems, advanced HVAC for temperature-controlled zones, fire safety systems, internal racking & storage systems, dock levellers & loading bays, and energy efficiency compliance. Provide ROI projections from solar savings." Inputs Required from User: Warehouse capacity & dimensions Temperature range for climate control Solar generation target (kW) Storage type (palletised, bulk, mixed)`
 
-Hospital Complex Construction Cost Analysis
+## Hospital Complex Construction Cost Analysis
 
-Backstory:
+`Backstory:`
 
-A healthcare group in Mumbai is building a 300-bed multi-specialty hospital with specialized departments for cardiology, oncology, and orthopedics. The design must meet NABH and JCI accreditation standards. The cost analysis must include advanced medical equipment fit-outs, patient amenities, and future expansion provisions.
+`A healthcare group in Mumbai is building a 300-bed multi-specialty hospital with specialized departments for cardiology, oncology, and orthopedics. The design must meet NABH and JCI accreditation standards. The cost analysis must include advanced medical equipment fit-outs, patient amenities, and future expansion provisions.
 
-Goal:
+`Goal:`
 
-Prepare a cost breakdown for a multi-specialty hospital in India.
+`Prepare a cost breakdown for a multi-specialty hospital in India.`
 
-Prompt:
+`Prompt:`
 
-"You are a healthcare facility cost consultant. Create a detailed cost analysis for a 300-bed multi-specialty hospital, covering: land & site preparation, structural & civil works, patient room fit-outs, OT complex with HEPA filtration, ICU and HDU setup, central medical gas systems, advanced diagnostic lab & imaging rooms, specialized MEP & HVAC systems, fire & safety compliance, hospital IT systems (EMR), parking facilities, landscaping, and provision for future expansion." Inputs Required from User: Number of beds & specialty departments Accreditation standards required Level of automation & IT integration Planned medical equipment list
+`"You are a healthcare facility cost consultant. Create a detailed cost analysis for a 300-bed multi-specialty hospital, covering: land & site preparation, structural & civil works, patient room fit-outs, OT complex with HEPA filtration, ICU and HDU setup, central medical gas systems, advanced diagnostic lab & imaging rooms, specialized MEP & HVAC systems, fire & safety compliance, hospital IT systems (EMR), parking facilities, landscaping, and provision for future expansion." Inputs Required from User: Number of beds & specialty departments Accreditation standards required Level of automation & IT integration Planned medical equipment list`
 
-Metro Station Construction Cost Analysis
+## Metro Station Construction Cost Analysis
 
-Backstory:
+`Backstory:`
 
-A metro rail corporation in Chennai is tendering the construction of an underground metro station in a high-traffic business district. The project involves complex excavation, tunneling, and integration with existing transport infrastructure. Cost accuracy is critical for bidding, ensuring safety compliance, and preventing overruns.
+`A metro rail corporation in Chennai is tendering the construction of an underground metro station in a high-traffic business district. The project involves complex excavation, tunneling, and integration with existing transport infrastructure. Cost accuracy is critical for bidding, ensuring safety compliance, and preventing overruns.`
 
-Goal:
+`Goal:`
 
-Create a cost analysis for an underground metro station project in India.
+`Create a cost analysis for an underground metro station project in India.`
 
-Prompt:
+`Prompt:`
 
-"You are a transportation infrastructure cost specialist. Prepare a detailed construction cost breakdown for an underground metro station, covering: land acquisition (if applicable), deep excavation & tunneling works, structural concrete & steel reinforcement, waterproofing systems, station concourse & platform build-outs, escalators & elevators, MEP & HVAC systems, fire safety compliance, ticketing & passenger information systems, integration with other transport modes, landscaping & pedestrian access points, and contingency reserves for geological challenges." Inputs Required from User: Station depth and size Expected passenger footfall Integration requirements (bus, suburban rail) Special architectural/branding elements
+`"You are a transportation infrastructure cost specialist. Prepare a detailed construction cost breakdown for an underground metro station, covering: land acquisition (if applicable), deep excavation & tunneling works, structural concrete & steel reinforcement, waterproofing systems, station concourse & platform build-outs, escalators & elevators, MEP & HVAC systems, fire safety compliance, ticketing & passenger information systems, integration with other transport modes, landscaping & pedestrian access points, and contingency reserves for geological challenges." Inputs Required from User: Station depth and size Expected passenger footfall Integration requirements (bus, suburban rail) Special architectural/branding elements`
 
-Luxury Hotel Resort Construction Cost Analysis
+## Luxury Hotel Resort Construction Cost Analysis
 
-Backstory:
+`Backstory:`
 
-A hospitality group in Goa is developing a 5-star beachfront resort with 150 rooms, private villas, a spa, multiple restaurants, and a convention hall. The project aims to attract both domestic and international tourists, demanding high-end finishes and sustainable design.
+`A hospitality group in Goa is developing a 5-star beachfront resort with 150 rooms, private villas, a spa, multiple restaurants, and a convention hall. The project aims to attract both domestic and international tourists, demanding high-end finishes and sustainable design.`
 
-Goal:
+`Goal:`
 
-Prepare a cost breakdown for a luxury beachfront resort.
+`Prepare a cost breakdown for a luxury beachfront resort.`
 
-Prompt:
+`Prompt:`
 
-"You are a hospitality construction cost consultant. Draft a comprehensive cost breakdown for a luxury beachfront resort, covering: site grading & coastal protection works, structural & architectural design, premium interior finishes for rooms and villas, infinity pool construction, spa & wellness center fit-outs, multiple themed restaurants, landscaping with native plants, renewable energy integration (solar, wind), stormwater management, and water recycling systems. Include per-room construction cost and ROI projections." Inputs Required from User: Room & villa configuration Amenities list Sustainable certification goals Target guest profile
+`"You are a hospitality construction cost consultant. Draft a comprehensive cost breakdown for a luxury beachfront resort, covering: site grading & coastal protection works, structural & architectural design, premium interior finishes for rooms and villas, infinity pool construction, spa & wellness center fit-outs, multiple themed restaurants, landscaping with native plants, renewable energy integration (solar, wind), stormwater management, and water recycling systems. Include per-room construction cost and ROI projections." Inputs Required from User: Room & villa configuration Amenities list Sustainable certification goals Target guest profile`
 
-University Campus Expansion Cost Analysis
+## University Campus Expansion Cost Analysis
 
-Backstory:
+`Backstory:`
 
-A private university in Pune is expanding its campus to include a new engineering block, student hostel, sports complex, and auditorium. The project must be completed within two academic years to meet growing student demand.
+`A private university in Pune is expanding its campus to include a new engineering block, student hostel, sports complex, and auditorium. The project must be completed within two academic years to meet growing student demand.`
 
-Goal:
+`Goal:`
 
-Create a cost analysis for a large-scale educational facility expansion.
+`Create a cost analysis for a large-scale educational facility expansion.`
 
-Prompt:
+`Prompt:`
 
-"You are an educational infrastructure cost planner. Prepare a cost breakdown for a university campus expansion, including: academic building construction, laboratory fit-outs, hostel blocks with amenities, sports facilities (indoor & outdoor), auditorium & cultural center, landscaping, campus-wide utilities (power, water, sewage), safety systems, IT & networking infrastructure, and sustainable construction practices. Provide total cost, per sq.ft cost, and staged payment schedules." Inputs Required from User: Number of buildings and floors Specialized labs & equipment needs Student capacity increase Timeline constraints
+`"You are an educational infrastructure cost planner. Prepare a cost breakdown for a university campus expansion, including: academic building construction, laboratory fit-outs, hostel blocks with amenities, sports facilities (indoor & outdoor), auditorium & cultural center, landscaping, campus-wide utilities (power, water, sewage), safety systems, IT & networking infrastructure, and sustainable construction practices. Provide total cost, per sq.ft cost, and staged payment schedules." Inputs Required from User: Number of buildings and floors Specialized labs & equipment needs Student capacity increase Timeline constraints`
 
-High-Rise Residential Tower Construction Cost Analysis
+## High-Rise Residential Tower Construction Cost Analysis
 
-Backstory:
+`Backstory:`
 
-A developer in Gurugram is constructing a 45-floor luxury residential tower with penthouses, sky lounges, automated parking, and concierge services. The project targets high-net-worth buyers, requiring premium finishes and smart home integration.
+`A developer in Gurugram is constructing a 45-floor luxury residential tower with penthouses, sky lounges, automated parking, and concierge services. The project targets high-net-worth buyers, requiring premium finishes and smart home integration.`
 
-Goal:
+`Goal:`
 
-Provide a cost breakdown for a luxury high-rise residential tower.
+`Provide a cost breakdown for a luxury high-rise residential tower.`
 
-Prompt:
+`Prompt:`
 
-"You are a high-rise residential cost consultant. Create a detailed cost analysis for a 45-storey luxury residential tower, covering: deep foundation & piling works, high-strength concrete structure, façade glazing systems, luxury interior finishes, smart home automation systems, mechanical parking systems, rooftop amenities (pool, sky lounge), MEP & HVAC systems, fire safety & evacuation compliance, and earthquake resistance features. Include per-apartment construction cost and overall cost per sq.ft." Inputs Required from User: Number of units and layouts Amenity requirements Smart home tech level Parking provisions
+`"You are a high-rise residential cost consultant. Create a detailed cost analysis for a 45-storey luxury residential tower, covering: deep foundation & piling works, high-strength concrete structure, façade glazing systems, luxury interior finishes, smart home automation systems, mechanical parking systems, rooftop amenities (pool, sky lounge), MEP & HVAC systems, fire safety & evacuation compliance, and earthquake resistance features. Include per-apartment construction cost and overall cost per sq.ft." Inputs Required from User: Number of units and layouts Amenity requirements Smart home tech level Parking provisions`
 
-Shopping Mall Construction Cost Analysis
+## Shopping Mall Construction Cost Analysis
 
-Backstory:
+`Backstory:`
 
-A retail developer in Ahmedabad is building a 1.2 million sq.ft shopping mall with anchor stores, multiplex, food court, and entertainment zone. The project will be a regional hub, so aesthetics, circulation, and tenant mix are critical to cost planning.
+`A retail developer in Ahmedabad is building a 1.2 million sq.ft shopping mall with anchor stores, multiplex, food court, and entertainment zone. The project will be a regional hub, so aesthetics, circulation, and tenant mix are critical to cost planning.`
 
-Goal:
+`Goal:`
 
-Draft a cost breakdown for a large shopping mall.
+`Draft a cost breakdown for a large shopping mall.`
 
-Prompt:
+`Prompt:`
 
-"You are a retail infrastructure cost consultant. Prepare a construction cost breakdown for a large shopping mall, covering: site development & parking structures, foundation & superstructure, façade design & branding, escalators & elevators, HVAC & fire safety systems, electrical & lighting systems, common area fit-outs, anchor tenant customization allowances, multiplex & entertainment zone fit-outs, food court build-out, landscaping, and maintenance facilities." Inputs Required from User: Mall size and number of floors Anchor tenant requirements Entertainment features planned Parking capacity
+`"You are a retail infrastructure cost consultant. Prepare a construction cost breakdown for a large shopping mall, covering: site development & parking structures, foundation & superstructure, façade design & branding, escalators & elevators, HVAC & fire safety systems, electrical & lighting systems, common area fit-outs, anchor tenant customization allowances, multiplex & entertainment zone fit-outs, food court build-out, landscaping, and maintenance facilities." Inputs Required from User: Mall size and number of floors Anchor tenant requirements Entertainment features planned Parking capacity`
 
-Renewable Energy Plant Construction Cost Analysis
+## Renewable Energy Plant Construction Cost Analysis
 
-Backstory:
+`Backstory:`
 
 A renewable energy company in Tamil Nadu is constructing a 200 MW solar power plant on leased agricultural land. Investors require a clear CAPEX and OPEX projection to assess financial viability and ROI timelines.
 
