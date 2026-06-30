@@ -1567,200 +1567,200 @@ Prompt:`
 
 `"You are a hospitality and wellness consultant. Develop a Business Model Canvas for a luxury wellness retreat in Rishikesh offering yoga, meditation, Ayurveda, and plant-based cuisine. Detail key partners (yoga instructors, Ayurvedic doctors, travel agents), key activities (daily classes, wellness consultations, excursions), value propositions (holistic healing, premium location, personalized care), customer relationships (dedicated wellness coaches, follow-up plans), customer segments (urban Indian professionals, wellness tourists), channels (Instagram, wellness travel platforms, tie-ups with corporates), cost structure, and revenue streams (retreat packages, private sessions, online classes)." Inputs Required: Accommodation capacity Seasonal pricing strategy Signature wellness programs Marketing budget`
 
-Business Model Canvas for an Organic Farming Cooperative
+## Business Model Canvas for an Organic Farming Cooperative
 
-Backstory:
+`Backstory:`
 
-A group of farmers in Punjab want to form a cooperative to grow and sell organic produce directly to urban households and restaurants. Their aim is to cut out middlemen, get fair prices, and promote chemical-free farming. They need a plan that includes logistics, marketing, and maintaining consistent quality.
+`A group of farmers in Punjab want to form a cooperative to grow and sell organic produce directly to urban households and restaurants. Their aim is to cut out middlemen, get fair prices, and promote chemical-free farming. They need a plan that includes logistics, marketing, and maintaining consistent quality.`
 
-Goal:
+`Goal:`
 
-Create a BMC that ensures sustainable farmer incomes while delivering consistent quality to customers.
+`Create a BMC that ensures sustainable farmer incomes while delivering consistent quality to customers.`
 
-Prompt:
+`Prompt:`
 
-"You are an agribusiness strategist. Create a Business Model Canvas for an organic farming cooperative in Punjab selling directly to urban households and restaurants. Include: key partners (farmers, logistics providers), key activities (harvesting, quality control, packaging), value propositions (fresh, chemical-free, farm-to-table), customer relationships (subscription delivery, seasonal offers), customer segments (urban households, premium restaurants, health stores), channels (farmers’ markets, online store, WhatsApp ordering), cost structure, and revenue streams (subscription boxes, wholesale supply)." Inputs Required: Crop types and seasonal availability Target cities Pricing model (subscription vs. per order) Packaging and branding ideas
+`"You are an agribusiness strategist. Create a Business Model Canvas for an organic farming cooperative in Punjab selling directly to urban households and restaurants. Include: key partners (farmers, logistics providers), key activities (harvesting, quality control, packaging), value propositions (fresh, chemical-free, farm-to-table), customer relationships (subscription delivery, seasonal offers), customer segments (urban households, premium restaurants, health stores), channels (farmers’ markets, online store, WhatsApp ordering), cost structure, and revenue streams (subscription boxes, wholesale supply)." Inputs Required: Crop types and seasonal availability Target cities Pricing model (subscription vs. per order) Packaging and branding ideas`
 
-Business Model Canvas for an Electric Vehicle Charging Network
+## Business Model Canvas for an Electric Vehicle Charging Network
 
-Backstory:
+`Backstory:`
 
-Raghav, 40, wants to establish a network of fast-charging stations for electric vehicles across major highways in Maharashtra. His challenge is securing land partnerships, ensuring quick ROI, and building trust with early EV adopters.
+`Raghav, 40, wants to establish a network of fast-charging stations for electric vehicles across major highways in Maharashtra. His challenge is securing land partnerships, ensuring quick ROI, and building trust with early EV adopters.`
 
-Goal:
+`Goal:`
 
-Create a BMC that positions the network as reliable, accessible, and future-ready.
+`Create a BMC that positions the network as reliable, accessible, and future-ready.`
 
-Prompt:
+`Prompt:`
 
-"You are a clean mobility consultant. Create a Business Model Canvas for an EV fast-charging station network in Maharashtra, targeting both private EV owners and commercial fleets. Include: key partners (real estate owners, EV manufacturers, payment providers), key activities (station setup, maintenance, mobile app development), value propositions (fast, reliable, highway coverage), customer relationships (loyalty programs, emergency support), customer segments (EV car owners, ride-sharing companies, logistics fleets), channels (mobile app, auto dealers, partnerships), cost structure, and revenue streams (per kWh charging fees, subscription plans, ad placements)." Inputs Required: Number of stations planned in year one Charging speed & tech partners Pricing model Customer loyalty incentives
+`"You are a clean mobility consultant. Create a Business Model Canvas for an EV fast-charging station network in Maharashtra, targeting both private EV owners and commercial fleets. Include: key partners (real estate owners, EV manufacturers, payment providers), key activities (station setup, maintenance, mobile app development), value propositions (fast, reliable, highway coverage), customer relationships (loyalty programs, emergency support), customer segments (EV car owners, ride-sharing companies, logistics fleets), channels (mobile app, auto dealers, partnerships), cost structure, and revenue streams (per kWh charging fees, subscription plans, ad placements)." Inputs Required: Number of stations planned in year one Charging speed & tech partners Pricing model Customer loyalty incentives`
 
-Business Model Canvas for a Mobile App-Based Fitness Program
+## Business Model Canvas for a Mobile App-Based Fitness Program
 
-Backstory:
+`Backstory:`
 
-Priya, 28, is a certified fitness coach from Delhi who wants to launch an app offering personalized workout and nutrition plans. She wants to combine AI-driven recommendations with live group classes, targeting busy urban professionals. Her main challenge is standing out in a crowded fitness app market.
+`Priya, 28, is a certified fitness coach from Delhi who wants to launch an app offering personalized workout and nutrition plans. She wants to combine AI-driven recommendations with live group classes, targeting busy urban professionals. Her main challenge is standing out in a crowded fitness app market.`
 
-Goal:
+`Goal:`
 
-Create a BMC that leverages personalization as the key differentiator.
+`Create a BMC that leverages personalization as the key differentiator.`
 
-Prompt:
+`Prompt:`
 
-"You are a fitness tech strategist. Develop a Business Model Canvas for a personalized fitness app offering AI-based workout plans, nutrition guidance, and live group classes. Include: key partners (AI developers, fitness influencers), key activities (app updates, live session scheduling, user engagement), value propositions (personalized fitness at scale, expert guidance), customer relationships (chat support, progress tracking), customer segments (urban professionals, young parents), channels (app stores, social media ads, influencer partnerships), cost structure, and revenue streams (subscription plans, premium one-on-one coaching)." Inputs Required: Core fitness niches covered (yoga, HIIT, weight loss) Subscription price points Live session frequency Technology stack
+`"You are a fitness tech strategist. Develop a Business Model Canvas for a personalized fitness app offering AI-based workout plans, nutrition guidance, and live group classes. Include: key partners (AI developers, fitness influencers), key activities (app updates, live session scheduling, user engagement), value propositions (personalized fitness at scale, expert guidance), customer relationships (chat support, progress tracking), customer segments (urban professionals, young parents), channels (app stores, social media ads, influencer partnerships), cost structure, and revenue streams (subscription plans, premium one-on-one coaching)." Inputs Required: Core fitness niches covered (yoga, HIIT, weight loss) Subscription price points Live session frequency Technology stack`
 
-Business Model Canvas for a Language Learning Platform
+## Business Model Canvas for a Language Learning Platform
 
-Backstory:
+`Backstory:`
 
-A startup team wants to create a language learning platform specializing in Indian regional languages like Tamil, Bengali, and Marathi, alongside global languages. Their aim is to tap into school programs, corporate training, and diaspora communities abroad.
+`A startup team wants to create a language learning platform specializing in Indian regional languages like Tamil, Bengali, and Marathi, alongside global languages. Their aim is to tap into school programs, corporate training, and diaspora communities abroad.`
 
-Goal:
+`Goal:`
 
-Design a BMC that integrates educational institutions and B2C markets.
+`Design a BMC that integrates educational institutions and B2C markets.`
 
-Prompt:
+`Prompt:`
 
-"You are an EdTech and cultural consultant. Develop a Business Model Canvas for a language learning platform focusing on Indian and global languages. Include: key partners (language experts, schools, corporates), key activities (content creation, teacher training, platform maintenance), value propositions (cultural relevance, live practice), customer relationships (progress tracking, feedback loops), customer segments (students, expats, corporates), channels (schools, social media, YouTube), cost structure, and revenue streams (subscription, institutional contracts, corporate training packages)." Inputs Required: Languages offered at launch Learning formats (live, recorded, hybrid) Certification options Target countries
+`"You are an EdTech and cultural consultant. Develop a Business Model Canvas for a language learning platform focusing on Indian and global languages. Include: key partners (language experts, schools, corporates), key activities (content creation, teacher training, platform maintenance), value propositions (cultural relevance, live practice), customer relationships (progress tracking, feedback loops), customer segments (students, expats, corporates), channels (schools, social media, YouTube), cost structure, and revenue streams (subscription, institutional contracts, corporate training packages)." Inputs Required: Languages offered at launch Learning formats (live, recorded, hybrid) Certification options Target countries`
 
-Business Model Canvas for a Drone-Based Agricultural Service
+## Business Model Canvas for a Drone-Based Agricultural Service
 
-Backstory:
+`Backstory:`
 
-A tech entrepreneur wants to offer drone spraying, crop monitoring, and soil analysis to farmers in Karnataka. His challenge is convincing traditional farmers to adopt new technology while keeping services affordable.
+`A tech entrepreneur wants to offer drone spraying, crop monitoring, and soil analysis to farmers in Karnataka. His challenge is convincing traditional farmers to adopt new technology while keeping services affordable.`
 
-Goal:
+`Goal:`
 
-Create a BMC that balances affordability with technological innovation.
+`Create a BMC that balances affordability with technological innovation.`
 
-Prompt:
+`Prompt:`
 
-"You are an agri-tech consultant. Create a Business Model Canvas for a drone-based agricultural service in Karnataka offering spraying, monitoring, and soil analysis. Include: key partners (drone manufacturers, agri-input suppliers), key activities (data collection, analysis, spraying operations), value propositions (precision farming, higher yields), customer relationships (on-field demos, subscription packages), customer segments (small and medium farmers, agri-cooperatives), channels (village agents, WhatsApp, agri fairs), cost structure, and revenue streams (per-acre fees, annual service packages)." Inputs Required: Types of crops targeted Pricing per service Drone fleet size Training programs for farmers
+`"You are an agri-tech consultant. Create a Business Model Canvas for a drone-based agricultural service in Karnataka offering spraying, monitoring, and soil analysis. Include: key partners (drone manufacturers, agri-input suppliers), key activities (data collection, analysis, spraying operations), value propositions (precision farming, higher yields), customer relationships (on-field demos, subscription packages), customer segments (small and medium farmers, agri-cooperatives), channels (village agents, WhatsApp, agri fairs), cost structure, and revenue streams (per-acre fees, annual service packages)." Inputs Required: Types of crops targeted Pricing per service Drone fleet size Training programs for farmers`
 
-Business Model Canvas for a Sustainable Clothing Brand
+## Business Model Canvas for a Sustainable Clothing Brand
 
-Backstory:
+`Backstory:`
 
-Amit, 29, a fashion designer from Jaipur, wants to launch a sustainable clothing line using organic cotton and natural dyes. His goal is to merge traditional Indian textile artistry with modern minimalistic designs, targeting eco-conscious millennials in India and abroad. The challenge is pricing sustainably without alienating cost-sensitive buyers.
+`Amit, 29, a fashion designer from Jaipur, wants to launch a sustainable clothing line using organic cotton and natural dyes. His goal is to merge traditional Indian textile artistry with modern minimalistic designs, targeting eco-conscious millennials in India and abroad. The challenge is pricing sustainably without alienating cost-sensitive buyers.`
 
-Goal:
+`Goal:`
 
-Develop a BMC that combines sustainability, cultural heritage, and market scalability.
+`Develop a BMC that combines sustainability, cultural heritage, and market scalability.`
 
-Prompt:
+`Prompt:`
 
-"You are a sustainable fashion strategist. Develop a Business Model Canvas for a clothing brand that uses organic fabrics, natural dyes, and traditional Indian handloom techniques. Include: key partners (weavers, dye specialists, e-commerce platforms), key activities (design, production, marketing), value propositions (eco-friendly, culturally rooted, premium quality), customer relationships (loyalty programs, customization), customer segments (eco-conscious millennials, global fashion buyers), channels (Instagram, fashion expos, pop-up stores), cost structure, and revenue streams (direct-to-consumer sales, limited-edition collections, B2B exports)." Inputs Required: Product categories (casual, formal, festive) Target price range Distribution strategy (online/offline mix) Sustainable sourcing certifications
+`"You are a sustainable fashion strategist. Develop a Business Model Canvas for a clothing brand that uses organic fabrics, natural dyes, and traditional Indian handloom techniques. Include: key partners (weavers, dye specialists, e-commerce platforms), key activities (design, production, marketing), value propositions (eco-friendly, culturally rooted, premium quality), customer relationships (loyalty programs, customization), customer segments (eco-conscious millennials, global fashion buyers), channels (Instagram, fashion expos, pop-up stores), cost structure, and revenue streams (direct-to-consumer sales, limited-edition collections, B2B exports)." Inputs Required: Product categories (casual, formal, festive) Target price range Distribution strategy (online/offline mix) Sustainable sourcing certifications`
 
-Business Model Canvas for a Cloud Kitchen Franchise
+## Business Model Canvas for a Cloud Kitchen Franchise
 
-Backstory:
+`Backstory:`
 
-Sanya, 32, runs a successful North Indian cuisine cloud kitchen in Bengaluru. She now wants to franchise her model across Tier 1 and Tier 2 cities. She needs a clear framework to standardize operations, maintain quality, and attract franchisees.
+`Sanya, 32, runs a successful North Indian cuisine cloud kitchen in Bengaluru. She now wants to franchise her model across Tier 1 and Tier 2 cities. She needs a clear framework to standardize operations, maintain quality, and attract franchisees.`
 
-Goal:
+`Goal:`
 
-Design a BMC that supports rapid, quality-controlled expansion.
+`Design a BMC that supports rapid, quality-controlled expansion.`
 
-Prompt:
+`Prompt:`
 
-"You are a food service business strategist. Create a Business Model Canvas for a franchised North Indian cuisine cloud kitchen chain. Include: key partners (ingredient suppliers, delivery platforms, franchisees), key activities (menu design, quality control, training), value propositions (authentic taste, fast delivery, consistent quality), customer relationships (loyalty discounts, referral programs), customer segments (urban professionals, families), channels (Swiggy, Zomato, direct app orders), cost structure, and revenue streams (franchise fees, royalty percentage, direct sales)." Inputs Required: Signature dishes Franchise entry cost City expansion priorities Kitchen setup requirements
+`"You are a food service business strategist. Create a Business Model Canvas for a franchised North Indian cuisine cloud kitchen chain. Include: key partners (ingredient suppliers, delivery platforms, franchisees), key activities (menu design, quality control, training), value propositions (authentic taste, fast delivery, consistent quality), customer relationships (loyalty discounts, referral programs), customer segments (urban professionals, families), channels (Swiggy, Zomato, direct app orders), cost structure, and revenue streams (franchise fees, royalty percentage, direct sales)." Inputs Required: Signature dishes Franchise entry cost City expansion priorities Kitchen setup requirements`
 
-Business Model Canvas for a Pet Care Subscription Box
+## Business Model Canvas for a Pet Care Subscription Box
 
-Backstory:
+`Backstory:`
 
-Vikram, 27, is a pet parent who noticed the lack of curated subscription boxes for pets in India. He wants to launch a monthly box containing toys, treats, grooming products, and health supplements, with personalization for pet type, breed, and age.
+`Vikram, 27, is a pet parent who noticed the lack of curated subscription boxes for pets in India. He wants to launch a monthly box containing toys, treats, grooming products, and health supplements, with personalization for pet type, breed, and age.`
 
-Goal:
+`Goal:`
 
-Build a BMC for a customizable pet subscription brand.
+`Build a BMC for a customizable pet subscription brand.`
 
-Prompt:
+`Prompt:`
 
-"You are a pet care business strategist. Develop a Business Model Canvas for a monthly subscription box tailored for pets in India. Include: key partners (pet product suppliers, vets, courier companies), key activities (curation, packaging, delivery), value propositions (personalized care, variety, convenience), customer relationships (subscription management, pet profile updates), customer segments (pet parents in metros, breeders, pet influencers), channels (Instagram, pet expos, e-commerce), cost structure, and revenue streams (subscriptions, one-time gift boxes, affiliate pet services)." Inputs Required: Pet categories covered Subscription pricing tiers Delivery frequency Partnerships with local pet stores
+`"You are a pet care business strategist. Develop a Business Model Canvas for a monthly subscription box tailored for pets in India. Include: key partners (pet product suppliers, vets, courier companies), key activities (curation, packaging, delivery), value propositions (personalized care, variety, convenience), customer relationships (subscription management, pet profile updates), customer segments (pet parents in metros, breeders, pet influencers), channels (Instagram, pet expos, e-commerce), cost structure, and revenue streams (subscriptions, one-time gift boxes, affiliate pet services)." Inputs Required: Pet categories covered Subscription pricing tiers Delivery frequency Partnerships with local pet stores`
 
-Business Model Canvas for a Co-Working Space in Tier 2 Cities
+## Business Model Canvas for a Co-Working Space in Tier 2 Cities
 
-Backstory:
+`Backstory:`
 
-A team of young entrepreneurs wants to launch co-working hubs in Tier 2 cities like Indore, Nagpur, and Surat, targeting freelancers, small startups, and remote corporate teams. The challenge is to maintain affordability while offering modern facilities.
+`A team of young entrepreneurs wants to launch co-working hubs in Tier 2 cities like Indore, Nagpur, and Surat, targeting freelancers, small startups, and remote corporate teams. The challenge is to maintain affordability while offering modern facilities.`
 
-Goal:
+`Goal:`
 
-Design a BMC that makes co-working attractive outside metros.
+`Design a BMC that makes co-working attractive outside metros.`
 
-Prompt:
+`Prompt:`
 
-"You are a workspace innovation consultant. Create a Business Model Canvas for co-working spaces in Tier 2 Indian cities. Include: key partners (property owners, internet providers, local cafes), key activities (facility management, event hosting, community building), value propositions (affordable, modern, collaborative), customer relationships (community managers, member events), customer segments (freelancers, small startups, corporate remote teams), channels (LinkedIn ads, local business associations, university tie-ups), cost structure, and revenue streams (desk rentals, meeting room bookings, memberships)." Inputs Required: Target occupancy rate Price per seat Amenities offered Event hosting frequency
+`"You are a workspace innovation consultant. Create a Business Model Canvas for co-working spaces in Tier 2 Indian cities. Include: key partners (property owners, internet providers, local cafes), key activities (facility management, event hosting, community building), value propositions (affordable, modern, collaborative), customer relationships (community managers, member events), customer segments (freelancers, small startups, corporate remote teams), channels (LinkedIn ads, local business associations, university tie-ups), cost structure, and revenue streams (desk rentals, meeting room bookings, memberships)." Inputs Required: Target occupancy rate Price per seat Amenities offered Event hosting frequency`
 
-Business Model Canvas for a Waste-to-Energy Startup
+## Business Model Canvas for a Waste-to-Energy Startup
 
-Backstory:
+`Backstory:`
 
-An engineering graduate team wants to set up small-scale biogas plants in rural India that convert organic waste into electricity and compost. They want to partner with village councils and NGOs for adoption.
+`An engineering graduate team wants to set up small-scale biogas plants in rural India that convert organic waste into electricity and compost. They want to partner with village councils and NGOs for adoption.`
 
-Goal:
+`Goal:`
 
-Build a BMC that emphasizes environmental impact and profitability.
+`Build a BMC that emphasizes environmental impact and profitability.`
 
-Prompt:
+`Prompt:`
 
-"You are a renewable energy business consultant. Develop a Business Model Canvas for a waste-to-energy company setting up small biogas plants in rural India. Include: key partners (village councils, NGOs, equipment manufacturers), key activities (waste collection, plant operation, electricity distribution), value propositions (clean energy, rural empowerment, organic fertilizer), customer relationships (community engagement programs), customer segments (villages, small industries, government bodies), channels (local meetings, NGO tie-ups, rural events), cost structure, and revenue streams (electricity sales, compost sales, government subsidies)." Inputs Required: Plant capacity Waste sourcing plan Government schemes available Maintenance cost model
+`"You are a renewable energy business consultant. Develop a Business Model Canvas for a waste-to-energy company setting up small biogas plants in rural India. Include: key partners (village councils, NGOs, equipment manufacturers), key activities (waste collection, plant operation, electricity distribution), value propositions (clean energy, rural empowerment, organic fertilizer), customer relationships (community engagement programs), customer segments (villages, small industries, government bodies), channels (local meetings, NGO tie-ups, rural events), cost structure, and revenue streams (electricity sales, compost sales, government subsidies)." Inputs Required: Plant capacity Waste sourcing plan Government schemes available Maintenance cost model`
 
-Business Model Canvas for a Home Renovation Marketplace
+## Business Model Canvas for a Home Renovation Marketplace
 
-Backstory:
+`Backstory:`
 
-Shreya, 34, wants to create an online platform connecting homeowners with verified renovation professionals like architects, contractors, and interior designers. The platform will provide transparent pricing and project tracking tools.
+`Shreya, 34, wants to create an online platform connecting homeowners with verified renovation professionals like architects, contractors, and interior designers. The platform will provide transparent pricing and project tracking tools.`
 
-Goal:
+`Goal:`
 
-Create a BMC that builds trust and drives high-value transactions.
+`Create a BMC that builds trust and drives high-value transactions.`
 
-Prompt:
+`Prompt:`
 
-"You are a prop-tech business strategist. Develop a Business Model Canvas for an online renovation marketplace in India. Include: key partners (contractors, architects, material suppliers), key activities (vetting professionals, providing project management tools), value propositions (verified experts, transparent pricing, project tracking), customer relationships (customer support, progress updates), customer segments (urban homeowners, NRIs, real estate developers), channels (Google ads, Instagram, real estate expos), cost structure, and revenue streams (transaction commission, premium listings, SaaS project tools)." Inputs Required: Service categories covered Commission percentage Verification process for professionals Technology features for customers
+`"You are a prop-tech business strategist. Develop a Business Model Canvas for an online renovation marketplace in India. Include: key partners (contractors, architects, material suppliers), key activities (vetting professionals, providing project management tools), value propositions (verified experts, transparent pricing, project tracking), customer relationships (customer support, progress updates), customer segments (urban homeowners, NRIs, real estate developers), channels (Google ads, Instagram, real estate expos), cost structure, and revenue streams (transaction commission, premium listings, SaaS project tools)." Inputs Required: Service categories covered Commission percentage Verification process for professionals Technology features for customers`
 
-Business Model Canvas for a Plant-Based Meat Brand
+## Business Model Canvas for a Plant-Based Meat Brand
 
-Backstory:
+`Backstory:`
 
-A Mumbai-based startup wants to produce plant-based meat alternatives for the growing vegan and health-conscious market. They plan to sell through supermarkets and online platforms while educating consumers on the benefits.
+`A Mumbai-based startup wants to produce plant-based meat alternatives for the growing vegan and health-conscious market. They plan to sell through supermarkets and online platforms while educating consumers on the benefits.`
 
-Goal:
+`Goal:`
 
-Build a BMC that combines innovation, health, and ethical branding.
+`Build a BMC that combines innovation, health, and ethical branding.`
 
-Prompt:
+`Prompt:`
 
-"You are a food innovation consultant. Create a Business Model Canvas for a plant-based meat brand targeting urban India. Include: key partners (ingredient suppliers, nutritionists, retailers), key activities (R&D, branding, distribution), value propositions (meat taste without meat, healthy, sustainable), customer relationships (nutrition guidance, sampling events), customer segments (vegans, flexitarians, fitness enthusiasts), channels (modern trade stores, online marketplaces, health cafes), cost structure, and revenue streams (retail sales, B2B restaurant supply, online subscriptions)." Inputs Required: Product varieties planned Price vs meat products Packaging design Sampling strategy
+`"You are a food innovation consultant. Create a Business Model Canvas for a plant-based meat brand targeting urban India. Include: key partners (ingredient suppliers, nutritionists, retailers), key activities (R&D, branding, distribution), value propositions (meat taste without meat, healthy, sustainable), customer relationships (nutrition guidance, sampling events), customer segments (vegans, flexitarians, fitness enthusiasts), channels (modern trade stores, online marketplaces, health cafes), cost structure, and revenue streams (retail sales, B2B restaurant supply, online subscriptions)." Inputs Required: Product varieties planned Price vs meat products Packaging design Sampling strategy`
 
-Business Model Canvas for a Skill-Based Gaming Platform
+## Business Model Canvas for a Skill-Based Gaming Platform
 
-Backstory:
+`Backstory:`
 
-A young tech founder wants to create a gaming platform where users can compete in skill-based games for cash rewards. The focus will be on compliant games like quizzes, chess, and puzzle tournaments to avoid gambling laws.
+`A young tech founder wants to create a gaming platform where users can compete in skill-based games for cash rewards. The focus will be on compliant games like quizzes, chess, and puzzle tournaments to avoid gambling laws.`
 
-Goal:
+`Goal:`
 
-Design a BMC that ensures user growth while staying legally compliant.
+`Design a BMC that ensures user growth while staying legally compliant.`
 
-Prompt:
+`Prompt:`
 
-"You are a gaming industry consultant. Develop a Business Model Canvas for a skill-based online gaming platform in India. Include: key partners (game developers, payment gateways, influencers), key activities (game design, tournament hosting, user engagement), value propositions (cash rewards for skill, fair competition, social engagement), customer relationships (leaderboards, referral programs), customer segments (students, young professionals, gaming enthusiasts), channels (YouTube ads, gaming communities, college events), cost structure, and revenue streams (entry fees, sponsorships, ads)." Inputs Required: Game genres planned Prize pool distribution Compliance requirements User acquisition budget
+`"You are a gaming industry consultant. Develop a Business Model Canvas for a skill-based online gaming platform in India. Include: key partners (game developers, payment gateways, influencers), key activities (game design, tournament hosting, user engagement), value propositions (cash rewards for skill, fair competition, social engagement), customer relationships (leaderboards, referral programs), customer segments (students, young professionals, gaming enthusiasts), channels (YouTube ads, gaming communities, college events), cost structure, and revenue streams (entry fees, sponsorships, ads)." Inputs Required: Game genres planned Prize pool distribution Compliance requirements User acquisition budget`
 
-Business Model Canvas for a Women-Only Gym Chain
+## Business Model Canvas for a Women-Only Gym Chain
 
-Backstory:
+`Backstory:`
 
-Ritu, 31, a fitness trainer from Delhi, wants to launch a chain of women-only gyms with safe spaces, flexible timings, and female trainers. She plans to expand to Tier 1 and Tier 2 cities over five years.
+`Ritu, 31, a fitness trainer from Delhi, wants to launch a chain of women-only gyms with safe spaces, flexible timings, and female trainers. She plans to expand to Tier 1 and Tier 2 cities over five years.`
 
-Goal:
+`Goal:`
 
-Create a BMC that promotes safety, inclusivity, and community-driven fitness.
+`Create a BMC that promotes safety, inclusivity, and community-driven fitness.`
 
-Prompt:
+`Prompt:`
 
-"You are a fitness business strategist. Create a Business Model Canvas for a women-only gym chain in India. Include: key partners (equipment suppliers, female trainers, safety tech providers), key activities (group classes, personal training, community events), value propositions (safe, inclusive, flexible), customer relationships (personalized plans, community challenges), customer segments (working women, homemakers, college students), channels (Instagram, women’s networks, local radio), cost structure, and revenue streams (membership fees, personal training packages, brand partnerships)." Inputs Required: Target cities for launch Gym size and facilities Price tiers Special community engagement activities
+`"You are a fitness business strategist. Create a Business Model Canvas for a women-only gym chain in India. Include: key partners (equipment suppliers, female trainers, safety tech providers), key activities (group classes, personal training, community events), value propositions (safe, inclusive, flexible), customer relationships (personalized plans, community challenges), customer segments (working women, homemakers, college students), channels (Instagram, women’s networks, local radio), cost structure, and revenue streams (membership fees, personal training packages, brand partnerships)." Inputs Required: Target cities for launch Gym size and facilities Price tiers Special community engagement activities`
 
 
