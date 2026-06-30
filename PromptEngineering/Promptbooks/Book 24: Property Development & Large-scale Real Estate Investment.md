@@ -1,20 +1,20 @@
-Feasibility Study Frameworks
+# Feasibility Study Frameworks
 
-Residential Township Feasibility Study Framework
+## Residential Township Feasibility Study Framework
 
-Backstory:
+`Backstory:`
 
-A mid-sized real estate developer in Pune is considering launching a 150-acre residential township with integrated schools, hospitals, and retail spaces. The board wants to assess the commercial viability before committing ₹800 crore in capital. They need a structured feasibility framework that evaluates market demand, cost projections, and expected returns over a 10-year horizon, along with socio-environmental impact considerations.
+`A mid-sized real estate developer in Pune is considering launching a 150-acre residential township with integrated schools, hospitals, and retail spaces. The board wants to assess the commercial viability before committing ₹800 crore in capital. They need a structured feasibility framework that evaluates market demand, cost projections, and expected returns over a 10-year horizon, along with socio-environmental impact considerations.`
 
-Goal:
+`Goal:`
 
-Create a feasibility study framework for a large-scale residential township in India.
+`Create a feasibility study framework for a large-scale residential township in India.`
 
-Prompt:
+`Prompt:`
 
-"You are a real estate feasibility consultant. Create a detailed framework for evaluating a proposed 150-acre residential township in Pune, covering: market demand assessment (demographics, affordability index, buyer preferences), competitive analysis, regulatory and land acquisition due diligence, infrastructure & amenities planning, phased construction and sales strategy, cost estimation, funding models, ROI projections, and socio-environmental impact analysis." Inputs Required from User: Project size and location details Target buyer segment demographics Proposed amenities and facilities Available financing options
+`"You are a real estate feasibility consultant. Create a detailed framework for evaluating a proposed 150-acre residential township in Pune, covering: market demand assessment (demographics, affordability index, buyer preferences), competitive analysis, regulatory and land acquisition due diligence, infrastructure & amenities planning, phased construction and sales strategy, cost estimation, funding models, ROI projections, and socio-environmental impact analysis." Inputs Required from User: Project size and location details Target buyer segment demographics Proposed amenities and facilities Available financing options`
 
-Commercial IT Park Feasibility Study Framework
+## Commercial IT Park Feasibility Study Framework
 
 Backstory:
 
