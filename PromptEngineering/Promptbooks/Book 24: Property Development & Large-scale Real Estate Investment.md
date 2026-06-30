@@ -351,315 +351,316 @@
 `"You are an infrastructure and commercial development consultant. Create a feasibility study framework for a mixed-use commercial hub near an airport, covering: air traffic and passenger flow analysis, demand mapping for business travel services, hotel and retail space planning, conference and exhibition facility sizing, transport connectivity assessment, capex and revenue forecasting, competitive landscape analysis, and regulatory and zoning compliance." Inputs Required from User: Airport location and passenger statistics Land parcel size and ownership status Planned components (hotel rooms, retail area, office space) Investment and partnership model`
 
 
-Project Proposal Templates
+# Project Proposal Templates
 
-Mixed-Use Urban Redevelopment Project Proposal Template
+## Mixed-Use Urban Redevelopment Project Proposal Template
 
-Backstory:
+`Backstory:`
 
-A mid-size real estate developer in Bengaluru has acquired a defunct industrial site near a metro station. They want to convert it into a mixed-use hub with residential towers, co-working spaces, and retail outlets. The developer needs a structured proposal template to present to both municipal authorities for approvals and private investors for funding. The proposal must balance architectural vision with hard financial metrics, while also addressing urban sustainability goals.
+`A mid-size real estate developer in Bengaluru has acquired a defunct industrial site near a metro station. They want to convert it into a mixed-use hub with residential towers, co-working spaces, and retail outlets. The developer needs a structured proposal template to present to both municipal authorities for approvals and private investors for funding. The proposal must balance architectural vision with hard financial metrics, while also addressing urban sustainability goals.`
 
-Goal:
+`Goal:`
 
-Create a detailed project proposal template for a mixed-use redevelopment project in an Indian metro city.
+`Create a detailed project proposal template for a mixed-use redevelopment project in an Indian metro city.`
 
-Prompt:
+`Prompt:`
 
-"You are an urban redevelopment proposal consultant. Design a comprehensive project proposal template for converting an old industrial site into a mixed-use hub. The template should include: Executive Summary, Project Vision & Objectives, Site Analysis & Location Advantages, Master Plan Layout & Design Concept, Target Demographic Analysis, Zoning & Regulatory Compliance, Environmental Impact & Sustainability Measures, Phased Construction Schedule, Detailed Cost Estimates & Funding Requirements, Marketing & Sales Strategy, and Risk Assessment with Mitigation Plans." Inputs Required from User: Exact site location and size Planned ratio of residential, commercial, and retail spaces Target customer profiles Estimated budget and desired funding sources
+`"You are an urban redevelopment proposal consultant. Design a comprehensive project proposal template for converting an old industrial site into a mixed-use hub. The template should include: Executive Summary, Project Vision & Objectives, Site Analysis & Location Advantages, Master Plan Layout & Design Concept, Target Demographic Analysis, Zoning & Regulatory Compliance, Environmental Impact & Sustainability Measures, Phased Construction Schedule, Detailed Cost Estimates & Funding Requirements, Marketing & Sales Strategy, and Risk Assessment with Mitigation Plans." Inputs Required from User: Exact site location and size Planned ratio of residential, commercial, and retail spaces Target customer profiles Estimated budget and desired funding sources`
 
-Luxury Waterfront Residential Project Proposal Template
+## Luxury Waterfront Residential Project Proposal Template
 
-Backstory:
+`Backstory:`
 
-A premium developer in Kochi has secured land along the backwaters for a luxury residential complex with private boat docks, landscaped gardens, and wellness amenities. They want to attract high-net-worth individuals from both India and the Gulf, so the proposal needs to convey exclusivity, lifestyle appeal, and world-class construction standards while also meeting Kerala’s Coastal Regulation Zone (CRZ) norms.
+`A premium developer in Kochi has secured land along the backwaters for a luxury residential complex with private boat docks, landscaped gardens, and wellness amenities. They want to attract high-net-worth individuals from both India and the Gulf, so the proposal needs to convey exclusivity, lifestyle appeal, and world-class construction standards while also meeting Kerala’s Coastal Regulation Zone (CRZ) norms.`
 
-Goal:
+`Goal:`
 
-Create a high-impact project proposal template for a luxury waterfront residential development.
+`Create a high-impact project proposal template for a luxury waterfront residential development.`
 
-Prompt:
+`Prompt:`
 
-"You are a luxury real estate proposal expert. Draft a complete project proposal template for a waterfront residential project in Kerala. The template should cover: Executive Summary, Unique Value Proposition & Lifestyle Narrative, Detailed Site & Waterway Analysis, Architectural & Interior Design Highlights, Compliance with CRZ and Local Building Codes, Sustainability & Flood-Resilience Features, Amenities & Service Offerings, Phased Development Plan, Budget Breakdown & Premium Pricing Strategy, Marketing & Sales Channels (Domestic & International), and Exit Strategy for Investors." Inputs Required from User: Waterfront location details and CRZ category Number and type of residential units Luxury amenities planned Projected pricing per unit
+`"You are a luxury real estate proposal expert. Draft a complete project proposal template for a waterfront residential project in Kerala. The template should cover: Executive Summary, Unique Value Proposition & Lifestyle Narrative, Detailed Site & Waterway Analysis, Architectural & Interior Design Highlights, Compliance with CRZ and Local Building Codes, Sustainability & Flood-Resilience Features, Amenities & Service Offerings, Phased Development Plan, Budget Breakdown & Premium Pricing Strategy, Marketing & Sales Channels (Domestic & International), and Exit Strategy for Investors." Inputs Required from User: Waterfront location details and CRZ category Number and type of residential units Luxury amenities planned Projected pricing per unit`
 
-Affordable Housing Township Proposal Template
+## Affordable Housing Township Proposal Template
 
-Backstory:
+`Backstory:`
 
-A developer in Nagpur is partnering with the state government under the Pradhan Mantri Awas Yojana (PMAY) scheme to build a large affordable housing township. The proposal must meet government subsidy criteria, demonstrate cost efficiency, and present a clear plan for community infrastructure like schools, healthcare, and public transport connectivity.
+`A developer in Nagpur is partnering with the state government under the Pradhan Mantri Awas Yojana (PMAY) scheme to build a large affordable housing township. The proposal must meet government subsidy criteria, demonstrate cost efficiency, and present a clear plan for community infrastructure like schools, healthcare, and public transport connectivity.`
 
-Goal:
+`Goal:`
 
-Create a proposal template tailored for government-backed affordable housing projects.
+`Create a proposal template tailored for government-backed affordable housing projects.`
 
-Prompt:
+`Prompt:`
 
-"You are an affordable housing project consultant. Design a proposal template for a PMAY-supported township in India. The template should include: Executive Summary, Scheme Eligibility & Compliance Statement, Site and Surrounding Infrastructure Analysis, Housing Typologies & Unit Plans, Cost-Effective Construction Technologies, Green Building & Energy Efficiency Measures, Social Infrastructure Plan (schools, clinics, public spaces), Construction Timeline with Milestones, Detailed Cost Sheet with Subsidy Utilization, Stakeholder & Community Engagement Strategy, and Risk Mitigation Measures." Inputs Required from User: Project location and land size Number and type of housing units Construction technology chosen Government subsidies and financing options
+`"You are an affordable housing project consultant. Design a proposal template for a PMAY-supported township in India. The template should include: Executive Summary, Scheme Eligibility & Compliance Statement, Site and Surrounding Infrastructure Analysis, Housing Typologies & Unit Plans, Cost-Effective Construction Technologies, Green Building & Energy Efficiency Measures, Social Infrastructure Plan (schools, clinics, public spaces), Construction Timeline with Milestones, Detailed Cost Sheet with Subsidy Utilization, Stakeholder & Community Engagement Strategy, and Risk Mitigation Measures." Inputs Required from User: Project location and land size Number and type of housing units Construction technology chosen Government subsidies and financing options`
 
-Integrated Resort & Hospitality Project Proposal Template
+## Integrated Resort & Hospitality Project Proposal Template
 
-Backstory:
+`Backstory:`
 
-A Goa-based developer is planning a large integrated resort combining luxury villas, a five-star hotel, conference facilities, and a wellness spa. The proposal must appeal to foreign investors, tourism authorities, and high-end travel agencies. It must highlight tourism potential, ROI, and sustainability compliance under Goa’s tourism development norms.
+`A Goa-based developer is planning a large integrated resort combining luxury villas, a five-star hotel, conference facilities, and a wellness spa. The proposal must appeal to foreign investors, tourism authorities, and high-end travel agencies. It must highlight tourism potential, ROI, and sustainability compliance under Goa’s tourism development norms.`
 
-Goal:
+`Goal:`
 
-Develop a polished proposal template for a high-end integrated resort project.
+`Develop a polished proposal template for a high-end integrated resort project.`
 
-Prompt:
+`Prompt:`
 
-"You are a hospitality real estate proposal strategist. Create a proposal template for an integrated resort project in Goa. Include: Executive Summary, Tourism Market Analysis, Concept & Theme Development, Site Layout & Architectural Plans, Compliance with Local Tourism and Coastal Regulations, Sustainable Operations Plan (water recycling, renewable energy), Service & Amenity Packages, Seasonal Pricing Models, Revenue Projections & ROI Analysis, Marketing & Distribution Channels (domestic & international), and Partnerships with Tour Operators." Inputs Required from User: Resort location and land area Mix of hospitality facilities planned Target markets and seasonal visitor projections Investment and operational budget
+`"You are a hospitality real estate proposal strategist. Create a proposal template for an integrated resort project in Goa. Include: Executive Summary, Tourism Market Analysis, Concept & Theme Development, Site Layout & Architectural Plans, Compliance with Local Tourism and Coastal Regulations, Sustainable Operations Plan (water recycling, renewable energy), Service & Amenity Packages, Seasonal Pricing Models, Revenue Projections & ROI Analysis, Marketing & Distribution Channels (domestic & international), and Partnerships with Tour Operators." Inputs Required from User: Resort location and land area Mix of hospitality facilities planned Target markets and seasonal visitor projections Investment and operational budget`
 
-Greenfield Industrial Park Proposal Template
+## Greenfield Industrial Park Proposal Template
 
-Backstory:
+`Backstory:`
 
-An industrial real estate company in Gujarat wants to develop a 500-acre greenfield industrial park to attract manufacturing units in sectors like automotive, textiles, and electronics. The proposal needs to appeal to both domestic companies and foreign direct investment (FDI) partners, focusing on infrastructure readiness, ease of doing business, and government incentives.
+`An industrial real estate company in Gujarat wants to develop a 500-acre greenfield industrial park to attract manufacturing units in sectors like automotive, textiles, and electronics. The proposal needs to appeal to both domestic companies and foreign direct investment (FDI) partners, focusing on infrastructure readiness, ease of doing business, and government incentives.`
 
-Goal:
+`Goal:`
 
-Create a robust proposal template for a large-scale industrial park.
+`Create a robust proposal template for a large-scale industrial park.`
 
-Prompt:
+`Prompt:`
 
-"You are an industrial development consultant. Draft a project proposal template for a greenfield industrial park in Gujarat. The template should feature: Executive Summary, Target Industry Segments, Site Location & Connectivity Analysis, Infrastructure Blueprint (roads, power, water, telecom), Compliance with Industrial Zoning and Environmental Regulations, Tax Incentives & Government Support Programs, Plot Layout & Customization Options, Phased Development Plan, Cost & Lease Rate Structure, Marketing to Domestic & International Manufacturers, and Long-Term Park Management & Maintenance Strategy." Inputs Required from User: Exact location and size of industrial park Target industries and unit sizes Planned infrastructure facilities Government incentives available
+`"You are an industrial development consultant. Draft a project proposal template for a greenfield industrial park in Gujarat. The template should feature: Executive Summary, Target Industry Segments, Site Location & Connectivity Analysis, Infrastructure Blueprint (roads, power, water, telecom), Compliance with Industrial Zoning and Environmental Regulations, Tax Incentives & Government Support Programs, Plot Layout & Customization Options, Phased Development Plan, Cost & Lease Rate Structure, Marketing to Domestic & International Manufacturers, and Long-Term Park Management & Maintenance Strategy." Inputs Required from User: Exact location and size of industrial park Target industries and unit sizes Planned infrastructure facilities Government incentives available`
 
-Smart City Mixed Residential-Commercial Project Proposal Template
+## Smart City Mixed Residential-Commercial Project Proposal Template
 
-Backstory:
+`Backstory:`
 
-A consortium of developers in Pune has been awarded a plot under the Smart City Mission. They want to create a self-sustaining mixed-use complex with IoT-enabled homes, smart waste management, renewable energy integration, and a commercial hub for startups. The proposal must convince municipal authorities, tech partners, and investors about the innovation, sustainability, and long-term ROI potential.
+`A consortium of developers in Pune has been awarded a plot under the Smart City Mission. They want to create a self-
+sustaining mixed-use complex with IoT-enabled homes, smart waste management, renewable energy integration, and a commercial hub for startups. The proposal must convince municipal authorities, tech partners, and investors about the innovation, sustainability, and long-term ROI potential.`
 
-Goal:
+`Goal:`
 
-Create a proposal template tailored for smart city mixed-use developments.
+`Create a proposal template tailored for smart city mixed-use developments.`
 
-Prompt:
+`Prompt:`
 
-"You are an urban innovation proposal expert. Draft a detailed proposal template for a smart city project combining residential and commercial spaces. Include: Executive Summary, Smart Infrastructure Vision, IoT & Automation Features, Green Building Certifications & Energy Targets, Digital Connectivity & Public Wi-Fi Plan, Waste & Water Recycling Systems, Public Space Design & Accessibility Features, Safety & Surveillance Technology, Financial Model with Technology ROI, Stakeholder Collaboration Plan, and Compliance with Smart City Guidelines." Inputs Required from User: Smart technology partners involved Number and type of residential/commercial units Sustainability targets (energy, water savings) Budget and funding sources
+`"You are an urban innovation proposal expert. Draft a detailed proposal template for a smart city project combining residential and commercial spaces. Include: Executive Summary, Smart Infrastructure Vision, IoT & Automation Features, Green Building Certifications & Energy Targets, Digital Connectivity & Public Wi-Fi Plan, Waste & Water Recycling Systems, Public Space Design & Accessibility Features, Safety & Surveillance Technology, Financial Model with Technology ROI, Stakeholder Collaboration Plan, and Compliance with Smart City Guidelines." Inputs Required from User: Smart technology partners involved Number and type of residential/commercial units Sustainability targets (energy, water savings) Budget and funding sources`
 
-Public-Private Partnership (PPP) Urban Transport-Oriented Development Proposal
+## Public-Private Partnership (PPP) Urban Transport-Oriented Development Proposal
 
-Backstory:
+`Backstory:`
 
-A real estate firm in Hyderabad is collaborating with the metro rail authority to develop a large transport-oriented commercial and residential hub directly connected to a major metro station. The proposal needs to highlight the benefits of reduced traffic congestion, increased public transport usage, and high footfall for retail tenants.
+`A real estate firm in Hyderabad is collaborating with the metro rail authority to develop a large transport-oriented commercial and residential hub directly connected to a major metro station. The proposal needs to highlight the benefits of reduced traffic congestion, increased public transport usage, and high footfall for retail tenants.`
 
-Goal:
+`Goal:`
 
-Create a PPP-friendly proposal template for transport-oriented development projects.
+`Create a PPP-friendly proposal template for transport-oriented development projects.`
 
-Prompt:
+`Prompt:`
 
-"You are an infrastructure and real estate PPP consultant. Create a project proposal template for a transport-oriented development in India. Cover: Executive Summary, Strategic Location & Transit Connectivity, Land Use Plan (residential, retail, commercial), Expected Commuter Footfall Analysis, Green Mobility Features (cycling paths, EV charging), Urban Design & Walkability Enhancements, Financial Structuring for PPP Agreements, Stakeholder & Government Collaboration Plan, Long-Term Revenue Sharing Model, and Risk Assessment & Mitigation." Inputs Required from User: Transport authority partnership details Land allocation for each use type Projected commuter data PPP contract terms
+`"You are an infrastructure and real estate PPP consultant. Create a project proposal template for a transport-oriented development in India. Cover: Executive Summary, Strategic Location & Transit Connectivity, Land Use Plan (residential, retail, commercial), Expected Commuter Footfall Analysis, Green Mobility Features (cycling paths, EV charging), Urban Design & Walkability Enhancements, Financial Structuring for PPP Agreements, Stakeholder & Government Collaboration Plan, Long-Term Revenue Sharing Model, and Risk Assessment & Mitigation." Inputs Required from User: Transport authority partnership details Land allocation for each use type Projected commuter data PPP contract terms`
 
-IT Tech Park Proposal Template
+## IT Tech Park Proposal Template
 
-Backstory:
+`Backstory:`
 
-A developer in Bengaluru is planning a state-of-the-art IT tech park with co-working floors, data centers, and recreational spaces. The proposal must attract global IT companies, highlight world-class amenities, and comply with Special Economic Zone (SEZ) norms.
+`A developer in Bengaluru is planning a state-of-the-art IT tech park with co-working floors, data centers, and recreational spaces. The proposal must attract global IT companies, highlight world-class amenities, and comply with Special Economic Zone (SEZ) norms.`
 
-Goal:
+`Goal:`
 
-Design a proposal template to market and secure funding for a tech park development.
+`Design a proposal template to market and secure funding for a tech park development.`
 
-Prompt:
+`Prompt:`
 
-"You are a commercial real estate proposal consultant. Draft a detailed proposal template for an IT tech park in Bengaluru. Include: Executive Summary, IT Industry Market Analysis, Master Plan Layout & Building Specifications, SEZ Compliance Statement, Data Center Infrastructure & Connectivity, Employee Wellbeing Amenities, Energy-Efficient Design & LEED Certification Plans, Leasing & Pricing Model, Tenant Acquisition Strategy, Investment Structure & ROI Projections, and Risk Mitigation Plans." Inputs Required from User: SEZ approval status Planned built-up area and facility mix Target tenant profile Investment and leasing model
+`"You are a commercial real estate proposal consultant. Draft a detailed proposal template for an IT tech park in Bengaluru. Include: Executive Summary, IT Industry Market Analysis, Master Plan Layout & Building Specifications, SEZ Compliance Statement, Data Center Infrastructure & Connectivity, Employee Wellbeing Amenities, Energy-Efficient Design & LEED Certification Plans, Leasing & Pricing Model, Tenant Acquisition Strategy, Investment Structure & ROI Projections, and Risk Mitigation Plans." Inputs Required from User: SEZ approval status Planned built-up area and facility mix Target tenant profile Investment and leasing model`
 
-Co-Living Residential Project Proposal Template
+## Co-Living Residential Project Proposal Template
 
-Backstory:
+`Backstory:`
 
-A real estate startup in Gurugram is targeting young professionals and students by creating fully-furnished co-living spaces with flexible rental terms, community events, and shared amenities. They need a proposal to secure venture capital funding and landlord partnerships for property acquisition.
+`A real estate startup in Gurugram is targeting young professionals and students by creating fully-furnished co-living spaces with flexible rental terms, community events, and shared amenities. They need a proposal to secure venture capital funding and landlord partnerships for property acquisition.`
 
-Goal:
+`Goal:`
 
-Create a project proposal template for a co-living residential brand launch.
+`Create a project proposal template for a co-living residential brand launch.`
 
-Prompt:
+`Prompt:`
 
-"You are a co-living housing strategist. Prepare a detailed proposal template for launching a co-living brand in an Indian metro. Include: Executive Summary, Market Demand & Target Demographics, Property Location Strategy, Space Layout & Interior Design Standards, Pricing Models & Membership Plans, Community Engagement Programs, Facility Management & Security Plans, Technology Integration (app-based access, billing), Revenue Projections & Investor ROI, and Legal Compliance with Rental Laws." Inputs Required from User: Target city and neighborhood preferences Planned property size and unit count Amenities and services offered Pricing model
+`"You are a co-living housing strategist. Prepare a detailed proposal template for launching a co-living brand in an Indian metro. Include: Executive Summary, Market Demand & Target Demographics, Property Location Strategy, Space Layout & Interior Design Standards, Pricing Models & Membership Plans, Community Engagement Programs, Facility Management & Security Plans, Technology Integration (app-based access, billing), Revenue Projections & Investor ROI, and Legal Compliance with Rental Laws." Inputs Required from User: Target city and neighborhood preferences Planned property size and unit count Amenities and services offered Pricing model`
 
-Senior Living Community Project Proposal Template
+## Senior Living Community Project Proposal Template
 
-Backstory:
+`Backstory:`
 
-A healthcare-oriented developer in Ahmedabad is creating a retirement community with assisted living facilities, medical services, wellness activities, and green spaces. They need a proposal to pitch to healthcare investors and banks for financing.
+`A healthcare-oriented developer in Ahmedabad is creating a retirement community with assisted living facilities, medical services, wellness activities, and green spaces. They need a proposal to pitch to healthcare investors and banks for financing.`
 
-Goal:
+`Goal:`
 
-Build a proposal template for a senior living project integrating healthcare and residential real estate.
+`Build a proposal template for a senior living project integrating healthcare and residential real estate.`
 
-Prompt:
+`Prompt:`
 
-"You are a senior housing development consultant. Draft a proposal template for a retirement community in India. Include: Executive Summary, Demographic Analysis & Market Potential, Site & Accessibility Assessment, Housing Types & Care Levels, Medical & Wellness Facilities, Recreational & Social Amenities, Staffing & Training Plans, Partnerships with Healthcare Providers, Pricing Models & Payment Plans, Revenue Forecasts, and Compliance with Senior Care Regulations." Inputs Required from User: Planned capacity (number of residents) Medical facilities included Target income segment Location and healthcare partnerships
+`"You are a senior housing development consultant. Draft a proposal template for a retirement community in India. Include: Executive Summary, Demographic Analysis & Market Potential, Site & Accessibility Assessment, Housing Types & Care Levels, Medical & Wellness Facilities, Recreational & Social Amenities, Staffing & Training Plans, Partnerships with Healthcare Providers, Pricing Models & Payment Plans, Revenue Forecasts, and Compliance with Senior Care Regulations." Inputs Required from User: Planned capacity (number of residents) Medical facilities included Target income segment Location and healthcare partnerships`
 
-Affordable Housing Project Proposal Template
+## Affordable Housing Project Proposal Template
 
-Backstory:
+`Backstory:`
 
-A real estate firm in Nagpur is partnering with the state housing board under the Pradhan Mantri Awas Yojana (PMAY) to build affordable apartments for low-income families. The proposal must meet government scheme requirements while appealing to private investors for additional funding. It should clearly highlight cost-efficiency, eligibility compliance, and social impact.
+`A real estate firm in Nagpur is partnering with the state housing board under the Pradhan Mantri Awas Yojana (PMAY) to build affordable apartments for low-income families. The proposal must meet government scheme requirements while appealing to private investors for additional funding. It should clearly highlight cost-efficiency, eligibility compliance, and social impact.`
 
-Goal:
+`Goal:`
 
-Create a comprehensive proposal template for an affordable housing project under PMAY guidelines.
+`Create a comprehensive proposal template for an affordable housing project under PMAY guidelines.`
 
-Prompt:
+`Prompt:`
 
-"You are an affordable housing proposal consultant. Draft a proposal template for a PMAY-linked housing project. Include: Executive Summary, Market Need & Target Beneficiary Profile, Project Location & Accessibility, Unit Size & Layout Specifications, Cost Optimization Strategies, Government Incentives & Subsidy Details, Construction Timeline & Phases, Quality Standards & Material Choices, Financing Structure (government + private), Social Impact Assessment, and Compliance with Affordable Housing Norms." Inputs Required from User: Land size and location details Target number of housing units Estimated per-unit cost Government partnership details
+`"You are an affordable housing proposal consultant. Draft a proposal template for a PMAY-linked housing project. Include: Executive Summary, Market Need & Target Beneficiary Profile, Project Location & Accessibility, Unit Size & Layout Specifications, Cost Optimization Strategies, Government Incentives & Subsidy Details, Construction Timeline & Phases, Quality Standards & Material Choices, Financing Structure (government + private), Social Impact Assessment, and Compliance with Affordable Housing Norms." Inputs Required from User: Land size and location details Target number of housing units Estimated per-unit cost Government partnership details`
 
-Luxury Waterfront Residential Project Proposal Template
+## Luxury Waterfront Residential Project Proposal Template
 
-Backstory:
+`Backstory:`
 
-A Mumbai-based developer has secured a prime plot overlooking the Arabian Sea and wants to create an ultra-luxury apartment complex with premium amenities like private docks, rooftop pools, and concierge services. The proposal must target high-net-worth individuals (HNIs) and international buyers.
+`A Mumbai-based developer has secured a prime plot overlooking the Arabian Sea and wants to create an ultra-luxury apartment complex with premium amenities like private docks, rooftop pools, and concierge services. The proposal must target high-net-worth individuals (HNIs) and international buyers.`
 
-Goal:
+`Goal:`
 
-Design a high-end real estate project proposal for a luxury waterfront property.
+`Design a high-end real estate project proposal for a luxury waterfront property.`
 
-Prompt:
+`Prompt:`
 
-"You are a luxury real estate branding expert. Create a proposal template for an ultra-premium waterfront residential complex. Include: Executive Summary, Target Market & Buyer Persona, Location Advantage & Views Analysis, Architectural Design Showcase, Luxury Amenities & Service Inclusions, Sustainability Features, Security & Privacy Protocols, Pricing Strategy & Payment Schedules, Sales & Marketing Plan for HNIs, Investment Potential Analysis, and Legal Compliance with Coastal Regulation Zone (CRZ) Rules." Inputs Required from User: Location coordinates and CRZ clearance status Planned amenities and unit count Pricing range per unit Target markets (domestic & international)
+`"You are a luxury real estate branding expert. Create a proposal template for an ultra-premium waterfront residential complex. Include: Executive Summary, Target Market & Buyer Persona, Location Advantage & Views Analysis, Architectural Design Showcase, Luxury Amenities & Service Inclusions, Sustainability Features, Security & Privacy Protocols, Pricing Strategy & Payment Schedules, Sales & Marketing Plan for HNIs, Investment Potential Analysis, and Legal Compliance with Coastal Regulation Zone (CRZ) Rules." Inputs Required from User: Location coordinates and CRZ clearance status Planned amenities and unit count Pricing range per unit Target markets (domestic & international)`
 
-Integrated Township Development Proposal Template
+## Integrated Township Development Proposal Template
 
-Backstory:
+`Backstory:`
 
-A developer in Chennai is planning a 200-acre integrated township with schools, hospitals, shopping centers, offices, and residences. The proposal needs to address multiple stakeholders: government agencies, banks, potential homebuyers, and corporate tenants.
+`A developer in Chennai is planning a 200-acre integrated township with schools, hospitals, shopping centers, offices, and residences. The proposal needs to address multiple stakeholders: government agencies, banks, potential homebuyers, and corporate tenants.`
 
-Goal:
+`Goal:`
 
-Create a large-scale township proposal template that integrates residential, commercial, and institutional spaces.
+`Create a large-scale township proposal template that integrates residential, commercial, and institutional spaces.`
 
-Prompt:
+`Prompt:`
 
-"You are a township development strategist. Draft a proposal template for a 200-acre integrated township in India. Include: Executive Summary, Master Planning & Zoning Breakdown, Infrastructure Development Plan (roads, utilities), Social Amenities (schools, hospitals, parks), Commercial & Office Space Strategy, Transportation & Connectivity Plans, Sustainability & Green Spaces, Phased Construction & Sales Strategy, Detailed Financial Projections, and Risk & Contingency Planning." Inputs Required from User: Land parcel details and ownership status Planned population capacity Phasing schedule Financing sources
+`"You are a township development strategist. Draft a proposal template for a 200-acre integrated township in India. Include: Executive Summary, Master Planning & Zoning Breakdown, Infrastructure Development Plan (roads, utilities), Social Amenities (schools, hospitals, parks), Commercial & Office Space Strategy, Transportation & Connectivity Plans, Sustainability & Green Spaces, Phased Construction & Sales Strategy, Detailed Financial Projections, and Risk & Contingency Planning." Inputs Required from User: Land parcel details and ownership status Planned population capacity Phasing schedule Financing sources`
 
-Boutique Heritage Hotel Redevelopment Proposal Template
+## Boutique Heritage Hotel Redevelopment Proposal Template
 
-Backstory:
+`Backstory:`
 
-A hospitality entrepreneur in Jaipur has leased a 19th-century haveli and plans to convert it into a boutique heritage hotel. The proposal must highlight heritage conservation efforts, cultural experiences, and high-margin tourism potential.
+`A hospitality entrepreneur in Jaipur has leased a 19th-century haveli and plans to convert it into a boutique heritage hotel. The proposal must highlight heritage conservation efforts, cultural experiences, and high-margin tourism potential.`
 
-Goal:
+`Goal:`
 
-Design a proposal template for converting a heritage property into a luxury hospitality destination.
+`Design a proposal template for converting a heritage property into a luxury hospitality destination.`
 
-Prompt:
+`Prompt:`
 
-"You are a heritage hospitality consultant. Create a proposal template for a boutique heritage hotel in India. Include: Executive Summary, Historical Significance & Preservation Plan, Architectural Restoration Approach, Cultural Experience Offerings, Room Categories & Amenities, Food & Beverage Concept, Marketing to Domestic & International Tourists, Partnership Opportunities with Travel Platforms, Projected Occupancy & Revenue, and Compliance with Heritage & Tourism Regulations." Inputs Required from User: Heritage property location and ownership/lease terms Planned number of rooms Target tourist segment Budget allocation for restoration
+`"You are a heritage hospitality consultant. Create a proposal template for a boutique heritage hotel in India. Include: Executive Summary, Historical Significance & Preservation Plan, Architectural Restoration Approach, Cultural Experience Offerings, Room Categories & Amenities, Food & Beverage Concept, Marketing to Domestic & International Tourists, Partnership Opportunities with Travel Platforms, Projected Occupancy & Revenue, and Compliance with Heritage & Tourism Regulations." Inputs Required from User: Heritage property location and ownership/lease terms Planned number of rooms Target tourist segment Budget allocation for restoration`
 
-Greenfield Industrial Park Development Proposal Template
+## Greenfield Industrial Park Development Proposal Template
 
-Backstory:
+`Backstory:`
 
-A state industrial development corporation in Gujarat is inviting private developers to propose large-scale industrial parks focusing on manufacturing, warehousing, and logistics. The developer must prepare a proposal that meets infrastructure requirements and sustainability standards while attracting anchor tenants.
+`A state industrial development corporation in Gujarat is inviting private developers to propose large-scale industrial parks focusing on manufacturing, warehousing, and logistics. The developer must prepare a proposal that meets infrastructure requirements and sustainability standards while attracting anchor tenants.`
 
-Goal:
+`Goal:`
 
-Create a proposal template for a greenfield industrial park development in India.
+`Create a proposal template for a greenfield industrial park development in India.`
 
-Prompt:
+`Prompt:`
 
-"You are an industrial infrastructure proposal specialist. Draft a proposal template for developing a new industrial park. Include: Executive Summary, Industrial Demand & Market Analysis, Site Selection & Infrastructure Layout, Utilities & Power Supply Plans, Road & Rail Connectivity Details, Environmental & Waste Management Strategies, Tenant Acquisition Plan, Incentive Packages for Businesses, Financial Feasibility & ROI Projections, and Risk Management Framework." Inputs Required from User: Total land area available Target industries and sectors Infrastructure development budget State incentives or subsidies
+`"You are an industrial infrastructure proposal specialist. Draft a proposal template for developing a new industrial park. Include: Executive Summary, Industrial Demand & Market Analysis, Site Selection & Infrastructure Layout, Utilities & Power Supply Plans, Road & Rail Connectivity Details, Environmental & Waste Management Strategies, Tenant Acquisition Plan, Incentive Packages for Businesses, Financial Feasibility & ROI Projections, and Risk Management Framework." Inputs Required from User: Total land area available Target industries and sectors Infrastructure development budget State incentives or subsidies`
 
-Eco-Resort Development Proposal Template
+## Eco-Resort Development Proposal Template
 
-Backstory:
+`Backstory:`
 
-A hospitality developer in Kerala is planning an eco-resort in the backwaters, integrating local culture, sustainable architecture, and low-impact tourism. The proposal needs to appeal to eco-conscious travelers, environmental bodies, and investors looking for high-value, low-footprint tourism projects.
+`A hospitality developer in Kerala is planning an eco-resort in the backwaters, integrating local culture, sustainable architecture, and low-impact tourism. The proposal needs to appeal to eco-conscious travelers, environmental bodies, and investors looking for high-value, low-footprint tourism projects.`
 
-Goal:
+`Goal:`
 
-Create a detailed eco-resort proposal template that balances profitability with sustainability.
+`Create a detailed eco-resort proposal template that balances profitability with sustainability.`
 
-Prompt:
+`Prompt:`
 
-"You are a sustainable tourism project consultant. Draft a proposal template for an eco-resort in India. Include: Executive Summary, Site Context & Natural Features, Architectural Design Philosophy (local materials, minimal impact), Energy & Water Conservation Measures, Community Engagement & Employment Plans, Cultural Activity Offerings, Marketing to Eco-Tourists, Pricing & Revenue Model, Seasonal Occupancy Forecast, and Compliance with Environmental & Coastal Zone Regulations." Inputs Required from User: Site location and environmental status Planned number of units/villas Types of eco-friendly features Budget and ROI expectations
+`"You are a sustainable tourism project consultant. Draft a proposal template for an eco-resort in India. Include: Executive Summary, Site Context & Natural Features, Architectural Design Philosophy (local materials, minimal impact), Energy & Water Conservation Measures, Community Engagement & Employment Plans, Cultural Activity Offerings, Marketing to Eco-Tourists, Pricing & Revenue Model, Seasonal Occupancy Forecast, and Compliance with Environmental & Coastal Zone Regulations." Inputs Required from User: Site location and environmental status Planned number of units/villas Types of eco-friendly features Budget and ROI expectations`
 
-High-Street Retail Complex Proposal Template
+## High-Street Retail Complex Proposal Template
 
-Backstory:
+`Backstory:`
 
-A real estate firm in Pune wants to redevelop a central business district block into a high-street retail zone with flagship stores, branded cafes, and entertainment zones. The proposal must showcase strong footfall potential, retail mix planning, and urban vibrancy elements.
+`A real estate firm in Pune wants to redevelop a central business district block into a high-street retail zone with flagship stores, branded cafes, and entertainment zones. The proposal must showcase strong footfall potential, retail mix planning, and urban vibrancy elements.`
 
-Goal:
+`Goal:`
 
-Design a high-street retail development proposal template.
+`Design a high-street retail development proposal template.
 
-Prompt:
+`Prompt:`
 
-"You are a retail development consultant. Draft a proposal template for a high-street retail complex in India. Include: Executive Summary, Market Demand Analysis, Site Connectivity & Footfall Forecast, Retail Tenant Mix Strategy, Architectural Aesthetics & Public Spaces, Anchor Tenant Acquisition Plan, Revenue Streams (rent, revenue share), Marketing & Branding Approach, Financial Feasibility, and Risk Management Plans." Inputs Required from User: Site details and visibility factors Expected anchor tenants Lease/rent models planned Capital investment available
+`"You are a retail development consultant. Draft a proposal template for a high-street retail complex in India. Include: Executive Summary, Market Demand Analysis, Site Connectivity & Footfall Forecast, Retail Tenant Mix Strategy, Architectural Aesthetics & Public Spaces, Anchor Tenant Acquisition Plan, Revenue Streams (rent, revenue share), Marketing & Branding Approach, Financial Feasibility, and Risk Management Plans." Inputs Required from User: Site details and visibility factors Expected anchor tenants Lease/rent models planned Capital investment available`
 
-Co-Working & Flexible Office Space Project Proposal Template
+## Co-Working & Flexible Office Space Project Proposal Template
 
-Backstory:
+`Backstory:`
 
-A startup in Gurugram is converting two floors of a commercial tower into a co-working and flexible office space targeting freelancers, SMEs, and satellite teams of large corporations. The proposal must appeal to both landlords and potential equity investors.
+`A startup in Gurugram is converting two floors of a commercial tower into a co-working and flexible office space targeting freelancers, SMEs, and satellite teams of large corporations. The proposal must appeal to both landlords and potential equity investors.`
 
-Goal:
+`Goal:`
 
-Create a co-working space project proposal template.
+`Create a co-working space project proposal template.`
 
-Prompt:
+`Prompt:`
 
-"You are a flexible workspace strategist. Draft a proposal template for a co-working and shared office project in India. Include: Executive Summary, Market Analysis of Co-Working Demand, Location Advantages, Space Layout & Design Concept, Amenities & Services Offered, Pricing Plans & Membership Models, Community Engagement Activities, Technology Integration (Wi-Fi, access control), Marketing Strategy, Financial Projections, and Expansion Scalability." Inputs Required from User: Building details and floor plans Target audience size and profile Planned services and amenities Funding requirements
+`"You are a flexible workspace strategist. Draft a proposal template for a co-working and shared office project in India. Include: Executive Summary, Market Analysis of Co-Working Demand, Location Advantages, Space Layout & Design Concept, Amenities & Services Offered, Pricing Plans & Membership Models, Community Engagement Activities, Technology Integration (Wi-Fi, access control), Marketing Strategy, Financial Projections, and Expansion Scalability." Inputs Required from User: Building details and floor plans Target audience size and profile Planned services and amenities Funding requirements`
 
-Student Housing Project Proposal Template
+## Student Housing Project Proposal Template
 
-Backstory:
+`Backstory:`
 
-A developer in Kota, Rajasthan is building a purpose-built student housing complex to cater to the influx of students preparing for competitive exams. The proposal must focus on affordability, safety, and community living, while demonstrating strong demand.
+`A developer in Kota, Rajasthan is building a purpose-built student housing complex to cater to the influx of students preparing for competitive exams. The proposal must focus on affordability, safety, and community living, while demonstrating strong demand.`
 
-Goal:
+`Goal:`
 
-Design a student housing project proposal template.
+`Design a student housing project proposal template.`
 
-Prompt:
+`Prompt:`
 
-"You are a student housing development expert. Draft a proposal template for purpose-built student housing in India. Include: Executive Summary, Student Demographic Analysis, Location & Proximity to Institutions, Room Layouts & Common Facilities, Security & Safety Protocols, Pricing & Meal Plan Options, Community-Building Activities, Partnerships with Educational Institutions, Financial Projections, and Maintenance & Operations Plan." Inputs Required from User: Target number of students to house Amenities to be included Location proximity to institutions Pricing strategy
+`"You are a student housing development expert. Draft a proposal template for purpose-built student housing in India. Include: Executive Summary, Student Demographic Analysis, Location & Proximity to Institutions, Room Layouts & Common Facilities, Security & Safety Protocols, Pricing & Meal Plan Options, Community-Building Activities, Partnerships with Educational Institutions, Financial Projections, and Maintenance & Operations Plan." Inputs Required from User: Target number of students to house Amenities to be included Location proximity to institutions Pricing strategy`
 
-Sports & Recreation Complex Proposal Template
+## Sports & Recreation Complex Proposal Template
 
-Backstory:
+`Backstory:`
 
-A municipal corporation in Ahmedabad is inviting private partners to develop a multi-sport complex with cricket grounds, swimming pools, indoor stadiums, and training academies. A developer wants to prepare a strong proposal highlighting public health benefits and revenue potential.
+`A municipal corporation in Ahmedabad is inviting private partners to develop a multi-sport complex with cricket grounds, swimming pools, indoor stadiums, and training academies. A developer wants to prepare a strong proposal highlighting public health benefits and revenue potential.`
 
-Goal:
+`Goal:`
 
-Create a sports and recreation complex project proposal template.
+`Create a sports and recreation complex project proposal template.`
 
-Prompt:
+`Prompt:`
 
-"You are a sports infrastructure consultant. Draft a proposal template for a multi-sport complex in India. Include: Executive Summary, Market Need & Community Health Benefits, Sports Facilities & Specifications, Training & Coaching Programs, Event Hosting Capability, Accessibility & Transportation Links, Financial Model (public-private partnership), Sponsorship & Brand Partnership Opportunities, Maintenance & Sustainability Plan, and Risk Assessment." Inputs Required from User: Types of sports facilities planned Target user groups (professional, amateur, community) Land parcel details Estimated budget and funding sources
+`"You are a sports infrastructure consultant. Draft a proposal template for a multi-sport complex in India. Include: Executive Summary, Market Need & Community Health Benefits, Sports Facilities & Specifications, Training & Coaching Programs, Event Hosting Capability, Accessibility & Transportation Links, Financial Model (public-private partnership), Sponsorship & Brand Partnership Opportunities, Maintenance & Sustainability Plan, and Risk Assessment." Inputs Required from User: Types of sports facilities planned Target user groups (professional, amateur, community) Land parcel details Estimated budget and funding sources`
 
-Data Center Development Proposal Template
+## Data Center Development Proposal Template
 
-Backstory:
+`Backstory:`
 
-An IT infrastructure company in Hyderabad is planning to build a Tier IV data center to serve both domestic and international cloud service providers. The proposal must cover technical specifications, uptime guarantees, and long-term revenue potential.
+`An IT infrastructure company in Hyderabad is planning to build a Tier IV data center to serve both domestic and international cloud service providers. The proposal must cover technical specifications, uptime guarantees, and long-term revenue potential.`
 
-Goal:
+`Goal:`
 
-Create a high-spec data center project proposal template.
+`Create a high-spec data center project proposal template.`
 
-Prompt:
+`Prompt:`
 
-"You are a data center infrastructure consultant. Draft a proposal template for a Tier IV data center in India. Include: Executive Summary, Location Selection & Connectivity Advantages, Data Center Tier Standards & Certifications, Power & Cooling Infrastructure, Security Protocols, Disaster Recovery & Redundancy Plans, Client Targeting & Leasing Strategy, Pricing Models, Financial Feasibility, and Compliance with Data Localization Laws." Inputs Required from User: Data center capacity (MW) Target industries/clients Site location and utility availability Estimated CAPEX & OPEX
+`"You are a data center infrastructure consultant. Draft a proposal template for a Tier IV data center in India. Include: Executive Summary, Location Selection & Connectivity Advantages, Data Center Tier Standards & Certifications, Power & Cooling Infrastructure, Security Protocols, Disaster Recovery & Redundancy Plans, Client Targeting & Leasing Strategy, Pricing Models, Financial Feasibility, and Compliance with Data Localization Laws." Inputs Required from User: Data center capacity (MW) Target industries/clients Site location and utility availability Estimated CAPEX & OPEX`
 
-Wellness & Retirement Community Proposal Template
+## Wellness & Retirement Community Proposal Template
 
-Backstory:
+`Backstory:`
 
-A healthcare-focused developer in Coimbatore wants to build a retirement and wellness township with assisted living, medical facilities, and recreational spaces. The proposal must appeal to both retirees and healthcare investors.
+`A healthcare-focused developer in Coimbatore wants to build a retirement and wellness township with assisted living, medical facilities, and recreational spaces. The proposal must appeal to both retirees and healthcare investors.`
 
-Goal:
+`Goal:`
 
-Design a wellness and retirement community proposal template.
+`Design a wellness and retirement community proposal template.`
 
-Prompt:
+`Prompt:`
 
-"You are a senior living development consultant. Draft a proposal template for a retirement and wellness community in India. Include: Executive Summary, Demographic & Market Demand Analysis, Site Layout & Accessibility, Healthcare Facilities & Staffing, Recreational & Wellness Amenities, Security & Safety Features, Pricing Models & Payment Plans, Marketing to Retirees & Families, Financial Feasibility, and Compliance with Healthcare Regulations." Inputs Required from User: Target number of residents Types of healthcare services planned Location and climate benefits Budget and pricing models
+`"You are a senior living development consultant. Draft a proposal template for a retirement and wellness community in India. Include: Executive Summary, Demographic & Market Demand Analysis, Site Layout & Accessibility, Healthcare Facilities & Staffing, Recreational & Wellness Amenities, Security & Safety Features, Pricing Models & Payment Plans, Marketing to Retirees & Families, Financial Feasibility, and Compliance with Healthcare Regulations." Inputs Required from User: Target number of residents Types of healthcare services planned Location and climate benefits Budget and pricing models`
 
 Theme Park Development Proposal Template
 
