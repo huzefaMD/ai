@@ -1074,189 +1074,189 @@ partners to expand into Mumbai and Bengaluru. His pitch must appeal to both inve
 
 `"You are a marketing strategist for D2C brands. Create a month-by-month marketing calendar for an organic skincare brand. Include: Monthly theme aligned with skincare needs (e.g., summer tan removal, winter hydration). Key campaign dates — festivals, awareness days, and sale periods. Product launch timings. Influencer collaboration plan. Social media posting schedule. Email & WhatsApp campaign dates. Offline event or pop-up participation if relevant. Include KPIs to track success each month." Inputs Required: Product categories & SKUs Target customer demographics Seasonal demand trends Preferred social media channels`
 
-Quarterly Marketing Calendar for a SaaS Product Launch
+## Quarterly Marketing Calendar for a SaaS Product Launch
 
-Backstory:
+`Backstory:`
 
-Nikhil, 32, is launching a SaaS platform for project management aimed at small businesses. His 3-month goal is to generate awareness, onboard beta users, and start converting to paid subscriptions. He wants a structured marketing plan that includes webinars, targeted ads, and thought leadership content.
+`Nikhil, 32, is launching a SaaS platform for project management aimed at small businesses. His 3-month goal is to generate awareness, onboard beta users, and start converting to paid subscriptions. He wants a structured marketing plan that includes webinars, targeted ads, and thought leadership content.`
 
-Goal:
+`Goal:`
 
-Develop a 90-day marketing calendar that drives signups and builds product authority in the market.
+`Develop a 90-day marketing calendar that drives signups and builds product authority in the market.`
 
-Prompt:
+`Prompt:`
 
-"You are a B2B SaaS marketing consultant. Create a detailed quarterly marketing calendar for a project management SaaS product. Include: Pre-launch teaser activities. Launch day marketing actions. Weekly content themes for LinkedIn, YouTube, and blogs. Webinar dates and topics. Paid ad campaign phases. Influencer/partner outreach schedule. KPIs for signups, engagement, and conversions." Inputs Required: Launch date Primary target industries Paid ad budget Existing partner or influencer list
+`"You are a B2B SaaS marketing consultant. Create a detailed quarterly marketing calendar for a project management SaaS product. Include: Pre-launch teaser activities. Launch day marketing actions. Weekly content themes for LinkedIn, YouTube, and blogs. Webinar dates and topics. Paid ad campaign phases. Influencer/partner outreach schedule. KPIs for signups, engagement, and conversions." Inputs Required: Launch date Primary target industries Paid ad budget Existing partner or influencer list`
 
-Social Media-First Marketing Calendar for a Fashion Boutique
+## Social Media-First Marketing Calendar for a Fashion Boutique
 
-Backstory:
+`Backstory:`
 
-Ananya, 26, runs a boutique fashion store selling Indo-western outfits. Her primary sales come from Instagram, but she posts inconsistently. She wants a social-media-first marketing calendar that ensures regular posts, reels, live sessions, and festival-specific promotions.
+`Ananya, 26, runs a boutique fashion store selling Indo-western outfits. Her primary sales come from Instagram, but she posts inconsistently. She wants a social-media-first marketing calendar that ensures regular posts, reels, live sessions, and festival-specific promotions.`
 
-Goal:
+`Goal:`
 
-Plan a 6-month marketing calendar focusing entirely on Instagram & Facebook growth and conversion.
+`Plan a 6-month marketing calendar focusing entirely on Instagram & Facebook growth and conversion.`
 
-Prompt:
+`Prompt:`
 
-"You are a social media growth strategist. Create a 6-month marketing calendar for a boutique fashion brand. Include: Weekly content breakdown — reels, carousel posts, stories, and lives. Monthly fashion themes. Key festival promotions. Influencer collaboration slots. Contest & giveaway dates. Engagement tracking plan. Ensure all content ideas are visually rich and on-trend." Inputs Required: Product categories Average order value Target festivals/events Influencer marketing budget
+`"You are a social media growth strategist. Create a 6-month marketing calendar for a boutique fashion brand. Include: Weekly content breakdown — reels, carousel posts, stories, and lives. Monthly fashion themes. Key festival promotions. Influencer collaboration slots. Contest & giveaway dates. Engagement tracking plan. Ensure all content ideas are visually rich and on-trend." Inputs Required: Product categories Average order value Target festivals/events Influencer marketing budget`
 
-B2B Industrial Product Marketing Calendar
+## B2B Industrial Product Marketing Calendar
 
-Backstory:
+`Backstory:`
 
-Amit, 40, runs a company manufacturing industrial water filtration systems. Sales cycles are long and relationship-driven. He wants a 12-month marketing calendar with trade shows, industry publication features, and LinkedIn outreach to build credibility with procurement managers.
+`Amit, 40, runs a company manufacturing industrial water filtration systems. Sales cycles are long and relationship-driven. He wants a 12-month marketing calendar with trade shows, industry publication features, and LinkedIn outreach to build credibility with procurement managers.`
 
-Goal:
+`Goal:`
 
-Create a B2B marketing calendar that aligns with industry events and builds sustained engagement.
+`Create a B2B marketing calendar that aligns with industry events and builds sustained engagement.`
 
-Prompt:
+`Prompt:`
 
-"You are a B2B industrial marketing expert. Design a 12-month marketing calendar for an industrial water filtration company. Include: Major industry trade shows and exhibition participation. LinkedIn article publishing schedule. Quarterly case study releases. Monthly client testimonial campaigns. Industry newsletter ads. Webinar series for engineers and procurement heads. Include KPIs for leads generated and deal conversions." Inputs Required: List of industry events Client case studies available Marketing budget split for online/offline Target industries & locations
+`"You are a B2B industrial marketing expert. Design a 12-month marketing calendar for an industrial water filtration company. Include: Major industry trade shows and exhibition participation. LinkedIn article publishing schedule. Quarterly case study releases. Monthly client testimonial campaigns. Industry newsletter ads. Webinar series for engineers and procurement heads. Include KPIs for leads generated and deal conversions." Inputs Required: List of industry events Client case studies available Marketing budget split for online/offline Target industries & locations`
 
-Real Estate Launch Marketing Calendar
+## Real Estate Launch Marketing Calendar
 
-Backstory:
+`Backstory:`
 
-Meera, 35, is launching a luxury residential project in Pune. She needs a 9-month marketing plan that builds pre-launch buzz, converts site visits, and maintains momentum until possession.
+`Meera, 35, is launching a luxury residential project in Pune. She needs a 9-month marketing plan that builds pre-launch buzz, converts site visits, and maintains momentum until possession.`
 
-Goal:
+`Goal:`
 
-Create a launch-to-possession marketing calendar integrating offline events, digital ads, and PR.
+`Create a launch-to-possession marketing calendar integrating offline events, digital ads, and PR.`
 
-Prompt:
+`Prompt:`
 
-"You are a real estate marketing strategist. Create a 9-month marketing calendar for a luxury residential project. Include: Pre-launch teaser campaigns. PR coverage milestones. Influencer site visit invites. Digital ad campaign cycles. Festival-based booking offers. Monthly on-site event plan. Track KPIs like lead volume, site visit bookings, and conversions." Inputs Required: Launch month Target audience income bracket Project USP Ad budget
+`"You are a real estate marketing strategist. Create a 9-month marketing calendar for a luxury residential project. Include: Pre-launch teaser campaigns. PR coverage milestones. Influencer site visit invites. Digital ad campaign cycles. Festival-based booking offers. Monthly on-site event plan. Track KPIs like lead volume, site visit bookings, and conversions." Inputs Required: Launch month Target audience income bracket Project USP Ad budget`
 
-Food Delivery Brand Seasonal Campaign Calendar
+## Food Delivery Brand Seasonal Campaign Calendar
 
-Backstory:
+`Backstory:`
 
-Siddharth, 31, runs a cloud kitchen in Bengaluru that delivers gourmet sandwiches and healthy bowls through Zomato, Swiggy, and his own app. Sales spike during office lunch hours, but he wants to leverage seasons, festivals, and trending diets to increase orders year-round. He also wants to build customer loyalty via repeat order incentives and special menu days.
+`Siddharth, 31, runs a cloud kitchen in Bengaluru that delivers gourmet sandwiches and healthy bowls through Zomato, Swiggy, and his own app. Sales spike during office lunch hours, but he wants to leverage seasons, festivals, and trending diets to increase orders year-round. He also wants to build customer loyalty via repeat order incentives and special menu days.`
 
-Goal:
+`Goal:`
 
-Develop a 12-month marketing calendar integrating seasonal menu launches, festival-specific promotions, and loyalty campaigns.
+`Develop a 12-month marketing calendar integrating seasonal menu launches, festival-specific promotions, and loyalty campaigns.`
 
-Prompt:
+Prompt:`
 
-"You are a food & beverage marketing planner. Create a 12-month marketing calendar for a gourmet cloud kitchen. Include: Seasonal menu launches (e.g., summer cold bowls, winter soups). Festival tie-in campaigns with limited-edition dishes. Weekly ‘Chef’s Special’ promotions. Loyalty program pushes every quarter. Social media & food blogger collaborations. Paid ads for high-order days (Fridays, weekends). Track KPIs for order volume, repeat customer rate, and average order value." Inputs Required: Menu categories & flexibility for seasonal items Peak ordering times & days Target customer dietary preferences Delivery-only or dine-in options
+`"You are a food & beverage marketing planner. Create a 12-month marketing calendar for a gourmet cloud kitchen. Include: Seasonal menu launches (e.g., summer cold bowls, winter soups). Festival tie-in campaigns with limited-edition dishes. Weekly ‘Chef’s Special’ promotions. Loyalty program pushes every quarter. Social media & food blogger collaborations. Paid ads for high-order days (Fridays, weekends). Track KPIs for order volume, repeat customer rate, and average order value." Inputs Required: Menu categories & flexibility for seasonal items Peak ordering times & days Target customer dietary preferences Delivery-only or dine-in options`
 
-Fitness Studio Marketing Calendar with Member Engagement
+## Fitness Studio Marketing Calendar with Member Engagement
 
-Backstory:
+`Backstory:`
 
-Pooja, 27, owns a boutique fitness studio in Delhi offering yoga, HIIT, and Zumba. She notices a spike in sign-ups in January and before summer but struggles to retain members throughout the year. She wants a marketing calendar that aligns challenges, workshops, and content with peak fitness motivation periods.
+`Pooja, 27, owns a boutique fitness studio in Delhi offering yoga, HIIT, and Zumba. She notices a spike in sign-ups in January and before summer but struggles to retain members throughout the year. She wants a marketing calendar that aligns challenges, workshops, and content with peak fitness motivation periods.`
 
-Goal:
+`Goal:`
 
-Plan a 12-month marketing calendar that boosts sign-ups, member retention, and brand visibility.
+`Plan a 12-month marketing calendar that boosts sign-ups, member retention, and brand visibility.`
 
-Prompt:
+`Prompt:`
 
-"You are a fitness marketing consultant. Create a 12-month marketing calendar for a boutique studio. Include: Quarterly fitness challenges. Festival wellness events (e.g., Diwali detox, New Year transformation). Monthly influencer collaborations. Weekly Instagram Live workouts. Referral program reminders. Seasonal offers (summer fat-loss bootcamp, winter immunity yoga). Track KPIs like member retention rate, challenge participation, and referral sign-ups." Inputs Required: Class types & capacity Seasonal customer behaviour Pricing packages Influencer partnerships availability
+`"You are a fitness marketing consultant. Create a 12-month marketing calendar for a boutique studio. Include: Quarterly fitness challenges. Festival wellness events (e.g., Diwali detox, New Year transformation). Monthly influencer collaborations. Weekly Instagram Live workouts. Referral program reminders. Seasonal offers (summer fat-loss bootcamp, winter immunity yoga). Track KPIs like member retention rate, challenge participation, and referral sign-ups." Inputs Required: Class types & capacity Seasonal customer behaviour Pricing packages Influencer partnerships availability`
 
-NGO Social Impact Campaign Calendar
+## NGO Social Impact Campaign Calendar
 
-Backstory:
+`Backstory:`
 
-Ramesh, 34, manages an NGO that works on rural education initiatives in Maharashtra. Donor engagement is inconsistent, and event participation drops during monsoon. He wants a year-long campaign calendar that boosts awareness, volunteer participation, and donation consistency.
+`Ramesh, 34, manages an NGO that works on rural education initiatives in Maharashtra. Donor engagement is inconsistent, and event participation drops during monsoon. He wants a year-long campaign calendar that boosts awareness, volunteer participation, and donation consistency.`
 
-Goal:
+`Goal:`
 
-Develop a 12-month impact marketing calendar for donor engagement and cause awareness.
+`Develop a 12-month impact marketing calendar for donor engagement and cause awareness.``
 
-Prompt:
+`Prompt:`
 
-"You are a non-profit communications expert. Create a year-long marketing calendar for an education NGO. Include: Monthly donor newsletter topics. Quarterly on-ground event dates. International awareness day campaigns. Corporate CSR collaboration timelines. Seasonal donation drives. Social media storytelling themes (student success stories, volunteer highlights). Track KPIs for donations, volunteer sign-ups, and social reach." Inputs Required: Event budget per quarter Key awareness days Target donor demographics Corporate partner list
+`"You are a non-profit communications expert. Create a year-long marketing calendar for an education NGO. Include: Monthly donor newsletter topics. Quarterly on-ground event dates. International awareness day campaigns. Corporate CSR collaboration timelines. Seasonal donation drives. Social media storytelling themes (student success stories, volunteer highlights). Track KPIs for donations, volunteer sign-ups, and social reach." Inputs Required: Event budget per quarter Key awareness days Target donor demographics Corporate partner list`
 
-YouTube Creator Content & Marketing Calendar
+## YouTube Creator Content & Marketing Calendar
 
-Backstory:
+`Backstory:`
 
-Aarav, 25, is a YouTuber making finance and productivity videos for young Indians. He uploads inconsistently and struggles to balance content creation with promotion. He wants a 6-month marketing calendar that keeps him accountable, aligns uploads with trending topics, and ensures steady audience growth.
+`Aarav, 25, is a YouTuber making finance and productivity videos for young Indians. He uploads inconsistently and struggles to balance content creation with promotion. He wants a 6-month marketing calendar that keeps him accountable, aligns uploads with trending topics, and ensures steady audience growth.`
 
-Goal:
+`Goal:`
 
-Design a structured YouTube content and promotion calendar for consistent growth.
+`Design a structured YouTube content and promotion calendar for consistent growth.`
 
-Prompt:
+`Prompt:`
 
-"You are a digital content strategist. Create a 6-month YouTube marketing calendar for a finance & productivity creator. Include: Weekly upload themes (budgeting tips, productivity hacks, stock market basics). Monthly trend research & integration. Cross-platform promotion slots (Instagram, LinkedIn). Quarterly collaboration videos. Subscriber engagement events (Q&A livestreams, giveaways). Monthly analytics review dates. Track KPIs for views, subscriber growth, and watch time." Inputs Required: Current subscriber base Content pillar topics Collaboration network Production capacity
+`"You are a digital content strategist. Create a 6-month YouTube marketing calendar for a finance & productivity creator. Include: Weekly upload themes (budgeting tips, productivity hacks, stock market basics). Monthly trend research & integration. Cross-platform promotion slots (Instagram, LinkedIn). Quarterly collaboration videos. Subscriber engagement events (Q&A livestreams, giveaways). Monthly analytics review dates. Track KPIs for views, subscriber growth, and watch time." Inputs Required: Current subscriber base Content pillar topics Collaboration network Production capacity`
 
-E-commerce Festive Season Sales Calendar
+## E-commerce Festive Season Sales Calendar
 
-Backstory:
+`Backstory:`
 
-Shivangi, 30, runs an online store selling home décor items across India. Festive sales are her biggest revenue driver, but she often starts planning too late. She wants a festive-focused marketing calendar to maximise reach, discounts, and brand recall from Raksha Bandhan to New Year.
+`Shivangi, 30, runs an online store selling home décor items across India. Festive sales are her biggest revenue driver, but she often starts planning too late. She wants a festive-focused marketing calendar to maximise reach, discounts, and brand recall from Raksha Bandhan to New Year.`
 
-Goal:
+`Goal:`
 
-Create a marketing calendar optimised for India’s festive shopping season.
+`Create a marketing calendar optimised for India’s festive shopping season.`
 
-Prompt:
+`Prompt:`
 
-"You are an e-commerce marketing expert. Create a 5-month festive sales marketing calendar for a home décor store. Include: Pre-festival teaser campaigns. Launch of special edition products. Influencer & blogger gifting schedule. Social media countdown posts. Paid ad campaigns with retargeting windows. Email & SMS marketing timelines. Track KPIs for conversion rates, revenue, and repeat purchases." Inputs Required: Festive season start & end dates Inventory availability Ad budget Influencer collaboration list
+`"You are an e-commerce marketing expert. Create a 5-month festive sales marketing calendar for a home décor store. Include: Pre-festival teaser campaigns. Launch of special edition products. Influencer & blogger gifting schedule. Social media countdown posts. Paid ad campaigns with retargeting windows. Email & SMS marketing timelines. Track KPIs for conversion rates, revenue, and repeat purchases." Inputs Required: Festive season start & end dates Inventory availability Ad budget Influencer collaboration list`
 
-Co-working Space Marketing Calendar for Young Professionals
+## Co-working Space Marketing Calendar for Young Professionals
 
-Backstory:
+`Backstory:`
 
-Ishaan, 28, manages a co-working space in Hyderabad that attracts freelancers, early-stage startups, and remote employees from IT firms. The space has high occupancy during weekdays but remains underutilised on weekends. He wants a year-long marketing calendar that not only fills desks but also positions the space as a vibrant professional community through networking events, learning workshops, and social media buzz.
+`Ishaan, 28, manages a co-working space in Hyderabad that attracts freelancers, early-stage startups, and remote employees from IT firms. The space has high occupancy during weekdays but remains underutilised on weekends. He wants a year-long marketing calendar that not only fills desks but also positions the space as a vibrant professional community through networking events, learning workshops, and social media buzz.`
 
-Goal:
+`Goal:`
 
-Create a 12-month marketing calendar that blends occupancy growth with community engagement.
+`Create a 12-month marketing calendar that blends occupancy growth with community engagement.`
 
-Prompt:
+`Prompt:`
 
-"You are a workspace marketing strategist. Develop a 12-month marketing calendar for a co-working space targeting 20–35-year-old professionals. Include: Monthly community events (pitch nights, skill-sharing workshops). Seasonal offers (summer freelancer discounts, festive startup packages). Social media themes by month (success stories, workspace tours, member highlights). Collaborations with local cafes or productivity apps. Quarterly brand awareness campaigns. Weekend-only promotional drives. Track KPIs for occupancy rates, event participation, and social media reach." Inputs Required: Peak and off-peak occupancy data Event hosting capacity Target audience work profiles Budget for collaborations and ads
+`"You are a workspace marketing strategist. Develop a 12-month marketing calendar for a co-working space targeting 20–35-year-old professionals. Include: Monthly community events (pitch nights, skill-sharing workshops). Seasonal offers (summer freelancer discounts, festive startup packages). Social media themes by month (success stories, workspace tours, member highlights). Collaborations with local cafes or productivity apps. Quarterly brand awareness campaigns. Weekend-only promotional drives. Track KPIs for occupancy rates, event participation, and social media reach." Inputs Required: Peak and off-peak occupancy data Event hosting capacity Target audience work profiles Budget for collaborations and ads`
 
-Women’s Clothing Boutique Year-Round Calendar
+## Women’s Clothing Boutique Year-Round Calendar
 
-Backstory:
+`Backstory:`
 
-Meera, 32, runs a boutique in Jaipur specialising in Indo-western fusion wear. Her sales peak during wedding season but drop sharply in summer months. She wants a marketing calendar that keeps customers engaged throughout the year with style tips, seasonal drops, and collaborations with local influencers.
+`Meera, 32, runs a boutique in Jaipur specialising in Indo-western fusion wear. Her sales peak during wedding season but drop sharply in summer months. She wants a marketing calendar that keeps customers engaged throughout the year with style tips, seasonal drops, and collaborations with local influencers.`
 
-Goal:
+`Goal:`
 
-Design a 12-month boutique marketing calendar to smooth revenue across all seasons.
+`Design a 12-month boutique marketing calendar to smooth revenue across all seasons.`
 
-Prompt:
+`Prompt:`
 
-"You are a fashion retail marketing consultant. Create a year-round marketing calendar for a women’s clothing boutique. Include: Monthly product focus (summer linen edits, festive lehenga drops). Seasonal lookbook shoots. Influencer collaborations per quarter. Loyalty member preview events. Social content series (how-to-style reels, behind-the-scenes). Quarterly in-store pop-up experiences. Track KPIs for store footfall, online traffic, and sales per category." Inputs Required: Product launch timelines Available influencer partnerships Marketing budget split (offline vs online) Customer loyalty program details
+`"You are a fashion retail marketing consultant. Create a year-round marketing calendar for a women’s clothing boutique. Include: Monthly product focus (summer linen edits, festive lehenga drops). Seasonal lookbook shoots. Influencer collaborations per quarter. Loyalty member preview events. Social content series (how-to-style reels, behind-the-scenes). Quarterly in-store pop-up experiences. Track KPIs for store footfall, online traffic, and sales per category." Inputs Required: Product launch timelines Available influencer partnerships Marketing budget split (offline vs online) Customer loyalty program details`
 
-Vegan Café Awareness & Sales Calendar
+## Vegan Café Awareness & Sales Calendar
 
-Backstory:
+`Backstory:`
 
-Pranav, 27, owns a vegan café in Mumbai catering to health-conscious millennials and expats. While the café sees steady footfall, Pranav wants to attract more first-time visitors and convert them into regulars. He needs a calendar that aligns menu specials, educational events, and PR outreach to position his café as the go-to vegan destination.
+`Pranav, 27, owns a vegan café in Mumbai catering to health-conscious millennials and expats. While the café sees steady footfall, Pranav wants to attract more first-time visitors and convert them into regulars. He needs a calendar that aligns menu specials, educational events, and PR outreach to position his café as the go-to vegan destination.`
 
-Goal:
+`Goal:`
 
-Create a 12-month vegan café marketing calendar focused on customer education and sales growth.
+`Create a 12-month vegan café marketing calendar focused on customer education and sales growth.`
 
-Prompt:
+`Prompt:`
 
-"You are a hospitality marketing expert. Develop a 12-month marketing calendar for a vegan café. Include: Monthly menu highlights tied to nutrition themes (gut health month, plant protein week). Cooking workshops with chefs. Collaborations with health influencers. PR outreach to food bloggers & magazines. Seasonal ‘try vegan’ campaigns. Community challenges (meat-free Mondays). Track KPIs for new customer acquisition, repeat visits, and average bill value." Inputs Required: Menu flexibility for specials Influencer/chef network Seasonal produce availability Local media contacts
+`"You are a hospitality marketing expert. Develop a 12-month marketing calendar for a vegan café. Include: Monthly menu highlights tied to nutrition themes (gut health month, plant protein week). Cooking workshops with chefs. Collaborations with health influencers. PR outreach to food bloggers & magazines. Seasonal ‘try vegan’ campaigns. Community challenges (meat-free Mondays). Track KPIs for new customer acquisition, repeat visits, and average bill value." Inputs Required: Menu flexibility for specials Influencer/chef network Seasonal produce availability Local media contacts`
 
-Tech Startup Launch-to-Scale Marketing Calendar
+## Tech Startup Launch-to-Scale Marketing Calendar
 
-Backstory:
+`Backstory:`
 
-Arvind, 30, is launching a SaaS tool for small businesses to manage invoices and payments. He has a 12-month runway before the next funding round and wants a calendar that drives early adopters, secures B2B partnerships, and positions the brand as an industry thought leader.
+`Arvind, 30, is launching a SaaS tool for small businesses to manage invoices and payments. He has a 12-month runway before the next funding round and wants a calendar that drives early adopters, secures B2B partnerships, and positions the brand as an industry thought leader.`
 
-Goal:
+`Goal:`
 
-Build a 12-month go-to-market calendar for a SaaS startup.
+`Build a 12-month go-to-market calendar for a SaaS startup.`
 
-Prompt:
+`Prompt:`
 
-"You are a B2B SaaS marketing strategist. Create a 12-month marketing calendar for a fintech SaaS launch. Include: Pre-launch teaser campaigns. Product launch events/webinars. Monthly case study publications. Partner co-marketing schedules. Industry conference participation. Quarterly product update campaigns. Track KPIs for MRR (Monthly Recurring Revenue), sign-ups, and churn rate." Inputs Required: Launch date & product roadmap Partner network Content production bandwidth Budget for events & paid ads
+`"You are a B2B SaaS marketing strategist. Create a 12-month marketing calendar for a fintech SaaS launch. Include: Pre-launch teaser campaigns. Product launch events/webinars. Monthly case study publications. Partner co-marketing schedules. Industry conference participation. Quarterly product update campaigns. Track KPIs for MRR (Monthly Recurring Revenue), sign-ups, and churn rate." Inputs Required: Launch date & product roadmap Partner network Content production bandwidth Budget for events & paid ads`
 
-Wedding Photography Studio Calendar
+## Wedding Photography Studio Calendar
 
 Backstory:
 
@@ -1270,7 +1270,7 @@ Prompt:
 
 "You are a wedding industry marketing planner. Build a 12-month marketing calendar for a photography studio. Include: Seasonal shoot promotions (monsoon couple shoots, summer destination shoots). Festival content tie-ins. Quarterly portfolio refresh campaigns. Social contests for free shoots. Vendor cross-promotions (with makeup artists, planners). Wedding season blitz campaigns. Track KPIs for inquiries, confirmed bookings, and average package value." Inputs Required: High vs low season months Partner vendor list Types of photography packages Content production budget
 
-Fitness Studio Seasonal Marketing Calendar
+## Fitness Studio Seasonal Marketing Calendar
 
 Backstory:
 
@@ -1284,7 +1284,7 @@ Prompt:
 
 "You are a fitness marketing strategist. Create a 12-month marketing calendar for a boutique fitness studio. Include: Seasonal challenges (Summer Strength, Winter Wellness). Corporate wellness tie-up campaigns. Monthly free trial events. Social content pillars (client transformations, workout tips, nutrition advice). Partnerships with wellness brands. Quarterly themed workshops (prenatal yoga, posture correction). Track KPIs for client retention rate, new sign-ups, and class attendance." Inputs Required: Studio capacity & trainer availability Seasonal demand trends Existing brand partnerships Budget for ads & events
 
-Home Décor E-commerce Calendar
+## Home Décor E-commerce Calendar
 
 Backstory:
 
@@ -1298,7 +1298,7 @@ Prompt:
 
 "You are an e-commerce growth planner. Build a 12-month marketing calendar for an artisanal home décor store. Include: Monthly décor themes (Monsoon Minimalism, Festive Glamour). Storytelling series on artisans. Influencer-led styling videos. Seasonal discounts aligned with pay cycles. Cross-promotions with lifestyle magazines. Quarterly giveaway contests. Track KPIs for website traffic, repeat purchase rate, and cart value." Inputs Required: Festival calendar Artisan product availability Influencer network Content production budget
 
-Educational App Marketing Calendar
+## Educational App Marketing Calendar
 
 Backstory:
 
@@ -1312,7 +1312,7 @@ Prompt:
 
 "You are an ed-tech marketing consultant. Develop a 12-month marketing calendar for a competitive exam prep app. Include: Monthly study challenges. Live Q&A sessions with toppers. Exam countdown campaigns. Seasonal scholarship contests. Collaborations with educational YouTubers. Push notification calendar for key dates. Track KPIs for DAU (Daily Active Users), retention rate, and paid subscription growth." Inputs Required: Exam schedules Teacher/tutor availability Ad budget allocation Content creation capacity
 
-Luxury Spa Marketing Calendar
+## Luxury Spa Marketing Calendar
 
 Backstory:
 
