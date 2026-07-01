@@ -991,108 +991,108 @@ sustaining mixed-use complex with IoT-enabled homes, smart waste management, ren
 
 `Backstory:`
 
-A renewable energy company in Tamil Nadu is constructing a 200 MW solar power plant on leased agricultural land. Investors require a clear CAPEX and OPEX projection to assess financial viability and ROI timelines.
+`A renewable energy company in Tamil Nadu is constructing a 200 MW solar power plant on leased agricultural land. Investors require a clear CAPEX and OPEX projection to assess financial viability and ROI timelines.`
 
-Goal:
+`Goal:`
 
-Create a cost breakdown for a large-scale solar plant.
+`Create a cost breakdown for a large-scale solar plant.`
 
-Prompt:
+`Prompt:`
 
-"You are a renewable energy infrastructure cost consultant. Prepare a detailed cost analysis for a 200 MW solar power plant, covering: land lease & site preparation, solar panel procurement, mounting structures, inverters & transformers, transmission infrastructure, control center setup, security fencing, weather monitoring systems, and annual maintenance contracts. Provide CAPEX vs OPEX breakdown and payback period analysis." Inputs Required from User: Plant capacity (MW) Technology type (mono, poly, thin-film) Grid connection details Expected tariff rate
+`"You are a renewable energy infrastructure cost consultant. Prepare a detailed cost analysis for a 200 MW solar power plant, covering: land lease & site preparation, solar panel procurement, mounting structures, inverters & transformers, transmission infrastructure, control center setup, security fencing, weather monitoring systems, and annual maintenance contracts. Provide CAPEX vs OPEX breakdown and payback period analysis." Inputs Required from User: Plant capacity (MW) Technology type (mono, poly, thin-film) Grid connection details Expected tariff rate`
 
-Port Terminal Construction Cost Analysis
+## Port Terminal Construction Cost Analysis
 
-Backstory:
+`Backstory:`
 
-A logistics giant is bidding to build a new container terminal at a major port in Maharashtra. The project involves dredging, quay construction, container handling equipment, and customs integration facilities.
+`A logistics giant is bidding to build a new container terminal at a major port in Maharashtra. The project involves dredging, quay construction, container handling equipment, and customs integration facilities.`
 
-Goal:
+`Goal:`
 
-Develop a cost analysis for a port container terminal project.
+`Develop a cost analysis for a port container terminal project.`
 
-Prompt:
+`Prompt:`
 
-"You are a marine infrastructure cost consultant. Draft a cost breakdown for a port container terminal, covering: dredging & reclamation, quay wall construction, container yard paving, gantry crane procurement, warehouse & storage sheds, customs & security facilities, IT systems for cargo tracking, utilities & drainage systems, and environmental compliance measures." Inputs Required from User: Terminal capacity (TEUs/year) Water depth requirements Crane type & capacity Environmental clearance status
+`"You are a marine infrastructure cost consultant. Draft a cost breakdown for a port container terminal, covering: dredging & reclamation, quay wall construction, container yard paving, gantry crane procurement, warehouse & storage sheds, customs & security facilities, IT systems for cargo tracking, utilities & drainage systems, and environmental compliance measures." Inputs Required from User: Terminal capacity (TEUs/year) Water depth requirements Crane type & capacity Environmental clearance status`
 
-Data Center Construction Cost Analysis
+## Data Center Construction Cost Analysis
 
-Backstory:
+`Backstory:`
 
-A tech company in Noida is setting up a Tier IV data center to host critical government and enterprise workloads. The project demands ultra-redundant power systems, advanced cooling, and strict security measures.
+`A tech company in Noida is setting up a Tier IV data center to host critical government and enterprise workloads. The project demands ultra-redundant power systems, advanced cooling, and strict security measures.`
 
-Goal:
+`Goal:`
 
-Prepare a cost breakdown for a Tier IV data center in India.
+`Prepare a cost breakdown for a Tier IV data center in India.`
 
-Prompt:
+`Prompt:`
 
-"You are a mission-critical facility cost consultant. Create a cost breakdown for a Tier IV data center, including: land & structural works, raised flooring systems, redundant power supply & generators, advanced cooling systems (CRAC/Chilled Water), fire suppression systems, physical security infrastructure, biometric access controls, networking & server racks, and compliance with Uptime Institute certification standards." Inputs Required from User: Data center size & rack capacity Redundancy level required Cooling system preference Security protocols
+`"You are a mission-critical facility cost consultant. Create a cost breakdown for a Tier IV data center, including: land & structural works, raised flooring systems, redundant power supply & generators, advanced cooling systems (CRAC/Chilled Water), fire suppression systems, physical security infrastructure, biometric access controls, networking & server racks, and compliance with Uptime Institute certification standards." Inputs Required from User: Data center size & rack capacity Redundancy level required Cooling system preference Security protocols`
 
-Airport Terminal Expansion Cost Analysis
+## Airport Terminal Expansion Cost Analysis
 
-Backstory:
+`Backstory:`
 
-An airport authority in Kerala is expanding its passenger terminal to handle 50% more traffic, adding new gates, baggage handling systems, and security check areas. The budget must be justified to both government and private stakeholders.
+`An airport authority in Kerala is expanding its passenger terminal to handle 50% more traffic, adding new gates, baggage handling systems, and security check areas. The budget must be justified to both government and private stakeholders.`
 
-Goal:
+`Goal:`
 
-Create a cost breakdown for an airport terminal expansion.
+`Create a cost breakdown for an airport terminal expansion.`
 
-Prompt:
+`Prompt:`
 
-"You are an aviation infrastructure cost consultant. Draft a cost analysis for an airport terminal expansion, covering: demolition & site works, new terminal construction, passenger boarding bridges, baggage handling systems, security screening systems, customs & immigration facilities, lounges & retail areas, MEP & HVAC systems, wayfinding & signage, and integration with existing infrastructure." Inputs Required from User: Passenger capacity increase target Number of new gates Retail & lounge area plans Compliance standards (DGCA, ICAO)
+`"You are an aviation infrastructure cost consultant. Draft a cost analysis for an airport terminal expansion, covering: demolition & site works, new terminal construction, passenger boarding bridges, baggage handling systems, security screening systems, customs & immigration facilities, lounges & retail areas, MEP & HVAC systems, wayfinding & signage, and integration with existing infrastructure." Inputs Required from User: Passenger capacity increase target Number of new gates Retail & lounge area plans Compliance standards (DGCA, ICAO)`
 
-Smart City Infrastructure Construction Cost Analysis
+## Smart City Infrastructure Construction Cost Analysis
 
-Backstory:
+`Backstory:`
 
-A state urban development body in Rajasthan is developing a new smart city pilot zone with integrated utilities, IoT-enabled traffic systems, underground power, and centralised waste management. They require a detailed cost model to secure funding.
+`A state urban development body in Rajasthan is developing a new smart city pilot zone with integrated utilities, IoT-enabled traffic systems, underground power, and centralised waste management. They require a detailed cost model to secure funding.`
 
-Goal:
+`Goal:`
 
-Prepare a cost breakdown for a smart city pilot zone.
+`Prepare a cost breakdown for a smart city pilot zone.`
 
-Prompt:
+`Prompt:`
 
-"You are a smart city infrastructure cost consultant. Prepare a comprehensive cost breakdown for a smart city pilot zone, including: road & transport infrastructure, underground power & fiber optics, IoT-based traffic & street lighting systems, water supply & sewage systems, waste management & recycling centers, public Wi-Fi infrastructure, green spaces & landscaping, and sustainability measures. Include CAPEX vs OPEX projections." Inputs Required from User: Pilot zone area size Planned smart features Population capacity Funding model (PPP, government, private)
+`"You are a smart city infrastructure cost consultant. Prepare a comprehensive cost breakdown for a smart city pilot zone, including: road & transport infrastructure, underground power & fiber optics, IoT-based traffic & street lighting systems, water supply & sewage systems, waste management & recycling centers, public Wi-Fi infrastructure, green spaces & landscaping, and sustainability measures. Include CAPEX vs OPEX projections." Inputs Required from User: Pilot zone area size Planned smart features Population capacity Funding model (PPP, government, private)`
 
 
-Commercial Property Leasing Guides
+# Commercial Property Leasing Guides
 
-Office Tower Leasing Guide for IT Parks
+## Office Tower Leasing Guide for IT Parks
 
-Backstory:
+`Backstory:`
 
-A real estate developer in Bengaluru has completed a 25-storey office tower inside an IT park. The building has flexible floor plates, energy-efficient systems, and high-speed connectivity. The developer wants to attract top-tier IT and fintech tenants while ensuring long-term lease stability and maximum occupancy rates.
+`A real estate developer in Bengaluru has completed a 25-storey office tower inside an IT park. The building has flexible floor plates, energy-efficient systems, and high-speed connectivity. The developer wants to attract top-tier IT and fintech tenants while ensuring long-term lease stability and maximum occupancy rates.`
 
-Goal:
+`Goal:`
 
-Create a comprehensive office tower leasing guide tailored for IT and technology tenants.
+`Create a comprehensive office tower leasing guide tailored for IT and technology tenants.`
 
-Prompt:
+`Prompt:`
 
-"You are a commercial real estate leasing strategist. Draft a step-by-step leasing guide for a high-rise IT park office tower, covering: ideal tenant profiling, competitive rental benchmarking, lease structure options (gross, net, hybrid), rent escalation clauses, fit-out periods, co-working space integration, ESG (environmental, social, governance) certifications for tenant attraction, amenities packaging (cafeteria, parking, green spaces), and tenant retention strategies." Inputs Required from User: Building size & floor plate dimensions Target industries & tenant profile Amenities offered Lease term flexibility
+`"You are a commercial real estate leasing strategist. Draft a step-by-step leasing guide for a high-rise IT park office tower, covering: ideal tenant profiling, competitive rental benchmarking, lease structure options (gross, net, hybrid), rent escalation clauses, fit-out periods, co-working space integration, ESG (environmental, social, governance) certifications for tenant attraction, amenities packaging (cafeteria, parking, green spaces), and tenant retention strategies." Inputs Required from User: Building size & floor plate dimensions Target industries & tenant profile Amenities offered Lease term flexibility`
 
-Retail Mall Leasing Guide for Anchor & Inline Tenants
+# Retail Mall Leasing Guide for Anchor & Inline Tenants
 
-Backstory:
+`Backstory:`
 
-A retail developer in Ahmedabad is opening a new mall and needs to lease anchor stores, fashion outlets, and F&B spaces. The challenge is to balance tenant mix to drive footfall while ensuring fair rent distribution between anchor and smaller tenants.
+`A retail developer in Ahmedabad is opening a new mall and needs to lease anchor stores, fashion outlets, and F&B spaces. The challenge is to balance tenant mix to drive footfall while ensuring fair rent distribution between anchor and smaller tenants.`
 
-Goal:
+`Goal:`
 
-Develop a retail mall leasing guide for optimal tenant mix and revenue.
+`Develop a retail mall leasing guide for optimal tenant mix and revenue.`
 
-Prompt:
+`Prompt:`
 
-"You are a retail leasing consultant. Prepare a leasing guide for a multi-level shopping mall, covering: anchor tenant negotiation strategies, inline tenant selection, rental models (minimum guarantee vs revenue share), zoning by category (fashion, electronics, F&B), lease term structuring for stability, common area maintenance (CAM) cost allocation, seasonal pop-up store integration, marketing collaboration agreements, and early termination clauses." Inputs Required from User: Mall size and number of units Anchor tenants already onboarded Target customer demographics Footfall projections
+`"You are a retail leasing consultant. Prepare a leasing guide for a multi-level shopping mall, covering: anchor tenant negotiation strategies, inline tenant selection, rental models (minimum guarantee vs revenue share), zoning by category (fashion, electronics, F&B), lease term structuring for stability, common area maintenance (CAM) cost allocation, seasonal pop-up store integration, marketing collaboration agreements, and early termination clauses." Inputs Required from User: Mall size and number of units Anchor tenants already onboarded Target customer demographics Footfall projections`
 
-Industrial Warehouse Leasing Guide
+## Industrial Warehouse Leasing Guide
 
-Backstory:
+`Backstory:`
 
-A logistics company in Pune is developing a Grade A warehouse park near a major highway and wants to attract FMCG, e-commerce, and manufacturing tenants. They need a leasing strategy that highlights efficiency, accessibility, and compliance with safety standards.
+`A logistics company in Pune is developing a Grade A warehouse park near a major highway and wants to attract FMCG, e-commerce, and manufacturing tenants. They need a leasing strategy that highlights efficiency, accessibility, and compliance with safety standards.`
 
 Goal:
 
