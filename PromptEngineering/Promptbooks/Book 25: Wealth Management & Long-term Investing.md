@@ -218,7 +218,7 @@
 
 `Goal:`
 
-`Design a portfolio that stays ahead of inflation over decades.
+`Design a portfolio that stays ahead of inflation over decades.`
 
 `Prompt:`
 
@@ -351,357 +351,357 @@
 `"You are a passive investing strategist. Create a 100% passive asset allocation for a 30-year-old Indian investor. Include: (1) Index fund and ETF recommendations, (2) Allocation percentages, (3) Annual rebalancing process, (4) Expense ratio impact over 20 years, (5) Growth projection with historical index data." Inputs: Monthly investment budget Investment horizon Preferred index types`
 
 
-Risk Assessment Models
+# Risk Assessment Models
 
-Personal Risk Profile for First-time Mutual Fund Investors
+## Personal Risk Profile for First-time Mutual Fund Investors
 
-Backstory:
+`Backstory:`
 
-Ravi, 27, works in a Bengaluru IT company earning ₹12 LPA. He has never invested before but wants to start SIPs in mutual funds. He’s unsure how much risk he can take and is influenced by friends who invest in high-risk small-cap funds. He needs a risk model that helps him find his comfort zone before starting.
+`Ravi, 27, works in a Bengaluru IT company earning ₹12 LPA. He has never invested before but wants to start SIPs in mutual funds. He’s unsure how much risk he can take and is influenced by friends who invest in high-risk small-cap funds. He needs a risk model that helps him find his comfort zone before starting.`
 
-Goal:
+`Goal:`
 
-Identify the ideal mutual fund risk category based on income, expenses, time horizon, and personality.
+`Identify the ideal mutual fund risk category based on income, expenses, time horizon, and personality.`
 
-Prompt:
+`Prompt:`
 
-"Create a detailed personal risk assessment model for a 27-year-old in India starting mutual fund investments. Include: (1) Questionnaire with weightage on income stability, savings rate, financial goals, and investment knowledge, (2) Scoring system to classify into conservative, moderate, or aggressive, (3) Risk-return chart per category, (4) Recommendations for ideal mutual fund types per score range, (5) Visualization comparing risk score with asset allocation."
+`"Create a detailed personal risk assessment model for a 27-year-old in India starting mutual fund investments. Include: (1) Questionnaire with weightage on income stability, savings rate, financial goals, and investment knowledge, (2) Scoring system to classify into conservative, moderate, or aggressive, (3) Risk-return chart per category, (4) Recommendations for ideal mutual fund types per score range, (5) Visualization comparing risk score with asset allocation."`
 
-Risk Assessment for People with Education Loans
+## Risk Assessment for People with Education Loans
 
-Backstory:
+`Backstory:`
 
-Nisha, 25, just completed her MBA and has a ₹12 lakh education loan. She has started earning ₹8 LPA and wants to invest but worries about taking market risks while still in debt. She wants a model that weighs loan repayment vs. investment risks.
+`Nisha, 25, just completed her MBA and has a ₹12 lakh education loan. She has started earning ₹8 LPA and wants to invest but worries about taking market risks while still in debt. She wants a model that weighs loan repayment vs. investment risks.`
 
-Goal:
+`Goal:`
 
-Balance investment opportunities with loan repayment obligations.
+`Balance investment opportunities with loan repayment obligations.`
 
-Prompt:
+`Prompt:`
 
-"Build a risk assessment model for a 25-year-old in India with an active education loan. Include: (1) Inputs for EMI amount, interest rate, and monthly savings potential, (2) Risk scoring that adjusts for debt burden, (3) Suggested asset allocation based on debt-to-income ratio, (4) Simulation showing how risk appetite changes once loan is repaid, (5) Graphical projection comparing early investing vs post-loan investing outcomes."
+`"Build a risk assessment model for a 25-year-old in India with an active education loan. Include: (1) Inputs for EMI amount, interest rate, and monthly savings potential, (2) Risk scoring that adjusts for debt burden, (3) Suggested asset allocation based on debt-to-income ratio, (4) Simulation showing how risk appetite changes once loan is repaid, (5) Graphical projection comparing early investing vs post-loan investing outcomes."`
 
-Risk Tolerance Assessment for Freelancers
+## Risk Tolerance Assessment for Freelancers
 
-Backstory:
+`Backstory:`
 
-Aditya, 30, is a freelance graphic designer with inconsistent income ranging from ₹40,000 to ₹1,20,000 per month. He wants to invest but needs to understand how income volatility affects his risk-taking ability.
+`Aditya, 30, is a freelance graphic designer with inconsistent income ranging from ₹40,000 to ₹1,20,000 per month. He wants to invest but needs to understand how income volatility affects his risk-taking ability.`
 
-Goal:
+`Goal:`
 
-Determine risk tolerance for irregular income earners.
+`Determine risk tolerance for irregular income earners.`
 
-Prompt:
+`Prompt:`
 
-"Design a risk assessment model for a 30-year-old freelancer in India with fluctuating monthly income. Include: (1) Volatility-adjusted scoring based on last 12 months’ earnings, (2) Emergency fund adequacy check, (3) Categorization into low, medium, or high risk tolerance, (4) Investment type recommendations per category, (5) Visuals showing how income stability impacts risk score."
+`"Design a risk assessment model for a 30-year-old freelancer in India with fluctuating monthly income. Include: (1) Volatility-adjusted scoring based on last 12 months’ earnings, (2) Emergency fund adequacy check, (3) Categorization into low, medium, or high risk tolerance, (4) Investment type recommendations per category, (5) Visuals showing how income stability impacts risk score."`
 
-Risk Profiling for Couples with Different Risk Preferences
+## Risk Profiling for Couples with Different Risk Preferences
 
-Backstory:
+`Backstory:`
 
-Meera and Arjun, both 32, have a combined monthly income of ₹2 lakh. Meera prefers safe investments like FDs, while Arjun likes equity and crypto. They need a risk model to find a middle ground for joint financial planning.
+`Meera and Arjun, both 32, have a combined monthly income of ₹2 lakh. Meera prefers safe investments like FDs, while Arjun likes equity and crypto. They need a risk model to find a middle ground for joint financial planning.`
 
-Goal:
+`Goal:`
 
-Create a blended risk profile for couples.
+`Create a blended risk profile for couples.`
 
-Prompt:
+`Prompt:`
 
-"Create a joint risk assessment model for a couple in India with contrasting investment preferences. Include: (1) Individual risk profile scoring, (2) Method to calculate combined score for joint investments, (3) Suggested blended portfolio, (4) Conflict-resolution scenarios showing impact of each partner’s preference, (5) Graph comparing individual vs joint portfolio risk."
+`"Create a joint risk assessment model for a couple in India with contrasting investment preferences. Include: (1) Individual risk profile scoring, (2) Method to calculate combined score for joint investments, (3) Suggested blended portfolio, (4) Conflict-resolution scenarios showing impact of each partner’s preference, (5) Graph comparing individual vs joint portfolio risk."`
 
-Age-based Risk Assessment for Retirement Planning
+## Age-based Risk Assessment for Retirement Planning
 
-Backstory:
+`Backstory:`
 
-Rakesh, 28, plans to retire by 60 and wants to know how his risk capacity changes over time. He’s currently aggressive in investments but wants a gradual shift to conservative assets as he nears retirement.
+`Rakesh, 28, plans to retire by 60 and wants to know how his risk capacity changes over time. He’s currently aggressive in investments but wants a gradual shift to conservative assets as he nears retirement.`
 
-Goal:
+`Goal:`
 
-Create a risk model that adapts with age.
+`Create a risk model that adapts with age.`
 
-Prompt:
+`Prompt:`
 
-"Build an age-based dynamic risk assessment model for a 28-year-old Indian investor. Include: (1) Risk scoring formula that decreases allocation to high-risk assets every 5 years, (2) Age brackets with recommended equity-debt ratios, (3) Simulation of portfolio growth with gradual risk reduction, (4) Visuals showing risk shift from age 28 to 60, (5) Table of recommended asset changes by decade."
+`"Build an age-based dynamic risk assessment model for a 28-year-old Indian investor. Include: (1) Risk scoring formula that decreases allocation to high-risk assets every 5 years, (2) Age brackets with recommended equity-debt ratios, (3) Simulation of portfolio growth with gradual risk reduction, (4) Visuals showing risk shift from age 28 to 60, (5) Table of recommended asset changes by decade."`
 
-Risk Analysis for Stock Market Beginners
+## Risk Analysis for Stock Market Beginners
 
-Backstory:
+`Backstory:`
 
-Priya, 26, is a first-time stock market investor. She’s excited by trending YouTube videos but is unsure whether she’s ready for the risks. She has ₹1.5 lakh saved, stable income of ₹75,000/month, and no debt. She needs a beginner-friendly risk model that highlights realistic downside possibilities and emotional resilience requirements.
+`Priya, 26, is a first-time stock market investor. She’s excited by trending YouTube videos but is unsure whether she’s ready for the risks. She has ₹1.5 lakh saved, stable income of ₹75,000/month, and no debt. She needs a beginner-friendly risk model that highlights realistic downside possibilities and emotional resilience requirements.`
 
-Goal:
+`Goal:`
 
-Assess readiness for stock market investing and highlight emotional/financial risk capacity.
+`Assess readiness for stock market investing and highlight emotional/financial risk capacity.`
 
-Prompt:
+`Prompt:`
 
-"Develop a beginner-friendly stock market risk assessment model for a 26-year-old in India. Include: (1) Questionnaire testing emotional resilience during market drops, (2) Financial health check (emergency fund, debt status), (3) Classification into low, medium, or high readiness, (4) Example scenarios showing portfolio drop % and recovery time, (5) Clear do/don’t list for each category."
+`"Develop a beginner-friendly stock market risk assessment model for a 26-year-old in India. Include: (1) Questionnaire testing emotional resilience during market drops, (2) Financial health check (emergency fund, debt status), (3) Classification into low, medium, or high readiness, (4) Example scenarios showing portfolio drop % and recovery time, (5) Clear do/don’t list for each category."`
 
-Crypto Investment Risk Assessment
+## Crypto Investment Risk Assessment
 
-Backstory:
+`Backstory:`
 
-Rohan, 29, wants to invest 20% of his portfolio in cryptocurrency. He’s heard both success and horror stories and wants a framework to gauge if his financial health supports such volatility.
+`Rohan, 29, wants to invest 20% of his portfolio in cryptocurrency. He’s heard both success and horror stories and wants a framework to gauge if his financial health supports such volatility.`
 
-Goal:
+`Goal:`
 
-Measure suitability for high-volatility digital asset investments.
+`Measure suitability for high-volatility digital asset investments.`
 
-Prompt:
+`Prompt:`
 
-"Create a crypto investment risk assessment model for a 29-year-old Indian investor. Include: (1) Inputs for savings, income, % of portfolio in crypto, (2) Volatility-adjusted scoring system, (3) Impact analysis of worst-case market drops, (4) Portfolio rebalancing recommendations, (5) Visual risk spectrum from blue-chip crypto to high-risk altcoins."
+`"Create a crypto investment risk assessment model for a 29-year-old Indian investor. Include: (1) Inputs for savings, income, % of portfolio in crypto, (2) Volatility-adjusted scoring system, (3) Impact analysis of worst-case market drops, (4) Portfolio rebalancing recommendations, (5) Visual risk spectrum from blue-chip crypto to high-risk altcoins."`
 
-Real Estate Investment Risk Profiling
+## Real Estate Investment Risk Profiling
 
-Backstory:
+`Backstory:`
 
-Anita, 33, is considering buying a second property as an investment. She already has a home loan and is concerned about over-leveraging. She wants to see the risk in terms of EMI stress, liquidity, and opportunity cost.
+`Anita, 33, is considering buying a second property as an investment. She already has a home loan and is concerned about over-leveraging. She wants to see the risk in terms of EMI stress, liquidity, and opportunity cost.`
 
-Goal:
+`Goal:`
 
-Provide a structured way to measure real estate investment risk.
+`Provide a structured way to measure real estate investment risk.`
 
-Prompt:
+`Prompt:`
 
-"Design a real estate investment risk assessment model for a 33-year-old in India with an existing home loan. Include: (1) EMI-to-income ratio scoring, (2) Liquidity stress test, (3) Risk category based on rental yield and loan terms, (4) Opportunity cost of locking funds vs other investments, (5) Graph comparing different leverage levels."
+`"Design a real estate investment risk assessment model for a 33-year-old in India with an existing home loan. Include: (1) EMI-to-income ratio scoring, (2) Liquidity stress test, (3) Risk category based on rental yield and loan terms, (4) Opportunity cost of locking funds vs other investments, (5) Graph comparing different leverage levels."`
 
-Side Hustle Investment Risk Model
+## Side Hustle Investment Risk Model
 
-Backstory:
+`Backstory:`
 
-Sameer, 28, runs a side hustle selling artisanal coffee online. He wants to invest profits back into marketing and new equipment but is unsure how much risk to take without hurting his personal savings.
+`Sameer, 28, runs a side hustle selling artisanal coffee online. He wants to invest profits back into marketing and new equipment but is unsure how much risk to take without hurting his personal savings.`
 
-Goal:
+`Goal:`
 
-Balance reinvestment into business with personal financial safety.
+`Balance reinvestment into business with personal financial safety.`
 
-Prompt:
+`Prompt:`
 
-"Create a risk assessment model for a 28-year-old side hustler in India. Include: (1) Risk scoring based on monthly business revenue volatility, (2) Recommended reinvestment % based on savings and emergency fund, (3) Break-even projection, (4) Risk mitigation checklist, (5) Sensitivity chart showing impact of sales drop on personal finances."
+`"Create a risk assessment model for a 28-year-old side hustler in India. Include: (1) Risk scoring based on monthly business revenue volatility, (2) Recommended reinvestment % based on savings and emergency fund, (3) Break-even projection, (4) Risk mitigation checklist, (5) Sensitivity chart showing impact of sales drop on personal finances."`
 
-Risk Profile for NRIs Investing in India
+## Risk Profile for NRIs Investing in India
 
-Backstory:
+`Backstory:`
 
-Manoj, 31, works in Dubai and sends money home regularly. He wants to invest in Indian markets but needs to account for currency fluctuation risk and taxation rules.
+`Manoj, 31, works in Dubai and sends money home regularly. He wants to invest in Indian markets but needs to account for currency fluctuation risk and taxation rules.`
 
-Goal:
+`Goal:`
 
-Evaluate NRI-specific investment risks in Indian markets.
+`Evaluate NRI-specific investment risks in Indian markets.`
 
-Prompt:
+`Prompt:`
 
-"Build an NRI investment risk assessment model for a 31-year-old based in Dubai. Include: (1) Currency fluctuation impact, (2) Taxation rules for NRIs, (3) Risk score combining market and currency volatility, (4) Asset allocation per risk category, (5) Visual comparison of INR stability vs portfolio returns."
+`"Build an NRI investment risk assessment model for a 31-year-old based in Dubai. Include: (1) Currency fluctuation impact, (2) Taxation rules for NRIs, (3) Risk score combining market and currency volatility, (4) Asset allocation per risk category, (5) Visual comparison of INR stability vs portfolio returns."`
 
-Risk Profiling for Gold vs Equity Allocation
+## Risk Profiling for Gold vs Equity Allocation
 
-Backstory:
+`Backstory:`
 
-Shreya, 29, comes from a family that heavily invests in gold. She’s interested in equities but wants a model to objectively assess risk of over-reliance on one asset type.
+`Shreya, 29, comes from a family that heavily invests in gold. She’s interested in equities but wants a model to objectively assess risk of over-reliance on one asset type.`
 
-Goal:
+`Goal:`
 
-Balance traditional safe assets with growth-oriented assets.
+`Balance traditional safe assets with growth-oriented assets.`
 
-Prompt:
+`Prompt:`
 
-"Develop a gold vs equity risk assessment tool for a 29-year-old Indian investor. Include: (1) Current portfolio breakdown, (2) Risk score for over-concentration, (3) Suggested rebalancing ratios, (4) Long-term return comparison scenarios, (5) Visual showing portfolio risk if gold/equity ratio changes."
+`"Develop a gold vs equity risk assessment tool for a 29-year-old Indian investor. Include: (1) Current portfolio breakdown, (2) Risk score for over-concentration, (3) Suggested rebalancing ratios, (4) Long-term return comparison scenarios, (5) Visual showing portfolio risk if gold/equity ratio changes."`
 
-Risk Assessment for Parents Starting Child Education Fund
+## Risk Assessment for Parents Starting Child Education Fund
 
-Backstory:
+`Backstory:`
 
-Vikram, 34, and his wife just had a baby. They want to start an education fund but are unsure how much risk they should take in the early years vs later years.
+`Vikram, 34, and his wife just had a baby. They want to start an education fund but are unsure how much risk they should take in the early years vs later years.`
 
-Goal:
+`Goal:`
 
-Build a dynamic risk model for child education funds.
+`Build a dynamic risk model for child education funds.`
 
-Prompt:
+`Prompt:`
 
-"Create an education fund risk model for new parents in India. Include: (1) Risk score based on years to goal, (2) Recommended equity-debt ratio for each time horizon, (3) Simulation showing portfolio value at different risk levels, (4) Inflation-adjusted projections, (5) Annual rebalancing guide."
+`"Create an education fund risk model for new parents in India. Include: (1) Risk score based on years to goal, (2) Recommended equity-debt ratio for each time horizon, (3) Simulation showing portfolio value at different risk levels, (4) Inflation-adjusted projections, (5) Annual rebalancing guide."`
 
-Risk Assessment for SIP Top-ups
+## Risk Assessment for SIP Top-ups
 
-Backstory:
+`Backstory:`
 
-Alok, 27, already runs a ₹5,000/month SIP. His salary just increased, and he wants to top up SIPs but doesn’t know how much more risk exposure he can take.
+`Alok, 27, already runs a ₹5,000/month SIP. His salary just increased, and he wants to top up SIPs but doesn’t know how much more risk exposure he can take.`
 
-Goal:
+`Goal:`
 
-Determine safe top-up limits for SIP investments.
+`Determine safe top-up limits for SIP investments.`
 
-Prompt:
+`Prompt:`
 
-"Design a SIP top-up risk assessment model for a 27-year-old in India. Include: (1) Risk scoring for additional SIP amount, (2) Portfolio exposure check, (3) Cash flow analysis before and after top-up, (4) Recommended safe top-up % ranges, (5) Graph showing portfolio volatility change post top-up."
+`"Design a SIP top-up risk assessment model for a 27-year-old in India. Include: (1) Risk scoring for additional SIP amount, (2) Portfolio exposure check, (3) Cash flow analysis before and after top-up, (4) Recommended safe top-up % ranges, (5) Graph showing portfolio volatility change post top-up."`
 
-Risk Analysis for First-time Angel Investors
+## Risk Analysis for First-time Angel Investors
 
-Backstory:
+`Backstory:`
 
-Kunal, 30, wants to invest ₹5 lakh in a friend’s startup. He’s never done angel investing before and needs to understand the unique risks vs listed equity.
+`Kunal, 30, wants to invest ₹5 lakh in a friend’s startup. He’s never done angel investing before and needs to understand the unique risks vs listed equity.`
 
-Goal:
+`Goal:`
 
-Highlight startup-specific risks for first-time investors.
+`Highlight startup-specific risks for first-time investors.`
 
-Prompt:
+`Prompt:`
 
-"Create an angel investment risk assessment model for a 30-year-old in India. Include: (1) Risk scoring for startup stage, industry, and founder track record, (2) Liquidity risk analysis, (3) Probability of total loss, (4) Diversification strategy suggestions, (5) Visual timeline of investment liquidity stages."
+`"Create an angel investment risk assessment model for a 30-year-old in India. Include: (1) Risk scoring for startup stage, industry, and founder track record, (2) Liquidity risk analysis, (3) Probability of total loss, (4) Diversification strategy suggestions, (5) Visual timeline of investment liquidity stages."`
 
-Retirement Corpus Safety Risk Model
+## Retirement Corpus Safety Risk Model
 
-Backstory:
+`Backstory:`
 
-Harish, 35, has ₹20 lakh in retirement savings so far. He wants to ensure he doesn’t take risks that could severely impact this corpus.
+`Harish, 35, has ₹20 lakh in retirement savings so far. He wants to ensure he doesn’t take risks that could severely impact this corpus.`
 
-Goal:
+`Goal:`
 
-Assess and limit downside risk on retirement corpus.
+`Assess and limit downside risk on retirement corpus.`
 
-Prompt:
+`Prompt:`
 
-"Develop a retirement corpus risk safety model for a 35-year-old Indian investor. Include: (1) Risk score based on current portfolio mix, (2) Stress test with market crash simulation, (3) Recommendations to safeguard at least 80% of corpus, (4) Suggested safe withdrawal rate, (5) Chart showing risk-reduction impact over 5 years."
+`"Develop a retirement corpus risk safety model for a 35-year-old Indian investor. Include: (1) Risk score based on current portfolio mix, (2) Stress test with market crash simulation, (3) Recommendations to safeguard at least 80% of corpus, (4) Suggested safe withdrawal rate, (5) Chart showing risk-reduction impact over 5 years."`
 
-Risk Model for Switching from FD to Equity
+## Risk Model for Switching from FD to Equity
 
-Backstory:
+`Backstory:`
 
-Ritika, 28, has ₹8 lakh in fixed deposits earning 6.5% annually. She’s tempted to shift 50% into equity mutual funds after seeing friends post higher returns on social media. However, her parents are strongly against it, fearing capital loss. She needs a data-backed risk model to understand the trade-offs between FD stability and equity volatility before making the switch.
+`Ritika, 28, has ₹8 lakh in fixed deposits earning 6.5% annually. She’s tempted to shift 50% into equity mutual funds after seeing friends post higher returns on social media. However, her parents are strongly against it, fearing capital loss. She needs a data-backed risk model to understand the trade-offs between FD stability and equity volatility before making the switch.`
 
-Goal:
+`Goal:`
 
-Provide a comparative risk assessment for transitioning from fixed deposits to equity.
+`Provide a comparative risk assessment for transitioning from fixed deposits to equity.`
 
-Prompt:
+`Prompt:`
 
-"Build a risk model for shifting capital from fixed deposits to equity for a 28-year-old in India. Include: (1) Capital safety index comparison, (2) Historical volatility data for equity vs FD stability, (3) Scenario analysis with market crashes, (4) Liquidity and reinvestment risks, (5) Graph comparing post-tax returns for 5, 10, and 15 years."
+`"Build a risk model for shifting capital from fixed deposits to equity for a 28-year-old in India. Include: (1) Capital safety index comparison, (2) Historical volatility data for equity vs FD stability, (3) Scenario analysis with market crashes, (4) Liquidity and reinvestment risks, (5) Graph comparing post-tax returns for 5, 10, and 15 years."`
 
-Risk Assessment for Sector-Focused Mutual Funds
+## Risk Assessment for Sector-Focused Mutual Funds
 
-Backstory:
+`Backstory:`
 
-Vivek, 32, recently heard about IT and pharma sector funds delivering impressive returns over the last 3 years. He is considering allocating ₹3 lakh to a single sector fund but isn’t sure how concentrated bets might impact his portfolio risk.
+`Vivek, 32, recently heard about IT and pharma sector funds delivering impressive returns over the last 3 years. He is considering allocating ₹3 lakh to a single sector fund but isn’t sure how concentrated bets might impact his portfolio risk.`
 
-Goal:
+`Goal:`
 
-Measure the additional risk from investing in single-sector funds.
+`Measure the additional risk from investing in single-sector funds.`
 
-Prompt:
+`Prompt:`
 
-"Create a risk assessment model for sector-specific mutual funds for a 32-year-old investor in India. Include: (1) Sector volatility scores, (2) Correlation analysis with broader market, (3) Drawdown history during sector downturns, (4) Diversification penalty for high concentration, (5) Visual heatmap of portfolio risk with and without sector fund exposure."
+`"Create a risk assessment model for sector-specific mutual funds for a 32-year-old investor in India. Include: (1) Sector volatility scores, (2) Correlation analysis with broader market, (3) Drawdown history during sector downturns, (4) Diversification penalty for high concentration, (5) Visual heatmap of portfolio risk with and without sector fund exposure."`
 
-Risk Profile for Leveraged Investments
+## Risk Profile for Leveraged Investments
 
-Backstory:
+`Backstory:`
 
-Anuj, 30, is considering taking a personal loan to invest in the stock market, believing the returns will exceed the loan interest rate. His peers call it a “smart move,” but he knows leverage can magnify losses too.
+`Anuj, 30, is considering taking a personal loan to invest in the stock market, believing the returns will exceed the loan interest rate. His peers call it a “smart move,” but he knows leverage can magnify losses too.`
 
-Goal:
+`Goal:`
 
-Evaluate the dangers of borrowing to invest.
+`Evaluate the dangers of borrowing to invest.`
 
-Prompt:
+`Prompt:`
 
-"Design a leveraged investment risk assessment model for a 30-year-old in India. Include: (1) Leverage ratio scoring, (2) Interest rate sensitivity analysis, (3) Break-even return calculations, (4) Worst-case loss projection, (5) Timeline showing how leverage impacts returns in bull vs bear markets."
+`"Design a leveraged investment risk assessment model for a 30-year-old in India. Include: (1) Leverage ratio scoring, (2) Interest rate sensitivity analysis, (3) Break-even return calculations, (4) Worst-case loss projection, (5) Timeline showing how leverage impacts returns in bull vs bear markets."`
 
-Risk Model for Dividend-Focused Portfolios
+## Risk Model for Dividend-Focused Portfolios
 
-Backstory:
+`Backstory:`
 
-Sneha, 34, wants to invest in high-dividend-yield stocks for passive income. However, she’s unsure if focusing solely on dividend yield could reduce overall portfolio growth.
+`Sneha, 34, wants to invest in high-dividend-yield stocks for passive income. However, she’s unsure if focusing solely on dividend yield could reduce overall portfolio growth.`
 
-Goal:
+`Goal:`
 
-Balance income generation with capital appreciation while controlling risk.
+`Balance income generation with capital appreciation while controlling risk.`
 
-Prompt:
+`Prompt:`
 
-"Build a dividend portfolio risk model for a 34-year-old Indian investor. Include: (1) Risk score based on dividend sustainability, (2) Impact of sector concentration (e.g., utilities, FMCG), (3) Dividend cut history analysis, (4) Capital growth vs income trade-off, (5) Visual chart comparing portfolio yield stability vs total return."
+`"Build a dividend portfolio risk model for a 34-year-old Indian investor. Include: (1) Risk score based on dividend sustainability, (2) Impact of sector concentration (e.g., utilities, FMCG), (3) Dividend cut history analysis, (4) Capital growth vs income trade-off, (5) Visual chart comparing portfolio yield stability vs total return."`
 
-Risk Assessment for Investing in Small-cap Stocks
+## Risk Assessment for Investing in Small-cap Stocks
 
-Backstory:
+`Backstory:`
 
-Manish, 27, loves the thrill of investing in small-cap companies. He has seen 100% gains in some picks, but also 60% losses in others. He wants a structured risk evaluation to know how much of his portfolio should realistically be in small-caps.
+`Manish, 27, loves the thrill of investing in small-cap companies. He has seen 100% gains in some picks, but also 60% losses in others. He wants a structured risk evaluation to know how much of his portfolio should realistically be in small-caps.`
 
-Goal:
+`Goal:`
 
-Quantify risk exposure in small-cap investing.
+`Quantify risk exposure in small-cap investing.`
 
-Prompt:
+`Prompt:`
 
-"Create a small-cap stock risk assessment model for a 27-year-old Indian investor. Include: (1) Historical volatility scoring for small-caps, (2) Liquidity risk analysis, (3) Maximum drawdown history, (4) Recommended portfolio allocation bands, (5) Visual of risk-return trade-off compared to mid- and large-cap stocks."
+`"Create a small-cap stock risk assessment model for a 27-year-old Indian investor. Include: (1) Historical volatility scoring for small-caps, (2) Liquidity risk analysis, (3) Maximum drawdown history, (4) Recommended portfolio allocation bands, (5) Visual of risk-return trade-off compared to mid- and large-cap stocks."`
 
-ESG Investment Risk Profiling
+## ESG Investment Risk Profiling
 
-Backstory:
+`Backstory:`
 
-Tanvi, 29, is passionate about sustainability and wants to invest only in ESG-compliant companies. However, she has heard ESG stocks can sometimes be more volatile due to regulatory shifts.
+`Tanvi, 29, is passionate about sustainability and wants to invest only in ESG-compliant companies. However, she has heard ESG stocks can sometimes be more volatile due to regulatory shifts.`
 
-Goal:
+`Goal:`
 
-Assess risk in ESG-focused portfolios.
+`Assess risk in ESG-focused portfolios.`
 
-Prompt:
+`Prompt:`
 
-"Develop an ESG portfolio risk assessment model for a 29-year-old investor in India. Include: (1) ESG scoring integration with risk scoring, (2) Sector exposure analysis, (3) Regulatory risk mapping, (4) Historical performance comparison with NIFTY50, (5) Risk-adjusted return graph."
+`"Develop an ESG portfolio risk assessment model for a 29-year-old investor in India. Include: (1) ESG scoring integration with risk scoring, (2) Sector exposure analysis, (3) Regulatory risk mapping, (4) Historical performance comparison with NIFTY50, (5) Risk-adjusted return graph."`
 
-Risk Model for Multi-Country Investments
+## Risk Model for Multi-Country Investments
 
-Backstory:
+`Backstory:`
 
-Dev, 33, wants to diversify by investing in US, European, and Indian markets. He’s worried about currency fluctuations and geopolitical risks affecting returns.
+`Dev, 33, wants to diversify by investing in US, European, and Indian markets. He’s worried about currency fluctuations and geopolitical risks affecting returns.`
 
-Goal:
+`Goal:`
 
-Map risks of multi-country investing.
+`Map risks of multi-country investing.`
 
-Prompt:
+`Prompt:`
 
-"Create a global investment risk model for a 33-year-old Indian investor. Include: (1) Country risk scoring, (2) Currency volatility impact, (3) Correlation matrix of market returns, (4) Asset allocation recommendations by risk category, (5) Visual risk map for portfolio exposure."
+`"Create a global investment risk model for a 33-year-old Indian investor. Include: (1) Country risk scoring, (2) Currency volatility impact, (3) Correlation matrix of market returns, (4) Asset allocation recommendations by risk category, (5) Visual risk map for portfolio exposure."`
 
-Risk Analysis for REIT Investments
+## Risk Analysis for REIT Investments
 
-Backstory:
+`Backstory:`
 
-Ravi, 31, is considering investing in Real Estate Investment Trusts (REITs) for steady rental income without owning property. He needs to know the risks compared to direct property and equity investments.
+`Ravi, 31, is considering investing in Real Estate Investment Trusts (REITs) for steady rental income without owning property. He needs to know the risks compared to direct property and equity investments.`
 
-Goal:
+`Goal:`
 
-Evaluate risk profile of REITs vs alternatives.
+`Evaluate risk profile of REITs vs alternatives.`
 
-Prompt:
+`Prompt:`
 
-"Design a REIT risk assessment model for a 31-year-old in India. Include: (1) Market volatility and liquidity scoring, (2) Occupancy and rental yield risk, (3) Comparison with direct property investments, (4) Historical returns vs equity index, (5) Graph showing REIT performance in different interest rate environments."
+`"Design a REIT risk assessment model for a 31-year-old in India. Include: (1) Market volatility and liquidity scoring, (2) Occupancy and rental yield risk, (3) Comparison with direct property investments, (4) Historical returns vs equity index, (5) Graph showing REIT performance in different interest rate environments."`
 
-Risk Profile for Thematic ETFs
+## Risk Profile for Thematic ETFs
 
-Backstory:
+`Backstory:`
 
-Meera, 30, is excited by thematic ETFs like renewable energy and AI. She has ₹2 lakh to invest but wants to know if these niche themes carry higher risk than diversified ETFs.
+`Meera, 30, is excited by thematic ETFs like renewable energy and AI. She has ₹2 lakh to invest but wants to know if these niche themes carry higher risk than diversified ETFs.`
 
-Goal:
+`Goal:`
 
-Assess risk exposure in thematic ETFs.
+`Assess risk exposure in thematic ETFs.`
 
-Prompt:
+`Prompt:`
 
-"Create a thematic ETF risk assessment model for a 30-year-old investor in India. Include: (1) Sector/theme volatility scoring, (2) Liquidity and AUM analysis, (3) Historical drawdown trends, (4) Correlation with broader market, (5) Risk-adjusted return visual for each theme."
+`"Create a thematic ETF risk assessment model for a 30-year-old investor in India. Include: (1) Sector/theme volatility scoring, (2) Liquidity and AUM analysis, (3) Historical drawdown trends, (4) Correlation with broader market, (5) Risk-adjusted return visual for each theme."`
 
-Risk Assessment for Hybrid Mutual Funds
+## Risk Assessment for Hybrid Mutual Funds
 
-Backstory:
+`Backstory:`
 
-Aarav, 35, prefers hybrid mutual funds because they feel safer than pure equity. However, he’s not sure if the asset mix is actually aligned to his personal risk tolerance.
+`Aarav, 35, prefers hybrid mutual funds because they feel safer than pure equity. However, he’s not sure if the asset mix is actually aligned to his personal risk tolerance.`
 
-Goal:
+`Goal:`
 
-Determine if hybrid funds truly match risk profile.
+`Determine if hybrid funds truly match risk profile.`
 
-Prompt:
+`Prompt:`
 
-"Build a hybrid mutual fund risk assessment tool for a 35-year-old in India. Include: (1) Equity-debt ratio impact on volatility, (2) Historical return stability, (3) Scenario analysis with both equity crash and bond yield spike, (4) Risk scoring based on fund category, (5) Visual portfolio stress test."
+`"Build a hybrid mutual fund risk assessment tool for a 35-year-old in India. Include: (1) Equity-debt ratio impact on volatility, (2) Historical return stability, (3) Scenario analysis with both equity crash and bond yield spike, (4) Risk scoring based on fund category, (5) Visual portfolio stress test."`
 
 
 Tax-Saving Investment Comparisons
