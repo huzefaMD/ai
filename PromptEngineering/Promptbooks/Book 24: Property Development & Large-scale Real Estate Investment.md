@@ -887,7 +887,7 @@ sustaining mixed-use complex with IoT-enabled homes, smart waste management, ren
 
 `Prompt:`
 
-`"You are a sports infrastructure cost consultant. Prepare a cost analysis for constructing a cricket stadium in India, covering: site grading & drainage, seating structures, roofing systems for stands, corporate box build-outs, player dressing rooms & facilities, media center & broadcasting rooms, lighting towers & floodlight systems, scoreboards & screens, internal roads & parking, landscaping, and maintenance cost projections. Provide total and per-seat cost." Inputs Required from User: Seating capacity breakdown (general, premium, corporate) Roof coverage percentage Lighting system specifications Required construction timeline
+`"You are a sports infrastructure cost consultant. Prepare a cost analysis for constructing a cricket stadium in India, covering: site grading & drainage, seating structures, roofing systems for stands, corporate box build-outs, player dressing rooms & facilities, media center & broadcasting rooms, lighting towers & floodlight systems, scoreboards & screens, internal roads & parking, landscaping, and maintenance cost projections. Provide total and per-seat cost." Inputs Required from User: Seating capacity breakdown (general, premium, corporate) Roof coverage percentage Lighting system specifications Required construction timeline`
 
 ## Solar-Powered Warehouse Construction Cost Analysis
 
