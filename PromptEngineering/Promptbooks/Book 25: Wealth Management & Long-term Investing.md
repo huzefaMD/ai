@@ -176,7 +176,7 @@
 
 `Goal:`
 
-`Create a family-focused allocation plan.``
+`Create a family-focused allocation plan.`
 
 `Prompt:`
 
