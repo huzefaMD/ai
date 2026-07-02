@@ -268,87 +268,87 @@
 
 ## Real Estate-Heavy Portfolio Balance
 
-Backstory:
+`Backstory:`
 
-Priya, 33, already owns two apartments worth ₹1.5 crore each, with no home loan. She’s worried her portfolio is overexposed to real estate.
+`Priya, 33, already owns two apartments worth ₹1.5 crore each, with no home loan. She’s worried her portfolio is overexposed to real estate.`
 
-Goal:
+`Goal:`
 
-Rebalance towards a more diversified allocation.
+`Rebalance towards a more diversified allocation.`
 
-Prompt:
+`Prompt:`
 
-"You are a portfolio rebalancing expert. Create an asset allocation for a 33-year-old Indian overexposed to real estate. Include: (1) Steps to gradually reduce real estate weight, (2) Alternative growth asset recommendations, (3) Liquidity management, (4) Risk-adjusted return analysis post-diversification, (5) Tax implications of selling property." Inputs: Current property valuations Willingness to sell or rent Cash flow needs
+`"You are a portfolio rebalancing expert. Create an asset allocation for a 33-year-old Indian overexposed to real estate. Include: (1) Steps to gradually reduce real estate weight, (2) Alternative growth asset recommendations, (3) Liquidity management, (4) Risk-adjusted return analysis post-diversification, (5) Tax implications of selling property." Inputs: Current property valuations Willingness to sell or rent Cash flow needs`
 
-rs (battery tech, EV infrastructure), (3) Balance with core diversified portfolio, (4) 10-year return projection based on industry trends, (5) Risk controls to avoid overconcentration." Inputs: Preferred green sectors % allocation to thematic assetsGreen Energy-Focused Allocation
+## rs (battery tech, EV infrastructure), (3) Balance with core diversified portfolio, (4) 10-year return projection based on industry trends, (5) Risk controls to avoid overconcentration." Inputs: Preferred green sectors % allocation to thematic assetsGreen Energy-Focused Allocation
 
-Backstory:
+`Backstory:`
 
-Harsh, 29, works in the renewable energy sector and believes the industry will boom. He wants a portfolio tilted towards green energy without taking excessive risk.
+`Harsh, 29, works in the renewable energy sector and believes the industry will boom. He wants a portfolio tilted towards green energy without taking excessive risk.`
 
-Goal:
+`Goal:`
 
-Design a thematic allocation focused on green energy.
+`Design a thematic allocation focused on green energy.`
 
-Prompt:
+`Prompt:`
 
-"You are a thematic investment strategist. Create a green energy-focused allocation for a 29-year-old Indian investor. Include: (1) Recommended green energy stocks and ETFs, (2) Supporting secto Risk appetite
+`"You are a thematic investment strategist. Create a green energy-focused allocation for a 29-year-old Indian investor. Include: (1) Recommended green energy stocks and ETFs, (2) Supporting secto Risk appetite`
 
-SIP-Only Allocation Plan
+## SIP-Only Allocation Plan
 
-Backstory:
+`Backstory:`
 
-Megha, 26, wants a simple investment plan entirely through monthly SIPs, without lump-sum investments. She prefers an easy-to-follow model.
+`Megha, 26, wants a simple investment plan entirely through monthly SIPs, without lump-sum investments. She prefers an easy-to-follow model.`
 
-Goal:
+`Goal:`
 
-Create a SIP-focused allocation strategy.
+`Create a SIP-focused allocation strategy.`
 
-Prompt:
+`Prompt:`
 
-"You are a SIP investment planner. Create a 100% SIP-based asset allocation for a 26-year-old Indian investor. Include: (1) Equity, debt, and gold split, (2) SIP fund recommendations, (3) Step-up SIP strategy, (4) Yearly performance review guidelines, (5) 20-year projection with and without SIP step-ups." Inputs: Monthly SIP budget Desired investment duration Risk profile
+`"You are a SIP investment planner. Create a 100% SIP-based asset allocation for a 26-year-old Indian investor.` Include: (1) Equity, debt, and gold split, (2) SIP fund recommendations, (3) Step-up SIP strategy, (4) Yearly performance review guidelines, (5) 20-year projection with and without SIP step-ups." Inputs: Monthly SIP budget Desired investment duration Risk profile`
 
-Dual-Country Resident Allocation
+## Dual-Country Resident Allocation
 
-Backstory:
+`Backstory:`
 
-Ananya, 31, spends half the year in India and half in the UAE. She wants an allocation that takes advantage of both markets and avoids double taxation issues.
+`Ananya, 31, spends half the year in India and half in the UAE. She wants an allocation that takes advantage of both markets and avoids double taxation issues.`
 
-Goal:
+`Goal:`
 
-Build a cross-border asset allocation.
+`Build a cross-border asset allocation.`
 
-Prompt:
+`Prompt:`
 
-"You are a cross-border investment advisor. Create a dual-country allocation for a 31-year-old Indian-UAE resident. Include: (1) Optimal split between Indian and UAE markets, (2) Tax treaty benefits, (3) Currency diversification, (4) Hedging strategies for currency volatility, (5) Example annual rebalancing schedule." Inputs: Time spent in each country Tax residency status Currency preference
+`"You are a cross-border investment advisor. Create a dual-country allocation for a 31-year-old Indian-UAE resident. Include: (1) Optimal split between Indian and UAE markets, (2) Tax treaty benefits, (3) Currency diversification, (4) Hedging strategies for currency volatility, (5) Example annual rebalancing schedule." Inputs: Time spent in each country Tax residency status Currency preference`
 
-High-Risk, High-Reward Allocation
+## High-Risk, High-Reward Allocation
 
-Backstory:
+`Backstory:`
 
-Naveen, 28, is single, earns well, and has no dependents. He wants to take high risks for potentially high rewards over the next 10 years.
+`Naveen, 28, is single, earns well, and has no dependents. He wants to take high risks for potentially high rewards over the next 10 years.`
 
-Goal:
+`Goal:`
 
-Create an aggressive allocation with risk management.
+`Create an aggressive allocation with risk management.`
 
-Prompt:
+`Prompt:`
 
-"You are an aggressive portfolio designer. Build a high-risk, high-return allocation for a 28-year-old Indian. Include: (1) Large-cap, mid-cap, and small-cap equity mix, (2) International emerging markets exposure, (3) Risk management strategies, (4) Historical backtesting for similar portfolios, (5) Clear exit and profit-taking rules." Inputs: Return target Maximum loss tolerance Preferred investment sectors
+`"You are an aggressive portfolio designer. Build a high-risk, high-return allocation for a 28-year-old Indian. Include: (1) Large-cap, mid-cap, and small-cap equity mix, (2) International emerging markets exposure, (3) Risk management strategies, (4) Historical backtesting for similar portfolios, (5) Clear exit and profit-taking rules." Inputs: Return target Maximum loss tolerance Preferred investment sectors`
 
-Passive-Only Allocation
+## Passive-Only Allocation
 
-Backstory:
+`Backstory:`
 
-Rohini, 30, believes in low-cost, passive investing and doesn’t want to pick individual stocks or funds.
+`Rohini, 30, believes in low-cost, passive investing and doesn’t want to pick individual stocks or funds.`
 
-Goal:
+`Goal:`
 
-Design an entirely passive asset allocation.
+`Design an entirely passive asset allocation.`
 
-Prompt:
+`Prompt:`
 
-"You are a passive investing strategist. Create a 100% passive asset allocation for a 30-year-old Indian investor. Include: (1) Index fund and ETF recommendations, (2) Allocation percentages, (3) Annual rebalancing process, (4) Expense ratio impact over 20 years, (5) Growth projection with historical index data." Inputs: Monthly investment budget Investment horizon Preferred index types
+`"You are a passive investing strategist. Create a 100% passive asset allocation for a 30-year-old Indian investor. Include: (1) Index fund and ETF recommendations, (2) Allocation percentages, (3) Annual rebalancing process, (4) Expense ratio impact over 20 years, (5) Growth projection with historical index data." Inputs: Monthly investment budget Investment horizon Preferred index types`
 
 
 Risk Assessment Models
