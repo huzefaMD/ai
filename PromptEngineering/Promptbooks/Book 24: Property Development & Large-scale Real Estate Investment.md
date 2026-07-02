@@ -907,7 +907,7 @@ sustaining mixed-use complex with IoT-enabled homes, smart waste management, ren
 
 `Backstory:`
 
-`A healthcare group in Mumbai is building a 300-bed multi-specialty hospital with specialized departments for cardiology, oncology, and orthopedics. The design must meet NABH and JCI accreditation standards. The cost analysis must include advanced medical equipment fit-outs, patient amenities, and future expansion provisions.
+`A healthcare group in Mumbai is building a 300-bed multi-specialty hospital with specialized departments for cardiology, oncology, and orthopedics. The design must meet NABH and JCI accreditation standards. The cost analysis must include advanced medical equipment fit-outs, patient amenities, and future expansion provisions.`
 
 `Goal:`
 
