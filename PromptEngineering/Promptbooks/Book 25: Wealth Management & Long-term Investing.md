@@ -266,7 +266,7 @@
 
 `"You are a career-stage investment advisor. Create two separate asset allocations — one for a 25-year-old and one for a 34-year-old Indian. Include: (1) Risk exposure differences, (2) Recommended asset classes for each stage, (3) Savings rate targets, (4) Transition rules as they age, (5) Comparative growth projections over 30 years." Inputs: Current income Career growth rate Retirement target age`
 
-Real Estate-Heavy Portfolio Balance
+## Real Estate-Heavy Portfolio Balance
 
 Backstory:
 
