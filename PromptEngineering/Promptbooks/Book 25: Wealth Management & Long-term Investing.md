@@ -34,7 +34,7 @@
 
 `Meenal, 34, is a school teacher who values stability over high returns. She recently inherited ₹15 lakh and doesn’t want to lose any of it. Her main priority is capital preservation with modest growth to beat inflation.`
 
-`Goal:
+`Goal:`
 
 `Design a low-risk allocation that maintains purchasing power.`
 
