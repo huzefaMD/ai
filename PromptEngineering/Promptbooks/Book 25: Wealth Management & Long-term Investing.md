@@ -306,7 +306,7 @@
 
 `Prompt:`
 
-`"You are a SIP investment planner. Create a 100% SIP-based asset allocation for a 26-year-old Indian investor.` Include: (1) Equity, debt, and gold split, (2) SIP fund recommendations, (3) Step-up SIP strategy, (4) Yearly performance review guidelines, (5) 20-year projection with and without SIP step-ups." Inputs: Monthly SIP budget Desired investment duration Risk profile`
+`"You are a SIP investment planner. Create a 100% SIP-based asset allocation for a 26-year-old Indian investor.` Include:` (1) Equity, debt, and gold split, (2) SIP fund recommendations, (3) Step-up SIP strategy, (4) Yearly performance review guidelines, (5) 20-year projection with and without SIP step-ups." Inputs: Monthly SIP budget Desired investment duration Risk profile`
 
 ## Dual-Country Resident Allocation
 
