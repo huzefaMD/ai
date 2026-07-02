@@ -58,213 +58,213 @@
 
 ## Allocation for NRIs
 
-Backstory:
+`Backstory:`
 
-Priya, 30, works in Dubai and sends ₹5 lakh annually to India for investment. She wants to invest in Indian assets while keeping some exposure to global markets.
+`Priya, 30, works in Dubai and sends ₹5 lakh annually to India for investment. She wants to invest in Indian assets while keeping some exposure to global markets.`
 
-Goal:
+`Goal:`
 
-Create an NRI-friendly allocation balancing Indian and foreign assets.
+`Create an NRI-friendly allocation balancing Indian and foreign assets.`
 
-Prompt:
+`Prompt:`
 
-"You are an NRI investment consultant. Recommend an asset allocation plan for a 30-year-old Indian working abroad, investing ₹5 lakh annually in India. Include: (1) Proportion in Indian equity, debt, gold, and real estate, (2) Foreign ETF exposure for currency diversification, (3) Tax efficiency considerations for NRIs, (4) Liquidity management, (5) Portfolio currency risk analysis." Inputs: Residency status Currency preference for returns Investment horizon
+`"You are an NRI investment consultant. Recommend an asset allocation plan for a 30-year-old Indian working abroad, investing ₹5 lakh annually in India. Include: (1) Proportion in Indian equity, debt, gold, and real estate, (2) Foreign ETF exposure for currency diversification, (3) Tax efficiency considerations for NRIs, (4) Liquidity management, (5) Portfolio currency risk analysis." Inputs: Residency status Currency preference for returns Investment horizon`
 
-Allocation for FIRE (Financial Independence, Retire Early)
+## Allocation for FIRE (Financial Independence, Retire Early)
 
-Backstory:
+`Backstory:`
 
-Amit, 27, wants to retire at 40. He is saving aggressively and looking for an allocation that maximizes wealth growth while planning for early withdrawals.
+`Amit, 27, wants to retire at 40. He is saving aggressively and looking for an allocation that maximizes wealth growth while planning for early withdrawals.`
 
-Goal:
+`Goal:`
 
-Structure an allocation for early retirement goals.
+`Structure an allocation for early retirement goals.`
 
-Prompt:
+`Prompt:`
 
-"You are a FIRE-focused financial planner. Design an asset allocation for a 27-year-old in India aiming to retire at 40. Include: (1) High-growth assets for wealth accumulation, (2) Low-volatility income-generating assets for post-retirement, (3) Withdrawal sequence plan, (4) Safe withdrawal rate calculations, (5) Portfolio simulation for 40+ years post-retirement." Inputs: Target retirement corpus Expected monthly expenses post-retirement Current savings rate
+`"You are a FIRE-focused financial planner. Design an asset allocation for a 27-year-old in India aiming to retire at 40. Include: (1) High-growth assets for wealth accumulation, (2) Low-volatility income-generating assets for post-retirement, (3) Withdrawal sequence plan, (4) Safe withdrawal rate calculations, (5) Portfolio simulation for 40+ years post-retirement." Inputs: Target retirement corpus Expected monthly expenses post-retirement Current savings rate`
 
-Inflation-Proof Allocation
+## Inflation-Proof Allocation
 
-Backstory:
+`Backstory:`
 
-Rohini, 35, is concerned that inflation will erode her wealth over the next two decades. She wants an allocation designed to consistently beat inflation while minimizing volatility.
+`Rohini, 35, is concerned that inflation will erode her wealth over the next two decades. She wants an allocation designed to consistently beat inflation while minimizing volatility.`
 
-Goal:
+`Goal:`
 
-Build a portfolio that keeps real returns positive.
+`Build a portfolio that keeps real returns positive.`
 
-Prompt:
+`Prompt:`
 
-"You are a portfolio risk expert. Create an inflation-resistant allocation for a 35-year-old in India with ₹25 lakh capital. Include: (1) Inflation-linked bonds, (2) Equity sectors with pricing power, (3) Real assets like gold and REITs, (4) Historical analysis of portfolio returns vs CPI, (5) Stress test under 8% annual inflation." Inputs: Current inflation rate assumptions Willingness to accept short-term losses Target real return per year
+`"You are a portfolio risk expert. Create an inflation-resistant allocation for a 35-year-old in India with ₹25 lakh capital. Include: (1) Inflation-linked bonds, (2) Equity sectors with pricing power, (3) Real assets like gold and REITs, (4) Historical analysis of portfolio returns vs CPI, (5) Stress test under 8% annual inflation." Inputs: Current inflation rate assumptions Willingness to accept short-term losses Target real return per year`
 
-Goal-Based Allocation
+## Goal-Based Allocation
 
-Backstory:
+`Backstory:`
 
-Shalini, 28, has three big goals — buying a house in 5 years, funding her child’s education in 15 years, and retiring at 60. She’s confused about how to invest for each without mixing up the money or taking the wrong level of risk for a given goal.
+`Shalini, 28, has three big goals — buying a house in 5 years, funding her child’s education in 15 years, and retiring at 60. She’s confused about how to invest for each without mixing up the money or taking the wrong level of risk for a given goal.`
 
-Goal:
+`Goal:`
 
-Design a goal-specific allocation model with separate risk levels for each target.
+`Design a goal-specific allocation model with separate risk levels for each target.`
 
-Prompt:
+`Prompt:`
 
-"You are a goal-based investment planner. Create a multi-goal asset allocation for a 28-year-old Indian with three goals — house purchase in 5 years, child’s education in 15 years, and retirement in 32 years. Include: (1) Separate asset allocation and risk profile for each goal, (2) Suitable investment products for each time frame, (3) Annual review and adjustment mechanism, (4) Graph showing growth trajectory for each goal, (5) Contingency funding plan." Inputs: Goal timelines Goal cost in today’s value Inflation assumptions per goal
+`"You are a goal-based investment planner. Create a multi-goal asset allocation for a 28-year-old Indian with three goals — house purchase in 5 years, child’s education in 15 years, and retirement in 32 years. Include: (1) Separate asset allocation and risk profile for each goal, (2) Suitable investment products for each time frame, (3) Annual review and adjustment mechanism, (4) Graph showing growth trajectory for each goal, (5) Contingency funding plan." Inputs: Goal timelines Goal cost in today’s value Inflation assumptions per goal`
 
-Allocation for Volatile Income Streams
+## Allocation for Volatile Income Streams
 
-Backstory:
+`Backstory:`
 
-Saurabh, 33, is a freelance photographer whose income varies widely each month. He wants an allocation that gives flexibility to invest more during high-income months and still stay on track when income is low.
+`Saurabh, 33, is a freelance photographer whose income varies widely each month. He wants an allocation that gives flexibility to invest more during high-income months and still stay on track when income is low.`
 
-Goal:
+`Goal:`
 
-Build a portfolio structure adaptable to fluctuating incomes.
+`Build a portfolio structure adaptable to fluctuating incomes.`
 
-Prompt:
+`Prompt:`
 
-"You are a financial consultant for freelancers. Create a flexible asset allocation model for a 33-year-old in India with volatile monthly income. Include: (1) Core-satellite investment approach, (2) Liquidity buffer for low-income months, (3) Allocation percentage that adjusts with income, (4) Automatic rebalancing guidelines, (5) Example scenarios for high, average, and low-income years." Inputs: Average annual income Monthly income fluctuation range Emergency fund size
+`"You are a financial consultant for freelancers. Create a flexible asset allocation model for a 33-year-old in India with volatile monthly income. Include: (1) Core-satellite investment approach, (2) Liquidity buffer for low-income months, (3) Allocation percentage that adjusts with income, (4) Automatic rebalancing guidelines, (5) Example scenarios for high, average, and low-income years." Inputs: Average annual income Monthly income fluctuation range Emergency fund size`
 
-Ethical & ESG-Investor Allocation
+## Ethical & ESG-Investor Allocation
 
-Backstory:
+`Backstory:`
 
-Nandini, 30, works for an NGO and wants her investments aligned with her values — no tobacco, gambling, or environmentally harmful companies. She’s willing to accept slightly lower returns for this ethical stance.
+`Nandini, 30, works for an NGO and wants her investments aligned with her values — no tobacco, gambling, or environmentally harmful companies. She’s willing to accept slightly lower returns for this ethical stance.`
 
-Goal:
+`Goal:`
 
-Create an ESG-compliant asset allocation plan.
+`Create an ESG-compliant asset allocation plan.`
 
-Prompt:
+`Prompt:`
 
-"You are an ESG investment specialist. Build an ethical asset allocation for a 30-year-old Indian investor, excluding harmful industries. Include: (1) ESG-screened mutual funds and ETFs, (2) Renewable energy and sustainable business exposure, (3) Allocation to green bonds, (4) Impact on historical returns compared to standard benchmarks, (5) Risk profile of ESG-only portfolio." Inputs: Ethical exclusions list Minimum acceptable return Preferred ESG rating criteria
+`"You are an ESG investment specialist. Build an ethical asset allocation for a 30-year-old Indian investor, excluding harmful industries. Include: (1) ESG-screened mutual funds and ETFs, (2) Renewable energy and sustainable business exposure, (3) Allocation to green bonds, (4) Impact on historical returns compared to standard benchmarks, (5) Risk profile of ESG-only portfolio." Inputs: Ethical exclusions list Minimum acceptable return Preferred ESG rating criteria`
 
-Tax-Efficient Allocation
+## Tax-Efficient Allocation
 
-Backstory:
+`Backstory:`
 
-Rajat, 32, earns ₹18 lakh annually and is in the 30% tax bracket. He wants to maximize returns but minimize taxes legally through smart allocation.
+`Rajat, 32, earns ₹18 lakh annually and is in the 30% tax bracket. He wants to maximize returns but minimize taxes legally through smart allocation.`
 
-Goal:
+`Goal:`
 
-Design a tax-optimized allocation strategy.
+`Design a tax-optimized allocation strategy.`
 
-Prompt:
+`Prompt:`
 
-"You are a tax-efficient portfolio planner. Create an asset allocation for a 32-year-old Indian in the highest tax bracket. Include: (1) ELSS, PPF, and tax-free bonds, (2) Optimal holding periods for capital gains tax benefits, (3) Tax-efficient debt instruments, (4) Comparison of pre- and post-tax returns, (5) Annual tax-saving calendar." Inputs: Annual taxable income Existing tax-saving instruments Preferred lock-in period
+`"You are a tax-efficient portfolio planner. Create an asset allocation for a 32-year-old Indian in the highest tax bracket. Include: (1) ELSS, PPF, and tax-free bonds, (2) Optimal holding periods for capital gains tax benefits, (3) Tax-efficient debt instruments, (4) Comparison of pre- and post-tax returns, (5) Annual tax-saving calendar." Inputs: Annual taxable income Existing tax-saving instruments Preferred lock-in period`
 
-Post-Windfall Allocation
+## Post-Windfall Allocation
 
-Backstory:
+`Backstory:`
 
-Avinash, 29, just received ₹50 lakh from the sale of ancestral land. He has no investment experience and fears losing the money if invested wrongly.
+`Avinash, 29, just received ₹50 lakh from the sale of ancestral land. He has no investment experience and fears losing the money if invested wrongly.`
 
-Goal:
+`Goal:`
 
-Provide a secure yet growth-oriented allocation for a sudden large sum.
+`Provide a secure yet growth-oriented allocation for a sudden large sum.`
 
-Prompt:
+`Prompt:`
 
-"You are a wealth manager. Create a structured asset allocation plan for a 29-year-old Indian with a ₹50 lakh windfall. Include: (1) Immediate parking in safe liquid assets, (2) Staggered entry into equity and real estate, (3) Allocation to fixed income and gold, (4) Risk mitigation strategies, (5) 10-year wealth projection." Inputs: Immediate cash needs Risk comfort Experience with investments
+`"You are a wealth manager. Create a structured asset allocation plan for a 29-year-old Indian with a ₹50 lakh windfall. Include: (1) Immediate parking in safe liquid assets, (2) Staggered entry into equity and real estate, (3) Allocation to fixed income and gold, (4) Risk mitigation strategies, (5) 10-year wealth projection." Inputs: Immediate cash needs Risk comfort Experience with investments`
 
-Allocation for Parents of Young Children
+## Allocation for Parents of Young Children
 
-Backstory:
+`Backstory:`
 
-Prerna, 31, has two kids under 5. She wants an allocation that balances her family’s short-term needs with long-term education and retirement planning.
+`Prerna, 31, has two kids under 5. She wants an allocation that balances her family’s short-term needs with long-term education and retirement planning.`
 
-Goal:
+`Goal:`
 
-Create a family-focused allocation plan.
+`Create a family-focused allocation plan.``
 
-Prompt:
+`Prompt:`
 
-"You are a family portfolio strategist. Design a balanced allocation for a 31-year-old parent with two young children. Include: (1) Emergency fund adequacy, (2) Child education corpus investments, (3) Retirement savings, (4) Health insurance-linked investment planning, (5) Inflation-adjusted target setting." Inputs: Number of dependents Expected annual expenses Target education cost per child
+`"You are a family portfolio strategist. Design a balanced allocation for a 31-year-old parent with two young children. Include: (1) Emergency fund adequacy, (2) Child education corpus investments, (3) Retirement savings, (4) Health insurance-linked investment planning, (5) Inflation-adjusted target setting." Inputs: Number of dependents Expected annual expenses Target education cost per child`
 
-Allocation for Entrepreneurs
+## Allocation for Entrepreneurs
 
-Backstory:
+`Backstory:`
 
-Vikram, 35, runs his own startup and reinvests most profits back into the business. He wants a personal portfolio that’s less risky than his business ventures.
+`Vikram, 35, runs his own startup and reinvests most profits back into the business. He wants a personal portfolio that’s less risky than his business ventures.`
 
-Goal:
+`Goal:`
 
-Balance personal safety with growth while business risk remains high.
+`Balance personal safety with growth while business risk remains high.`
 
-Prompt:
+`Prompt:`
 
-"You are an entrepreneur-focused financial advisor. Create an asset allocation for a 35-year-old startup founder with high business risk exposure. Include: (1) Conservative allocation in personal portfolio, (2) Liquidity for emergencies, (3) Diversification away from business sector, (4) Stress test for business failure scenario, (5) Safe investment laddering strategy." Inputs: Business volatility level Monthly personal income draw Backup income sources
+`"You are an entrepreneur-focused financial advisor. Create an asset allocation for a 35-year-old startup founder with high business risk exposure. Include: (1) Conservative allocation in personal portfolio, (2) Liquidity for emergencies, (3) Diversification away from business sector, (4) Stress test for business failure scenario, (5) Safe investment laddering strategy." Inputs: Business volatility level Monthly personal income draw Backup income sources`
 
-Retirement-Backcasting Allocation
+## Retirement-Backcasting Allocation
 
-Backstory:
+`Backstory:`
 
-Manish, 34, wants to reverse-engineer his retirement corpus by starting from his desired lifestyle at 60 and working backward.
+`Manish, 34, wants to reverse-engineer his retirement corpus by starting from his desired lifestyle at 60 and working backward.`
 
-Goal:
+`Goal:`
 
-Develop an allocation strategy using backcasting.
+`Develop an allocation strategy using backcasting.`
 
-Prompt:
+`Prompt:`
 
-"You are a retirement planning expert. Create an asset allocation for a 34-year-old aiming for a ₹6 crore corpus at 60 using backcasting. Include: (1) Required monthly investments, (2) Asset class returns assumptions, (3) Allocation shifts over decades, (4) Sensitivity analysis for returns lower than expected, (5) Graph of progress vs target." Inputs: Retirement lifestyle costs Current corpus Expected rate of return
+`"You are a retirement planning expert. Create an asset allocation for a 34-year-old aiming for a ₹6 crore corpus at 60 using backcasting. Include: (1) Required monthly investments, (2) Asset class returns assumptions, (3) Allocation shifts over decades, (4) Sensitivity analysis for returns lower than expected, (5) Graph of progress vs target." Inputs: Retirement lifestyle costs Current corpus Expected rate of return`
 
-Inflation-Protected Allocation
+## Inflation-Protected Allocation
 
-Backstory:
+`Backstory:`
 
-Ankita, 27, is worried about rising prices eroding her savings. She wants an allocation that beats inflation consistently while keeping risk moderate. She’s especially concerned about healthcare and housing costs in the future.
+`Ankita, 27, is worried about rising prices eroding her savings. She wants an allocation that beats inflation consistently while keeping risk moderate. She’s especially concerned about healthcare and housing costs in the future.`
 
-Goal:
+`Goal:`
 
-Design a portfolio that stays ahead of inflation over decades.
+`Design a portfolio that stays ahead of inflation over decades.
 
-Prompt:
+`Prompt:`
 
-"You are an inflation-hedging portfolio planner. Build an asset allocation for a 27-year-old Indian investor aiming to beat inflation by at least 3% annually. Include: (1) Exposure to inflation-indexed bonds, (2) Allocation to sectors benefiting from inflation (commodities, REITs), (3) Equity exposure in inflation-resistant industries, (4) Historical simulation over the past 20 years, (5) Annual rebalancing rules to maintain purchasing power." Inputs: Current inflation assumption Risk comfort level Investment horizon
+`"You are an inflation-hedging portfolio planner. Build an asset allocation for a 27-year-old Indian investor aiming to beat inflation by at least 3% annually. Include: (1) Exposure to inflation-indexed bonds, (2) Allocation to sectors benefiting from inflation (commodities, REITs), (3) Equity exposure in inflation-resistant industries, (4) Historical simulation over the past 20 years, (5) Annual rebalancing rules to maintain purchasing power." Inputs: Current inflation assumption Risk comfort level Investment horizon`
 
-Global Diversification Allocation
+## Global Diversification Allocation
 
-Backstory:
+`Backstory:`
 
-Siddharth, 32, works in IT and wants to protect his wealth from India-specific economic downturns. He’s interested in US tech stocks, Asian markets, and global index funds.
+`Siddharth, 32, works in IT and wants to protect his wealth from India-specific economic downturns. He’s interested in US tech stocks, Asian markets, and global index funds.`
 
-Goal:
+`Goal:`
 
-Create a globally diversified asset allocation.
+`Create a globally diversified asset allocation.`
 
-Prompt:
+`Prompt:`
 
-"You are a global investment strategist. Create a globally diversified allocation for a 32-year-old Indian investor. Include: (1) Domestic vs international equity split, (2) ETFs or mutual funds for global exposure, (3) Currency risk management strategies, (4) Country allocation rationale, (5) Rebalancing triggers based on exchange rate and market performance." Inputs: % of portfolio desired in global assets Preferred markets/countries Currency risk tolerance
+`"You are a global investment strategist. Create a globally diversified allocation for a 32-year-old Indian investor. Include: (1) Domestic vs international equity split, (2) ETFs or mutual funds for global exposure, (3) Currency risk management strategies, (4) Country allocation rationale, (5) Rebalancing triggers based on exchange rate and market performance." Inputs: % of portfolio desired in global assets Preferred markets/countries Currency risk tolerance`
 
-Recession-Resilient Allocation
+## Recession-Resilient Allocation
 
-Backstory:
+`Backstory:`
 
-Kiran, 30, saw her family’s investments drop heavily during COVID-19 and wants a portfolio that can withstand economic recessions without large drawdowns.
+`Kiran, 30, saw her family’s investments drop heavily during COVID-19 and wants a portfolio that can withstand economic recessions without large drawdowns.`
 
-Goal:
+`Goal:`
 
-Build a defensive allocation plan.
+`Build a defensive allocation plan.`
 
-Prompt:
+`Prompt:`
 
-"You are a defensive portfolio expert. Create a recession-resistant asset allocation for a 30-year-old Indian investor. Include: (1) Allocation to defensive sectors, (2) Higher proportion of fixed income and gold, (3) Dynamic hedging with index puts, (4) Case studies of historical recessions and portfolio impact, (5) Rules for shifting to growth mode post-recession." Inputs: Worst acceptable portfolio drawdown (%) Time frame for capital recovery Risk comfort
+`"You are a defensive portfolio expert. Create a recession-resistant asset allocation for a 30-year-old Indian investor. Include: (1) Allocation to defensive sectors, (2) Higher proportion of fixed income and gold, (3) Dynamic hedging with index puts, (4) Case studies of historical recessions and portfolio impact, (5) Rules for shifting to growth mode post-recession." Inputs: Worst acceptable portfolio drawdown (%) Time frame for capital recovery Risk comfort`
 
-Career Stage-Based Allocation
+## Career Stage-Based Allocation
 
-Backstory:
+`Backstory:`
 
-Deepak, 25, is early in his career, while his friend Rohit, 34, is mid-career. Both want allocations tailored to their career stages and earning patterns.
+`Deepak, 25, is early in his career, while his friend Rohit, 34, is mid-career. Both want allocations tailored to their career stages and earning patterns.`
 
-Goal:
+`Goal:`
 
-Show how asset allocation changes with career stage.
+`Show how asset allocation changes with career stage.`
 
-Prompt:
+`Prompt:`
 
-"You are a career-stage investment advisor. Create two separate asset allocations — one for a 25-year-old and one for a 34-year-old Indian. Include: (1) Risk exposure differences, (2) Recommended asset classes for each stage, (3) Savings rate targets, (4) Transition rules as they age, (5) Comparative growth projections over 30 years." Inputs: Current income Career growth rate Retirement target age
+`"You are a career-stage investment advisor. Create two separate asset allocations — one for a 25-year-old and one for a 34-year-old Indian. Include: (1) Risk exposure differences, (2) Recommended asset classes for each stage, (3) Savings rate targets, (4) Transition rules as they age, (5) Comparative growth projections over 30 years." Inputs: Current income Career growth rate Retirement target age`
 
 Real Estate-Heavy Portfolio Balance
 
