@@ -1751,7 +1751,7 @@ sustaining mixed-use complex with IoT-enabled homes, smart waste management, ren
 
 ## Final Occupancy Certificate Approval Checklist
 
-`Backstory:
+`Backstory:`
 
 `A mixed-use skyscraper in Ahmedabad has completed construction and now requires the Occupancy Certificate (OC) from the municipal corporation to allow residents and businesses to move in.`
 
