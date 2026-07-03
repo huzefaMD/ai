@@ -958,103 +958,103 @@ NPS vs Tax-Saving FD for Retirement Planning
 
 `"You are a tax benefit strategist. Compare increasing home loan principal repayment vs investing in ELSS for a 32-year-old with ₹1 lakh surplus in a year. Include: (1) Tax saved under 80C, (2) Interest saved from prepayment, (3) Projected ELSS returns, (4) Liquidity trade-offs, (5) Final net worth after 10 years. Present as table + loan amortisation vs equity growth chart." Inputs: Loan interest rate Annual surplus amount Expected ELSS returns`
 
-Voluntary Provident Fund vs NPS for Section 80C & 80CCD Benefits
+## Voluntary Provident Fund vs NPS for Section 80C & 80CCD Benefits
 
-Backstory:
+`Backstory:`
 
-Sunita, 29, can contribute extra ₹1 lakh either into Voluntary Provident Fund or NPS. She wants to maximise tax deductions and long-term retirement returns.
+`Sunita, 29, can contribute extra ₹1 lakh either into Voluntary Provident Fund or NPS. She wants to maximise tax deductions and long-term retirement returns.`
 
-Goal:
+`Goal:`
 
-Help choose between government-backed retirement schemes for dual tax benefits.
+`Help choose between government-backed retirement schemes for dual tax benefits.`
 
-Prompt:
+`Prompt:`
 
-"You are a retirement savings tax advisor. Compare VPF vs NPS for a 29-year-old contributing ₹1 lakh/year. Include: (1) Total tax deduction under 80C + 80CCD, (2) Return projections, (3) Withdrawal restrictions, (4) Employer matching possibility, (5) Inflation-adjusted corpus at age 60. Provide detailed comparison table + maturity projection chart." Inputs: Annual contribution Current EPF balance Retirement age target
+`"You are a retirement savings tax advisor. Compare VPF vs NPS for a 29-year-old contributing ₹1 lakh/year. Include: (1) Total tax deduction under 80C + 80CCD, (2) Return projections, (3) Withdrawal restrictions, (4) Employer matching possibility, (5) Inflation-adjusted corpus at age 60. Provide detailed comparison table + maturity projection chart." Inputs: Annual contribution Current EPF balance Retirement age target`
 
-Life Insurance Premium vs PPF for 80C Usage
+## Life Insurance Premium vs PPF for 80C Usage
 
-Backstory:
+`Backstory:`
 
-Deepak, 31, has ₹1.2 lakh left in his 80C limit. He’s considering paying for a traditional life insurance plan or investing the same in PPF.
+`Deepak, 31, has ₹1.2 lakh left in his 80C limit. He’s considering paying for a traditional life insurance plan or investing the same in PPF.`
 
-Goal:
+`Goal:`
 
-Compare low-return insurance savings plan vs government-backed PPF.
+`Compare low-return insurance savings plan vs government-backed PPF.`
 
-Prompt:
+`Prompt:`
 
-"You are a 80C utilisation advisor. Compare a traditional life insurance plan vs PPF for a 31-year-old investing ₹1.2 lakh. Include: (1) Guaranteed returns, (2) Tax treatment of maturity, (3) Lock-in, (4) Liquidity options, (5) Net post-tax wealth after 15 years. Present as narrative + table format." Inputs: Premium amount Lock-in years Tax-free maturity eligibility
+`"You are a 80C utilisation advisor. Compare a traditional life insurance plan vs PPF for a 31-year-old investing ₹1.2 lakh. Include: (1) Guaranteed returns, (2) Tax treatment of maturity, (3) Lock-in, (4) Liquidity options, (5) Net post-tax wealth after 15 years. Present as narrative + table format." Inputs: Premium amount Lock-in years Tax-free maturity eligibility`
 
-Gold Jewellery Purchase vs SGB for Tax Implications
+## Gold Jewellery Purchase vs SGB for Tax Implications
 
-Backstory:
+`Backstory:`
 
-Manoj, 40, wants to buy ₹5 lakh worth of gold as a wedding gift for his daughter in 8 years. He’s deciding between buying jewellery now or investing in Sovereign Gold Bonds.
+`Manoj, 40, wants to buy ₹5 lakh worth of gold as a wedding gift for his daughter in 8 years. He’s deciding between buying jewellery now or investing in Sovereign Gold Bonds.`
 
-Goal:
+`Goal:`
 
-Compare capital gains tax and cost efficiency between physical gold and SGBs.
+`Compare capital gains tax and cost efficiency between physical gold and SGBs.`
 
-Prompt:
+`Prompt:`
 
-"You are a gold investment tax planner. Compare buying physical gold jewellery vs Sovereign Gold Bonds for ₹5 lakh over 8 years. Include: (1) Making charges impact, (2) Capital gains tax rules, (3) Interest income on SGBs, (4) Liquidity, (5) Final wealth value after tax. Present in table + gold price growth chart." Inputs: Purchase amount Holding period Current gold price trends
+`"You are a gold investment tax planner. Compare buying physical gold jewellery vs Sovereign Gold Bonds for ₹5 lakh over 8 years. Include: (1) Making charges impact, (2) Capital gains tax rules, (3) Interest income on SGBs, (4) Liquidity, (5) Final wealth value after tax. Present in table + gold price growth chart." Inputs: Purchase amount Holding period Current gold price trends`
 
-Retirement via ELSS + PPF Combo vs Only PPF
+## Retirement via ELSS + PPF Combo vs Only PPF
 
-Backstory:
+`Backstory:`
 
-Shalini, 26, wants to build a ₹1 crore retirement corpus. She’s considering splitting investments between ELSS and PPF vs putting all into PPF for tax benefits.
+`Shalini, 26, wants to build a ₹1 crore retirement corpus. She’s considering splitting investments between ELSS and PPF vs putting all into PPF for tax benefits.`
 
-Goal:
+`Goal:`
 
-Compare hybrid tax-saving investment vs fully safe tax-saving option.
+`Compare hybrid tax-saving investment vs fully safe tax-saving option.`
 
-Prompt:
+`Prompt:`
 
-"You are a hybrid retirement corpus planner. Compare ELSS + PPF combination vs PPF-only strategy for a 26-year-old investing ₹1.5 lakh/year for 25 years. Include: (1) Expected CAGR, (2) Volatility impact, (3) Tax-free maturity value, (4) Inflation-adjusted final corpus, (5) Best-case and worst-case scenarios. Present results in table + growth curve chart." Inputs: Annual investment Asset allocation ratio Expected returns per asset
+`"You are a hybrid retirement corpus planner. Compare ELSS + PPF combination vs PPF-only strategy for a 26-year-old investing ₹1.5 lakh/year for 25 years. Include: (1) Expected CAGR, (2) Volatility impact, (3) Tax-free maturity value, (4) Inflation-adjusted final corpus, (5) Best-case and worst-case scenarios. Present results in table + growth curve chart." Inputs: Annual investment Asset allocation ratio Expected returns per asset`
 
-NSC vs Tax-Saver FDs for Senior Citizens
+## NSC vs Tax-Saver FDs for Senior Citizens
 
-Backstory:
+`Backstory:`
 
-Ravi, 62, retired last year and is in the 10% tax slab. He wants to invest ₹3 lakh in a safe tax-saving option for 5 years — considering National Savings Certificates vs Tax-Saver FDs.
+`Ravi, 62, retired last year and is in the 10% tax slab. He wants to invest ₹3 lakh in a safe tax-saving option for 5 years — considering National Savings Certificates vs Tax-Saver FDs.`
 
-Goal:
+`Goal:`
 
-Help senior citizens compare safe tax-saving fixed income products.
+`Help senior citizens compare safe tax-saving fixed income products.`
 
-Prompt:
+`Prompt:`
 
-"You are a senior citizen investment advisor. Compare NSC vs Tax-Saver FDs for a 62-year-old in the 10% tax slab. Include: (1) Interest rates, (2) Tax on interest, (3) Liquidity, (4) Safety, (5) Final maturity amount after tax. Present in a two-column comparison table + bar graph of maturity values." Inputs: Investment amount Tax slab Interest payout preference
+`"You are a senior citizen investment advisor. Compare NSC vs Tax-Saver FDs for a 62-year-old in the 10% tax slab. Include: (1) Interest rates, (2) Tax on interest, (3) Liquidity, (4) Safety, (5) Final maturity amount after tax. Present in a two-column comparison table + bar graph of maturity values." Inputs: Investment amount Tax slab Interest payout preference`
 
-SIP in ELSS vs Lumpsum in ELSS for Tax Planning
+## SIP in ELSS vs Lumpsum in ELSS for Tax Planning
 
-Backstory:
+`Backstory:`
 
-Akash, 30, wants to invest ₹1.5 lakh into ELSS this year. He’s unsure if he should invest it as a lumpsum in April or spread it monthly as SIP for tax and return optimisation.
+`Akash, 30, wants to invest ₹1.5 lakh into ELSS this year. He’s unsure if he should invest it as a lumpsum in April or spread it monthly as SIP for tax and return optimisation.`
 
-Goal:
+`Goal:`
 
-Compare SIP vs lumpsum investment timing for tax-saving mutual funds.
+`Compare SIP vs lumpsum investment timing for tax-saving mutual funds.`
 
-Prompt:
+`Prompt:`
 
-"You are a mutual fund tax planner. Compare SIP vs lumpsum in ELSS for ₹1.5 lakh investment in FY for a 30-year-old. Include: (1) Impact on returns via market volatility, (2) Tax implications on redemption dates, (3) Lock-in differences, (4) Historical return comparison, (5) Ideal choice for different market scenarios. Present with table + line chart of NAV growth." Inputs: Annual investment amount Market volatility assumptions Redemption strategy
+`"You are a mutual fund tax planner. Compare SIP vs lumpsum in ELSS for ₹1.5 lakh investment in FY for a 30-year-old. Include: (1) Impact on returns via market volatility, (2) Tax implications on redemption dates, (3) Lock-in differences, (4) Historical return comparison, (5) Ideal choice for different market scenarios. Present with table + line chart of NAV growth." Inputs: Annual investment amount Market volatility assumptions Redemption strategy`
 
-Diversifying Tax-Saving Across 3 Instruments
+## Diversifying Tax-Saving Across 3 Instruments
 
-Backstory:
+`Backstory:`
 
-Kavita, 34, wants to invest ₹1.5 lakh for 80C benefits but doesn’t want to put it all in one scheme. She’s considering ELSS, PPF, and Tax-Saver FDs.
+`Kavita, 34, wants to invest ₹1.5 lakh for 80C benefits but doesn’t want to put it all in one scheme. She’s considering ELSS, PPF, and Tax-Saver FDs.`
 
-Goal:
+`Goal:`
 
-Help diversify tax-saving investments for safety and returns.
+`Help diversify tax-saving investments for safety and returns.`
 
-Prompt:
+`Prompt:`
 
-"You are a tax-saving portfolio designer. Create an allocation strategy for ₹1.5 lakh split between ELSS, PPF, and Tax-Saver FDs for a 34-year-old in the 20% tax slab. Include: (1) Allocation rationale, (2) Projected maturity value, (3) Risk profile, (4) Tax-free vs taxable portions, (5) Liquidity profile. Present as table + asset allocation chart." Inputs: Annual investment amount Tax slab Risk tolerance
+`"You are a tax-saving portfolio designer. Create an allocation strategy for ₹1.5 lakh split between ELSS, PPF, and Tax-Saver FDs for a 34-year-old in the 20% tax slab. Include: (1) Allocation rationale, (2) Projected maturity value, (3) Risk profile, (4) Tax-free vs taxable portions, (5) Liquidity profile. Present as table + asset allocation chart." Inputs: Annual investment amount Tax slab Risk tolerance`
 
 
 Passive Income Strategy Outlines
