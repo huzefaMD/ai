@@ -790,173 +790,173 @@
 
 `"You are an investment tax advisor. Compare a ₹10 lakh investment in a small real estate plot vs tax-free bonds (REC/NHAI) for a 33-year-old in the 30% tax slab, over 10 years. Include: (1) Capital appreciation and rental income potential, (2) Interest income and tax treatment, (3) Liquidity, (4) Risk profile, (5) Net post-tax wealth projection. Provide side-by-side tables + appreciation charts." Inputs: Investment amount Holding period Tax slab`
 
-Sukanya Samriddhi Yojana vs PPF for Child’s Education
+## Sukanya Samriddhi Yojana vs PPF for Child’s Education
 
-Backstory:
+`Backstory:`
 
-Priya, 30, recently had a baby girl. She wants to start investing ₹1.5 lakh/year under Section 80C and is considering Sukanya Samriddhi Yojana (SSY) vs PPF. Her focus is on safety, guaranteed returns, and tax-free maturity.
+`Priya, 30, recently had a baby girl. She wants to start investing ₹1.5 lakh/year under Section 80C and is considering Sukanya Samriddhi Yojana (SSY) vs PPF. Her focus is on safety, guaranteed returns, and tax-free maturity.`
 
-Goal:
+`Goal:`
 
-Help parents choose the right safe, tax-efficient investment for their daughter’s education.
+`Help parents choose the right safe, tax-efficient investment for their daughter’s education.`
 
-Prompt:
+`Prompt:`
 
-"You are a child education investment planner. Compare SSY vs PPF for a 30-year-old investing ₹1.5 lakh annually for 15 years. Include: (1) Interest rate trends, (2) Tax treatment, (3) Withdrawal rules, (4) Inflation-adjusted maturity value, (5) Flexibility in deposits. Present a narrative explanation + projection graph." Inputs: Annual contribution Investment duration Inflation rate assumption
+`"You are a child education investment planner. Compare SSY vs PPF for a 30-year-old investing ₹1.5 lakh annually for 15 years. Include: (1) Interest rate trends, (2) Tax treatment, (3) Withdrawal rules, (4) Inflation-adjusted maturity value, (5) Flexibility in deposits. Present a narrative explanation + projection graph." Inputs: Annual contribution Investment duration Inflation rate assumption`
 
-Gold Sovereign Bonds vs Gold ETFs for Tax Efficiency
+## Gold Sovereign Bonds vs Gold ETFs for Tax Efficiency
 
-Backstory:
+`Backstory:`
 
-Ankita, 29, wants to allocate 10% of her portfolio to gold. She is deciding between Sovereign Gold Bonds (SGBs) and Gold ETFs, considering capital gains tax benefits and income generation.
+`Ankita, 29, wants to allocate 10% of her portfolio to gold. She is deciding between Sovereign Gold Bonds (SGBs) and Gold ETFs, considering capital gains tax benefits and income generation.`
 
-Goal:
+`Goal:`
 
-Compare gold investment options for tax efficiency and returns.
+`Compare gold investment options for tax efficiency and returns.`
 
-Prompt:
+`Prompt:`
 
-"You are a precious metals investment analyst. Compare SGBs vs Gold ETFs for a 29-year-old with ₹5 lakh allocation, over an 8-year horizon. Include: (1) Interest income from SGBs, (2) Tax on capital gains for both, (3) Liquidity and market risk, (4) Price tracking vs physical gold, (5) Exit strategy tax implications. Present a comparison matrix + price projection chart." Inputs: Investment amount Holding period Tax slab
+`"You are a precious metals investment analyst. Compare SGBs vs Gold ETFs for a 29-year-old with ₹5 lakh allocation, over an 8-year horizon. Include: (1) Interest income from SGBs, (2) Tax on capital gains for both, (3) Liquidity and market risk, (4) Price tracking vs physical gold, (5) Exit strategy tax implications. Present a comparison matrix + price projection chart." Inputs: Investment amount Holding period Tax slab`
 
-ELSS vs REITs for Diversification & Tax Savings
+## ELSS vs REITs for Diversification & Tax Savings
 
-Backstory:
+`Backstory:`
 
-Vishal, 31, already has equity mutual funds and fixed deposits. He’s considering ELSS for tax savings and REITs for real estate exposure. He wants to see if REITs can also be used tax-efficiently.
+`Vishal, 31, already has equity mutual funds and fixed deposits. He’s considering ELSS for tax savings and REITs for real estate exposure. He wants to see if REITs can also be used tax-efficiently.`
 
-Goal:
+`Goal:`
 
-Explore tax benefits and diversification potential of REITs vs ELSS.
+`Explore tax benefits and diversification potential of REITs vs ELSS.`
 
-Prompt:
+`Prompt:`
 
-"You are a portfolio diversification advisor. Compare ELSS vs REITs for a 31-year-old with ₹2 lakh annual investment. Include: (1) Tax deduction eligibility, (2) Yield and capital gains taxation, (3) Volatility profile, (4) Liquidity, (5) Ideal investor profile. Provide results in a 2-column comparison table + 5-year return simulation." Inputs: Annual investment Current portfolio allocation Tax slab
+`"You are a portfolio diversification advisor. Compare ELSS vs REITs for a 31-year-old with ₹2 lakh annual investment. Include: (1) Tax deduction eligibility, (2) Yield and capital gains taxation, (3) Volatility profile, (4) Liquidity, (5) Ideal investor profile. Provide results in a 2-column comparison table + 5-year return simulation." Inputs: Annual investment Current portfolio allocation Tax slab`
 
-Section 80D Health Insurance Premium vs ELSS for Tax Savings
+## Section 80D Health Insurance Premium vs ELSS for Tax Savings
 
-Backstory:
+`Backstory:`
 
-Rahul, 34, is choosing between paying extra for a higher health insurance premium (to save more under 80D) or investing the same amount in ELSS under 80C. He needs to understand the financial and coverage implications.
+`Rahul, 34, is choosing between paying extra for a higher health insurance premium (to save more under 80D) or investing the same amount in ELSS under 80C. He needs to understand the financial and coverage implications.`
 
-Goal:
+`Goal:`
 
-Compare tax savings from health insurance vs ELSS investment.
+`Compare tax savings from health insurance vs ELSS investment.`
 
-Prompt:
+`Prompt:`
 
-"You are a personal finance strategist. Compare increasing health insurance premium vs investing in ELSS for a 34-year-old in the 20% tax slab. Include: (1) Tax deduction amount, (2) Coverage benefits, (3) Expected ELSS returns, (4) Net post-tax benefit, (5) Risk trade-offs. Present data in table format + decision flowchart." Inputs: Tax slab Extra premium amount ELSS expected returns
+`"You are a personal finance strategist. Compare increasing health insurance premium vs investing in ELSS for a 34-year-old in the 20% tax slab. Include: (1) Tax deduction amount, (2) Coverage benefits, (3) Expected ELSS returns, (4) Net post-tax benefit, (5) Risk trade-offs. Present data in table format + decision flowchart." Inputs: Tax slab Extra premium amount ELSS expected returns`
 
-Tax Saver FDs vs Corporate Bonds under Section 80C
+## Tax Saver FDs vs Corporate Bonds under Section 80C
 
-Backstory:
+`Backstory:`
 
-Meena, 27, is a conservative investor in the 5% tax slab. She’s debating whether to put ₹1 lakh into a 5-year tax saver FD or into a corporate bond eligible under Section 80C.
+`Meena, 27, is a conservative investor in the 5% tax slab. She’s debating whether to put ₹1 lakh into a 5-year tax saver FD or into a corporate bond eligible under Section 80C.`
 
-Goal:
+`Goal:`
 
-Help conservative investors compare fixed-income tax-saving options.
+`Help conservative investors compare fixed-income tax-saving options.`
 
-Prompt:
+`Prompt:`
 
-"You are a fixed-income tax-saving advisor. Compare tax saver FDs vs corporate bonds (80C eligible) for a 27-year-old investing ₹1 lakh for 5 years. Include: (1) Interest rates and payout frequency, (2) Credit risk rating, (3) Tax on interest, (4) Liquidity and safety, (5) Net maturity value after tax. Present as a table + risk-return chart." Inputs: Investment amount Holding period Tax slab
+`"You are a fixed-income tax-saving advisor. Compare tax saver FDs vs corporate bonds (80C eligible) for a 27-year-old investing ₹1 lakh for 5 years. Include: (1) Interest rates and payout frequency, (2) Credit risk rating, (3) Tax on interest, (4) Liquidity and safety, (5) Net maturity value after tax. Present as a table + risk-return chart." Inputs: Investment amount Holding period Tax slab`
 
-PPF vs Voluntary EPF Contributions
+## PPF vs Voluntary EPF Contributions
 
-Backstory:
+`Backstory:`
 
-Arjun, 30, is considering investing extra either into PPF or voluntary EPF contributions. His main concerns are tax benefits, interest rates, and withdrawal flexibility.
+`Arjun, 30, is considering investing extra either into PPF or voluntary EPF contributions. His main concerns are tax benefits, interest rates, and withdrawal flexibility.`
 
-Goal:
+`Goal:`
 
-Compare PPF and VPF for salaried individuals.
+`Compare PPF and VPF for salaried individuals.`
 
-Prompt:
+`Prompt:`
 
-"You are a retirement corpus planner. Compare PPF vs VPF for a 30-year-old contributing ₹10,000/month. Include: (1) Historical interest rates, (2) Withdrawal rules, (3) Taxation, (4) Employer matching for VPF, (5) Inflation-adjusted maturity value. Provide a detailed narrative + projection table." Inputs: Monthly contribution Investment duration Tax slab
+`"You are a retirement corpus planner. Compare PPF vs VPF for a 30-year-old contributing ₹10,000/month. Include: (1) Historical interest rates, (2) Withdrawal rules, (3) Taxation, (4) Employer matching for VPF, (5) Inflation-adjusted maturity value. Provide a detailed narrative + projection table." Inputs: Monthly contribution Investment duration Tax slab`
 
-ELSS vs Direct Equity for Tax Efficiency
+## ELSS vs Direct Equity for Tax Efficiency
 
-Backstory:
+`Backstory:`
 
-Ramesh, 25, loves stock picking but wonders if ELSS might be better purely for tax purposes. He wants a long-term tax and return comparison.
+`Ramesh, 25, loves stock picking but wonders if ELSS might be better purely for tax purposes. He wants a long-term tax and return comparison.`
 
-Goal:
+`Goal:`
 
-Evaluate tax efficiency of ELSS vs direct equity investing.
+`Evaluate tax efficiency of ELSS vs direct equity investing.`
 
-Prompt:
+`Prompt:`
 
-"You are an equity tax comparison expert. Compare ELSS vs direct equity for a 25-year-old investing ₹2 lakh annually for 10 years. Include: (1) Lock-in period benefits, (2) LTCG taxation differences, (3) Potential return scenarios, (4) Risk management differences, (5) After-tax CAGR comparison. Present results in chart + commentary." Inputs: Annual investment Investment horizon Risk tolerance
+`"You are an equity tax comparison expert. Compare ELSS vs direct equity for a 25-year-old investing ₹2 lakh annually for 10 years. Include: (1) Lock-in period benefits, (2) LTCG taxation differences, (3) Potential return scenarios, (4) Risk management differences, (5) After-tax CAGR comparison. Present results in chart + commentary." Inputs: Annual investment Investment horizon Risk tolerance`
 
-NPS Tier II vs ELSS for Medium-term Tax Efficiency
+## NPS Tier II vs ELSS for Medium-term Tax Efficiency
 
-Backstory:
+`Backstory:`
 
-Divya, 32, wants flexibility in withdrawals but also wants to save tax. She’s comparing NPS Tier II and ELSS for a 7-year investment horizon.
+`Divya, 32, wants flexibility in withdrawals but also wants to save tax. She’s comparing NPS Tier II and ELSS for a 7-year investment horizon.`
 
-Goal:
+`Goal:`
 
-Assess tax efficiency and withdrawal flexibility in medium term.
+`Assess tax efficiency and withdrawal flexibility in medium term.`
 
-Prompt:
+`Prompt:`
 
-"You are a tax efficiency analyst. Compare NPS Tier II vs ELSS for a 32-year-old with ₹1 lakh/year investment over 7 years. Include: (1) Taxation at investment and redemption, (2) Withdrawal rules, (3) Projected returns based on asset allocation, (4) Risk profile, (5) Final after-tax wealth. Present results in narrative + side-by-side table." Inputs: Annual investment Investment horizon Asset allocation preference
+`"You are a tax efficiency analyst. Compare NPS Tier II vs ELSS for a 32-year-old with ₹1 lakh/year investment over 7 years. Include: (1) Taxation at investment and redemption, (2) Withdrawal rules, (3) Projected returns based on asset allocation, (4) Risk profile, (5) Final after-tax wealth. Present results in narrative + side-by-side table." Inputs: Annual investment Investment horizon Asset allocation preference`
 
-Hybrid Mutual Funds vs ELSS for Tax Savings
+## Hybrid Mutual Funds vs ELSS for Tax Savings
 
-Backstory:
+`Backstory:`
 
-Ishaan, 29, wants some equity exposure but lower volatility than pure ELSS. He’s considering hybrid equity-oriented mutual funds and ELSS for tax savings.
+`Ishaan, 29, wants some equity exposure but lower volatility than pure ELSS. He’s considering hybrid equity-oriented mutual funds and ELSS for tax savings.`
 
-Goal:
+`Goal:`
 
-Compare hybrid mutual funds vs ELSS for balanced investors.
+`Compare hybrid mutual funds vs ELSS for balanced investors.`
 
-Prompt:
+`Prompt:`
 
-"You are a balanced portfolio advisor. Compare hybrid equity mutual funds vs ELSS for a 29-year-old investing ₹1.5 lakh annually for 10 years. Include: (1) Asset allocation impact, (2) Tax deduction eligibility, (3) Risk-adjusted returns, (4) Lock-in implications, (5) Final maturity value. Present results in table + asset allocation pie charts." Inputs: Annual investment Risk appetite Investment horizon
+`"You are a balanced portfolio advisor. Compare hybrid equity mutual funds vs ELSS for a 29-year-old investing ₹1.5 lakh annually for 10 years. Include: (1) Asset allocation impact, (2) Tax deduction eligibility, (3) Risk-adjusted returns, (4) Lock-in implications, (5) Final maturity value. Present results in table + asset allocation pie charts." Inputs: Annual investment Risk appetite Investment horizon`
 
 NPS vs Tax-Saving FD for Retirement Planning
 
-Backstory:
+`Backstory:`
 
-Rohit, 35, is in the 30% tax slab and can invest ₹2 lakh this year. He’s considering putting ₹50,000 into NPS for the exclusive 80CCD(1B) deduction and the rest into a tax-saving FD. He wants to know which mix optimises tax savings and future returns.
+`Rohit, 35, is in the 30% tax slab and can invest ₹2 lakh this year. He’s considering putting ₹50,000 into NPS for the exclusive 80CCD(1B) deduction and the rest into a tax-saving FD. He wants to know which mix optimises tax savings and future returns.`
 
-Goal:
+`Goal:`
 
-Find the best allocation between NPS and FD for maximum tax efficiency + retirement benefits.
+`Find the best allocation between NPS and FD for maximum tax efficiency + retirement benefits.`
 
-Prompt:
+`Prompt:`
 
-"You are a retirement tax optimiser. Compare investing ₹2 lakh split between NPS (80CCD1B) and 5-year tax-saving FD for a 35-year-old in the 30% tax slab. Include: (1) Total tax saved, (2) Projected maturity corpus, (3) Withdrawal restrictions, (4) Post-tax returns at retirement, (5) Inflation-adjusted value. Give detailed table + bar chart comparison." Inputs: Age Tax slab Amount in each option
+`"You are a retirement tax optimiser. Compare investing ₹2 lakh split between NPS (80CCD1B) and 5-year tax-saving FD for a 35-year-old in the 30% tax slab. Include: (1) Total tax saved, (2) Projected maturity corpus, (3) Withdrawal restrictions, (4) Post-tax returns at retirement, (5) Inflation-adjusted value. Give detailed table + bar chart comparison." Inputs: Age Tax slab Amount in each option`
 
-ULIPs vs ELSS for Long-Term Tax Benefits
+## ULIPs vs ELSS for Long-Term Tax Benefits
 
-Backstory:
+`Backstory:`
 
-Neha, 28, is considering a ₹1.5 lakh/year investment either in ULIPs (Unit Linked Insurance Plans) or ELSS. She wants to compare maturity benefits, tax-free status, and liquidity for a 15-year term.
+`Neha, 28, is considering a ₹1.5 lakh/year investment either in ULIPs (Unit Linked Insurance Plans) or ELSS. She wants to compare maturity benefits, tax-free status, and liquidity for a 15-year term.`
 
-Goal:
+`Goal:`
 
-Compare life-insurance-linked market investment vs mutual fund tax-saving option.
+`Compare life-insurance-linked market investment vs mutual fund tax-saving option.`
 
-Prompt:
+`Prompt:`
 
-"You are an insurance-linked investment analyst. Compare ULIPs vs ELSS for a 28-year-old investing ₹1.5 lakh/year over 15 years. Include: (1) Premium allocation charges, (2) Lock-in differences, (3) Tax-free maturity rules under Section 10(10D), (4) Risk-adjusted return expectations, (5) Final after-tax corpus. Provide side-by-side comparison table + projected value graph." Inputs: Annual investment Term length Expected return assumptions
+`"You are an insurance-linked investment analyst. Compare ULIPs vs ELSS for a 28-year-old investing ₹1.5 lakh/year over 15 years. Include: (1) Premium allocation charges, (2) Lock-in differences, (3) Tax-free maturity rules under Section 10(10D), (4) Risk-adjusted return expectations, (5) Final after-tax corpus. Provide side-by-side comparison table + projected value graph." Inputs: Annual investment Term length Expected return assumptions`
 
-Tax-Saving via Home Loan Principal vs ELSS
+## Tax-Saving via Home Loan Principal vs ELSS
 
-Backstory:
+`Backstory:`
 
-Amit, 32, has a home loan and is eligible for Section 80C deduction through the principal repayment amount. He’s debating whether to prepay more of his loan or invest in ELSS instead.
+`Amit, 32, has a home loan and is eligible for Section 80C deduction through the principal repayment amount. He’s debating whether to prepay more of his loan or invest in ELSS instead.`
 
-Goal:
+`Goal:`
 
-Compare debt repayment tax benefit vs equity market investment.
+`Compare debt repayment tax benefit vs equity market investment.`
 
-Prompt:
+`Prompt:`
 
-"You are a tax benefit strategist. Compare increasing home loan principal repayment vs investing in ELSS for a 32-year-old with ₹1 lakh surplus in a year. Include: (1) Tax saved under 80C, (2) Interest saved from prepayment, (3) Projected ELSS returns, (4) Liquidity trade-offs, (5) Final net worth after 10 years. Present as table + loan amortisation vs equity growth chart." Inputs: Loan interest rate Annual surplus amount Expected ELSS returns
+`"You are a tax benefit strategist. Compare increasing home loan principal repayment vs investing in ELSS for a 32-year-old with ₹1 lakh surplus in a year. Include: (1) Tax saved under 80C, (2) Interest saved from prepayment, (3) Projected ELSS returns, (4) Liquidity trade-offs, (5) Final net worth after 10 years. Present as table + loan amortisation vs equity growth chart." Inputs: Loan interest rate Annual surplus amount Expected ELSS returns`
 
 Voluntary Provident Fund vs NPS for Section 80C & 80CCD Benefits
 
