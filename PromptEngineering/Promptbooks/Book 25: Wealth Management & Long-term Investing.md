@@ -704,91 +704,91 @@
 `"Build a hybrid mutual fund risk assessment tool for a 35-year-old in India. Include: (1) Equity-debt ratio impact on volatility, (2) Historical return stability, (3) Scenario analysis with both equity crash and bond yield spike, (4) Risk scoring based on fund category, (5) Visual portfolio stress test."`
 
 
-Tax-Saving Investment Comparisons
+# Tax-Saving Investment Comparisons
 
-ELSS vs PPF Long-term Returns Comparison
+## ELSS vs PPF Long-term Returns Comparison
 
-Backstory:
+`Backstory:`
 
-Rohan, 28, is a software engineer in Hyderabad with a salary of ₹14 LPA. He wants to save tax under Section 80C but is confused between Equity Linked Savings Schemes (ELSS) and Public Provident Fund (PPF). He knows ELSS has market risk but potentially higher returns, while PPF is safe but low-yield. He needs a data-driven comparison over 15 years to decide.
+`Rohan, 28, is a software engineer in Hyderabad with a salary of ₹14 LPA. He wants to save tax under Section 80C but is confused between Equity Linked Savings Schemes (ELSS) and Public Provident Fund (PPF). He knows ELSS has market risk but potentially higher returns, while PPF is safe but low-yield. He needs a data-driven comparison over 15 years to decide.`
 
-Goal:
+`Goal:`
 
-Help an investor choose between ELSS and PPF based on returns, risk, and liquidity.
+`Help an investor choose between ELSS and PPF based on returns, risk, and liquidity.`
 
-Prompt:
+`Prompt:`
 
-"You are a tax-saving investment analyst. Compare ELSS and PPF for a 28-year-old Indian with ₹1.5 lakh annual investment under Section 80C. Include: (1) Historical return comparison (last 15 years), (2) Risk profile and volatility analysis, (3) Liquidity and lock-in implications, (4) Tax treatment on maturity, (5) 15-year projection assuming reinvestment. Present results in a comparative table + visual charts." Inputs: Annual investment amount Investment horizon in years Risk tolerance
+`"You are a tax-saving investment analyst. Compare ELSS and PPF for a 28-year-old Indian with ₹1.5 lakh annual investment under Section 80C. Include: (1) Historical return comparison (last 15 years), (2) Risk profile and volatility analysis, (3) Liquidity and lock-in implications, (4) Tax treatment on maturity, (5) 15-year projection assuming reinvestment. Present results in a comparative table + visual charts." Inputs: Annual investment amount Investment horizon in years Risk tolerance`
 
-NPS vs PPF for Retirement Tax Benefits
+## NPS vs PPF for Retirement Tax Benefits
 
-Backstory:
+`Backstory:`
 
-Sneha, 30, works in a PSU and contributes to EPF but is exploring additional retirement options. She wants to compare National Pension System (NPS) Tier I and PPF in terms of tax benefits, returns, and withdrawal rules, especially for retirement at 60.
+`Sneha, 30, works in a PSU and contributes to EPF but is exploring additional retirement options. She wants to compare National Pension System (NPS) Tier I and PPF in terms of tax benefits, returns, and withdrawal rules, especially for retirement at 60.`
 
-Goal:
+`Goal:`
 
-Provide a retirement-focused tax-saving comparison between NPS and PPF.
+`Provide a retirement-focused tax-saving comparison between NPS and PPF.`
 
-Prompt:
+`Prompt:`
 
-"You are a retirement investment planner. Compare NPS Tier I vs PPF for a 30-year-old planning to retire at 60. Include: (1) Contribution limits and tax benefits (80C, 80CCD), (2) Projected returns based on historical data, (3) Annuity and withdrawal rules, (4) Lock-in and liquidity, (5) Post-retirement taxation. Provide results in both narrative and chart formats." Inputs: Monthly contribution Expected retirement age Willingness to take equity exposure
+`"You are a retirement investment planner. Compare NPS Tier I vs PPF for a 30-year-old planning to retire at 60. Include: (1) Contribution limits and tax benefits (80C, 80CCD), (2) Projected returns based on historical data, (3) Annuity and withdrawal rules, (4) Lock-in and liquidity, (5) Post-retirement taxation. Provide results in both narrative and chart formats." Inputs: Monthly contribution Expected retirement age Willingness to take equity exposure`
 
-ELSS vs Tax-Saver FDs for Young Investors
+## ELSS vs Tax-Saver FDs for Young Investors
 
-Backstory:
+`Backstory:`
 
-Vikram, 26, has just started his first job. His HR suggested tax-saver fixed deposits, but his friends recommend ELSS. He wants to see how both compare in terms of returns, risk, and post-tax income after 3 years (lock-in period).
+`Vikram, 26, has just started his first job. His HR suggested tax-saver fixed deposits, but his friends recommend ELSS. He wants to see how both compare in terms of returns, risk, and post-tax income after 3 years (lock-in period).`
 
-Goal:
+`Goal:`
 
-Help young investors pick between ELSS and tax-saver FDs.
+`Help young investors pick between ELSS and tax-saver FDs.`
 
-Prompt:
+`Prompt:`
 
-"You are a tax-saving returns analyst. Compare ELSS vs 5-year tax-saver fixed deposits for a 26-year-old investing ₹1 lakh annually. Include: (1) Lock-in period comparison, (2) Average 3-year returns, (3) Post-tax returns for 5%, 20%, and 30% tax slabs, (4) Risk factors, (5) Ideal investor profile for each option. Present a pros-cons table + bar chart." Inputs: Investment amount Tax slab Risk appetite
+`"You are a tax-saving returns analyst. Compare ELSS vs 5-year tax-saver fixed deposits for a 26-year-old investing ₹1 lakh annually. Include: (1) Lock-in period comparison, (2) Average 3-year returns, (3) Post-tax returns for 5%, 20%, and 30% tax slabs, (4) Risk factors, (5) Ideal investor profile for each option. Present a pros-cons table + bar chart." Inputs: Investment amount Tax slab Risk appetite`
 
-ULIP vs ELSS for Long-term Wealth Creation
+## ULIP vs ELSS for Long-term Wealth Creation
 
-Backstory:
+`Backstory:`
 
-Aparna, 32, is considering a Unit Linked Insurance Plan (ULIP) because her insurance agent claims it offers both tax-saving and investment growth. She’s also looking at ELSS funds. She wants to compare costs, returns, and flexibility over 20 years.
+`Aparna, 32, is considering a Unit Linked Insurance Plan (ULIP) because her insurance agent claims it offers both tax-saving and investment growth. She’s also looking at ELSS funds. She wants to compare costs, returns, and flexibility over 20 years.`
 
-Goal:
+`Goal:`
 
-Compare ULIP and ELSS in a long-term tax-saving context.
+`Compare ULIP and ELSS in a long-term tax-saving context.`
 
-Prompt:
+`Prompt:`
 
-"You are a financial product comparison expert. Compare ULIPs vs ELSS for a 32-year-old investing ₹1.5 lakh annually for 20 years. Include: (1) Cost structure (premium allocation charges, fund management fees), (2) Expected returns after charges, (3) Tax treatment under 80C and maturity, (4) Liquidity and surrender charges, (5) Scenario analysis if investment is stopped mid-way. Present a detailed table + 20-year graph." Inputs: Annual investment amount Investment duration Preferred insurance cover amount
+`"You are a financial product comparison expert. Compare ULIPs vs ELSS for a 32-year-old investing ₹1.5 lakh annually for 20 years. Include: (1) Cost structure (premium allocation charges, fund management fees), (2) Expected returns after charges, (3) Tax treatment under 80C and maturity, (4) Liquidity and surrender charges, (5) Scenario analysis if investment is stopped mid-way. Present a detailed table + 20-year graph." Inputs: Annual investment amount Investment duration Preferred insurance cover amount`
 
-EPF vs NPS for Salaried Employees
+## EPF vs NPS for Salaried Employees
 
-Backstory:
+`Backstory:`
 
-Karan, 29, is a private sector employee. He contributes to EPF via his employer but is considering voluntary contributions or switching to NPS for better returns. He needs a side-by-side tax, return, and liquidity comparison.
+`Karan, 29, is a private sector employee. He contributes to EPF via his employer but is considering voluntary contributions or switching to NPS for better returns. He needs a side-by-side tax, return, and liquidity comparison.`
 
-Goal:
+`Goal:`
 
-Guide salaried employees in choosing between EPF and NPS.
+`Guide salaried employees in choosing between EPF and NPS.`
 
-Prompt:
+`Prompt:`
 
-"You are a retirement tax-benefit analyst. Compare EPF vs NPS for a 29-year-old private sector employee with ₹5,000 monthly voluntary contribution. Include: (1) Historical and projected returns, (2) Taxation at contribution and withdrawal, (3) Liquidity rules, (4) Inflation-adjusted projections, (5) Impact of employer contributions. Present data in table and projection chart formats." Inputs: Monthly contribution Employer contribution % Inflation rate assumption
+`"You are a retirement tax-benefit analyst. Compare EPF vs NPS for a 29-year-old private sector employee with ₹5,000 monthly voluntary contribution. Include: (1) Historical and projected returns, (2) Taxation at contribution and withdrawal, (3) Liquidity rules, (4) Inflation-adjusted projections, (5) Impact of employer contributions. Present data in table and projection chart formats." Inputs: Monthly contribution Employer contribution % Inflation rate assumption`
 
-Real Estate Investment vs Tax-Saving Bonds (REC, NHAI)
+## Real Estate Investment vs Tax-Saving Bonds (REC, NHAI)
 
-Backstory:
+`Backstory:`
 
-Manish, 33, earns ₹20 LPA and is in the 30% tax slab. He wants to invest ₹10 lakh either in a small real estate plot (for long-term capital gains) or in tax-free bonds from REC/NHAI. He’s looking for a tax efficiency and returns comparison over 10 years.
+`Manish, 33, earns ₹20 LPA and is in the 30% tax slab. He wants to invest ₹10 lakh either in a small real estate plot (for long-term capital gains) or in tax-free bonds from REC/NHAI. He’s looking for a tax efficiency and returns comparison over 10 years.`
 
-Goal:
+`Goal:`
 
-Evaluate long-term post-tax wealth creation between real estate and tax-free bonds.
+`Evaluate long-term post-tax wealth creation between real estate and tax-free bonds.`
 
-Prompt:
+`Prompt:`
 
-"You are an investment tax advisor. Compare a ₹10 lakh investment in a small real estate plot vs tax-free bonds (REC/NHAI) for a 33-year-old in the 30% tax slab, over 10 years. Include: (1) Capital appreciation and rental income potential, (2) Interest income and tax treatment, (3) Liquidity, (4) Risk profile, (5) Net post-tax wealth projection. Provide side-by-side tables + appreciation charts." Inputs: Investment amount Holding period Tax slab
+`"You are an investment tax advisor. Compare a ₹10 lakh investment in a small real estate plot vs tax-free bonds (REC/NHAI) for a 33-year-old in the 30% tax slab, over 10 years. Include: (1) Capital appreciation and rental income potential, (2) Interest income and tax treatment, (3) Liquidity, (4) Risk profile, (5) Net post-tax wealth projection. Provide side-by-side tables + appreciation charts." Inputs: Investment amount Holding period Tax slab`
 
 Sukanya Samriddhi Yojana vs PPF for Child’s Education
 
